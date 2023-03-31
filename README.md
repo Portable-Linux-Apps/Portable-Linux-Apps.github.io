@@ -1,4 +1,4 @@
-# Portable-Linux-Apps.github.io
+# Portable Linux Apps
 
 Database of all AppImage packages and other portable applications for GNU/Linux.
 
