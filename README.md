@@ -6,7 +6,7 @@ Database of all AppImage packages and other portable applications for GNU/Linux.
 
 ## List of portable applications and AppImage packages (by architecture)
 
-The following lists represent all applications currently managed by the "AM" project (see "AM Application Manager" on github):
+The following lists represent all applications currently managed by the "AM" project (see "[AM Application Manager](https://github.com/ivan-hc/AM-Application-Manager)" on github):
 - [aarch64](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/aarch64-apps)
 - [i686](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/i686-apps)
 - [x86_64](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64-apps)
