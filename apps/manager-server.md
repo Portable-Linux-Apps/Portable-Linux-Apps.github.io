@@ -1,0 +1,6 @@
+ 
+ Free Accounting Software for Linux (Server).
+ 
+ SITE: https://www.manager.io
+
+ SOURCE: https://github.com/Manager-io/Manager.AppImage

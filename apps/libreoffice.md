@@ -1,0 +1,8 @@
+
+ Libreoffice - free and open source Office suite.
+ 
+ This is a transitional script that hels you in choosing a version.
+ 
+ SITE: https://www.libreoffice.org
+
+ SOURCE: https://www.libreoffice.org/download/appimage
