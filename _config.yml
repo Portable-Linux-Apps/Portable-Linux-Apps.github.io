@@ -14,7 +14,7 @@ github:
   source:
     branch: "master"
     path: "/"
-  repository_url: "https://github.com/pages-themes/primer"
+  repository_url: "https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io"
   
 title: PORTABLE LINUX APPS
 description: The database of all AppImage packages and portable applications for GNU/Linux.
