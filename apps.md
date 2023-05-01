@@ -1,7 +1,7 @@
 
 | [0ad](apps/0ad.md) |
 | ----- |
-| [<img src=icons/0ad.png height=100>](apps/0ad.md)  |
+| [<img src=https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.play0ad.zeroad.png height=100>](apps/0ad.md)  |
 
 | [432hz-player](apps/432hz-player.md) |
 | ----- |
