@@ -1,9 +1,6 @@
 #### Welcome to the database of all AppImage packages and portable applications for GNU/Linux.
 -------
-# *GO TO THE APPLICATION'S LIST*
-| [**click here for more**](apps.md) |
-| ----- |
-
+# [*GO TO THE APPLICATION'S LIST*](apps.md)
 --------
 
 - [What are the portable linux apps?](#what-are-the-portable-linux-apps)
@@ -28,7 +25,7 @@ Yes, I've called it "AM" (Application Manager), the following lists represent al
 - [x86_64](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64-apps)
 
 ### How it works?
-"[AM](https://github.com/ivan-hc/AM-Application-Manager)" is a tool wrote in bash, it downloads the desired application and creates launchers and symlinks to made them usable normally, easilly, the way you expect from a package manager like APT, PacMan or DNF, and sometime it can build on the fly appimage packages in a way similar to an AUR helper. To see all the installation scripts, visit [https://github.com/ivan-hc/AM-Application-Manager/tree/main/programs](https://github.com/ivan-hc/AM-Application-Manager/tree/main/programs)
+"[AM](https://github.com/ivan-hc/AM-Application-Manager)" is a tool wrote in bash, it downloads the desired application and creates launchers and symlinks to made them usable normally, easilly, the way you expect from a package manager like APT, PacMan or DNF, and in some rare cases it can build on-the-fly AppImage packages in a way similar to an AUR helper. To see all the installation scripts, visit [https://github.com/ivan-hc/AM-Application-Manager/tree/main/programs](https://github.com/ivan-hc/AM-Application-Manager/tree/main/programs)
 
 ### Is there a version of "AM" that does not require root privileges?
 Yes, it is named "[AppMan](https://github.com/ivan-hc/AppMan)", it allows you to choose where to install your applications into your `$HOME` directory.
