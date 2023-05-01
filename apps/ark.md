@@ -6,4 +6,5 @@
  This tool is part of the KDE Utils Suite.
  
  SITE: https://apps.kde.org
+
  SOURCE: https://packages.debian.org/stable/kdeutils

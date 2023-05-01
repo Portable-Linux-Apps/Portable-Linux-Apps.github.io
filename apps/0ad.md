@@ -8,4 +8,5 @@
  This is the AppImage built from source.
  
  SITE: https://play0ad.com
+
  SOURCE: https://github.com/0ad-matters/0ad-appimage
