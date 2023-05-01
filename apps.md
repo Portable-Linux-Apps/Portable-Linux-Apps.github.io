@@ -1,11 +1,12 @@
 
 | [0ad](apps/0ad.md) |
 | ----- |
-| [<img src=icons/0ad.png height=100>](apps/0ad.md)  |
+| [![0ad](https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.play0ad.zeroad.png)](apps/0ad.md)  |
 
 | [432hz-player](apps/432hz-player.md) |
 | ----- |
 | [<img src=icons/432hz-player.png height=100>](apps/432hz-player.md)  |
+
 
 | [86box](apps/86box.md) |
 | ----- |
