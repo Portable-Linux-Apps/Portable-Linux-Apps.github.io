@@ -1,0 +1,6 @@
+
+ Photopea- Advanced Photo Editor for professional use.
+ 
+ SITE: https://www.photopea.com
+
+ SOURCE: https://github.com/spooknik/Photopea-Appimage
