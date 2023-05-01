@@ -7,5 +7,7 @@
  Browser, Microsoft Edge, Vivaldi Web Browser, Electron and many more.
  
  SITE: https://www.chromium.org
+ 
  SOURCE (amd64): https://ppa.launchpadcontent.net/savoury1/chromium
+ 
  SOURCE (i386): https://packages.ubuntu.com/bionic-updates/web/chromium-browser
