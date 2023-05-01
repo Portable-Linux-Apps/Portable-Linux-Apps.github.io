@@ -1,0 +1,9 @@
+
+ Firefox is a powerful, extensible web browser with support 
+ for modern web application technologies. 
+ This is the Firefox Beta, the next Stable release.
+ 
+ This is the official build with automatic updates. 
+ 
+ SITE &
+ SOURCE: https://www.mozilla.org/firefox
