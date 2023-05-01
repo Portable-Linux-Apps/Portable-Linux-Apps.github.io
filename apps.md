@@ -1,6077 +1,6076 @@
 
 | [0ad](apps/0ad.md) |
 | ----- |
-| [![0ad](https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.play0ad.zeroad.png)](apps/0ad.md)  |
+| [![0ad](https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.play0ad.zeroad.png)](apps/0ad.html)  |
 
 | [432hz-player](apps/432hz-player.md) |
 | ----- |
-| [<img src=icons/432hz-player.png height=100>](apps/432hz-player.md)  |
-
+| [![432hz-player](ENTER)](apps/432hz-player.html)  |
 
 | [86box](apps/86box.md) |
 | ----- |
-| [<img src=icons/86box.png height=100>](apps/86box.md)  |
+| [![86box](ENTER)](apps/86box.html)  |
 
 | [aaaaxy](apps/aaaaxy.md) |
 | ----- |
-| [<img src=icons/aaaaxy.png height=100>](apps/aaaaxy.md)  |
+| [![aaaaxy](ENTER)](apps/aaaaxy.html)  |
 
 | [accessimap-lecteur-der](apps/accessimap-lecteur-der.md) |
 | ----- |
-| [<img src=icons/accessimap-lecteur-der.png height=100>](apps/accessimap-lecteur-der.md)  |
+| [![accessimap-lecteur-der](ENTER)](apps/accessimap-lecteur-der.html)  |
 
 | [acreom](apps/acreom.md) |
 | ----- |
-| [<img src=icons/acreom.png height=100>](apps/acreom.md)  |
+| [![acreom](ENTER)](apps/acreom.html)  |
 
 | [actual-appimage](apps/actual-appimage.md) |
 | ----- |
-| [<img src=icons/actual-appimage.png height=100>](apps/actual-appimage.md)  |
+| [![actual-appimage](ENTER)](apps/actual-appimage.html)  |
 
 | [adb](apps/adb.md) |
 | ----- |
-| [<img src=icons/adb.png height=100>](apps/adb.md)  |
+| [![adb](ENTER)](apps/adb.html)  |
 
 | [admin-tools](apps/admin-tools.md) |
 | ----- |
-| [<img src=icons/admin-tools.png height=100>](apps/admin-tools.md)  |
+| [![admin-tools](ENTER)](apps/admin-tools.html)  |
 
 | [advanced-rest-client](apps/advanced-rest-client.md) |
 | ----- |
-| [<img src=icons/advanced-rest-client.png height=100>](apps/advanced-rest-client.md)  |
+| [![advanced-rest-client](ENTER)](apps/advanced-rest-client.html)  |
 
 | [ai-bot-workspace](apps/ai-bot-workspace.md) |
 | ----- |
-| [<img src=icons/ai-bot-workspace.png height=100>](apps/ai-bot-workspace.md)  |
+| [![ai-bot-workspace](ENTER)](apps/ai-bot-workspace.html)  |
 
 | [aih2am](apps/aih2am.md) |
 | ----- |
-| [<img src=icons/aih2am.png height=100>](apps/aih2am.md)  |
+| [![aih2am](ENTER)](apps/aih2am.html)  |
 
 | [aillio-ts](apps/aillio-ts.md) |
 | ----- |
-| [<img src=icons/aillio-ts.png height=100>](apps/aillio-ts.md)  |
+| [![aillio-ts](ENTER)](apps/aillio-ts.html)  |
 
 | [airspaces](apps/airspaces.md) |
 | ----- |
-| [<img src=icons/airspaces.png height=100>](apps/airspaces.md)  |
+| [![airspaces](ENTER)](apps/airspaces.html)  |
 
 | [aisap](apps/aisap.md) |
 | ----- |
-| [<img src=icons/aisap.png height=100>](apps/aisap.md)  |
+| [![aisap](ENTER)](apps/aisap.html)  |
 
 | [akasha](apps/akasha.md) |
 | ----- |
-| [<img src=icons/akasha.png height=100>](apps/akasha.md)  |
+| [![akasha](ENTER)](apps/akasha.html)  |
 
 | [alduin](apps/alduin.md) |
 | ----- |
-| [<img src=icons/alduin.png height=100>](apps/alduin.md)  |
+| [![alduin](ENTER)](apps/alduin.html)  |
 
 | [allusion](apps/allusion.md) |
 | ----- |
-| [<img src=icons/allusion.png height=100>](apps/allusion.md)  |
+| [![allusion](ENTER)](apps/allusion.html)  |
 
 | [altair](apps/altair.md) |
 | ----- |
-| [<img src=icons/altair.png height=100>](apps/altair.md)  |
+| [![altair](ENTER)](apps/altair.html)  |
 
 | [altitude](apps/altitude.md) |
 | ----- |
-| [<img src=icons/altitude.png height=100>](apps/altitude.md)  |
+| [![altitude](ENTER)](apps/altitude.html)  |
 
 | [altus](apps/altus.md) |
 | ----- |
-| [<img src=icons/altus.png height=100>](apps/altus.md)  |
+| [![altus](ENTER)](apps/altus.html)  |
 
 | [alva-appimage](apps/alva-appimage.md) |
 | ----- |
-| [<img src=icons/alva-appimage.png height=100>](apps/alva-appimage.md)  |
+| [![alva-appimage](ENTER)](apps/alva-appimage.html)  |
 
 | [alvr-appimage](apps/alvr-appimage.md) |
 | ----- |
-| [<img src=icons/alvr-appimage.png height=100>](apps/alvr-appimage.md)  |
+| [![alvr-appimage](ENTER)](apps/alvr-appimage.html)  |
 
 | [am](apps/am.md) |
 | ----- |
-| [<img src=icons/am.png height=100>](apps/am.md)  |
+| [![am](ENTER)](apps/am.html)  |
 
 | [amazingmarvin-appimage](apps/amazingmarvin-appimage.md) |
 | ----- |
-| [<img src=icons/amazingmarvin-appimage.png height=100>](apps/amazingmarvin-appimage.md)  |
+| [![amazingmarvin-appimage](ENTER)](apps/amazingmarvin-appimage.html)  |
 
 | [amusiz](apps/amusiz.md) |
 | ----- |
-| [<img src=icons/amusiz.png height=100>](apps/amusiz.md)  |
+| [![amusiz](ENTER)](apps/amusiz.html)  |
 
 | [anavis](apps/anavis.md) |
 | ----- |
-| [<img src=icons/anavis.png height=100>](apps/anavis.md)  |
+| [![anavis](ENTER)](apps/anavis.html)  |
 
 | [anchor](apps/anchor.md) |
 | ----- |
-| [<img src=icons/anchor.png height=100>](apps/anchor.md)  |
+| [![anchor](ENTER)](apps/anchor.html)  |
 
 | [android-messages-desktop](apps/android-messages-desktop.md) |
 | ----- |
-| [<img src=icons/android-messages-desktop.png height=100>](apps/android-messages-desktop.md)  |
+| [![android-messages-desktop](ENTER)](apps/android-messages-desktop.html)  |
 
 | [animashooter-junior](apps/animashooter-junior.md) |
 | ----- |
-| [<img src=icons/animashooter-junior.png height=100>](apps/animashooter-junior.md)  |
+| [![animashooter-junior](ENTER)](apps/animashooter-junior.html)  |
 
 | [animashooter-pioneer](apps/animashooter-pioneer.md) |
 | ----- |
-| [<img src=icons/animashooter-pioneer.png height=100>](apps/animashooter-pioneer.md)  |
+| [![animashooter-pioneer](ENTER)](apps/animashooter-pioneer.html)  |
 
 | [another-redis-desktop-manager](apps/another-redis-desktop-manager.md) |
 | ----- |
-| [<img src=icons/another-redis-desktop-manager.png height=100>](apps/another-redis-desktop-manager.md)  |
+| [![another-redis-desktop-manager](ENTER)](apps/another-redis-desktop-manager.html)  |
 
 | [antares](apps/antares.md) |
 | ----- |
-| [<img src=icons/antares.png height=100>](apps/antares.md)  |
+| [![antares](ENTER)](apps/antares.html)  |
 
 | [ant-downloader](apps/ant-downloader.md) |
 | ----- |
-| [<img src=icons/ant-downloader.png height=100>](apps/ant-downloader.md)  |
+| [![ant-downloader](ENTER)](apps/ant-downloader.html)  |
 
 | [antimicrox](apps/antimicrox.md) |
 | ----- |
-| [<img src=icons/antimicrox.png height=100>](apps/antimicrox.md)  |
+| [![antimicrox](ENTER)](apps/antimicrox.html)  |
 
 | [anydesk](apps/anydesk.md) |
 | ----- |
-| [<img src=icons/anydesk.png height=100>](apps/anydesk.md)  |
+| [![anydesk](ENTER)](apps/anydesk.html)  |
 
 | [anzeigenchef](apps/anzeigenchef.md) |
 | ----- |
-| [<img src=icons/anzeigenchef.png height=100>](apps/anzeigenchef.md)  |
+| [![anzeigenchef](ENTER)](apps/anzeigenchef.html)  |
 
 | [ao](apps/ao.md) |
 | ----- |
-| [<img src=icons/ao.png height=100>](apps/ao.md)  |
+| [![ao](ENTER)](apps/ao.html)  |
 
 | [aphelion-wallet](apps/aphelion-wallet.md) |
 | ----- |
-| [<img src=icons/aphelion-wallet.png height=100>](apps/aphelion-wallet.md)  |
+| [![aphelion-wallet](ENTER)](apps/aphelion-wallet.html)  |
 
 | [aphototoollibre](apps/aphototoollibre.md) |
 | ----- |
-| [<img src=icons/aphototoollibre.png height=100>](apps/aphototoollibre.md)  |
+| [![aphototoollibre](ENTER)](apps/aphototoollibre.html)  |
 
 | [apk-editor-studio](apps/apk-editor-studio.md) |
 | ----- |
-| [<img src=icons/apk-editor-studio.png height=100>](apps/apk-editor-studio.md)  |
+| [![apk-editor-studio](ENTER)](apps/apk-editor-studio.html)  |
 
 | [apla](apps/apla.md) |
 | ----- |
-| [<img src=icons/apla.png height=100>](apps/apla.md)  |
+| [![apla](ENTER)](apps/apla.html)  |
 
 | [appimage-builder](apps/appimage-builder.md) |
 | ----- |
-| [<img src=icons/appimage-builder.png height=100>](apps/appimage-builder.md)  |
+| [![appimage-builder](ENTER)](apps/appimage-builder.html)  |
 
 | [appimagedl](apps/appimagedl.md) |
 | ----- |
-| [<img src=icons/appimagedl.png height=100>](apps/appimagedl.md)  |
+| [![appimagedl](ENTER)](apps/appimagedl.html)  |
 
 | [appimagehelper](apps/appimagehelper.md) |
 | ----- |
-| [<img src=icons/appimagehelper.png height=100>](apps/appimagehelper.md)  |
+| [![appimagehelper](ENTER)](apps/appimagehelper.html)  |
 
 | [appimagekit](apps/appimagekit.md) |
 | ----- |
-| [<img src=icons/appimagekit.png height=100>](apps/appimagekit.md)  |
+| [![appimagekit](ENTER)](apps/appimagekit.html)  |
 
 | [appimagelauncher](apps/appimagelauncher.md) |
 | ----- |
-| [<img src=icons/appimagelauncher.png height=100>](apps/appimagelauncher.md)  |
+| [![appimagelauncher](ENTER)](apps/appimagelauncher.html)  |
 
 | [appimagelint](apps/appimagelint.md) |
 | ----- |
-| [<img src=icons/appimagelint.png height=100>](apps/appimagelint.md)  |
+| [![appimagelint](ENTER)](apps/appimagelint.html)  |
 
 | [appimagepool](apps/appimagepool.md) |
 | ----- |
-| [<img src=icons/appimagepool.png height=100>](apps/appimagepool.md)  |
+| [![appimagepool](ENTER)](apps/appimagepool.html)  |
 
 | [appimagetool](apps/appimagetool.md) |
 | ----- |
-| [<img src=icons/appimagetool.png height=100>](apps/appimagetool.md)  |
+| [![appimagetool](ENTER)](apps/appimagetool.html)  |
 
 | [appimageupdatetool](apps/appimageupdatetool.md) |
 | ----- |
-| [<img src=icons/appimageupdatetool.png height=100>](apps/appimageupdatetool.md)  |
+| [![appimageupdatetool](ENTER)](apps/appimageupdatetool.html)  |
 
 | [appimageupdate](apps/appimageupdate.md) |
 | ----- |
-| [<img src=icons/appimageupdate.png height=100>](apps/appimageupdate.md)  |
+| [![appimageupdate](ENTER)](apps/appimageupdate.html)  |
 
 | [appium-desktop](apps/appium-desktop.md) |
 | ----- |
-| [<img src=icons/appium-desktop.png height=100>](apps/appium-desktop.md)  |
+| [![appium-desktop](ENTER)](apps/appium-desktop.html)  |
 
 | [appman](apps/appman.md) |
 | ----- |
-| [<img src=icons/appman.png height=100>](apps/appman.md)  |
+| [![appman](ENTER)](apps/appman.html)  |
 
 | [app-outlet](apps/app-outlet.md) |
 | ----- |
-| [<img src=icons/app-outlet.png height=100>](apps/app-outlet.md)  |
+| [![app-outlet](ENTER)](apps/app-outlet.html)  |
 
 | [aptakube-appimage](apps/aptakube-appimage.md) |
 | ----- |
-| [<img src=icons/aptakube-appimage.png height=100>](apps/aptakube-appimage.md)  |
+| [![aptakube-appimage](ENTER)](apps/aptakube-appimage.html)  |
 
 | [apx-gcs](apps/apx-gcs.md) |
 | ----- |
-| [<img src=icons/apx-gcs.png height=100>](apps/apx-gcs.md)  |
+| [![apx-gcs](ENTER)](apps/apx-gcs.html)  |
 
 | [aranym](apps/aranym.md) |
 | ----- |
-| [<img src=icons/aranym.png height=100>](apps/aranym.md)  |
+| [![aranym](ENTER)](apps/aranym.html)  |
 
 | [arcade-manager](apps/arcade-manager.md) |
 | ----- |
-| [<img src=icons/arcade-manager.png height=100>](apps/arcade-manager.md)  |
+| [![arcade-manager](ENTER)](apps/arcade-manager.html)  |
 
 | [arch-deployer](apps/arch-deployer.md) |
 | ----- |
-| [<img src=icons/arch-deployer.png height=100>](apps/arch-deployer.md)  |
+| [![arch-deployer](ENTER)](apps/arch-deployer.html)  |
 
 | [archipelago](apps/archipelago.md) |
 | ----- |
-| [<img src=icons/archipelago.png height=100>](apps/archipelago.md)  |
+| [![archipelago](ENTER)](apps/archipelago.html)  |
 
 | [archipel](apps/archipel.md) |
 | ----- |
-| [<img src=icons/archipel.png height=100>](apps/archipel.md)  |
+| [![archipel](ENTER)](apps/archipel.html)  |
 
 | [arduino-ide](apps/arduino-ide.md) |
 | ----- |
-| [<img src=icons/arduino-ide.png height=100>](apps/arduino-ide.md)  |
+| [![arduino-ide](ENTER)](apps/arduino-ide.html)  |
 
 | [arena-tracker](apps/arena-tracker.md) |
 | ----- |
-| [<img src=icons/arena-tracker.png height=100>](apps/arena-tracker.md)  |
+| [![arena-tracker](ENTER)](apps/arena-tracker.html)  |
 
 | [ark](apps/ark.md) |
 | ----- |
-| [<img src=icons/ark.png height=100>](apps/ark.md)  |
+| [![ark](ENTER)](apps/ark.html)  |
 
 | [ark.desktop.wallet](apps/ark.desktop.wallet.md) |
 | ----- |
-| [<img src=icons/ark.desktop.wallet.png height=100>](apps/ark.desktop.wallet.md)  |
+| [![ark.desktop.wallet](ENTER)](apps/ark.desktop.wallet.html)  |
 
 | [arma3-unix-launcher](apps/arma3-unix-launcher.md) |
 | ----- |
-| [<img src=icons/arma3-unix-launcher.png height=100>](apps/arma3-unix-launcher.md)  |
+| [![arma3-unix-launcher](ENTER)](apps/arma3-unix-launcher.html)  |
 
 | [armagetronad](apps/armagetronad.md) |
 | ----- |
-| [<img src=icons/armagetronad.png height=100>](apps/armagetronad.md)  |
+| [![armagetronad](ENTER)](apps/armagetronad.html)  |
 
 | [around](apps/around.md) |
 | ----- |
-| [<img src=icons/around.png height=100>](apps/around.md)  |
+| [![around](ENTER)](apps/around.html)  |
 
 | [artifact](apps/artifact.md) |
 | ----- |
-| [<img src=icons/artifact.png height=100>](apps/artifact.md)  |
+| [![artifact](ENTER)](apps/artifact.html)  |
 
 | [artisan](apps/artisan.md) |
 | ----- |
-| [<img src=icons/artisan.png height=100>](apps/artisan.md)  |
+| [![artisan](ENTER)](apps/artisan.html)  |
 
 | [asarui](apps/asarui.md) |
 | ----- |
-| [<img src=icons/asarui.png height=100>](apps/asarui.md)  |
+| [![asarui](ENTER)](apps/asarui.html)  |
 
 | [asgardex-appimage](apps/asgardex-appimage.md) |
 | ----- |
-| [<img src=icons/asgardex-appimage.png height=100>](apps/asgardex-appimage.md)  |
+| [![asgardex-appimage](ENTER)](apps/asgardex-appimage.html)  |
 
 | [assaultcube](apps/assaultcube.md) |
 | ----- |
-| [<img src=icons/assaultcube.png height=100>](apps/assaultcube.md)  |
+| [![assaultcube](ENTER)](apps/assaultcube.html)  |
 
 | [astroffers](apps/astroffers.md) |
 | ----- |
-| [<img src=icons/astroffers.png height=100>](apps/astroffers.md)  |
+| [![astroffers](ENTER)](apps/astroffers.html)  |
 
 | [astrofox](apps/astrofox.md) |
 | ----- |
-| [<img src=icons/astrofox.png height=100>](apps/astrofox.md)  |
+| [![astrofox](ENTER)](apps/astrofox.html)  |
 
 | [astroshutter](apps/astroshutter.md) |
 | ----- |
-| [<img src=icons/astroshutter.png height=100>](apps/astroshutter.md)  |
+| [![astroshutter](ENTER)](apps/astroshutter.html)  |
 
 | [asunder](apps/asunder.md) |
 | ----- |
-| [<img src=icons/asunder.png height=100>](apps/asunder.md)  |
+| [![asunder](ENTER)](apps/asunder.html)  |
 
 | [atomicwallet](apps/atomicwallet.md) |
 | ----- |
-| [<img src=icons/atomicwallet.png height=100>](apps/atomicwallet.md)  |
+| [![atomicwallet](ENTER)](apps/atomicwallet.html)  |
 
 | [atsdb](apps/atsdb.md) |
 | ----- |
-| [<img src=icons/atsdb.png height=100>](apps/atsdb.md)  |
+| [![atsdb](ENTER)](apps/atsdb.html)  |
 
 | [audacious](apps/audacious.md) |
 | ----- |
-| [<img src=icons/audacious.png height=100>](apps/audacious.md)  |
+| [![audacious](ENTER)](apps/audacious.html)  |
 
 | [audacity](apps/audacity.md) |
 | ----- |
-| [<img src=icons/audacity.png height=100>](apps/audacity.md)  |
+| [![audacity](ENTER)](apps/audacity.html)  |
 
 | [audiomoth](apps/audiomoth.md) |
 | ----- |
-| [<img src=icons/audiomoth.png height=100>](apps/audiomoth.md)  |
+| [![audiomoth](ENTER)](apps/audiomoth.html)  |
 
 | [audmonkey](apps/audmonkey.md) |
 | ----- |
-| [<img src=icons/audmonkey.png height=100>](apps/audmonkey.md)  |
+| [![audmonkey](ENTER)](apps/audmonkey.html)  |
 
 | [augur](apps/augur.md) |
 | ----- |
-| [<img src=icons/augur.png height=100>](apps/augur.md)  |
+| [![augur](ENTER)](apps/augur.html)  |
 
 | [auryo](apps/auryo.md) |
 | ----- |
-| [<img src=icons/auryo.png height=100>](apps/auryo.md)  |
+| [![auryo](ENTER)](apps/auryo.html)  |
 
 | [autoedit2](apps/autoedit2.md) |
 | ----- |
-| [<img src=icons/autoedit2.png height=100>](apps/autoedit2.md)  |
+| [![autoedit2](ENTER)](apps/autoedit2.html)  |
 
 | [avidemux](apps/avidemux.md) |
 | ----- |
-| [<img src=icons/avidemux.png height=100>](apps/avidemux.md)  |
+| [![avidemux](ENTER)](apps/avidemux.html)  |
 
 | [avocado](apps/avocado.md) |
 | ----- |
-| [<img src=icons/avocado.png height=100>](apps/avocado.md)  |
+| [![avocado](ENTER)](apps/avocado.html)  |
 
 | [axe-electrum](apps/axe-electrum.md) |
 | ----- |
-| [<img src=icons/axe-electrum.png height=100>](apps/axe-electrum.md)  |
+| [![axe-electrum](ENTER)](apps/axe-electrum.html)  |
 
 | [azpainter](apps/azpainter.md) |
 | ----- |
-| [<img src=icons/azpainter.png height=100>](apps/azpainter.md)  |
+| [![azpainter](ENTER)](apps/azpainter.html)  |
 
 | [baijimangaviewer](apps/baijimangaviewer.md) |
 | ----- |
-| [<img src=icons/baijimangaviewer.png height=100>](apps/baijimangaviewer.md)  |
+| [![baijimangaviewer](ENTER)](apps/baijimangaviewer.html)  |
 
 | [bauh](apps/bauh.md) |
 | ----- |
-| [<img src=icons/bauh.png height=100>](apps/bauh.md)  |
+| [![bauh](ENTER)](apps/bauh.html)  |
 
 | [bazecor](apps/bazecor.md) |
 | ----- |
-| [<img src=icons/bazecor.png height=100>](apps/bazecor.md)  |
+| [![bazecor](ENTER)](apps/bazecor.html)  |
 
 | [bdash](apps/bdash.md) |
 | ----- |
-| [<img src=icons/bdash.png height=100>](apps/bdash.md)  |
+| [![bdash](ENTER)](apps/bdash.html)  |
 
 | [beatconnect-client](apps/beatconnect-client.md) |
 | ----- |
-| [<img src=icons/beatconnect-client.png height=100>](apps/beatconnect-client.md)  |
+| [![beatconnect-client](ENTER)](apps/beatconnect-client.html)  |
 
 | [beekeeper-studio](apps/beekeeper-studio.md) |
 | ----- |
-| [<img src=icons/beekeeper-studio.png height=100>](apps/beekeeper-studio.md)  |
+| [![beekeeper-studio](ENTER)](apps/beekeeper-studio.html)  |
 
 | [bench-cli](apps/bench-cli.md) |
 | ----- |
-| [<img src=icons/bench-cli.png height=100>](apps/bench-cli.md)  |
+| [![bench-cli](ENTER)](apps/bench-cli.html)  |
 
 | [bettercrewlink](apps/bettercrewlink.md) |
 | ----- |
-| [<img src=icons/bettercrewlink.png height=100>](apps/bettercrewlink.md)  |
+| [![bettercrewlink](ENTER)](apps/bettercrewlink.html)  |
 
 | [bettersis](apps/bettersis.md) |
 | ----- |
-| [<img src=icons/bettersis.png height=100>](apps/bettersis.md)  |
+| [![bettersis](ENTER)](apps/bettersis.html)  |
 
 | [beyond-all-reason](apps/beyond-all-reason.md) |
 | ----- |
-| [<img src=icons/beyond-all-reason.png height=100>](apps/beyond-all-reason.md)  |
+| [![beyond-all-reason](ENTER)](apps/beyond-all-reason.html)  |
 
 | [bezique](apps/bezique.md) |
 | ----- |
-| [<img src=icons/bezique.png height=100>](apps/bezique.md)  |
+| [![bezique](ENTER)](apps/bezique.html)  |
 
 | [bforartists](apps/bforartists.md) |
 | ----- |
-| [<img src=icons/bforartists.png height=100>](apps/bforartists.md)  |
+| [![bforartists](ENTER)](apps/bforartists.html)  |
 
 | [bilibilivideodownload](apps/bilibilivideodownload.md) |
 | ----- |
-| [<img src=icons/bilibilivideodownload.png height=100>](apps/bilibilivideodownload.md)  |
+| [![bilibilivideodownload](ENTER)](apps/bilibilivideodownload.html)  |
 
 | [biliup-app-appimage](apps/biliup-app-appimage.md) |
 | ----- |
-| [<img src=icons/biliup-app-appimage.png height=100>](apps/biliup-app-appimage.md)  |
+| [![biliup-app-appimage](ENTER)](apps/biliup-app-appimage.html)  |
 
 | [billard-gl](apps/billard-gl.md) |
 | ----- |
-| [<img src=icons/billard-gl.png height=100>](apps/billard-gl.md)  |
+| [![billard-gl](ENTER)](apps/billard-gl.html)  |
 
 | [bioanimation](apps/bioanimation.md) |
 | ----- |
-| [<img src=icons/bioanimation.png height=100>](apps/bioanimation.md)  |
+| [![bioanimation](ENTER)](apps/bioanimation.html)  |
 
 | [birds-kitchen](apps/birds-kitchen.md) |
 | ----- |
-| [<img src=icons/birds-kitchen.png height=100>](apps/birds-kitchen.md)  |
+| [![birds-kitchen](ENTER)](apps/birds-kitchen.html)  |
 
 | [bitbox-wallet-app-appimage](apps/bitbox-wallet-app-appimage.md) |
 | ----- |
-| [<img src=icons/bitbox-wallet-app-appimage.png height=100>](apps/bitbox-wallet-app-appimage.md)  |
+| [![bitbox-wallet-app-appimage](ENTER)](apps/bitbox-wallet-app-appimage.html)  |
 
 | [bitfighter](apps/bitfighter.md) |
 | ----- |
-| [<img src=icons/bitfighter.png height=100>](apps/bitfighter.md)  |
+| [![bitfighter](ENTER)](apps/bitfighter.html)  |
 
 | [bitshares](apps/bitshares.md) |
 | ----- |
-| [<img src=icons/bitshares.png height=100>](apps/bitshares.md)  |
+| [![bitshares](ENTER)](apps/bitshares.html)  |
 
 | [bitwarden](apps/bitwarden.md) |
 | ----- |
-| [<img src=icons/bitwarden.png height=100>](apps/bitwarden.md)  |
+| [![bitwarden](ENTER)](apps/bitwarden.html)  |
 
 | [biying](apps/biying.md) |
 | ----- |
-| [<img src=icons/biying.png height=100>](apps/biying.md)  |
+| [![biying](ENTER)](apps/biying.html)  |
 
 | [black-chocobo](apps/black-chocobo.md) |
 | ----- |
-| [<img src=icons/black-chocobo.png height=100>](apps/black-chocobo.md)  |
+| [![black-chocobo](ENTER)](apps/black-chocobo.html)  |
 
 | [blacknut-appimage](apps/blacknut-appimage.md) |
 | ----- |
-| [<img src=icons/blacknut-appimage.png height=100>](apps/blacknut-appimage.md)  |
+| [![blacknut-appimage](ENTER)](apps/blacknut-appimage.html)  |
 
 | [blender-alpha](apps/blender-alpha.md) |
 | ----- |
-| [<img src=icons/blender-alpha.png height=100>](apps/blender-alpha.md)  |
+| [![blender-alpha](ENTER)](apps/blender-alpha.html)  |
 
 | [blender-beta](apps/blender-beta.md) |
 | ----- |
-| [<img src=icons/blender-beta.png height=100>](apps/blender-beta.md)  |
+| [![blender-beta](ENTER)](apps/blender-beta.html)  |
 
 | [blender-rc](apps/blender-rc.md) |
 | ----- |
-| [<img src=icons/blender-rc.png height=100>](apps/blender-rc.md)  |
+| [![blender-rc](ENTER)](apps/blender-rc.html)  |
 
 | [blender](apps/blender.md) |
 | ----- |
-| [<img src=icons/blender.png height=100>](apps/blender.md)  |
+| [![blender](ENTER)](apps/blender.html)  |
 
 | [blensor](apps/blensor.md) |
 | ----- |
-| [<img src=icons/blensor.png height=100>](apps/blensor.md)  |
+| [![blensor](ENTER)](apps/blensor.html)  |
 
 | [blink](apps/blink.md) |
 | ----- |
-| [<img src=icons/blink.png height=100>](apps/blink.md)  |
+| [![blink](ENTER)](apps/blink.html)  |
 
 | [blizzard-4](apps/blizzard-4.md) |
 | ----- |
-| [<img src=icons/blizzard-4.png height=100>](apps/blizzard-4.md)  |
+| [![blizzard-4](ENTER)](apps/blizzard-4.html)  |
 
 | [blockbench](apps/blockbench.md) |
 | ----- |
-| [<img src=icons/blockbench.png height=100>](apps/blockbench.md)  |
+| [![blockbench](ENTER)](apps/blockbench.html)  |
 
 | [block-dx](apps/block-dx.md) |
 | ----- |
-| [<img src=icons/block-dx.png height=100>](apps/block-dx.md)  |
+| [![block-dx](ENTER)](apps/block-dx.html)  |
 
 | [blockstream-green-appimage](apps/blockstream-green-appimage.md) |
 | ----- |
-| [<img src=icons/blockstream-green-appimage.png height=100>](apps/blockstream-green-appimage.md)  |
+| [![blockstream-green-appimage](ENTER)](apps/blockstream-green-appimage.html)  |
 
 | [bloks](apps/bloks.md) |
 | ----- |
-| [<img src=icons/bloks.png height=100>](apps/bloks.md)  |
+| [![bloks](ENTER)](apps/bloks.html)  |
 
 | [bloomrpc](apps/bloomrpc.md) |
 | ----- |
-| [<img src=icons/bloomrpc.png height=100>](apps/bloomrpc.md)  |
+| [![bloomrpc](ENTER)](apps/bloomrpc.html)  |
 
 | [blowfish](apps/blowfish.md) |
 | ----- |
-| [<img src=icons/blowfish.png height=100>](apps/blowfish.md)  |
+| [![blowfish](ENTER)](apps/blowfish.html)  |
 
 | [blubvolley](apps/blubvolley.md) |
 | ----- |
-| [<img src=icons/blubvolley.png height=100>](apps/blubvolley.md)  |
+| [![blubvolley](ENTER)](apps/blubvolley.html)  |
 
 | [blueglow](apps/blueglow.md) |
 | ----- |
-| [<img src=icons/blueglow.png height=100>](apps/blueglow.md)  |
+| [![blueglow](ENTER)](apps/blueglow.html)  |
 
 | [boardgamestar](apps/boardgamestar.md) |
 | ----- |
-| [<img src=icons/boardgamestar.png height=100>](apps/boardgamestar.md)  |
+| [![boardgamestar](ENTER)](apps/boardgamestar.html)  |
 
 | [bodacious](apps/bodacious.md) |
 | ----- |
-| [<img src=icons/bodacious.png height=100>](apps/bodacious.md)  |
+| [![bodacious](ENTER)](apps/bodacious.html)  |
 
 | [bodhi](apps/bodhi.md) |
 | ----- |
-| [<img src=icons/bodhi.png height=100>](apps/bodhi.md)  |
+| [![bodhi](ENTER)](apps/bodhi.html)  |
 
 | [bomber](apps/bomber.md) |
 | ----- |
-| [<img src=icons/bomber.png height=100>](apps/bomber.md)  |
+| [![bomber](ENTER)](apps/bomber.html)  |
 
 | [book-manager](apps/book-manager.md) |
 | ----- |
-| [<img src=icons/book-manager.png height=100>](apps/book-manager.md)  |
+| [![book-manager](ENTER)](apps/book-manager.html)  |
 
 | [boost-note](apps/boost-note.md) |
 | ----- |
-| [<img src=icons/boost-note.png height=100>](apps/boost-note.md)  |
+| [![boost-note](ENTER)](apps/boost-note.html)  |
 
 | [bottlebats](apps/bottlebats.md) |
 | ----- |
-| [<img src=icons/bottlebats.png height=100>](apps/bottlebats.md)  |
+| [![bottlebats](ENTER)](apps/bottlebats.html)  |
 
 | [bottlenose](apps/bottlenose.md) |
 | ----- |
-| [<img src=icons/bottlenose.png height=100>](apps/bottlenose.md)  |
+| [![bottlenose](ENTER)](apps/bottlenose.html)  |
 
 | [bottles](apps/bottles.md) |
 | ----- |
-| [<img src=icons/bottles.png height=100>](apps/bottles.md)  |
+| [![bottles](ENTER)](apps/bottles.html)  |
 
 | [bovo](apps/bovo.md) |
 | ----- |
-| [<img src=icons/bovo.png height=100>](apps/bovo.md)  |
+| [![bovo](ENTER)](apps/bovo.html)  |
 
 | [brackets](apps/brackets.md) |
 | ----- |
-| [<img src=icons/brackets.png height=100>](apps/brackets.md)  |
+| [![brackets](ENTER)](apps/brackets.html)  |
 
 | [brainverse](apps/brainverse.md) |
 | ----- |
-| [<img src=icons/brainverse.png height=100>](apps/brainverse.md)  |
+| [![brainverse](ENTER)](apps/brainverse.html)  |
 
 | [brainwaves](apps/brainwaves.md) |
 | ----- |
-| [<img src=icons/brainwaves.png height=100>](apps/brainwaves.md)  |
+| [![brainwaves](ENTER)](apps/brainwaves.html)  |
 
 | [brave-appimage](apps/brave-appimage.md) |
 | ----- |
-| [<img src=icons/brave-appimage.png height=100>](apps/brave-appimage.md)  |
+| [![brave-appimage](ENTER)](apps/brave-appimage.html)  |
 
 | [brave](apps/brave.md) |
 | ----- |
-| [<img src=icons/brave.png height=100>](apps/brave.md)  |
+| [![brave](ENTER)](apps/brave.html)  |
 
 | [brave-beta](apps/brave-beta.md) |
 | ----- |
-| [<img src=icons/brave-beta.png height=100>](apps/brave-beta.md)  |
+| [![brave-beta](ENTER)](apps/brave-beta.html)  |
 
 | [brave-dev-appimage](apps/brave-dev-appimage.md) |
 | ----- |
-| [<img src=icons/brave-dev-appimage.png height=100>](apps/brave-dev-appimage.md)  |
+| [![brave-dev-appimage](ENTER)](apps/brave-dev-appimage.html)  |
 
 | [brave-dev](apps/brave-dev.md) |
 | ----- |
-| [<img src=icons/brave-dev.png height=100>](apps/brave-dev.md)  |
+| [![brave-dev](ENTER)](apps/brave-dev.html)  |
 
 | [brave-nightly-appimage](apps/brave-nightly-appimage.md) |
 | ----- |
-| [<img src=icons/brave-nightly-appimage.png height=100>](apps/brave-nightly-appimage.md)  |
+| [![brave-nightly-appimage](ENTER)](apps/brave-nightly-appimage.html)  |
 
 | [brave-nightly](apps/brave-nightly.md) |
 | ----- |
-| [<img src=icons/brave-nightly.png height=100>](apps/brave-nightly.md)  |
+| [![brave-nightly](ENTER)](apps/brave-nightly.html)  |
 
 | [bread](apps/bread.md) |
 | ----- |
-| [<img src=icons/bread.png height=100>](apps/bread.md)  |
+| [![bread](ENTER)](apps/bread.html)  |
 
 | [breaktimer-appimage](apps/breaktimer-appimage.md) |
 | ----- |
-| [<img src=icons/breaktimer-appimage.png height=100>](apps/breaktimer-appimage.md)  |
+| [![breaktimer-appimage](ENTER)](apps/breaktimer-appimage.html)  |
 
 | [brickstore](apps/brickstore.md) |
 | ----- |
-| [<img src=icons/brickstore.png height=100>](apps/brickstore.md)  |
+| [![brickstore](ENTER)](apps/brickstore.html)  |
 
 | [bridge](apps/bridge.md) |
 | ----- |
-| [<img src=icons/bridge.png height=100>](apps/bridge.md)  |
+| [![bridge](ENTER)](apps/bridge.html)  |
 
 | [bruno-appimage](apps/bruno-appimage.md) |
 | ----- |
-| [<img src=icons/bruno-appimage.png height=100>](apps/bruno-appimage.md)  |
+| [![bruno-appimage](ENTER)](apps/bruno-appimage.html)  |
 
 | [bscanfftwebcam](apps/bscanfftwebcam.md) |
 | ----- |
-| [<img src=icons/bscanfftwebcam.png height=100>](apps/bscanfftwebcam.md)  |
+| [![bscanfftwebcam](ENTER)](apps/bscanfftwebcam.html)  |
 
 | [btop](apps/btop.md) |
 | ----- |
-| [<img src=icons/btop.png height=100>](apps/btop.md)  |
+| [![btop](ENTER)](apps/btop.html)  |
 
 | [bts-ce-lite](apps/bts-ce-lite.md) |
 | ----- |
-| [<img src=icons/bts-ce-lite.png height=100>](apps/bts-ce-lite.md)  |
+| [![bts-ce-lite](ENTER)](apps/bts-ce-lite.html)  |
 
 | [buche](apps/buche.md) |
 | ----- |
-| [<img src=icons/buche.png height=100>](apps/buche.md)  |
+| [![buche](ENTER)](apps/buche.html)  |
 
 | [buckets](apps/buckets.md) |
 | ----- |
-| [<img src=icons/buckets.png height=100>](apps/buckets.md)  |
+| [![buckets](ENTER)](apps/buckets.html)  |
 
 | [bugdom](apps/bugdom.md) |
 | ----- |
-| [<img src=icons/bugdom.png height=100>](apps/bugdom.md)  |
+| [![bugdom](ENTER)](apps/bugdom.html)  |
 
 | [bulkreviewer](apps/bulkreviewer.md) |
 | ----- |
-| [<img src=icons/bulkreviewer.png height=100>](apps/bulkreviewer.md)  |
+| [![bulkreviewer](ENTER)](apps/bulkreviewer.html)  |
 
 | [bulkurlopener](apps/bulkurlopener.md) |
 | ----- |
-| [<img src=icons/bulkurlopener.png height=100>](apps/bulkurlopener.md)  |
+| [![bulkurlopener](ENTER)](apps/bulkurlopener.html)  |
 
 | [bunqdesktop](apps/bunqdesktop.md) |
 | ----- |
-| [<img src=icons/bunqdesktop.png height=100>](apps/bunqdesktop.md)  |
+| [![bunqdesktop](ENTER)](apps/bunqdesktop.html)  |
 
 | [buttercup](apps/buttercup.md) |
 | ----- |
-| [<img src=icons/buttercup.png height=100>](apps/buttercup.md)  |
+| [![buttercup](ENTER)](apps/buttercup.html)  |
 
 | [bypass-cors](apps/bypass-cors.md) |
 | ----- |
-| [<img src=icons/bypass-cors.png height=100>](apps/bypass-cors.md)  |
+| [![bypass-cors](ENTER)](apps/bypass-cors.html)  |
 
 | [bytespeichertrayicon](apps/bytespeichertrayicon.md) |
 | ----- |
-| [<img src=icons/bytespeichertrayicon.png height=100>](apps/bytespeichertrayicon.md)  |
+| [![bytespeichertrayicon](ENTER)](apps/bytespeichertrayicon.html)  |
 
 | [cabal-desktop](apps/cabal-desktop.md) |
 | ----- |
-| [<img src=icons/cabal-desktop.png height=100>](apps/cabal-desktop.md)  |
+| [![cabal-desktop](ENTER)](apps/cabal-desktop.html)  |
 
 | [cacher](apps/cacher.md) |
 | ----- |
-| [<img src=icons/cacher.png height=100>](apps/cacher.md)  |
+| [![cacher](ENTER)](apps/cacher.html)  |
 
 | [cadmus-appimage](apps/cadmus-appimage.md) |
 | ----- |
-| [<img src=icons/cadmus-appimage.png height=100>](apps/cadmus-appimage.md)  |
+| [![cadmus-appimage](ENTER)](apps/cadmus-appimage.html)  |
 
 | [caesium](apps/caesium.md) |
 | ----- |
-| [<img src=icons/caesium.png height=100>](apps/caesium.md)  |
+| [![caesium](ENTER)](apps/caesium.html)  |
 
 | [cajviewer-appimage](apps/cajviewer-appimage.md) |
 | ----- |
-| [<img src=icons/cajviewer-appimage.png height=100>](apps/cajviewer-appimage.md)  |
+| [![cajviewer-appimage](ENTER)](apps/cajviewer-appimage.html)  |
 
 | [calculist](apps/calculist.md) |
 | ----- |
-| [<img src=icons/calculist.png height=100>](apps/calculist.md)  |
+| [![calculist](ENTER)](apps/calculist.html)  |
 
 | [capbattleship](apps/capbattleship.md) |
 | ----- |
-| [<img src=icons/capbattleship.png height=100>](apps/capbattleship.md)  |
+| [![capbattleship](ENTER)](apps/capbattleship.html)  |
 
 | [caprine](apps/caprine.md) |
 | ----- |
-| [<img src=icons/caprine.png height=100>](apps/caprine.md)  |
+| [![caprine](ENTER)](apps/caprine.html)  |
 
 | [cargo-appimage](apps/cargo-appimage.md) |
 | ----- |
-| [<img src=icons/cargo-appimage.png height=100>](apps/cargo-appimage.md)  |
+| [![cargo-appimage](ENTER)](apps/cargo-appimage.html)  |
 
 | [carnet](apps/carnet.md) |
 | ----- |
-| [<img src=icons/carnet.png height=100>](apps/carnet.md)  |
+| [![carnet](ENTER)](apps/carnet.html)  |
 
 | [carpenters](apps/carpenters.md) |
 | ----- |
-| [<img src=icons/carpenters.png height=100>](apps/carpenters.md)  |
+| [![carpenters](ENTER)](apps/carpenters.html)  |
 
 | [carta](apps/carta.md) |
 | ----- |
-| [<img src=icons/carta.png height=100>](apps/carta.md)  |
+| [![carta](ENTER)](apps/carta.html)  |
 
 | [casm](apps/casm.md) |
 | ----- |
-| [<img src=icons/casm.png height=100>](apps/casm.md)  |
+| [![casm](ENTER)](apps/casm.html)  |
 
 | [castersoundboard](apps/castersoundboard.md) |
 | ----- |
-| [<img src=icons/castersoundboard.png height=100>](apps/castersoundboard.md)  |
+| [![castersoundboard](ENTER)](apps/castersoundboard.html)  |
 
 | [catcher](apps/catcher.md) |
 | ----- |
-| [<img src=icons/catcher.png height=100>](apps/catcher.md)  |
+| [![catcher](ENTER)](apps/catcher.html)  |
 
 | [cate-desktop](apps/cate-desktop.md) |
 | ----- |
-| [<img src=icons/cate-desktop.png height=100>](apps/cate-desktop.md)  |
+| [![cate-desktop](ENTER)](apps/cate-desktop.html)  |
 
 | [cbetar2](apps/cbetar2.md) |
 | ----- |
-| [<img src=icons/cbetar2.png height=100>](apps/cbetar2.md)  |
+| [![cbetar2](ENTER)](apps/cbetar2.html)  |
 
 | [celestia-dev](apps/celestia-dev.md) |
 | ----- |
-| [<img src=icons/celestia-dev.png height=100>](apps/celestia-dev.md)  |
+| [![celestia-dev](ENTER)](apps/celestia-dev.html)  |
 
 | [celestia-enanched](apps/celestia-enanched.md) |
 | ----- |
-| [<img src=icons/celestia-enanched.png height=100>](apps/celestia-enanched.md)  |
+| [![celestia-enanched](ENTER)](apps/celestia-enanched.html)  |
 
 | [celestia](apps/celestia.md) |
 | ----- |
-| [<img src=icons/celestia.png height=100>](apps/celestia.md)  |
+| [![celestia](ENTER)](apps/celestia.html)  |
 
 | [celoterminal-bin](apps/celoterminal-bin.md) |
 | ----- |
-| [<img src=icons/celoterminal-bin.png height=100>](apps/celoterminal-bin.md)  |
+| [![celoterminal-bin](ENTER)](apps/celoterminal-bin.html)  |
 
 | [cerebral-debugger](apps/cerebral-debugger.md) |
 | ----- |
-| [<img src=icons/cerebral-debugger.png height=100>](apps/cerebral-debugger.md)  |
+| [![cerebral-debugger](ENTER)](apps/cerebral-debugger.html)  |
 
 | [cerebro](apps/cerebro.md) |
 | ----- |
-| [<img src=icons/cerebro.png height=100>](apps/cerebro.md)  |
+| [![cerebro](ENTER)](apps/cerebro.html)  |
 
 | [chainx-signer](apps/chainx-signer.md) |
 | ----- |
-| [<img src=icons/chainx-signer.png height=100>](apps/chainx-signer.md)  |
+| [![chainx-signer](ENTER)](apps/chainx-signer.html)  |
 
 | [chatterino2-appimage](apps/chatterino2-appimage.md) |
 | ----- |
-| [<img src=icons/chatterino2-appimage.png height=100>](apps/chatterino2-appimage.md)  |
+| [![chatterino2-appimage](ENTER)](apps/chatterino2-appimage.html)  |
 
 | [chatterino2-nightly-appimage](apps/chatterino2-nightly-appimage.md) |
 | ----- |
-| [<img src=icons/chatterino2-nightly-appimage.png height=100>](apps/chatterino2-nightly-appimage.md)  |
+| [![chatterino2-nightly-appimage](ENTER)](apps/chatterino2-nightly-appimage.html)  |
 
 | [cherrytree](apps/cherrytree.md) |
 | ----- |
-| [<img src=icons/cherrytree.png height=100>](apps/cherrytree.md)  |
+| [![cherrytree](ENTER)](apps/cherrytree.html)  |
 
 | [chiaki](apps/chiaki.md) |
 | ----- |
-| [<img src=icons/chiaki.png height=100>](apps/chiaki.md)  |
+| [![chiaki](ENTER)](apps/chiaki.html)  |
 
 | [chromium-bsu](apps/chromium-bsu.md) |
 | ----- |
-| [<img src=icons/chromium-bsu.png height=100>](apps/chromium-bsu.md)  |
+| [![chromium-bsu](ENTER)](apps/chromium-bsu.html)  |
 
 | [chromium-latest](apps/chromium-latest.md) |
 | ----- |
-| [<img src=icons/chromium-latest.png height=100>](apps/chromium-latest.md)  |
+| [![chromium-latest](ENTER)](apps/chromium-latest.html)  |
 
 | [chromium](apps/chromium.md) |
 | ----- |
-| [<img src=icons/chromium.png height=100>](apps/chromium.md)  |
+| [![chromium](ENTER)](apps/chromium.html)  |
 
 | [chrysalis-bin](apps/chrysalis-bin.md) |
 | ----- |
-| [<img src=icons/chrysalis-bin.png height=100>](apps/chrysalis-bin.md)  |
+| [![chrysalis-bin](ENTER)](apps/chrysalis-bin.html)  |
 
 | [ciaa-suite](apps/ciaa-suite.md) |
 | ----- |
-| [<img src=icons/ciaa-suite.png height=100>](apps/ciaa-suite.md)  |
+| [![ciaa-suite](ENTER)](apps/ciaa-suite.html)  |
 
 | [cider](apps/cider.md) |
 | ----- |
-| [<img src=icons/cider.png height=100>](apps/cider.md)  |
+| [![cider](ENTER)](apps/cider.html)  |
 
 | [cin-appimage](apps/cin-appimage.md) |
 | ----- |
-| [<img src=icons/cin-appimage.png height=100>](apps/cin-appimage.md)  |
+| [![cin-appimage](ENTER)](apps/cin-appimage.html)  |
 
 | [cinelerra-gg](apps/cinelerra-gg.md) |
 | ----- |
-| [<img src=icons/cinelerra-gg.png height=100>](apps/cinelerra-gg.md)  |
+| [![cinelerra-gg](ENTER)](apps/cinelerra-gg.html)  |
 
 | [cinny](apps/cinny.md) |
 | ----- |
-| [<img src=icons/cinny.png height=100>](apps/cinny.md)  |
+| [![cinny](ENTER)](apps/cinny.html)  |
 
 | [circle-z](apps/circle-z.md) |
 | ----- |
-| [<img src=icons/circle-z.png height=100>](apps/circle-z.md)  |
+| [![circle-z](ENTER)](apps/circle-z.html)  |
 
 | [circuitblocks](apps/circuitblocks.md) |
 | ----- |
-| [<img src=icons/circuitblocks.png height=100>](apps/circuitblocks.md)  |
+| [![circuitblocks](ENTER)](apps/circuitblocks.html)  |
 
 | [city-hub](apps/city-hub.md) |
 | ----- |
-| [<img src=icons/city-hub.png height=100>](apps/city-hub.md)  |
+| [![city-hub](ENTER)](apps/city-hub.html)  |
 
 | [cleepdesktop](apps/cleepdesktop.md) |
 | ----- |
-| [<img src=icons/cleepdesktop.png height=100>](apps/cleepdesktop.md)  |
+| [![cleepdesktop](ENTER)](apps/cleepdesktop.html)  |
 
 | [clementineremote](apps/clementineremote.md) |
 | ----- |
-| [<img src=icons/clementineremote.png height=100>](apps/clementineremote.md)  |
+| [![clementineremote](ENTER)](apps/clementineremote.html)  |
 
 | [cliniface](apps/cliniface.md) |
 | ----- |
-| [<img src=icons/cliniface.png height=100>](apps/cliniface.md)  |
+| [![cliniface](ENTER)](apps/cliniface.html)  |
 
 | [clipgrab](apps/clipgrab.md) |
 | ----- |
-| [<img src=icons/clipgrab.png height=100>](apps/clipgrab.md)  |
+| [![clipgrab](ENTER)](apps/clipgrab.html)  |
 
 | [clippy](apps/clippy.md) |
 | ----- |
-| [<img src=icons/clippy.png height=100>](apps/clippy.md)  |
+| [![clippy](ENTER)](apps/clippy.html)  |
 
 | [clipr](apps/clipr.md) |
 | ----- |
-| [<img src=icons/clipr.png height=100>](apps/clipr.md)  |
+| [![clipr](ENTER)](apps/clipr.html)  |
 
 | [cloud-browser](apps/cloud-browser.md) |
 | ----- |
-| [<img src=icons/cloud-browser.png height=100>](apps/cloud-browser.md)  |
+| [![cloud-browser](ENTER)](apps/cloud-browser.html)  |
 
 | [cncjs](apps/cncjs.md) |
 | ----- |
-| [<img src=icons/cncjs.png height=100>](apps/cncjs.md)  |
+| [![cncjs](ENTER)](apps/cncjs.html)  |
 
 | [cocomusic](apps/cocomusic.md) |
 | ----- |
-| [<img src=icons/cocomusic.png height=100>](apps/cocomusic.md)  |
+| [![cocomusic](ENTER)](apps/cocomusic.html)  |
 
 | [code-notes-appimage](apps/code-notes-appimage.md) |
 | ----- |
-| [<img src=icons/code-notes-appimage.png height=100>](apps/code-notes-appimage.md)  |
+| [![code-notes-appimage](ENTER)](apps/code-notes-appimage.html)  |
 
 | [code-oss](apps/code-oss.md) |
 | ----- |
-| [<img src=icons/code-oss.png height=100>](apps/code-oss.md)  |
+| [![code-oss](ENTER)](apps/code-oss.html)  |
 
 | [colobot](apps/colobot.md) |
 | ----- |
-| [<img src=icons/colobot.png height=100>](apps/colobot.md)  |
+| [![colobot](ENTER)](apps/colobot.html)  |
 
 | [colon](apps/colon.md) |
 | ----- |
-| [<img src=icons/colon.png height=100>](apps/colon.md)  |
+| [![colon](ENTER)](apps/colon.html)  |
 
 | [colorgenerator](apps/colorgenerator.md) |
 | ----- |
-| [<img src=icons/colorgenerator.png height=100>](apps/colorgenerator.md)  |
+| [![colorgenerator](ENTER)](apps/colorgenerator.html)  |
 
 | [colorpicker](apps/colorpicker.md) |
 | ----- |
-| [<img src=icons/colorpicker.png height=100>](apps/colorpicker.md)  |
+| [![colorpicker](ENTER)](apps/colorpicker.html)  |
 
 | [colorstatic-bash](apps/colorstatic-bash.md) |
 | ----- |
-| [<img src=icons/colorstatic-bash.png height=100>](apps/colorstatic-bash.md)  |
+| [![colorstatic-bash](ENTER)](apps/colorstatic-bash.html)  |
 
 | [comic-book-reader](apps/comic-book-reader.md) |
 | ----- |
-| [<img src=icons/comic-book-reader.png height=100>](apps/comic-book-reader.md)  |
+| [![comic-book-reader](ENTER)](apps/comic-book-reader.html)  |
 
 | [comic-reader](apps/comic-reader.md) |
 | ----- |
-| [<img src=icons/comic-reader.png height=100>](apps/comic-reader.md)  |
+| [![comic-reader](ENTER)](apps/comic-reader.html)  |
 
 | [concordium-desktop-wallet-appimage](apps/concordium-desktop-wallet-appimage.md) |
 | ----- |
-| [<img src=icons/concordium-desktop-wallet-appimage.png height=100>](apps/concordium-desktop-wallet-appimage.md)  |
+| [![concordium-desktop-wallet-appimage](ENTER)](apps/concordium-desktop-wallet-appimage.html)  |
 
 | [conduction](apps/conduction.md) |
 | ----- |
-| [<img src=icons/conduction.png height=100>](apps/conduction.md)  |
+| [![conduction](ENTER)](apps/conduction.html)  |
 
 | [conky](apps/conky.md) |
 | ----- |
-| [<img src=icons/conky.png height=100>](apps/conky.md)  |
+| [![conky](ENTER)](apps/conky.html)  |
 
 | [consoleworkbench](apps/consoleworkbench.md) |
 | ----- |
-| [<img src=icons/consoleworkbench.png height=100>](apps/consoleworkbench.md)  |
+| [![consoleworkbench](ENTER)](apps/consoleworkbench.html)  |
 
 | [contour](apps/contour.md) |
 | ----- |
-| [<img src=icons/contour.png height=100>](apps/contour.md)  |
+| [![contour](ENTER)](apps/contour.html)  |
 
 | [converseen](apps/converseen.md) |
 | ----- |
-| [<img src=icons/converseen.png height=100>](apps/converseen.md)  |
+| [![converseen](ENTER)](apps/converseen.html)  |
 
 | [converter432hz-appimage](apps/converter432hz-appimage.md) |
 | ----- |
-| [<img src=icons/converter432hz-appimage.png height=100>](apps/converter432hz-appimage.md)  |
+| [![converter432hz-appimage](ENTER)](apps/converter432hz-appimage.html)  |
 
 | [coolero](apps/coolero.md) |
 | ----- |
-| [<img src=icons/coolero.png height=100>](apps/coolero.md)  |
+| [![coolero](ENTER)](apps/coolero.html)  |
 
 | [cool-retro-term](apps/cool-retro-term.md) |
 | ----- |
-| [<img src=icons/cool-retro-term.png height=100>](apps/cool-retro-term.md)  |
+| [![cool-retro-term](ENTER)](apps/cool-retro-term.html)  |
 
 | [copytranslator-appimage](apps/copytranslator-appimage.md) |
 | ----- |
-| [<img src=icons/copytranslator-appimage.png height=100>](apps/copytranslator-appimage.md)  |
+| [![copytranslator-appimage](ENTER)](apps/copytranslator-appimage.html)  |
 
 | [cordlauncher](apps/cordlauncher.md) |
 | ----- |
-| [<img src=icons/cordlauncher.png height=100>](apps/cordlauncher.md)  |
+| [![cordlauncher](ENTER)](apps/cordlauncher.html)  |
 
 | [coreaction](apps/coreaction.md) |
 | ----- |
-| [<img src=icons/coreaction.png height=100>](apps/coreaction.md)  |
+| [![coreaction](ENTER)](apps/coreaction.html)  |
 
 | [corearchiver](apps/corearchiver.md) |
 | ----- |
-| [<img src=icons/corearchiver.png height=100>](apps/corearchiver.md)  |
+| [![corearchiver](ENTER)](apps/corearchiver.html)  |
 
 | [coregarage](apps/coregarage.md) |
 | ----- |
-| [<img src=icons/coregarage.png height=100>](apps/coregarage.md)  |
+| [![coregarage](ENTER)](apps/coregarage.html)  |
 
 | [corehunt](apps/corehunt.md) |
 | ----- |
-| [<img src=icons/corehunt.png height=100>](apps/corehunt.md)  |
+| [![corehunt](ENTER)](apps/corehunt.html)  |
 
 | [coreimage](apps/coreimage.md) |
 | ----- |
-| [<img src=icons/coreimage.png height=100>](apps/coreimage.md)  |
+| [![coreimage](ENTER)](apps/coreimage.html)  |
 
 | [coreinfo](apps/coreinfo.md) |
 | ----- |
-| [<img src=icons/coreinfo.png height=100>](apps/coreinfo.md)  |
+| [![coreinfo](ENTER)](apps/coreinfo.html)  |
 
 | [corepad](apps/corepad.md) |
 | ----- |
-| [<img src=icons/corepad.png height=100>](apps/corepad.md)  |
+| [![corepad](ENTER)](apps/corepad.html)  |
 
 | [corepaint](apps/corepaint.md) |
 | ----- |
-| [<img src=icons/corepaint.png height=100>](apps/corepaint.md)  |
+| [![corepaint](ENTER)](apps/corepaint.html)  |
 
 | [corepak](apps/corepak.md) |
 | ----- |
-| [<img src=icons/corepak.png height=100>](apps/corepak.md)  |
+| [![corepak](ENTER)](apps/corepak.html)  |
 
 | [corepins](apps/corepins.md) |
 | ----- |
-| [<img src=icons/corepins.png height=100>](apps/corepins.md)  |
+| [![corepins](ENTER)](apps/corepins.html)  |
 
 | [corerenamer](apps/corerenamer.md) |
 | ----- |
-| [<img src=icons/corerenamer.png height=100>](apps/corerenamer.md)  |
+| [![corerenamer](ENTER)](apps/corerenamer.html)  |
 
 | [coreshot](apps/coreshot.md) |
 | ----- |
-| [<img src=icons/coreshot.png height=100>](apps/coreshot.md)  |
+| [![coreshot](ENTER)](apps/coreshot.html)  |
 
 | [corestats](apps/corestats.md) |
 | ----- |
-| [<img src=icons/corestats.png height=100>](apps/corestats.md)  |
+| [![corestats](ENTER)](apps/corestats.html)  |
 
 | [corestuff](apps/corestuff.md) |
 | ----- |
-| [<img src=icons/corestuff.png height=100>](apps/corestuff.md)  |
+| [![corestuff](ENTER)](apps/corestuff.html)  |
 
 | [coretime](apps/coretime.md) |
 | ----- |
-| [<img src=icons/coretime.png height=100>](apps/coretime.md)  |
+| [![coretime](ENTER)](apps/coretime.html)  |
 
 | [coreuniverse](apps/coreuniverse.md) |
 | ----- |
-| [<img src=icons/coreuniverse.png height=100>](apps/coreuniverse.md)  |
+| [![coreuniverse](ENTER)](apps/coreuniverse.html)  |
 
 | [cozydrive](apps/cozydrive.md) |
 | ----- |
-| [<img src=icons/cozydrive.png height=100>](apps/cozydrive.md)  |
+| [![cozydrive](ENTER)](apps/cozydrive.html)  |
 
 | [cpeditor](apps/cpeditor.md) |
 | ----- |
-| [<img src=icons/cpeditor.png height=100>](apps/cpeditor.md)  |
+| [![cpeditor](ENTER)](apps/cpeditor.html)  |
 
 | [cp-editor](apps/cp-editor.md) |
 | ----- |
-| [<img src=icons/cp-editor.png height=100>](apps/cp-editor.md)  |
+| [![cp-editor](ENTER)](apps/cp-editor.html)  |
 
 | [cpod](apps/cpod.md) |
 | ----- |
-| [<img src=icons/cpod.png height=100>](apps/cpod.md)  |
+| [![cpod](ENTER)](apps/cpod.html)  |
 
 | [cpu-x](apps/cpu-x.md) |
 | ----- |
-| [<img src=icons/cpu-x.png height=100>](apps/cpu-x.md)  |
+| [![cpu-x](ENTER)](apps/cpu-x.html)  |
 
 | [crg-data-tool](apps/crg-data-tool.md) |
 | ----- |
-| [<img src=icons/crg-data-tool.png height=100>](apps/crg-data-tool.md)  |
+| [![crg-data-tool](ENTER)](apps/crg-data-tool.html)  |
 
 | [cric](apps/cric.md) |
 | ----- |
-| [<img src=icons/cric.png height=100>](apps/cric.md)  |
+| [![cric](ENTER)](apps/cric.html)  |
 
 | [cro-chain-desktop-bin](apps/cro-chain-desktop-bin.md) |
 | ----- |
-| [<img src=icons/cro-chain-desktop-bin.png height=100>](apps/cro-chain-desktop-bin.md)  |
+| [![cro-chain-desktop-bin](ENTER)](apps/cro-chain-desktop-bin.html)  |
 
 | [cromberg](apps/cromberg.md) |
 | ----- |
-| [<img src=icons/cromberg.png height=100>](apps/cromberg.md)  |
+| [![cromberg](ENTER)](apps/cromberg.html)  |
 
 | [crosscode-map-editor](apps/crosscode-map-editor.md) |
 | ----- |
-| [<img src=icons/crosscode-map-editor.png height=100>](apps/crosscode-map-editor.md)  |
+| [![crosscode-map-editor](ENTER)](apps/crosscode-map-editor.html)  |
 
 | [crossmobile](apps/crossmobile.md) |
 | ----- |
-| [<img src=icons/crossmobile.png height=100>](apps/crossmobile.md)  |
+| [![crossmobile](ENTER)](apps/crossmobile.html)  |
 
 | [cryplicity](apps/cryplicity.md) |
 | ----- |
-| [<img src=icons/cryplicity.png height=100>](apps/cryplicity.md)  |
+| [![cryplicity](ENTER)](apps/cryplicity.html)  |
 
 | [crypter](apps/crypter.md) |
 | ----- |
-| [<img src=icons/crypter.png height=100>](apps/crypter.md)  |
+| [![crypter](ENTER)](apps/crypter.html)  |
 
 | [cryptocam-companion](apps/cryptocam-companion.md) |
 | ----- |
-| [<img src=icons/cryptocam-companion.png height=100>](apps/cryptocam-companion.md)  |
+| [![cryptocam-companion](ENTER)](apps/cryptocam-companion.html)  |
 
 | [cryptomator](apps/cryptomator.md) |
 | ----- |
-| [<img src=icons/cryptomator.png height=100>](apps/cryptomator.md)  |
+| [![cryptomator](ENTER)](apps/cryptomator.html)  |
 
 | [cryptr](apps/cryptr.md) |
 | ----- |
-| [<img src=icons/cryptr.png height=100>](apps/cryptr.md)  |
+| [![cryptr](ENTER)](apps/cryptr.html)  |
 
 | [cscrypto](apps/cscrypto.md) |
 | ----- |
-| [<img src=icons/cscrypto.png height=100>](apps/cscrypto.md)  |
+| [![cscrypto](ENTER)](apps/cscrypto.html)  |
 
 | [cubicsdr](apps/cubicsdr.md) |
 | ----- |
-| [<img src=icons/cubicsdr.png height=100>](apps/cubicsdr.md)  |
+| [![cubicsdr](ENTER)](apps/cubicsdr.html)  |
 
 | [cura](apps/cura.md) |
 | ----- |
-| [<img src=icons/cura.png height=100>](apps/cura.md)  |
+| [![cura](ENTER)](apps/cura.html)  |
 
 | [customrpc](apps/customrpc.md) |
 | ----- |
-| [<img src=icons/customrpc.png height=100>](apps/customrpc.md)  |
+| [![customrpc](ENTER)](apps/customrpc.html)  |
 
 | [cutepeaks](apps/cutepeaks.md) |
 | ----- |
-| [<img src=icons/cutepeaks.png height=100>](apps/cutepeaks.md)  |
+| [![cutepeaks](ENTER)](apps/cutepeaks.html)  |
 
 | [cutevariant](apps/cutevariant.md) |
 | ----- |
-| [<img src=icons/cutevariant.png height=100>](apps/cutevariant.md)  |
+| [![cutevariant](ENTER)](apps/cutevariant.html)  |
 
 | [cutter](apps/cutter.md) |
 | ----- |
-| [<img src=icons/cutter.png height=100>](apps/cutter.md)  |
+| [![cutter](ENTER)](apps/cutter.html)  |
 
 | [czkawka](apps/czkawka.md) |
 | ----- |
-| [<img src=icons/czkawka.png height=100>](apps/czkawka.md)  |
+| [![czkawka](ENTER)](apps/czkawka.html)  |
 
 | [dana](apps/dana.md) |
 | ----- |
-| [<img src=icons/dana.png height=100>](apps/dana.md)  |
+| [![dana](ENTER)](apps/dana.html)  |
 
 | [dashy-app](apps/dashy-app.md) |
 | ----- |
-| [<img src=icons/dashy-app.png height=100>](apps/dashy-app.md)  |
+| [![dashy-app](ENTER)](apps/dashy-app.html)  |
 
 | [dataset-annotator](apps/dataset-annotator.md) |
 | ----- |
-| [<img src=icons/dataset-annotator.png height=100>](apps/dataset-annotator.md)  |
+| [![dataset-annotator](ENTER)](apps/dataset-annotator.html)  |
 
 | [datcord](apps/datcord.md) |
 | ----- |
-| [<img src=icons/datcord.png height=100>](apps/datcord.md)  |
+| [![datcord](ENTER)](apps/datcord.html)  |
 
 | [dawnlightsearch](apps/dawnlightsearch.md) |
 | ----- |
-| [<img src=icons/dawnlightsearch.png height=100>](apps/dawnlightsearch.md)  |
+| [![dawnlightsearch](ENTER)](apps/dawnlightsearch.html)  |
 
 | [dawnlightsearch](apps/dawnlightsearch.md) |
 | ----- |
-| [<img src=icons/dawnlightsearch.png height=100>](apps/dawnlightsearch.md)  |
+| [![dawnlightsearch](ENTER)](apps/dawnlightsearch.html)  |
 
 | [dbet-wallet](apps/dbet-wallet.md) |
 | ----- |
-| [<img src=icons/dbet-wallet.png height=100>](apps/dbet-wallet.md)  |
+| [![dbet-wallet](ENTER)](apps/dbet-wallet.html)  |
 
 | [dbgate](apps/dbgate.md) |
 | ----- |
-| [<img src=icons/dbgate.png height=100>](apps/dbgate.md)  |
+| [![dbgate](ENTER)](apps/dbgate.html)  |
 
 | [deadgame-2048](apps/deadgame-2048.md) |
 | ----- |
-| [<img src=icons/deadgame-2048.png height=100>](apps/deadgame-2048.md)  |
+| [![deadgame-2048](ENTER)](apps/deadgame-2048.html)  |
 
 | [deb2appimage](apps/deb2appimage.md) |
 | ----- |
-| [<img src=icons/deb2appimage.png height=100>](apps/deb2appimage.md)  |
+| [![deb2appimage](ENTER)](apps/deb2appimage.html)  |
 
 | [debian-testing-avidemux](apps/debian-testing-avidemux.md) |
 | ----- |
-| [<img src=icons/debian-testing-avidemux.png height=100>](apps/debian-testing-avidemux.md)  |
+| [![debian-testing-avidemux](ENTER)](apps/debian-testing-avidemux.html)  |
 
 | [dedop-studio](apps/dedop-studio.md) |
 | ----- |
-| [<img src=icons/dedop-studio.png height=100>](apps/dedop-studio.md)  |
+| [![dedop-studio](ENTER)](apps/dedop-studio.html)  |
 
 | [deemix-gui-appimage](apps/deemix-gui-appimage.md) |
 | ----- |
-| [<img src=icons/deemix-gui-appimage.png height=100>](apps/deemix-gui-appimage.md)  |
+| [![deemix-gui-appimage](ENTER)](apps/deemix-gui-appimage.html)  |
 
 | [deeptags](apps/deeptags.md) |
 | ----- |
-| [<img src=icons/deeptags.png height=100>](apps/deeptags.md)  |
+| [![deeptags](ENTER)](apps/deeptags.html)  |
 
 | [deezer](apps/deezer.md) |
 | ----- |
-| [<img src=icons/deezer.png height=100>](apps/deezer.md)  |
+| [![deezer](ENTER)](apps/deezer.html)  |
 
 | [defi-app-bin](apps/defi-app-bin.md) |
 | ----- |
-| [<img src=icons/defi-app-bin.png height=100>](apps/defi-app-bin.md)  |
+| [![defi-app-bin](ENTER)](apps/defi-app-bin.html)  |
 
 | [delir](apps/delir.md) |
 | ----- |
-| [<img src=icons/delir.png height=100>](apps/delir.md)  |
+| [![delir](ENTER)](apps/delir.html)  |
 
 | [deltachat-desktop](apps/deltachat-desktop.md) |
 | ----- |
-| [<img src=icons/deltachat-desktop.png height=100>](apps/deltachat-desktop.md)  |
+| [![deltachat-desktop](ENTER)](apps/deltachat-desktop.html)  |
 
 | [demonizer](apps/demonizer.md) |
 | ----- |
-| [<img src=icons/demonizer.png height=100>](apps/demonizer.md)  |
+| [![demonizer](ENTER)](apps/demonizer.html)  |
 
 | [deployer](apps/deployer.md) |
 | ----- |
-| [<img src=icons/deployer.png height=100>](apps/deployer.md)  |
+| [![deployer](ENTER)](apps/deployer.html)  |
 
 | [devdocs-desktop](apps/devdocs-desktop.md) |
 | ----- |
-| [<img src=icons/devdocs-desktop.png height=100>](apps/devdocs-desktop.md)  |
+| [![devdocs-desktop](ENTER)](apps/devdocs-desktop.html)  |
 
 | [devhub](apps/devhub.md) |
 | ----- |
-| [<img src=icons/devhub.png height=100>](apps/devhub.md)  |
+| [![devhub](ENTER)](apps/devhub.html)  |
 
 | [dexter-dev-env](apps/dexter-dev-env.md) |
 | ----- |
-| [<img src=icons/dexter-dev-env.png height=100>](apps/dexter-dev-env.md)  |
+| [![dexter-dev-env](ENTER)](apps/dexter-dev-env.html)  |
 
 | [dfdemo](apps/dfdemo.md) |
 | ----- |
-| [<img src=icons/dfdemo.png height=100>](apps/dfdemo.md)  |
+| [![dfdemo](ENTER)](apps/dfdemo.html)  |
 
 | [dfilemanager](apps/dfilemanager.md) |
 | ----- |
-| [<img src=icons/dfilemanager.png height=100>](apps/dfilemanager.md)  |
+| [![dfilemanager](ENTER)](apps/dfilemanager.html)  |
 
 | [dfilemanager](apps/dfilemanager.md) |
 | ----- |
-| [<img src=icons/dfilemanager.png height=100>](apps/dfilemanager.md)  |
+| [![dfilemanager](ENTER)](apps/dfilemanager.html)  |
 
 | [dicomautomaton](apps/dicomautomaton.md) |
 | ----- |
-| [<img src=icons/dicomautomaton.png height=100>](apps/dicomautomaton.md)  |
+| [![dicomautomaton](ENTER)](apps/dicomautomaton.html)  |
 
 | [die-engine](apps/die-engine.md) |
 | ----- |
-| [<img src=icons/die-engine.png height=100>](apps/die-engine.md)  |
+| [![die-engine](ENTER)](apps/die-engine.html)  |
 
 | [diffuse](apps/diffuse.md) |
 | ----- |
-| [<img src=icons/diffuse.png height=100>](apps/diffuse.md)  |
+| [![diffuse](ENTER)](apps/diffuse.html)  |
 
 | [digikam](apps/digikam.md) |
 | ----- |
-| [<img src=icons/digikam.png height=100>](apps/digikam.md)  |
+| [![digikam](ENTER)](apps/digikam.html)  |
 
 | [digitales-klassenzimmer](apps/digitales-klassenzimmer.md) |
 | ----- |
-| [<img src=icons/digitales-klassenzimmer.png height=100>](apps/digitales-klassenzimmer.md)  |
+| [![digitales-klassenzimmer](ENTER)](apps/digitales-klassenzimmer.html)  |
 
 | [dingtalk](apps/dingtalk.md) |
 | ----- |
-| [<img src=icons/dingtalk.png height=100>](apps/dingtalk.md)  |
+| [![dingtalk](ENTER)](apps/dingtalk.html)  |
 
 | [disass](apps/disass.md) |
 | ----- |
-| [<img src=icons/disass.png height=100>](apps/disass.md)  |
+| [![disass](ENTER)](apps/disass.html)  |
 
 | [discord](apps/discord.md) |
 | ----- |
-| [<img src=icons/discord.png height=100>](apps/discord.md)  |
+| [![discord](ENTER)](apps/discord.html)  |
 
 | [discord-qt-appimage](apps/discord-qt-appimage.md) |
 | ----- |
-| [<img src=icons/discord-qt-appimage.png height=100>](apps/discord-qt-appimage.md)  |
+| [![discord-qt-appimage](ENTER)](apps/discord-qt-appimage.html)  |
 
 | [dockstation](apps/dockstation.md) |
 | ----- |
-| [<img src=icons/dockstation.png height=100>](apps/dockstation.md)  |
+| [![dockstation](ENTER)](apps/dockstation.html)  |
 
 | [dokidokimodmanager](apps/dokidokimodmanager.md) |
 | ----- |
-| [<img src=icons/dokidokimodmanager.png height=100>](apps/dokidokimodmanager.md)  |
+| [![dokidokimodmanager](ENTER)](apps/dokidokimodmanager.html)  |
 
 | [doublecmd-gtk](apps/doublecmd-gtk.md) |
 | ----- |
-| [<img src=icons/doublecmd-gtk.png height=100>](apps/doublecmd-gtk.md)  |
+| [![doublecmd-gtk](ENTER)](apps/doublecmd-gtk.html)  |
 
 | [doublecmd-qt](apps/doublecmd-qt.md) |
 | ----- |
-| [<img src=icons/doublecmd-qt.png height=100>](apps/doublecmd-qt.md)  |
+| [![doublecmd-qt](ENTER)](apps/doublecmd-qt.html)  |
 
 | [downline](apps/downline.md) |
 | ----- |
-| [<img src=icons/downline.png height=100>](apps/downline.md)  |
+| [![downline](ENTER)](apps/downline.html)  |
 
 | [dragoman](apps/dragoman.md) |
 | ----- |
-| [<img src=icons/dragoman.png height=100>](apps/dragoman.md)  |
+| [![dragoman](ENTER)](apps/dragoman.html)  |
 
 | [draw.io](apps/draw.io.md) |
 | ----- |
-| [<img src=icons/draw.io.png height=100>](apps/draw.io.md)  |
+| [![draw.io](ENTER)](apps/draw.io.html)  |
 
 | [drawpile](apps/drawpile.md) |
 | ----- |
-| [<img src=icons/drawpile.png height=100>](apps/drawpile.md)  |
+| [![drawpile](ENTER)](apps/drawpile.html)  |
 
 | [drill](apps/drill.md) |
 | ----- |
-| [<img src=icons/drill.png height=100>](apps/drill.md)  |
+| [![drill](ENTER)](apps/drill.html)  |
 
 | [droidcam](apps/droidcam.md) |
 | ----- |
-| [<img src=icons/droidcam.png height=100>](apps/droidcam.md)  |
+| [![droidcam](ENTER)](apps/droidcam.html)  |
 
 | [dropbox](apps/dropbox.md) |
 | ----- |
-| [<img src=icons/dropbox.png height=100>](apps/dropbox.md)  |
+| [![dropbox](ENTER)](apps/dropbox.html)  |
 
 | [duckstation](apps/duckstation.md) |
 | ----- |
-| [<img src=icons/duckstation.png height=100>](apps/duckstation.md)  |
+| [![duckstation](ENTER)](apps/duckstation.html)  |
 
 | [dukto](apps/dukto.md) |
 | ----- |
-| [<img src=icons/dukto.png height=100>](apps/dukto.md)  |
+| [![dukto](ENTER)](apps/dukto.html)  |
 
 | [dust3d](apps/dust3d.md) |
 | ----- |
-| [<img src=icons/dust3d.png height=100>](apps/dust3d.md)  |
+| [![dust3d](ENTER)](apps/dust3d.html)  |
 
 | [dvdisaster](apps/dvdisaster.md) |
 | ----- |
-| [<img src=icons/dvdisaster.png height=100>](apps/dvdisaster.md)  |
+| [![dvdisaster](ENTER)](apps/dvdisaster.html)  |
 
 | [dwarffortress-linuxdwarfpack-appimage](apps/dwarffortress-linuxdwarfpack-appimage.md) |
 | ----- |
-| [<img src=icons/dwarffortress-linuxdwarfpack-appimage.png height=100>](apps/dwarffortress-linuxdwarfpack-appimage.md)  |
+| [![dwarffortress-linuxdwarfpack-appimage](ENTER)](apps/dwarffortress-linuxdwarfpack-appimage.html)  |
 
 | [dwyco-phoo](apps/dwyco-phoo.md) |
 | ----- |
-| [<img src=icons/dwyco-phoo.png height=100>](apps/dwyco-phoo.md)  |
+| [![dwyco-phoo](ENTER)](apps/dwyco-phoo.html)  |
 
 | [eaglemode](apps/eaglemode.md) |
 | ----- |
-| [<img src=icons/eaglemode.png height=100>](apps/eaglemode.md)  |
+| [![eaglemode](ENTER)](apps/eaglemode.html)  |
 
 | [easymercurial](apps/easymercurial.md) |
 | ----- |
-| [<img src=icons/easymercurial.png height=100>](apps/easymercurial.md)  |
+| [![easymercurial](ENTER)](apps/easymercurial.html)  |
 
 | [edex-ui](apps/edex-ui.md) |
 | ----- |
-| [<img src=icons/edex-ui.png height=100>](apps/edex-ui.md)  |
+| [![edex-ui](ENTER)](apps/edex-ui.html)  |
 
 | [ehdev-shell](apps/ehdev-shell.md) |
 | ----- |
-| [<img src=icons/ehdev-shell.png height=100>](apps/ehdev-shell.md)  |
+| [![ehdev-shell](ENTER)](apps/ehdev-shell.html)  |
 
 | [eksplode.re](apps/eksplode.re.md) |
 | ----- |
-| [<img src=icons/eksplode.re.png height=100>](apps/eksplode.re.md)  |
+| [![eksplode.re](ENTER)](apps/eksplode.re.html)  |
 
 | [elcalc](apps/elcalc.md) |
 | ----- |
-| [<img src=icons/elcalc.png height=100>](apps/elcalc.md)  |
+| [![elcalc](ENTER)](apps/elcalc.html)  |
 
 | [eldumper](apps/eldumper.md) |
 | ----- |
-| [<img src=icons/eldumper.png height=100>](apps/eldumper.md)  |
+| [![eldumper](ENTER)](apps/eldumper.html)  |
 
 | [electorrent](apps/electorrent.md) |
 | ----- |
-| [<img src=icons/electorrent.png height=100>](apps/electorrent.md)  |
+| [![electorrent](ENTER)](apps/electorrent.html)  |
 
 | [electrocrud](apps/electrocrud.md) |
 | ----- |
-| [<img src=icons/electrocrud.png height=100>](apps/electrocrud.md)  |
+| [![electrocrud](ENTER)](apps/electrocrud.html)  |
 
 | [electron-app-store](apps/electron-app-store.md) |
 | ----- |
-| [<img src=icons/electron-app-store.png height=100>](apps/electron-app-store.md)  |
+| [![electron-app-store](ENTER)](apps/electron-app-store.html)  |
 
 | [electron-cash](apps/electron-cash.md) |
 | ----- |
-| [<img src=icons/electron-cash.png height=100>](apps/electron-cash.md)  |
+| [![electron-cash](ENTER)](apps/electron-cash.html)  |
 
 | [electron-ssr-appimage](apps/electron-ssr-appimage.md) |
 | ----- |
-| [<img src=icons/electron-ssr-appimage.png height=100>](apps/electron-ssr-appimage.md)  |
+| [![electron-ssr-appimage](ENTER)](apps/electron-ssr-appimage.html)  |
 
 | [electron-wechat](apps/electron-wechat.md) |
 | ----- |
-| [<img src=icons/electron-wechat.png height=100>](apps/electron-wechat.md)  |
+| [![electron-wechat](ENTER)](apps/electron-wechat.html)  |
 
 | [electronwmd-appimage](apps/electronwmd-appimage.md) |
 | ----- |
-| [<img src=icons/electronwmd-appimage.png height=100>](apps/electronwmd-appimage.md)  |
+| [![electronwmd-appimage](ENTER)](apps/electronwmd-appimage.html)  |
 
 | [electron-xiami](apps/electron-xiami.md) |
 | ----- |
-| [<img src=icons/electron-xiami.png height=100>](apps/electron-xiami.md)  |
+| [![electron-xiami](ENTER)](apps/electron-xiami.html)  |
 
 | [electrumfair](apps/electrumfair.md) |
 | ----- |
-| [<img src=icons/electrumfair.png height=100>](apps/electrumfair.md)  |
+| [![electrumfair](ENTER)](apps/electrumfair.html)  |
 
 | [electrum](apps/electrum.md) |
 | ----- |
-| [<img src=icons/electrum.png height=100>](apps/electrum.md)  |
+| [![electrum](ENTER)](apps/electrum.html)  |
 
 | [electrum-nmc](apps/electrum-nmc.md) |
 | ----- |
-| [<img src=icons/electrum-nmc.png height=100>](apps/electrum-nmc.md)  |
+| [![electrum-nmc](ENTER)](apps/electrum-nmc.html)  |
 
 | [electrum-ravencoin-appimage](apps/electrum-ravencoin-appimage.md) |
 | ----- |
-| [<img src=icons/electrum-ravencoin-appimage.png height=100>](apps/electrum-ravencoin-appimage.md)  |
+| [![electrum-ravencoin-appimage](ENTER)](apps/electrum-ravencoin-appimage.html)  |
 
 | [element](apps/element.md) |
 | ----- |
-| [<img src=icons/element.png height=100>](apps/element.md)  |
+| [![element](ENTER)](apps/element.html)  |
 
 | [elementary-code](apps/elementary-code.md) |
 | ----- |
-| [<img src=icons/elementary-code.png height=100>](apps/elementary-code.md)  |
+| [![elementary-code](ENTER)](apps/elementary-code.html)  |
 
 | [elements](apps/elements.md) |
 | ----- |
-| [<img src=icons/elements.png height=100>](apps/elements.md)  |
+| [![elements](ENTER)](apps/elements.html)  |
 
 | [elphyre-walletshell](apps/elphyre-walletshell.md) |
 | ----- |
-| [<img src=icons/elphyre-walletshell.png height=100>](apps/elphyre-walletshell.md)  |
+| [![elphyre-walletshell](ENTER)](apps/elphyre-walletshell.html)  |
 
 | [elzabrowser](apps/elzabrowser.md) |
 | ----- |
-| [<img src=icons/elzabrowser.png height=100>](apps/elzabrowser.md)  |
+| [![elzabrowser](ENTER)](apps/elzabrowser.html)  |
 
 | [emacs](apps/emacs.md) |
 | ----- |
-| [<img src=icons/emacs.png height=100>](apps/emacs.md)  |
+| [![emacs](ENTER)](apps/emacs.html)  |
 
 | [embedded-ide](apps/embedded-ide.md) |
 | ----- |
-| [<img src=icons/embedded-ide.png height=100>](apps/embedded-ide.md)  |
+| [![embedded-ide](ENTER)](apps/embedded-ide.html)  |
 
 | [ember](apps/ember.md) |
 | ----- |
-| [<img src=icons/ember.png height=100>](apps/ember.md)  |
+| [![ember](ENTER)](apps/ember.html)  |
 
 | [emoji-keyboard-appimage](apps/emoji-keyboard-appimage.md) |
 | ----- |
-| [<img src=icons/emoji-keyboard-appimage.png height=100>](apps/emoji-keyboard-appimage.md)  |
+| [![emoji-keyboard-appimage](ENTER)](apps/emoji-keyboard-appimage.html)  |
 
 | [emulationstation](apps/emulationstation.md) |
 | ----- |
-| [<img src=icons/emulationstation.png height=100>](apps/emulationstation.md)  |
+| [![emulationstation](ENTER)](apps/emulationstation.html)  |
 
 | [encryptpad](apps/encryptpad.md) |
 | ----- |
-| [<img src=icons/encryptpad.png height=100>](apps/encryptpad.md)  |
+| [![encryptpad](ENTER)](apps/encryptpad.html)  |
 
 | [endless-sky](apps/endless-sky.md) |
 | ----- |
-| [<img src=icons/endless-sky.png height=100>](apps/endless-sky.md)  |
+| [![endless-sky](ENTER)](apps/endless-sky.html)  |
 
 | [enoseannotator](apps/enoseannotator.md) |
 | ----- |
-| [<img src=icons/enoseannotator.png height=100>](apps/enoseannotator.md)  |
+| [![enoseannotator](ENTER)](apps/enoseannotator.html)  |
 
 | [ente](apps/ente.md) |
 | ----- |
-| [<img src=icons/ente.png height=100>](apps/ente.md)  |
+| [![ente](ENTER)](apps/ente.html)  |
 
 | [enve](apps/enve.md) |
 | ----- |
-| [<img src=icons/enve.png height=100>](apps/enve.md)  |
+| [![enve](ENTER)](apps/enve.html)  |
 
 | [envkey](apps/envkey.md) |
 | ----- |
-| [<img src=icons/envkey.png height=100>](apps/envkey.md)  |
+| [![envkey](ENTER)](apps/envkey.html)  |
 
 | [eosvc](apps/eosvc.md) |
 | ----- |
-| [<img src=icons/eosvc.png height=100>](apps/eosvc.md)  |
+| [![eosvc](ENTER)](apps/eosvc.html)  |
 
 | [eplee](apps/eplee.md) |
 | ----- |
-| [<img src=icons/eplee.png height=100>](apps/eplee.md)  |
+| [![eplee](ENTER)](apps/eplee.html)  |
 
 | [eqonomize](apps/eqonomize.md) |
 | ----- |
-| [<img src=icons/eqonomize.png height=100>](apps/eqonomize.md)  |
+| [![eqonomize](ENTER)](apps/eqonomize.html)  |
 
 | [erdesigner](apps/erdesigner.md) |
 | ----- |
-| [<img src=icons/erdesigner.png height=100>](apps/erdesigner.md)  |
+| [![erdesigner](ENTER)](apps/erdesigner.html)  |
 
 | [erscaffold](apps/erscaffold.md) |
 | ----- |
-| [<img src=icons/erscaffold.png height=100>](apps/erscaffold.md)  |
+| [![erscaffold](ENTER)](apps/erscaffold.html)  |
 
 | [espanso](apps/espanso.md) |
 | ----- |
-| [<img src=icons/espanso.png height=100>](apps/espanso.md)  |
+| [![espanso](ENTER)](apps/espanso.html)  |
 
 | [espi-appimage](apps/espi-appimage.md) |
 | ----- |
-| [<img src=icons/espi-appimage.png height=100>](apps/espi-appimage.md)  |
+| [![espi-appimage](ENTER)](apps/espi-appimage.html)  |
 
 | [etcher](apps/etcher.md) |
 | ----- |
-| [<img src=icons/etcher.png height=100>](apps/etcher.md)  |
+| [![etcher](ENTER)](apps/etcher.html)  |
 
 | [eternal-lands](apps/eternal-lands.md) |
 | ----- |
-| [<img src=icons/eternal-lands.png height=100>](apps/eternal-lands.md)  |
+| [![eternal-lands](ENTER)](apps/eternal-lands.html)  |
 
 | [eternalmodmanager](apps/eternalmodmanager.md) |
 | ----- |
-| [<img src=icons/eternalmodmanager.png height=100>](apps/eternalmodmanager.md)  |
+| [![eternalmodmanager](ENTER)](apps/eternalmodmanager.html)  |
 
 | [everinst](apps/everinst.md) |
 | ----- |
-| [<img src=icons/everinst.png height=100>](apps/everinst.md)  |
+| [![everinst](ENTER)](apps/everinst.html)  |
 
 | [evoplex](apps/evoplex.md) |
 | ----- |
-| [<img src=icons/evoplex.png height=100>](apps/evoplex.md)  |
+| [![evoplex](ENTER)](apps/evoplex.html)  |
 
 | [exeqt](apps/exeqt.md) |
 | ----- |
-| [<img src=icons/exeqt.png height=100>](apps/exeqt.md)  |
+| [![exeqt](ENTER)](apps/exeqt.html)  |
 
 | [exifcleaner](apps/exifcleaner.md) |
 | ----- |
-| [<img src=icons/exifcleaner.png height=100>](apps/exifcleaner.md)  |
+| [![exifcleaner](ENTER)](apps/exifcleaner.html)  |
 
 | [eximchain-wallet](apps/eximchain-wallet.md) |
 | ----- |
-| [<img src=icons/eximchain-wallet.png height=100>](apps/eximchain-wallet.md)  |
+| [![eximchain-wallet](ENTER)](apps/eximchain-wallet.html)  |
 
 | [explorook](apps/explorook.md) |
 | ----- |
-| [<img src=icons/explorook.png height=100>](apps/explorook.md)  |
+| [![explorook](ENTER)](apps/explorook.html)  |
 
 | [exportoo](apps/exportoo.md) |
 | ----- |
-| [<img src=icons/exportoo.png height=100>](apps/exportoo.md)  |
+| [![exportoo](ENTER)](apps/exportoo.html)  |
 
 | [extraterm](apps/extraterm.md) |
 | ----- |
-| [<img src=icons/extraterm.png height=100>](apps/extraterm.md)  |
+| [![extraterm](ENTER)](apps/extraterm.html)  |
 
 | [extrema](apps/extrema.md) |
 | ----- |
-| [<img src=icons/extrema.png height=100>](apps/extrema.md)  |
+| [![extrema](ENTER)](apps/extrema.html)  |
 
 | [extremetuxracer](apps/extremetuxracer.md) |
 | ----- |
-| [<img src=icons/extremetuxracer.png height=100>](apps/extremetuxracer.md)  |
+| [![extremetuxracer](ENTER)](apps/extremetuxracer.html)  |
 
 | [eyestalker](apps/eyestalker.md) |
 | ----- |
-| [<img src=icons/eyestalker.png height=100>](apps/eyestalker.md)  |
+| [![eyestalker](ENTER)](apps/eyestalker.html)  |
 
 | [fastboot](apps/fastboot.md) |
 | ----- |
-| [<img src=icons/fastboot.png height=100>](apps/fastboot.md)  |
+| [![fastboot](ENTER)](apps/fastboot.html)  |
 
 | [fastqt](apps/fastqt.md) |
 | ----- |
-| [<img src=icons/fastqt.png height=100>](apps/fastqt.md)  |
+| [![fastqt](ENTER)](apps/fastqt.html)  |
 
 | [fasttrack](apps/fasttrack.md) |
 | ----- |
-| [<img src=icons/fasttrack.png height=100>](apps/fasttrack.md)  |
+| [![fasttrack](ENTER)](apps/fasttrack.html)  |
 
 | [fat-wallet](apps/fat-wallet.md) |
 | ----- |
-| [<img src=icons/fat-wallet.png height=100>](apps/fat-wallet.md)  |
+| [![fat-wallet](ENTER)](apps/fat-wallet.html)  |
 
 | [fchat-appimage](apps/fchat-appimage.md) |
 | ----- |
-| [<img src=icons/fchat-appimage.png height=100>](apps/fchat-appimage.md)  |
+| [![fchat-appimage](ENTER)](apps/fchat-appimage.html)  |
 
 | [fchat-rising-appimage](apps/fchat-rising-appimage.md) |
 | ----- |
-| [<img src=icons/fchat-rising-appimage.png height=100>](apps/fchat-rising-appimage.md)  |
+| [![fchat-rising-appimage](ENTER)](apps/fchat-rising-appimage.html)  |
 
 | [f-crm](apps/f-crm.md) |
 | ----- |
-| [<img src=icons/f-crm.png height=100>](apps/f-crm.md)  |
+| [![f-crm](ENTER)](apps/f-crm.html)  |
 
 | [feebas](apps/feebas.md) |
 | ----- |
-| [<img src=icons/feebas.png height=100>](apps/feebas.md)  |
+| [![feebas](ENTER)](apps/feebas.html)  |
 
 | [feedseries](apps/feedseries.md) |
 | ----- |
-| [<img src=icons/feedseries.png height=100>](apps/feedseries.md)  |
+| [![feedseries](ENTER)](apps/feedseries.html)  |
 
 | [ferdi](apps/ferdi.md) |
 | ----- |
-| [<img src=icons/ferdi.png height=100>](apps/ferdi.md)  |
+| [![ferdi](ENTER)](apps/ferdi.html)  |
 
 | [ferdium](apps/ferdium.md) |
 | ----- |
-| [<img src=icons/ferdium.png height=100>](apps/ferdium.md)  |
+| [![ferdium](ENTER)](apps/ferdium.html)  |
 
 | [fflogs-uploader-appimage](apps/fflogs-uploader-appimage.md) |
 | ----- |
-| [<img src=icons/fflogs-uploader-appimage.png height=100>](apps/fflogs-uploader-appimage.md)  |
+| [![fflogs-uploader-appimage](ENTER)](apps/fflogs-uploader-appimage.html)  |
 
 | [ff-password-exporter](apps/ff-password-exporter.md) |
 | ----- |
-| [<img src=icons/ff-password-exporter.png height=100>](apps/ff-password-exporter.md)  |
+| [![ff-password-exporter](ENTER)](apps/ff-password-exporter.html)  |
 
 | [ffwa-facebook](apps/ffwa-facebook.md) |
 | ----- |
-| [<img src=icons/ffwa-facebook.png height=100>](apps/ffwa-facebook.md)  |
+| [![ffwa-facebook](ENTER)](apps/ffwa-facebook.html)  |
 
 | [ffwa-github](apps/ffwa-github.md) |
 | ----- |
-| [<img src=icons/ffwa-github.png height=100>](apps/ffwa-github.md)  |
+| [![ffwa-github](ENTER)](apps/ffwa-github.html)  |
 
 | [ffwa-gmail](apps/ffwa-gmail.md) |
 | ----- |
-| [<img src=icons/ffwa-gmail.png height=100>](apps/ffwa-gmail.md)  |
+| [![ffwa-gmail](ENTER)](apps/ffwa-gmail.html)  |
 
 | [ffwa-netflix](apps/ffwa-netflix.md) |
 | ----- |
-| [<img src=icons/ffwa-netflix.png height=100>](apps/ffwa-netflix.md)  |
+| [![ffwa-netflix](ENTER)](apps/ffwa-netflix.html)  |
 
 | [ffwa-reddit](apps/ffwa-reddit.md) |
 | ----- |
-| [<img src=icons/ffwa-reddit.png height=100>](apps/ffwa-reddit.md)  |
+| [![ffwa-reddit](ENTER)](apps/ffwa-reddit.html)  |
 
 | [ffwa-twitter](apps/ffwa-twitter.md) |
 | ----- |
-| [<img src=icons/ffwa-twitter.png height=100>](apps/ffwa-twitter.md)  |
+| [![ffwa-twitter](ENTER)](apps/ffwa-twitter.html)  |
 
 | [ffwa-whatsapp](apps/ffwa-whatsapp.md) |
 | ----- |
-| [<img src=icons/ffwa-whatsapp.png height=100>](apps/ffwa-whatsapp.md)  |
+| [![ffwa-whatsapp](ENTER)](apps/ffwa-whatsapp.html)  |
 
 | [ffwa-wikipedia](apps/ffwa-wikipedia.md) |
 | ----- |
-| [<img src=icons/ffwa-wikipedia.png height=100>](apps/ffwa-wikipedia.md)  |
+| [![ffwa-wikipedia](ENTER)](apps/ffwa-wikipedia.html)  |
 
 | [ffwa-youtube](apps/ffwa-youtube.md) |
 | ----- |
-| [<img src=icons/ffwa-youtube.png height=100>](apps/ffwa-youtube.md)  |
+| [![ffwa-youtube](ENTER)](apps/ffwa-youtube.html)  |
 
 | [fidias-database-migration-app](apps/fidias-database-migration-app.md) |
 | ----- |
-| [<img src=icons/fidias-database-migration-app.png height=100>](apps/fidias-database-migration-app.md)  |
+| [![fidias-database-migration-app](ENTER)](apps/fidias-database-migration-app.html)  |
 
 | [figma-linux](apps/figma-linux.md) |
 | ----- |
-| [<img src=icons/figma-linux.png height=100>](apps/figma-linux.md)  |
+| [![figma-linux](ENTER)](apps/figma-linux.html)  |
 
 | [file-converter](apps/file-converter.md) |
 | ----- |
-| [<img src=icons/file-converter.png height=100>](apps/file-converter.md)  |
+| [![file-converter](ENTER)](apps/file-converter.html)  |
 
 | [filelight](apps/filelight.md) |
 | ----- |
-| [<img src=icons/filelight.png height=100>](apps/filelight.md)  |
+| [![filelight](ENTER)](apps/filelight.html)  |
 
 | [filen](apps/filen.md) |
 | ----- |
-| [<img src=icons/filen.png height=100>](apps/filen.md)  |
+| [![filen](ENTER)](apps/filen.html)  |
 
 | [file-to-c](apps/file-to-c.md) |
 | ----- |
-| [<img src=icons/file-to-c.png height=100>](apps/file-to-c.md)  |
+| [![file-to-c](ENTER)](apps/file-to-c.html)  |
 
 | [filezilla](apps/filezilla.md) |
 | ----- |
-| [<img src=icons/filezilla.png height=100>](apps/filezilla.md)  |
+| [![filezilla](ENTER)](apps/filezilla.html)  |
 
 | [filmulator-gui](apps/filmulator-gui.md) |
 | ----- |
-| [<img src=icons/filmulator-gui.png height=100>](apps/filmulator-gui.md)  |
+| [![filmulator-gui](ENTER)](apps/filmulator-gui.html)  |
 
 | [firefox-appimage](apps/firefox-appimage.md) |
 | ----- |
-| [<img src=icons/firefox-appimage.png height=100>](apps/firefox-appimage.md)  |
+| [![firefox-appimage](ENTER)](apps/firefox-appimage.html)  |
 
 | [firefox-beta-appimage](apps/firefox-beta-appimage.md) |
 | ----- |
-| [<img src=icons/firefox-beta-appimage.png height=100>](apps/firefox-beta-appimage.md)  |
+| [![firefox-beta-appimage](ENTER)](apps/firefox-beta-appimage.html)  |
 
 | [firefox-beta](apps/firefox-beta.md) |
 | ----- |
-| [<img src=icons/firefox-beta.png height=100>](apps/firefox-beta.md)  |
+| [![firefox-beta](ENTER)](apps/firefox-beta.html)  |
 
 | [firefox-devedition-appimage](apps/firefox-devedition-appimage.md) |
 | ----- |
-| [<img src=icons/firefox-devedition-appimage.png height=100>](apps/firefox-devedition-appimage.md)  |
+| [![firefox-devedition-appimage](ENTER)](apps/firefox-devedition-appimage.html)  |
 
 | [firefox-dev](apps/firefox-dev.md) |
 | ----- |
-| [<img src=icons/firefox-dev.png height=100>](apps/firefox-dev.md)  |
+| [![firefox-dev](ENTER)](apps/firefox-dev.html)  |
 
 | [firefox-esr-appimage](apps/firefox-esr-appimage.md) |
 | ----- |
-| [<img src=icons/firefox-esr-appimage.png height=100>](apps/firefox-esr-appimage.md)  |
+| [![firefox-esr-appimage](ENTER)](apps/firefox-esr-appimage.html)  |
 
 | [firefox-esr](apps/firefox-esr.md) |
 | ----- |
-| [<img src=icons/firefox-esr.png height=100>](apps/firefox-esr.md)  |
+| [![firefox-esr](ENTER)](apps/firefox-esr.html)  |
 
 | [firefox](apps/firefox.md) |
 | ----- |
-| [<img src=icons/firefox.png height=100>](apps/firefox.md)  |
+| [![firefox](ENTER)](apps/firefox.html)  |
 
 | [firefox-nightly-appimage](apps/firefox-nightly-appimage.md) |
 | ----- |
-| [<img src=icons/firefox-nightly-appimage.png height=100>](apps/firefox-nightly-appimage.md)  |
+| [![firefox-nightly-appimage](ENTER)](apps/firefox-nightly-appimage.html)  |
 
 | [firefox-nightly](apps/firefox-nightly.md) |
 | ----- |
-| [<img src=icons/firefox-nightly.png height=100>](apps/firefox-nightly.md)  |
+| [![firefox-nightly](ENTER)](apps/firefox-nightly.html)  |
 
 | [firetail](apps/firetail.md) |
 | ----- |
-| [<img src=icons/firetail.png height=100>](apps/firetail.md)  |
+| [![firetail](ENTER)](apps/firetail.html)  |
 
 | [fish](apps/fish.md) |
 | ----- |
-| [<img src=icons/fish.png height=100>](apps/fish.md)  |
+| [![fish](ENTER)](apps/fish.html)  |
 
 | [flameshot](apps/flameshot.md) |
 | ----- |
-| [<img src=icons/flameshot.png height=100>](apps/flameshot.md)  |
+| [![flameshot](ENTER)](apps/flameshot.html)  |
 
 | [flexvdi-client-appimage](apps/flexvdi-client-appimage.md) |
 | ----- |
-| [<img src=icons/flexvdi-client-appimage.png height=100>](apps/flexvdi-client-appimage.md)  |
+| [![flexvdi-client-appimage](ENTER)](apps/flexvdi-client-appimage.html)  |
 
 | [flightgear-airports](apps/flightgear-airports.md) |
 | ----- |
-| [<img src=icons/flightgear-airports.png height=100>](apps/flightgear-airports.md)  |
+| [![flightgear-airports](ENTER)](apps/flightgear-airports.html)  |
 
 | [flippy-qualitative-testbench](apps/flippy-qualitative-testbench.md) |
 | ----- |
-| [<img src=icons/flippy-qualitative-testbench.png height=100>](apps/flippy-qualitative-testbench.md)  |
+| [![flippy-qualitative-testbench](ENTER)](apps/flippy-qualitative-testbench.html)  |
 
 | [fluent-reader](apps/fluent-reader.md) |
 | ----- |
-| [<img src=icons/fluent-reader.png height=100>](apps/fluent-reader.md)  |
+| [![fluent-reader](ENTER)](apps/fluent-reader.html)  |
 
 | [fmradio](apps/fmradio.md) |
 | ----- |
-| [<img src=icons/fmradio.png height=100>](apps/fmradio.md)  |
+| [![fmradio](ENTER)](apps/fmradio.html)  |
 
 | [fms-file-explorer](apps/fms-file-explorer.md) |
 | ----- |
-| [<img src=icons/fms-file-explorer.png height=100>](apps/fms-file-explorer.md)  |
+| [![fms-file-explorer](ENTER)](apps/fms-file-explorer.html)  |
 
 | [focusatwill-appimage](apps/focusatwill-appimage.md) |
 | ----- |
-| [<img src=icons/focusatwill-appimage.png height=100>](apps/focusatwill-appimage.md)  |
+| [![focusatwill-appimage](ENTER)](apps/focusatwill-appimage.html)  |
 
 | [focuswriter](apps/focuswriter.md) |
 | ----- |
-| [<img src=icons/focuswriter.png height=100>](apps/focuswriter.md)  |
+| [![focuswriter](ENTER)](apps/focuswriter.html)  |
 
 | [fontbase](apps/fontbase.md) |
 | ----- |
-| [<img src=icons/fontbase.png height=100>](apps/fontbase.md)  |
+| [![fontbase](ENTER)](apps/fontbase.html)  |
 
 | [fontforge](apps/fontforge.md) |
 | ----- |
-| [<img src=icons/fontforge.png height=100>](apps/fontforge.md)  |
+| [![fontforge](ENTER)](apps/fontforge.html)  |
 
 | [fontlet](apps/fontlet.md) |
 | ----- |
-| [<img src=icons/fontlet.png height=100>](apps/fontlet.md)  |
+| [![fontlet](ENTER)](apps/fontlet.html)  |
 
 | [foobar2000](apps/foobar2000.md) |
 | ----- |
-| [<img src=icons/foobar2000.png height=100>](apps/foobar2000.md)  |
+| [![foobar2000](ENTER)](apps/foobar2000.html)  |
 
 | [four](apps/four.md) |
 | ----- |
-| [<img src=icons/four.png height=100>](apps/four.md)  |
+| [![four](ENTER)](apps/four.html)  |
 
 | [foxfolio](apps/foxfolio.md) |
 | ----- |
-| [<img src=icons/foxfolio.png height=100>](apps/foxfolio.md)  |
+| [![foxfolio](ENTER)](apps/foxfolio.html)  |
 
 | [fractale](apps/fractale.md) |
 | ----- |
-| [<img src=icons/fractale.png height=100>](apps/fractale.md)  |
+| [![fractale](ENTER)](apps/fractale.html)  |
 
 | [fraidycat](apps/fraidycat.md) |
 | ----- |
-| [<img src=icons/fraidycat.png height=100>](apps/fraidycat.md)  |
+| [![fraidycat](ENTER)](apps/fraidycat.html)  |
 
 | [fraktal](apps/fraktal.md) |
 | ----- |
-| [<img src=icons/fraktal.png height=100>](apps/fraktal.md)  |
+| [![fraktal](ENTER)](apps/fraktal.html)  |
 
 | [frame-eth-dev-appimage](apps/frame-eth-dev-appimage.md) |
 | ----- |
-| [<img src=icons/frame-eth-dev-appimage.png height=100>](apps/frame-eth-dev-appimage.md)  |
+| [![frame-eth-dev-appimage](ENTER)](apps/frame-eth-dev-appimage.html)  |
 
 | [francetv](apps/francetv.md) |
 | ----- |
-| [<img src=icons/francetv.png height=100>](apps/francetv.md)  |
+| [![francetv](ENTER)](apps/francetv.html)  |
 
 | [franz](apps/franz.md) |
 | ----- |
-| [<img src=icons/franz.png height=100>](apps/franz.md)  |
+| [![franz](ENTER)](apps/franz.html)  |
 
 | [frappe-accounting](apps/frappe-accounting.md) |
 | ----- |
-| [<img src=icons/frappe-accounting.png height=100>](apps/frappe-accounting.md)  |
+| [![frappe-accounting](ENTER)](apps/frappe-accounting.html)  |
 
 | [frappebooks](apps/frappebooks.md) |
 | ----- |
-| [<img src=icons/frappebooks.png height=100>](apps/frappebooks.md)  |
+| [![frappebooks](ENTER)](apps/frappebooks.html)  |
 
 | [freac](apps/freac.md) |
 | ----- |
-| [<img src=icons/freac.png height=100>](apps/freac.md)  |
+| [![freac](ENTER)](apps/freac.html)  |
 
 | [freecad-assembly3-appimage](apps/freecad-assembly3-appimage.md) |
 | ----- |
-| [<img src=icons/freecad-assembly3-appimage.png height=100>](apps/freecad-assembly3-appimage.md)  |
+| [![freecad-assembly3-appimage](ENTER)](apps/freecad-assembly3-appimage.html)  |
 
 | [freecad](apps/freecad.md) |
 | ----- |
-| [<img src=icons/freecad.png height=100>](apps/freecad.md)  |
+| [![freecad](ENTER)](apps/freecad.html)  |
 
 | [freeman](apps/freeman.md) |
 | ----- |
-| [<img src=icons/freeman.png height=100>](apps/freeman.md)  |
+| [![freeman](ENTER)](apps/freeman.html)  |
 
 | [freetexturepacker](apps/freetexturepacker.md) |
 | ----- |
-| [<img src=icons/freetexturepacker.png height=100>](apps/freetexturepacker.md)  |
+| [![freetexturepacker](ENTER)](apps/freetexturepacker.html)  |
 
 | [freetube](apps/freetube.md) |
 | ----- |
-| [<img src=icons/freetube.png height=100>](apps/freetube.md)  |
+| [![freetube](ENTER)](apps/freetube.html)  |
 
 | [freezer-appimage](apps/freezer-appimage.md) |
 | ----- |
-| [<img src=icons/freezer-appimage.png height=100>](apps/freezer-appimage.md)  |
+| [![freezer-appimage](ENTER)](apps/freezer-appimage.html)  |
 
 | [friture](apps/friture.md) |
 | ----- |
-| [<img src=icons/friture.png height=100>](apps/friture.md)  |
+| [![friture](ENTER)](apps/friture.html)  |
 
 | [fromscratch](apps/fromscratch.md) |
 | ----- |
-| [<img src=icons/fromscratch.png height=100>](apps/fromscratch.md)  |
+| [![fromscratch](ENTER)](apps/fromscratch.html)  |
 
 | [fspy](apps/fspy.md) |
 | ----- |
-| [<img src=icons/fspy.png height=100>](apps/fspy.md)  |
+| [![fspy](ENTER)](apps/fspy.html)  |
 
 | [galacteek](apps/galacteek.md) |
 | ----- |
-| [<img src=icons/galacteek.png height=100>](apps/galacteek.md)  |
+| [![galacteek](ENTER)](apps/galacteek.html)  |
 
 | [gamehub](apps/gamehub.md) |
 | ----- |
-| [<img src=icons/gamehub.png height=100>](apps/gamehub.md)  |
+| [![gamehub](ENTER)](apps/gamehub.html)  |
 
 | [gams-studio](apps/gams-studio.md) |
 | ----- |
-| [<img src=icons/gams-studio.png height=100>](apps/gams-studio.md)  |
+| [![gams-studio](ENTER)](apps/gams-studio.html)  |
 
 | [ganache](apps/ganache.md) |
 | ----- |
-| [<img src=icons/ganache.png height=100>](apps/ganache.md)  |
+| [![ganache](ENTER)](apps/ganache.html)  |
 
 | [gargoyle-bin](apps/gargoyle-bin.md) |
 | ----- |
-| [<img src=icons/gargoyle-bin.png height=100>](apps/gargoyle-bin.md)  |
+| [![gargoyle-bin](ENTER)](apps/gargoyle-bin.html)  |
 
 | [gdevelop](apps/gdevelop.md) |
 | ----- |
-| [<img src=icons/gdevelop.png height=100>](apps/gdevelop.md)  |
+| [![gdevelop](ENTER)](apps/gdevelop.html)  |
 
 | [gdlauncher-appimage](apps/gdlauncher-appimage.md) |
 | ----- |
-| [<img src=icons/gdlauncher-appimage.png height=100>](apps/gdlauncher-appimage.md)  |
+| [![gdlauncher-appimage](ENTER)](apps/gdlauncher-appimage.html)  |
 
 | [geeqie](apps/geeqie.md) |
 | ----- |
-| [<img src=icons/geeqie.png height=100>](apps/geeqie.md)  |
+| [![geeqie](ENTER)](apps/geeqie.html)  |
 
 | [genesis](apps/genesis.md) |
 | ----- |
-| [<img src=icons/genesis.png height=100>](apps/genesis.md)  |
+| [![genesis](ENTER)](apps/genesis.html)  |
 
 | [geometrize](apps/geometrize.md) |
 | ----- |
-| [<img src=icons/geometrize.png height=100>](apps/geometrize.md)  |
+| [![geometrize](ENTER)](apps/geometrize.html)  |
 
 | [geometrize](apps/geometrize.md) |
 | ----- |
-| [<img src=icons/geometrize.png height=100>](apps/geometrize.md)  |
+| [![geometrize](ENTER)](apps/geometrize.html)  |
 
 | [gerbv](apps/gerbv.md) |
 | ----- |
-| [<img src=icons/gerbv.png height=100>](apps/gerbv.md)  |
+| [![gerbv](ENTER)](apps/gerbv.html)  |
 
 | [getswell](apps/getswell.md) |
 | ----- |
-| [<img src=icons/getswell.png height=100>](apps/getswell.md)  |
+| [![getswell](ENTER)](apps/getswell.html)  |
 
 | [getthermal](apps/getthermal.md) |
 | ----- |
-| [<img src=icons/getthermal.png height=100>](apps/getthermal.md)  |
+| [![getthermal](ENTER)](apps/getthermal.html)  |
 
 | [gextractwinicons](apps/gextractwinicons.md) |
 | ----- |
-| [<img src=icons/gextractwinicons.png height=100>](apps/gextractwinicons.md)  |
+| [![gextractwinicons](ENTER)](apps/gextractwinicons.html)  |
 
 | [giada](apps/giada.md) |
 | ----- |
-| [<img src=icons/giada.png height=100>](apps/giada.md)  |
+| [![giada](ENTER)](apps/giada.html)  |
 
 | [gibs](apps/gibs.md) |
 | ----- |
-| [<img src=icons/gibs.png height=100>](apps/gibs.md)  |
+| [![gibs](ENTER)](apps/gibs.html)  |
 
 | [gifcurry](apps/gifcurry.md) |
 | ----- |
-| [<img src=icons/gifcurry.png height=100>](apps/gifcurry.md)  |
+| [![gifcurry](ENTER)](apps/gifcurry.html)  |
 
 | [gimp-aferrero2707](apps/gimp-aferrero2707.md) |
 | ----- |
-| [<img src=icons/gimp-aferrero2707.png height=100>](apps/gimp-aferrero2707.md)  |
+| [![gimp-aferrero2707](ENTER)](apps/gimp-aferrero2707.html)  |
 
 | [gimp-dev](apps/gimp-dev.md) |
 | ----- |
-| [<img src=icons/gimp-dev.png height=100>](apps/gimp-dev.md)  |
+| [![gimp-dev](ENTER)](apps/gimp-dev.html)  |
 
 | [gimp](apps/gimp.md) |
 | ----- |
-| [<img src=icons/gimp.png height=100>](apps/gimp.md)  |
+| [![gimp](ENTER)](apps/gimp.html)  |
 
 | [gingko](apps/gingko.md) |
 | ----- |
-| [<img src=icons/gingko.png height=100>](apps/gingko.md)  |
+| [![gingko](ENTER)](apps/gingko.html)  |
 
 | [githoard](apps/githoard.md) |
 | ----- |
-| [<img src=icons/githoard.png height=100>](apps/githoard.md)  |
+| [![githoard](ENTER)](apps/githoard.html)  |
 
 | [github2am](apps/github2am.md) |
 | ----- |
-| [<img src=icons/github2am.png height=100>](apps/github2am.md)  |
+| [![github2am](ENTER)](apps/github2am.html)  |
 
 | [github-desktop](apps/github-desktop.md) |
 | ----- |
-| [<img src=icons/github-desktop.png height=100>](apps/github-desktop.md)  |
+| [![github-desktop](ENTER)](apps/github-desktop.html)  |
 
 | [gitjournal](apps/gitjournal.md) |
 | ----- |
-| [<img src=icons/gitjournal.png height=100>](apps/gitjournal.md)  |
+| [![gitjournal](ENTER)](apps/gitjournal.html)  |
 
 | [gitkraken](apps/gitkraken.md) |
 | ----- |
-| [<img src=icons/gitkraken.png height=100>](apps/gitkraken.md)  |
+| [![gitkraken](ENTER)](apps/gitkraken.html)  |
 
 | [gitnote](apps/gitnote.md) |
 | ----- |
-| [<img src=icons/gitnote.png height=100>](apps/gitnote.md)  |
+| [![gitnote](ENTER)](apps/gitnote.html)  |
 
 | [gitqlient](apps/gitqlient.md) |
 | ----- |
-| [<img src=icons/gitqlient.png height=100>](apps/gitqlient.md)  |
+| [![gitqlient](ENTER)](apps/gitqlient.html)  |
 
 | [glabels](apps/glabels.md) |
 | ----- |
-| [<img src=icons/glabels.png height=100>](apps/glabels.md)  |
+| [![glabels](ENTER)](apps/glabels.html)  |
 
 | [glaxnimate](apps/glaxnimate.md) |
 | ----- |
-| [<img src=icons/glaxnimate.png height=100>](apps/glaxnimate.md)  |
+| [![glaxnimate](ENTER)](apps/glaxnimate.html)  |
 
 | [glimpse-image-editor](apps/glimpse-image-editor.md) |
 | ----- |
-| [<img src=icons/glimpse-image-editor.png height=100>](apps/glimpse-image-editor.md)  |
+| [![glimpse-image-editor](ENTER)](apps/glimpse-image-editor.html)  |
 
 | [gltf-insight](apps/gltf-insight.md) |
 | ----- |
-| [<img src=icons/gltf-insight.png height=100>](apps/gltf-insight.md)  |
+| [![gltf-insight](ENTER)](apps/gltf-insight.html)  |
 
 | [glulxe](apps/glulxe.md) |
 | ----- |
-| [<img src=icons/glulxe.png height=100>](apps/glulxe.md)  |
+| [![glulxe](ENTER)](apps/glulxe.html)  |
 
 | [gl-warp2mp4](apps/gl-warp2mp4.md) |
 | ----- |
-| [<img src=icons/gl-warp2mp4.png height=100>](apps/gl-warp2mp4.md)  |
+| [![gl-warp2mp4](ENTER)](apps/gl-warp2mp4.html)  |
 
 | [glyphr-studio-desktop](apps/glyphr-studio-desktop.md) |
 | ----- |
-| [<img src=icons/glyphr-studio-desktop.png height=100>](apps/glyphr-studio-desktop.md)  |
+| [![glyphr-studio-desktop](ENTER)](apps/glyphr-studio-desktop.html)  |
 
 | [gmail-desktop](apps/gmail-desktop.md) |
 | ----- |
-| [<img src=icons/gmail-desktop.png height=100>](apps/gmail-desktop.md)  |
+| [![gmail-desktop](ENTER)](apps/gmail-desktop.html)  |
 
 | [gmappimager](apps/gmappimager.md) |
 | ----- |
-| [<img src=icons/gmappimager.png height=100>](apps/gmappimager.md)  |
+| [![gmappimager](ENTER)](apps/gmappimager.html)  |
 
 | [gm-companion](apps/gm-companion.md) |
 | ----- |
-| [<img src=icons/gm-companion.png height=100>](apps/gm-companion.md)  |
+| [![gm-companion](ENTER)](apps/gm-companion.html)  |
 
 | [godot](apps/godot.md) |
 | ----- |
-| [<img src=icons/godot.png height=100>](apps/godot.md)  |
+| [![godot](ENTER)](apps/godot.html)  |
 
 | [goglauncher](apps/goglauncher.md) |
 | ----- |
-| [<img src=icons/goglauncher.png height=100>](apps/goglauncher.md)  |
+| [![goglauncher](ENTER)](apps/goglauncher.html)  |
 
 | [goldencheetah](apps/goldencheetah.md) |
 | ----- |
-| [<img src=icons/goldencheetah.png height=100>](apps/goldencheetah.md)  |
+| [![goldencheetah](ENTER)](apps/goldencheetah.html)  |
 
 | [goldendict](apps/goldendict.md) |
 | ----- |
-| [<img src=icons/goldendict.png height=100>](apps/goldendict.md)  |
+| [![goldendict](ENTER)](apps/goldendict.html)  |
 
 | [gooboxfileshare](apps/gooboxfileshare.md) |
 | ----- |
-| [<img src=icons/gooboxfileshare.png height=100>](apps/gooboxfileshare.md)  |
+| [![gooboxfileshare](ENTER)](apps/gooboxfileshare.html)  |
 
 | [google-chrome](apps/google-chrome.md) |
 | ----- |
-| [<img src=icons/google-chrome.png height=100>](apps/google-chrome.md)  |
+| [![google-chrome](ENTER)](apps/google-chrome.html)  |
 
 | [google-tasks-desktop](apps/google-tasks-desktop.md) |
 | ----- |
-| [<img src=icons/google-tasks-desktop.png height=100>](apps/google-tasks-desktop.md)  |
+| [![google-tasks-desktop](ENTER)](apps/google-tasks-desktop.html)  |
 
 | [gpgfrontend](apps/gpgfrontend.md) |
 | ----- |
-| [<img src=icons/gpgfrontend.png height=100>](apps/gpgfrontend.md)  |
+| [![gpgfrontend](ENTER)](apps/gpgfrontend.html)  |
 
 | [gpredict](apps/gpredict.md) |
 | ----- |
-| [<img src=icons/gpredict.png height=100>](apps/gpredict.md)  |
+| [![gpredict](ENTER)](apps/gpredict.html)  |
 
 | [gqrx](apps/gqrx.md) |
 | ----- |
-| [<img src=icons/gqrx.png height=100>](apps/gqrx.md)  |
+| [![gqrx](ENTER)](apps/gqrx.html)  |
 
 | [gradestats](apps/gradestats.md) |
 | ----- |
-| [<img src=icons/gradestats.png height=100>](apps/gradestats.md)  |
+| [![gradestats](ENTER)](apps/gradestats.html)  |
 
 | [granatier](apps/granatier.md) |
 | ----- |
-| [<img src=icons/granatier.png height=100>](apps/granatier.md)  |
+| [![granatier](ENTER)](apps/granatier.html)  |
 
 | [graphql-playground](apps/graphql-playground.md) |
 | ----- |
-| [<img src=icons/graphql-playground.png height=100>](apps/graphql-playground.md)  |
+| [![graphql-playground](ENTER)](apps/graphql-playground.html)  |
 
 | [graviton](apps/graviton.md) |
 | ----- |
-| [<img src=icons/graviton.png height=100>](apps/graviton.md)  |
+| [![graviton](ENTER)](apps/graviton.html)  |
 
 | [gridplayer](apps/gridplayer.md) |
 | ----- |
-| [<img src=icons/gridplayer.png height=100>](apps/gridplayer.md)  |
+| [![gridplayer](ENTER)](apps/gridplayer.html)  |
 
 | [grinplusplus](apps/grinplusplus.md) |
 | ----- |
-| [<img src=icons/grinplusplus.png height=100>](apps/grinplusplus.md)  |
+| [![grinplusplus](ENTER)](apps/grinplusplus.html)  |
 
 | [groot](apps/groot.md) |
 | ----- |
-| [<img src=icons/groot.png height=100>](apps/groot.md)  |
+| [![groot](ENTER)](apps/groot.html)  |
 
 | [gsequencer](apps/gsequencer.md) |
 | ----- |
-| [<img src=icons/gsequencer.png height=100>](apps/gsequencer.md)  |
+| [![gsequencer](ENTER)](apps/gsequencer.html)  |
 
 | [gsubs](apps/gsubs.md) |
 | ----- |
-| [<img src=icons/gsubs.png height=100>](apps/gsubs.md)  |
+| [![gsubs](ENTER)](apps/gsubs.html)  |
 
 | [guarda-appimage](apps/guarda-appimage.md) |
 | ----- |
-| [<img src=icons/guarda-appimage.png height=100>](apps/guarda-appimage.md)  |
+| [![guarda-appimage](ENTER)](apps/guarda-appimage.html)  |
 
 | [guglielmo](apps/guglielmo.md) |
 | ----- |
-| [<img src=icons/guglielmo.png height=100>](apps/guglielmo.md)  |
+| [![guglielmo](ENTER)](apps/guglielmo.html)  |
 
 | [guiscrcpy](apps/guiscrcpy.md) |
 | ----- |
-| [<img src=icons/guiscrcpy.png height=100>](apps/guiscrcpy.md)  |
+| [![guiscrcpy](ENTER)](apps/guiscrcpy.html)  |
 
 | [guitar](apps/guitar.md) |
 | ----- |
-| [<img src=icons/guitar.png height=100>](apps/guitar.md)  |
+| [![guitar](ENTER)](apps/guitar.html)  |
 
 | [gulden](apps/gulden.md) |
 | ----- |
-| [<img src=icons/gulden.png height=100>](apps/gulden.md)  |
+| [![gulden](ENTER)](apps/gulden.html)  |
 
 | [gvim](apps/gvim.md) |
 | ----- |
-| [<img src=icons/gvim.png height=100>](apps/gvim.md)  |
+| [![gvim](ENTER)](apps/gvim.html)  |
 
 | [gxc-smart-contract-ide](apps/gxc-smart-contract-ide.md) |
 | ----- |
-| [<img src=icons/gxc-smart-contract-ide.png height=100>](apps/gxc-smart-contract-ide.md)  |
+| [![gxc-smart-contract-ide](ENTER)](apps/gxc-smart-contract-ide.html)  |
 
 | [gyroflow-appimage](apps/gyroflow-appimage.md) |
 | ----- |
-| [<img src=icons/gyroflow-appimage.png height=100>](apps/gyroflow-appimage.md)  |
+| [![gyroflow-appimage](ENTER)](apps/gyroflow-appimage.html)  |
 
 | [handbrake](apps/handbrake.md) |
 | ----- |
-| [<img src=icons/handbrake.png height=100>](apps/handbrake.md)  |
+| [![handbrake](ENTER)](apps/handbrake.html)  |
 
 | [hastyheroes](apps/hastyheroes.md) |
 | ----- |
-| [<img src=icons/hastyheroes.png height=100>](apps/hastyheroes.md)  |
+| [![hastyheroes](ENTER)](apps/hastyheroes.html)  |
 
 | [hdrmerge](apps/hdrmerge.md) |
 | ----- |
-| [<img src=icons/hdrmerge.png height=100>](apps/hdrmerge.md)  |
+| [![hdrmerge](ENTER)](apps/hdrmerge.html)  |
 
 | [heimer](apps/heimer.md) |
 | ----- |
-| [<img src=icons/heimer.png height=100>](apps/heimer.md)  |
+| [![heimer](ENTER)](apps/heimer.html)  |
 
 | [hermesmessenger](apps/hermesmessenger.md) |
 | ----- |
-| [<img src=icons/hermesmessenger.png height=100>](apps/hermesmessenger.md)  |
+| [![hermesmessenger](ENTER)](apps/hermesmessenger.html)  |
 
 | [hero-display](apps/hero-display.md) |
 | ----- |
-| [<img src=icons/hero-display.png height=100>](apps/hero-display.md)  |
+| [![hero-display](ENTER)](apps/hero-display.html)  |
 
 | [hexinator](apps/hexinator.md) |
 | ----- |
-| [<img src=icons/hexinator.png height=100>](apps/hexinator.md)  |
+| [![hexinator](ENTER)](apps/hexinator.html)  |
 
 | [hexoclient](apps/hexoclient.md) |
 | ----- |
-| [<img src=icons/hexoclient.png height=100>](apps/hexoclient.md)  |
+| [![hexoclient](ENTER)](apps/hexoclient.html)  |
 
 | [hexoeditor](apps/hexoeditor.md) |
 | ----- |
-| [<img src=icons/hexoeditor.png height=100>](apps/hexoeditor.md)  |
+| [![hexoeditor](ENTER)](apps/hexoeditor.html)  |
 
 | [hey](apps/hey.md) |
 | ----- |
-| [<img src=icons/hey.png height=100>](apps/hey.md)  |
+| [![hey](ENTER)](apps/hey.html)  |
 
 | [hidpi-fixer](apps/hidpi-fixer.md) |
 | ----- |
-| [<img src=icons/hidpi-fixer.png height=100>](apps/hidpi-fixer.md)  |
+| [![hidpi-fixer](ENTER)](apps/hidpi-fixer.html)  |
 
 | [hotspot](apps/hotspot.md) |
 | ----- |
-| [<img src=icons/hotspot.png height=100>](apps/hotspot.md)  |
+| [![hotspot](ENTER)](apps/hotspot.html)  |
 
 | [hoverclock-appimage](apps/hoverclock-appimage.md) |
 | ----- |
-| [<img src=icons/hoverclock-appimage.png height=100>](apps/hoverclock-appimage.md)  |
+| [![hoverclock-appimage](ENTER)](apps/hoverclock-appimage.html)  |
 
 | [hpack](apps/hpack.md) |
 | ----- |
-| [<img src=icons/hpack.png height=100>](apps/hpack.md)  |
+| [![hpack](ENTER)](apps/hpack.html)  |
 
 | [hsinstall](apps/hsinstall.md) |
 | ----- |
-| [<img src=icons/hsinstall.png height=100>](apps/hsinstall.md)  |
+| [![hsinstall](ENTER)](apps/hsinstall.html)  |
 
 | [htmldoc](apps/htmldoc.md) |
 | ----- |
-| [<img src=icons/htmldoc.png height=100>](apps/htmldoc.md)  |
+| [![htmldoc](ENTER)](apps/htmldoc.html)  |
 
 | [httpie-desktop-appimage](apps/httpie-desktop-appimage.md) |
 | ----- |
-| [<img src=icons/httpie-desktop-appimage.png height=100>](apps/httpie-desktop-appimage.md)  |
+| [![httpie-desktop-appimage](ENTER)](apps/httpie-desktop-appimage.html)  |
 
 | [hugin](apps/hugin.md) |
 | ----- |
-| [<img src=icons/hugin.png height=100>](apps/hugin.md)  |
+| [![hugin](ENTER)](apps/hugin.html)  |
 
 | [huwinterpreter](apps/huwinterpreter.md) |
 | ----- |
-| [<img src=icons/huwinterpreter.png height=100>](apps/huwinterpreter.md)  |
+| [![huwinterpreter](ENTER)](apps/huwinterpreter.html)  |
 
 | [hw-probe](apps/hw-probe.md) |
 | ----- |
-| [<img src=icons/hw-probe.png height=100>](apps/hw-probe.md)  |
+| [![hw-probe](ENTER)](apps/hw-probe.html)  |
 
 | [hyper](apps/hyper.md) |
 | ----- |
-| [<img src=icons/hyper.png height=100>](apps/hyper.md)  |
+| [![hyper](ENTER)](apps/hyper.html)  |
 
 | [hyperdex](apps/hyperdex.md) |
 | ----- |
-| [<img src=icons/hyperdex.png height=100>](apps/hyperdex.md)  |
+| [![hyperdex](ENTER)](apps/hyperdex.html)  |
 
 | [hyperionide](apps/hyperionide.md) |
 | ----- |
-| [<img src=icons/hyperionide.png height=100>](apps/hyperionide.md)  |
+| [![hyperionide](ENTER)](apps/hyperionide.html)  |
 
 | [hyperspace](apps/hyperspace.md) |
 | ----- |
-| [<img src=icons/hyperspace.png height=100>](apps/hyperspace.md)  |
+| [![hyperspace](ENTER)](apps/hyperspace.html)  |
 
 | [hypertrader](apps/hypertrader.md) |
 | ----- |
-| [<img src=icons/hypertrader.png height=100>](apps/hypertrader.md)  |
+| [![hypertrader](ENTER)](apps/hypertrader.html)  |
 
 | [hypnos](apps/hypnos.md) |
 | ----- |
-| [<img src=icons/hypnos.png height=100>](apps/hypnos.md)  |
+| [![hypnos](ENTER)](apps/hypnos.html)  |
 
 | [iagoncloudapp](apps/iagoncloudapp.md) |
 | ----- |
-| [<img src=icons/iagoncloudapp.png height=100>](apps/iagoncloudapp.md)  |
+| [![iagoncloudapp](ENTER)](apps/iagoncloudapp.html)  |
 
 | [icedrive-appimage](apps/icedrive-appimage.md) |
 | ----- |
-| [<img src=icons/icedrive-appimage.png height=100>](apps/icedrive-appimage.md)  |
+| [![icedrive-appimage](ENTER)](apps/icedrive-appimage.html)  |
 
 | [icestudio-appimage](apps/icestudio-appimage.md) |
 | ----- |
-| [<img src=icons/icestudio-appimage.png height=100>](apps/icestudio-appimage.md)  |
+| [![icestudio-appimage](ENTER)](apps/icestudio-appimage.html)  |
 
 | [ideamaker](apps/ideamaker.md) |
 | ----- |
-| [<img src=icons/ideamaker.png height=100>](apps/ideamaker.md)  |
+| [![ideamaker](ENTER)](apps/ideamaker.html)  |
 
 | [igdm](apps/igdm.md) |
 | ----- |
-| [<img src=icons/igdm.png height=100>](apps/igdm.md)  |
+| [![igdm](ENTER)](apps/igdm.html)  |
 
 | [imagemagick-clang](apps/imagemagick-clang.md) |
 | ----- |
-| [<img src=icons/imagemagick-clang.png height=100>](apps/imagemagick-clang.md)  |
+| [![imagemagick-clang](ENTER)](apps/imagemagick-clang.html)  |
 
 | [imagemagick-gcc](apps/imagemagick-gcc.md) |
 | ----- |
-| [<img src=icons/imagemagick-gcc.png height=100>](apps/imagemagick-gcc.md)  |
+| [![imagemagick-gcc](ENTER)](apps/imagemagick-gcc.html)  |
 
 | [imagemosaicwall](apps/imagemosaicwall.md) |
 | ----- |
-| [<img src=icons/imagemosaicwall.png height=100>](apps/imagemosaicwall.md)  |
+| [![imagemosaicwall](ENTER)](apps/imagemosaicwall.html)  |
 
 | [imageplay](apps/imageplay.md) |
 | ----- |
-| [<img src=icons/imageplay.png height=100>](apps/imageplay.md)  |
+| [![imageplay](ENTER)](apps/imageplay.html)  |
 
 | [imagine](apps/imagine.md) |
 | ----- |
-| [<img src=icons/imagine.png height=100>](apps/imagine.md)  |
+| [![imagine](ENTER)](apps/imagine.html)  |
 
 | [imapsyncclient](apps/imapsyncclient.md) |
 | ----- |
-| [<img src=icons/imapsyncclient.png height=100>](apps/imapsyncclient.md)  |
+| [![imapsyncclient](ENTER)](apps/imapsyncclient.html)  |
 
 | [imgbrd-grabber-appimage](apps/imgbrd-grabber-appimage.md) |
 | ----- |
-| [<img src=icons/imgbrd-grabber-appimage.png height=100>](apps/imgbrd-grabber-appimage.md)  |
+| [![imgbrd-grabber-appimage](ENTER)](apps/imgbrd-grabber-appimage.html)  |
 
 | [imhex](apps/imhex.md) |
 | ----- |
-| [<img src=icons/imhex.png height=100>](apps/imhex.md)  |
+| [![imhex](ENTER)](apps/imhex.html)  |
 
 | [impact](apps/impact.md) |
 | ----- |
-| [<img src=icons/impact.png height=100>](apps/impact.md)  |
+| [![impact](ENTER)](apps/impact.html)  |
 
 | [impposter](apps/impposter.md) |
 | ----- |
-| [<img src=icons/impposter.png height=100>](apps/impposter.md)  |
+| [![impposter](ENTER)](apps/impposter.html)  |
 
 | [inboxer](apps/inboxer.md) |
 | ----- |
-| [<img src=icons/inboxer.png height=100>](apps/inboxer.md)  |
+| [![inboxer](ENTER)](apps/inboxer.html)  |
 
 | [infection-monkey](apps/infection-monkey.md) |
 | ----- |
-| [<img src=icons/infection-monkey.png height=100>](apps/infection-monkey.md)  |
+| [![infection-monkey](ENTER)](apps/infection-monkey.html)  |
 
 | [infinitex](apps/infinitex.md) |
 | ----- |
-| [<img src=icons/infinitex.png height=100>](apps/infinitex.md)  |
+| [![infinitex](ENTER)](apps/infinitex.html)  |
 
 | [infra-appimage](apps/infra-appimage.md) |
 | ----- |
-| [<img src=icons/infra-appimage.png height=100>](apps/infra-appimage.md)  |
+| [![infra-appimage](ENTER)](apps/infra-appimage.html)  |
 
 | [inkscape](apps/inkscape.md) |
 | ----- |
-| [<img src=icons/inkscape.png height=100>](apps/inkscape.md)  |
+| [![inkscape](ENTER)](apps/inkscape.html)  |
 
 | [inochi-creator](apps/inochi-creator.md) |
 | ----- |
-| [<img src=icons/inochi-creator.png height=100>](apps/inochi-creator.md)  |
+| [![inochi-creator](ENTER)](apps/inochi-creator.html)  |
 
 | [insight](apps/insight.md) |
 | ----- |
-| [<img src=icons/insight.png height=100>](apps/insight.md)  |
+| [![insight](ENTER)](apps/insight.html)  |
 
 | [instead](apps/instead.md) |
 | ----- |
-| [<img src=icons/instead.png height=100>](apps/instead.md)  |
+| [![instead](ENTER)](apps/instead.html)  |
 
 | [intiface](apps/intiface.md) |
 | ----- |
-| [<img src=icons/intiface.png height=100>](apps/intiface.md)  |
+| [![intiface](ENTER)](apps/intiface.html)  |
 
 | [invoice-generator](apps/invoice-generator.md) |
 | ----- |
-| [<img src=icons/invoice-generator.png height=100>](apps/invoice-generator.md)  |
+| [![invoice-generator](ENTER)](apps/invoice-generator.html)  |
 
 | [iota1k](apps/iota1k.md) |
 | ----- |
-| [<img src=icons/iota1k.png height=100>](apps/iota1k.md)  |
+| [![iota1k](ENTER)](apps/iota1k.html)  |
 
 | [iptvnator](apps/iptvnator.md) |
 | ----- |
-| [<img src=icons/iptvnator.png height=100>](apps/iptvnator.md)  |
+| [![iptvnator](ENTER)](apps/iptvnator.html)  |
 
 | [ipuissance-4d](apps/ipuissance-4d.md) |
 | ----- |
-| [<img src=icons/ipuissance-4d.png height=100>](apps/ipuissance-4d.md)  |
+| [![ipuissance-4d](ENTER)](apps/ipuissance-4d.html)  |
 
 | [iqpuzzle](apps/iqpuzzle.md) |
 | ----- |
-| [<img src=icons/iqpuzzle.png height=100>](apps/iqpuzzle.md)  |
+| [![iqpuzzle](ENTER)](apps/iqpuzzle.html)  |
 
 | [irccloud-desktop](apps/irccloud-desktop.md) |
 | ----- |
-| [<img src=icons/irccloud-desktop.png height=100>](apps/irccloud-desktop.md)  |
+| [![irccloud-desktop](ENTER)](apps/irccloud-desktop.html)  |
 
 | [irscrutinizer](apps/irscrutinizer.md) |
 | ----- |
-| [<img src=icons/irscrutinizer.png height=100>](apps/irscrutinizer.md)  |
+| [![irscrutinizer](ENTER)](apps/irscrutinizer.html)  |
 
 | [isle-editor](apps/isle-editor.md) |
 | ----- |
-| [<img src=icons/isle-editor.png height=100>](apps/isle-editor.md)  |
+| [![isle-editor](ENTER)](apps/isle-editor.html)  |
 
 | [isolate](apps/isolate.md) |
 | ----- |
-| [<img src=icons/isolate.png height=100>](apps/isolate.md)  |
+| [![isolate](ENTER)](apps/isolate.html)  |
 
 | [itusb1-manager](apps/itusb1-manager.md) |
 | ----- |
-| [<img src=icons/itusb1-manager.png height=100>](apps/itusb1-manager.md)  |
+| [![itusb1-manager](ENTER)](apps/itusb1-manager.html)  |
 
 | [jag](apps/jag.md) |
 | ----- |
-| [<img src=icons/jag.png height=100>](apps/jag.md)  |
+| [![jag](ENTER)](apps/jag.html)  |
 
 | [james](apps/james.md) |
 | ----- |
-| [<img src=icons/james.png height=100>](apps/james.md)  |
+| [![james](ENTER)](apps/james.html)  |
 
 | [jaxx-liberty-appimage](apps/jaxx-liberty-appimage.md) |
 | ----- |
-| [<img src=icons/jaxx-liberty-appimage.png height=100>](apps/jaxx-liberty-appimage.md)  |
+| [![jaxx-liberty-appimage](ENTER)](apps/jaxx-liberty-appimage.html)  |
 
 | [jellyamp-appimage](apps/jellyamp-appimage.md) |
 | ----- |
-| [<img src=icons/jellyamp-appimage.png height=100>](apps/jellyamp-appimage.md)  |
+| [![jellyamp-appimage](ENTER)](apps/jellyamp-appimage.html)  |
 
 | [jexiftoolgui](apps/jexiftoolgui.md) |
 | ----- |
-| [<img src=icons/jexiftoolgui.png height=100>](apps/jexiftoolgui.md)  |
+| [![jexiftoolgui](ENTER)](apps/jexiftoolgui.html)  |
 
 | [jira-timer](apps/jira-timer.md) |
 | ----- |
-| [<img src=icons/jira-timer.png height=100>](apps/jira-timer.md)  |
+| [![jira-timer](ENTER)](apps/jira-timer.html)  |
 
 | [jitsi-meet](apps/jitsi-meet.md) |
 | ----- |
-| [<img src=icons/jitsi-meet.png height=100>](apps/jitsi-meet.md)  |
+| [![jitsi-meet](ENTER)](apps/jitsi-meet.html)  |
 
 | [jklubtv](apps/jklubtv.md) |
 | ----- |
-| [<img src=icons/jklubtv.png height=100>](apps/jklubtv.md)  |
+| [![jklubtv](ENTER)](apps/jklubtv.html)  |
 
 | [jmbde](apps/jmbde.md) |
 | ----- |
-| [<img src=icons/jmbde.png height=100>](apps/jmbde.md)  |
+| [![jmbde](ENTER)](apps/jmbde.html)  |
 
 | [joaldesktop](apps/joaldesktop.md) |
 | ----- |
-| [<img src=icons/joaldesktop.png height=100>](apps/joaldesktop.md)  |
+| [![joaldesktop](ENTER)](apps/joaldesktop.html)  |
 
 | [join-desktop](apps/join-desktop.md) |
 | ----- |
-| [<img src=icons/join-desktop.png height=100>](apps/join-desktop.md)  |
+| [![join-desktop](ENTER)](apps/join-desktop.html)  |
 
 | [joplin](apps/joplin.md) |
 | ----- |
-| [<img src=icons/joplin.png height=100>](apps/joplin.md)  |
+| [![joplin](ENTER)](apps/joplin.html)  |
 
 | [joy2droidx](apps/joy2droidx.md) |
 | ----- |
-| [<img src=icons/joy2droidx.png height=100>](apps/joy2droidx.md)  |
+| [![joy2droidx](ENTER)](apps/joy2droidx.html)  |
 
 | [jreleaser](apps/jreleaser.md) |
 | ----- |
-| [<img src=icons/jreleaser.png height=100>](apps/jreleaser.md)  |
+| [![jreleaser](ENTER)](apps/jreleaser.html)  |
 
 | [jscad-desktop](apps/jscad-desktop.md) |
 | ----- |
-| [<img src=icons/jscad-desktop.png height=100>](apps/jscad-desktop.md)  |
+| [![jscad-desktop](ENTER)](apps/jscad-desktop.html)  |
 
 | [jsplacement](apps/jsplacement.md) |
 | ----- |
-| [<img src=icons/jsplacement.png height=100>](apps/jsplacement.md)  |
+| [![jsplacement](ENTER)](apps/jsplacement.html)  |
 
 | [juggernaut](apps/juggernaut.md) |
 | ----- |
-| [<img src=icons/juggernaut.png height=100>](apps/juggernaut.md)  |
+| [![juggernaut](ENTER)](apps/juggernaut.html)  |
 
 | [julius](apps/julius.md) |
 | ----- |
-| [<img src=icons/julius.png height=100>](apps/julius.md)  |
+| [![julius](ENTER)](apps/julius.html)  |
 
 | [jumpfm](apps/jumpfm.md) |
 | ----- |
-| [<img src=icons/jumpfm.png height=100>](apps/jumpfm.md)  |
+| [![jumpfm](ENTER)](apps/jumpfm.html)  |
 
 | [kade](apps/kade.md) |
 | ----- |
-| [<img src=icons/kade.png height=100>](apps/kade.md)  |
+| [![kade](ENTER)](apps/kade.html)  |
 
 | [kage](apps/kage.md) |
 | ----- |
-| [<img src=icons/kage.png height=100>](apps/kage.md)  |
+| [![kage](ENTER)](apps/kage.html)  |
 
 | [kaidan](apps/kaidan.md) |
 | ----- |
-| [<img src=icons/kaidan.png height=100>](apps/kaidan.md)  |
+| [![kaidan](ENTER)](apps/kaidan.html)  |
 
 | [kanon](apps/kanon.md) |
 | ----- |
-| [<img src=icons/kanon.png height=100>](apps/kanon.md)  |
+| [![kanon](ENTER)](apps/kanon.html)  |
 
 | [kapman](apps/kapman.md) |
 | ----- |
-| [<img src=icons/kapman.png height=100>](apps/kapman.md)  |
+| [![kapman](ENTER)](apps/kapman.html)  |
 
 | [kate](apps/kate.md) |
 | ----- |
-| [<img src=icons/kate.png height=100>](apps/kate.md)  |
+| [![kate](ENTER)](apps/kate.html)  |
 
 | [katomic](apps/katomic.md) |
 | ----- |
-| [<img src=icons/katomic.png height=100>](apps/katomic.md)  |
+| [![katomic](ENTER)](apps/katomic.html)  |
 
 | [kavita](apps/kavita.md) |
 | ----- |
-| [<img src=icons/kavita.png height=100>](apps/kavita.md)  |
+| [![kavita](ENTER)](apps/kavita.html)  |
 
 | [kawanime](apps/kawanime.md) |
 | ----- |
-| [<img src=icons/kawanime.png height=100>](apps/kawanime.md)  |
+| [![kawanime](ENTER)](apps/kawanime.html)  |
 
 | [kblackbox](apps/kblackbox.md) |
 | ----- |
-| [<img src=icons/kblackbox.png height=100>](apps/kblackbox.md)  |
+| [![kblackbox](ENTER)](apps/kblackbox.html)  |
 
 | [kbounce](apps/kbounce.md) |
 | ----- |
-| [<img src=icons/kbounce.png height=100>](apps/kbounce.md)  |
+| [![kbounce](ENTER)](apps/kbounce.html)  |
 
 | [kbreakout](apps/kbreakout.md) |
 | ----- |
-| [<img src=icons/kbreakout.png height=100>](apps/kbreakout.md)  |
+| [![kbreakout](ENTER)](apps/kbreakout.html)  |
 
 | [kcalc](apps/kcalc.md) |
 | ----- |
-| [<img src=icons/kcalc.png height=100>](apps/kcalc.md)  |
+| [![kcalc](ENTER)](apps/kcalc.html)  |
 
 | [kcharselect](apps/kcharselect.md) |
 | ----- |
-| [<img src=icons/kcharselect.png height=100>](apps/kcharselect.md)  |
+| [![kcharselect](ENTER)](apps/kcharselect.html)  |
 
 | [kcov](apps/kcov.md) |
 | ----- |
-| [<img src=icons/kcov.png height=100>](apps/kcov.md)  |
+| [![kcov](ENTER)](apps/kcov.html)  |
 
 | [kdegames](apps/kdegames.md) |
 | ----- |
-| [<img src=icons/kdegames.png height=100>](apps/kdegames.md)  |
+| [![kdegames](ENTER)](apps/kdegames.html)  |
 
 | [kdenlive](apps/kdenlive.md) |
 | ----- |
-| [<img src=icons/kdenlive.png height=100>](apps/kdenlive.md)  |
+| [![kdenlive](ENTER)](apps/kdenlive.html)  |
 
 | [kdeutils](apps/kdeutils.md) |
 | ----- |
-| [<img src=icons/kdeutils.png height=100>](apps/kdeutils.md)  |
+| [![kdeutils](ENTER)](apps/kdeutils.html)  |
 
 | [kdf](apps/kdf.md) |
 | ----- |
-| [<img src=icons/kdf.png height=100>](apps/kdf.md)  |
+| [![kdf](ENTER)](apps/kdf.html)  |
 
 | [kdiamond](apps/kdiamond.md) |
 | ----- |
-| [<img src=icons/kdiamond.png height=100>](apps/kdiamond.md)  |
+| [![kdiamond](ENTER)](apps/kdiamond.html)  |
 
 | [kdiskmark](apps/kdiskmark.md) |
 | ----- |
-| [<img src=icons/kdiskmark.png height=100>](apps/kdiskmark.md)  |
+| [![kdiskmark](ENTER)](apps/kdiskmark.html)  |
 
 | [keepassxc](apps/keepassxc.md) |
 | ----- |
-| [<img src=icons/keepassxc.png height=100>](apps/keepassxc.md)  |
+| [![keepassxc](ENTER)](apps/keepassxc.html)  |
 
 | [keeweb](apps/keeweb.md) |
 | ----- |
-| [<img src=icons/keeweb.png height=100>](apps/keeweb.md)  |
+| [![keeweb](ENTER)](apps/keeweb.html)  |
 
 | [keibo-moneytracker-x86-64](apps/keibo-moneytracker-x86-64.md) |
 | ----- |
-| [<img src=icons/keibo-moneytracker-x86-64.png height=100>](apps/keibo-moneytracker-x86-64.md)  |
+| [![keibo-moneytracker-x86-64](ENTER)](apps/keibo-moneytracker-x86-64.html)  |
 
 | [kettleclient](apps/kettleclient.md) |
 | ----- |
-| [<img src=icons/kettleclient.png height=100>](apps/kettleclient.md)  |
+| [![kettleclient](ENTER)](apps/kettleclient.html)  |
 
 | [kevedit](apps/kevedit.md) |
 | ----- |
-| [<img src=icons/kevedit.png height=100>](apps/kevedit.md)  |
+| [![kevedit](ENTER)](apps/kevedit.html)  |
 
 | [keyboardclient](apps/keyboardclient.md) |
 | ----- |
-| [<img src=icons/keyboardclient.png height=100>](apps/keyboardclient.md)  |
+| [![keyboardclient](ENTER)](apps/keyboardclient.html)  |
 
 | [keymanager](apps/keymanager.md) |
 | ----- |
-| [<img src=icons/keymanager.png height=100>](apps/keymanager.md)  |
+| [![keymanager](ENTER)](apps/keymanager.html)  |
 
 | [keyrier-json](apps/keyrier-json.md) |
 | ----- |
-| [<img src=icons/keyrier-json.png height=100>](apps/keyrier-json.md)  |
+| [![keyrier-json](ENTER)](apps/keyrier-json.html)  |
 
 | [keys](apps/keys.md) |
 | ----- |
-| [<img src=icons/keys.png height=100>](apps/keys.md)  |
+| [![keys](ENTER)](apps/keys.html)  |
 
 | [kfourinline](apps/kfourinline.md) |
 | ----- |
-| [<img src=icons/kfourinline.png height=100>](apps/kfourinline.md)  |
+| [![kfourinline](ENTER)](apps/kfourinline.html)  |
 
 | [kgoldrunner](apps/kgoldrunner.md) |
 | ----- |
-| [<img src=icons/kgoldrunner.png height=100>](apps/kgoldrunner.md)  |
+| [![kgoldrunner](ENTER)](apps/kgoldrunner.html)  |
 
 | [kgpg](apps/kgpg.md) |
 | ----- |
-| [<img src=icons/kgpg.png height=100>](apps/kgpg.md)  |
+| [![kgpg](ENTER)](apps/kgpg.html)  |
 
 | [kicad](apps/kicad.md) |
 | ----- |
-| [<img src=icons/kicad.png height=100>](apps/kicad.md)  |
+| [![kicad](ENTER)](apps/kicad.html)  |
 
 | [kigo](apps/kigo.md) |
 | ----- |
-| [<img src=icons/kigo.png height=100>](apps/kigo.md)  |
+| [![kigo](ENTER)](apps/kigo.html)  |
 
 | [kiibohd-configurator](apps/kiibohd-configurator.md) |
 | ----- |
-| [<img src=icons/kiibohd-configurator.png height=100>](apps/kiibohd-configurator.md)  |
+| [![kiibohd-configurator](ENTER)](apps/kiibohd-configurator.html)  |
 
 | [killbots](apps/killbots.md) |
 | ----- |
-| [<img src=icons/killbots.png height=100>](apps/killbots.md)  |
+| [![killbots](ENTER)](apps/killbots.html)  |
 
 | [kimitzu-client](apps/kimitzu-client.md) |
 | ----- |
-| [<img src=icons/kimitzu-client.png height=100>](apps/kimitzu-client.md)  |
+| [![kimitzu-client](ENTER)](apps/kimitzu-client.html)  |
 
 | [kiriki](apps/kiriki.md) |
 | ----- |
-| [<img src=icons/kiriki.png height=100>](apps/kiriki.md)  |
+| [![kiriki](ENTER)](apps/kiriki.html)  |
 
 | [kitupiikki](apps/kitupiikki.md) |
 | ----- |
-| [<img src=icons/kitupiikki.png height=100>](apps/kitupiikki.md)  |
+| [![kitupiikki](ENTER)](apps/kitupiikki.html)  |
 
 | [kitupiikki](apps/kitupiikki.md) |
 | ----- |
-| [<img src=icons/kitupiikki.png height=100>](apps/kitupiikki.md)  |
+| [![kitupiikki](ENTER)](apps/kitupiikki.html)  |
 
 | [kjumpingcube](apps/kjumpingcube.md) |
 | ----- |
-| [<img src=icons/kjumpingcube.png height=100>](apps/kjumpingcube.md)  |
+| [![kjumpingcube](ENTER)](apps/kjumpingcube.html)  |
 
 | [klickety](apps/klickety.md) |
 | ----- |
-| [<img src=icons/klickety.png height=100>](apps/klickety.md)  |
+| [![klickety](ENTER)](apps/klickety.html)  |
 
 | [klines](apps/klines.md) |
 | ----- |
-| [<img src=icons/klines.png height=100>](apps/klines.md)  |
+| [![klines](ENTER)](apps/klines.html)  |
 
 | [klogg](apps/klogg.md) |
 | ----- |
-| [<img src=icons/klogg.png height=100>](apps/klogg.md)  |
+| [![klogg](ENTER)](apps/klogg.html)  |
 
 | [kmahjongg](apps/kmahjongg.md) |
 | ----- |
-| [<img src=icons/kmahjongg.png height=100>](apps/kmahjongg.md)  |
+| [![kmahjongg](ENTER)](apps/kmahjongg.html)  |
 
 | [kmines](apps/kmines.md) |
 | ----- |
-| [<img src=icons/kmines.png height=100>](apps/kmines.md)  |
+| [![kmines](ENTER)](apps/kmines.html)  |
 
 | [knavalbattle](apps/knavalbattle.md) |
 | ----- |
-| [<img src=icons/knavalbattle.png height=100>](apps/knavalbattle.md)  |
+| [![knavalbattle](ENTER)](apps/knavalbattle.html)  |
 
 | [knetwalk](apps/knetwalk.md) |
 | ----- |
-| [<img src=icons/knetwalk.png height=100>](apps/knetwalk.md)  |
+| [![knetwalk](ENTER)](apps/knetwalk.html)  |
 
 | [knights](apps/knights.md) |
 | ----- |
-| [<img src=icons/knights.png height=100>](apps/knights.md)  |
+| [![knights](ENTER)](apps/knights.html)  |
 
 | [knowte](apps/knowte.md) |
 | ----- |
-| [<img src=icons/knowte.png height=100>](apps/knowte.md)  |
+| [![knowte](ENTER)](apps/knowte.html)  |
 
 | [kolf](apps/kolf.md) |
 | ----- |
-| [<img src=icons/kolf.png height=100>](apps/kolf.md)  |
+| [![kolf](ENTER)](apps/kolf.html)  |
 
 | [kollision](apps/kollision.md) |
 | ----- |
-| [<img src=icons/kollision.png height=100>](apps/kollision.md)  |
+| [![kollision](ENTER)](apps/kollision.html)  |
 
 | [konquest](apps/konquest.md) |
 | ----- |
-| [<img src=icons/konquest.png height=100>](apps/konquest.md)  |
+| [![konquest](ENTER)](apps/konquest.html)  |
 
 | [koodo-reader](apps/koodo-reader.md) |
 | ----- |
-| [<img src=icons/koodo-reader.png height=100>](apps/koodo-reader.md)  |
+| [![koodo-reader](ENTER)](apps/koodo-reader.html)  |
 
 | [kopiaui](apps/kopiaui.md) |
 | ----- |
-| [<img src=icons/kopiaui.png height=100>](apps/kopiaui.md)  |
+| [![kopiaui](ENTER)](apps/kopiaui.html)  |
 
 | [koreader](apps/koreader.md) |
 | ----- |
-| [<img src=icons/koreader.png height=100>](apps/koreader.md)  |
+| [![koreader](ENTER)](apps/koreader.html)  |
 
 | [kpat](apps/kpat.md) |
 | ----- |
-| [<img src=icons/kpat.png height=100>](apps/kpat.md)  |
+| [![kpat](ENTER)](apps/kpat.html)  |
 
 | [kreversi](apps/kreversi.md) |
 | ----- |
-| [<img src=icons/kreversi.png height=100>](apps/kreversi.md)  |
+| [![kreversi](ENTER)](apps/kreversi.html)  |
 
 | [krita](apps/krita.md) |
 | ----- |
-| [<img src=icons/krita.png height=100>](apps/krita.md)  |
+| [![krita](ENTER)](apps/krita.html)  |
 
 | [kshisen](apps/kshisen.md) |
 | ----- |
-| [<img src=icons/kshisen.png height=100>](apps/kshisen.md)  |
+| [![kshisen](ENTER)](apps/kshisen.html)  |
 
 | [ksirk](apps/ksirk.md) |
 | ----- |
-| [<img src=icons/ksirk.png height=100>](apps/ksirk.md)  |
+| [![ksirk](ENTER)](apps/ksirk.html)  |
 
 | [ksnakeduel](apps/ksnakeduel.md) |
 | ----- |
-| [<img src=icons/ksnakeduel.png height=100>](apps/ksnakeduel.md)  |
+| [![ksnakeduel](ENTER)](apps/ksnakeduel.html)  |
 
 | [ksnip](apps/ksnip.md) |
 | ----- |
-| [<img src=icons/ksnip.png height=100>](apps/ksnip.md)  |
+| [![ksnip](ENTER)](apps/ksnip.html)  |
 
 | [kspaceduel](apps/kspaceduel.md) |
 | ----- |
-| [<img src=icons/kspaceduel.png height=100>](apps/kspaceduel.md)  |
+| [![kspaceduel](ENTER)](apps/kspaceduel.html)  |
 
 | [ksquares](apps/ksquares.md) |
 | ----- |
-| [<img src=icons/ksquares.png height=100>](apps/ksquares.md)  |
+| [![ksquares](ENTER)](apps/ksquares.html)  |
 
 | [ksudoku](apps/ksudoku.md) |
 | ----- |
-| [<img src=icons/ksudoku.png height=100>](apps/ksudoku.md)  |
+| [![ksudoku](ENTER)](apps/ksudoku.html)  |
 
 | [ktimer](apps/ktimer.md) |
 | ----- |
-| [<img src=icons/ktimer.png height=100>](apps/ktimer.md)  |
+| [![ktimer](ENTER)](apps/ktimer.html)  |
 
 | [ktuberling](apps/ktuberling.md) |
 | ----- |
-| [<img src=icons/ktuberling.png height=100>](apps/ktuberling.md)  |
+| [![ktuberling](ENTER)](apps/ktuberling.html)  |
 
 | [kubeman-appimage](apps/kubeman-appimage.md) |
 | ----- |
-| [<img src=icons/kubeman-appimage.png height=100>](apps/kubeman-appimage.md)  |
+| [![kubeman-appimage](ENTER)](apps/kubeman-appimage.html)  |
 
 | [kubrick](apps/kubrick.md) |
 | ----- |
-| [<img src=icons/kubrick.png height=100>](apps/kubrick.md)  |
+| [![kubrick](ENTER)](apps/kubrick.html)  |
 
 | [kuro](apps/kuro.md) |
 | ----- |
-| [<img src=icons/kuro.png height=100>](apps/kuro.md)  |
+| [![kuro](ENTER)](apps/kuro.html)  |
 
 | [kwalletmanager5](apps/kwalletmanager5.md) |
 | ----- |
-| [<img src=icons/kwalletmanager5.png height=100>](apps/kwalletmanager5.md)  |
+| [![kwalletmanager5](ENTER)](apps/kwalletmanager5.html)  |
 
 | [kwave](apps/kwave.md) |
 | ----- |
-| [<img src=icons/kwave.png height=100>](apps/kwave.md)  |
+| [![kwave](ENTER)](apps/kwave.html)  |
 
 | [lagrange](apps/lagrange.md) |
 | ----- |
-| [<img src=icons/lagrange.png height=100>](apps/lagrange.md)  |
+| [![lagrange](ENTER)](apps/lagrange.html)  |
 
 | [laigter](apps/laigter.md) |
 | ----- |
-| [<img src=icons/laigter.png height=100>](apps/laigter.md)  |
+| [![laigter](ENTER)](apps/laigter.html)  |
 
 | [langly](apps/langly.md) |
 | ----- |
-| [<img src=icons/langly.png height=100>](apps/langly.md)  |
+| [![langly](ENTER)](apps/langly.html)  |
 
 | [lanshare](apps/lanshare.md) |
 | ----- |
-| [<img src=icons/lanshare.png height=100>](apps/lanshare.md)  |
+| [![lanshare](ENTER)](apps/lanshare.html)  |
 
 | [laravel-kit](apps/laravel-kit.md) |
 | ----- |
-| [<img src=icons/laravel-kit.png height=100>](apps/laravel-kit.md)  |
+| [![laravel-kit](ENTER)](apps/laravel-kit.html)  |
 
 | [launcher](apps/launcher.md) |
 | ----- |
-| [<img src=icons/launcher.png height=100>](apps/launcher.md)  |
+| [![launcher](ENTER)](apps/launcher.html)  |
 
 | [lcedit](apps/lcedit.md) |
 | ----- |
-| [<img src=icons/lcedit.png height=100>](apps/lcedit.md)  |
+| [![lcedit](ENTER)](apps/lcedit.html)  |
 
 | [ldview](apps/ldview.md) |
 | ----- |
-| [<img src=icons/ldview.png height=100>](apps/ldview.md)  |
+| [![ldview](ENTER)](apps/ldview.html)  |
 
 | [le](apps/le.md) |
 | ----- |
-| [<img src=icons/le.png height=100>](apps/le.md)  |
+| [![le](ENTER)](apps/le.html)  |
 
 | [led.custom.palette](apps/led.custom.palette.md) |
 | ----- |
-| [<img src=icons/led.custom.palette.png height=100>](apps/led.custom.palette.md)  |
+| [![led.custom.palette](ENTER)](apps/led.custom.palette.html)  |
 
 | [ledger-live-desktop](apps/ledger-live-desktop.md) |
 | ----- |
-| [<img src=icons/ledger-live-desktop.png height=100>](apps/ledger-live-desktop.md)  |
+| [![ledger-live-desktop](ENTER)](apps/ledger-live-desktop.html)  |
 
 | [left](apps/left.md) |
 | ----- |
-| [<img src=icons/left.png height=100>](apps/left.md)  |
+| [![left](ENTER)](apps/left.html)  |
 
 | [legendary-kingdoms](apps/legendary-kingdoms.md) |
 | ----- |
-| [<img src=icons/legendary-kingdoms.png height=100>](apps/legendary-kingdoms.md)  |
+| [![legendary-kingdoms](ENTER)](apps/legendary-kingdoms.html)  |
 
 | [lemon](apps/lemon.md) |
 | ----- |
-| [<img src=icons/lemon.png height=100>](apps/lemon.md)  |
+| [![lemon](ENTER)](apps/lemon.html)  |
 
 | [leocad](apps/leocad.md) |
 | ----- |
-| [<img src=icons/leocad.png height=100>](apps/leocad.md)  |
+| [![leocad](ENTER)](apps/leocad.html)  |
 
 | [leonflix](apps/leonflix.md) |
 | ----- |
-| [<img src=icons/leonflix.png height=100>](apps/leonflix.md)  |
+| [![leonflix](ENTER)](apps/leonflix.html)  |
 
 | [lepton](apps/lepton.md) |
 | ----- |
-| [<img src=icons/lepton.png height=100>](apps/lepton.md)  |
+| [![lepton](ENTER)](apps/lepton.html)  |
 
 | [lescovex](apps/lescovex.md) |
 | ----- |
-| [<img src=icons/lescovex.png height=100>](apps/lescovex.md)  |
+| [![lescovex](ENTER)](apps/lescovex.html)  |
 
 | [libassist](apps/libassist.md) |
 | ----- |
-| [<img src=icons/libassist.png height=100>](apps/libassist.md)  |
+| [![libassist](ENTER)](apps/libassist.html)  |
 
 | [libertem](apps/libertem.md) |
 | ----- |
-| [<img src=icons/libertem.png height=100>](apps/libertem.md)  |
+| [![libertem](ENTER)](apps/libertem.html)  |
 
 | [librecad](apps/librecad.md) |
 | ----- |
-| [<img src=icons/librecad.png height=100>](apps/librecad.md)  |
+| [![librecad](ENTER)](apps/librecad.html)  |
 
 | [libreoffice](apps/libreoffice.md) |
 | ----- |
-| [<img src=icons/libreoffice.png height=100>](apps/libreoffice.md)  |
+| [![libreoffice](ENTER)](apps/libreoffice.html)  |
 
 | [libreoffice-fresh-full](apps/libreoffice-fresh-full.md) |
 | ----- |
-| [<img src=icons/libreoffice-fresh-full.png height=100>](apps/libreoffice-fresh-full.md)  |
+| [![libreoffice-fresh-full](ENTER)](apps/libreoffice-fresh-full.html)  |
 
 | [libreoffice-fresh-full-help](apps/libreoffice-fresh-full-help.md) |
 | ----- |
-| [<img src=icons/libreoffice-fresh-full-help.png height=100>](apps/libreoffice-fresh-full-help.md)  |
+| [![libreoffice-fresh-full-help](ENTER)](apps/libreoffice-fresh-full-help.html)  |
 
 | [libreoffice-fresh-standard](apps/libreoffice-fresh-standard.md) |
 | ----- |
-| [<img src=icons/libreoffice-fresh-standard.png height=100>](apps/libreoffice-fresh-standard.md)  |
+| [![libreoffice-fresh-standard](ENTER)](apps/libreoffice-fresh-standard.html)  |
 
 | [libreoffice-fresh-standard-help](apps/libreoffice-fresh-standard-help.md) |
 | ----- |
-| [<img src=icons/libreoffice-fresh-standard-help.png height=100>](apps/libreoffice-fresh-standard-help.md)  |
+| [![libreoffice-fresh-standard-help](ENTER)](apps/libreoffice-fresh-standard-help.html)  |
 
 | [libreoffice-still-full](apps/libreoffice-still-full.md) |
 | ----- |
-| [<img src=icons/libreoffice-still-full.png height=100>](apps/libreoffice-still-full.md)  |
+| [![libreoffice-still-full](ENTER)](apps/libreoffice-still-full.html)  |
 
 | [libreoffice-still-full-help](apps/libreoffice-still-full-help.md) |
 | ----- |
-| [<img src=icons/libreoffice-still-full-help.png height=100>](apps/libreoffice-still-full-help.md)  |
+| [![libreoffice-still-full-help](ENTER)](apps/libreoffice-still-full-help.html)  |
 
 | [libreoffice-still-standard](apps/libreoffice-still-standard.md) |
 | ----- |
-| [<img src=icons/libreoffice-still-standard.png height=100>](apps/libreoffice-still-standard.md)  |
+| [![libreoffice-still-standard](ENTER)](apps/libreoffice-still-standard.html)  |
 
 | [libreoffice-still-standard-help](apps/libreoffice-still-standard-help.md) |
 | ----- |
-| [<img src=icons/libreoffice-still-standard-help.png height=100>](apps/libreoffice-still-standard-help.md)  |
+| [![libreoffice-still-standard-help](ENTER)](apps/libreoffice-still-standard-help.html)  |
 
 | [librepcb](apps/librepcb.md) |
 | ----- |
-| [<img src=icons/librepcb.png height=100>](apps/librepcb.md)  |
+| [![librepcb](ENTER)](apps/librepcb.html)  |
 
 | [libresprite](apps/libresprite.md) |
 | ----- |
-| [<img src=icons/libresprite.png height=100>](apps/libresprite.md)  |
+| [![libresprite](ENTER)](apps/libresprite.html)  |
 
 | [librewolf](apps/librewolf.md) |
 | ----- |
-| [<img src=icons/librewolf.png height=100>](apps/librewolf.md)  |
+| [![librewolf](ENTER)](apps/librewolf.html)  |
 
 | [lightning](apps/lightning.md) |
 | ----- |
-| [<img src=icons/lightning.png height=100>](apps/lightning.md)  |
+| [![lightning](ENTER)](apps/lightning.html)  |
 
 | [lightning-peach-wallet](apps/lightning-peach-wallet.md) |
 | ----- |
-| [<img src=icons/lightning-peach-wallet.png height=100>](apps/lightning-peach-wallet.md)  |
+| [![lightning-peach-wallet](ENTER)](apps/lightning-peach-wallet.html)  |
 
 | [liground](apps/liground.md) |
 | ----- |
-| [<img src=icons/liground.png height=100>](apps/liground.md)  |
+| [![liground](ENTER)](apps/liground.html)  |
 
 | [liketaskmanager](apps/liketaskmanager.md) |
 | ----- |
-| [<img src=icons/liketaskmanager.png height=100>](apps/liketaskmanager.md)  |
+| [![liketaskmanager](ENTER)](apps/liketaskmanager.html)  |
 
 | [linedancer](apps/linedancer.md) |
 | ----- |
-| [<img src=icons/linedancer.png height=100>](apps/linedancer.md)  |
+| [![linedancer](ENTER)](apps/linedancer.html)  |
 
 | [linphone](apps/linphone.md) |
 | ----- |
-| [<img src=icons/linphone.png height=100>](apps/linphone.md)  |
+| [![linphone](ENTER)](apps/linphone.html)  |
 
 | [linuxdeployqt](apps/linuxdeployqt.md) |
 | ----- |
-| [<img src=icons/linuxdeployqt.png height=100>](apps/linuxdeployqt.md)  |
+| [![linuxdeployqt](ENTER)](apps/linuxdeployqt.html)  |
 
 | [linux-intel-undervolt-gui](apps/linux-intel-undervolt-gui.md) |
 | ----- |
-| [<img src=icons/linux-intel-undervolt-gui.png height=100>](apps/linux-intel-undervolt-gui.md)  |
+| [![linux-intel-undervolt-gui](ENTER)](apps/linux-intel-undervolt-gui.html)  |
 
 | [listen1-desktop-appimage](apps/listen1-desktop-appimage.md) |
 | ----- |
-| [<img src=icons/listen1-desktop-appimage.png height=100>](apps/listen1-desktop-appimage.md)  |
+| [![listen1-desktop-appimage](ENTER)](apps/listen1-desktop-appimage.html)  |
 
 | [liteide](apps/liteide.md) |
 | ----- |
-| [<img src=icons/liteide.png height=100>](apps/liteide.md)  |
+| [![liteide](ENTER)](apps/liteide.html)  |
 
 | [liveme-pro-tools](apps/liveme-pro-tools.md) |
 | ----- |
-| [<img src=icons/liveme-pro-tools.png height=100>](apps/liveme-pro-tools.md)  |
+| [![liveme-pro-tools](ENTER)](apps/liveme-pro-tools.html)  |
 
 | [lmms](apps/lmms.md) |
 | ----- |
-| [<img src=icons/lmms.png height=100>](apps/lmms.md)  |
+| [![lmms](ENTER)](apps/lmms.html)  |
 
 | [local-browser](apps/local-browser.md) |
 | ----- |
-| [<img src=icons/local-browser.png height=100>](apps/local-browser.md)  |
+| [![local-browser](ENTER)](apps/local-browser.html)  |
 
 | [loginized](apps/loginized.md) |
 | ----- |
-| [<img src=icons/loginized.png height=100>](apps/loginized.md)  |
+| [![loginized](ENTER)](apps/loginized.html)  |
 
 | [logseq](apps/logseq.md) |
 | ----- |
-| [<img src=icons/logseq.png height=100>](apps/logseq.md)  |
+| [![logseq](ENTER)](apps/logseq.html)  |
 
 | [losslesscut](apps/losslesscut.md) |
 | ----- |
-| [<img src=icons/losslesscut.png height=100>](apps/losslesscut.md)  |
+| [![losslesscut](ENTER)](apps/losslesscut.html)  |
 
 | [love](apps/love.md) |
 | ----- |
-| [<img src=icons/love.png height=100>](apps/love.md)  |
+| [![love](ENTER)](apps/love.html)  |
 
 | [lpub3d](apps/lpub3d.md) |
 | ----- |
-| [<img src=icons/lpub3d.png height=100>](apps/lpub3d.md)  |
+| [![lpub3d](ENTER)](apps/lpub3d.html)  |
 
 | [lskat](apps/lskat.md) |
 | ----- |
-| [<img src=icons/lskat.png height=100>](apps/lskat.md)  |
+| [![lskat](ENTER)](apps/lskat.html)  |
 
 | [lumi](apps/lumi.md) |
 | ----- |
-| [<img src=icons/lumi.png height=100>](apps/lumi.md)  |
+| [![lumi](ENTER)](apps/lumi.html)  |
 
 | [luminance-hdr](apps/luminance-hdr.md) |
 | ----- |
-| [<img src=icons/luminance-hdr.png height=100>](apps/luminance-hdr.md)  |
+| [![luminance-hdr](ENTER)](apps/luminance-hdr.html)  |
 
 | [luna](apps/luna.md) |
 | ----- |
-| [<img src=icons/luna.png height=100>](apps/luna.md)  |
+| [![luna](ENTER)](apps/luna.html)  |
 
 | [lunar-client](apps/lunar-client.md) |
 | ----- |
-| [<img src=icons/lunar-client.png height=100>](apps/lunar-client.md)  |
+| [![lunar-client](ENTER)](apps/lunar-client.html)  |
 
 | [lunyr](apps/lunyr.md) |
 | ----- |
-| [<img src=icons/lunyr.png height=100>](apps/lunyr.md)  |
+| [![lunyr](ENTER)](apps/lunyr.html)  |
 
 | [lx-music-desktop-appimage](apps/lx-music-desktop-appimage.md) |
 | ----- |
-| [<img src=icons/lx-music-desktop-appimage.png height=100>](apps/lx-music-desktop-appimage.md)  |
+| [![lx-music-desktop-appimage](ENTER)](apps/lx-music-desktop-appimage.html)  |
 
 | [lxtask](apps/lxtask.md) |
 | ----- |
-| [<img src=icons/lxtask.png height=100>](apps/lxtask.md)  |
+| [![lxtask](ENTER)](apps/lxtask.html)  |
 
 | [magento2-upgrade-gui](apps/magento2-upgrade-gui.md) |
 | ----- |
-| [<img src=icons/magento2-upgrade-gui.png height=100>](apps/magento2-upgrade-gui.md)  |
+| [![magento2-upgrade-gui](ENTER)](apps/magento2-upgrade-gui.html)  |
 
 | [magicfountain](apps/magicfountain.md) |
 | ----- |
-| [<img src=icons/magicfountain.png height=100>](apps/magicfountain.md)  |
+| [![magicfountain](ENTER)](apps/magicfountain.html)  |
 
 | [makagiga](apps/makagiga.md) |
 | ----- |
-| [<img src=icons/makagiga.png height=100>](apps/makagiga.md)  |
+| [![makagiga](ENTER)](apps/makagiga.html)  |
 
 | [makoureactor](apps/makoureactor.md) |
 | ----- |
-| [<img src=icons/makoureactor.png height=100>](apps/makoureactor.md)  |
+| [![makoureactor](ENTER)](apps/makoureactor.html)  |
 
 | [malice](apps/malice.md) |
 | ----- |
-| [<img src=icons/malice.png height=100>](apps/malice.md)  |
+| [![malice](ENTER)](apps/malice.html)  |
 
 | [manager-io](apps/manager-io.md) |
 | ----- |
-| [<img src=icons/manager-io.png height=100>](apps/manager-io.md)  |
+| [![manager-io](ENTER)](apps/manager-io.html)  |
 
 | [manager-server](apps/manager-server.md) |
 | ----- |
-| [<img src=icons/manager-server.png height=100>](apps/manager-server.md)  |
+| [![manager-server](ENTER)](apps/manager-server.html)  |
 
 | [mandelbulber2](apps/mandelbulber2.md) |
 | ----- |
-| [<img src=icons/mandelbulber2.png height=100>](apps/mandelbulber2.md)  |
+| [![mandelbulber2](ENTER)](apps/mandelbulber2.html)  |
 
 | [mangbandclient](apps/mangbandclient.md) |
 | ----- |
-| [<img src=icons/mangbandclient.png height=100>](apps/mangbandclient.md)  |
+| [![mangbandclient](ENTER)](apps/mangbandclient.html)  |
 
 | [manta](apps/manta.md) |
 | ----- |
-| [<img src=icons/manta.png height=100>](apps/manta.md)  |
+| [![manta](ENTER)](apps/manta.html)  |
 
 | [mapeo](apps/mapeo.md) |
 | ----- |
-| [<img src=icons/mapeo.png height=100>](apps/mapeo.md)  |
+| [![mapeo](ENTER)](apps/mapeo.html)  |
 
 | [mapollage](apps/mapollage.md) |
 | ----- |
-| [<img src=icons/mapollage.png height=100>](apps/mapollage.md)  |
+| [![mapollage](ENTER)](apps/mapollage.html)  |
 
 | [mapton](apps/mapton.md) |
 | ----- |
-| [<img src=icons/mapton.png height=100>](apps/mapton.md)  |
+| [![mapton](ENTER)](apps/mapton.html)  |
 
 | [markman](apps/markman.md) |
 | ----- |
-| [<img src=icons/markman.png height=100>](apps/markman.md)  |
+| [![markman](ENTER)](apps/markman.html)  |
 
 | [mark-mind](apps/mark-mind.md) |
 | ----- |
-| [<img src=icons/mark-mind.png height=100>](apps/mark-mind.md)  |
+| [![mark-mind](ENTER)](apps/mark-mind.html)  |
 
 | [mark-mind](apps/mark-mind.md) |
 | ----- |
-| [<img src=icons/mark-mind.png height=100>](apps/mark-mind.md)  |
+| [![mark-mind](ENTER)](apps/mark-mind.html)  |
 
 | [marktext](apps/marktext.md) |
 | ----- |
-| [<img src=icons/marktext.png height=100>](apps/marktext.md)  |
+| [![marktext](ENTER)](apps/marktext.html)  |
 
 | [marlin-conf](apps/marlin-conf.md) |
 | ----- |
-| [<img src=icons/marlin-conf.png height=100>](apps/marlin-conf.md)  |
+| [![marlin-conf](ENTER)](apps/marlin-conf.html)  |
 
 | [martian](apps/martian.md) |
 | ----- |
-| [<img src=icons/martian.png height=100>](apps/martian.md)  |
+| [![martian](ENTER)](apps/martian.html)  |
 
 | [mastervyrn](apps/mastervyrn.md) |
 | ----- |
-| [<img src=icons/mastervyrn.png height=100>](apps/mastervyrn.md)  |
+| [![mastervyrn](ENTER)](apps/mastervyrn.html)  |
 
 | [mattermost-desktop](apps/mattermost-desktop.md) |
 | ----- |
-| [<img src=icons/mattermost-desktop.png height=100>](apps/mattermost-desktop.md)  |
+| [![mattermost-desktop](ENTER)](apps/mattermost-desktop.html)  |
 
 | [mazesolver](apps/mazesolver.md) |
 | ----- |
-| [<img src=icons/mazesolver.png height=100>](apps/mazesolver.md)  |
+| [![mazesolver](ENTER)](apps/mazesolver.html)  |
 
 | [mbcord-appimage](apps/mbcord-appimage.md) |
 | ----- |
-| [<img src=icons/mbcord-appimage.png height=100>](apps/mbcord-appimage.md)  |
+| [![mbcord-appimage](ENTER)](apps/mbcord-appimage.html)  |
 
 | [mcpodcast](apps/mcpodcast.md) |
 | ----- |
-| [<img src=icons/mcpodcast.png height=100>](apps/mcpodcast.md)  |
+| [![mcpodcast](ENTER)](apps/mcpodcast.html)  |
 
 | [m](apps/m.md) |
 | ----- |
-| [<img src=icons/m.png height=100>](apps/m.md)  |
+| [![m](ENTER)](apps/m.html)  |
 
 | [mdl](apps/mdl.md) |
 | ----- |
-| [<img src=icons/mdl.png height=100>](apps/mdl.md)  |
+| [![mdl](ENTER)](apps/mdl.html)  |
 
 | [mdview](apps/mdview.md) |
 | ----- |
-| [<img src=icons/mdview.png height=100>](apps/mdview.md)  |
+| [![mdview](ENTER)](apps/mdview.html)  |
 
 | [mechvibes](apps/mechvibes.md) |
 | ----- |
-| [<img src=icons/mechvibes.png height=100>](apps/mechvibes.md)  |
+| [![mechvibes](ENTER)](apps/mechvibes.html)  |
 
 | [media-dupes](apps/media-dupes.md) |
 | ----- |
-| [<img src=icons/media-dupes.png height=100>](apps/media-dupes.md)  |
+| [![media-dupes](ENTER)](apps/media-dupes.html)  |
 
 | [mediaelch](apps/mediaelch.md) |
 | ----- |
-| [<img src=icons/mediaelch.png height=100>](apps/mediaelch.md)  |
+| [![mediaelch](ENTER)](apps/mediaelch.html)  |
 
 | [mediainfo](apps/mediainfo.md) |
 | ----- |
-| [<img src=icons/mediainfo.png height=100>](apps/mediainfo.md)  |
+| [![mediainfo](ENTER)](apps/mediainfo.html)  |
 
 | [media-mate](apps/media-mate.md) |
 | ----- |
-| [<img src=icons/media-mate.png height=100>](apps/media-mate.md)  |
+| [![media-mate](ENTER)](apps/media-mate.html)  |
 
 | [median-xl-launcher-appimage](apps/median-xl-launcher-appimage.md) |
 | ----- |
-| [<img src=icons/median-xl-launcher-appimage.png height=100>](apps/median-xl-launcher-appimage.md)  |
+| [![median-xl-launcher-appimage](ENTER)](apps/median-xl-launcher-appimage.html)  |
 
 | [mediathekview](apps/mediathekview.md) |
 | ----- |
-| [<img src=icons/mediathekview.png height=100>](apps/mediathekview.md)  |
+| [![mediathekview](ENTER)](apps/mediathekview.html)  |
 
 | [mellowplayer](apps/mellowplayer.md) |
 | ----- |
-| [<img src=icons/mellowplayer.png height=100>](apps/mellowplayer.md)  |
+| [![mellowplayer](ENTER)](apps/mellowplayer.html)  |
 
 | [melodie](apps/melodie.md) |
 | ----- |
-| [<img src=icons/melodie.png height=100>](apps/melodie.md)  |
+| [![melodie](ENTER)](apps/melodie.html)  |
 
 | [memento](apps/memento.md) |
 | ----- |
-| [<img src=icons/memento.png height=100>](apps/memento.md)  |
+| [![memento](ENTER)](apps/memento.html)  |
 
 | [mendeley](apps/mendeley.md) |
 | ----- |
-| [<img src=icons/mendeley.png height=100>](apps/mendeley.md)  |
+| [![mendeley](ENTER)](apps/mendeley.html)  |
 
 | [meow-sql](apps/meow-sql.md) |
 | ----- |
-| [<img src=icons/meow-sql.png height=100>](apps/meow-sql.md)  |
+| [![meow-sql](ENTER)](apps/meow-sql.html)  |
 
 | [meshlab](apps/meshlab.md) |
 | ----- |
-| [<img src=icons/meshlab.png height=100>](apps/meshlab.md)  |
+| [![meshlab](ENTER)](apps/meshlab.html)  |
 
 | [meshmill](apps/meshmill.md) |
 | ----- |
-| [<img src=icons/meshmill.png height=100>](apps/meshmill.md)  |
+| [![meshmill](ENTER)](apps/meshmill.html)  |
 
 | [meta-grabber](apps/meta-grabber.md) |
 | ----- |
-| [<img src=icons/meta-grabber.png height=100>](apps/meta-grabber.md)  |
+| [![meta-grabber](ENTER)](apps/meta-grabber.html)  |
 
 | [meta-grabber](apps/meta-grabber.md) |
 | ----- |
-| [<img src=icons/meta-grabber.png height=100>](apps/meta-grabber.md)  |
+| [![meta-grabber](ENTER)](apps/meta-grabber.html)  |
 
 | [micropad](apps/micropad.md) |
 | ----- |
-| [<img src=icons/micropad.png height=100>](apps/micropad.md)  |
+| [![micropad](ENTER)](apps/micropad.html)  |
 
 | [microsoft-edge-beta](apps/microsoft-edge-beta.md) |
 | ----- |
-| [<img src=icons/microsoft-edge-beta.png height=100>](apps/microsoft-edge-beta.md)  |
+| [![microsoft-edge-beta](ENTER)](apps/microsoft-edge-beta.html)  |
 
 | [microsoft-edge-dev](apps/microsoft-edge-dev.md) |
 | ----- |
-| [<img src=icons/microsoft-edge-dev.png height=100>](apps/microsoft-edge-dev.md)  |
+| [![microsoft-edge-dev](ENTER)](apps/microsoft-edge-dev.html)  |
 
 | [microsoft-edge](apps/microsoft-edge.md) |
 | ----- |
-| [<img src=icons/microsoft-edge.png height=100>](apps/microsoft-edge.md)  |
+| [![microsoft-edge](ENTER)](apps/microsoft-edge.html)  |
 
 | [midterm](apps/midterm.md) |
 | ----- |
-| [<img src=icons/midterm.png height=100>](apps/midterm.md)  |
+| [![midterm](ENTER)](apps/midterm.html)  |
 
 | [miesimulatorgui](apps/miesimulatorgui.md) |
 | ----- |
-| [<img src=icons/miesimulatorgui.png height=100>](apps/miesimulatorgui.md)  |
+| [![miesimulatorgui](ENTER)](apps/miesimulatorgui.html)  |
 
 | [mindmapp](apps/mindmapp.md) |
 | ----- |
-| [<img src=icons/mindmapp.png height=100>](apps/mindmapp.md)  |
+| [![mindmapp](ENTER)](apps/mindmapp.html)  |
 
 | [minecraft-launcher](apps/minecraft-launcher.md) |
 | ----- |
-| [<img src=icons/minecraft-launcher.png height=100>](apps/minecraft-launcher.md)  |
+| [![minecraft-launcher](ENTER)](apps/minecraft-launcher.html)  |
 
 | [minetest](apps/minetest.md) |
 | ----- |
-| [<img src=icons/minetest.png height=100>](apps/minetest.md)  |
+| [![minetest](ENTER)](apps/minetest.html)  |
 
 | [minetime](apps/minetime.md) |
 | ----- |
-| [<img src=icons/minetime.png height=100>](apps/minetime.md)  |
+| [![minetime](ENTER)](apps/minetime.html)  |
 
 | [mini-diary](apps/mini-diary.md) |
 | ----- |
-| [<img src=icons/mini-diary.png height=100>](apps/mini-diary.md)  |
+| [![mini-diary](ENTER)](apps/mini-diary.html)  |
 
 | [minimal-podcasts-player](apps/minimal-podcasts-player.md) |
 | ----- |
-| [<img src=icons/minimal-podcasts-player.png height=100>](apps/minimal-podcasts-player.md)  |
+| [![minimal-podcasts-player](ENTER)](apps/minimal-podcasts-player.html)  |
 
 | [minions](apps/minions.md) |
 | ----- |
-| [<img src=icons/minions.png height=100>](apps/minions.md)  |
+| [![minions](ENTER)](apps/minions.html)  |
 
 | [mini-qml](apps/mini-qml.md) |
 | ----- |
-| [<img src=icons/mini-qml.png height=100>](apps/mini-qml.md)  |
+| [![mini-qml](ENTER)](apps/mini-qml.html)  |
 
 | [minizinc-ide](apps/minizinc-ide.md) |
 | ----- |
-| [<img src=icons/minizinc-ide.png height=100>](apps/minizinc-ide.md)  |
+| [![minizinc-ide](ENTER)](apps/minizinc-ide.html)  |
 
 | [mira-backup](apps/mira-backup.md) |
 | ----- |
-| [<img src=icons/mira-backup.png height=100>](apps/mira-backup.md)  |
+| [![mira-backup](ENTER)](apps/mira-backup.html)  |
 
 | [mirage](apps/mirage.md) |
 | ----- |
-| [<img src=icons/mirage.png height=100>](apps/mirage.md)  |
+| [![mirage](ENTER)](apps/mirage.html)  |
 
 | [mjml-app](apps/mjml-app.md) |
 | ----- |
-| [<img src=icons/mjml-app.png height=100>](apps/mjml-app.md)  |
+| [![mjml-app](ENTER)](apps/mjml-app.html)  |
 
 | [mki3dgame](apps/mki3dgame.md) |
 | ----- |
-| [<img src=icons/mki3dgame.png height=100>](apps/mki3dgame.md)  |
+| [![mki3dgame](ENTER)](apps/mki3dgame.html)  |
 
 | [mkvtoolnix](apps/mkvtoolnix.md) |
 | ----- |
-| [<img src=icons/mkvtoolnix.png height=100>](apps/mkvtoolnix.md)  |
+| [![mkvtoolnix](ENTER)](apps/mkvtoolnix.html)  |
 
 | [mlv-app](apps/mlv-app.md) |
 | ----- |
-| [<img src=icons/mlv-app.png height=100>](apps/mlv-app.md)  |
+| [![mlv-app](ENTER)](apps/mlv-app.html)  |
 
 | [mlv-app](apps/mlv-app.md) |
 | ----- |
-| [<img src=icons/mlv-app.png height=100>](apps/mlv-app.md)  |
+| [![mlv-app](ENTER)](apps/mlv-app.html)  |
 
 | [mmapper](apps/mmapper.md) |
 | ----- |
-| [<img src=icons/mmapper.png height=100>](apps/mmapper.md)  |
+| [![mmapper](ENTER)](apps/mmapper.html)  |
 
 | [moarperf](apps/moarperf.md) |
 | ----- |
-| [<img src=icons/moarperf.png height=100>](apps/moarperf.md)  |
+| [![moarperf](ENTER)](apps/moarperf.html)  |
 
 | [mob](apps/mob.md) |
 | ----- |
-| [<img src=icons/mob.png height=100>](apps/mob.md)  |
+| [![mob](ENTER)](apps/mob.html)  |
 
 | [mochi](apps/mochi.md) |
 | ----- |
-| [<img src=icons/mochi.png height=100>](apps/mochi.md)  |
+| [![mochi](ENTER)](apps/mochi.html)  |
 
 | [mockman](apps/mockman.md) |
 | ----- |
-| [<img src=icons/mockman.png height=100>](apps/mockman.md)  |
+| [![mockman](ENTER)](apps/mockman.html)  |
 
 | [mockoon](apps/mockoon.md) |
 | ----- |
-| [<img src=icons/mockoon.png height=100>](apps/mockoon.md)  |
+| [![mockoon](ENTER)](apps/mockoon.html)  |
 
 | [moderndeck](apps/moderndeck.md) |
 | ----- |
-| [<img src=icons/moderndeck.png height=100>](apps/moderndeck.md)  |
+| [![moderndeck](ENTER)](apps/moderndeck.html)  |
 
 | [moniteur-admin](apps/moniteur-admin.md) |
 | ----- |
-| [<img src=icons/moniteur-admin.png height=100>](apps/moniteur-admin.md)  |
+| [![moniteur-admin](ENTER)](apps/moniteur-admin.html)  |
 
 | [moolticute](apps/moolticute.md) |
 | ----- |
-| [<img src=icons/moolticute.png height=100>](apps/moolticute.md)  |
+| [![moolticute](ENTER)](apps/moolticute.html)  |
 
 | [moonitor](apps/moonitor.md) |
 | ----- |
-| [<img src=icons/moonitor.png height=100>](apps/moonitor.md)  |
+| [![moonitor](ENTER)](apps/moonitor.html)  |
 
 | [moonlight](apps/moonlight.md) |
 | ----- |
-| [<img src=icons/moonlight.png height=100>](apps/moonlight.md)  |
+| [![moonlight](ENTER)](apps/moonlight.html)  |
 
 | [moonplayer](apps/moonplayer.md) |
 | ----- |
-| [<img src=icons/moonplayer.png height=100>](apps/moonplayer.md)  |
+| [![moonplayer](ENTER)](apps/moonplayer.html)  |
 
 | [moosync](apps/moosync.md) |
 | ----- |
-| [<img src=icons/moosync.png height=100>](apps/moosync.md)  |
+| [![moosync](ENTER)](apps/moosync.html)  |
 
 | [motrix](apps/motrix.md) |
 | ----- |
-| [<img src=icons/motrix.png height=100>](apps/motrix.md)  |
+| [![motrix](ENTER)](apps/motrix.html)  |
 
 | [movie-monad](apps/movie-monad.md) |
 | ----- |
-| [<img src=icons/movie-monad.png height=100>](apps/movie-monad.md)  |
+| [![movie-monad](ENTER)](apps/movie-monad.html)  |
 
 | [mp3-tagger-appimage](apps/mp3-tagger-appimage.md) |
 | ----- |
-| [<img src=icons/mp3-tagger-appimage.png height=100>](apps/mp3-tagger-appimage.md)  |
+| [![mp3-tagger-appimage](ENTER)](apps/mp3-tagger-appimage.html)  |
 
 | [mpv](apps/mpv.md) |
 | ----- |
-| [<img src=icons/mpv.png height=100>](apps/mpv.md)  |
+| [![mpv](ENTER)](apps/mpv.html)  |
 
 | [mqttcute](apps/mqttcute.md) |
 | ----- |
-| [<img src=icons/mqttcute.png height=100>](apps/mqttcute.md)  |
+| [![mqttcute](ENTER)](apps/mqttcute.html)  |
 
 | [mqtt-explorer](apps/mqtt-explorer.md) |
 | ----- |
-| [<img src=icons/mqtt-explorer.png height=100>](apps/mqtt-explorer.md)  |
+| [![mqtt-explorer](ENTER)](apps/mqtt-explorer.html)  |
 
 | [mr.dclutterer](apps/mr.dclutterer.md) |
 | ----- |
-| [<img src=icons/mr.dclutterer.png height=100>](apps/mr.dclutterer.md)  |
+| [![mr.dclutterer](ENTER)](apps/mr.dclutterer.html)  |
 
 | [mtcelledit](apps/mtcelledit.md) |
 | ----- |
-| [<img src=icons/mtcelledit.png height=100>](apps/mtcelledit.md)  |
+| [![mtcelledit](ENTER)](apps/mtcelledit.html)  |
 
 | [mudita-center-appimage](apps/mudita-center-appimage.md) |
 | ----- |
-| [<img src=icons/mudita-center-appimage.png height=100>](apps/mudita-center-appimage.md)  |
+| [![mudita-center-appimage](ENTER)](apps/mudita-center-appimage.html)  |
 
 | [mupdf](apps/mupdf.md) |
 | ----- |
-| [<img src=icons/mupdf.png height=100>](apps/mupdf.md)  |
+| [![mupdf](ENTER)](apps/mupdf.html)  |
 
 | [muse](apps/muse.md) |
 | ----- |
-| [<img src=icons/muse.png height=100>](apps/muse.md)  |
+| [![muse](ENTER)](apps/muse.html)  |
 
 | [museeks](apps/museeks.md) |
 | ----- |
-| [<img src=icons/museeks.png height=100>](apps/museeks.md)  |
+| [![museeks](ENTER)](apps/museeks.html)  |
 
 | [musescore](apps/musescore.md) |
 | ----- |
-| [<img src=icons/musescore.png height=100>](apps/musescore.md)  |
+| [![musescore](ENTER)](apps/musescore.html)  |
 
 | [musicalypse](apps/musicalypse.md) |
 | ----- |
-| [<img src=icons/musicalypse.png height=100>](apps/musicalypse.md)  |
+| [![musicalypse](ENTER)](apps/musicalypse.html)  |
 
 | [music-blocks](apps/music-blocks.md) |
 | ----- |
-| [<img src=icons/music-blocks.png height=100>](apps/music-blocks.md)  |
+| [![music-blocks](ENTER)](apps/music-blocks.html)  |
 
 | [music-kitten-appimage](apps/music-kitten-appimage.md) |
 | ----- |
-| [<img src=icons/music-kitten-appimage.png height=100>](apps/music-kitten-appimage.md)  |
+| [![music-kitten-appimage](ENTER)](apps/music-kitten-appimage.html)  |
 
 | [mutool](apps/mutool.md) |
 | ----- |
-| [<img src=icons/mutool.png height=100>](apps/mutool.md)  |
+| [![mutool](ENTER)](apps/mutool.html)  |
 
 | [muwire](apps/muwire.md) |
 | ----- |
-| [<img src=icons/muwire.png height=100>](apps/muwire.md)  |
+| [![muwire](ENTER)](apps/muwire.html)  |
 
 | [mybelka](apps/mybelka.md) |
 | ----- |
-| [<img src=icons/mybelka.png height=100>](apps/mybelka.md)  |
+| [![mybelka](ENTER)](apps/mybelka.html)  |
 
 | [my-budget](apps/my-budget.md) |
 | ----- |
-| [<img src=icons/my-budget.png height=100>](apps/my-budget.md)  |
+| [![my-budget](ENTER)](apps/my-budget.html)  |
 
 | [mycrypto](apps/mycrypto.md) |
 | ----- |
-| [<img src=icons/mycrypto.png height=100>](apps/mycrypto.md)  |
+| [![mycrypto](ENTER)](apps/mycrypto.html)  |
 
 | [my-jira](apps/my-jira.md) |
 | ----- |
-| [<img src=icons/my-jira.png height=100>](apps/my-jira.md)  |
+| [![my-jira](ENTER)](apps/my-jira.html)  |
 
 | [mypaint](apps/mypaint.md) |
 | ----- |
-| [<img src=icons/mypaint.png height=100>](apps/mypaint.md)  |
+| [![mypaint](ENTER)](apps/mypaint.html)  |
 
 | [mystiq](apps/mystiq.md) |
 | ----- |
-| [<img src=icons/mystiq.png height=100>](apps/mystiq.md)  |
+| [![mystiq](ENTER)](apps/mystiq.html)  |
 
 | [n3h](apps/n3h.md) |
 | ----- |
-| [<img src=icons/n3h.png height=100>](apps/n3h.md)  |
+| [![n3h](ENTER)](apps/n3h.html)  |
 
 | [nanovault](apps/nanovault.md) |
 | ----- |
-| [<img src=icons/nanovault.png height=100>](apps/nanovault.md)  |
+| [![nanovault](ENTER)](apps/nanovault.html)  |
 
 | [nault-bin](apps/nault-bin.md) |
 | ----- |
-| [<img src=icons/nault-bin.png height=100>](apps/nault-bin.md)  |
+| [![nault-bin](ENTER)](apps/nault-bin.html)  |
 
 | [ncsa-mosaic](apps/ncsa-mosaic.md) |
 | ----- |
-| [<img src=icons/ncsa-mosaic.png height=100>](apps/ncsa-mosaic.md)  |
+| [![ncsa-mosaic](ENTER)](apps/ncsa-mosaic.html)  |
 
 | [negibox](apps/negibox.md) |
 | ----- |
-| [<img src=icons/negibox.png height=100>](apps/negibox.md)  |
+| [![negibox](ENTER)](apps/negibox.html)  |
 
 | [neon](apps/neon.md) |
 | ----- |
-| [<img src=icons/neon.png height=100>](apps/neon.md)  |
+| [![neon](ENTER)](apps/neon.html)  |
 
 | [nepaliunicode](apps/nepaliunicode.md) |
 | ----- |
-| [<img src=icons/nepaliunicode.png height=100>](apps/nepaliunicode.md)  |
+| [![nepaliunicode](ENTER)](apps/nepaliunicode.html)  |
 
 | [nest-desktop](apps/nest-desktop.md) |
 | ----- |
-| [<img src=icons/nest-desktop.png height=100>](apps/nest-desktop.md)  |
+| [![nest-desktop](ENTER)](apps/nest-desktop.html)  |
 
 | [netbeans](apps/netbeans.md) |
 | ----- |
-| [<img src=icons/netbeans.png height=100>](apps/netbeans.md)  |
+| [![netbeans](ENTER)](apps/netbeans.html)  |
 
 | [newlogic](apps/newlogic.md) |
 | ----- |
-| [<img src=icons/newlogic.png height=100>](apps/newlogic.md)  |
+| [![newlogic](ENTER)](apps/newlogic.html)  |
 
 | [nextcloud](apps/nextcloud.md) |
 | ----- |
-| [<img src=icons/nextcloud.png height=100>](apps/nextcloud.md)  |
+| [![nextcloud](ENTER)](apps/nextcloud.html)  |
 
 | [nextplayer-appimage](apps/nextplayer-appimage.md) |
 | ----- |
-| [<img src=icons/nextplayer-appimage.png height=100>](apps/nextplayer-appimage.md)  |
+| [![nextplayer-appimage](ENTER)](apps/nextplayer-appimage.html)  |
 
 | [nexus-wallet](apps/nexus-wallet.md) |
 | ----- |
-| [<img src=icons/nexus-wallet.png height=100>](apps/nexus-wallet.md)  |
+| [![nexus-wallet](ENTER)](apps/nexus-wallet.html)  |
 
 | [nfctools](apps/nfctools.md) |
 | ----- |
-| [<img src=icons/nfctools.png height=100>](apps/nfctools.md)  |
+| [![nfctools](ENTER)](apps/nfctools.html)  |
 
 | [ngpost](apps/ngpost.md) |
 | ----- |
-| [<img src=icons/ngpost.png height=100>](apps/ngpost.md)  |
+| [![ngpost](ENTER)](apps/ngpost.html)  |
 
 | [ngrev](apps/ngrev.md) |
 | ----- |
-| [<img src=icons/ngrev.png height=100>](apps/ngrev.md)  |
+| [![ngrev](ENTER)](apps/ngrev.html)  |
 
 | [nheko](apps/nheko.md) |
 | ----- |
-| [<img src=icons/nheko.png height=100>](apps/nheko.md)  |
+| [![nheko](ENTER)](apps/nheko.html)  |
 
 | [niffler](apps/niffler.md) |
 | ----- |
-| [<img src=icons/niffler.png height=100>](apps/niffler.md)  |
+| [![niffler](ENTER)](apps/niffler.html)  |
 
 | [nightpdf](apps/nightpdf.md) |
 | ----- |
-| [<img src=icons/nightpdf.png height=100>](apps/nightpdf.md)  |
+| [![nightpdf](ENTER)](apps/nightpdf.html)  |
 
 | [nimbus-weather](apps/nimbus-weather.md) |
 | ----- |
-| [<img src=icons/nimbus-weather.png height=100>](apps/nimbus-weather.md)  |
+| [![nimbus-weather](ENTER)](apps/nimbus-weather.html)  |
 
 | [nitrokey](apps/nitrokey.md) |
 | ----- |
-| [<img src=icons/nitrokey.png height=100>](apps/nitrokey.md)  |
+| [![nitrokey](ENTER)](apps/nitrokey.html)  |
 
 | [nixnote](apps/nixnote.md) |
 | ----- |
-| [<img src=icons/nixnote.png height=100>](apps/nixnote.md)  |
+| [![nixnote](ENTER)](apps/nixnote.html)  |
 
 | [nmeasimulator](apps/nmeasimulator.md) |
 | ----- |
-| [<img src=icons/nmeasimulator.png height=100>](apps/nmeasimulator.md)  |
+| [![nmeasimulator](ENTER)](apps/nmeasimulator.html)  |
 
 | [node](apps/node.md) |
 | ----- |
-| [<img src=icons/node.png height=100>](apps/node.md)  |
+| [![node](ENTER)](apps/node.html)  |
 
 | [nootka](apps/nootka.md) |
 | ----- |
-| [<img src=icons/nootka.png height=100>](apps/nootka.md)  |
+| [![nootka](ENTER)](apps/nootka.html)  |
 
 | [nordvpn](apps/nordvpn.md) |
 | ----- |
-| [<img src=icons/nordvpn.png height=100>](apps/nordvpn.md)  |
+| [![nordvpn](ENTER)](apps/nordvpn.html)  |
 
 | [nosqlbooster](apps/nosqlbooster.md) |
 | ----- |
-| [<img src=icons/nosqlbooster.png height=100>](apps/nosqlbooster.md)  |
+| [![nosqlbooster](ENTER)](apps/nosqlbooster.html)  |
 
 | [nostlan](apps/nostlan.md) |
 | ----- |
-| [<img src=icons/nostlan.png height=100>](apps/nostlan.md)  |
+| [![nostlan](ENTER)](apps/nostlan.html)  |
 
 | [nostlan](apps/nostlan.md) |
 | ----- |
-| [<img src=icons/nostlan.png height=100>](apps/nostlan.md)  |
+| [![nostlan](ENTER)](apps/nostlan.html)  |
 
 | [notable](apps/notable.md) |
 | ----- |
-| [<img src=icons/notable.png height=100>](apps/notable.md)  |
+| [![notable](ENTER)](apps/notable.html)  |
 
 | [notemaster](apps/notemaster.md) |
 | ----- |
-| [<img src=icons/notemaster.png height=100>](apps/notemaster.md)  |
+| [![notemaster](ENTER)](apps/notemaster.html)  |
 
 | [notepadnext](apps/notepadnext.md) |
 | ----- |
-| [<img src=icons/notepadnext.png height=100>](apps/notepadnext.md)  |
+| [![notepadnext](ENTER)](apps/notepadnext.html)  |
 
 | [notepadqq](apps/notepadqq.md) |
 | ----- |
-| [<img src=icons/notepadqq.png height=100>](apps/notepadqq.md)  |
+| [![notepadqq](ENTER)](apps/notepadqq.html)  |
 
 | [noter](apps/noter.md) |
 | ----- |
-| [<img src=icons/noter.png height=100>](apps/noter.md)  |
+| [![noter](ENTER)](apps/noter.html)  |
 
 | [noteshrink-qt](apps/noteshrink-qt.md) |
 | ----- |
-| [<img src=icons/noteshrink-qt.png height=100>](apps/noteshrink-qt.md)  |
+| [![noteshrink-qt](ENTER)](apps/noteshrink-qt.html)  |
 
 | [notesnook](apps/notesnook.md) |
 | ----- |
-| [<img src=icons/notesnook.png height=100>](apps/notesnook.md)  |
+| [![notesnook](ENTER)](apps/notesnook.html)  |
 
 | [notes](apps/notes.md) |
 | ----- |
-| [<img src=icons/notes.png height=100>](apps/notes.md)  |
+| [![notes](ENTER)](apps/notes.html)  |
 
 | [npm](apps/npm.md) |
 | ----- |
-| [<img src=icons/npm.png height=100>](apps/npm.md)  |
+| [![npm](ENTER)](apps/npm.html)  |
 
 | [nrf-connect](apps/nrf-connect.md) |
 | ----- |
-| [<img src=icons/nrf-connect.png height=100>](apps/nrf-connect.md)  |
+| [![nrf-connect](ENTER)](apps/nrf-connect.html)  |
 
 | [nuclear](apps/nuclear.md) |
 | ----- |
-| [<img src=icons/nuclear.png height=100>](apps/nuclear.md)  |
+| [![nuclear](ENTER)](apps/nuclear.html)  |
 
 | [nuxeo-drive](apps/nuxeo-drive.md) |
 | ----- |
-| [<img src=icons/nuxeo-drive.png height=100>](apps/nuxeo-drive.md)  |
+| [![nuxeo-drive](ENTER)](apps/nuxeo-drive.html)  |
 
 | [nvim](apps/nvim.md) |
 | ----- |
-| [<img src=icons/nvim.png height=100>](apps/nvim.md)  |
+| [![nvim](ENTER)](apps/nvim.html)  |
 
 | [nvtop](apps/nvtop.md) |
 | ----- |
-| [<img src=icons/nvtop.png height=100>](apps/nvtop.md)  |
+| [![nvtop](ENTER)](apps/nvtop.html)  |
 
 | [nxshell](apps/nxshell.md) |
 | ----- |
-| [<img src=icons/nxshell.png height=100>](apps/nxshell.md)  |
+| [![nxshell](ENTER)](apps/nxshell.html)  |
 
 | [nx-software-center](apps/nx-software-center.md) |
 | ----- |
-| [<img src=icons/nx-software-center.png height=100>](apps/nx-software-center.md)  |
+| [![nx-software-center](ENTER)](apps/nx-software-center.html)  |
 
 | [nym-wallet-appimage](apps/nym-wallet-appimage.md) |
 | ----- |
-| [<img src=icons/nym-wallet-appimage.png height=100>](apps/nym-wallet-appimage.md)  |
+| [![nym-wallet-appimage](ENTER)](apps/nym-wallet-appimage.html)  |
 
 | [nyxt](apps/nyxt.md) |
 | ----- |
-| [<img src=icons/nyxt.png height=100>](apps/nyxt.md)  |
+| [![nyxt](ENTER)](apps/nyxt.html)  |
 
 | [obsidian](apps/obsidian.md) |
 | ----- |
-| [<img src=icons/obsidian.png height=100>](apps/obsidian.md)  |
+| [![obsidian](ENTER)](apps/obsidian.html)  |
 
 | [ocenaudio](apps/ocenaudio.md) |
 | ----- |
-| [<img src=icons/ocenaudio.png height=100>](apps/ocenaudio.md)  |
+| [![ocenaudio](ENTER)](apps/ocenaudio.html)  |
 
 | [ocrmypdf](apps/ocrmypdf.md) |
 | ----- |
-| [<img src=icons/ocrmypdf.png height=100>](apps/ocrmypdf.md)  |
+| [![ocrmypdf](ENTER)](apps/ocrmypdf.html)  |
 
 | [ocvvid2fulldome](apps/ocvvid2fulldome.md) |
 | ----- |
-| [<img src=icons/ocvvid2fulldome.png height=100>](apps/ocvvid2fulldome.md)  |
+| [![ocvvid2fulldome](ENTER)](apps/ocvvid2fulldome.html)  |
 
 | [ocvwarp](apps/ocvwarp.md) |
 | ----- |
-| [<img src=icons/ocvwarp.png height=100>](apps/ocvwarp.md)  |
+| [![ocvwarp](ENTER)](apps/ocvwarp.html)  |
 
 | [olive-0.1](apps/olive-0.1.md) |
 | ----- |
-| [<img src=icons/olive-0.1.png height=100>](apps/olive-0.1.md)  |
+| [![olive-0.1](ENTER)](apps/olive-0.1.html)  |
 
 | [ommpfritt](apps/ommpfritt.md) |
 | ----- |
-| [<img src=icons/ommpfritt.png height=100>](apps/ommpfritt.md)  |
+| [![ommpfritt](ENTER)](apps/ommpfritt.html)  |
 
 | [onenote](apps/onenote.md) |
 | ----- |
-| [<img src=icons/onenote.png height=100>](apps/onenote.md)  |
+| [![onenote](ENTER)](apps/onenote.html)  |
 
 | [onlyoffice](apps/onlyoffice.md) |
 | ----- |
-| [<img src=icons/onlyoffice.png height=100>](apps/onlyoffice.md)  |
+| [![onlyoffice](ENTER)](apps/onlyoffice.html)  |
 
 | [onnx2bnn](apps/onnx2bnn.md) |
 | ----- |
-| [<img src=icons/onnx2bnn.png height=100>](apps/onnx2bnn.md)  |
+| [![onnx2bnn](ENTER)](apps/onnx2bnn.html)  |
 
 | [onnx2daq](apps/onnx2daq.md) |
 | ----- |
-| [<img src=icons/onnx2daq.png height=100>](apps/onnx2daq.md)  |
+| [![onnx2daq](ENTER)](apps/onnx2daq.html)  |
 
 | [onshape](apps/onshape.md) |
 | ----- |
-| [<img src=icons/onshape.png height=100>](apps/onshape.md)  |
+| [![onshape](ENTER)](apps/onshape.html)  |
 
 | [onyx](apps/onyx.md) |
 | ----- |
-| [<img src=icons/onyx.png height=100>](apps/onyx.md)  |
+| [![onyx](ENTER)](apps/onyx.html)  |
 
 | [openarena](apps/openarena.md) |
 | ----- |
-| [<img src=icons/openarena.png height=100>](apps/openarena.md)  |
+| [![openarena](ENTER)](apps/openarena.html)  |
 
 | [openaudible](apps/openaudible.md) |
 | ----- |
-| [<img src=icons/openaudible.png height=100>](apps/openaudible.md)  |
+| [![openaudible](ENTER)](apps/openaudible.html)  |
 
 | [openblok](apps/openblok.md) |
 | ----- |
-| [<img src=icons/openblok.png height=100>](apps/openblok.md)  |
+| [![openblok](ENTER)](apps/openblok.html)  |
 
 | [opencomic](apps/opencomic.md) |
 | ----- |
-| [<img src=icons/opencomic.png height=100>](apps/opencomic.md)  |
+| [![opencomic](ENTER)](apps/opencomic.html)  |
 
 | [openhv](apps/openhv.md) |
 | ----- |
-| [<img src=icons/openhv.png height=100>](apps/openhv.md)  |
+| [![openhv](ENTER)](apps/openhv.html)  |
 
 | [open-markup-editor](apps/open-markup-editor.md) |
 | ----- |
-| [<img src=icons/open-markup-editor.png height=100>](apps/open-markup-editor.md)  |
+| [![open-markup-editor](ENTER)](apps/open-markup-editor.html)  |
 
 | [openosrs-launcher-appimage](apps/openosrs-launcher-appimage.md) |
 | ----- |
-| [<img src=icons/openosrs-launcher-appimage.png height=100>](apps/openosrs-launcher-appimage.md)  |
+| [![openosrs-launcher-appimage](ENTER)](apps/openosrs-launcher-appimage.html)  |
 
 | [openrgb](apps/openrgb.md) |
 | ----- |
-| [<img src=icons/openrgb.png height=100>](apps/openrgb.md)  |
+| [![openrgb](ENTER)](apps/openrgb.html)  |
 
 | [openscad](apps/openscad.md) |
 | ----- |
-| [<img src=icons/openscad.png height=100>](apps/openscad.md)  |
+| [![openscad](ENTER)](apps/openscad.html)  |
 
 | [openshot](apps/openshot.md) |
 | ----- |
-| [<img src=icons/openshot.png height=100>](apps/openshot.md)  |
+| [![openshot](ENTER)](apps/openshot.html)  |
 
 | [opentodolist](apps/opentodolist.md) |
 | ----- |
-| [<img src=icons/opentodolist.png height=100>](apps/opentodolist.md)  |
+| [![opentodolist](ENTER)](apps/opentodolist.html)  |
 
 | [opentrons](apps/opentrons.md) |
 | ----- |
-| [<img src=icons/opentrons.png height=100>](apps/opentrons.md)  |
+| [![opentrons](ENTER)](apps/opentrons.html)  |
 
 | [opera](apps/opera.md) |
 | ----- |
-| [<img src=icons/opera.png height=100>](apps/opera.md)  |
+| [![opera](ENTER)](apps/opera.html)  |
 
 | [osrs-tools](apps/osrs-tools.md) |
 | ----- |
-| [<img src=icons/osrs-tools.png height=100>](apps/osrs-tools.md)  |
+| [![osrs-tools](ENTER)](apps/osrs-tools.html)  |
 
 | [ossia-score](apps/ossia-score.md) |
 | ----- |
-| [<img src=icons/ossia-score.png height=100>](apps/ossia-score.md)  |
+| [![ossia-score](ENTER)](apps/ossia-score.html)  |
 
 | [osu](apps/osu.md) |
 | ----- |
-| [<img src=icons/osu.png height=100>](apps/osu.md)  |
+| [![osu](ENTER)](apps/osu.html)  |
 
 | [outline-manager](apps/outline-manager.md) |
 | ----- |
-| [<img src=icons/outline-manager.png height=100>](apps/outline-manager.md)  |
+| [![outline-manager](ENTER)](apps/outline-manager.html)  |
 
 | [outline-server](apps/outline-server.md) |
 | ----- |
-| [<img src=icons/outline-server.png height=100>](apps/outline-server.md)  |
+| [![outline-server](ENTER)](apps/outline-server.html)  |
 
 | [ovideo](apps/ovideo.md) |
 | ----- |
-| [<img src=icons/ovideo.png height=100>](apps/ovideo.md)  |
+| [![ovideo](ENTER)](apps/ovideo.html)  |
 
 | [ovis](apps/ovis.md) |
 | ----- |
-| [<img src=icons/ovis.png height=100>](apps/ovis.md)  |
+| [![ovis](ENTER)](apps/ovis.html)  |
 
 | [owallet](apps/owallet.md) |
 | ----- |
-| [<img src=icons/owallet.png height=100>](apps/owallet.md)  |
+| [![owallet](ENTER)](apps/owallet.html)  |
 
 | [oxen-gui-wallet-appimage](apps/oxen-gui-wallet-appimage.md) |
 | ----- |
-| [<img src=icons/oxen-gui-wallet-appimage.png height=100>](apps/oxen-gui-wallet-appimage.md)  |
+| [![oxen-gui-wallet-appimage](ENTER)](apps/oxen-gui-wallet-appimage.html)  |
 
 | [p2p-chat](apps/p2p-chat.md) |
 | ----- |
-| [<img src=icons/p2p-chat.png height=100>](apps/p2p-chat.md)  |
+| [![p2p-chat](ENTER)](apps/p2p-chat.html)  |
 
 | [p2pderivatives](apps/p2pderivatives.md) |
 | ----- |
-| [<img src=icons/p2pderivatives.png height=100>](apps/p2pderivatives.md)  |
+| [![p2pderivatives](ENTER)](apps/p2pderivatives.html)  |
 
 | [packetsender](apps/packetsender.md) |
 | ----- |
-| [<img src=icons/packetsender.png height=100>](apps/packetsender.md)  |
+| [![packetsender](ENTER)](apps/packetsender.html)  |
 
 | [packsquash](apps/packsquash.md) |
 | ----- |
-| [<img src=icons/packsquash.png height=100>](apps/packsquash.md)  |
+| [![packsquash](ENTER)](apps/packsquash.html)  |
 
 | [padloc](apps/padloc.md) |
 | ----- |
-| [<img src=icons/padloc.png height=100>](apps/padloc.md)  |
+| [![padloc](ENTER)](apps/padloc.html)  |
 
 | [painel-web](apps/painel-web.md) |
 | ----- |
-| [<img src=icons/painel-web.png height=100>](apps/painel-web.md)  |
+| [![painel-web](ENTER)](apps/painel-web.html)  |
 
 | [palapeli](apps/palapeli.md) |
 | ----- |
-| [<img src=icons/palapeli.png height=100>](apps/palapeli.md)  |
+| [![palapeli](ENTER)](apps/palapeli.html)  |
 
 | [palemoon](apps/palemoon.md) |
 | ----- |
-| [<img src=icons/palemoon.png height=100>](apps/palemoon.md)  |
+| [![palemoon](ENTER)](apps/palemoon.html)  |
 
 | [paletti](apps/paletti.md) |
 | ----- |
-| [<img src=icons/paletti.png height=100>](apps/paletti.md)  |
+| [![paletti](ENTER)](apps/paletti.html)  |
 
 | [panini](apps/panini.md) |
 | ----- |
-| [<img src=icons/panini.png height=100>](apps/panini.md)  |
+| [![panini](ENTER)](apps/panini.html)  |
 
 | [panwriter](apps/panwriter.md) |
 | ----- |
-| [<img src=icons/panwriter.png height=100>](apps/panwriter.md)  |
+| [![panwriter](ENTER)](apps/panwriter.html)  |
 
 | [paper](apps/paper.md) |
 | ----- |
-| [<img src=icons/paper.png height=100>](apps/paper.md)  |
+| [![paper](ENTER)](apps/paper.html)  |
 
 | [parallelcoin](apps/parallelcoin.md) |
 | ----- |
-| [<img src=icons/parallelcoin.png height=100>](apps/parallelcoin.md)  |
+| [![parallelcoin](ENTER)](apps/parallelcoin.html)  |
 
 | [parity-fether](apps/parity-fether.md) |
 | ----- |
-| [<img src=icons/parity-fether.png height=100>](apps/parity-fether.md)  |
+| [![parity-fether](ENTER)](apps/parity-fether.html)  |
 
 | [parsec-linux-appimage](apps/parsec-linux-appimage.md) |
 | ----- |
-| [<img src=icons/parsec-linux-appimage.png height=100>](apps/parsec-linux-appimage.md)  |
+| [![parsec-linux-appimage](ENTER)](apps/parsec-linux-appimage.html)  |
 
 | [passky](apps/passky.md) |
 | ----- |
-| [<img src=icons/passky.png height=100>](apps/passky.md)  |
+| [![passky](ENTER)](apps/passky.html)  |
 
 | [patchbay](apps/patchbay.md) |
 | ----- |
-| [<img src=icons/patchbay.png height=100>](apps/patchbay.md)  |
+| [![patchbay](ENTER)](apps/patchbay.html)  |
 
 | [patchelf](apps/patchelf.md) |
 | ----- |
-| [<img src=icons/patchelf.png height=100>](apps/patchelf.md)  |
+| [![patchelf](ENTER)](apps/patchelf.html)  |
 
 | [patchwork](apps/patchwork.md) |
 | ----- |
-| [<img src=icons/patchwork.png height=100>](apps/patchwork.md)  |
+| [![patchwork](ENTER)](apps/patchwork.html)  |
 
 | [pathephone](apps/pathephone.md) |
 | ----- |
-| [<img src=icons/pathephone.png height=100>](apps/pathephone.md)  |
+| [![pathephone](ENTER)](apps/pathephone.html)  |
 
 | [pathio-alpha-bin](apps/pathio-alpha-bin.md) |
 | ----- |
-| [<img src=icons/pathio-alpha-bin.png height=100>](apps/pathio-alpha-bin.md)  |
+| [![pathio-alpha-bin](ENTER)](apps/pathio-alpha-bin.html)  |
 
 | [pathio-beta-bin](apps/pathio-beta-bin.md) |
 | ----- |
-| [<img src=icons/pathio-beta-bin.png height=100>](apps/pathio-beta-bin.md)  |
+| [![pathio-beta-bin](ENTER)](apps/pathio-beta-bin.html)  |
 
 | [patternpaint](apps/patternpaint.md) |
 | ----- |
-| [<img src=icons/patternpaint.png height=100>](apps/patternpaint.md)  |
+| [![patternpaint](ENTER)](apps/patternpaint.html)  |
 
 | [pb-for-desktop](apps/pb-for-desktop.md) |
 | ----- |
-| [<img src=icons/pb-for-desktop.png height=100>](apps/pb-for-desktop.md)  |
+| [![pb-for-desktop](ENTER)](apps/pb-for-desktop.html)  |
 
 | [pboy](apps/pboy.md) |
 | ----- |
-| [<img src=icons/pboy.png height=100>](apps/pboy.md)  |
+| [![pboy](ENTER)](apps/pboy.html)  |
 
 | [pdf2htmlex-appimage](apps/pdf2htmlex-appimage.md) |
 | ----- |
-| [<img src=icons/pdf2htmlex-appimage.png height=100>](apps/pdf2htmlex-appimage.md)  |
+| [![pdf2htmlex-appimage](ENTER)](apps/pdf2htmlex-appimage.html)  |
 
 | [pdfquirk](apps/pdfquirk.md) |
 | ----- |
-| [<img src=icons/pdfquirk.png height=100>](apps/pdfquirk.md)  |
+| [![pdfquirk](ENTER)](apps/pdfquirk.html)  |
 
 | [pdf-sync](apps/pdf-sync.md) |
 | ----- |
-| [<img src=icons/pdf-sync.png height=100>](apps/pdf-sync.md)  |
+| [![pdf-sync](ENTER)](apps/pdf-sync.html)  |
 
 | [peazip-appimage](apps/peazip-appimage.md) |
 | ----- |
-| [<img src=icons/peazip-appimage.png height=100>](apps/peazip-appimage.md)  |
+| [![peazip-appimage](ENTER)](apps/peazip-appimage.html)  |
 
 | [pencil](apps/pencil.md) |
 | ----- |
-| [<img src=icons/pencil.png height=100>](apps/pencil.md)  |
+| [![pencil](ENTER)](apps/pencil.html)  |
 
 | [pennywise](apps/pennywise.md) |
 | ----- |
-| [<img src=icons/pennywise.png height=100>](apps/pennywise.md)  |
+| [![pennywise](ENTER)](apps/pennywise.html)  |
 
 | [perl-executing-browser](apps/perl-executing-browser.md) |
 | ----- |
-| [<img src=icons/perl-executing-browser.png height=100>](apps/perl-executing-browser.md)  |
+| [![perl-executing-browser](ENTER)](apps/perl-executing-browser.html)  |
 
 | [peruse](apps/peruse.md) |
 | ----- |
-| [<img src=icons/peruse.png height=100>](apps/peruse.md)  |
+| [![peruse](ENTER)](apps/peruse.html)  |
 
 | [pext](apps/pext.md) |
 | ----- |
-| [<img src=icons/pext.png height=100>](apps/pext.md)  |
+| [![pext](ENTER)](apps/pext.html)  |
 
 | [phinch](apps/phinch.md) |
 | ----- |
-| [<img src=icons/phinch.png height=100>](apps/phinch.md)  |
+| [![phinch](ENTER)](apps/phinch.html)  |
 
 | [photoflare](apps/photoflare.md) |
 | ----- |
-| [<img src=icons/photoflare.png height=100>](apps/photoflare.md)  |
+| [![photoflare](ENTER)](apps/photoflare.html)  |
 
 | [photoflow](apps/photoflow.md) |
 | ----- |
-| [<img src=icons/photoflow.png height=100>](apps/photoflow.md)  |
+| [![photoflow](ENTER)](apps/photoflow.html)  |
 
 | [photogimp](apps/photogimp.md) |
 | ----- |
-| [<img src=icons/photogimp.png height=100>](apps/photogimp.md)  |
+| [![photogimp](ENTER)](apps/photogimp.html)  |
 
 | [photoname](apps/photoname.md) |
 | ----- |
-| [<img src=icons/photoname.png height=100>](apps/photoname.md)  |
+| [![photoname](ENTER)](apps/photoname.html)  |
 
 | [photopea](apps/photopea.md) |
 | ----- |
-| [<img src=icons/photopea.png height=100>](apps/photopea.md)  |
+| [![photopea](ENTER)](apps/photopea.html)  |
 
 | [photoqt](apps/photoqt.md) |
 | ----- |
-| [<img src=icons/photoqt.png height=100>](apps/photoqt.md)  |
+| [![photoqt](ENTER)](apps/photoqt.html)  |
 
 | [photoquick](apps/photoquick.md) |
 | ----- |
-| [<img src=icons/photoquick.png height=100>](apps/photoquick.md)  |
+| [![photoquick](ENTER)](apps/photoquick.html)  |
 
 | [phototeleport](apps/phototeleport.md) |
 | ----- |
-| [<img src=icons/phototeleport.png height=100>](apps/phototeleport.md)  |
+| [![phototeleport](ENTER)](apps/phototeleport.html)  |
 
 | [phreshplayer](apps/phreshplayer.md) |
 | ----- |
-| [<img src=icons/phreshplayer.png height=100>](apps/phreshplayer.md)  |
+| [![phreshplayer](ENTER)](apps/phreshplayer.html)  |
 
 | [pia](apps/pia.md) |
 | ----- |
-| [<img src=icons/pia.png height=100>](apps/pia.md)  |
+| [![pia](ENTER)](apps/pia.html)  |
 
 | [picacg-qt-appimage](apps/picacg-qt-appimage.md) |
 | ----- |
-| [<img src=icons/picacg-qt-appimage.png height=100>](apps/picacg-qt-appimage.md)  |
+| [![picacg-qt-appimage](ENTER)](apps/picacg-qt-appimage.html)  |
 
 | [picgo](apps/picgo.md) |
 | ----- |
-| [<img src=icons/picgo.png height=100>](apps/picgo.md)  |
+| [![picgo](ENTER)](apps/picgo.html)  |
 
 | [picmi](apps/picmi.md) |
 | ----- |
-| [<img src=icons/picmi.png height=100>](apps/picmi.md)  |
+| [![picmi](ENTER)](apps/picmi.html)  |
 
 | [picocrypt](apps/picocrypt.md) |
 | ----- |
-| [<img src=icons/picocrypt.png height=100>](apps/picocrypt.md)  |
+| [![picocrypt](ENTER)](apps/picocrypt.html)  |
 
 | [pigs-n-cows](apps/pigs-n-cows.md) |
 | ----- |
-| [<img src=icons/pigs-n-cows.png height=100>](apps/pigs-n-cows.md)  |
+| [![pigs-n-cows](ENTER)](apps/pigs-n-cows.html)  |
 
 | [pile](apps/pile.md) |
 | ----- |
-| [<img src=icons/pile.png height=100>](apps/pile.md)  |
+| [![pile](ENTER)](apps/pile.html)  |
 
 | [pingendo](apps/pingendo.md) |
 | ----- |
-| [<img src=icons/pingendo.png height=100>](apps/pingendo.md)  |
+| [![pingendo](ENTER)](apps/pingendo.html)  |
 
 | [pingnoo](apps/pingnoo.md) |
 | ----- |
-| [<img src=icons/pingnoo.png height=100>](apps/pingnoo.md)  |
+| [![pingnoo](ENTER)](apps/pingnoo.html)  |
 
 | [pingviewer](apps/pingviewer.md) |
 | ----- |
-| [<img src=icons/pingviewer.png height=100>](apps/pingviewer.md)  |
+| [![pingviewer](ENTER)](apps/pingviewer.html)  |
 
 | [pixsrt](apps/pixsrt.md) |
 | ----- |
-| [<img src=icons/pixsrt.png height=100>](apps/pixsrt.md)  |
+| [![pixsrt](ENTER)](apps/pixsrt.html)  |
 
 | [pkg2appimage](apps/pkg2appimage.md) |
 | ----- |
-| [<img src=icons/pkg2appimage.png height=100>](apps/pkg2appimage.md)  |
+| [![pkg2appimage](ENTER)](apps/pkg2appimage.html)  |
 
 | [plagpatrol](apps/plagpatrol.md) |
 | ----- |
-| [<img src=icons/plagpatrol.png height=100>](apps/plagpatrol.md)  |
+| [![plagpatrol](ENTER)](apps/plagpatrol.html)  |
 
 | [planes](apps/planes.md) |
 | ----- |
-| [<img src=icons/planes.png height=100>](apps/planes.md)  |
+| [![planes](ENTER)](apps/planes.html)  |
 
 | [planet-blupi](apps/planet-blupi.md) |
 | ----- |
-| [<img src=icons/planet-blupi.png height=100>](apps/planet-blupi.md)  |
+| [![planet-blupi](ENTER)](apps/planet-blupi.html)  |
 
 | [platform-tools](apps/platform-tools.md) |
 | ----- |
-| [<img src=icons/platform-tools.png height=100>](apps/platform-tools.md)  |
+| [![platform-tools](ENTER)](apps/platform-tools.html)  |
 
 | [platinum-md-appimage](apps/platinum-md-appimage.md) |
 | ----- |
-| [<img src=icons/platinum-md-appimage.png height=100>](apps/platinum-md-appimage.md)  |
+| [![platinum-md-appimage](ENTER)](apps/platinum-md-appimage.html)  |
 
 | [play-2048](apps/play-2048.md) |
 | ----- |
-| [<img src=icons/play-2048.png height=100>](apps/play-2048.md)  |
+| [![play-2048](ENTER)](apps/play-2048.html)  |
 
 | [playbox](apps/playbox.md) |
 | ----- |
-| [<img src=icons/playbox.png height=100>](apps/playbox.md)  |
+| [![playbox](ENTER)](apps/playbox.html)  |
 
 | [playme](apps/playme.md) |
 | ----- |
-| [<img src=icons/playme.png height=100>](apps/playme.md)  |
+| [![playme](ENTER)](apps/playme.html)  |
 
 | [playyourdamnturn](apps/playyourdamnturn.md) |
 | ----- |
-| [<img src=icons/playyourdamnturn.png height=100>](apps/playyourdamnturn.md)  |
+| [![playyourdamnturn](ENTER)](apps/playyourdamnturn.html)  |
 
 | [plexamp](apps/plexamp.md) |
 | ----- |
-| [<img src=icons/plexamp.png height=100>](apps/plexamp.md)  |
+| [![plexamp](ENTER)](apps/plexamp.html)  |
 
 | [plex](apps/plex.md) |
 | ----- |
-| [<img src=icons/plex.png height=100>](apps/plex.md)  |
+| [![plex](ENTER)](apps/plex.html)  |
 
 | [plotjuggler](apps/plotjuggler.md) |
 | ----- |
-| [<img src=icons/plotjuggler.png height=100>](apps/plotjuggler.md)  |
+| [![plotjuggler](ENTER)](apps/plotjuggler.html)  |
 
 | [plotly-orca-appimage](apps/plotly-orca-appimage.md) |
 | ----- |
-| [<img src=icons/plotly-orca-appimage.png height=100>](apps/plotly-orca-appimage.md)  |
+| [![plotly-orca-appimage](ENTER)](apps/plotly-orca-appimage.html)  |
 
 | [plover](apps/plover.md) |
 | ----- |
-| [<img src=icons/plover.png height=100>](apps/plover.md)  |
+| [![plover](ENTER)](apps/plover.html)  |
 
 | [pnpm](apps/pnpm.md) |
 | ----- |
-| [<img src=icons/pnpm.png height=100>](apps/pnpm.md)  |
+| [![pnpm](ENTER)](apps/pnpm.html)  |
 
 | [pocket-browser](apps/pocket-browser.md) |
 | ----- |
-| [<img src=icons/pocket-browser.png height=100>](apps/pocket-browser.md)  |
+| [![pocket-browser](ENTER)](apps/pocket-browser.html)  |
 
 | [pocketcasts-electron](apps/pocketcasts-electron.md) |
 | ----- |
-| [<img src=icons/pocketcasts-electron.png height=100>](apps/pocketcasts-electron.md)  |
+| [![pocketcasts-electron](ENTER)](apps/pocketcasts-electron.html)  |
 
 | [poddr](apps/poddr.md) |
 | ----- |
-| [<img src=icons/poddr.png height=100>](apps/poddr.md)  |
+| [![poddr](ENTER)](apps/poddr.html)  |
 
 | [podman](apps/podman.md) |
 | ----- |
-| [<img src=icons/podman.png height=100>](apps/podman.md)  |
+| [![podman](ENTER)](apps/podman.html)  |
 
 | [poe-ladder](apps/poe-ladder.md) |
 | ----- |
-| [<img src=icons/poe-ladder.png height=100>](apps/poe-ladder.md)  |
+| [![poe-ladder](ENTER)](apps/poe-ladder.html)  |
 
 | [polar-bookshelf](apps/polar-bookshelf.md) |
 | ----- |
-| [<img src=icons/polar-bookshelf.png height=100>](apps/polar-bookshelf.md)  |
+| [![polar-bookshelf](ENTER)](apps/polar-bookshelf.html)  |
 
 | [polkakey](apps/polkakey.md) |
 | ----- |
-| [<img src=icons/polkakey.png height=100>](apps/polkakey.md)  |
+| [![polkakey](ENTER)](apps/polkakey.html)  |
 
 | [polypane](apps/polypane.md) |
 | ----- |
-| [<img src=icons/polypane.png height=100>](apps/polypane.md)  |
+| [![polypane](ENTER)](apps/polypane.html)  |
 
 | [pomotroid](apps/pomotroid.md) |
 | ----- |
-| [<img src=icons/pomotroid.png height=100>](apps/pomotroid.md)  |
+| [![pomotroid](ENTER)](apps/pomotroid.html)  |
 
 | [popsicle](apps/popsicle.md) |
 | ----- |
-| [<img src=icons/popsicle.png height=100>](apps/popsicle.md)  |
+| [![popsicle](ENTER)](apps/popsicle.html)  |
 
 | [postman](apps/postman.md) |
 | ----- |
-| [<img src=icons/postman.png height=100>](apps/postman.md)  |
+| [![postman](ENTER)](apps/postman.html)  |
 
 | [postybirb](apps/postybirb.md) |
 | ----- |
-| [<img src=icons/postybirb.png height=100>](apps/postybirb.md)  |
+| [![postybirb](ENTER)](apps/postybirb.html)  |
 
 | [potatopresenter-appimage](apps/potatopresenter-appimage.md) |
 | ----- |
-| [<img src=icons/potatopresenter-appimage.png height=100>](apps/potatopresenter-appimage.md)  |
+| [![potatopresenter-appimage](ENTER)](apps/potatopresenter-appimage.html)  |
 
 | [powder-toy](apps/powder-toy.md) |
 | ----- |
-| [<img src=icons/powder-toy.png height=100>](apps/powder-toy.md)  |
+| [![powder-toy](ENTER)](apps/powder-toy.html)  |
 
 | [powerliminals-player](apps/powerliminals-player.md) |
 | ----- |
-| [<img src=icons/powerliminals-player.png height=100>](apps/powerliminals-player.md)  |
+| [![powerliminals-player](ENTER)](apps/powerliminals-player.html)  |
 
 | [powershell](apps/powershell.md) |
 | ----- |
-| [<img src=icons/powershell.png height=100>](apps/powershell.md)  |
+| [![powershell](ENTER)](apps/powershell.html)  |
 
 | [praxislive](apps/praxislive.md) |
 | ----- |
-| [<img src=icons/praxislive.png height=100>](apps/praxislive.md)  |
+| [![praxislive](ENTER)](apps/praxislive.html)  |
 
 | [pretty-handy-privacy](apps/pretty-handy-privacy.md) |
 | ----- |
-| [<img src=icons/pretty-handy-privacy.png height=100>](apps/pretty-handy-privacy.md)  |
+| [![pretty-handy-privacy](ENTER)](apps/pretty-handy-privacy.html)  |
 
 | [prime-world-editor](apps/prime-world-editor.md) |
 | ----- |
-| [<img src=icons/prime-world-editor.png height=100>](apps/prime-world-editor.md)  |
+| [![prime-world-editor](ENTER)](apps/prime-world-editor.html)  |
 
 | [printerclient](apps/printerclient.md) |
 | ----- |
-| [<img src=icons/printerclient.png height=100>](apps/printerclient.md)  |
+| [![printerclient](ENTER)](apps/printerclient.html)  |
 
 | [prisma-studio-appimage](apps/prisma-studio-appimage.md) |
 | ----- |
-| [<img src=icons/prisma-studio-appimage.png height=100>](apps/prisma-studio-appimage.md)  |
+| [![prisma-studio-appimage](ENTER)](apps/prisma-studio-appimage.html)  |
 
 | [privacy.sexy](apps/privacy.sexy.md) |
 | ----- |
-| [<img src=icons/privacy.sexy.png height=100>](apps/privacy.sexy.md)  |
+| [![privacy.sexy](ENTER)](apps/privacy.sexy.html)  |
 
 | [procdepmonitor](apps/procdepmonitor.md) |
 | ----- |
-| [<img src=icons/procdepmonitor.png height=100>](apps/procdepmonitor.md)  |
+| [![procdepmonitor](ENTER)](apps/procdepmonitor.html)  |
 
 | [procspin](apps/procspin.md) |
 | ----- |
-| [<img src=icons/procspin.png height=100>](apps/procspin.md)  |
+| [![procspin](ENTER)](apps/procspin.html)  |
 
 | [procyon](apps/procyon.md) |
 | ----- |
-| [<img src=icons/procyon.png height=100>](apps/procyon.md)  |
+| [![procyon](ENTER)](apps/procyon.html)  |
 
 | [proofkeeper](apps/proofkeeper.md) |
 | ----- |
-| [<img src=icons/proofkeeper.png height=100>](apps/proofkeeper.md)  |
+| [![proofkeeper](ENTER)](apps/proofkeeper.html)  |
 
 | [proton-5.11](apps/proton-5.11.md) |
 | ----- |
-| [<img src=icons/proton-5.11.png height=100>](apps/proton-5.11.md)  |
+| [![proton-5.11](ENTER)](apps/proton-5.11.html)  |
 
 | [protonmail-desktop](apps/protonmail-desktop.md) |
 | ----- |
-| [<img src=icons/protonmail-desktop.png height=100>](apps/protonmail-desktop.md)  |
+| [![protonmail-desktop](ENTER)](apps/protonmail-desktop.html)  |
 
 | [protonup-qt](apps/protonup-qt.md) |
 | ----- |
-| [<img src=icons/protonup-qt.png height=100>](apps/protonup-qt.md)  |
+| [![protonup-qt](ENTER)](apps/protonup-qt.html)  |
 
 | [prusacontrol](apps/prusacontrol.md) |
 | ----- |
-| [<img src=icons/prusacontrol.png height=100>](apps/prusacontrol.md)  |
+| [![prusacontrol](ENTER)](apps/prusacontrol.html)  |
 
 | [prusa-slicer-bin](apps/prusa-slicer-bin.md) |
 | ----- |
-| [<img src=icons/prusa-slicer-bin.png height=100>](apps/prusa-slicer-bin.md)  |
+| [![prusa-slicer-bin](ENTER)](apps/prusa-slicer-bin.html)  |
 
 | [psi+](apps/psi+.md) |
 | ----- |
-| [<img src=icons/psi+.png height=100>](apps/psi+.md)  |
+| [![psi+](ENTER)](apps/psi+.html)  |
 
 | [pstube](apps/pstube.md) |
 | ----- |
-| [<img src=icons/pstube.png height=100>](apps/pstube.md)  |
+| [![pstube](ENTER)](apps/pstube.html)  |
 
 | [publii](apps/publii.md) |
 | ----- |
-| [<img src=icons/publii.png height=100>](apps/publii.md)  |
+| [![publii](ENTER)](apps/publii.html)  |
 
 | [pullp](apps/pullp.md) |
 | ----- |
-| [<img src=icons/pullp.png height=100>](apps/pullp.md)  |
+| [![pullp](ENTER)](apps/pullp.html)  |
 
 | [pulse](apps/pulse.md) |
 | ----- |
-| [<img src=icons/pulse.png height=100>](apps/pulse.md)  |
+| [![pulse](ENTER)](apps/pulse.html)  |
 
 | [puppetry](apps/puppetry.md) |
 | ----- |
-| [<img src=icons/puppetry.png height=100>](apps/puppetry.md)  |
+| [![puppetry](ENTER)](apps/puppetry.html)  |
 
 | [puppetry](apps/puppetry.md) |
 | ----- |
-| [<img src=icons/puppetry.png height=100>](apps/puppetry.md)  |
+| [![puppetry](ENTER)](apps/puppetry.html)  |
 
 | [puush-qt](apps/puush-qt.md) |
 | ----- |
-| [<img src=icons/puush-qt.png height=100>](apps/puush-qt.md)  |
+| [![puush-qt](ENTER)](apps/puush-qt.html)  |
 
 | [pyappimage](apps/pyappimage.md) |
 | ----- |
-| [<img src=icons/pyappimage.png height=100>](apps/pyappimage.md)  |
+| [![pyappimage](ENTER)](apps/pyappimage.html)  |
 
 | [pyfa-appimage](apps/pyfa-appimage.md) |
 | ----- |
-| [<img src=icons/pyfa-appimage.png height=100>](apps/pyfa-appimage.md)  |
+| [![pyfa-appimage](ENTER)](apps/pyfa-appimage.html)  |
 
 | [python2.7](apps/python2.7.md) |
 | ----- |
-| [<img src=icons/python2.7.png height=100>](apps/python2.7.md)  |
+| [![python2.7](ENTER)](apps/python2.7.html)  |
 
 | [python3.10](apps/python3.10.md) |
 | ----- |
-| [<img src=icons/python3.10.png height=100>](apps/python3.10.md)  |
+| [![python3.10](ENTER)](apps/python3.10.html)  |
 
 | [python3.11](apps/python3.11.md) |
 | ----- |
-| [<img src=icons/python3.11.png height=100>](apps/python3.11.md)  |
+| [![python3.11](ENTER)](apps/python3.11.html)  |
 
 | [python3.5](apps/python3.5.md) |
 | ----- |
-| [<img src=icons/python3.5.png height=100>](apps/python3.5.md)  |
+| [![python3.5](ENTER)](apps/python3.5.html)  |
 
 | [python3.6](apps/python3.6.md) |
 | ----- |
-| [<img src=icons/python3.6.png height=100>](apps/python3.6.md)  |
+| [![python3.6](ENTER)](apps/python3.6.html)  |
 
 | [python3.7](apps/python3.7.md) |
 | ----- |
-| [<img src=icons/python3.7.png height=100>](apps/python3.7.md)  |
+| [![python3.7](ENTER)](apps/python3.7.html)  |
 
 | [python3.8](apps/python3.8.md) |
 | ----- |
-| [<img src=icons/python3.8.png height=100>](apps/python3.8.md)  |
+| [![python3.8](ENTER)](apps/python3.8.html)  |
 
 | [python3.9](apps/python3.9.md) |
 | ----- |
-| [<img src=icons/python3.9.png height=100>](apps/python3.9.md)  |
+| [![python3.9](ENTER)](apps/python3.9.html)  |
 
 | [qaterialgallery](apps/qaterialgallery.md) |
 | ----- |
-| [<img src=icons/qaterialgallery.png height=100>](apps/qaterialgallery.md)  |
+| [![qaterialgallery](ENTER)](apps/qaterialgallery.html)  |
 
 | [qaterialhotreload](apps/qaterialhotreload.md) |
 | ----- |
-| [<img src=icons/qaterialhotreload.png height=100>](apps/qaterialhotreload.md)  |
+| [![qaterialhotreload](ENTER)](apps/qaterialhotreload.html)  |
 
 | [qawl](apps/qawl.md) |
 | ----- |
-| [<img src=icons/qawl.png height=100>](apps/qawl.md)  |
+| [![qawl](ENTER)](apps/qawl.html)  |
 
 | [qbittorrent](apps/qbittorrent.md) |
 | ----- |
-| [<img src=icons/qbittorrent.png height=100>](apps/qbittorrent.md)  |
+| [![qbittorrent](ENTER)](apps/qbittorrent.html)  |
 
 | [qbittorrent-lite](apps/qbittorrent-lite.md) |
 | ----- |
-| [<img src=icons/qbittorrent-lite.png height=100>](apps/qbittorrent-lite.md)  |
+| [![qbittorrent-lite](ENTER)](apps/qbittorrent-lite.html)  |
 
 | [qctools](apps/qctools.md) |
 | ----- |
-| [<img src=icons/qctools.png height=100>](apps/qctools.md)  |
+| [![qctools](ENTER)](apps/qctools.html)  |
 
 | [qdriverstation](apps/qdriverstation.md) |
 | ----- |
-| [<img src=icons/qdriverstation.png height=100>](apps/qdriverstation.md)  |
+| [![qdriverstation](ENTER)](apps/qdriverstation.html)  |
 
 | [qelectrotech](apps/qelectrotech.md) |
 | ----- |
-| [<img src=icons/qelectrotech.png height=100>](apps/qelectrotech.md)  |
+| [![qelectrotech](ENTER)](apps/qelectrotech.html)  |
 
 | [qemu-ppc](apps/qemu-ppc.md) |
 | ----- |
-| [<img src=icons/qemu-ppc.png height=100>](apps/qemu-ppc.md)  |
+| [![qemu-ppc](ENTER)](apps/qemu-ppc.html)  |
 
 | [qfsm](apps/qfsm.md) |
 | ----- |
-| [<img src=icons/qfsm.png height=100>](apps/qfsm.md)  |
+| [![qfsm](ENTER)](apps/qfsm.html)  |
 
 | [qgroundcontrol-appimage](apps/qgroundcontrol-appimage.md) |
 | ----- |
-| [<img src=icons/qgroundcontrol-appimage.png height=100>](apps/qgroundcontrol-appimage.md)  |
+| [![qgroundcontrol-appimage](ENTER)](apps/qgroundcontrol-appimage.html)  |
 
 | [qikqr](apps/qikqr.md) |
 | ----- |
-| [<img src=icons/qikqr.png height=100>](apps/qikqr.md)  |
+| [![qikqr](ENTER)](apps/qikqr.html)  |
 
 | [qmediathekview](apps/qmediathekview.md) |
 | ----- |
-| [<img src=icons/qmediathekview.png height=100>](apps/qmediathekview.md)  |
+| [![qmediathekview](ENTER)](apps/qmediathekview.html)  |
 
 | [qmidictl](apps/qmidictl.md) |
 | ----- |
-| [<img src=icons/qmidictl.png height=100>](apps/qmidictl.md)  |
+| [![qmidictl](ENTER)](apps/qmidictl.html)  |
 
 | [qmidinet](apps/qmidinet.md) |
 | ----- |
-| [<img src=icons/qmidinet.png height=100>](apps/qmidinet.md)  |
+| [![qmidinet](ENTER)](apps/qmidinet.html)  |
 
 | [qmplay2](apps/qmplay2.md) |
 | ----- |
-| [<img src=icons/qmplay2.png height=100>](apps/qmplay2.md)  |
+| [![qmplay2](ENTER)](apps/qmplay2.html)  |
 
 | [qnapi](apps/qnapi.md) |
 | ----- |
-| [<img src=icons/qnapi.png height=100>](apps/qnapi.md)  |
+| [![qnapi](ENTER)](apps/qnapi.html)  |
 
 | [qortal-ui](apps/qortal-ui.md) |
 | ----- |
-| [<img src=icons/qortal-ui.png height=100>](apps/qortal-ui.md)  |
+| [![qortal-ui](ENTER)](apps/qortal-ui.html)  |
 
 | [qownnotes](apps/qownnotes.md) |
 | ----- |
-| [<img src=icons/qownnotes.png height=100>](apps/qownnotes.md)  |
+| [![qownnotes](ENTER)](apps/qownnotes.html)  |
 
 | [qpdf](apps/qpdf.md) |
 | ----- |
-| [<img src=icons/qpdf.png height=100>](apps/qpdf.md)  |
+| [![qpdf](ENTER)](apps/qpdf.html)  |
 
 | [qppcad](apps/qppcad.md) |
 | ----- |
-| [<img src=icons/qppcad.png height=100>](apps/qppcad.md)  |
+| [![qppcad](ENTER)](apps/qppcad.html)  |
 
 | [qprompt](apps/qprompt.md) |
 | ----- |
-| [<img src=icons/qprompt.png height=100>](apps/qprompt.md)  |
+| [![qprompt](ENTER)](apps/qprompt.html)  |
 
 | [qqmusic-appimage](apps/qqmusic-appimage.md) |
 | ----- |
-| [<img src=icons/qqmusic-appimage.png height=100>](apps/qqmusic-appimage.md)  |
+| [![qqmusic-appimage](ENTER)](apps/qqmusic-appimage.html)  |
 
 | [qr-code-generator](apps/qr-code-generator.md) |
 | ----- |
-| [<img src=icons/qr-code-generator.png height=100>](apps/qr-code-generator.md)  |
+| [![qr-code-generator](ENTER)](apps/qr-code-generator.html)  |
 
 | [qrop](apps/qrop.md) |
 | ----- |
-| [<img src=icons/qrop.png height=100>](apps/qrop.md)  |
+| [![qrop](ENTER)](apps/qrop.html)  |
 
 | [qsdrswr](apps/qsdrswr.md) |
 | ----- |
-| [<img src=icons/qsdrswr.png height=100>](apps/qsdrswr.md)  |
+| [![qsdrswr](ENTER)](apps/qsdrswr.html)  |
 
 | [qtalarm](apps/qtalarm.md) |
 | ----- |
-| [<img src=icons/qtalarm.png height=100>](apps/qtalarm.md)  |
+| [![qtalarm](ENTER)](apps/qtalarm.html)  |
 
 | [qtchan](apps/qtchan.md) |
 | ----- |
-| [<img src=icons/qtchan.png height=100>](apps/qtchan.md)  |
+| [![qtchan](ENTER)](apps/qtchan.html)  |
 
 | [qt-dab](apps/qt-dab.md) |
 | ----- |
-| [<img src=icons/qt-dab.png height=100>](apps/qt-dab.md)  |
+| [![qt-dab](ENTER)](apps/qt-dab.html)  |
 
 | [qtjsondiff](apps/qtjsondiff.md) |
 | ----- |
-| [<img src=icons/qtjsondiff.png height=100>](apps/qtjsondiff.md)  |
+| [![qtjsondiff](ENTER)](apps/qtjsondiff.html)  |
 
 | [qt-json-diff](apps/qt-json-diff.md) |
 | ----- |
-| [<img src=icons/qt-json-diff.png height=100>](apps/qt-json-diff.md)  |
+| [![qt-json-diff](ENTER)](apps/qt-json-diff.html)  |
 
 | [qtmips](apps/qtmips.md) |
 | ----- |
-| [<img src=icons/qtmips.png height=100>](apps/qtmips.md)  |
+| [![qtmips](ENTER)](apps/qtmips.html)  |
 
 | [qtox](apps/qtox.md) |
 | ----- |
-| [<img src=icons/qtox.png height=100>](apps/qtox.md)  |
+| [![qtox](ENTER)](apps/qtox.html)  |
 
 | [qt-raster-lines](apps/qt-raster-lines.md) |
 | ----- |
-| [<img src=icons/qt-raster-lines.png height=100>](apps/qt-raster-lines.md)  |
+| [![qt-raster-lines](ENTER)](apps/qt-raster-lines.html)  |
 
 | [quamodbusclient](apps/quamodbusclient.md) |
 | ----- |
-| [<img src=icons/quamodbusclient.png height=100>](apps/quamodbusclient.md)  |
+| [![quamodbusclient](ENTER)](apps/quamodbusclient.html)  |
 
 | [quark](apps/quark.md) |
 | ----- |
-| [<img src=icons/quark.png height=100>](apps/quark.md)  |
+| [![quark](ENTER)](apps/quark.html)  |
 
 | [quaternion](apps/quaternion.md) |
 | ----- |
-| [<img src=icons/quaternion.png height=100>](apps/quaternion.md)  |
+| [![quaternion](ENTER)](apps/quaternion.html)  |
 
 | [qucs-s](apps/qucs-s.md) |
 | ----- |
-| [<img src=icons/qucs-s.png height=100>](apps/qucs-s.md)  |
+| [![qucs-s](ENTER)](apps/qucs-s.html)  |
 
 | [quentier](apps/quentier.md) |
 | ----- |
-| [<img src=icons/quentier.png height=100>](apps/quentier.md)  |
+| [![quentier](ENTER)](apps/quentier.html)  |
 
 | [quick-clone](apps/quick-clone.md) |
 | ----- |
-| [<img src=icons/quick-clone.png height=100>](apps/quick-clone.md)  |
+| [![quick-clone](ENTER)](apps/quick-clone.html)  |
 
 | [quickredis](apps/quickredis.md) |
 | ----- |
-| [<img src=icons/quickredis.png height=100>](apps/quickredis.md)  |
+| [![quickredis](ENTER)](apps/quickredis.html)  |
 
 | [quicktwitch](apps/quicktwitch.md) |
 | ----- |
-| [<img src=icons/quicktwitch.png height=100>](apps/quicktwitch.md)  |
+| [![quicktwitch](ENTER)](apps/quicktwitch.html)  |
 
 | [quickviewer](apps/quickviewer.md) |
 | ----- |
-| [<img src=icons/quickviewer.png height=100>](apps/quickviewer.md)  |
+| [![quickviewer](ENTER)](apps/quickviewer.html)  |
 
 | [quokkagit](apps/quokkagit.md) |
 | ----- |
-| [<img src=icons/quokkagit.png height=100>](apps/quokkagit.md)  |
+| [![quokkagit](ENTER)](apps/quokkagit.html)  |
 
 | [qv2ray](apps/qv2ray.md) |
 | ----- |
-| [<img src=icons/qv2ray.png height=100>](apps/qv2ray.md)  |
+| [![qv2ray](ENTER)](apps/qv2ray.html)  |
 
 | [qview](apps/qview.md) |
 | ----- |
-| [<img src=icons/qview.png height=100>](apps/qview.md)  |
+| [![qview](ENTER)](apps/qview.html)  |
 
 | [qxgedit](apps/qxgedit.md) |
 | ----- |
-| [<img src=icons/qxgedit.png height=100>](apps/qxgedit.md)  |
+| [![qxgedit](ENTER)](apps/qxgedit.html)  |
 
 | [r2modman-appimage](apps/r2modman-appimage.md) |
 | ----- |
-| [<img src=icons/r2modman-appimage.png height=100>](apps/r2modman-appimage.md)  |
+| [![r2modman-appimage](ENTER)](apps/r2modman-appimage.html)  |
 
 | [rabix-composer](apps/rabix-composer.md) |
 | ----- |
-| [<img src=icons/rabix-composer.png height=100>](apps/rabix-composer.md)  |
+| [![rabix-composer](ENTER)](apps/rabix-composer.html)  |
 
 | [radioit](apps/radioit.md) |
 | ----- |
-| [<img src=icons/radioit.png height=100>](apps/radioit.md)  |
+| [![radioit](ENTER)](apps/radioit.html)  |
 
 | [radix-wallet](apps/radix-wallet.md) |
 | ----- |
-| [<img src=icons/radix-wallet.png height=100>](apps/radix-wallet.md)  |
+| [![radix-wallet](ENTER)](apps/radix-wallet.html)  |
 
 | [rainbow-board](apps/rainbow-board.md) |
 | ----- |
-| [<img src=icons/rainbow-board.png height=100>](apps/rainbow-board.md)  |
+| [![rainbow-board](ENTER)](apps/rainbow-board.html)  |
 
 | [rainbow-board](apps/rainbow-board.md) |
 | ----- |
-| [<img src=icons/rainbow-board.png height=100>](apps/rainbow-board.md)  |
+| [![rainbow-board](ENTER)](apps/rainbow-board.html)  |
 
 | [rambox](apps/rambox.md) |
 | ----- |
-| [<img src=icons/rambox.png height=100>](apps/rambox.md)  |
+| [![rambox](ENTER)](apps/rambox.html)  |
 
 | [rasterdraw](apps/rasterdraw.md) |
 | ----- |
-| [<img src=icons/rasterdraw.png height=100>](apps/rasterdraw.md)  |
+| [![rasterdraw](ENTER)](apps/rasterdraw.html)  |
 
 | [rasterview](apps/rasterview.md) |
 | ----- |
-| [<img src=icons/rasterview.png height=100>](apps/rasterview.md)  |
+| [![rasterview](ENTER)](apps/rasterview.html)  |
 
 | [rats-on-the-boat](apps/rats-on-the-boat.md) |
 | ----- |
-| [<img src=icons/rats-on-the-boat.png height=100>](apps/rats-on-the-boat.md)  |
+| [![rats-on-the-boat](ENTER)](apps/rats-on-the-boat.html)  |
 
 | [raven-reader](apps/raven-reader.md) |
 | ----- |
-| [<img src=icons/raven-reader.png height=100>](apps/raven-reader.md)  |
+| [![raven-reader](ENTER)](apps/raven-reader.html)  |
 
 | [rawtherapee](apps/rawtherapee.md) |
 | ----- |
-| [<img src=icons/rawtherapee.png height=100>](apps/rawtherapee.md)  |
+| [![rawtherapee](ENTER)](apps/rawtherapee.html)  |
 
 | [rbdl-toolkit](apps/rbdl-toolkit.md) |
 | ----- |
-| [<img src=icons/rbdl-toolkit.png height=100>](apps/rbdl-toolkit.md)  |
+| [![rbdl-toolkit](ENTER)](apps/rbdl-toolkit.html)  |
 
 | [reactotron](apps/reactotron.md) |
 | ----- |
-| [<img src=icons/reactotron.png height=100>](apps/reactotron.md)  |
+| [![reactotron](ENTER)](apps/reactotron.html)  |
 
 | [realm-studio](apps/realm-studio.md) |
 | ----- |
-| [<img src=icons/realm-studio.png height=100>](apps/realm-studio.md)  |
+| [![realm-studio](ENTER)](apps/realm-studio.html)  |
 
 | [rebaslight](apps/rebaslight.md) |
 | ----- |
-| [<img src=icons/rebaslight.png height=100>](apps/rebaslight.md)  |
+| [![rebaslight](ENTER)](apps/rebaslight.html)  |
 
 | [record-compare](apps/record-compare.md) |
 | ----- |
-| [<img src=icons/record-compare.png height=100>](apps/record-compare.md)  |
+| [![record-compare](ENTER)](apps/record-compare.html)  |
 
 | [redeclipse](apps/redeclipse.md) |
 | ----- |
-| [<img src=icons/redeclipse.png height=100>](apps/redeclipse.md)  |
+| [![redeclipse](ENTER)](apps/redeclipse.html)  |
 
 | [redminetimetracker](apps/redminetimetracker.md) |
 | ----- |
-| [<img src=icons/redminetimetracker.png height=100>](apps/redminetimetracker.md)  |
+| [![redminetimetracker](ENTER)](apps/redminetimetracker.html)  |
 
 | [reliefvalve](apps/reliefvalve.md) |
 | ----- |
-| [<img src=icons/reliefvalve.png height=100>](apps/reliefvalve.md)  |
+| [![reliefvalve](ENTER)](apps/reliefvalve.html)  |
 
 | [responsively](apps/responsively.md) |
 | ----- |
-| [<img src=icons/responsively.png height=100>](apps/responsively.md)  |
+| [![responsively](ENTER)](apps/responsively.html)  |
 
 | [retroarch](apps/retroarch.md) |
 | ----- |
-| [<img src=icons/retroarch.png height=100>](apps/retroarch.md)  |
+| [![retroarch](ENTER)](apps/retroarch.html)  |
 
 | [retroshare](apps/retroshare.md) |
 | ----- |
-| [<img src=icons/retroshare.png height=100>](apps/retroshare.md)  |
+| [![retroshare](ENTER)](apps/retroshare.html)  |
 
 | [revolt](apps/revolt.md) |
 | ----- |
-| [<img src=icons/revolt.png height=100>](apps/revolt.md)  |
+| [![revolt](ENTER)](apps/revolt.html)  |
 
 | [rhb](apps/rhb.md) |
 | ----- |
-| [<img src=icons/rhb.png height=100>](apps/rhb.md)  |
+| [![rhb](ENTER)](apps/rhb.html)  |
 
 | [ricochet](apps/ricochet.md) |
 | ----- |
-| [<img src=icons/ricochet.png height=100>](apps/ricochet.md)  |
+| [![ricochet](ENTER)](apps/ricochet.html)  |
 
 | [ridereceipts](apps/ridereceipts.md) |
 | ----- |
-| [<img src=icons/ridereceipts.png height=100>](apps/ridereceipts.md)  |
+| [![ridereceipts](ENTER)](apps/ridereceipts.html)  |
 
 | [ripcord](apps/ripcord.md) |
 | ----- |
-| [<img src=icons/ripcord.png height=100>](apps/ripcord.md)  |
+| [![ripcord](ENTER)](apps/ripcord.html)  |
 
 | [rmw](apps/rmw.md) |
 | ----- |
-| [<img src=icons/rmw.png height=100>](apps/rmw.md)  |
+| [![rmw](ENTER)](apps/rmw.html)  |
 
 | [roborock-control-center](apps/roborock-control-center.md) |
 | ----- |
-| [<img src=icons/roborock-control-center.png height=100>](apps/roborock-control-center.md)  |
+| [![roborock-control-center](ENTER)](apps/roborock-control-center.html)  |
 
 | [roloviewer](apps/roloviewer.md) |
 | ----- |
-| [<img src=icons/roloviewer.png height=100>](apps/roloviewer.md)  |
+| [![roloviewer](ENTER)](apps/roloviewer.html)  |
 
 | [rotki](apps/rotki.md) |
 | ----- |
-| [<img src=icons/rotki.png height=100>](apps/rotki.md)  |
+| [![rotki](ENTER)](apps/rotki.html)  |
 
 | [rpan-studio](apps/rpan-studio.md) |
 | ----- |
-| [<img src=icons/rpan-studio.png height=100>](apps/rpan-studio.md)  |
+| [![rpan-studio](ENTER)](apps/rpan-studio.html)  |
 
 | [rpcs3](apps/rpcs3.md) |
 | ----- |
-| [<img src=icons/rpcs3.png height=100>](apps/rpcs3.md)  |
+| [![rpcs3](ENTER)](apps/rpcs3.html)  |
 
 | [rssguard](apps/rssguard.md) |
 | ----- |
-| [<img src=icons/rssguard.png height=100>](apps/rssguard.md)  |
+| [![rssguard](ENTER)](apps/rssguard.html)  |
 
 | [rtneuron](apps/rtneuron.md) |
 | ----- |
-| [<img src=icons/rtneuron.png height=100>](apps/rtneuron.md)  |
+| [![rtneuron](ENTER)](apps/rtneuron.html)  |
 
 | [rufus](apps/rufus.md) |
 | ----- |
-| [<img src=icons/rufus.png height=100>](apps/rufus.md)  |
+| [![rufus](ENTER)](apps/rufus.html)  |
 
 | [runanode](apps/runanode.md) |
 | ----- |
-| [<img src=icons/runanode.png height=100>](apps/runanode.md)  |
+| [![runanode](ENTER)](apps/runanode.html)  |
 
 | [runelite-launcher-appimage](apps/runelite-launcher-appimage.md) |
 | ----- |
-| [<img src=icons/runelite-launcher-appimage.png height=100>](apps/runelite-launcher-appimage.md)  |
+| [![runelite-launcher-appimage](ENTER)](apps/runelite-launcher-appimage.html)  |
 
 | [running-dinner-tool](apps/running-dinner-tool.md) |
 | ----- |
-| [<img src=icons/running-dinner-tool.png height=100>](apps/running-dinner-tool.md)  |
+| [![running-dinner-tool](ENTER)](apps/running-dinner-tool.html)  |
 
 | [rx-bin](apps/rx-bin.md) |
 | ----- |
-| [<img src=icons/rx-bin.png height=100>](apps/rx-bin.md)  |
+| [![rx-bin](ENTER)](apps/rx-bin.html)  |
 
 | [ryowallet](apps/ryowallet.md) |
 | ----- |
-| [<img src=icons/ryowallet.png height=100>](apps/ryowallet.md)  |
+| [![ryowallet](ENTER)](apps/ryowallet.html)  |
 
 | [sabaki](apps/sabaki.md) |
 | ----- |
-| [<img src=icons/sabaki.png height=100>](apps/sabaki.md)  |
+| [![sabaki](ENTER)](apps/sabaki.html)  |
 
 | [safe-multisig](apps/safe-multisig.md) |
 | ----- |
-| [<img src=icons/safe-multisig.png height=100>](apps/safe-multisig.md)  |
+| [![safe-multisig](ENTER)](apps/safe-multisig.html)  |
 
 | [safesurfer-desktop](apps/safesurfer-desktop.md) |
 | ----- |
-| [<img src=icons/safesurfer-desktop.png height=100>](apps/safesurfer-desktop.md)  |
+| [![safesurfer-desktop](ENTER)](apps/safesurfer-desktop.html)  |
 
 | [samanager](apps/samanager.md) |
 | ----- |
-| [<img src=icons/samanager.png height=100>](apps/samanager.md)  |
+| [![samanager](ENTER)](apps/samanager.html)  |
 
 | [saphyr](apps/saphyr.md) |
 | ----- |
-| [<img src=icons/saphyr.png height=100>](apps/saphyr.md)  |
+| [![saphyr](ENTER)](apps/saphyr.html)  |
 
 | [saucedacity](apps/saucedacity.md) |
 | ----- |
-| [<img src=icons/saucedacity.png height=100>](apps/saucedacity.md)  |
+| [![saucedacity](ENTER)](apps/saucedacity.html)  |
 
 | [savvycan](apps/savvycan.md) |
 | ----- |
-| [<img src=icons/savvycan.png height=100>](apps/savvycan.md)  |
+| [![savvycan](ENTER)](apps/savvycan.html)  |
 
 | [sayonara](apps/sayonara.md) |
 | ----- |
-| [<img src=icons/sayonara.png height=100>](apps/sayonara.md)  |
+| [![sayonara](ENTER)](apps/sayonara.html)  |
 
 | [sblauncher](apps/sblauncher.md) |
 | ----- |
-| [<img src=icons/sblauncher.png height=100>](apps/sblauncher.md)  |
+| [![sblauncher](ENTER)](apps/sblauncher.html)  |
 
 | [scatter](apps/scatter.md) |
 | ----- |
-| [<img src=icons/scatter.png height=100>](apps/scatter.md)  |
+| [![scatter](ENTER)](apps/scatter.html)  |
 
 | [scavengers](apps/scavengers.md) |
 | ----- |
-| [<img src=icons/scavengers.png height=100>](apps/scavengers.md)  |
+| [![scavengers](ENTER)](apps/scavengers.html)  |
 
 | [schildichat](apps/schildichat.md) |
 | ----- |
-| [<img src=icons/schildichat.png height=100>](apps/schildichat.md)  |
+| [![schildichat](ENTER)](apps/schildichat.html)  |
 
 | [school-sections](apps/school-sections.md) |
 | ----- |
-| [<img src=icons/school-sections.png height=100>](apps/school-sections.md)  |
+| [![school-sections](ENTER)](apps/school-sections.html)  |
 
 | [sciencefair](apps/sciencefair.md) |
 | ----- |
-| [<img src=icons/sciencefair.png height=100>](apps/sciencefair.md)  |
+| [![sciencefair](ENTER)](apps/sciencefair.html)  |
 
 | [scilab](apps/scilab.md) |
 | ----- |
-| [<img src=icons/scilab.png height=100>](apps/scilab.md)  |
+| [![scilab](ENTER)](apps/scilab.html)  |
 
 | [scraper](apps/scraper.md) |
 | ----- |
-| [<img src=icons/scraper.png height=100>](apps/scraper.md)  |
+| [![scraper](ENTER)](apps/scraper.html)  |
 
 | [scrcpy](apps/scrcpy.md) |
 | ----- |
-| [<img src=icons/scrcpy.png height=100>](apps/scrcpy.md)  |
+| [![scrcpy](ENTER)](apps/scrcpy.html)  |
 
 | [screencloud](apps/screencloud.md) |
 | ----- |
-| [<img src=icons/screencloud.png height=100>](apps/screencloud.md)  |
+| [![screencloud](ENTER)](apps/screencloud.html)  |
 
 | [scrite](apps/scrite.md) |
 | ----- |
-| [<img src=icons/scrite.png height=100>](apps/scrite.md)  |
+| [![scrite](ENTER)](apps/scrite.html)  |
 
 | [scrum-retroboard](apps/scrum-retroboard.md) |
 | ----- |
-| [<img src=icons/scrum-retroboard.png height=100>](apps/scrum-retroboard.md)  |
+| [![scrum-retroboard](ENTER)](apps/scrum-retroboard.html)  |
 
 | [scytale](apps/scytale.md) |
 | ----- |
-| [<img src=icons/scytale.png height=100>](apps/scytale.md)  |
+| [![scytale](ENTER)](apps/scytale.html)  |
 
 | [sengi](apps/sengi.md) |
 | ----- |
-| [<img src=icons/sengi.png height=100>](apps/sengi.md)  |
+| [![sengi](ENTER)](apps/sengi.html)  |
 
 | [sentinel-appimage](apps/sentinel-appimage.md) |
 | ----- |
-| [<img src=icons/sentinel-appimage.png height=100>](apps/sentinel-appimage.md)  |
+| [![sentinel-appimage](ENTER)](apps/sentinel-appimage.html)  |
 
 | [serialplot](apps/serialplot.md) |
 | ----- |
-| [<img src=icons/serialplot.png height=100>](apps/serialplot.md)  |
+| [![serialplot](ENTER)](apps/serialplot.html)  |
 
 | [serial-studio](apps/serial-studio.md) |
 | ----- |
-| [<img src=icons/serial-studio.png height=100>](apps/serial-studio.md)  |
+| [![serial-studio](ENTER)](apps/serial-studio.html)  |
 
 | [serial-studio](apps/serial-studio.md) |
 | ----- |
-| [<img src=icons/serial-studio.png height=100>](apps/serial-studio.md)  |
+| [![serial-studio](ENTER)](apps/serial-studio.html)  |
 
 | [ser-player](apps/ser-player.md) |
 | ----- |
-| [<img src=icons/ser-player.png height=100>](apps/ser-player.md)  |
+| [![ser-player](ENTER)](apps/ser-player.html)  |
 
 | [session-desktop](apps/session-desktop.md) |
 | ----- |
-| [<img src=icons/session-desktop.png height=100>](apps/session-desktop.md)  |
+| [![session-desktop](ENTER)](apps/session-desktop.html)  |
 
 | [sfbrename](apps/sfbrename.md) |
 | ----- |
-| [<img src=icons/sfbrename.png height=100>](apps/sfbrename.md)  |
+| [![sfbrename](ENTER)](apps/sfbrename.html)  |
 
 | [sfrt-attendance](apps/sfrt-attendance.md) |
 | ----- |
-| [<img src=icons/sfrt-attendance.png height=100>](apps/sfrt-attendance.md)  |
+| [![sfrt-attendance](ENTER)](apps/sfrt-attendance.html)  |
 
 | [sf-tube](apps/sf-tube.md) |
 | ----- |
-| [<img src=icons/sf-tube.png height=100>](apps/sf-tube.md)  |
+| [![sf-tube](ENTER)](apps/sf-tube.html)  |
 
 | [shadow](apps/shadow.md) |
 | ----- |
-| [<img src=icons/shadow.png height=100>](apps/shadow.md)  |
+| [![shadow](ENTER)](apps/shadow.html)  |
 
 | [shadowsocks](apps/shadowsocks.md) |
 | ----- |
-| [<img src=icons/shadowsocks.png height=100>](apps/shadowsocks.md)  |
+| [![shadowsocks](ENTER)](apps/shadowsocks.html)  |
 
 | [shannon-calculator](apps/shannon-calculator.md) |
 | ----- |
-| [<img src=icons/shannon-calculator.png height=100>](apps/shannon-calculator.md)  |
+| [![shannon-calculator](ENTER)](apps/shannon-calculator.html)  |
 
 | [sharemyhost](apps/sharemyhost.md) |
 | ----- |
-| [<img src=icons/sharemyhost.png height=100>](apps/sharemyhost.md)  |
+| [![sharemyhost](ENTER)](apps/sharemyhost.html)  |
 
 | [sharp-tune](apps/sharp-tune.md) |
 | ----- |
-| [<img src=icons/sharp-tune.png height=100>](apps/sharp-tune.md)  |
+| [![sharp-tune](ENTER)](apps/sharp-tune.html)  |
 
 | [sheikah](apps/sheikah.md) |
 | ----- |
-| [<img src=icons/sheikah.png height=100>](apps/sheikah.md)  |
+| [![sheikah](ENTER)](apps/sheikah.html)  |
 
 | [shotcut](apps/shotcut.md) |
 | ----- |
-| [<img src=icons/shotcut.png height=100>](apps/shotcut.md)  |
+| [![shotcut](ENTER)](apps/shotcut.html)  |
 
 | [shradiko](apps/shradiko.md) |
 | ----- |
-| [<img src=icons/shradiko.png height=100>](apps/shradiko.md)  |
+| [![shradiko](ENTER)](apps/shradiko.html)  |
 
 | [shuttle](apps/shuttle.md) |
 | ----- |
-| [<img src=icons/shuttle.png height=100>](apps/shuttle.md)  |
+| [![shuttle](ENTER)](apps/shuttle.html)  |
 
 | [sideload](apps/sideload.md) |
 | ----- |
-| [<img src=icons/sideload.png height=100>](apps/sideload.md)  |
+| [![sideload](ENTER)](apps/sideload.html)  |
 
 | [sigdigger](apps/sigdigger.md) |
 | ----- |
-| [<img src=icons/sigdigger.png height=100>](apps/sigdigger.md)  |
+| [![sigdigger](ENTER)](apps/sigdigger.html)  |
 
 | [sigdigger](apps/sigdigger.md) |
 | ----- |
-| [<img src=icons/sigdigger.png height=100>](apps/sigdigger.md)  |
+| [![sigdigger](ENTER)](apps/sigdigger.html)  |
 
 | [sigmaspectra](apps/sigmaspectra.md) |
 | ----- |
-| [<img src=icons/sigmaspectra.png height=100>](apps/sigmaspectra.md)  |
+| [![sigmaspectra](ENTER)](apps/sigmaspectra.html)  |
 
 | [sigrok-cli](apps/sigrok-cli.md) |
 | ----- |
-| [<img src=icons/sigrok-cli.png height=100>](apps/sigrok-cli.md)  |
+| [![sigrok-cli](ENTER)](apps/sigrok-cli.html)  |
 
 | [siliconsneaker](apps/siliconsneaker.md) |
 | ----- |
-| [<img src=icons/siliconsneaker.png height=100>](apps/siliconsneaker.md)  |
+| [![siliconsneaker](ENTER)](apps/siliconsneaker.html)  |
 
 | [silverkey](apps/silverkey.md) |
 | ----- |
-| [<img src=icons/silverkey.png height=100>](apps/silverkey.md)  |
+| [![silverkey](ENTER)](apps/silverkey.html)  |
 
 | [simdock](apps/simdock.md) |
 | ----- |
-| [<img src=icons/simdock.png height=100>](apps/simdock.md)  |
+| [![simdock](ENTER)](apps/simdock.html)  |
 
 | [simdsp](apps/simdsp.md) |
 | ----- |
-| [<img src=icons/simdsp.png height=100>](apps/simdsp.md)  |
+| [![simdsp](ENTER)](apps/simdsp.html)  |
 
 | [simplechroot](apps/simplechroot.md) |
 | ----- |
-| [<img src=icons/simplechroot.png height=100>](apps/simplechroot.md)  |
+| [![simplechroot](ENTER)](apps/simplechroot.html)  |
 
 | [simpleinstabot](apps/simpleinstabot.md) |
 | ----- |
-| [<img src=icons/simpleinstabot.png height=100>](apps/simpleinstabot.md)  |
+| [![simpleinstabot](ENTER)](apps/simpleinstabot.html)  |
 
 | [simplenote-electron](apps/simplenote-electron.md) |
 | ----- |
-| [<img src=icons/simplenote-electron.png height=100>](apps/simplenote-electron.md)  |
+| [![simplenote-electron](ENTER)](apps/simplenote-electron.html)  |
 
 | [simpleos](apps/simpleos.md) |
 | ----- |
-| [<img src=icons/simpleos.png height=100>](apps/simpleos.md)  |
+| [![simpleos](ENTER)](apps/simpleos.html)  |
 
 | [simplescreenrecorder](apps/simplescreenrecorder.md) |
 | ----- |
-| [<img src=icons/simplescreenrecorder.png height=100>](apps/simplescreenrecorder.md)  |
+| [![simplescreenrecorder](ENTER)](apps/simplescreenrecorder.html)  |
 
 | [simple-s3-uploader](apps/simple-s3-uploader.md) |
 | ----- |
-| [<img src=icons/simple-s3-uploader.png height=100>](apps/simple-s3-uploader.md)  |
+| [![simple-s3-uploader](ENTER)](apps/simple-s3-uploader.html)  |
 
 | [simple-timer](apps/simple-timer.md) |
 | ----- |
-| [<img src=icons/simple-timer.png height=100>](apps/simple-timer.md)  |
+| [![simple-timer](ENTER)](apps/simple-timer.html)  |
 
 | [simtoolkitpro-appimage](apps/simtoolkitpro-appimage.md) |
 | ----- |
-| [<img src=icons/simtoolkitpro-appimage.png height=100>](apps/simtoolkitpro-appimage.md)  |
+| [![simtoolkitpro-appimage](ENTER)](apps/simtoolkitpro-appimage.html)  |
 
 | [simulide](apps/simulide.md) |
 | ----- |
-| [<img src=icons/simulide.png height=100>](apps/simulide.md)  |
+| [![simulide](ENTER)](apps/simulide.html)  |
 
 | [singlebox](apps/singlebox.md) |
 | ----- |
-| [<img src=icons/singlebox.png height=100>](apps/singlebox.md)  |
+| [![singlebox](ENTER)](apps/singlebox.html)  |
 
 | [sipgate-softphone](apps/sipgate-softphone.md) |
 | ----- |
-| [<img src=icons/sipgate-softphone.png height=100>](apps/sipgate-softphone.md)  |
+| [![sipgate-softphone](ENTER)](apps/sipgate-softphone.html)  |
 
 | [siril](apps/siril.md) |
 | ----- |
-| [<img src=icons/siril.png height=100>](apps/siril.md)  |
+| [![siril](ENTER)](apps/siril.html)  |
 
 | [siyuan-appimage](apps/siyuan-appimage.md) |
 | ----- |
-| [<img src=icons/siyuan-appimage.png height=100>](apps/siyuan-appimage.md)  |
+| [![siyuan-appimage](ENTER)](apps/siyuan-appimage.html)  |
 
 | [skrifa](apps/skrifa.md) |
 | ----- |
-| [<img src=icons/skrifa.png height=100>](apps/skrifa.md)  |
+| [![skrifa](ENTER)](apps/skrifa.html)  |
 
 | [skrooge](apps/skrooge.md) |
 | ----- |
-| [<img src=icons/skrooge.png height=100>](apps/skrooge.md)  |
+| [![skrooge](ENTER)](apps/skrooge.html)  |
 
 | [skype](apps/skype.md) |
 | ----- |
-| [<img src=icons/skype.png height=100>](apps/skype.md)  |
+| [![skype](ENTER)](apps/skype.html)  |
 
 | [slackbackup](apps/slackbackup.md) |
 | ----- |
-| [<img src=icons/slackbackup.png height=100>](apps/slackbackup.md)  |
+| [![slackbackup](ENTER)](apps/slackbackup.html)  |
 
 | [slacktronic](apps/slacktronic.md) |
 | ----- |
-| [<img src=icons/slacktronic.png height=100>](apps/slacktronic.md)  |
+| [![slacktronic](ENTER)](apps/slacktronic.html)  |
 
 | [slang-ed](apps/slang-ed.md) |
 | ----- |
-| [<img src=icons/slang-ed.png height=100>](apps/slang-ed.md)  |
+| [![slang-ed](ENTER)](apps/slang-ed.html)  |
 
 | [sleek](apps/sleek.md) |
 | ----- |
-| [<img src=icons/sleek.png height=100>](apps/sleek.md)  |
+| [![sleek](ENTER)](apps/sleek.html)  |
 
 | [slic3r-appimage](apps/slic3r-appimage.md) |
 | ----- |
-| [<img src=icons/slic3r-appimage.png height=100>](apps/slic3r-appimage.md)  |
+| [![slic3r-appimage](ENTER)](apps/slic3r-appimage.html)  |
 
 | [slippi](apps/slippi.md) |
 | ----- |
-| [<img src=icons/slippi.png height=100>](apps/slippi.md)  |
+| [![slippi](ENTER)](apps/slippi.html)  |
 
 | [smallbasic](apps/smallbasic.md) |
 | ----- |
-| [<img src=icons/smallbasic.png height=100>](apps/smallbasic.md)  |
+| [![smallbasic](ENTER)](apps/smallbasic.html)  |
 
 | [smartgit](apps/smartgit.md) |
 | ----- |
-| [<img src=icons/smartgit.png height=100>](apps/smartgit.md)  |
+| [![smartgit](ENTER)](apps/smartgit.html)  |
 
 | [smartservogui](apps/smartservogui.md) |
 | ----- |
-| [<img src=icons/smartservogui.png height=100>](apps/smartservogui.md)  |
+| [![smartservogui](ENTER)](apps/smartservogui.html)  |
 
 | [smath-studio](apps/smath-studio.md) |
 | ----- |
-| [<img src=icons/smath-studio.png height=100>](apps/smath-studio.md)  |
+| [![smath-studio](ENTER)](apps/smath-studio.html)  |
 
 | [smf-dsp](apps/smf-dsp.md) |
 | ----- |
-| [<img src=icons/smf-dsp.png height=100>](apps/smf-dsp.md)  |
+| [![smf-dsp](ENTER)](apps/smf-dsp.html)  |
 
 | [smplayer](apps/smplayer.md) |
 | ----- |
-| [<img src=icons/smplayer.png height=100>](apps/smplayer.md)  |
+| [![smplayer](ENTER)](apps/smplayer.html)  |
 
 | [smtk2ssrf](apps/smtk2ssrf.md) |
 | ----- |
-| [<img src=icons/smtk2ssrf.png height=100>](apps/smtk2ssrf.md)  |
+| [![smtk2ssrf](ENTER)](apps/smtk2ssrf.html)  |
 
 | [smuview-appimage](apps/smuview-appimage.md) |
 | ----- |
-| [<img src=icons/smuview-appimage.png height=100>](apps/smuview-appimage.md)  |
+| [![smuview-appimage](ENTER)](apps/smuview-appimage.html)  |
 
 | [snake-js](apps/snake-js.md) |
 | ----- |
-| [<img src=icons/snake-js.png height=100>](apps/snake-js.md)  |
+| [![snake-js](ENTER)](apps/snake-js.html)  |
 
 | [snapshot-slider](apps/snapshot-slider.md) |
 | ----- |
-| [<img src=icons/snapshot-slider.png height=100>](apps/snapshot-slider.md)  |
+| [![snapshot-slider](ENTER)](apps/snapshot-slider.html)  |
 
 | [snippetstore](apps/snippetstore.md) |
 | ----- |
-| [<img src=icons/snippetstore.png height=100>](apps/snippetstore.md)  |
+| [![snippetstore](ENTER)](apps/snippetstore.html)  |
 
 | [snomcontrol](apps/snomcontrol.md) |
 | ----- |
-| [<img src=icons/snomcontrol.png height=100>](apps/snomcontrol.md)  |
+| [![snomcontrol](ENTER)](apps/snomcontrol.html)  |
 
 | [soapy-sdr](apps/soapy-sdr.md) |
 | ----- |
-| [<img src=icons/soapy-sdr.png height=100>](apps/soapy-sdr.md)  |
+| [![soapy-sdr](ENTER)](apps/soapy-sdr.html)  |
 
 | [socnetv](apps/socnetv.md) |
 | ----- |
-| [<img src=icons/socnetv.png height=100>](apps/socnetv.md)  |
+| [![socnetv](ENTER)](apps/socnetv.html)  |
 
 | [software-challenge-gui](apps/software-challenge-gui.md) |
 | ----- |
-| [<img src=icons/software-challenge-gui.png height=100>](apps/software-challenge-gui.md)  |
+| [![software-challenge-gui](ENTER)](apps/software-challenge-gui.html)  |
 
 | [soniclineup](apps/soniclineup.md) |
 | ----- |
-| [<img src=icons/soniclineup.png height=100>](apps/soniclineup.md)  |
+| [![soniclineup](ENTER)](apps/soniclineup.html)  |
 
 | [sonicvisualiser](apps/sonicvisualiser.md) |
 | ----- |
-| [<img src=icons/sonicvisualiser.png height=100>](apps/sonicvisualiser.md)  |
+| [![sonicvisualiser](ENTER)](apps/sonicvisualiser.html)  |
 
 | [sonist](apps/sonist.md) |
 | ----- |
-| [<img src=icons/sonist.png height=100>](apps/sonist.md)  |
+| [![sonist](ENTER)](apps/sonist.html)  |
 
 | [sonixd](apps/sonixd.md) |
 | ----- |
-| [<img src=icons/sonixd.png height=100>](apps/sonixd.md)  |
+| [![sonixd](ENTER)](apps/sonixd.html)  |
 
 | [sourcetrail](apps/sourcetrail.md) |
 | ----- |
-| [<img src=icons/sourcetrail.png height=100>](apps/sourcetrail.md)  |
+| [![sourcetrail](ENTER)](apps/sourcetrail.html)  |
 
 | [sourcetrail](apps/sourcetrail.md) |
 | ----- |
-| [<img src=icons/sourcetrail.png height=100>](apps/sourcetrail.md)  |
+| [![sourcetrail](ENTER)](apps/sourcetrail.html)  |
 
 | [sovren.batch.parser](apps/sovren.batch.parser.md) |
 | ----- |
-| [<img src=icons/sovren.batch.parser.png height=100>](apps/sovren.batch.parser.md)  |
+| [![sovren.batch.parser](ENTER)](apps/sovren.batch.parser.html)  |
 
 | [spacewars](apps/spacewars.md) |
 | ----- |
-| [<img src=icons/spacewars.png height=100>](apps/spacewars.md)  |
+| [![spacewars](ENTER)](apps/spacewars.html)  |
 
 | [spark.payments](apps/spark.payments.md) |
 | ----- |
-| [<img src=icons/spark.payments.png height=100>](apps/spark.payments.md)  |
+| [![spark.payments](ENTER)](apps/spark.payments.html)  |
 
 | [spark-wallet](apps/spark-wallet.md) |
 | ----- |
-| [<img src=icons/spark-wallet.png height=100>](apps/spark-wallet.md)  |
+| [![spark-wallet](ENTER)](apps/spark-wallet.html)  |
 
 | [speaky-miniplayer](apps/speaky-miniplayer.md) |
 | ----- |
-| [<img src=icons/speaky-miniplayer.png height=100>](apps/speaky-miniplayer.md)  |
+| [![speaky-miniplayer](ENTER)](apps/speaky-miniplayer.html)  |
 
 | [speed-dreams](apps/speed-dreams.md) |
 | ----- |
-| [<img src=icons/speed-dreams.png height=100>](apps/speed-dreams.md)  |
+| [![speed-dreams](ENTER)](apps/speed-dreams.html)  |
 
 | [speedyloader](apps/speedyloader.md) |
 | ----- |
-| [<img src=icons/speedyloader.png height=100>](apps/speedyloader.md)  |
+| [![speedyloader](ENTER)](apps/speedyloader.html)  |
 
 | [speek](apps/speek.md) |
 | ----- |
-| [<img src=icons/speek.png height=100>](apps/speek.md)  |
+| [![speek](ENTER)](apps/speek.html)  |
 
 | [spivak](apps/spivak.md) |
 | ----- |
-| [<img src=icons/spivak.png height=100>](apps/spivak.md)  |
+| [![spivak](ENTER)](apps/spivak.html)  |
 
 | [spivak](apps/spivak.md) |
 | ----- |
-| [<img src=icons/spivak.png height=100>](apps/spivak.md)  |
+| [![spivak](ENTER)](apps/spivak.html)  |
 
 | [splayerx](apps/splayerx.md) |
 | ----- |
-| [<img src=icons/splayerx.png height=100>](apps/splayerx.md)  |
+| [![splayerx](ENTER)](apps/splayerx.html)  |
 
 | [spm](apps/spm.md) |
 | ----- |
-| [<img src=icons/spm.png height=100>](apps/spm.md)  |
+| [![spm](ENTER)](apps/spm.html)  |
 
 | [spotify](apps/spotify.md) |
 | ----- |
-| [<img src=icons/spotify.png height=100>](apps/spotify.md)  |
+| [![spotify](ENTER)](apps/spotify.html)  |
 
 | [springboard](apps/springboard.md) |
 | ----- |
-| [<img src=icons/springboard.png height=100>](apps/springboard.md)  |
+| [![springboard](ENTER)](apps/springboard.html)  |
 
 | [sqlitebrowser](apps/sqlitebrowser.md) |
 | ----- |
-| [<img src=icons/sqlitebrowser.png height=100>](apps/sqlitebrowser.md)  |
+| [![sqlitebrowser](ENTER)](apps/sqlitebrowser.html)  |
 
 | [srb2k-appimage](apps/srb2k-appimage.md) |
 | ----- |
-| [<img src=icons/srb2k-appimage.png height=100>](apps/srb2k-appimage.md)  |
+| [![srb2k-appimage](ENTER)](apps/srb2k-appimage.html)  |
 
 | [ssh-mitm](apps/ssh-mitm.md) |
 | ----- |
-| [<img src=icons/ssh-mitm.png height=100>](apps/ssh-mitm.md)  |
+| [![ssh-mitm](ENTER)](apps/ssh-mitm.html)  |
 
 | [stacer](apps/stacer.md) |
 | ----- |
-| [<img src=icons/stacer.png height=100>](apps/stacer.md)  |
+| [![stacer](ENTER)](apps/stacer.html)  |
 
 | [stackandconquer](apps/stackandconquer.md) |
 | ----- |
-| [<img src=icons/stackandconquer.png height=100>](apps/stackandconquer.md)  |
+| [![stackandconquer](ENTER)](apps/stackandconquer.html)  |
 
 | [standard-notes](apps/standard-notes.md) |
 | ----- |
-| [<img src=icons/standard-notes.png height=100>](apps/standard-notes.md)  |
+| [![standard-notes](ENTER)](apps/standard-notes.html)  |
 
 | [starc](apps/starc.md) |
 | ----- |
-| [<img src=icons/starc.png height=100>](apps/starc.md)  |
+| [![starc](ENTER)](apps/starc.html)  |
 
 | [staruml](apps/staruml.md) |
 | ----- |
-| [<img src=icons/staruml.png height=100>](apps/staruml.md)  |
+| [![staruml](ENTER)](apps/staruml.html)  |
 
 | [stash-electron](apps/stash-electron.md) |
 | ----- |
-| [<img src=icons/stash-electron.png height=100>](apps/stash-electron.md)  |
+| [![stash-electron](ENTER)](apps/stash-electron.html)  |
 
 | [station](apps/station.md) |
 | ----- |
-| [<img src=icons/station.png height=100>](apps/station.md)  |
+| [![station](ENTER)](apps/station.html)  |
 
 | [statsbook-tool](apps/statsbook-tool.md) |
 | ----- |
-| [<img src=icons/statsbook-tool.png height=100>](apps/statsbook-tool.md)  |
+| [![statsbook-tool](ENTER)](apps/statsbook-tool.html)  |
 
 | [statuspilatus](apps/statuspilatus.md) |
 | ----- |
-| [<img src=icons/statuspilatus.png height=100>](apps/statuspilatus.md)  |
+| [![statuspilatus](ENTER)](apps/statuspilatus.html)  |
 
 | [steamcad](apps/steamcad.md) |
 | ----- |
-| [<img src=icons/steamcad.png height=100>](apps/steamcad.md)  |
+| [![steamcad](ENTER)](apps/steamcad.html)  |
 
 | [steam-rom-manager](apps/steam-rom-manager.md) |
 | ----- |
-| [<img src=icons/steam-rom-manager.png height=100>](apps/steam-rom-manager.md)  |
+| [![steam-rom-manager](ENTER)](apps/steam-rom-manager.html)  |
 
 | [steam](apps/steam.md) |
 | ----- |
-| [<img src=icons/steam.png height=100>](apps/steam.md)  |
+| [![steam](ENTER)](apps/steam.html)  |
 
 | [steem-messenger](apps/steem-messenger.md) |
 | ----- |
-| [<img src=icons/steem-messenger.png height=100>](apps/steem-messenger.md)  |
+| [![steem-messenger](ENTER)](apps/steem-messenger.html)  |
 
 | [stele](apps/stele.md) |
 | ----- |
-| [<img src=icons/stele.png height=100>](apps/stele.md)  |
+| [![stele](ENTER)](apps/stele.html)  |
 
 | [stellarium](apps/stellarium.md) |
 | ----- |
-| [<img src=icons/stellarium.png height=100>](apps/stellarium.md)  |
+| [![stellarium](ENTER)](apps/stellarium.html)  |
 
 | [stereophotoview](apps/stereophotoview.md) |
 | ----- |
-| [<img src=icons/stereophotoview.png height=100>](apps/stereophotoview.md)  |
+| [![stereophotoview](ENTER)](apps/stereophotoview.html)  |
 
 | [stockstalk](apps/stockstalk.md) |
 | ----- |
-| [<img src=icons/stockstalk.png height=100>](apps/stockstalk.md)  |
+| [![stockstalk](ENTER)](apps/stockstalk.html)  |
 
 | [stoplight](apps/stoplight.md) |
 | ----- |
-| [<img src=icons/stoplight.png height=100>](apps/stoplight.md)  |
+| [![stoplight](ENTER)](apps/stoplight.html)  |
 
 | [storaji](apps/storaji.md) |
 | ----- |
-| [<img src=icons/storaji.png height=100>](apps/storaji.md)  |
+| [![storaji](ENTER)](apps/storaji.html)  |
 
 | [storyboarder](apps/storyboarder.md) |
 | ----- |
-| [<img src=icons/storyboarder.png height=100>](apps/storyboarder.md)  |
+| [![storyboarder](ENTER)](apps/storyboarder.html)  |
 
 | [strans](apps/strans.md) |
 | ----- |
-| [<img src=icons/strans.png height=100>](apps/strans.md)  |
+| [![strans](ENTER)](apps/strans.html)  |
 
 | [strata](apps/strata.md) |
 | ----- |
-| [<img src=icons/strata.png height=100>](apps/strata.md)  |
+| [![strata](ENTER)](apps/strata.html)  |
 
 | [strawberry](apps/strawberry.md) |
 | ----- |
-| [<img src=icons/strawberry.png height=100>](apps/strawberry.md)  |
+| [![strawberry](ENTER)](apps/strawberry.html)  |
 
 | [streamcapture2](apps/streamcapture2.md) |
 | ----- |
-| [<img src=icons/streamcapture2.png height=100>](apps/streamcapture2.md)  |
+| [![streamcapture2](ENTER)](apps/streamcapture2.html)  |
 
 | [streamlink](apps/streamlink.md) |
 | ----- |
-| [<img src=icons/streamlink.png height=100>](apps/streamlink.md)  |
+| [![streamlink](ENTER)](apps/streamlink.html)  |
 
 | [streamon](apps/streamon.md) |
 | ----- |
-| [<img src=icons/streamon.png height=100>](apps/streamon.md)  |
+| [![streamon](ENTER)](apps/streamon.html)  |
 
 | [stretchly](apps/stretchly.md) |
 | ----- |
-| [<img src=icons/stretchly.png height=100>](apps/stretchly.md)  |
+| [![stretchly](ENTER)](apps/stretchly.html)  |
 
 | [stunt-car-remake](apps/stunt-car-remake.md) |
 | ----- |
-| [<img src=icons/stunt-car-remake.png height=100>](apps/stunt-car-remake.md)  |
+| [![stunt-car-remake](ENTER)](apps/stunt-car-remake.html)  |
 
 | [subillmanager](apps/subillmanager.md) |
 | ----- |
-| [<img src=icons/subillmanager.png height=100>](apps/subillmanager.md)  |
+| [![subillmanager](ENTER)](apps/subillmanager.html)  |
 
 | [substrate-ide](apps/substrate-ide.md) |
 | ----- |
-| [<img src=icons/substrate-ide.png height=100>](apps/substrate-ide.md)  |
+| [![substrate-ide](ENTER)](apps/substrate-ide.html)  |
 
 | [subsurface](apps/subsurface.md) |
 | ----- |
-| [<img src=icons/subsurface.png height=100>](apps/subsurface.md)  |
+| [![subsurface](ENTER)](apps/subsurface.html)  |
 
 | [subtitle-composer](apps/subtitle-composer.md) |
 | ----- |
-| [<img src=icons/subtitle-composer.png height=100>](apps/subtitle-composer.md)  |
+| [![subtitle-composer](ENTER)](apps/subtitle-composer.html)  |
 
 | [sugarizer](apps/sugarizer.md) |
 | ----- |
-| [<img src=icons/sugarizer.png height=100>](apps/sugarizer.md)  |
+| [![sugarizer](ENTER)](apps/sugarizer.html)  |
 
 | [sultanpos](apps/sultanpos.md) |
 | ----- |
-| [<img src=icons/sultanpos.png height=100>](apps/sultanpos.md)  |
+| [![sultanpos](ENTER)](apps/sultanpos.html)  |
 
 | [summoners.war.exporter](apps/summoners.war.exporter.md) |
 | ----- |
-| [<img src=icons/summoners.war.exporter.png height=100>](apps/summoners.war.exporter.md)  |
+| [![summoners.war.exporter](ENTER)](apps/summoners.war.exporter.html)  |
 
 | [sumoco](apps/sumoco.md) |
 | ----- |
-| [<img src=icons/sumoco.png height=100>](apps/sumoco.md)  |
+| [![sumoco](ENTER)](apps/sumoco.html)  |
 
 | [sunamu](apps/sunamu.md) |
 | ----- |
-| [<img src=icons/sunamu.png height=100>](apps/sunamu.md)  |
+| [![sunamu](ENTER)](apps/sunamu.html)  |
 
 | [sunsama-appimage](apps/sunsama-appimage.md) |
 | ----- |
-| [<img src=icons/sunsama-appimage.png height=100>](apps/sunsama-appimage.md)  |
+| [![sunsama-appimage](ENTER)](apps/sunsama-appimage.html)  |
 
 | [sunshine](apps/sunshine.md) |
 | ----- |
-| [<img src=icons/sunshine.png height=100>](apps/sunshine.md)  |
+| [![sunshine](ENTER)](apps/sunshine.html)  |
 
 | [sup](apps/sup.md) |
 | ----- |
-| [<img src=icons/sup.png height=100>](apps/sup.md)  |
+| [![sup](ENTER)](apps/sup.html)  |
 
 | [superpaper](apps/superpaper.md) |
 | ----- |
-| [<img src=icons/superpaper.png height=100>](apps/superpaper.md)  |
+| [![superpaper](ENTER)](apps/superpaper.html)  |
 
 | [superproductivity](apps/superproductivity.md) |
 | ----- |
-| [<img src=icons/superproductivity.png height=100>](apps/superproductivity.md)  |
+| [![superproductivity](ENTER)](apps/superproductivity.html)  |
 
 | [superslicer-bin](apps/superslicer-bin.md) |
 | ----- |
-| [<img src=icons/superslicer-bin.png height=100>](apps/superslicer-bin.md)  |
+| [![superslicer-bin](ENTER)](apps/superslicer-bin.html)  |
 
 | [supertag-appimage](apps/supertag-appimage.md) |
 | ----- |
-| [<img src=icons/supertag-appimage.png height=100>](apps/supertag-appimage.md)  |
+| [![supertag-appimage](ENTER)](apps/supertag-appimage.html)  |
 
 | [supertux2](apps/supertux2.md) |
 | ----- |
-| [<img src=icons/supertux2.png height=100>](apps/supertux2.md)  |
+| [![supertux2](ENTER)](apps/supertux2.html)  |
 
 | [supertuxkart](apps/supertuxkart.md) |
 | ----- |
-| [<img src=icons/supertuxkart.png height=100>](apps/supertuxkart.md)  |
+| [![supertuxkart](ENTER)](apps/supertuxkart.html)  |
 
 | [surfshark](apps/surfshark.md) |
 | ----- |
-| [<img src=icons/surfshark.png height=100>](apps/surfshark.md)  |
+| [![surfshark](ENTER)](apps/surfshark.html)  |
 
 | [swaglyrics](apps/swaglyrics.md) |
 | ----- |
-| [<img src=icons/swaglyrics.png height=100>](apps/swaglyrics.md)  |
+| [![swaglyrics](ENTER)](apps/swaglyrics.html)  |
 
 | [swc-minecraft-launcher](apps/swc-minecraft-launcher.md) |
 | ----- |
-| [<img src=icons/swc-minecraft-launcher.png height=100>](apps/swc-minecraft-launcher.md)  |
+| [![swc-minecraft-launcher](ENTER)](apps/swc-minecraft-launcher.html)  |
 
 | [sweeper](apps/sweeper.md) |
 | ----- |
-| [<img src=icons/sweeper.png height=100>](apps/sweeper.md)  |
+| [![sweeper](ENTER)](apps/sweeper.html)  |
 
 | [swift](apps/swift.md) |
 | ----- |
-| [<img src=icons/swift.png height=100>](apps/swift.md)  |
+| [![swift](ENTER)](apps/swift.html)  |
 
 | [swiftnessx](apps/swiftnessx.md) |
 | ----- |
-| [<img src=icons/swiftnessx.png height=100>](apps/swiftnessx.md)  |
+| [![swiftnessx](ENTER)](apps/swiftnessx.html)  |
 
 | [switchhosts](apps/switchhosts.md) |
 | ----- |
-| [<img src=icons/switchhosts.png height=100>](apps/switchhosts.md)  |
+| [![switchhosts](ENTER)](apps/switchhosts.html)  |
 
 | [swradio](apps/swradio.md) |
 | ----- |
-| [<img src=icons/swradio.png height=100>](apps/swradio.md)  |
+| [![swradio](ENTER)](apps/swradio.html)  |
 
 | [symphonium](apps/symphonium.md) |
 | ----- |
-| [<img src=icons/symphonium.png height=100>](apps/symphonium.md)  |
+| [![symphonium](ENTER)](apps/symphonium.html)  |
 
 | [symphonium](apps/symphonium.md) |
 | ----- |
-| [<img src=icons/symphonium.png height=100>](apps/symphonium.md)  |
+| [![symphonium](ENTER)](apps/symphonium.html)  |
 
 | [syncmyl2p](apps/syncmyl2p.md) |
 | ----- |
-| [<img src=icons/syncmyl2p.png height=100>](apps/syncmyl2p.md)  |
+| [![syncmyl2p](ENTER)](apps/syncmyl2p.html)  |
 
 | [syncplay](apps/syncplay.md) |
 | ----- |
-| [<img src=icons/syncplay.png height=100>](apps/syncplay.md)  |
+| [![syncplay](ENTER)](apps/syncplay.html)  |
 
 | [syncthing-tray](apps/syncthing-tray.md) |
 | ----- |
-| [<img src=icons/syncthing-tray.png height=100>](apps/syncthing-tray.md)  |
+| [![syncthing-tray](ENTER)](apps/syncthing-tray.html)  |
 
 | [synfigstudio](apps/synfigstudio.md) |
 | ----- |
-| [<img src=icons/synfigstudio.png height=100>](apps/synfigstudio.md)  |
+| [![synfigstudio](ENTER)](apps/synfigstudio.html)  |
 
 | [synthein](apps/synthein.md) |
 | ----- |
-| [<img src=icons/synthein.png height=100>](apps/synthein.md)  |
+| [![synthein](ENTER)](apps/synthein.html)  |
 
 | [synthv1](apps/synthv1.md) |
 | ----- |
-| [<img src=icons/synthv1.png height=100>](apps/synthv1.md)  |
+| [![synthv1](ENTER)](apps/synthv1.html)  |
 
 | [sys-journald-bin](apps/sys-journald-bin.md) |
 | ----- |
-| [<img src=icons/sys-journald-bin.png height=100>](apps/sys-journald-bin.md)  |
+| [![sys-journald-bin](ENTER)](apps/sys-journald-bin.html)  |
 
 | [szyszka](apps/szyszka.md) |
 | ----- |
-| [<img src=icons/szyszka.png height=100>](apps/szyszka.md)  |
+| [![szyszka](ENTER)](apps/szyszka.html)  |
 
 | [tablo-tools](apps/tablo-tools.md) |
 | ----- |
-| [<img src=icons/tablo-tools.png height=100>](apps/tablo-tools.md)  |
+| [![tablo-tools](ENTER)](apps/tablo-tools.html)  |
 
 | [tag-editor](apps/tag-editor.md) |
 | ----- |
-| [<img src=icons/tag-editor.png height=100>](apps/tag-editor.md)  |
+| [![tag-editor](ENTER)](apps/tag-editor.html)  |
 
 | [tagspaces](apps/tagspaces.md) |
 | ----- |
-| [<img src=icons/tagspaces.png height=100>](apps/tagspaces.md)  |
+| [![tagspaces](ENTER)](apps/tagspaces.html)  |
 
 | [tagstoo](apps/tagstoo.md) |
 | ----- |
-| [<img src=icons/tagstoo.png height=100>](apps/tagstoo.md)  |
+| [![tagstoo](ENTER)](apps/tagstoo.html)  |
 
 | [tagtime-desktop](apps/tagtime-desktop.md) |
 | ----- |
-| [<img src=icons/tagtime-desktop.png height=100>](apps/tagtime-desktop.md)  |
+| [![tagtime-desktop](ENTER)](apps/tagtime-desktop.html)  |
 
 | [taskizer](apps/taskizer.md) |
 | ----- |
-| [<img src=icons/taskizer.png height=100>](apps/taskizer.md)  |
+| [![taskizer](ENTER)](apps/taskizer.html)  |
 
 | [tastee-ui](apps/tastee-ui.md) |
 | ----- |
-| [<img src=icons/tastee-ui.png height=100>](apps/tastee-ui.md)  |
+| [![tastee-ui](ENTER)](apps/tastee-ui.html)  |
 
 | [tc](apps/tc.md) |
 | ----- |
-| [<img src=icons/tc.png height=100>](apps/tc.md)  |
+| [![tc](ENTER)](apps/tc.html)  |
 
 | [teams](apps/teams.md) |
 | ----- |
-| [<img src=icons/teams.png height=100>](apps/teams.md)  |
+| [![teams](ENTER)](apps/teams.html)  |
 
 | [teledrive](apps/teledrive.md) |
 | ----- |
-| [<img src=icons/teledrive.png height=100>](apps/teledrive.md)  |
+| [![teledrive](ENTER)](apps/teledrive.html)  |
 
 | [telegram-appimage](apps/telegram-appimage.md) |
 | ----- |
-| [<img src=icons/telegram-appimage.png height=100>](apps/telegram-appimage.md)  |
+| [![telegram-appimage](ENTER)](apps/telegram-appimage.html)  |
 
 | [telegram](apps/telegram.md) |
 | ----- |
-| [<img src=icons/telegram.png height=100>](apps/telegram.md)  |
+| [![telegram](ENTER)](apps/telegram.html)  |
 
 | [teslacam-browser](apps/teslacam-browser.md) |
 | ----- |
-| [<img src=icons/teslacam-browser.png height=100>](apps/teslacam-browser.md)  |
+| [![teslacam-browser](ENTER)](apps/teslacam-browser.html)  |
 
 | [tesseract](apps/tesseract.md) |
 | ----- |
-| [<img src=icons/tesseract.png height=100>](apps/tesseract.md)  |
+| [![tesseract](ENTER)](apps/tesseract.html)  |
 
 | [texstudio](apps/texstudio.md) |
 | ----- |
-| [<img src=icons/texstudio.png height=100>](apps/texstudio.md)  |
+| [![texstudio](ENTER)](apps/texstudio.html)  |
 
 | [textosaurus](apps/textosaurus.md) |
 | ----- |
-| [<img src=icons/textosaurus.png height=100>](apps/textosaurus.md)  |
+| [![textosaurus](ENTER)](apps/textosaurus.html)  |
 
 | [theframe](apps/theframe.md) |
 | ----- |
-| [<img src=icons/theframe.png height=100>](apps/theframe.md)  |
+| [![theframe](ENTER)](apps/theframe.html)  |
 
 | [theia-blueprint](apps/theia-blueprint.md) |
 | ----- |
-| [<img src=icons/theia-blueprint.png height=100>](apps/theia-blueprint.md)  |
+| [![theia-blueprint](ENTER)](apps/theia-blueprint.html)  |
 
 | [thermusqt](apps/thermusqt.md) |
 | ----- |
-| [<img src=icons/thermusqt.png height=100>](apps/thermusqt.md)  |
+| [![thermusqt](ENTER)](apps/thermusqt.html)  |
 
 | [theweb](apps/theweb.md) |
 | ----- |
-| [<img src=icons/theweb.png height=100>](apps/theweb.md)  |
+| [![theweb](ENTER)](apps/theweb.html)  |
 
 | [thinktool-desktop](apps/thinktool-desktop.md) |
 | ----- |
-| [<img src=icons/thinktool-desktop.png height=100>](apps/thinktool-desktop.md)  |
+| [![thinktool-desktop](ENTER)](apps/thinktool-desktop.html)  |
 
 | [thoptv-appimage](apps/thoptv-appimage.md) |
 | ----- |
-| [<img src=icons/thoptv-appimage.png height=100>](apps/thoptv-appimage.md)  |
+| [![thoptv-appimage](ENTER)](apps/thoptv-appimage.html)  |
 
 | [thorium-client](apps/thorium-client.md) |
 | ----- |
-| [<img src=icons/thorium-client.png height=100>](apps/thorium-client.md)  |
+| [![thorium-client](ENTER)](apps/thorium-client.html)  |
 
 | [thorium-reader](apps/thorium-reader.md) |
 | ----- |
-| [<img src=icons/thorium-reader.png height=100>](apps/thorium-reader.md)  |
+| [![thorium-reader](ENTER)](apps/thorium-reader.html)  |
 
 | [thorium](apps/thorium.md) |
 | ----- |
-| [<img src=icons/thorium.png height=100>](apps/thorium.md)  |
+| [![thorium](ENTER)](apps/thorium.html)  |
 
 | [thunderbird-appimage](apps/thunderbird-appimage.md) |
 | ----- |
-| [<img src=icons/thunderbird-appimage.png height=100>](apps/thunderbird-appimage.md)  |
+| [![thunderbird-appimage](ENTER)](apps/thunderbird-appimage.html)  |
 
 | [thunderbird-beta-appimage](apps/thunderbird-beta-appimage.md) |
 | ----- |
-| [<img src=icons/thunderbird-beta-appimage.png height=100>](apps/thunderbird-beta-appimage.md)  |
+| [![thunderbird-beta-appimage](ENTER)](apps/thunderbird-beta-appimage.html)  |
 
 | [thunderbird-beta](apps/thunderbird-beta.md) |
 | ----- |
-| [<img src=icons/thunderbird-beta.png height=100>](apps/thunderbird-beta.md)  |
+| [![thunderbird-beta](ENTER)](apps/thunderbird-beta.html)  |
 
 | [thunderbird](apps/thunderbird.md) |
 | ----- |
-| [<img src=icons/thunderbird.png height=100>](apps/thunderbird.md)  |
+| [![thunderbird](ENTER)](apps/thunderbird.html)  |
 
 | [thunderbird-nightly-appimage](apps/thunderbird-nightly-appimage.md) |
 | ----- |
-| [<img src=icons/thunderbird-nightly-appimage.png height=100>](apps/thunderbird-nightly-appimage.md)  |
+| [![thunderbird-nightly-appimage](ENTER)](apps/thunderbird-nightly-appimage.html)  |
 
 | [tidal-hifi-appimage](apps/tidal-hifi-appimage.md) |
 | ----- |
-| [<img src=icons/tidal-hifi-appimage.png height=100>](apps/tidal-hifi-appimage.md)  |
+| [![tidal-hifi-appimage](ENTER)](apps/tidal-hifi-appimage.html)  |
 
 | [tiled](apps/tiled.md) |
 | ----- |
-| [<img src=icons/tiled.png height=100>](apps/tiled.md)  |
+| [![tiled](ENTER)](apps/tiled.html)  |
 
 | [tilinggenerator](apps/tilinggenerator.md) |
 | ----- |
-| [<img src=icons/tilinggenerator.png height=100>](apps/tilinggenerator.md)  |
+| [![tilinggenerator](ENTER)](apps/tilinggenerator.html)  |
 
 | [timenaut-appimage](apps/timenaut-appimage.md) |
 | ----- |
-| [<img src=icons/timenaut-appimage.png height=100>](apps/timenaut-appimage.md)  |
+| [![timenaut-appimage](ENTER)](apps/timenaut-appimage.html)  |
 
 | [timer](apps/timer.md) |
 | ----- |
-| [<img src=icons/timer.png height=100>](apps/timer.md)  |
+| [![timer](ENTER)](apps/timer.html)  |
 
 | [tmon](apps/tmon.md) |
 | ----- |
-| [<img src=icons/tmon.png height=100>](apps/tmon.md)  |
+| [![tmon](ENTER)](apps/tmon.html)  |
 
 | [tmux-appimage](apps/tmux-appimage.md) |
 | ----- |
-| [<img src=icons/tmux-appimage.png height=100>](apps/tmux-appimage.md)  |
+| [![tmux-appimage](ENTER)](apps/tmux-appimage.html)  |
 
 | [tnt](apps/tnt.md) |
 | ----- |
-| [<img src=icons/tnt.png height=100>](apps/tnt.md)  |
+| [![tnt](ENTER)](apps/tnt.html)  |
 
 | [todoist](apps/todoist.md) |
 | ----- |
-| [<img src=icons/todoist.png height=100>](apps/todoist.md)  |
+| [![todoist](ENTER)](apps/todoist.html)  |
 
 | [todorust](apps/todorust.md) |
 | ----- |
-| [<img src=icons/todorust.png height=100>](apps/todorust.md)  |
+| [![todorust](ENTER)](apps/todorust.html)  |
 
 | [tonuino-toolbox](apps/tonuino-toolbox.md) |
 | ----- |
-| [<img src=icons/tonuino-toolbox.png height=100>](apps/tonuino-toolbox.md)  |
+| [![tonuino-toolbox](ENTER)](apps/tonuino-toolbox.html)  |
 
 | [tor-browser](apps/tor-browser.md) |
 | ----- |
-| [<img src=icons/tor-browser.png height=100>](apps/tor-browser.md)  |
+| [![tor-browser](ENTER)](apps/tor-browser.html)  |
 
 | [torrenttools](apps/torrenttools.md) |
 | ----- |
-| [<img src=icons/torrenttools.png height=100>](apps/torrenttools.md)  |
+| [![torrenttools](ENTER)](apps/torrenttools.html)  |
 
 | [trader](apps/trader.md) |
 | ----- |
-| [<img src=icons/trader.png height=100>](apps/trader.md)  |
+| [![trader](ENTER)](apps/trader.html)  |
 
 | [translatium](apps/translatium.md) |
 | ----- |
-| [<img src=icons/translatium.png height=100>](apps/translatium.md)  |
+| [![translatium](ENTER)](apps/translatium.html)  |
 
 | [treesheets](apps/treesheets.md) |
 | ----- |
-| [<img src=icons/treesheets.png height=100>](apps/treesheets.md)  |
+| [![treesheets](ENTER)](apps/treesheets.html)  |
 
 | [trezor-suite](apps/trezor-suite.md) |
 | ----- |
-| [<img src=icons/trezor-suite.png height=100>](apps/trezor-suite.md)  |
+| [![trezor-suite](ENTER)](apps/trezor-suite.html)  |
 
 | [triagem-touch](apps/triagem-touch.md) |
 | ----- |
-| [<img src=icons/triagem-touch.png height=100>](apps/triagem-touch.md)  |
+| [![triagem-touch](ENTER)](apps/triagem-touch.html)  |
 
 | [trinity-desktop](apps/trinity-desktop.md) |
 | ----- |
-| [<img src=icons/trinity-desktop.png height=100>](apps/trinity-desktop.md)  |
+| [![trinity-desktop](ENTER)](apps/trinity-desktop.html)  |
 
 | [tropy](apps/tropy.md) |
 | ----- |
-| [<img src=icons/tropy.png height=100>](apps/tropy.md)  |
+| [![tropy](ENTER)](apps/tropy.html)  |
 
 | [trudi](apps/trudi.md) |
 | ----- |
-| [<img src=icons/trudi.png height=100>](apps/trudi.md)  |
+| [![trudi](ENTER)](apps/trudi.html)  |
 
 | [tt](apps/tt.md) |
 | ----- |
-| [<img src=icons/tt.png height=100>](apps/tt.md)  |
+| [![tt](ENTER)](apps/tt.html)  |
 
 | [ttth](apps/ttth.md) |
 | ----- |
-| [<img src=icons/ttth.png height=100>](apps/ttth.md)  |
+| [![ttth](ENTER)](apps/ttth.html)  |
 
 | [tubcloud](apps/tubcloud.md) |
 | ----- |
-| [<img src=icons/tubcloud.png height=100>](apps/tubcloud.md)  |
+| [![tubcloud](ENTER)](apps/tubcloud.html)  |
 
 | [tulip](apps/tulip.md) |
 | ----- |
-| [<img src=icons/tulip.png height=100>](apps/tulip.md)  |
+| [![tulip](ENTER)](apps/tulip.html)  |
 
 | [tumblr-downloader-gui](apps/tumblr-downloader-gui.md) |
 | ----- |
-| [<img src=icons/tumblr-downloader-gui.png height=100>](apps/tumblr-downloader-gui.md)  |
+| [![tumblr-downloader-gui](ENTER)](apps/tumblr-downloader-gui.html)  |
 
 | [tumblr-scraper](apps/tumblr-scraper.md) |
 | ----- |
-| [<img src=icons/tumblr-scraper.png height=100>](apps/tumblr-scraper.md)  |
+| [![tumblr-scraper](ENTER)](apps/tumblr-scraper.html)  |
 
 | [tunepack](apps/tunepack.md) |
 | ----- |
-| [<img src=icons/tunepack.png height=100>](apps/tunepack.md)  |
+| [![tunepack](ENTER)](apps/tunepack.html)  |
 
 | [turbowarp](apps/turbowarp.md) |
 | ----- |
-| [<img src=icons/turbowarp.png height=100>](apps/turbowarp.md)  |
+| [![turbowarp](ENTER)](apps/turbowarp.html)  |
 
 | [turntable](apps/turntable.md) |
 | ----- |
-| [<img src=icons/turntable.png height=100>](apps/turntable.md)  |
+| [![turntable](ENTER)](apps/turntable.html)  |
 
 | [tusk](apps/tusk.md) |
 | ----- |
-| [<img src=icons/tusk.png height=100>](apps/tusk.md)  |
+| [![tusk](ENTER)](apps/tusk.html)  |
 
 | [tutanota](apps/tutanota.md) |
 | ----- |
-| [<img src=icons/tutanota.png height=100>](apps/tutanota.md)  |
+| [![tutanota](ENTER)](apps/tutanota.html)  |
 
 | [tvalb](apps/tvalb.md) |
 | ----- |
-| [<img src=icons/tvalb.png height=100>](apps/tvalb.md)  |
+| [![tvalb](ENTER)](apps/tvalb.html)  |
 
 | [t.viewer](apps/t.viewer.md) |
 | ----- |
-| [<img src=icons/t.viewer.png height=100>](apps/t.viewer.md)  |
+| [![t.viewer](ENTER)](apps/t.viewer.html)  |
 
 | [twake](apps/twake.md) |
 | ----- |
-| [<img src=icons/twake.png height=100>](apps/twake.md)  |
+| [![twake](ENTER)](apps/twake.html)  |
 
 | [tweaksophia](apps/tweaksophia.md) |
 | ----- |
-| [<img src=icons/tweaksophia.png height=100>](apps/tweaksophia.md)  |
+| [![tweaksophia](ENTER)](apps/tweaksophia.html)  |
 
 | [tweet-tray](apps/tweet-tray.md) |
 | ----- |
-| [<img src=icons/tweet-tray.png height=100>](apps/tweet-tray.md)  |
+| [![tweet-tray](ENTER)](apps/tweet-tray.html)  |
 
 | [twetter](apps/twetter.md) |
 | ----- |
-| [<img src=icons/twetter.png height=100>](apps/twetter.md)  |
+| [![twetter](ENTER)](apps/twetter.html)  |
 
 | [twitch-wrapper](apps/twitch-wrapper.md) |
 | ----- |
-| [<img src=icons/twitch-wrapper.png height=100>](apps/twitch-wrapper.md)  |
+| [![twitch-wrapper](ENTER)](apps/twitch-wrapper.html)  |
 
 | [ubpm](apps/ubpm.md) |
 | ----- |
-| [<img src=icons/ubpm.png height=100>](apps/ubpm.md)  |
+| [![ubpm](ENTER)](apps/ubpm.html)  |
 
 | [uhk-agent-appimage](apps/uhk-agent-appimage.md) |
 | ----- |
-| [<img src=icons/uhk-agent-appimage.png height=100>](apps/uhk-agent-appimage.md)  |
+| [![uhk-agent-appimage](ENTER)](apps/uhk-agent-appimage.html)  |
 
 | [uhk.agent](apps/uhk.agent.md) |
 | ----- |
-| [<img src=icons/uhk.agent.png height=100>](apps/uhk.agent.md)  |
+| [![uhk.agent](ENTER)](apps/uhk.agent.html)  |
 
 | [ultragrid](apps/ultragrid.md) |
 | ----- |
-| [<img src=icons/ultragrid.png height=100>](apps/ultragrid.md)  |
+| [![ultragrid](ENTER)](apps/ultragrid.html)  |
 
 | [ultrascreen](apps/ultrascreen.md) |
 | ----- |
-| [<img src=icons/ultrascreen.png height=100>](apps/ultrascreen.md)  |
+| [![ultrascreen](ENTER)](apps/ultrascreen.html)  |
 
 | [uncov](apps/uncov.md) |
 | ----- |
-| [<img src=icons/uncov.png height=100>](apps/uncov.md)  |
+| [![uncov](ENTER)](apps/uncov.html)  |
 
 | [ungoogled-chromium-appimage](apps/ungoogled-chromium-appimage.md) |
 | ----- |
-| [<img src=icons/ungoogled-chromium-appimage.png height=100>](apps/ungoogled-chromium-appimage.md)  |
+| [![ungoogled-chromium-appimage](ENTER)](apps/ungoogled-chromium-appimage.html)  |
 
 | [ungoogled-chromium](apps/ungoogled-chromium.md) |
 | ----- |
-| [<img src=icons/ungoogled-chromium.png height=100>](apps/ungoogled-chromium.md)  |
+| [![ungoogled-chromium](ENTER)](apps/ungoogled-chromium.html)  |
 
 | [unified-communications](apps/unified-communications.md) |
 | ----- |
-| [<img src=icons/unified-communications.png height=100>](apps/unified-communications.md)  |
+| [![unified-communications](ENTER)](apps/unified-communications.html)  |
 
 | [unishellect](apps/unishellect.md) |
 | ----- |
-| [<img src=icons/unishellect.png height=100>](apps/unishellect.md)  |
+| [![unishellect](ENTER)](apps/unishellect.html)  |
 
 | [unityhub](apps/unityhub.md) |
 | ----- |
-| [<img src=icons/unityhub.png height=100>](apps/unityhub.md)  |
+| [![unityhub](ENTER)](apps/unityhub.html)  |
 
 | [unoffical-sonos-controller-for-linux](apps/unoffical-sonos-controller-for-linux.md) |
 | ----- |
-| [<img src=icons/unoffical-sonos-controller-for-linux.png height=100>](apps/unoffical-sonos-controller-for-linux.md)  |
+| [![unoffical-sonos-controller-for-linux](ENTER)](apps/unoffical-sonos-controller-for-linux.html)  |
 
 | [unofficial-zalo](apps/unofficial-zalo.md) |
 | ----- |
-| [<img src=icons/unofficial-zalo.png height=100>](apps/unofficial-zalo.md)  |
+| [![unofficial-zalo](ENTER)](apps/unofficial-zalo.html)  |
 
 | [unreel](apps/unreel.md) |
 | ----- |
-| [<img src=icons/unreel.png height=100>](apps/unreel.md)  |
+| [![unreel](ENTER)](apps/unreel.html)  |
 
 | [updatedeployqt](apps/updatedeployqt.md) |
 | ----- |
-| [<img src=icons/updatedeployqt.png height=100>](apps/updatedeployqt.md)  |
+| [![updatedeployqt](ENTER)](apps/updatedeployqt.html)  |
 
 | [upscayl-appimage](apps/upscayl-appimage.md) |
 | ----- |
-| [<img src=icons/upscayl-appimage.png height=100>](apps/upscayl-appimage.md)  |
+| [![upscayl-appimage](ENTER)](apps/upscayl-appimage.html)  |
 
 | [upterm](apps/upterm.md) |
 | ----- |
-| [<img src=icons/upterm.png height=100>](apps/upterm.md)  |
+| [![upterm](ENTER)](apps/upterm.html)  |
 
 | [v2ray-desktop](apps/v2ray-desktop.md) |
 | ----- |
-| [<img src=icons/v2ray-desktop.png height=100>](apps/v2ray-desktop.md)  |
+| [![v2ray-desktop](ENTER)](apps/v2ray-desktop.html)  |
 
 | [valeronoi](apps/valeronoi.md) |
 | ----- |
-| [<img src=icons/valeronoi.png height=100>](apps/valeronoi.md)  |
+| [![valeronoi](ENTER)](apps/valeronoi.html)  |
 
 | [vechain](apps/vechain.md) |
 | ----- |
-| [<img src=icons/vechain.png height=100>](apps/vechain.md)  |
+| [![vechain](ENTER)](apps/vechain.html)  |
 
 | [ventoy](apps/ventoy.md) |
 | ----- |
-| [<img src=icons/ventoy.png height=100>](apps/ventoy.md)  |
+| [![ventoy](ENTER)](apps/ventoy.html)  |
 
 | [verto](apps/verto.md) |
 | ----- |
-| [<img src=icons/verto.png height=100>](apps/verto.md)  |
+| [![verto](ENTER)](apps/verto.html)  |
 
 | [vessel](apps/vessel.md) |
 | ----- |
-| [<img src=icons/vessel.png height=100>](apps/vessel.md)  |
+| [![vessel](ENTER)](apps/vessel.html)  |
 
 | [via-appimage](apps/via-appimage.md) |
 | ----- |
-| [<img src=icons/via-appimage.png height=100>](apps/via-appimage.md)  |
+| [![via-appimage](ENTER)](apps/via-appimage.html)  |
 
 | [vial-appimage](apps/vial-appimage.md) |
 | ----- |
-| [<img src=icons/vial-appimage.png height=100>](apps/vial-appimage.md)  |
+| [![vial-appimage](ENTER)](apps/vial-appimage.html)  |
 
 | [viber](apps/viber.md) |
 | ----- |
-| [<img src=icons/viber.png height=100>](apps/viber.md)  |
+| [![viber](ENTER)](apps/viber.html)  |
 
 | [vidcutter](apps/vidcutter.md) |
 | ----- |
-| [<img src=icons/vidcutter.png height=100>](apps/vidcutter.md)  |
+| [![vidcutter](ENTER)](apps/vidcutter.html)  |
 
 | [video-hub](apps/video-hub.md) |
 | ----- |
-| [<img src=icons/video-hub.png height=100>](apps/video-hub.md)  |
+| [![video-hub](ENTER)](apps/video-hub.html)  |
 
 | [videomass](apps/videomass.md) |
 | ----- |
-| [<img src=icons/videomass.png height=100>](apps/videomass.md)  |
+| [![videomass](ENTER)](apps/videomass.html)  |
 
 | [vieb](apps/vieb.md) |
 | ----- |
-| [<img src=icons/vieb.png height=100>](apps/vieb.md)  |
+| [![vieb](ENTER)](apps/vieb.html)  |
 
 | [vifm](apps/vifm.md) |
 | ----- |
-| [<img src=icons/vifm.png height=100>](apps/vifm.md)  |
+| [![vifm](ENTER)](apps/vifm.html)  |
 
 | [vikunja](apps/vikunja.md) |
 | ----- |
-| [<img src=icons/vikunja.png height=100>](apps/vikunja.md)  |
+| [![vikunja](ENTER)](apps/vikunja.html)  |
 
 | [violetbug](apps/violetbug.md) |
 | ----- |
-| [<img src=icons/violetbug.png height=100>](apps/violetbug.md)  |
+| [![violetbug](ENTER)](apps/violetbug.html)  |
 
 | [viper-browser](apps/viper-browser.md) |
 | ----- |
-| [<img src=icons/viper-browser.png height=100>](apps/viper-browser.md)  |
+| [![viper-browser](ENTER)](apps/viper-browser.html)  |
 
 | [vipster](apps/vipster.md) |
 | ----- |
-| [<img src=icons/vipster.png height=100>](apps/vipster.md)  |
+| [![vipster](ENTER)](apps/vipster.html)  |
 
 | [vircadia](apps/vircadia.md) |
 | ----- |
-| [<img src=icons/vircadia.png height=100>](apps/vircadia.md)  |
+| [![vircadia](ENTER)](apps/vircadia.html)  |
 
 | [virtscreen](apps/virtscreen.md) |
 | ----- |
-| [<img src=icons/virtscreen.png height=100>](apps/virtscreen.md)  |
+| [![virtscreen](ENTER)](apps/virtscreen.html)  |
 
 | [visual-define-xml-editor](apps/visual-define-xml-editor.md) |
 | ----- |
-| [<img src=icons/visual-define-xml-editor.png height=100>](apps/visual-define-xml-editor.md)  |
+| [![visual-define-xml-editor](ENTER)](apps/visual-define-xml-editor.html)  |
 
 | [vitomu](apps/vitomu.md) |
 | ----- |
-| [<img src=icons/vitomu.png height=100>](apps/vitomu.md)  |
+| [![vitomu](ENTER)](apps/vitomu.html)  |
 
 | [vivaldi-snapshot](apps/vivaldi-snapshot.md) |
 | ----- |
-| [<img src=icons/vivaldi-snapshot.png height=100>](apps/vivaldi-snapshot.md)  |
+| [![vivaldi-snapshot](ENTER)](apps/vivaldi-snapshot.html)  |
 
 | [vivaldi-stable](apps/vivaldi-stable.md) |
 | ----- |
-| [<img src=icons/vivaldi-stable.png height=100>](apps/vivaldi-stable.md)  |
+| [![vivaldi-stable](ENTER)](apps/vivaldi-stable.html)  |
 
 | [vivifyscrum](apps/vivifyscrum.md) |
 | ----- |
-| [<img src=icons/vivifyscrum.png height=100>](apps/vivifyscrum.md)  |
+| [![vivifyscrum](ENTER)](apps/vivifyscrum.html)  |
 
 | [vizgraph](apps/vizgraph.md) |
 | ----- |
-| [<img src=icons/vizgraph.png height=100>](apps/vizgraph.md)  |
+| [![vizgraph](ENTER)](apps/vizgraph.html)  |
 
 | [vk-desktop](apps/vk-desktop.md) |
 | ----- |
-| [<img src=icons/vk-desktop.png height=100>](apps/vk-desktop.md)  |
+| [![vk-desktop](ENTER)](apps/vk-desktop.html)  |
 
 | [vk-music-fs](apps/vk-music-fs.md) |
 | ----- |
-| [<img src=icons/vk-music-fs.png height=100>](apps/vk-music-fs.md)  |
+| [![vk-music-fs](ENTER)](apps/vk-music-fs.html)  |
 
 | [vlc-cmatomic](apps/vlc-cmatomic.md) |
 | ----- |
-| [<img src=icons/vlc-cmatomic.png height=100>](apps/vlc-cmatomic.md)  |
+| [![vlc-cmatomic](ENTER)](apps/vlc-cmatomic.html)  |
 
 | [vlc](apps/vlc.md) |
 | ----- |
-| [<img src=icons/vlc.png height=100>](apps/vlc.md)  |
+| [![vlc](ENTER)](apps/vlc.html)  |
 
 | [vlc-icflorescu](apps/vlc-icflorescu.md) |
 | ----- |
-| [<img src=icons/vlc-icflorescu.png height=100>](apps/vlc-icflorescu.md)  |
+| [![vlc-icflorescu](ENTER)](apps/vlc-icflorescu.html)  |
 
 | [vlc+](apps/vlc+.md) |
 | ----- |
-| [<img src=icons/vlc+.png height=100>](apps/vlc+.md)  |
+| [![vlc+](ENTER)](apps/vlc+.html)  |
 
 | [vnote](apps/vnote.md) |
 | ----- |
-| [<img src=icons/vnote.png height=100>](apps/vnote.md)  |
+| [![vnote](ENTER)](apps/vnote.html)  |
 
 | [vpaint](apps/vpaint.md) |
 | ----- |
-| [<img src=icons/vpaint.png height=100>](apps/vpaint.md)  |
+| [![vpaint](ENTER)](apps/vpaint.html)  |
 
 | [vrest-ng](apps/vrest-ng.md) |
 | ----- |
-| [<img src=icons/vrest-ng.png height=100>](apps/vrest-ng.md)  |
+| [![vrest-ng](ENTER)](apps/vrest-ng.html)  |
 
 | [vscodium](apps/vscodium.md) |
 | ----- |
-| [<img src=icons/vscodium.png height=100>](apps/vscodium.md)  |
+| [![vscodium](ENTER)](apps/vscodium.html)  |
 
 | [vue-calc](apps/vue-calc.md) |
 | ----- |
-| [<img src=icons/vue-calc.png height=100>](apps/vue-calc.md)  |
+| [![vue-calc](ENTER)](apps/vue-calc.html)  |
 
 | [vuerd](apps/vuerd.md) |
 | ----- |
-| [<img src=icons/vuerd.png height=100>](apps/vuerd.md)  |
+| [![vuerd](ENTER)](apps/vuerd.html)  |
 
 | [vulkan-hardware-capability-viewer-wayland](apps/vulkan-hardware-capability-viewer-wayland.md) |
 | ----- |
-| [<img src=icons/vulkan-hardware-capability-viewer-wayland.png height=100>](apps/vulkan-hardware-capability-viewer-wayland.md)  |
+| [![vulkan-hardware-capability-viewer-wayland](ENTER)](apps/vulkan-hardware-capability-viewer-wayland.html)  |
 
 | [vulkan-hardware-capability-viewer-x11](apps/vulkan-hardware-capability-viewer-x11.md) |
 | ----- |
-| [<img src=icons/vulkan-hardware-capability-viewer-x11.png height=100>](apps/vulkan-hardware-capability-viewer-x11.md)  |
+| [![vulkan-hardware-capability-viewer-x11](ENTER)](apps/vulkan-hardware-capability-viewer-x11.html)  |
 
 | [walc](apps/walc.md) |
 | ----- |
-| [<img src=icons/walc.png height=100>](apps/walc.md)  |
+| [![walc](ENTER)](apps/walc.html)  |
 
 | [walletshell](apps/walletshell.md) |
 | ----- |
-| [<img src=icons/walletshell.png height=100>](apps/walletshell.md)  |
+| [![walletshell](ENTER)](apps/walletshell.html)  |
 
 | [wallettech](apps/wallettech.md) |
 | ----- |
-| [<img src=icons/wallettech.png height=100>](apps/wallettech.md)  |
+| [![wallettech](ENTER)](apps/wallettech.html)  |
 
 | [watched](apps/watched.md) |
 | ----- |
-| [<img src=icons/watched.png height=100>](apps/watched.md)  |
+| [![watched](ENTER)](apps/watched.html)  |
 
 | [watchflower](apps/watchflower.md) |
 | ----- |
-| [<img src=icons/watchflower.png height=100>](apps/watchflower.md)  |
+| [![watchflower](ENTER)](apps/watchflower.html)  |
 
 | [watchit](apps/watchit.md) |
 | ----- |
-| [<img src=icons/watchit.png height=100>](apps/watchit.md)  |
+| [![watchit](ENTER)](apps/watchit.html)  |
 
 | [waterfox-classic](apps/waterfox-classic.md) |
 | ----- |
-| [<img src=icons/waterfox-classic.png height=100>](apps/waterfox-classic.md)  |
+| [![waterfox-classic](ENTER)](apps/waterfox-classic.html)  |
 
 | [waterfox-fourth-generation](apps/waterfox-fourth-generation.md) |
 | ----- |
-| [<img src=icons/waterfox-fourth-generation.png height=100>](apps/waterfox-fourth-generation.md)  |
+| [![waterfox-fourth-generation](ENTER)](apps/waterfox-fourth-generation.html)  |
 
 | [waterfox-third-generation](apps/waterfox-third-generation.md) |
 | ----- |
-| [<img src=icons/waterfox-third-generation.png height=100>](apps/waterfox-third-generation.md)  |
+| [![waterfox-third-generation](ENTER)](apps/waterfox-third-generation.html)  |
 
 | [wavebox](apps/wavebox.md) |
 | ----- |
-| [<img src=icons/wavebox.png height=100>](apps/wavebox.md)  |
+| [![wavebox](ENTER)](apps/wavebox.html)  |
 
 | [wazo-desktop-appimage](apps/wazo-desktop-appimage.md) |
 | ----- |
-| [<img src=icons/wazo-desktop-appimage.png height=100>](apps/wazo-desktop-appimage.md)  |
+| [![wazo-desktop-appimage](ENTER)](apps/wazo-desktop-appimage.html)  |
 
 | [weatherdump](apps/weatherdump.md) |
 | ----- |
-| [<img src=icons/weatherdump.png height=100>](apps/weatherdump.md)  |
+| [![weatherdump](ENTER)](apps/weatherdump.html)  |
 
 | [webamp](apps/webamp.md) |
 | ----- |
-| [<img src=icons/webamp.png height=100>](apps/webamp.md)  |
+| [![webamp](ENTER)](apps/webamp.html)  |
 
 | [webcamoid](apps/webcamoid.md) |
 | ----- |
-| [<img src=icons/webcamoid.png height=100>](apps/webcamoid.md)  |
+| [![webcamoid](ENTER)](apps/webcamoid.html)  |
 
 | [webcord](apps/webcord.md) |
 | ----- |
-| [<img src=icons/webcord.png height=100>](apps/webcord.md)  |
+| [![webcord](ENTER)](apps/webcord.html)  |
 
 | [webdesktop](apps/webdesktop.md) |
 | ----- |
-| [<img src=icons/webdesktop.png height=100>](apps/webdesktop.md)  |
+| [![webdesktop](ENTER)](apps/webdesktop.html)  |
 
 | [webitel-phone](apps/webitel-phone.md) |
 | ----- |
-| [<img src=icons/webitel-phone.png height=100>](apps/webitel-phone.md)  |
+| [![webitel-phone](ENTER)](apps/webitel-phone.html)  |
 
 | [westeroscraftlauncher](apps/westeroscraftlauncher.md) |
 | ----- |
-| [<img src=icons/westeroscraftlauncher.png height=100>](apps/westeroscraftlauncher.md)  |
+| [![westeroscraftlauncher](ENTER)](apps/westeroscraftlauncher.html)  |
 
 | [wewechat](apps/wewechat.md) |
 | ----- |
-| [<img src=icons/wewechat.png height=100>](apps/wewechat.md)  |
+| [![wewechat](ENTER)](apps/wewechat.html)  |
 
 | [wexond](apps/wexond.md) |
 | ----- |
-| [<img src=icons/wexond.png height=100>](apps/wexond.md)  |
+| [![wexond](ENTER)](apps/wexond.html)  |
 
 | [wezterm](apps/wezterm.md) |
 | ----- |
-| [<img src=icons/wezterm.png height=100>](apps/wezterm.md)  |
+| [![wezterm](ENTER)](apps/wezterm.html)  |
 
 | [whalebird](apps/whalebird.md) |
 | ----- |
-| [<img src=icons/whalebird.png height=100>](apps/whalebird.md)  |
+| [![whalebird](ENTER)](apps/whalebird.html)  |
 
 | [whatsapp-for-linux](apps/whatsapp-for-linux.md) |
 | ----- |
-| [<img src=icons/whatsapp-for-linux.png height=100>](apps/whatsapp-for-linux.md)  |
+| [![whatsapp-for-linux](ENTER)](apps/whatsapp-for-linux.html)  |
 
 | [whatsapp-nativefier](apps/whatsapp-nativefier.md) |
 | ----- |
-| [<img src=icons/whatsapp-nativefier.png height=100>](apps/whatsapp-nativefier.md)  |
+| [![whatsapp-nativefier](ENTER)](apps/whatsapp-nativefier.html)  |
 
 | [whirlpool-gui-appimage](apps/whirlpool-gui-appimage.md) |
 | ----- |
-| [<img src=icons/whirlpool-gui-appimage.png height=100>](apps/whirlpool-gui-appimage.md)  |
+| [![whirlpool-gui-appimage](ENTER)](apps/whirlpool-gui-appimage.html)  |
 
 | [whiteboard](apps/whiteboard.md) |
 | ----- |
-| [<img src=icons/whiteboard.png height=100>](apps/whiteboard.md)  |
+| [![whiteboard](ENTER)](apps/whiteboard.html)  |
 
 | [whu-library-seat](apps/whu-library-seat.md) |
 | ----- |
-| [<img src=icons/whu-library-seat.png height=100>](apps/whu-library-seat.md)  |
+| [![whu-library-seat](ENTER)](apps/whu-library-seat.html)  |
 
 | [widelands-appimage](apps/widelands-appimage.md) |
 | ----- |
-| [<img src=icons/widelands-appimage.png height=100>](apps/widelands-appimage.md)  |
+| [![widelands-appimage](ENTER)](apps/widelands-appimage.html)  |
 
 | [windows2usb](apps/windows2usb.md) |
 | ----- |
-| [<img src=icons/windows2usb.png height=100>](apps/windows2usb.md)  |
+| [![windows2usb](ENTER)](apps/windows2usb.html)  |
 
 | [windows95](apps/windows95.md) |
 | ----- |
-| [<img src=icons/windows95.png height=100>](apps/windows95.md)  |
+| [![windows95](ENTER)](apps/windows95.html)  |
 
 | [wine32](apps/wine32.md) |
 | ----- |
-| [<img src=icons/wine32.png height=100>](apps/wine32.md)  |
+| [![wine32](ENTER)](apps/wine32.html)  |
 
 | [wine32-deploy](apps/wine32-deploy.md) |
 | ----- |
-| [<img src=icons/wine32-deploy.png height=100>](apps/wine32-deploy.md)  |
+| [![wine32-deploy](ENTER)](apps/wine32-deploy.html)  |
 
 | [wine-4.21](apps/wine-4.21.md) |
 | ----- |
-| [<img src=icons/wine-4.21.png height=100>](apps/wine-4.21.md)  |
+| [![wine-4.21](ENTER)](apps/wine-4.21.html)  |
 
 | [wine-5.11](apps/wine-5.11.md) |
 | ----- |
-| [<img src=icons/wine-5.11.png height=100>](apps/wine-5.11.md)  |
+| [![wine-5.11](ENTER)](apps/wine-5.11.html)  |
 
 | [wine-6.0.1](apps/wine-6.0.1.md) |
 | ----- |
-| [<img src=icons/wine-6.0.1.png height=100>](apps/wine-6.0.1.md)  |
+| [![wine-6.0.1](ENTER)](apps/wine-6.0.1.html)  |
 
 | [wine-devel](apps/wine-devel.md) |
 | ----- |
-| [<img src=icons/wine-devel.png height=100>](apps/wine-devel.md)  |
+| [![wine-devel](ENTER)](apps/wine-devel.html)  |
 
 | [wine-stable](apps/wine-stable.md) |
 | ----- |
-| [<img src=icons/wine-stable.png height=100>](apps/wine-stable.md)  |
+| [![wine-stable](ENTER)](apps/wine-stable.html)  |
 
 | [wine-staging](apps/wine-staging.md) |
 | ----- |
-| [<img src=icons/wine-staging.png height=100>](apps/wine-staging.md)  |
+| [![wine-staging](ENTER)](apps/wine-staging.html)  |
 
 | [wire](apps/wire.md) |
 | ----- |
-| [<img src=icons/wire.png height=100>](apps/wire.md)  |
+| [![wire](ENTER)](apps/wire.html)  |
 
 | [wishdemo](apps/wishdemo.md) |
 | ----- |
-| [<img src=icons/wishdemo.png height=100>](apps/wishdemo.md)  |
+| [![wishdemo](ENTER)](apps/wishdemo.html)  |
 
 | [wiz](apps/wiz.md) |
 | ----- |
-| [<img src=icons/wiz.png height=100>](apps/wiz.md)  |
+| [![wiz](ENTER)](apps/wiz.html)  |
 
 | [woke](apps/woke.md) |
 | ----- |
-| [<img src=icons/woke.png height=100>](apps/woke.md)  |
+| [![woke](ENTER)](apps/woke.html)  |
 
 | [wonderpen-appimage](apps/wonderpen-appimage.md) |
 | ----- |
-| [<img src=icons/wonderpen-appimage.png height=100>](apps/wonderpen-appimage.md)  |
+| [![wonderpen-appimage](ENTER)](apps/wonderpen-appimage.html)  |
 
 | [wonderwall](apps/wonderwall.md) |
 | ----- |
-| [<img src=icons/wonderwall.png height=100>](apps/wonderwall.md)  |
+| [![wonderwall](ENTER)](apps/wonderwall.html)  |
 
 | [wootility-appimage](apps/wootility-appimage.md) |
 | ----- |
-| [<img src=icons/wootility-appimage.png height=100>](apps/wootility-appimage.md)  |
+| [![wootility-appimage](ENTER)](apps/wootility-appimage.html)  |
 
 | [wootility-lekker-appimage](apps/wootility-lekker-appimage.md) |
 | ----- |
-| [<img src=icons/wootility-lekker-appimage.png height=100>](apps/wootility-lekker-appimage.md)  |
+| [![wootility-lekker-appimage](ENTER)](apps/wootility-lekker-appimage.html)  |
 
 | [workbench](apps/workbench.md) |
 | ----- |
-| [<img src=icons/workbench.png height=100>](apps/workbench.md)  |
+| [![workbench](ENTER)](apps/workbench.html)  |
 
 | [workflowy](apps/workflowy.md) |
 | ----- |
-| [<img src=icons/workflowy.png height=100>](apps/workflowy.md)  |
+| [![workflowy](ENTER)](apps/workflowy.html)  |
 
 | [wps-office-appimage](apps/wps-office-appimage.md) |
 | ----- |
-| [<img src=icons/wps-office-appimage.png height=100>](apps/wps-office-appimage.md)  |
+| [![wps-office-appimage](ENTER)](apps/wps-office-appimage.html)  |
 
 | [wrapbox](apps/wrapbox.md) |
 | ----- |
-| [<img src=icons/wrapbox.png height=100>](apps/wrapbox.md)  |
+| [![wrapbox](ENTER)](apps/wrapbox.html)  |
 
 | [wsocks](apps/wsocks.md) |
 | ----- |
-| [<img src=icons/wsocks.png height=100>](apps/wsocks.md)  |
+| [![wsocks](ENTER)](apps/wsocks.html)  |
 
 | [wxmaxima](apps/wxmaxima.md) |
 | ----- |
-| [<img src=icons/wxmaxima.png height=100>](apps/wxmaxima.md)  |
+| [![wxmaxima](ENTER)](apps/wxmaxima.html)  |
 
 | [wxmedit](apps/wxmedit.md) |
 | ----- |
-| [<img src=icons/wxmedit.png height=100>](apps/wxmedit.md)  |
+| [![wxmedit](ENTER)](apps/wxmedit.html)  |
 
 | [xchat](apps/xchat.md) |
 | ----- |
-| [<img src=icons/xchat.png height=100>](apps/xchat.md)  |
+| [![xchat](ENTER)](apps/xchat.html)  |
 
 | [xclicker](apps/xclicker.md) |
 | ----- |
-| [<img src=icons/xclicker.png height=100>](apps/xclicker.md)  |
+| [![xclicker](ENTER)](apps/xclicker.html)  |
 
 | [xcloud-desktop-appimage](apps/xcloud-desktop-appimage.md) |
 | ----- |
-| [<img src=icons/xcloud-desktop-appimage.png height=100>](apps/xcloud-desktop-appimage.md)  |
+| [![xcloud-desktop-appimage](ENTER)](apps/xcloud-desktop-appimage.html)  |
 
 | [xde](apps/xde.md) |
 | ----- |
-| [<img src=icons/xde.png height=100>](apps/xde.md)  |
+| [![xde](ENTER)](apps/xde.html)  |
 
 | [xelfviewer](apps/xelfviewer.md) |
 | ----- |
-| [<img src=icons/xelfviewer.png height=100>](apps/xelfviewer.md)  |
+| [![xelfviewer](ENTER)](apps/xelfviewer.html)  |
 
 | [xlights](apps/xlights.md) |
 | ----- |
-| [<img src=icons/xlights.png height=100>](apps/xlights.md)  |
+| [![xlights](ENTER)](apps/xlights.html)  |
 
 | [x-loc](apps/x-loc.md) |
 | ----- |
-| [<img src=icons/x-loc.png height=100>](apps/x-loc.md)  |
+| [![x-loc](ENTER)](apps/x-loc.html)  |
 
 | [xmedcon](apps/xmedcon.md) |
 | ----- |
-| [<img src=icons/xmedcon.png height=100>](apps/xmedcon.md)  |
+| [![xmedcon](ENTER)](apps/xmedcon.html)  |
 
 | [xnviewmp](apps/xnviewmp.md) |
 | ----- |
-| [<img src=icons/xnviewmp.png height=100>](apps/xnviewmp.md)  |
+| [![xnviewmp](ENTER)](apps/xnviewmp.html)  |
 
 | [xonsh](apps/xonsh.md) |
 | ----- |
-| [<img src=icons/xonsh.png height=100>](apps/xonsh.md)  |
+| [![xonsh](ENTER)](apps/xonsh.html)  |
 
 | [xournal++](apps/xournal++.md) |
 | ----- |
-| [<img src=icons/xournal++.png height=100>](apps/xournal++.md)  |
+| [![xournal++](ENTER)](apps/xournal++.html)  |
 
 | [xpeviewer](apps/xpeviewer.md) |
 | ----- |
-| [<img src=icons/xpeviewer.png height=100>](apps/xpeviewer.md)  |
+| [![xpeviewer](ENTER)](apps/xpeviewer.html)  |
 
 | [xxh-appimage](apps/xxh-appimage.md) |
 | ----- |
-| [<img src=icons/xxh-appimage.png height=100>](apps/xxh-appimage.md)  |
+| [![xxh-appimage](ENTER)](apps/xxh-appimage.html)  |
 
 | [yangdownloader-appimage](apps/yangdownloader-appimage.md) |
 | ----- |
-| [<img src=icons/yangdownloader-appimage.png height=100>](apps/yangdownloader-appimage.md)  |
+| [![yangdownloader-appimage](ENTER)](apps/yangdownloader-appimage.html)  |
 
 | [yesplaymusic](apps/yesplaymusic.md) |
 | ----- |
-| [<img src=icons/yesplaymusic.png height=100>](apps/yesplaymusic.md)  |
+| [![yesplaymusic](ENTER)](apps/yesplaymusic.html)  |
 
 | [youtube-music](apps/youtube-music.md) |
 | ----- |
-| [<img src=icons/youtube-music.png height=100>](apps/youtube-music.md)  |
+| [![youtube-music](ENTER)](apps/youtube-music.html)  |
 
 | [youtubesearchfilter](apps/youtubesearchfilter.md) |
 | ----- |
-| [<img src=icons/youtubesearchfilter.png height=100>](apps/youtubesearchfilter.md)  |
+| [![youtubesearchfilter](ENTER)](apps/youtubesearchfilter.html)  |
 
 | [ytdownloader](apps/ytdownloader.md) |
 | ----- |
-| [<img src=icons/ytdownloader.png height=100>](apps/ytdownloader.md)  |
+| [![ytdownloader](ENTER)](apps/ytdownloader.html)  |
 
 | [ytmdesktop](apps/ytmdesktop.md) |
 | ----- |
-| [<img src=icons/ytmdesktop.png height=100>](apps/ytmdesktop.md)  |
+| [![ytmdesktop](ENTER)](apps/ytmdesktop.html)  |
 
 | [yubikey-manager](apps/yubikey-manager.md) |
 | ----- |
-| [<img src=icons/yubikey-manager.png height=100>](apps/yubikey-manager.md)  |
+| [![yubikey-manager](ENTER)](apps/yubikey-manager.html)  |
 
 | [yuna](apps/yuna.md) |
 | ----- |
-| [<img src=icons/yuna.png height=100>](apps/yuna.md)  |
+| [![yuna](ENTER)](apps/yuna.html)  |
 
 | [yuview](apps/yuview.md) |
 | ----- |
-| [<img src=icons/yuview.png height=100>](apps/yuview.md)  |
+| [![yuview](ENTER)](apps/yuview.html)  |
 
 | [zap](apps/zap.md) |
 | ----- |
-| [<img src=icons/zap.png height=100>](apps/zap.md)  |
+| [![zap](ENTER)](apps/zap.html)  |
 
 | [zapdesktop](apps/zapdesktop.md) |
 | ----- |
-| [<img src=icons/zapdesktop.png height=100>](apps/zapdesktop.md)  |
+| [![zapdesktop](ENTER)](apps/zapdesktop.html)  |
 
 | [zegarek](apps/zegarek.md) |
 | ----- |
-| [<img src=icons/zegarek.png height=100>](apps/zegarek.md)  |
+| [![zegarek](ENTER)](apps/zegarek.html)  |
 
 | [zegrapher](apps/zegrapher.md) |
 | ----- |
-| [<img src=icons/zegrapher.png height=100>](apps/zegrapher.md)  |
+| [![zegrapher](ENTER)](apps/zegrapher.html)  |
 
 | [zenkit](apps/zenkit.md) |
 | ----- |
-| [<img src=icons/zenkit.png height=100>](apps/zenkit.md)  |
+| [![zenkit](ENTER)](apps/zenkit.html)  |
 
 | [zenroomstudio](apps/zenroomstudio.md) |
 | ----- |
-| [<img src=icons/zenroomstudio.png height=100>](apps/zenroomstudio.md)  |
+| [![zenroomstudio](ENTER)](apps/zenroomstudio.html)  |
 
 | [zettlr](apps/zettlr.md) |
 | ----- |
-| [<img src=icons/zettlr.png height=100>](apps/zettlr.md)  |
+| [![zettlr](ENTER)](apps/zettlr.html)  |
 
 | [zmninja](apps/zmninja.md) |
 | ----- |
-| [<img src=icons/zmninja.png height=100>](apps/zmninja.md)  |
+| [![zmninja](ENTER)](apps/zmninja.html)  |
 
 | [zograscope](apps/zograscope.md) |
 | ----- |
-| [<img src=icons/zograscope.png height=100>](apps/zograscope.md)  |
+| [![zograscope](ENTER)](apps/zograscope.html)  |
 
 | [zoom](apps/zoom.md) |
 | ----- |
-| [<img src=icons/zoom.png height=100>](apps/zoom.md)  |
+| [![zoom](ENTER)](apps/zoom.html)  |
 
 | [zotero](apps/zotero.md) |
 | ----- |
-| [<img src=icons/zotero.png height=100>](apps/zotero.md)  |
+| [![zotero](ENTER)](apps/zotero.html)  |
 
 | [zrythm](apps/zrythm.md) |
 | ----- |
-| [<img src=icons/zrythm.png height=100>](apps/zrythm.md)  |
+| [![zrythm](ENTER)](apps/zrythm.html)  |
 
 | [zsync2](apps/zsync2.md) |
 | ----- |
-| [<img src=icons/zsync2.png height=100>](apps/zsync2.md)  |
+| [![zsync2](ENTER)](apps/zsync2.html)  |
 
 | [zulip](apps/zulip.md) |
 | ----- |
-| [<img src=icons/zulip.png height=100>](apps/zulip.md)  |
+| [![zulip](ENTER)](apps/zulip.html)  |
 
 | [zy-player](apps/zy-player.md) |
 | ----- |
-| [<img src=icons/zy-player.png height=100>](apps/zy-player.md)  |
+| [![zy-player](ENTER)](apps/zy-player.html)  |
