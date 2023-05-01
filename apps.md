@@ -1,9 +1,3 @@
----
-layout: default
----
-
-[back](./)
-
 # Application's list
 #### *Here are listed all the apps managed by [AM](https://github.com/ivan-hc/AM-Application-Manager) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture. Use the inbuilt search tool of your browser to easilly navigate into this page.*
 
