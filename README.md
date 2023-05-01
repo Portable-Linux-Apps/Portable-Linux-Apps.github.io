@@ -1,8 +1,8 @@
-# Portable Linux Apps
+-------
+Wellcome to the database of all AppImage packages and portable applications for GNU/Linux.
 
-Database of all AppImage packages and other portable applications for GNU/Linux.
-
-
+-------
+# [EXPLORE ALL THE APPS](apps.md)
 
 ## List of portable applications and AppImage packages (by architecture)
 
