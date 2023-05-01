@@ -1,0 +1,6 @@
+
+ This is Pangea Software's Bugdom updated to run on modern operating systems.
+ 
+ SITE: https://pangeasoft.net/bug/
+
+ SOURCE: https://github.com/jorio/Bugdom

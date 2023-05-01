@@ -1,0 +1,6 @@
+
+ Desktop app to retrieve and display your total Ocean Token balances. 
+ 
+ SITE: https://getblow.fish
+
+ SOURCE: https://github.com/kremalicious/blowfish

@@ -1,0 +1,6 @@
+
+ PlayStation 4 Remote Play Client
+ 
+ SITE: https://git.sr.ht/~thestr4ng3r/chiaki
+
+ SOURCE: https://github.com/thestr4ng3r/chiaki
