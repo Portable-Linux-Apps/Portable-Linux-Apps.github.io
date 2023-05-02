@@ -1,3 +1,4 @@
+# THUNDERBIRD
 
  Thunderbird is an mail client suitable for free distribution. 
  The goal of Thunderbird is to produce a cross platform stand-alone 
@@ -15,3 +16,5 @@
  
  SITE &
  SOURCE: https://www.thunderbird.net
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

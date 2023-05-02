@@ -1,3 +1,4 @@
+# THEIA-BLUEPRINT
  
  Eclipse Theia Blueprint is a template for building desktop-based 
  products based on the Eclipse Theia platform, as well as to 
@@ -7,3 +8,5 @@
  major operating system platforms.
  
  SITE: https://theia-ide.org
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

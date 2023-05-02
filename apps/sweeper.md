@@ -1,3 +1,4 @@
+# SWEEPER
 
  Sweeper can quickly remove temporary information, such as
  web page cookies, browser history, or the list of 
@@ -9,3 +10,4 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdeutils
+ [Go back](https://portable-linux-apps.github.io/apps.html)
