@@ -12,4 +12,4 @@
 
  SOURCE: https://github.com/0ad-matters/0ad-appimage
 
- [Go back](apps.html/)
+ [Go back](https://portable-linux-apps.github.io/apps)
