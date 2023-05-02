@@ -1,3 +1,4 @@
+# QUICKREDIS
  
  QuickRedis is a free forever Redis Desktop manager. It
  supports direct connection, sentinel, and cluster mode, 
@@ -6,3 +7,5 @@
  OS X and Linux platform.
  
  SITE: https://github.com/quick123official/quick_redis_blog
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

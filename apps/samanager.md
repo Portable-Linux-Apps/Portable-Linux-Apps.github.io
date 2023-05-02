@@ -1,3 +1,4 @@
+# SAMANAGER
  
  This a Multiplatform Desktop Software Tool that will allow you to 
  manage your Prestashop online Store without having to deal with the 
@@ -5,3 +6,5 @@
  connections.
  
  SITE: : https://fbalaguer.com/en/basic-page/samanager-project
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

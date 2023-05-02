@@ -1,3 +1,4 @@
+# SCRCPY
  
  Display and control your Android device.
  
@@ -6,3 +7,5 @@
  AppImages of scrcpy.
  
  SITE: https://github.com/srevinsaju/scrcpy-appimage
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)
