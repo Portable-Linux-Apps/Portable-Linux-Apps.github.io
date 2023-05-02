@@ -10,8 +10,7 @@
  "AppMan" (ie Application Manager) is a copy of "AM" aimed to install all the
  applications managed locally, so without root privileges:
  
- - all the apps are installed in ~/.opt (you can change this path only once by
-   using the "--apps-path" option, available since the 3.0.6.1 release);
+ - all the apps are installed into a directory of your choice;
  - all the launchers are created in ~/.local/share/applications;
  - all the apps are linked in ~/.local/bin
  
