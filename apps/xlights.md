@@ -1,3 +1,4 @@
+# XLIGHTS
 
  xLights is a sequencer for Lights. xLights has usb 
  and E1.31 drivers. You can create sequences in this 
@@ -6,3 +7,4 @@
  different sequencers. 
 
  SITE: https://github.com/smeighan/xLights
+ [Go back](https://portable-linux-apps.github.io/apps.html)

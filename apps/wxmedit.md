@@ -1,3 +1,4 @@
+# WXMEDIT
 
  wxMedit is a cross-platform Text/Hex Editor, an improved 
  version of MadEdit. 
@@ -7,3 +8,5 @@
  SITE: http://wxmedit.github.io
 
  SOURCE: https://github.com/VinnyVynce/wxMEdit.AppImage
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

@@ -1,3 +1,4 @@
+# ZOGRASCOPE
 
  Zograscope is mainly a syntax-aware diff that also provides
  a number of additional tools. 
@@ -15,3 +16,5 @@
  state.
  
  SITE: https://github.com/xaizek/zograscope
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)
