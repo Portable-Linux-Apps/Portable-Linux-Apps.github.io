@@ -1,3 +1,4 @@
+# BRAVE-APPIMAGE
 
  Brave - A privacy oriented Web Browser based on Chromium.
  
@@ -11,3 +12,4 @@
  SITE: https://brave.com
 
  SOURCE: https://github.com/srevinsaju/Brave-AppImage
+ [Go back](https://portable-linux-apps.github.io/apps.html)

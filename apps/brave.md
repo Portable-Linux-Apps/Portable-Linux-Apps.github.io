@@ -1,3 +1,4 @@
+# BRAVE
 
  Brave - A privacy oriented Web Browser based on Chromium.
  
@@ -6,3 +7,5 @@
  Discover a new way of thinking about how the web can work.
  
  SITE: https://brave.com
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)
