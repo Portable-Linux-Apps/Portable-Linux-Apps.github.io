@@ -1,3 +1,4 @@
+# PLATFORM-TOOLS
 
  Android SDK Platform Tools is a complete suite of Command line utilities
  needed to manage Android devices. The commands included are:
@@ -16,3 +17,5 @@
  USAGE:  <command> --help
 
  SITE: https://developer.android.com/studio/releases/platform-tools
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

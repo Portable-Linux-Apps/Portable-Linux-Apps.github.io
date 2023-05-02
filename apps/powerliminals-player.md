@@ -1,3 +1,4 @@
+# POWERLIMINALS-PLAYER
  
  Plays Powerliminal audios, which are nearly-silent audios 
  containing very high-frequency energies to play in the 
@@ -6,3 +7,5 @@
  balance of energies that you need.
  
  SITE: https://github.com/mysteryx93/NaturalGroundingPlayer
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)
