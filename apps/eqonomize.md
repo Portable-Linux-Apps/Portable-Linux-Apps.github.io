@@ -1,3 +1,4 @@
+# EQONOMIZE
 
  Eqonomize! is a personal accounting software, with focus on
  efficiency and ease of use for small households. Eqonomize! 
@@ -9,3 +10,5 @@
  as well as an approximation of future account values.
  
  SITE: https://github.com/Eqonomize/Eqonomize
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

@@ -1,3 +1,4 @@
+# ENCRYPTPAD
 
  Minimalist secure text editor and binary encryptor that implements
  RFC 4880 Open PGP format: symmetrically encrypted, compressed and
@@ -5,3 +6,5 @@
  key files or both. 
  
  SITE: https://github.com/evpo/EncryptPad
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

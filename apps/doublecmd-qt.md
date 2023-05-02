@@ -1,3 +1,4 @@
+# DOUBLECMD-QT
 
  Double Commander is a free cross platform open source file manager
  with two panels side by side. It is inspired by Total Commander and
@@ -6,3 +7,5 @@
  This is the QT version.
  
  SITE: https://doublecmd.sourceforge.io
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

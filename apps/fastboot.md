@@ -1,3 +1,4 @@
+# FASTBOOT
 
  Fastboot is a part of Platform Tools:
  
@@ -6,3 +7,5 @@
  This is a transitional script, like "adb", needed to install "platform-tools".
  
  SITE: https://developer.android.com/studio/releases/platform-tools
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

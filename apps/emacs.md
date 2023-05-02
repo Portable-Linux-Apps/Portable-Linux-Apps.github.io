@@ -1,3 +1,4 @@
+# EMACS
  
  GNU Emacs is a free software text editor. It was created by GNU Project founder
  Richard Stallman. In common with other varieties of Emacs, GNU Emacs is
@@ -11,3 +12,5 @@
  SITE: https://www.gnu.org/software/emacs
 
  SOURCE: https://github.com/probonopd/Emacs.AppImage
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

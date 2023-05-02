@@ -1,3 +1,4 @@
+# EXEQT
 
  A nifty little utility for pinning commands, applications or links
  to the system tray. ExeQt goes even further and provides network
@@ -6,3 +7,5 @@
  house.
  
  SITE: https://github.com/AlexandruIstrate/ExeQt
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)
