@@ -17,6 +17,8 @@
    Linux and derivatives, Solus and Void) or "qt5-qtsvg" (on 
    Fedora, CentOS and other distributions)
  
+ ![Screenshot](https://upload.wikimedia.org/wikipedia/commons/d/d7/Vlc.png)
+ 
  SITE: https://www.videolan.org
 
  SOURCE: https://launchpad.net/~savoury1
