@@ -1,3 +1,4 @@
+# OPENSHOT
 
  OpenShot is a cross-platform video editor, with support for Linux, Mac
  and Windows. This is the official x86_64 AppImage of the project.
@@ -17,3 +18,5 @@
  SITE: https://www.openshot.org
 
  SOURCE: https://github.com/OpenShot/openshot-qt
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

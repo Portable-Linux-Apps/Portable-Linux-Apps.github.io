@@ -1,3 +1,4 @@
+# PALEMOON
 
  Pale Moon is an Open Source, Goanna-based web browser available for
  Microsoft Windows and Linux. Pale Moon is a fork of an old build of
@@ -7,3 +8,5 @@
  SITE: https://www.palemoon.org
 
  SOURCE: https://builds.garudalinux.org
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

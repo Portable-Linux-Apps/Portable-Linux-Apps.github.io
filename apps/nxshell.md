@@ -1,6 +1,8 @@
+# NXSHELL
 
  An easy to use new terminal for Windows/Linux/MacOS
  platform. It like Xshell or SecureCRT or PuTTY shell
  client.
 
  SITE: https://github.com/nxshell/nxshell
+ [Go back](https://portable-linux-apps.github.io/apps.html)

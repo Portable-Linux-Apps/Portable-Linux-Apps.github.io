@@ -1,3 +1,4 @@
+# PACKSQUASH
  
  A Minecraft: Java Edition resource and data pack optimizer which
  aims to achieve the best possible compression, performance and
@@ -5,3 +6,5 @@
  times. 
  
  SITE: https://github.com/
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

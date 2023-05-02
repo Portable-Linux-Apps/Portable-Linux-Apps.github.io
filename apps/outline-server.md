@@ -1,3 +1,4 @@
+# OUTLINE-SERVER
 
  Outline Manager, developed by Jigsaw. The Outline Manager
  application creates and manages Outline servers, powered
@@ -5,3 +6,5 @@
  support for Windows, macOS and Linux. 
  
  SITE: https://github.com/Jigsaw-Code/outline-server
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

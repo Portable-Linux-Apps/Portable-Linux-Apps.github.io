@@ -1,3 +1,4 @@
+# PICMI
 
  Picmi is a single player logic-based puzzle game. The
  goal is to color cells according to numbers given at
@@ -15,3 +16,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

@@ -1,3 +1,4 @@
+# PALAPELI
 
  Palapeli is a jigsaw puzzle game. Unlike other games in 
  that genre, you are not limited to aligning pieces on 
@@ -15,3 +16,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

@@ -1,3 +1,4 @@
+# OSU
 
  A free-to-win rhythm game. Rhythm is just a click away!
  The future of osu! and the beginning of an open era!
@@ -5,3 +6,5 @@
  As in sharper than cutting-edge.
  
  SITE: https://github.com/ppy/osu
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)
