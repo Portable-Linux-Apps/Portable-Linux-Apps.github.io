@@ -7,6 +7,8 @@
  projects behind the Google Chrome browser and Google Chrome OS, the Brave, Web
  Browser, Microsoft Edge, Vivaldi Web Browser, Electron and many more.
  
+ ![Screenshot](https://upload.wikimedia.org/wikipedia/commons/6/6a/Chromium_96_Wikipedia_page_%28ungoogled-chromium%29_screenshot.png)
+ 
  SITE: https://www.chromium.org
  
  SOURCE (amd64): https://ppa.launchpadcontent.net/savoury1/chromium

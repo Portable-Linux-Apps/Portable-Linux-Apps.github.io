@@ -6,6 +6,8 @@
  
  This is the official Latest Development/Unstable build.
  
+ ![Screenshot](https://upload.wikimedia.org/wikipedia/commons/6/6a/Chromium_96_Wikipedia_page_%28ungoogled-chromium%29_screenshot.png)
+ 
  SITE: https://www.chromium.org
 
  SOURCE: https://download-chromium.appspot.com

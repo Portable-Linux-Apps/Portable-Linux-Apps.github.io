@@ -6,6 +6,8 @@
  Also known as "Ungoogled Chromium", this is a modified version for 
  Slackware, with a black icon instead of a blue one.
  
+ ![Screenshot](https://upload.wikimedia.org/wikipedia/commons/6/6a/Chromium_96_Wikipedia_page_%28ungoogled-chromium%29_screenshot.png)
+ 
  SITE: https://www.chromium.org
 
  SOURCE: http://www.slackware.com/~alien/slackbuilds/chromium-ungoogled
