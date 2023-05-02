@@ -1,3 +1,4 @@
+# SKYPE
 
  Skype is a proprietary telecommunications application
  that specializes in providing VoIP-based videotelephony,
@@ -12,3 +13,5 @@
  This version come from the official .deb package.
  
  SITE/SOURCE: https://www.skype.com
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

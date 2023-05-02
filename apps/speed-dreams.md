@@ -1,3 +1,4 @@
+# SPEED-DREAMS
 
  Speed Dreams is a 3d cross-platform, open source motorsport simulation
  and racing game. It is a fork of the open racing car simulator Torcs,
@@ -20,3 +21,5 @@
     - Up to 4 user local multiplayer in "split-screen" mode.
     
  SITE: https://www.speed-dreams.net
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

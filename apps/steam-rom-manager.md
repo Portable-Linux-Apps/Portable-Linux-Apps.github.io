@@ -1,3 +1,4 @@
+# STEAM-ROM-MANAGER
 
  Steam ROM Manager is a super flexible tool for adding
  non-Steam games to steam in bulk and managing their
@@ -8,3 +9,4 @@
  weird! But now it's possible.
 
  SITE: https://github.com/SteamGridDB/steam-rom-manager
+ [Go back](https://portable-linux-apps.github.io/apps.html)

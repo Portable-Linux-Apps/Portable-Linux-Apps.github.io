@@ -1,3 +1,4 @@
+# SIMPLESCREENRECORDER
  
  SimpleScreenRecorder is a screen recorder for Linux. Despite the name, 
  this program is actually quite complex. It's 'simple' in the sense that 
@@ -9,3 +10,4 @@
  SITE: https://www.maartenbaert.be/simplescreenrecorder
 
  SOURCE: https://github.com/ivan-hc/Database-of-pkg2appimaged-packages
+ [Go back](https://portable-linux-apps.github.io/apps.html)

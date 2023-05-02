@@ -1,3 +1,4 @@
+# SIMPLE-S3-UPLOADER
 
  simple-uploader is a tool for easily uploading files
  and sharing links via AWS S3. The user enters their
@@ -7,3 +8,4 @@
  they have uploaded from that device.
 
  SITE: https://github.com/rBurgett/simple-uploader
+ [Go back](https://portable-linux-apps.github.io/apps.html)
