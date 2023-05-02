@@ -1,3 +1,4 @@
+# GIMP-DEV
 
  GIMP (GNU Image Manipulation Program) is a cross-platform image editor.
 
@@ -7,3 +8,5 @@
  SITE: https://www.gimp.org
 
  SOURCE: https://launchpad.net/~mati75
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

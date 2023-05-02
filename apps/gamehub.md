@@ -1,3 +1,4 @@
+# GAMEHUB
 
  GameHub is a unified library for all your games. It allows
  you to store your games from different platforms into one
@@ -6,3 +7,5 @@
  SITE: https://tkashkin.tk
 
  SOURCE: https://github.com/tkashkin/GameHub
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)
