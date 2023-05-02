@@ -1,3 +1,4 @@
+# KLICKETY
 
  Klickety is a simple, yet challenging color matching game
  modeled after once famous game of SameGame. The idea behind
@@ -16,3 +17,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

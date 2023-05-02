@@ -1,3 +1,4 @@
+# KBLACKBOX
 
  A game of hide and seek. Use lasers and markers to guess
  the location of hidden atoms in the box.  
@@ -13,3 +14,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

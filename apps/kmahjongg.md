@@ -1,3 +1,4 @@
+# KMAHJONGG
 
  Remove all the stacked tiles from the board by finding
  each tile's pair as fast as possible.  
@@ -13,3 +14,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

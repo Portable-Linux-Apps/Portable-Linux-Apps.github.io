@@ -1,3 +1,4 @@
+# KAVITA
  
  Kavita is a fast, feature rich, cross platform reading server. 
  Built with a focus for manga and the goal of being a full solution 
@@ -5,3 +6,5 @@
  reading collection with your friends and family.
  
  SITE: https://github.com/Kareadita/Kavita
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

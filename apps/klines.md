@@ -1,3 +1,4 @@
+# KLINES
 
  KLines is a simple but highly addictive, one player game
  for KDE. KLines has been inspired by well known game of
@@ -16,3 +17,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

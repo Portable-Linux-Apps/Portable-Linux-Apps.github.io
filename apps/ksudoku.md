@@ -1,3 +1,4 @@
+# KSUDOKU
 
  Fill the grid so that each column, row as well as each
  square sector on the game field contains only one instance
@@ -14,3 +15,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

@@ -1,3 +1,4 @@
+# KFOURINLINE
 
  Be the first to get four connected pieces of your color
  into a straight row of any direction. 
@@ -13,3 +14,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

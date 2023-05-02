@@ -1,3 +1,4 @@
+# KJUMPINGCUBE
 
  Conquer all squares on a board either by occupying an empty
  square or conquering your opponent's. A maxed out square will
@@ -15,3 +16,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

@@ -1,3 +1,4 @@
+# KSQUARES
 
  Players take turn in connecting two adjacent dots to form
  a square. The player with the most number of completed
@@ -14,3 +15,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

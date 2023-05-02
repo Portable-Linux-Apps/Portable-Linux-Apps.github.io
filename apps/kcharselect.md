@@ -1,3 +1,4 @@
+# KCHARSELECT
 
  KCharSelect is a utility for finding special characters
  which are not available on the keyboard. It can search for
@@ -10,3 +11,4 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdeutils
+ [Go back](https://portable-linux-apps.github.io/apps.html)

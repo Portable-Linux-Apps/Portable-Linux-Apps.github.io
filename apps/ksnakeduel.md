@@ -1,3 +1,4 @@
+# KSNAKEDUEL
 
  Snake race game. The object of the game is to avoid running 
  into walls, your own tail, and that of your opponent, while 
@@ -22,3 +23,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

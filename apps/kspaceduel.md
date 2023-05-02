@@ -1,3 +1,4 @@
+# KSPACEDUEL
 
  Eliminate your opponents satellite while controlling your own
  satellite revolving around a sun. Don't get too close or your
@@ -14,3 +15,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

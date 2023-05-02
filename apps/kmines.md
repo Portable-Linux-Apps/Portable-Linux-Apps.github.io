@@ -1,3 +1,4 @@
+# KMINES
 
  Uncover all the squares without triggering a mine.
  A classic Minesweeper game.   
@@ -13,3 +14,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

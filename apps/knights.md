@@ -1,3 +1,4 @@
+# KNIGHTS
 
  Knights aims to be the ultimate chess resource on your 
  computer. It's designed to be both friendly to new chess 
@@ -16,3 +17,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

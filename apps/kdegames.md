@@ -1,3 +1,4 @@
+# KDEGAMES
 
  This is the full and updatable KDE Games suite from Debian Stable!
  
@@ -22,3 +23,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

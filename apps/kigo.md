@@ -1,3 +1,4 @@
+# KIGO
 
  Kigo is an open-source implementation of the popular Go game. 
  Go is a strategic board game for two players. It is also 
@@ -20,3 +21,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

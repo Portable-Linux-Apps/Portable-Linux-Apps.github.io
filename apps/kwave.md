@@ -1,3 +1,4 @@
+# KWAVE
  
  Kwave is a sound editor designed for the KDE Desktop Environment.
  With Kwave you can record, play back, import and edit many sorts 
@@ -9,3 +10,4 @@
  SITE: https://apps.kde.org/kwave
 
  SOURCE: https://packages.debian.org/stable/kwave
+ [Go back](https://portable-linux-apps.github.io/apps.html)

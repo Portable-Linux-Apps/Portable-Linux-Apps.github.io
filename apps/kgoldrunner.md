@@ -1,3 +1,4 @@
+# KGOLDRUNNER
 
  Collect all the gold while avoiding pursuing enemies.
  Or dig holes to trap and walk over them.
@@ -13,3 +14,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

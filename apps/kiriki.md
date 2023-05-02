@@ -1,3 +1,4 @@
+# KIRIKI
 
  Earn the most score points by rolling 5 dice up to
  three times in a single turn. 
@@ -13,3 +14,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

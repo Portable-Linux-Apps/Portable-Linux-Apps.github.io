@@ -1,3 +1,4 @@
+# KDIAMOND
 
  Swap two adjacent diamonds to form a line of three similar
  diamonds to eliminate as much as you can within the time limit.   
@@ -13,3 +14,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

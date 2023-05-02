@@ -1,3 +1,4 @@
+# KNAVALBATTLE
 
  Battle Ship game for KDE workspaces. Players try to sink
  each other's ships without knowing where they are. 
@@ -13,3 +14,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

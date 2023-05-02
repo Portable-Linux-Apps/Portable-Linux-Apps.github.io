@@ -1,3 +1,4 @@
+# KREVERSI
 
  Capture your opponents pieces and turn them over to your
  color. Get control over majority of the board to win.  
@@ -19,3 +20,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

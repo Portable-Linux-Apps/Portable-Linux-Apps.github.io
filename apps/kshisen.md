@@ -1,3 +1,4 @@
+# KSHISEN
 
  Similar to Mahjongg, except the tiles are not stacked on
  top of one another. Find a tile's pair to remove them from
@@ -14,3 +15,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

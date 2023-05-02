@@ -1,3 +1,4 @@
+# KWALLETMANAGER5
 
  The KDE Wallet system provides a secure way to store 
  passwords and other secret information, allowing the 
@@ -10,3 +11,4 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdeutils
+ [Go back](https://portable-linux-apps.github.io/apps.html)

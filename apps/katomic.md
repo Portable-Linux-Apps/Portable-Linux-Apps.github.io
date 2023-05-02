@@ -1,3 +1,4 @@
+# KATOMIC
 
  An educational and fun game based around molecular geometry.
  Form the resemblance of a molecule by sliding atoms around. 
@@ -13,3 +14,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

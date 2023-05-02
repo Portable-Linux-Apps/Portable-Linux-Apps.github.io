@@ -1,3 +1,4 @@
+# KUBRICK
 
  Kubrick is a game based on Rubik's Cube and using OpenGL
  3-D graphics libraries.
@@ -19,3 +20,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

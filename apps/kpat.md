@@ -1,3 +1,4 @@
+# KPAT
 
  A relaxing solitaire game. Arrange the cards in a certain order,
  either by the same color or alternating colors, in the shortest
@@ -14,3 +15,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

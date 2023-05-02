@@ -1,3 +1,4 @@
+# KNETWALK
 
  Construct a network by connecting all terminals to the server
  with wires by rotating these elements around. Use as few
@@ -20,3 +21,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

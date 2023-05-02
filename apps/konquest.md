@@ -1,3 +1,4 @@
+# KONQUEST
 
  Build an interstellar empire by sending ships to conquer
  other planets, including your opponent's planets. 
@@ -13,3 +14,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)
