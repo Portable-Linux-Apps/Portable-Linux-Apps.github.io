@@ -8,6 +8,8 @@
  
  This is the AppImage built from source.
  
+ ![EgyptianPyramids](https://user-images.githubusercontent.com/88724353/235563498-91c93488-3c44-49e6-a52a-d5c7022647cb.jpg)
+ 
  SITE: https://play0ad.com
 
  SOURCE: https://github.com/0ad-matters/0ad-appimage
