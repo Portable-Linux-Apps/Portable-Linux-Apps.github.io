@@ -1,3 +1,4 @@
+# INKSCAPE
 
  Inkscape is a Free and open source vector graphics editor for GNU/Linux,
  Windows and MacOS X. It offers a rich set of features and is widely used
@@ -13,3 +14,5 @@
  Inkscape's functionality with add-ons.
  
  SITE: https://inkscape.org
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

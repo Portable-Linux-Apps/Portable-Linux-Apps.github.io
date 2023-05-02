@@ -1,3 +1,4 @@
+# IMAGEMAGICK-CLANG
  
  Use ImageMagick® to create, edit, compose, or convert 
  digital images. It can read and write images in a variety 
@@ -12,3 +13,5 @@
  USAGE: "imagemagick-clang -help"
  
  SITE: https://github.com/ImageMagick/ImageMagick
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

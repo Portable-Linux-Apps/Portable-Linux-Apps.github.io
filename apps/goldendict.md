@@ -1,3 +1,4 @@
+# GOLDENDICT
  
  A feature-rich dictionary lookup program, supporting
  multiple dictionary formats (StarDict/Babylon/Lingvo
@@ -8,3 +9,5 @@
  case. 
  
  SITE: https://github.com/Abs62/goldendict
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)
