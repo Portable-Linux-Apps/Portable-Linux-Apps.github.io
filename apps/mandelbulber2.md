@@ -1,3 +1,4 @@
+# MANDELBULBER2
 
  Mandelbulber creatively generates three-dimensional fractals.
  Explore trigonometric, hyper-complex, Mandelbox, IFS, and
@@ -7,3 +8,5 @@
  The possibilities are literally infinite!
  
  SITE: https://github.com/buddhi1980/mandelbulber2
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

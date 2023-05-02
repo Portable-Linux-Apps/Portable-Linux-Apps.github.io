@@ -1,3 +1,4 @@
+# LSKAT
 
  Lieutnant Skat (from German “Offiziersskat”) is a fun
  and engaging card game for two players, where the
@@ -16,3 +17,5 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)
