@@ -1,3 +1,4 @@
+# APPIMAGELAUNCHER
 
  AppImageLauncher is a helper application for Linux distributions 
  serving as a kind of "entry point" for running and integrating 
@@ -19,3 +20,5 @@
  can use different paths (for example "appimagedl").
  
  SITE: https://github.com/TheAssassin/AppImageLauncher 
+
+ [Go back](./)

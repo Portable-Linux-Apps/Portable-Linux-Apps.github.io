@@ -1,3 +1,4 @@
+# APPMAN
 
        ___      .______   .______   .___  ___.      ___      .__   __. 
       /   \     |   _  \  |   _  \  |   \/   |     /   \     |  \ |  | 
@@ -28,3 +29,5 @@
  existing system's $PATH).
  
  SITE: https://github.com/ivan-hc/AppMan
+
+ [Go back](./)

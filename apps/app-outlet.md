@@ -1,3 +1,4 @@
+# APP-OUTLET
 
  App Outlet is a Universal application store. It easily allows 
  you to search and download applications that runs on most Linux 
@@ -5,3 +6,5 @@
  Snaps packages.
  
  SITE: https://app-outlet.github.io
+
+ [Go back](./)

@@ -1,3 +1,4 @@
+# 432HZ-PLAYER
  
  Most music is recorded in 440hz. Many people claim that 
  432hz resonates more with the heart whereas 440hz resonates 
@@ -10,3 +11,5 @@
  algorithm with low CPU usage.
  
  SITE: https://github.com/mysteryx93/NaturalGroundingPlayer
+
+ [Go back](./)

@@ -1,3 +1,4 @@
+# ADB
 
  ADB (Android Debug Bridge) is a part of Platform Tools:
  
@@ -6,3 +7,5 @@
  This is a transitional script needed to install "platform-tools".
  
  SITE: https://developer.android.com/studio/releases/platform-tools
+
+ [Go back](./)

@@ -1,3 +1,4 @@
+# ARTIFACT
  
  As chief artificer Larry Lodestone, your goal is to make your
  way through the intricate designs of The Artifact. Your goal
@@ -26,3 +27,5 @@
  game. These can be of any type depending on the level.
  
  SITE: https://www.bitbreeds.com/artifact/
+
+ [Go back](./)
