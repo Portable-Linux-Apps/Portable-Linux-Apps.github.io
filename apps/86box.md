@@ -6,4 +6,4 @@
  
  SITE: https://github.com/86Box/86Box
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

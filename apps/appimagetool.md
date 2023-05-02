@@ -4,4 +4,4 @@
  
  SITE: https://github.com/AppImage/AppImageKit
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

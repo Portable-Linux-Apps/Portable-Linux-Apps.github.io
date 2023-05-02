@@ -6,4 +6,4 @@
  
  SITE: https://github.com/cosmo0/arcade-manager
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

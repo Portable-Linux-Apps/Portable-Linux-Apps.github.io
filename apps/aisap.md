@@ -21,4 +21,4 @@
  
  SITE: https://github.com/mgord9518/aisap
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

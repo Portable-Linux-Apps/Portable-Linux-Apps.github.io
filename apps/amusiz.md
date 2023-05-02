@@ -4,4 +4,4 @@
  
  SITE: https://github.com/mirkobrombin/Amusiz
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

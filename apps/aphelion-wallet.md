@@ -4,4 +4,4 @@
  
  SITE: https://github.com/aphtoken/aph-wallet-gui
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

@@ -21,4 +21,4 @@
  SITE (ORIGINAL PROJECT): https://github.com/simoniz0r/appimagedl
  SOURCE (FORK): https://github.com/ivan-hc/appimagedl 
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

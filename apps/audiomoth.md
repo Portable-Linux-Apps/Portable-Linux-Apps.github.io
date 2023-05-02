@@ -4,4 +4,4 @@
  
  SITE: https://github.com/OpenAcousticDevices/AudioMoth-Configuration-App
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

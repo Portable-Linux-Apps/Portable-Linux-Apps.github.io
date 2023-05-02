@@ -8,4 +8,4 @@
  	- AppImageUpdateTool at https://github.com/AppImage/AppImageUpdate
  	- PKG2AppImage at https://github.com/AppImageCommunity/pkg2appimage
  
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

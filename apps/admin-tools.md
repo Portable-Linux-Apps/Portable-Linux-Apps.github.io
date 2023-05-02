@@ -4,4 +4,4 @@
  
  SITE: https://download.opensuse.org/repositories
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

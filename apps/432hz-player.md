@@ -12,4 +12,4 @@
  
  SITE: https://github.com/mysteryx93/NaturalGroundingPlayer
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

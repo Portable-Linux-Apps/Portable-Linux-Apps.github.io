@@ -4,4 +4,4 @@
  
  SITE: https://github.com/foucdeg/x-plane-map-electron
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

@@ -9,4 +9,4 @@
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdeutils
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

@@ -6,4 +6,4 @@
  
  SITE: https://github.com/vinifmor/bauh
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

@@ -4,4 +4,4 @@
  
  SITE: https://github.com/shizkun/manga-viewer
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

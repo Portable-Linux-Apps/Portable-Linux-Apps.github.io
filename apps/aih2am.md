@@ -16,4 +16,4 @@
 
  SOURCE: https://github.com/ivan-hc/aih2AM
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

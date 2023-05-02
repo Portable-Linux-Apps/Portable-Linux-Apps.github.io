@@ -4,4 +4,4 @@
  
  SITE: https://github.com/AplaProject/apla-front
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

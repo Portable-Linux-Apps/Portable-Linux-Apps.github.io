@@ -7,4 +7,4 @@
 
  SOURCE: https://github.com/kefir500/apk-editor-studio
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

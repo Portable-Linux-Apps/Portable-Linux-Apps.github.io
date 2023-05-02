@@ -8,4 +8,4 @@
 
  SOURCE: https://github.com/assaultcube/AC
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

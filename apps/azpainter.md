@@ -5,4 +5,4 @@
  
  SITE: https://github.com/Symbian9/azpainter
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

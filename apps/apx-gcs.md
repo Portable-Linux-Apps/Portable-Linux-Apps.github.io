@@ -7,4 +7,4 @@
  
  SITE: https://github.com/uavos/apx-gcs
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

@@ -4,4 +4,4 @@
  
  SITE: https://github.com/OpenNewsLabs/autoEdit_2
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

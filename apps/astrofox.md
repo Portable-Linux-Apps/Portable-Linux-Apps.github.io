@@ -4,4 +4,4 @@
  
  SITE: https://appimage.github.io/Astrofox/
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

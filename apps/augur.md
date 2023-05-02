@@ -4,4 +4,4 @@
  
  SITE: https://github.com/AugurProject/augur-app
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

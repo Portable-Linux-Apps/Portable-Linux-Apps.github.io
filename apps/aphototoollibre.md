@@ -4,4 +4,4 @@
  
  SITE: https://github.com/aphototool/A-Photo-Tool-Libre
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

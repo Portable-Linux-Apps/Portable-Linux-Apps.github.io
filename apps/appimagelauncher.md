@@ -21,4 +21,4 @@
  
  SITE: https://github.com/TheAssassin/AppImageLauncher 
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

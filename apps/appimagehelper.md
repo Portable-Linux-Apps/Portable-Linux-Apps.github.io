@@ -4,4 +4,4 @@
  
  SITE: https://gitlab.com/posktomten/appimagehelper
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

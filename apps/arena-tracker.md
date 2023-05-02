@@ -6,4 +6,4 @@
  
  SITE: https://github.com/supertriodo/Arena-Tracker
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

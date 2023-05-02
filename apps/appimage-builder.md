@@ -4,4 +4,4 @@
  
  SITE: https://github.com/AppImageCrafters/appimage-builder
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

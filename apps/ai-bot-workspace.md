@@ -5,4 +5,4 @@
  
  SITE: https://github.com/jmerle/ai-bot-workspace
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)

@@ -4,4 +4,4 @@
  
  SITE: https://github.com/TheAssassin/appimagelint
 
- [Go back](./)
+ [Go back](https://portable-linux-apps.github.io/apps.html)
