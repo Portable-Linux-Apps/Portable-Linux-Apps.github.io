@@ -16,7 +16,7 @@
 Portable Linux Apps are standalone applications for GNU/Linux that can (theorically) run everywhere, also on a USB stick. These applcations can be AppImage packages (see [appimage.org](https://appimage.org/)) or standalone archives (for example Firefox, Blender, Thunderbird...).
 
 ### How is this site different from other sites that list AppImage packages?
-The main problem with AppImage packages is that many of them cannot be updated easily because there is no centralized repository. I built one.
+The main problem with AppImage packages is that many of them cannot be updated easily because there is no centralized repository. I've built one.
 
 ### Is there a centralized repository for AppImage packages?
 Yes, I've called it "AM" (Application Manager), the following lists represent all applications currently managed by the "AM" project (see "[AM Application Manager](https://github.com/ivan-hc/AM-Application-Manager)" on github), by architecture:
@@ -38,6 +38,6 @@ More of them are official programs, others are third-party AppImage packages bui
 - AM (to install applications as root user), at [https://github.com/ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager)
 
 ### The app "Pippo" is not available in the database, how can I upload it?
-Sadly I'm the only developer of these tools and I had not much time to check all the standalone applications and the AppImages available on the web, all you can do is to clone [https://github.com/ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager), then use the `-t` option (available for both AM and AppMan) to create your own script from one of my templates (just follow the instructions on your terminal), upload all the created files on your "fork" and try to merge a pull request, I'll check and approve it. "AM" is open source, like this website.
+clone [https://github.com/ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager), then use the `-t` option (available for both AM and AppMan) to create your own script from one of my templates (just follow the instructions on your terminal), upload all the created files on your "fork" and try to merge a pull request, I'll check it and if everything is OK I'll approve it. "AM" is open source, like this website.
 
 -----------------------------------------
