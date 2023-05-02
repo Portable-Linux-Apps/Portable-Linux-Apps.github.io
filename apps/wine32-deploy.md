@@ -1,3 +1,4 @@
+# WINE32-DEPLOY
 
  Wine32-deploy is a tool for creating AppImages for 32-bit Microsoft 
  Windows® applications.
@@ -28,3 +29,5 @@
  
 
  SOURCE: https://github.com/sudo-give-me-coffee/wine32-deploy
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

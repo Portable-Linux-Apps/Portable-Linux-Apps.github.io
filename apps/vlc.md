@@ -1,3 +1,4 @@
+# VLC
 
  VLC is a free and open source cross-platform multimedia player 
  and framework that plays most multimedia files as  well as 
@@ -20,3 +21,5 @@
 
  SOURCE: https://launchpad.net/~savoury1
  APPIMAGE: https://github.com/ivan-hc/VLC-appimage
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

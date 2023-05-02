@@ -1,3 +1,4 @@
+# WPS-OFFICE-APPIMAGE
  
  WPS Office is a lightweight, feature-rich comprehensive office suite
  with high compatibility.
@@ -7,3 +8,5 @@
  SITE: https://www.wps.com
 
  SOURCE: https://github.com/openSUSE-zh/wps-office-appimage
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

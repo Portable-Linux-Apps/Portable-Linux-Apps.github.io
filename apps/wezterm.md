@@ -1,3 +1,4 @@
+# WEZTERM
 
  Ez's Terminal is a GPU-accelerated cross-platform terminal 
  emulator and multiplexer written by @wez and implemented 
@@ -6,3 +7,5 @@
  SITE: https://wezfurlong.org/wezterm
 
  SOURCE: https://github.com/wez/wezterm
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

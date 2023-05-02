@@ -1,3 +1,4 @@
+# WHITEBOARD
 
  Whiteboard is a Electron.js based slideshow app for 
  demonstration-heavy presentations. It's great for 
@@ -5,3 +6,5 @@
  workshops, or presentations.
  
  SITE: http://whiteboard.michaelb.org
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)
