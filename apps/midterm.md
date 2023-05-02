@@ -1,3 +1,4 @@
+# MIDTERM
  
  A free note-taking app for studying.
  Midterm for Linux is completely free to use. 
@@ -16,3 +17,5 @@
  - and many more.
  
  SITE: https://midterm.app/
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)

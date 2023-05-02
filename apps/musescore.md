@@ -1,3 +1,4 @@
+# MUSESCORE
  
  MuseScore is an open source and free music notation software. 
  For support, contribution, bug reports, visit MuseScore.org. 
@@ -5,3 +6,5 @@
  
  SITES: https://musescore.org
         https://github.com/musescore/MuseScore
+
+ [Go back](https://portable-linux-apps.github.io/apps.html)
