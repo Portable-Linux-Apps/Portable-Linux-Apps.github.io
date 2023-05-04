@@ -11,8 +11,6 @@
  
  SITE: https://www.chromium.org
  
- SOURCE (amd64): https://ppa.launchpadcontent.net/savoury1/chromium
- 
- SOURCE (i386): https://packages.ubuntu.com/bionic-updates/web/chromium-browser
+ SOURCE: https://github.com/ivan-hc/Chromium-Web-Browser-appimage
 
  [Go back](https://portable-linux-apps.github.io/apps.html)
