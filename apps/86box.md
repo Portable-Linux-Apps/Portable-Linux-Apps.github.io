@@ -4,6 +4,8 @@
  and software designed for IBM PC systems and compatibles from 1981 
  through fairly recent system designs based on the PCI bus.
  
+ ![Screenshot](https://upload.wikimedia.org/wikipedia/commons/5/50/86Box_during_machine_boot.png)
+ 
  SITE: https://github.com/86Box/86Box
 
  [Go back](https://portable-linux-apps.github.io/apps.html)
