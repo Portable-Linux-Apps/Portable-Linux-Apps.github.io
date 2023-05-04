@@ -5,6 +5,8 @@
  distributions. It currently supports AppImages, Flatpaks and 
  Snaps packages.
  
- SITE: https://app-outlet.github.io
+ ![Screenshot](https://raw.githubusercontent.com/AppOutlet/AppOutlet/main/screenshot/screenshots.png)
+ 
+ SITE: https://appoutlet.github.io
 
  [Go back](https://portable-linux-apps.github.io/apps.html)
