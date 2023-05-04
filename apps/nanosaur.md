@@ -7,6 +7,6 @@
  
  ![IMAGE](https://raw.githubusercontent.com/jorio/Nanosaur/master/docs/screenshot.png)
  
- SITE: [URL](https://github.com/jorio/Nanosaur)
+ SITE: https://github.com/jorio/Nanosaur
 
  [Go back](https://portable-linux-apps.github.io/apps.html)
