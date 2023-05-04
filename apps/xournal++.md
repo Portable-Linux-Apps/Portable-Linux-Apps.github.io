@@ -5,6 +5,8 @@
  Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from 
  devices such as Wacom Tablets. 
  
+ ![Screenshot](https://upload.wikimedia.org/wikipedia/commons/e/ea/Xournal.png)
+ 
  SITE: https://xournalpp.github.io
 
  SOURCE: https://github.com/xournalpp/xournalpp

@@ -9,6 +9,8 @@
  Help is also available for those who do not know the rules
  for an 8-ball or 9-ball game. 
  
+ ![Screenshot](https://screenshots.debian.net/shrine/screenshot/1753/simage/large-025b1765a6e4c45f1a373f50f1d619dd.png)
+ 
  SITE: https://sourceforge.net/projects/billardgl
 
  SOURCE: https://packages.debian.org/sid/billard-gl

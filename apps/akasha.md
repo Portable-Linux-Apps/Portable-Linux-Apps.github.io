@@ -6,6 +6,8 @@
  open systems that expand our collective minds at local,
  regional and global scales.
  
+ ![Screenshot](https://appimage.github.io/database/AKASHA/screenshot.png)
+ 
  SITE: https://github.com/AKASHAorg
 
  [Go back](https://portable-linux-apps.github.io/apps.html)

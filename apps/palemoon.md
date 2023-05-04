@@ -5,6 +5,8 @@
  Mozilla Firefox, independently developed to merge a classic browsing
  experience with modern web APIs.
   
+ ![Screenshot](https://tipsonubuntu.com/wp-content/uploads/2016/07/palemoon-browser.jpg)
+ 
  SITE: https://www.palemoon.org
 
  SOURCE: https://builds.garudalinux.org
