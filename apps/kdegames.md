@@ -19,7 +19,7 @@
 
  On Debian based systems install the "qml-module-org-kde-games-core"
  package from the repository to solve this issue.
-           
+ 
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames

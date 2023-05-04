@@ -1,7 +1,7 @@
 # KREVERSI
 
  Capture your opponents pieces and turn them over to your
- color. Get control over majority of the board to win.  
+ color. Get control over majority of the board to win.
  
  KNOWN issue:
  This game require "org.kde.games.core" to work. 
@@ -17,6 +17,8 @@
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
            
+ ![Screenshot](https://cdn.kde.org/screenshots/kreversi/kreversi.png)
+ 
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames

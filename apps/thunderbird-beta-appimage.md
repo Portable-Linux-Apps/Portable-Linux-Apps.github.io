@@ -4,6 +4,8 @@
 
  This is the Beta Edition.
  
+ ![Screenshot](https://media.imgcdn.org/repo/2023/03/mozilla-thunderbird/Mozilla-Thunderbird-free-download.jpg)
+ 
  SITE: https://github.com/srevinsaju/thunderbird-appimage
 
  [Go back](https://portable-linux-apps.github.io/apps.html)

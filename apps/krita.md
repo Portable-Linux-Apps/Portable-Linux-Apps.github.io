@@ -8,6 +8,8 @@
  - texture and matte painters
  - illustrations and comics
  
+ ![Screenshot](https://cdn.kde.org/screenshots/krita/filters.png)
+ 
  SITE: https://krita.org
 
  [Go back](https://portable-linux-apps.github.io/apps.html)

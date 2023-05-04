@@ -8,6 +8,8 @@
  
  For the official version, see "qbittorrent". 
  
+ ![Screenshot](https://upload.wikimedia.org/wikipedia/commons/c/ca/QBittorrent_4.3.9_screenshot.png)
+ 
  SITE: https://www.qbittorrent.org
 
  SOURCE: https://launchpad.net/~qbittorrent-team

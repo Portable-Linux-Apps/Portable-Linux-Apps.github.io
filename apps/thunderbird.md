@@ -14,6 +14,8 @@
   
  This is the official build with automatic updates. 
  
+ ![Screenshot](https://media.imgcdn.org/repo/2023/03/mozilla-thunderbird/Mozilla-Thunderbird-free-download.jpg)
+ 
  SITE &
  SOURCE: https://www.thunderbird.net
 

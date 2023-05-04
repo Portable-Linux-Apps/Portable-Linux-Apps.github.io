@@ -17,6 +17,8 @@
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
            
+ ![Screenshot](https://kde.org/images/screenshots/kbreakout.png)
+ 
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames

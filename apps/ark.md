@@ -6,6 +6,8 @@
 
  This tool is part of the KDE Utils Suite.
  
+ ![Screenshot](https://cdn.kde.org/screenshots/ark/ark.png)
+ 
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdeutils

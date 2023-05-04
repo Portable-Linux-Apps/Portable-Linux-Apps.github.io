@@ -12,6 +12,8 @@
  
  This version come from the official .deb package.
  
+ ![Screenshot](https://www.addictivetips.com/app/uploads/2018/02/skype1.png)
+ 
  SITE/SOURCE: https://www.skype.com
 
  [Go back](https://portable-linux-apps.github.io/apps.html)

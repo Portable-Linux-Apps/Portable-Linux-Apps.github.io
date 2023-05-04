@@ -8,6 +8,8 @@
 
  This tool is part of the KDE Utils Suite.
  
+ ![Screenshot](https://www.kde.org/images/screenshots/kwalletmanager.png)
+ 
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdeutils

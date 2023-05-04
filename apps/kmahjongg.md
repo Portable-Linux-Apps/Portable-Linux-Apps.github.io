@@ -1,7 +1,7 @@
 # KMAHJONGG
 
  Remove all the stacked tiles from the board by finding
- each tile's pair as fast as possible.  
+ each tile's pair as fast as possible.
  
  NOTE: this script includes icons and launchers for the 
  full KDE games suite in just one Appimage (takes 280 MB).
@@ -11,6 +11,8 @@
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
            
+ ![Screenshot](https://cdn.kde.org/screenshots/kmahjongg/kmahjongg.png)
+ 
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames

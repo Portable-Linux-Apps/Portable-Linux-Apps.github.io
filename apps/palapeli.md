@@ -13,6 +13,8 @@
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
            
+ ![Screenshot](https://www.kde.org/images/screenshots/palapeli.png)
+ 
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames

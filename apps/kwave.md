@@ -7,6 +7,8 @@
  ways and presents a graphical view with a complete zoom- and 
  scroll capability. 
  
+ ![Screenshot](https://cdn.kde.org/screenshots/kwave/kwave.png)
+ 
  SITE: https://apps.kde.org/kwave
 
  SOURCE: https://packages.debian.org/stable/kwave

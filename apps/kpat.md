@@ -2,7 +2,7 @@
 
  A relaxing solitaire game. Arrange the cards in a certain order,
  either by the same color or alternating colors, in the shortest
- time possible.  
+ time possible.
  
  NOTE: this script includes icons and launchers for the 
  full KDE games suite in just one Appimage (takes 280 MB).
@@ -12,6 +12,8 @@
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
            
+ ![Screenshot](https://cdn.kde.org/screenshots/kpatience/kpatience.png)
+ 
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames

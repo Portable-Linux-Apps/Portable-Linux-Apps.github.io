@@ -15,6 +15,8 @@
      - mkdir ~/.local/share/appimagekit
      - touch ~/.local/share/appimagekit/no_desktopintegration
  
+ ![Screenshot](https://cdn.openshot.org/static/img/gallery/ui-example.jpg)
+ 
  SITE: https://www.openshot.org
 
  SOURCE: https://github.com/OpenShot/openshot-qt

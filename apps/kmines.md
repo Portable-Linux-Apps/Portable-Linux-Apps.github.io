@@ -1,7 +1,7 @@
 # KMINES
 
  Uncover all the squares without triggering a mine.
- A classic Minesweeper game.   
+ A classic Minesweeper game. 
  
  NOTE: this script includes icons and launchers for the 
  full KDE games suite in just one Appimage (takes 280 MB).
@@ -11,6 +11,8 @@
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
            
+ ![Screenshot](https://cdn.kde.org/screenshots/kmines/kmines.png)
+ 
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames

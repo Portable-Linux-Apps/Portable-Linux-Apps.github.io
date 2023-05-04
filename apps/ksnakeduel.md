@@ -10,7 +10,7 @@
  steer a snake which has to eat food. While eating, the snake 
  grows. But once a player collides with the other snake or 
  the wall, the game is lost. This becomes, of course, more 
- and more difficult the longer the snakes grow.  
+ and more difficult the longer the snakes grow.
  
  NOTE: this script includes icons and launchers for the 
  full KDE games suite in just one Appimage (takes 280 MB).
@@ -20,6 +20,8 @@
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
            
+ ![Screenshot](https://kde.org/images/screenshots/ksnakeduel.png)
+ 
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames

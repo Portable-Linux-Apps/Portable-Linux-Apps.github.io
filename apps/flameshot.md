@@ -4,6 +4,8 @@
  tool to take screenshots with many built-in features
  to save you time.
  
+ ![Screenshot](https://flameshot.org/img/flameshot-hero.jpg)
+ 
  SITE: https://flameshot.org
 
  [Go back](https://portable-linux-apps.github.io/apps.html)

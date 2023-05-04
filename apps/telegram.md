@@ -7,6 +7,8 @@
  
   rm /home/$USER/.local/share/applications/*-Telegram_Desktop.desktop
  
+ ![Screenshot](https://ubuntuhandbook.org/wp-content/uploads/2015/01/telegram-in-ubuntu.jpg)
+ 
  SITE: https://desktop.telegram.org
 
  SOURCE: https://github.com/telegramdesktop/tdesktop

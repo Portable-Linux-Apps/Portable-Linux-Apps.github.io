@@ -1,7 +1,7 @@
 # KDIAMOND
 
  Swap two adjacent diamonds to form a line of three similar
- diamonds to eliminate as much as you can within the time limit.   
+ diamonds to eliminate as much as you can within the time limit.
  
  NOTE: this script includes icons and launchers for the 
  full KDE games suite in just one Appimage (takes 280 MB).
@@ -11,6 +11,8 @@
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
            
+ ![Screenshot](https://cdn.kde.org/screenshots/kdiamond/kdiamond.png)
+ 
  SITE: https://apps.kde.org
 
  SOURCE: https://packages.debian.org/stable/kdegames

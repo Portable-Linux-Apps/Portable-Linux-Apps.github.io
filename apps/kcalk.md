@@ -1,3 +1,4 @@
+# KCALC
 
  KCalc is a scientific calculator.
 
@@ -9,6 +10,8 @@
  * A comprehensive collection of mathematical constants
 
  This tool is part of the KDE Utils Suite.
+ 
+ ![Screenshot](https://cdn.kde.org/screenshots/kcalc/kcalc-numeral.png)
  
  SITE: https://apps.kde.org
 

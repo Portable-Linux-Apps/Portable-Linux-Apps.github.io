@@ -10,6 +10,8 @@
  collaboration platforms, including Skype for Business and Microsoft 
  Classroom.
  
+ ![Screenshot](https://dl.flathub.org/repo/screenshots/com.github.IsmaelMartinez.teams_for_linux-stable/752x423/com.github.IsmaelMartinez.teams_for_linux-3be0de1829a200467d5f48d0381c802f.png)
+ 
  SITE: https://teams.com
 
  SOURCE: https://packages.microsoft.com
