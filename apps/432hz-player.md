@@ -10,6 +10,8 @@
  This application uses a very high-quality pitch-shifting 
  algorithm with low CPU usage.
  
+ ![Screenshot](https://images.pling.com/img/00/00/66/21/66/1801758/screenshot-player432hz1.png)
+ 
  SITE: https://github.com/mysteryx93/NaturalGroundingPlayer
 
  [Go back](https://portable-linux-apps.github.io/apps.html)
