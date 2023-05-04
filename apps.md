@@ -2536,6 +2536,9 @@ Magic Lantern Video Processing Application.
 
 ## ◆ [*n3h*](apps/n3h.md) 
  Nodejs implementation of holochain networking / p2p backend process. 
+ 
+## ◆ [*nanosaur*](apps/nanosaur.md) 
+ Pangea Software’s game, adventure of a cybernetic dinosaur.
 
 ## ◆ [*nanovault*](apps/nanovault.md) 
  Wallet for interacting with Nano. 
