@@ -4,6 +4,8 @@
  It has a free and a premium version that you can unlock by becoming
  a patron (3$/month).
  
+ ![Screenshot](https://raw.githubusercontent.com/supertriodo/Arena-Tracker/master/Readme/inGame.png)
+ 
  SITE: https://github.com/supertriodo/Arena-Tracker
 
  [Go back](https://portable-linux-apps.github.io/apps.html)
