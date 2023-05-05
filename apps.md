@@ -146,6 +146,9 @@
 
 ## ◆ [*appimagelint*](apps/appimagelint.md) 
  Check AppImages for compatibility, best practices etc. 
+ 
+## ◆ [*appimagen*](apps/appimagen.md)
+ A script that generates a custom AppImage from a PPA.
 
 ## ◆ [*appimagepool*](apps/appimagepool.md) 
  A simple, modern AppImageHub Client, powered by flutter.  
