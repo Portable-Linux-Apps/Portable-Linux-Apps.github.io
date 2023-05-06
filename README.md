@@ -11,6 +11,9 @@
 - [Are the applications managed safe?](#are-the-applications-managed-safe)
 - [I've not understand, what should I install to manage all these applications?](i-ve-not-understand-what-should-i-install-to-manage-all-these-applications)
 - [The app "Pippo" is not available in the database, how can I upload it?](#the-app-pippo-is-not-available-in-the-database-how-can-i-upload-it)
+- [Troubleshoot](#troubleshoot)
+  - [During an update or an installation the app is not downloaded](#during-an-update-or-an-installation-the-app-is-not-downloaded)
+  - [The downloaded AppImage does not work](#the-downloaded-appimage-does-not-work)
 
 ### What are the portable linux apps?
 Portable Linux Apps are standalone applications for GNU/Linux that can (theorically) run everywhere, also on a USB stick. These applcations can be AppImage packages (see [appimage.org](https://appimage.org/)) or standalone archives (for example Firefox, Blender, Thunderbird...).
@@ -77,5 +80,11 @@ More of them are official programs, others are third-party AppImage packages bui
 
 ### The app "Pippo" is not available in the database, how can I upload it?
 You should do a fork of [https://github.com/ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager), if "AM" or AppMan are installed you can use the option `-t` (or `template`) to create your own script. Just follow the instructions on your terminal, in the end a directory containing all the stuff needed to install the app will be saved on your desktop, upload all the content of this directory on your "fork" and try to merge a pull request, I'll check it and (if everything is OK) I'll approve it. "AM" is open source, like this website. I suggest to start so, in this way we can have both installable apps and web pages to spread to the masses. 
+
+# Troubleshoot
+### During an update or an installation the app is not downloaded
+This happens because whoever hosted the program to download on their own site changed something on the web page, so commands within the installation scripts are no longer able to intercept the download link. Uninstall the application and report the problem at [github.com/ivan-hc/AM-Application-Manager/issues](https://github.com/ivan-hc/AM-Application-Manager/issues) and I'll try to correct it as far I can.
+### The downloaded AppImage does not work
+Run "AM" or AppMan with the option `-a` (example `am -a $PROGRAM`) and see if this is a know issue. If the issue is related to the AppImage itself, just contact the developer from the link provided. "AM" is only a way to obtain these standalone packages, not a guarantee of support for those AppImages not maintained by me (the list of Appimage packages I've built and I'm responsible on is [here](https://github.com/ivan-hc#my-appimage-packages)).
 
 -----------------------------------------
