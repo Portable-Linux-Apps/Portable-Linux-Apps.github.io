@@ -32,6 +32,7 @@ See "[AM Application Manager](https://github.com/ivan-hc/AM-Application-Manager)
 To install a program, launch the command:
 
     am -i $PROGRAM
+
 the program will be installed into a dedicated directory in `/opt` (according to the [Linux Standard Base](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch03s13.html)). This is what an installation script installs with "AM":
 
     /opt/$PROGRAM/
@@ -41,9 +42,11 @@ the program will be installed into a dedicated directory in `/opt` (according to
     /opt/$PROGRAM/icons/$ICON-NAME
     /usr/local/bin/$PROGRAM
     /usr/share/applications/AM-$PROGRAM.desktop
+
 To update all the apps at once just run the following command:
 
     am -U
+
 To uninstall everything just run:
 
     am -R $PROGRAM
