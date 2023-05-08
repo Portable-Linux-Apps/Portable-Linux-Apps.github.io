@@ -9,3 +9,5 @@
  NOTE: this AppImage requires "ffmpeg" to be installed on your system.
  
  SOURCE: https://github.com/ivan-hc/MPV-appimage
+ 
+ [Go back](https://portable-linux-apps.github.io/apps.html)
