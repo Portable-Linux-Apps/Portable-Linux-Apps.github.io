@@ -4,7 +4,7 @@
  It supports a wide variety of media file formats, audio and video codecs
  and subtitle types.
  
- This is the Unofficial AppImage built from Debian Bullseye (GLIBC-2.36).
+ This is the Unofficial AppImage built from Debian Bullseye (GLIBC-2.31).
  
  NOTE: this AppImage requires "ffmpeg" to be installed on your system.
  
