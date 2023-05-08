@@ -2473,6 +2473,15 @@ Magic Lantern Video Processing Application.
 
 ## ◆ [*mp3-tagger-appimage*](apps/mp3-tagger-appimage.md) 
  An Electron app to edit metadata of mp3 files. 
+ 
+## ◆ [mpv-0.35](apps/mpv-0.35.md) 
+ A free, open source, and cross-platform media player (LIBC 2.36+).
+
+## ◆ [mpv-0.32](apps/mpv-0.32.md) 
+ A free, open source, and cross-platform media player (LIBC 2.31+).
+
+## ◆ [mpv-0.29](apps/mpv-0.29.md) 
+ A free, open source, and cross-platform media player (LIBC 2.28+).
 
 ## ◆ [*mqttcute*](apps/mqttcute.md) 
  An advanced desktop MQTT client for binary protocol development. 
