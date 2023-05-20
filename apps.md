@@ -550,7 +550,7 @@
  Soundboard for hot-keying and playing back sounds. 
 
 ## ◆ [*catcher*](apps/catcher.md) 
- Peer-testing of software projects.  
+ Peer-testing of software projects. 
 
 ## ◆ [*cate-desktop*](apps/cate-desktop.md) 
  GUI for the ESA CCI Toolbox (Cate). 
@@ -590,6 +590,12 @@
 
 ## ◆ [*chiaki*](apps/chiaki.md) 
  PlayStation 4 Remote Play Client. 
+ 
+## ◆ [*chimeradesk*](apps/chimeradesk.md) 
+ Simple, fast and flexible DIY Remote Desktop software.
+ 
+## ◆ [*chimeradesk-kvm*](apps/chimeradesk-kvm.md)
+ Simple, fast and flexible DIY Remote Desktop software
 
 ## ◆ [*chromium-bsu*](apps/chromium-bsu.md) 
  Fast paced arcade style scrolling space shooter (game). 
