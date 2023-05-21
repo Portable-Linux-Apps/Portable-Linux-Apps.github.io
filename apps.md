@@ -615,9 +615,6 @@
 ## ◆ [*cider*](apps/cider.md) 
  A new cross-platform Apple Music experience with performance in mind. 
 
-## ◆ [*cin-appimage*](apps/cin-appimage.md) 
- Cinelerra GG Infinity, a free and open source video editor. 
-
 ## ◆ [*cinelerra-gg*](apps/cinelerra-gg.md) 
  Professional video editing and compositing environment. 
 
