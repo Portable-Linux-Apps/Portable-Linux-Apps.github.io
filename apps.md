@@ -4530,6 +4530,9 @@ A tool to help when learning to play the piano.
 ## ◆ [*xournal++*](apps/xournal++.md) 
  A C++ handwriting notetaking software with PDF annotation support. 
 
+## ◆ [*xournal++nightly*](apps/xournal++.md) 
+ C++ notetaking software with PDF annotation support (DEV).
+
 ## ◆ [*xpeviewer*](apps/xpeviewer.md) 
  PE file viewer/editor. 
 
