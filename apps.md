@@ -2709,6 +2709,9 @@ Front-end launcher for retro/current gen game emulators.
 
 ## ◆ [*olive-0.1*](apps/olive-0.1.md) 
  Free non-linear video editor (version 0.1). 
+ 
+## ◆ [*olive*](apps/olive.md) 
+ Free open-source non-linear video editor (nightly build).
 
 ## ◆ [*ommpfritt*](apps/ommpfritt.md) 
  Semantic, procedural, non-destructive vector modelling. 
