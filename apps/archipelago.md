@@ -1,9 +1,7 @@
 # ARCHIPELAGO
  
- Archipelago is a terminal emulator built on open web technologies.
-
- This is the 3.16.1 release, ie the last one supporting Linux.
+ Archipelago Multi-Game Randomizer and Server.
  
- SITE: https://github.com/npezza93/archipelago
+ SITE: https://github.com/ArchipelagoMW/Archipelago
 
  [Go back](https://portable-linux-apps.github.io/apps.html)

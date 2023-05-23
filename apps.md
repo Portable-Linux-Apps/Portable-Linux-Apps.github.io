@@ -187,7 +187,7 @@
  Script to convert Arch Linux packages to AppDir/AppImage. 
 
 ## ◆ [*archipelago*](apps/archipelago.md) 
- A terminal emulator built on open web technologies. 
+ Archipelago Multi-Game Randomizer and Server. 
 
 ## ◆ [*archipel*](apps/archipel.md) 
  Decentralized archiving and media library system. 
