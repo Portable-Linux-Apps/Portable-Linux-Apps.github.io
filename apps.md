@@ -273,9 +273,6 @@
 ## ◆ [*axe-electrum*](apps/axe-electrum.md) 
  Axe Electrum Wallet. 
 
-## ◆ [*azpainter*](apps/azpainter.md) 
- A full color painting software for illustration drawing. 
-
 ## ◆ [*baijimangaviewer*](apps/baijimangaviewer.md) 
  Manga viewer that uses Material Design. 
 
