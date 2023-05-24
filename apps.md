@@ -225,9 +225,6 @@
 ## ◆ [*asgardex-appimage*](apps/asgardex-appimage.md) 
  Thorchain wallet desktop app. 
 
-## ◆ [*assaultcube*](apps/assaultcube.md) 
- Multiplayer, first-person shooter game 3D, based on CUBE. 
-
 ## ◆ [*astroffers*](apps/astroffers.md) 
  Take offers to watch at given nights by the NGC2000 catalog. 
 
