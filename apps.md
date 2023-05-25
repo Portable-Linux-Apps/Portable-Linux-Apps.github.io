@@ -4407,7 +4407,7 @@ A tool to help when learning to play the piano.
 ## ◆ [*whu-library-seat*](apps/whu-library-seat.md) 
  Wuhan University Library Assistant (for Jinan University). 
 
-## ◆ [*widelands-appimage*](apps/widelands-appimage.md) 
+## ◆ [*widelands*](apps/widelands-appimage.md) 
  Real-time strategy game with singleplayer campaigns. 
 
 ## ◆ [*windows2usb*](apps/windows2usb.md) 
