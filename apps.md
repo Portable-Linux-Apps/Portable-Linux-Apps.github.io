@@ -1372,9 +1372,6 @@ File manager written in Qt and C++.
 ## ◆ [*freac*](apps/freac.md) 
  fre:ac, free audio converter and CD ripper for various encoders. 
 
-## ◆ [*freecad-assembly3-appimage*](apps/freecad-assembly3-appimage.md) 
- Assembly3 workbench for FreeCAD. 
-
 ## ◆ [*freecad*](apps/freecad.md) 
  Free and open source AutoCAD alternative. 
 
