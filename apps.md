@@ -3174,11 +3174,6 @@ Front-end launcher for retro/current gen game emulators.
 
 ## ◆ [*puppetry*](apps/puppetry.md) 
  App to build end-to-end automation tests.
-Solution for non-developers on top of Puppeteer and Jest. 
-
-## ◆ [*puppetry*](apps/puppetry.md) 
- App to build end-to-end automation tests.
-Solution for non-developers on top of Puppeteer and Jest. 
 
 ## ◆ [*puush-qt*](apps/puush-qt.md) 
  A GUI frontend for puush on Linux. 
