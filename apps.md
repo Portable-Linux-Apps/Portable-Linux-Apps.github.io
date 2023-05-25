@@ -209,6 +209,9 @@
 
 ## ◆ [*armagetronad*](apps/armagetronad.md) 
  Multiplayer game in 3d that emulates the movie "Tron". 
+ 
+## ◆ [*armcord*](apps/armcord.md)
+ Custom client designed to enhance your Discord experience.
 
 ## ◆ [*around*](apps/around.md) 
  Video calls designed for energy, ideas and action. 
@@ -272,12 +275,15 @@
 
 ## ◆ [*axe-electrum*](apps/axe-electrum.md) 
  Axe Electrum Wallet. 
+ 
+## ◆ [*axolotl*](apps/axolotl.md)
+ A Signal compatible cross plattform client written in Go and Vuejs.
 
 ## ◆ [*baijimangaviewer*](apps/baijimangaviewer.md) 
  Manga viewer that uses Material Design. 
 
 ## ◆ [*bauh*](apps/bauh.md) 
- GUI for managing AppImage, Arch/AUR, DEBs, Flatpak, Snap and webapps.  
+ GUI for managing AppImage, Arch/AUR, DEBs, Flatpak, Snap and webapps.
 
 ## ◆ [*bazecor*](apps/bazecor.md) 
  Graphical configurator for Dygma Raise. 
@@ -560,6 +566,9 @@
 
 ## ◆ [*celoterminal-bin*](apps/celoterminal-bin.md) 
  Celo Terminal (AppImage version). 
+ 
+## ◆ [*cemu*](apps/cemu.md) 
+ A Nintendo Wii U emulator that is able to run most Wii U games.
 
 ## ◆ [*cerebral-debugger*](apps/cerebral-debugger.md) 
  Cerebral Debugger. 
@@ -994,6 +1003,9 @@ File manager written in Qt and C++.
 ## ◆ [*easymercurial*](apps/easymercurial.md) 
  A simple UI for the Mercurial version-control system. 
 
+## ◆ [*ecode*](apps/ecode.md) 
+ Lightweight code editor designed for modern hardware. 
+
 ## ◆ [*edex-ui*](apps/edex-ui.md) 
  A science fiction desktop running everywhere. 
 
@@ -1048,6 +1060,9 @@ File manager written in Qt and C++.
 ## ◆ [*element*](apps/element.md) 
  A feature-rich client for Matrix.org. 
 
+## ◆ [*elk*](apps/elk.md) 
+ Native version of Elk, a nimble Mastodon web. 
+
 ## ◆ [*elementary-code*](apps/elementary-code.md) 
  AppImage version of Elementary OS "Code" by Maksym Titenko. 
 
@@ -1082,7 +1097,7 @@ File manager written in Qt and C++.
  Space exploration and combat game. 
 
 ## ◆ [*enoseannotator*](apps/enoseannotator.md) 
- View, annotate and store measurements of the eNose sensor.  
+ View, annotate and store measurements of the eNose sensor.
 
 ## ◆ [*ente*](apps/ente.md) 
  Desktop app for ente.io. 
@@ -1285,6 +1300,9 @@ File manager written in Qt and C++.
 ## ◆ [*flameshot*](apps/flameshot.md) 
  Tool to take screenshots with many built-in features (graphics). 
 
+## ◆ [*flare*](apps/flare.md) 
+ Fantasy action RPG game using the FLARE engine.
+
 ## ◆ [*flexvdi-client-appimage*](apps/flexvdi-client-appimage.md) 
  Client for connecting to flexVDI desktops. 
 
@@ -1296,6 +1314,9 @@ File manager written in Qt and C++.
 
 ## ◆ [*fluent-reader*](apps/fluent-reader.md) 
  Modern desktop RSS reader. 
+
+## ◆ [*flycast*](apps/flycast.md) 
+ A Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator. 
 
 ## ◆ [*fmradio*](apps/fmradio.md) 
  Cross platform FM Radio App for RTL2832U dongles. 
@@ -1391,7 +1412,10 @@ File manager written in Qt and C++.
  Development environment of General Algebraic Modeling System. 
 
 ## ◆ [*ganache*](apps/ganache.md) 
- Personal Blockchain for Ethereum (latest AppImage for Linux). 
+ Personal Blockchain for Ethereum (latest AppImage for Linux).
+ 
+## ◆ [*gaphor*](apps/gaphor.md)
+ A UML and SysML modeling application written in Python. 
 
 ## ◆ [*gargoyle-bin*](apps/gargoyle-bin.md) 
  Interactive Fiction multi-int. for all major IF formats. 
@@ -1401,6 +1425,9 @@ File manager written in Qt and C++.
 
 ## ◆ [*gdlauncher-appimage*](apps/gdlauncher-appimage.md) 
  Simple, yet powerful Minecraft custom launcher. 
+
+## ◆ [*gdm-settings*](apps/gdm-settings.md)
+ A settings app for GNOME's Login Manager, GDM.
 
 ## ◆ [*geeqie*](apps/geeqie.md) 
  Claiming to be the best image viewer / photo collection browser. 
@@ -1578,6 +1605,9 @@ Images to shapes converter (graphics).
 ## ◆ [*gyroflow-appimage*](apps/gyroflow-appimage.md) 
  Video stabilization using gyroscope data. 
 
+## ◆ [*hamsket*](apps/hamsket.md)
+ Source messaging and emailing app that combines common web apps into one.
+
 ## ◆ [*handbrake*](apps/handbrake.md) 
  An open-source multiplatform video transcoder. 
 
@@ -1588,7 +1618,10 @@ Images to shapes converter (graphics).
  Merge several raw images into a single DNG raw image. 
 
 ## ◆ [*heimer*](apps/heimer.md) 
- Simple cross-platform mind map, diagram, and note-taking tool.  
+ Simple cross-platform mind map, diagram, and note-taking tool.
+ 
+## ◆ [*helix*](apps/helix.md)
+ A post-modern modal text editor. 
 
 ## ◆ [*hermesmessenger*](apps/hermesmessenger.md) 
  Desktop client version for Hermes Messenger. 
@@ -1596,11 +1629,14 @@ Images to shapes converter (graphics).
 ## ◆ [*hero-display*](apps/hero-display.md) 
  App for display on HERO robot. 
 
+## ◆ [*heroic-games-launcher*](apps/heroic-games-launcher.md)
+ A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
+ 
 ## ◆ [*hexinator*](apps/hexinator.md) 
  Hex editor for reverse engineering & binary file analysis. 
 
 ## ◆ [*hexoclient*](apps/hexoclient.md) 
- A cross-platform hexo client, build on electron.  
+ A cross-platform hexo client, build on electron.
 
 ## ◆ [*hexoeditor*](apps/hexoeditor.md) 
  Markdown editor for Hexo built with Electron. 
@@ -1658,6 +1694,9 @@ Images to shapes converter (graphics).
 
 ## ◆ [*iagoncloudapp*](apps/iagoncloudapp.md) 
  Iagon Cloud Application. 
+ 
+## ◆ [*icalingua++*](apps/icalingua++.md)
+ A client for QQ and more.
 
 ## ◆ [*icedrive-appimage*](apps/icedrive-appimage.md) 
  The next generation of cloud storage. 
@@ -1720,7 +1759,10 @@ Images to shapes converter (graphics).
  Inochi2D Rigging Application. 
 
 ## ◆ [*insight*](apps/insight.md) 
- The GUI front-end of GDB with Tcl/Tk. 
+ The GUI front-end of GDB with Tcl/Tk.
+ 
+## ◆ [*insomnia*](apps/insomnia.md)
+  Cross-platform API client for GraphQL, REST, WebSockets and gRPC. 
 
 ## ◆ [*instead*](apps/instead.md) 
  Simple Text Adventures Interpreter. 
@@ -1982,8 +2024,11 @@ Open source accountant.
 ## ◆ [*koodo-reader*](apps/koodo-reader.md) 
  Modern ebook manager and reader with sync & backup capacities. 
 
+## ◆ [*kopia*](apps/kopia.md)
+ Cross-platform backup tool for Windows, macOS & Linux.
+
 ## ◆ [*kopiaui*](apps/kopiaui.md) 
- Backup tool, client-side end-to-end encryption and compression.  
+ Backup tool, client-side end-to-end encryption and compression.
 
 ## ◆ [*koreader*](apps/koreader.md) 
  A document viewer. 
@@ -2056,6 +2101,9 @@ Open source accountant.
 
 ## ◆ [*launcher*](apps/launcher.md) 
  Generic application's launcher. 
+
+## ◆ [*lbryio*](apps/lbryio.md)
+ A browser and wallet for LBRY, the decentralized content marketplace.
 
 ## ◆ [*lcedit*](apps/lcedit.md) 
  Editor (unknown). 
@@ -2161,6 +2209,9 @@ Open source accountant.
 
 ## ◆ [*linux-intel-undervolt-gui*](apps/linux-intel-undervolt-gui.md) 
  Undervolting GUI for Intel Linux Systems. 
+ 
+## ◆ [*linwood-butterfly*](apps/linwood-butterfly.md) 
+ Powerful, minimalistic, cross-platform, note-taking app.
 
 ## ◆ [*listen1-desktop-appimage*](apps/listen1-desktop-appimage.md) 
  One for all free music in China. 
@@ -2176,6 +2227,9 @@ Open source accountant.
 
 ## ◆ [*local-browser*](apps/local-browser.md) 
  Share your localhost in a unique way. 
+
+## ◆ [*localsend*](apps/localsend.md)
+ An open source cross-platform alternative to AirDrop
 
 ## ◆ [*loginized*](apps/loginized.md) 
  Loginized Gnome GDM Login Theme Manager. 
@@ -2398,7 +2452,10 @@ Grab meta data for tv shows and rename files locally.
  Mira Auto Database Backup app. 
 
 ## ◆ [*mirage*](apps/mirage.md) 
- Matrix chat client for encrypted and decentralized communication.  
+ Matrix chat client for encrypted and decentralized communication. 
+
+## ◆ [*miru*](apps/miru.md)
+ Bittorrent streaming software for cats. Stream anime torrents.
 
 ## ◆ [*mjml-app*](apps/mjml-app.md) 
  The desktop app for MJML. 
@@ -2520,7 +2577,7 @@ Magic Lantern Video Processing Application.
  Accounting system written in C++ with QTCore. 
 
 ## ◆ [*my-budget*](apps/my-budget.md) 
- Offline cross-platform budgeting solution built with Electron.  
+ Offline cross-platform budgeting solution built with Electron.
 
 ## ◆ [*mycrypto*](apps/mycrypto.md) 
  MyCrypto web and electron app. 
@@ -2536,6 +2593,9 @@ Magic Lantern Video Processing Application.
 
 ## ◆ [*n3h*](apps/n3h.md) 
  Nodejs implementation of holochain networking / p2p backend process. 
+ 
+## ◆ [*naev*](apps/naev.md)
+ Naev is a 2d action/rpg space game that combines elements from the action.
  
 ## ◆ [*nanosaur*](apps/nanosaur.md) 
  Pangea Software’s game, adventure of a cybernetic dinosaur.
@@ -2770,11 +2830,14 @@ Front-end launcher for retro/current gen game emulators.
 ## ◆ [*osu*](apps/osu.md) 
  A free-to-win rhythm game. Rhythm is just a click away! 
 
+## ◆ [*outer-wilds-mod-manager*](apps/outer-wilds-mod-manager.md)
+ The mod manager for the Outer Wilds Mod Loader.
+
 ## ◆ [*outline-manager*](apps/outline-manager.md) 
  Create and manage access to Outline servers. 
 
 ## ◆ [*outline-server*](apps/outline-server.md) 
- Creates and manages Outline servers.  
+ Creates and manages Outline servers.
 
 ## ◆ [*ovideo*](apps/ovideo.md) 
  Video Editor. 
@@ -2858,13 +2921,16 @@ Front-end launcher for retro/current gen game emulators.
  Pushbullet Desktop app. 
 
 ## ◆ [*pboy*](apps/pboy.md) 
- A small .pdf management tool with a command-line UI. 
+ A small .pdf management tool with a command-line UI.
+ 
+## ◆ [*pcsx2*](apps/pcsx2.md)
+ The Playstation 2 Emulator. 
 
 ## ◆ [*pdf2htmlex-appimage*](apps/pdf2htmlex-appimage.md) 
  Convert PDF to HTML without losing text or format. 
 
 ## ◆ [*pdfquirk*](apps/pdfquirk.md) 
- Creating PDFs from images or scanner made easy.  
+ Creating PDFs from images or scanner made easy.
 
 ## ◆ [*pdf-sync*](apps/pdf-sync.md) 
  PDF Reader in JavaScript with Sync. 
