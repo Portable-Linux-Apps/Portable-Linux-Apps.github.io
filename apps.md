@@ -2280,9 +2280,6 @@ Open source accountant.
  GUI Programming Tool for iCE40. 
 
 ## ◆ [*manager-io*](apps/manager-io.md) 
- Free Accounting Software for Linux. 
-
-## ◆ [*manager-server*](apps/manager-server.md) 
  Free Accounting Software for Linux (Server). 
 
 ## ◆ [*mandelbulber2*](apps/mandelbulber2.md) 
