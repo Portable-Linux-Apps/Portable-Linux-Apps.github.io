@@ -1198,9 +1198,6 @@ File manager written in Qt and C++.
 ## ◆ [*feedseries*](apps/feedseries.md) 
  Follow your series enthusiast news (french). 
 
-## ◆ [*ferdi*](apps/ferdi.md) 
- Messaging app (Slack, WhatsApp, WeChat, Facebook, Telegram and more). 
-
 ## ◆ [*ferdium*](apps/ferdium.md) 
  All your services in one place, built by the community. 
 
