@@ -2782,9 +2782,6 @@ Front-end launcher for retro/current gen game emulators.
 ## ◆ [*ovideo*](apps/ovideo.md) 
  Video Editor. 
 
-## ◆ [*ovis*](apps/ovis.md) 
- A visualization tool for OpenMDAO. 
-
 ## ◆ [*owallet*](apps/owallet.md) 
  A comprehensive Ontology desktop wallet. 
 
