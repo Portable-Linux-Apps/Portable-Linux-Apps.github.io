@@ -5,6 +5,6 @@
  protection, improving pack distribution, storage and in-game load
  times. 
  
- SITE: https://github.com/
+ SITE: https://github.com/ComunidadAylas/PackSquash
 
  [Go back](https://portable-linux-apps.github.io/apps.html)
