@@ -4329,9 +4329,6 @@ A tool to help when learning to play the piano.
 ## ◆ [*walc*](apps/walc.md) 
  WhatsApp Linux Client (Unofficial). 
 
-## ◆ [*walletshell*](apps/walletshell.md) 
- TurtleCoin GUI Wallet. 
-
 ## ◆ [*wallettech*](apps/wallettech.md) 
  BytechCoin GUI Wallet. 
 
