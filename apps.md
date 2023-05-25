@@ -1476,9 +1476,6 @@ Images to shapes converter (graphics).
 ## ◆ [*glaxnimate*](apps/glaxnimate.md) 
  A simple and fast vector graphics animation program. 
 
-## ◆ [*glimpse-image-editor*](apps/glimpse-image-editor.md) 
- Create and edit images (based on GIMP 2.10.18). 
-
 ## ◆ [*gltf-insight*](apps/gltf-insight.md) 
  C++11 based glTF 2.0 data insight tool. 
 
