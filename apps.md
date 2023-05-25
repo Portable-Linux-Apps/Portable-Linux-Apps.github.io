@@ -510,9 +510,6 @@
 ## ◆ [*cadmus-appimage*](apps/cadmus-appimage.md) 
  Pulse Audio real-time noise suppression plugin. 
 
-## ◆ [*caesium*](apps/caesium.md) 
- Image compression software supporting JPG, PNG and WebP formats. 
-
 ## ◆ [*cajviewer-appimage*](apps/cajviewer-appimage.md) 
  CAJViewer for Linux. 
 
