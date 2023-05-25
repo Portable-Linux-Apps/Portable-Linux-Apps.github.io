@@ -3431,9 +3431,6 @@ Solution for non-developers on top of Puppeteer and Jest.
 ## ◆ [*safe-multisig*](apps/safe-multisig.md) 
  Allowing crypto users manage funds in a safer way. 
 
-## ◆ [*safesurfer-desktop*](apps/safesurfer-desktop.md) 
- Keep safe in the digitial surf. 
-
 ## ◆ [*samanager*](apps/samanager.md) 
  Manage your Prestashop online Store. 
 
