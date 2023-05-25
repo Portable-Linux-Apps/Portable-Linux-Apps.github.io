@@ -1,11 +1,7 @@
-# ARCADE-MANAGER
+#ARCADE-MANAGER
 
- Arcade manager provides a rom management tool, specifically designed for use with Retropie & Recalbox.
- It helps you to manage and filter your rom collection by removing unwanted, bad, and unplayable games.
- It's also useful if you feel a bit lost among the several thousand games that full MAME romsets provides, and only want the very best.
- 
- ![Screenshot](https://raw.githubusercontent.com/cosmo0/arcade-manager/docs/images/screen-home.png)
- 
+   Arcade management tool to handle your MAME/FBA romsets
+
  SITE: https://github.com/cosmo0/arcade-manager
 
  [Go back](https://portable-linux-apps.github.io/apps.html)
