@@ -441,9 +441,6 @@
 ## ◆ [*brave-beta*](apps/brave-beta.md) 
  A privacy oriented Web Browser (Beta Edition).  
 
-## ◆ [*brave-dev-appimage*](apps/brave-dev-appimage.md) 
- Unofficial AppImage (Web Browser, Dev).  
-
 ## ◆ [*brave-dev*](apps/brave-dev.md) 
  A privacy oriented Web Browser (Developer Edition).  
 
