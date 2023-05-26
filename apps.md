@@ -36,9 +36,6 @@
 ## ◆ [*ai-bot-workspace*](apps/ai-bot-workspace.md) 
  Electron app including testing workspaces. 
 
-## ◆ [*aih2am*](apps/aih2am.md) 
- Tool to convert apps from appimage.github.io to AM's installers. 
-
 ## ◆ [*aillio-ts*](apps/aillio-ts.md) 
  The desktop application for Aillio Bullet R1. 
 
@@ -1472,9 +1469,6 @@ Images to shapes converter (graphics).
 
 ## ◆ [*githoard*](apps/githoard.md) 
  Hoard git repositories with ease. 
-
-## ◆ [*github2am*](apps/github2am.md) 
- CLI to convert apps from any github repository to AM's installers. 
 
 ## ◆ [*github-desktop*](apps/github-desktop.md) 
  Electron-based GitHub app. 
