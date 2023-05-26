@@ -1512,9 +1512,6 @@ Images to shapes converter (graphics).
 ## ◆ [*godot*](apps/godot.md) 
  Multi-platform 2D and 3D game engine with a feature-rich editor. 
 
-## ◆ [*goglauncher*](apps/goglauncher.md) 
- A simple Linux launcher for GOG Games. 
-
 ## ◆ [*goldencheetah*](apps/goldencheetah.md) 
  Cycling Power Analysis Software. 
 
