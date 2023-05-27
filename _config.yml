@@ -6,7 +6,14 @@ sass:
   style: :compressed
 
 theme: jekyll-theme-primer
+plugins:
+  - jekyll-titles-from-headings
 
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
+ 
 github:
   private: false
   repository_url: "https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io"
