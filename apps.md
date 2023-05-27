@@ -9,7 +9,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***FOSS historical Real Time Strategy (RTS) game of ancient warfare.***
 
 | [More info](apps/0ad.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/0ad) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -17,7 +17,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Because most music is recorded in 440hz (Audio Player).***
 
 | [More info](apps/432hz-player.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/432hz-player) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -25,7 +25,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Emulator of x86-based machines based on PCem.***
 
 | [More info](apps/86box.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/86box) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -33,7 +33,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A nonlinear puzzle platformer (game).***
 
 | [More info](apps/aaaaxy.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/aaaaxy) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -41,7 +41,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Accessimap Lecteur DER.***
 
 | [More info](apps/accessimap-lecteur-der.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/accessimap-lecteur-der) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -49,7 +49,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Acreom desktop app releases.***
 
 | [More info](apps/acreom.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/acreom) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -57,7 +57,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A super fast privacy-focused app for managing your finances.***
 
 | [More info](apps/actual-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/actual-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -65,7 +65,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Android Debug Bridge (installer for "platform-tools").***
 
 | [More info](apps/adb.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/adb) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -73,7 +73,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Administrative tools.***
 
 | [More info](apps/admin-tools.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/admin-tools) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -81,7 +81,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Advanced REST Client and API console (by Mulesoft).***
 
 | [More info](apps/advanced-rest-client.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/advanced-rest-client) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -89,7 +89,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Electron app including testing workspaces.***
 
 | [More info](apps/ai-bot-workspace.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ai-bot-workspace) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -97,7 +97,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The desktop application for Aillio Bullet R1.***
 
 | [More info](apps/aillio-ts.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/aillio-ts) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -105,7 +105,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An online map for your X-Plane flight sessions.***
 
 | [More info](apps/airspaces.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/airspaces) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -113,7 +113,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Golang library to make sandboxing AppImages easy.***
 
 | [More info](apps/aisap.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/aisap) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -121,7 +121,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***AKASHA community client.***
 
 | [More info](apps/akasha.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/akasha) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -129,7 +129,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An Atom and RSS feed aggregator.***
 
 | [More info](apps/alduin.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/alduin) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -137,7 +137,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A desktop application for managing your visual library.***
 
 | [More info](apps/allusion.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/allusion) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -145,7 +145,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The best graphQL client you will ever need.***
 
 | [More info](apps/altair.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/altair) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -153,7 +153,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The Altitude wallet by Linda Project Inc.***
 
 | [More info](apps/altitude.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/altitude) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -161,7 +161,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Client for WhatsApp Web with themes & multiple account support.***
 
 | [More info](apps/altus.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/altus) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -169,7 +169,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Create living prototypes with code components.***
 
 | [More info](apps/alva-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/alva-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -177,7 +177,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Stream VR games from your PC to your headset via Wi-Fi.***
 
 | [More info](apps/alvr-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/alvr-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -185,7 +185,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Incorporates principles from behavioral psychology.***
 
 | [More info](apps/amazingmarvin-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/amazingmarvin-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -193,7 +193,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unofficial and unpretentious Amazon Music client.***
 
 | [More info](apps/amusiz.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/amusiz) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -201,7 +201,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tool to visualize musical form.***
 
 | [More info](apps/anavis.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/anavis) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -209,7 +209,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An EOSIO Light Wallet with simple and advanced tools.***
 
 | [More info](apps/anchor.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/anchor) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -217,7 +217,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Messages for web, as a desktop app.***
 
 | [More info](apps/android-messages-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/android-messages-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -225,7 +225,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***User-friendly Stop-Motion Animation Software (FREE).***
 
 | [More info](apps/animashooter-junior.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/animashooter-junior) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -233,7 +233,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***User-friendly Stop-Motion Animation Software (PRO).***
 
 | [More info](apps/animashooter-pioneer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/animashooter-pioneer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -241,7 +241,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Faster and better redis desktop manager.***
 
 | [More info](apps/another-redis-desktop-manager.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/another-redis-desktop-manager) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -249,7 +249,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An useful SQL client based on Electron.js and Vue.js.***
 
 | [More info](apps/antares.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/antares) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -257,7 +257,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***BitTorrent Client developed by golang, angular, electron.***
 
 | [More info](apps/ant-downloader.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ant-downloader) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -265,7 +265,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Use a gamepad to control a variety of programs.***
 
 | [More info](apps/antimicrox.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/antimicrox) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -273,7 +273,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Remote desktop application distributed (unofficial AppImage).***
 
 | [More info](apps/anydesk.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/anydesk) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -281,7 +281,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***AdsChef manages your classified ads.***
 
 | [More info](apps/anzeigenchef.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/anzeigenchef) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -289,7 +289,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Elegant Microsoft To-Do desktop app.***
 
 | [More info](apps/ao.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ao) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -297,7 +297,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Aphelion desktop wallet application built with Electron.***
 
 | [More info](apps/aphelion-wallet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/aphelion-wallet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -305,7 +305,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Photo editing app for GNU/Linux.***
 
 | [More info](apps/aphototoollibre.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/aphototoollibre) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -313,7 +313,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Easy to use APK (Android) reverse-engineering tool.***
 
 | [More info](apps/apk-editor-studio.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/apk-editor-studio) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -321,7 +321,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Project was bootstrapped with Create React App.***
 
 | [More info](apps/apla.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/apla) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -329,7 +329,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GNU/Linux packaging solution using the AppImage format.***
 
 | [More info](apps/appimage-builder.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/appimage-builder) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -337,7 +337,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Easily download AppImages from AppImageHub (unofficial fork).***
 
 | [More info](apps/appimagedl.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/appimagedl) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -345,7 +345,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Create and organize shortcuts for AppImages.***
 
 | [More info](apps/appimagehelper.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/appimagehelper) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -353,7 +353,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Install appimagetool, appimageupdatetool and pkg2appimage.***
 
 | [More info](apps/appimagekit.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/appimagekit) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -361,7 +361,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***CLI helper for running and integrating AppImages.***
 
 | [More info](apps/appimagelauncher.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/appimagelauncher) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -369,7 +369,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Check AppImages for compatibility, best practices etc.***
 
 | [More info](apps/appimagelint.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/appimagelint) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -377,7 +377,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A script that generates a custom AppImage from a PPA.***
 
 | [More info](apps/appimagen.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/appimagen) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -385,7 +385,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple, modern AppImageHub Client, powered by flutter.***
 
 | [More info](apps/appimagepool.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/appimagepool) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -393,7 +393,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tool to generate an AppImage from an existing AppDir.***
 
 | [More info](apps/appimagetool.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/appimagetool) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -401,7 +401,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tool to update an AppImage using embedded information.***
 
 | [More info](apps/appimageupdatetool.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/appimageupdatetool) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -409,7 +409,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tool to update an AppImage using embedded information.***
 
 | [More info](apps/appimageupdate.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/appimageupdate) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -417,7 +417,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Graphical interface for the Appium server.***
 
 | [More info](apps/appium-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/appium-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -425,7 +425,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Universal linux app store for Flatpak/Snap/AppImage.***
 
 | [More info](apps/app-outlet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/app-outlet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -433,7 +433,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A modern and lightweight Kubernetes desktop client.***
 
 | [More info](apps/aptakube-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/aptakube-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -441,7 +441,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***APX Ground Control.***
 
 | [More info](apps/apx-gcs.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/apx-gcs) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -449,7 +449,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Virtual Machine for Atari 32-bit applications.***
 
 | [More info](apps/aranym.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/aranym) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -457,7 +457,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Manage your rom collection (Games/Retropie & Recalbox).***
 
 | [More info](apps/arcade-manager.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/arcade-manager) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -465,7 +465,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Script to convert Arch Linux packages to AppDir/AppImage.***
 
 | [More info](apps/arch-deployer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/arch-deployer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -473,7 +473,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Archipelago Multi-Game Randomizer and Server.***
 
 | [More info](apps/archipelago.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/archipelago) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -481,7 +481,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Decentralized archiving and media library system.***
 
 | [More info](apps/archipel.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/archipel) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -489,7 +489,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Open-source electronics platform.***
 
 | [More info](apps/arduino-ide.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/arduino-ide) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -497,7 +497,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Deck Tracker for Hearthstone game with arena in focus.***
 
 | [More info](apps/arena-tracker.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/arena-tracker) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -505,7 +505,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Archiving tool for .zip/.tar/.rar and more (installs "kdeutils").***
 
 | [More info](apps/ark.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ark) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -513,7 +513,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Ark Ecosystem Desktop Wallet.***
 
 | [More info](apps/ark.desktop.wallet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ark.desktop.wallet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -521,7 +521,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***ArmA 3 Unix Launcher (game).***
 
 | [More info](apps/arma3-unix-launcher.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/arma3-unix-launcher) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -529,7 +529,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Multiplayer game in 3d that emulates the movie "Tron".***
 
 | [More info](apps/armagetronad.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/armagetronad) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -537,7 +537,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Custom client designed to enhance your Discord experience.***
 
 | [More info](apps/armcord.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/armcord) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -545,7 +545,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Video calls designed for energy, ideas and action.***
 
 | [More info](apps/around.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/around) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -553,7 +553,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Win 40 levels of mayhem without getting destroyed (game).***
 
 | [More info](apps/artifact.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/artifact) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -561,7 +561,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Visualizes the coffee roasting process.***
 
 | [More info](apps/artisan.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/artisan) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -569,7 +569,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***UI for Asar.***
 
 | [More info](apps/asarui.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/asarui) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -577,7 +577,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Thorchain wallet desktop app.***
 
 | [More info](apps/asgardex-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/asgardex-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -585,7 +585,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Take offers to watch at given nights by the NGC2000 catalog.***
 
 | [More info](apps/astroffers.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/astroffers) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -593,7 +593,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Audio reactive motion graphics program.***
 
 | [More info](apps/astrofox.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/astrofox) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -601,7 +601,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Ui to control your camera for astrophotography.***
 
 | [More info](apps/astroshutter.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/astroshutter) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -609,7 +609,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Audio CD ripper and encoder (WAV, MP3, OGG, FLAC, Opus, AAC...).***
 
 | [More info](apps/asunder.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/asunder) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -617,7 +617,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Atomic vue-electron.***
 
 | [More info](apps/atomicwallet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/atomicwallet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -625,7 +625,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Air Traffic Surveillance DataBase.***
 
 | [More info](apps/atsdb.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/atsdb) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -633,7 +633,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An open source audio and music player, descendant of XMMS.***
 
 | [More info](apps/audacious.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/audacious) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -641,7 +641,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Multiplatform Audio Editor.***
 
 | [More info](apps/audacity.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/audacity) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -649,7 +649,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Configuration app for the AudioMoth acoustic monitoring device.***
 
 | [More info](apps/audiomoth.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/audiomoth) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -657,7 +657,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A multiplatform audio editor (Audacity fork).***
 
 | [More info](apps/audmonkey.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/audmonkey) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -665,7 +665,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Augur Desktop Application.***
 
 | [More info](apps/augur.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/augur) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -673,7 +673,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An audio/music desktop client for SoundCloud.***
 
 | [More info](apps/auryo.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/auryo) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -681,7 +681,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***autoEdit2 Desktop Client for Linux.***
 
 | [More info](apps/autoedit2.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/autoedit2) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -689,7 +689,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Multiplatform Video Editor.***
 
 | [More info](apps/avidemux.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/avidemux) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -697,7 +697,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***PlayStation 1 emulator (games).***
 
 | [More info](apps/avocado.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/avocado) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -705,7 +705,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Axe Electrum Wallet.***
 
 | [More info](apps/axe-electrum.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/axe-electrum) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -713,7 +713,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Signal compatible cross plattform client written in Go and Vuejs.***
 
 | [More info](apps/axolotl.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/axolotl) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -721,7 +721,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Manga viewer that uses Material Design.***
 
 | [More info](apps/baijimangaviewer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/baijimangaviewer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -729,7 +729,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GUI for managing AppImage, Arch/AUR, DEBs, Flatpak, Snap and webapps.***
 
 | [More info](apps/bauh.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bauh) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -737,7 +737,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Graphical configurator for Dygma Raise.***
 
 | [More info](apps/bazecor.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bazecor) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -745,7 +745,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple business intelligence application.***
 
 | [More info](apps/bdash.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bdash) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -753,7 +753,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Beatconnect power for osu irc.***
 
 | [More info](apps/beatconnect-client.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/beatconnect-client) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -761,7 +761,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***SQL query editor and database UI.***
 
 | [More info](apps/beekeeper-studio.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/beekeeper-studio) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -769,7 +769,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***CLI tool to benchmark commands, written in `Fortran`.***
 
 | [More info](apps/bench-cli.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bench-cli) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -777,7 +777,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Free, open, Among Us proximity voice chat.***
 
 | [More info](apps/bettercrewlink.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bettercrewlink) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -785,7 +785,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Modern shell for SIS.***
 
 | [More info](apps/bettersis.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bettersis) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -793,7 +793,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***3D Real-Time Strategy Total Annihilation Inspired (game).***
 
 | [More info](apps/beyond-all-reason.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/beyond-all-reason) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -801,7 +801,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Plays bezique game against the AI.***
 
 | [More info](apps/bezique.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bezique) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -809,7 +809,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***3D modeling, animation, rendering and post-production.***
 
 | [More info](apps/bforartists.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bforartists) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -817,7 +817,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Bilibili video downloader.***
 
 | [More info](apps/bilibilivideodownload.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bilibilivideodownload) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -825,7 +825,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Bilibili uploader.***
 
 | [More info](apps/biliup-app-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/biliup-app-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -833,7 +833,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***3D billiards game, play a game of 8-ball or 9-ball.***
 
 | [More info](apps/billard-gl.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/billard-gl) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -841,7 +841,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***CCNY Electrochemical Gradient Simulator.***
 
 | [More info](apps/bioanimation.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bioanimation) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -849,7 +849,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Recipe manager.***
 
 | [More info](apps/birds-kitchen.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/birds-kitchen) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -857,7 +857,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cryptocurrency hardware wallet desktop app.***
 
 | [More info](apps/bitbox-wallet-app-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bitbox-wallet-app-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -865,7 +865,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A 2-D multi-player space combat game.***
 
 | [More info](apps/bitfighter.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bitfighter) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -873,7 +873,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Advanced wallet interface for the BitShares financial blockchain.***
 
 | [More info](apps/bitshares.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bitshares) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -881,7 +881,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Password manager for individuals, teams and business.***
 
 | [More info](apps/bitwarden.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bitwarden) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -889,7 +889,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Biying Wallpaper for Linux.***
 
 | [More info](apps/biying.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/biying) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -897,7 +897,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***FF7 Save Game Editor.***
 
 | [More info](apps/black-chocobo.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/black-chocobo) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -905,7 +905,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cloud gaming client.***
 
 | [More info](apps/blacknut-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/blacknut-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -913,7 +913,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Very fast and versatile 3D modeller/renderer (Alpha).***
 
 | [More info](apps/blender-alpha.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/blender-alpha) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -921,7 +921,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Very fast and versatile 3D modeller/renderer (Beta).***
 
 | [More info](apps/blender-beta.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/blender-beta) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -929,7 +929,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Very fast and versatile 3D modeller/renderer (Release Candidate).***
 
 | [More info](apps/blender-rc.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/blender-rc) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -937,7 +937,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Very fast and versatile 3D modeller/renderer (Stable).***
 
 | [More info](apps/blender.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/blender) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -945,7 +945,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***3D modeling, animation, rendering and post-production.***
 
 | [More info](apps/blensor.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/blensor) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -953,7 +953,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GUI of live indexed grep search for source code.***
 
 | [More info](apps/blink.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/blink) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -961,7 +961,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Emulator & toolchain for the Blizzard 4 16-bit computer.***
 
 | [More info](apps/blizzard-4.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/blizzard-4) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -969,7 +969,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Editor for boxy models and pixel art textures like Minecraft.***
 
 | [More info](apps/blockbench.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/blockbench) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -977,7 +977,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Exchange dApp built on top of the Blocknet Protocol.***
 
 | [More info](apps/block-dx.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/block-dx) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -985,7 +985,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Bitcoin wallet compatible with Blockstream Jade.***
 
 | [More info](apps/blockstream-green-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/blockstream-green-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -993,7 +993,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An electron-vue project.***
 
 | [More info](apps/bloks.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bloks) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1001,7 +1001,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GRPC GUI client.***
 
 | [More info](apps/bloomrpc.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bloomrpc) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1009,7 +1009,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Display your total Ocean Token balances.***
 
 | [More info](apps/blowfish.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/blowfish) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1017,7 +1017,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A fun volleyball game.***
 
 | [More info](apps/blubvolley.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/blubvolley) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1025,7 +1025,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple system tray application to watch github notifications.***
 
 | [More info](apps/blueglow.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/blueglow) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1033,7 +1033,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A platform for playing digital boardgames.***
 
 | [More info](apps/boardgamestar.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/boardgamestar) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1041,7 +1041,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A bodacious music player.***
 
 | [More info](apps/bodacious.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bodacious) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1049,7 +1049,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Bodhi Prediction Market app.***
 
 | [More info](apps/bodhi.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bodhi) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1057,7 +1057,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Arcade spaceship game (installs "kdegames").***
 
 | [More info](apps/bomber.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bomber) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1065,7 +1065,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple desktop app to manage personal library.***
 
 | [More info](apps/book-manager.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/book-manager) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1073,7 +1073,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Document driven project management tool to speedup remote DevOps.***
 
 | [More info](apps/boost-note.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/boost-note) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1081,7 +1081,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Client for the 2018 edition of the BottleBats AI competition.***
 
 | [More info](apps/bottlebats.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bottlebats) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1089,7 +1089,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Bottlenose is a front-end for video game emulators.***
 
 | [More info](apps/bottlenose.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bottlenose) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1097,7 +1097,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Manage wine prefixes and run Windows software & games in a new way.***
 
 | [More info](apps/bottles.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bottles) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1105,7 +1105,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Five in a row game from (installs "kdegames").***
 
 | [More info](apps/bovo.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bovo) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1113,7 +1113,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Brackets-Electron.***
 
 | [More info](apps/brackets.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/brackets) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1121,7 +1121,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Electronic Lab Notebook for Reproducible Neuro Imaging Research.***
 
 | [More info](apps/brainverse.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/brainverse) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1129,7 +1129,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***EEG Desktop Application.***
 
 | [More info](apps/brainwaves.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/brainwaves) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1137,7 +1137,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unofficial AppImage (Web Browser, Stable).***
 
 | [More info](apps/brave-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/brave-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1145,7 +1145,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A privacy oriented Web Browser based on Chromium (Stable).***
 
 | [More info](apps/brave.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/brave) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1153,7 +1153,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A privacy oriented Web Browser (Beta Edition).***
 
 | [More info](apps/brave-beta.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/brave-beta) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1161,7 +1161,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A privacy oriented Web Browser (Developer Edition).***
 
 | [More info](apps/brave-dev.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/brave-dev) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1169,7 +1169,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unofficial AppImage (Web Browser, Nightly).***
 
 | [More info](apps/brave-nightly-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/brave-nightly-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1177,7 +1177,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A privacy oriented Web Browser (Nightly Edition).***
 
 | [More info](apps/brave-nightly.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/brave-nightly) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1185,7 +1185,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Install, update and remove AppImage from GitHub using your CLI.***
 
 | [More info](apps/bread.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bread) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1193,7 +1193,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Save yourself from RSI and eye-strain.***
 
 | [More info](apps/breaktimer-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/breaktimer-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1201,7 +1201,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An offline BrickLink inventory management tool.***
 
 | [More info](apps/brickstore.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/brickstore) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1209,7 +1209,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The perfect Bridge between Megascans and your favorite tools.***
 
 | [More info](apps/bridge.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bridge) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1217,7 +1217,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An Opensource API Collection Collaboration Suite.***
 
 | [More info](apps/bruno-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bruno-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1225,7 +1225,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***FDOCT tool.***
 
 | [More info](apps/bscanfftwebcam.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bscanfftwebcam) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1233,7 +1233,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A command line utility to monitor system resources, like Htop.***
 
 | [More info](apps/btop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/btop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1241,7 +1241,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Telecommunication network management application.***
 
 | [More info](apps/bts-ce-lite.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bts-ce-lite) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1249,7 +1249,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A logger of sorts.***
 
 | [More info](apps/buche.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/buche) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1257,7 +1257,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Budgeting fast, simple and private.***
 
 | [More info](apps/buckets.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/buckets) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1265,7 +1265,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Pangea Software's Bugdom game.***
 
 | [More info](apps/bugdom.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bugdom) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1273,7 +1273,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Identify, review, and remove private information.***
 
 | [More info](apps/bulkreviewer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bulkreviewer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1281,7 +1281,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop version of the Bulk URL Opener extension.***
 
 | [More info](apps/bulkurlopener.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bulkurlopener) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1289,7 +1289,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A desktop implementation for the bunq API.***
 
 | [More info](apps/bunqdesktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bunqdesktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1297,7 +1297,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Free and Open Source password vault.***
 
 | [More info](apps/buttercup.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/buttercup) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1305,7 +1305,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unlock browser’s full potential!***
 
 | [More info](apps/bypass-cors.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bypass-cors) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1313,7 +1313,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Bytespeicher Status App.***
 
 | [More info](apps/bytespeichertrayicon.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/bytespeichertrayicon) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1321,7 +1321,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cabal p2p offline-first desktop application.***
 
 | [More info](apps/cabal-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cabal-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1329,7 +1329,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cacher is a code snippet library for professional developers.***
 
 | [More info](apps/cacher.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cacher) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1337,7 +1337,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Pulse Audio real-time noise suppression plugin.***
 
 | [More info](apps/cadmus-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cadmus-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1345,7 +1345,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***CAJViewer for Linux.***
 
 | [More info](apps/cajviewer-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cajviewer-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1353,7 +1353,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop version of Calculist.io.***
 
 | [More info](apps/calculist.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/calculist) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1361,7 +1361,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Battleship game with a pirate theme.***
 
 | [More info](apps/capbattleship.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/capbattleship) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1369,7 +1369,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unofficial, elegant privacy focused Facebook Messenger app.***
 
 | [More info](apps/caprine.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/caprine) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1377,7 +1377,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Converts your crate into an AppImage.***
 
 | [More info](apps/cargo-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cargo-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1385,7 +1385,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A complete and rich note taking app with sync capabilities.***
 
 | [More info](apps/carnet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/carnet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1393,7 +1393,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Digital preservation ingest utility.***
 
 | [More info](apps/carpenters.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/carpenters) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1401,7 +1401,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cube Analysis and Rendering Tool for Astronomy.***
 
 | [More info](apps/carta.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/carta) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1409,7 +1409,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Corinthian Abstract State Machine (CASM).***
 
 | [More info](apps/casm.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/casm) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1417,7 +1417,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Soundboard for hot-keying and playing back sounds.***
 
 | [More info](apps/castersoundboard.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/castersoundboard) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1425,7 +1425,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Peer-testing of software projects.***
 
 | [More info](apps/catcher.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/catcher) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1433,7 +1433,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GUI for the ESA CCI Toolbox (Cate).***
 
 | [More info](apps/cate-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cate-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1441,7 +1441,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***ePub viewer supporting fetching and displaying HTML as ePub.***
 
 | [More info](apps/cbetar2.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cbetar2) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1449,7 +1449,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Real time 3D space simulator (developer edition).***
 
 | [More info](apps/celestia-dev.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/celestia-dev) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1457,7 +1457,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An enhanced 1.6.2.2 version of the 3D space visualizer.***
 
 | [More info](apps/celestia-enanched.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/celestia-enanched) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1465,7 +1465,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Real time 3D space simulator.***
 
 | [More info](apps/celestia.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/celestia) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1473,7 +1473,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Celo Terminal (AppImage version).***
 
 | [More info](apps/celoterminal-bin.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/celoterminal-bin) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1481,7 +1481,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Nintendo Wii U emulator that is able to run most Wii U games.***
 
 | [More info](apps/cemu.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cemu) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1489,7 +1489,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cerebral Debugger.***
 
 | [More info](apps/cerebral-debugger.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cerebral-debugger) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1497,7 +1497,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Open-source productivity booster with a brain.***
 
 | [More info](apps/cerebro.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cerebro) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1505,7 +1505,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Manage ChainX account, sign and sign transactions.***
 
 | [More info](apps/chainx-signer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/chainx-signer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1513,7 +1513,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Second installment of the Twitch chat client.***
 
 | [More info](apps/chatterino2-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/chatterino2-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1521,7 +1521,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Second installment of the Twitch chat client.***
 
 | [More info](apps/chatterino2-nightly-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/chatterino2-nightly-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1529,7 +1529,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A hierarchical note taking application.***
 
 | [More info](apps/cherrytree.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cherrytree) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1537,7 +1537,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***PlayStation 4 Remote Play Client.***
 
 | [More info](apps/chiaki.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/chiaki) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1545,7 +1545,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple, fast and flexible DIY Remote Desktop software.***
 
 | [More info](apps/chimeradesk-kvm.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/chimeradesk-kvm) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1553,7 +1553,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple, fast and flexible DIY Remote Desktop software.***
 
 | [More info](apps/chimeradesk.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/chimeradesk) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1561,7 +1561,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Fast paced arcade style scrolling space shooter (game).***
 
 | [More info](apps/chromium-bsu.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/chromium-bsu) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1569,7 +1569,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Web Browser (official unstable build).***
 
 | [More info](apps/chromium-latest.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/chromium-latest) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1577,7 +1577,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Web Browser. Open source base of Google Chrome, Edge and Brave.***
 
 | [More info](apps/chromium.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/chromium) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1585,7 +1585,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Graphical configurator for Kaleidoscope-powered keyboards.***
 
 | [More info](apps/chrysalis-bin.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/chrysalis-bin) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1593,7 +1593,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Makefile based IDE for embedded systems.***
 
 | [More info](apps/ciaa-suite.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ciaa-suite) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1601,7 +1601,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A new cross-platform Apple Music experience with performance in mind.***
 
 | [More info](apps/cider.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cider) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1609,7 +1609,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Professional video editing and compositing environment.***
 
 | [More info](apps/cinelerra-gg.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cinelerra-gg) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1617,7 +1617,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Yet another matrix client for desktop.***
 
 | [More info](apps/cinny.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cinny) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1625,7 +1625,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A chat client for online math courses.***
 
 | [More info](apps/circle-z.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/circle-z) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1633,7 +1633,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Helps newbies get into embedded programming.***
 
 | [More info](apps/circuitblocks.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/circuitblocks) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1641,7 +1641,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Hub into everything on City Chain/Smart City Platform.***
 
 | [More info](apps/city-hub.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/city-hub) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1649,7 +1649,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop application to manage your Cleep devices.***
 
 | [More info](apps/cleepdesktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cleepdesktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1657,7 +1657,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Remote for Clementine Music Player.***
 
 | [More info](apps/clementineremote.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/clementineremote) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1665,7 +1665,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***3D Facial Image Visualisation and Analysis.***
 
 | [More info](apps/cliniface.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cliniface) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1673,7 +1673,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Download and Convert Online Videos.***
 
 | [More info](apps/clipgrab.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/clipgrab) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1681,7 +1681,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Clipboard History.***
 
 | [More info](apps/clippy.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/clippy) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1689,7 +1689,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The clipboard that syncs.***
 
 | [More info](apps/clipr.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/clipr) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1697,7 +1697,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Access to files located in various cloud services.***
 
 | [More info](apps/cloud-browser.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cloud-browser) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1705,7 +1705,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***CNC Milling Controller.***
 
 | [More info](apps/cncjs.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cncjs) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1713,7 +1713,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple music player built by electron and vue.***
 
 | [More info](apps/cocomusic.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cocomusic) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1721,7 +1721,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple code snippet amp built with Electron.***
 
 | [More info](apps/code-notes-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/code-notes-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1729,7 +1729,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Visual Studio Code OSS Edition.***
 
 | [More info](apps/code-oss.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/code-oss) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1737,7 +1737,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Colonize with bots (game).***
 
 | [More info](apps/colobot.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/colobot) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1745,7 +1745,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A flexible text editor.***
 
 | [More info](apps/colon.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/colon) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1753,7 +1753,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Generates color palettes similar to ColorBrewer.***
 
 | [More info](apps/colorgenerator.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/colorgenerator) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1761,7 +1761,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Electron app that can show colors with hex/rgb.***
 
 | [More info](apps/colorpicker.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/colorpicker) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1769,7 +1769,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***CLI to generate a random colorful "Static"/"Matrix".***
 
 | [More info](apps/colorstatic-bash.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/colorstatic-bash) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1777,7 +1777,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Reader and converter for cbz, cbr, epub and pdf files.***
 
 | [More info](apps/comic-book-reader.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/comic-book-reader) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1785,7 +1785,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Electron based comic reader.***
 
 | [More info](apps/comic-reader.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/comic-reader) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1793,7 +1793,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The official Concordium Dektop Wallet.***
 
 | [More info](apps/concordium-desktop-wallet-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/concordium-desktop-wallet-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1801,7 +1801,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tasks? Done. That was quick.***
 
 | [More info](apps/conduction.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/conduction) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1809,7 +1809,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Light-weight system monitor for X.***
 
 | [More info](apps/conky.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/conky) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1817,7 +1817,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Console workbench.***
 
 | [More info](apps/consoleworkbench.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/consoleworkbench) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1825,7 +1825,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Modern C++ Terminal Emulator.***
 
 | [More info](apps/contour.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/contour) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1833,7 +1833,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A batch image converter and resizer.***
 
 | [More info](apps/converseen.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/converseen) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1841,7 +1841,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Converts and re-encodes music to 432hz.***
 
 | [More info](apps/converter432hz-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/converter432hz-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1849,7 +1849,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A program to monitor and control your cooling devices.***
 
 | [More info](apps/coolero.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/coolero) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1857,7 +1857,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Use the command line the old way.***
 
 | [More info](apps/cool-retro-term.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cool-retro-term) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1865,7 +1865,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Foreign language reading and translation assistant.***
 
 | [More info](apps/copytranslator-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/copytranslator-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1873,7 +1873,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cord launcher based on Electron and Wep Application.***
 
 | [More info](apps/cordlauncher.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cordlauncher) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1881,7 +1881,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A side bar for showing widgets for CuboCore Application Suite.***
 
 | [More info](apps/coreaction.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/coreaction) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1889,7 +1889,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Archive manager for CuboCore Application Suite.***
 
 | [More info](apps/corearchiver.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/corearchiver) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1897,7 +1897,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A setting manager for CuboCore Application Suite.***
 
 | [More info](apps/coregarage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/coregarage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1905,7 +1905,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A file search utility for CuboCore Application Suite.***
 
 | [More info](apps/corehunt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/corehunt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1913,7 +1913,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An image viewer for CuboCore Application Suite.***
 
 | [More info](apps/coreimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/coreimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1921,7 +1921,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A file information viewer for CuboCore Application Suite.***
 
 | [More info](apps/coreinfo.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/coreinfo) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1929,7 +1929,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A document editor for CuboCore Application Suite.***
 
 | [More info](apps/corepad.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/corepad) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1937,7 +1937,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A paint app for CuboCore Application Suite.***
 
 | [More info](apps/corepaint.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/corepaint) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1945,7 +1945,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A bookmarking app for CuboCore Application Suite.***
 
 | [More info](apps/corepins.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/corepins) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1953,7 +1953,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A batch file renamer for CuboCore Application Suite.***
 
 | [More info](apps/corerenamer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/corerenamer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1961,7 +1961,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A screen capture utility for CuboCore Application Suite.***
 
 | [More info](apps/coreshot.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/coreshot) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1969,7 +1969,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A system resource viewer from the CoreApps family.***
 
 | [More info](apps/corestats.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/corestats) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1977,7 +1977,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An activity viewer for CuboCore Application Suite.***
 
 | [More info](apps/corestuff.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/corestuff) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1985,7 +1985,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A time related task manager for CuboCore Application Suite.***
 
 | [More info](apps/coretime.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/coretime) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -1993,7 +1993,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Shows releated information of apps from CuboCore App Suite.***
 
 | [More info](apps/coreuniverse.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/coreuniverse) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2001,7 +2001,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***File Synchronisation for Cozy (cloud).***
 
 | [More info](apps/cozydrive.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cozydrive) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2009,7 +2009,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Code editor specially designed for competitive programming.***
 
 | [More info](apps/cpeditor.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cpeditor) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2017,7 +2017,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Qt-based, lightweight code editor specially.***
 
 | [More info](apps/cp-editor.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cp-editor) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2025,7 +2025,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple, beautiful podcast app.***
 
 | [More info](apps/cpod.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cpod) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2033,7 +2033,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Software that gathers information on CPU, motherboard and more.***
 
 | [More info](apps/cpu-x.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cpu-x) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2041,7 +2041,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A tool for working with Games Data files from CRG.***
 
 | [More info](apps/crg-data-tool.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/crg-data-tool) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2049,7 +2049,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Custom Runtime Image Creator.***
 
 | [More info](apps/cric.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cric) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2057,7 +2057,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Crypto.com DeFi Desktop Wallet (AppImage version).***
 
 | [More info](apps/cro-chain-desktop-bin.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cro-chain-desktop-bin) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2065,7 +2065,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Personal accounting system.***
 
 | [More info](apps/cromberg.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cromberg) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2073,7 +2073,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Map Editor for CrossCode.***
 
 | [More info](apps/crosscode-map-editor.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/crosscode-map-editor) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2081,7 +2081,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Create native iOS/Android/Windows apps in Java.***
 
 | [More info](apps/crossmobile.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/crossmobile) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2089,7 +2089,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Electron application boilerplate.***
 
 | [More info](apps/cryplicity.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cryplicity) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2097,7 +2097,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An innovative, convenient and secure crypto app.***
 
 | [More info](apps/crypter.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/crypter) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2105,7 +2105,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GUI to decrypt videos taken by Cryptocam.***
 
 | [More info](apps/cryptocam-companion.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cryptocam-companion) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2113,7 +2113,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cloud Storage Encryption Utility.***
 
 | [More info](apps/cryptomator.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cryptomator) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2121,7 +2121,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A GUI for Vault.***
 
 | [More info](apps/cryptr.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cryptr) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2129,7 +2129,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A crypto app.***
 
 | [More info](apps/cscrypto.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cscrypto) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2137,7 +2137,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Software-Defined Radio Application.***
 
 | [More info](apps/cubicsdr.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cubicsdr) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2145,7 +2145,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Convert 3D models into paths for a 3D printer (graphics).***
 
 | [More info](apps/cura.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cura) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2153,7 +2153,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An electron-vue project.***
 
 | [More info](apps/customrpc.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/customrpc) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2161,7 +2161,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple sanger trace file viewer.***
 
 | [More info](apps/cutepeaks.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cutepeaks) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2169,7 +2169,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A genetics variant filtering tools***
 
 | [More info](apps/cutevariant.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cutevariant) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2177,7 +2177,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Free and Open Source Reverse Engineering Platform.***
 
 | [More info](apps/cutter.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/cutter) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2185,7 +2185,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***App to find duplicates, empty folders, similar images etc.***
 
 | [More info](apps/czkawka.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/czkawka) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2193,7 +2193,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A desktop client for the Dana learning box.***
 
 | [More info](apps/dana.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dana) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2201,7 +2201,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Dashboard creation application.***
 
 | [More info](apps/dashy-app.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dashy-app) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2209,7 +2209,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An annotation tool for a dataset.***
 
 | [More info](apps/dataset-annotator.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dataset-annotator) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2217,7 +2217,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Discord client.***
 
 | [More info](apps/datcord.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/datcord) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2225,7 +2225,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Linux version of Everything Search Engine. Dawnlight Search Engine***
 
 | [More info](apps/dawnlightsearch.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dawnlightsearch) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2233,7 +2233,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Linux version of Everything Search Engine. Dawnlight Search Engine***
 
 | [More info](apps/dawnlightsearch.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dawnlightsearch) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2241,7 +2241,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***DBET Wallet.***
 
 | [More info](apps/dbet-wallet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dbet-wallet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2249,7 +2249,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Opensource database administration tool***
 
 | [More info](apps/dbgate.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dbgate) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2257,7 +2257,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GUI tool available for ALL platforms.***
 
 | [More info](apps/deadgame-2048.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/deadgame-2048) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2265,7 +2265,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Build AppImages from deb packages on any distro.***
 
 | [More info](apps/deb2appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/deb2appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2273,7 +2273,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unofficial Avidemux built from deb-multimedia.***
 
 | [More info](apps/debian-testing-avidemux.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/debian-testing-avidemux) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2281,7 +2281,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***DeDop Studio***
 
 | [More info](apps/dedop-studio.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dedop-studio) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2289,7 +2289,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A gui electron app for the deemix lib.***
 
 | [More info](apps/deemix-gui-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/deemix-gui-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2297,7 +2297,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Markdown notes manager with support for nested tags.***
 
 | [More info](apps/deeptags.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/deeptags) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2305,7 +2305,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A linux port of Deezer, allows downloading your songs (music).***
 
 | [More info](apps/deezer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/deezer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2313,7 +2313,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***DefiChain Wallet AppImage.***
 
 | [More info](apps/defi-app-bin.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/defi-app-bin) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2321,7 +2321,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Web Technology driven VFX Application.***
 
 | [More info](apps/delir.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/delir) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2329,7 +2329,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop Application for delta.chat.***
 
 | [More info](apps/deltachat-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/deltachat-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2337,7 +2337,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Demonic corruption fantasy shmup.***
 
 | [More info](apps/demonizer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/demonizer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2345,7 +2345,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Deploy your applications through Jenkins.***
 
 | [More info](apps/deployer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/deployer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2353,7 +2353,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop client for devdocs.io.***
 
 | [More info](apps/devdocs-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/devdocs-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2361,7 +2361,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***TweetDeck for GitHub***
 
 | [More info](apps/devhub.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/devhub) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2369,7 +2369,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Dexter Development Environment.***
 
 | [More info](apps/dexter-dev-env.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dexter-dev-env) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2377,7 +2377,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A thin Tcl/Tk GUI around the df POSIX command.***
 
 | [More info](apps/dfdemo.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dfdemo) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2385,7 +2385,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Browse files. File manager written in Qt and C++.***
 
 | [More info](apps/dfilemanager.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dfilemanager) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2393,7 +2393,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Browse files. File manager written in Qt and C++.***
 
 | [More info](apps/dfilemanager.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dfilemanager) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2401,7 +2401,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tools for working with medical physics data.***
 
 | [More info](apps/dicomautomaton.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dicomautomaton) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2409,7 +2409,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Detect It Easy, a program for determining types of files.***
 
 | [More info](apps/die-engine.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/die-engine) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2417,7 +2417,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Music player, connects to your cloud/distributed storage.***
 
 | [More info](apps/diffuse.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/diffuse) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2425,7 +2425,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Professional and advanced digital photo management application.***
 
 | [More info](apps/digikam.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/digikam) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2433,7 +2433,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***HOPP Foundation - Digitales Klassenzimmer.***
 
 | [More info](apps/digitales-klassenzimmer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/digitales-klassenzimmer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2441,7 +2441,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***DingTalk desktop version based on electron.***
 
 | [More info](apps/dingtalk.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dingtalk) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2449,7 +2449,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple disassembly tool.***
 
 | [More info](apps/disass.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/disass) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2457,7 +2457,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***All-in-one voice and text chat for gamers.***
 
 | [More info](apps/discord.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/discord) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2465,7 +2465,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Discord client powered by Node.JS and Qt Widgets.***
 
 | [More info](apps/discord-qt-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/discord-qt-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2473,7 +2473,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Developing with Docker has never been so easy and convenient.***
 
 | [More info](apps/dockstation.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dockstation) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2481,7 +2481,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Mod Manager for Doki Doki Literature Club!***
 
 | [More info](apps/dokidokimodmanager.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dokidokimodmanager) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2489,7 +2489,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Two-panel file manager, also known as Double Commander.***
 
 | [More info](apps/doublecmd-gtk.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/doublecmd-gtk) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2497,7 +2497,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Two-panel file manager, also known as Double Commander.***
 
 | [More info](apps/doublecmd-qt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/doublecmd-qt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2505,7 +2505,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A cross-platform video and audio downloader.***
 
 | [More info](apps/downline.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/downline) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2513,7 +2513,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GUI for polyglot***
 
 | [More info](apps/dragoman.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dragoman) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2521,7 +2521,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***draw.io desktop.***
 
 | [More info](apps/draw.io.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/draw.io) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2529,7 +2529,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Drawing program to sketch on the same canvas simultaneously.***
 
 | [More info](apps/drawpile.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/drawpile) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2537,7 +2537,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Search files without indexing, but clever crawling.***
 
 | [More info](apps/drill.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/drill) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2545,7 +2545,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A DroidCam AppImage for the Steam Deck/SteamOS 3.0.***
 
 | [More info](apps/droidcam.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/droidcam) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2553,7 +2553,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A free cloud service (Unofficial AppImage).***
 
 | [More info](apps/dropbox.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dropbox) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2561,7 +2561,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***PlayStation 1, aka PSX games Emulator.***
 
 | [More info](apps/duckstation.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/duckstation) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2569,7 +2569,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Easy and multi-platform file transfer tool.***
 
 | [More info](apps/dukto.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dukto) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2577,7 +2577,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***3D modeling software for games, 3D printing, and so on.***
 
 | [More info](apps/dust3d.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dust3d) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2585,7 +2585,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Additional error protection for CD/DVD media.***
 
 | [More info](apps/dvdisaster.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dvdisaster) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2593,7 +2593,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***LinuxDwarfPack appimage.***
 
 | [More info](apps/dwarffortress-linuxdwarfpack-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dwarffortress-linuxdwarfpack-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2601,7 +2601,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Dwyco Phoo Chat and Video Calling.***
 
 | [More info](apps/dwyco-phoo.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/dwyco-phoo) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2609,7 +2609,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Zoomable user interface with plugin applications.***
 
 | [More info](apps/eaglemode.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/eaglemode) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2617,7 +2617,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple UI for the Mercurial version-control system.***
 
 | [More info](apps/easymercurial.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/easymercurial) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2625,7 +2625,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Lightweight code editor designed for modern hardware.***
 
 | [More info](apps/ecode.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ecode) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2633,7 +2633,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A science fiction desktop running everywhere.***
 
 | [More info](apps/edex-ui.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/edex-ui) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2641,7 +2641,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An electron based developing tool for feds.***
 
 | [More info](apps/ehdev-shell.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ehdev-shell) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2649,7 +2649,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Bomberman game made with Godot under BSD3.***
 
 | [More info](apps/eksplode.re.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/eksplode.re) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2657,7 +2657,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cross-Platform calculator built with Electron.***
 
 | [More info](apps/elcalc.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/elcalc) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2665,7 +2665,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A GB Cartridge Dumper.***
 
 | [More info](apps/eldumper.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/eldumper) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2673,7 +2673,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A remote control Torrent client.***
 
 | [More info](apps/electorrent.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/electorrent) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2681,7 +2681,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***No coding is required.***
 
 | [More info](apps/electrocrud.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/electrocrud) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2689,7 +2689,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple App Store for Apps Built with Electron.***
 
 | [More info](apps/electron-app-store.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/electron-app-store) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2697,7 +2697,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Lightweight Bitcoin Cash Client.***
 
 | [More info](apps/electron-cash.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/electron-cash) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2705,7 +2705,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Install electron-ssr from appimage.***
 
 | [More info](apps/electron-ssr-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/electron-ssr-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2713,7 +2713,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Wechat desktop application.***
 
 | [More info](apps/electron-wechat.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/electron-wechat) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2721,7 +2721,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Upload music to NetMD MiniDisc devices.***
 
 | [More info](apps/electronwmd-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/electronwmd-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2729,7 +2729,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Xiami Electron desktop application.***
 
 | [More info](apps/electron-xiami.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/electron-xiami) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2737,7 +2737,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Lightweight FairCoin Client.***
 
 | [More info](apps/electrumfair.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/electrumfair) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2745,7 +2745,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Lightweight Bitcoin Client.***
 
 | [More info](apps/electrum.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/electrum) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2753,7 +2753,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Lightweight Namecoin Client.***
 
 | [More info](apps/electrum-nmc.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/electrum-nmc) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2761,7 +2761,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Forked from the Electrum Bitcoin base client.***
 
 | [More info](apps/electrum-ravencoin-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/electrum-ravencoin-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2769,7 +2769,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A feature-rich client for Matrix.org.***
 
 | [More info](apps/element.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/element) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2777,7 +2777,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***AppImage version of Elementary OS "Code" by Maksym Titenko.***
 
 | [More info](apps/elementary-code.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/elementary-code) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2785,7 +2785,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***App which displays the periodic table (Education, Science).***
 
 | [More info](apps/elements.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/elements) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2793,7 +2793,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Native version of Elk, a nimble Mastodon web.***
 
 | [More info](apps/elk.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/elk) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2801,7 +2801,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Elphyrecoin GUI Wallet.***
 
 | [More info](apps/elphyre-walletshell.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/elphyre-walletshell) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2809,7 +2809,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Elza incognito web browser.***
 
 | [More info](apps/elzabrowser.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/elzabrowser) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2817,7 +2817,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***FOSS text editor for complete programming language (AppImage).***
 
 | [More info](apps/emacs.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/emacs) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2825,7 +2825,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Makefile based IDE for embedded systems.***
 
 | [More info](apps/embedded-ide.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/embedded-ide) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2833,7 +2833,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Client for the WorldForge virtual world system (game).***
 
 | [More info](apps/ember.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ember) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2841,7 +2841,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Virtual keyboard-like emoji palette for Linux.***
 
 | [More info](apps/emoji-keyboard-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/emoji-keyboard-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2849,7 +2849,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A flexible emulator front-end supporting custom themes.***
 
 | [More info](apps/emulationstation.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/emulationstation) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2857,7 +2857,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Secure text editor and binary encryptor with passwords.***
 
 | [More info](apps/encryptpad.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/encryptpad) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2865,7 +2865,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Space exploration and combat game.***
 
 | [More info](apps/endless-sky.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/endless-sky) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2873,7 +2873,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***View, annotate and store measurements of the eNose sensor.***
 
 | [More info](apps/enoseannotator.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/enoseannotator) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2881,7 +2881,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop app for ente.io.***
 
 | [More info](apps/ente.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ente) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2889,7 +2889,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Create 2D Animations.***
 
 | [More info](apps/enve.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/enve) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2897,7 +2897,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***EnvKey’s cross-platform native app.***
 
 | [More info](apps/envkey.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/envkey) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2905,7 +2905,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Application for management of self-employeed people.***
 
 | [More info](apps/eosvc.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/eosvc) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2913,7 +2913,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Sweet, simple epub reader.***
 
 | [More info](apps/eplee.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/eplee) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2921,7 +2921,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Manage your personal finances.***
 
 | [More info](apps/eqonomize.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/eqonomize) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2929,7 +2929,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***ER Diagram tool available for ALL platforms.***
 
 | [More info](apps/erdesigner.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/erdesigner) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2937,7 +2937,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A code generator for websites.***
 
 | [More info](apps/erscaffold.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/erscaffold) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2945,7 +2945,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cross-platform Text Expander written in Rust.***
 
 | [More info](apps/espanso.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/espanso) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2953,7 +2953,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Software recreation of the SP-1200 drum machine.***
 
 | [More info](apps/espi-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/espi-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2961,7 +2961,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Flash OS images to SD cards and USB drives, safely and easily.***
 
 | [More info](apps/etcher.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/etcher) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2969,7 +2969,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***3D fantasy multiplayer online role playing game.***
 
 | [More info](apps/eternal-lands.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/eternal-lands) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2977,7 +2977,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A cross platform mod manager for DOOM Eternal.***
 
 | [More info](apps/eternalmodmanager.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/eternalmodmanager) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2985,7 +2985,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An installer for the Everest mod loader.***
 
 | [More info](apps/everinst.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/everinst) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -2993,7 +2993,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Agent-based modeling.***
 
 | [More info](apps/evoplex.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/evoplex) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3001,7 +3001,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cross platform tray manager.***
 
 | [More info](apps/exeqt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/exeqt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3009,7 +3009,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Clean exif metadata from images, videos, and PDFs.***
 
 | [More info](apps/exifcleaner.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/exifcleaner) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3017,7 +3017,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Eximchain Wallet web and electron app.***
 
 | [More info](apps/eximchain-wallet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/eximchain-wallet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3025,7 +3025,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Rookout’s site addon to support local files and folders.***
 
 | [More info](apps/explorook.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/explorook) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3033,7 +3033,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Read and search your exports.***
 
 | [More info](apps/exportoo.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/exportoo) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3041,7 +3041,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The swiss army chainsaw of terminal emulators.***
 
 | [More info](apps/extraterm.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/extraterm) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3049,7 +3049,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Data visualisation and analysis.***
 
 | [More info](apps/extrema.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/extrema) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3057,7 +3057,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***3D racing game with Tux, the Linux penguin.***
 
 | [More info](apps/extremetuxracer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/extremetuxracer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3065,7 +3065,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Video-based eye tracking using recursive estimation of pupil.***
 
 | [More info](apps/eyestalker.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/eyestalker) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3073,7 +3073,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tool to flash Android devices (installer for "platform-tools").***
 
 | [More info](apps/fastboot.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fastboot) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3081,7 +3081,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Control tool for high throughput genomics sequence data.***
 
 | [More info](apps/fastqt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fastqt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3089,7 +3089,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Fast tracking of multiple objects.***
 
 | [More info](apps/fasttrack.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fasttrack) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3097,7 +3097,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Wallet for FAT tokens.***
 
 | [More info](apps/fat-wallet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fat-wallet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3105,7 +3105,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The F-Chat 3.0 client.***
 
 | [More info](apps/fchat-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fchat-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3113,7 +3113,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A customized version of mainline F-Chat 3.0 client.***
 
 | [More info](apps/fchat-rising-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fchat-rising-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3121,7 +3121,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Customer Relations Management for Freelancers.***
 
 | [More info](apps/f-crm.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/f-crm) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3129,7 +3129,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A free, open-source Monero wallet.***
 
 | [More info](apps/featerwallet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/featerwallet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3137,7 +3137,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Screenshot comparison tool for identifying visual regressions.***
 
 | [More info](apps/feebas.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/feebas) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3145,7 +3145,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Follow your series enthusiast news (french).***
 
 | [More info](apps/feedseries.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/feedseries) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3153,7 +3153,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***All your services in one place, built by the community.***
 
 | [More info](apps/ferdium.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ferdium) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3161,7 +3161,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***FFLogs Uploader appimage.***
 
 | [More info](apps/fflogs-uploader-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fflogs-uploader-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3169,7 +3169,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Export your saved passwords from Firefox.***
 
 | [More info](apps/ff-password-exporter.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ff-password-exporter) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3177,7 +3177,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***WebApp & Firefox Profile for Facebook.***
 
 | [More info](apps/ffwa-facebook.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ffwa-facebook) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3185,7 +3185,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***WebApp & Firefox Profile for GitHub.***
 
 | [More info](apps/ffwa-github.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ffwa-github) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3193,7 +3193,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***WebApp & Firefox Profile for Gmail.***
 
 | [More info](apps/ffwa-gmail.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ffwa-gmail) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3201,7 +3201,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***WebApp & Firefox Profile for Netflix.***
 
 | [More info](apps/ffwa-netflix.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ffwa-netflix) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3209,7 +3209,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***WebApp & Firefox Profile for Reddit.***
 
 | [More info](apps/ffwa-reddit.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ffwa-reddit) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3217,7 +3217,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***WebApp & Firefox Profile for Twitter.***
 
 | [More info](apps/ffwa-twitter.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ffwa-twitter) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3225,7 +3225,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***WebApp & Firefox Profile for WhatsApp.***
 
 | [More info](apps/ffwa-whatsapp.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ffwa-whatsapp) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3233,7 +3233,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***WebApp & Firefox Profile for Wikipedia.***
 
 | [More info](apps/ffwa-wikipedia.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ffwa-wikipedia) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3241,7 +3241,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***WebApp & Firefox Profile for YouTube.***
 
 | [More info](apps/ffwa-youtube.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ffwa-youtube) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3249,7 +3249,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Migrate SQL-based databases.***
 
 | [More info](apps/fidias-database-migration-app.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fidias-database-migration-app) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3257,7 +3257,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***First interface design tool based in the browser (graphics).***
 
 | [More info](apps/figma-linux.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/figma-linux) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3265,7 +3265,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Convert between various file formats.***
 
 | [More info](apps/file-converter.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/file-converter) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3273,7 +3273,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***View disk usage information (installs "kdeutils").***
 
 | [More info](apps/filelight.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/filelight) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3281,7 +3281,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop client for Filen.io, end-to-end encrypted cloud storage.***
 
 | [More info](apps/filen.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/filen) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3289,7 +3289,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tool for generating a C header from a spir-v binary file.***
 
 | [More info](apps/file-to-c.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/file-to-c) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3297,7 +3297,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The free FTP solution with support for FTP over TLS and SFTP.***
 
 | [More info](apps/filezilla.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/filezilla) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3305,7 +3305,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simplified raw editing with the power of film (graphics).***
 
 | [More info](apps/filmulator-gui.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/filmulator-gui) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3313,7 +3313,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unofficial AppImage of the Web Browser (Stable).***
 
 | [More info](apps/firefox-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/firefox-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3321,7 +3321,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unofficial AppImage of the Web Browser (Beta).***
 
 | [More info](apps/firefox-beta-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/firefox-beta-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3329,7 +3329,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Fast, powerful and extensible Web Browser (Beta Edition).***
 
 | [More info](apps/firefox-beta.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/firefox-beta) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3337,7 +3337,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unofficial AppImage of the Web Browser (Dev).***
 
 | [More info](apps/firefox-devedition-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/firefox-devedition-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3345,7 +3345,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Fast, powerful and extensible Web Browser (Developer Edition).***
 
 | [More info](apps/firefox-dev.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/firefox-dev) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3353,7 +3353,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unofficial AppImage of the Web Browser (ESR).***
 
 | [More info](apps/firefox-esr-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/firefox-esr-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3361,7 +3361,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Fast, powerful and extensible Web Browser (ESR Edition).***
 
 | [More info](apps/firefox-esr.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/firefox-esr) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3369,7 +3369,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Fast, powerful and extensible Web Browser (Stable).***
 
 | [More info](apps/firefox.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/firefox) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3377,7 +3377,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unofficial AppImage of the Web Browser (Nightly).***
 
 | [More info](apps/firefox-nightly-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/firefox-nightly-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3385,7 +3385,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Fast, powerful and extensible Web Browser (Nightly Edition).***
 
 | [More info](apps/firefox-nightly.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/firefox-nightly) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3393,7 +3393,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An open source music player.***
 
 | [More info](apps/firetail.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/firetail) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3401,7 +3401,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***AppImage for `fish` shell.***
 
 | [More info](apps/fish.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fish) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3409,7 +3409,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tool to take screenshots with many built-in features (graphics).***
 
 | [More info](apps/flameshot.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/flameshot) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3417,7 +3417,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Fantasy action RPG game using the FLARE engine.***
 
 | [More info](apps/flare.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/flare) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3425,7 +3425,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Client for connecting to flexVDI desktops.***
 
 | [More info](apps/flexvdi-client-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/flexvdi-client-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3433,7 +3433,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A software to design Flightgear groundnets.***
 
 | [More info](apps/flightgear-airports.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/flightgear-airports) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3441,7 +3441,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Music sheet reader.***
 
 | [More info](apps/flippy-qualitative-testbench.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/flippy-qualitative-testbench) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3449,7 +3449,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Modern desktop RSS reader.***
 
 | [More info](apps/fluent-reader.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fluent-reader) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3457,7 +3457,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator.***
 
 | [More info](apps/flycast.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/flycast) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3465,7 +3465,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cross platform FM Radio App for RTL2832U dongles.***
 
 | [More info](apps/fmradio.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fmradio) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3473,7 +3473,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Access and exploration of data produced.***
 
 | [More info](apps/fms-file-explorer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fms-file-explorer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3481,7 +3481,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Combines neuroscience and music to boost productivity.***
 
 | [More info](apps/focusatwill-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/focusatwill-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3489,7 +3489,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple fullscreen word processor.***
 
 | [More info](apps/focuswriter.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/focuswriter) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3497,7 +3497,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A lightning fast, beautiful and free font manager for designers.***
 
 | [More info](apps/fontbase.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fontbase) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3505,7 +3505,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Free (libre) font editor for Windows, Mac OS X and GNU+Linux.***
 
 | [More info](apps/fontforge.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fontforge) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3513,7 +3513,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A package manager for fonts.***
 
 | [More info](apps/fontlet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fontlet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3521,7 +3521,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An advanced freeware audio player for Windows (includes WINE).***
 
 | [More info](apps/foobar2000.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/foobar2000) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3529,7 +3529,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Electron App to access All4/Channel4 (UK).***
 
 | [More info](apps/four.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/four) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3537,7 +3537,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cryptocurrency portfolio management application.***
 
 | [More info](apps/foxfolio.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/foxfolio) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3545,7 +3545,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Faster Project Plus on Linux.***
 
 | [More info](apps/fpm.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fpm) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3553,7 +3553,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***2D modeling of the Von Koch fractal.***
 
 | [More info](apps/fractale.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fractale) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3561,7 +3561,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Follow blogs, wikis, YouTube, Twitter, Reddit, Instagram and more.***
 
 | [More info](apps/fraidycat.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fraidycat) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3569,7 +3569,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Podcast Manager in Electron.***
 
 | [More info](apps/fraktal.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fraktal) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3577,7 +3577,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A privacy focused Ethereum wallet.***
 
 | [More info](apps/frame-eth-dev-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/frame-eth-dev-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3585,7 +3585,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The france.tv site in an application.***
 
 | [More info](apps/francetv.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/francetv) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3593,7 +3593,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Messaging app for WhatsApp, Slack, Telegram, HipChat and much more.***
 
 | [More info](apps/franz.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/franz) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3601,7 +3601,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple Accounting app for everyone.***
 
 | [More info](apps/frappe-accounting.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/frappe-accounting) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3609,7 +3609,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Book-keeping software for small-businesses and freelancers.***
 
 | [More info](apps/frappebooks.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/frappebooks) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3617,7 +3617,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***fre:ac, free audio converter and CD ripper for various encoders.***
 
 | [More info](apps/freac.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/freac) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3625,7 +3625,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Free and open source AutoCAD alternative.***
 
 | [More info](apps/freecad.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/freecad) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3633,7 +3633,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A free, extensible, cross-platform file manager for power users.***
 
 | [More info](apps/freeman.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/freeman) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3641,7 +3641,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Creates sprite sheets for you game or site (graphics).***
 
 | [More info](apps/freetexturepacker.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/freetexturepacker) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3649,7 +3649,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An Open Source YouTube app for privacy.***
 
 | [More info](apps/freetube.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/freetube) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3657,7 +3657,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An unofficial client for Deezer.***
 
 | [More info](apps/freezer-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/freezer-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3665,7 +3665,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Real-time audio visualizations (spectrum, spectrogram, etc.).***
 
 | [More info](apps/friture.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/friture) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3673,7 +3673,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple autosaving scratchpad.***
 
 | [More info](apps/fromscratch.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fromscratch) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3681,7 +3681,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An open source, cross platform app for still image camera matching.***
 
 | [More info](apps/fspy.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/fspy) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3689,7 +3689,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***IPFS Multi-platform browser for the distributed web.***
 
 | [More info](apps/galacteek.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/galacteek) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3697,7 +3697,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unified library for all your games from different platforms.***
 
 | [More info](apps/gamehub.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gamehub) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3705,7 +3705,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Development environment of General Algebraic Modeling System.***
 
 | [More info](apps/gams-studio.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gams-studio) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3713,7 +3713,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Personal Blockchain for Ethereum (latest AppImage for Linux).***
 
 | [More info](apps/ganache.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ganache) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3721,7 +3721,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A UML and SysML modeling application written in Python.***
 
 | [More info](apps/gaphor.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gaphor) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3729,7 +3729,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Interactive Fiction multi-int. for all major IF formats.***
 
 | [More info](apps/gargoyle-bin.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gargoyle-bin) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3737,7 +3737,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cross-platform game engine designed to be used by everyone.***
 
 | [More info](apps/gdevelop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gdevelop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3745,7 +3745,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple, yet powerful Minecraft custom launcher.***
 
 | [More info](apps/gdlauncher-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gdlauncher-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3753,7 +3753,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A settings app for GNOME's Login Manager, GDM.***
 
 | [More info](apps/gdm-settings.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gdm-settings) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3761,7 +3761,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Claiming to be the best image viewer / photo collection browser.***
 
 | [More info](apps/geeqie.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/geeqie) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3769,7 +3769,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Open source blockchain platform.***
 
 | [More info](apps/genesis.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/genesis) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3777,7 +3777,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Images to shapes converter. Images to shapes converter (graphics).***
 
 | [More info](apps/geometrize.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/geometrize) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3785,7 +3785,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Images to shapes converter. Images to shapes converter (graphics).***
 
 | [More info](apps/geometrize.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/geometrize) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3793,7 +3793,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Gerber file viewer for PCB design.***
 
 | [More info](apps/gerbv.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gerbv) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3801,7 +3801,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Swell, testing for streaming APIs, right at your desktop.***
 
 | [More info](apps/getswell.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/getswell) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3809,7 +3809,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cross-platform Thermal Camera Viewer.***
 
 | [More info](apps/getthermal.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/getthermal) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3817,7 +3817,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Extract cursors, icons and images from MS Windows files.***
 
 | [More info](apps/gextractwinicons.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gextractwinicons) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3825,7 +3825,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Hardcore audio music production tool and drum machine for DJs.***
 
 | [More info](apps/giada.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/giada) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3833,7 +3833,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Generally In-source Build System, build C++ projects without a project.***
 
 | [More info](apps/gibs.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gibs) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3841,7 +3841,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The open-source, Haskell-built video editor for GIF makers.***
 
 | [More info](apps/gifcurry.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gifcurry) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3849,7 +3849,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GNU Image Manipulation Program (version 2.10.25).***
 
 | [More info](apps/gimp-aferrero2707.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gimp-aferrero2707) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3857,7 +3857,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cross-platform image and photo editor (Developer Edition).***
 
 | [More info](apps/gimp-dev.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gimp-dev) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3865,7 +3865,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GNU Image Manipulation Program, cross-platform image and photo editor.***
 
 | [More info](apps/gimp.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gimp) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3873,7 +3873,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Gingko client rewritten in Elm.***
 
 | [More info](apps/gingko.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gingko) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3881,7 +3881,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Hoard git repositories with ease.***
 
 | [More info](apps/githoard.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/githoard) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3889,7 +3889,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Electron-based GitHub app.***
 
 | [More info](apps/github-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/github-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3897,7 +3897,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Mobile first Note Taking integrated with Git.***
 
 | [More info](apps/gitjournal.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gitjournal) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3905,7 +3905,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GitKraken Client including an intuitive GUI & powerful CLI.***
 
 | [More info](apps/gitkraken.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gitkraken) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3913,7 +3913,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A modern note taking app based on GIT.***
 
 | [More info](apps/gitnote.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gitnote) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3921,7 +3921,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Multi-platform Git client written with Qt.***
 
 | [More info](apps/gitqlient.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gitqlient) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3929,7 +3929,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Create labels, business cards and media covers.***
 
 | [More info](apps/glabels.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/glabels) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3937,7 +3937,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple and fast vector graphics animation program.***
 
 | [More info](apps/glaxnimate.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/glaxnimate) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3945,7 +3945,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***C++11 based glTF 2.0 data insight tool.***
 
 | [More info](apps/gltf-insight.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gltf-insight) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3953,7 +3953,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***AppImage of the glulxe interactive fiction interpreter.***
 
 | [More info](apps/glulxe.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/glulxe) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3961,7 +3961,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Utility to pre-warp a movie similar to TGAWarp.***
 
 | [More info](apps/gl-warp2mp4.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gl-warp2mp4) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3969,7 +3969,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Professional font design programs.***
 
 | [More info](apps/glyphr-studio-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/glyphr-studio-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3977,7 +3977,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Nifty Gmail desktop app for macOS, Linux & Windows.***
 
 | [More info](apps/gmail-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gmail-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3985,7 +3985,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Graphically Converts GameMaker Studio 2 Linux Games to AppImage.***
 
 | [More info](apps/gmappimager.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gmappimager) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -3993,7 +3993,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A tool for rpg gamemasters.***
 
 | [More info](apps/gm-companion.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gm-companion) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4001,7 +4001,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Multi-platform 2D and 3D game engine with a feature-rich editor.***
 
 | [More info](apps/godot.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/godot) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4009,7 +4009,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cycling Power Analysis Software.***
 
 | [More info](apps/goldencheetah.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/goldencheetah) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4017,7 +4017,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A feature-rich dictionary lookup program.***
 
 | [More info](apps/goldendict.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/goldendict) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4025,7 +4025,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Goobox File Share App.***
 
 | [More info](apps/gooboxfileshare.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gooboxfileshare) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4033,7 +4033,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Web Browser provided by Google.***
 
 | [More info](apps/google-chrome.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/google-chrome) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4041,7 +4041,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unofficial client.***
 
 | [More info](apps/google-tasks-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/google-tasks-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4049,7 +4049,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Cross-Platform OpenPGP Frontend Software.***
 
 | [More info](apps/gpgfrontend.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gpgfrontend) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4057,7 +4057,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A satellite tracking application.***
 
 | [More info](apps/gpredict.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gpredict) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4065,7 +4065,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Software defined radio receiver (SDR).***
 
 | [More info](apps/gqrx.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gqrx) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4073,7 +4073,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Import xls spredsheets, store/analyze student grade.***
 
 | [More info](apps/gradestats.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gradestats) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4081,7 +4081,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Bomberman clone (installs "kdegames").***
 
 | [More info](apps/granatier.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/granatier) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4089,7 +4089,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GraphQL IDE for better development workflows.***
 
 | [More info](apps/graphql-playground.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/graphql-playground) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4097,7 +4097,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple code editor.***
 
 | [More info](apps/graviton.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/graviton) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4105,7 +4105,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Play videos side-by-side.***
 
 | [More info](apps/gridplayer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gridplayer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4113,7 +4113,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A C++ Grin Node & Wallet.***
 
 | [More info](apps/grinplusplus.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/grinplusplus) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4121,7 +4121,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Graphical Editor to create BehaviorTrees.***
 
 | [More info](apps/groot.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/groot) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4129,7 +4129,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tree based audio processing engine.***
 
 | [More info](apps/gsequencer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gsequencer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4137,7 +4137,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Finds you the perfect subtitle match.***
 
 | [More info](apps/gsubs.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gsubs) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4145,7 +4145,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A secure, easy-to-use cryptocurrency wallet.***
 
 | [More info](apps/guarda-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/guarda-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4153,7 +4153,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A FM, DAB/DAB+ decoder using Qt and C++.***
 
 | [More info](apps/guglielmo.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/guglielmo) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4161,7 +4161,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GUI integration for android screen mirroring system.***
 
 | [More info](apps/guiscrcpy.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/guiscrcpy) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4169,7 +4169,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Graphical git client.***
 
 | [More info](apps/guitar.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/guitar) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4177,7 +4177,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The payment system of the future.***
 
 | [More info](apps/gulden.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gulden) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4185,7 +4185,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Edit text files.***
 
 | [More info](apps/gvim.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gvim) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4193,7 +4193,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Gxchain smart contract IDE alpha.***
 
 | [More info](apps/gxc-smart-contract-ide.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gxc-smart-contract-ide) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4201,7 +4201,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Video stabilization using gyroscope data.***
 
 | [More info](apps/gyroflow-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/gyroflow-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4209,7 +4209,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Free and Open Source messaging and emailing app.***
 
 | [More info](apps/hamsket.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hamsket) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4217,7 +4217,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An open-source multiplatform video transcoder.***
 
 | [More info](apps/handbrake.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/handbrake) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4225,7 +4225,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An endless 2D jumping game.***
 
 | [More info](apps/hastyheroes.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hastyheroes) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4233,7 +4233,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Merge several raw images into a single DNG raw image.***
 
 | [More info](apps/hdrmerge.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hdrmerge) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4241,7 +4241,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple cross-platform mind map, diagram, and note-taking tool.***
 
 | [More info](apps/heimer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/heimer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4249,7 +4249,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A post-modern modal text editor.***
 
 | [More info](apps/helix.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/helix) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4257,7 +4257,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop client version for Hermes Messenger.***
 
 | [More info](apps/hermesmessenger.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hermesmessenger) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4265,7 +4265,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***App for display on HERO robot.***
 
 | [More info](apps/hero-display.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hero-display) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4273,7 +4273,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Native GOG and Epic Games Launcher for Linux.***
 
 | [More info](apps/heroic-games-launcher.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/heroic-games-launcher) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4281,7 +4281,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Hex editor for reverse engineering & binary file analysis.***
 
 | [More info](apps/hexinator.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hexinator) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4289,7 +4289,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A cross-platform hexo client, build on electron.***
 
 | [More info](apps/hexoclient.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hexoclient) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4297,7 +4297,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Markdown editor for Hexo built with Electron.***
 
 | [More info](apps/hexoeditor.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hexoeditor) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4305,7 +4305,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***HEY Mail for Linux as AppImage.***
 
 | [More info](apps/hey.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hey) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4313,7 +4313,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Fractional scaling configuration on X11 desktops.***
 
 | [More info](apps/hidpi-fixer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hidpi-fixer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4321,7 +4321,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The Linux perf GUI for performance analysis.***
 
 | [More info](apps/hotspot.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hotspot) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4329,7 +4329,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple floating clock for linux made with QT.***
 
 | [More info](apps/hoverclock-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hoverclock-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4337,7 +4337,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A fine tool to convert any data into C header.***
 
 | [More info](apps/hpack.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hpack) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4345,7 +4345,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Pack a haskell project into a deployable directory structure.***
 
 | [More info](apps/hsinstall.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hsinstall) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4353,7 +4353,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***HTML & Markdown Conversion Software to output PostScript and PDF.***
 
 | [More info](apps/htmldoc.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/htmldoc) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4361,7 +4361,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***HTTPie for Desktop.***
 
 | [More info](apps/httpie-desktop-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/httpie-desktop-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4369,7 +4369,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Stitch photographs together.***
 
 | [More info](apps/hugin.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hugin) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4377,7 +4377,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***HuwCode interpreter.***
 
 | [More info](apps/huwinterpreter.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/huwinterpreter) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4385,7 +4385,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Probe for hardware and upload result to the Linux hdw database.***
 
 | [More info](apps/hw-probe.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hw-probe) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4393,7 +4393,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A terminal built on web technologies.***
 
 | [More info](apps/hyper.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hyper) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4401,7 +4401,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***BarterDEX desktop app.***
 
 | [More info](apps/hyperdex.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hyperdex) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4409,7 +4409,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Hyperion IDE for JIRA.***
 
 | [More info](apps/hyperionide.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hyperionide) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4417,7 +4417,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A fluffy client for Mastodon in React.***
 
 | [More info](apps/hyperspace.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hyperspace) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4425,7 +4425,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Trade like a PRO, robust tools to monitor your accounts.***
 
 | [More info](apps/hypertrader.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/hypertrader) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4433,7 +4433,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Iagon Cloud Application.***
 
 | [More info](apps/iagoncloudapp.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/iagoncloudapp) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4441,7 +4441,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ******
 
 | [More info](apps/icalingua++.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/icalingua++) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4449,7 +4449,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The next generation of cloud storage.***
 
 | [More info](apps/icedrive-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/icedrive-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4457,7 +4457,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A real gamechanger in the world of Open Source FPGAs.***
 
 | [More info](apps/icestudio-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/icestudio-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4465,7 +4465,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***3D slicing software, automatically generates support structure.***
 
 | [More info](apps/ideamaker.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ideamaker) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4473,7 +4473,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop application for Instagram DMs.***
 
 | [More info](apps/igdm.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/igdm) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4481,7 +4481,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***CLI to create, edit, compose, or convert digital images.***
 
 | [More info](apps/imagemagick-clang.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/imagemagick-clang) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4489,7 +4489,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***CLI to create, edit, compose, or convert digital images.***
 
 | [More info](apps/imagemagick-gcc.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/imagemagick-gcc) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4497,7 +4497,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Create an image based on a bunch of other images.***
 
 | [More info](apps/imagemosaicwall.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/imagemosaicwall) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4505,7 +4505,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A rapid prototyping app for image processing.***
 
 | [More info](apps/imageplay.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/imageplay) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4513,7 +4513,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***PNG/JPEG optimization.***
 
 | [More info](apps/imagine.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/imagine) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4521,7 +4521,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An electron-vue project.***
 
 | [More info](apps/imapsyncclient.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/imapsyncclient) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4529,7 +4529,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Very customizable imageboard/booru downloader.***
 
 | [More info](apps/imgbrd-grabber-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/imgbrd-grabber-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4537,7 +4537,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Hex Editor for Reverse Engineers and Programmers.***
 
 | [More info](apps/imhex.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/imhex) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4545,7 +4545,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Music Management and Playback.***
 
 | [More info](apps/impact.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/impact) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4553,7 +4553,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Post to my own development blog.***
 
 | [More info](apps/impposter.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/impposter) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4561,7 +4561,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple client for Google Inbox.***
 
 | [More info](apps/inboxer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/inboxer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4569,7 +4569,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An automated penetration test tool (security).***
 
 | [More info](apps/infection-monkey.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/infection-monkey) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4577,7 +4577,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Editor for academics with cryptography.***
 
 | [More info](apps/infinitex.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/infinitex) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4585,7 +4585,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Infra App for Linux.***
 
 | [More info](apps/infra-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/infra-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4593,7 +4593,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Vector-based drawing program (SVG, PDF, AutoCAD...).***
 
 | [More info](apps/inkscape.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/inkscape) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4601,7 +4601,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Inochi2D Rigging Application.***
 
 | [More info](apps/inochi-creator.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/inochi-creator) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4609,7 +4609,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The GUI front-end of GDB with Tcl/Tk.***
 
 | [More info](apps/insight.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/insight) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4617,7 +4617,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***API client for GraphQL, REST, WebSockets and gRPC.***
 
 | [More info](apps/insomnia.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/insomnia) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4625,7 +4625,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple Text Adventures Interpreter.***
 
 | [More info](apps/instead.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/instead) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4633,7 +4633,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop Intiface Application.***
 
 | [More info](apps/intiface.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/intiface) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4641,7 +4641,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Invoice Generator in Electron.***
 
 | [More info](apps/invoice-generator.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/invoice-generator) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4649,7 +4649,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***IOTA based messenging app.***
 
 | [More info](apps/iota1k.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/iota1k) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4657,7 +4657,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***IPTV player application.***
 
 | [More info](apps/iptvnator.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/iptvnator) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4665,7 +4665,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Connect Four video game with a 3-Dimentional rendering.***
 
 | [More info](apps/ipuissance-4d.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ipuissance-4d) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4673,7 +4673,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A diverting I.Q. challenging pentomino puzzle.***
 
 | [More info](apps/iqpuzzle.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/iqpuzzle) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4681,7 +4681,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***IRCCloud Desktop Client.***
 
 | [More info](apps/irccloud-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/irccloud-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4689,7 +4689,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Capture/generate/analyze/import/export infrared signals.***
 
 | [More info](apps/irscrutinizer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/irscrutinizer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4697,7 +4697,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Editor for Integrated Statistics Learning Environment lessons.***
 
 | [More info](apps/isle-editor.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/isle-editor) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4705,7 +4705,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Lightweight image browser.***
 
 | [More info](apps/isolate.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/isolate) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4713,7 +4713,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Control the ITUSB1 USB Test Switch.***
 
 | [More info](apps/itusb1-manager.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/itusb1-manager) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4721,7 +4721,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Program for telemetry veiwing.***
 
 | [More info](apps/jag.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/jag) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4729,7 +4729,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***HTTP/HTTPS proxy built in Electron and React.***
 
 | [More info](apps/james.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/james) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4737,7 +4737,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cross-platform Blockchain Wallet.***
 
 | [More info](apps/jaxx-liberty-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/jaxx-liberty-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4745,7 +4745,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A client for listening to music from a Jellyfin server.***
 
 | [More info](apps/jellyamp-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/jellyamp-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4753,7 +4753,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Java/Swing graphical frontend for ExifTool.***
 
 | [More info](apps/jexiftoolgui.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/jexiftoolgui) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4761,7 +4761,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Menubar app for JIRA time logging.***
 
 | [More info](apps/jira-timer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/jira-timer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4769,7 +4769,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Jitsi Meet Desktop App.***
 
 | [More info](apps/jitsi-meet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/jitsi-meet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4777,7 +4777,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Chess Round Robin Tournament Manager.***
 
 | [More info](apps/jklubtv.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/jklubtv) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4785,7 +4785,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Application to collect data in a company.***
 
 | [More info](apps/jmbde.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/jmbde) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4793,7 +4793,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Electron application boilerplate.***
 
 | [More info](apps/joaldesktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/joaldesktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4801,7 +4801,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A companion app for the Join website.***
 
 | [More info](apps/join-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/join-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4809,7 +4809,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Note and to-do application with synchronization capabilities.***
 
 | [More info](apps/joplin.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/joplin) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4817,7 +4817,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Turn Android phones into virtual Xbox 360 controller.***
 
 | [More info](apps/joy2droidx.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/joy2droidx) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4825,7 +4825,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The quick way to release your project.***
 
 | [More info](apps/jreleaser.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/jreleaser) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4833,7 +4833,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Jscad desktop application.***
 
 | [More info](apps/jscad-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/jscad-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4841,7 +4841,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Decentralized messaging and payments.***
 
 | [More info](apps/juggernaut.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/juggernaut) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4849,7 +4849,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An open source re-implementation of the Caesar III game.***
 
 | [More info](apps/julius.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/julius) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4857,7 +4857,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A file manager that lets you jump.***
 
 | [More info](apps/jumpfm.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/jumpfm) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4865,7 +4865,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A desktop application for Q Methodology.***
 
 | [More info](apps/kade.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kade) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4873,7 +4873,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GUI for Metasploit Meterpreter and Session Handler.***
 
 | [More info](apps/kage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4881,7 +4881,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A QtQuick Jabber client.***
 
 | [More info](apps/kaidan.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kaidan) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4889,7 +4889,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Maturita GPJP designed for use with kanon web app.***
 
 | [More info](apps/kanon.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kanon) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4897,7 +4897,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Pac-Man clone (installs "kdegames").***
 
 | [More info](apps/kapman.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kapman) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4905,7 +4905,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A multi-document editor part of KDE.***
 
 | [More info](apps/kate.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kate) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4913,7 +4913,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Edu. game based around molecular geometry (installs "kdegames").***
 
 | [More info](apps/katomic.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/katomic) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4921,7 +4921,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A fast, feature rich, cross platform reading server.***
 
 | [More info](apps/kavita.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kavita) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4929,7 +4929,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop app for anime fans.***
 
 | [More info](apps/kawanime.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kawanime) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4937,7 +4937,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A game of hide and seek (installs "kdegames").***
 
 | [More info](apps/kblackbox.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kblackbox) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4945,7 +4945,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Fill the field game (installs "kdegames").***
 
 | [More info](apps/kbounce.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kbounce) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4953,7 +4953,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Destroy bricks without losing the ball (installs "kdegames").***
 
 | [More info](apps/kbreakout.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kbreakout) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4961,7 +4961,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Scientific Calculator (installs "kdeutils").***
 
 | [More info](apps/kcalc.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kcalc) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4969,7 +4969,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Character Selector (installs "kdeutils").***
 
 | [More info](apps/kcharselect.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kcharselect) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4977,7 +4977,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An AppImage of Kcov code coverage tool.***
 
 | [More info](apps/kcov.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kcov) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4985,7 +4985,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Full & updatable KDE Games suite from Debian Stable (metapackage).***
 
 | [More info](apps/kdegames.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kdegames) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -4993,7 +4993,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A powerful Video Editor provided by KDE.***
 
 | [More info](apps/kdenlive.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kdenlive) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5001,7 +5001,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Full & updatable KDE Utils suite from Debian Stable (metapackage).***
 
 | [More info](apps/kdeutils.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kdeutils) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5009,7 +5009,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***View Disk Usage (installs "kdeutils").***
 
 | [More info](apps/kdf.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kdf) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5017,7 +5017,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Diamond game (installs "kdegames").***
 
 | [More info](apps/kdiamond.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kdiamond) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5025,7 +5025,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple open-source disk benchmark tool for Linux distros.***
 
 | [More info](apps/kdiskmark.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kdiskmark) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5033,7 +5033,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Port of the Windows application “Keepass Password Safe”.***
 
 | [More info](apps/keepassxc.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/keepassxc) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5041,7 +5041,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Free cross-platform password manager compatible with KeePass.***
 
 | [More info](apps/keeweb.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/keeweb) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5049,7 +5049,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Track your income and expenses easily.***
 
 | [More info](apps/keibo-moneytracker-x86-64.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/keibo-moneytracker-x86-64) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5057,7 +5057,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Client for Kettle REST service.***
 
 | [More info](apps/kettleclient.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kettleclient) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5065,7 +5065,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***ZZT Editor.***
 
 | [More info](apps/kevedit.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kevedit) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5073,7 +5073,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Keyboard Settings Client.***
 
 | [More info](apps/keyboardclient.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/keyboardclient) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5081,7 +5081,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***One-stop certificate app and certificate key management.***
 
 | [More info](apps/keymanager.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/keymanager) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5089,7 +5089,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A CLI/library/webapp to perfom SQL queries on JSON & CSV.***
 
 | [More info](apps/keyrier-json.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/keyrier-json) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5097,7 +5097,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Key management, signing and encryption.***
 
 | [More info](apps/keys.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/keys) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5105,7 +5105,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***4 in row game (installs "kdegames").***
 
 | [More info](apps/kfourinline.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kfourinline) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5113,7 +5113,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A game with a runner and gold (installs "kdegames").***
 
 | [More info](apps/kgoldrunner.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kgoldrunner) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5121,7 +5121,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A GnuPG frontend (installs "kdeutils").***
 
 | [More info](apps/kgpg.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kgpg) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5129,7 +5129,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Electronic Design Automation suite.***
 
 | [More info](apps/kicad.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kicad) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5137,7 +5137,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Go strategic board game for two players (installs "kdegames").***
 
 | [More info](apps/kigo.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kigo) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5145,7 +5145,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Configuration utility for Input Club keyboards.***
 
 | [More info](apps/kiibohd-configurator.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kiibohd-configurator) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5153,7 +5153,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Port of the classic console game Robots (installs "kdegames").***
 
 | [More info](apps/killbots.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/killbots) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5161,7 +5161,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Kimitzu Client.***
 
 | [More info](apps/kimitzu-client.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kimitzu-client) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5169,7 +5169,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A dice game (installs "kdegames").***
 
 | [More info](apps/kiriki.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kiriki) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5177,7 +5177,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Bookkeeping software for small organizations. Open source accountant.***
 
 | [More info](apps/kitupiikki.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kitupiikki) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5185,7 +5185,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Bookkeeping software for small organizations. Open source accountant.***
 
 | [More info](apps/kitupiikki.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kitupiikki) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5193,7 +5193,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A game of dices on a board (installs "kdegames").***
 
 | [More info](apps/kjumpingcube.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kjumpingcube) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5201,7 +5201,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Color matching like SameGame (installs "kdegames").***
 
 | [More info](apps/klickety.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/klickety) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5209,7 +5209,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Inspired by well known game of Color Lines (installs "kdegames").***
 
 | [More info](apps/klines.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/klines) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5217,7 +5217,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A smart interactive log explorer.***
 
 | [More info](apps/klogg.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/klogg) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5225,7 +5225,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Mahjongg game (installs "kdegames").***
 
 | [More info](apps/kmahjongg.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kmahjongg) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5233,7 +5233,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Classic mine game (installs "kdegames").***
 
 | [More info](apps/kmines.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kmines) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5241,7 +5241,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Battle Ship game (installs "kdegames").***
 
 | [More info](apps/knavalbattle.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/knavalbattle) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5249,7 +5249,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Net constructing game (installs "kdegames").***
 
 | [More info](apps/knetwalk.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/knetwalk) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5257,7 +5257,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Chess interface for the KDE Platform (installs "kdegames").***
 
 | [More info](apps/knights.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/knights) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5265,7 +5265,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Note taking.***
 
 | [More info](apps/knowte.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/knowte) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5273,7 +5273,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Mini Golf game (installs "kdegames").***
 
 | [More info](apps/kolf.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kolf) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5281,7 +5281,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Dodge red balls in the field (installs "kdegames").***
 
 | [More info](apps/kollision.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kollision) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5289,7 +5289,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Game of planets (installs "kdegames").***
 
 | [More info](apps/konquest.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/konquest) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5297,7 +5297,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Modern ebook manager and reader with sync & backup capacities.***
 
 | [More info](apps/koodo-reader.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/koodo-reader) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5305,7 +5305,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cross-platform backup tool for Windows, macOS & Linux.***
 
 | [More info](apps/kopia.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kopia) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5313,7 +5313,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Backup tool, client-side end-to-end encryption and compression.***
 
 | [More info](apps/kopiaui.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kopiaui) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5321,7 +5321,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A document viewer.***
 
 | [More info](apps/koreader.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/koreader) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5329,7 +5329,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Klondike, Spider, Free Cell and other Solitaire (installs "kdegames").***
 
 | [More info](apps/kpat.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kpat) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5337,7 +5337,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Reversi game (installs "kdegames").***
 
 | [More info](apps/kreversi.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kreversi) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5345,7 +5345,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A professional FREE and open source painting program (graphics).***
 
 | [More info](apps/krita.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/krita) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5353,7 +5353,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A game similar to Mahjongg (installs "kdegames").***
 
 | [More info](apps/kshisen.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kshisen) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5361,7 +5361,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A strategy board game (installs "kdegames").***
 
 | [More info](apps/ksirk.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ksirk) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5369,7 +5369,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A snake race game (installs "kdegames").***
 
 | [More info](apps/ksnakeduel.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ksnakeduel) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5377,7 +5377,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Screenshot tool inspired by Windows Snipping Tool and made with Qt.***
 
 | [More info](apps/ksnip.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ksnip) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5385,7 +5385,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Battleship with satellites in the space (installs "kdegames").***
 
 | [More info](apps/kspaceduel.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kspaceduel) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5393,7 +5393,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Win with most number of completed squares (installs "kdegames").***
 
 | [More info](apps/ksquares.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ksquares) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5401,7 +5401,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Sudoku game (installs "kdegames").***
 
 | [More info](apps/ksudoku.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ksudoku) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5409,7 +5409,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Countdown Launcher (installs "kdeutils").***
 
 | [More info](apps/ktimer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ktimer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5417,7 +5417,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple Mr. Potato game for children (installs "kdegames").***
 
 | [More info](apps/ktuberling.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ktuberling) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5425,7 +5425,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The Hero that Kubernetes deserves.***
 
 | [More info](apps/kubeman-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kubeman-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5433,7 +5433,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A logic game based on Rubik's Cube (installs "kdegames").***
 
 | [More info](apps/kubrick.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kubrick) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5441,7 +5441,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An elegant Microsoft ToDo desktop client for Linux (a fork of Ao).***
 
 | [More info](apps/kuro.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kuro) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5449,7 +5449,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Wallet management tool (installs "kdeutils").***
 
 | [More info](apps/kwalletmanager5.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kwalletmanager5) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5457,7 +5457,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A sound & audio editor designed for the KDE Desktop Environment.***
 
 | [More info](apps/kwave.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/kwave) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5465,7 +5465,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Beautiful Gemini Client.***
 
 | [More info](apps/lagrange.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lagrange) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5473,7 +5473,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tool to generate normal/specular/occlussion/parallax 2D maps.***
 
 | [More info](apps/laigter.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/laigter) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5481,7 +5481,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Manage Laravel json language files.***
 
 | [More info](apps/langly.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/langly) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5489,7 +5489,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***LAN file transfer app for any kind and size of files and folders.***
 
 | [More info](apps/lanshare.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lanshare) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5497,7 +5497,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Easy Laravel application management.***
 
 | [More info](apps/laravel-kit.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/laravel-kit) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5505,7 +5505,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Generic application's launcher.***
 
 | [More info](apps/launcher.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/launcher) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5513,7 +5513,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A browser and wallet for LBRY, the decentralized marketplace.***
 
 | [More info](apps/lbryio.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lbryio) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5521,7 +5521,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Editor (unknown).***
 
 | [More info](apps/lcedit.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lcedit) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5529,7 +5529,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***LDraw Model Viewer.***
 
 | [More info](apps/ldview.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ldview) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5537,7 +5537,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A text editor.***
 
 | [More info](apps/le.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/le) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5545,7 +5545,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Design the lights on your Model01 with an ease.***
 
 | [More info](apps/led.custom.palette.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/led.custom.palette) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5553,7 +5553,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Wallet desktop app for multiple cryptocurrencies.***
 
 | [More info](apps/ledger-live-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ledger-live-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5561,7 +5561,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Distractionless Writing Tool.***
 
 | [More info](apps/left.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/left) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5569,7 +5569,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Implementation of Legendary Kingdoms Gamebooks in C++.***
 
 | [More info](apps/legendary-kingdoms.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/legendary-kingdoms) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5577,7 +5577,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A tiny judging environment for OI contest based on Project_LemonPlus.***
 
 | [More info](apps/lemon.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lemon) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5585,7 +5585,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***App you need to take control of your Kubernetes clusters.***
 
 | [More info](apps/lens.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lens) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5593,7 +5593,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Create virtual LEGO models.***
 
 | [More info](apps/leocad.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/leocad) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5601,7 +5601,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Multi-platform desktop application for watching movies & TV shows.***
 
 | [More info](apps/leonflix.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/leonflix) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5609,7 +5609,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Democratizing Code Snippets Management (macOS/Win/Linux).***
 
 | [More info](apps/lepton.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lepton) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5617,7 +5617,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Lescovex decentralized exchange, wallet and contract issuer.***
 
 | [More info](apps/lescovex.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lescovex) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5625,7 +5625,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Library Assistant.***
 
 | [More info](apps/libassist.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/libassist) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5633,7 +5633,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Pixelated scanning transmission electron microscopy.***
 
 | [More info](apps/libertem.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/libertem) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5641,7 +5641,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***2D CAD program written in C++11 using the Qt framework.***
 
 | [More info](apps/librecad.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/librecad) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5649,7 +5649,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Free and open source Office suite (choose a version).***
 
 | [More info](apps/libreoffice.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/libreoffice) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5657,7 +5657,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Office suite (includes manuals).***
 
 | [More info](apps/libreoffice-fresh-full-help.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/libreoffice-fresh-full-help) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5665,7 +5665,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Office suite (latest, includes all languages).***
 
 | [More info](apps/libreoffice-fresh-full.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/libreoffice-fresh-full) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5673,7 +5673,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Office suite (includes manuals).***
 
 | [More info](apps/libreoffice-fresh-standard-help.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/libreoffice-fresh-standard-help) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5681,7 +5681,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Office suite (latest, european languages only).***
 
 | [More info](apps/libreoffice-fresh-standard.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/libreoffice-fresh-standard) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5689,7 +5689,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Office suite (includes manuals).***
 
 | [More info](apps/libreoffice-still-full-help.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/libreoffice-still-full-help) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5697,7 +5697,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Office suite (stable, includes all languages).***
 
 | [More info](apps/libreoffice-still-full.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/libreoffice-still-full) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5705,7 +5705,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Office suite (includes manuals).***
 
 | [More info](apps/libreoffice-still-standard-help.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/libreoffice-still-standard-help) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5713,7 +5713,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Office suite (stable, european languages only).***
 
 | [More info](apps/libreoffice-still-standard.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/libreoffice-still-standard) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5721,7 +5721,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Design Schematics and PCBs.***
 
 | [More info](apps/librepcb.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/librepcb) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5729,7 +5729,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Animated sprite editor & pixel art tool.***
 
 | [More info](apps/libresprite.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/libresprite) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5737,7 +5737,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Firefox-based Web Browser focused on privacy, security, freedom.***
 
 | [More info](apps/librewolf.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/librewolf) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5745,7 +5745,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Lightning Wallet Application.***
 
 | [More info](apps/lightning.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lightning) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5753,7 +5753,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Wallet for lightning network***
 
 | [More info](apps/lightning-peach-wallet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lightning-peach-wallet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5761,7 +5761,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A mordern Chess Variant Analysis GUI (game).***
 
 | [More info](apps/liground.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/liground) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5769,7 +5769,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Process/performances monitor (CPU, RAM, Disks and Network).***
 
 | [More info](apps/liketaskmanager.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/liketaskmanager) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5777,7 +5777,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Arcade game and entry for Ludum Dare 35.***
 
 | [More info](apps/linedancer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/linedancer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5785,7 +5785,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A libre SIP client.***
 
 | [More info](apps/linphone.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/linphone) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5793,7 +5793,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Convert a linux program to an AppDir or an AppImage.***
 
 | [More info](apps/linuxdeployqt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/linuxdeployqt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5801,7 +5801,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Undervolting GUI for Intel Linux Systems.***
 
 | [More info](apps/linux-intel-undervolt-gui.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/linux-intel-undervolt-gui) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5809,7 +5809,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Powerful, minimalistic, cross-platform, note-taking app.***
 
 | [More info](apps/linwood-butterfly.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/linwood-butterfly) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5817,7 +5817,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***One for all free music in China.***
 
 | [More info](apps/listen1-desktop-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/listen1-desktop-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5825,7 +5825,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***LiteIDE is a simple, open source, cross-platform Go IDE.***
 
 | [More info](apps/liteide.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/liteide) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5833,7 +5833,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Browse, search and manage accounts, replays and more.***
 
 | [More info](apps/liveme-pro-tools.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/liveme-pro-tools) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5841,7 +5841,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***FL Studio® alternative that allows you to produce music with the PC.***
 
 | [More info](apps/lmms.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lmms) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5849,7 +5849,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Share your localhost in a unique way.***
 
 | [More info](apps/local-browser.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/local-browser) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5857,7 +5857,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An open source cross-platform alternative to AirDrop***
 
 | [More info](apps/localsend.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/localsend) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5865,7 +5865,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Loginized Gnome GDM Login Theme Manager.***
 
 | [More info](apps/loginized.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/loginized) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5873,7 +5873,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A privacy-first platform for knowledge management and collaboration.***
 
 | [More info](apps/logseq.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/logseq) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5881,7 +5881,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The swiss army knife of lossless video/audio editing.***
 
 | [More info](apps/losslesscut.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/losslesscut) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5889,7 +5889,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The unquestionably awesome 2D game engine.***
 
 | [More info](apps/love.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/love) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5897,7 +5897,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An LDraw Building Instruction Editor.***
 
 | [More info](apps/lpub3d.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lpub3d) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5905,7 +5905,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Fun and engaging card game for two players (installs "kdegames").***
 
 | [More info](apps/lskat.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lskat) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5913,7 +5913,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A tool to create and display interactive content with H5P.***
 
 | [More info](apps/lumi.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lumi) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5921,7 +5921,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Create and tonemap HDR images.***
 
 | [More info](apps/luminance-hdr.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/luminance-hdr) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5929,7 +5929,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Manage npm dependencies through a modern UI.***
 
 | [More info](apps/luna.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/luna) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5937,7 +5937,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Lunar Client.***
 
 | [More info](apps/lunar-client.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lunar-client) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5945,7 +5945,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***All-in-one encrypted to-do list, notebook, habit and mood tracker.***
 
 | [More info](apps/lunatask.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lunatask) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5953,7 +5953,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Ethereum-based Encyclopedia.***
 
 | [More info](apps/lunyr.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lunyr) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5961,7 +5961,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***一个基于electron的音乐软件.***
 
 | [More info](apps/lx-music-desktop-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lx-music-desktop-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5969,7 +5969,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A lightweight and desktop-independent task manager.***
 
 | [More info](apps/lxtask.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/lxtask) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5977,7 +5977,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Magento 2 Upgrade GUI.***
 
 | [More info](apps/magento2-upgrade-gui.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/magento2-upgrade-gui) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5985,7 +5985,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A novel and screenwriting program.***
 
 | [More info](apps/magicfountain.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/magicfountain) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -5993,7 +5993,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***To-do manager, notepad, RSS reader and much more.***
 
 | [More info](apps/makagiga.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/makagiga) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6001,7 +6001,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Can edit field from Final Fantasy VII (PS & PC).***
 
 | [More info](apps/makoureactor.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/makoureactor) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6009,7 +6009,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GUI Programming Tool for iCE40.***
 
 | [More info](apps/malice.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/malice) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6017,7 +6017,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Free Accounting Software for Linux (Server).***
 
 | [More info](apps/manager-io.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/manager-io) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6025,7 +6025,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Explore trigonometric, hyper-complex and other 3D fractals.***
 
 | [More info](apps/mandelbulber2.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mandelbulber2) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6033,7 +6033,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A free online multi-player realtime roguelike game.***
 
 | [More info](apps/mangbandclient.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mangbandclient) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6041,7 +6041,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Flexible invoicing app with beautiful & customizable templates.***
 
 | [More info](apps/manta.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/manta) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6049,7 +6049,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Local-first mapping and monitoring in remote environments.***
 
 | [More info](apps/mapeo.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mapeo) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6057,7 +6057,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Photo kml generator for Google Earth.***
 
 | [More info](apps/mapollage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mapollage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6065,7 +6065,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Some kind of map application.***
 
 | [More info](apps/mapton.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mapton) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6073,7 +6073,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A markdown editor.***
 
 | [More info](apps/markman.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/markman) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6081,7 +6081,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An mind map and outliner software. Multiplatform mind map and outliner editor with markdown support.***
 
 | [More info](apps/mark-mind.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mark-mind) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6089,7 +6089,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An mind map and outliner software. Multiplatform mind map and outliner editor with markdown support.***
 
 | [More info](apps/mark-mind.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mark-mind) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6097,7 +6097,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple and elegant markdown editor multiplatform.***
 
 | [More info](apps/marktext.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/marktext) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6105,7 +6105,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Configuration tool for Marlin project.***
 
 | [More info](apps/marlin-conf.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/marlin-conf) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6113,7 +6113,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Websocket testing tool.***
 
 | [More info](apps/martian.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/martian) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6121,7 +6121,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***MasterVyrn is a clean dedicated GBF loader.***
 
 | [More info](apps/mastervyrn.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mastervyrn) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6129,7 +6129,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Secure collaboration across entire software development.***
 
 | [More info](apps/mattermost-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mattermost-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6137,7 +6137,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A tool which shows how different algorithms solves mazes.***
 
 | [More info](apps/mazesolver.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mazesolver) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6145,7 +6145,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An Emby/Jellyfin rich presence client for Discord.***
 
 | [More info](apps/mbcord-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mbcord-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6153,7 +6153,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Electron app for tasks around Podcast mp3 files.***
 
 | [More info](apps/mcpodcast.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mcpodcast) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6161,7 +6161,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Data oriented programming language for game developers.***
 
 | [More info](apps/m.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/m) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6169,7 +6169,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***MDL wallet.***
 
 | [More info](apps/mdl.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mdl) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6177,7 +6177,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Application that renders and displays Markdown files.***
 
 | [More info](apps/mdview.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mdview) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6185,7 +6185,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Play mechanical keyboard sounds as you type.***
 
 | [More info](apps/mechvibes.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mechvibes) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6193,7 +6193,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Content duplicator for common media services like YouTube.***
 
 | [More info](apps/media-dupes.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/media-dupes) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6201,7 +6201,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Media Manager for Kodi.***
 
 | [More info](apps/mediaelch.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mediaelch) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6209,7 +6209,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Supplies technical & tag information about a video or audio file.***
 
 | [More info](apps/mediainfo.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mediainfo) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6217,7 +6217,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A full media server/player/downloader/etc all in one.***
 
 | [More info](apps/media-mate.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/media-mate) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6225,7 +6225,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Launcher for Median XL mod, Diablo II overhaul.***
 
 | [More info](apps/median-xl-launcher-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/median-xl-launcher-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6233,7 +6233,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Searches the online media libraries of various broadcasters.***
 
 | [More info](apps/mediathekview.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mediathekview) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6241,7 +6241,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cloud music integration for your desktop.***
 
 | [More info](apps/mellowplayer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mellowplayer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6249,7 +6249,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple-as-pie music player.***
 
 | [More info](apps/melodie.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/melodie) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6257,7 +6257,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A video player for studying Japanese.***
 
 | [More info](apps/memento.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/memento) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6265,7 +6265,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Search over 100 million cross-publisher articles and counting.***
 
 | [More info](apps/mendeley.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mendeley) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6273,7 +6273,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An attempt to port HeidiSQL to C++/Qt (Linux/Windows).***
 
 | [More info](apps/meow-sql.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/meow-sql) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6281,7 +6281,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Processor and editor of large 3D triangular meshes.***
 
 | [More info](apps/meshlab.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/meshlab) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6289,7 +6289,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The world's greatest open source 3D CAM software (maybe one day).***
 
 | [More info](apps/meshmill.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/meshmill) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6297,7 +6297,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A tool to grab metadata for tv shows and rename files on PC. Grab meta data for tv shows and rename files locally.***
 
 | [More info](apps/meta-grabber.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/meta-grabber) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6305,7 +6305,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A tool to grab metadata for tv shows and rename files on PC. Grab meta data for tv shows and rename files locally.***
 
 | [More info](apps/meta-grabber.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/meta-grabber) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6313,7 +6313,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***µPad is an open digital note taking app.***
 
 | [More info](apps/micropad.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/micropad) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6321,7 +6321,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Web Browser provided by Microsoft (Beta Edition).***
 
 | [More info](apps/microsoft-edge-beta.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/microsoft-edge-beta) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6329,7 +6329,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Web Browser provided by Microsoft (Developer Edition).***
 
 | [More info](apps/microsoft-edge-dev.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/microsoft-edge-dev) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6337,7 +6337,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Web Browser provided by Microsoft (Stable Edition).***
 
 | [More info](apps/microsoft-edge.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/microsoft-edge) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6345,7 +6345,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A free note-taking app for studying.***
 
 | [More info](apps/midterm.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/midterm) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6353,7 +6353,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***MieSimulatorGUI by Virtual Photonics.***
 
 | [More info](apps/miesimulatorgui.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/miesimulatorgui) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6361,7 +6361,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Electron application to draw mind maps.***
 
 | [More info](apps/mindmapp.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mindmapp) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6369,7 +6369,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Game downloader and launcher for Minecraft.***
 
 | [More info](apps/minecraft-launcher.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/minecraft-launcher) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6377,7 +6377,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Multiplayer infinite-world block sandbox.***
 
 | [More info](apps/minetest.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/minetest) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6385,7 +6385,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Smart scheduling assistant.***
 
 | [More info](apps/minetime.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/minetime) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6393,7 +6393,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple and secure journal app.***
 
 | [More info](apps/mini-diary.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mini-diary) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6401,7 +6401,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Subscribe, listen and download your podcasts.***
 
 | [More info](apps/minimal-podcasts-player.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/minimal-podcasts-player) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6409,7 +6409,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A productive tool inspired by LaunchBar in macOS.***
 
 | [More info](apps/minions.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/minions) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6417,7 +6417,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Minimal Qt deployment for Linux, Windows, macOS and WebAssembly.***
 
 | [More info](apps/mini-qml.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mini-qml) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6425,7 +6425,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A free and open-source constraint modeling language.***
 
 | [More info](apps/minizinc-ide.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/minizinc-ide) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6433,7 +6433,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Mira Auto Database Backup app.***
 
 | [More info](apps/mira-backup.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mira-backup) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6441,7 +6441,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Matrix chat client for encrypted and decentralized communication.***
 
 | [More info](apps/mirage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mirage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6449,7 +6449,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Bittorrent streaming software for cats. Stream anime torrents.***
 
 | [More info](apps/miru.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/miru) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6457,7 +6457,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The desktop app for MJML.***
 
 | [More info](apps/mjml-app.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mjml-app) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6465,7 +6465,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A game of searching (in 3D stages).***
 
 | [More info](apps/mki3dgame.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mki3dgame) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6473,7 +6473,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Matroska files creator and tools.***
 
 | [More info](apps/mkvtoolnix.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mkvtoolnix) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6481,7 +6481,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***All in one MLV processing app (audio/video). Magic Lantern Video Processing Application.***
 
 | [More info](apps/mlv-app.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mlv-app) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6489,7 +6489,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***All in one MLV processing app (audio/video). Magic Lantern Video Processing Application.***
 
 | [More info](apps/mlv-app.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mlv-app) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6497,7 +6497,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Graphical MUD client for the game MUME.***
 
 | [More info](apps/mmapper.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mmapper) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6505,7 +6505,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Front-end for MoarVM's / Rakudo's profilers.***
 
 | [More info](apps/moarperf.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/moarperf) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6513,7 +6513,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***.A handsome Himalayan desktop client.***
 
 | [More info](apps/mob.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mob) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6521,7 +6521,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple markdown-powered SRS app.***
 
 | [More info](apps/mochi.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mochi) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6529,7 +6529,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Manage and start the mock servers on your local platform easily.***
 
 | [More info](apps/mockman.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mockman) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6537,7 +6537,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Mock servers in seconds.***
 
 | [More info](apps/mockoon.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mockoon) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6545,7 +6545,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A beautiful, powerful Twitter client for desktop.***
 
 | [More info](apps/moderndeck.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/moderndeck) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6553,7 +6553,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The admin panel for the lightweight info screen solution.***
 
 | [More info](apps/moniteur-admin.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/moniteur-admin) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6561,7 +6561,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Mooltipass crossplatform daemon/tools.***
 
 | [More info](apps/moolticute.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/moolticute) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6569,7 +6569,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A desktop app to track cryptocurrencies.***
 
 | [More info](apps/moonitor.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/moonitor) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6577,7 +6577,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Stream games from your NVIDIA GameStream-enabled PC.***
 
 | [More info](apps/moonlight.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/moonlight) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6585,7 +6585,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***AIO video player to play Youtube, Bilibili... and local videos.***
 
 | [More info](apps/moonplayer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/moonplayer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6593,7 +6593,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Music player capable of playing local audio or from Youtube/Spotify.***
 
 | [More info](apps/moosync.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/moosync) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6601,7 +6601,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A full-featured download manager.***
 
 | [More info](apps/motrix.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/motrix) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6609,7 +6609,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Free and simple to use video player made with Haskell.***
 
 | [More info](apps/movie-monad.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/movie-monad) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6617,7 +6617,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An Electron app to edit metadata of mp3 files.***
 
 | [More info](apps/mp3-tagger-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mp3-tagger-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6625,7 +6625,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A free, open source, and cross-platform media player (LIBC 2.28+).***
 
 | [More info](apps/mpv-0.29.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mpv-0.29) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6633,7 +6633,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A free, open source, and cross-platform media player (LIBC 2.31+).***
 
 | [More info](apps/mpv-0.32.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mpv-0.32) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6641,7 +6641,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A free, open source, and cross-platform media player (LIBC 2.36+).***
 
 | [More info](apps/mpv-0.35.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mpv-0.35) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6649,7 +6649,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An advanced desktop MQTT client for binary protocol development.***
 
 | [More info](apps/mqttcute.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mqttcute) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6657,7 +6657,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Explore your message queues.***
 
 | [More info](apps/mqtt-explorer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mqtt-explorer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6665,7 +6665,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Minimal App To Aggregate And Rename Files In Bulk.***
 
 | [More info](apps/mr.dclutterer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mr.dclutterer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6673,7 +6673,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Lightweight spreadsheet program.***
 
 | [More info](apps/mtcelledit.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mtcelledit) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6681,7 +6681,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Mudita Center Electron App.***
 
 | [More info](apps/mudita-center-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mudita-center-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6689,7 +6689,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Lightweight PDF, XPS, and E-book viewer.***
 
 | [More info](apps/mupdf.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mupdf) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6697,7 +6697,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A digital audio workstation with support for both Audio and MIDI.***
 
 | [More info](apps/muse.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/muse) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6705,7 +6705,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple, clean and cross-platform music player.***
 
 | [More info](apps/museeks.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/museeks) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6713,7 +6713,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An open source and free music notation software.***
 
 | [More info](apps/musescore.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/musescore) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6721,7 +6721,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Audio/Music player and server built with Web technologies.***
 
 | [More info](apps/musicalypse.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/musicalypse) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6729,7 +6729,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***.Exploring Math, Music, and Programming.***
 
 | [More info](apps/music-blocks.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/music-blocks) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6737,7 +6737,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Use your own soundtrack in Counter-Strike.***
 
 | [More info](apps/music-kitten-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/music-kitten-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6745,7 +6745,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***All purpose tool for dealing with PDF files.***
 
 | [More info](apps/mutool.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mutool) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6753,7 +6753,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A file sharing client for I2P.***
 
 | [More info](apps/muwire.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/muwire) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6761,7 +6761,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Accounting system written in C++ with QTCore.***
 
 | [More info](apps/mybelka.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mybelka) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6769,7 +6769,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Offline cross-platform budgeting solution built with Electron.***
 
 | [More info](apps/my-budget.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/my-budget) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6777,7 +6777,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***MyCrypto web and electron app.***
 
 | [More info](apps/mycrypto.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mycrypto) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6785,7 +6785,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A lite jira desktop.***
 
 | [More info](apps/my-jira.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/my-jira) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6793,7 +6793,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple drawing and painting program (graphics).***
 
 | [More info](apps/mypaint.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mypaint) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6801,7 +6801,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Qt5/C++ FFmpeg Media Converter.***
 
 | [More info](apps/mystiq.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/mystiq) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6809,7 +6809,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Nodejs implementation of holochain networking / p2p backend process.***
 
 | [More info](apps/n3h.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/n3h) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6817,7 +6817,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A 2d action/rpg space game that combines elements from the action.***
 
 | [More info](apps/naev.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/naev) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6825,7 +6825,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Pangea Software’s game, adventure of a cybernetic dinosaur.***
 
 | [More info](apps/nanosaur.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nanosaur) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6833,7 +6833,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Wallet for interacting with Nano.***
 
 | [More info](apps/nanovault.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nanovault) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6841,7 +6841,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Official Nault AppImage client.***
 
 | [More info](apps/nault-bin.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nault-bin) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6849,7 +6849,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***One of the first graphical web browsers.***
 
 | [More info](apps/ncsa-mosaic.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ncsa-mosaic) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6857,7 +6857,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Best cross-platform downloader ever.***
 
 | [More info](apps/negibox.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/negibox) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6865,7 +6865,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Light wallet for NEO blockchain.***
 
 | [More info](apps/neon.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/neon) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6873,7 +6873,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An Unicode Converter app for Windows, OS X and Linux.***
 
 | [More info](apps/nepaliunicode.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nepaliunicode) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6881,7 +6881,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A web-based GUI application for NEST Simulator.***
 
 | [More info](apps/nest-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nest-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6889,7 +6889,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Apache NetBeans installers.***
 
 | [More info](apps/netbeans.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/netbeans) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6897,7 +6897,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A circuit builder.***
 
 | [More info](apps/newlogic.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/newlogic) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6905,7 +6905,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Client-server software for creating & using file hosting services.***
 
 | [More info](apps/nextcloud.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nextcloud) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6913,7 +6913,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A blue-ray player, originally named TheNewPlayerFree.***
 
 | [More info](apps/nextplayer-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nextplayer-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6921,7 +6921,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Official interface layers of the Nexus Software Stack.***
 
 | [More info](apps/nexus-wallet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nexus-wallet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6929,7 +6929,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A library which allows userspace application access to NFC devices.***
 
 | [More info](apps/nfctools.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nfctools) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6937,7 +6937,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Usenet poster for binaries developped in C++/QT.***
 
 | [More info](apps/ngpost.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ngpost) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6945,7 +6945,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Reverse Engineering for Angular.***
 
 | [More info](apps/ngrev.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ngrev) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6953,7 +6953,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop client for Matrix.***
 
 | [More info](apps/nheko.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nheko) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6961,7 +6961,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A grin gui wallet.***
 
 | [More info](apps/niffler.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/niffler) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6969,7 +6969,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Dark Mode PDF Reader built using Electron and PDF.js.***
 
 | [More info](apps/nightpdf.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nightpdf) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6977,7 +6977,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A beautiful weather app built using the Dark Sky API.***
 
 | [More info](apps/nimbus-weather.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nimbus-weather) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6985,7 +6985,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Manage your Nitrokey devices.***
 
 | [More info](apps/nitrokey.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nitrokey) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -6993,7 +6993,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Use with Evernote to remember everything.***
 
 | [More info](apps/nixnote.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nixnote) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7001,7 +7001,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***NMEA sentence generator utility to broadcast via TCP.***
 
 | [More info](apps/nmeasimulator.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nmeasimulator) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7009,7 +7009,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***NodeJS is a JavaScript runtime built on Chrome's V8 JavaScript engine.***
 
 | [More info](apps/node.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/node) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7017,7 +7017,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Application for learning musical score notation.***
 
 | [More info](apps/nootka.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nootka) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7025,7 +7025,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A nicer way to connect to NordVPN, electron-based AppImage.***
 
 | [More info](apps/nordvpn.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nordvpn) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7033,7 +7033,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Essential admin GUI for mongodb.***
 
 | [More info](apps/nosqlbooster.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nosqlbooster) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7041,7 +7041,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A multiplatform game launcher for video game emulators! Front-end launcher for retro/current gen game emulators.***
 
 | [More info](apps/nostlan.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nostlan) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7049,7 +7049,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A multiplatform game launcher for video game emulators! Front-end launcher for retro/current gen game emulators.***
 
 | [More info](apps/nostlan.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nostlan) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7057,7 +7057,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The Markdown-based note-taking app that doesn't suck.***
 
 | [More info](apps/notable.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/notable) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7065,7 +7065,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Note-taking app to help boost productivity.***
 
 | [More info](apps/notemaster.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/notemaster) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7073,7 +7073,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A cross-platform, reimplementation of Notepad++.***
 
 | [More info](apps/notepadnext.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/notepadnext) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7081,7 +7081,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Edit source code files.***
 
 | [More info](apps/notepadqq.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/notepadqq) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7089,7 +7089,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple serial terminal application.***
 
 | [More info](apps/noter.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/noter) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7097,7 +7097,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GUI for noteshrink.py with preview and pre-processing opt.***
 
 | [More info](apps/noteshrink-qt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/noteshrink-qt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7105,7 +7105,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Private note-taking app that encrypts everything on client side.***
 
 | [More info](apps/notesnook.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/notesnook) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7113,7 +7113,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Note-taking application, write down your thoughts.***
 
 | [More info](apps/notes.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/notes) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7121,7 +7121,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Package manager for Node.js (installer for "node").***
 
 | [More info](apps/npm.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/npm) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7129,7 +7129,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Framework for desktop apps for development kits.***
 
 | [More info](apps/nrf-connect.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nrf-connect) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7137,7 +7137,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Streaming music player that finds free music for you.***
 
 | [More info](apps/nuclear.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nuclear) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7145,7 +7145,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop synchronization client for the Nuxeo platform.***
 
 | [More info](apps/nuxeo-drive.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nuxeo-drive) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7153,7 +7153,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***NeoVim, Vim fork focused on extensibility and usability.***
 
 | [More info](apps/nvim.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nvim) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7161,7 +7161,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GPUs process monitoring for AMD, Intel and NVIDIA.***
 
 | [More info](apps/nvtop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nvtop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7169,7 +7169,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An easy to use new terminal.***
 
 | [More info](apps/nxshell.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nxshell) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7177,7 +7177,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A GUI to install and manage AppImages (Nitrux OS).***
 
 | [More info](apps/nx-software-center.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nx-software-center) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7185,7 +7185,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Use the Nym network and take advantage of it.***
 
 | [More info](apps/nym-wallet-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nym-wallet-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7193,7 +7193,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The hacker's power-browser (Web Browser).***
 
 | [More info](apps/nyxt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/nyxt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7201,7 +7201,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A powerful knowledge base, plain text Markdown files.***
 
 | [More info](apps/obsidian.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/obsidian) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7209,7 +7209,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Multiplatform Audio Editor.***
 
 | [More info](apps/ocenaudio.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ocenaudio) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7217,7 +7217,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***AppImage for OCRmyPDF.***
 
 | [More info](apps/ocrmypdf.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ocrmypdf) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7225,7 +7225,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Take flat videos, distort them to fit fulldome.***
 
 | [More info](apps/ocvvid2fulldome.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ocvvid2fulldome) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7233,7 +7233,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Warping images and videos for planetarium fulldome display.***
 
 | [More info](apps/ocvwarp.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ocvwarp) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7241,7 +7241,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Free non-linear video editor (version 0.1).***
 
 | [More info](apps/olive-0.1.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/olive-0.1) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7249,7 +7249,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Free open-source non-linear video editor (nightly build).***
 
 | [More info](apps/olive.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/olive) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7257,7 +7257,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Semantic, procedural, non-destructive vector modelling.***
 
 | [More info](apps/ommpfritt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ommpfritt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7265,7 +7265,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Open source crypto wallet.***
 
 | [More info](apps/onekey-wallet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/onekey-wallet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7273,7 +7273,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***P3X Onenote Linux.***
 
 | [More info](apps/onenote.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/onenote) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7281,7 +7281,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Office Suite with full support for MS Windows formats and cloud.***
 
 | [More info](apps/onlyoffice.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/onlyoffice) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7289,7 +7289,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Binary neural networks inference framework for mobile platform.***
 
 | [More info](apps/onnx2bnn.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/onnx2bnn) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7297,7 +7297,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Wrapper of NNAPI ("DNNLibrary" is for "daquexian's NNAPI libs).***
 
 | [More info](apps/onnx2daq.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/onnx2daq) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7305,7 +7305,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Onshape desktop app (web application shell).***
 
 | [More info](apps/onshape.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/onshape) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7313,7 +7313,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Decentralized messaging application based on PSS.***
 
 | [More info](apps/onyx.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/onyx) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7321,7 +7321,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Violent & sexy, multiplayer first person shooter game (ioquake3).***
 
 | [More info](apps/openarena.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/openarena) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7329,7 +7329,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Download and manage your Audible audiobooks.***
 
 | [More info](apps/openaudible.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/openaudible) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7337,7 +7337,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A customizable falling block puzzle game like tetris.***
 
 | [More info](apps/openblok.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/openblok) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7345,7 +7345,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Comic and Manga reader, written with Node.js and using Electron.***
 
 | [More info](apps/opencomic.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/opencomic) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7353,7 +7353,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A mod for OpenRA based on the Hard Vacuum (game).***
 
 | [More info](apps/openhv.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/openhv) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7361,7 +7361,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Pluggable markup editor.***
 
 | [More info](apps/open-markup-editor.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/open-markup-editor) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7369,7 +7369,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Open-source client for Old School RuneScape.***
 
 | [More info](apps/openosrs-launcher-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/openosrs-launcher-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7377,7 +7377,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***RGB lighting control that doesn't depend on manufacturer software.***
 
 | [More info](apps/openrgb.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/openrgb) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7385,7 +7385,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The Programmers Solid 3D CAD Modeller.***
 
 | [More info](apps/openscad.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/openscad) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7393,7 +7393,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A powerful Video Editor.***
 
 | [More info](apps/openshot.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/openshot) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7401,7 +7401,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A note and task managing application.***
 
 | [More info](apps/opentodolist.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/opentodolist) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7409,7 +7409,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Opentrons desktop application.***
 
 | [More info](apps/opentrons.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/opentrons) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7417,7 +7417,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Fast and secure web browser.***
 
 | [More info](apps/opera.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/opera) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7425,7 +7425,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Several tools for OSRS.***
 
 | [More info](apps/osrs-tools.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/osrs-tools) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7433,7 +7433,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Sequencer for audio-visual artists for interactive shows.***
 
 | [More info](apps/ossia-score.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ossia-score) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7441,7 +7441,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A free-to-win rhythm game. Rhythm is just a click away!***
 
 | [More info](apps/osu.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/osu) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7449,7 +7449,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The mod manager for the Outer Wilds Mod Loader***
 
 | [More info](apps/outer-wilds-mod-manager.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/outer-wilds-mod-manager) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7457,7 +7457,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Create and manage access to Outline servers.***
 
 | [More info](apps/outline-manager.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/outline-manager) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7465,7 +7465,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Creates and manages Outline servers.***
 
 | [More info](apps/outline-server.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/outline-server) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7473,7 +7473,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Video Editor.***
 
 | [More info](apps/ovideo.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ovideo) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7481,7 +7481,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A comprehensive Ontology desktop wallet.***
 
 | [More info](apps/owallet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/owallet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7489,7 +7489,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The most essential productivity tool since email.***
 
 | [More info](apps/owncloud.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/owncloud) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7497,7 +7497,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Oxen electron GUI wallet.***
 
 | [More info](apps/oxen-gui-wallet-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/oxen-gui-wallet-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7505,7 +7505,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***P2P LAN chatting and file sharing tool.***
 
 | [More info](apps/p2p-chat.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/p2p-chat) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7513,7 +7513,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Enables users to enter into Discreet Log Contracts.***
 
 | [More info](apps/p2pderivatives.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/p2pderivatives) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7521,7 +7521,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Network utility for sending/receiving TCP/UDP/SSL/HTTP.***
 
 | [More info](apps/packetsender.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/packetsender) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7529,7 +7529,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Minecraft Java Edition resource and data pack optimizer.***
 
 | [More info](apps/packsquash.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/packsquash) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7537,7 +7537,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Electron Wrapper for Padloc app.***
 
 | [More info](apps/padloc.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/padloc) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7545,7 +7545,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Novo SGA panel.***
 
 | [More info](apps/painel-web.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/painel-web) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7553,7 +7553,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Jigsaw puzzle game (installs "kdegames").***
 
 | [More info](apps/palapeli.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/palapeli) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7561,7 +7561,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Web browser, a Firefox fork with a classic UI and modern APIs.***
 
 | [More info](apps/palemoon.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/palemoon) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7569,7 +7569,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Reduces an image into fewer colors to simplify (color palettes).***
 
 | [More info](apps/paletti.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/paletti) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7577,7 +7577,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Perspective views from panoramic images.***
 
 | [More info](apps/panini.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/panini) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7585,7 +7585,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Markdown editor with pandoc integration.***
 
 | [More info](apps/panwriter.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/panwriter) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7593,7 +7593,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A CLI Tool to set a random wallpaper from Unsplash.com.***
 
 | [More info](apps/paper.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/paper) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7601,7 +7601,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Parallelcoin qt wallet appimage binary.***
 
 | [More info](apps/parallelcoin.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/parallelcoin) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7609,7 +7609,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Fether Wallet.***
 
 | [More info](apps/parity-fether.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/parity-fether) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7617,7 +7617,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Parsec game streaming client.***
 
 | [More info](apps/parsec-linux-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/parsec-linux-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7625,7 +7625,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple and secure password manager.***
 
 | [More info](apps/passky.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/passky) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7633,7 +7633,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An alt. Secure Scuttlebutt client compatible with Patchwork.***
 
 | [More info](apps/patchbay.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/patchbay) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7641,7 +7641,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Utility to modify the dynamic linker and RPATH of ELF executables.***
 
 | [More info](apps/patchelf.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/patchelf) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7649,7 +7649,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Messaging and sharing app built on top of Secure Scuttlebutt.***
 
 | [More info](apps/patchwork.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/patchwork) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7657,7 +7657,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Distributed audio player.***
 
 | [More info](apps/pathephone.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pathephone) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7665,7 +7665,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A modern slicer for extrusion 3D printing.***
 
 | [More info](apps/pathio-alpha-bin.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pathio-alpha-bin) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7673,7 +7673,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A modern slicer for extrusion 3D printing.***
 
 | [More info](apps/pathio-beta-bin.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pathio-beta-bin) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7681,7 +7681,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Making beautiful light shows is as easy as drawing a picture.***
 
 | [More info](apps/patternpaint.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/patternpaint) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7689,7 +7689,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Pushbullet Desktop app.***
 
 | [More info](apps/pb-for-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pb-for-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7697,7 +7697,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A small .pdf management tool with a command-line UI.***
 
 | [More info](apps/pboy.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pboy) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7705,7 +7705,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The Playstation 2 Emulator.***
 
 | [More info](apps/pcsx2.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pcsx2) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7713,7 +7713,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Convert PDF to HTML without losing text or format.***
 
 | [More info](apps/pdf2htmlex-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pdf2htmlex-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7721,7 +7721,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Creating PDFs from images or scanner made easy.***
 
 | [More info](apps/pdfquirk.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pdfquirk) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7729,7 +7729,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***PDF Reader in JavaScript with Sync.***
 
 | [More info](apps/pdf-sync.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pdf-sync) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7737,7 +7737,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***PeaZip Appimage for linux 64bits.***
 
 | [More info](apps/peazip-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/peazip-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7745,7 +7745,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations.***
 
 | [More info](apps/pencil.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pencil) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7753,7 +7753,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Open any website or media in a floating window.***
 
 | [More info](apps/pennywise.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pennywise) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7761,7 +7761,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***HTML5 user interface for Perl 5 desktop apps.***
 
 | [More info](apps/perl-executing-browser.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/perl-executing-browser) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7769,7 +7769,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A reader application for comic books.***
 
 | [More info](apps/peruse.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/peruse) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7777,7 +7777,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Python-based extendable tool.***
 
 | [More info](apps/pext.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pext) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7785,7 +7785,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Phinch is a framework for visualizing biological data.***
 
 | [More info](apps/phinch.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/phinch) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7793,7 +7793,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple but featureful image editor.***
 
 | [More info](apps/photoflare.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/photoflare) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7801,7 +7801,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Edit images from digital cameras.***
 
 | [More info](apps/photoflow.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/photoflow) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7809,7 +7809,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A patched version of GIMP for Adobe Photoshop users.***
 
 | [More info](apps/photogimp.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/photogimp) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7817,7 +7817,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Rename photo image files based on EXIF shoot date.***
 
 | [More info](apps/photoname.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/photoname) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7825,7 +7825,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Advanced Photo Editor for professional use.***
 
 | [More info](apps/photopea.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/photopea) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7833,7 +7833,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***View and manage images.***
 
 | [More info](apps/photoqt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/photoqt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7841,7 +7841,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Light-weight image viewer (resize, collage, filters...).***
 
 | [More info](apps/photoquick.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/photoquick) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7849,7 +7849,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Upload your photos to multiple services at once.***
 
 | [More info](apps/phototeleport.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/phototeleport) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7857,7 +7857,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Electron based media player app.***
 
 | [More info](apps/phreshplayer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/phreshplayer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7865,7 +7865,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Version Portable Outil PIA.***
 
 | [More info](apps/pia.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pia) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7873,7 +7873,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***PicACG Comic PC Client For Linux.***
 
 | [More info](apps/picacg-qt-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/picacg-qt-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7881,7 +7881,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Easy to upload your pic & copy to write.***
 
 | [More info](apps/picgo.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/picgo) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7889,7 +7889,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Single player logic-based puzzle game (installs "kdegames").***
 
 | [More info](apps/picmi.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/picmi) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7897,7 +7897,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A very small, very simple, yet very secure encryption tool.***
 
 | [More info](apps/picocrypt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/picocrypt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7905,7 +7905,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A relaxing game for children and adults alike.***
 
 | [More info](apps/pigs-n-cows.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pigs-n-cows) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7913,7 +7913,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***App to organize your piled work at one place.***
 
 | [More info](apps/pile.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pile) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7921,7 +7921,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***???***
 
 | [More info](apps/pingendo.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pingendo) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7929,7 +7929,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An open source network ping analyser.***
 
 | [More info](apps/pingnoo.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pingnoo) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7937,7 +7937,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Ping viewer interface.***
 
 | [More info](apps/pingviewer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pingviewer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7945,7 +7945,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Pixel sorter.***
 
 | [More info](apps/pixsrt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pixsrt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7953,7 +7953,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Utility to convert .yml recipes to AppDir (see appimagetool).***
 
 | [More info](apps/pkg2appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pkg2appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7961,7 +7961,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Detecting documents tampered to bypass plagiarism detectors.***
 
 | [More info](apps/plagpatrol.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/plagpatrol) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7969,7 +7969,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Variant of battleships game.***
 
 | [More info](apps/planes.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/planes) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7977,7 +7977,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A delirious spell-binding game.***
 
 | [More info](apps/planet-blupi.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/planet-blupi) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7985,7 +7985,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Suite of command line utilities to manage Android devices.***
 
 | [More info](apps/platform-tools.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/platform-tools) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -7993,7 +7993,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Graphical MiniDisc NetMD conversion and upload.***
 
 | [More info](apps/platinum-md-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/platinum-md-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8001,7 +8001,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Another implementation of the 2048 game.***
 
 | [More info](apps/play-2048.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/play-2048) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8009,7 +8009,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An audio playback system for the live production industry.***
 
 | [More info](apps/playbox.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/playbox) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8017,7 +8017,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Elegant YouTube Music desktop app.***
 
 | [More info](apps/playme.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/playme) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8025,7 +8025,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop Client to assist with playing your damn turns.***
 
 | [More info](apps/playyourdamnturn.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/playyourdamnturn) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8033,7 +8033,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The best little audio player on the planet.***
 
 | [More info](apps/plexamp.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/plexamp) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8041,7 +8041,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The ultimate home theater experience.***
 
 | [More info](apps/plex.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/plex) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8049,7 +8049,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The Time Series Visualization Tool that you deserve.***
 
 | [More info](apps/plotjuggler.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/plotjuggler) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8057,7 +8057,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***CLI generating static images of interactive charts.***
 
 | [More info](apps/plotly-orca-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/plotly-orca-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8065,7 +8065,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Stenographic input and translation.***
 
 | [More info](apps/plover.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/plover) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8073,7 +8073,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A single file, powered by AppImage.***
 
 | [More info](apps/pnpm.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pnpm) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8081,7 +8081,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A FOSS browser made for privacy and going towards security.***
 
 | [More info](apps/pocket-browser.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pocket-browser) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8089,7 +8089,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Pocket Casts wrapper with mapped media keys.***
 
 | [More info](apps/pocketcasts-electron.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pocketcasts-electron) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8097,7 +8097,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Podcast client that uses iTunes RSS feeds and Search API.***
 
 | [More info](apps/poddr.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/poddr) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8105,7 +8105,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***AppImage of podman.***
 
 | [More info](apps/podman.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/podman) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8113,7 +8113,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Path of Exile ladder viewer.***
 
 | [More info](apps/poe-ladder.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/poe-ladder) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8121,7 +8121,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Personal knowledge repository for PDF and web content.***
 
 | [More info](apps/polar-bookshelf.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/polar-bookshelf) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8129,7 +8129,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A secure way to generate Polkadot/Kusama/Edgeware address.***
 
 | [More info](apps/polkakey.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/polkakey) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8137,7 +8137,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Browser for web developers.***
 
 | [More info](apps/polypane.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/polypane) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8145,7 +8145,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple and visually-pleasing Pomodoro timer.***
 
 | [More info](apps/pomotroid.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pomotroid) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8153,7 +8153,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Multiple USB File Flasher.***
 
 | [More info](apps/popsicle.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/popsicle) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8161,7 +8161,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***API platform for building and using APIs (AppImage).***
 
 | [More info](apps/postman.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/postman) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8169,7 +8169,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Multimedia crossposter for multimedia websites.***
 
 | [More info](apps/postybirb.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/postybirb) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8177,7 +8177,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Create presentation slides and exported as PDF.***
 
 | [More info](apps/potatopresenter-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/potatopresenter-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8185,7 +8185,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***AppImage build of The Powder Toy built from source.***
 
 | [More info](apps/powder-toy.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/powder-toy) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8193,7 +8193,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Powerliminal audios in the background (Audio player).***
 
 | [More info](apps/powerliminals-player.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/powerliminals-player) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8201,7 +8201,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Microsoft PowerShell.***
 
 | [More info](apps/powershell.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/powershell) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8209,7 +8209,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***PraxisLIVE.***
 
 | [More info](apps/praxislive.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/praxislive) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8217,7 +8217,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***User interface for basic encryption tasks.***
 
 | [More info](apps/pretty-handy-privacy.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pretty-handy-privacy) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8225,7 +8225,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Edit world assets from games by Retro Studios.***
 
 | [More info](apps/prime-world-editor.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/prime-world-editor) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8233,7 +8233,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A printer client.***
 
 | [More info](apps/printerclient.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/printerclient) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8241,7 +8241,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The easiest way to explore and manipulate your data.***
 
 | [More info](apps/prisma-studio-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/prisma-studio-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8249,7 +8249,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tool to enforce privacy & security best-practices.***
 
 | [More info](apps/privacy.sexy.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/privacy.sexy) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8257,7 +8257,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The next generation tracker and ads/advertisement blocker.***
 
 | [More info](apps/privaxy.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/privaxy) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8265,7 +8265,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Obtaining information about loaded process dependencies.***
 
 | [More info](apps/procdepmonitor.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/procdepmonitor) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8273,7 +8273,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***CLI to create a process/progress animation with text.***
 
 | [More info](apps/procspin.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/procspin) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8281,7 +8281,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Note Keeper.***
 
 | [More info](apps/procyon.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/procyon) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8289,7 +8289,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop tool to automate proof management.***
 
 | [More info](apps/proofkeeper.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/proofkeeper) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8297,7 +8297,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Appimage for Wine Proton 32-bit to run on no-multilib systems.***
 
 | [More info](apps/proton-5.11.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/proton-5.11) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8305,7 +8305,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unofficial Electron wrapper for ProtonMail.***
 
 | [More info](apps/protonmail-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/protonmail-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8313,7 +8313,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Manage Proton-GE/Luxtorpeda for Steam/Wine-GE for Lutris.***
 
 | [More info](apps/protonup-qt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/protonup-qt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8321,7 +8321,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Alternative user interface for Slic3r Prusa Edition.***
 
 | [More info](apps/prusacontrol.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/prusacontrol) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8329,7 +8329,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***G-code generator for 3D printers.***
 
 | [More info](apps/prusa-slicer-bin.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/prusa-slicer-bin) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8337,7 +8337,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ******
 
 | [More info](apps/psi+.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/psi+) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8345,7 +8345,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Watch and download videos without ads.***
 
 | [More info](apps/pstube.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pstube) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8353,7 +8353,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A desktop-based CMS that makes creating static websites fast.***
 
 | [More info](apps/publii.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/publii) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8361,7 +8361,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Pull request monitoring app for Github.***
 
 | [More info](apps/pullp.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pullp) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8369,7 +8369,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Community-led Hyper-Hackable Text Editor.***
 
 | [More info](apps/pulsar.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pulsar) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8377,7 +8377,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Pulse desktop client.***
 
 | [More info](apps/pulse.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pulse) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8385,7 +8385,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Solution for non-developers on top of Puppeteer and Jest.***
 
 | [More info](apps/puppetry.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/puppetry) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8393,7 +8393,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***PlayStation 2 emulator on your computer or mobile device.***
 
 | [More info](apps/purei.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/purei) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8401,7 +8401,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A GUI frontend for puush on Linux.***
 
 | [More info](apps/puush-qt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/puush-qt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8409,7 +8409,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple appimage builder for Python applications.***
 
 | [More info](apps/pyappimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pyappimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8417,7 +8417,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***EVE Online Fitting Assistant.***
 
 | [More info](apps/pyfa-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/pyfa-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8425,7 +8425,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Interactive high-level object-oriented language (version 2.7).***
 
 | [More info](apps/python2.7.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/python2.7) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8433,7 +8433,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Interactive high-level object-oriented language (version 3.10).***
 
 | [More info](apps/python3.10.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/python3.10) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8441,7 +8441,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Interactive high-level object-oriented language (version 3.11).***
 
 | [More info](apps/python3.11.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/python3.11) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8449,7 +8449,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Interactive high-level object-oriented language (version 3.5).***
 
 | [More info](apps/python3.5.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/python3.5) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8457,7 +8457,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Interactive high-level object-oriented language (version 3.6).***
 
 | [More info](apps/python3.6.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/python3.6) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8465,7 +8465,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Interactive high-level object-oriented language (version 3.7).***
 
 | [More info](apps/python3.7.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/python3.7) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8473,7 +8473,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Interactive high-level object-oriented language (version 3.8).***
 
 | [More info](apps/python3.8.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/python3.8) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8481,7 +8481,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Interactive high-level object-oriented language (version 3.9).***
 
 | [More info](apps/python3.9.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/python3.9) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8489,7 +8489,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Demonstrate Qaterial library.***
 
 | [More info](apps/qaterialgallery.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qaterialgallery) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8497,7 +8497,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Qml HotReload software.***
 
 | [More info](apps/qaterialhotreload.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qaterialhotreload) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8505,7 +8505,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Read the Holy Qur’ān whenever, wherever, however you like.***
 
 | [More info](apps/qawl.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qawl) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8513,7 +8513,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A powerful QT-based Bittorrent Client (official AppImage).***
 
 | [More info](apps/qbittorrent.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qbittorrent) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8521,7 +8521,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Bittorrent Client built from PPA (unofficial AppImage).***
 
 | [More info](apps/qbittorrent-lite.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qbittorrent-lite) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8529,7 +8529,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Quality Control Tools for Video Preservation.***
 
 | [More info](apps/qctools.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qctools) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8537,7 +8537,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cross-platform clone of the FRC Driver Station.***
 
 | [More info](apps/qdriverstation.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qdriverstation) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8545,7 +8545,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Edit electrical diagrams.***
 
 | [More info](apps/qelectrotech.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qelectrotech) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8553,7 +8553,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Run PowerPC operating systems on 64-bit Intel Linux hosts.***
 
 | [More info](apps/qemu-ppc.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qemu-ppc) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8561,7 +8561,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Qt Finite State Machine Designer.***
 
 | [More info](apps/qfsm.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qfsm) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8569,7 +8569,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Ground control for unmanned vehicles.***
 
 | [More info](apps/qgroundcontrol-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qgroundcontrol-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8577,7 +8577,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Minimal desktop app to create QR codes.***
 
 | [More info](apps/qikqr.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qikqr) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8585,7 +8585,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An alternative front-end to the MediathekView database.***
 
 | [More info](apps/qmediathekview.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qmediathekview) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8593,7 +8593,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***MIDI Remote Controller via UDP/IP Multicast.***
 
 | [More info](apps/qmidictl.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qmidictl) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8601,7 +8601,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***MIDI Network Gateway via UDP/IP Multicast.***
 
 | [More info](apps/qmidinet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qmidinet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8609,7 +8609,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Video and audio player whit support of most formats and codecs.***
 
 | [More info](apps/qmplay2.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qmplay2) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8617,7 +8617,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Qt-based, multi-engine, multi-platform subtitle downloader.***
 
 | [More info](apps/qnapi.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qnapi) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8625,7 +8625,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Decentralize the world (data storage, communications).***
 
 | [More info](apps/qortal-ui.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qortal-ui) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8633,7 +8633,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Plain text notepad and todo list manager.***
 
 | [More info](apps/qownnotes.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qownnotes) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8641,7 +8641,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***CLI tool to perform content-preserving transformations on PDF files.***
 
 | [More info](apps/qpdf.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qpdf) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8649,7 +8649,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Molecule and crystal editor written in c++***
 
 | [More info](apps/qppcad.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qppcad) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8657,7 +8657,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Personal teleprompter software for all video creators.***
 
 | [More info](apps/qprompt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qprompt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8665,7 +8665,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A music player from Tencent.***
 
 | [More info](apps/qqmusic-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qqmusic-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8673,7 +8673,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Create custom QR Codes, resize, save them as PNG image.***
 
 | [More info](apps/qr-code-generator.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qr-code-generator) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8681,7 +8681,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Crop planning and recordkeeping software.***
 
 | [More info](apps/qrop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qrop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8689,7 +8689,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Qt SWR analyser using an SDR and soapy_power.***
 
 | [More info](apps/qsdrswr.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qsdrswr) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8697,7 +8697,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Alarm clock for Computers.***
 
 | [More info](apps/qtalarm.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qtalarm) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8705,7 +8705,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***4chan browser in qt5.***
 
 | [More info](apps/qtchan.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qtchan) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8713,7 +8713,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Listening to terrestrial Digital Audio Broadcasting.***
 
 | [More info](apps/qt-dab.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qt-dab) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8721,7 +8721,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Json difference checker widget and viewer.***
 
 | [More info](apps/qtjsondiff.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qtjsondiff) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8729,7 +8729,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Qt JSON diff comparison.***
 
 | [More info](apps/qt-json-diff.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qt-json-diff) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8737,7 +8737,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Qt Mips emulator.***
 
 | [More info](apps/qtmips.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qtmips) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8745,7 +8745,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Qt 5 based Tox instant messenger for secure communication.***
 
 | [More info](apps/qtox.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qtox) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8753,7 +8753,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An Audio/MIDI multi-track sequencer.***
 
 | [More info](apps/qtractor.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qtractor) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8761,7 +8761,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Lines between points using rasterization (DDA, Bresenham).***
 
 | [More info](apps/qt-raster-lines.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qt-raster-lines) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8769,7 +8769,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Modbus to OPC UA Gateway***
 
 | [More info](apps/quamodbusclient.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/quamodbusclient) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8777,7 +8777,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Sketchbook for rapid prototyping and development of your projects.***
 
 | [More info](apps/quark.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/quark) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8785,7 +8785,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Qt5-based IM client for Matrix.***
 
 | [More info](apps/quaternion.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/quaternion) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8793,7 +8793,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An Universal GUI for Circuit Simulators.***
 
 | [More info](apps/qucs-s.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qucs-s) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8801,7 +8801,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Note taking app integrated with Evernote.***
 
 | [More info](apps/quentier.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/quentier) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8809,7 +8809,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Search through gitlab and clone git-repositories.***
 
 | [More info](apps/quick-clone.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/quick-clone) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8817,7 +8817,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A free Redis Desktop manager.***
 
 | [More info](apps/quickredis.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/quickredis) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8825,7 +8825,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Electron React Redux Boilerplate.***
 
 | [More info](apps/quicktwitch.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/quicktwitch) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8833,7 +8833,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A image viewer application for folders/archives.***
 
 | [More info](apps/quickviewer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/quickviewer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8841,7 +8841,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A small, TortoiseGit inspired git log viewer for linux.***
 
 | [More info](apps/quokkagit.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/quokkagit) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8849,7 +8849,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cross-platform v2ray GUI Client in Qt.***
 
 | [More info](apps/qv2ray.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qv2ray) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8857,7 +8857,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Practical and minimal image viewer.***
 
 | [More info](apps/qview.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qview) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8865,7 +8865,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***QXGEdit is a Qt GUI XG editor application.***
 
 | [More info](apps/qxgedit.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/qxgedit) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8873,7 +8873,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Mod manager for several Unity games using Thunderstore.***
 
 | [More info](apps/r2modman-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/r2modman-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8881,7 +8881,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A desktop IDE for working with Common Workflow Language.***
 
 | [More info](apps/rabix-composer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rabix-composer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8889,7 +8889,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Automation software for Radios.***
 
 | [More info](apps/radioit.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/radioit) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8897,7 +8897,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Radix DLT desktop wallet.***
 
 | [More info](apps/radix-wallet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/radix-wallet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8905,7 +8905,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***22nd Century Whiteboard App. 22nd Century Whiteboard App for Linux, Windows and Mac.***
 
 | [More info](apps/rainbow-board.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rainbow-board) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8913,7 +8913,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***22nd Century Whiteboard App. 22nd Century Whiteboard App for Linux, Windows and Mac.***
 
 | [More info](apps/rainbow-board.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rainbow-board) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8921,7 +8921,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Messaging and emailing app that combines common web apps into one.***
 
 | [More info](apps/rambox.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rambox) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8929,7 +8929,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GUI for legendary. An Epic Games Launcher open source alternative.***
 
 | [More info](apps/rare.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rare) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8937,7 +8937,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple shape drawn using rasterisation.***
 
 | [More info](apps/rasterdraw.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rasterdraw) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8945,7 +8945,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Raster Viewer for CUPS-Raster, Apple-Raster and PWG-Raster.***
 
 | [More info](apps/rasterview.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rasterview) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8953,7 +8953,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***P2P BitTorrent search engine.***
 
 | [More info](apps/rats-on-the-boat.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rats-on-the-boat) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8961,7 +8961,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple Desktop RSS Reader made using VueJS.***
 
 | [More info](apps/raven-reader.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/raven-reader) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8969,7 +8969,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An advanced raw photo development program.***
 
 | [More info](apps/rawtherapee.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rawtherapee) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8977,7 +8977,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Application for visualizing and working with rbdl models.***
 
 | [More info](apps/rbdl-toolkit.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rbdl-toolkit) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8985,7 +8985,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Reactotron desktop mode engage.***
 
 | [More info](apps/reactotron.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/reactotron) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -8993,7 +8993,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A tool for everything Realm.***
 
 | [More info](apps/realm-studio.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/realm-studio) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9001,7 +9001,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An easy to use special effects editor.***
 
 | [More info](apps/rebaslight.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rebaslight) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9009,7 +9009,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Record Compare.***
 
 | [More info](apps/record-compare.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/record-compare) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9017,7 +9017,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A great first person 3D arena shooter with online support (game).***
 
 | [More info](apps/redeclipse.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/redeclipse) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9025,7 +9025,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Time Tracking tool for Redmine.***
 
 | [More info](apps/redminetimetracker.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/redminetimetracker) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9033,7 +9033,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Helps manage the Steam client application.***
 
 | [More info](apps/reliefvalve.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/reliefvalve) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9041,7 +9041,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A browser for developing responsive web apps.***
 
 | [More info](apps/responsively.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/responsively) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9049,7 +9049,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Frontend for emulators, game engines and media players.***
 
 | [More info](apps/retroarch.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/retroarch) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9057,7 +9057,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Securely share files with your friends.***
 
 | [More info](apps/retroshare.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/retroshare) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9065,7 +9065,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Revolt Desktop App.***
 
 | [More info](apps/revolt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/revolt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9073,7 +9073,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Rapid HTML Builder/Prototyper.***
 
 | [More info](apps/rhb.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rhb) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9081,7 +9081,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Anonymous peer-to-peer instant messaging.***
 
 | [More info](apps/ricochet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ricochet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9089,7 +9089,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Automation app to download and organize your tax invoices.***
 
 | [More info](apps/ridereceipts.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ridereceipts) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9097,7 +9097,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Chat client for group-centric services like Slack and Discord.***
 
 | [More info](apps/ripcord.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ripcord) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9105,7 +9105,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A safe-remove utility for the command line.***
 
 | [More info](apps/rmw.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rmw) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9113,7 +9113,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Control Your Xiaomi Vacuum.***
 
 | [More info](apps/roborock-control-center.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/roborock-control-center) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9121,7 +9121,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Image slideshow viewer.***
 
 | [More info](apps/roloviewer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/roloviewer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9129,7 +9129,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A portfolio tracking, asset analytics and tax reporting app.***
 
 | [More info](apps/rotki.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rotki) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9137,7 +9137,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***OBS Studio with RPAN integration.***
 
 | [More info](apps/rpan-studio.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rpan-studio) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9145,7 +9145,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An open-source PlayStation 3 emulator/debugger written in C++.***
 
 | [More info](apps/rpcs3.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rpcs3) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9153,7 +9153,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Feed reader which supports RSS/ATOM/JSON (no-webengine version).***
 
 | [More info](apps/rssguard.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rssguard) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9161,7 +9161,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Framework for geometrically detailed neuron simulations.***
 
 | [More info](apps/rtneuron.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rtneuron) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9169,7 +9169,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Logiciel de gestion de cabinet d'Ophtalmologie.***
 
 | [More info](apps/rufus.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rufus) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9177,7 +9177,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Lets run a node.***
 
 | [More info](apps/runanode.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/runanode) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9185,7 +9185,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Open source Old School RuneScape client.***
 
 | [More info](apps/runelite-launcher-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/runelite-launcher-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9193,7 +9193,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Running Dinner Tool.***
 
 | [More info](apps/running-dinner-tool.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/running-dinner-tool) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9201,7 +9201,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A modern and extensible pixel editor implemented in Rust.***
 
 | [More info](apps/rx-bin.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/rx-bin) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9209,7 +9209,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Modern GUI interface for Ryo Currency.***
 
 | [More info](apps/ryowallet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ryowallet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9217,7 +9217,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Modern, elegant, cross-platform Go/Baduk/Weiqi game board.***
 
 | [More info](apps/sabaki.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sabaki) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9225,7 +9225,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A (work-in-progress) cross-platform libre handwritten notes app.***
 
 | [More info](apps/saber.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/saber) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9233,7 +9233,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Allowing crypto users manage funds in a safer way.***
 
 | [More info](apps/safe-multisig.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/safe-multisig) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9241,7 +9241,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Manage your Prestashop online Store.***
 
 | [More info](apps/samanager.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/samanager) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9249,7 +9249,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A C++ like compiler.***
 
 | [More info](apps/saphyr.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/saphyr) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9257,7 +9257,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Audio editor based on Audacity focusing on general improvements.***
 
 | [More info](apps/saucedacity.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/saucedacity) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9265,7 +9265,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Facilitates reverse engineering of canbus captures.***
 
 | [More info](apps/savvycan.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/savvycan) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9273,7 +9273,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Music player and music library admininstration.***
 
 | [More info](apps/sayonara.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sayonara) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9281,7 +9281,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Minecraft Launcher.***
 
 | [More info](apps/sblauncher.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sblauncher) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9289,7 +9289,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Scatter desktop signature server.***
 
 | [More info](apps/scatter.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/scatter) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9297,7 +9297,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unity Roguelike tutorial (game).***
 
 | [More info](apps/scavengers.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/scavengers) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9305,7 +9305,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Matrix Client.***
 
 | [More info](apps/schildichat.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/schildichat) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9313,7 +9313,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***This project was generated with Angular CLI v1.7.4.***
 
 | [More info](apps/school-sections.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/school-sections) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9321,7 +9321,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop science reading app for Linux.***
 
 | [More info](apps/sciencefair.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sciencefair) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9329,7 +9329,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Scientific software package for numerical computations.***
 
 | [More info](apps/scilab.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/scilab) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9337,7 +9337,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple desktop scraper app.***
 
 | [More info](apps/scraper.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/scraper) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9345,7 +9345,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Display and control your Android device.***
 
 | [More info](apps/scrcpy.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/scrcpy) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9353,7 +9353,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Capture and share screenshots easily.***
 
 | [More info](apps/screencloud.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/screencloud) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9361,7 +9361,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Powerful desktop publishing software.***
 
 | [More info](apps/scribus.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/scribus) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9369,7 +9369,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Multilingual Screenplay Writing App from TERIFLIX.***
 
 | [More info](apps/scrite.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/scrite) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9377,7 +9377,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Electron application based on React.***
 
 | [More info](apps/scrum-retroboard.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/scrum-retroboard) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9385,7 +9385,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Scytale Desktop Client for Linux.***
 
 | [More info](apps/scytale.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/scytale) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9393,7 +9393,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A multi-account desktop client for Mastodon and Pleroma.***
 
 | [More info](apps/sengi.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sengi) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9401,7 +9401,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An open-source decentralized VPN network application.***
 
 | [More info](apps/sentinel-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sentinel-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9409,7 +9409,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Small and simple software for plotting data from serial port.***
 
 | [More info](apps/serialplot.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/serialplot) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9417,7 +9417,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Multi-purpose serial data view program. Multi-purpose serial data visualization & processing program.***
 
 | [More info](apps/serial-studio.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/serial-studio) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9425,7 +9425,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Multi-purpose serial data view program. Multi-purpose serial data visualization & processing program.***
 
 | [More info](apps/serial-studio.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/serial-studio) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9433,7 +9433,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Video player for SER files used for astronomy-imaging.***
 
 | [More info](apps/ser-player.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ser-player) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9441,7 +9441,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Onion routing based messenger.***
 
 | [More info](apps/session-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/session-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9449,7 +9449,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Bulk file renamer.***
 
 | [More info](apps/sfbrename.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sfbrename) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9457,7 +9457,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The attendance tracking program for robotics.***
 
 | [More info](apps/sfrt-attendance.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sfrt-attendance) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9465,7 +9465,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Watch and download videos without ads.***
 
 | [More info](apps/sf-tube.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sf-tube) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9473,7 +9473,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Run Windows-based applications on the devices you own.***
 
 | [More info](apps/shadow.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/shadow) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9481,7 +9481,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Shadowsocks GUI client.***
 
 | [More info](apps/shadowsocks.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/shadowsocks) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9489,7 +9489,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Self-information content of a message text.***
 
 | [More info](apps/shannon-calculator.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/shannon-calculator) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9497,7 +9497,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***One click to share your files in your local network.***
 
 | [More info](apps/sharemyhost.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sharemyhost) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9505,7 +9505,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Music player build upon the node using the electron.***
 
 | [More info](apps/sharp-tune.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sharp-tune) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9513,7 +9513,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Witnet compatible desktop wallet.***
 
 | [More info](apps/sheikah.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sheikah) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9521,7 +9521,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A powerful Video Editor.***
 
 | [More info](apps/shotcut.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/shotcut) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9529,7 +9529,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Make Portable AppImages from Distro Packages.***
 
 | [More info](apps/shradiko.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/shradiko) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9537,7 +9537,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The fastest access to your favorite applications.***
 
 | [More info](apps/shuttle.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/shuttle) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9545,7 +9545,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Utility (from elementaryOS 6) to install Flatpak apps from Flathub.***
 
 | [More info](apps/sideload.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sideload) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9553,7 +9553,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Signal analyzer, using Suscan core and Sigutils DSP library. The free digital signal analyzer.***
 
 | [More info](apps/sigdigger.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sigdigger) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9561,7 +9561,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Signal analyzer, using Suscan core and Sigutils DSP library. The free digital signal analyzer.***
 
 | [More info](apps/sigdigger.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sigdigger) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9569,7 +9569,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Semi-automated selection and scaling of time series.***
 
 | [More info](apps/sigmaspectra.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sigmaspectra) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9577,7 +9577,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Control your logic analyzer, oscilloscope, or MSO.***
 
 | [More info](apps/sigrok-cli.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sigrok-cli) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9585,7 +9585,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***View runs from your Garmin brand watch***
 
 | [More info](apps/siliconsneaker.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/siliconsneaker) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9593,7 +9593,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The best Qt Application Ever.***
 
 | [More info](apps/silverkey.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/silverkey) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9601,7 +9601,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Small dock with pseudo-transparency and good window handling.***
 
 | [More info](apps/simdock.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/simdock) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9609,7 +9609,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***DSP Simulator.***
 
 | [More info](apps/simdsp.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/simdsp) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9617,7 +9617,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple command line chroot with ease.***
 
 | [More info](apps/simplechroot.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/simplechroot) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9625,7 +9625,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple Instagram bot.***
 
 | [More info](apps/simpleinstabot.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/simpleinstabot) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9633,7 +9633,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simplenote for Web, Windows, and Linux.***
 
 | [More info](apps/simplenote-electron.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/simplenote-electron) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9641,7 +9641,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***EOS Blockchain Interface & Wallet.***
 
 | [More info](apps/simpleos.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/simpleos) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9649,7 +9649,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Easily uploading files and sharing links via AWS S3.***
 
 | [More info](apps/simple-s3-uploader.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/simple-s3-uploader) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9657,7 +9657,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Feature-rich screen recorder supporting X11 & OpenGL.***
 
 | [More info](apps/simplescreenrecorder.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/simplescreenrecorder) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9665,7 +9665,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A really simple timer with a customizable logo and heading.***
 
 | [More info](apps/simple-timer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/simple-timer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9673,7 +9673,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The all-in-one flight simulation EFB.***
 
 | [More info](apps/simtoolkitpro-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/simtoolkitpro-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9681,7 +9681,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***AppView template for WebCatalog.***
 
 | [More info](apps/singlebox.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/singlebox) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9689,7 +9689,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The sipgate softphone is developed directly by sipgate.***
 
 | [More info](apps/sipgate-softphone.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sipgate-softphone) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9697,7 +9697,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Astronomical image (pre-)processing program.***
 
 | [More info](apps/siril.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/siril) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9705,7 +9705,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A local-first personal knowledge management system.***
 
 | [More info](apps/siyuan-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/siyuan-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9713,7 +9713,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple word processor built with web technologies.***
 
 | [More info](apps/skrifa.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/skrifa) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9721,7 +9721,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A personal finances manager, powered by KDE.***
 
 | [More info](apps/skrooge.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/skrooge) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9729,7 +9729,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***VoIP-based videoconferencing, voice calls and instant messaging app.***
 
 | [More info](apps/skype.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/skype) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9737,7 +9737,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An app to archive Slack messages.***
 
 | [More info](apps/slackbackup.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/slackbackup) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9745,7 +9745,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Connect your Slack workspace to Arduino.***
 
 | [More info](apps/slacktronic.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/slacktronic) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9753,7 +9753,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An Electron/Ionic app to edit i18n language translations files.***
 
 | [More info](apps/slang-ed.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/slang-ed) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9761,7 +9761,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Multiplatform todo.txt manager.***
 
 | [More info](apps/sleek.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sleek) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9769,7 +9769,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Open Source toolpath generator for 3D printers.***
 
 | [More info](apps/slic3r-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/slic3r-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9777,7 +9777,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Slippi Launcher program for browsing and playing replays.***
 
 | [More info](apps/slippi.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/slippi) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9785,7 +9785,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A fast and easy to learn BASIC language interpreter.***
 
 | [More info](apps/smallbasic.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/smallbasic) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9793,7 +9793,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Git-Client.***
 
 | [More info](apps/smartgit.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/smartgit) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9801,7 +9801,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Scan for servo devices easily view.***
 
 | [More info](apps/smartservogui.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/smartservogui) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9809,7 +9809,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tiny, but powerful mathematical program with WYSIWYG editor.***
 
 | [More info](apps/smath-studio.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/smath-studio) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9817,7 +9817,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Standard MIDI file player.***
 
 | [More info](apps/smf-dsp.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/smf-dsp) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9825,7 +9825,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Media Player with built-in codecs for all audio and video formats.***
 
 | [More info](apps/smplayer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/smplayer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9833,7 +9833,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***This is the official upstream of the Subsurface divelog program.***
 
 | [More info](apps/smtk2ssrf.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/smtk2ssrf) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9841,7 +9841,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Qt based source measure unit GUI for sigrok.***
 
 | [More info](apps/smuview-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/smuview-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9849,7 +9849,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Canvas/JavaScript based Snake Game with support for controllers.***
 
 | [More info](apps/snake-js.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/snake-js) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9857,7 +9857,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Present/print/email Snapshots of modern mathematics.***
 
 | [More info](apps/snapshot-slider.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/snapshot-slider) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9865,7 +9865,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A snippet management app for developers.***
 
 | [More info](apps/snippetstore.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/snippetstore) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9873,7 +9873,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An application to control snom (D)3xx phones from the desktop.***
 
 | [More info](apps/snomcontrol.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/snomcontrol) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9881,7 +9881,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***I/Q recorder and processor using SoapySDR as backend.***
 
 | [More info](apps/soapy-sdr.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/soapy-sdr) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9889,7 +9889,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Social Network Analysis and Visualization software.***
 
 | [More info](apps/socnetv.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/socnetv) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9897,7 +9897,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GUI für die Software-Challenge.***
 
 | [More info](apps/software-challenge-gui.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/software-challenge-gui) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9905,7 +9905,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Comparative visualisation of multiple audio files.***
 
 | [More info](apps/soniclineup.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/soniclineup) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9913,7 +9913,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Viewing and analysing the contents of music audio files.***
 
 | [More info](apps/sonicvisualiser.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sonicvisualiser) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9921,7 +9921,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Music Player.***
 
 | [More info](apps/sonist.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sonist) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9929,7 +9929,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A full-featured Subsonic/Jellyfin compatible desktop music player.***
 
 | [More info](apps/sonixd.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sonixd) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9937,7 +9937,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Source Code Explorer. Source explorer to get you productive on unfamiliar source code.***
 
 | [More info](apps/sourcetrail.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sourcetrail) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9945,7 +9945,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Source Code Explorer. Source explorer to get you productive on unfamiliar source code.***
 
 | [More info](apps/sourcetrail.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sourcetrail) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9953,7 +9953,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A re-imagining of the classic game Spacewar using Amethyst engine.***
 
 | [More info](apps/spacewars.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/spacewars) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9961,7 +9961,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Terminal app for processing DASH payments.***
 
 | [More info](apps/spark.payments.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/spark.payments) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9969,7 +9969,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A wallet GUI for c-lightning, accessible over web/mobile/pc.***
 
 | [More info](apps/spark-wallet.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/spark-wallet) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9977,7 +9977,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A miniplayer with a synthetic radio speaker.***
 
 | [More info](apps/speaky-miniplayer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/speaky-miniplayer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9985,7 +9985,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Torcs fork, 3d motorsport simulation and race cars game.***
 
 | [More info](apps/speed-dreams.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/speed-dreams) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -9993,7 +9993,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Speeduino universal firmware loader.***
 
 | [More info](apps/speedyloader.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/speedyloader) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10001,7 +10001,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Privacy focused messenger.***
 
 | [More info](apps/speek.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/speek) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10009,7 +10009,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Karaoke player based on GStreamer and Qt5. Portable free Karaoke Player.***
 
 | [More info](apps/spivak.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/spivak) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10017,7 +10017,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Karaoke player based on GStreamer and Qt5. Portable free Karaoke Player.***
 
 | [More info](apps/spivak.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/spivak) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10025,7 +10025,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Universal Media Player with Smart Translation.***
 
 | [More info](apps/splayerx.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/splayerx) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10033,7 +10033,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple CLI package manager written in bash mainly for AppImages.***
 
 | [More info](apps/spm.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/spm) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10041,7 +10041,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A proprietary music streaming service (from Arch User Repository).***
 
 | [More info](apps/spotify.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/spotify) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10049,7 +10049,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Open source Spotify client that doesn't require Premium.***
 
 | [More info](apps/spotube.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/spotube) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10057,7 +10057,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Electron-based SpringRTS Launcher app.***
 
 | [More info](apps/springboard.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/springboard) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10065,7 +10065,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***DB Browser is a light GUI editor for SQLite databases.***
 
 | [More info](apps/sqlitebrowser.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sqlitebrowser) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10073,7 +10073,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***AppImage Package for Sonic Robo Blast 2 Kart (game).***
 
 | [More info](apps/srb2k-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/srb2k-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10081,7 +10081,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Server for security audits supporting public key authentication.***
 
 | [More info](apps/ssh-mitm.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ssh-mitm) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10089,7 +10089,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Linux System Optimizer and Monitoring.***
 
 | [More info](apps/stacer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/stacer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10097,7 +10097,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A challenging tower conquest board game "Mixtour" inspired.***
 
 | [More info](apps/stackandconquer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/stackandconquer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10105,7 +10105,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple and private place for your notes.***
 
 | [More info](apps/standard-notes.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/standard-notes) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10113,7 +10113,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Story Architect, reinventing the screenwriting software.***
 
 | [More info](apps/starc.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/starc) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10121,7 +10121,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A sophisticated software modeler (v3.2.2).***
 
 | [More info](apps/staruml.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/staruml) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10129,7 +10129,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The friendly secret storage made for teams.***
 
 | [More info](apps/stash-electron.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/stash-electron) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10137,7 +10137,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A single place for all of your web applications.***
 
 | [More info](apps/station.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/station) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10145,7 +10145,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A tool for error checking WFTDA Statsbooks.***
 
 | [More info](apps/statsbook-tool.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/statsbook-tool) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10153,7 +10153,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Monitor your PC like never before.***
 
 | [More info](apps/statuspilatus.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/statuspilatus) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10161,7 +10161,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***2D CAD especially designed to draw steam locomotives.***
 
 | [More info](apps/steamcad.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/steamcad) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10169,7 +10169,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An app for managing ROMs in Steam.***
 
 | [More info](apps/steam-rom-manager.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/steam-rom-manager) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10177,7 +10177,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The ultimate destination for playing, discussing, and creating games.***
 
 | [More info](apps/steam.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/steam) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10185,7 +10185,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Messer for Steem.***
 
 | [More info](apps/steem-messenger.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/steem-messenger) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10193,7 +10193,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Kiosk app wrapper for museum media exhibits.***
 
 | [More info](apps/stele.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/stele) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10201,7 +10201,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Planetarium that shows a realistic sky in 3D.***
 
 | [More info](apps/stellarium.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/stellarium) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10209,7 +10209,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***3d stereoscopic photo/video viewer and editor.***
 
 | [More info](apps/stereophotoview.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/stereophotoview) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10217,7 +10217,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Your stocks on your desktop.***
 
 | [More info](apps/stockstalk.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/stockstalk) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10225,7 +10225,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The kickass API platform.***
 
 | [More info](apps/stoplight.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/stoplight) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10233,7 +10233,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The Light/Responsive Inventory Management System.***
 
 | [More info](apps/storaji.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/storaji) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10241,7 +10241,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Visualize a story as fast you can draw stick figures.***
 
 | [More info](apps/storyboarder.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/storyboarder) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10249,7 +10249,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A powerful command-line utility.***
 
 | [More info](apps/strans.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/strans) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10257,7 +10257,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Semi-automated selection and scaling of time series.***
 
 | [More info](apps/strata.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/strata) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10265,7 +10265,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Music player and collection organizer (Clementine fork).***
 
 | [More info](apps/strawberry.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/strawberry) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10273,7 +10273,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Download video streams.***
 
 | [More info](apps/streamcapture2.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/streamcapture2) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10281,7 +10281,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Command-line which pipes video streams from various services.***
 
 | [More info](apps/streamlink.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/streamlink) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10289,7 +10289,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Create streaming links to instagram live.***
 
 | [More info](apps/streamon.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/streamon) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10297,7 +10297,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***App that reminds you to take breaks when working on your PC.***
 
 | [More info](apps/stretchly.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/stretchly) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10305,7 +10305,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Remake of the old game Stunt Car Racer.***
 
 | [More info](apps/stunt-car-remake.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/stunt-car-remake) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10313,7 +10313,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple Flutter app to manage electricity bill.***
 
 | [More info](apps/subillmanager.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/subillmanager) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10321,7 +10321,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Graphic IDE for developing Substrate blockchains.***
 
 | [More info](apps/substrate-ide.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/substrate-ide) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10329,7 +10329,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Official upstream of the Subsurface divelog program.***
 
 | [More info](apps/subsurface.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/subsurface) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10337,7 +10337,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***KF5/Qt Video Subtitle Editor for KDE.***
 
 | [More info](apps/subtitle-composer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/subtitle-composer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10345,7 +10345,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A taste of Sugar on any device.***
 
 | [More info](apps/sugarizer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sugarizer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10353,7 +10353,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple POS for minimarket.***
 
 | [More info](apps/sultanpos.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sultanpos) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10361,7 +10361,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***To parse intercepted data from Summoners War.***
 
 | [More info](apps/summoners.war.exporter.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/summoners.war.exporter) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10369,7 +10369,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple Unified Model for Orthopaedics.***
 
 | [More info](apps/sumoco.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sumoco) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10377,7 +10377,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Show your currently playing song in a stylish way.***
 
 | [More info](apps/sunamu.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sunamu) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10385,7 +10385,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The daily planner for elite professionals.***
 
 | [More info](apps/sunsama-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sunsama-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10393,7 +10393,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Sunshine is a Gamestream host for Moonlight.***
 
 | [More info](apps/sunshine.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sunshine) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10401,7 +10401,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Slack client with WhatsApp like UI.***
 
 | [More info](apps/sup.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sup) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10409,7 +10409,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A cross-platform multi monitor wallpaper manager.***
 
 | [More info](apps/superpaper.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/superpaper) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10417,7 +10417,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Task Management App to help you with your daily struggle.***
 
 | [More info](apps/superproductivity.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/superproductivity) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10425,7 +10425,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***G-code generator for 3D printers.***
 
 | [More info](apps/superslicer-bin.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/superslicer-bin) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10433,7 +10433,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A tag-based filesystem written in Rust.***
 
 | [More info](apps/supertag-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/supertag-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10441,7 +10441,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Classic 2D jump'n run sidescroller game inspired to Super Mario.***
 
 | [More info](apps/supertux2.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/supertux2) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10449,7 +10449,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Free kart racing game focused on fun.***
 
 | [More info](apps/supertuxkart.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/supertuxkart) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10457,7 +10457,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Secure your digital life (VPN).***
 
 | [More info](apps/surfshark.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/surfshark) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10465,7 +10465,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***SwagLyrics AppImage (unofficial).***
 
 | [More info](apps/swaglyrics.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/swaglyrics) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10473,7 +10473,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***SWC Minecraft Launcher.***
 
 | [More info](apps/swc-minecraft-launcher.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/swc-minecraft-launcher) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10481,7 +10481,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***System Cleaner (installs "kdeutils").***
 
 | [More info](apps/sweeper.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sweeper) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10489,7 +10489,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Communicate over the Jabber/XMPP network (v4.0.2).***
 
 | [More info](apps/swift.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/swift) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10497,7 +10497,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Electron application boilerplate based on React/Webpack.***
 
 | [More info](apps/swiftnessx.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/swiftnessx) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10505,7 +10505,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Switch hosts quickly!***
 
 | [More info](apps/switchhosts.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/switchhosts) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10513,7 +10513,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Shortwave receiver for use with sdrplay/hackrf/dabsticks/pmsdr.***
 
 | [More info](apps/swradio.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/swradio) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10521,7 +10521,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A tool to help learning the piano. A tool to help when learning to play the piano.***
 
 | [More info](apps/symphonium.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/symphonium) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10529,7 +10529,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A tool to help learning the piano. A tool to help when learning to play the piano.***
 
 | [More info](apps/symphonium.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/symphonium) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10537,7 +10537,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***L2P synchronisation tool.***
 
 | [More info](apps/syncmyl2p.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/syncmyl2p) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10545,7 +10545,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Synchronize video playback over network.***
 
 | [More info](apps/syncplay.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/syncplay) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10553,7 +10553,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tray application for Syncthing.***
 
 | [More info](apps/syncthing-tray.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/syncthing-tray) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10561,7 +10561,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A free and open-source 2D animation software (graphics).***
 
 | [More info](apps/synfigstudio.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/synfigstudio) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10569,7 +10569,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A space ship building and combat game.***
 
 | [More info](apps/synthein.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/synthein) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10577,7 +10577,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An old school polyphonic synthesizer.***
 
 | [More info](apps/synthv1.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/synthv1) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10585,7 +10585,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***view journald logs with electron AppImage.***
 
 | [More info](apps/sys-journald-bin.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/sys-journald-bin) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10593,7 +10593,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Szyszka is fast and powerful file renamer.***
 
 | [More info](apps/szyszka.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/szyszka) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10601,7 +10601,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tools to Bulk Delete and Export from Tablo DVR.***
 
 | [More info](apps/tablo-tools.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tablo-tools) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10609,7 +10609,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tag Editor (supports MP4, ID3, Vorbis, Opus, FLAC and Matroska).***
 
 | [More info](apps/tag-editor.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tag-editor) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10617,7 +10617,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An offline, open source, document manager with tagging support.***
 
 | [More info](apps/tagspaces.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tagspaces) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10625,7 +10625,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tagstoo tagging application.***
 
 | [More info](apps/tagstoo.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tagstoo) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10633,7 +10633,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Time tracking for space cadets, desktop edition.***
 
 | [More info](apps/tagtime-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tagtime-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10641,7 +10641,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A task management app.***
 
 | [More info](apps/taskizer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/taskizer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10649,7 +10649,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tool helping you write executable specifications in your lang.***
 
 | [More info](apps/tastee-ui.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tastee-ui) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10657,7 +10657,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A desktop chat client for Twitch.***
 
 | [More info](apps/tc.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tc) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10665,7 +10665,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Business communication platform developed by Microsoft.***
 
 | [More info](apps/teams.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/teams) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10673,7 +10673,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Automatically backup Telegram Saved Messages.***
 
 | [More info](apps/teledrive.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/teledrive) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10681,7 +10681,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An Unofficial continuously updated AppImage for Telegram.***
 
 | [More info](apps/telegram-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/telegram-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10689,7 +10689,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop version of Telegram messaging app.***
 
 | [More info](apps/telegram.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/telegram) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10697,7 +10697,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A minimal TeslaCam Browser.***
 
 | [More info](apps/teslacam-browser.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/teslacam-browser) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10705,7 +10705,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tesseract Open Source OCR Engine AppImage.***
 
 | [More info](apps/tesseract.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tesseract) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10713,7 +10713,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***LaTeX development environment.***
 
 | [More info](apps/texstudio.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/texstudio) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10721,7 +10721,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cross-platform text editor based on Qt and Scintilla.***
 
 | [More info](apps/textosaurus.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/textosaurus) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10729,7 +10729,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Animation tool.***
 
 | [More info](apps/theframe.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/theframe) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10737,7 +10737,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Building desktop-based products based on Eclipse Theia.***
 
 | [More info](apps/theia-blueprint.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/theia-blueprint) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10745,7 +10745,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Calculate particle composition of hadronic state.***
 
 | [More info](apps/thermusqt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/thermusqt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10753,7 +10753,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Web Browser.***
 
 | [More info](apps/theweb.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/theweb) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10761,7 +10761,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop application for Thinktool.***
 
 | [More info](apps/thinktool-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/thinktool-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10769,7 +10769,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Enjoy Ultimate Movies, sports Matches, IPL and Latest Shows.***
 
 | [More info](apps/thoptv-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/thoptv-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10777,7 +10777,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A locked-down electron kiosk for Thorium.***
 
 | [More info](apps/thorium-client.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/thorium-client) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10785,7 +10785,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop application to read ebooks.***
 
 | [More info](apps/thorium-reader.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/thorium-reader) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10793,7 +10793,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Web Browser, a Chromium fork including Widevine and FFmpeg support.***
 
 | [More info](apps/thorium.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/thorium) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10801,7 +10801,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Mail client's Unofficial AppImage (Stable).***
 
 | [More info](apps/thunderbird-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/thunderbird-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10809,7 +10809,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Mail client's Unofficial AppImage (Beta).***
 
 | [More info](apps/thunderbird-beta-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/thunderbird-beta-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10817,7 +10817,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Free and open source eMail client (Beta Edition).***
 
 | [More info](apps/thunderbird-beta.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/thunderbird-beta) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10825,7 +10825,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Free and open source eMail client (Stable).***
 
 | [More info](apps/thunderbird.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/thunderbird) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10833,7 +10833,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Mail client's Unofficial AppImage (Nightly).***
 
 | [More info](apps/thunderbird-nightly-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/thunderbird-nightly-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10841,7 +10841,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The web version of listen.tidal.com running in electron.***
 
 | [More info](apps/tidal-hifi-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tidal-hifi-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10849,7 +10849,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tile map editor.***
 
 | [More info](apps/tiled.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tiled) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10857,7 +10857,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Generator of regular and irregular tilings.***
 
 | [More info](apps/tilinggenerator.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tilinggenerator) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10865,7 +10865,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop time tracking application.***
 
 | [More info](apps/timenaut-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/timenaut-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10873,7 +10873,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Time recurring events.***
 
 | [More info](apps/timer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/timer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10881,7 +10881,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple CLI tool for monitoring/reporting CPU temperatures.***
 
 | [More info](apps/tmon.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tmon) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10889,7 +10889,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tmux AppImage build via Docker.***
 
 | [More info](apps/tmux-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tmux-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10897,7 +10897,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A computer-assisted translation tool.***
 
 | [More info](apps/tnt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tnt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10905,7 +10905,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Todoist for linux.***
 
 | [More info](apps/todoist.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/todoist) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10913,7 +10913,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple ToDoList made in rust.***
 
 | [More info](apps/todorust.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/todorust) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10921,7 +10921,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***SD card manager for your Tonuino.***
 
 | [More info](apps/tonuino-toolbox.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tonuino-toolbox) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10929,7 +10929,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Privacy-oriented Web Browser for sites blocked in your country.***
 
 | [More info](apps/tor-browser.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tor-browser) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10937,7 +10937,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cli tool to inspect/create/edit BitTorrent metafiles.***
 
 | [More info](apps/torrenttools.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/torrenttools) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10945,7 +10945,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Play Star Traders, a simple game of interstellar trading.***
 
 | [More info](apps/trader.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/trader) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10953,7 +10953,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Translate Any Languages like a Pro.***
 
 | [More info](apps/translatium.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/translatium) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10961,7 +10961,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Trezor Suite desktop application.***
 
 | [More info](apps/trezor-suite.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/trezor-suite) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10969,7 +10969,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Novo SGA triage client.***
 
 | [More info](apps/triagem-touch.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/triagem-touch) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10977,7 +10977,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop wallet for IOTA.***
 
 | [More info](apps/trinity-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/trinity-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10985,7 +10985,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Research photo management.***
 
 | [More info](apps/tropy.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tropy) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -10993,7 +10993,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple Time Tracker to stay basic and intuitive.***
 
 | [More info](apps/tt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11001,7 +11001,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An electron based desktop app for online services.***
 
 | [More info](apps/ttth.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ttth) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11009,7 +11009,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Large graphs analysis, drawing and visualization framework.***
 
 | [More info](apps/tulip.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tulip) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11017,7 +11017,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Download Tumblr posts that you liked.***
 
 | [More info](apps/tumblr-downloader-gui.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tumblr-downloader-gui) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11025,7 +11025,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Scrape a Tumblr profile for user uploadede posts.***
 
 | [More info](apps/tumblr-scraper.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tumblr-scraper) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11033,7 +11033,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Finding and download HQ audio files.***
 
 | [More info](apps/tunepack.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tunepack) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11041,7 +11041,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Scratch mod with a compiler to run projects faster.***
 
 | [More info](apps/turbowarp.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/turbowarp) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11049,7 +11049,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple youtube DJ app made with Electron and Angular4.***
 
 | [More info](apps/turntable.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/turntable) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11057,7 +11057,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Evernote desktop app.***
 
 | [More info](apps/tusk.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tusk) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11065,7 +11065,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The world's most secure email service, easy to use and private.***
 
 | [More info](apps/tutanota.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tutanota) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11073,7 +11073,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Watch your favorite Albanian TV channels through your PC.***
 
 | [More info](apps/tvalb.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tvalb) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11081,7 +11081,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cross Platform Tizen Log Viewer.***
 
 | [More info](apps/t.viewer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/t.viewer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11089,7 +11089,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop App for Twake.***
 
 | [More info](apps/twake.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/twake) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11097,7 +11097,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An app to automatically renew the books of the SophiA system.***
 
 | [More info](apps/tweaksophia.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tweaksophia) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11105,7 +11105,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tweet quickly from the desktop without any distractions.***
 
 | [More info](apps/tweet-tray.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/tweet-tray) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11113,7 +11113,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Client for the pubsub app.***
 
 | [More info](apps/twetter.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/twetter) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11121,7 +11121,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An Electron wrapper for Twitch.tv.***
 
 | [More info](apps/twitch-wrapper.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/twitch-wrapper) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11129,7 +11129,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Application of the Ultimate Hacking Keyboard.***
 
 | [More info](apps/uhk-agent-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/uhk-agent-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11137,7 +11137,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Configuration app of the Ultimate Hacking Keyboard.***
 
 | [More info](apps/uhk.agent.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/uhk.agent) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11145,7 +11145,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***UltraGrid low-latency audio/video network transmission system.***
 
 | [More info](apps/ultragrid.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ultragrid) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11153,7 +11153,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Share your screens with friends.***
 
 | [More info](apps/ultrascreen.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ultrascreen) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11161,7 +11161,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A tool that collects and processes code coverage reports.***
 
 | [More info](apps/uncov.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/uncov) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11169,7 +11169,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Web Browser without Google services (AppImage).***
 
 | [More info](apps/ungoogled-chromium-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ungoogled-chromium-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11177,7 +11177,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Chromium Web Browser without Google services (official).***
 
 | [More info](apps/ungoogled-chromium.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ungoogled-chromium) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11185,7 +11185,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unified Communication from Mundio Mobiles.***
 
 | [More info](apps/unified-communications.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/unified-communications) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11193,7 +11193,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***JSON parser file and menu customizez Hyper-inspired.***
 
 | [More info](apps/unishellect.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/unishellect) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11201,7 +11201,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Streamlines the way you find, download and manage your Projects.***
 
 | [More info](apps/unityhub.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/unityhub) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11209,7 +11209,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unoffical sonos controller for linux.***
 
 | [More info](apps/unoffical-sonos-controller-for-linux.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/unoffical-sonos-controller-for-linux) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11217,7 +11217,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unofficial Zalo App.***
 
 | [More info](apps/unofficial-zalo.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/unofficial-zalo) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11225,7 +11225,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A GUI to create Reveal presentations.***
 
 | [More info](apps/unreel.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/unreel) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11233,7 +11233,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tool to deploy auto update for qt applications.***
 
 | [More info](apps/updatedeployqt.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/updatedeployqt) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11241,7 +11241,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Free and Open Source AI Image Upscaler.***
 
 | [More info](apps/upscayl-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/upscayl-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11249,7 +11249,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A terminal emulator for the 21st century.***
 
 | [More info](apps/upterm.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/upterm) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11257,7 +11257,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***V2Ray GUI client for Linux.***
 
 | [More info](apps/v2ray-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/v2ray-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11265,7 +11265,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Companion app for Valetudo for generating WiFi heat maps.***
 
 | [More info](apps/valeronoi.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/valeronoi) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11273,7 +11273,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A browser that empowers DApps on VeChain.***
 
 | [More info](apps/vechain.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vechain) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11281,7 +11281,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.***
 
 | [More info](apps/ventoy.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ventoy) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11289,7 +11289,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A multi-currency crypto wallet with support for EOS & VTX.***
 
 | [More info](apps/verto.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/verto) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11297,7 +11297,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple wallet for managing your Steem accounts.***
 
 | [More info](apps/vessel.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vessel) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11305,7 +11305,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Your keyboard's best friend.***
 
 | [More info](apps/via-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/via-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11313,7 +11313,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***GUI and a QMK fork for configuring your keyboard in real time.***
 
 | [More info](apps/vial-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vial-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11321,7 +11321,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Proprietary cross-platform IM and VoIP software.***
 
 | [More info](apps/viber.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/viber) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11329,7 +11329,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Simple and fast video cutter and joiner.***
 
 | [More info](apps/vidcutter.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vidcutter) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11337,7 +11337,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A fastest way to browse and search for videos on your computer.***
 
 | [More info](apps/video-hub.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/video-hub) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11345,7 +11345,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Free, open source and cross-platform GUI for FFmpeg.***
 
 | [More info](apps/videomass.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/videomass) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11353,7 +11353,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Vim Inspired Electron Browser.***
 
 | [More info](apps/vieb.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vieb) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11361,7 +11361,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***File manager with curses interface providing Vim-like environment.***
 
 | [More info](apps/vifm.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vifm) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11369,7 +11369,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The open-source, self-hostable to-do app.***
 
 | [More info](apps/vikunja.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vikunja) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11377,7 +11377,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Roku Debugger Graphical Interface.***
 
 | [More info](apps/violetbug.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/violetbug) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11385,7 +11385,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Fast and lightweight Qt web browser.***
 
 | [More info](apps/viper-browser.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/viper-browser) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11393,7 +11393,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Launcher and Updater for TF|2 Northstar.***
 
 | [More info](apps/viper.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/viper) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11401,7 +11401,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Visual periodic structure editor.***
 
 | [More info](apps/vipster.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vipster) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11409,7 +11409,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Open Source continuation of the High Fidelity metaverse.***
 
 | [More info](apps/vircadia.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vircadia) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11417,7 +11417,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Make your iPad/tablet/computer into a secondary monitor on Linux.***
 
 | [More info](apps/virtscreen.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/virtscreen) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11425,7 +11425,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Editor for CDISC Define-XML standard.***
 
 | [More info](apps/visual-define-xml-editor.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/visual-define-xml-editor) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11433,7 +11433,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Easy to use video to audio converter.***
 
 | [More info](apps/vitomu.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vitomu) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11441,7 +11441,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Advanced Web Browser (Testing Version).***
 
 | [More info](apps/vivaldi-snapshot.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vivaldi-snapshot) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11449,7 +11449,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Advanced Web Browser (Stable Version).***
 
 | [More info](apps/vivaldi-stable.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vivaldi-stable) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11457,7 +11457,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Agile Tool for Professionals.***
 
 | [More info](apps/vivifyscrum.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vivifyscrum) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11465,7 +11465,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple tool for Using Graphviz.***
 
 | [More info](apps/vizgraph.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vizgraph) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11473,7 +11473,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cross-platform client VKontakte.***
 
 | [More info](apps/vk-desktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vk-desktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11481,7 +11481,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Listen to the music from VK.***
 
 | [More info](apps/vk-music-fs.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vk-music-fs) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11489,7 +11489,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Video player (version 3.0.11.1) build from source.***
 
 | [More info](apps/vlc-cmatomic.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vlc-cmatomic) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11497,7 +11497,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Free and Open Source Video & Media player for Audio, streaming and more.***
 
 | [More info](apps/vlc.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vlc) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11505,7 +11505,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Video player (version 3.0.3) build from source.***
 
 | [More info](apps/vlc-icflorescu.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vlc-icflorescu) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11513,7 +11513,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ******
 
 | [More info](apps/vlc+.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vlc+) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11521,7 +11521,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Note-taking application for pleasant Markdown.***
 
 | [More info](apps/vnote.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vnote) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11529,7 +11529,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Experimental vector graphics and 2D animation editor.***
 
 | [More info](apps/vpaint.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vpaint) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11537,7 +11537,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Zero code API test automation solution.***
 
 | [More info](apps/vrest-ng.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vrest-ng) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11545,7 +11545,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Community-driven, freely-licensed binary distribution of MS VSCode.***
 
 | [More info](apps/vscodium.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vscodium) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11553,7 +11553,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Simple VueJS's Calculator built with ElectronJS.***
 
 | [More info](apps/vue-calc.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vue-calc) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11561,7 +11561,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A desktop ERD app.***
 
 | [More info](apps/vuerd.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vuerd) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11569,7 +11569,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Vulkan Hardware Capability Viewer.***
 
 | [More info](apps/vulkan-hardware-capability-viewer-wayland.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vulkan-hardware-capability-viewer-wayland) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11577,7 +11577,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Vulkan Hardware Capability Viewer.***
 
 | [More info](apps/vulkan-hardware-capability-viewer-x11.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vulkan-hardware-capability-viewer-x11) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11585,7 +11585,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Private and decentralized cloud storage.***
 
 | [More info](apps/vup.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/vup) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11593,7 +11593,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***WhatsApp Linux Client (Unofficial).***
 
 | [More info](apps/walc.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/walc) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11601,7 +11601,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***BytechCoin GUI Wallet.***
 
 | [More info](apps/wallettech.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wallettech) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11609,7 +11609,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A media player and a browser for Excellent entertainment.***
 
 | [More info](apps/watched.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/watched) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11617,7 +11617,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Read and plot datas from your Xiaomi devices.***
 
 | [More info](apps/watchflower.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/watchflower) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11625,7 +11625,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Open movies everywhere.***
 
 | [More info](apps/watchit.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/watchit) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11633,7 +11633,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Browse the World Wide Web.***
 
 | [More info](apps/waterfox-classic.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/waterfox-classic) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11641,7 +11641,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Browse the World Wide Web.***
 
 | [More info](apps/waterfox-fourth-generation.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/waterfox-fourth-generation) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11649,7 +11649,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Browse the World Wide Web.***
 
 | [More info](apps/waterfox-third-generation.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/waterfox-third-generation) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11657,7 +11657,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The next generation of web-desktop communication.***
 
 | [More info](apps/wavebox.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wavebox) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11665,7 +11665,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Wazo desktop client for wazo VOIP server.***
 
 | [More info](apps/wazo-desktop-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wazo-desktop-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11673,7 +11673,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A WeatherDump GUI.***
 
 | [More info](apps/weatherdump.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/weatherdump) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11681,7 +11681,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Winamp Player 2.9 reimplementation in HTML5 and JS.***
 
 | [More info](apps/webamp.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/webamp) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11689,7 +11689,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A full featured and multiplatform webcam suite.***
 
 | [More info](apps/webcamoid.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/webcamoid) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11697,7 +11697,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Discord and Fosscord client implemented without Discord API.***
 
 | [More info](apps/webcord.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/webcord) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11705,7 +11705,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***WebDesktop make apps with just a text editor and nodejs.***
 
 | [More info](apps/webdesktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/webdesktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11713,7 +11713,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Webitel Phone (Alpha).***
 
 | [More info](apps/webitel-phone.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/webitel-phone) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11721,7 +11721,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Custom launcher for modded Minecraft (game).***
 
 | [More info](apps/westeroscraftlauncher.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/westeroscraftlauncher) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11729,7 +11729,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Unofficial WeChat client built with React, MobX and Electron.***
 
 | [More info](apps/wewechat.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wewechat) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11737,7 +11737,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Extensible, fast and innovative web browser with material UI.***
 
 | [More info](apps/wexond.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wexond) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11745,7 +11745,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A GPU-accelerated terminal emulator and multiplexer.***
 
 | [More info](apps/wezterm.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wezterm) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11753,7 +11753,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An Electron based Mastodon client.***
 
 | [More info](apps/whalebird.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/whalebird) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11761,7 +11761,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***WhatsApp Linux Client (Unofficial).***
 
 | [More info](apps/whatsapp-for-linux.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/whatsapp-for-linux) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11769,7 +11769,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Electron-based WhatsApp Linux Client (Unofficial).***
 
 | [More info](apps/whatsapp-nativefier.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/whatsapp-nativefier) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11777,7 +11777,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop GUI for Whirlpool by Samourai-Wallet.***
 
 | [More info](apps/whirlpool-gui-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/whirlpool-gui-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11785,7 +11785,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Activity-based slideshow for coding webinars and presentations.***
 
 | [More info](apps/whiteboard.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/whiteboard) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11793,7 +11793,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Wuhan University Library Assistant (for Jinan University).***
 
 | [More info](apps/whu-library-seat.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/whu-library-seat) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11801,7 +11801,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Real-time strategy game with singleplayer campaigns.***
 
 | [More info](apps/widelands.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/widelands) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11809,7 +11809,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Flash Drive burning utility (MBR/GPT, BIOS/UEFI, FAT32/NTFS).***
 
 | [More info](apps/windows2usb.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/windows2usb) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11817,7 +11817,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Windows 95 in Electron. Runs on macOS, Linux, and Windows.***
 
 | [More info](apps/windows95.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/windows95) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11825,7 +11825,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Compatibility layer to run only 32-bit Windows programs (Stable).***
 
 | [More info](apps/wine32.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wine32) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11833,7 +11833,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Tool for creating AppImages for 32-bit Microsoft Windows apps.***
 
 | [More info](apps/wine32-deploy.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wine32-deploy) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11841,7 +11841,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Appimage for Wine 32-bit you can run on no-multilib systems.***
 
 | [More info](apps/wine-4.21.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wine-4.21) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11849,7 +11849,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Appimage for Wine 32-bit you can run on no-multilib systems.***
 
 | [More info](apps/wine-5.11.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wine-5.11) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11857,7 +11857,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Appimage for Wine 32-bit you can run on no-multilib systems.***
 
 | [More info](apps/wine-6.0.1.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wine-6.0.1) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11865,7 +11865,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Compatibility layer to run x86_64 Windows programs (Dev Edition).***
 
 | [More info](apps/wine-devel.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wine-devel) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11873,7 +11873,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Compatibility layer to run x86_64 Windows programs (Stable).***
 
 | [More info](apps/wine-stable.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wine-stable) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11881,7 +11881,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Compatibility layer to run x86_64 Windows programs (Staging).***
 
 | [More info](apps/wine-staging.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wine-staging) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11889,7 +11889,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The most secure collaboration platform.***
 
 | [More info](apps/wire.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wire) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11897,7 +11897,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A μ Tcl/Tk distribution statically linked (AppImage).***
 
 | [More info](apps/wishdemo.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wishdemo) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11905,7 +11905,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Cloud based note-taking application.***
 
 | [More info](apps/wiz.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wiz) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11913,7 +11913,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A REST client with grand ambitions and limited scope.***
 
 | [More info](apps/woke.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/woke) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11921,7 +11921,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A professional writing app with markdown support.***
 
 | [More info](apps/wonderpen-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wonderpen-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11929,7 +11929,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Wallpaper manager for Linux.***
 
 | [More info](apps/wonderwall.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wonderwall) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11937,7 +11937,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Utility for configuring Wooting keyboards.***
 
 | [More info](apps/wootility-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wootility-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11945,7 +11945,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Utility for configuring Wooting keyboards.***
 
 | [More info](apps/wootility-lekker-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wootility-lekker-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11953,7 +11953,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The Openpilot Workbench to fix problems with EON/Openpilot.***
 
 | [More info](apps/workbench.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/workbench) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11961,7 +11961,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A notetaking tool.***
 
 | [More info](apps/workflowy.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/workflowy) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11969,7 +11969,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A lightweight office suite with high compatibility.***
 
 | [More info](apps/wps-office-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wps-office-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11977,7 +11977,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An Electron wrapper for web pages.***
 
 | [More info](apps/wrapbox.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wrapbox) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11985,7 +11985,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A light websocket based proxy.***
 
 | [More info](apps/wsocks.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wsocks) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -11993,7 +11993,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A document based interface for the computer algebra system Maxima.***
 
 | [More info](apps/wxmaxima.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wxmaxima) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12001,7 +12001,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A cross-platform Text/Hex Editor, an improved version of MadEdit.***
 
 | [More info](apps/wxmedit.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/wxmedit) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12009,7 +12009,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Chat with other people using Internet Relay Chat.***
 
 | [More info](apps/xchat.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/xchat) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12017,7 +12017,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Fast gui autoclicker for x11 linux desktops.***
 
 | [More info](apps/xclicker.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/xclicker) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12025,7 +12025,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An unoffical desktop app for the XCloud web beta.***
 
 | [More info](apps/xcloud-desktop-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/xcloud-desktop-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12033,7 +12033,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***The Expo Development Environment.***
 
 | [More info](apps/xde.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/xde) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12041,7 +12041,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A multiplatform ELF file viewer/editor.***
 
 | [More info](apps/xelfviewer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/xelfviewer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12049,7 +12049,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Original Xbox Emulator for Windows, macOS, and Linux.***
 
 | [More info](apps/xemu.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/xemu) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12057,7 +12057,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A sequencer for Lights and sequences manager.***
 
 | [More info](apps/xlights.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/xlights) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12065,7 +12065,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Extra localizations/translations manager for Stardew Valley.***
 
 | [More info](apps/x-loc.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/x-loc) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12073,7 +12073,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An open-source toolkit for medical image conversion.***
 
 | [More info](apps/xmedcon.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/xmedcon) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12081,7 +12081,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Graphic viewer, browser, converter.***
 
 | [More info](apps/xnviewmp.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/xnviewmp) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12089,7 +12089,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Python-powered, cross-platform, Unix-gazing shell.***
 
 | [More info](apps/xonsh.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/xonsh) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12097,7 +12097,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ******
 
 | [More info](apps/xournal++.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/xournal++) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12105,7 +12105,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ******
 
 | [More info](apps/xournal++nightly.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/xournal++nightly) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12113,7 +12113,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***PE file viewer/editor.***
 
 | [More info](apps/xpeviewer.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/xpeviewer) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12121,7 +12121,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Bring your favorite shell wherever you go through the ssh.***
 
 | [More info](apps/xxh-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/xxh-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12129,7 +12129,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Downloads best-quality audio and video from YouTube.***
 
 | [More info](apps/yangdownloader-appimage.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/yangdownloader-appimage) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12137,7 +12137,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A third party music player for Netease Music.***
 
 | [More info](apps/yesplaymusic.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/yesplaymusic) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12145,7 +12145,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Amazing electron wrapper for YouTube Music featuring plugins.***
 
 | [More info](apps/youtube-music.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/youtube-music) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12153,7 +12153,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***YouTube searches with/without a pre-filter from CLI.***
 
 | [More info](apps/youtubesearchfilter.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/youtubesearchfilter) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12161,7 +12161,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***App for downloading Videos and Audios from hundreds of sites.***
 
 | [More info](apps/ytdownloader.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ytdownloader) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12169,7 +12169,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Desktop App for YouTube Music.***
 
 | [More info](apps/ytmdesktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/ytmdesktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12177,7 +12177,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Configure your YubiKey over all USB transports.***
 
 | [More info](apps/yubikey-manager.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/yubikey-manager) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12185,7 +12185,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Anime player integrated with AniList, Crunchyroll, and Hidive.***
 
 | [More info](apps/yuna.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/yuna) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12193,7 +12193,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***YUV player with an advanced analytic toolset.***
 
 | [More info](apps/yuview.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/yuview) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12201,7 +12201,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***An experimental open-source emulator for the Nintendo Switch.***
 
 | [More info](apps/yuzu.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/yuzu) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12209,7 +12209,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Delightful command line AppImage package manager for appimage.github.io.***
 
 | [More info](apps/zap.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/zap) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12217,7 +12217,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Desktop application for the lightning network.***
 
 | [More info](apps/zapdesktop.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/zapdesktop) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12225,7 +12225,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A simple clock with millisecond resolution.***
 
 | [More info](apps/zegarek.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/zegarek) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12233,7 +12233,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Math graphing software.***
 
 | [More info](apps/zegrapher.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/zegrapher) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12241,7 +12241,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A platform for collaboration and project management.***
 
 | [More info](apps/zenkit.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/zenkit) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12249,7 +12249,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Extensible IDE which targets multiple dev platforms.***
 
 | [More info](apps/zenroomstudio.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/zenroomstudio) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12257,7 +12257,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A Markdown Editor for the 21st century.***
 
 | [More info](apps/zettlr.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/zettlr) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12265,7 +12265,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Ionic app for Home/Commerical Security Surveillance.***
 
 | [More info](apps/zmninja.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/zmninja) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12273,7 +12273,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Syntax-aware diff that provides a number of additional tools.***
 
 | [More info](apps/zograscope.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/zograscope) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12281,7 +12281,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Video Conferencing and Web Conferencing Service.***
 
 | [More info](apps/zoom.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/zoom) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12289,7 +12289,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Collect, organize, cite, and share your research sources.***
 
 | [More info](apps/zotero.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/zotero) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12297,7 +12297,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A highly automated and intuitive digital audio workstation.***
 
 | [More info](apps/zrythm.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/zrythm) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12305,7 +12305,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***A rewrite of the advanced file download/sync tool zsync.***
 
 | [More info](apps/zsync2.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/zsync2) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12313,7 +12313,7 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Zulip Desktop Client for Linux.***
 
 | [More info](apps/zulip.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/zulip) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
 -----------------
@@ -12321,6 +12321,6 @@ Use your browser's built-in search tool to easily navigate to this page.
  ***Video resource player, simple, ad-free and high-value.***
 
 | [More info](apps/zy-player.md) | [Installation script](https://raw.githubusercontent.com/ivan-hc/AM-application-manager/main/programs/x86_64/zy-player) |
-|---|---|
+|:-------------|:------------------|
 
 -----------------
