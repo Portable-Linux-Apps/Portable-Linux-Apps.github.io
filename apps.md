@@ -4132,9 +4132,6 @@ A tool to help when learning to play the piano.
 ## ◆ [*ttth*](apps/ttth.md) 
  An electron based desktop app for online services. 
 
-## ◆ [*tubcloud*](apps/tubcloud.md) 
- TubCloud desktop synchronization client. 
-
 ## ◆ [*tulip*](apps/tulip.md) 
  Large graphs analysis, drawing and visualization framework. 
 
