@@ -1824,9 +1824,6 @@ Images to shapes converter (graphics).
 ## ◆ [*jscad-desktop*](apps/jscad-desktop.md) 
  Jscad desktop application. 
 
-## ◆ [*jsplacement*](apps/jsplacement.md) 
- 8K displacement map generator written in HTML and JavaScript. 
-
 ## ◆ [*juggernaut*](apps/juggernaut.md) 
  Decentralized messaging and payments. 
 
