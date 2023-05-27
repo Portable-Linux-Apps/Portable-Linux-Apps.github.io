@@ -6,7 +6,7 @@ sass:
   style: :compressed
 
 theme: jekyll-theme-primer
- 
+markdown: GFM
 github:
   private: false
   repository_url: "https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io"
