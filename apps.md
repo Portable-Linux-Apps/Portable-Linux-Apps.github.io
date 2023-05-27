@@ -4126,9 +4126,6 @@ A tool to help when learning to play the piano.
 ## ◆ [*tropy*](apps/tropy.md) 
  Research photo management. 
 
-## ◆ [*trudi*](apps/trudi.md) 
- Und Display-Software für Smart Meter Gateways. 
-
 ## ◆ [*tt*](apps/tt.md) 
  A simple Time Tracker to stay basic and intuitive. 
 
