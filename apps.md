@@ -4177,9 +4177,6 @@ A tool to help when learning to play the piano.
 ## ◆ [*twitch-wrapper*](apps/twitch-wrapper.md) 
  An Electron wrapper for Twitch.tv. 
 
-## ◆ [*ubpm*](apps/ubpm.md) 
- Manage Blood Pressure Data. 
-
 ## ◆ [*uhk-agent-appimage*](apps/uhk-agent-appimage.md) 
  Application of the Ultimate Hacking Keyboard. 
 
