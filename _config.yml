@@ -1,18 +1,8 @@
-exclude:
-  - node_modules
-  - script
-
-sass:
-  style: :compressed
-
 theme: jekyll-theme-primer
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme
 
 github:
   private: false
   repository_url: "https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io"
-  
-title: PORTABLE LINUX APPS
-description: The database of all AppImage packages and portable applications for GNU/Linux.
