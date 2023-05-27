@@ -1671,9 +1671,6 @@ Images to shapes converter (graphics).
 ## ◆ [*hypertrader*](apps/hypertrader.md) 
  Trade like a PRO, robust tools to monitor your accounts. 
 
-## ◆ [*hypnos*](apps/hypnos.md) 
- Music Player and Library. 
-
 ## ◆ [*iagoncloudapp*](apps/iagoncloudapp.md) 
  Iagon Cloud Application. 
  
