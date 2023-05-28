@@ -6,7 +6,7 @@
 -----------------
 
 | COMMAND | DESCRIPTION  | SYSTEM INTEGRATION (with AM) |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | [***0ad***](apps/0ad.md) | *FOSS historical Real Time Strategy (RTS) game of ancient warfare.*..[ find out more! ](apps/0ad.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/0ad) |
 | [***432hz-player***](apps/432hz-player.md) | *Because most music is recorded in 440hz (Audio Player).*..[ find out more! ](apps/432hz-player.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/432hz-player) |
 | [***86box***](apps/86box.md) | *Emulator of x86-based machines based on PCem.*..[ find out more! ](apps/86box.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/86box) |
