@@ -293,10 +293,7 @@
 | [***dashy-app***](apps/dashy-app.md) | *Dashboard creation application.*..[ find out more! ](apps/dashy-app.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dashy-app) |
 | [***dataset-annotator***](apps/dataset-annotator.md) | *An annotation tool for a dataset.*..[ find out more! ](apps/dataset-annotator.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dataset-annotator) |
 | [***datcord***](apps/datcord.md) | *Discord client.*..[ find out more! ](apps/datcord.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/datcord) |
-| [***dawnlightsearch***](apps/dawnlightsearch.md) | *A Linux version of Everything Search Engine.
-Dawnlight Search Engine*..[ find out more! ](apps/dawnlightsearch.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dawnlightsearch) |
-| [***dawnlightsearch***](apps/dawnlightsearch.md) | *A Linux version of Everything Search Engine.
-Dawnlight Search Engine*..[ find out more! ](apps/dawnlightsearch.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dawnlightsearch) |
+| [***dawnlightsearch***](apps/dawnlightsearch.md) | *A Linux version of Everything Search Engine.*..[ find out more! ](apps/dawnlightsearch.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dawnlightsearch) |
 | [***dbet-wallet***](apps/dbet-wallet.md) | *DBET Wallet.*..[ find out more! ](apps/dbet-wallet.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dbet-wallet) |
 | [***dbgate***](apps/dbgate.md) | *Opensource database administration tool*..[ find out more! ](apps/dbgate.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dbgate) |
 | [***deadgame-2048***](apps/deadgame-2048.md) | *GUI tool available for ALL platforms.*..[ find out more! ](apps/deadgame-2048.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/deadgame-2048) |
@@ -1464,7 +1461,7 @@ Dawnlight Search Engine*..[ find out more! ](apps/dawnlightsearch.md) | [ AM-ins
 | [***vikunja***](apps/vikunja.md) | *The open-source, self-hostable to-do app.*..[ find out more! ](apps/vikunja.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/vikunja) |
 | [***violetbug***](apps/violetbug.md) | *Roku Debugger Graphical Interface.*..[ find out more! ](apps/violetbug.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/violetbug) |
 | [***viper-browser***](apps/viper-browser.md) | *Fast and lightweight Qt web browser.*..[ find out more! ](apps/viper-browser.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/viper-browser) |
-| [***viper***](apps/viper.md) | *Launcher and Updater for TF|2 Northstar.*..[ find out more! ](apps/viper.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/viper) |
+| [***viper***](apps/viper.md) | *Launcher and Updater for TF2 Northstar.*..[ find out more! ](apps/viper.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/viper) |
 | [***vipster***](apps/vipster.md) | *Visual periodic structure editor.*..[ find out more! ](apps/vipster.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/vipster) |
 | [***vircadia***](apps/vircadia.md) | *Open Source continuation of the High Fidelity metaverse.*..[ find out more! ](apps/vircadia.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/vircadia) |
 | [***virtscreen***](apps/virtscreen.md) | *Make your iPad/tablet/computer into a secondary monitor on Linux.*..[ find out more! ](apps/virtscreen.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/virtscreen) |
