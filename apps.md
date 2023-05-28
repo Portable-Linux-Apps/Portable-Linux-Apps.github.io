@@ -309,6 +309,14 @@
 
 -----------------
 -----------------
+## ◆ [***apifox***](apps/apifox.md)
+ ***API manager (in chinese). 文档、API 调试、API Mock、API 自动化测试***
+
+| [ More info ](apps/apifox.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/apifox) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***apk-editor-studio***](apps/apk-editor-studio.md)
  ***Easy to use APK (Android) reverse-engineering tool.***
 
@@ -1069,6 +1077,22 @@
 
 -----------------
 -----------------
+## ◆ [***bookmarks-manager***](apps/bookmarks-manager.md)
+ ***Edit bookmarks, check url.***
+
+| [ More info ](apps/bookmarks-manager.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/bookmarks-manager) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***boostchanger***](apps/boostchanger.md)
+ ***Control CPU turbo boost and the settings of the cpu speed.***
+
+| [ More info ](apps/boostchanger.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/boostchanger) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***boost-note***](apps/boost-note.md)
  ***Document driven project management tool to speedup remote DevOps.***
 
@@ -1509,6 +1533,14 @@
 
 -----------------
 -----------------
+## ◆ [***chatbox***](apps/chatbox.md)
+ ***Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API).***
+
+| [ More info ](apps/chatbox.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/chatbox) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***chatterino2-appimage***](apps/chatterino2-appimage.md)
  ***Second installment of the Twitch chat client.***
 
@@ -1553,6 +1585,14 @@
  ***Simple, fast and flexible DIY Remote Desktop software.***
 
 | [ More info ](apps/chimeradesk.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/chimeradesk) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***chord***](apps/chord.md)
+ ***A Modern Music Player.***
+
+| [ More info ](apps/chord.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/chord) |
 |---|---|
 
 -----------------
@@ -2037,6 +2077,14 @@
 
 -----------------
 -----------------
+## ◆ [***creality-print***](apps/creality-print.md)
+ ***Creality Print is a slicer dedicated to FDM printers.***
+
+| [ More info ](apps/creality-print.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/creality-print) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***crg-data-tool***](apps/crg-data-tool.md)
  ***A tool for working with Games Data files from CRG.***
 
@@ -2125,10 +2173,26 @@
 
 -----------------
 -----------------
+## ◆ [***csbooks***](apps/csbooks.md)
+ ***Epub reader, pdf reader, mobi book reader and djvu reader.***
+
+| [ More info ](apps/csbooks.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/csbooks) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***cscrypto***](apps/cscrypto.md)
  ***A crypto app.***
 
 | [ More info ](apps/cscrypto.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cscrypto) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***ctool***](apps/ctool.md)
+ ***Common Tools for Program Development.***
+
+| [ More info ](apps/ctool.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ctool) |
 |---|---|
 
 -----------------
@@ -2145,6 +2209,14 @@
  ***Convert 3D models into paths for a 3D printer (graphics).***
 
 | [ More info ](apps/cura.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cura) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***cursor***](apps/cursor.md)
+ ***Write, edit, and chat about your code with GPT-4.***
+
+| [ More info ](apps/cursor.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cursor) |
 |---|---|
 
 -----------------
@@ -2485,6 +2557,14 @@
 
 -----------------
 -----------------
+## ◆ [***dopamine-preview***](apps/dopamine-preview.md)
+ ***The audio player that keeps it simple.***
+
+| [ More info ](apps/dopamine-preview.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dopamine-preview) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***doublecmd-gtk***](apps/doublecmd-gtk.md)
  ***Two-panel file manager, also known as Double Commander.***
 
@@ -2553,6 +2633,14 @@
  ***A free cloud service (Unofficial AppImage).***
 
 | [ More info ](apps/dropbox.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dropbox) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***droppoint***](apps/droppoint.md)
+ ***Drag content without having to open side-by-side windows.***
+
+| [ More info ](apps/droppoint.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/droppoint) |
 |---|---|
 
 -----------------
@@ -2941,6 +3029,14 @@
 
 -----------------
 -----------------
+## ◆ [***esearch***](apps/esearch.md)
+ ***Screenshot OCR search translate search for picture paste...***
+
+| [ More info ](apps/esearch.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/esearch) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***espanso***](apps/espanso.md)
  ***Cross-platform Text Expander written in Rust.***
 
@@ -2977,6 +3073,22 @@
  ***A cross platform mod manager for DOOM Eternal.***
 
 | [ More info ](apps/eternalmodmanager.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/eternalmodmanager) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***eudic***](apps/eudic.md)
+ ***English dictionary for the Chinese language.***
+
+| [ More info ](apps/eudic.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/eudic) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***eudic-ting***](apps/eudic-ting.md)
+ ***Chinese app to learn english (listen statistics/note synch...).***
+
+| [ More info ](apps/eudic-ting.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/eudic-ting) |
 |---|---|
 
 -----------------
@@ -3145,6 +3257,22 @@
  ***Follow your series enthusiast news (french).***
 
 | [ More info ](apps/feedseries.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/feedseries) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***feidao***](apps/feidao.md)
+ ***Feidao Online Course Design Platform (chinese).***
+
+| [ More info ](apps/feidao.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/feidao) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***feishin***](apps/feishin.md)
+ ***Sonixd Rewrite, a desktop music player.***
+
+| [ More info ](apps/feishin.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/feishin) |
 |---|---|
 
 -----------------
@@ -3421,6 +3549,22 @@
 
 -----------------
 -----------------
+## ◆ [***flawesome***](apps/flawesome.md)
+ ***Flawesome is a modern productivity tool.***
+
+| [ More info ](apps/flawesome.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/flawesome) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***flb***](apps/flb.md)
+ ***A beautiful Feature Rich Music Player and Downloader,cross platform.***
+
+| [ More info ](apps/flb.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/flb) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***flexvdi-client-appimage***](apps/flexvdi-client-appimage.md)
  ***Client for connecting to flexVDI desktops.***
 
@@ -3617,6 +3761,14 @@
  ***fre:ac, free audio converter and CD ripper for various encoders.***
 
 | [ More info ](apps/freac.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/freac) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***freecad-assemgly3***](apps/freecad-assemgly3.md)
+ ***Assembly3 workbench for FreeCAD.***
+
+| [ More info ](apps/freecad-assemgly3.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/freecad-assemgly3) |
 |---|---|
 
 -----------------
@@ -4097,6 +4249,14 @@
  ***A simple code editor.***
 
 | [ More info ](apps/graviton.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/graviton) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***gridea***](apps/gridea.md)
+ ***A static blog writing client (一个静态博客写作客户端).***
+
+| [ More info ](apps/gridea.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gridea) |
 |---|---|
 
 -----------------
@@ -4654,7 +4814,15 @@
 -----------------
 -----------------
 ## ◆ [***iptvnator***](apps/iptvnator.md)
- ***IPTV player application.***
+ ***IPTV player application. IPTV player app, supports m3u+m3u8 playlists, favorites, TV guide.***
+
+| [ More info ](apps/iptvnator.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/iptvnator) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***iptvnator***](apps/iptvnator.md)
+ ***IPTV player application. IPTV player app, supports m3u+m3u8 playlists, favorites, TV guide.***
 
 | [ More info ](apps/iptvnator.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/iptvnator) |
 |---|---|
@@ -4805,6 +4973,14 @@
 
 -----------------
 -----------------
+## ◆ [***joplin-beta***](apps/joplin-beta.md)
+ ***A cross-platform note taking and to-do app.***
+
+| [ More info ](apps/joplin-beta.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/joplin-beta) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***joplin***](apps/joplin.md)
  ***Note and to-do application with synchronization capabilities.***
 
@@ -4833,6 +5009,14 @@
  ***Jscad desktop application.***
 
 | [ More info ](apps/jscad-desktop.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/jscad-desktop) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***js-design***](apps/js-design.md)
+ ***A professional UI design software tailored for Chinese designers.***
+
+| [ More info ](apps/js-design.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/js-design) |
 |---|---|
 
 -----------------
@@ -5525,6 +5709,14 @@
 
 -----------------
 -----------------
+## ◆ [***ldtk***](apps/ldtk.md)
+ ***Modern and efficient 2D level editor.***
+
+| [ More info ](apps/ldtk.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ldtk) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***ldview***](apps/ldview.md)
  ***LDraw Model Viewer.***
 
@@ -5801,6 +5993,14 @@
  ***Undervolting GUI for Intel Linux Systems.***
 
 | [ More info ](apps/linux-intel-undervolt-gui.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/linux-intel-undervolt-gui) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***linuxqq***](apps/linuxqq.md)
+ ***New Linux QQ based on Electron.***
+
+| [ More info ](apps/linuxqq.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/linuxqq) |
 |---|---|
 
 -----------------
@@ -6185,6 +6385,14 @@
  ***Play mechanical keyboard sounds as you type.***
 
 | [ More info ](apps/mechvibes.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mechvibes) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***mediachips***](apps/mediachips.md)
+ ***Manage your videos, add any metadata to them and play them.***
+
+| [ More info ](apps/mediachips.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mediachips) |
 |---|---|
 
 -----------------
@@ -6685,6 +6893,14 @@
 
 -----------------
 -----------------
+## ◆ [***muffon***](apps/muffon.md)
+ ***Music streaming browser,retrieves audio, video and metadata.***
+
+| [ More info ](apps/muffon.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/muffon) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***mupdf***](apps/mupdf.md)
  ***Lightweight PDF, XPS, and E-book viewer.***
 
@@ -6889,6 +7105,14 @@
  ***Apache NetBeans installers.***
 
 | [ More info ](apps/netbeans.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/netbeans) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***netpad***](apps/netpad.md)
+ ***A cross-platform C# editor and playground.***
+
+| [ More info ](apps/netpad.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/netpad) |
 |---|---|
 
 -----------------
@@ -7133,6 +7357,14 @@
 
 -----------------
 -----------------
+## ◆ [***nteract***](apps/nteract.md)
+ ***An open-source organization.***
+
+| [ More info ](apps/nteract.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/nteract) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***nuclear***](apps/nuclear.md)
  ***Streaming music player that finds free music for you.***
 
@@ -7201,6 +7433,14 @@
  ***A powerful knowledge base, plain text Markdown files.***
 
 | [ More info ](apps/obsidian.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/obsidian) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***ocat***](apps/ocat.md)
+ ***OpenCore Auxiliary Tools, editing config.plist files for Acidanthera.***
+
+| [ More info ](apps/ocat.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ocat) |
 |---|---|
 
 -----------------
@@ -7413,6 +7653,14 @@
 
 -----------------
 -----------------
+## ◆ [***open-video-downloader***](apps/open-video-downloader.md)
+ ***A cross-platform GUI for youtube-dl made in Electron.***
+
+| [ More info ](apps/open-video-downloader.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/open-video-downloader) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***opera***](apps/opera.md)
  ***Fast and secure web browser.***
 
@@ -7453,6 +7701,22 @@
 
 -----------------
 -----------------
+## ◆ [***outline-client***](apps/outline-client.md)
+ ***Lean on the Cordova and Electron frameworks.***
+
+| [ More info ](apps/outline-client.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/outline-client) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***outline-client-wayland***](apps/outline-client-wayland.md)
+ ***Lean on the Cordova and Electron frameworks.***
+
+| [ More info ](apps/outline-client-wayland.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/outline-client-wayland) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***outline-manager***](apps/outline-manager.md)
  ***Create and manage access to Outline servers.***
 
@@ -7465,6 +7729,14 @@
  ***Creates and manages Outline servers.***
 
 | [ More info ](apps/outline-server.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/outline-server) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***overte***](apps/overte.md)
+ ***Overte open source virtual worlds platform.***
+
+| [ More info ](apps/overte.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/overte) |
 |---|---|
 
 -----------------
@@ -7513,6 +7785,22 @@
  ***Enables users to enter into Discreet Log Contracts.***
 
 | [ More info ](apps/p2pderivatives.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/p2pderivatives) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***p3x-onenote***](apps/p3x-onenote.md)
+ ***Linux Electron Onenote - A Linux compatible version of OneNote.***
+
+| [ More info ](apps/p3x-onenote.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/p3x-onenote) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***p3x-redis-ui***](apps/p3x-redis-ui.md)
+ ***A very functional handy database GUI and works in your pocket.***
+
+| [ More info ](apps/p3x-redis-ui.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/p3x-redis-ui) |
 |---|---|
 
 -----------------
@@ -8109,6 +8397,14 @@
 
 -----------------
 -----------------
+## ◆ [***podman-desktop-companion***](apps/podman-desktop-companion.md)
+ ***Podman command line interface.***
+
+| [ More info ](apps/podman-desktop-companion.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/podman-desktop-companion) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***poe-ladder***](apps/poe-ladder.md)
  ***Path of Exile ladder viewer.***
 
@@ -8201,6 +8497,14 @@
  ***Microsoft PowerShell.***
 
 | [ More info ](apps/powershell.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/powershell) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***ppet3***](apps/ppet3.md)
+ ***Put a cute girl on your desk for more fun.***
+
+| [ More info ](apps/ppet3.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ppet3) |
 |---|---|
 
 -----------------
@@ -8669,6 +8973,14 @@
 
 -----------------
 -----------------
+## ◆ [***qradiolink***](apps/qradiolink.md)
+ ***Multimode SDR transceiver for GNU radio.***
+
+| [ More info ](apps/qradiolink.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/qradiolink) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***qr-code-generator***](apps/qr-code-generator.md)
  ***Create custom QR Codes, resize, save them as PNG image.***
 
@@ -8873,6 +9185,14 @@
  ***Mod manager for several Unity games using Thunderstore.***
 
 | [ More info ](apps/r2modman-appimage.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/r2modman-appimage) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***r3play***](apps/r3play.md)
+ ***High-value third-party Netease cloud player (chinese).***
+
+| [ More info ](apps/r3play.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/r3play) |
 |---|---|
 
 -----------------
@@ -9561,6 +9881,14 @@
  ***Signal analyzer, using Suscan core and Sigutils DSP library. The free digital signal analyzer.***
 
 | [ More info ](apps/sigdigger.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/sigdigger) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***sigma-file-manager***](apps/sigma-file-manager.md)
+ ***A free, open-source, modern file manager.***
+
+| [ More info ](apps/sigma-file-manager.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/sigma-file-manager) |
 |---|---|
 
 -----------------
@@ -10341,6 +10669,14 @@
 
 -----------------
 -----------------
+## ◆ [***subtitler***](apps/subtitler.md)
+ ***Quickly download subtitles.***
+
+| [ More info ](apps/subtitler.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/subtitler) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***sugarizer***](apps/sugarizer.md)
  ***A taste of Sugar on any device.***
 
@@ -10497,6 +10833,14 @@
  ***Electron application boilerplate based on React/Webpack.***
 
 | [ More info ](apps/swiftnessx.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/swiftnessx) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***swifty***](apps/swifty.md)
+ ***Free Offline-first Password Manager for MacOS, Windows and Linux.***
+
+| [ More info ](apps/swifty.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/swifty) |
 |---|---|
 
 -----------------
@@ -10845,6 +11189,14 @@
 
 -----------------
 -----------------
+## ◆ [***tilde-podcast***](apps/tilde-podcast.md)
+ ***Podcast client to listen to all you favorite podcasts.***
+
+| [ More info ](apps/tilde-podcast.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/tilde-podcast) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***tiled***](apps/tiled.md)
  ***Tile map editor.***
 
@@ -10901,6 +11253,14 @@
 
 -----------------
 -----------------
+## ◆ [***tockler***](apps/tockler.md)
+ ***An application that tracks your time by monitoring.***
+
+| [ More info ](apps/tockler.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/tockler) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***todoist***](apps/todoist.md)
  ***Todoist for linux.***
 
@@ -10937,6 +11297,14 @@
  ***Cli tool to inspect/create/edit BitTorrent metafiles.***
 
 | [ More info ](apps/torrenttools.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/torrenttools) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***toughcookies***](apps/toughcookies.md)
+ ***A modern flash cards study and management app.***
+
+| [ More info ](apps/toughcookies.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/toughcookies) |
 |---|---|
 
 -----------------
@@ -11125,14 +11493,6 @@
 
 -----------------
 -----------------
-## ◆ [***uhk-agent-appimage***](apps/uhk-agent-appimage.md)
- ***Application of the Ultimate Hacking Keyboard.***
-
-| [ More info ](apps/uhk-agent-appimage.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/uhk-agent-appimage) |
-|---|---|
-
------------------
------------------
 ## ◆ [***uhk.agent***](apps/uhk.agent.md)
  ***Configuration app of the Ultimate Hacking Keyboard.***
 
@@ -11249,6 +11609,14 @@
  ***A terminal emulator for the 21st century.***
 
 | [ More info ](apps/upterm.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/upterm) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***utilso***](apps/utilso.md)
+ ***Regex Tester, JWT Verify, Image Converter, Format JSON, Decode...***
+
+| [ More info ](apps/utilso.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/utilso) |
 |---|---|
 
 -----------------
@@ -11525,6 +11893,14 @@
 
 -----------------
 -----------------
+## ◆ [***voicevox***](apps/voicevox.md)
+ ***Offical Frontend for the free VOICEVOX TTS Engine.***
+
+| [ More info ](apps/voicevox.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/voicevox) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***vpaint***](apps/vpaint.md)
  ***Experimental vector graphics and 2D animation editor.***
 
@@ -11717,10 +12093,34 @@
 
 -----------------
 -----------------
+## ◆ [***webkitty***](apps/webkitty.md)
+ ***Local web development IDE.***
+
+| [ More info ](apps/webkitty.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/webkitty) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***weektodo***](apps/weektodo.md)
+ ***WeekToDo is a Free and Open Source Weekly Planner.***
+
+| [ More info ](apps/weektodo.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/weektodo) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***westeroscraftlauncher***](apps/westeroscraftlauncher.md)
  ***Custom launcher for modded Minecraft (game).***
 
 | [ More info ](apps/westeroscraftlauncher.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/westeroscraftlauncher) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***wewechat++***](apps/wewechat++.md)
+ ******
+
+| [ More info ](apps/wewechat++.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/wewechat++) |
 |---|---|
 
 -----------------
@@ -11917,6 +12317,14 @@
 
 -----------------
 -----------------
+## ◆ [***wolai***](apps/wolai.md)
+ ***A new form of document/note/information system (in chinese).***
+
+| [ More info ](apps/wolai.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/wolai) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***wonderpen-appimage***](apps/wonderpen-appimage.md)
  ***A professional writing app with markdown support.***
 
@@ -11977,6 +12385,14 @@
  ***An Electron wrapper for web pages.***
 
 | [ More info ](apps/wrapbox.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/wrapbox) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***wsjtz***](apps/wsjtz.md)
+ ***AppImage of WSJT-Z – fork of WSJT-X with automation features.***
+
+| [ More info ](apps/wsjtz.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/wsjtz) |
 |---|---|
 
 -----------------
@@ -12125,10 +12541,26 @@
 
 -----------------
 -----------------
+## ◆ [***yana***](apps/yana.md)
+ ***Note-taking app with nested documents, text search/editor, code...***
+
+| [ More info ](apps/yana.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/yana) |
+|---|---|
+
+-----------------
+-----------------
 ## ◆ [***yangdownloader-appimage***](apps/yangdownloader-appimage.md)
  ***Downloads best-quality audio and video from YouTube.***
 
 | [ More info ](apps/yangdownloader-appimage.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/yangdownloader-appimage) |
+|---|---|
+
+-----------------
+-----------------
+## ◆ [***yank-note***](apps/yank-note.md)
+ ***A Hackable Markdown Note Application for Programmers.***
+
+| [ More info ](apps/yank-note.md) | [ See the installation script ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/yank-note) |
 |---|---|
 
 -----------------
