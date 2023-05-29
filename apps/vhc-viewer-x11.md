@@ -1,4 +1,4 @@
-# VULKAN-HARDWARE-CAPABILITY-VIEWER-X11
+# VHC-VIEWER-X11
  
  Vulkan Hardware Capability Viewer
  
