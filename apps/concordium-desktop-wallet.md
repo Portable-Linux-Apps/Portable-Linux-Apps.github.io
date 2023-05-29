@@ -1,4 +1,4 @@
-# CONCORDIUM-DESKTOP-WALLET-APPIMAGE
+# CONCORDIUM-DESKTOP-WALLET
  
  The latest stable AppImage of the official Concordium Dektop Wallet
  
