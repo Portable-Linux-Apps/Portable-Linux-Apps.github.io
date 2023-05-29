@@ -1,4 +1,4 @@
-# UNOFFICAL-SONOS-CONTROLLER-FOR-LINUX
+# UNOFFICAL-SONOS-CONTROLLER
  
  Unoffical sonos controller for linux.
  
