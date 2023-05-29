@@ -1,4 +1,5 @@
 name: Portable Linux Apps
+title: home
 collections:
   categories:
     output: true
