@@ -1617,7 +1617,7 @@
 | [***zxinfo-file-browser***](apps/zxinfo-file-browser.md) | *Organize and manage your emulator files for ZX Spectrum.*..[ find out more! ](apps/zxinfo-file-browser.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/zxinfo-file-browser) |
 | [***zy-player***](apps/zy-player.md) | *Video resource player, simple, ad-free and high-value.*..[ find out more! ](apps/zy-player.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/zy-player) |
 
-| [Go](https://portable-linux-apps.github.io/) |
+| [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
 ---
