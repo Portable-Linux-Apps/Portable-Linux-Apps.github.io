@@ -1,5 +1,9 @@
 # APPLICATIONS
-#### *Here are listed all the apps managed by [AM](https://github.com/ivan-hc/AM-Application-Manager) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.* 
+
+| [Home](https://portable-linux-apps.github.io/) |
+| --- |
+
+#### Here are listed all the apps managed by [AM](https://github.com/ivan-hc/AM-Application-Manager) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture. 
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
@@ -1612,3 +1616,20 @@
 | [***zulip***](apps/zulip.md) | *Zulip Desktop Client for Linux.*..[ find out more! ](apps/zulip.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/zulip) |
 | [***zxinfo-file-browser***](apps/zxinfo-file-browser.md) | *Organize and manage your emulator files for ZX Spectrum.*..[ find out more! ](apps/zxinfo-file-browser.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/zxinfo-file-browser) |
 | [***zy-player***](apps/zy-player.md) | *Video resource player, simple, ad-free and high-value.*..[ find out more! ](apps/zy-player.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/zy-player) |
+
+| [Go](https://portable-linux-apps.github.io/) |
+| --- |
+
+---
+
+This site, this application list, and all installation scripts are the work of [Ivan-HC](https://github.com/ivan-hc).
+
+You can support me on [PayPal](http://paypal.me/IvanAlexHC).
+
+You can also help improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io),  or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM-Application-Manager/issues)' section of the main database, at [https://github.com/ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager).
+
+***PORTABLE-LINUX-APPS.github.io is my gift to the Linux community and was made with love for GNU/Linux and the Open Source philosophy.***
+
+---
+
+
