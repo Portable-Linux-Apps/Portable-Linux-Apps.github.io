@@ -1,5 +1,4 @@
 name: Portable Linux Apps
-title: home
 collections:
   categories:
     output: true
@@ -29,3 +28,5 @@ github:
   private: false
   repository_url: "https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io"
   
+title: |
+  ![](favicon.ico){width=1in}
