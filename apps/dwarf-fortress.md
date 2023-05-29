@@ -1,6 +1,6 @@
-# DWARFFORTRESS-LINUXDWARFPACK-APPIMAGE
+# DWARF-FORTRESS
  
- The AppImage of lnp-forge built LinuxDwarfPack appimage
+ The AppImage of lnp-forge built LinuxDwarfPack.
  
  SITE: https://github.com/McArcady/lnp-forge
 
