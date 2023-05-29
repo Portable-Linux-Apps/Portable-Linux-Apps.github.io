@@ -7,6 +7,8 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
+##### This database contains **1686** Appimage packages and standalone applications.
+
 -----------------
 
 | COMMAND | DESCRIPTION  | INSTALLATION |
