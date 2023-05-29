@@ -1,3 +1,14 @@
+name: Portable Linux Apps
+collections:
+  categories:
+    output: true
+description: The database of all AppImage packages and portable applications for GNU/Linux.
+avatar: favicon.ico
+
+google_analytics: 
+piwik_analytics:
+url: https://portable-linux-apps.github.io/
+
 exclude:
   - node_modules
   - script
@@ -8,12 +19,12 @@ sass:
 theme: jekyll-theme-primer
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-sitemap
   
 markdown: GFM
 github:
   private: false
   repository_url: "https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io"
   
-title: PORTABLE LINUX APPS
-description: The database of all AppImage packages and portable applications for GNU/Linux.
-site_favicon: favicon.ico
