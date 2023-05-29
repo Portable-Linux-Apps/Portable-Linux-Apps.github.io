@@ -1,4 +1,4 @@
-# VULKAN-HARDWARE-CAPABILITY-VIEWER-WAYLAND
+# VHC-VIEWER-WAYLAND
  
  Vulkan Hardware Capability Viewer
  
