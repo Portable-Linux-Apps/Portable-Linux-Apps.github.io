@@ -18,6 +18,7 @@ sass:
   style: :compressed
 
 theme: jekyll-theme-primer
+plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-redirect-from
