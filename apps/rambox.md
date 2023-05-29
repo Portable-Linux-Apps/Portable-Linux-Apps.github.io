@@ -1,10 +1,10 @@
 # RAMBOX
 
- Rambox is a Free, Open Source and Cross Platform messaging and
- emailing app that combines common web applications into one.
- 
- SITE: https://rambox.app
+ Free and Open Source messaging and emailing app that combines 
+ common web applications into one.
 
- SOURCE: https://github.com/ramboxapp/community-edition
+ SITE: https://rambox.app/
+
+ SOURCE: https://aur.archlinux.org/packages/rambox-appimage
 
  [Go back](https://portable-linux-apps.github.io/apps.html)

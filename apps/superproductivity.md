@@ -1,7 +1,11 @@
 # SUPERPRODUCTIVITY
- 
- Personal Task Management App to help you with your daily struggle with
- 
- SITE: https://github.com/johannesjo/super-productivity
+
+ An advanced todo list app with integrated Timeboxing and time tracking 
+ capabilities. It also comes with integrations for Jira, Gitlab, GitHub 
+ and Open Project.
+
+ SITE: http://super-productivity.com/
+
+ SOURCE: https://aur.archlinux.org/packages/superproductivity-appimage
 
  [Go back](https://portable-linux-apps.github.io/apps.html)
