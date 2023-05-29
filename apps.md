@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-##### This database contains **1686** Appimage packages and standalone applications.
+#### *This database contains* **1686** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1698,8 +1698,6 @@
 | [***zxinfo-file-browser***](apps/zxinfo-file-browser.md) | *Organize and manage your emulator files for ZX Spectrum.*..[ find out more! ](apps/zxinfo-file-browser.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/zxinfo-file-browser) |
 | [***zy-player***](apps/zy-player.md) | *Video resource player, simple, ad-free and high-value.*..[ find out more! ](apps/zy-player.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/zy-player) |
 
-| [Home](https://portable-linux-apps.github.io/) |
-| --- |
 
 ---
 
@@ -1713,4 +1711,7 @@ You can also help improve these pages via a [pull request](https://github.com/Po
 
 ---
 
+
+| [Home](https://portable-linux-apps.github.io/) |
+| --- |
 
