@@ -1,0 +1,85 @@
+<h1 id="portable-linux-apps">PORTABLE LINUX APPS</h1>
+<h4 id="welcome-to-the-database-of-all-appimage-packages-and-portable-applications-for-gnu-linux-">Welcome to the database of all AppImage packages and portable applications for GNU/Linux.</h4>
+<hr>
+<table>
+<thead>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<tr>
+<th><a href="apps.md"><em>GO TO THE APPLICATION&#39;S LIST</em></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="all-you-need-to-know">All you need to know</h2>
+<ul>
+<li><a href="#what-are-the-portable-linux-apps">What are the portable linux apps?</a></li>
+<li><a href="#how-is-this-site-different-from-other-sites-that-list-appimage-packages">How is this site different from other sites that list AppImage packages?</a></li>
+<li><a href="#is-there-a-centralized-repository-for-appimage-packages">Is there a centralized repository for AppImage packages?</a></li>
+<li><a href="#how-it-works">How it works?</a></li>
+<li><a href="#is-there-a-version-of-am-that-does-not-require-root-privileges">Is there a version of &quot;AM&quot; that does not require root privileges?</a></li>
+<li><a href="#are-the-applications-managed-safe">Are the applications managed safe?</a></li>
+<li><a href="i-ve-not-understand-what-should-i-install-to-manage-all-these-applications">I&#39;ve not understand, what should I install to manage all these applications?</a></li>
+<li><a href="#the-app-pippo-is-not-available-in-the-database-how-can-i-upload-it">The app &quot;Pippo&quot; is not available in the database, how can I upload it?</a></li>
+<li><a href="#troubleshoot">Troubleshoot</a><ul>
+<li><a href="#during-an-update-or-an-installation-the-app-is-not-downloaded">During an update or an installation the app is not downloaded</a></li>
+<li><a href="#the-downloaded-appimage-does-not-work">The downloaded AppImage does not work</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="what-are-the-portable-linux-apps-">What are the portable linux apps?</h3>
+<p>Portable Linux Apps are standalone applications for GNU/Linux that can (theorically) run everywhere, also on a USB stick. These applcations can be AppImage packages (see <a href="https://appimage.org/">appimage.org</a>) or standalone archives (for example Firefox, Blender, Thunderbird...).</p>
+<h3 id="how-is-this-site-different-from-other-sites-that-list-appimage-packages-">How is this site different from other sites that list AppImage packages?</h3>
+<p>The main problem with AppImage packages is that many of them couldn&#39;t be updated easily because previously there was no centralized repository that could advice users that a new version was available (unlike Snapcraft, FlatHub or the default and more common repositories you can find on your GNU/Linux distro). This gap is filled by this site, since I built one!</p>
+<h2 id="is-there-a-centralized-repository-for-appimage-packages-">Is there a centralized repository for AppImage packages?</h2>
+<p>Yes, I&#39;ve called it &quot;<a href="https://github.com/ivan-hc/AM-Application-Manager">AM</a>&quot; (Application Manager). All the apps listed on this website can be installed, updated and managed through two CLI (Command Line Interfaces) I wrote in bash (being bash the &quot;base&quot; of our GNU/Linux systems). In fact &quot;AM&quot; is also the name of the main CLI I developed, the code is available at <a href="https://github.com/ivan-hc/AM-Application-Manager/blob/main/APP-MANAGER">this link</a>).</p>
+<p>The <a href="https://github.com/ivan-hc/AM-Application-Manager/tree/main/programs">database</a> of &quot;AM&quot; does not stores packages but installation scripts, the same way the Arch User Repository (AUR) do, but each script points directly to a program ready to be downloaded (more often as AppImage packages, but also TAR/DEB archives containing directories, scripts, binary files that don&#39;t need to be compiled), and in some and really rare cases a script can build on-the-fly AppImage packages in a way similar to an AUR helper using <a href="https://github.com/AppImageCommunity/pkg2appimage">pkg2appimage</a> and/or <a href="https://github.com/AppImage/AppImageKit">appimagetool</a>.</p>
+<p>&quot;AM&quot; is also extensible to all the architectures supported by the Linux kernel (and if the app is available for that architecture). There are installation scripts for<a href="https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/aarch64-apps">aarch64</a> (or ARM64), <a href="https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/i686-apps">i686</a> (the old and obsolete 32bit systems) and obviously the more common <a href="https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64-apps">x86_64</a> (64bit systems). My work on &quot;AM&quot; is mainly focused on the x86_64 architecture being it the one I use normally and the more used in general, so many ARM64 and i686 apps may have been omitted when I wrote the scripts for them.</p>
+<p>See &quot;<a href="https://github.com/ivan-hc/AM-Application-Manager">AM Application Manager</a>&quot; on github for more details.</p>
+<h2 id="how-it-works-">How it works?</h2>
+<p>&quot;<a href="https://github.com/ivan-hc/AM-Application-Manager">AM</a>&quot; is a tool wrote in bash and works at system level (i.e. for all the users). &quot;AM&quot; requires the <code>sudo</code> privileges but only to install and remove the app, all the other commands can be executed as a normal user.
+To install a program, launch the command:</p>
+<pre><code>am -<span class="hljs-selector-tag">i</span> <span class="hljs-variable">$PROGRAM</span>
+</code></pre><p>the program will be installed into a dedicated directory in <code>/opt</code> (according to the <a href="https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch03s13.html">Linux Standard Base</a>). This is what an installation script installs with &quot;AM&quot;:</p>
+<pre><code>/opt/$<span class="hljs-function"><span class="hljs-keyword">PROGRAM</span></span>/
+/opt/$<span class="hljs-function"><span class="hljs-keyword">PROGRAM</span></span>/$<span class="hljs-function"><span class="hljs-keyword">PROGRAM</span></span>
+/opt/$<span class="hljs-function"><span class="hljs-keyword">PROGRAM</span></span>/AM-updater
+/opt/$<span class="hljs-function"><span class="hljs-keyword">PROGRAM</span></span>/remove
+/opt/$<span class="hljs-function"><span class="hljs-keyword">PROGRAM</span></span>/icons/$ICON-<span class="hljs-keyword">NAME</span>
+/usr/local/bin/$<span class="hljs-function"><span class="hljs-keyword">PROGRAM</span></span>
+/usr/share/applications/AM-$<span class="hljs-function"><span class="hljs-keyword">PROGRAM</span>.<span class="hljs-title">desktop</span></span>
+</code></pre><p>To update all the apps at once just run the following command:</p>
+<pre><code><span class="hljs-attribute">am -U</span>
+</code></pre><p>To uninstall everything just run:</p>
+<pre><code>am -R $<span class="hljs-function"><span class="hljs-keyword">PROGRAM</span></span>
+</code></pre><h3 id="is-there-a-version-of-am-that-does-not-require-root-privileges-">Is there a version of &quot;AM&quot; that does not require root privileges?</h3>
+<p>Yes, it is named &quot;<a href="https://github.com/ivan-hc/AppMan">AppMan</a>&quot;, it allows you to choose where to install your applications into your <code>$HOME</code> directory. AppMan is also usable as a portable app (i.e. you can download and place it wherever you want) and it is able to ubdate itself, anywhere! At first start it will ask you where to install the apps and it will create the directory for you (the configuration file is in <code>~/.config/appman</code>). For example, suppose you want install everything in &quot;Applicazioni&quot; (the italian of &quot;applications&quot;), this is the structure of what an installation scripts installs with &quot;AppMan&quot; instead:</p>
+<pre><code>~/Applicazioni/$<span class="hljs-function"><span class="hljs-keyword">PROGRAM</span></span>/
+~/Applicazioni/$<span class="hljs-function"><span class="hljs-keyword">PROGRAM</span></span>/$<span class="hljs-function"><span class="hljs-keyword">PROGRAM</span></span>
+~/Applicazioni/$<span class="hljs-function"><span class="hljs-keyword">PROGRAM</span></span>/AM-updater
+~/Applicazioni/$<span class="hljs-function"><span class="hljs-keyword">PROGRAM</span></span>/remove
+~/Applicazioni/$<span class="hljs-function"><span class="hljs-keyword">PROGRAM</span></span>/icons/$ICON-<span class="hljs-keyword">NAME</span>
+~/.local/bin/$<span class="hljs-function"><span class="hljs-keyword">PROGRAM</span></span>
+~/.local/share/applications/AM-$<span class="hljs-function"><span class="hljs-keyword">PROGRAM</span>.<span class="hljs-title">desktop</span></span>
+</code></pre><p>All AppMan does is to convert <a href="https://github.com/ivan-hc/AM-Application-Manager/tree/main/programs">all the installation scripts for &quot;AM&quot;</a> (that normally must be executed with ROOT privileges) in normal scripts that can manage applications in the local folder of the current user. This allows more users to be able to better configure their profile.</p>
+<p>You can already dowload it from <a href="https://raw.githubusercontent.com/ivan-hc/AppMan/main/appman">here</a> to give it a try without installation.</p>
+<p>Visit the repository of &quot;<a href="https://github.com/ivan-hc/AppMan">AppMan</a>&quot; on github for more details.</p>
+<h3 id="are-the-applications-managed-safe-">Are the applications managed safe?</h3>
+<p>More of them are official programs, others are third-party AppImage packages built from other people (me included), you can see the links to the sources in the application&#39;s list (<a href="apps.md">here</a>) or using the <code>-a</code> option of both &quot;AM&quot; and AppMan. If you see an app that steals your data, contains malware or does other bad stuff with your device... please report that app in a <a href="https://github.com/ivan-hc/AM-Application-Manager/issues">github issue</a> and I&#39;ll look into it.</p>
+<h3 id="i-ve-not-understand-what-should-i-install-to-manage-all-these-applications-">I&#39;ve not understand, what should I install to manage all these applications?</h3>
+<ul>
+<li>AppMan (to install applications only locally), at <a href="https://github.com/ivan-hc/AppMan">https://github.com/ivan-hc/AppMan</a></li>
+<li>AM (to install applications as root user), at <a href="https://github.com/ivan-hc/AM-Application-Manager">https://github.com/ivan-hc/AM-Application-Manager</a></li>
+</ul>
+<h3 id="the-app-pippo-is-not-available-in-the-database-how-can-i-upload-it-">The app &quot;Pippo&quot; is not available in the database, how can I upload it?</h3>
+<p>You should do a fork of <a href="https://github.com/ivan-hc/AM-Application-Manager">https://github.com/ivan-hc/AM-Application-Manager</a>, if &quot;AM&quot; or AppMan are installed you can use the option <code>-t</code> (or <code>template</code>) to create your own script. Just follow the instructions on your terminal, in the end a directory containing all the stuff needed to install the app will be saved on your desktop, upload all the content of this directory on your &quot;fork&quot; and try to merge a pull request, I&#39;ll check it and (if everything is OK) I&#39;ll approve it. &quot;AM&quot; is open source, like this website. I suggest to start so, in this way we can have both installable apps and web pages to spread to the masses. </p>
+<h1 id="troubleshoot">Troubleshoot</h1>
+<h3 id="during-an-update-or-an-installation-the-app-is-not-downloaded">During an update or an installation the app is not downloaded</h3>
+<p>This happens because whoever hosted the program to download on their own site changed something on the web page, so commands within the installation scripts are no longer able to intercept the download link. Uninstall the application and report the problem at <a href="https://github.com/ivan-hc/AM-Application-Manager/issues">github.com/ivan-hc/AM-Application-Manager/issues</a> and I&#39;ll try to correct it as far I can.</p>
+<h3 id="the-downloaded-appimage-does-not-work">The downloaded AppImage does not work</h3>
+<p>Run &quot;AM&quot; or AppMan with the option <code>-a</code> (example <code>am -a $PROGRAM</code>) and see if this is a know issue. If the issue is related to the AppImage itself, just contact the developer from the link provided. &quot;AM&quot; is only a way to obtain these standalone packages, not a guarantee of support for those AppImages not maintained by me (the list of Appimage packages I&#39;ve built and I&#39;m responsible on is <a href="https://github.com/ivan-hc#my-appimage-packages">here</a>).</p>
+<hr>
