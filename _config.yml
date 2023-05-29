@@ -6,6 +6,9 @@ sass:
   style: :compressed
 
 theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
+  
 markdown: GFM
 github:
   private: false
