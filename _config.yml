@@ -17,8 +17,8 @@ sass:
   style: :compressed
 
 theme: jekyll-theme-primer
-remote_theme: dieghernan/chulapa
-plugins:
+remote_theme: dieghernan/chulapaplugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-redirect-from
