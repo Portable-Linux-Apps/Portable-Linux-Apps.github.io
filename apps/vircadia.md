@@ -1,7 +1,11 @@
-# VIRCADIA
- 
- Vircadia is the Open Source continuation of the High Fidelity metaverse.
- 
- SITE: https://vircadia.com
+#VIRCADIA
+
+ An open-source 3D interface and server foundation that allows 
+ for vast social, educational platforms to be created and lived 
+ in while also being shared in real-time with others.
+
+ SITE: https://vircadia.com/
+
+ SOURCE: https://aur.archlinux.org/packages/vircadia-appimage
 
  [Go back](https://portable-linux-apps.github.io/apps.html)
