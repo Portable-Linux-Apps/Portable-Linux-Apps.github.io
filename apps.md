@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1753** *Appimage packages and standalone applications*.
+#### *This database contains* **1754** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -262,7 +262,7 @@
 | [***cocomusic***](apps/cocomusic.md) | *A simple music player built by electron and vue.*..[ find out more! ](apps/cocomusic.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cocomusic) |
 | [***code-notes-appimage***](apps/code-notes-appimage.md) | *A simple code snippet amp built with Electron.*..[ find out more! ](apps/code-notes-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/code-notes-appimage) |
 | [***code-oss***](apps/code-oss.md) | *Visual Studio Code OSS Edition.*..[ find out more! ](apps/code-oss.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/code-oss) |
-| [***code***](apps/code.md) | *Visual Studio (VScode), Original Editor to build/debug web/cloud apps.*..[ find out more! ](apps/code.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/code) |
+| [***code***](apps/code.md) | *Visual Studio (VSCode), Original Editor to build/debug web/cloud apps.*..[ find out more! ](apps/code.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/code) |
 | [***coinstac***](apps/coinstac.md) | *Collaborative Informatics and Neuroimaging Suite Toolkit.*..[ find out more! ](apps/coinstac.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/coinstac) |
 | [***colobot***](apps/colobot.md) | *Colonize with bots (game).*..[ find out more! ](apps/colobot.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/colobot) |
 | [***colon***](apps/colon.md) | *A flexible text editor.*..[ find out more! ](apps/colon.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/colon) |
@@ -1484,7 +1484,8 @@
 | [***supertag-appimage***](apps/supertag-appimage.md) | *A tag-based filesystem written in Rust.*..[ find out more! ](apps/supertag-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/supertag-appimage) |
 | [***supertag***](apps/supertag.md) | *A tag-based filesystem written in Rust.*..[ find out more! ](apps/supertag.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/supertag) |
 | [***supertux2***](apps/supertux2.md) | *Classic 2D jump'n run sidescroller game inspired to Super Mario.*..[ find out more! ](apps/supertux2.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/supertux2) |
-| [***supertuxkart***](apps/supertuxkart.md) | *Free kart racing game focused on fun.*..[ find out more! ](apps/supertuxkart.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/supertuxkart) |
+| [***supertuxkart-appimage***](apps/supertuxkart-appimage.md) | *Racing game focused on Fun (Unofficial AppImage).*..[ find out more! ](apps/supertuxkart-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/supertuxkart-appimage) |
+| [***supertuxkart***](apps/supertuxkart.md) | *The original Free kart racing game focused on Fun!*..[ find out more! ](apps/supertuxkart.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/supertuxkart) |
 | [***svelte-electron***](apps/svelte-electron.md) | *Create desktop apps with this Svelte boilerplate.*..[ find out more! ](apps/svelte-electron.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/svelte-electron) |
 | [***swaglyrics***](apps/swaglyrics.md) | *SwagLyrics AppImage (unofficial).*..[ find out more! ](apps/swaglyrics.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/swaglyrics) |
 | [***swc-minecraft-launcher***](apps/swc-minecraft-launcher.md) | *SWC Minecraft Launcher.*..[ find out more! ](apps/swc-minecraft-launcher.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/swc-minecraft-launcher) |
