@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1755** *Appimage packages and standalone applications*.
+#### *This database contains* **1756** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1539,7 +1539,10 @@
 | [***thunderbird-appimage***](apps/thunderbird-appimage.md) | *Mail client's Unofficial AppImage (Stable).*..[ find out more! ](apps/thunderbird-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/thunderbird-appimage) |
 | [***thunderbird-beta-appimage***](apps/thunderbird-beta-appimage.md) | *Mail client's Unofficial AppImage (Beta).*..[ find out more! ](apps/thunderbird-beta-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/thunderbird-beta-appimage) |
 | [***thunderbird-beta***](apps/thunderbird-beta.md) | *Free and open source eMail client (Beta Edition).*..[ find out more! ](apps/thunderbird-beta.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/thunderbird-beta) |
-| [***thunderbird***](apps/thunderbird.md) | *Free and open source eMail client (Stable).*..[ find out more! ](apps/thunderbird.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/thunderbird) |
+| [***thunderbird***](apps/thunderbird.md) | *Free and open source eMail client (Nightly Edition).
+Free and open source eMail client (Stable).*..[ find out more! ](apps/thunderbird.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/thunderbird) |
+| [***thunderbird***](apps/thunderbird.md) | *Free and open source eMail client (Nightly Edition).
+Free and open source eMail client (Stable).*..[ find out more! ](apps/thunderbird.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/thunderbird) |
 | [***thunderbird-nightly-appimage***](apps/thunderbird-nightly-appimage.md) | *Mail client's Unofficial AppImage (Nightly).*..[ find out more! ](apps/thunderbird-nightly-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/thunderbird-nightly-appimage) |
 | [***tidal-hifi-appimage***](apps/tidal-hifi-appimage.md) | *The web version of listen.tidal.com running in electron.*..[ find out more! ](apps/tidal-hifi-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/tidal-hifi-appimage) |
 | [***tilde-podcast***](apps/tilde-podcast.md) | *Podcast client to listen to all you favorite podcasts.*..[ find out more! ](apps/tilde-podcast.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/tilde-podcast) |
