@@ -4,6 +4,10 @@
 ## [*GO TO THE APPLICATION'S LIST*](https://portable-linux-apps.github.io/apps.html)
 --------
 
+
+
+--------
+
 - [What are the portable linux apps?](#what-are-the-portable-linux-apps)
 - [How is this site different from other sites that list AppImage packages?](#how-is-this-site-different-from-other-sites-that-list-appimage-packages)
 - [Is there a centralized repository for AppImage packages?](#is-there-a-centralized-repository-for-appimage-packages)
