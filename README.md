@@ -4,7 +4,7 @@
 ## [*GO TO THE APPLICATION'S LIST*](https://portable-linux-apps.github.io/apps.html)
 --------
 
-
+#### *This site lists* **1754** *Appimage packages and standalone applications*.
 
 --------
 
