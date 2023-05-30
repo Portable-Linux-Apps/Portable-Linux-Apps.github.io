@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1756** *Appimage packages and standalone applications*.
+#### *This database contains* **1758** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -178,9 +178,11 @@
 | [***brainwaves***](apps/brainwaves.md) | *EEG Desktop Application.*..[ find out more! ](apps/brainwaves.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/brainwaves) |
 | [***brave-appimage***](apps/brave-appimage.md) | *Unofficial AppImage (Web Browser, Stable).*..[ find out more! ](apps/brave-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/brave-appimage) |
 | [***brave***](apps/brave.md) | *A privacy oriented Web Browser based on Chromium (Stable).*..[ find out more! ](apps/brave.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/brave) |
+| [***brave-beta-appimage***](apps/brave-beta-appimage.md) | *Unofficial AppImage (Web Browser, Beta Edition).*..[ find out more! ](apps/brave-beta-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/brave-beta-appimage) |
 | [***brave-beta***](apps/brave-beta.md) | *A privacy oriented Web Browser (Beta Edition).*..[ find out more! ](apps/brave-beta.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/brave-beta) |
+| [***brave-dev-appimage***](apps/brave-dev-appimage.md) | *Unofficial AppImage (Web Browser, Developer Edition).*..[ find out more! ](apps/brave-dev-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/brave-dev-appimage) |
 | [***brave-dev***](apps/brave-dev.md) | *A privacy oriented Web Browser (Developer Edition).*..[ find out more! ](apps/brave-dev.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/brave-dev) |
-| [***brave-nightly-appimage***](apps/brave-nightly-appimage.md) | *Unofficial AppImage (Web Browser, Nightly).*..[ find out more! ](apps/brave-nightly-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/brave-nightly-appimage) |
+| [***brave-nightly-appimage***](apps/brave-nightly-appimage.md) | *Unofficial AppImage (Web Browser, Nightly Edition).*..[ find out more! ](apps/brave-nightly-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/brave-nightly-appimage) |
 | [***brave-nightly***](apps/brave-nightly.md) | *A privacy oriented Web Browser (Nightly Edition).*..[ find out more! ](apps/brave-nightly.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/brave-nightly) |
 | [***bread***](apps/bread.md) | *Install, update and remove AppImage from GitHub using your CLI.*..[ find out more! ](apps/bread.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/bread) |
 | [***breaktimer-appimage***](apps/breaktimer-appimage.md) | *Save yourself from RSI and eye-strain.*..[ find out more! ](apps/breaktimer-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/breaktimer-appimage) |
