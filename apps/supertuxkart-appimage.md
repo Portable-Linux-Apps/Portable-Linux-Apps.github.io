@@ -1,15 +1,16 @@
-# SUPERTUXKART
+# SUPERTUXKART-APPIMAGE
 
  SuperTuxKart is a free kart racing game. It focuses on fun and
  not on realistic kart physics. Instructions can be found on the
  in-game help page.
  
- This is the official version for x86, x86_64 and arm64.
+ This is the Unofficial AppImage for x86_64 I have built on top
+ of the official archive.
  
  ![Screenshot](https://upload.wikimedia.org/wikipedia/commons/4/4d/SuperTuxKart_0.8_screenshot.jpg)
 
- SITE: https://supertuxkart.net
- 
- SOURCE: https://github.com/supertuxkart/stk-code
+ SITE & SOURCE: https://supertuxkart.net
+
+ UNOFFICIAL APPIMAGE: https://github.com/ivan-hc/SuperTuxKart-appimage
 
  [Go back](https://portable-linux-apps.github.io/apps.html)
