@@ -1,7 +1,7 @@
 # PORTABLE LINUX APPS
 #### Welcome to the database of all AppImage packages and portable applications for GNU/Linux.
 -------
-## [*GO TO THE APPLICATION'S LIST*](https://portable-linux-apps.github.io/apps.html)
+## [*GO TO THE APPLICATION'S LIST*](apps.md)
 --------
 
 - [What are the portable linux apps?](#what-are-the-portable-linux-apps)
