@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1754** *Appimage packages and standalone applications*.
+#### *This database contains* **1755** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1555,6 +1555,7 @@
 | [***todorust***](apps/todorust.md) | *Simple ToDoList made in rust.*..[ find out more! ](apps/todorust.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/todorust) |
 | [***tomatox***](apps/tomatox.md) | *An online free VIP video analysis player (in chinese).*..[ find out more! ](apps/tomatox.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/tomatox) |
 | [***tonuino-toolbox***](apps/tonuino-toolbox.md) | *SD card manager for your Tonuino.*..[ find out more! ](apps/tonuino-toolbox.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/tonuino-toolbox) |
+| [***topgrade***](apps/topgrade.md) | *Upgrade all the things, this is the universal upgrade manager.*..[ find out more! ](apps/topgrade.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/topgrade) |
 | [***tor-browser***](apps/tor-browser.md) | *Privacy-oriented Web Browser for sites blocked in your country.*..[ find out more! ](apps/tor-browser.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/tor-browser) |
 | [***torrenttools***](apps/torrenttools.md) | *Cli tool to inspect/create/edit BitTorrent metafiles.*..[ find out more! ](apps/torrenttools.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/torrenttools) |
 | [***toughcookies***](apps/toughcookies.md) | *A modern flash cards study and management app.*..[ find out more! ](apps/toughcookies.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/toughcookies) |
