@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1758** *Appimage packages and standalone applications*.
+#### *This database contains* **1759** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -551,6 +551,7 @@
 | [***fromscratch***](apps/fromscratch.md) | *Simple autosaving scratchpad.*..[ find out more! ](apps/fromscratch.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/fromscratch) |
 | [***fspy***](apps/fspy.md) | *An open source, cross platform app for still image camera matching.*..[ find out more! ](apps/fspy.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/fspy) |
 | [***fukayo***](apps/fukayo.md) | *Manga reader.*..[ find out more! ](apps/fukayo.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/fukayo) |
+| [***gaiasky***](apps/gaiasky.md) | *Gaia Sky, a real-time 3D space simulator & astronomy visualisation.*..[ find out more! ](apps/gaiasky.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gaiasky) |
 | [***galacteek***](apps/galacteek.md) | *IPFS Multi-platform browser for the distributed web.*..[ find out more! ](apps/galacteek.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/galacteek) |
 | [***gamehub***](apps/gamehub.md) | *Unified library for all your games from different platforms.*..[ find out more! ](apps/gamehub.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gamehub) |
 | [***gams-studio***](apps/gams-studio.md) | *Development environment of General Algebraic Modeling System.*..[ find out more! ](apps/gams-studio.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gams-studio) |
