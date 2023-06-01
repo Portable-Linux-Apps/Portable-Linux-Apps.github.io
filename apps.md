@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1759** *Appimage packages and standalone applications*.
+#### *This database contains* **1760** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1611,6 +1611,7 @@
 | [***updatedeployqt***](apps/updatedeployqt.md) | *Tool to deploy auto update for qt applications.*..[ find out more! ](apps/updatedeployqt.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/updatedeployqt) |
 | [***upscayl-appimage***](apps/upscayl-appimage.md) | *Free and Open Source AI Image Upscaler.*..[ find out more! ](apps/upscayl-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/upscayl-appimage) |
 | [***upterm***](apps/upterm.md) | *A terminal emulator for the 21st century.*..[ find out more! ](apps/upterm.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/upterm) |
+| [***urbanterror***](apps/urbanterror.md) | *A team-based tactical game shooter based on the Quake 3 Engine.*..[ find out more! ](apps/urbanterror.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/urbanterror) |
 | [***utilso***](apps/utilso.md) | *Regex Tester, JWT Verify, Image Converter, Format JSON, Decode...*..[ find out more! ](apps/utilso.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/utilso) |
 | [***uyou***](apps/uyou.md) | *This is a todo list with electron.*..[ find out more! ](apps/uyou.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/uyou) |
 | [***v2ray-desktop***](apps/v2ray-desktop.md) | *V2Ray GUI client for Linux.*..[ find out more! ](apps/v2ray-desktop.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/v2ray-desktop) |
