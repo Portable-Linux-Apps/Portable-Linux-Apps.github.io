@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1763** *Appimage packages and standalone applications*.
+#### *This database contains* **1764** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -719,6 +719,7 @@
 | [***juggernaut***](apps/juggernaut.md) | *Decentralized messaging and payments.*..[ find out more! ](apps/juggernaut.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/juggernaut) |
 | [***julius***](apps/julius.md) | *An open source re-implementation of the Caesar III game.*..[ find out more! ](apps/julius.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/julius) |
 | [***jumpfm***](apps/jumpfm.md) | *A file manager that lets you jump.*..[ find out more! ](apps/jumpfm.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/jumpfm) |
+| [***junest***](apps/junest.md) | *Arch Linux based distro that runs rootless on any other Linux distro.*..[ find out more! ](apps/junest.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/junest) |
 | [***kade***](apps/kade.md) | *A desktop application for Q Methodology.*..[ find out more! ](apps/kade.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/kade) |
 | [***kage***](apps/kage.md) | *GUI for Metasploit Meterpreter and Session Handler.*..[ find out more! ](apps/kage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/kage) |
 | [***kaidan***](apps/kaidan.md) | *A QtQuick Jabber client.*..[ find out more! ](apps/kaidan.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/kaidan) |
