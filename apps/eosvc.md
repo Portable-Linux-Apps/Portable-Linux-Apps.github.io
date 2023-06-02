@@ -4,4 +4,5 @@
  
  SITE: https://github.com/bedrich-schindler/e-osvc
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

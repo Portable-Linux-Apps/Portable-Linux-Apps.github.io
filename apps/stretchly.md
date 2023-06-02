@@ -4,4 +4,5 @@
  you to take breaks when working on your computer.
 
  SITE: https://github.com/hovancik/stretchly
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

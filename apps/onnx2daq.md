@@ -4,4 +4,5 @@
  is for "daquexian's NNAPI library).
 
  SITE: https://github.com/JDAI-CV/DNNLibrary
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

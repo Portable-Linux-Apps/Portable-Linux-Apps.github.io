@@ -4,4 +4,5 @@
  
  SITE: https://github.com/sithlord48/blackchocobo
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

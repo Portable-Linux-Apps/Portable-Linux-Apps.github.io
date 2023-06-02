@@ -4,4 +4,5 @@
  
  SITE: https://github.com/lhy0403/Qv2ray
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

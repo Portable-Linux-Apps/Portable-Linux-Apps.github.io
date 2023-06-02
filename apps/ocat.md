@@ -1,4 +1,4 @@
-#OCAT
+# OCAT
 
  OpenCore Auxiliary Tools is a GUI-based Configurator for editing 
  config.plist files for Acidanthera's OpenCore Boot Manager.
@@ -7,4 +7,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/ocat-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

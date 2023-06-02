@@ -3,4 +3,5 @@
  A WeatherDump desktop GUI.
 
  SITE: https://github.com/luigifcruz/weatherdump-desktop
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

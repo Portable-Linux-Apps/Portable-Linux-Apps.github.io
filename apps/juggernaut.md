@@ -4,4 +4,5 @@
  
  SITE: https://github.com/LN-Juggernaut/juggernaut-desktop
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

@@ -1,4 +1,4 @@
-#WOOTOMATION
+# WOOTOMATION
 
  A macro application by Wooting. (AppImage version)
 
@@ -6,4 +6,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/wootomation-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

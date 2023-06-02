@@ -8,4 +8,5 @@
  	 https://github.com/elementary/sideload
  	 https://github.com/ivan-hc/Flatpak-installer-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

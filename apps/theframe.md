@@ -3,4 +3,5 @@
  theFrame is an Animation Tool.
 
  SITE: https://github.com/vicr123/theFrame
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

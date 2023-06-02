@@ -1,4 +1,4 @@
-#OUTLINE-CLIENT-WAYLAND
+# OUTLINE-CLIENT-WAYLAND
 
  The Outline clients use the popular Shadowsocks protocol, and lean on the 
  Cordova and Electron frameworks.
@@ -7,4 +7,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/outline-client-appimage-wayland
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

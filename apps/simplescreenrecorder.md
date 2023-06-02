@@ -10,4 +10,5 @@
  SITE: https://www.maartenbaert.be/simplescreenrecorder
 
  SOURCE: https://github.com/ivan-hc/Database-of-pkg2appimaged-packages
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

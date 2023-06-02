@@ -1,4 +1,4 @@
-#SIGMA-FILE-MANAGER
+# SIGMA-FILE-MANAGER
 
  A free, open-source, quickly evolving, modern file manager 
  (explorer / finder) app for Windows and Linux.
@@ -7,4 +7,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/sigma-file-manager-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

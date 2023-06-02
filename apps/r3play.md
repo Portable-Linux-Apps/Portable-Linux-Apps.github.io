@@ -1,4 +1,4 @@
-#R3PLAY
+# R3PLAY
 
  High-value third-party Netease cloud player (chinese).
  
@@ -8,4 +8,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/r3play-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

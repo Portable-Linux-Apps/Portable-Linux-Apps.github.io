@@ -1,4 +1,4 @@
-#WOLAI
+# WOLAI
 
  A new form of document/note/information system (in chinese).
  
@@ -8,4 +8,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/wolai-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

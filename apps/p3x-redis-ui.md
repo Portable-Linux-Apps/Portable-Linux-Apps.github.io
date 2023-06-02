@@ -1,4 +1,4 @@
-#P3X-REDIS-UI
+# P3X-REDIS-UI
 
  A very functional handy database GUI and works in your pocket on the 
  responsive web or as a desktop app.
@@ -7,4 +7,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/p3x-redis-ui-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

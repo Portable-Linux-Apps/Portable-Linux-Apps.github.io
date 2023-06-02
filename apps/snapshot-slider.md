@@ -4,4 +4,5 @@
  of modern mathematics from Oberwolfach.
 
  SITE: https://github.com/IMAGINARY/snapshot-slider
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

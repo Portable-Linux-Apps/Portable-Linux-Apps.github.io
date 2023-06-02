@@ -1,4 +1,4 @@
-#ZNOTE
+# ZNOTE
 
  A Beautiful markdown editor inspired by Jupyter.
 
@@ -6,4 +6,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/znote-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

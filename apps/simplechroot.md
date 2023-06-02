@@ -6,4 +6,5 @@
  - The ability to reinstall grub easily
 
  SITE: https://github.com/BobyMCbobs/simplechroot
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

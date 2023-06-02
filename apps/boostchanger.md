@@ -1,4 +1,4 @@
-#BOOSTCHANGER
+# BOOSTCHANGER
 
  With this app you can control CPU turbo boost and the settings of the 
  cpu speed in order to consuming less battery voltage on Linux.
@@ -7,4 +7,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/boostchanger-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

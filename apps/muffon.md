@@ -1,4 +1,4 @@
-#MUFFON
+# MUFFON
 
  Music streaming browser,retrieves audio, video and metadata from 
  various Internet sources.
@@ -7,4 +7,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/muffon-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

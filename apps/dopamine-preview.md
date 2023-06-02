@@ -1,4 +1,4 @@
-#DOPAMINE-PREVIEW
+# DOPAMINE-PREVIEW
 
  The audio player that keeps it simple.
 
@@ -6,4 +6,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/dopamine-appimage-preview
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

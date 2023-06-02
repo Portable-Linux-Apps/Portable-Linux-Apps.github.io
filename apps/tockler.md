@@ -1,4 +1,4 @@
-#TOCKLER
+# TOCKLER
 
  An application that tracks your time by monitoring your active window 
  title and idle time.
@@ -7,4 +7,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/tockler-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

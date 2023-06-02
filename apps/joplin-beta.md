@@ -1,4 +1,4 @@
-#JOPLIN-BETA
+# JOPLIN-BETA
 
  The latest beta AppImage of Joplin, a cross-platform note taking and to-do app.
 
@@ -6,4 +6,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/joplin-beta-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

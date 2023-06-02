@@ -5,4 +5,5 @@
  
  SITE: https://github.com/openpilot-community/workbench
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

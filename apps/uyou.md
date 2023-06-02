@@ -1,4 +1,4 @@
-#UYOU
+# UYOU
 
  This is a todo list with electron
 
@@ -6,4 +6,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/uyou-todo-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

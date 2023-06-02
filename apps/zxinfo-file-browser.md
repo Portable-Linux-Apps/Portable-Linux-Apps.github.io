@@ -1,4 +1,4 @@
-#ZXINFO-FILE-BROWSER
+# ZXINFO-FILE-BROWSER
 
  Organize and manage your emulator files for ZX Spectrum
  
@@ -8,4 +8,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/zxinfo-file-browser-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

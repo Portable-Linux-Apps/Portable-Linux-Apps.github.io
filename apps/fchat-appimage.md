@@ -4,4 +4,5 @@
  
  SITE: https://wiki.f-list.net/F-Chat_3.0/
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

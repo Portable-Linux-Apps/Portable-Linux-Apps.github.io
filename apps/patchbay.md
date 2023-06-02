@@ -4,4 +4,5 @@
  that is fully compatible with Patchwork.
 
  SITE: https://github.com/ssbc/patchbay
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

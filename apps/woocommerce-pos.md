@@ -1,4 +1,4 @@
-#WOOCOMMERCE-POS
+# WOOCOMMERCE-POS
 
  Electron Desktop App for WooCommerce POS
 
@@ -6,4 +6,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/woocommerce-pos-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

@@ -1,4 +1,4 @@
-#GAPHOR
+# GAPHOR
 
  Gaphor is a UML and SysML modeling application written in Python. It is 
  designed to be easy to use, while still being powerful. Gaphor implements 
@@ -10,4 +10,5 @@
 
  SITE: https://github.com/gaphor/gaphor
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

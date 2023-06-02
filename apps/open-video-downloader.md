@@ -1,4 +1,4 @@
-#OPEN-VIDEO-DOWNLOADER
+# OPEN-VIDEO-DOWNLOADER
 
  A cross-platform GUI for youtube-dl made in Electron and node.js
 
@@ -6,4 +6,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/open-video-downloader-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

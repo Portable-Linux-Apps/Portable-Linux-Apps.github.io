@@ -4,4 +4,5 @@
  
  SITE: https://github.com/develar/onshape-desktop-shell
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

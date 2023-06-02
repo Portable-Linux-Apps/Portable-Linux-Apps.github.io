@@ -8,4 +8,5 @@
  they have uploaded from that device.
 
  SITE: https://github.com/rBurgett/simple-uploader
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

@@ -9,4 +9,5 @@
  
  SITE: https://github.com/buddhi1980/mandelbulber2
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

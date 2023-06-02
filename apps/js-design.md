@@ -1,4 +1,4 @@
-#JS-DESIGN
+# JS-DESIGN
 
  A professional UI design software tailored for Chinese designers.
 
@@ -6,4 +6,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/js-design-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

@@ -1,4 +1,4 @@
-#EUDIC-TING
+# EUDIC-TING
 
  Chinese app to learn english (listen statistics/note synch...).
  
@@ -8,4 +8,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/eudic-ting-en-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

@@ -4,4 +4,5 @@
  specifications in your own natural language.
 
  SITE: https://github.com/tastee/tastee-ui
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

@@ -4,4 +4,5 @@
  the Dark Sky API.
 
  SITE: https://github.com/tgrowden/nimbus-weather
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

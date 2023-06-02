@@ -1,4 +1,4 @@
-#FEIDAO
+# FEIDAO
  
  Feidao Online Course Design Platform.
  
@@ -8,4 +8,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/feidao-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

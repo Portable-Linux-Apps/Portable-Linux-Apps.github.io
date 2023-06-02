@@ -1,4 +1,4 @@
-#LINUXQQ
+# LINUXQQ
 
  New Linux QQ based on Electron.
 
@@ -6,4 +6,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/linuxqq-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

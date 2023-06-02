@@ -1,4 +1,4 @@
-#SWIFTY
+# SWIFTY
 
  Free Offline-first Password Manager for MacOS, Windows and Linux.
 
@@ -6,4 +6,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/swifty-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

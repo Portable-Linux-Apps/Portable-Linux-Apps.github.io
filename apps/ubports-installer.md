@@ -1,4 +1,4 @@
-#UBPORTS-INSTALLER
+# UBPORTS-INSTALLER
 
  A simple tool to install Ubuntu Touch on UBports devices.
 
@@ -6,4 +6,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/ubports-installer-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

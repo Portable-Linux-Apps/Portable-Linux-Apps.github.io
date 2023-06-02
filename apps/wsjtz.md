@@ -1,4 +1,4 @@
-#WSJTZ
+# WSJTZ
 
  AppImage of WSJT-Z – fork of WSJT-X with automation features.
 
@@ -6,4 +6,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/wsjtz-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

@@ -1,4 +1,4 @@
-#WEBKITTY
+# WEBKITTY
 
  Local web development IDE
 
@@ -6,4 +6,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/webkitty-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

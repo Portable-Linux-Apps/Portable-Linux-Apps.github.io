@@ -3,4 +3,5 @@
  Stash - The friendly secret storage made for teams.
 
  SITE: https://github.com/Doccrazy/stash-electron
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

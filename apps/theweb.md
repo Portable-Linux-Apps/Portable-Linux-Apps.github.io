@@ -3,4 +3,5 @@
  theWeb - A simple Web Browser.
 
  SITE: https://github.com/vicr123/theweb
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

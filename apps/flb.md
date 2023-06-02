@@ -1,4 +1,4 @@
-#FLB
+# FLB
 
  A beautiful Feature Rich Music Player and Downloader,cross platform.
 
@@ -6,4 +6,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/flb-music-player-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

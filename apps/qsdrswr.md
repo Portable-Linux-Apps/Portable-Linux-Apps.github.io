@@ -3,4 +3,5 @@
  Qt SWR analyser using an SDR and soapy_power.
 
  SITE: https://github.com/PTDreamer/qSdrSwr
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

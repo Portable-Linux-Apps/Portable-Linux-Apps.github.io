@@ -1,4 +1,4 @@
-#FLARE
+# FLARE
 
  Flare is a single-player 2D action RPG with fast-paced action and a dark 
  fantasy style.
@@ -15,4 +15,5 @@
 
  SITE: https://github.com/flareteam/flare-game
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

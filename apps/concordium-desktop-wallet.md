@@ -4,4 +4,5 @@
  
  SITE: https://www.concordium.com/desktop-wallets
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

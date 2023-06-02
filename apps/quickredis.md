@@ -8,4 +8,5 @@
  
  SITE: https://github.com/quick123official/quick_redis_blog
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

@@ -30,4 +30,5 @@
 
  SOURCE: https://github.com/sudo-give-me-coffee/wine32-deploy
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

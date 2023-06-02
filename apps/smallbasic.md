@@ -9,4 +9,5 @@
  
  SITE: https://github.com/smallbasic/SmallBASIC
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

@@ -1,4 +1,4 @@
-#UNOFFICAL-XIAOHONGSHU
+# UNOFFICAL-XIAOHONGSHU
 
  Unoffical xiaohongshu Appimage Client.
  
@@ -8,4 +8,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/unoffical-xiaohongshu-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

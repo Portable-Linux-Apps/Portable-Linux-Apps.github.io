@@ -1,4 +1,4 @@
-#SUBTITLER
+# SUBTITLER
 
  Quickly download subtitles.
 
@@ -6,4 +6,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/subtitler-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

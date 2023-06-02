@@ -1,4 +1,4 @@
-#PODMAN-DESKTOP-COMPANION
+# PODMAN-DESKTOP-COMPANION
 
  Cross-platform desktop integrated application with consistent UI,Learning tool 
  for the powerful podman command line interface.
@@ -7,4 +7,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/podman-desktop-companion-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

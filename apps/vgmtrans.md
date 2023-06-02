@@ -1,4 +1,4 @@
-#VGMTRANS
+# VGMTRANS
 
  A tool to convert proprietary, sequenced videogame music 
  to industry-standard formats.
@@ -7,4 +7,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/vgmtrans-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

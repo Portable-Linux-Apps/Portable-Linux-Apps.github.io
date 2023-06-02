@@ -9,4 +9,5 @@
 
  SOURCE: https://github.com/th-ch/youtube-music
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

@@ -1,4 +1,4 @@
-#UNOFFICAL-MICROSOFT-LOOP
+# UNOFFICAL-MICROSOFT-LOOP
 
  Unoffical Microsoft Loop Appimage Client.Microsoft Loop is about 
  people—people who want to create together with ease, no matter 
@@ -8,4 +8,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/unoffical-microsoft-loop-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

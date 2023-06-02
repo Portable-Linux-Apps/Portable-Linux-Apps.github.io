@@ -1,4 +1,4 @@
-#WEEKTODO
+# WEEKTODO
 
  WeekToDo is a Free and Open Source Weekly Planner. Stop prioritizing 
  what's on your schedule and start scheduling your priorities.
@@ -7,4 +7,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/weektodo-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

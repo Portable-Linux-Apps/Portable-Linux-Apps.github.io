@@ -1,4 +1,4 @@
-#QRADIOLINK
+# QRADIOLINK
 
  Multimode SDR transceiver for GNU radio.
 
@@ -6,4 +6,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/qradiolink-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

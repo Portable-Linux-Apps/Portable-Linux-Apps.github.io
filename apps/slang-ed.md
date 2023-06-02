@@ -8,4 +8,5 @@
  Angular. Allows the edition of JSON translation files. 
 
  SITE: https://github.com/jrierab/slang-ed
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

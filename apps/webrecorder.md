@@ -1,4 +1,4 @@
-#WEBRECORDER
+# WEBRECORDER
 
  The Webrecorder Desktop App is a complete packaging of Webrecorder 
  hosted service as an Electron application, with an integrated Chromium 
@@ -8,4 +8,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/webrecorder-desktop-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

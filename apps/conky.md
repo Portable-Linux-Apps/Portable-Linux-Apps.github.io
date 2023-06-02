@@ -28,4 +28,5 @@
  SITE: https://github.com/brndnmtthws/conky
  WIKI: https://github.com/brndnmtthws/conky/wiki
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

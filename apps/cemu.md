@@ -1,4 +1,4 @@
-#CEMU
+# CEMU
 
  Cemu, a Wii U emulator that is able to run most Wii U games and homebrew in a 
  playable state. It's written in C/C++ and is being actively developed with 
@@ -8,4 +8,5 @@
 
  SITE: https://github.com/cemu-project/Cemu
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

@@ -7,4 +7,5 @@
  This is the version 0.9.13
 
  SITE: https://github.com/martinrotter/textosaurus
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

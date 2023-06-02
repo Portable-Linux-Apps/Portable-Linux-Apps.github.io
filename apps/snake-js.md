@@ -4,4 +4,5 @@
  for controllers. (SNES/PS/XBOX) 
 
  SITE: https://github.com/aenany/snake.js
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

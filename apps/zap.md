@@ -19,4 +19,5 @@
  APPIMAGE CATALOG AT: https://appimage.github.io
  APPIMAGE CATALOG "v2" AT: https://g.srev.in/get-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

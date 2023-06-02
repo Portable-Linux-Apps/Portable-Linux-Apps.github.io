@@ -5,4 +5,5 @@
  SITE: https://github.com/AppImage/pkg2appimage
  FORK (32 bit): https://github.com/ivan-hc/pkg2appimage-32bit
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

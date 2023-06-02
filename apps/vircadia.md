@@ -1,4 +1,4 @@
-#VIRCADIA
+# VIRCADIA
 
  An open-source 3D interface and server foundation that allows 
  for vast social, educational platforms to be created and lived 
@@ -8,4 +8,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/vircadia-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

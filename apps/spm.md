@@ -5,4 +5,5 @@
  the releases page to get information about packages.
 
  SITE: https://github.com/simoniz0r/spm
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

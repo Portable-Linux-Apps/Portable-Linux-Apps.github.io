@@ -1,4 +1,4 @@
-#DROPPOINT
+# DROPPOINT
 
  Make drag-and-drop easier using DropPoint. Drag content without having 
  to open side-by-side windows.
@@ -7,4 +7,5 @@
 
  SOURCE: https://aur.archlinux.org/packages/droppoint-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

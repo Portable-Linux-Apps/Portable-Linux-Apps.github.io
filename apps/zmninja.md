@@ -5,4 +5,5 @@
  using ZoneMinder.
 
  SITE: http://pliablepixels.github.io
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |
