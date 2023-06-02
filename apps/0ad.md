@@ -14,4 +14,5 @@
 
  SOURCE: https://github.com/0ad-matters/0ad-appimage
 
- [Go back](https://portable-linux-apps.github.io/apps.html)
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |
