@@ -1,7 +1,0 @@
-# BETTERSIS
-
- The modern shell for SIS (the circuit simulator and optimizer)
- 
- SITE: https://github.com/mario33881/betterSIS
-
- [Go back](https://portable-linux-apps.github.io/apps.html)
