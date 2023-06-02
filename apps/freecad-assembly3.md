@@ -1,4 +1,4 @@
-#FREECAD-ASSEMGLY3
+# FREECAD-ASSEMBLY3
 
  Assembly3 workbench for FreeCAD.
 
