@@ -11,6 +11,7 @@
  
  SITE: https://apps.kde.org/kwave
 
- SOURCE: https://packages.debian.org/stable/kwave
+ SOURCE: https://github.com/ivan-hc/Database-of-pkg2appimaged-packages
+ 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -10,7 +10,7 @@
  
  SITE: https://sourceforge.net/projects/extremetuxracer
 
- SOURCE: https://packages.debian.org/stable/extremetuxracer
+ SOURCE: https://github.com/ivan-hc/Database-of-pkg2appimaged-packages
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
