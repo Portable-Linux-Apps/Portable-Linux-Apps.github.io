@@ -2,7 +2,7 @@
 
  A template editor for Thinreports to edit Section Format templates.
 
- SITE: https://github.com/thinreports/thinreports
+ SITE: https://github.com/thinreports/thinreports-section-editor/
 
  SOURCE: https://aur.archlinux.org/packages/thinreports-section-editor-appimage
 

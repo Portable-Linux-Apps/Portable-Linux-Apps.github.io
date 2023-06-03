@@ -2,7 +2,7 @@
  
  Download video streams.
  
- SITE: https://www.videohelp.com
+ SITE: https://gitlab.com/posktomten/streamcapture2
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

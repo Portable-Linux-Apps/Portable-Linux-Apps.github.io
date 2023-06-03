@@ -2,7 +2,7 @@
 
  A knowledge management tool.
 
- SITE: https://structure.love/
+ SITE: https://github.com/neopostmodern/structure
 
  SOURCE: https://aur.archlinux.org/packages/structure-appimage
 

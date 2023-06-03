@@ -2,7 +2,7 @@
 
  Simple notepad calculator built on Electron, powered by Math.js
 
- SITE: https://numara.io/
+ SITE: https://github.com/bornova/numara-calculator
 
  SOURCE: https://aur.archlinux.org/packages/numara-appimage
 

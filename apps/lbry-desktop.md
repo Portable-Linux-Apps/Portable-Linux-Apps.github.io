@@ -3,7 +3,7 @@
  A browser and wallet for LBRY, the decentralized, user-controlled 
  content marketplace.
 
- SITE: https://lbry.tech/
+ SITE: https://lbry.com/
 
  SOURCE: https://aur.archlinux.org/packages/lbry-desktop-appimage
 

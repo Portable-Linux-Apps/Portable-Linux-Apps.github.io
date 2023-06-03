@@ -2,7 +2,7 @@
 
  NoFWL Desktop Application.
 
- SITE: https://nofwl.com/
+ SITE: https://github.com/lencx/nofwl 
 
  SOURCE: https://aur.archlinux.org/packages/no-fwl-appimage
 

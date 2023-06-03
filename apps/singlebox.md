@@ -2,7 +2,7 @@
  
  AppView template for WebCatalog
  
- SITE: https://github.com/atomery/singlebox
+ SITE: https://singlebox.app
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
