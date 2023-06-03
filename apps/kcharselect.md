@@ -12,6 +12,7 @@
  
  SITE: https://apps.kde.org
 
- SOURCE: https://packages.debian.org/stable/kdeutils
+ SOURCE: https://github.com/ivan-hc/KDE-utils-appimage
+ 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

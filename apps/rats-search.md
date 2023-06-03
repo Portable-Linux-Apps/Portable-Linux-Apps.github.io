@@ -5,5 +5,5 @@
  
  SITE: https://github.com/DEgITx/rats-search
 
-[Go back](https://portable-linux-apps.github.io/apps.html)
+ [Go back](https://portable-linux-apps.github.io/apps.html)
 
