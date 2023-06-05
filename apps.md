@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1741** *Appimage packages and standalone applications*.
+#### *This database contains* **1742** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -333,6 +333,7 @@
 | [***czkawka***](apps/czkawka.md) | *App to find duplicates, empty folders, similar images etc.*..[ find out more! ](apps/czkawka.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/czkawka) |
 | [***dana***](apps/dana.md) | *A desktop client for the Dana learning box.*..[ find out more! ](apps/dana.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dana) |
 | [***dashy-app***](apps/dashy-app.md) | *Dashboard creation application.*..[ find out more! ](apps/dashy-app.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dashy-app) |
+| [***database-dossier***](apps/database-dossier.md) | *A User Interface for your databases.*..[ find out more! ](apps/database-dossier.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/database-dossier) |
 | [***dataset-annotator***](apps/dataset-annotator.md) | *An annotation tool for a dataset.*..[ find out more! ](apps/dataset-annotator.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dataset-annotator) |
 | [***datcord***](apps/datcord.md) | *Discord client.*..[ find out more! ](apps/datcord.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/datcord) |
 | [***dawnlightsearch***](apps/dawnlightsearch.md) | *A Linux version of Everything Search Engine.*..[ find out more! ](apps/dawnlightsearch.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dawnlightsearch) |
