@@ -7,13 +7,14 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1760** *Appimage packages and standalone applications*.
+#### *This database contains* **1773** *Appimage packages and standalone applications*.
 
 -----------------
 
 | COMMAND | DESCRIPTION  | INSTALLATION |
 | --- | --- | --- |
 | [***0ad***](apps/0ad.md) | *FOSS historical Real Time Strategy (RTS) game of ancient warfare.*..[ find out more! ](apps/0ad.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/0ad) |
+| [***3d-puzzles***](apps/3d-puzzles.md) | *3D-Puzzles are Rubik, Dogic and Dogic12.*..[ find out more! ](apps/3d-puzzles.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/3d-puzzles) |
 | [***432hz-player***](apps/432hz-player.md) | *Because most music is recorded in 440hz (Audio Player).*..[ find out more! ](apps/432hz-player.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/432hz-player) |
 | [***86box***](apps/86box.md) | *Emulator of x86-based machines based on PCem.*..[ find out more! ](apps/86box.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/86box) |
 | [***aaaaxy***](apps/aaaaxy.md) | *A nonlinear puzzle platformer (game).*..[ find out more! ](apps/aaaaxy.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/aaaaxy) |
@@ -132,6 +133,7 @@
 | [***bilibilivideodownload***](apps/bilibilivideodownload.md) | *Bilibili video downloader.*..[ find out more! ](apps/bilibilivideodownload.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/bilibilivideodownload) |
 | [***biliup-app-appimage***](apps/biliup-app-appimage.md) | *Bilibili uploader.*..[ find out more! ](apps/biliup-app-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/biliup-app-appimage) |
 | [***billard-gl***](apps/billard-gl.md) | *3D billiards game, play a game of 8-ball or 9-ball.*..[ find out more! ](apps/billard-gl.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/billard-gl) |
+| [***bingada***](apps/bingada.md) | *Bingo application in GTKAda.*..[ find out more! ](apps/bingada.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/bingada) |
 | [***bioanimation***](apps/bioanimation.md) | *CCNY Electrochemical Gradient Simulator.*..[ find out more! ](apps/bioanimation.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/bioanimation) |
 | [***birds-kitchen***](apps/birds-kitchen.md) | *Recipe manager.*..[ find out more! ](apps/birds-kitchen.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/birds-kitchen) |
 | [***bitbox-wallet***](apps/bitbox-wallet.md) | *Cryptocurrency hardware wallet desktop app.*..[ find out more! ](apps/bitbox-wallet.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/bitbox-wallet) |
@@ -349,6 +351,7 @@
 | [***dedop-studio***](apps/dedop-studio.md) | *DeDop Studio*..[ find out more! ](apps/dedop-studio.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dedop-studio) |
 | [***deemix-gui-appimage***](apps/deemix-gui-appimage.md) | *A gui electron app for the deemix lib.*..[ find out more! ](apps/deemix-gui-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/deemix-gui-appimage) |
 | [***deeptags***](apps/deeptags.md) | *Markdown notes manager with support for nested tags.*..[ find out more! ](apps/deeptags.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/deeptags) |
+| [***deerportal***](apps/deerportal.md) | *Full of the diamonds board game. *..[ find out more! ](apps/deerportal.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/deerportal) |
 | [***deezer***](apps/deezer.md) | *A linux port of Deezer, allows downloading your songs (music).*..[ find out more! ](apps/deezer.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/deezer) |
 | [***defichain-app***](apps/defichain-app.md) | *DefiChain Wallet AppImage.*..[ find out more! ](apps/defichain-app.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/defichain-app) |
 | [***delir***](apps/delir.md) | *Web Technology driven VFX Application.*..[ find out more! ](apps/delir.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/delir) |
@@ -524,6 +527,7 @@
 | [***flb***](apps/flb.md) | *A beautiful Feature Rich Music Player and Downloader,cross platform.*..[ find out more! ](apps/flb.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/flb) |
 | [***flexvdi-client-appimage***](apps/flexvdi-client-appimage.md) | *Client for connecting to flexVDI desktops.*..[ find out more! ](apps/flexvdi-client-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/flexvdi-client-appimage) |
 | [***flightgear-airports***](apps/flightgear-airports.md) | *A software to design Flightgear groundnets.*..[ find out more! ](apps/flightgear-airports.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/flightgear-airports) |
+| [***flightgear***](apps/flightgear.md) | *Free, open source flight simulator developed since 1997.*..[ find out more! ](apps/flightgear.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/flightgear) |
 | [***flippy-qualitative-testbench***](apps/flippy-qualitative-testbench.md) | *Music sheet reader.*..[ find out more! ](apps/flippy-qualitative-testbench.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/flippy-qualitative-testbench) |
 | [***fluent-reader***](apps/fluent-reader.md) | *Modern desktop RSS reader.*..[ find out more! ](apps/fluent-reader.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/fluent-reader) |
 | [***flycast***](apps/flycast.md) | *A Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator.*..[ find out more! ](apps/flycast.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/flycast) |
@@ -569,6 +573,7 @@
 | [***geeqie***](apps/geeqie.md) | *Claiming to be the best image viewer / photo collection browser.*..[ find out more! ](apps/geeqie.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/geeqie) |
 | [***geforcenow-electron***](apps/geforcenow-electron.md) | *Desktop client for Nvidia GeForce NOW game streaming.*..[ find out more! ](apps/geforcenow-electron.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/geforcenow-electron) |
 | [***genesis***](apps/genesis.md) | *Open source blockchain platform.*..[ find out more! ](apps/genesis.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/genesis) |
+| [***geofs***](apps/geofs.md) | *GeoFS flight sim as a desktop application.*..[ find out more! ](apps/geofs.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/geofs) |
 | [***geometrize***](apps/geometrize.md) | *Images to shapes converter (graphics).*..[ find out more! ](apps/geometrize.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/geometrize) |
 | [***gerbv***](apps/gerbv.md) | *Gerber file viewer for PCB design.*..[ find out more! ](apps/gerbv.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gerbv) |
 | [***getthermal***](apps/getthermal.md) | *Cross-platform Thermal Camera Viewer.*..[ find out more! ](apps/getthermal.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/getthermal) |
@@ -652,6 +657,7 @@
 | [***htmldoc***](apps/htmldoc.md) | *HTML & Markdown Conversion Software to output PostScript and PDF.*..[ find out more! ](apps/htmldoc.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/htmldoc) |
 | [***httpie-desktop-appimage***](apps/httpie-desktop-appimage.md) | *HTTPie for Desktop.*..[ find out more! ](apps/httpie-desktop-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/httpie-desktop-appimage) |
 | [***hugin***](apps/hugin.md) | *Stitch photographs together.*..[ find out more! ](apps/hugin.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/hugin) |
+| [***hugor***](apps/hugor.md) | *A cross-platform, multimedia interpreter for Hugo adventure games.*..[ find out more! ](apps/hugor.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/hugor) |
 | [***huwinterpreter***](apps/huwinterpreter.md) | *HuwCode interpreter.*..[ find out more! ](apps/huwinterpreter.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/huwinterpreter) |
 | [***hw-probe***](apps/hw-probe.md) | *Probe for hardware and upload result to the Linux hdw database.*..[ find out more! ](apps/hw-probe.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/hw-probe) |
 | [***hyper***](apps/hyper.md) | *A terminal built on web technologies.*..[ find out more! ](apps/hyper.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/hyper) |
@@ -920,6 +926,7 @@
 | [***minetest***](apps/minetest.md) | *Multiplayer infinite-world block sandbox.*..[ find out more! ](apps/minetest.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/minetest) |
 | [***minetime***](apps/minetime.md) | *Smart scheduling assistant.*..[ find out more! ](apps/minetime.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/minetime) |
 | [***mini-diary***](apps/mini-diary.md) | *Simple and secure journal app.*..[ find out more! ](apps/mini-diary.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mini-diary) |
+| [***minififa***](apps/minififa.md) | *OpenGL-powered third-person football (soccer) game.*..[ find out more! ](apps/minififa.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/minififa) |
 | [***minimal-podcasts-player***](apps/minimal-podcasts-player.md) | *Subscribe, listen and download your podcasts.*..[ find out more! ](apps/minimal-podcasts-player.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/minimal-podcasts-player) |
 | [***minions***](apps/minions.md) | *A productive tool inspired by LaunchBar in macOS.*..[ find out more! ](apps/minions.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/minions) |
 | [***mini-qml***](apps/mini-qml.md) | *Minimal Qt deployment for Linux, Windows, macOS and WebAssembly.*..[ find out more! ](apps/mini-qml.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mini-qml) |
@@ -954,6 +961,7 @@
 | [***motrix***](apps/motrix.md) | *A full-featured download manager.*..[ find out more! ](apps/motrix.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/motrix) |
 | [***movie-monad***](apps/movie-monad.md) | *Free and simple to use video player made with Haskell.*..[ find out more! ](apps/movie-monad.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/movie-monad) |
 | [***moyu***](apps/moyu.md) | *An online collaborative api interface management tool.*..[ find out more! ](apps/moyu.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/moyu) |
+| [***mozaic***](apps/mozaic.md) | *Massive Online Zeus Artificial Intelligence Competition platform.*..[ find out more! ](apps/mozaic.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mozaic) |
 | [***mp3-tagger-appimage***](apps/mp3-tagger-appimage.md) | *An Electron app to edit metadata of mp3 files.*..[ find out more! ](apps/mp3-tagger-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mp3-tagger-appimage) |
 | [***mpv-0.29***](apps/mpv-0.29.md) | *A free, open source, and cross-platform media player (LIBC 2.28+).*..[ find out more! ](apps/mpv-0.29.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mpv-0.29) |
 | [***mpv-0.32***](apps/mpv-0.32.md) | *A free, open source, and cross-platform media player (LIBC 2.31+).*..[ find out more! ](apps/mpv-0.32.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mpv-0.32) |
@@ -972,7 +980,8 @@
 | [***musescore***](apps/musescore.md) | *An open source and free music notation software.*..[ find out more! ](apps/musescore.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/musescore) |
 | [***musicalypse***](apps/musicalypse.md) | *Audio/Music player and server built with Web technologies.*..[ find out more! ](apps/musicalypse.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/musicalypse) |
 | [***music-blocks***](apps/music-blocks.md) | *.Exploring Math, Music, and Programming.*..[ find out more! ](apps/music-blocks.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/music-blocks) |
-| [***music-kitten-appimage***](apps/music-kitten-appimage.md) | *Use your own soundtrack in Counter-Strike.*..[ find out more! ](apps/music-kitten-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/music-kitten-appimage) |
+| [***music-kitten***](apps/music-kitten.md) | *Use your own soundtrack in Counter-Strike.*..[ find out more! ](apps/music-kitten.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/music-kitten) |
+| [***music-quiz***](apps/music-quiz.md) | *Jepardy like game, guess as many songs as possible.*..[ find out more! ](apps/music-quiz.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/music-quiz) |
 | [***mutool***](apps/mutool.md) | *All purpose tool for dealing with PDF files.*..[ find out more! ](apps/mutool.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mutool) |
 | [***muwire***](apps/muwire.md) | *A file sharing client for I2P.*..[ find out more! ](apps/muwire.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/muwire) |
 | [***mybelka***](apps/mybelka.md) | *Accounting system written in C++ with QTCore.*..[ find out more! ](apps/mybelka.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mybelka) |
@@ -1174,6 +1183,7 @@
 | [***podman-desktop-companion***](apps/podman-desktop-companion.md) | *Podman command line interface.*..[ find out more! ](apps/podman-desktop-companion.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/podman-desktop-companion) |
 | [***poe-ladder***](apps/poe-ladder.md) | *Path of Exile ladder viewer.*..[ find out more! ](apps/poe-ladder.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/poe-ladder) |
 | [***poi-appimage***](apps/poi-appimage.md) | *Scalable KanColle browser and tool.*..[ find out more! ](apps/poi-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/poi-appimage) |
+| [***pokete***](apps/pokete.md) | *A terminal based Pokemon like game.*..[ find out more! ](apps/pokete.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/pokete) |
 | [***polar-bookshelf***](apps/polar-bookshelf.md) | *Personal knowledge repository for PDF and web content.*..[ find out more! ](apps/polar-bookshelf.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/polar-bookshelf) |
 | [***polar***](apps/polar.md) | *One-click Bitcoin Lightning networks for local app development.*..[ find out more! ](apps/polar.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/polar) |
 | [***polkakey***](apps/polkakey.md) | *A secure way to generate Polkadot/Kusama/Edgeware address.*..[ find out more! ](apps/polkakey.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/polkakey) |
@@ -1254,6 +1264,7 @@
 | [***qr-code-generator***](apps/qr-code-generator.md) | *Create custom QR Codes, resize, save them as PNG image.*..[ find out more! ](apps/qr-code-generator.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/qr-code-generator) |
 | [***qrop***](apps/qrop.md) | *Crop planning and recordkeeping software.*..[ find out more! ](apps/qrop.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/qrop) |
 | [***qsdrswr***](apps/qsdrswr.md) | *Qt SWR analyser using an SDR and soapy_power.*..[ find out more! ](apps/qsdrswr.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/qsdrswr) |
+| [***qtads***](apps/qtads.md) | *A cross-platform, multimedia interpreter for TADS adventure games.*..[ find out more! ](apps/qtads.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/qtads) |
 | [***qtalarm***](apps/qtalarm.md) | *Alarm clock for Computers.*..[ find out more! ](apps/qtalarm.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/qtalarm) |
 | [***qtchan***](apps/qtchan.md) | *4chan browser in qt5.*..[ find out more! ](apps/qtchan.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/qtchan) |
 | [***qt-dab***](apps/qt-dab.md) | *Listening to terrestrial Digital Audio Broadcasting.*..[ find out more! ](apps/qt-dab.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/qt-dab) |
@@ -1337,6 +1348,7 @@
 | [***sblauncher***](apps/sblauncher.md) | *Minecraft Launcher.*..[ find out more! ](apps/sblauncher.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/sblauncher) |
 | [***scatter***](apps/scatter.md) | *Scatter desktop signature server.*..[ find out more! ](apps/scatter.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/scatter) |
 | [***scavengers***](apps/scavengers.md) | *Unity Roguelike tutorial (game).*..[ find out more! ](apps/scavengers.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/scavengers) |
+| [***sc-controller***](apps/sc-controller.md) | *User-mode driver and GTK3 based GUI for Steam Controller.*..[ find out more! ](apps/sc-controller.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/sc-controller) |
 | [***schildichat***](apps/schildichat.md) | *A Matrix Client.*..[ find out more! ](apps/schildichat.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/schildichat) |
 | [***school-sections***](apps/school-sections.md) | *This project was generated with Angular CLI v1.7.4.*..[ find out more! ](apps/school-sections.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/school-sections) |
 | [***sciencefair***](apps/sciencefair.md) | *Desktop science reading app for Linux.*..[ find out more! ](apps/sciencefair.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/sciencefair) |
@@ -1536,6 +1548,7 @@
 | [***thief***](apps/thief.md) | *An innovative cross-platform fishing tool (in chinese).*..[ find out more! ](apps/thief.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/thief) |
 | [***thinktool-desktop***](apps/thinktool-desktop.md) | *Desktop application for Thinktool.*..[ find out more! ](apps/thinktool-desktop.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/thinktool-desktop) |
 | [***thinreports-section-editor***](apps/thinreports-section-editor.md) | *A template editor for Thinreports.*..[ find out more! ](apps/thinreports-section-editor.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/thinreports-section-editor) |
+| [***thlink***](apps/thlink.md) | *Touhou Project Game Netplay Tool.*..[ find out more! ](apps/thlink.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/thlink) |
 | [***thoptv-appimage***](apps/thoptv-appimage.md) | *Enjoy Ultimate Movies, sports Matches, IPL and Latest Shows.*..[ find out more! ](apps/thoptv-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/thoptv-appimage) |
 | [***thorium-client***](apps/thorium-client.md) | *A locked-down electron kiosk for Thorium.*..[ find out more! ](apps/thorium-client.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/thorium-client) |
 | [***thorium-reader***](apps/thorium-reader.md) | *Desktop application to read ebooks.*..[ find out more! ](apps/thorium-reader.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/thorium-reader) |
