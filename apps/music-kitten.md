@@ -1,4 +1,4 @@
-# MUSIC-KITTEN-APPIMAGE
+# MUSIC-KITTEN
  
  Use your own soundtrack in Counter-Strike: Global Offensive.
  
