@@ -1,6 +1,6 @@
-# PODMAN
+# PODMAN-APPIMAGE
  
- AppImage of podman
+ AppImage of podman.
  
  SITE: https://github.com/popsUlfr/podman-appimage
 
