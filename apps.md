@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1773** *Appimage packages and standalone applications*.
+#### *This database contains* **1774** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1179,8 +1179,9 @@
 | [***pocket-browser***](apps/pocket-browser.md) | *A FOSS browser made for privacy and going towards security.*..[ find out more! ](apps/pocket-browser.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/pocket-browser) |
 | [***pocketcasts-electron***](apps/pocketcasts-electron.md) | *Pocket Casts wrapper with mapped media keys.*..[ find out more! ](apps/pocketcasts-electron.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/pocketcasts-electron) |
 | [***poddr***](apps/poddr.md) | *Podcast client that uses iTunes RSS feeds and Search API.*..[ find out more! ](apps/poddr.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/poddr) |
-| [***podman***](apps/podman.md) | *AppImage of podman.*..[ find out more! ](apps/podman.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/podman) |
+| [***podman-appimage***](apps/podman-appimage.md) | *AppImage of podman.*..[ find out more! ](apps/podman-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/podman-appimage) |
 | [***podman-desktop-companion***](apps/podman-desktop-companion.md) | *Podman command line interface.*..[ find out more! ](apps/podman-desktop-companion.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/podman-desktop-companion) |
+| [***podman***](apps/podman.md) | *Free & open source tool to manage containers, pods, and images.*..[ find out more! ](apps/podman.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/podman) |
 | [***poe-ladder***](apps/poe-ladder.md) | *Path of Exile ladder viewer.*..[ find out more! ](apps/poe-ladder.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/poe-ladder) |
 | [***poi-appimage***](apps/poi-appimage.md) | *Scalable KanColle browser and tool.*..[ find out more! ](apps/poi-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/poi-appimage) |
 | [***pokete***](apps/pokete.md) | *A terminal based Pokemon like game.*..[ find out more! ](apps/pokete.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/pokete) |
