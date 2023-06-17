@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1774** *Appimage packages and standalone applications*.
+#### *This database contains* **1775** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -351,7 +351,7 @@
 | [***dedop-studio***](apps/dedop-studio.md) | *DeDop Studio*..[ find out more! ](apps/dedop-studio.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dedop-studio) |
 | [***deemix-gui-appimage***](apps/deemix-gui-appimage.md) | *A gui electron app for the deemix lib.*..[ find out more! ](apps/deemix-gui-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/deemix-gui-appimage) |
 | [***deeptags***](apps/deeptags.md) | *Markdown notes manager with support for nested tags.*..[ find out more! ](apps/deeptags.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/deeptags) |
-| [***deerportal***](apps/deerportal.md) | *Full of the diamonds board game. *..[ find out more! ](apps/deerportal.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/deerportal) |
+| [***deerportal***](apps/deerportal.md) | *Full of the diamonds board game.*..[ find out more! ](apps/deerportal.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/deerportal) |
 | [***deezer***](apps/deezer.md) | *A linux port of Deezer, allows downloading your songs (music).*..[ find out more! ](apps/deezer.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/deezer) |
 | [***defichain-app***](apps/defichain-app.md) | *DefiChain Wallet AppImage.*..[ find out more! ](apps/defichain-app.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/defichain-app) |
 | [***delir***](apps/delir.md) | *Web Technology driven VFX Application.*..[ find out more! ](apps/delir.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/delir) |
@@ -804,6 +804,16 @@
 | [***lagrange***](apps/lagrange.md) | *A Beautiful Gemini Client.*..[ find out more! ](apps/lagrange.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/lagrange) |
 | [***laigter***](apps/laigter.md) | *Tool to generate normal/specular/occlussion/parallax 2D maps.*..[ find out more! ](apps/laigter.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/laigter) |
 | [***lambda-lantern***](apps/lambda-lantern.md) | *A 3D game about functional programming patterns.*..[ find out more! ](apps/lambda-lantern.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/lambda-lantern) |
+| [***landrop:***](apps/landrop:.md) | **..[ find out more! ](apps/landrop:.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/landrop:) |
+| [***Drop***](apps/Drop.md) | **..[ find out more! ](apps/Drop.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/Drop) |
+| [***any***](apps/any.md) | **..[ find out more! ](apps/any.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/any) |
+| [***files***](apps/files.md) | **..[ find out more! ](apps/files.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/files) |
+| [***to***](apps/to.md) | **..[ find out more! ](apps/to.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/to) |
+| [***any***](apps/any.md) | **..[ find out more! ](apps/any.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/any) |
+| [***devices***](apps/devices.md) | **..[ find out more! ](apps/devices.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/devices) |
+| [***on***](apps/on.md) | **..[ find out more! ](apps/on.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/on) |
+| [***your***](apps/your.md) | **..[ find out more! ](apps/your.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/your) |
+| [***LAN.***](apps/LAN..md) | **..[ find out more! ](apps/LAN..md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/LAN.) |
 | [***langly***](apps/langly.md) | *Manage Laravel json language files.*..[ find out more! ](apps/langly.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/langly) |
 | [***lanshare***](apps/lanshare.md) | *LAN file transfer app for any kind and size of files and folders.*..[ find out more! ](apps/lanshare.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/lanshare) |
 | [***laravel-kit***](apps/laravel-kit.md) | *Easy Laravel application management.*..[ find out more! ](apps/laravel-kit.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/laravel-kit) |
