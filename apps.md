@@ -804,16 +804,7 @@
 | [***lagrange***](apps/lagrange.md) | *A Beautiful Gemini Client.*..[ find out more! ](apps/lagrange.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/lagrange) |
 | [***laigter***](apps/laigter.md) | *Tool to generate normal/specular/occlussion/parallax 2D maps.*..[ find out more! ](apps/laigter.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/laigter) |
 | [***lambda-lantern***](apps/lambda-lantern.md) | *A 3D game about functional programming patterns.*..[ find out more! ](apps/lambda-lantern.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/lambda-lantern) |
-| [***landrop:***](apps/landrop:.md) | **..[ find out more! ](apps/landrop:.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/landrop:) |
-| [***Drop***](apps/Drop.md) | **..[ find out more! ](apps/Drop.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/Drop) |
-| [***any***](apps/any.md) | **..[ find out more! ](apps/any.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/any) |
-| [***files***](apps/files.md) | **..[ find out more! ](apps/files.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/files) |
-| [***to***](apps/to.md) | **..[ find out more! ](apps/to.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/to) |
-| [***any***](apps/any.md) | **..[ find out more! ](apps/any.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/any) |
-| [***devices***](apps/devices.md) | **..[ find out more! ](apps/devices.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/devices) |
-| [***on***](apps/on.md) | **..[ find out more! ](apps/on.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/on) |
-| [***your***](apps/your.md) | **..[ find out more! ](apps/your.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/your) |
-| [***LAN.***](apps/LAN..md) | **..[ find out more! ](apps/LAN..md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/LAN.) |
+| [***landrop***](apps/landrop.md) | *Drop any files to any devices on your LAN.*..[ find out more! ](apps/landrop.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/landrop) |
 | [***langly***](apps/langly.md) | *Manage Laravel json language files.*..[ find out more! ](apps/langly.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/langly) |
 | [***lanshare***](apps/lanshare.md) | *LAN file transfer app for any kind and size of files and folders.*..[ find out more! ](apps/lanshare.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/lanshare) |
 | [***laravel-kit***](apps/laravel-kit.md) | *Easy Laravel application management.*..[ find out more! ](apps/laravel-kit.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/laravel-kit) |
