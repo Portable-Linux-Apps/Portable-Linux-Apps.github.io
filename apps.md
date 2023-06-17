@@ -7,13 +7,14 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1775** *Appimage packages and standalone applications*.
+#### *This database contains* **1776** *Appimage packages and standalone applications*.
 
 -----------------
 
 | COMMAND | DESCRIPTION  | INSTALLATION |
 | --- | --- | --- |
 | [***0ad***](apps/0ad.md) | *FOSS historical Real Time Strategy (RTS) game of ancient warfare.*..[ find out more! ](apps/0ad.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/0ad) |
+| [***0ad-latest***](apps/0ad-latest.md) | *Real Time Strategy game of ancient warfare (development branch).*..[ find out more! ](apps/0ad-latest.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/0ad-latest) |
 | [***3d-puzzles***](apps/3d-puzzles.md) | *3D-Puzzles are Rubik, Dogic and Dogic12.*..[ find out more! ](apps/3d-puzzles.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/3d-puzzles) |
 | [***432hz-player***](apps/432hz-player.md) | *Because most music is recorded in 440hz (Audio Player).*..[ find out more! ](apps/432hz-player.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/432hz-player) |
 | [***86box***](apps/86box.md) | *Emulator of x86-based machines based on PCem.*..[ find out more! ](apps/86box.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/86box) |
