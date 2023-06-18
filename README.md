@@ -14,7 +14,7 @@
 - [How it works?](#how-it-works)
 - [Is there a version of "AM" that does not require root privileges?](#is-there-a-version-of-am-that-does-not-require-root-privileges)
 - [Are the applications managed safe?](#are-the-applications-managed-safe)
-- [I've not understand, what should I install to manage all these applications?](i-ve-not-understand-what-should-i-install-to-manage-all-these-applications)
+- [I've not understand, what should I install to manage all these applications?](#ive-not-understand-what-should-i-install-to-manage-all-these-applications))
 - [The app "Pippo" is not available in the database, how can I upload it?](#the-app-pippo-is-not-available-in-the-database-how-can-i-upload-it)
 - [Troubleshoot](#troubleshoot)
   - [During an update or an installation the app is not downloaded](#during-an-update-or-an-installation-the-app-is-not-downloaded)
