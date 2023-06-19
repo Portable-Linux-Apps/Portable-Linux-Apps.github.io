@@ -1,4 +1,4 @@
-# NORMCAMP
+# NORMCAP
  
  OCR powered screen-capture tool to capture information instead of images.
  For Linux, macOS and Windows.
