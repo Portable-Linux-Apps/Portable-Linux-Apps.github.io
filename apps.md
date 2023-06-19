@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1776** *Appimage packages and standalone applications*.
+#### *This database contains* **1777** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1025,6 +1025,7 @@
 | [***nootka***](apps/nootka.md) | *Application for learning musical score notation.*..[ find out more! ](apps/nootka.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/nootka) |
 | [***nora***](apps/nora.md) | *An elegant music player built using Electron and React.*..[ find out more! ](apps/nora.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/nora) |
 | [***nordvpn-appimage***](apps/nordvpn-appimage.md) | *A nicer way to connect to NordVPN, electron-based AppImage.*..[ find out more! ](apps/nordvpn-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/nordvpn-appimage) |
+| [***normcap***](apps/normcap.md) | *OCR powered screen-capture tool to capture info instead of images.*..[ find out more! ](apps/normcap.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/normcap) |
 | [***nosqlbooster***](apps/nosqlbooster.md) | *Essential admin GUI for mongodb.*..[ find out more! ](apps/nosqlbooster.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/nosqlbooster) |
 | [***nostlan***](apps/nostlan.md) | *A multiplatform game launcher for video game emulators.*..[ find out more! ](apps/nostlan.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/nostlan) |
 | [***notable***](apps/notable.md) | *The Markdown-based note-taking app that doesn't suck.*..[ find out more! ](apps/notable.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/notable) |
@@ -1382,7 +1383,7 @@
 | [***sheikah***](apps/sheikah.md) | *A Witnet compatible desktop wallet.*..[ find out more! ](apps/sheikah.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/sheikah) |
 | [***shotcut***](apps/shotcut.md) | *A powerful Video Editor.*..[ find out more! ](apps/shotcut.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/shotcut) |
 | [***shradiko***](apps/shradiko.md) | *Make Portable AppImages from Distro Packages.*..[ find out more! ](apps/shradiko.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/shradiko) |
-| [***shutter***](apps/shutter.md) | *A converter designed by video editors. Professional compression tool.*..[ find out more! ](apps/shutter.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/shutter) |
+| [***shutter***](apps/shutter.md) | *Professional converter & compression tool designed by video editors.*..[ find out more! ](apps/shutter.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/shutter) |
 | [***shuttle***](apps/shuttle.md) | *The fastest access to your favorite applications.*..[ find out more! ](apps/shuttle.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/shuttle) |
 | [***sideload***](apps/sideload.md) | *Utility (from elementaryOS 6) to install Flatpak apps from Flathub.*..[ find out more! ](apps/sideload.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/sideload) |
 | [***sigdigger***](apps/sigdigger.md) | *Signal analyzer, using Suscan core and Sigutils DSP library.*..[ find out more! ](apps/sigdigger.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/sigdigger) |
