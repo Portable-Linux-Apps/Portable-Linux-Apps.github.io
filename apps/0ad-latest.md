@@ -7,6 +7,11 @@
  raise a military force and dominate your enemies.
  
  This is the AppImage built from source of the latest development build.
+
+ NOTE: If you have a GPU that has a chipset other than Nvidia, the 
+ Vulkan backend may be automatically disabled in some cases. This 
+ versione is based on the latest Ubuntu LTS, so it should not work on 
+ older distros. In case of problems, install "0ad" instead.
  
  ![Seleucide](https://upload.wikimedia.org/wikipedia/commons/3/3e/0_A.D._Seleucide.jpg)
  
