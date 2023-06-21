@@ -14,7 +14,9 @@
  
  ![Screenshot](https://www.addictivetips.com/app/uploads/2018/02/skype1.png)
  
- SITE/SOURCE: https://www.skype.com
+ SITE: https://www.skype.com
+
+ SOURCE: https://github.com/ivan-hc/Skype-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
