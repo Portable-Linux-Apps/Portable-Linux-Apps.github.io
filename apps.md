@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1777** *Appimage packages and standalone applications*.
+#### *This database contains* **1778** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -687,7 +687,8 @@
 | [***infection-monkey***](apps/infection-monkey.md) | *An automated penetration test tool (security).*..[ find out more! ](apps/infection-monkey.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/infection-monkey) |
 | [***infinitex***](apps/infinitex.md) | *Editor for academics with cryptography.*..[ find out more! ](apps/infinitex.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/infinitex) |
 | [***infra-appimage***](apps/infra-appimage.md) | *Infra App for Linux.*..[ find out more! ](apps/infra-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/infra-appimage) |
-| [***inkscape***](apps/inkscape.md) | *Vector-based drawing program (SVG, PDF, AutoCAD...).*..[ find out more! ](apps/inkscape.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/inkscape) |
+| [***inkscape-next***](apps/inkscape-next.md) | *Vector-based drawing program (SVG, PDF, AutoCAD...), Unstable.*..[ find out more! ](apps/inkscape-next.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/inkscape-next) |
+| [***inkscape***](apps/inkscape.md) | *Vector-based drawing program (SVG, PDF, AutoCAD...), Stable.*..[ find out more! ](apps/inkscape.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/inkscape) |
 | [***insight***](apps/insight.md) | *The GUI front-end of GDB with Tcl/Tk.*..[ find out more! ](apps/insight.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/insight) |
 | [***insomnia***](apps/insomnia.md) | *API client for GraphQL, REST, WebSockets and gRPC.*..[ find out more! ](apps/insomnia.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/insomnia) |
 | [***instead***](apps/instead.md) | *Simple Text Adventures Interpreter.*..[ find out more! ](apps/instead.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/instead) |
