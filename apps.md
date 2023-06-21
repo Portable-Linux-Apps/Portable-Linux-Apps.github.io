@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1778** *Appimage packages and standalone applications*.
+#### *This database contains* **1777** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1534,8 +1534,7 @@
 | [***taskizer***](apps/taskizer.md) | *A task management app.*..[ find out more! ](apps/taskizer.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/taskizer) |
 | [***tastee-ui***](apps/tastee-ui.md) | *Tool helping you write executable specifications in your lang.*..[ find out more! ](apps/tastee-ui.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/tastee-ui) |
 | [***tc***](apps/tc.md) | *A desktop chat client for Twitch.*..[ find out more! ](apps/tc.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/tc) |
-| [***teams-appimage***](apps/teams-appimage.md) | *Unofficial Microsoft Teams for Linux client.*..[ find out more! ](apps/teams-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/teams-appimage) |
-| [***teams***](apps/teams.md) | *Business communication platform developed by Microsoft.*..[ find out more! ](apps/teams.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/teams) |
+| [***teams***](apps/teams.md) | *Business communication platform developed by Microsoft (AppImage).*..[ find out more! ](apps/teams.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/teams) |
 | [***teledrive***](apps/teledrive.md) | *Automatically backup Telegram Saved Messages.*..[ find out more! ](apps/teledrive.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/teledrive) |
 | [***telegram-appimage***](apps/telegram-appimage.md) | *An Unofficial continuously updated AppImage for Telegram.*..[ find out more! ](apps/telegram-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/telegram-appimage) |
 | [***telegram***](apps/telegram.md) | *Desktop version of Telegram messaging app.*..[ find out more! ](apps/telegram.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/telegram) |
