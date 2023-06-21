@@ -10,7 +10,9 @@
     Russian, and Spanish.
   - The Full version includes all languages supported by LibreOffice.
   
-  NOTE: this version does NOT includes manuals.
+  NOTE: this version does NOT includes manuals. Consult the "libreoffice" 
+  entry with the "-a" option of AM or AppMan to verify the actual 
+  installation size.
  
  ![Screenshot](https://upload.wikimedia.org/wikipedia/commons/4/42/LibreOffice_7.2.4.1_start_centre_screenshot.png)
  
