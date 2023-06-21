@@ -5,7 +5,7 @@
  for anyone to download and test.
  
  NOTE: This database provides an install script for aarch64 (which only 
- extracts the official deb package for ARM) and one for x84_64 (which points 
+ extracts the official deb package for ARM) and one for x86_64 (which points 
  to the unofficial AppImage package built from the official deb package for 
  amd64/64bit).
  
