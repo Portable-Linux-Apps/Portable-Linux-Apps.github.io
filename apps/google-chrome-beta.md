@@ -1,14 +1,14 @@
-# GOOGLE-CHROME
+# GOOGLE-CHROME-BETA
 
  Google Chrome - The most popular Web Browser, provided by Google LLC.
  
- This is the Stable version.
+ This is the Beta version.
  
  NOTE: This is the Unofficial AppImage built from the official deb package.
 
  ![Screenshot](https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_75_screenshot.png)
 
- SITE: https://www.google.com/chrome
+ SITE: https://www.google.com/chrome/beta/
  
  SOURCE/UNOFFICIAL APPIMAGE: https://github.com/ivan-hc/Chrome-appimage
 

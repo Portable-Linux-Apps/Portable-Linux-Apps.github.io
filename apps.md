@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1777** *Appimage packages and standalone applications*.
+#### *This database contains* **1779** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -608,7 +608,9 @@
 | [***goldendict***](apps/goldendict.md) | *A feature-rich dictionary lookup program.*..[ find out more! ](apps/goldendict.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/goldendict) |
 | [***gooboxfileshare***](apps/gooboxfileshare.md) | *Goobox File Share App.*..[ find out more! ](apps/gooboxfileshare.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gooboxfileshare) |
 | [***goofcord***](apps/goofcord.md) | *Take control of your Discord experience with GoofCord.*..[ find out more! ](apps/goofcord.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/goofcord) |
-| [***google-chrome***](apps/google-chrome.md) | *Web Browser provided by Google.*..[ find out more! ](apps/google-chrome.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/google-chrome) |
+| [***google-chrome-beta***](apps/google-chrome-beta.md) | *Web Browser (Beta version, Unofficial AppImage).*..[ find out more! ](apps/google-chrome-beta.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/google-chrome-beta) |
+| [***google-chrome-dev***](apps/google-chrome-dev.md) | *Web Browser (Unstable version, Unofficial AppImage).*..[ find out more! ](apps/google-chrome-dev.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/google-chrome-dev) |
+| [***google-chrome***](apps/google-chrome.md) | *Web Browser (Stable version, Unofficial AppImage).*..[ find out more! ](apps/google-chrome.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/google-chrome) |
 | [***google-docs***](apps/google-docs.md) | *Google Docs Desktop App made with electron.*..[ find out more! ](apps/google-docs.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/google-docs) |
 | [***google-tasks-desktop***](apps/google-tasks-desktop.md) | *Unofficial client.*..[ find out more! ](apps/google-tasks-desktop.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/google-tasks-desktop) |
 | [***gpgfrontend***](apps/gpgfrontend.md) | *A Cross-Platform OpenPGP Frontend Software.*..[ find out more! ](apps/gpgfrontend.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gpgfrontend) |
