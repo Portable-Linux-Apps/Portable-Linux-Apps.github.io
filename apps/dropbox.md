@@ -1,12 +1,15 @@
 # DROPBOX
 
- DropBox - A free cloud service (Unofficial AppImage)
- 
- Bring your photos, docs, and videos anywhere and share them easily.
+ DropBox - A free cloud service. Bring your photos, docs, and videos 
+ anywhere and share them easily.
+
+ This is the Unofficial AppImage built from AUR.
  
  SITE: https://www.dropbox.com
 
- SOURCE: https://aur.archlinux.org/packages/dropbox
+ AUR: https://aur.archlinux.org/packages/dropbox
+ 
+ APPIMAGE: https://github.com/ivan-hc/Dropbox-appimage 
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
