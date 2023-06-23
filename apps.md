@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1779** *Appimage packages and standalone applications*.
+#### *This database contains* **1778** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1538,7 +1538,6 @@
 | [***tc***](apps/tc.md) | *A desktop chat client for Twitch.*..[ find out more! ](apps/tc.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/tc) |
 | [***teams***](apps/teams.md) | *Business communication platform developed by Microsoft (AppImage).*..[ find out more! ](apps/teams.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/teams) |
 | [***teledrive***](apps/teledrive.md) | *Automatically backup Telegram Saved Messages.*..[ find out more! ](apps/teledrive.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/teledrive) |
-| [***telegram-appimage***](apps/telegram-appimage.md) | *An Unofficial continuously updated AppImage for Telegram.*..[ find out more! ](apps/telegram-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/telegram-appimage) |
 | [***telegram***](apps/telegram.md) | *Desktop version of Telegram messaging app.*..[ find out more! ](apps/telegram.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/telegram) |
 | [***teslacam-browser***](apps/teslacam-browser.md) | *A minimal TeslaCam Browser.*..[ find out more! ](apps/teslacam-browser.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/teslacam-browser) |
 | [***tesler***](apps/tesler.md) | *The Tesla Sentinel Viewer.*..[ find out more! ](apps/tesler.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/tesler) |
