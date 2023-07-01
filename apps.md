@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1778** *Appimage packages and standalone applications*.
+#### *This database contains* **1780** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -857,6 +857,7 @@
 | [***lisk-desktop***](apps/lisk-desktop.md) | *Lisk graphical user interface for desktop.*..[ find out more! ](apps/lisk-desktop.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/lisk-desktop) |
 | [***listen1-desktop-appimage***](apps/listen1-desktop-appimage.md) | *One for all free music in China.*..[ find out more! ](apps/listen1-desktop-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/listen1-desktop-appimage) |
 | [***liteide***](apps/liteide.md) | *LiteIDE is a simple, open source, cross-platform Go IDE.*..[ find out more! ](apps/liteide.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/liteide) |
+| [***lite-xl***](apps/lite-xl.md) | *A lightweight text editor written in Lua.*..[ find out more! ](apps/lite-xl.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/lite-xl) |
 | [***liveme-pro-tools***](apps/liveme-pro-tools.md) | *Browse, search and manage accounts, replays and more.*..[ find out more! ](apps/liveme-pro-tools.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/liveme-pro-tools) |
 | [***lmms***](apps/lmms.md) | *FL Studio® alternative that allows you to produce music with the PC.*..[ find out more! ](apps/lmms.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/lmms) |
 | [***local-browser***](apps/local-browser.md) | *Share your localhost in a unique way.*..[ find out more! ](apps/local-browser.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/local-browser) |
@@ -1054,6 +1055,7 @@
 | [***nychess***](apps/nychess.md) | *A python Chess Engine and AI.*..[ find out more! ](apps/nychess.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/nychess) |
 | [***nym-wallet-appimage***](apps/nym-wallet-appimage.md) | *Use the Nym network and take advantage of it.*..[ find out more! ](apps/nym-wallet-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/nym-wallet-appimage) |
 | [***obsidian***](apps/obsidian.md) | *A powerful knowledge base, plain text Markdown files.*..[ find out more! ](apps/obsidian.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/obsidian) |
+| [***obs-studio***](apps/obs-studio.md) | *Software for video recording and live streaming (ArchImage).*..[ find out more! ](apps/obs-studio.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/obs-studio) |
 | [***ocat***](apps/ocat.md) | *OpenCore Auxiliary Tools, editing config.plist files for Acidanthera.*..[ find out more! ](apps/ocat.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ocat) |
 | [***ocenaudio***](apps/ocenaudio.md) | *Multiplatform Audio Editor.*..[ find out more! ](apps/ocenaudio.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ocenaudio) |
 | [***ocrmypdf***](apps/ocrmypdf.md) | *AppImage for OCRmyPDF.*..[ find out more! ](apps/ocrmypdf.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ocrmypdf) |
