@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1779** *Appimage packages and standalone applications*.
+#### *This database contains* **1780** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -604,6 +604,7 @@
 | [***gmail-desktop***](apps/gmail-desktop.md) | *Nifty Gmail desktop app for macOS, Linux & Windows.*..[ find out more! ](apps/gmail-desktop.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gmail-desktop) |
 | [***gmappimager***](apps/gmappimager.md) | *Graphically Converts GameMaker Studio 2 Linux Games to AppImage.*..[ find out more! ](apps/gmappimager.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gmappimager) |
 | [***gm-companion***](apps/gm-companion.md) | *A tool for rpg gamemasters.*..[ find out more! ](apps/gm-companion.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gm-companion) |
+| [***gnumeric***](apps/gnumeric.md) | *An open-source spreadsheet program (ArchImage).*..[ find out more! ](apps/gnumeric.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gnumeric) |
 | [***godot***](apps/godot.md) | *Multi-platform 2D and 3D game engine with a feature-rich editor.*..[ find out more! ](apps/godot.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/godot) |
 | [***goldencheetah***](apps/goldencheetah.md) | *Cycling Power Analysis Software.*..[ find out more! ](apps/goldencheetah.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/goldencheetah) |
 | [***goldendict***](apps/goldendict.md) | *A feature-rich dictionary lookup program.*..[ find out more! ](apps/goldendict.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/goldendict) |
