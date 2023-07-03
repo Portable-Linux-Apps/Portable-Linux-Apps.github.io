@@ -1,12 +1,12 @@
-# MPV-0.35
+# MPV
  
  MPV is a free (as in freedom) media player for the command line.
  It supports a wide variety of media file formats, audio and video codecs
  and subtitle types.
  
- This is the Unofficial AppImage built from Debian Bookworm (GLIBC-2.36).
- 
- NOTE: this AppImage requires "ffmpeg" to be installed on your system.
+ This is the unofficial Appimage of MPV Media Player built on top of JuNest,
+ the lightweight Arch Linux based distro that runs, without root privileges,
+ on top of any other Linux distro.
  
  SOURCE: https://github.com/ivan-hc/MPV-appimage
  
