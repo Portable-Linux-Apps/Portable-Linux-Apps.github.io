@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1781** *Appimage packages and standalone applications*.
+#### *This database contains* **1779** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -970,9 +970,7 @@
 | [***moyu***](apps/moyu.md) | *An online collaborative api interface management tool.*..[ find out more! ](apps/moyu.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/moyu) |
 | [***mozaic***](apps/mozaic.md) | *Massive Online Zeus Artificial Intelligence Competition platform.*..[ find out more! ](apps/mozaic.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mozaic) |
 | [***mp3-tagger-appimage***](apps/mp3-tagger-appimage.md) | *An Electron app to edit metadata of mp3 files.*..[ find out more! ](apps/mp3-tagger-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mp3-tagger-appimage) |
-| [***mpv-0.29***](apps/mpv-0.29.md) | *A free, open source, and cross-platform media player (LIBC 2.28+).*..[ find out more! ](apps/mpv-0.29.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mpv-0.29) |
-| [***mpv-0.32***](apps/mpv-0.32.md) | *A free, open source, and cross-platform media player (LIBC 2.31+).*..[ find out more! ](apps/mpv-0.32.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mpv-0.32) |
-| [***mpv-0.35***](apps/mpv-0.35.md) | *A free, open source, and cross-platform media player (LIBC 2.36+).*..[ find out more! ](apps/mpv-0.35.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mpv-0.35) |
+| [***mpv***](apps/mpv.md) | *A free, open source, and cross-platform media player (ArchImage).*..[ find out more! ](apps/mpv.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mpv) |
 | [***mqttcute***](apps/mqttcute.md) | *An advanced desktop MQTT client for binary protocol development.*..[ find out more! ](apps/mqttcute.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mqttcute) |
 | [***mqtt-explorer***](apps/mqtt-explorer.md) | *Explore your message queues.*..[ find out more! ](apps/mqtt-explorer.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mqtt-explorer) |
 | [***mqttx-appimage***](apps/mqttx-appimage.md) | *MQTT 5.0 Desktop, CLI, and WebSocket client tools.*..[ find out more! ](apps/mqttx-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mqttx-appimage) |
