@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1780** *Appimage packages and standalone applications*.
+#### *This database contains* **1781** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1343,6 +1343,7 @@
 | [***runelite***](apps/runelite.md) | *Open source Old School RuneScape client.*..[ find out more! ](apps/runelite.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/runelite) |
 | [***runjs***](apps/runjs.md) | *JavaScript playground. Write code with Node.js & browser APIs access.*..[ find out more! ](apps/runjs.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/runjs) |
 | [***running-dinner-tool***](apps/running-dinner-tool.md) | *Running Dinner Tool.*..[ find out more! ](apps/running-dinner-tool.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/running-dinner-tool) |
+| [***rustdesk***](apps/rustdesk.md) | *Virtual/remote desktop infrastructure, like TeamViewer/Citrix.*..[ find out more! ](apps/rustdesk.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/rustdesk) |
 | [***rx-bin***](apps/rx-bin.md) | *A modern and extensible pixel editor implemented in Rust.*..[ find out more! ](apps/rx-bin.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/rx-bin) |
 | [***ryowallet***](apps/ryowallet.md) | *Modern GUI interface for Ryo Currency.*..[ find out more! ](apps/ryowallet.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ryowallet) |
 | [***sabaki***](apps/sabaki.md) | *Modern, elegant, cross-platform Go/Baduk/Weiqi game board.*..[ find out more! ](apps/sabaki.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/sabaki) |
