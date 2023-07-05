@@ -7,7 +7,7 @@
  lightweight Arch Linux-based, or Debian. For functionality reasons, "AM"/AppMan
  will tend to use the latest available version or the oldest and well-tested 
  version, it all depends on the bugs that can manifest themselves in any new 
- build deriving from Arch Linux.
+ build deriving from Arch Linux. By default you use the latest build from Arch!
  
  SOURCE: https://github.com/ivan-hc/MPV-appimage
  
