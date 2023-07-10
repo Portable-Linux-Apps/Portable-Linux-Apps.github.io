@@ -1,6 +1,6 @@
-# OPERA
+# OPERA-DEV
 
- Opera - Fast and secure web browser (Stable version).
+ Opera - Fast and secure web browser (Developer version).
 
  This is the Unofficial AppImage built from the official deb package.
 

@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1781** *Appimage packages and standalone applications*.
+#### *This database contains* **1783** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1095,7 +1095,9 @@
 | [***opentrons***](apps/opentrons.md) | *Opentrons desktop application.*..[ find out more! ](apps/opentrons.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/opentrons) |
 | [***open-video-downloader***](apps/open-video-downloader.md) | *A cross-platform GUI for youtube-dl made in Electron.*..[ find out more! ](apps/open-video-downloader.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/open-video-downloader) |
 | [***openxcom***](apps/openxcom.md) | *An open-source clone of the original UFO Enemy Unknown.*..[ find out more! ](apps/openxcom.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/openxcom) |
-| [***opera***](apps/opera.md) | *Fast and secure web browser.*..[ find out more! ](apps/opera.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/opera) |
+| [***opera-beta***](apps/opera-beta.md) | *Fast and secure web browser (Beta version).*..[ find out more! ](apps/opera-beta.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/opera-beta) |
+| [***opera-dev***](apps/opera-dev.md) | *Fast and secure web browser (Developer version).*..[ find out more! ](apps/opera-dev.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/opera-dev) |
+| [***opera***](apps/opera.md) | *Fast and secure web browser (Stable version).*..[ find out more! ](apps/opera.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/opera) |
 | [***osrs-tools***](apps/osrs-tools.md) | *Several tools for OSRS.*..[ find out more! ](apps/osrs-tools.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/osrs-tools) |
 | [***ossia-score***](apps/ossia-score.md) | *Sequencer for audio-visual artists for interactive shows.*..[ find out more! ](apps/ossia-score.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ossia-score) |
 | [***ostara***](apps/ostara.md) | *To monitor and interact with Spring Boot Applications via Actuator.*..[ find out more! ](apps/ostara.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ostara) |
