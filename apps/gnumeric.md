@@ -9,11 +9,9 @@
  built-in functions and tools are accurate as several, researchers, have 
  found.
  
- This is the unofficial AppImage built on top of JuNest, the lightweight 
- Arch Linux based distro that runs on top of any other Linux distro.
- 
- NOTE: this AppImage is only available in English, any improvement on 
- 	this side is welcome. Check the repository on Github.
+ This is the unofficial AppImage built from Debian Stable, so this should work
+ on systems with a GLIBC version equal or higer than the one used in Debian 
+ Stable.
  
  SITE: http://www.gnumeric.org
 
