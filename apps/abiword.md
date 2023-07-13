@@ -3,9 +3,8 @@
  Abiword is a light and free word processing software that will not make you 
  regret the more expensive suite of programs from famous brands.
  
- This is the unofficial AppImage built from Debian Stable, so this should work
- on systems with a GLIBC version equal or higer than the one used in Debian 
- Stable.
+ This is the unofficial AppImage built on top of JuNest, the lightweight 
+ Arch Linux based distro that runs on top of any other Linux distro.
  
  ![screenshot](http://abiworditalia.altervista.org/immagini/abiword_linux.png)
 
