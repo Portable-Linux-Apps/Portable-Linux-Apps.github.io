@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1783** *Appimage packages and standalone applications*.
+#### *This database contains* **1784** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -639,7 +639,7 @@
 | [***gxc-smart-contract-ide***](apps/gxc-smart-contract-ide.md) | *Gxchain smart contract IDE alpha.*..[ find out more! ](apps/gxc-smart-contract-ide.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gxc-smart-contract-ide) |
 | [***gyroflow-appimage***](apps/gyroflow-appimage.md) | *Video stabilization using gyroscope data.*..[ find out more! ](apps/gyroflow-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gyroflow-appimage) |
 | [***hamsket***](apps/hamsket.md) | *Free and Open Source messaging and emailing app.*..[ find out more! ](apps/hamsket.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/hamsket) |
-| [***handbrake***](apps/handbrake.md) | *An open-source multiplatform video transcoder.*..[ find out more! ](apps/handbrake.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/handbrake) |
+| [***handbrake***](apps/handbrake.md) | *An open-source multiplatform video transcoder (ArchImage).*..[ find out more! ](apps/handbrake.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/handbrake) |
 | [***hapee***](apps/hapee.md) | *Best cross-platform downloader ever.*..[ find out more! ](apps/hapee.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/hapee) |
 | [***hastyheroes***](apps/hastyheroes.md) | *An endless 2D jumping game.*..[ find out more! ](apps/hastyheroes.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/hastyheroes) |
 | [***hdrmerge***](apps/hdrmerge.md) | *Merge several raw images into a single DNG raw image.*..[ find out more! ](apps/hdrmerge.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/hdrmerge) |
@@ -1217,6 +1217,7 @@
 | [***prime-world-editor***](apps/prime-world-editor.md) | *Edit world assets from games by Retro Studios.*..[ find out more! ](apps/prime-world-editor.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/prime-world-editor) |
 | [***printerclient***](apps/printerclient.md) | *A printer client.*..[ find out more! ](apps/printerclient.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/printerclient) |
 | [***prisma-studio-appimage***](apps/prisma-studio-appimage.md) | *The easiest way to explore and manipulate your data.*..[ find out more! ](apps/prisma-studio-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/prisma-studio-appimage) |
+| [***prismlauncher***](apps/prismlauncher.md) | *Launcher for Minecraft, manage multiple installations.*..[ find out more! ](apps/prismlauncher.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/prismlauncher) |
 | [***privacy.sexy***](apps/privacy.sexy.md) | *Tool to enforce privacy & security best-practices.*..[ find out more! ](apps/privacy.sexy.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/privacy.sexy) |
 | [***privaxy***](apps/privaxy.md) | *The next generation tracker and ads/advertisement blocker.*..[ find out more! ](apps/privaxy.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/privaxy) |
 | [***procdepmonitor***](apps/procdepmonitor.md) | *Obtaining information about loaded process dependencies.*..[ find out more! ](apps/procdepmonitor.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/procdepmonitor) |
