@@ -5,8 +5,6 @@
  
  This is a fork of the MultiMC Launcher and is not endorsed by it.
  
- ![Screenshot](URL)
- 
  SITE: https://prismlauncher.org
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
