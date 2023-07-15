@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1784** *Appimage packages and standalone applications*.
+#### *This database contains* **1785** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -80,6 +80,7 @@
 | [***aranym***](apps/aranym.md) | *Virtual Machine for Atari 32-bit applications.*..[ find out more! ](apps/aranym.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/aranym) |
 | [***arcade-manager***](apps/arcade-manager.md) | *Manage your rom collection (Games/Retropie & Recalbox).*..[ find out more! ](apps/arcade-manager.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/arcade-manager) |
 | [***arch-deployer***](apps/arch-deployer.md) | *Script to convert Arch Linux packages to AppDir/AppImage.*..[ find out more! ](apps/arch-deployer.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/arch-deployer) |
+| [***archimage-cli***](apps/archimage-cli.md) | *Build AppImage packages using JuNest (Arch Linux).*..[ find out more! ](apps/archimage-cli.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/archimage-cli) |
 | [***archipelago***](apps/archipelago.md) | *Archipelago Multi-Game Randomizer and Server.*..[ find out more! ](apps/archipelago.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/archipelago) |
 | [***archipel***](apps/archipel.md) | *Decentralized archiving and media library system.*..[ find out more! ](apps/archipel.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/archipel) |
 | [***arduino-ide***](apps/arduino-ide.md) | *Open-source electronics platform.*..[ find out more! ](apps/arduino-ide.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/arduino-ide) |
