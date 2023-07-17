@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1785** *Appimage packages and standalone applications*.
+#### *This database contains* **1786** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -125,6 +125,7 @@
 | [***beam-wallet***](apps/beam-wallet.md) | *Beam Desktop Wallet.*..[ find out more! ](apps/beam-wallet.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/beam-wallet) |
 | [***beatconnect-client***](apps/beatconnect-client.md) | *Beatconnect power for osu irc.*..[ find out more! ](apps/beatconnect-client.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/beatconnect-client) |
 | [***beekeeper-studio***](apps/beekeeper-studio.md) | *SQL query editor and database UI.*..[ find out more! ](apps/beekeeper-studio.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/beekeeper-studio) |
+| [***beeper***](apps/beeper.md) | *All your chats in one app.*..[ find out more! ](apps/beeper.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/beeper) |
 | [***bench-cli***](apps/bench-cli.md) | *CLI tool to benchmark commands, written in `Fortran`.*..[ find out more! ](apps/bench-cli.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/bench-cli) |
 | [***bettercrewlink***](apps/bettercrewlink.md) | *Free, open, Among Us proximity voice chat.*..[ find out more! ](apps/bettercrewlink.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/bettercrewlink) |
 | [***better-osu-skills***](apps/better-osu-skills.md) | *Gets results from the osu! Using your own IRC credentials.*..[ find out more! ](apps/better-osu-skills.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/better-osu-skills) |
