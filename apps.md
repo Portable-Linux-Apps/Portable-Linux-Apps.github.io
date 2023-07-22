@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1786** *Appimage packages and standalone applications*.
+#### *This database contains* **1787** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1768,6 +1768,7 @@
 | [***xournal++nightly***](apps/xournal++nightly.md) | *C++ notetaking software with PDF annotation support (DEV).*..[ find out more! ](apps/xournal++nightly.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/xournal++nightly) |
 | [***xpeviewer***](apps/xpeviewer.md) | *PE file viewer/editor.*..[ find out more! ](apps/xpeviewer.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/xpeviewer) |
 | [***xplist***](apps/xplist.md) | *Cross-platform Plist Editor.*..[ find out more! ](apps/xplist.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/xplist) |
+| [***xplorer***](apps/xplorer.md) | *Xplorer, a customizable, modern file manager.*..[ find out more! ](apps/xplorer.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/xplorer) |
 | [***xxh-appimage***](apps/xxh-appimage.md) | *Bring your favorite shell wherever you go through the ssh.*..[ find out more! ](apps/xxh-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/xxh-appimage) |
 | [***yana***](apps/yana.md) | *Note-taking app with nested documents, text search/editor, code...*..[ find out more! ](apps/yana.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/yana) |
 | [***yangdownloader-appimage***](apps/yangdownloader-appimage.md) | *Downloads best-quality audio and video from YouTube.*..[ find out more! ](apps/yangdownloader-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/yangdownloader-appimage) |
