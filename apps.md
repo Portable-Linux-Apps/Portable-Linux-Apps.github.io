@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1789** *Appimage packages and standalone applications*.
+#### *This database contains* **1788** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -736,7 +736,6 @@
 | [***kade***](apps/kade.md) | *A desktop application for Q Methodology.*..[ find out more! ](apps/kade.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/kade) |
 | [***kage***](apps/kage.md) | *GUI for Metasploit Meterpreter and Session Handler.*..[ find out more! ](apps/kage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/kage) |
 | [***kaidan***](apps/kaidan.md) | *A QtQuick Jabber client.*..[ find out more! ](apps/kaidan.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/kaidan) |
-| [***kajongg***](apps/kajongg.md) | *Ancient Chinese board game for 4 players (installs "kdegames").*..[ find out more! ](apps/kajongg.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/kajongg) |
 | [***kanon***](apps/kanon.md) | *Maturita GPJP designed for use with kanon web app.*..[ find out more! ](apps/kanon.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/kanon) |
 | [***kapman***](apps/kapman.md) | *Pac-Man clone (installs "kdegames").*..[ find out more! ](apps/kapman.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/kapman) |
 | [***kate***](apps/kate.md) | *A multi-document editor part of KDE.*..[ find out more! ](apps/kate.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/kate) |
