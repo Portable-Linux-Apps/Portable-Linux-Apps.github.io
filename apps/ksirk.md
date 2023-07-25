@@ -1,14 +1,15 @@
 # KSIRK
 
- KsirK is a computerized version of a well known strategy
- board game. KsirK is a multi-player network-playable game
- with an AI. The goal of the game is simply to conquer the
- World… It is done by attacking your neighbours with your
- armies.
+ KsirK is a computerized version of a well known strategy board game. KsirK 
+ is a multi-player network-playable game with an AI. The goal of the game is 
+ simply to conquer the World… It is done by attacking your neighbours with 
+ your armies.
 
  
- NOTE: this script includes icons and launchers for the 
- full KDE games suite in just one Appimage (takes 280 MB).
+ This script installs the full and updatable KDE Games suite from JuNest, a
+ lightweight Arch Linux based distribution that allows the creation of 
+ disposable and partially isolated GNU/Linux environments within any generic 
+ GNU/Linux host OS and without requiring root privileges to install packages.
  
  USAGE (from the command line):
  

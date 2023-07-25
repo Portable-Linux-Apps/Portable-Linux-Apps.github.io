@@ -1,20 +1,18 @@
 # KDEGAMES
 
- This is the full and updatable KDE Games suite from Debian Stable!
+ This is the full and updatable KDE Games suite from JuNest (Jailed User Nest),
+ a lightweight Arch Linux based distribution that allows the creation of 
+ disposable and partially isolated GNU/Linux environments within any generic 
+ GNU/Linux host OS and without requiring root privileges to install packages.
  
- This scripts includes icons and launchers for all the games supported.
+ This scripts includes icons and launchers for the games supported.
  
- USAGE (from the command line):
- 
-           kdegames -h (shows the list of games)
-           kdegames $GAME (launches the selected game)
-           
- On Debian based systems install the "qml-module-org-kde-games-core"
- package from the repository to solve this issue.
  
  SITE: https://apps.kde.org
+ 
+ SOURCE: https://archlinux.org/packages/extra/any/kde-games-meta
 
- SOURCE: https://github.com/ivan-hc/KDE-games-suite-appimage
+ APPIMAGE: https://github.com/ivan-hc/KDE-games-suite-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

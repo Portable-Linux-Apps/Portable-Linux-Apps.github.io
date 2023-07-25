@@ -1,8 +1,10 @@
-# PALAPELI
+# KAJONGG
 
- Palapeli is a jigsaw puzzle game. Unlike other games in that genre, you are 
- not limited to aligning pieces on imaginary grids. The pieces are freely 
- moveable. 
+ Kajongg is the ancient Chinese board game for 4 players. Kajongg can be used 
+ in two different ways: Scoring a manual game where you play as always and use 
+ Kajongg for the computation of scores and for bookkeeping. Or you can use 
+ Kajongg to play against any combination of other human players or computer 
+ players.
  
  This script installs the full and updatable KDE Games suite from JuNest, a
  lightweight Arch Linux based distribution that allows the creation of 
@@ -14,7 +16,7 @@
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
            
- ![Screenshot](https://www.kde.org/images/screenshots/palapeli.png)
+ ![Screenshot](https://cdn.kde.org/screenshots/kajongg/kajongg.png)
  
  SITE: https://apps.kde.org
 

@@ -1,8 +1,9 @@
-# PALAPELI
+# KBLOCKS
 
- Palapeli is a jigsaw puzzle game. Unlike other games in that genre, you are 
- not limited to aligning pieces on imaginary grids. The pieces are freely 
- moveable. 
+ KBlocks is the classic falling blocks game. The idea is to stack the falling 
+ blocks to create horizontal lines without any gaps. When a line is completed 
+ it is removed, and more space is available in the play area. When there is 
+ not enough space for blocks to fall, the game is over.
  
  This script installs the full and updatable KDE Games suite from JuNest, a
  lightweight Arch Linux based distribution that allows the creation of 
@@ -14,7 +15,7 @@
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
            
- ![Screenshot](https://www.kde.org/images/screenshots/palapeli.png)
+ ![Screenshot](https://cdn.kde.org/screenshots/kblocks/kblocks.png)
  
  SITE: https://apps.kde.org
 
