@@ -9,7 +9,7 @@
 
  SITE: https://www.ocenaudio.com
  
-  APPIMAGE: https://github.com/ivan-hc/ocenaudio-appimage
+ APPIMAGE: https://github.com/ivan-hc/ocenaudio-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
