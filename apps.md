@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1788** *Appimage packages and standalone applications*.
+#### *This database contains* **1789** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1060,6 +1060,7 @@
 | [***obsidian***](apps/obsidian.md) | *A powerful knowledge base, plain text Markdown files.*..[ find out more! ](apps/obsidian.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/obsidian) |
 | [***obs-studio***](apps/obs-studio.md) | *Software for video recording and live streaming (ArchImage).*..[ find out more! ](apps/obs-studio.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/obs-studio) |
 | [***ocat***](apps/ocat.md) | *OpenCore Auxiliary Tools, editing config.plist files for Acidanthera.*..[ find out more! ](apps/ocat.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ocat) |
+| [***ocenaudio-junest***](apps/ocenaudio-junest.md) | *Audio Editor (ArchImage, replaces ocenaudio).*..[ find out more! ](apps/ocenaudio-junest.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ocenaudio-junest) |
 | [***ocenaudio***](apps/ocenaudio.md) | *Multiplatform Audio Editor.*..[ find out more! ](apps/ocenaudio.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ocenaudio) |
 | [***ocrmypdf***](apps/ocrmypdf.md) | *AppImage for OCRmyPDF.*..[ find out more! ](apps/ocrmypdf.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ocrmypdf) |
 | [***ocvvid2fulldome***](apps/ocvvid2fulldome.md) | *Take flat videos, distort them to fit fulldome.*..[ find out more! ](apps/ocvvid2fulldome.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ocvvid2fulldome) |
