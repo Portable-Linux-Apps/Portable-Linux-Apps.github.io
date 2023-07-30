@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1789** *Appimage packages and standalone applications*.
+#### *This database contains* **1790** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1293,6 +1293,7 @@
 | [***quamodbusclient***](apps/quamodbusclient.md) | *Modbus to OPC UA Gateway*..[ find out more! ](apps/quamodbusclient.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/quamodbusclient) |
 | [***quark-player***](apps/quark-player.md) | *An Electron based Web Video Services Player.*..[ find out more! ](apps/quark-player.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/quark-player) |
 | [***quark***](apps/quark.md) | *Sketchbook for rapid prototyping and development of your projects.*..[ find out more! ](apps/quark.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/quark) |
+| [***quarto-cli***](apps/quarto-cli.md) | *Scientific and technical publishing system built on Pandoc.*..[ find out more! ](apps/quarto-cli.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/quarto-cli) |
 | [***quaternion***](apps/quaternion.md) | *A Qt5-based IM client for Matrix.*..[ find out more! ](apps/quaternion.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/quaternion) |
 | [***quba-appimage***](apps/quba-appimage.md) | *A viewer for electronic invoices.*..[ find out more! ](apps/quba-appimage.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/quba-appimage) |
 | [***qucs-s***](apps/qucs-s.md) | *An Universal GUI for Circuit Simulators.*..[ find out more! ](apps/qucs-s.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/qucs-s) |
