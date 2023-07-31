@@ -13,7 +13,9 @@
  lingual support and is designed to be extensible; users can customize
  Inkscape's functionality with add-ons.
  
- This is the Unstable version.
+ This version is the last available release, so it can be an Alpha, a Beta
+ a Release Candidate (RC) or also the Stable release (like the one installed
+ using the installation script named "inkscape" in AM and AppMan).
  
  ![screenshot](https://media.inkscape.org/media/resources/file/Inkscape_SS_01.png)
  
