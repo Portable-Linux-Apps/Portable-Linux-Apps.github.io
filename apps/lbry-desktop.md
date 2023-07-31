@@ -5,7 +5,7 @@
 
  SITE: https://lbry.com/
 
- SOURCE: https://aur.archlinux.org/packages/lbry-desktop-appimage
+ SOURCE: https://github.com/lbryio/lbry-desktop
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
