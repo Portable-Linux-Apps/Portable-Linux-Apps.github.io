@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1790** *Appimage packages and standalone applications*.
+#### *This database contains* **1791** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -56,6 +56,7 @@
 | [***ant-downloader***](apps/ant-downloader.md) | *BitTorrent Client developed by golang, angular, electron.*..[ find out more! ](apps/ant-downloader.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ant-downloader) |
 | [***antimicrox***](apps/antimicrox.md) | *Use a gamepad to control a variety of programs.*..[ find out more! ](apps/antimicrox.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/antimicrox) |
 | [***anydesk***](apps/anydesk.md) | *Remote desktop application distributed (unofficial AppImage).*..[ find out more! ](apps/anydesk.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/anydesk) |
+| [***anytype***](apps/anytype.md) | *The everything app for those who celebrate trust & autonomy.*..[ find out more! ](apps/anytype.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/anytype) |
 | [***anzeigenchef***](apps/anzeigenchef.md) | *AdsChef manages your classified ads.*..[ find out more! ](apps/anzeigenchef.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/anzeigenchef) |
 | [***aphelion-wallet***](apps/aphelion-wallet.md) | *Aphelion desktop wallet application built with Electron.*..[ find out more! ](apps/aphelion-wallet.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/aphelion-wallet) |
 | [***aphototoollibre***](apps/aphototoollibre.md) | *Photo editing app for GNU/Linux.*..[ find out more! ](apps/aphototoollibre.md) | [ AM-installer ](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/aphototoollibre) |
