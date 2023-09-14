@@ -2,7 +2,7 @@
 
  Celestia - Real time 3D space simulator (Nightly build).
  
- SITE: https://celestia.space
+ SITE: https://celestiaproject.space
 
  SOURCE: https://download.opensuse.org/repositories/home:/munix9/AppImage/
 
