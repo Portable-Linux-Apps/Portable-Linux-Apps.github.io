@@ -51,6 +51,8 @@ the program will be installed into a dedicated directory in `/opt` (according to
     /usr/local/bin/$PROGRAM
     /usr/share/applications/AM-$PROGRAM.desktop
 
+From version 4.3.3-1 there is also an option `--user` to enable local installation of programs in the `$HOME` directory using AppMan (jump to the [next paragraph](#is-there-a-version-of-quotamquot-that-does-not-require-root-privileges)).
+
 To update all the apps at once just run the following command:
 
     am -U
