@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1795** *Appimage packages and standalone applications*.
+#### *This database contains* **1796** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1417,6 +1417,7 @@
 | [***simpleinstabot***](apps/simpleinstabot.md) | *Simple Instagram bot.*..[ read more! ](apps/simpleinstabot.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/simpleinstabot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/simpleinstabot) |
 | [***simplenote-electron***](apps/simplenote-electron.md) | *Simplenote for Web, Windows, and Linux.*..[ read more! ](apps/simplenote-electron.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/simplenote-electron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/simplenote-electron) |
 | [***simpleos***](apps/simpleos.md) | *EOS Blockchain Interface & Wallet.*..[ read more! ](apps/simpleos.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/simpleos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/simpleos) |
+| [***simplex-chat***](apps/simplex-chat.md) | *First messaging platform operating without user identifiers.*..[ read more! ](apps/simplex-chat.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/simplex-chat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/simplex-chat) |
 | [***simple-s3-uploader***](apps/simple-s3-uploader.md) | *Easily uploading files and sharing links via AWS S3.*..[ read more! ](apps/simple-s3-uploader.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/simple-s3-uploader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/simple-s3-uploader) |
 | [***simplescreenrecorder***](apps/simplescreenrecorder.md) | *Feature-rich screen recorder supporting X11 & OpenGL.*..[ read more! ](apps/simplescreenrecorder.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/simplescreenrecorder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/simplescreenrecorder) |
 | [***simple-timer***](apps/simple-timer.md) | *A really simple timer with a customizable logo and heading.*..[ read more! ](apps/simple-timer.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/simple-timer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/simple-timer) |
