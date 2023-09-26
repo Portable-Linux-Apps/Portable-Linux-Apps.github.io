@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1796** *Appimage packages and standalone applications*.
+#### *This database contains* **1797** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1089,6 +1089,7 @@
 | [***opencomic***](apps/opencomic.md) | *Comic and Manga reader, written with Node.js and using Electron.*..[ read more! ](apps/opencomic.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/opencomic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/opencomic) |
 | [***openhv***](apps/openhv.md) | *A mod for OpenRA based on the Hard Vacuum (game).*..[ read more! ](apps/openhv.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/openhv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/openhv) |
 | [***open-markup-editor***](apps/open-markup-editor.md) | *Pluggable markup editor.*..[ read more! ](apps/open-markup-editor.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/open-markup-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/open-markup-editor) |
+| [***openlens***](apps/openlens.md) | *OpenLens Binary Build Repository.*..[ read more! ](apps/openlens.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/openlens) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/openlens) |
 | [***openop2***](apps/openop2.md) | *Re-implementation of the game Outpost 2, using the OpenRA engine.*..[ read more! ](apps/openop2.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/openop2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/openop2) |
 | [***openosrs-launcher-appimage***](apps/openosrs-launcher-appimage.md) | *Open-source client for Old School RuneScape.*..[ read more! ](apps/openosrs-launcher-appimage.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/openosrs-launcher-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/openosrs-launcher-appimage) |
 | [***openpilot-workbench***](apps/openpilot-workbench.md) | *Fix problems with EON/Openpilot.*..[ read more! ](apps/openpilot-workbench.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/openpilot-workbench) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/openpilot-workbench) |
