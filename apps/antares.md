@@ -7,7 +7,7 @@
  
  ![Screenshot](https://raw.githubusercontent.com/Fabio286/antares/master/docs/gh-logo.png)
  
- SITE: https://github.com/Fabio286/antares
+ SITE: https://github.com/antares-sql/antares
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
