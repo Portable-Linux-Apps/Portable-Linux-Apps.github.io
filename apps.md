@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1799** *Appimage packages and standalone applications*.
+#### *This database contains* **1800** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -281,6 +281,7 @@
 | [***colorstatic-bash***](apps/colorstatic-bash.md) | *CLI to generate a random colorful "Static"/"Matrix".*..[ read more! ](apps/colorstatic-bash.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/colorstatic-bash) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/colorstatic-bash) |
 | [***comic-book-reader***](apps/comic-book-reader.md) | *Reader and converter for cbz, cbr, epub and pdf files.*..[ read more! ](apps/comic-book-reader.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/comic-book-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/comic-book-reader) |
 | [***comic-reader***](apps/comic-reader.md) | *Electron based comic reader.*..[ read more! ](apps/comic-reader.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/comic-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/comic-reader) |
+| [***comictagger***](apps/comictagger.md) | *A multi-platform app for writing metadata to digital comics.*..[ read more! ](apps/comictagger.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/comictagger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/comictagger) |
 | [***compass***](apps/compass.md) | *Air Traffic Surveillance DataBase.*..[ read more! ](apps/compass.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/compass) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/compass) |
 | [***concordium-desktop-wallet***](apps/concordium-desktop-wallet.md) | *The official Concordium Dektop Wallet.*..[ read more! ](apps/concordium-desktop-wallet.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/concordium-desktop-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/concordium-desktop-wallet) |
 | [***conduction***](apps/conduction.md) | *Tasks? Done. That was quick.*..[ read more! ](apps/conduction.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/conduction) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/conduction) |
