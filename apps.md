@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1800** *Appimage packages and standalone applications*.
+#### *This database contains* **1799** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1242,8 +1242,7 @@
 | [***proton-5.11***](apps/proton-5.11.md) | *Appimage for Wine Proton 32-bit to run on no-multilib systems.*..[ read more! ](apps/proton-5.11.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/proton-5.11) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/proton-5.11) |
 | [***protonmail-desktop***](apps/protonmail-desktop.md) | *Unofficial Electron wrapper for ProtonMail.*..[ read more! ](apps/protonmail-desktop.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/protonmail-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/protonmail-desktop) |
 | [***protonup-qt***](apps/protonup-qt.md) | *Manage Proton-GE/Luxtorpeda for Steam/Wine-GE for Lutris.*..[ read more! ](apps/protonup-qt.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/protonup-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/protonup-qt) |
-| [***prusacontrol***](apps/prusacontrol.md) | *Alternative user interface for Slic3r Prusa Edition.*..[ read more! ](apps/prusacontrol.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/prusacontrol) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/prusacontrol) |
-| [***prusa-slicer-bin***](apps/prusa-slicer-bin.md) | *G-code generator for 3D printers.*..[ read more! ](apps/prusa-slicer-bin.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/prusa-slicer-bin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/prusa-slicer-bin) |
+| [***prusa-slicer***](apps/prusa-slicer.md) | *Prusa3d/PrusaSlicer, G-code generator for 3D printers.*..[ read more! ](apps/prusa-slicer.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/prusa-slicer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/prusa-slicer) |
 | [***psi+***](apps/psi+.md) | *Communicate over the XMPP network.*..[ read more! ](apps/psi+.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/psi+) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/psi+) |
 | [***pstube***](apps/pstube.md) | *Watch and download videos without ads.*..[ read more! ](apps/pstube.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/pstube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/pstube) |
 | [***publii***](apps/publii.md) | *A desktop-based CMS that makes creating static websites fast.*..[ read more! ](apps/publii.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/publii) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/publii) |
