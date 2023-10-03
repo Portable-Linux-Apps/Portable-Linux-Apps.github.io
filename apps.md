@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1800** *Appimage packages and standalone applications*.
+#### *This database contains* **1801** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -529,6 +529,7 @@
 | [***firetv-toolkit***](apps/firetv-toolkit.md) | *Android-Toolkit, a GUI for adb, modify android devices.*..[ read more! ](apps/firetv-toolkit.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/firetv-toolkit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/firetv-toolkit) |
 | [***fish***](apps/fish.md) | *AppImage for `fish` shell.*..[ read more! ](apps/fish.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/fish) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/fish) |
 | [***fishing-funds***](apps/fishing-funds.md) | *Fund, big market, stock, virtual currency status (in chinese).*..[ read more! ](apps/fishing-funds.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/fishing-funds) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/fishing-funds) |
+| [***flacon***](apps/flacon.md) | *Audio File Encoder. Extracts audio tracks from audio CDs.*..[ read more! ](apps/flacon.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/flacon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/flacon) |
 | [***flameshot***](apps/flameshot.md) | *Tool to take screenshots with many built-in features (graphics).*..[ read more! ](apps/flameshot.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/flameshot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/flameshot) |
 | [***flare***](apps/flare.md) | *Fantasy action RPG game using the FLARE engine.*..[ read more! ](apps/flare.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/flare) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/flare) |
 | [***flawesome***](apps/flawesome.md) | *Flawesome is a modern productivity tool.*..[ read more! ](apps/flawesome.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/flawesome) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/flawesome) |
