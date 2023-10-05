@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1801** *Appimage packages and standalone applications*.
+#### *This database contains* **1802** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -111,6 +111,7 @@
 | [***authme***](apps/authme.md) | *Simple cross-platform two-factor authenticator app for desktop.*..[ read more! ](apps/authme.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/authme) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/authme) |
 | [***autoedit2***](apps/autoedit2.md) | *autoEdit2 Desktop Client for Linux.*..[ read more! ](apps/autoedit2.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/autoedit2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/autoedit2) |
 | [***avidemux***](apps/avidemux.md) | *Multiplatform Video Editor.*..[ read more! ](apps/avidemux.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/avidemux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/avidemux) |
+| [***avidemux-nightly***](apps/avidemux-nightly.md) | *Multiplatform Video Editor (nightly build).*..[ read more! ](apps/avidemux-nightly.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/avidemux-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/avidemux-nightly) |
 | [***avocado***](apps/avocado.md) | *PlayStation 1 emulator (games).*..[ read more! ](apps/avocado.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/avocado) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/avocado) |
 | [***avogadro2***](apps/avogadro2.md) | *Molecular editor for computational chemistry, bioinformatics.*..[ read more! ](apps/avogadro2.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/avogadro2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/avogadro2) |
 | [***awakened-poe-trade***](apps/awakened-poe-trade.md) | *Path of Exile trading app for price checking.*..[ read more! ](apps/awakened-poe-trade.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/awakened-poe-trade) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/awakened-poe-trade) |
