@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1802** *Appimage packages and standalone applications*.
+#### *This database contains* **1803** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -722,6 +722,7 @@
 | [***james***](apps/james.md) | *HTTP/HTTPS proxy built in Electron and React.*..[ read more! ](apps/james.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/james) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/james) |
 | [***jaxx-liberty-appimage***](apps/jaxx-liberty-appimage.md) | *Cross-platform Blockchain Wallet.*..[ read more! ](apps/jaxx-liberty-appimage.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/jaxx-liberty-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/jaxx-liberty-appimage) |
 | [***jellyamp-appimage***](apps/jellyamp-appimage.md) | *A client for listening to music from a Jellyfin server.*..[ read more! ](apps/jellyamp-appimage.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/jellyamp-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/jellyamp-appimage) |
+| [***jetbrains-toolbox***](apps/jetbrains-toolbox.md) | *Essential tools for software developers and teams.*..[ read more! ](apps/jetbrains-toolbox.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/jetbrains-toolbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/jetbrains-toolbox) |
 | [***jexiftoolgui***](apps/jexiftoolgui.md) | *Java/Swing graphical frontend for ExifTool.*..[ read more! ](apps/jexiftoolgui.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/jexiftoolgui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/jexiftoolgui) |
 | [***jfcord***](apps/jfcord.md) | *An Jellyfin rich presence client for Discord.*..[ read more! ](apps/jfcord.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/jfcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/jfcord) |
 | [***jimud***](apps/jimud.md) | *MUD client for ShadowMUD.com, based on webclient.*..[ read more! ](apps/jimud.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/jimud) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/jimud) |
