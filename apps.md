@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1803** *Appimage packages and standalone applications*.
+#### *This database contains* **1804** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1356,6 +1356,7 @@
 | [***rpan-studio***](apps/rpan-studio.md) | *OBS Studio with RPAN integration.*..[ read more! ](apps/rpan-studio.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/rpan-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/rpan-studio) |
 | [***rpcs3***](apps/rpcs3.md) | *An open-source PlayStation 3 emulator/debugger written in C++.*..[ read more! ](apps/rpcs3.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/rpcs3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/rpcs3) |
 | [***rssguard***](apps/rssguard.md) | *Feed reader which supports RSS/ATOM/JSON (no-webengine version).*..[ read more! ](apps/rssguard.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/rssguard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/rssguard) |
+| [***rstudio***](apps/rstudio.md) | *RStudio is an integrated development environment (IDE) for R.*..[ read more! ](apps/rstudio.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/rstudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/rstudio) |
 | [***rtneuron***](apps/rtneuron.md) | *Framework for geometrically detailed neuron simulations.*..[ read more! ](apps/rtneuron.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/rtneuron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/rtneuron) |
 | [***rufus***](apps/rufus.md) | *Logiciel de gestion de cabinet d'Ophtalmologie.*..[ read more! ](apps/rufus.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/rufus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/rufus) |
 | [***runanode***](apps/runanode.md) | *Lets run a node.*..[ read more! ](apps/runanode.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/runanode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/runanode) |
