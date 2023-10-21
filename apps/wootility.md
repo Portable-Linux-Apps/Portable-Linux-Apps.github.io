@@ -1,4 +1,4 @@
-# WOOTILITY-LEKKER-APPIMAGE
+# WOOTILITY
  
  Utility for configuring Wooting keyboards (binary AppImage version)
  
