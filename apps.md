@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1790** *Appimage packages and standalone applications*.
+#### *This database contains* **1789** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -211,7 +211,6 @@
 | [***cabal-desktop***](apps/cabal-desktop.md) | *Cabal p2p offline-first desktop application.*..[ read more! ](apps/cabal-desktop.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cabal-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cabal-desktop) |
 | [***cacher***](apps/cacher.md) | *Cacher is a code snippet library for professional developers.*..[ read more! ](apps/cacher.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cacher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cacher) |
 | [***cadmus-appimage***](apps/cadmus-appimage.md) | *Pulse Audio real-time noise suppression plugin.*..[ read more! ](apps/cadmus-appimage.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cadmus-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cadmus-appimage) |
-| [***cajviewer-appimage***](apps/cajviewer-appimage.md) | *CAJViewer for Linux.*..[ read more! ](apps/cajviewer-appimage.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cajviewer-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cajviewer-appimage) |
 | [***calculist***](apps/calculist.md) | *Desktop version of Calculist.io.*..[ read more! ](apps/calculist.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/calculist) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/calculist) |
 | [***capbattleship***](apps/capbattleship.md) | *Battleship game with a pirate theme.*..[ read more! ](apps/capbattleship.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/capbattleship) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/capbattleship) |
 | [***caprine***](apps/caprine.md) | *Unofficial, elegant privacy focused Facebook Messenger app.*..[ read more! ](apps/caprine.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/caprine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/caprine) |
