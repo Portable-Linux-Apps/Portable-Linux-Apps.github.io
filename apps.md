@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1787** *Appimage packages and standalone applications*.
+#### *This database contains* **1786** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -443,8 +443,7 @@
 | [***eternal-lands***](apps/eternal-lands.md) | *3D fantasy multiplayer online role playing game.*..[ read more! ](apps/eternal-lands.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/eternal-lands) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/eternal-lands) |
 | [***eternalmodmanager***](apps/eternalmodmanager.md) | *A cross platform mod manager for DOOM Eternal.*..[ read more! ](apps/eternalmodmanager.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/eternalmodmanager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/eternalmodmanager) |
 | [***etherealengine-cc***](apps/etherealengine-cc.md) | *App for managing Ethereal Engine cluster.*..[ read more! ](apps/etherealengine-cc.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/etherealengine-cc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/etherealengine-cc) |
-| [***eudic***](apps/eudic.md) | *English dictionary for the Chinese language.*..[ read more! ](apps/eudic.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/eudic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/eudic) |
-| [***eudic-ting***](apps/eudic-ting.md) | *Chinese app to learn english (listen statistics/note synch...).*..[ read more! ](apps/eudic-ting.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/eudic-ting) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/eudic-ting) |
+| [***eudic***](apps/eudic.md) | *Chinese app to learn english (listen statistics/note synch...).*..[ read more! ](apps/eudic.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/eudic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/eudic) |
 | [***everinst***](apps/everinst.md) | *An installer for the Everest mod loader.*..[ read more! ](apps/everinst.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/everinst) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/everinst) |
 | [***evoplex***](apps/evoplex.md) | *Agent-based modeling.*..[ read more! ](apps/evoplex.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/evoplex) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/evoplex) |
 | [***excel-parser-processor***](apps/excel-parser-processor.md) | *Generates an array of items from the rows.*..[ read more! ](apps/excel-parser-processor.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/excel-parser-processor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/excel-parser-processor) |
