@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1788** *Appimage packages and standalone applications*.
+#### *This database contains* **1787** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -404,7 +404,6 @@
 | [***electron-mail***](apps/electron-mail.md) | *Unofficial ProtonMail Desktop App.*..[ read more! ](apps/electron-mail.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/electron-mail) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/electron-mail) |
 | [***electronreact-appimage***](apps/electronreact-appimage.md) | *Desktop application using Electron and React.*..[ read more! ](apps/electronreact-appimage.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/electronreact-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/electronreact-appimage) |
 | [***electron-react-boilerplate***](apps/electron-react-boilerplate.md) | *A Foundation for Scalable Cross-Platform Apps.*..[ read more! ](apps/electron-react-boilerplate.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/electron-react-boilerplate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/electron-react-boilerplate) |
-| [***electron-ssr-appimage***](apps/electron-ssr-appimage.md) | *Install electron-ssr from appimage.*..[ read more! ](apps/electron-ssr-appimage.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/electron-ssr-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/electron-ssr-appimage) |
 | [***electron-ssr***](apps/electron-ssr.md) | *Install electron-ssr from appimage.*..[ read more! ](apps/electron-ssr.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/electron-ssr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/electron-ssr) |
 | [***electron-utils***](apps/electron-utils.md) | *Electron Utils for every day usage as a dev.*..[ read more! ](apps/electron-utils.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/electron-utils) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/electron-utils) |
 | [***electron-wechat***](apps/electron-wechat.md) | *Wechat desktop application.*..[ read more! ](apps/electron-wechat.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/electron-wechat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/electron-wechat) |
