@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1786** *Appimage packages and standalone applications*.
+#### *This database contains* **1785** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1741,8 +1741,7 @@
 | [***wonderpen-appimage***](apps/wonderpen-appimage.md) | *A professional writing app with markdown support.*..[ read more! ](apps/wonderpen-appimage.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/wonderpen-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/wonderpen-appimage) |
 | [***wonderwall***](apps/wonderwall.md) | *Wallpaper manager for Linux.*..[ read more! ](apps/wonderwall.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/wonderwall) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/wonderwall) |
 | [***woocommerce-pos***](apps/woocommerce-pos.md) | *Electron Desktop App for WooCommerce POS*..[ read more! ](apps/woocommerce-pos.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/woocommerce-pos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/woocommerce-pos) |
-| [***wootility-appimage***](apps/wootility-appimage.md) | *Utility for configuring Wooting keyboards.*..[ read more! ](apps/wootility-appimage.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/wootility-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/wootility-appimage) |
-| [***wootility-lekker-appimage***](apps/wootility-lekker-appimage.md) | *Utility for configuring Wooting keyboards.*..[ read more! ](apps/wootility-lekker-appimage.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/wootility-lekker-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/wootility-lekker-appimage) |
+| [***wootility***](apps/wootility.md) | *Utility for configuring Wooting keyboards.*..[ read more! ](apps/wootility.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/wootility) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/wootility) |
 | [***wootomation***](apps/wootomation.md) | *A macro application by Wooting (AppImage version).*..[ read more! ](apps/wootomation.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/wootomation) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/wootomation) |
 | [***workflowy***](apps/workflowy.md) | *A notetaking tool.*..[ read more! ](apps/workflowy.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/workflowy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/workflowy) |
 | [***wowup***](apps/wowup.md) | *WowUp the World of Warcraft addon updater.*..[ read more! ](apps/wowup.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/wowup) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/wowup) |
