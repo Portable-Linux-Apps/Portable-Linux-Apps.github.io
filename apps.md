@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1789** *Appimage packages and standalone applications*.
+#### *This database contains* **1788** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1791,7 +1791,6 @@
 | [***zenkit***](apps/zenkit.md) | *A platform for collaboration and project management.*..[ read more! ](apps/zenkit.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/zenkit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/zenkit) |
 | [***zenroomstudio***](apps/zenroomstudio.md) | *Extensible IDE which targets multiple dev platforms.*..[ read more! ](apps/zenroomstudio.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/zenroomstudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/zenroomstudio) |
 | [***zettlr***](apps/zettlr.md) | *A Markdown Editor for the 21st century.*..[ read more! ](apps/zettlr.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/zettlr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/zettlr) |
-| [***zhisu-ocr***](apps/zhisu-ocr.md) | *Smart speed OCR text recognition, can recognize picture text.*..[ read more! ](apps/zhisu-ocr.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/zhisu-ocr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/zhisu-ocr) |
 | [***zmninja***](apps/zmninja.md) | *Ionic app for Home/Commerical Security Surveillance.*..[ read more! ](apps/zmninja.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/zmninja) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/zmninja) |
 | [***znax***](apps/znax.md) | *Znax is a cross platform puzzle / arcade game using SDL2 libraries.*..[ read more! ](apps/znax.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/znax) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/znax) |
 | [***znote***](apps/znote.md) | *A Beautiful markdown editor inspired by Jupyter.*..[ read more! ](apps/znote.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/znote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/znote) |
