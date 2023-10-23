@@ -1,8 +1,8 @@
-# CROMAGRALLY
+# NANOSAUR2
 
- The wildest racing game since man invented the wheel!
+ Pangea Software’s Nanosaur II for modern systems.
 
- SITE: https://github.com/jorio/CroMagRally
+ SITE: https://github.com/jorio/Nanosaur2
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
