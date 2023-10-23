@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1791** *Appimage packages and standalone applications*.
+#### *This database contains* **1792** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1334,6 +1334,7 @@
 | [***revealed***](apps/revealed.md) | *A platform and store for apps, games, and more.*..[ read more! ](apps/revealed.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/revealed) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/revealed) |
 | [***revolt***](apps/revolt.md) | *Revolt Desktop App.*..[ read more! ](apps/revolt.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/revolt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/revolt) |
 | [***rhb***](apps/rhb.md) | *Rapid HTML Builder/Prototyper.*..[ read more! ](apps/rhb.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/rhb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/rhb) |
+| [***rhythmbox***](apps/rhythmbox.md) | *ArchImage for the Audio Player Rhythmbox.*..[ read more! ](apps/rhythmbox.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/rhythmbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/rhythmbox) |
 | [***ricochet***](apps/ricochet.md) | *Anonymous peer-to-peer instant messaging.*..[ read more! ](apps/ricochet.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ricochet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/ricochet) |
 | [***ridereceipts***](apps/ridereceipts.md) | *Automation app to download and organize your tax invoices.*..[ read more! ](apps/ridereceipts.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ridereceipts) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/ridereceipts) |
 | [***ripcord***](apps/ripcord.md) | *Chat client for group-centric services like Slack and Discord.*..[ read more! ](apps/ripcord.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ripcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/ripcord) |
