@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1792** *Appimage packages and standalone applications*.
+#### *This database contains* **1793** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -639,6 +639,7 @@
 | [***hastyheroes***](apps/hastyheroes.md) | *An endless 2D jumping game.*..[ read more! ](apps/hastyheroes.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/hastyheroes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/hastyheroes) |
 | [***hdrmerge***](apps/hdrmerge.md) | *Merge several raw images into a single DNG raw image.*..[ read more! ](apps/hdrmerge.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/hdrmerge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/hdrmerge) |
 | [***heimer***](apps/heimer.md) | *Simple cross-platform mind map, diagram, and note-taking tool.*..[ read more! ](apps/heimer.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/heimer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/heimer) |
+| [***helio***](apps/helio.md) | *One music sequencer for all major platforms, desktop and mobile.*..[ read more! ](apps/helio.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/helio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/helio) |
 | [***helioslauncher***](apps/helioslauncher.md) | *Custom launcher for modded minecraft written in Electron.*..[ read more! ](apps/helioslauncher.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/helioslauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/helioslauncher) |
 | [***helix***](apps/helix.md) | *A post-modern modal text editor.*..[ read more! ](apps/helix.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/helix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/helix) |
 | [***hermesmessenger***](apps/hermesmessenger.md) | *Desktop client version for Hermes Messenger.*..[ read more! ](apps/hermesmessenger.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/hermesmessenger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/hermesmessenger) |
