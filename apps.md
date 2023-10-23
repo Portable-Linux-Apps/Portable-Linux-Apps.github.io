@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1785** *Appimage packages and standalone applications*.
+#### *This database contains* **1786** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -924,6 +924,7 @@
 | [***microsoft-edge***](apps/microsoft-edge.md) | *Web Browser provided by Microsoft (Stable Edition).*..[ read more! ](apps/microsoft-edge.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/microsoft-edge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/microsoft-edge) |
 | [***midterm***](apps/midterm.md) | *A free note-taking app for studying.*..[ read more! ](apps/midterm.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/midterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/midterm) |
 | [***miesimulatorgui***](apps/miesimulatorgui.md) | *MieSimulatorGUI by Virtual Photonics.*..[ read more! ](apps/miesimulatorgui.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/miesimulatorgui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/miesimulatorgui) |
+| [***milkytracker***](apps/milkytracker.md) | *An FT2 compatible music tracker.*..[ read more! ](apps/milkytracker.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/milkytracker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/milkytracker) |
 | [***mindmapp***](apps/mindmapp.md) | *Electron application to draw mind maps.*..[ read more! ](apps/mindmapp.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mindmapp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/mindmapp) |
 | [***minecraft-launcher***](apps/minecraft-launcher.md) | *Game downloader and launcher for Minecraft.*..[ read more! ](apps/minecraft-launcher.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/minecraft-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/minecraft-launcher) |
 | [***minetest***](apps/minetest.md) | *Multiplayer infinite-world block sandbox.*..[ read more! ](apps/minetest.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/minetest) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/minetest) |
