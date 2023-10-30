@@ -5,7 +5,5 @@
 
  SITE: https://runjs.app
 
- SOURCE: https://aur.archlinux.org/packages/runjs-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

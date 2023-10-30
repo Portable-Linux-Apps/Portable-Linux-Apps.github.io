@@ -5,7 +5,5 @@
 
  SITE: https://tanknee.github.io/Memocast
 
- SOURCE: https://aur.archlinux.org/packages/memocast-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

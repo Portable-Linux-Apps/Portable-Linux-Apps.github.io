@@ -6,7 +6,5 @@
 
  SITE: https://github.com/yetone/openai-translator
 
- SOURCE: https://aur.archlinux.org/packages/open-ai-translator-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

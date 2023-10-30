@@ -5,7 +5,5 @@
 
  SITE: https://github.com/Sandakan/Nora
 
- SOURCE: https://aur.archlinux.org/packages/nora-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

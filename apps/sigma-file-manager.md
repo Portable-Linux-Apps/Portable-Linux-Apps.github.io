@@ -5,7 +5,5 @@
 
  SITE: https://github.com/aleksey-hoffman/sigma-file-manager
 
- SOURCE: https://aur.archlinux.org/packages/sigma-file-manager-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

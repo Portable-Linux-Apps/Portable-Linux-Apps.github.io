@@ -6,7 +6,5 @@
 
  SITE: https://nuclia.com/
 
- SOURCE: https://aur.archlinux.org/packages/nuclia-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

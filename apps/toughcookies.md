@@ -5,7 +5,5 @@
 
  SITE: https://www.toughcookies.net/
 
- SOURCE: https://aur.archlinux.org/packages/toughcookies-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

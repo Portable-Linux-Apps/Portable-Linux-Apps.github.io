@@ -6,7 +6,5 @@
 
  SITE: https://github.com/redisviewer/RedisViewer
 
- SOURCE: https://aur.archlinux.org/packages/redis-viewer-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

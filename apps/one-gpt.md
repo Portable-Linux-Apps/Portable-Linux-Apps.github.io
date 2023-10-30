@@ -4,7 +4,5 @@
 
  SITE: https://github.com/1595901624/gpt-aggregated-edition
 
- SOURCE: https://aur.archlinux.org/packages/one-gpt-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

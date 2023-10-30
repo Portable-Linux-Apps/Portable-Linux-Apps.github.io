@@ -9,9 +9,7 @@
 
  SITE: https://www.ocenaudio.com
  
- SOURCE: https://aur.archlinux.org/packages/ocenaudio-bin
  
  APPIMAGE: https://github.com/ivan-hc/ocenaudio-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

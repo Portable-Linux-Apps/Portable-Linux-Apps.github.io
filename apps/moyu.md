@@ -4,7 +4,5 @@
 
  SITE: https://online.jobtool.cn/
 
- SOURCE: https://aur.archlinux.org/packages/moyu-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

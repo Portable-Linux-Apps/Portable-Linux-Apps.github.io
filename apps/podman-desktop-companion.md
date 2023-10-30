@@ -5,7 +5,5 @@
 
  SITE: https://iongion.github.io/podman-desktop-companion/
 
- SOURCE: https://aur.archlinux.org/packages/podman-desktop-companion-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

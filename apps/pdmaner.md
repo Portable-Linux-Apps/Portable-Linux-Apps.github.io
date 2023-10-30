@@ -7,7 +7,5 @@
 
  SITE: http://www.pdmaner.com
 
- SOURCE: https://aur.archlinux.org/packages/pdmaner-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -4,7 +4,5 @@
 
  SITE: https://github.com/mortbopet/Ripes
 
- SOURCE: https://aur.archlinux.org/packages/ripes-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -5,7 +5,5 @@
 
  SITE: https://getoutline.org
 
- SOURCE: https://aur.archlinux.org/packages/outline-client-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

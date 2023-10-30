@@ -4,7 +4,5 @@
 
  SITE: https://rolandbernard.github.io/marvin/
 
- SOURCE: https://aur.archlinux.org/packages/marvin-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -5,7 +5,5 @@
 
  SITE: https://github.com/Alex313031/promethium
 
- SOURCE: https://aur.archlinux.org/packages/promethium-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
