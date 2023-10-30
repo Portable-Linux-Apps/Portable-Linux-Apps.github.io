@@ -6,7 +6,5 @@
 
  SITE: https://github.com/thomasheckmann/zxinfo-file-browser
 
- SOURCE: https://aur.archlinux.org/packages/zxinfo-file-browser-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

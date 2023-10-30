@@ -6,7 +6,5 @@
 
  SITE: https://github.com/webrecorder/webrecorder-desktop
 
- SOURCE: https://aur.archlinux.org/packages/webrecorder-desktop-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

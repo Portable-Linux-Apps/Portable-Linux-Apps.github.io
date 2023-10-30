@@ -5,7 +5,5 @@
 
  SITE: https://visualfamilytree.jisco.me
 
- SOURCE: https://aur.archlinux.org/packages/visualfamilytree-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

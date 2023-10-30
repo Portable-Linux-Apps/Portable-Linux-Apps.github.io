@@ -4,7 +4,5 @@
 
  SITE: https://github.com/altairwei/WizNotePlus
 
- SOURCE: https://aur.archlinux.org/packages/wiznoteplus-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

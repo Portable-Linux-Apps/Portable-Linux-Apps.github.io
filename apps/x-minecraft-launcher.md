@@ -5,7 +5,5 @@
 
  SITE: https://xmcl.app/
 
- SOURCE: https://aur.archlinux.org/packages/x-minecraft-launcher-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -6,7 +6,5 @@
 
  SITE: https://vircadia.com/
 
- SOURCE: https://aur.archlinux.org/packages/vircadia-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

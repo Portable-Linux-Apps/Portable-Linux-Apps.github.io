@@ -6,7 +6,5 @@
 
  SITE: https://www.yuque.com/
 
- SOURCE: https://aur.archlinux.org/packages/unoffical-yuque-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

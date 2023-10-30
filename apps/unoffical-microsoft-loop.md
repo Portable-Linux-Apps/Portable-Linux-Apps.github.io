@@ -6,7 +6,5 @@
 
  SITE: https://www.microsoft.com/en-us/microsoft-loop
 
- SOURCE: https://aur.archlinux.org/packages/unoffical-microsoft-loop-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
