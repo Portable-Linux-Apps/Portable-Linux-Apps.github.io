@@ -6,7 +6,5 @@
 
  SITE: http://dict.eudic.net/ting/
 
- SOURCE: https://aur.archlinux.org/packages/eudic-ting-en-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

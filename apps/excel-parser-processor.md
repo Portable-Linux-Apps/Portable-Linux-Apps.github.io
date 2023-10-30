@@ -6,7 +6,5 @@
 
  SITE: https://github.com/btargac/excel-parser-processor
 
- SOURCE: https://aur.archlinux.org/packages/excel-parser-processor-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

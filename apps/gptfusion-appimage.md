@@ -4,7 +4,5 @@
 
  SITE: https://github.com/lpdswing/GPTFusion
 
- SOURCE: https://aur.archlinux.org/packages/gptfusion-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -5,7 +5,5 @@
 
  SITE: https://github.com/Bin-Huang/chatbox
 
- SOURCE: https://aur.archlinux.org/packages/chatbox-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

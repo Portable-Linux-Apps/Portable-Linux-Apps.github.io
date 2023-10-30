@@ -6,7 +6,5 @@
 
  SITE: https://apifox.com/
 
- SOURCE: https://aur.archlinux.org/packages/apifox-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

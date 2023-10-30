@@ -9,9 +9,7 @@
 
  SITE: https://www.gimp.org
 
- SOURCE: https://aur.archlinux.org/packages/gimp-devel
 
  APPIMAGE: https://github.com/ivan-hc/GIMP-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

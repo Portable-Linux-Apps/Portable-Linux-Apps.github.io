@@ -5,7 +5,5 @@
 
  SITE: https://github.com/straightcurve/better-osuskills
 
- SOURCE: https://aur.archlinux.org/packages/better-osu-skills-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

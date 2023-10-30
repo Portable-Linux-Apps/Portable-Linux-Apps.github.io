@@ -6,7 +6,5 @@
 
  SITE: http://chatall.ai/
 
- SOURCE: https://aur.archlinux.org/packages/chatall-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

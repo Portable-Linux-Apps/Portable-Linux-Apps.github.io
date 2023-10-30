@@ -4,7 +4,5 @@
 
  SITE: https://f1mvli.jstt.me/
 
- SOURCE: https://aur.archlinux.org/packages/f1mv-lights-integration-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

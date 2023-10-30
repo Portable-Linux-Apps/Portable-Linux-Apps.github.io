@@ -5,7 +5,5 @@
 
  SITE: https://github.com/finos/FDC3-Sail
 
- SOURCE: https://aur.archlinux.org/packages/fdc3-sail-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

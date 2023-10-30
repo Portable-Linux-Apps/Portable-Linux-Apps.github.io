@@ -4,7 +4,5 @@
 
  SITE: https://github.com/docmirror/dev-sidecar
 
- SOURCE: https://aur.archlinux.org/packages/devsidecar-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

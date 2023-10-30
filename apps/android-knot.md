@@ -6,7 +6,5 @@
 
  SITE: https://github.com/ic005k/Knot
 
- SOURCE: https://aur.archlinux.org/packages/android-knot-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

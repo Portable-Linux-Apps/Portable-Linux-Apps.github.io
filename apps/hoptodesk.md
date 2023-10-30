@@ -5,7 +5,5 @@
 
  SITE: https://www.hoptodesk.com
 
- SOURCE: https://aur.archlinux.org/packages/hoptodesk-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

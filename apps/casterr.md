@@ -5,7 +5,5 @@
 
  SITE: https://casterr.sbond.co/
 
- SOURCE: https://aur.archlinux.org/packages/casterr-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

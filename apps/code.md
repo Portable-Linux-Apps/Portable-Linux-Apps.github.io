@@ -9,7 +9,5 @@
 
  SITE: https://code.visualstudio.com/
 
- SOURCE: https://aur.archlinux.org/packages/visual-studio-code-bin
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

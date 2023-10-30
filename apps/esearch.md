@@ -5,7 +5,5 @@
 
  SITE: https://esearch-app.netlify.app/
 
- SOURCE: https://aur.archlinux.org/packages/esearch-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

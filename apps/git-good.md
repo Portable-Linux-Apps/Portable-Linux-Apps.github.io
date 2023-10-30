@@ -5,7 +5,5 @@
 
  SITE: https://github.com/weedz/git-good
 
- SOURCE: https://aur.archlinux.org/packages/git-good-appimage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

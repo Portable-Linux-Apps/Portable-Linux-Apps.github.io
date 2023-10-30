@@ -7,9 +7,7 @@
  
  SITE: https://www.dropbox.com
 
- AUR: https://aur.archlinux.org/packages/dropbox
  
  APPIMAGE: https://github.com/ivan-hc/Dropbox-appimage 
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
