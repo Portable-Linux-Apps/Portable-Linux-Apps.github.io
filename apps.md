@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1793** *Appimage packages and standalone applications*.
+#### *This database contains* **1794** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -621,6 +621,7 @@
 | [***graviton***](apps/graviton.md) | *A simple code editor.*..[ read more! ](apps/graviton.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/graviton) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/graviton) |
 | [***gridea***](apps/gridea.md) | *A static blog writing client (一个静态博客写作客户端).*..[ read more! ](apps/gridea.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gridea) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gridea) |
 | [***gridplayer***](apps/gridplayer.md) | *Play videos side-by-side.*..[ read more! ](apps/gridplayer.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gridplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gridplayer) |
+| [***gridsync***](apps/gridsync.md) | *Synchronize local directories with Tahoe-LAFS storage grids.*..[ read more! ](apps/gridsync.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gridsync) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gridsync) |
 | [***grinplusplus***](apps/grinplusplus.md) | *A C++ Grin Node & Wallet.*..[ read more! ](apps/grinplusplus.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/grinplusplus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/grinplusplus) |
 | [***groot***](apps/groot.md) | *Graphical Editor to create BehaviorTrees.*..[ read more! ](apps/groot.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/groot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/groot) |
 | [***grx***](apps/grx.md) | *Fastest Web Gerber Renderer.*..[ read more! ](apps/grx.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/grx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/grx) |
