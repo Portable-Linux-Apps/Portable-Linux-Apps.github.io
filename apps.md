@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1795** *Appimage packages and standalone applications*.
+#### *This database contains* **1796** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -316,6 +316,7 @@
 | [***cromberg***](apps/cromberg.md) | *Personal accounting system.*..[ read more! ](apps/cromberg.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cromberg) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cromberg) |
 | [***crosscode-map-editor***](apps/crosscode-map-editor.md) | *Map Editor for CrossCode.*..[ read more! ](apps/crosscode-map-editor.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/crosscode-map-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/crosscode-map-editor) |
 | [***crossmobile***](apps/crossmobile.md) | *Create native iOS/Android/Windows apps in Java.*..[ read more! ](apps/crossmobile.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/crossmobile) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/crossmobile) |
+| [***crow-translate***](apps/crow-translate.md) | *Translate and speak text using Google, Yandex, Bing and more.*..[ read more! ](apps/crow-translate.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/crow-translate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/crow-translate) |
 | [***cryplicity***](apps/cryplicity.md) | *Electron application boilerplate.*..[ read more! ](apps/cryplicity.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cryplicity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cryplicity) |
 | [***crypter***](apps/crypter.md) | *An innovative, convenient and secure crypto app.*..[ read more! ](apps/crypter.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/crypter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/crypter) |
 | [***cryptocam-companion***](apps/cryptocam-companion.md) | *GUI to decrypt videos taken by Cryptocam.*..[ read more! ](apps/cryptocam-companion.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cryptocam-companion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cryptocam-companion) |
