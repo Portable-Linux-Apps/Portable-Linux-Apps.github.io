@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1796** *Appimage packages and standalone applications*.
+#### *This database contains* **1797** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -901,6 +901,7 @@
 | [***martian***](apps/martian.md) | *Websocket testing tool.*..[ read more! ](apps/martian.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/martian) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/martian) |
 | [***marvin***](apps/marvin.md) | *Open Source record and playback test automation for the web.*..[ read more! ](apps/marvin.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/marvin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/marvin) |
 | [***mastervyrn***](apps/mastervyrn.md) | *MasterVyrn is a clean dedicated GBF loader.*..[ read more! ](apps/mastervyrn.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mastervyrn) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/mastervyrn) |
+| [***mate-system-monitor***](apps/mate-system-monitor.md) | *Process viewer and system resource monitor (from MATE).*..[ read more! ](apps/mate-system-monitor.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mate-system-monitor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/mate-system-monitor) |
 | [***mattermost-desktop***](apps/mattermost-desktop.md) | *Secure collaboration across entire software development.*..[ read more! ](apps/mattermost-desktop.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mattermost-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/mattermost-desktop) |
 | [***mazesolver***](apps/mazesolver.md) | *A tool which shows how different algorithms solves mazes.*..[ read more! ](apps/mazesolver.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mazesolver) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/mazesolver) |
 | [***mbcord-appimage***](apps/mbcord-appimage.md) | *An Emby/Jellyfin rich presence client for Discord.*..[ read more! ](apps/mbcord-appimage.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mbcord-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/mbcord-appimage) |
