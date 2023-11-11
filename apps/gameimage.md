@@ -20,9 +20,9 @@
  install, no dependencies required.
  - Storage, Smaller file sizes than loose files, since appimage uses squashfs.
  
- ![video](https://gitlab.com/formigoni/gameimage/-/raw/master/doc/not-aidan-tutorial.mp4)
-
  SITE: https://gitlab.com/formigoni/gameimage
+
+ VIDEO-TUTORIAL: https://gitlab.com/formigoni/gameimage/-/raw/master/doc/not-aidan-tutorial.mp4
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
