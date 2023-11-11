@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1797** *Appimage packages and standalone applications*.
+#### *This database contains* **1798** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -561,6 +561,7 @@
 | [***galacteek***](apps/galacteek.md) | *IPFS Multi-platform browser for the distributed web.*..[ read more! ](apps/galacteek.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/galacteek) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/galacteek) |
 | [***gallery-dl***](apps/gallery-dl.md) | *Command-line program to download image galleries and collections.*..[ read more! ](apps/gallery-dl.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gallery-dl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gallery-dl) |
 | [***gamehub***](apps/gamehub.md) | *Unified library for all your games from different platforms.*..[ read more! ](apps/gamehub.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gamehub) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gamehub) |
+| [***gameimage***](apps/gameimage.md) | *Pack a runner/emulator/game and it's configs in a single AppImage.*..[ read more! ](apps/gameimage.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gameimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gameimage) |
 | [***gams-studio***](apps/gams-studio.md) | *Development environment of General Algebraic Modeling System.*..[ read more! ](apps/gams-studio.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gams-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gams-studio) |
 | [***ganache***](apps/ganache.md) | *Personal Blockchain for Ethereum (latest AppImage for Linux).*..[ read more! ](apps/ganache.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ganache) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/ganache) |
 | [***gaphor***](apps/gaphor.md) | *A UML and SysML modeling application written in Python.*..[ read more! ](apps/gaphor.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gaphor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gaphor) |
