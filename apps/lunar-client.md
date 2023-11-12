@@ -1,6 +1,6 @@
 # LUNAR-CLIENT
  
- Lunar Client
+ Lunar Client Free Minecraft Client, a modpack for all versions of Minecraft.
  
  SITE: https://www.lunarclient.com
 
