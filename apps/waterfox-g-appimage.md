@@ -8,7 +8,7 @@
  
  This is the Unofficial AppImage.
  
- ![image](https://www.waterfox.net/_astro/browser.08dcf237.svg)
+ ![image](https://i.imgur.com/HHPG3Re.jpeg)
 
  SITE: https://github.com/hawkeye116477/waterfox-deb-rpm-arch-AppImage
 
