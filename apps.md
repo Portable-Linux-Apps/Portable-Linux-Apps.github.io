@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1833** *Appimage packages and standalone applications*.
+#### *This database contains* **1834** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -388,6 +388,7 @@
 | [***doublecmd-gtk***](apps/doublecmd-gtk.md) | *Two-panel file manager, also known as Double Commander.*..[ read more! ](apps/doublecmd-gtk.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/doublecmd-gtk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/doublecmd-gtk) |
 | [***doublecmd-qt***](apps/doublecmd-qt.md) | *Two-panel file manager, also known as Double Commander.*..[ read more! ](apps/doublecmd-qt.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/doublecmd-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/doublecmd-qt) |
 | [***downline***](apps/downline.md) | *A cross-platform video and audio downloader.*..[ read more! ](apps/downline.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/downline) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/downline) |
+| [***dragdrop***](apps/dragdrop.md) | *Small drag-and-drop file source for the command line.*..[ read more! ](apps/dragdrop.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dragdrop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/dragdrop) |
 | [***dragoman***](apps/dragoman.md) | *GUI for polyglot.*..[ read more! ](apps/dragoman.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dragoman) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/dragoman) |
 | [***draw.io***](apps/draw.io.md) | *draw.io desktop.*..[ read more! ](apps/draw.io.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/draw.io) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/draw.io) |
 | [***drawpile***](apps/drawpile.md) | *Drawing program to sketch on the same canvas simultaneously.*..[ read more! ](apps/drawpile.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/drawpile) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/drawpile) |
