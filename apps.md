@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1834** *Appimage packages and standalone applications*.
+#### *This database contains* **1838** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -219,6 +219,10 @@
 | [***cacher***](apps/cacher.md) | *Cacher is a code snippet library for professional developers.*..[ read more! ](apps/cacher.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cacher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cacher) |
 | [***cadmus-appimage***](apps/cadmus-appimage.md) | *Pulse Audio real-time noise suppression plugin.*..[ read more! ](apps/cadmus-appimage.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cadmus-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cadmus-appimage) |
 | [***calculist***](apps/calculist.md) | *Desktop version of Calculist.io.*..[ read more! ](apps/calculist.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/calculist) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/calculist) |
+| [***calm-circles***](apps/calm-circles.md) | *Calm down and draw something, in Lisp.*..[ read more! ](apps/calm-circles.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/calm-circles) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/calm-circles) |
+| [***calm-fan***](apps/calm-fan.md) | *Calm down and draw something, in Lisp.*..[ read more! ](apps/calm-fan.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/calm-fan) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/calm-fan) |
+| [***calm-meditator***](apps/calm-meditator.md) | *Calm down and draw something, in Lisp.*..[ read more! ](apps/calm-meditator.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/calm-meditator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/calm-meditator) |
+| [***calm-mondrian***](apps/calm-mondrian.md) | *Calm down and draw something, in Lisp.*..[ read more! ](apps/calm-mondrian.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/calm-mondrian) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/calm-mondrian) |
 | [***candycrisis***](apps/candycrisis.md) | *Candy Crisis source port for modern operating systems.*..[ read more! ](apps/candycrisis.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/candycrisis) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/candycrisis) |
 | [***capbattleship***](apps/capbattleship.md) | *Battleship game with a pirate theme.*..[ read more! ](apps/capbattleship.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/capbattleship) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/capbattleship) |
 | [***caprine***](apps/caprine.md) | *Unofficial, elegant privacy focused Facebook Messenger app.*..[ read more! ](apps/caprine.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/caprine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/caprine) |
