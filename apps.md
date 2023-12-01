@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1838** *Appimage packages and standalone applications*.
+#### *This database contains* **1839** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1276,6 +1276,7 @@
 | [***prusa-slicer***](apps/prusa-slicer.md) | *Prusa3d/PrusaSlicer, G-code generator for 3D printers.*..[ read more! ](apps/prusa-slicer.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/prusa-slicer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/prusa-slicer) |
 | [***psi+***](apps/psi+.md) | *Communicate over the XMPP network.*..[ read more! ](apps/psi+.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/psi+) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/psi+) |
 | [***pstube***](apps/pstube.md) | *Watch and download videos without ads.*..[ read more! ](apps/pstube.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/pstube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/pstube) |
+| [***psydoom***](apps/psydoom.md) | *A backport of PSX Doom to PC.*..[ read more! ](apps/psydoom.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/psydoom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/psydoom) |
 | [***publii***](apps/publii.md) | *A desktop-based CMS that makes creating static websites fast.*..[ read more! ](apps/publii.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/publii) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/publii) |
 | [***pullp***](apps/pullp.md) | *Pull request monitoring app for Github.*..[ read more! ](apps/pullp.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/pullp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/pullp) |
 | [***pulsar***](apps/pulsar.md) | *A Community-led Hyper-Hackable Text Editor.*..[ read more! ](apps/pulsar.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/pulsar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/pulsar) |
