@@ -11,7 +11,7 @@
 
 -----------------
 
-| | PACKAGE NAME | DESCRIPTION | INSTALLER |
+|     | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
 | <img src="icons/0ad.png" width="48" height="48"> | [***0ad***](apps/0ad.md) | *FOSS historical Real Time Strategy (RTS) game of ancient warfare.*..[ read more! ](apps/0ad.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/0ad) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/0ad) |
 | <img src="icons/0ad-latest.png" width="48" height="48"> | [***0ad-latest***](apps/0ad-latest.md) | *Real Time Strategy game of ancient warfare (development branch).*..[ read more! ](apps/0ad-latest.md) | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/0ad-latest) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/0ad-latest) |
