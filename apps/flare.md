@@ -13,6 +13,8 @@
  the game data in this repository. Using an older version of the engine 
  could result in some game elements not working correctly.
 
+ ![](https://raw.githubusercontent.com/flareteam/flare-game/master/distribution/screenshot1.jpg)
+
  SITE: https://github.com/flareteam/flare-game
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
