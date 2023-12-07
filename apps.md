@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1839** *Appimage packages and standalone applications*.
+#### *This database contains* **1840** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1288,6 +1288,7 @@
 | <img src="icons/python2.7.png" width="48" height="48"> | [***python2.7***](apps/python2.7.md) | *Interactive high-level object-oriented language (version 2.7).*..[ *read more* ](apps/python2.7.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/python2.7) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/python2.7) |
 | <img src="icons/python3.10.png" width="48" height="48"> | [***python3.10***](apps/python3.10.md) | *Interactive high-level object-oriented language (version 3.10).*..[ *read more* ](apps/python3.10.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/python3.10) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/python3.10) |
 | <img src="icons/python3.11.png" width="48" height="48"> | [***python3.11***](apps/python3.11.md) | *Interactive high-level object-oriented language (version 3.11).*..[ *read more* ](apps/python3.11.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/python3.11) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/python3.11) |
+| <img src="icons/python3.12.png" width="48" height="48"> | [***python3.12***](apps/python3.12.md) | *Interactive high-level object-oriented language (version 3.12).*..[ *read more* ](apps/python3.12.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/python3.12) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/python3.12) |
 | <img src="icons/python3.5.png" width="48" height="48"> | [***python3.5***](apps/python3.5.md) | *Interactive high-level object-oriented language (version 3.5).*..[ *read more* ](apps/python3.5.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/python3.5) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/python3.5) |
 | <img src="icons/python3.6.png" width="48" height="48"> | [***python3.6***](apps/python3.6.md) | *Interactive high-level object-oriented language (version 3.6).*..[ *read more* ](apps/python3.6.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/python3.6) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/python3.6) |
 | <img src="icons/python3.7.png" width="48" height="48"> | [***python3.7***](apps/python3.7.md) | *Interactive high-level object-oriented language (version 3.7).*..[ *read more* ](apps/python3.7.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/python3.7) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/python3.7) |
