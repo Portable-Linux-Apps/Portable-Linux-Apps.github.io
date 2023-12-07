@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1839** *Appimage packages and standalone applications*.
+#### *This database contains* **1838** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -314,7 +314,6 @@
 | <img src="icons/cpeditor.png" width="48" height="48"> | [***cpeditor***](apps/cpeditor.md) | *Code editor specially designed for competitive programming.*..[ *read more* ](apps/cpeditor.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cpeditor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cpeditor) |
 | <img src="icons/cpod.png" width="48" height="48"> | [***cpod***](apps/cpod.md) | *A simple, beautiful podcast app.*..[ *read more* ](apps/cpod.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cpod) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cpod) |
 | <img src="icons/cpu-x.png" width="48" height="48"> | [***cpu-x***](apps/cpu-x.md) | *Software that gathers information on CPU, motherboard and more.*..[ *read more* ](apps/cpu-x.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cpu-x) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cpu-x) |
-| <img src="icons/craftos-pc-accelerated.png" width="48" height="48"> | [***craftos-pc-accelerated***](apps/craftos-pc-accelerated.md) | *Advanced ComputerCraft emulator written in C++.*..[ *read more* ](apps/craftos-pc-accelerated.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/craftos-pc-accelerated) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/craftos-pc-accelerated) |
 | <img src="icons/craftos-pc.png" width="48" height="48"> | [***craftos-pc***](apps/craftos-pc.md) | *Advanced ComputerCraft emulator written in C++.*..[ *read more* ](apps/craftos-pc.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/craftos-pc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/craftos-pc) |
 | <img src="icons/crankshaft.png" width="48" height="48"> | [***crankshaft***](apps/crankshaft.md) | *A sensible krunker client written in typescript.*..[ *read more* ](apps/crankshaft.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/crankshaft) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/crankshaft) |
 | <img src="icons/creality-print.png" width="48" height="48"> | [***creality-print***](apps/creality-print.md) | *Creality Print is a slicer dedicated to FDM printers.*..[ *read more* ](apps/creality-print.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/creality-print) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/creality-print) |
