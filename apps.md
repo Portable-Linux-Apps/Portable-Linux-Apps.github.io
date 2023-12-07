@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1838** *Appimage packages and standalone applications*.
+#### *This database contains* **1837** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -672,7 +672,6 @@
 | <img src="icons/hexinator.png" width="48" height="48"> | [***hexinator***](apps/hexinator.md) | *Hex editor for reverse engineering & binary file analysis.*..[ *read more* ](apps/hexinator.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/hexinator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/hexinator) |
 | <img src="icons/hexoclient.png" width="48" height="48"> | [***hexoclient***](apps/hexoclient.md) | *A cross-platform hexo client, build on electron.*..[ *read more* ](apps/hexoclient.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/hexoclient) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/hexoclient) |
 | <img src="icons/hexoeditor.png" width="48" height="48"> | [***hexoeditor***](apps/hexoeditor.md) | *Markdown editor for Hexo built with Electron.*..[ *read more* ](apps/hexoeditor.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/hexoeditor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/hexoeditor) |
-| <img src="icons/hey.png" width="48" height="48"> | [***hey***](apps/hey.md) | *HEY Mail for Linux as AppImage.*..[ *read more* ](apps/hey.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/hey) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/hey) |
 | <img src="icons/hidpi-fixer.png" width="48" height="48"> | [***hidpi-fixer***](apps/hidpi-fixer.md) | *Fractional scaling configuration on X11 desktops.*..[ *read more* ](apps/hidpi-fixer.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/hidpi-fixer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/hidpi-fixer) |
 | <img src="icons/hoptodesk.png" width="48" height="48"> | [***hoptodesk***](apps/hoptodesk.md) | *Allows users to share their screens and remotely control access.*..[ *read more* ](apps/hoptodesk.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/hoptodesk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/hoptodesk) |
 | <img src="icons/hotspot.png" width="48" height="48"> | [***hotspot***](apps/hotspot.md) | *The Linux perf GUI for performance analysis.*..[ *read more* ](apps/hotspot.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/hotspot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/hotspot) |
