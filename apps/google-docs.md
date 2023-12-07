@@ -5,5 +5,7 @@
 
  SITE: https://complabs.in/apps/google-docs
 
+ SOURCE: https://github.com/Comp-Labs/Google-Docs
+
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
