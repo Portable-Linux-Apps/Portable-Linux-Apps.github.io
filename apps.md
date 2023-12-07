@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1840** *Appimage packages and standalone applications*.
+#### *This database contains* **1839** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -272,7 +272,6 @@
 | <img src="icons/circuitblocks.png" width="48" height="48"> | [***circuitblocks***](apps/circuitblocks.md) | *Helps newbies get into embedded programming.*..[ *read more* ](apps/circuitblocks.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/circuitblocks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/circuitblocks) |
 | <img src="icons/city-hub.png" width="48" height="48"> | [***city-hub***](apps/city-hub.md) | *Hub into everything on City Chain/Smart City Platform.*..[ *read more* ](apps/city-hub.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/city-hub) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/city-hub) |
 | <img src="icons/clash-verge.png" width="48" height="48"> | [***clash-verge***](apps/clash-verge.md) | *A multiplatform Clash GUI based on tauri.*..[ *read more* ](apps/clash-verge.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/clash-verge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/clash-verge) |
-| <img src="icons/clashy-appimage.png" width="48" height="48"> | [***clashy-appimage***](apps/clashy-appimage.md) | *A GUI proxy client based on Clash and Electron.*..[ *read more* ](apps/clashy-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/clashy-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/clashy-appimage) |
 | <img src="icons/cleepdesktop.png" width="48" height="48"> | [***cleepdesktop***](apps/cleepdesktop.md) | *Desktop application to manage your Cleep devices.*..[ *read more* ](apps/cleepdesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cleepdesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cleepdesktop) |
 | <img src="icons/clementineremote.png" width="48" height="48"> | [***clementineremote***](apps/clementineremote.md) | *Remote for Clementine Music Player.*..[ *read more* ](apps/clementineremote.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/clementineremote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/clementineremote) |
 | <img src="icons/cliniface.png" width="48" height="48"> | [***cliniface***](apps/cliniface.md) | *3D Facial Image Visualisation and Analysis.*..[ *read more* ](apps/cliniface.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cliniface) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cliniface) |
