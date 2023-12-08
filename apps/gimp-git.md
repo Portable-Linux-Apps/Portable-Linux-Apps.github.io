@@ -1,17 +1,16 @@
-# GIMP-DEV
+# GIMP-GIT
 
  GIMP (GNU Image Manipulation Program) is a cross-platform image editor.
 
  This is the unofficial AppImage built on top of JuNest, the lightweight 
  Arch Linux based distro that runs on top of any other Linux distro.
  
- GIMP "Dev" is the upcoming version with all latest features and port to
- the more recent technologies.
+ GIMP "GIT" is built from source using the AUR package "gimp-git". 
  
- To build this AppImage I've used the package "gimp-git" from ChaoticAUR
- which is based on "gimp-devel" from the Arch User Repository "AUR".
+ Every feature, even experimental, comes from source code, which may 
+ cause instability.
 
- ![Screenshot](https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/gimp-2-99-2-overview.jpg)
+ ![Screenshot](https://setofskills.com/img/gimp-single-window-mode-in-progress.jpg)
 
  SITE: https://www.gimp.org
 
