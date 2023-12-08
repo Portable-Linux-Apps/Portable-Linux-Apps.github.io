@@ -8,6 +8,8 @@
  keyboard workers.
 
  SITE: https://qwerty.kaiyi.cool
+ 
+ SOURCE: https://github.com/tw93/Pake
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
