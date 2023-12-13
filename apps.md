@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1837** *Appimage packages and standalone applications*.
+#### *This database contains* **1838** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1365,6 +1365,7 @@
 | <img src="icons/redis-viewer-appimage.png" width="48" height="48"> | [***redis-viewer-appimage***](apps/redis-viewer-appimage.md) | *A Redis visualization client tool.*..[ *read more* ](apps/redis-viewer-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/redis-viewer-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/redis-viewer-appimage) |
 | <img src="icons/redminetimetracker.png" width="48" height="48"> | [***redminetimetracker***](apps/redminetimetracker.md) | *Time Tracking tool for Redmine.*..[ *read more* ](apps/redminetimetracker.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/redminetimetracker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/redminetimetracker) |
 | <img src="icons/reliefvalve.png" width="48" height="48"> | [***reliefvalve***](apps/reliefvalve.md) | *Helps manage the Steam client application.*..[ *read more* ](apps/reliefvalve.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/reliefvalve) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/reliefvalve) |
+| <img src="icons/remnote.png" width="48" height="48"> | [***remnote***](apps/remnote.md) | *Build your Knowledge Base anywhere and without distractions.*..[ *read more* ](apps/remnote.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/remnote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/remnote) |
 | <img src="icons/responsively.png" width="48" height="48"> | [***responsively***](apps/responsively.md) | *A browser for developing responsive web apps.*..[ *read more* ](apps/responsively.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/responsively) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/responsively) |
 | <img src="icons/retroarch.png" width="48" height="48"> | [***retroarch***](apps/retroarch.md) | *Frontend for emulators, game engines and media players.*..[ *read more* ](apps/retroarch.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/retroarch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/retroarch) |
 | <img src="icons/retroshare.png" width="48" height="48"> | [***retroshare***](apps/retroshare.md) | *Securely share files with your friends.*..[ *read more* ](apps/retroshare.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/retroshare) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/retroshare) |
