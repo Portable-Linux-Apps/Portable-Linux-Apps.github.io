@@ -2935,6 +2935,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gimp-git.png"
   },
   {
+    "packageName": "gimp-hybrid",
+    "description": "GIMP including third-party plugins and python2 support...",
+    "icon": "https://portable-linux-apps.github.io/icons/gimp-hybrid.png"
+  },
+  {
     "packageName": "gimp",
     "description": "GNU Image Manipulation Program, cross-platform image and photo editor...",
     "icon": "https://portable-linux-apps.github.io/icons/gimp.png"

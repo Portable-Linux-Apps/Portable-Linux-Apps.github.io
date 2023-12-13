@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1838** *Appimage packages and standalone applications*.
+#### *This database contains* **1839** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -600,6 +600,7 @@
 | <img src="icons/gimp-aferrero2707.png" width="48" height="48"> | [***gimp-aferrero2707***](apps/gimp-aferrero2707.md) | *GNU Image Manipulation Program (version 2.10.25).*..[ *read more* ](apps/gimp-aferrero2707.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gimp-aferrero2707) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gimp-aferrero2707) |
 | <img src="icons/gimp-dev.png" width="48" height="48"> | [***gimp-dev***](apps/gimp-dev.md) | *Cross-platform image and photo editor (Developer Edition).*..[ *read more* ](apps/gimp-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gimp-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gimp-dev) |
 | <img src="icons/gimp-git.png" width="48" height="48"> | [***gimp-git***](apps/gimp-git.md) | *Cross-platform image and photo editor (built from GIT).*..[ *read more* ](apps/gimp-git.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gimp-git) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gimp-git) |
+| <img src="icons/gimp-hybrid.png" width="48" height="48"> | [***gimp-hybrid***](apps/gimp-hybrid.md) | *GIMP including third-party plugins and python2 support.*..[ *read more* ](apps/gimp-hybrid.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gimp-hybrid) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gimp-hybrid) |
 | <img src="icons/gimp.png" width="48" height="48"> | [***gimp***](apps/gimp.md) | *GNU Image Manipulation Program, cross-platform image and photo editor.*..[ *read more* ](apps/gimp.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gimp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gimp) |
 | <img src="icons/gingko.png" width="48" height="48"> | [***gingko***](apps/gingko.md) | *Gingko client rewritten in Elm.*..[ *read more* ](apps/gingko.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gingko) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gingko) |
 | <img src="icons/git-good.png" width="48" height="48"> | [***git-good***](apps/git-good.md) | *Just a simple git client using electron and nodegit.*..[ *read more* ](apps/git-good.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/git-good) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/git-good) |
