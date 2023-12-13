@@ -14,6 +14,8 @@
 
  "Hybrid" Is still a work in progress. USE AT YOUR OWN RISK!
 
+ ![gimp-hybrid](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/assets/88724353/9288e9c7-27fc-4a0c-a036-3e3b0480aba2)
+
  SITE: https://www.gimp.org
 
  APPIMAGE: https://github.com/ivan-hc/GIMP-appimage
