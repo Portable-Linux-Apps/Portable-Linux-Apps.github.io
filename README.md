@@ -12,10 +12,11 @@
 - [How is this site different from other sites that list AppImage packages?](#how-is-this-site-different-from-other-sites-that-list-appimage-packages)
 - [Is there a centralized repository for AppImage packages?](#is-there-a-centralized-repository-for-appimage-packages)
 - [How it works?](#how-it-works)
-- [Is there a version of "AM" that does not require root privileges?](#is-there-a-version-of-quotamquot-that-does-not-require-root-privileges)
+  - [AM: System integration as Super User](#am-system-integration-as-super-user)
+  - [AppMan: Portable mode for non-sudo users](#appman-portable-mode-for-non-sudo-users)
 - [Are the applications managed safe?](#are-the-applications-managed-safe)
 - [I've not understand, what should I install to manage all these applications?](#ive-not-understand-what-should-i-install-to-manage-all-these-applications)
-- [The app "Pippo" is not available in the database, how can I upload it?](#the-app-quotpippoquot-is-not-available-in-the-database-how-can-i-upload-it)
+- [The app Pippo is not available in the database, how can I upload it?](#the-app-pippo-is-not-available-in-the-database-how-can-i-upload-it)
 - [Troubleshoot](#troubleshoot)
   - [During an update or an installation the app is not downloaded](#during-an-update-or-an-installation-the-app-is-not-downloaded)
   - [The downloaded AppImage does not work](#the-downloaded-appimage-does-not-work)
@@ -27,7 +28,7 @@ Portable Linux Apps are standalone applications for GNU/Linux that can (theorica
 The main problem with AppImage packages is that many of them couldn't be updated easily because previously there was no centralized repository that could advice users that a new version was available (unlike Snapcraft, FlatHub or the default and more common repositories you can find on your GNU/Linux distro). This gap is filled by this site, since I built one!
 
 ## Is there a centralized repository for AppImage packages?
-Yes, I've called it "[AM](https://github.com/ivan-hc/AM-Application-Manager)" (Application Manager). All the apps listed on this website can be installed, updated and managed through two CLI (Command Line Interfaces) I wrote in bash (being bash the "base" of our GNU/Linux systems). In fact "AM" is also the name of the main CLI I developed, the code is available at [this link](https://github.com/ivan-hc/AM-Application-Manager/blob/main/APP-MANAGER)).
+Yes, I've called it "[AM](https://github.com/ivan-hc/AM-Application-Manager)" (Application Manager). All the apps listed on this website can be installed, updated and managed through two CLI (Command Line Interfaces) I wrote in bash (being bash the "base" of our GNU/Linux systems). In fact "AM" is also the name of the main CLI I developed, the code is available at [this link](https://github.com/ivan-hc/AM-Application-Manager/blob/main/APP-MANAGER).
 
 The [database](https://github.com/ivan-hc/AM-Application-Manager/tree/main/programs) of "AM" does not stores packages but installation scripts, the same way the Arch User Repository (AUR) do, but each script points directly to a program ready to be downloaded (more often as AppImage packages, but also TAR/DEB archives containing directories, scripts, binary files that don't need to be compiled), and in some and really rare cases a script can build on-the-fly AppImage packages in a way similar to an AUR helper using [pkg2appimage](https://github.com/AppImageCommunity/pkg2appimage) and/or [appimagetool](https://github.com/AppImage/AppImageKit).
 
@@ -36,7 +37,10 @@ The [database](https://github.com/ivan-hc/AM-Application-Manager/tree/main/progr
 See "[AM Application Manager](https://github.com/ivan-hc/AM-Application-Manager)" on github for more details.
 
 ## How it works?
-"[AM](https://github.com/ivan-hc/AM-Application-Manager)" is a tool wrote in bash and works at system level (i.e. for all the users). "AM" requires the `sudo` privileges but only to install and remove the app, all the other commands can be executed as a normal user.
+"[AM](https://github.com/ivan-hc/AM-Application-Manager)" is a tool wrote bash, it works at system level (i.e. for all the users, using `sudo`) or in portable mode (to made it work this way, it must be renamed as "[AppMan](https://github.com/ivan-hc/AppMan)").
+
+### AM: System integration as Super User
+"AM" requires the `sudo` privileges but only to install and remove the app, all the other commands can be executed as a normal user.
 To install a program, launch the command:
 
     am -i $PROGRAM
@@ -53,7 +57,7 @@ the program will be installed into a dedicated directory in `/opt` (according to
 If the distro is immutable instead, the path of the launcher (the last line above) will change like this:
 
      /usr/local/share/applications/AM-$PROGRAM.desktop
-From version 4.3.3-1 there is also an option `--user` to enable local installation of programs in the `$HOME` directory using AppMan (jump to the [next paragraph](#is-there-a-version-of-quotamquot-that-does-not-require-root-privileges)).
+From version 4.3.3-1 there is also an option `--user` to enable local installation of programs in the `$HOME` directory using AppMan (jump to the [next paragraph](#appman-portable-mode-for-non-sudo-users)).
 
 To update all the apps at once just run the following command:
 
@@ -63,8 +67,10 @@ To uninstall everything just run:
 
     am -R $PROGRAM
 
-### Is there a version of "AM" that does not require root privileges?
-Yes, it is named "[AppMan](https://github.com/ivan-hc/AppMan)", it allows you to choose where to install your applications into your `$HOME` directory. AppMan is also usable as a portable app (i.e. you can download and place it wherever you want) and it is able to update itself, anywhere! At first start it will ask you where to install the apps and it will create the directory for you (the configuration file is in `~/.config/appman`). For example, suppose you want install everything in "Applicazioni" (the italian of "applications"), this is the structure of what an installation scripts installs with "AppMan" instead:
+### AppMan: Portable mode for non-sudo users
+If renamed "[AppMan](https://github.com/ivan-hc/AppMan)", it allows you to choose where to install your applications into your `$HOME` directory. AppMan is also usable as a portable app (i.e. you can download and place it wherever you want) and it is able to update itself, anywhere!
+
+At first start it will ask you where to install the apps and it will create the directory for you (the configuration file is in `~/.config/appman`). For example, suppose you want install everything in "Applicazioni" (the italian of "applications"), this is the structure of what an installation scripts installs with "AppMan" instead:
 
     ~/Applicazioni/$PROGRAM/
     ~/Applicazioni/$PROGRAM/$PROGRAM
@@ -74,7 +80,7 @@ Yes, it is named "[AppMan](https://github.com/ivan-hc/AppMan)", it allows you to
     ~/.local/bin/$PROGRAM
     ~/.local/share/applications/AM-$PROGRAM.desktop
 
-All AppMan does is to convert [all the installation scripts for "AM"](https://github.com/ivan-hc/AM-Application-Manager/tree/main/programs) (that normally must be executed with ROOT privileges) in normal scripts that can manage applications in the local folder of the current user. This allows more users to be able to better configure their profile.
+All AppMan does is to convert [all the installation scripts for "AM"](https://github.com/ivan-hc/AM-Application-Manager/tree/main/programs) (that normally must be executed with `sudo`) in normal scripts that can manage applications in the local folder of the current user. This allows more users to be able to better configure their profile.
 
 You can already dowload it from [here](https://raw.githubusercontent.com/ivan-hc/AppMan/main/appman) to give it a try without installation.
 
@@ -84,10 +90,10 @@ Visit the repository of "[AppMan](https://github.com/ivan-hc/AppMan)" on github 
 More of them are official programs, others are third-party AppImage packages built from other people (me included), you can see the links to the sources in the application's list ([here](apps.md)) or using the `-a` option of both "AM" and AppMan. If you see an app that steals your data, contains malware or does other bad stuff with your device... please report that app in a [github issue](https://github.com/ivan-hc/AM-Application-Manager/issues) and I'll look into it.
 
 ### I've not understand, what should I install to manage all these applications?
-- AppMan (to install applications only locally), at [https://github.com/ivan-hc/AppMan](https://github.com/ivan-hc/AppMan)
-- AM (to install applications as root user), at [https://github.com/ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager)
+- **AppMan** to install applications only locally, at [https://github.com/ivan-hc/AppMan](https://github.com/ivan-hc/AppMan)
+- **AM** to install applications system-wide as Super User (with `sudo`), at [https://github.com/ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager)
 
-### The app "Pippo" is not available in the database, how can I upload it?
+### The app Pippo is not available in the database, how can I upload it?
 You should do a fork of [https://github.com/ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager), if "AM" or AppMan are installed you can use the option `-t` (or `template`) to create your own script. Just follow the instructions on your terminal, in the end a directory containing all the stuff needed to install the app will be saved on your desktop, upload all the content of this directory on your "fork" and try to merge a pull request, I'll check it and (if everything is OK) I'll approve it. "AM" is open source, like this website. I suggest to start so, in this way we can have both installable apps and web pages to spread to the masses. 
 
 # Troubleshoot
