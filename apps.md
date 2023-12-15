@@ -1856,17 +1856,25 @@
 
 ---
 
-This site, this application list, and all installation scripts are the work of [Ivan-HC](https://github.com/ivan-hc).
-
-You can support me on [PayPal](http://paypal.me/IvanAlexHC).
-
-You can also help improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io),  or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM-Application-Manager/issues)' section of the main database, at [https://github.com/ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager).
+You can improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io),  or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM-Application-Manager/issues)' section of the main database, at [https://github.com/ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager).
 
 ***PORTABLE-LINUX-APPS.github.io is my gift to the Linux community and was made with love for GNU/Linux and the Open Source philosophy.***
 
 ---
 
-
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
+
+--------
+
+# Contacts
+- **Ivan-HC** *on* [**GitHub**](https://github.com/ivan-hc)
+- **AM-Ivan** *on* [**Reddit**](https://www.reddit.com/u/am-ivan)
+
+###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and [**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
+
+--------
+
+*© 2020-present Ivan Alesandro Sala aka 'Ivan-HC'* - I'm here just for fun! 
+
 
