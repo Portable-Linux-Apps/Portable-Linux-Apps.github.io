@@ -67,6 +67,10 @@ To uninstall everything just run:
 
     am -R $PROGRAM
 
+**SEE IT IN ACTION!**
+
+![video](https://github.com/ivan-hc/AM-Application-Manager/assets/88724353/b2dd8ca6-5ee7-4bb2-8480-9a53f5cfcf56)
+
 ### AppMan: Portable mode for non-sudo users
 If renamed "[AppMan](https://github.com/ivan-hc/AppMan)", it allows you to choose where to install your applications into your `$HOME` directory. AppMan is also usable as a portable app (i.e. you can download and place it wherever you want) and it is able to update itself, anywhere!
 
