@@ -26,6 +26,7 @@
   - [During an update or an installation the app is not downloaded](#during-an-update-or-an-installation-the-app-is-not-downloaded)
   - [The downloaded AppImage does not work](#the-downloaded-appimage-does-not-work)
 - [Contributions to the code](#contributions-to-the-code)
+- [Contacts](#contacts)
 
 --------
 
@@ -175,8 +176,8 @@ I thank all of you who make my work here possible, giving it meaning!
 --------
 
 # Contacts
-- Ivan-HC on [**GitHub**](https://github.com/ivan-hc)
-- AM-Ivan on [**Reddit**](https://www.reddit.com/u/am-ivan)
+- **Ivan-HC** *on* [**GitHub**](https://github.com/ivan-hc)
+- **AM-Ivan** *on* [**Reddit**](https://www.reddit.com/u/am-ivan)
 
 ###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and [**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
 
