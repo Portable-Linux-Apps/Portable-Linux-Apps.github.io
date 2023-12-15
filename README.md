@@ -178,9 +178,7 @@ I thank all of you who make my work here possible, giving it meaning!
 - Ivan-HC on [**GitHub**](https://github.com/ivan-hc)
 - AM-Ivan on [**Reddit**](https://www.reddit.com/u/am-ivan)
 
-*Support me on*
-- [**ko-fi.com**](https://ko-fi.com/IvanAlexHC)
-- [**PayPal.me**](https://paypal.me/IvanAlexHC)
+###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and [**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
 
 --------
 
