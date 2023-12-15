@@ -1,5 +1,5 @@
-# PORTABLE LINUX APPS
-#### Welcome to the database of all AppImage packages and portable applications for GNU/Linux.
+# PORTABLE LINUX APPS: the KINGDOM of APPIMAGES!
+#### Welcome to the most complete database of all AppImage packages and portable applications for GNU/Linux.
 -------
 ## [*GO TO THE APPLICATION'S LIST*](https://portable-linux-apps.github.io/apps.html)
 --------
