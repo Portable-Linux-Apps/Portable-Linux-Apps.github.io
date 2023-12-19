@@ -7850,11 +7850,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/synthv1.png"
   },
   {
-    "packageName": "sys-journald-bin",
-    "description": "view journald logs with electron AppImage...",
-    "icon": "https://portable-linux-apps.github.io/icons/sys-journald-bin.png"
-  },
-  {
     "packageName": "szyszka",
     "description": "Szyszka is fast and powerful file renamer...",
     "icon": "https://portable-linux-apps.github.io/icons/szyszka.png"

@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1840** *Appimage packages and standalone applications*.
+#### *This database contains* **1839** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1583,7 +1583,6 @@
 | <img src="icons/synfigstudio.png" width="48" height="48"> | [***synfigstudio***](apps/synfigstudio.md) | *A free and open-source 2D animation software (graphics).*..[ *read more* ](apps/synfigstudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/synfigstudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/synfigstudio) |
 | <img src="icons/synthein.png" width="48" height="48"> | [***synthein***](apps/synthein.md) | *A space ship building and combat game.*..[ *read more* ](apps/synthein.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/synthein) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/synthein) |
 | <img src="icons/synthv1.png" width="48" height="48"> | [***synthv1***](apps/synthv1.md) | *An old school polyphonic synthesizer.*..[ *read more* ](apps/synthv1.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/synthv1) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/synthv1) |
-| <img src="icons/sys-journald-bin.png" width="48" height="48"> | [***sys-journald-bin***](apps/sys-journald-bin.md) | *view journald logs with electron AppImage.*..[ *read more* ](apps/sys-journald-bin.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/sys-journald-bin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/sys-journald-bin) |
 | <img src="icons/szyszka.png" width="48" height="48"> | [***szyszka***](apps/szyszka.md) | *Szyszka is fast and powerful file renamer.*..[ *read more* ](apps/szyszka.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/szyszka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/szyszka) |
 | <img src="icons/tablo-tools.png" width="48" height="48"> | [***tablo-tools***](apps/tablo-tools.md) | *Tools to Bulk Delete and Export from Tablo DVR.*..[ *read more* ](apps/tablo-tools.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/tablo-tools) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/tablo-tools) |
 | <img src="icons/tag-editor.png" width="48" height="48"> | [***tag-editor***](apps/tag-editor.md) | *Tag Editor (supports MP4, ID3, Vorbis, Opus, FLAC and Matroska).*..[ *read more* ](apps/tag-editor.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/tag-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/tag-editor) |
