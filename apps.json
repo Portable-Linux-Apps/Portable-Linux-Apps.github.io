@@ -4715,11 +4715,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/microsoft-edge.png"
   },
   {
-    "packageName": "midterm",
-    "description": "A free note-taking app for studying...",
-    "icon": "https://portable-linux-apps.github.io/icons/midterm.png"
-  },
-  {
     "packageName": "miesimulatorgui",
     "description": "MieSimulatorGUI by Virtual Photonics...",
     "icon": "https://portable-linux-apps.github.io/icons/miesimulatorgui.png"

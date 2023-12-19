@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1839** *Appimage packages and standalone applications*.
+#### *This database contains* **1838** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -956,7 +956,6 @@
 | <img src="icons/microsoft-edge-beta.png" width="48" height="48"> | [***microsoft-edge-beta***](apps/microsoft-edge-beta.md) | *Web Browser provided by Microsoft (Beta Edition).*..[ *read more* ](apps/microsoft-edge-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/microsoft-edge-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/microsoft-edge-beta) |
 | <img src="icons/microsoft-edge-dev.png" width="48" height="48"> | [***microsoft-edge-dev***](apps/microsoft-edge-dev.md) | *Web Browser provided by Microsoft (Developer Edition).*..[ *read more* ](apps/microsoft-edge-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/microsoft-edge-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/microsoft-edge-dev) |
 | <img src="icons/microsoft-edge.png" width="48" height="48"> | [***microsoft-edge***](apps/microsoft-edge.md) | *Web Browser provided by Microsoft (Stable Edition).*..[ *read more* ](apps/microsoft-edge.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/microsoft-edge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/microsoft-edge) |
-| <img src="icons/midterm.png" width="48" height="48"> | [***midterm***](apps/midterm.md) | *A free note-taking app for studying.*..[ *read more* ](apps/midterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/midterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/midterm) |
 | <img src="icons/miesimulatorgui.png" width="48" height="48"> | [***miesimulatorgui***](apps/miesimulatorgui.md) | *MieSimulatorGUI by Virtual Photonics.*..[ *read more* ](apps/miesimulatorgui.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/miesimulatorgui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/miesimulatorgui) |
 | <img src="icons/mightymike.png" width="48" height="48"> | [***mightymike***](apps/mightymike.md) | *Pangea Software's Mighty Mike (Power Pete) for modern systems.*..[ *read more* ](apps/mightymike.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/mightymike) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/mightymike) |
 | <img src="icons/milkytracker.png" width="48" height="48"> | [***milkytracker***](apps/milkytracker.md) | *An FT2 compatible music tracker.*..[ *read more* ](apps/milkytracker.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/milkytracker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/milkytracker) |
