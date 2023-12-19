@@ -1,6 +1,6 @@
 # WOOTOMATION
 
- A macro application by Wooting. (AppImage version)
+ The official Wooting Macros software.
 
  SITE: https://github.com/WootingKb/wooting-macros
 

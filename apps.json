@@ -2935,14 +2935,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/gimp-git.png"
   },
   {
-    "packageName": "gimp-hybrid",
-    "description": "GIMP including third-party plugins and python2 support...",
-    "icon": "https://portable-linux-apps.github.io/icons/gimp-hybrid.png"
-  },
-  {
     "packageName": "gimp",
     "description": "GNU Image Manipulation Program, cross-platform image and photo editor...",
     "icon": "https://portable-linux-apps.github.io/icons/gimp.png"
+  },
+  {
+    "packageName": "gimp-hybrid",
+    "description": "GIMP including third-party plugins and python2 support...",
+    "icon": "https://portable-linux-apps.github.io/icons/gimp-hybrid.png"
   },
   {
     "packageName": "gingko",
@@ -8910,8 +8910,13 @@
     "icon": "https://portable-linux-apps.github.io/icons/wootility.png"
   },
   {
+    "packageName": "wooting-analog-midi",
+    "description": "Virtual MIDI device for (Wooting) analog keyboards...",
+    "icon": "https://portable-linux-apps.github.io/icons/wooting-analog-midi.png"
+  },
+  {
     "packageName": "wootomation",
-    "description": "A macro application by Wooting (AppImage version)...",
+    "description": "The official Wooting Macros software...",
     "icon": "https://portable-linux-apps.github.io/icons/wootomation.png"
   },
   {
