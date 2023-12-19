@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1838** *Appimage packages and standalone applications*.
+#### *This database contains* **1837** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -815,7 +815,6 @@
 | <img src="icons/kpat.png" width="48" height="48"> | [***kpat***](apps/kpat.md) | *Klondike, Spider, Free Cell and other Solitaire (installs "kdegames").*..[ *read more* ](apps/kpat.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/kpat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/kpat) |
 | <img src="icons/kreversi.png" width="48" height="48"> | [***kreversi***](apps/kreversi.md) | *Reversi game (installs "kdegames").*..[ *read more* ](apps/kreversi.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/kreversi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/kreversi) |
 | <img src="icons/krita.png" width="48" height="48"> | [***krita***](apps/krita.md) | *A professional FREE and open source painting program (graphics).*..[ *read more* ](apps/krita.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/krita) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/krita) |
-| <img src="icons/krita-beta.png" width="48" height="48"> | [***krita-beta***](apps/krita-beta.md) | *Edit and paint images.*..[ *read more* ](apps/krita-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/krita-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/krita-beta) |
 | <img src="icons/kshisen.png" width="48" height="48"> | [***kshisen***](apps/kshisen.md) | *A game similar to Mahjongg (installs "kdegames").*..[ *read more* ](apps/kshisen.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/kshisen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/kshisen) |
 | <img src="icons/ksirk.png" width="48" height="48"> | [***ksirk***](apps/ksirk.md) | *A strategy board game (installs "kdegames").*..[ *read more* ](apps/ksirk.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ksirk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/ksirk) |
 | <img src="icons/ksnakeduel.png" width="48" height="48"> | [***ksnakeduel***](apps/ksnakeduel.md) | *A snake race game (installs "kdegames").*..[ *read more* ](apps/ksnakeduel.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ksnakeduel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/ksnakeduel) |
