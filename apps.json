@@ -1870,6 +1870,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dopamine-preview.png"
   },
   {
+    "packageName": "dosemu",
+    "description": "Run DOS programs under linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/dosemu.png"
+  },
+  {
     "packageName": "doublecmd-gtk",
     "description": "Two-panel file manager, also known as Double Commander...",
     "icon": "https://portable-linux-apps.github.io/icons/doublecmd-gtk.png"

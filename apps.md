@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1837** *Appimage packages and standalone applications*.
+#### *This database contains* **1838** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -387,6 +387,7 @@
 | <img src="icons/dockstation.png" width="48" height="48"> | [***dockstation***](apps/dockstation.md) | *Developing with Docker has never been so easy and convenient.*..[ *read more* ](apps/dockstation.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dockstation) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/dockstation) |
 | <img src="icons/dokidokimodmanager.png" width="48" height="48"> | [***dokidokimodmanager***](apps/dokidokimodmanager.md) | *Mod Manager for Doki Doki Literature Club!*..[ *read more* ](apps/dokidokimodmanager.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dokidokimodmanager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/dokidokimodmanager) |
 | <img src="icons/dopamine-preview.png" width="48" height="48"> | [***dopamine-preview***](apps/dopamine-preview.md) | *The audio player that keeps it simple.*..[ *read more* ](apps/dopamine-preview.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dopamine-preview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/dopamine-preview) |
+| <img src="icons/dosemu.png" width="48" height="48"> | [***dosemu***](apps/dosemu.md) | *Run DOS programs under linux.*..[ *read more* ](apps/dosemu.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dosemu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/dosemu) |
 | <img src="icons/doublecmd-gtk.png" width="48" height="48"> | [***doublecmd-gtk***](apps/doublecmd-gtk.md) | *Two-panel file manager, also known as Double Commander.*..[ *read more* ](apps/doublecmd-gtk.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/doublecmd-gtk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/doublecmd-gtk) |
 | <img src="icons/doublecmd-qt.png" width="48" height="48"> | [***doublecmd-qt***](apps/doublecmd-qt.md) | *Two-panel file manager, also known as Double Commander.*..[ *read more* ](apps/doublecmd-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/doublecmd-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/doublecmd-qt) |
 | <img src="icons/downline.png" width="48" height="48"> | [***downline***](apps/downline.md) | *A cross-platform video and audio downloader.*..[ *read more* ](apps/downline.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/downline) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/downline) |
