@@ -1870,9 +1870,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/dokidokimodmanager.png"
   },
   {
-    "packageName": "dolphin",
+    "packageName": "dolphin-emu",
     "description": "GameCube/Nintento Wii emulator for PC with improvements...",
-    "icon": "https://portable-linux-apps.github.io/icons/dolphin.png"
+    "icon": "https://portable-linux-apps.github.io/icons/dolphin-emu.png"
   },
   {
     "packageName": "dopamine-preview",
