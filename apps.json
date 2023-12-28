@@ -705,6 +705,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/blacknut-appimage.png"
   },
   {
+    "packageName": "blastem",
+    "description": "Clone of Mercurial Repo...",
+    "icon": "https://portable-linux-apps.github.io/icons/blastem.png"
+  },
+  {
     "packageName": "blender-alpha",
     "description": "Very fast and versatile 3D modeller/renderer (Alpha)...",
     "icon": "https://portable-linux-apps.github.io/icons/blender-alpha.png"
@@ -1863,6 +1868,11 @@
     "packageName": "dokidokimodmanager",
     "description": "Mod Manager for Doki Doki Literature Club!..",
     "icon": "https://portable-linux-apps.github.io/icons/dokidokimodmanager.png"
+  },
+  {
+    "packageName": "dolphin",
+    "description": "GameCube/Nintento Wii emulator for PC with improvements...",
+    "icon": "https://portable-linux-apps.github.io/icons/dolphin.png"
   },
   {
     "packageName": "dopamine-preview",
@@ -5430,6 +5440,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ommpfritt.png"
   },
   {
+    "packageName": "omnispeak",
+    "description": "Re-implementation of Commander Keen in Goodbye Galaxy...",
+    "icon": "https://portable-linux-apps.github.io/icons/omnispeak.png"
+  },
+  {
     "packageName": "onedrive-gui",
     "description": "Microsoft OneDrive Client GUI...",
     "icon": "https://portable-linux-apps.github.io/icons/onedrive-gui.png"
@@ -5498,6 +5513,11 @@
     "packageName": "openblok",
     "description": "A customizable falling block puzzle game like tetris...",
     "icon": "https://portable-linux-apps.github.io/icons/openblok.png"
+  },
+  {
+    "packageName": "openbor",
+    "description": "Ultimate 2D side scrolling engine for beat em ups, shooters.....",
+    "icon": "https://portable-linux-apps.github.io/icons/openbor.png"
   },
   {
     "packageName": "opencomic",
@@ -5850,6 +5870,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/pennywise.png"
   },
   {
+    "packageName": "perfect-dark",
+    "description": "A decompilation of Perfect Dark...",
+    "icon": "https://portable-linux-apps.github.io/icons/perfect-dark.png"
+  },
+  {
     "packageName": "perl-executing-browser",
     "description": "HTML5 user interface for Perl 5 desktop apps...",
     "icon": "https://portable-linux-apps.github.io/icons/perl-executing-browser.png"
@@ -6188,6 +6213,41 @@
     "packageName": "ppet3",
     "description": "Put a cute girl on your desk for more fun...",
     "icon": "https://portable-linux-apps.github.io/icons/ppet3.png"
+  },
+  {
+    "packageName": "ppsspp",
+    "description": "◆ ppsspp :A PSP emulator written in C++...",
+    "icon": "https://portable-linux-apps.github.io/icons/ppsspp.png"
+  },
+  {
+    "packageName": ":A",
+    "description": "..",
+    "icon": "https://portable-linux-apps.github.io/icons/:A.png"
+  },
+  {
+    "packageName": "PSP",
+    "description": "..",
+    "icon": "https://portable-linux-apps.github.io/icons/PSP.png"
+  },
+  {
+    "packageName": "emulator",
+    "description": "..",
+    "icon": "https://portable-linux-apps.github.io/icons/emulator.png"
+  },
+  {
+    "packageName": "written",
+    "description": "..",
+    "icon": "https://portable-linux-apps.github.io/icons/written.png"
+  },
+  {
+    "packageName": "in",
+    "description": "..",
+    "icon": "https://portable-linux-apps.github.io/icons/in.png"
+  },
+  {
+    "packageName": "C++.",
+    "description": "..",
+    "icon": "https://portable-linux-apps.github.io/icons/C++..png"
   },
   {
     "packageName": "pretty-handy-privacy",
@@ -6720,6 +6780,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/rbdl-toolkit.png"
   },
   {
+    "packageName": "rbdoom-3",
+    "description": "Doom 3 BFG Edition source port with updated DX12/Vulkan renderer...",
+    "icon": "https://portable-linux-apps.github.io/icons/rbdoom-3.png"
+  },
+  {
     "packageName": "reactotron",
     "description": "Reactotron desktop mode engage...",
     "icon": "https://portable-linux-apps.github.io/icons/reactotron.png"
@@ -7113,6 +7178,11 @@
     "packageName": "sheikah",
     "description": "A Witnet compatible desktop wallet...",
     "icon": "https://portable-linux-apps.github.io/icons/sheikah.png"
+  },
+  {
+    "packageName": "shipwright",
+    "description": "Ship of Harkinian...",
+    "icon": "https://portable-linux-apps.github.io/icons/shipwright.png"
   },
   {
     "packageName": "shotcut",
