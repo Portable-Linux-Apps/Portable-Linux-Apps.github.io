@@ -1,4 +1,4 @@
-# DOLPHIN
+# DOLPHIN-EMU
 
  Dolphin is a GameCube / Wii emulator, allowing you to play games for
  these two platforms on PC with improvements.
