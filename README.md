@@ -1,4 +1,4 @@
-# PORTABLE LINUX APPS: the first AUR-inspired AppImage's Software Center!
+# PORTABLE LINUX APPS: the first AUR-inspired AppImage Software Center!
 #### Welcome to the most complete database of all AppImage packages and portable applications for GNU/Linux.
 -------
 ## [*GO TO THE APPLICATION'S LIST*](https://portable-linux-apps.github.io/apps.html)
