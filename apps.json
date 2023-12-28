@@ -6216,38 +6216,8 @@
   },
   {
     "packageName": "ppsspp",
-    "description": "◆ ppsspp :A PSP emulator written in C++...",
+    "description": "A PSP emulator written in C++...",
     "icon": "https://portable-linux-apps.github.io/icons/ppsspp.png"
-  },
-  {
-    "packageName": ":A",
-    "description": "..",
-    "icon": "https://portable-linux-apps.github.io/icons/:A.png"
-  },
-  {
-    "packageName": "PSP",
-    "description": "..",
-    "icon": "https://portable-linux-apps.github.io/icons/PSP.png"
-  },
-  {
-    "packageName": "emulator",
-    "description": "..",
-    "icon": "https://portable-linux-apps.github.io/icons/emulator.png"
-  },
-  {
-    "packageName": "written",
-    "description": "..",
-    "icon": "https://portable-linux-apps.github.io/icons/written.png"
-  },
-  {
-    "packageName": "in",
-    "description": "..",
-    "icon": "https://portable-linux-apps.github.io/icons/in.png"
-  },
-  {
-    "packageName": "C++.",
-    "description": "..",
-    "icon": "https://portable-linux-apps.github.io/icons/C++..png"
   },
   {
     "packageName": "pretty-handy-privacy",
