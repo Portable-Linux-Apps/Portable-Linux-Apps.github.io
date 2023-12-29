@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1845** *Appimage packages and standalone applications*.
+#### *This database contains* **1847** *Appimage packages and standalone applications*.
 
 -----------------
 
