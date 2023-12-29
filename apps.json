@@ -8885,6 +8885,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/wine-staging.png"
   },
   {
+    "packageName": "wine-staging-ge-proton",
+    "description": "Run x86_64 Windows programs (Staging GE Proton)...",
+    "icon": "https://portable-linux-apps.github.io/icons/wine-staging-ge-proton.png"
+  },
+  {
     "packageName": "wire",
     "description": "The most secure collaboration platform...",
     "icon": "https://portable-linux-apps.github.io/icons/wire.png"

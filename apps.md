@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1846** *Appimage packages and standalone applications*.
+#### *This database contains* **1845** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1790,6 +1790,7 @@
 | <img src="icons/wine-devel.png" width="48" height="48"> | [***wine-devel***](apps/wine-devel.md) | *Compatibility layer to run x86_64 Windows programs (Dev Edition).*..[ *read more* ](apps/wine-devel.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/wine-devel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/wine-devel) |
 | <img src="icons/wine-stable.png" width="48" height="48"> | [***wine-stable***](apps/wine-stable.md) | *Compatibility layer to run x86_64 Windows programs (Stable).*..[ *read more* ](apps/wine-stable.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/wine-stable) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/wine-stable) |
 | <img src="icons/wine-staging.png" width="48" height="48"> | [***wine-staging***](apps/wine-staging.md) | *Compatibility layer to run x86_64 Windows programs (Staging).*..[ *read more* ](apps/wine-staging.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/wine-staging) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/wine-staging) |
+| <img src="icons/wine-staging-ge-proton.png" width="48" height="48"> | [***wine-staging-ge-proton***](apps/wine-staging-ge-proton.md) | *Run x86_64 Windows programs (Staging GE Proton).*..[ *read more* ](apps/wine-staging-ge-proton.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/wine-staging-ge-proton) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/wine-staging-ge-proton) |
 | <img src="icons/wire.png" width="48" height="48"> | [***wire***](apps/wire.md) | *The most secure collaboration platform.*..[ *read more* ](apps/wire.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/wire) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/wire) |
 | <img src="icons/wishdemo.png" width="48" height="48"> | [***wishdemo***](apps/wishdemo.md) | *A μ Tcl/Tk distribution statically linked (AppImage).*..[ *read more* ](apps/wishdemo.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/wishdemo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/wishdemo) |
 | <img src="icons/wiz.png" width="48" height="48"> | [***wiz***](apps/wiz.md) | *Cloud based note-taking application.*..[ *read more* ](apps/wiz.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/wiz) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/wiz) |
