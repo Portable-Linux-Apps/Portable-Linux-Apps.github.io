@@ -2880,6 +2880,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/geeqie.png"
   },
   {
+    "packageName": "gedit",
+    "description": "ArchImage of the popular GNOME text editor Gedit...",
+    "icon": "https://portable-linux-apps.github.io/icons/gedit.png"
+  },
+  {
     "packageName": "geforcenow-electron",
     "description": "Desktop client for Nvidia GeForce NOW game streaming...",
     "icon": "https://portable-linux-apps.github.io/icons/geforcenow-electron.png"

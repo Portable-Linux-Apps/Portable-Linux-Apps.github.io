@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1847** *Appimage packages and standalone applications*.
+#### *This database contains* **1848** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -589,6 +589,7 @@
 | <img src="icons/gdlauncher-appimage.png" width="48" height="48"> | [***gdlauncher-appimage***](apps/gdlauncher-appimage.md) | *Simple, yet powerful Minecraft custom launcher.*..[ *read more* ](apps/gdlauncher-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gdlauncher-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gdlauncher-appimage) |
 | <img src="icons/gdm-settings.png" width="48" height="48"> | [***gdm-settings***](apps/gdm-settings.md) | *A settings app for GNOME's Login Manager, GDM.*..[ *read more* ](apps/gdm-settings.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gdm-settings) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gdm-settings) |
 | <img src="icons/geeqie.png" width="48" height="48"> | [***geeqie***](apps/geeqie.md) | *Claiming to be the best image viewer / photo collection browser.*..[ *read more* ](apps/geeqie.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/geeqie) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/geeqie) |
+| <img src="icons/gedit.png" width="48" height="48"> | [***gedit***](apps/gedit.md) | *ArchImage of the popular GNOME text editor Gedit.*..[ *read more* ](apps/gedit.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gedit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gedit) |
 | <img src="icons/geforcenow-electron.png" width="48" height="48"> | [***geforcenow-electron***](apps/geforcenow-electron.md) | *Desktop client for Nvidia GeForce NOW game streaming.*..[ *read more* ](apps/geforcenow-electron.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/geforcenow-electron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/geforcenow-electron) |
 | <img src="icons/gemalaya.png" width="48" height="48"> | [***gemalaya***](apps/gemalaya.md) | *A keyboard-driven Gemini browser written in QML.*..[ *read more* ](apps/gemalaya.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gemalaya) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gemalaya) |
 | <img src="icons/genesis.png" width="48" height="48"> | [***genesis***](apps/genesis.md) | *Open source blockchain platform.*..[ *read more* ](apps/genesis.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/genesis) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/genesis) |
