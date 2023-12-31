@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1848** *Appimage packages and standalone applications*.
+#### *This database contains* **1849** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -32,6 +32,7 @@
 | <img src="icons/air-controller-desktop.png" width="48" height="48"> | [***air-controller-desktop***](apps/air-controller-desktop.md) | *Android phone assistant,powered by Flutter.*..[ *read more* ](apps/air-controller-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/air-controller-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/air-controller-desktop) |
 | <img src="icons/airspaces.png" width="48" height="48"> | [***airspaces***](apps/airspaces.md) | *An online map for your X-Plane flight sessions.*..[ *read more* ](apps/airspaces.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/airspaces) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/airspaces) |
 | <img src="icons/aisap.png" width="48" height="48"> | [***aisap***](apps/aisap.md) | *Golang library to make sandboxing AppImages easy.*..[ *read more* ](apps/aisap.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/aisap) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/aisap) |
+| <img src="icons/aisleriot.png" width="48" height="48"> | [***aisleriot***](apps/aisleriot.md) | *A card game featuring over 80 different solitaire-type card games.*..[ *read more* ](apps/aisleriot.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/aisleriot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/aisleriot) |
 | <img src="icons/akasha.png" width="48" height="48"> | [***akasha***](apps/akasha.md) | *AKASHA community client.*..[ *read more* ](apps/akasha.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/akasha) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/akasha) |
 | <img src="icons/alduin.png" width="48" height="48"> | [***alduin***](apps/alduin.md) | *An Atom and RSS feed aggregator.*..[ *read more* ](apps/alduin.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/alduin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/alduin) |
 | <img src="icons/alephium-wallet.png" width="48" height="48"> | [***alephium-wallet***](apps/alephium-wallet.md) | *The official Alephium wallet for desktop.*..[ *read more* ](apps/alephium-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/alephium-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/alephium-wallet) |
