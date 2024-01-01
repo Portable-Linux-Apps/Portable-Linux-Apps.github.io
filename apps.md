@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1852** *Appimage packages and standalone applications*.
+#### *This database contains* **1853** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1655,6 +1655,7 @@
 | <img src="icons/toughcookies.png" width="48" height="48"> | [***toughcookies***](apps/toughcookies.md) | *A modern flash cards study and management app.*..[ *read more* ](apps/toughcookies.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/toughcookies) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/toughcookies) |
 | <img src="icons/trader.png" width="48" height="48"> | [***trader***](apps/trader.md) | *Play Star Traders, a simple game of interstellar trading.*..[ *read more* ](apps/trader.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/trader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/trader) |
 | <img src="icons/translatium.png" width="48" height="48"> | [***translatium***](apps/translatium.md) | *Translate Any Languages like a Pro.*..[ *read more* ](apps/translatium.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/translatium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/translatium) |
+| <img src="icons/transmission-gtk.png" width="48" height="48"> | [***transmission-gtk***](apps/transmission-gtk.md) | *Fast, easy, and free BitTorrent client (GTK+ GUI).*..[ *read more* ](apps/transmission-gtk.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/transmission-gtk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/transmission-gtk) |
 | <img src="icons/transmissionic.png" width="48" height="48"> | [***transmissionic***](apps/transmissionic.md) | *Remote for Transmission Daemon.*..[ *read more* ](apps/transmissionic.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/transmissionic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/transmissionic) |
 | <img src="icons/trezor-suite.png" width="48" height="48"> | [***trezor-suite***](apps/trezor-suite.md) | *Trezor Suite desktop application.*..[ *read more* ](apps/trezor-suite.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/trezor-suite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/trezor-suite) |
 | <img src="icons/triagem-touch.png" width="48" height="48"> | [***triagem-touch***](apps/triagem-touch.md) | *Novo SGA triage client.*..[ *read more* ](apps/triagem-touch.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/triagem-touch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/triagem-touch) |
