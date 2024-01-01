@@ -2275,6 +2275,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/everinst.png"
   },
   {
+    "packageName": "evince",
+    "description": "Document viewer for popular document formats...",
+    "icon": "https://portable-linux-apps.github.io/icons/evince.png"
+  },
+  {
     "packageName": "evoplex",
     "description": "Agent-based modeling...",
     "icon": "https://portable-linux-apps.github.io/icons/evoplex.png"
@@ -2880,14 +2885,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/gdm-settings.png"
   },
   {
-    "packageName": "geeqie",
-    "description": "Claiming to be the best image viewer / photo collection browser...",
-    "icon": "https://portable-linux-apps.github.io/icons/geeqie.png"
-  },
-  {
     "packageName": "gedit",
     "description": "ArchImage of the popular GNOME text editor Gedit...",
     "icon": "https://portable-linux-apps.github.io/icons/gedit.png"
+  },
+  {
+    "packageName": "geeqie",
+    "description": "Claiming to be the best image viewer / photo collection browser...",
+    "icon": "https://portable-linux-apps.github.io/icons/geeqie.png"
   },
   {
     "packageName": "geforcenow-electron",
@@ -3058,6 +3063,11 @@
     "packageName": "gm-companion",
     "description": "A tool for rpg gamemasters...",
     "icon": "https://portable-linux-apps.github.io/icons/gm-companion.png"
+  },
+  {
+    "packageName": "gnome-calculator",
+    "description": "Perform arithmetic, scientific or financial calculations...",
+    "icon": "https://portable-linux-apps.github.io/icons/gnome-calculator.png"
   },
   {
     "packageName": "gnumeric",
