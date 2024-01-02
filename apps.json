@@ -8360,13 +8360,8 @@
     "icon": "https://portable-linux-apps.github.io/icons/uncov.png"
   },
   {
-    "packageName": "ungoogled-chromium-appimage",
-    "description": "Web Browser without Google services (AppImage)...",
-    "icon": "https://portable-linux-apps.github.io/icons/ungoogled-chromium-appimage.png"
-  },
-  {
     "packageName": "ungoogled-chromium",
-    "description": "Chromium Web Browser without Google services (official)...",
+    "description": "Chromium Web Browser without Google services...",
     "icon": "https://portable-linux-apps.github.io/icons/ungoogled-chromium.png"
   },
   {
