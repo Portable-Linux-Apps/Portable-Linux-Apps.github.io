@@ -2545,6 +2545,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/filmulator-gui.png"
   },
   {
+    "packageName": "firedragon",
+    "description": "Web Browser fork of Librewolf (Firefox) from Garuda Linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/firedragon.png"
+  },
+  {
     "packageName": "firefly-desktop",
     "description": "The official IOTA and Shimmer wallet...",
     "icon": "https://portable-linux-apps.github.io/icons/firefly-desktop.png"

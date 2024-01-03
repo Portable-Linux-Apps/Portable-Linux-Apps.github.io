@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1853** *Appimage packages and standalone applications*.
+#### *This database contains* **1854** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -522,6 +522,7 @@
 | <img src="icons/file-to-c.png" width="48" height="48"> | [***file-to-c***](apps/file-to-c.md) | *Tool for generating a C header from a spir-v binary file.*..[ *read more* ](apps/file-to-c.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/file-to-c) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/file-to-c) |
 | <img src="icons/filezilla.png" width="48" height="48"> | [***filezilla***](apps/filezilla.md) | *The free FTP solution with support for FTP over TLS and SFTP.*..[ *read more* ](apps/filezilla.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/filezilla) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/filezilla) |
 | <img src="icons/filmulator-gui.png" width="48" height="48"> | [***filmulator-gui***](apps/filmulator-gui.md) | *Simplified raw editing with the power of film (graphics).*..[ *read more* ](apps/filmulator-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/filmulator-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/filmulator-gui) |
+| <img src="icons/firedragon.png" width="48" height="48"> | [***firedragon***](apps/firedragon.md) | *Web Browser fork of Librewolf (Firefox) from Garuda Linux.*..[ *read more* ](apps/firedragon.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/firedragon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/firedragon) |
 | <img src="icons/firefly-desktop.png" width="48" height="48"> | [***firefly-desktop***](apps/firefly-desktop.md) | *The official IOTA and Shimmer wallet.*..[ *read more* ](apps/firefly-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/firefly-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/firefly-desktop) |
 | <img src="icons/firefox-appimage.png" width="48" height="48"> | [***firefox-appimage***](apps/firefox-appimage.md) | *Unofficial AppImage of the Web Browser (Stable).*..[ *read more* ](apps/firefox-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/firefox-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/firefox-appimage) |
 | <img src="icons/firefox-beta-appimage.png" width="48" height="48"> | [***firefox-beta-appimage***](apps/firefox-beta-appimage.md) | *Unofficial AppImage of the Web Browser (Beta).*..[ *read more* ](apps/firefox-beta-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/firefox-beta-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/firefox-beta-appimage) |
