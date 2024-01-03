@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1852** *Appimage packages and standalone applications*.
+#### *This database contains* **1853** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1555,6 +1555,7 @@
 | <img src="icons/streamlink-twitch-gui.png" width="48" height="48"> | [***streamlink-twitch-gui***](apps/streamlink-twitch-gui.md) | *A multi platform Twitch.tv browser for Streamlink.*..[ *read more* ](apps/streamlink-twitch-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/streamlink-twitch-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/streamlink-twitch-gui) |
 | <img src="icons/streamon.png" width="48" height="48"> | [***streamon***](apps/streamon.md) | *Create streaming links to instagram live.*..[ *read more* ](apps/streamon.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/streamon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/streamon) |
 | <img src="icons/stretchly.png" width="48" height="48"> | [***stretchly***](apps/stretchly.md) | *App that reminds you to take breaks when working on your PC.*..[ *read more* ](apps/stretchly.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/stretchly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/stretchly) |
+| <img src="icons/strongbox.png" width="48" height="48"> | [***strongbox***](apps/strongbox.md) | *A World of Warcraft Addon Manager aimed at Linux players.*..[ *read more* ](apps/strongbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/strongbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/strongbox) |
 | <img src="icons/structure.png" width="48" height="48"> | [***structure***](apps/structure.md) | *A knowledge management tool.*..[ *read more* ](apps/structure.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/structure) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/structure) |
 | <img src="icons/stunt-car-remake.png" width="48" height="48"> | [***stunt-car-remake***](apps/stunt-car-remake.md) | *Remake of the old game Stunt Car Racer.*..[ *read more* ](apps/stunt-car-remake.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/stunt-car-remake) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/stunt-car-remake) |
 | <img src="icons/subillmanager.png" width="48" height="48"> | [***subillmanager***](apps/subillmanager.md) | *A simple Flutter app to manage electricity bill.*..[ *read more* ](apps/subillmanager.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/subillmanager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/subillmanager) |

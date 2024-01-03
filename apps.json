@@ -7710,6 +7710,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/stretchly.png"
   },
   {
+    "packageName": "strongbox",
+    "description": "A World of Warcraft Addon Manager aimed at Linux players...",
+    "icon": "https://portable-linux-apps.github.io/icons/strongbox.png"
+  },
+  {
     "packageName": "structure",
     "description": "A knowledge management tool...",
     "icon": "https://portable-linux-apps.github.io/icons/structure.png"
