@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1854** *Appimage packages and standalone applications*.
+#### *This database contains* **1853** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -361,7 +361,6 @@
 | <img src="icons/deckboard.png" width="48" height="48"> | [***deckboard***](apps/deckboard.md) | *Control your PC with your phone in easy way possible.*..[ *read more* ](apps/deckboard.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/deckboard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/deckboard) |
 | <img src="icons/dedop-studio.png" width="48" height="48"> | [***dedop-studio***](apps/dedop-studio.md) | *DeDop Studio*..[ *read more* ](apps/dedop-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dedop-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/dedop-studio) |
 | <img src="icons/deemix-gui-appimage.png" width="48" height="48"> | [***deemix-gui-appimage***](apps/deemix-gui-appimage.md) | *A gui electron app for the deemix lib.*..[ *read more* ](apps/deemix-gui-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/deemix-gui-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/deemix-gui-appimage) |
-| <img src="icons/deepin-screen-recorder.png" width="48" height="48"> | [***deepin-screen-recorder***](apps/deepin-screen-recorder.md) | *Deepin Screen Recorder.*..[ *read more* ](apps/deepin-screen-recorder.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/deepin-screen-recorder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/deepin-screen-recorder) |
 | <img src="icons/deeptags.png" width="48" height="48"> | [***deeptags***](apps/deeptags.md) | *Markdown notes manager with support for nested tags.*..[ *read more* ](apps/deeptags.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/deeptags) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/deeptags) |
 | <img src="icons/deerportal.png" width="48" height="48"> | [***deerportal***](apps/deerportal.md) | *Full of the diamonds board game.*..[ *read more* ](apps/deerportal.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/deerportal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/deerportal) |
 | <img src="icons/deezer.png" width="48" height="48"> | [***deezer***](apps/deezer.md) | *A linux port of Deezer, allows downloading your songs (music).*..[ *read more* ](apps/deezer.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/deezer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/deezer) |

@@ -1740,11 +1740,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/deemix-gui-appimage.png"
   },
   {
-    "packageName": "deepin-screen-recorder",
-    "description": "Deepin Screen Recorder...",
-    "icon": "https://portable-linux-apps.github.io/icons/deepin-screen-recorder.png"
-  },
-  {
     "packageName": "deeptags",
     "description": "Markdown notes manager with support for nested tags...",
     "icon": "https://portable-linux-apps.github.io/icons/deeptags.png"
