@@ -54,6 +54,10 @@ See "[AM Application Manager](https://github.com/ivan-hc/AM-Application-Manager)
 ## How it works?
 "[AM](https://github.com/ivan-hc/AM-Application-Manager)" is a tool wrote bash, it works at system level (i.e. for all the users, using `sudo`) or in portable mode (to made it work this way, it must be renamed as "[AppMan](https://github.com/ivan-hc/AppMan)").
 
+You can read the source code from here:
+
+https://github.com/ivan-hc/AM-Application-Manager/blob/main/APP-MANAGER
+
 ### AM: System integration as Super User
 "AM" requires the `sudo` privileges but only to install and remove the app, all the other commands can be executed as a normal user.
 To install a program, launch the command:
@@ -101,7 +105,11 @@ At first start it will ask you where to install the apps and it will create the 
 
 All AppMan does is to convert [all the installation scripts for "AM"](https://github.com/ivan-hc/AM-Application-Manager/tree/main/programs) (that normally must be executed with `sudo`) in normal scripts that can manage applications in the local folder of the current user. This allows more users to be able to better configure their profile.
 
-You can already dowload it from [here](https://raw.githubusercontent.com/ivan-hc/AppMan/main/appman) to give it a try without installation.
+You can already dowload it now to give it a try without installation:
+```
+wget https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/APP-MANAGER -O appman
+chmod a+x ./appman
+```
 
 Visit the repository of "[AppMan](https://github.com/ivan-hc/AppMan)" on github for more details.
 
