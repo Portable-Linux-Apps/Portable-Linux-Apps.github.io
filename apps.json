@@ -545,6 +545,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/baobab3.png"
   },
   {
+    "packageName": "bastyon",
+    "description": "Decentralized social network based on the blockchain...",
+    "icon": "https://portable-linux-apps.github.io/icons/bastyon.png"
+  },
+  {
     "packageName": "batch-explorer",
     "description": "A client tool to create/debug/monitor Azure Batch Apps...",
     "icon": "https://portable-linux-apps.github.io/icons/batch-explorer.png"

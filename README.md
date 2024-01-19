@@ -4,7 +4,7 @@
 ## [*GO TO THE APPLICATION'S LIST*](https://portable-linux-apps.github.io/apps.html)
 --------
 
-##### This site lists **1853** Appimage packages and standalone applications. From here you can download them, install them, update them (for real), get more information about the sources and their developers... and if you want, you can contribute yourself by adding the missing information, because this site is **open source**!
+##### This site lists **1854** Appimage packages and standalone applications. From here you can download them, install them, update them (for real), get more information about the sources and their developers... and if you want, you can contribute yourself by adding the missing information, because this site is **open source**!
 
 --------
 
@@ -188,7 +188,3 @@ I thank all of you who make my work here possible, giving it meaning!
 - **AM-Ivan** *on* [**Reddit**](https://www.reddit.com/u/am-ivan)
 
 ###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and [**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
-
---------
-
-*© 2020-present Ivan Alesandro Sala aka "Ivan-HC"* - I'm here just for fun! 
