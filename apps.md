@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1854** *Appimage packages and standalone applications*.
+#### *This database contains* **1855** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -222,6 +222,7 @@
 | <img src="icons/cacher.png" width="48" height="48"> | [***cacher***](apps/cacher.md) | *Cacher is a code snippet library for professional developers.*..[ *read more* ](apps/cacher.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cacher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cacher) |
 | <img src="icons/cadmus-appimage.png" width="48" height="48"> | [***cadmus-appimage***](apps/cadmus-appimage.md) | *Pulse Audio real-time noise suppression plugin.*..[ *read more* ](apps/cadmus-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cadmus-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cadmus-appimage) |
 | <img src="icons/calculist.png" width="48" height="48"> | [***calculist***](apps/calculist.md) | *Desktop version of Calculist.io.*..[ *read more* ](apps/calculist.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/calculist) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/calculist) |
+| <img src="icons/calibre.png" width="48" height="48"> | [***calibre***](apps/calibre.md) | *The one stop solution to all your e-book needs*..[ *read more* ](apps/calibre.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/calibre) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/calibre) |
 | <img src="icons/calm-circles.png" width="48" height="48"> | [***calm-circles***](apps/calm-circles.md) | *Calm down and draw something, in Lisp.*..[ *read more* ](apps/calm-circles.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/calm-circles) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/calm-circles) |
 | <img src="icons/calm-fan.png" width="48" height="48"> | [***calm-fan***](apps/calm-fan.md) | *Calm down and draw something, in Lisp.*..[ *read more* ](apps/calm-fan.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/calm-fan) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/calm-fan) |
 | <img src="icons/calm-meditator.png" width="48" height="48"> | [***calm-meditator***](apps/calm-meditator.md) | *Calm down and draw something, in Lisp.*..[ *read more* ](apps/calm-meditator.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/calm-meditator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/calm-meditator) |

@@ -1045,6 +1045,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/calculist.png"
   },
   {
+    "packageName": "calibre",
+    "description": "The one stop solution to all your e-book needs..",
+    "icon": "https://portable-linux-apps.github.io/icons/calibre.png"
+  },
+  {
     "packageName": "calm-circles",
     "description": "Calm down and draw something, in Lisp...",
     "icon": "https://portable-linux-apps.github.io/icons/calm-circles.png"
