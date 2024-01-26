@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1857** *Appimage packages and standalone applications*.
+#### *This database contains* **1858** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -728,6 +728,7 @@
 | <img src="icons/inkscape-next.png" width="48" height="48"> | [***inkscape-next***](apps/inkscape-next.md) | *Vector-based drawing program (SVG, PDF, AutoCAD...), Unstable.*..[ *read more* ](apps/inkscape-next.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/inkscape-next) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/inkscape-next) |
 | <img src="icons/inkscape.png" width="48" height="48"> | [***inkscape***](apps/inkscape.md) | *Vector-based drawing program (SVG, PDF, AutoCAD...), Stable.*..[ *read more* ](apps/inkscape.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/inkscape) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/inkscape) |
 | <img src="icons/insight.png" width="48" height="48"> | [***insight***](apps/insight.md) | *The GUI front-end of GDB with Tcl/Tk.*..[ *read more* ](apps/insight.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/insight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/insight) |
+| <img src="icons/insomnium.png" width="48" height="48"> | [***insomnium***](apps/insomnium.md) | *A local API testing tool privacy-focused (fork of Kong/insomnia).*..[ *read more* ](apps/insomnium.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/insomnium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/insomnium) |
 | <img src="icons/insomnia.png" width="48" height="48"> | [***insomnia***](apps/insomnia.md) | *API client for GraphQL, REST, WebSockets and gRPC.*..[ *read more* ](apps/insomnia.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/insomnia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/insomnia) |
 | <img src="icons/instead.png" width="48" height="48"> | [***instead***](apps/instead.md) | *Simple Text Adventures Interpreter.*..[ *read more* ](apps/instead.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/instead) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/instead) |
 | <img src="icons/intiface.png" width="48" height="48"> | [***intiface***](apps/intiface.md) | *Desktop Intiface Application.*..[ *read more* ](apps/intiface.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/intiface) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/intiface) |
