@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1856** *Appimage packages and standalone applications*.
+#### *This database contains* **1857** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1050,6 +1050,7 @@
 | <img src="icons/nest-desktop.png" width="48" height="48"> | [***nest-desktop***](apps/nest-desktop.md) | *A web-based GUI application for NEST Simulator.*..[ *read more* ](apps/nest-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/nest-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/nest-desktop) |
 | <img src="icons/netbeans.png" width="48" height="48"> | [***netbeans***](apps/netbeans.md) | *Apache NetBeans installers.*..[ *read more* ](apps/netbeans.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/netbeans) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/netbeans) |
 | <img src="icons/netpad.png" width="48" height="48"> | [***netpad***](apps/netpad.md) | *A cross-platform C# editor and playground.*..[ *read more* ](apps/netpad.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/netpad) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/netpad) |
+| <img src="icons/netpanzer.png" width="48" height="48"> | [***netpanzer***](apps/netpanzer.md) | *Online multiplayer tactical warfare game for fast action combat.*..[ *read more* ](apps/netpanzer.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/netpanzer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/netpanzer) |
 | <img src="icons/newlogic.png" width="48" height="48"> | [***newlogic***](apps/newlogic.md) | *A circuit builder.*..[ *read more* ](apps/newlogic.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/newlogic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/newlogic) |
 | <img src="icons/newton-adventure.png" width="48" height="48"> | [***newton-adventure***](apps/newton-adventure.md) | *A 2D game with a twist, player can rotate gravity at 360°.*..[ *read more* ](apps/newton-adventure.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/newton-adventure) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/newton-adventure) |
 | <img src="icons/nextcloud.png" width="48" height="48"> | [***nextcloud***](apps/nextcloud.md) | *Client-server software for creating & using file hosting services.*..[ *read more* ](apps/nextcloud.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/nextcloud) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/nextcloud) |

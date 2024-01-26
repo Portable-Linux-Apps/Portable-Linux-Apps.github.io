@@ -5185,6 +5185,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/netpad.png"
   },
   {
+    "packageName": "netpanzer",
+    "description": "Online multiplayer tactical warfare game for fast action combat...",
+    "icon": "https://portable-linux-apps.github.io/icons/netpanzer.png"
+  },
+  {
     "packageName": "newlogic",
     "description": "A circuit builder...",
     "icon": "https://portable-linux-apps.github.io/icons/newlogic.png"
