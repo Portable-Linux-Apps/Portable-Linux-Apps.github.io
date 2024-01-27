@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1860** *Appimage packages and standalone applications*.
+#### *This database contains* **1861** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -406,6 +406,7 @@
 | <img src="icons/dropbox.png" width="48" height="48"> | [***dropbox***](apps/dropbox.md) | *A free cloud service (Unofficial AppImage).*..[ *read more* ](apps/dropbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dropbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/dropbox) |
 | <img src="icons/droppoint.png" width="48" height="48"> | [***droppoint***](apps/droppoint.md) | *Drag content without having to open side-by-side windows.*..[ *read more* ](apps/droppoint.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/droppoint) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/droppoint) |
 | <img src="icons/duckstation.png" width="48" height="48"> | [***duckstation***](apps/duckstation.md) | *PlayStation 1, aka PSX games Emulator.*..[ *read more* ](apps/duckstation.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/duckstation) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/duckstation) |
+| <img src="icons/duf.png" width="48" height="48"> | [***duf***](apps/duf.md) | *Disk Usage/Free Utility, a better 'df' alternative.*..[ *read more* ](apps/duf.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/duf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/duf) |
 | <img src="icons/dukto.png" width="48" height="48"> | [***dukto***](apps/dukto.md) | *Easy and multi-platform file transfer tool.*..[ *read more* ](apps/dukto.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dukto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/dukto) |
 | <img src="icons/duskplayer.png" width="48" height="48"> | [***duskplayer***](apps/duskplayer.md) | *A minimal music player built on electron.*..[ *read more* ](apps/duskplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/duskplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/duskplayer) |
 | <img src="icons/dust3d.png" width="48" height="48"> | [***dust3d***](apps/dust3d.md) | *3D modeling software for games, 3D printing, and so on.*..[ *read more* ](apps/dust3d.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/dust3d) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/dust3d) |
