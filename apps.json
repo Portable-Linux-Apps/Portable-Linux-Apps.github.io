@@ -3575,14 +3575,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/insight.png"
   },
   {
-    "packageName": "insomnium",
-    "description": "A local API testing tool privacy-focused (fork of Kong/insomnia)...",
-    "icon": "https://portable-linux-apps.github.io/icons/insomnium.png"
-  },
-  {
     "packageName": "insomnia",
     "description": "API client for GraphQL, REST, WebSockets and gRPC...",
     "icon": "https://portable-linux-apps.github.io/icons/insomnia.png"
+  },
+  {
+    "packageName": "insomnium",
+    "description": "A local API testing tool privacy-focused (fork of Kong/insomnia)...",
+    "icon": "https://portable-linux-apps.github.io/icons/insomnium.png"
   },
   {
     "packageName": "instead",
@@ -3658,6 +3658,11 @@
     "packageName": "james",
     "description": "HTTP/HTTPS proxy built in Electron and React...",
     "icon": "https://portable-linux-apps.github.io/icons/james.png"
+  },
+  {
+    "packageName": "jazz2",
+    "description": "Open-source reimplementation of Jazz Jackrabbit 2...",
+    "icon": "https://portable-linux-apps.github.io/icons/jazz2.png"
   },
   {
     "packageName": "jellyamp-appimage",
