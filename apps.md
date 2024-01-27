@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1859** *Appimage packages and standalone applications*.
+#### *This database contains* **1860** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1528,6 +1528,7 @@
 | <img src="icons/spotube.png" width="48" height="48"> | [***spotube***](apps/spotube.md) | *Open source Spotify client that doesn't require Premium.*..[ *read more* ](apps/spotube.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/spotube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/spotube) |
 | <img src="icons/springboard.png" width="48" height="48"> | [***springboard***](apps/springboard.md) | *Electron-based SpringRTS Launcher app.*..[ *read more* ](apps/springboard.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/springboard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/springboard) |
 | <img src="icons/sqlitebrowser.png" width="48" height="48"> | [***sqlitebrowser***](apps/sqlitebrowser.md) | *DB Browser is a light GUI editor for SQLite databases.*..[ *read more* ](apps/sqlitebrowser.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/sqlitebrowser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/sqlitebrowser) |
+| <img src="icons/squirreldisk.png" width="48" height="48"> | [***squirreldisk***](apps/squirreldisk.md) | *Cross-Platform and Super Fast Disk Usage Analysis Tool in Rust.*..[ *read more* ](apps/squirreldisk.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/squirreldisk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/squirreldisk) |
 | <img src="icons/srb2k-appimage.png" width="48" height="48"> | [***srb2k-appimage***](apps/srb2k-appimage.md) | *AppImage Package for Sonic Robo Blast 2 Kart (game).*..[ *read more* ](apps/srb2k-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/srb2k-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/srb2k-appimage) |
 | <img src="icons/ssh-mitm.png" width="48" height="48"> | [***ssh-mitm***](apps/ssh-mitm.md) | *Server for security audits supporting public key authentication.*..[ *read more* ](apps/ssh-mitm.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/ssh-mitm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/ssh-mitm) |
 | <img src="icons/stacer.png" width="48" height="48"> | [***stacer***](apps/stacer.md) | *Linux System Optimizer and Monitoring.*..[ *read more* ](apps/stacer.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/stacer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/stacer) |
