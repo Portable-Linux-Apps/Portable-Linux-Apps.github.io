@@ -16,9 +16,8 @@ exclude:
 sass:
   style: :compressed
 
-remote_theme: pages-themes/slate@v0.2.0
+theme: jekyll-theme-primer
 plugins:
-  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-redirect-from
