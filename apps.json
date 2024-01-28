@@ -420,6 +420,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/artisan.png"
   },
   {
+    "packageName": "artix",
+    "description": "One app. All your favorite Artix games...",
+    "icon": "https://portable-linux-apps.github.io/icons/artix.png"
+  },
+  {
     "packageName": "asarui",
     "description": "UI for Asar...",
     "icon": "https://portable-linux-apps.github.io/icons/asarui.png"
@@ -4740,6 +4745,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/meow-sql.png"
   },
   {
+    "packageName": "mercury",
+    "description": "Firefox fork with compiler optimizations and patches from Librewolf...",
+    "icon": "https://portable-linux-apps.github.io/icons/mercury.png"
+  },
+  {
     "packageName": "meshlab",
     "description": "Processor and editor of large 3D triangular meshes...",
     "icon": "https://portable-linux-apps.github.io/icons/meshlab.png"
@@ -8098,6 +8108,11 @@
     "packageName": "thoptv-appimage",
     "description": "Enjoy Ultimate Movies, sports Matches, IPL and Latest Shows...",
     "icon": "https://portable-linux-apps.github.io/icons/thoptv-appimage.png"
+  },
+  {
+    "packageName": "thorium-avx2",
+    "description": "AVX2 Linux builds of Thorium Browser...",
+    "icon": "https://portable-linux-apps.github.io/icons/thorium-avx2.png"
   },
   {
     "packageName": "thorium-client",
