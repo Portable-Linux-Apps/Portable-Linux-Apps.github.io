@@ -14,7 +14,7 @@
  in-game voice and chat functionality. 
  
  NOTE, This is the UNOFFICIAL AppImage version built from the official .deb 
- package. It requires 32-bit libraries installed your host system to work!
+ package. It requires 32-bit libraries installed on your host system to work!
  
  SITE: https://store.steampowered.com
 
