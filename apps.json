@@ -6511,7 +6511,7 @@
   },
   {
     "packageName": "qbittorrent-lite",
-    "description": "Bittorrent Client built from PPA (unofficial AppImage)...",
+    "description": "Bittorrent Client (unofficial ArchImage)...",
     "icon": "https://portable-linux-apps.github.io/icons/qbittorrent-lite.png"
   },
   {
