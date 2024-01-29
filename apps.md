@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1865** *Appimage packages and standalone applications*.
+#### *This database contains* **1866** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -316,6 +316,7 @@
 | <img src="icons/cool-retro-term.png" width="48" height="48"> | [***cool-retro-term***](apps/cool-retro-term.md) | *Use the command line the old way.*..[ *read more* ](apps/cool-retro-term.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cool-retro-term) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cool-retro-term) |
 | <img src="icons/copytranslator-appimage.png" width="48" height="48"> | [***copytranslator-appimage***](apps/copytranslator-appimage.md) | *Foreign language reading and translation assistant.*..[ *read more* ](apps/copytranslator-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/copytranslator-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/copytranslator-appimage) |
 | <img src="icons/cordlauncher.png" width="48" height="48"> | [***cordlauncher***](apps/cordlauncher.md) | *Cord launcher based on Electron and Wep Application.*..[ *read more* ](apps/cordlauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cordlauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cordlauncher) |
+| <img src="icons/cosmonium.png" width="48" height="48"> | [***cosmonium***](apps/cosmonium.md) | *3D astronomy and space exploration program.*..[ *read more* ](apps/cosmonium.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cosmonium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cosmonium) |
 | <img src="icons/cozydrive.png" width="48" height="48"> | [***cozydrive***](apps/cozydrive.md) | *File Synchronisation for Cozy (cloud).*..[ *read more* ](apps/cozydrive.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cozydrive) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cozydrive) |
 | <img src="icons/cpeditor.png" width="48" height="48"> | [***cpeditor***](apps/cpeditor.md) | *Code editor specially designed for competitive programming.*..[ *read more* ](apps/cpeditor.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cpeditor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cpeditor) |
 | <img src="icons/cpod.png" width="48" height="48"> | [***cpod***](apps/cpod.md) | *A simple, beautiful podcast app.*..[ *read more* ](apps/cpod.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/cpod) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/cpod) |
