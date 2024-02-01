@@ -3105,6 +3105,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gnome-calculator.png"
   },
   {
+    "packageName": "gnome-tweaks",
+    "description": "Experimental AppImage port of advanced GNOME 3 settings GUI...",
+    "icon": "https://portable-linux-apps.github.io/icons/gnome-tweaks.png"
+  },
+  {
     "packageName": "gnumeric",
     "description": "An open-source spreadsheet program (ArchImage)...",
     "icon": "https://portable-linux-apps.github.io/icons/gnumeric.png"
@@ -9060,9 +9065,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/wowup.png"
   },
   {
-    "packageName": "wps-office-appimage",
-    "description": "A lightweight office suite with high compatibility...",
-    "icon": "https://portable-linux-apps.github.io/icons/wps-office-appimage.png"
+    "packageName": "wps-office",
+    "description": "Unofficial, Office suite built from the official .deb package...",
+    "icon": "https://portable-linux-apps.github.io/icons/wps-office.png"
   },
   {
     "packageName": "wrapbox",
