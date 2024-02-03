@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1867** *Appimage packages and standalone applications*.
+#### *This database contains* **1868** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -634,6 +634,7 @@
 | <img src="icons/gmappimager.png" width="48" height="48"> | [***gmappimager***](apps/gmappimager.md) | *Graphically Converts GameMaker Studio 2 Linux Games to AppImage.*..[ *read more* ](apps/gmappimager.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gmappimager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gmappimager) |
 | <img src="icons/gm-companion.png" width="48" height="48"> | [***gm-companion***](apps/gm-companion.md) | *A tool for rpg gamemasters.*..[ *read more* ](apps/gm-companion.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gm-companion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gm-companion) |
 | <img src="icons/gnome-calculator.png" width="48" height="48"> | [***gnome-calculator***](apps/gnome-calculator.md) | *Perform arithmetic, scientific or financial calculations.*..[ *read more* ](apps/gnome-calculator.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gnome-calculator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gnome-calculator) |
+| <img src="icons/gnome-system-monitor3.png" width="48" height="48"> | [***gnome-system-monitor3***](apps/gnome-system-monitor3.md) | *Version 3.38.0 (for all those who hate GNOME4+ UIs).*..[ *read more* ](apps/gnome-system-monitor3.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gnome-system-monitor3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gnome-system-monitor3) |
 | <img src="icons/gnome-tweaks.png" width="48" height="48"> | [***gnome-tweaks***](apps/gnome-tweaks.md) | *Experimental AppImage port of advanced GNOME 3 settings GUI.*..[ *read more* ](apps/gnome-tweaks.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gnome-tweaks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gnome-tweaks) |
 | <img src="icons/gnumeric.png" width="48" height="48"> | [***gnumeric***](apps/gnumeric.md) | *An open-source spreadsheet program (ArchImage).*..[ *read more* ](apps/gnumeric.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/gnumeric) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/gnumeric) |
 | <img src="icons/godot.png" width="48" height="48"> | [***godot***](apps/godot.md) | *Multi-platform 2D and 3D game engine with a feature-rich editor.*..[ *read more* ](apps/godot.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/godot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/godot) |
