@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1869** *Appimage packages and standalone applications*.
+#### *This database contains* **1870** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1319,6 +1319,7 @@
 | <img src="icons/qaterialhotreload.png" width="48" height="48"> | [***qaterialhotreload***](apps/qaterialhotreload.md) | *Qml HotReload software.*..[ *read more* ](apps/qaterialhotreload.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/qaterialhotreload) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/qaterialhotreload) |
 | <img src="icons/qawl.png" width="48" height="48"> | [***qawl***](apps/qawl.md) | *Read the Holy Qur’ān whenever, wherever, however you like.*..[ *read more* ](apps/qawl.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/qawl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/qawl) |
 | <img src="icons/qbittorrent.png" width="48" height="48"> | [***qbittorrent***](apps/qbittorrent.md) | *A powerful QT-based Bittorrent Client (official AppImage).*..[ *read more* ](apps/qbittorrent.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/qbittorrent) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/qbittorrent) |
+| <img src="icons/qbittorrent-enhanced.png" width="48" height="48"> | [***qbittorrent-enhanced***](apps/qbittorrent-enhanced.md) | *Unofficial qBittorrent Enhanced, based on qBittorrent.*..[ *read more* ](apps/qbittorrent-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/qbittorrent-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/qbittorrent-enhanced) |
 | <img src="icons/qbittorrent-lite.png" width="48" height="48"> | [***qbittorrent-lite***](apps/qbittorrent-lite.md) | *Bittorrent Client (unofficial ArchImage).*..[ *read more* ](apps/qbittorrent-lite.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/qbittorrent-lite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/qbittorrent-lite) |
 | <img src="icons/qctools.png" width="48" height="48"> | [***qctools***](apps/qctools.md) | *Quality Control Tools for Video Preservation.*..[ *read more* ](apps/qctools.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/qctools) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/qctools) |
 | <img src="icons/qdriverstation.png" width="48" height="48"> | [***qdriverstation***](apps/qdriverstation.md) | *Cross-platform clone of the FRC Driver Station.*..[ *read more* ](apps/qdriverstation.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/qdriverstation) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/qdriverstation) |
