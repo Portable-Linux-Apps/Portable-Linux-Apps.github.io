@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1868** *Appimage packages and standalone applications*.
+#### *This database contains* **1869** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -750,6 +750,7 @@
 | <img src="icons/itusb1-manager.png" width="48" height="48"> | [***itusb1-manager***](apps/itusb1-manager.md) | *Control the ITUSB1 USB Test Switch.*..[ *read more* ](apps/itusb1-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/itusb1-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/itusb1-manager) |
 | <img src="icons/jag.png" width="48" height="48"> | [***jag***](apps/jag.md) | *Program for telemetry veiwing.*..[ *read more* ](apps/jag.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/jag) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/jag) |
 | <img src="icons/james.png" width="48" height="48"> | [***james***](apps/james.md) | *HTTP/HTTPS proxy built in Electron and React.*..[ *read more* ](apps/james.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/james) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/james) |
+| <img src="icons/jan.png" width="48" height="48"> | [***jan***](apps/jan.md) | *FOSS Alternative to ChatGPT that runs 100% offline on your computer.*..[ *read more* ](apps/jan.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/jan) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/jan) |
 | <img src="icons/jazz2.png" width="48" height="48"> | [***jazz2***](apps/jazz2.md) | *Open-source reimplementation of Jazz Jackrabbit 2.*..[ *read more* ](apps/jazz2.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/jazz2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/jazz2) |
 | <img src="icons/jellyamp-appimage.png" width="48" height="48"> | [***jellyamp-appimage***](apps/jellyamp-appimage.md) | *A client for listening to music from a Jellyfin server.*..[ *read more* ](apps/jellyamp-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/jellyamp-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/jellyamp-appimage) |
 | <img src="icons/jetbrains-toolbox.png" width="48" height="48"> | [***jetbrains-toolbox***](apps/jetbrains-toolbox.md) | *Essential tools for software developers and teams.*..[ *read more* ](apps/jetbrains-toolbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM-Application-Manager/blob/main/programs/x86_64/jetbrains-toolbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64/jetbrains-toolbox) |

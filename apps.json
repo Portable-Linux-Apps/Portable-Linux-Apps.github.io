@@ -3685,6 +3685,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/james.png"
   },
   {
+    "packageName": "jan",
+    "description": "FOSS Alternative to ChatGPT that runs 100% offline on your computer...",
+    "icon": "https://portable-linux-apps.github.io/icons/jan.png"
+  },
+  {
     "packageName": "jazz2",
     "description": "Open-source reimplementation of Jazz Jackrabbit 2...",
     "icon": "https://portable-linux-apps.github.io/icons/jazz2.png"
