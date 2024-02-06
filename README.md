@@ -41,22 +41,22 @@ The main problem with AppImage packages is that many of them couldn't be updated
 --------
 
 ## Is there a centralized repository for AppImage packages?
-Yes, I've called it "[AM](https://github.com/ivan-hc/AM-Application-Manager)" (Application Manager). All the apps listed on this website can be installed, updated and managed through two CLI (Command Line Interfaces) I wrote in bash (being bash the "base" of our GNU/Linux systems). In fact "AM" is also the name of the main CLI I developed, the code is available at [this link](https://github.com/ivan-hc/AM-Application-Manager/blob/main/APP-MANAGER).
+Yes, I've called it "[AM](https://github.com/ivan-hc/AM)" (Application Manager). All the apps listed on this website can be installed, updated and managed through two CLI (Command Line Interfaces) I wrote in bash (being bash the "base" of our GNU/Linux systems). In fact "AM" is also the name of the main CLI I developed, the code is available at [this link](https://github.com/ivan-hc/AM/blob/main/APP-MANAGER).
 
-The [database](https://github.com/ivan-hc/AM-Application-Manager/tree/main/programs) of "AM" does not stores packages but installation scripts, the same way the Arch User Repository (AUR) do, but each script points directly to a program ready to be downloaded (more often as AppImage packages, but also TAR/DEB archives containing directories, scripts, binary files that don't need to be compiled), and in some and really rare cases a script can build on-the-fly AppImage packages in a way similar to an AUR helper using [pkg2appimage](https://github.com/AppImageCommunity/pkg2appimage) and/or [appimagetool](https://github.com/AppImage/AppImageKit).
+The [database](https://github.com/ivan-hc/AM/tree/main/programs) of "AM" does not stores packages but installation scripts, the same way the Arch User Repository (AUR) do, but each script points directly to a program ready to be downloaded (more often as AppImage packages, but also TAR/DEB archives containing directories, scripts, binary files that don't need to be compiled), and in some and really rare cases a script can build on-the-fly AppImage packages in a way similar to an AUR helper using [pkg2appimage](https://github.com/AppImageCommunity/pkg2appimage) and/or [appimagetool](https://github.com/AppImage/AppImageKit).
 
-"AM" is also extensible to all the architectures supported by the Linux kernel (and if the app is available for that architecture). There are installation scripts for[aarch64](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/aarch64-apps) (or ARM64), [i686](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/i686-apps) (the old and obsolete 32bit systems) and obviously the more common [x86_64](https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/programs/x86_64-apps) (64bit systems). My work on "AM" is mainly focused on the x86_64 architecture being it the one I use normally and the more used in general, so many ARM64 and i686 apps may have been omitted when I wrote the scripts for them.
+"AM" is also extensible to all the architectures supported by the Linux kernel (and if the app is available for that architecture). There are installation scripts for[aarch64](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/aarch64-apps) (or ARM64), [i686](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/i686-apps) (the old and obsolete 32bit systems) and obviously the more common [x86_64](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64-apps) (64bit systems). My work on "AM" is mainly focused on the x86_64 architecture being it the one I use normally and the more used in general, so many ARM64 and i686 apps may have been omitted when I wrote the scripts for them.
 
-See "[AM Application Manager](https://github.com/ivan-hc/AM-Application-Manager)" on github for more details.
+See "[AM Application Manager](https://github.com/ivan-hc/AM)" on github for more details.
 
 --------
 
 ## How it works?
-"[AM](https://github.com/ivan-hc/AM-Application-Manager)" is a tool wrote bash, it works at system level (i.e. for all the users, using `sudo`) or in portable mode (to made it work this way, it must be renamed as "[AppMan](https://github.com/ivan-hc/AppMan)").
+"[AM](https://github.com/ivan-hc/AM)" is a tool wrote bash, it works at system level (i.e. for all the users, using `sudo`) or in portable mode (to made it work this way, it must be renamed as "[AppMan](https://github.com/ivan-hc/AppMan)").
 
 You can read the source code from here:
 
-https://github.com/ivan-hc/AM-Application-Manager/blob/main/APP-MANAGER
+https://github.com/ivan-hc/AM/blob/main/APP-MANAGER
 
 ### AM: System integration as Super User
 "AM" requires the `sudo` privileges but only to install and remove the app, all the other commands can be executed as a normal user.
@@ -88,7 +88,7 @@ To uninstall everything just run:
 
 **SEE IT IN ACTION!**
 
-[video](https://github.com/ivan-hc/AM-Application-Manager/assets/88724353/b2dd8ca6-5ee7-4bb2-8480-9a53f5cfcf56)
+[video](https://github.com/ivan-hc/AM/assets/88724353/b2dd8ca6-5ee7-4bb2-8480-9a53f5cfcf56)
 
 ### AppMan: Portable mode for non-sudo users
 If renamed "[AppMan](https://github.com/ivan-hc/AppMan)", it allows you to choose where to install your applications into your `$HOME` directory. AppMan is also usable as a portable app (i.e. you can download and place it wherever you want) and it is able to update itself, anywhere!
@@ -103,11 +103,11 @@ At first start it will ask you where to install the apps and it will create the 
     ~/.local/bin/$PROGRAM
     ~/.local/share/applications/AM-$PROGRAM.desktop
 
-All AppMan does is to convert [all the installation scripts for "AM"](https://github.com/ivan-hc/AM-Application-Manager/tree/main/programs) (that normally must be executed with `sudo`) in normal scripts that can manage applications in the local folder of the current user. This allows more users to be able to better configure their profile.
+All AppMan does is to convert [all the installation scripts for "AM"](https://github.com/ivan-hc/AM/tree/main/programs) (that normally must be executed with `sudo`) in normal scripts that can manage applications in the local folder of the current user. This allows more users to be able to better configure their profile.
 
 You can already dowload it now to give it a try without installation:
 ```
-wget https://raw.githubusercontent.com/ivan-hc/AM-Application-Manager/main/APP-MANAGER -O appman
+wget https://raw.githubusercontent.com/ivan-hc/AM/main/APP-MANAGER -O appman
 chmod a+x ./appman
 ```
 
@@ -119,7 +119,7 @@ Visit the repository of "[AppMan](https://github.com/ivan-hc/AppMan)" on github 
 #### Manage local AppImages
 Since version 4.4.2 you can use the `--launcher` option to integrate your local AppImage packages by simply dragging and dropping them into the terminal (see video).
 
-[video](https://github.com/ivan-hc/AM-Application-Manager/assets/88724353/c4b889f4-8504-4853-8918-44d52084fe6c)
+[video](https://github.com/ivan-hc/AM/assets/88724353/c4b889f4-8504-4853-8918-44d52084fe6c)
 
 #### Rollback
 From version 4.4 it is possible to directly select from a list of URLs the version of the app that interests you most from the main source. Use the `--rollback` option in this mode. This only works with the apps hosted on Github.
@@ -144,24 +144,24 @@ All the snapshots are stored into an hidden `/home/$USER/.am-snapshots` folder c
 --------
 
 ### Are the applications managed safe?
-More of them are official programs, others are third-party AppImage packages built from other people (me included), you can see the links to the sources in the application's list ([here](apps.md)) or using the `-a` option of both "AM" and AppMan. If you see an app that steals your data, contains malware or does other bad stuff with your device... please report that app in a [github issue](https://github.com/ivan-hc/AM-Application-Manager/issues) and I'll look into it.
+More of them are official programs, others are third-party AppImage packages built from other people (me included), you can see the links to the sources in the application's list ([here](apps.md)) or using the `-a` option of both "AM" and AppMan. If you see an app that steals your data, contains malware or does other bad stuff with your device... please report that app in a [github issue](https://github.com/ivan-hc/AM/issues) and I'll look into it.
 
 --------
 
 ### I've not understand, what should I install to manage all these applications?
 - **AppMan** to install applications only locally, at [https://github.com/ivan-hc/AppMan](https://github.com/ivan-hc/AppMan)
-- **AM** to install applications system-wide as Super User (with `sudo`), at [https://github.com/ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager)
+- **AM** to install applications system-wide as Super User (with `sudo`), at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM)
 
 ### The app Pippo is not available in the database, how can I upload it?
-You should do a fork of [https://github.com/ivan-hc/AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager), if "AM" or AppMan are installed you can use the option `-t` (or `template`) to create your own script. Just follow the instructions on your terminal, in the end a directory containing all the stuff needed to install the app will be saved on your desktop, upload all the content of this directory on your "fork" and try to merge a pull request, I'll check it and (if everything is OK) I'll approve it. "AM" is open source, like this website. I suggest to start so, in this way we can have both installable apps and web pages to spread to the masses. 
+You should do a fork of [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM), if "AM" or AppMan are installed you can use the option `-t` (or `template`) to create your own script. Just follow the instructions on your terminal, in the end a directory containing all the stuff needed to install the app will be saved on your desktop, upload all the content of this directory on your "fork" and try to merge a pull request, I'll check it and (if everything is OK) I'll approve it. "AM" is open source, like this website. I suggest to start so, in this way we can have both installable apps and web pages to spread to the masses. 
 
 --------
 
 # Troubleshoot
-Listed here are some of the most common issues related to what is directly linked to the site, for issues related to the clients listed above, please read the reference section in the [AM](https://github.com/ivan-hc/AM-Application-Manager/blob/main/README.md#troubleshooting) and [AppMan](https://github.com/ivan-hc/AppMan/blob/main/README.md#troubleshooting) repositories.
+Listed here are some of the most common issues related to what is directly linked to the site, for issues related to the clients listed above, please read the reference section in the [AM](https://github.com/ivan-hc/AM/blob/main/README.md#troubleshooting) and [AppMan](https://github.com/ivan-hc/AppMan/blob/main/README.md#troubleshooting) repositories.
 
 ### During an update or an installation the app is not downloaded
-This happens because whoever hosted the program to download on their own site changed something on the web page, so commands within the installation scripts are no longer able to intercept the download link. Uninstall the application and report the problem at [github.com/ivan-hc/AM-Application-Manager/issues](https://github.com/ivan-hc/AM-Application-Manager/issues) and I'll try to correct it as far I can.
+This happens because whoever hosted the program to download on their own site changed something on the web page, so commands within the installation scripts are no longer able to intercept the download link. Uninstall the application and report the problem at [github.com/ivan-hc/AM/issues](https://github.com/ivan-hc/AM/issues) and I'll try to correct it as far I can.
 
 ### The downloaded AppImage does not work
 The reasons can be multiple:
@@ -175,7 +175,7 @@ The reasons can be multiple:
 
 # Contributions to the code
 Besides me, [Ivan-HC](https://github.com/ivan-hc), other people have participated in the improvement of this site and the clients listed above:
-- "AM" Application Manager https://github.com/ivan-hc/AM-Application-Manager/graphs/contributors
+- "AM" Application Manager https://github.com/ivan-hc/AM/graphs/contributors
 - AppMan https://github.com/ivan-hc/AppMan/graphs/contributors
 - Portable Linux Apps (this site) https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/graphs/contributors
 
