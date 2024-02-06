@@ -3175,6 +3175,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/google-tasks-desktop.png"
   },
   {
+    "packageName": "gospel",
+    "description": "Poppler based fast pdf viewer written in PyQt5...",
+    "icon": "https://portable-linux-apps.github.io/icons/gospel.png"
+  },
+  {
     "packageName": "gpgfrontend",
     "description": "A Cross-Platform OpenPGP Frontend Software...",
     "icon": "https://portable-linux-apps.github.io/icons/gpgfrontend.png"

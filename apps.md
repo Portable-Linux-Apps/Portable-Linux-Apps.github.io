@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1870** *Appimage packages and standalone applications*.
+#### *This database contains* **1871** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -648,6 +648,7 @@
 | <img src="icons/google-chrome.png" width="48" height="48"> | [***google-chrome***](apps/google-chrome.md) | *Web Browser (Stable version, Unofficial AppImage).*..[ *read more* ](apps/google-chrome.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/google-chrome) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/google-chrome) |
 | <img src="icons/google-docs.png" width="48" height="48"> | [***google-docs***](apps/google-docs.md) | *Google Docs Desktop App made with electron.*..[ *read more* ](apps/google-docs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/google-docs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/google-docs) |
 | <img src="icons/google-tasks-desktop.png" width="48" height="48"> | [***google-tasks-desktop***](apps/google-tasks-desktop.md) | *Unofficial client.*..[ *read more* ](apps/google-tasks-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/google-tasks-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/google-tasks-desktop) |
+| <img src="icons/gospel.png" width="48" height="48"> | [***gospel***](apps/gospel.md) | *Poppler based fast pdf viewer written in PyQt5.*..[ *read more* ](apps/gospel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gospel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gospel) |
 | <img src="icons/gpgfrontend.png" width="48" height="48"> | [***gpgfrontend***](apps/gpgfrontend.md) | *A Cross-Platform OpenPGP Frontend Software.*..[ *read more* ](apps/gpgfrontend.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gpgfrontend) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gpgfrontend) |
 | <img src="icons/gpredict.png" width="48" height="48"> | [***gpredict***](apps/gpredict.md) | *A satellite tracking application.*..[ *read more* ](apps/gpredict.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gpredict) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gpredict) |
 | <img src="icons/gpt-anywhere.png" width="48" height="48"> | [***gpt-anywhere***](apps/gpt-anywhere.md) | *Use GPT anywhere with just one shortcut.*..[ *read more* ](apps/gpt-anywhere.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gpt-anywhere) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gpt-anywhere) |
