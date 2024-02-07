@@ -8455,6 +8455,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/uncov.png"
   },
   {
+    "packageName": "unetbootin",
+    "description": "Install Linux/BSD distributions to a partition or USB drive...",
+    "icon": "https://portable-linux-apps.github.io/icons/unetbootin.png"
+  },
+  {
     "packageName": "ungoogled-chromium",
     "description": "Chromium Web Browser without Google services...",
     "icon": "https://portable-linux-apps.github.io/icons/ungoogled-chromium.png"
