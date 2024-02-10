@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1872** *Appimage packages and standalone applications*.
+#### *This database contains* **1873** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -906,6 +906,7 @@
 | <img src="icons/lite-xl.png" width="48" height="48"> | [***lite-xl***](apps/lite-xl.md) | *A lightweight text editor written in Lua.*..[ *read more* ](apps/lite-xl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lite-xl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lite-xl) |
 | <img src="icons/liveme-pro-tools.png" width="48" height="48"> | [***liveme-pro-tools***](apps/liveme-pro-tools.md) | *Browse, search and manage accounts, replays and more.*..[ *read more* ](apps/liveme-pro-tools.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/liveme-pro-tools) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/liveme-pro-tools) |
 | <img src="icons/lmms.png" width="48" height="48"> | [***lmms***](apps/lmms.md) | *FL Studio® alternative that allows you to produce music with the PC.*..[ *read more* ](apps/lmms.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lmms) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lmms) |
+| <img src="icons/lmstudio.png" width="48" height="48"> | [***lmstudio***](apps/lmstudio.md) | *Experimenting with local and open-source Large Language Models.*..[ *read more* ](apps/lmstudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lmstudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lmstudio) |
 | <img src="icons/local-browser.png" width="48" height="48"> | [***local-browser***](apps/local-browser.md) | *Share your localhost in a unique way.*..[ *read more* ](apps/local-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/local-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/local-browser) |
 | <img src="icons/localsend.png" width="48" height="48"> | [***localsend***](apps/localsend.md) | *An open source cross-platform alternative to AirDrop*..[ *read more* ](apps/localsend.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/localsend) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/localsend) |
 | <img src="icons/loginized.png" width="48" height="48"> | [***loginized***](apps/loginized.md) | *Loginized Gnome GDM Login Theme Manager.*..[ *read more* ](apps/loginized.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/loginized) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/loginized) |

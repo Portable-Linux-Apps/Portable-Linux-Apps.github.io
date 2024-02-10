@@ -4465,6 +4465,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/lmms.png"
   },
   {
+    "packageName": "lmstudio",
+    "description": "Experimenting with local and open-source Large Language Models...",
+    "icon": "https://portable-linux-apps.github.io/icons/lmstudio.png"
+  },
+  {
     "packageName": "local-browser",
     "description": "Share your localhost in a unique way...",
     "icon": "https://portable-linux-apps.github.io/icons/local-browser.png"
