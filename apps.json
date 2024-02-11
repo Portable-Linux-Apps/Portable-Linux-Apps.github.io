@@ -1210,6 +1210,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/chat-gpt-appimage.png"
   },
   {
+    "packageName": "chatgpt-next-web",
+    "description": "A cross-platform ChatGPT/Gemini UI...",
+    "icon": "https://portable-linux-apps.github.io/icons/chatgpt-next-web.png"
+  },
+  {
     "packageName": "chatpad-ai",
     "description": "Not just another ChatGPT user-interface...",
     "icon": "https://portable-linux-apps.github.io/icons/chatpad-ai.png"
@@ -2695,6 +2700,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/flippy-qualitative-testbench.png"
   },
   {
+    "packageName": "floorp",
+    "description": "Floorp Browser, the most Advanced and Fastest Firefox derivative...",
+    "icon": "https://portable-linux-apps.github.io/icons/floorp.png"
+  },
+  {
     "packageName": "fluent-reader",
     "description": "Modern desktop RSS reader...",
     "icon": "https://portable-linux-apps.github.io/icons/fluent-reader.png"
@@ -3388,6 +3398,11 @@
     "packageName": "hexoeditor",
     "description": "Markdown editor for Hexo built with Electron...",
     "icon": "https://portable-linux-apps.github.io/icons/hexoeditor.png"
+  },
+  {
+    "packageName": "hiddify-next",
+    "description": "Auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria...",
+    "icon": "https://portable-linux-apps.github.io/icons/hiddify-next.png"
   },
   {
     "packageName": "hidpi-fixer",
