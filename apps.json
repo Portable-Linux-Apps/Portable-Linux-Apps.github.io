@@ -4790,9 +4790,24 @@
     "icon": "https://portable-linux-apps.github.io/icons/meow-sql.png"
   },
   {
+    "packageName": "mercury-avx2",
+    "description": "Firefox fork, with compiler optim. and patches from Librewolf...",
+    "icon": "https://portable-linux-apps.github.io/icons/mercury-avx2.png"
+  },
+  {
     "packageName": "mercury",
     "description": "Firefox fork with compiler optimizations and patches from Librewolf...",
     "icon": "https://portable-linux-apps.github.io/icons/mercury.png"
+  },
+  {
+    "packageName": "mercury-sse3",
+    "description": "Firefox fork with compiler optim. and patches from Librewolf...",
+    "icon": "https://portable-linux-apps.github.io/icons/mercury-sse3.png"
+  },
+  {
+    "packageName": "mercury-sse4",
+    "description": "Firefox fork with compiler optim. and patches from Librewolf...",
+    "icon": "https://portable-linux-apps.github.io/icons/mercury-sse4.png"
   },
   {
     "packageName": "meshlab",
@@ -8178,6 +8193,11 @@
     "packageName": "thorium-reader",
     "description": "Desktop application to read ebooks...",
     "icon": "https://portable-linux-apps.github.io/icons/thorium-reader.png"
+  },
+  {
+    "packageName": "thorium-sse3",
+    "description": "Web Browser, Chromium fork with Widevine and FFmpeg support...",
+    "icon": "https://portable-linux-apps.github.io/icons/thorium-sse3.png"
   },
   {
     "packageName": "thorium",
