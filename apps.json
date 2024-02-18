@@ -1150,6 +1150,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/cbetar2.png"
   },
   {
+    "packageName": "celeste64",
+    "description": "A game made by the Celeste developers...",
+    "icon": "https://portable-linux-apps.github.io/icons/celeste64.png"
+  },
+  {
     "packageName": "celestia-dev",
     "description": "Real time 3D space simulator (developer edition)...",
     "icon": "https://portable-linux-apps.github.io/icons/celestia-dev.png"
@@ -5510,6 +5515,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/nym-wallet-appimage.png"
   },
   {
+    "packageName": "nyrna",
+    "description": "Suspend games and applications...",
+    "icon": "https://portable-linux-apps.github.io/icons/nyrna.png"
+  },
+  {
     "packageName": "obsidian",
     "description": "A powerful knowledge base, plain text Markdown files...",
     "icon": "https://portable-linux-apps.github.io/icons/obsidian.png"
@@ -6973,6 +6983,11 @@
     "packageName": "ricochet",
     "description": "Anonymous peer-to-peer instant messaging...",
     "icon": "https://portable-linux-apps.github.io/icons/ricochet.png"
+  },
+  {
+    "packageName": "ricochlime",
+    "description": "Satisfying slime shooter...",
+    "icon": "https://portable-linux-apps.github.io/icons/ricochlime.png"
   },
   {
     "packageName": "ridereceipts",
@@ -8628,6 +8643,11 @@
     "packageName": "verto",
     "description": "A multi-currency crypto wallet with support for EOS & VTX...",
     "icon": "https://portable-linux-apps.github.io/icons/verto.png"
+  },
+  {
+    "packageName": "vesktop",
+    "description": "Vesktop gives you the performance of web Discord...",
+    "icon": "https://portable-linux-apps.github.io/icons/vesktop.png"
   },
   {
     "packageName": "vessel",
