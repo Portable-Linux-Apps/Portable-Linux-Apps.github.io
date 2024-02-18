@@ -8815,6 +8815,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/vlc.png"
   },
   {
+    "packageName": "vlc-git",
+    "description": "Free and Open Source Video & Media player (GIT version, Archimage)...",
+    "icon": "https://portable-linux-apps.github.io/icons/vlc-git.png"
+  },
+  {
     "packageName": "vlc-icflorescu",
     "description": "Video player (version 3.0.3) build from source...",
     "icon": "https://portable-linux-apps.github.io/icons/vlc-icflorescu.png"

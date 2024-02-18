@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1886** *Appimage packages and standalone applications*.
+#### *This database contains* **1887** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1776,6 +1776,7 @@
 | <img src="icons/vk-music-fs.png" width="48" height="48"> | [***vk-music-fs***](apps/vk-music-fs.md) | *Listen to the music from VK.*..[ *read more* ](apps/vk-music-fs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vk-music-fs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vk-music-fs) |
 | <img src="icons/vlc-cmatomic.png" width="48" height="48"> | [***vlc-cmatomic***](apps/vlc-cmatomic.md) | *Video player (version 3.0.11.1) build from source.*..[ *read more* ](apps/vlc-cmatomic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vlc-cmatomic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vlc-cmatomic) |
 | <img src="icons/vlc.png" width="48" height="48"> | [***vlc***](apps/vlc.md) | *Free and Open Source Video & Media player for Audio, streaming and more.*..[ *read more* ](apps/vlc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vlc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vlc) |
+| <img src="icons/vlc-git.png" width="48" height="48"> | [***vlc-git***](apps/vlc-git.md) | *Free and Open Source Video & Media player (GIT version, Archimage).*..[ *read more* ](apps/vlc-git.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vlc-git) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vlc-git) |
 | <img src="icons/vlc-icflorescu.png" width="48" height="48"> | [***vlc-icflorescu***](apps/vlc-icflorescu.md) | *Video player (version 3.0.3) build from source.*..[ *read more* ](apps/vlc-icflorescu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vlc-icflorescu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vlc-icflorescu) |
 | <img src="icons/vlc+.png" width="48" height="48"> | [***vlc+***](apps/vlc+.md) | *Video & Media player for Audio, streaming and more (built from PPA).*..[ *read more* ](apps/vlc+.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vlc+) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vlc+) |
 | <img src="icons/vnote.png" width="48" height="48"> | [***vnote***](apps/vnote.md) | *Note-taking application for pleasant Markdown.*..[ *read more* ](apps/vnote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vnote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vnote) |
