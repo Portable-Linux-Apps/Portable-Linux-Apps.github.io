@@ -10,14 +10,13 @@
  
  This is the unofficial AppImage built on top of JuNest, the lightweight 
  Arch Linux based distro that runs on top of any other Linux distro.
-  
- ![Screenshot](https://upload.wikimedia.org/wikipedia/commons/d/d7/Vlc.png)
+
+ ![Istantanea_2024-02-18_16-41-29](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/assets/88724353/6d2747e1-e485-4216-ab87-b65d57713bf2)
+ ![Istantanea_2024-02-18_16-41-17](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/assets/88724353/7f73b92b-b619-480e-91f8-8911aa1c80ea)
  
  SITE: https://www.videolan.org
 
- SOURCES: https://aur.archlinux.org/packages/vlc-git
- 
- 	https://aur.chaotic.cx/
+ SOURCES: https://aur.archlinux.org/packages/vlc-git https://aur.chaotic.cx/
  
  APPIMAGE: https://github.com/ivan-hc/VLC-appimage
 
