@@ -3740,6 +3740,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/jfcord.png"
   },
   {
+    "packageName": "jgrasp",
+    "description": "An IDE with Visualizations for Improving Software Comprehensibility...",
+    "icon": "https://portable-linux-apps.github.io/icons/jgrasp.png"
+  },
+  {
     "packageName": "jimud",
     "description": "MUD client for ShadowMUD.com, based on webclient...",
     "icon": "https://portable-linux-apps.github.io/icons/jimud.png"
@@ -6943,6 +6948,11 @@
     "packageName": "remnote",
     "description": "Build your Knowledge Base anywhere and without distractions...",
     "icon": "https://portable-linux-apps.github.io/icons/remnote.png"
+  },
+  {
+    "packageName": "reor",
+    "description": "AI note-taking app that runs models locally...",
+    "icon": "https://portable-linux-apps.github.io/icons/reor.png"
   },
   {
     "packageName": "responsively",
