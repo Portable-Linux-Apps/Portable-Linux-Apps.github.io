@@ -1545,6 +1545,96 @@
     "icon": "https://portable-linux-apps.github.io/icons/cordlauncher.png"
   },
   {
+    "packageName": "coreaction",
+    "description": "A side bar for showing widgets for CuboCore Application Suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/coreaction.png"
+  },
+  {
+    "packageName": "corearchiver",
+    "description": "Archive manager for CuboCore Application Suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/corearchiver.png"
+  },
+  {
+    "packageName": "corefm",
+    "description": "A lightweight file-manager for C Suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/corefm.png"
+  },
+  {
+    "packageName": "coregarage",
+    "description": "A setting manager for CuboCore Application Suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/coregarage.png"
+  },
+  {
+    "packageName": "corehunt",
+    "description": "A file search utility for CuboCore Application Suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/corehunt.png"
+  },
+  {
+    "packageName": "coreimage",
+    "description": "An image viewer for CuboCore Application Suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/coreimage.png"
+  },
+  {
+    "packageName": "coreinfo",
+    "description": "A file information viewer for CuboCore Application Suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/coreinfo.png"
+  },
+  {
+    "packageName": "corekeyboard",
+    "description": "A x11 based virtual keyboard for C Suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/corekeyboard.png"
+  },
+  {
+    "packageName": "corepad",
+    "description": "A document editor for CuboCore Application Suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/corepad.png"
+  },
+  {
+    "packageName": "corepaint",
+    "description": "A paint app for CuboCore Application Suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/corepaint.png"
+  },
+  {
+    "packageName": "corepins",
+    "description": "A bookmarking app for CuboCore Application Suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/corepins.png"
+  },
+  {
+    "packageName": "corerenamer",
+    "description": "A batch file renamer for CuboCore Application Suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/corerenamer.png"
+  },
+  {
+    "packageName": "coreshot",
+    "description": "A screen capture utility for CuboCore Application Suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/coreshot.png"
+  },
+  {
+    "packageName": "corestats",
+    "description": "A system resource viewer from the CoreApps family...",
+    "icon": "https://portable-linux-apps.github.io/icons/corestats.png"
+  },
+  {
+    "packageName": "corestuff",
+    "description": "An activity viewer for CuboCore Application Suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/corestuff.png"
+  },
+  {
+    "packageName": "coreterminal",
+    "description": "A terminal emulator for C Suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/coreterminal.png"
+  },
+  {
+    "packageName": "coretime",
+    "description": "A time related task manager for CuboCore Application Suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/coretime.png"
+  },
+  {
+    "packageName": "coreuniverse",
+    "description": "Shows releated information of apps from CuboCore App Suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/coreuniverse.png"
+  },
+  {
     "packageName": "cosmonium",
     "description": "3D astronomy and space exploration program...",
     "icon": "https://portable-linux-apps.github.io/icons/cosmonium.png"
