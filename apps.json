@@ -2165,6 +2165,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ehdev-shell.png"
   },
   {
+    "packageName": "eka2l1",
+    "description": "A Symbian OS/N-Gage emulator..",
+    "icon": "https://portable-linux-apps.github.io/icons/eka2l1.png"
+  },
+  {
     "packageName": "eksplode.re",
     "description": "Bomberman game made with Godot under BSD3...",
     "icon": "https://portable-linux-apps.github.io/icons/eksplode.re.png"
@@ -2378,6 +2383,11 @@
     "packageName": "erscaffold",
     "description": "A code generator for websites...",
     "icon": "https://portable-linux-apps.github.io/icons/erscaffold.png"
+  },
+  {
+    "packageName": "es-de",
+    "description": "EmulationStation Desktop Edition...",
+    "icon": "https://portable-linux-apps.github.io/icons/es-de.png"
   },
   {
     "packageName": "esearch",
@@ -3923,6 +3933,11 @@
     "packageName": "jreleaser",
     "description": "The quick way to release your project...",
     "icon": "https://portable-linux-apps.github.io/icons/jreleaser.png"
+  },
+  {
+    "packageName": "jrom-manager",
+    "description": "A Rom Manager entirely written in Java and released under GPL-2...",
+    "icon": "https://portable-linux-apps.github.io/icons/jrom-manager.png"
   },
   {
     "packageName": "jscad-desktop",
@@ -7150,6 +7165,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ripes.png"
   },
   {
+    "packageName": "rmg",
+    "description": "Rosalie's Mupen GUI...",
+    "icon": "https://portable-linux-apps.github.io/icons/rmg.png"
+  },
+  {
     "packageName": "rmw",
     "description": "A safe-remove utility for the command line...",
     "icon": "https://portable-linux-apps.github.io/icons/rmw.png"
@@ -7683,6 +7703,11 @@
     "packageName": "snapshot-slider",
     "description": "Present/print/email Snapshots of modern mathematics...",
     "icon": "https://portable-linux-apps.github.io/icons/snapshot-slider.png"
+  },
+  {
+    "packageName": "snes9x",
+    "description": "Snes9x - Portable Super Nintendo Entertainment System (TM) emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/snes9x.png"
   },
   {
     "packageName": "snippetstore",
@@ -8930,6 +8955,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/visualfamilytree.png"
   },
   {
+    "packageName": "vita3k",
+    "description": "Experimental PlayStation Vita emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/vita3k.png"
+  },
+  {
     "packageName": "vitomu",
     "description": "Easy to use video to audio converter...",
     "icon": "https://portable-linux-apps.github.io/icons/vitomu.png"
@@ -9405,6 +9435,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/x-loc.png"
   },
   {
+    "packageName": "xm8",
+    "description": "PC-8801 emulator for macOS and other platforms...",
+    "icon": "https://portable-linux-apps.github.io/icons/xm8.png"
+  },
+  {
     "packageName": "xmedcon",
     "description": "An open-source toolkit for medical image conversion...",
     "icon": "https://portable-linux-apps.github.io/icons/xmedcon.png"
@@ -9598,6 +9633,11 @@
     "packageName": "zxinfo-file-browser",
     "description": "Organize and manage your emulator files for ZX Spectrum...",
     "icon": "https://portable-linux-apps.github.io/icons/zxinfo-file-browser.png"
+  },
+  {
+    "packageName": "zx-poly",
+    "description": "a multi-CPU ZX-Spectrum 128 concept platform...",
+    "icon": "https://portable-linux-apps.github.io/icons/zx-poly.png"
   },
   {
     "packageName": "zy-player",
