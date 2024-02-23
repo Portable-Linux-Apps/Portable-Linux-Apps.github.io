@@ -7195,6 +7195,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/rtneuron.png"
   },
   {
+    "packageName": "ruffle",
+    "description": "A Flash Player emulator written in Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/ruffle.png"
+  },
+  {
     "packageName": "rufus",
     "description": "Logiciel de gestion de cabinet d'Ophtalmologie...",
     "icon": "https://portable-linux-apps.github.io/icons/rufus.png"
@@ -9383,6 +9388,11 @@
     "packageName": "xemu",
     "description": "Original Xbox Emulator for Windows, macOS, and Linux...",
     "icon": "https://portable-linux-apps.github.io/icons/xemu.png"
+  },
+  {
+    "packageName": "xl-converter",
+    "description": "Powerful image converter with support for multithreading...",
+    "icon": "https://portable-linux-apps.github.io/icons/xl-converter.png"
   },
   {
     "packageName": "xlights",
