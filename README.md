@@ -31,7 +31,7 @@
 --------
 
 ### What are the portable linux apps?
-Portable Linux Apps are standalone applications for GNU/Linux that can (theorically) run everywhere, also on a USB stick. These applcations can be AppImage packages (see [appimage.org](https://appimage.org/)) or standalone archives (for example Firefox, Blender, Thunderbird...).
+Portable Linux Apps are standalone applications for GNU/Linux that can (theoretically) run everywhere, also on a USB stick. These applications can be AppImage packages (see [appimage.org](https://appimage.org/)) or standalone archives (for example Firefox, Blender, Thunderbird...).
 
 --------
 
@@ -105,7 +105,7 @@ At first start it will ask you where to install the apps and it will create the 
 
 All AppMan does is to convert [all the installation scripts for "AM"](https://github.com/ivan-hc/AM/tree/main/programs) (that normally must be executed with `sudo`) in normal scripts that can manage applications in the local folder of the current user. This allows more users to be able to better configure their profile.
 
-You can already dowload it now to give it a try without installation:
+You can already download it now to give it a try without installation:
 ```
 wget https://raw.githubusercontent.com/ivan-hc/AM/main/APP-MANAGER -O appman
 chmod a+x ./appman
@@ -131,7 +131,7 @@ At first start a copy of /etc/firejail/default.profile will be saved in your app
 
 Options 1, 2 and 5 are continuous to let you edit the file and test your changes immediately. Press any key to exit.
 
-NOTE: once patched the .desktop files (options 3 and 4), they will be placed in ~/.local/share/applications, this means that if you have installed apps using AppMan, the original launchers will be overwrited.
+NOTE: once patched the .desktop files (options 3 and 4), they will be placed in ~/.local/share/applications, this means that if you have installed apps using AppMan, the original launchers will be overwritten.
 
 ##### Snapshots: backup your app and restore to a previous version
 Since 2.6.1 release, AM and AppMan can create snapshots of all installed applications. A selected program can be copied locally into your home folder.
@@ -153,7 +153,7 @@ More of them are official programs, others are third-party AppImage packages bui
 - **AM** to install applications system-wide as Super User (with `sudo`), at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM)
 
 ### The app Pippo is not available in the database, how can I upload it?
-You should do a fork of [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM), if "AM" or AppMan are installed you can use the option `-t` (or `template`) to create your own script. Just follow the instructions on your terminal, in the end a directory containing all the stuff needed to install the app will be saved on your desktop, upload all the content of this directory on your "fork" and try to merge a pull request, I'll check it and (if everything is OK) I'll approve it. "AM" is open source, like this website. I suggest to start so, in this way we can have both installable apps and web pages to spread to the masses. 
+You should do a fork of [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM), if "AM" or AppMan are installed you can use the option `-t` (or `template`) to create your own script. Just follow the instructions on your terminal, in the end a directory containing all the stuff needed to install the app will be saved on your desktop, upload all the content of this directory on your "fork" and try to merge a pull request, I'll check it and (if everything is OK) I'll approve it. "AM" is open source, like this website. I suggest to start so, in this way we can have both installable apps and web pages to spread to the masses.
 
 --------
 
