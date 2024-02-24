@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1929** *Appimage packages and standalone applications*.
+#### *This database contains* **1930** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1828,6 +1828,7 @@
 | <img src="icons/vvave-maui.png" width="48" height="48"> | [***vvave-maui***](apps/vvave-maui.md) | *Manage your music collection and stream it from the cloud.*..[ *read more* ](apps/vvave-maui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vvave-maui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vvave-maui) |
 | <img src="icons/walc.png" width="48" height="48"> | [***walc***](apps/walc.md) | *WhatsApp Linux Client (Unofficial).*..[ *read more* ](apps/walc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/walc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/walc) |
 | <img src="icons/wallettech.png" width="48" height="48"> | [***wallettech***](apps/wallettech.md) | *BytechCoin GUI Wallet.*..[ *read more* ](apps/wallettech.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wallettech) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wallettech) |
+| <img src="icons/warp-terminal.png" width="48" height="48"> | [***warp-terminal***](apps/warp-terminal.md) | *Terminal reimagined with AI and collaborative tools.*..[ *read more* ](apps/warp-terminal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/warp-terminal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/warp-terminal) |
 | <img src="icons/watched.png" width="48" height="48"> | [***watched***](apps/watched.md) | *A media player and a browser for Excellent entertainment.*..[ *read more* ](apps/watched.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/watched) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/watched) |
 | <img src="icons/watchflower.png" width="48" height="48"> | [***watchflower***](apps/watchflower.md) | *Read and plot datas from your Xiaomi devices.*..[ *read more* ](apps/watchflower.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/watchflower) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/watchflower) |
 | <img src="icons/watchit.png" width="48" height="48"> | [***watchit***](apps/watchit.md) | *Open movies everywhere.*..[ *read more* ](apps/watchit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/watchit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/watchit) |

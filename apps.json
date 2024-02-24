@@ -9075,6 +9075,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/wallettech.png"
   },
   {
+    "packageName": "warp-terminal",
+    "description": "Terminal reimagined with AI and collaborative tools...",
+    "icon": "https://portable-linux-apps.github.io/icons/warp-terminal.png"
+  },
+  {
     "packageName": "watched",
     "description": "A media player and a browser for Excellent entertainment...",
     "icon": "https://portable-linux-apps.github.io/icons/watched.png"
