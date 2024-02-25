@@ -120,6 +120,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/allusion.png"
   },
   {
+    "packageName": "alpine-flatimage",
+    "description": "A hybrid of Flatpak sandboxing with AppImage portability...",
+    "icon": "https://portable-linux-apps.github.io/icons/alpine-flatimage.png"
+  },
+  {
     "packageName": "altair",
     "description": "The best graphQL client you will ever need...",
     "icon": "https://portable-linux-apps.github.io/icons/altair.png"
@@ -348,6 +353,11 @@
     "packageName": "arch-deployer",
     "description": "Script to convert Arch Linux packages to AppDir/AppImage...",
     "icon": "https://portable-linux-apps.github.io/icons/arch-deployer.png"
+  },
+  {
+    "packageName": "arch-flatimage",
+    "description": "A hybrid of Flatpak sandboxing with AppImage portability...",
+    "icon": "https://portable-linux-apps.github.io/icons/arch-flatimage.png"
   },
   {
     "packageName": "archimage-cli",
