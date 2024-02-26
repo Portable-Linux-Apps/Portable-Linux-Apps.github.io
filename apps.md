@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1932** *Appimage packages and standalone applications*.
+#### *This database contains* **1933** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -386,6 +386,7 @@
 | <img src="icons/dawnlightsearch.png" width="48" height="48"> | [***dawnlightsearch***](apps/dawnlightsearch.md) | *A Linux version of Everything Search Engine.*..[ *read more* ](apps/dawnlightsearch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dawnlightsearch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dawnlightsearch) |
 | <img src="icons/dbet-wallet.png" width="48" height="48"> | [***dbet-wallet***](apps/dbet-wallet.md) | *DBET Wallet.*..[ *read more* ](apps/dbet-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dbet-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dbet-wallet) |
 | <img src="icons/dbgate.png" width="48" height="48"> | [***dbgate***](apps/dbgate.md) | *Opensource database administration tool*..[ *read more* ](apps/dbgate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dbgate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dbgate) |
+| <img src="icons/deadbeef.png" width="48" height="48"> | [***deadbeef***](apps/deadbeef.md) | *A modular cross-platform audio player.*..[ *read more* ](apps/deadbeef.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deadbeef) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deadbeef) |
 | <img src="icons/deadgame-2048.png" width="48" height="48"> | [***deadgame-2048***](apps/deadgame-2048.md) | *GUI tool available for ALL platforms.*..[ *read more* ](apps/deadgame-2048.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deadgame-2048) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deadgame-2048) |
 | <img src="icons/deb2appimage.png" width="48" height="48"> | [***deb2appimage***](apps/deb2appimage.md) | *Build AppImages from deb packages on any distro.*..[ *read more* ](apps/deb2appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deb2appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deb2appimage) |
 | <img src="icons/debian-testing-avidemux.png" width="48" height="48"> | [***debian-testing-avidemux***](apps/debian-testing-avidemux.md) | *Unofficial Avidemux built from deb-multimedia.*..[ *read more* ](apps/debian-testing-avidemux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/debian-testing-avidemux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/debian-testing-avidemux) |
