@@ -2545,6 +2545,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/fastboot.png"
   },
   {
+    "packageName": "fastfetch",
+    "description": "Like neofetch, but much faster because written mostly in C...",
+    "icon": "https://portable-linux-apps.github.io/icons/fastfetch.png"
+  },
+  {
     "packageName": "fastqt",
     "description": "Control tool for high throughput genomics sequence data...",
     "icon": "https://portable-linux-apps.github.io/icons/fastqt.png"
@@ -8563,6 +8568,11 @@
     "packageName": "trader",
     "description": "Play Star Traders, a simple game of interstellar trading...",
     "icon": "https://portable-linux-apps.github.io/icons/trader.png"
+  },
+  {
+    "packageName": "trans",
+    "description": "CLI translator using Google/Bing/Yandex Translate, etc.....",
+    "icon": "https://portable-linux-apps.github.io/icons/trans.png"
   },
   {
     "packageName": "translatium",
