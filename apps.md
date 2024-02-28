@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1935** *Appimage packages and standalone applications*.
+#### *This database contains* **1936** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -124,6 +124,7 @@
 | <img src="icons/axe-electrum.png" width="48" height="48"> | [***axe-electrum***](apps/axe-electrum.md) | *Axe Electrum Wallet.*..[ *read more* ](apps/axe-electrum.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/axe-electrum) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/axe-electrum) |
 | <img src="icons/axolotl.png" width="48" height="48"> | [***axolotl***](apps/axolotl.md) | *A Signal compatible cross plattform client written in Go and Vuejs.*..[ *read more* ](apps/axolotl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/axolotl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/axolotl) |
 | <img src="icons/baijimangaviewer.png" width="48" height="48"> | [***baijimangaviewer***](apps/baijimangaviewer.md) | *Manga viewer that uses Material Design.*..[ *read more* ](apps/baijimangaviewer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/baijimangaviewer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/baijimangaviewer) |
+| <img src="icons/bambustudio.png" width="48" height="48"> | [***bambustudio***](apps/bambustudio.md) | *PC Software for BambuLab's 3D printers.*..[ *read more* ](apps/bambustudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bambustudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bambustudio) |
 | <img src="icons/baobab3.png" width="48" height="48"> | [***baobab3***](apps/baobab3.md) | *Disk Usage Analyser (version 3.38, for all GNOME4+ haters).*..[ *read more* ](apps/baobab3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/baobab3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/baobab3) |
 | <img src="icons/bastyon.png" width="48" height="48"> | [***bastyon***](apps/bastyon.md) | *Decentralized social network based on the blockchain.*..[ *read more* ](apps/bastyon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bastyon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bastyon) |
 | <img src="icons/batch-explorer.png" width="48" height="48"> | [***batch-explorer***](apps/batch-explorer.md) | *A client tool to create/debug/monitor Azure Batch Apps.*..[ *read more* ](apps/batch-explorer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/batch-explorer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/batch-explorer) |
