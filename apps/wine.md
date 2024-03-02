@@ -4,7 +4,7 @@
  
  This script allows you to download one of the many versions available from the
  mmtrt/WINE_AppImage repository, on Github.
- 
+
  NOTE: this will create two symlinks in $PATH, "wine" and "wine64", needed to
  made this AppImage work with other frontends, like Bottles AppImage.
  
@@ -25,6 +25,8 @@
  "wine-staging", "wine-devel" and "wine-staging-ge-proton") may be "inaccurate"
  if, for example, they are available two "stable" releases for two different
  versions, being all artifacts released as continuous builds.
+
+ To change the release use the option "--rollback" of "AM" and "AppMan".
  
  IT IS STRONGLY RECOMMENDED TO USE THIS SCRIPT TO INSTALL WINE.
  
