@@ -12,7 +12,7 @@
  managed by "AM" (in /usr/local/bin) and "AppMan" (in ~/.local/bin).
  
  The need to create this script is given by the fact that the 
- mmtrt/WINE_AppImageTizio's repository is constantly evolving. The AppImages 
+ mmtrt/WINE_AppImage's repository is constantly evolving. The AppImages 
  provided are of high quality and reflect the needs of the most demanding 
  users.
  
