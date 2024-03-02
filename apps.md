@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1936** *Appimage packages and standalone applications*.
+#### *This database contains* **1937** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1874,6 +1874,7 @@
 | <img src="icons/wine-5.11.png" width="48" height="48"> | [***wine-5.11***](apps/wine-5.11.md) | *Appimage for Wine 32-bit you can run on no-multilib systems.*..[ *read more* ](apps/wine-5.11.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-5.11) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-5.11) |
 | <img src="icons/wine-6.0.1.png" width="48" height="48"> | [***wine-6.0.1***](apps/wine-6.0.1.md) | *Appimage for Wine 32-bit you can run on no-multilib systems.*..[ *read more* ](apps/wine-6.0.1.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-6.0.1) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-6.0.1) |
 | <img src="icons/wine-devel.png" width="48" height="48"> | [***wine-devel***](apps/wine-devel.md) | *Compatibility layer to run x86_64 Windows programs (Dev Edition).*..[ *read more* ](apps/wine-devel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-devel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-devel) |
+| <img src="icons/wine.png" width="48" height="48"> | [***wine***](apps/wine.md) | *Run Windows programs (select a version from mmtrt/WINE_AppImage).*..[ *read more* ](apps/wine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine) |
 | <img src="icons/wine-stable.png" width="48" height="48"> | [***wine-stable***](apps/wine-stable.md) | *Compatibility layer to run x86_64 Windows programs (Stable).*..[ *read more* ](apps/wine-stable.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-stable) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-stable) |
 | <img src="icons/wine-staging.png" width="48" height="48"> | [***wine-staging***](apps/wine-staging.md) | *Compatibility layer to run x86_64 Windows programs (Staging).*..[ *read more* ](apps/wine-staging.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-staging) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-staging) |
 | <img src="icons/wine-staging-ge-proton.png" width="48" height="48"> | [***wine-staging-ge-proton***](apps/wine-staging-ge-proton.md) | *Run x86_64 Windows programs (Staging GE Proton).*..[ *read more* ](apps/wine-staging-ge-proton.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-staging-ge-proton) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-staging-ge-proton) |
