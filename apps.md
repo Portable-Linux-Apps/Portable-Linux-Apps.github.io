@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1937** *Appimage packages and standalone applications*.
+#### *This database contains* **1938** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1458,6 +1458,7 @@
 | <img src="icons/rotki.png" width="48" height="48"> | [***rotki***](apps/rotki.md) | *A portfolio tracking, asset analytics and tax reporting app.*..[ *read more* ](apps/rotki.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rotki) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rotki) |
 | <img src="icons/rpan-studio.png" width="48" height="48"> | [***rpan-studio***](apps/rpan-studio.md) | *OBS Studio with RPAN integration.*..[ *read more* ](apps/rpan-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rpan-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rpan-studio) |
 | <img src="icons/rpcs3.png" width="48" height="48"> | [***rpcs3***](apps/rpcs3.md) | *An open-source PlayStation 3 emulator/debugger written in C++.*..[ *read more* ](apps/rpcs3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rpcs3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rpcs3) |
+| <img src="icons/rquickshare.png" width="48" height="48"> | [***rquickshare***](apps/rquickshare.md) | *Rust implementation of NearbyShare/QuickShare from Android.*..[ *read more* ](apps/rquickshare.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rquickshare) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rquickshare) |
 | <img src="icons/rssguard.png" width="48" height="48"> | [***rssguard***](apps/rssguard.md) | *Feed reader which supports RSS/ATOM/JSON (no-webengine version).*..[ *read more* ](apps/rssguard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rssguard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rssguard) |
 | <img src="icons/rstudio.png" width="48" height="48"> | [***rstudio***](apps/rstudio.md) | *RStudio is an integrated development environment (IDE) for R.*..[ *read more* ](apps/rstudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rstudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rstudio) |
 | <img src="icons/rtneuron.png" width="48" height="48"> | [***rtneuron***](apps/rtneuron.md) | *Framework for geometrically detailed neuron simulations.*..[ *read more* ](apps/rtneuron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rtneuron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rtneuron) |

@@ -7225,6 +7225,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/rpcs3.png"
   },
   {
+    "packageName": "rquickshare",
+    "description": "Rust implementation of NearbyShare/QuickShare from Android...",
+    "icon": "https://portable-linux-apps.github.io/icons/rquickshare.png"
+  },
+  {
     "packageName": "rssguard",
     "description": "Feed reader which supports RSS/ATOM/JSON (no-webengine version)...",
     "icon": "https://portable-linux-apps.github.io/icons/rssguard.png"
