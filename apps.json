@@ -2330,6 +2330,36 @@
     "icon": "https://portable-linux-apps.github.io/icons/emacs.png"
   },
   {
+    "packageName": "emacs-nox-daily",
+    "description": "FOSS text editor for complete programming language...",
+    "icon": "https://portable-linux-apps.github.io/icons/emacs-nox-daily.png"
+  },
+  {
+    "packageName": "emacs-nox",
+    "description": "FOSS text editor for complete programming language...",
+    "icon": "https://portable-linux-apps.github.io/icons/emacs-nox.png"
+  },
+  {
+    "packageName": "emacs-pgtk-daily",
+    "description": "FOSS text editor for complete programming language...",
+    "icon": "https://portable-linux-apps.github.io/icons/emacs-pgtk-daily.png"
+  },
+  {
+    "packageName": "emacs-pgtk",
+    "description": "FOSS text editor for complete programming language...",
+    "icon": "https://portable-linux-apps.github.io/icons/emacs-pgtk.png"
+  },
+  {
+    "packageName": "emacs-x11-daily",
+    "description": "FOSS text editor for complete programming language...",
+    "icon": "https://portable-linux-apps.github.io/icons/emacs-x11-daily.png"
+  },
+  {
+    "packageName": "emacs-x11",
+    "description": "FOSS text editor for complete programming language...",
+    "icon": "https://portable-linux-apps.github.io/icons/emacs-x11.png"
+  },
+  {
     "packageName": "embedded-ide",
     "description": "Makefile based IDE for embedded systems...",
     "icon": "https://portable-linux-apps.github.io/icons/embedded-ide.png"
