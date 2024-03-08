@@ -1810,6 +1810,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/customrpc.png"
   },
   {
+    "packageName": "cutechess",
+    "description": "Cute Chess is a GUI, a CLI and a library for playing chess...",
+    "icon": "https://portable-linux-apps.github.io/icons/cutechess.png"
+  },
+  {
     "packageName": "cutepeaks",
     "description": "A simple sanger trace file viewer...",
     "icon": "https://portable-linux-apps.github.io/icons/cutepeaks.png"
@@ -2348,6 +2353,11 @@
     "packageName": "emulationstation",
     "description": "A flexible emulator front-end supporting custom themes...",
     "icon": "https://portable-linux-apps.github.io/icons/emulationstation.png"
+  },
+  {
+    "packageName": "en-croissant",
+    "description": "The Ultimate Chess Toolkit...",
+    "icon": "https://portable-linux-apps.github.io/icons/en-croissant.png"
   },
   {
     "packageName": "encryptpad",
@@ -4790,6 +4800,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/mandelbulber2.png"
   },
   {
+    "packageName": "mangayomi",
+    "description": "Application for reading manga and watching anime...",
+    "icon": "https://portable-linux-apps.github.io/icons/mangayomi.png"
+  },
+  {
     "packageName": "mangbandclient",
     "description": "A free online multi-player realtime roguelike game...",
     "icon": "https://portable-linux-apps.github.io/icons/mangbandclient.png"
@@ -6315,6 +6330,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/pingviewer.png"
   },
   {
+    "packageName": "pinokio",
+    "description": "AI Browser...",
+    "icon": "https://portable-linux-apps.github.io/icons/pinokio.png"
+  },
+  {
     "packageName": "pix-maui",
     "description": "Image gallery and viewer with basic editing features...",
     "icon": "https://portable-linux-apps.github.io/icons/pix-maui.png"
@@ -7445,6 +7465,26 @@
     "icon": "https://portable-linux-apps.github.io/icons/serial-studio.png"
   },
   {
+    "packageName": "serioussamtfe",
+    "description": "Game engine for Serious Sam Classic (TFE)...",
+    "icon": "https://portable-linux-apps.github.io/icons/serioussamtfe.png"
+  },
+  {
+    "packageName": "serioussamtfe-vk",
+    "description": "Game engine for Serious Sam Classic (Vulkan support, TFE)...",
+    "icon": "https://portable-linux-apps.github.io/icons/serioussamtfe-vk.png"
+  },
+  {
+    "packageName": "serioussamtse",
+    "description": "Game engine for Serious Sam Classic (TSE)...",
+    "icon": "https://portable-linux-apps.github.io/icons/serioussamtse.png"
+  },
+  {
+    "packageName": "serioussamtse-vk",
+    "description": "Game engine for Serious Sam Classic (Vulkan support, TSE)...",
+    "icon": "https://portable-linux-apps.github.io/icons/serioussamtse-vk.png"
+  },
+  {
     "packageName": "ser-player",
     "description": "Video player for SER files used for astronomy-imaging...",
     "icon": "https://portable-linux-apps.github.io/icons/ser-player.png"
@@ -8335,6 +8375,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/telegram.png"
   },
   {
+    "packageName": "terminalos-sim",
+    "description": "A terminalOS simulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/terminalos-sim.png"
+  },
+  {
     "packageName": "teslacam-browser",
     "description": "A minimal TeslaCam Browser...",
     "icon": "https://portable-linux-apps.github.io/icons/teslacam-browser.png"
@@ -9058,6 +9103,11 @@
     "packageName": "vnote",
     "description": "Note-taking application for pleasant Markdown...",
     "icon": "https://portable-linux-apps.github.io/icons/vnote.png"
+  },
+  {
+    "packageName": "vocabsieve",
+    "description": "Simple sentence mining tool for language learning...",
+    "icon": "https://portable-linux-apps.github.io/icons/vocabsieve.png"
   },
   {
     "packageName": "voicevox",
