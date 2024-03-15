@@ -9,8 +9,10 @@
  of AppImage runs on any GNU/Linux distro old or newer, with at least the 
  Linux kernel 3+.
 
+ VLC+ is the stable version but with additional and/or experimental features.
+ 
  Support for JAVA (jre8-openjdk package) is included and is open to new
- feature implementations.
+ feature implementations (for example, third-party plugins).
  
  ![Screenshot](https://upload.wikimedia.org/wikipedia/commons/d/d7/Vlc.png)
  
