@@ -31,7 +31,7 @@
   },
   {
     "packageName": "abiword",
-    "description": "A light and free word processing software (ArchImage)...",
+    "description": "A light and free word processing software...",
     "icon": "https://portable-linux-apps.github.io/icons/abiword.png"
   },
   {
@@ -3126,7 +3126,7 @@
   },
   {
     "packageName": "gedit",
-    "description": "ArchImage of the popular GNOME text editor Gedit...",
+    "description": "The popular GNOME text editor Gedit...",
     "icon": "https://portable-linux-apps.github.io/icons/gedit.png"
   },
   {
@@ -3321,7 +3321,7 @@
   },
   {
     "packageName": "gnumeric",
-    "description": "An open-source spreadsheet program (ArchImage)...",
+    "description": "An open-source spreadsheet program...",
     "icon": "https://portable-linux-apps.github.io/icons/gnumeric.png"
   },
   {
@@ -3526,7 +3526,7 @@
   },
   {
     "packageName": "handbrake",
-    "description": "An open-source multiplatform video transcoder (ArchImage)...",
+    "description": "An open-source multiplatform video transcoder...",
     "icon": "https://portable-linux-apps.github.io/icons/handbrake.png"
   },
   {
@@ -5296,7 +5296,7 @@
   },
   {
     "packageName": "mpv",
-    "description": "A free, open source, and cross-platform media player (ArchImage)...",
+    "description": "A free, open source, and cross-platform media player...",
     "icon": "https://portable-linux-apps.github.io/icons/mpv.png"
   },
   {
@@ -5746,7 +5746,7 @@
   },
   {
     "packageName": "obs-studio",
-    "description": "Software for video recording and live streaming (ArchImage)...",
+    "description": "Software for video recording and live streaming...",
     "icon": "https://portable-linux-apps.github.io/icons/obs-studio.png"
   },
   {
@@ -6816,7 +6816,7 @@
   },
   {
     "packageName": "qbittorrent-lite",
-    "description": "Bittorrent Client (unofficial ArchImage)...",
+    "description": "Bittorrent Client...",
     "icon": "https://portable-linux-apps.github.io/icons/qbittorrent-lite.png"
   },
   {
@@ -7211,7 +7211,7 @@
   },
   {
     "packageName": "rhythmbox",
-    "description": "ArchImage for the Audio Player Rhythmbox...",
+    "description": "The popular Audio Player Rhythmbox...",
     "icon": "https://portable-linux-apps.github.io/icons/rhythmbox.png"
   },
   {
@@ -9116,7 +9116,7 @@
   },
   {
     "packageName": "vlc-git",
-    "description": "Free and Open Source Video & Media player (GIT version, Archimage)...",
+    "description": "Free and Open Source Video & Media player (GIT version)...",
     "icon": "https://portable-linux-apps.github.io/icons/vlc-git.png"
   },
   {
