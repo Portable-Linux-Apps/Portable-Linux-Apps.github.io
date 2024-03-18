@@ -70,6 +70,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/advanced-rest-client.png"
   },
   {
+    "packageName": "agregore",
+    "description": "A minimal browser for the distributed web (Desktop version)...",
+    "icon": "https://portable-linux-apps.github.io/icons/agregore.png"
+  },
+  {
     "packageName": "ai-bot-workspace",
     "description": "Electron app including testing workspaces...",
     "icon": "https://portable-linux-apps.github.io/icons/ai-bot-workspace.png"

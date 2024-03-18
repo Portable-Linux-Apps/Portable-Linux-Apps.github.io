@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1954** *Appimage packages and standalone applications*.
+#### *This database contains* **1955** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -27,6 +27,7 @@
 | <img src="icons/admin-tools.png" width="48" height="48"> | [***admin-tools***](apps/admin-tools.md) | *Administrative tools.*..[ *read more* ](apps/admin-tools.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/admin-tools) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/admin-tools) |
 | <img src="icons/advanced-passgen.png" width="48" height="48"> | [***advanced-passgen***](apps/advanced-passgen.md) | *Advanced Password Generator.*..[ *read more* ](apps/advanced-passgen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/advanced-passgen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/advanced-passgen) |
 | <img src="icons/advanced-rest-client.png" width="48" height="48"> | [***advanced-rest-client***](apps/advanced-rest-client.md) | *Advanced REST Client and API console (by Mulesoft).*..[ *read more* ](apps/advanced-rest-client.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/advanced-rest-client) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/advanced-rest-client) |
+| <img src="icons/agregore.png" width="48" height="48"> | [***agregore***](apps/agregore.md) | *A minimal browser for the distributed web (Desktop version).*..[ *read more* ](apps/agregore.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/agregore) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/agregore) |
 | <img src="icons/ai-bot-workspace.png" width="48" height="48"> | [***ai-bot-workspace***](apps/ai-bot-workspace.md) | *Electron app including testing workspaces.*..[ *read more* ](apps/ai-bot-workspace.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ai-bot-workspace) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ai-bot-workspace) |
 | <img src="icons/aillio-ts.png" width="48" height="48"> | [***aillio-ts***](apps/aillio-ts.md) | *The desktop application for Aillio Bullet R1.*..[ *read more* ](apps/aillio-ts.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aillio-ts) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aillio-ts) |
 | <img src="icons/air-controller-desktop.png" width="48" height="48"> | [***air-controller-desktop***](apps/air-controller-desktop.md) | *Android phone assistant,powered by Flutter.*..[ *read more* ](apps/air-controller-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/air-controller-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/air-controller-desktop) |
