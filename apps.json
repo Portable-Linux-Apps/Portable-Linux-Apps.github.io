@@ -8645,6 +8645,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/tor-browser.png"
   },
   {
+    "packageName": "torcs",
+    "description": "The 3D Open Racing Car Game and Simulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/torcs.png"
+  },
+  {
     "packageName": "torrenttools",
     "description": "Cli tool to inspect/create/edit BitTorrent metafiles...",
     "icon": "https://portable-linux-apps.github.io/icons/torrenttools.png"

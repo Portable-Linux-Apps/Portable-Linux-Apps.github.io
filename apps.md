@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1955** *Appimage packages and standalone applications*.
+#### *This database contains* **1956** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1742,6 +1742,7 @@
 | <img src="icons/tonuino-toolbox.png" width="48" height="48"> | [***tonuino-toolbox***](apps/tonuino-toolbox.md) | *SD card manager for your Tonuino.*..[ *read more* ](apps/tonuino-toolbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tonuino-toolbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tonuino-toolbox) |
 | <img src="icons/topgrade.png" width="48" height="48"> | [***topgrade***](apps/topgrade.md) | *Upgrade all the things, this is the universal upgrade manager.*..[ *read more* ](apps/topgrade.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/topgrade) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/topgrade) |
 | <img src="icons/tor-browser.png" width="48" height="48"> | [***tor-browser***](apps/tor-browser.md) | *Privacy-oriented Web Browser for sites blocked in your country.*..[ *read more* ](apps/tor-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tor-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tor-browser) |
+| <img src="icons/torcs.png" width="48" height="48"> | [***torcs***](apps/torcs.md) | *The 3D Open Racing Car Game and Simulator.*..[ *read more* ](apps/torcs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/torcs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/torcs) |
 | <img src="icons/torrenttools.png" width="48" height="48"> | [***torrenttools***](apps/torrenttools.md) | *Cli tool to inspect/create/edit BitTorrent metafiles.*..[ *read more* ](apps/torrenttools.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/torrenttools) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/torrenttools) |
 | <img src="icons/toughcookies.png" width="48" height="48"> | [***toughcookies***](apps/toughcookies.md) | *A modern flash cards study and management app.*..[ *read more* ](apps/toughcookies.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/toughcookies) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/toughcookies) |
 | <img src="icons/trader.png" width="48" height="48"> | [***trader***](apps/trader.md) | *Play Star Traders, a simple game of interstellar trading.*..[ *read more* ](apps/trader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trader) |
