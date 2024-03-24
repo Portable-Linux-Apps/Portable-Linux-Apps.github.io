@@ -3430,6 +3430,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/graviton.png"
   },
   {
+    "packageName": "greenlight",
+    "description": "Client for xCloud and Xbox home streaming made in Typescript...",
+    "icon": "https://portable-linux-apps.github.io/icons/greenlight.png"
+  },
+  {
     "packageName": "gridcoin-research",
     "description": "A POS-based cryptocurrency...",
     "icon": "https://portable-linux-apps.github.io/icons/gridcoin-research.png"
@@ -7123,6 +7128,11 @@
     "packageName": "rbdoom-3",
     "description": "Doom 3 BFG Edition source port with updated DX12/Vulkan renderer...",
     "icon": "https://portable-linux-apps.github.io/icons/rbdoom-3.png"
+  },
+  {
+    "packageName": "rclone-browser",
+    "description": "Simple cross platform GUI for rclone...",
+    "icon": "https://portable-linux-apps.github.io/icons/rclone-browser.png"
   },
   {
     "packageName": "reactotron",
