@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1955** *Appimage packages and standalone applications*.
+#### *This database contains* **1953** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -200,8 +200,6 @@
 | <img src="icons/brave.png" width="48" height="48"> | [***brave***](apps/brave.md) | *A privacy oriented Web Browser based on Chromium (Stable).*..[ *read more* ](apps/brave.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave) |
 | <img src="icons/brave-beta-appimage.png" width="48" height="48"> | [***brave-beta-appimage***](apps/brave-beta-appimage.md) | *Unofficial AppImage (Web Browser, Beta Edition).*..[ *read more* ](apps/brave-beta-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-beta-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-beta-appimage) |
 | <img src="icons/brave-beta.png" width="48" height="48"> | [***brave-beta***](apps/brave-beta.md) | *A privacy oriented Web Browser (Beta Edition).*..[ *read more* ](apps/brave-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-beta) |
-| <img src="icons/brave-dev-appimage.png" width="48" height="48"> | [***brave-dev-appimage***](apps/brave-dev-appimage.md) | *Unofficial AppImage (Web Browser, Developer Edition).*..[ *read more* ](apps/brave-dev-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-dev-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-dev-appimage) |
-| <img src="icons/brave-dev.png" width="48" height="48"> | [***brave-dev***](apps/brave-dev.md) | *A privacy oriented Web Browser (Developer Edition).*..[ *read more* ](apps/brave-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-dev) |
 | <img src="icons/brave-nightly-appimage.png" width="48" height="48"> | [***brave-nightly-appimage***](apps/brave-nightly-appimage.md) | *Unofficial AppImage (Web Browser, Nightly Edition).*..[ *read more* ](apps/brave-nightly-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-nightly-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-nightly-appimage) |
 | <img src="icons/brave-nightly.png" width="48" height="48"> | [***brave-nightly***](apps/brave-nightly.md) | *A privacy oriented Web Browser (Nightly Edition).*..[ *read more* ](apps/brave-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-nightly) |
 | <img src="icons/bread.png" width="48" height="48"> | [***bread***](apps/bread.md) | *Install, update and remove AppImage from GitHub using your CLI.*..[ *read more* ](apps/bread.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bread) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bread) |

@@ -935,16 +935,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/brave-beta.png"
   },
   {
-    "packageName": "brave-dev-appimage",
-    "description": "Unofficial AppImage (Web Browser, Developer Edition)...",
-    "icon": "https://portable-linux-apps.github.io/icons/brave-dev-appimage.png"
-  },
-  {
-    "packageName": "brave-dev",
-    "description": "A privacy oriented Web Browser (Developer Edition)...",
-    "icon": "https://portable-linux-apps.github.io/icons/brave-dev.png"
-  },
-  {
     "packageName": "brave-nightly-appimage",
     "description": "Unofficial AppImage (Web Browser, Nightly Edition)...",
     "icon": "https://portable-linux-apps.github.io/icons/brave-nightly-appimage.png"
