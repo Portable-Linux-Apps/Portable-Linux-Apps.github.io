@@ -1,4 +1,4 @@
-# BAOBAB3
+# BAOBAB-GTK3
  
  Disk Usage Analyser (version 3.38, for all GNOME4+ haters).
  
