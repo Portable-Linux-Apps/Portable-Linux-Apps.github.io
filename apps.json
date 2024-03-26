@@ -565,9 +565,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/bambustudio.png"
   },
   {
-    "packageName": "baobab3",
+    "packageName": "baobab-gtk3",
     "description": "Disk Usage Analyser (version 3.38, for all GNOME4+ haters)...",
-    "icon": "https://portable-linux-apps.github.io/icons/baobab3.png"
+    "icon": "https://portable-linux-apps.github.io/icons/baobab-gtk3.png"
   },
   {
     "packageName": "bastyon",
