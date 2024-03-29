@@ -5450,6 +5450,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/nanovault.png"
   },
   {
+    "packageName": "naruto-arena",
+    "description": "Naruto-based online multiplayer strategy game...",
+    "icon": "https://portable-linux-apps.github.io/icons/naruto-arena.png"
+  },
+  {
     "packageName": "nault-bin",
     "description": "Official Nault AppImage client...",
     "icon": "https://portable-linux-apps.github.io/icons/nault-bin.png"
@@ -7873,6 +7878,11 @@
     "packageName": "sonixd",
     "description": "A full-featured Subsonic/Jellyfin compatible desktop music player...",
     "icon": "https://portable-linux-apps.github.io/icons/sonixd.png"
+  },
+  {
+    "packageName": "soul-arena",
+    "description": "Bleach-based online multiplayer strategy game...",
+    "icon": "https://portable-linux-apps.github.io/icons/soul-arena.png"
   },
   {
     "packageName": "sourcetrail",
