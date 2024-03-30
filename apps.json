@@ -155,6 +155,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/amazingmarvin-appimage.png"
   },
   {
+    "packageName": "amdgpu-top",
+    "description": "Tool to display AMDGPU usage...",
+    "icon": "https://portable-linux-apps.github.io/icons/amdgpu-top.png"
+  },
+  {
     "packageName": "amusiz",
     "description": "Unofficial and unpretentious Amazon Music client...",
     "icon": "https://portable-linux-apps.github.io/icons/amusiz.png"
@@ -9696,7 +9701,12 @@
   },
   {
     "packageName": "yuzu",
-    "description": "An experimental open-source emulator for the Nintendo Switch...",
+    "description": "An experimental open-source emulator for the Nintendo Switch. Open-source, Nintendo Switch emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/yuzu.png"
+  },
+  {
+    "packageName": "yuzu",
+    "description": "An experimental open-source emulator for the Nintendo Switch. Open-source, Nintendo Switch emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/yuzu.png"
   },
   {

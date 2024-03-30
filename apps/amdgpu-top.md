@@ -1,10 +1,8 @@
-# YUZU
+# AMDGPU-TOP
 
- Open-source, Nintendo Switch emulator.
+ Tool to display AMDGPU usage.
 
- SITE: https://yuzu-emu.org
- 
- REPOSITORY: https://git.suyu.dev/suyu/suyu
+ SITE: https://github.com/Umio-Yasuno/amdgpu_top
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
