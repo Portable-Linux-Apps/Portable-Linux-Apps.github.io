@@ -155,9 +155,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/amazingmarvin-appimage.png"
   },
   {
-    "packageName": "amdgpu-top",
+    "packageName": "amdgpu_top",
     "description": "Tool to display AMDGPU usage...",
-    "icon": "https://portable-linux-apps.github.io/icons/amdgpu-top.png"
+    "icon": "https://portable-linux-apps.github.io/icons/amdgpu_top.png"
   },
   {
     "packageName": "amusiz",
