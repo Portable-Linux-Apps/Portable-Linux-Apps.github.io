@@ -1,4 +1,4 @@
-# AMDGPU-TOP
+# AMDGPU_TOP
 
  Tool to display AMDGPU usage.
 
