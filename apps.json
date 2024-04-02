@@ -8275,6 +8275,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/supertuxkart.png"
   },
   {
+    "packageName": "suyu",
+    "description": "Open-source, Nintendo Switch emulator, continuation of yuzu...",
+    "icon": "https://portable-linux-apps.github.io/icons/suyu.png"
+  },
+  {
     "packageName": "svelte-electron",
     "description": "Create desktop apps with this Svelte boilerplate...",
     "icon": "https://portable-linux-apps.github.io/icons/svelte-electron.png"
@@ -9701,12 +9706,7 @@
   },
   {
     "packageName": "yuzu",
-    "description": "An experimental open-source emulator for the Nintendo Switch. Open-source, Nintendo Switch emulator...",
-    "icon": "https://portable-linux-apps.github.io/icons/yuzu.png"
-  },
-  {
-    "packageName": "yuzu",
-    "description": "An experimental open-source emulator for the Nintendo Switch. Open-source, Nintendo Switch emulator...",
+    "description": "An experimental open-source emulator for the Nintendo Switch...",
     "icon": "https://portable-linux-apps.github.io/icons/yuzu.png"
   },
   {
