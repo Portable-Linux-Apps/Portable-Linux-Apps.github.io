@@ -3685,6 +3685,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/hyperdex.png"
   },
   {
+    "packageName": "hyperfine",
+    "description": "A command-line benchmarking tool...",
+    "icon": "https://portable-linux-apps.github.io/icons/hyperfine.png"
+  },
+  {
     "packageName": "hyperionide",
     "description": "Hyperion IDE for JIRA...",
     "icon": "https://portable-linux-apps.github.io/icons/hyperionide.png"

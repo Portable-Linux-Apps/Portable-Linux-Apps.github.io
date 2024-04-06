@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1960** *Appimage packages and standalone applications*.
+#### *This database contains* **1961** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -750,6 +750,7 @@
 | <img src="icons/hydrogen-music.png" width="48" height="48"> | [***hydrogen-music***](apps/hydrogen-music.md) | *The advanced drum machine for Linux, macOS, and Windows.*..[ *read more* ](apps/hydrogen-music.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hydrogen-music) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hydrogen-music) |
 | <img src="icons/hyper.png" width="48" height="48"> | [***hyper***](apps/hyper.md) | *A terminal built on web technologies.*..[ *read more* ](apps/hyper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyper) |
 | <img src="icons/hyperdex.png" width="48" height="48"> | [***hyperdex***](apps/hyperdex.md) | *BarterDEX desktop app.*..[ *read more* ](apps/hyperdex.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperdex) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperdex) |
+| <img src="icons/hyperfine.png" width="48" height="48"> | [***hyperfine***](apps/hyperfine.md) | *A command-line benchmarking tool.*..[ *read more* ](apps/hyperfine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperfine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperfine) |
 | <img src="icons/hyperionide.png" width="48" height="48"> | [***hyperionide***](apps/hyperionide.md) | *Hyperion IDE for JIRA.*..[ *read more* ](apps/hyperionide.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperionide) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperionide) |
 | <img src="icons/hyperkeys.png" width="48" height="48"> | [***hyperkeys***](apps/hyperkeys.md) | *Unleash you keyboard shorcuts.*..[ *read more* ](apps/hyperkeys.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperkeys) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperkeys) |
 | <img src="icons/hyperspace.png" width="48" height="48"> | [***hyperspace***](apps/hyperspace.md) | *A fluffy client for Mastodon in React.*..[ *read more* ](apps/hyperspace.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperspace) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperspace) |
