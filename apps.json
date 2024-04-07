@@ -1885,6 +1885,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/deadbeef.png"
   },
   {
+    "packageName": "deadbeef-devel",
+    "description": "A modular cross-platform audio player (dev-edition)...",
+    "icon": "https://portable-linux-apps.github.io/icons/deadbeef-devel.png"
+  },
+  {
     "packageName": "deadgame-2048",
     "description": "GUI tool available for ALL platforms...",
     "icon": "https://portable-linux-apps.github.io/icons/deadgame-2048.png"
