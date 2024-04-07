@@ -270,6 +270,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/apla.png"
   },
   {
+    "packageName": "apphub",
+    "description": "App that simplifies installation/management of .appImage packages...",
+    "icon": "https://portable-linux-apps.github.io/icons/apphub.png"
+  },
+  {
     "packageName": "appimage-builder",
     "description": "GNU/Linux packaging solution using the AppImage format...",
     "icon": "https://portable-linux-apps.github.io/icons/appimage-builder.png"
