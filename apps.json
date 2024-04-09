@@ -1890,6 +1890,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/deadbeef-devel.png"
   },
   {
+    "packageName": "deadbeef-devel-appimage",
+    "description": "Unofficial, music player (Nightly version)...",
+    "icon": "https://portable-linux-apps.github.io/icons/deadbeef-devel-appimage.png"
+  },
+  {
     "packageName": "deadgame-2048",
     "description": "GUI tool available for ALL platforms...",
     "icon": "https://portable-linux-apps.github.io/icons/deadgame-2048.png"
@@ -7368,6 +7373,11 @@
     "packageName": "ryowallet",
     "description": "Modern GUI interface for Ryo Currency...",
     "icon": "https://portable-linux-apps.github.io/icons/ryowallet.png"
+  },
+  {
+    "packageName": "ryujinx-appimage",
+    "description": "Unofficial AppImage of the Ryujinx emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/ryujinx-appimage.png"
   },
   {
     "packageName": "ryujinx",
