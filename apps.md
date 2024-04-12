@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1968** *Appimage packages and standalone applications*.
+#### *This database contains* **1970** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1600,6 +1600,8 @@
 | <img src="icons/sonixd.png" width="48" height="48"> | [***sonixd***](apps/sonixd.md) | *A full-featured Subsonic/Jellyfin compatible desktop music player.*..[ *read more* ](apps/sonixd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonixd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonixd) |
 | <img src="icons/soul-arena.png" width="48" height="48"> | [***soul-arena***](apps/soul-arena.md) | *Bleach-based online multiplayer strategy game.*..[ *read more* ](apps/soul-arena.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soul-arena) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soul-arena) |
 | <img src="icons/sourcetrail.png" width="48" height="48"> | [***sourcetrail***](apps/sourcetrail.md) | *Source explorer to get you productive on unfamiliar source code.*..[ *read more* ](apps/sourcetrail.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sourcetrail) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sourcetrail) |
+| <img src="icons/spacebar-debug.png" width="48" height="48"> | [***spacebar-debug***](apps/spacebar-debug.md) | *Extendable discord-compatible native Spacebar client (debug).*..[ *read more* ](apps/spacebar-debug.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spacebar-debug) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spacebar-debug) |
+| <img src="icons/spacebar.png" width="48" height="48"> | [***spacebar***](apps/spacebar.md) | *Themeable and extendable discord-compatible native Spacebar client.*..[ *read more* ](apps/spacebar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spacebar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spacebar) |
 | <img src="icons/spacecadet.png" width="48" height="48"> | [***spacecadet***](apps/spacecadet.md) | *Reverse engineered port of 3D Pinball for Windows XP Space Cadet.*..[ *read more* ](apps/spacecadet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spacecadet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spacecadet) |
 | <img src="icons/spacemesh.png" width="48" height="48"> | [***spacemesh***](apps/spacemesh.md) | *Spacemesh App (Smesher + Wallet).*..[ *read more* ](apps/spacemesh.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spacemesh) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spacemesh) |
 | <img src="icons/spacewars.png" width="48" height="48"> | [***spacewars***](apps/spacewars.md) | *A re-imagining of the classic game Spacewar using Amethyst engine.*..[ *read more* ](apps/spacewars.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spacewars) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spacewars) |

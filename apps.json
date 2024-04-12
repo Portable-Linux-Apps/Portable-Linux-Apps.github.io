@@ -7935,6 +7935,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/sourcetrail.png"
   },
   {
+    "packageName": "spacebar-debug",
+    "description": "Extendable discord-compatible native Spacebar client (debug)...",
+    "icon": "https://portable-linux-apps.github.io/icons/spacebar-debug.png"
+  },
+  {
+    "packageName": "spacebar",
+    "description": "Themeable and extendable discord-compatible native Spacebar client...",
+    "icon": "https://portable-linux-apps.github.io/icons/spacebar.png"
+  },
+  {
     "packageName": "spacecadet",
     "description": "Reverse engineered port of 3D Pinball for Windows XP Space Cadet...",
     "icon": "https://portable-linux-apps.github.io/icons/spacecadet.png"
