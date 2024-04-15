@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1970** *Appimage packages and standalone applications*.
+#### *This database contains* **1971** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1392,6 +1392,7 @@
 | <img src="icons/qfsm.png" width="48" height="48"> | [***qfsm***](apps/qfsm.md) | *Qt Finite State Machine Designer.*..[ *read more* ](apps/qfsm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qfsm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qfsm) |
 | <img src="icons/qgroundcontrol-appimage.png" width="48" height="48"> | [***qgroundcontrol-appimage***](apps/qgroundcontrol-appimage.md) | *Ground control for unmanned vehicles.*..[ *read more* ](apps/qgroundcontrol-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qgroundcontrol-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qgroundcontrol-appimage) |
 | <img src="icons/qikqr.png" width="48" height="48"> | [***qikqr***](apps/qikqr.md) | *Minimal desktop app to create QR codes.*..[ *read more* ](apps/qikqr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qikqr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qikqr) |
+| <img src="icons/qmasterpassword.png" width="48" height="48"> | [***qmasterpassword***](apps/qmasterpassword.md) | *A password manager based on Qt.*..[ *read more* ](apps/qmasterpassword.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmasterpassword) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmasterpassword) |
 | <img src="icons/qmediathekview.png" width="48" height="48"> | [***qmediathekview***](apps/qmediathekview.md) | *An alternative front-end to the MediathekView database.*..[ *read more* ](apps/qmediathekview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmediathekview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmediathekview) |
 | <img src="icons/qmidictl.png" width="48" height="48"> | [***qmidictl***](apps/qmidictl.md) | *MIDI Remote Controller via UDP/IP Multicast.*..[ *read more* ](apps/qmidictl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmidictl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmidictl) |
 | <img src="icons/qmidinet.png" width="48" height="48"> | [***qmidinet***](apps/qmidinet.md) | *MIDI Network Gateway via UDP/IP Multicast.*..[ *read more* ](apps/qmidinet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmidinet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmidinet) |

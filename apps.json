@@ -6895,6 +6895,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/qikqr.png"
   },
   {
+    "packageName": "qmasterpassword",
+    "description": "A password manager based on Qt...",
+    "icon": "https://portable-linux-apps.github.io/icons/qmasterpassword.png"
+  },
+  {
     "packageName": "qmediathekview",
     "description": "An alternative front-end to the MediathekView database...",
     "icon": "https://portable-linux-apps.github.io/icons/qmediathekview.png"
