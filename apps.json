@@ -6875,6 +6875,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/qelectrotech.png"
   },
   {
+    "packageName": "qemu-appimage",
+    "description": "Prove of the concept to run a virtual machine from Appimage...",
+    "icon": "https://portable-linux-apps.github.io/icons/qemu-appimage.png"
+  },
+  {
     "packageName": "qemu-ppc",
     "description": "Run PowerPC operating systems on 64-bit Intel Linux hosts...",
     "icon": "https://portable-linux-apps.github.io/icons/qemu-ppc.png"
