@@ -4385,6 +4385,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/krita.png"
   },
   {
+    "packageName": "krita-devel",
+    "description": "A professional FREE open source painting program (dev-edition)...",
+    "icon": "https://portable-linux-apps.github.io/icons/krita-devel.png"
+  },
+  {
     "packageName": "kshisen",
     "description": "A game similar to Mahjongg (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kshisen.png"
@@ -4673,6 +4678,11 @@
     "packageName": "liketaskmanager",
     "description": "Process/performances monitor (CPU, RAM, Disks and Network)...",
     "icon": "https://portable-linux-apps.github.io/icons/liketaskmanager.png"
+  },
+  {
+    "packageName": "lime3ds",
+    "description": "Nintendo 3DS emulator, continuation of citra...",
+    "icon": "https://portable-linux-apps.github.io/icons/lime3ds.png"
   },
   {
     "packageName": "linedancer",
