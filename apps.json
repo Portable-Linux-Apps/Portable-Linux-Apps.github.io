@@ -2486,8 +2486,13 @@
   },
   {
     "packageName": "etcher",
-    "description": "Flash OS images to SD cards and USB drives, safely and easily...",
+    "description": "Flash OS images to SD cards and USB drives (Balena Etcher)...",
     "icon": "https://portable-linux-apps.github.io/icons/etcher.png"
+  },
+  {
+    "packageName": "etcher-latest",
+    "description": "Flash OS images to SD cards and USB drives (Balena Etcher)...",
+    "icon": "https://portable-linux-apps.github.io/icons/etcher-latest.png"
   },
   {
     "packageName": "eternal-lands",

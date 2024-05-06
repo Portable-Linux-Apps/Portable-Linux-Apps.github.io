@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1979** *Appimage packages and standalone applications*.
+#### *This database contains* **1980** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -510,7 +510,8 @@
 | <img src="icons/esearch.png" width="48" height="48"> | [***esearch***](apps/esearch.md) | *Screenshot OCR search translate search for picture paste...*..[ *read more* ](apps/esearch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/esearch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/esearch) |
 | <img src="icons/espanso.png" width="48" height="48"> | [***espanso***](apps/espanso.md) | *Cross-platform Text Expander written in Rust.*..[ *read more* ](apps/espanso.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/espanso) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/espanso) |
 | <img src="icons/espi-appimage.png" width="48" height="48"> | [***espi-appimage***](apps/espi-appimage.md) | *Software recreation of the SP-1200 drum machine.*..[ *read more* ](apps/espi-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/espi-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/espi-appimage) |
-| <img src="icons/etcher.png" width="48" height="48"> | [***etcher***](apps/etcher.md) | *Flash OS images to SD cards and USB drives, safely and easily.*..[ *read more* ](apps/etcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/etcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/etcher) |
+| <img src="icons/etcher.png" width="48" height="48"> | [***etcher***](apps/etcher.md) | *Flash OS images to SD cards and USB drives (Balena Etcher).*..[ *read more* ](apps/etcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/etcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/etcher) |
+| <img src="icons/etcher-latest.png" width="48" height="48"> | [***etcher-latest***](apps/etcher-latest.md) | *Flash OS images to SD cards and USB drives (Balena Etcher).*..[ *read more* ](apps/etcher-latest.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/etcher-latest) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/etcher-latest) |
 | <img src="icons/eternal-lands.png" width="48" height="48"> | [***eternal-lands***](apps/eternal-lands.md) | *3D fantasy multiplayer online role playing game.*..[ *read more* ](apps/eternal-lands.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eternal-lands) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eternal-lands) |
 | <img src="icons/eternalmodmanager.png" width="48" height="48"> | [***eternalmodmanager***](apps/eternalmodmanager.md) | *A cross platform mod manager for DOOM Eternal.*..[ *read more* ](apps/eternalmodmanager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eternalmodmanager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eternalmodmanager) |
 | <img src="icons/etherealengine-cc.png" width="48" height="48"> | [***etherealengine-cc***](apps/etherealengine-cc.md) | *App for managing Ethereal Engine cluster.*..[ *read more* ](apps/etherealengine-cc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/etherealengine-cc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/etherealengine-cc) |
