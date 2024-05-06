@@ -505,11 +505,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/audiomoth.png"
   },
   {
-    "packageName": "audmonkey",
-    "description": "A multiplatform audio editor (Audacity fork)...",
-    "icon": "https://portable-linux-apps.github.io/icons/audmonkey.png"
-  },
-  {
     "packageName": "augur",
     "description": "Augur Desktop Application...",
     "icon": "https://portable-linux-apps.github.io/icons/augur.png"
@@ -3670,14 +3665,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/hsinstall.png"
   },
   {
-    "packageName": "htop",
-    "description": "A CLI utility to monitor system resources (Unofficial AppImage)...",
-    "icon": "https://portable-linux-apps.github.io/icons/htop.png"
-  },
-  {
     "packageName": "htmldoc",
     "description": "HTML & Markdown Conversion Software to output PostScript and PDF...",
     "icon": "https://portable-linux-apps.github.io/icons/htmldoc.png"
+  },
+  {
+    "packageName": "htop",
+    "description": "A CLI utility to monitor system resources (Unofficial AppImage)...",
+    "icon": "https://portable-linux-apps.github.io/icons/htop.png"
   },
   {
     "packageName": "httpie-desktop-appimage",
@@ -4038,6 +4033,16 @@
     "packageName": "joy2droidx",
     "description": "Turn Android phones into virtual Xbox 360 controller...",
     "icon": "https://portable-linux-apps.github.io/icons/joy2droidx.png"
+  },
+  {
+    "packageName": "jq",
+    "description": "Command-line JSON processor. jq is a lightweight and flexible command-line JSON processor...",
+    "icon": "https://portable-linux-apps.github.io/icons/jq.png"
+  },
+  {
+    "packageName": "jq",
+    "description": "Command-line JSON processor. jq is a lightweight and flexible command-line JSON processor...",
+    "icon": "https://portable-linux-apps.github.io/icons/jq.png"
   },
   {
     "packageName": "jreleaser",
@@ -8513,6 +8518,11 @@
     "packageName": "telegram",
     "description": "Desktop version of Telegram messaging app...",
     "icon": "https://portable-linux-apps.github.io/icons/telegram.png"
+  },
+  {
+    "packageName": "tenacity",
+    "description": "An easy-to-use, cross-platform multi-track audio editor/recorder...",
+    "icon": "https://portable-linux-apps.github.io/icons/tenacity.png"
   },
   {
     "packageName": "terminalos-sim",
