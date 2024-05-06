@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1980** *Appimage packages and standalone applications*.
+#### *This database contains* **1979** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -820,8 +820,7 @@
 | <img src="icons/joplin-beta.png" width="48" height="48"> | [***joplin-beta***](apps/joplin-beta.md) | *A cross-platform note taking and to-do app.*..[ *read more* ](apps/joplin-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/joplin-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/joplin-beta) |
 | <img src="icons/joplin.png" width="48" height="48"> | [***joplin***](apps/joplin.md) | *Note and to-do application with synchronization capabilities.*..[ *read more* ](apps/joplin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/joplin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/joplin) |
 | <img src="icons/joy2droidx.png" width="48" height="48"> | [***joy2droidx***](apps/joy2droidx.md) | *Turn Android phones into virtual Xbox 360 controller.*..[ *read more* ](apps/joy2droidx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/joy2droidx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/joy2droidx) |
-| <img src="icons/jq.png" width="48" height="48"> | [***jq***](apps/jq.md) | *Command-line JSON processor. jq is a lightweight and flexible command-line JSON processor.*..[ *read more* ](apps/jq.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jq) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jq) |
-| <img src="icons/jq.png" width="48" height="48"> | [***jq***](apps/jq.md) | *Command-line JSON processor. jq is a lightweight and flexible command-line JSON processor.*..[ *read more* ](apps/jq.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jq) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jq) |
+| <img src="icons/jq.png" width="48" height="48"> | [***jq***](apps/jq.md) | *Command-line JSON processor.*..[ *read more* ](apps/jq.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jq) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jq) |
 | <img src="icons/jreleaser.png" width="48" height="48"> | [***jreleaser***](apps/jreleaser.md) | *The quick way to release your project.*..[ *read more* ](apps/jreleaser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jreleaser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jreleaser) |
 | <img src="icons/jrom-manager.png" width="48" height="48"> | [***jrom-manager***](apps/jrom-manager.md) | *A Rom Manager entirely written in Java and released under GPL-2.*..[ *read more* ](apps/jrom-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jrom-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jrom-manager) |
 | <img src="icons/jscad-desktop.png" width="48" height="48"> | [***jscad-desktop***](apps/jscad-desktop.md) | *Jscad desktop application.*..[ *read more* ](apps/jscad-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jscad-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jscad-desktop) |
