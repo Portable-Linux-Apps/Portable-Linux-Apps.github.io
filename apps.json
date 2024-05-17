@@ -4590,6 +4590,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/levior.png"
   },
   {
+    "packageName": "lf",
+    "description": "lf (as in list files) is a terminal file manager written in Go...",
+    "icon": "https://portable-linux-apps.github.io/icons/lf.png"
+  },
+  {
     "packageName": "libassist",
     "description": "Library Assistant...",
     "icon": "https://portable-linux-apps.github.io/icons/libassist.png"

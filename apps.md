@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1980** *Appimage packages and standalone applications*.
+#### *This database contains* **1981** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -931,6 +931,7 @@
 | <img src="icons/lepton.png" width="48" height="48"> | [***lepton***](apps/lepton.md) | *Democratizing Code Snippets Management (macOS/Win/Linux).*..[ *read more* ](apps/lepton.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lepton) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lepton) |
 | <img src="icons/lescovex.png" width="48" height="48"> | [***lescovex***](apps/lescovex.md) | *Lescovex decentralized exchange, wallet and contract issuer.*..[ *read more* ](apps/lescovex.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lescovex) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lescovex) |
 | <img src="icons/levior.png" width="48" height="48"> | [***levior***](apps/levior.md) | *Converts web pages on-the-fly to the gemtext format.*..[ *read more* ](apps/levior.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/levior) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/levior) |
+| <img src="icons/lf.png" width="48" height="48"> | [***lf***](apps/lf.md) | *lf (as in "list files") is a terminal file manager written in Go.*..[ *read more* ](apps/lf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lf) |
 | <img src="icons/libassist.png" width="48" height="48"> | [***libassist***](apps/libassist.md) | *Library Assistant.*..[ *read more* ](apps/libassist.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/libassist) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/libassist) |
 | <img src="icons/libertem.png" width="48" height="48"> | [***libertem***](apps/libertem.md) | *Pixelated scanning transmission electron microscopy.*..[ *read more* ](apps/libertem.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/libertem) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/libertem) |
 | <img src="icons/librecad.png" width="48" height="48"> | [***librecad***](apps/librecad.md) | *2D CAD program written in C++11 using the Qt framework.*..[ *read more* ](apps/librecad.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/librecad) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/librecad) |
