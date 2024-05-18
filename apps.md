@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1982** *Appimage packages and standalone applications*.
+#### *This database contains* **1983** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1309,6 +1309,7 @@
 | <img src="icons/platform-tools.png" width="48" height="48"> | [***platform-tools***](apps/platform-tools.md) | *Suite of command line utilities to manage Android devices.*..[ *read more* ](apps/platform-tools.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/platform-tools) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/platform-tools) |
 | <img src="icons/platinum-md-appimage.png" width="48" height="48"> | [***platinum-md-appimage***](apps/platinum-md-appimage.md) | *Graphical MiniDisc NetMD conversion and upload.*..[ *read more* ](apps/platinum-md-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/platinum-md-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/platinum-md-appimage) |
 | <img src="icons/play-2048.png" width="48" height="48"> | [***play-2048***](apps/play-2048.md) | *Another implementation of the 2048 game.*..[ *read more* ](apps/play-2048.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/play-2048) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/play-2048) |
+| <img src="icons/playerctl.png" width="48" height="48"> | [***playerctl***](apps/playerctl.md) | *MPRIS media player command-line controller, unofficial AppImage.*..[ *read more* ](apps/playerctl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playerctl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playerctl) |
 | <img src="icons/playbox.png" width="48" height="48"> | [***playbox***](apps/playbox.md) | *An audio playback system for the live production industry.*..[ *read more* ](apps/playbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playbox) |
 | <img src="icons/playme.png" width="48" height="48"> | [***playme***](apps/playme.md) | *Elegant YouTube Music desktop app.*..[ *read more* ](apps/playme.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playme) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playme) |
 | <img src="icons/play.png" width="48" height="48"> | [***play***](apps/play.md) | *PlayStation 2 emulator on your computer or mobile device.*..[ *read more* ](apps/play.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/play) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/play) |

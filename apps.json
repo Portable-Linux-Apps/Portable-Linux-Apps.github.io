@@ -6480,6 +6480,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/play-2048.png"
   },
   {
+    "packageName": "playerctl",
+    "description": "MPRIS media player command-line controller, unofficial AppImage...",
+    "icon": "https://portable-linux-apps.github.io/icons/playerctl.png"
+  },
+  {
     "packageName": "playbox",
     "description": "An audio playback system for the live production industry...",
     "icon": "https://portable-linux-apps.github.io/icons/playbox.png"
