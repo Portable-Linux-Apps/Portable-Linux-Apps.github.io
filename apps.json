@@ -6585,6 +6585,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/polar.png"
   },
   {
+    "packageName": "polybar",
+    "description": "Unofficial AppImage of polybar. A fast easy-to-use status bar...",
+    "icon": "https://portable-linux-apps.github.io/icons/polybar.png"
+  },
+  {
     "packageName": "polkakey",
     "description": "A secure way to generate Polkadot/Kusama/Edgeware address...",
     "icon": "https://portable-linux-apps.github.io/icons/polkakey.png"
