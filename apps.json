@@ -2615,6 +2615,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/fastboot.png"
   },
   {
+    "packageName": "fastcompmgr",
+    "description": "A fast compositor for X11...",
+    "icon": "https://portable-linux-apps.github.io/icons/fastcompmgr.png"
+  },
+  {
     "packageName": "fastfetch",
     "description": "Like neofetch, but much faster because written mostly in C...",
     "icon": "https://portable-linux-apps.github.io/icons/fastfetch.png"
@@ -3563,6 +3568,11 @@
     "packageName": "handbrake",
     "description": "An open-source multiplatform video transcoder...",
     "icon": "https://portable-linux-apps.github.io/icons/handbrake.png"
+  },
+  {
+    "packageName": "handlr",
+    "description": "fork of the original handlr, with support for regular expressions...",
+    "icon": "https://portable-linux-apps.github.io/icons/handlr.png"
   },
   {
     "packageName": "hapee",
