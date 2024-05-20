@@ -3495,6 +3495,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/grinplusplus.png"
   },
   {
+    "packageName": "gron.awk",
+    "description": "True JSON parser in pure Awk. fast with Gawk/Mawk/GoAWK...",
+    "icon": "https://portable-linux-apps.github.io/icons/gron.awk.png"
+  },
+  {
+    "packageName": "gron",
+    "description": "Make JSON greppable! Transform JSON into discrete assignments to grep...",
+    "icon": "https://portable-linux-apps.github.io/icons/gron.png"
+  },
+  {
     "packageName": "groot",
     "description": "Graphical Editor to create BehaviorTrees...",
     "icon": "https://portable-linux-apps.github.io/icons/groot.png"
