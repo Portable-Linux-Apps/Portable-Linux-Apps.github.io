@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1990** *Appimage packages and standalone applications*.
+#### *This database contains* **1991** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -767,6 +767,7 @@
 | <img src="icons/hyperkeys.png" width="48" height="48"> | [***hyperkeys***](apps/hyperkeys.md) | *Unleash you keyboard shorcuts.*..[ *read more* ](apps/hyperkeys.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperkeys) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperkeys) |
 | <img src="icons/hyperspace.png" width="48" height="48"> | [***hyperspace***](apps/hyperspace.md) | *A fluffy client for Mastodon in React.*..[ *read more* ](apps/hyperspace.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperspace) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperspace) |
 | <img src="icons/hypertrader.png" width="48" height="48"> | [***hypertrader***](apps/hypertrader.md) | *Trade like a PRO, robust tools to monitor your accounts.*..[ *read more* ](apps/hypertrader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hypertrader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hypertrader) |
+| <img src="icons/i3.png" width="48" height="48"> | [***i3***](apps/i3.md) | *A tiling window manager for X11, unofficial AppImage.*..[ *read more* ](apps/i3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/i3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/i3) |
 | <img src="icons/i3-auto-layout.png" width="48" height="48"> | [***i3-auto-layout***](apps/i3-auto-layout.md) | *Automatic, optimal tiling for i3wm. Fork of dead version.*..[ *read more* ](apps/i3-auto-layout.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/i3-auto-layout) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/i3-auto-layout) |
 | <img src="icons/i3lock-color.png" width="48" height="48"> | [***i3lock-color***](apps/i3lock-color.md) | *The world's most popular non-default computer lockscreen.*..[ *read more* ](apps/i3lock-color.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/i3lock-color) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/i3lock-color) |
 | <img src="icons/iagoncloudapp.png" width="48" height="48"> | [***iagoncloudapp***](apps/iagoncloudapp.md) | *Iagon Cloud Application.*..[ *read more* ](apps/iagoncloudapp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/iagoncloudapp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/iagoncloudapp) |

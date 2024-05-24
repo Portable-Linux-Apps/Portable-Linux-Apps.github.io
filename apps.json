@@ -3770,6 +3770,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/hypertrader.png"
   },
   {
+    "packageName": "i3",
+    "description": "A tiling window manager for X11, unofficial AppImage...",
+    "icon": "https://portable-linux-apps.github.io/icons/i3.png"
+  },
+  {
     "packageName": "i3-auto-layout",
     "description": "Automatic, optimal tiling for i3wm. Fork of dead version...",
     "icon": "https://portable-linux-apps.github.io/icons/i3-auto-layout.png"
