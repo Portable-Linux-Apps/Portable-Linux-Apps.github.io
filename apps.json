@@ -6285,6 +6285,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/patternpaint.png"
   },
   {
+    "packageName": "pavucontrol-qt",
+    "description": "Qt port of pavucontrol Pulseaudio mixer, unofficial AppImage...",
+    "icon": "https://portable-linux-apps.github.io/icons/pavucontrol-qt.png"
+  },
+  {
     "packageName": "pb-for-desktop",
     "description": "Pushbullet Desktop app...",
     "icon": "https://portable-linux-apps.github.io/icons/pb-for-desktop.png"

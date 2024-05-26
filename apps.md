@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **1991** *Appimage packages and standalone applications*.
+#### *This database contains* **1992** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1270,6 +1270,7 @@
 | <img src="icons/patchwork.png" width="48" height="48"> | [***patchwork***](apps/patchwork.md) | *Messaging and sharing app built on top of Secure Scuttlebutt.*..[ *read more* ](apps/patchwork.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/patchwork) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/patchwork) |
 | <img src="icons/pathephone.png" width="48" height="48"> | [***pathephone***](apps/pathephone.md) | *Distributed audio player.*..[ *read more* ](apps/pathephone.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pathephone) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pathephone) |
 | <img src="icons/patternpaint.png" width="48" height="48"> | [***patternpaint***](apps/patternpaint.md) | *Making beautiful light shows is as easy as drawing a picture.*..[ *read more* ](apps/patternpaint.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/patternpaint) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/patternpaint) |
+| <img src="icons/pavucontrol-qt.png" width="48" height="48"> | [***pavucontrol-qt***](apps/pavucontrol-qt.md) | *Qt port of pavucontrol Pulseaudio mixer, unofficial AppImage.*..[ *read more* ](apps/pavucontrol-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pavucontrol-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pavucontrol-qt) |
 | <img src="icons/pb-for-desktop.png" width="48" height="48"> | [***pb-for-desktop***](apps/pb-for-desktop.md) | *Pushbullet Desktop app.*..[ *read more* ](apps/pb-for-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pb-for-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pb-for-desktop) |
 | <img src="icons/pboy.png" width="48" height="48"> | [***pboy***](apps/pboy.md) | *A small .pdf management tool with a command-line UI.*..[ *read more* ](apps/pboy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pboy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pboy) |
 | <img src="icons/pcsx2.png" width="48" height="48"> | [***pcsx2***](apps/pcsx2.md) | *The Playstation 2 Emulator.*..[ *read more* ](apps/pcsx2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pcsx2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pcsx2) |
