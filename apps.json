@@ -520,6 +520,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/authme.png"
   },
   {
+    "packageName": "authy",
+    "description": "Authy unofficial AppImage, by ryuuzaki42...",
+    "icon": "https://portable-linux-apps.github.io/icons/authy.png"
+  },
+  {
     "packageName": "autoedit2",
     "description": "autoEdit2 Desktop Client for Linux...",
     "icon": "https://portable-linux-apps.github.io/icons/autoedit2.png"
@@ -9633,6 +9638,16 @@
     "packageName": "wine-staging-ge-proton",
     "description": "Run x86_64 Windows programs (Staging GE Proton)...",
     "icon": "https://portable-linux-apps.github.io/icons/wine-staging-ge-proton.png"
+  },
+  {
+    "packageName": "winrar",
+    "description": "WinRAR unofficial AppImage, by ryuuzaki42...",
+    "icon": "https://portable-linux-apps.github.io/icons/winrar.png"
+  },
+  {
+    "packageName": "wireshark",
+    "description": "Wireshark unofficial AppImage, by ryuuzaki42...",
+    "icon": "https://portable-linux-apps.github.io/icons/wireshark.png"
   },
   {
     "packageName": "wire",
