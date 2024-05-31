@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2001** *Appimage packages and standalone applications*.
+#### *This database contains* **2000** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -713,8 +713,7 @@
 | <img src="icons/graphql-playground.png" width="48" height="48"> | [***graphql-playground***](apps/graphql-playground.md) | *GraphQL IDE for better development workflows.*..[ *read more* ](apps/graphql-playground.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/graphql-playground) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/graphql-playground) |
 | <img src="icons/graviton.png" width="48" height="48"> | [***graviton***](apps/graviton.md) | *A simple code editor.*..[ *read more* ](apps/graviton.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/graviton) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/graviton) |
 | <img src="icons/greenlight.png" width="48" height="48"> | [***greenlight***](apps/greenlight.md) | *Client for xCloud and Xbox home streaming made in Typescript.*..[ *read more* ](apps/greenlight.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/greenlight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/greenlight) |
-| <img src="icons/gridcoin-research.png" width="48" height="48"> | [***gridcoin-research***](apps/gridcoin-research.md) | *A POS-based cryptocurrency. POS-based cryptocurrency.*..[ *read more* ](apps/gridcoin-research.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gridcoin-research) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gridcoin-research) |
-| <img src="icons/gridcoin-research.png" width="48" height="48"> | [***gridcoin-research***](apps/gridcoin-research.md) | *A POS-based cryptocurrency. POS-based cryptocurrency.*..[ *read more* ](apps/gridcoin-research.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gridcoin-research) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gridcoin-research) |
+| <img src="icons/gridcoin-research.png" width="48" height="48"> | [***gridcoin-research***](apps/gridcoin-research.md) | *POS-based cryptocurrency.*..[ *read more* ](apps/gridcoin-research.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gridcoin-research) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gridcoin-research) |
 | <img src="icons/gridea.png" width="48" height="48"> | [***gridea***](apps/gridea.md) | *A static blog writing client (一个静态博客写作客户端).*..[ *read more* ](apps/gridea.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gridea) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gridea) |
 | <img src="icons/gridplayer.png" width="48" height="48"> | [***gridplayer***](apps/gridplayer.md) | *Play videos side-by-side.*..[ *read more* ](apps/gridplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gridplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gridplayer) |
 | <img src="icons/gridsync.png" width="48" height="48"> | [***gridsync***](apps/gridsync.md) | *Synchronize local directories with Tahoe-LAFS storage grids.*..[ *read more* ](apps/gridsync.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gridsync) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gridsync) |
