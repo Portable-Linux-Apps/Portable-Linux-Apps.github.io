@@ -710,6 +710,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/bioanimation.png"
   },
   {
+    "packageName": "biplanes-revival",
+    "description": "An old cellphone arcade recreated for PC...",
+    "icon": "https://portable-linux-apps.github.io/icons/biplanes-revival.png"
+  },
+  {
     "packageName": "birds-kitchen",
     "description": "Recipe manager...",
     "icon": "https://portable-linux-apps.github.io/icons/birds-kitchen.png"
@@ -1365,6 +1370,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/clash-verge.png"
   },
   {
+    "packageName": "classicimageviewer",
+    "description": "A simple image viewer with some editing features...",
+    "icon": "https://portable-linux-apps.github.io/icons/classicimageviewer.png"
+  },
+  {
     "packageName": "cleepdesktop",
     "description": "Desktop application to manage your Cleep devices...",
     "icon": "https://portable-linux-apps.github.io/icons/cleepdesktop.png"
@@ -1403,6 +1413,16 @@
     "packageName": "cloud-browser",
     "description": "Access to files located in various cloud services...",
     "icon": "https://portable-linux-apps.github.io/icons/cloud-browser.png"
+  },
+  {
+    "packageName": "clownmaped",
+    "description": "Sonic the Hedgehog sprite editor, clone of Xenowhirl's SonMapEd...",
+    "icon": "https://portable-linux-apps.github.io/icons/clownmaped.png"
+  },
+  {
+    "packageName": "clownmdemu",
+    "description": "Reference standalone frontend for clownmdemu...",
+    "icon": "https://portable-linux-apps.github.io/icons/clownmdemu.png"
   },
   {
     "packageName": "cncjs",
@@ -2515,6 +2535,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/etherealengine-cc.png"
   },
   {
+    "packageName": "etichetta",
+    "description": "A YOLO annotator, for human beings...",
+    "icon": "https://portable-linux-apps.github.io/icons/etichetta.png"
+  },
+  {
     "packageName": "eudic",
     "description": "Chinese app to learn english (listen statistics/note synch...)...",
     "icon": "https://portable-linux-apps.github.io/icons/eudic.png"
@@ -3476,7 +3501,12 @@
   },
   {
     "packageName": "gridcoin-research",
-    "description": "A POS-based cryptocurrency...",
+    "description": "A POS-based cryptocurrency. POS-based cryptocurrency...",
+    "icon": "https://portable-linux-apps.github.io/icons/gridcoin-research.png"
+  },
+  {
+    "packageName": "gridcoin-research",
+    "description": "A POS-based cryptocurrency. POS-based cryptocurrency...",
     "icon": "https://portable-linux-apps.github.io/icons/gridcoin-research.png"
   },
   {
@@ -6525,14 +6555,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/play-2048.png"
   },
   {
-    "packageName": "playerctl",
-    "description": "MPRIS media player command-line controller, unofficial AppImage...",
-    "icon": "https://portable-linux-apps.github.io/icons/playerctl.png"
-  },
-  {
     "packageName": "playbox",
     "description": "An audio playback system for the live production industry...",
     "icon": "https://portable-linux-apps.github.io/icons/playbox.png"
+  },
+  {
+    "packageName": "playerctl",
+    "description": "MPRIS media player command-line controller, unofficial AppImage...",
+    "icon": "https://portable-linux-apps.github.io/icons/playerctl.png"
   },
   {
     "packageName": "playme",
@@ -6635,14 +6665,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/polar.png"
   },
   {
-    "packageName": "polybar",
-    "description": "Unofficial AppImage of polybar. A fast easy-to-use status bar...",
-    "icon": "https://portable-linux-apps.github.io/icons/polybar.png"
-  },
-  {
     "packageName": "polkakey",
     "description": "A secure way to generate Polkadot/Kusama/Edgeware address...",
     "icon": "https://portable-linux-apps.github.io/icons/polkakey.png"
+  },
+  {
+    "packageName": "polybar",
+    "description": "Unofficial AppImage of polybar. A fast easy-to-use status bar...",
+    "icon": "https://portable-linux-apps.github.io/icons/polybar.png"
   },
   {
     "packageName": "polypane",
@@ -7110,6 +7140,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/qt-raster-lines.png"
   },
   {
+    "packageName": "qtrfpowermeter",
+    "description": "Improve usage of chinese RF power meter RF8000...",
+    "icon": "https://portable-linux-apps.github.io/icons/qtrfpowermeter.png"
+  },
+  {
     "packageName": "quamodbusclient",
     "description": "Modbus to OPC UA Gateway..",
     "icon": "https://portable-linux-apps.github.io/icons/quamodbusclient.png"
@@ -7228,6 +7263,11 @@
     "packageName": "rare",
     "description": "GUI for legendary. An Epic Games Launcher open source alternative...",
     "icon": "https://portable-linux-apps.github.io/icons/rare.png"
+  },
+  {
+    "packageName": "raspirus",
+    "description": "A user and resources-friendly signatures-based malware scanner...",
+    "icon": "https://portable-linux-apps.github.io/icons/raspirus.png"
   },
   {
     "packageName": "rasterdraw",
@@ -8138,6 +8178,11 @@
     "packageName": "ssh-mitm",
     "description": "Server for security audits supporting public key authentication...",
     "icon": "https://portable-linux-apps.github.io/icons/ssh-mitm.png"
+  },
+  {
+    "packageName": "ssplot",
+    "description": "A simple plotting utility for dynamical systems...",
+    "icon": "https://portable-linux-apps.github.io/icons/ssplot.png"
   },
   {
     "packageName": "stacer",
