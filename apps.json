@@ -3115,6 +3115,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/freezer-appimage.png"
   },
   {
+    "packageName": "friction",
+    "description": "Flexible, user expandable 2D animation software...",
+    "icon": "https://portable-linux-apps.github.io/icons/friction.png"
+  },
+  {
     "packageName": "friture",
     "description": "Real-time audio visualizations (spectrum, spectrogram, etc.)...",
     "icon": "https://portable-linux-apps.github.io/icons/friture.png"
@@ -5083,6 +5088,11 @@
     "packageName": "mdview",
     "description": "Application that renders and displays Markdown files...",
     "icon": "https://portable-linux-apps.github.io/icons/mdview.png"
+  },
+  {
+    "packageName": "measur",
+    "description": "Energy efficiency calculation app for use with industrial equipment...",
+    "icon": "https://portable-linux-apps.github.io/icons/measur.png"
   },
   {
     "packageName": "mechvibes",
@@ -9938,6 +9948,11 @@
     "packageName": "zapdesktop",
     "description": "Desktop application for the lightning network...",
     "icon": "https://portable-linux-apps.github.io/icons/zapdesktop.png"
+  },
+  {
+    "packageName": "zapzap",
+    "description": "WhatsApp desktop application written in Pyqt6 + PyQt6-WebEngine...",
+    "icon": "https://portable-linux-apps.github.io/icons/zapzap.png"
   },
   {
     "packageName": "zegarek",
