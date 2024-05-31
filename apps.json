@@ -185,6 +185,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/android-messages-desktop.png"
   },
   {
+    "packageName": "android-studio",
+    "description": "Android Studio as AppImages (stable), by zyrouge...",
+    "icon": "https://portable-linux-apps.github.io/icons/android-studio.png"
+  },
+  {
+    "packageName": "android-studio-latest",
+    "description": "Android Studio as AppImages (release), by zyrouge...",
+    "icon": "https://portable-linux-apps.github.io/icons/android-studio-latest.png"
+  },
+  {
     "packageName": "android-tools",
     "description": "AppImage for the Android Platform tools (adb, fastboot, etc)..",
     "icon": "https://portable-linux-apps.github.io/icons/android-tools.png"

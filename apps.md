@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2003** *Appimage packages and standalone applications*.
+#### *This database contains* **2005** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -50,6 +50,8 @@
 | <img src="icons/anchor.png" width="48" height="48"> | [***anchor***](apps/anchor.md) | *An EOSIO Light Wallet with simple and advanced tools.*..[ *read more* ](apps/anchor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/anchor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/anchor) |
 | <img src="icons/android-knot.png" width="48" height="48"> | [***android-knot***](apps/android-knot.md) | *An Android gadget integrating Todo, Notes, Reader and more.*..[ *read more* ](apps/android-knot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/android-knot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/android-knot) |
 | <img src="icons/android-messages-desktop.png" width="48" height="48"> | [***android-messages-desktop***](apps/android-messages-desktop.md) | *Messages for web, as a desktop app.*..[ *read more* ](apps/android-messages-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/android-messages-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/android-messages-desktop) |
+| <img src="icons/android-studio.png" width="48" height="48"> | [***android-studio***](apps/android-studio.md) | *Android Studio as AppImages (stable), by zyrouge.*..[ *read more* ](apps/android-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/android-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/android-studio) |
+| <img src="icons/android-studio-latest.png" width="48" height="48"> | [***android-studio-latest***](apps/android-studio-latest.md) | *Android Studio as AppImages (release), by zyrouge.*..[ *read more* ](apps/android-studio-latest.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/android-studio-latest) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/android-studio-latest) |
 | <img src="icons/android-tools.png" width="48" height="48"> | [***android-tools***](apps/android-tools.md) | *AppImage for the Android Platform tools (adb, fastboot, etc)*..[ *read more* ](apps/android-tools.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/android-tools) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/android-tools) |
 | <img src="icons/animashooter-junior.png" width="48" height="48"> | [***animashooter-junior***](apps/animashooter-junior.md) | *User-friendly Stop-Motion Animation Software (FREE).*..[ *read more* ](apps/animashooter-junior.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/animashooter-junior) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/animashooter-junior) |
 | <img src="icons/animashooter-pioneer.png" width="48" height="48"> | [***animashooter-pioneer***](apps/animashooter-pioneer.md) | *User-friendly Stop-Motion Animation Software (PRO).*..[ *read more* ](apps/animashooter-pioneer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/animashooter-pioneer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/animashooter-pioneer) |
