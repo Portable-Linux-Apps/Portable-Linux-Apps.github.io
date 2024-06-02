@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2008** *Appimage packages and standalone applications*.
+#### *This database contains* **2009** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -2016,6 +2016,7 @@
 | <img src="icons/zograscope.png" width="48" height="48"> | [***zograscope***](apps/zograscope.md) | *Syntax-aware diff that provides a number of additional tools.*..[ *read more* ](apps/zograscope.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zograscope) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zograscope) |
 | <img src="icons/zoom.png" width="48" height="48"> | [***zoom***](apps/zoom.md) | *Video Conferencing and Web Conferencing Service.*..[ *read more* ](apps/zoom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zoom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zoom) |
 | <img src="icons/zotero.png" width="48" height="48"> | [***zotero***](apps/zotero.md) | *Collect, organize, cite, and share your research sources.*..[ *read more* ](apps/zotero.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zotero) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zotero) |
+| <img src="icons/zramen.png" width="48" height="48"> | [***zramen***](apps/zramen.md) | *Manage zram swap space.*..[ *read more* ](apps/zramen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zramen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zramen) |
 | <img src="icons/zsync2.png" width="48" height="48"> | [***zsync2***](apps/zsync2.md) | *A rewrite of the advanced file download/sync tool zsync.*..[ *read more* ](apps/zsync2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zsync2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zsync2) |
 | <img src="icons/zulip.png" width="48" height="48"> | [***zulip***](apps/zulip.md) | *Zulip Desktop Client for Linux.*..[ *read more* ](apps/zulip.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zulip) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zulip) |
 | <img src="icons/zxinfo-file-browser.png" width="48" height="48"> | [***zxinfo-file-browser***](apps/zxinfo-file-browser.md) | *Organize and manage your emulator files for ZX Spectrum.*..[ *read more* ](apps/zxinfo-file-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zxinfo-file-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zxinfo-file-browser) |

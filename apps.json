@@ -10015,6 +10015,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/zotero.png"
   },
   {
+    "packageName": "zramen",
+    "description": "Manage zram swap space...",
+    "icon": "https://portable-linux-apps.github.io/icons/zramen.png"
+  },
+  {
     "packageName": "zsync2",
     "description": "A rewrite of the advanced file download/sync tool zsync...",
     "icon": "https://portable-linux-apps.github.io/icons/zsync2.png"
