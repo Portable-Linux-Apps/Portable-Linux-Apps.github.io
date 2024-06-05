@@ -595,6 +595,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/baobab-gtk3.png"
   },
   {
+    "packageName": "barnacal",
+    "description": "A simple menu bar app for viewing a calendar..",
+    "icon": "https://portable-linux-apps.github.io/icons/barnacal.png"
+  },
+  {
     "packageName": "bastyon",
     "description": "Decentralized social network based on the blockchain...",
     "icon": "https://portable-linux-apps.github.io/icons/bastyon.png"
@@ -3185,6 +3190,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gargoyle-bin.png"
   },
   {
+    "packageName": "gaucho",
+    "description": "Minimalist task launcher..",
+    "icon": "https://portable-linux-apps.github.io/icons/gaucho.png"
+  },
+  {
     "packageName": "gdesktopsuite",
     "description": "Google Suite as a desktop app, made possible with Electron...",
     "icon": "https://portable-linux-apps.github.io/icons/gdesktopsuite.png"
@@ -5560,6 +5570,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/my-budget.png"
   },
   {
+    "packageName": "mycroft-ai",
+    "description": "Qt5 Frontend for Mycroft Ai..",
+    "icon": "https://portable-linux-apps.github.io/icons/mycroft-ai.png"
+  },
+  {
     "packageName": "mycrypto",
     "description": "MyCrypto web and electron app...",
     "icon": "https://portable-linux-apps.github.io/icons/mycrypto.png"
@@ -7815,6 +7830,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/shuttle.png"
   },
   {
+    "packageName": "sideka",
+    "description": "Platform Tata Kelola Desa..",
+    "icon": "https://portable-linux-apps.github.io/icons/sideka.png"
+  },
+  {
     "packageName": "sideload",
     "description": "Utility (from elementaryOS 6) to install Flatpak apps from Flathub...",
     "icon": "https://portable-linux-apps.github.io/icons/sideload.png"
@@ -8820,6 +8840,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/tilinggenerator.png"
   },
   {
+    "packageName": "timely",
+    "description": "The release branch for Timely electron apps...",
+    "icon": "https://portable-linux-apps.github.io/icons/timely.png"
+  },
+  {
     "packageName": "timenaut-appimage",
     "description": "Desktop time tracking application...",
     "icon": "https://portable-linux-apps.github.io/icons/timenaut-appimage.png"
@@ -9413,6 +9438,11 @@
     "packageName": "vscodium",
     "description": "Community-driven, freely-licensed binary distribution of MS VSCode...",
     "icon": "https://portable-linux-apps.github.io/icons/vscodium.png"
+  },
+  {
+    "packageName": "vterm",
+    "description": "Extensible terminal emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/vterm.png"
   },
   {
     "packageName": "vue-calc",
