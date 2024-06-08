@@ -8160,6 +8160,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/speed-dreams.png"
   },
   {
+    "packageName": "speedcrunch",
+    "description": "A fast and usable calculator for power users...",
+    "icon": "https://portable-linux-apps.github.io/icons/speedcrunch.png"
+  },
+  {
     "packageName": "speedyloader",
     "description": "Speeduino universal firmware loader...",
     "icon": "https://portable-linux-apps.github.io/icons/speedyloader.png"

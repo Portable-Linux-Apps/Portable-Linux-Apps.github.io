@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2017** *Appimage packages and standalone applications*.
+#### *This database contains* **2018** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1645,6 +1645,7 @@
 | <img src="icons/spark-wallet.png" width="48" height="48"> | [***spark-wallet***](apps/spark-wallet.md) | *A wallet GUI for c-lightning, accessible over web/mobile/pc.*..[ *read more* ](apps/spark-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spark-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spark-wallet) |
 | <img src="icons/speaky-miniplayer.png" width="48" height="48"> | [***speaky-miniplayer***](apps/speaky-miniplayer.md) | *A miniplayer with a synthetic radio speaker.*..[ *read more* ](apps/speaky-miniplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speaky-miniplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speaky-miniplayer) |
 | <img src="icons/speed-dreams.png" width="48" height="48"> | [***speed-dreams***](apps/speed-dreams.md) | *A Torcs fork, 3d motorsport simulation and race cars game.*..[ *read more* ](apps/speed-dreams.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speed-dreams) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speed-dreams) |
+| <img src="icons/speedcrunch.png" width="48" height="48"> | [***speedcrunch***](apps/speedcrunch.md) | *A fast and usable calculator for power users.*..[ *read more* ](apps/speedcrunch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speedcrunch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speedcrunch) |
 | <img src="icons/speedyloader.png" width="48" height="48"> | [***speedyloader***](apps/speedyloader.md) | *Speeduino universal firmware loader.*..[ *read more* ](apps/speedyloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speedyloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speedyloader) |
 | <img src="icons/speek.png" width="48" height="48"> | [***speek***](apps/speek.md) | *Privacy focused messenger.*..[ *read more* ](apps/speek.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speek) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speek) |
 | <img src="icons/spiritfarer.png" width="48" height="48"> | [***spiritfarer***](apps/spiritfarer.md) | *Spiritfarer (AppImage version).*..[ *read more* ](apps/spiritfarer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spiritfarer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spiritfarer) |
