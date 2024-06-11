@@ -1,6 +1,8 @@
-# NVIM
+# NVIM-NIGHTLY
 
  Vim-fork focused on extensibility and usability.
+ 
+ This is the most recent development build.
 
  SITE: https://github.com/neovim/neovim
 

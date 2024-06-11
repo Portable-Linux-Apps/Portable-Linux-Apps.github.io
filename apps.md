@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2018** *Appimage packages and standalone applications*.
+#### *This database contains* **2019** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1190,6 +1190,7 @@
 | <img src="icons/numara.png" width="48" height="48"> | [***numara***](apps/numara.md) | *Simple notepad calculator built on Electron.*..[ *read more* ](apps/numara.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/numara) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/numara) |
 | <img src="icons/nuxeo-drive.png" width="48" height="48"> | [***nuxeo-drive***](apps/nuxeo-drive.md) | *Desktop synchronization client for the Nuxeo platform.*..[ *read more* ](apps/nuxeo-drive.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nuxeo-drive) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nuxeo-drive) |
 | <img src="icons/nvim.png" width="48" height="48"> | [***nvim***](apps/nvim.md) | *NeoVim, Vim fork focused on extensibility and usability.*..[ *read more* ](apps/nvim.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nvim) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nvim) |
+| <img src="icons/nvim-nightly.png" width="48" height="48"> | [***nvim-nightly***](apps/nvim-nightly.md) | *NeoVim, Vim fork (the most recent development build).*..[ *read more* ](apps/nvim-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nvim-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nvim-nightly) |
 | <img src="icons/nvtop.png" width="48" height="48"> | [***nvtop***](apps/nvtop.md) | *GPUs process monitoring for AMD, Intel and NVIDIA.*..[ *read more* ](apps/nvtop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nvtop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nvtop) |
 | <img src="icons/nxshell.png" width="48" height="48"> | [***nxshell***](apps/nxshell.md) | *An easy to use new terminal.*..[ *read more* ](apps/nxshell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nxshell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nxshell) |
 | <img src="icons/nx-software-center.png" width="48" height="48"> | [***nx-software-center***](apps/nx-software-center.md) | *A GUI to install and manage AppImages (Nitrux OS).*..[ *read more* ](apps/nx-software-center.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nx-software-center) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nx-software-center) |
