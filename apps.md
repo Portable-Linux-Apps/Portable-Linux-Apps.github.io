@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2033** *Appimage packages and standalone applications*.
+#### *This database contains* **2034** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -135,6 +135,7 @@
 | <img src="icons/barnacal.png" width="48" height="48"> | [***barnacal***](apps/barnacal.md) | *A simple menu bar app for viewing a calendar*..[ *read more* ](apps/barnacal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/barnacal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/barnacal) |
 | <img src="icons/bastyon.png" width="48" height="48"> | [***bastyon***](apps/bastyon.md) | *Decentralized social network based on the blockchain.*..[ *read more* ](apps/bastyon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bastyon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bastyon) |
 | <img src="icons/bat.png" width="48" height="48"> | [***bat***](apps/bat.md) | *A cat(1) clone with wings.*..[ *read more* ](apps/bat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bat) |
+| <img src="icons/bat-extras.png" width="48" height="48"> | [***bat-extras***](apps/bat-extras.md) | *Bash scripts that integrate bat with various command line tools.*..[ *read more* ](apps/bat-extras.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bat-extras) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bat-extras) |
 | <img src="icons/batch-explorer.png" width="48" height="48"> | [***batch-explorer***](apps/batch-explorer.md) | *A client tool to create/debug/monitor Azure Batch Apps.*..[ *read more* ](apps/batch-explorer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/batch-explorer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/batch-explorer) |
 | <img src="icons/bauh.png" width="48" height="48"> | [***bauh***](apps/bauh.md) | *GUI for managing AppImage, Arch/AUR, DEBs, Flatpak, Snap and webapps.*..[ *read more* ](apps/bauh.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bauh) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bauh) |
 | <img src="icons/bazecor.png" width="48" height="48"> | [***bazecor***](apps/bazecor.md) | *Graphical configurator for Dygma Raise.*..[ *read more* ](apps/bazecor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bazecor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bazecor) |
