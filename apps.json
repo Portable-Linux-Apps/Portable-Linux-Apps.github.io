@@ -605,6 +605,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/bastyon.png"
   },
   {
+    "packageName": "bat",
+    "description": "A cat(1) clone with wings...",
+    "icon": "https://portable-linux-apps.github.io/icons/bat.png"
+  },
+  {
     "packageName": "batch-explorer",
     "description": "A client tool to create/debug/monitor Azure Batch Apps...",
     "icon": "https://portable-linux-apps.github.io/icons/batch-explorer.png"
@@ -928,6 +933,11 @@
     "packageName": "bottles",
     "description": "Manage wine prefixes and run Windows software & games in a new way...",
     "icon": "https://portable-linux-apps.github.io/icons/bottles.png"
+  },
+  {
+    "packageName": "bottom",
+    "description": "Yet another cross-platform graphical process/system monitor...",
+    "icon": "https://portable-linux-apps.github.io/icons/bottom.png"
   },
   {
     "packageName": "bovo",
@@ -1288,6 +1298,11 @@
     "packageName": "chatterino2-nightly-appimage",
     "description": "Second installment of the Twitch chat client...",
     "icon": "https://portable-linux-apps.github.io/icons/chatterino2-nightly-appimage.png"
+  },
+  {
+    "packageName": "cheat",
+    "description": "Create and view interactive cheatsheets on the command-line...",
+    "icon": "https://portable-linux-apps.github.io/icons/cheat.png"
   },
   {
     "packageName": "chemcanvas",
@@ -2100,6 +2115,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dockstation.png"
   },
   {
+    "packageName": "doggo",
+    "description": "Command-line DNS Client for Humans. Written in Golang..",
+    "icon": "https://portable-linux-apps.github.io/icons/doggo.png"
+  },
+  {
     "packageName": "dokidokimodmanager",
     "description": "Mod Manager for Doki Doki Literature Club!..",
     "icon": "https://portable-linux-apps.github.io/icons/dokidokimodmanager.png"
@@ -2203,6 +2223,11 @@
     "packageName": "dust3d",
     "description": "3D modeling software for games, 3D printing, and so on...",
     "icon": "https://portable-linux-apps.github.io/icons/dust3d.png"
+  },
+  {
+    "packageName": "dust",
+    "description": "A more intuitive version of du in rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/dust.png"
   },
   {
     "packageName": "dvdisaster",
@@ -2640,6 +2665,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/eyestalker.png"
   },
   {
+    "packageName": "eza",
+    "description": "A modern, maintained replacement for ls...",
+    "icon": "https://portable-linux-apps.github.io/icons/eza.png"
+  },
+  {
     "packageName": "f1mv-lights-integration",
     "description": "Connect your smart home lights to MultiViewer...",
     "icon": "https://portable-linux-apps.github.io/icons/f1mv-lights-integration.png"
@@ -2703,6 +2733,11 @@
     "packageName": "f-crm",
     "description": "Customer Relations Management for Freelancers...",
     "icon": "https://portable-linux-apps.github.io/icons/f-crm.png"
+  },
+  {
+    "packageName": "fd",
+    "description": "A simple, fast and user-friendly alternative to 'find'...",
+    "icon": "https://portable-linux-apps.github.io/icons/fd.png"
   },
   {
     "packageName": "fdc3-sail",
@@ -3145,6 +3180,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/fukayo.png"
   },
   {
+    "packageName": "fzf",
+    "description": "A command-line fuzzy finder...",
+    "icon": "https://portable-linux-apps.github.io/icons/fzf.png"
+  },
+  {
     "packageName": "gaiasky",
     "description": "Gaia Sky, a real-time 3D space simulator & astronomy visualisation...",
     "icon": "https://portable-linux-apps.github.io/icons/gaiasky.png"
@@ -3478,6 +3518,11 @@
     "packageName": "gpgfrontend",
     "description": "A Cross-Platform OpenPGP Frontend Software...",
     "icon": "https://portable-linux-apps.github.io/icons/gpgfrontend.png"
+  },
+  {
+    "packageName": "gping",
+    "description": "Ping, but with a graph...",
+    "icon": "https://portable-linux-apps.github.io/icons/gping.png"
   },
   {
     "packageName": "gpredict",
@@ -4903,6 +4948,11 @@
     "packageName": "lpub3d",
     "description": "An LDraw Building Instruction Editor...",
     "icon": "https://portable-linux-apps.github.io/icons/lpub3d.png"
+  },
+  {
+    "packageName": "lsd",
+    "description": "The next gen ls command...",
+    "icon": "https://portable-linux-apps.github.io/icons/lsd.png"
   },
   {
     "packageName": "lskat",
@@ -6830,6 +6880,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/procdepmonitor.png"
   },
   {
+    "packageName": "procs",
+    "description": "A modern replacement for ps written in Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/procs.png"
+  },
+  {
     "packageName": "procspin",
     "description": "CLI to create a process/progress animation with text...",
     "icon": "https://portable-linux-apps.github.io/icons/procspin.png"
@@ -7458,6 +7513,16 @@
     "packageName": "ripes",
     "description": "Graphical processor simulator and assembly editor for the RISC-V ISA...",
     "icon": "https://portable-linux-apps.github.io/icons/ripes.png"
+  },
+  {
+    "packageName": "ripgrep-all",
+    "description": "A ripgrep version to also search in documents and archives...",
+    "icon": "https://portable-linux-apps.github.io/icons/ripgrep-all.png"
+  },
+  {
+    "packageName": "ripgrep",
+    "description": "Search directories for regex pattern while respecting gitignore...",
+    "icon": "https://portable-linux-apps.github.io/icons/ripgrep.png"
   },
   {
     "packageName": "rmg",
@@ -8160,14 +8225,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/speaky-miniplayer.png"
   },
   {
-    "packageName": "speed-dreams",
-    "description": "A Torcs fork, 3d motorsport simulation and race cars game...",
-    "icon": "https://portable-linux-apps.github.io/icons/speed-dreams.png"
-  },
-  {
     "packageName": "speedcrunch",
     "description": "A fast and usable calculator for power users...",
     "icon": "https://portable-linux-apps.github.io/icons/speedcrunch.png"
+  },
+  {
+    "packageName": "speed-dreams",
+    "description": "A Torcs fork, 3d motorsport simulation and race cars game...",
+    "icon": "https://portable-linux-apps.github.io/icons/speed-dreams.png"
   },
   {
     "packageName": "speedyloader",
@@ -10063,6 +10128,11 @@
     "packageName": "zotero",
     "description": "Collect, organize, cite, and share your research sources...",
     "icon": "https://portable-linux-apps.github.io/icons/zotero.png"
+  },
+  {
+    "packageName": "zoxide",
+    "description": "A smarter cd command. Supports all major shells...",
+    "icon": "https://portable-linux-apps.github.io/icons/zoxide.png"
   },
   {
     "packageName": "zramen",
