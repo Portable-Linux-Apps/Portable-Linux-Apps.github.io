@@ -610,14 +610,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/bat.png"
   },
   {
-    "packageName": "bat-extras",
-    "description": "Bash scripts that integrate bat with various command line tools...",
-    "icon": "https://portable-linux-apps.github.io/icons/bat-extras.png"
-  },
-  {
     "packageName": "batch-explorer",
     "description": "A client tool to create/debug/monitor Azure Batch Apps...",
     "icon": "https://portable-linux-apps.github.io/icons/batch-explorer.png"
+  },
+  {
+    "packageName": "bat-extras",
+    "description": "Bash scripts that integrate bat with various command line tools...",
+    "icon": "https://portable-linux-apps.github.io/icons/bat-extras.png"
   },
   {
     "packageName": "bauh",
@@ -6648,6 +6648,11 @@
     "packageName": "play-2048",
     "description": "Another implementation of the 2048 game...",
     "icon": "https://portable-linux-apps.github.io/icons/play-2048.png"
+  },
+  {
+    "packageName": "playback",
+    "description": "Play and manage your cartridges and replay your childhood games...",
+    "icon": "https://portable-linux-apps.github.io/icons/playback.png"
   },
   {
     "packageName": "playbox",
