@@ -6225,6 +6225,26 @@
     "icon": "https://portable-linux-apps.github.io/icons/opera.png"
   },
   {
+    "packageName": "orcaslicer-any",
+    "description": "G-code generator for 3D printers (the most recent release)...",
+    "icon": "https://portable-linux-apps.github.io/icons/orcaslicer-any.png"
+  },
+  {
+    "packageName": "orcaslicer-beta",
+    "description": "G-code generator for 3D printers (Beta release)...",
+    "icon": "https://portable-linux-apps.github.io/icons/orcaslicer-beta.png"
+  },
+  {
+    "packageName": "orcaslicer",
+    "description": "G-code generator for 3D printers (Stable release)...",
+    "icon": "https://portable-linux-apps.github.io/icons/orcaslicer.png"
+  },
+  {
+    "packageName": "orcaslicer-rc",
+    "description": "G-code generator for 3D printers (Release Candidate)...",
+    "icon": "https://portable-linux-apps.github.io/icons/orcaslicer-rc.png"
+  },
+  {
     "packageName": "osrs-tools",
     "description": "Several tools for OSRS...",
     "icon": "https://portable-linux-apps.github.io/icons/osrs-tools.png"
