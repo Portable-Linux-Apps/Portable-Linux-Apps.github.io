@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2039** *Appimage packages and standalone applications*.
+#### *This database contains* **2040** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1162,6 +1162,7 @@
 | <img src="icons/newton-adventure.png" width="48" height="48"> | [***newton-adventure***](apps/newton-adventure.md) | *A 2D game with a twist, player can rotate gravity at 360°.*..[ *read more* ](apps/newton-adventure.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/newton-adventure) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/newton-adventure) |
 | <img src="icons/nextcloud.png" width="48" height="48"> | [***nextcloud***](apps/nextcloud.md) | *Client-server software for creating & using file hosting services.*..[ *read more* ](apps/nextcloud.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nextcloud) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nextcloud) |
 | <img src="icons/nextplayer-appimage.png" width="48" height="48"> | [***nextplayer-appimage***](apps/nextplayer-appimage.md) | *A blue-ray player, originally named TheNewPlayerFree.*..[ *read more* ](apps/nextplayer-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nextplayer-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nextplayer-appimage) |
+| <img src="icons/nexus-mods.png" width="48" height="48"> | [***nexus-mods***](apps/nexus-mods.md) | *A mod installer, creator and manager for all your popular games.*..[ *read more* ](apps/nexus-mods.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nexus-mods) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nexus-mods) |
 | <img src="icons/nexus-wallet.png" width="48" height="48"> | [***nexus-wallet***](apps/nexus-wallet.md) | *Official interface layers of the Nexus Software Stack.*..[ *read more* ](apps/nexus-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nexus-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nexus-wallet) |
 | <img src="icons/nfctools.png" width="48" height="48"> | [***nfctools***](apps/nfctools.md) | *A library which allows userspace application access to NFC devices.*..[ *read more* ](apps/nfctools.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nfctools) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nfctools) |
 | <img src="icons/ngpost.png" width="48" height="48"> | [***ngpost***](apps/ngpost.md) | *Usenet poster for binaries developped in C++/QT.*..[ *read more* ](apps/ngpost.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ngpost) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ngpost) |

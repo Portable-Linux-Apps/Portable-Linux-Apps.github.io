@@ -5745,6 +5745,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/nextplayer-appimage.png"
   },
   {
+    "packageName": "nexus-mods",
+    "description": "A mod installer, creator and manager for all your popular games...",
+    "icon": "https://portable-linux-apps.github.io/icons/nexus-mods.png"
+  },
+  {
     "packageName": "nexus-wallet",
     "description": "Official interface layers of the Nexus Software Stack...",
     "icon": "https://portable-linux-apps.github.io/icons/nexus-wallet.png"
