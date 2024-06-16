@@ -96,7 +96,7 @@
   },
   {
     "packageName": "aisap",
-    "description": "Golang library to make sandboxing AppImages easy...",
+    "description": "Tool to make sandboxing AppImages easy through bwrap...",
     "icon": "https://portable-linux-apps.github.io/icons/aisap.png"
   },
   {
@@ -578,6 +578,11 @@
     "packageName": "axolotl",
     "description": "A Signal compatible cross plattform client written in Go and Vuejs...",
     "icon": "https://portable-linux-apps.github.io/icons/axolotl.png"
+  },
+  {
+    "packageName": "badlion",
+    "description": "Most Complete All-In-One Mod Library for Minecraft with 100+ Mods...",
+    "icon": "https://portable-linux-apps.github.io/icons/badlion.png"
   },
   {
     "packageName": "baijimangaviewer",
@@ -2203,6 +2208,11 @@
     "packageName": "duckstation",
     "description": "PlayStation 1, aka PSX games Emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/duckstation.png"
+  },
+  {
+    "packageName": "duelyst",
+    "description": "A digital collectible card game and turn-based strategy hybrid...",
+    "icon": "https://portable-linux-apps.github.io/icons/duelyst.png"
   },
   {
     "packageName": "duf",
@@ -5140,6 +5150,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/mcpodcast.png"
   },
   {
+    "packageName": "mcpelauncher",
+    "description": "The main repo for the Linux Bedrock edition Minecraft launcher...",
+    "icon": "https://portable-linux-apps.github.io/icons/mcpelauncher.png"
+  },
+  {
     "packageName": "m",
     "description": "Data oriented programming language for game developers...",
     "icon": "https://portable-linux-apps.github.io/icons/m.png"
@@ -5410,6 +5425,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/moarperf.png"
   },
   {
+    "packageName": "modrinth",
+    "description": "Open source launcher that allows you to play your favorite mods...",
+    "icon": "https://portable-linux-apps.github.io/icons/modrinth.png"
+  },
+  {
     "packageName": "mob",
     "description": ".A handsome Himalayan desktop client...",
     "icon": "https://portable-linux-apps.github.io/icons/mob.png"
@@ -5558,6 +5578,16 @@
     "packageName": "muffon",
     "description": "Music streaming browser,retrieves audio, video and metadata...",
     "icon": "https://portable-linux-apps.github.io/icons/muffon.png"
+  },
+  {
+    "packageName": "mullvad-browser",
+    "description": "A Tor-based Web Browser...",
+    "icon": "https://portable-linux-apps.github.io/icons/mullvad-browser.png"
+  },
+  {
+    "packageName": "multimc",
+    "description": "A Minecraft launcher...",
+    "icon": "https://portable-linux-apps.github.io/icons/multimc.png"
   },
   {
     "packageName": "munt",
@@ -9175,6 +9205,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/twitch-wrapper.png"
   },
   {
+    "packageName": "uad-ng",
+    "description": "GUI Rust wrapper for ADB to debloat non-rooted Android devices...",
+    "icon": "https://portable-linux-apps.github.io/icons/uad-ng.png"
+  },
+  {
     "packageName": "ubports-installer",
     "description": "A simple tool to install Ubuntu Touch on UBports devices..",
     "icon": "https://portable-linux-apps.github.io/icons/ubports-installer.png"
@@ -10060,6 +10095,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/youtubesearchfilter.png"
   },
   {
+    "packageName": "yt-dlp",
+    "description": "A feature-rich command-line audio/video downloader...",
+    "icon": "https://portable-linux-apps.github.io/icons/yt-dlp.png"
+  },
+  {
     "packageName": "ytdownloader",
     "description": "App for downloading Videos and Audios from hundreds of sites...",
     "icon": "https://portable-linux-apps.github.io/icons/ytdownloader.png"
@@ -10083,11 +10123,6 @@
     "packageName": "yuview",
     "description": "YUV player with an advanced analytic toolset...",
     "icon": "https://portable-linux-apps.github.io/icons/yuview.png"
-  },
-  {
-    "packageName": "yuzu",
-    "description": "An experimental open-source emulator for the Nintendo Switch...",
-    "icon": "https://portable-linux-apps.github.io/icons/yuzu.png"
   },
   {
     "packageName": "zap",
