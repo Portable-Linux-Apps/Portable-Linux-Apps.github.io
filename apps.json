@@ -830,6 +830,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/blizzard-4.png"
   },
   {
+    "packageName": "blobdrop",
+    "description": "Drag and drop files directly out of the terminal...",
+    "icon": "https://portable-linux-apps.github.io/icons/blobdrop.png"
+  },
+  {
     "packageName": "blockbench",
     "description": "Editor for boxy models and pixel art textures like Minecraft...",
     "icon": "https://portable-linux-apps.github.io/icons/blockbench.png"
@@ -1718,6 +1723,11 @@
     "packageName": "coreuniverse",
     "description": "Shows releated information of apps from CuboCore App Suite...",
     "icon": "https://portable-linux-apps.github.io/icons/coreuniverse.png"
+  },
+  {
+    "packageName": "cosmic-comics",
+    "description": "Web Server based Comics / Manga Collectionner & viewer...",
+    "icon": "https://portable-linux-apps.github.io/icons/cosmic-comics.png"
   },
   {
     "packageName": "cosmonium",
@@ -3525,6 +3535,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/google-tasks-desktop.png"
   },
   {
+    "packageName": "gopeed",
+    "description": "A modern download manager that supports all platforms...",
+    "icon": "https://portable-linux-apps.github.io/icons/gopeed.png"
+  },
+  {
     "packageName": "gospel",
     "description": "Poppler based fast pdf viewer written in PyQt5...",
     "icon": "https://portable-linux-apps.github.io/icons/gospel.png"
@@ -3873,6 +3888,11 @@
     "packageName": "hyperkeys",
     "description": "Unleash you keyboard shorcuts...",
     "icon": "https://portable-linux-apps.github.io/icons/hyperkeys.png"
+  },
+  {
+    "packageName": "hypersomnia",
+    "description": "Hardcore arena mixing eSports with pixely nostalgia...",
+    "icon": "https://portable-linux-apps.github.io/icons/hypersomnia.png"
   },
   {
     "packageName": "hyperspace",
@@ -5145,14 +5165,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/mbcord-appimage.png"
   },
   {
-    "packageName": "mcpodcast",
-    "description": "Electron app for tasks around Podcast mp3 files...",
-    "icon": "https://portable-linux-apps.github.io/icons/mcpodcast.png"
-  },
-  {
     "packageName": "mcpelauncher",
     "description": "The main repo for the Linux Bedrock edition Minecraft launcher...",
     "icon": "https://portable-linux-apps.github.io/icons/mcpelauncher.png"
+  },
+  {
+    "packageName": "mcpodcast",
+    "description": "Electron app for tasks around Podcast mp3 files...",
+    "icon": "https://portable-linux-apps.github.io/icons/mcpodcast.png"
   },
   {
     "packageName": "m",
@@ -5425,11 +5445,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/moarperf.png"
   },
   {
-    "packageName": "modrinth",
-    "description": "Open source launcher that allows you to play your favorite mods...",
-    "icon": "https://portable-linux-apps.github.io/icons/modrinth.png"
-  },
-  {
     "packageName": "mob",
     "description": ".A handsome Himalayan desktop client...",
     "icon": "https://portable-linux-apps.github.io/icons/mob.png"
@@ -5453,6 +5468,11 @@
     "packageName": "moderndeck",
     "description": "A beautiful, powerful Twitter client for desktop...",
     "icon": "https://portable-linux-apps.github.io/icons/moderndeck.png"
+  },
+  {
+    "packageName": "modrinth",
+    "description": "Open source launcher that allows you to play your favorite mods...",
+    "icon": "https://portable-linux-apps.github.io/icons/modrinth.png"
   },
   {
     "packageName": "modv",
