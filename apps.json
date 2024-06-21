@@ -1460,6 +1460,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/clipr.png"
   },
   {
+    "packageName": "clipse",
+    "description": "Configurable TUI clipboard manager for Unix...",
+    "icon": "https://portable-linux-apps.github.io/icons/clipse.png"
+  },
+  {
     "packageName": "cloud-browser",
     "description": "Access to files located in various cloud services...",
     "icon": "https://portable-linux-apps.github.io/icons/cloud-browser.png"
@@ -1748,6 +1753,11 @@
     "packageName": "cpod",
     "description": "A simple, beautiful podcast app...",
     "icon": "https://portable-linux-apps.github.io/icons/cpod.png"
+  },
+  {
+    "packageName": "cpufetch",
+    "description": "Simple yet fancy CPU architecture fetching tool...",
+    "icon": "https://portable-linux-apps.github.io/icons/cpufetch.png"
   },
   {
     "packageName": "cpu-x",
@@ -2148,6 +2158,11 @@
     "packageName": "dolphin-emu",
     "description": "GameCube/Nintento Wii emulator for PC with improvements...",
     "icon": "https://portable-linux-apps.github.io/icons/dolphin-emu.png"
+  },
+  {
+    "packageName": "dooit",
+    "description": "An awesome TUI todo manager...",
+    "icon": "https://portable-linux-apps.github.io/icons/dooit.png"
   },
   {
     "packageName": "dopamine-preview",
@@ -6100,6 +6115,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/onedrive-gui.png"
   },
   {
+    "packageName": "onefetch",
+    "description": "Command-line Git information tool...",
+    "icon": "https://portable-linux-apps.github.io/icons/onefetch.png"
+  },
+  {
     "packageName": "one-gpt",
     "description": "Aggregate ChatGPT official version, Wenxin Yiyan, Poe, chatchat...",
     "icon": "https://portable-linux-apps.github.io/icons/one-gpt.png"
@@ -6565,6 +6585,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/pext.png"
   },
   {
+    "packageName": "pfetch-rs",
+    "description": "A rewrite of the pfetch system information tool in Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/pfetch-rs.png"
+  },
+  {
     "packageName": "phinch",
     "description": "Phinch is a framework for visualizing biological data...",
     "icon": "https://portable-linux-apps.github.io/icons/phinch.png"
@@ -6858,6 +6883,11 @@
     "packageName": "pomotroid",
     "description": "Simple and visually-pleasing Pomodoro timer...",
     "icon": "https://portable-linux-apps.github.io/icons/pomotroid.png"
+  },
+  {
+    "packageName": "pop",
+    "description": "Send emails from your terminal...",
+    "icon": "https://portable-linux-apps.github.io/icons/pop.png"
   },
   {
     "packageName": "popsicle",
@@ -8165,6 +8195,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/smartservogui.png"
   },
   {
+    "packageName": "smassh",
+    "description": "Smassh your Keyboard, TUI Edition...",
+    "icon": "https://portable-linux-apps.github.io/icons/smassh.png"
+  },
+  {
     "packageName": "smath-studio",
     "description": "Tiny, but powerful mathematical program with WYSIWYG editor...",
     "icon": "https://portable-linux-apps.github.io/icons/smath-studio.png"
@@ -9018,6 +9053,11 @@
     "packageName": "tipitaka-pali-reader",
     "description": "A Pali Reading app made in Flutter...",
     "icon": "https://portable-linux-apps.github.io/icons/tipitaka-pali-reader.png"
+  },
+  {
+    "packageName": "tlock",
+    "description": "Two-Factor Authentication Tokens Manager in Terminal...",
+    "icon": "https://portable-linux-apps.github.io/icons/tlock.png"
   },
   {
     "packageName": "tmon",
