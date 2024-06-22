@@ -1970,21 +1970,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/deadbeef.png"
   },
   {
-    "packageName": "deadbeef-appimage",
-    "description": "Unofficial, A modular cross-platform audio player...",
-    "icon": "https://portable-linux-apps.github.io/icons/deadbeef-appimage.png"
-  },
-  {
-    "packageName": "deadbeef-devel",
-    "description": "A modular cross-platform audio player (dev-edition)...",
-    "icon": "https://portable-linux-apps.github.io/icons/deadbeef-devel.png"
-  },
-  {
-    "packageName": "deadbeef-devel-appimage",
-    "description": "Unofficial, music player (dev-version)...",
-    "icon": "https://portable-linux-apps.github.io/icons/deadbeef-devel-appimage.png"
-  },
-  {
     "packageName": "deadgame-2048",
     "description": "GUI tool available for ALL platforms...",
     "icon": "https://portable-linux-apps.github.io/icons/deadgame-2048.png"
@@ -3190,6 +3175,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/freetube.png"
   },
   {
+    "packageName": "freeze",
+    "description": "Generate images of code and terminal output...",
+    "icon": "https://portable-linux-apps.github.io/icons/freeze.png"
+  },
+  {
     "packageName": "freezer-appimage",
     "description": "An unofficial client for Deezer...",
     "icon": "https://portable-linux-apps.github.io/icons/freezer-appimage.png"
@@ -3438,6 +3428,11 @@
     "packageName": "glaxnimate",
     "description": "A simple and fast vector graphics animation program...",
     "icon": "https://portable-linux-apps.github.io/icons/glaxnimate.png"
+  },
+  {
+    "packageName": "glow",
+    "description": "Render markdown on the CLI, with pizzazz! ..",
+    "icon": "https://portable-linux-apps.github.io/icons/glow.png"
   },
   {
     "packageName": "gltf-insight",
@@ -4778,6 +4773,11 @@
     "packageName": "levior",
     "description": "Converts web pages on-the-fly to the gemtext format...",
     "icon": "https://portable-linux-apps.github.io/icons/levior.png"
+  },
+  {
+    "packageName": "lexido",
+    "description": "A terminal assistant, powered by Generative AI...",
+    "icon": "https://portable-linux-apps.github.io/icons/lexido.png"
   },
   {
     "packageName": "lf",
@@ -8260,6 +8260,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/socnetv.png"
   },
   {
+    "packageName": "soft-serve",
+    "description": "The mighty, self-hostable Git server for the command line...",
+    "icon": "https://portable-linux-apps.github.io/icons/soft-serve.png"
+  },
+  {
     "packageName": "software-challenge-gui",
     "description": "GUI für die Software-Challenge...",
     "icon": "https://portable-linux-apps.github.io/icons/software-challenge-gui.png"
@@ -8393,6 +8398,11 @@
     "packageName": "springboard",
     "description": "Electron-based SpringRTS Launcher app...",
     "icon": "https://portable-linux-apps.github.io/icons/springboard.png"
+  },
+  {
+    "packageName": "sptlrx",
+    "description": "Synchronized lyrics in your terminal...",
+    "icon": "https://portable-linux-apps.github.io/icons/sptlrx.png"
   },
   {
     "packageName": "sqlitebrowser",
@@ -9265,6 +9275,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/twitch-wrapper.png"
   },
   {
+    "packageName": "typioca",
+    "description": "Cozy typing speed tester in terminal...",
+    "icon": "https://portable-linux-apps.github.io/icons/typioca.png"
+  },
+  {
     "packageName": "uad-ng",
     "description": "GUI Rust wrapper for ADB to debloat non-rooted Android devices...",
     "icon": "https://portable-linux-apps.github.io/icons/uad-ng.png"
@@ -9458,6 +9473,11 @@
     "packageName": "vhc-viewer-x11",
     "description": "Vulkan Hardware Capability Viewer...",
     "icon": "https://portable-linux-apps.github.io/icons/vhc-viewer-x11.png"
+  },
+  {
+    "packageName": "vhs",
+    "description": "Your CLI home video recorder...",
+    "icon": "https://portable-linux-apps.github.io/icons/vhs.png"
   },
   {
     "packageName": "via-appimage",
