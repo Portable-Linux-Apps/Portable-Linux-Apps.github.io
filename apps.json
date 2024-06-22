@@ -8990,6 +8990,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/thorium-sse3.png"
   },
   {
+    "packageName": "thorium-sse4",
+    "description": "Web Browser, Chromium fork with Widevine and FFmpeg support...",
+    "icon": "https://portable-linux-apps.github.io/icons/thorium-sse4.png"
+  },
+  {
     "packageName": "thorium",
     "description": "Web Browser, a Chromium fork including Widevine and FFmpeg support...",
     "icon": "https://portable-linux-apps.github.io/icons/thorium.png"

@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2063** *Appimage packages and standalone applications*.
+#### *This database contains* **2064** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1811,6 +1811,7 @@
 | <img src="icons/thorium-client.png" width="48" height="48"> | [***thorium-client***](apps/thorium-client.md) | *A locked-down electron kiosk for Thorium.*..[ *read more* ](apps/thorium-client.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thorium-client) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thorium-client) |
 | <img src="icons/thorium-reader.png" width="48" height="48"> | [***thorium-reader***](apps/thorium-reader.md) | *Desktop application to read ebooks.*..[ *read more* ](apps/thorium-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thorium-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thorium-reader) |
 | <img src="icons/thorium-sse3.png" width="48" height="48"> | [***thorium-sse3***](apps/thorium-sse3.md) | *Web Browser, Chromium fork with Widevine and FFmpeg support.*..[ *read more* ](apps/thorium-sse3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thorium-sse3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thorium-sse3) |
+| <img src="icons/thorium-sse4.png" width="48" height="48"> | [***thorium-sse4***](apps/thorium-sse4.md) | *Web Browser, Chromium fork with Widevine and FFmpeg support.*..[ *read more* ](apps/thorium-sse4.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thorium-sse4) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thorium-sse4) |
 | <img src="icons/thorium.png" width="48" height="48"> | [***thorium***](apps/thorium.md) | *Web Browser, a Chromium fork including Widevine and FFmpeg support.*..[ *read more* ](apps/thorium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thorium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thorium) |
 | <img src="icons/thunderbird-appimage.png" width="48" height="48"> | [***thunderbird-appimage***](apps/thunderbird-appimage.md) | *Mail client's Unofficial AppImage (Stable).*..[ *read more* ](apps/thunderbird-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thunderbird-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thunderbird-appimage) |
 | <img src="icons/thunderbird-beta-appimage.png" width="48" height="48"> | [***thunderbird-beta-appimage***](apps/thunderbird-beta-appimage.md) | *Mail client's Unofficial AppImage (Beta).*..[ *read more* ](apps/thunderbird-beta-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thunderbird-beta-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thunderbird-beta-appimage) |
