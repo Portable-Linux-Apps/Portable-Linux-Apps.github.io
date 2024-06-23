@@ -120,6 +120,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/alephium-wallet.png"
   },
   {
+    "packageName": "alexandria",
+    "description": "eBook reader built with Tauri, Epub.js, and Typescript...",
+    "icon": "https://portable-linux-apps.github.io/icons/alexandria.png"
+  },
+  {
     "packageName": "allusion",
     "description": "A desktop application for managing your visual library...",
     "icon": "https://portable-linux-apps.github.io/icons/allusion.png"
@@ -248,6 +253,11 @@
     "packageName": "anydesk",
     "description": "Remote desktop application distributed (unofficial AppImage)...",
     "icon": "https://portable-linux-apps.github.io/icons/anydesk.png"
+  },
+  {
+    "packageName": "anything-llm",
+    "description": "AI business intelligence tool. Any LLM, any document...",
+    "icon": "https://portable-linux-apps.github.io/icons/anything-llm.png"
   },
   {
     "packageName": "anytype",
@@ -6933,6 +6943,11 @@
     "packageName": "pomotroid",
     "description": "Simple and visually-pleasing Pomodoro timer...",
     "icon": "https://portable-linux-apps.github.io/icons/pomotroid.png"
+  },
+  {
+    "packageName": "popcorn",
+    "description": "BitTorrent client with integrated media player...",
+    "icon": "https://portable-linux-apps.github.io/icons/popcorn.png"
   },
   {
     "packageName": "pop",
