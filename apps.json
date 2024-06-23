@@ -2990,6 +2990,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/fishing-funds.png"
   },
   {
+    "packageName": "fixit",
+    "description": "A utility to fix mistakes in your commands...",
+    "icon": "https://portable-linux-apps.github.io/icons/fixit.png"
+  },
+  {
     "packageName": "flacon",
     "description": "Audio File Encoder. Extracts audio tracks from audio CDs...",
     "icon": "https://portable-linux-apps.github.io/icons/flacon.png"
@@ -3305,6 +3310,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gemalaya.png"
   },
   {
+    "packageName": "genact",
+    "description": "A nonsense activity generator...",
+    "icon": "https://portable-linux-apps.github.io/icons/genact.png"
+  },
+  {
     "packageName": "genesis",
     "description": "Open source blockchain platform...",
     "icon": "https://portable-linux-apps.github.io/icons/genesis.png"
@@ -3333,6 +3343,11 @@
     "packageName": "gextractwinicons",
     "description": "Extract cursors, icons and images from MS Windows files...",
     "icon": "https://portable-linux-apps.github.io/icons/gextractwinicons.png"
+  },
+  {
+    "packageName": "gh-eco",
+    "description": "gh cli extension to explore the ecosystem...",
+    "icon": "https://portable-linux-apps.github.io/icons/gh-eco.png"
   },
   {
     "packageName": "giada",
@@ -3553,6 +3568,11 @@
     "packageName": "gospel",
     "description": "Poppler based fast pdf viewer written in PyQt5...",
     "icon": "https://portable-linux-apps.github.io/icons/gospel.png"
+  },
+  {
+    "packageName": "goto",
+    "description": "A simple terminal SSH manager that lists favorite SSH servers...",
+    "icon": "https://portable-linux-apps.github.io/icons/goto.png"
   },
   {
     "packageName": "gpgfrontend",
@@ -4525,6 +4545,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/knowte.png"
   },
   {
+    "packageName": "koboldcpp",
+    "description": "Simple 1-file way to run GGML and GGUF models with KoboldAI's UI...",
+    "icon": "https://portable-linux-apps.github.io/icons/koboldcpp.png"
+  },
+  {
     "packageName": "koishi-desktop",
     "description": "Launch Koishi from your desktop...",
     "icon": "https://portable-linux-apps.github.io/icons/koishi-desktop.png"
@@ -5090,6 +5115,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/mandelbulber2.png"
   },
   {
+    "packageName": "mangal",
+    "description": "Most advanced (yet simple) CLI manga downloader in the universe!..",
+    "icon": "https://portable-linux-apps.github.io/icons/mangal.png"
+  },
+  {
     "packageName": "mangayomi",
     "description": "Application for reading manga and watching anime...",
     "icon": "https://portable-linux-apps.github.io/icons/mangayomi.png"
@@ -5203,6 +5233,11 @@
     "packageName": "mdview",
     "description": "Application that renders and displays Markdown files...",
     "icon": "https://portable-linux-apps.github.io/icons/mdview.png"
+  },
+  {
+    "packageName": "mdx",
+    "description": "CLI program for downloading manga from the MangaDex website...",
+    "icon": "https://portable-linux-apps.github.io/icons/mdx.png"
   },
   {
     "packageName": "measur",
@@ -5740,6 +5775,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/nanovault.png"
   },
   {
+    "packageName": "nap",
+    "description": "Code spippets in your terminal...",
+    "icon": "https://portable-linux-apps.github.io/icons/nap.png"
+  },
+  {
     "packageName": "naruto-arena",
     "description": "Naruto-based online multiplayer strategy game...",
     "icon": "https://portable-linux-apps.github.io/icons/naruto-arena.png"
@@ -6030,6 +6070,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/nx-software-center.png"
   },
   {
+    "packageName": "nyaa",
+    "description": "A nyaa.si tui tool for browsing and downloading torrents...",
+    "icon": "https://portable-linux-apps.github.io/icons/nyaa.png"
+  },
+  {
     "packageName": "nychess",
     "description": "A python Chess Engine and AI...",
     "icon": "https://portable-linux-apps.github.io/icons/nychess.png"
@@ -6098,6 +6143,11 @@
     "packageName": "olive",
     "description": "Free open-source non-linear video editor (nightly build)...",
     "icon": "https://portable-linux-apps.github.io/icons/olive.png"
+  },
+  {
+    "packageName": "ollama",
+    "description": "Get up and running with Llama 3, Mistral, Gemma, and other LLMs...",
+    "icon": "https://portable-linux-apps.github.io/icons/ollama.png"
   },
   {
     "packageName": "ommpfritt",
@@ -8390,6 +8440,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/spotify.png"
   },
   {
+    "packageName": "spotify-tui",
+    "description": "Spotify for the terminal written in Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/spotify-tui.png"
+  },
+  {
     "packageName": "spotube",
     "description": "Open source Spotify client that doesn't require Premium...",
     "icon": "https://portable-linux-apps.github.io/icons/spotube.png"
@@ -9110,6 +9165,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/todorust.png"
   },
   {
+    "packageName": "toipe",
+    "description": "yet another typing test, but crab flavoured...",
+    "icon": "https://portable-linux-apps.github.io/icons/toipe.png"
+  },
+  {
     "packageName": "tomatox",
     "description": "An online free VIP video analysis player (in chinese)...",
     "icon": "https://portable-linux-apps.github.io/icons/tomatox.png"
@@ -9138,6 +9198,11 @@
     "packageName": "torrenttools",
     "description": "Cli tool to inspect/create/edit BitTorrent metafiles...",
     "icon": "https://portable-linux-apps.github.io/icons/torrenttools.png"
+  },
+  {
+    "packageName": "toru",
+    "description": "Bittorrent streaming CLI tool. Stream anime torrents real-time...",
+    "icon": "https://portable-linux-apps.github.io/icons/toru.png"
   },
   {
     "packageName": "toughcookies",
@@ -10233,6 +10298,11 @@
     "packageName": "zegrapher",
     "description": "Math graphing software...",
     "icon": "https://portable-linux-apps.github.io/icons/zegrapher.png"
+  },
+  {
+    "packageName": "zellij",
+    "description": "A terminal workspace with batteries included...",
+    "icon": "https://portable-linux-apps.github.io/icons/zellij.png"
   },
   {
     "packageName": "zenity",
