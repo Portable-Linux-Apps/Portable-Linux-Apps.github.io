@@ -2665,6 +2665,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/eximchain-wallet.png"
   },
   {
+    "packageName": "exodus",
+    "description": "Send, receive & exchange cryptocurrency. Bitcoin wallet...",
+    "icon": "https://portable-linux-apps.github.io/icons/exodus.png"
+  },
+  {
     "packageName": "explorook",
     "description": "Rookout’s site addon to support local files and folders...",
     "icon": "https://portable-linux-apps.github.io/icons/explorook.png"
@@ -3518,6 +3523,11 @@
     "packageName": "godot",
     "description": "Multi-platform 2D and 3D game engine with a feature-rich editor...",
     "icon": "https://portable-linux-apps.github.io/icons/godot.png"
+  },
+  {
+    "packageName": "goland",
+    "description": "Capable and Ergonomic Go IDE...",
+    "icon": "https://portable-linux-apps.github.io/icons/goland.png"
   },
   {
     "packageName": "goldencheetah",
