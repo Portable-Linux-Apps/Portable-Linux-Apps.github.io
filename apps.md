@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2083** *Appimage packages and standalone applications*.
+#### *This database contains* **2084** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -2043,6 +2043,7 @@
 | <img src="icons/xclicker.png" width="48" height="48"> | [***xclicker***](apps/xclicker.md) | *Fast gui autoclicker for x11 linux desktops.*..[ *read more* ](apps/xclicker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xclicker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xclicker) |
 | <img src="icons/xcloud-desktop-appimage.png" width="48" height="48"> | [***xcloud-desktop-appimage***](apps/xcloud-desktop-appimage.md) | *An unoffical desktop app for the XCloud web beta.*..[ *read more* ](apps/xcloud-desktop-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xcloud-desktop-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xcloud-desktop-appimage) |
 | <img src="icons/xde.png" width="48" height="48"> | [***xde***](apps/xde.md) | *The Expo Development Environment.*..[ *read more* ](apps/xde.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xde) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xde) |
+| <img src="icons/xdg-ninja.png" width="48" height="48"> | [***xdg-ninja***](apps/xdg-ninja.md) | *Script that checks your $HOME for unwanted files and directories.*..[ *read more* ](apps/xdg-ninja.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xdg-ninja) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xdg-ninja) |
 | <img src="icons/xelfviewer.png" width="48" height="48"> | [***xelfviewer***](apps/xelfviewer.md) | *A multiplatform ELF file viewer/editor.*..[ *read more* ](apps/xelfviewer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xelfviewer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xelfviewer) |
 | <img src="icons/xemu.png" width="48" height="48"> | [***xemu***](apps/xemu.md) | *Original Xbox Emulator for Windows, macOS, and Linux.*..[ *read more* ](apps/xemu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xemu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xemu) |
 | <img src="icons/xl-converter.png" width="48" height="48"> | [***xl-converter***](apps/xl-converter.md) | *Powerful image converter with support for multithreading.*..[ *read more* ](apps/xl-converter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xl-converter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xl-converter) |

@@ -10150,6 +10150,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/xde.png"
   },
   {
+    "packageName": "xdg-ninja",
+    "description": "Script that checks your $HOME for unwanted files and directories...",
+    "icon": "https://portable-linux-apps.github.io/icons/xdg-ninja.png"
+  },
+  {
     "packageName": "xelfviewer",
     "description": "A multiplatform ELF file viewer/editor...",
     "icon": "https://portable-linux-apps.github.io/icons/xelfviewer.png"
