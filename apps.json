@@ -20,6 +20,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/432hz-player.png"
   },
   {
+    "packageName": "7zip",
+    "description": "7-Zip is a file archiver with a high compression ratio...",
+    "icon": "https://portable-linux-apps.github.io/icons/7zip.png"
+  },
+  {
     "packageName": "86box",
     "description": "Emulator of x86-based machines based on PCem...",
     "icon": "https://portable-linux-apps.github.io/icons/86box.png"
@@ -403,6 +408,11 @@
     "packageName": "archimage-cli",
     "description": "Build AppImage packages using JuNest (Arch Linux)...",
     "icon": "https://portable-linux-apps.github.io/icons/archimage-cli.png"
+  },
+  {
+    "packageName": "archimede",
+    "description": "Unobtrusive directory information fetcher...",
+    "icon": "https://portable-linux-apps.github.io/icons/archimede.png"
   },
   {
     "packageName": "archipelago",
@@ -1093,6 +1103,11 @@
     "packageName": "bulkurlopener",
     "description": "Desktop version of the Bulk URL Opener extension...",
     "icon": "https://portable-linux-apps.github.io/icons/bulkurlopener.png"
+  },
+  {
+    "packageName": "bunnyfetch",
+    "description": "A small and fast tool for getting info about your system...",
+    "icon": "https://portable-linux-apps.github.io/icons/bunnyfetch.png"
   },
   {
     "packageName": "bunqdesktop",
@@ -2008,6 +2023,11 @@
     "packageName": "deemix-gui-appimage",
     "description": "A gui electron app for the deemix lib...",
     "icon": "https://portable-linux-apps.github.io/icons/deemix-gui-appimage.png"
+  },
+  {
+    "packageName": "deeplx",
+    "description": "DeepL Free API (No TOKEN required)...",
+    "icon": "https://portable-linux-apps.github.io/icons/deeplx.png"
   },
   {
     "packageName": "deeptags",
@@ -3180,6 +3200,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/freecad.png"
   },
   {
+    "packageName": "freefilesync",
+    "description": "folder comparison and synchronization software...",
+    "icon": "https://portable-linux-apps.github.io/icons/freefilesync.png"
+  },
+  {
     "packageName": "freeman",
     "description": "A free, extensible, cross-platform file manager for power users...",
     "icon": "https://portable-linux-apps.github.io/icons/freeman.png"
@@ -3203,6 +3228,11 @@
     "packageName": "freezer-appimage",
     "description": "An unofficial client for Deezer...",
     "icon": "https://portable-linux-apps.github.io/icons/freezer-appimage.png"
+  },
+  {
+    "packageName": "freshfetch",
+    "description": "An alternative to Neofetch in Rust with a focus on customization...",
+    "icon": "https://portable-linux-apps.github.io/icons/freshfetch.png"
   },
   {
     "packageName": "friction",
@@ -4540,6 +4570,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/kmines.png"
   },
   {
+    "packageName": "kmon",
+    "description": "Linux Kernel Manager and Activity Monitor...",
+    "icon": "https://portable-linux-apps.github.io/icons/kmon.png"
+  },
+  {
     "packageName": "knavalbattle",
     "description": "Battle Ship game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/knavalbattle.png"
@@ -4725,6 +4760,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/langly.png"
   },
   {
+    "packageName": "lan-mouse",
+    "description": "Mouse & keyboard sharing via LAN...",
+    "icon": "https://portable-linux-apps.github.io/icons/lan-mouse.png"
+  },
+  {
     "packageName": "lanshare",
     "description": "LAN file transfer app for any kind and size of files and folders...",
     "icon": "https://portable-linux-apps.github.io/icons/lanshare.png"
@@ -4846,48 +4886,8 @@
   },
   {
     "packageName": "libreoffice",
-    "description": "Free and open source Office suite (choose a version)...",
+    "description": "Free and powerful office suite, and a successor to OpenOffice...",
     "icon": "https://portable-linux-apps.github.io/icons/libreoffice.png"
-  },
-  {
-    "packageName": "libreoffice-fresh-full-help",
-    "description": "Office suite (includes manuals)...",
-    "icon": "https://portable-linux-apps.github.io/icons/libreoffice-fresh-full-help.png"
-  },
-  {
-    "packageName": "libreoffice-fresh-full",
-    "description": "Office suite (latest, includes all languages)...",
-    "icon": "https://portable-linux-apps.github.io/icons/libreoffice-fresh-full.png"
-  },
-  {
-    "packageName": "libreoffice-fresh-standard-help",
-    "description": "Office suite (includes manuals)...",
-    "icon": "https://portable-linux-apps.github.io/icons/libreoffice-fresh-standard-help.png"
-  },
-  {
-    "packageName": "libreoffice-fresh-standard",
-    "description": "Office suite (latest, european languages only)...",
-    "icon": "https://portable-linux-apps.github.io/icons/libreoffice-fresh-standard.png"
-  },
-  {
-    "packageName": "libreoffice-still-full-help",
-    "description": "Office suite (includes manuals)...",
-    "icon": "https://portable-linux-apps.github.io/icons/libreoffice-still-full-help.png"
-  },
-  {
-    "packageName": "libreoffice-still-full",
-    "description": "Office suite (stable, includes all languages)...",
-    "icon": "https://portable-linux-apps.github.io/icons/libreoffice-still-full.png"
-  },
-  {
-    "packageName": "libreoffice-still-standard-help",
-    "description": "Office suite (includes manuals)...",
-    "icon": "https://portable-linux-apps.github.io/icons/libreoffice-still-standard-help.png"
-  },
-  {
-    "packageName": "libreoffice-still-standard",
-    "description": "Office suite (stable, european languages only)...",
-    "icon": "https://portable-linux-apps.github.io/icons/libreoffice-still-standard.png"
   },
   {
     "packageName": "librepcb",
@@ -5098,6 +5098,11 @@
     "packageName": "lxtask",
     "description": "A lightweight and desktop-independent task manager...",
     "icon": "https://portable-linux-apps.github.io/icons/lxtask.png"
+  },
+  {
+    "packageName": "macchina",
+    "description": "A system information frontend with an emphasis on performance...",
+    "icon": "https://portable-linux-apps.github.io/icons/macchina.png"
   },
   {
     "packageName": "magento2-upgrade-gui",
@@ -5625,6 +5630,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/mp3-tagger-appimage.png"
   },
   {
+    "packageName": "mp4grep",
+    "description": "CLI for transcribing and searching audio/video files...",
+    "icon": "https://portable-linux-apps.github.io/icons/mp4grep.png"
+  },
+  {
     "packageName": "mpv",
     "description": "A free, open source, and cross-platform media player...",
     "icon": "https://portable-linux-apps.github.io/icons/mpv.png"
@@ -5913,6 +5923,11 @@
     "packageName": "nimbus-weather",
     "description": "A beautiful weather app built using the Dark Sky API...",
     "icon": "https://portable-linux-apps.github.io/icons/nimbus-weather.png"
+  },
+  {
+    "packageName": "nitch",
+    "description": "Incredibly fast system fetch written in nim...",
+    "icon": "https://portable-linux-apps.github.io/icons/nitch.png"
   },
   {
     "packageName": "nitrokey",
@@ -7373,6 +7388,11 @@
     "packageName": "qrop",
     "description": "Crop planning and recordkeeping software...",
     "icon": "https://portable-linux-apps.github.io/icons/qrop.png"
+  },
+  {
+    "packageName": "qrscan",
+    "description": "Scan a QR code in the terminal using the system camera or an image...",
+    "icon": "https://portable-linux-apps.github.io/icons/qrscan.png"
   },
   {
     "packageName": "qsdrswr",
@@ -8900,6 +8920,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/szyszka.png"
   },
   {
+    "packageName": "tabby",
+    "description": "A terminal for a more modern age..",
+    "icon": "https://portable-linux-apps.github.io/icons/tabby.png"
+  },
+  {
     "packageName": "tablo-tools",
     "description": "Tools to Bulk Delete and Export from Tablo DVR...",
     "icon": "https://portable-linux-apps.github.io/icons/tablo-tools.png"
@@ -8983,6 +9008,11 @@
     "packageName": "tesseract",
     "description": "Tesseract Open Source OCR Engine AppImage...",
     "icon": "https://portable-linux-apps.github.io/icons/tesseract.png"
+  },
+  {
+    "packageName": "testdisk",
+    "description": "TestDisk & PhotoRec, tools to recover lost partitions and files...",
+    "icon": "https://portable-linux-apps.github.io/icons/testdisk.png"
   },
   {
     "packageName": "texmacs",
@@ -9295,6 +9325,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ttth.png"
   },
   {
+    "packageName": "ttyper",
+    "description": "Terminal-based typing test...",
+    "icon": "https://portable-linux-apps.github.io/icons/ttyper.png"
+  },
+  {
     "packageName": "tulip",
     "description": "Large graphs analysis, drawing and visualization framework...",
     "icon": "https://portable-linux-apps.github.io/icons/tulip.png"
@@ -9503,6 +9538,11 @@
     "packageName": "utilso",
     "description": "Regex Tester, JWT Verify, Image Converter, Format JSON, Decode.....",
     "icon": "https://portable-linux-apps.github.io/icons/utilso.png"
+  },
+  {
+    "packageName": "uwufetch",
+    "description": "A meme system info tool for Linux, based on nyan/uwu trend...",
+    "icon": "https://portable-linux-apps.github.io/icons/uwufetch.png"
   },
   {
     "packageName": "uyou",
