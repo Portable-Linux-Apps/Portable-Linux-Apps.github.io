@@ -4800,6 +4800,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/lanshare.png"
   },
   {
+    "packageName": "lapce",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/lapce.png"
+  },
+  {
     "packageName": "laravel-kit",
     "description": "Easy Laravel application management...",
     "icon": "https://portable-linux-apps.github.io/icons/laravel-kit.png"
@@ -5873,6 +5878,11 @@
     "packageName": "nepaliunicode",
     "description": "An Unicode Converter app for Windows, OS X and Linux...",
     "icon": "https://portable-linux-apps.github.io/icons/nepaliunicode.png"
+  },
+  {
+    "packageName": "nerdfetch",
+    "description": "A POSIX *nix fetch script using Nerdfonts...",
+    "icon": "https://portable-linux-apps.github.io/icons/nerdfetch.png"
   },
   {
     "packageName": "nest-desktop",
@@ -8538,6 +8548,11 @@
     "packageName": "spotify",
     "description": "A proprietary music streaming service (from Arch User Repository)...",
     "icon": "https://portable-linux-apps.github.io/icons/spotify.png"
+  },
+  {
+    "packageName": "spotify-player",
+    "description": "A Spotify player in the terminal with full feature parity...",
+    "icon": "https://portable-linux-apps.github.io/icons/spotify-player.png"
   },
   {
     "packageName": "spotify-tui",
