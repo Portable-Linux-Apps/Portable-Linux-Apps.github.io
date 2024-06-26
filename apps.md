@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2107** *Appimage packages and standalone applications*.
+#### *This database contains* **2108** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1482,6 +1482,7 @@
 | <img src="icons/qelectrotech.png" width="48" height="48"> | [***qelectrotech***](apps/qelectrotech.md) | *Edit electrical diagrams.*..[ *read more* ](apps/qelectrotech.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qelectrotech) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qelectrotech) |
 | <img src="icons/qemu-appimage.png" width="48" height="48"> | [***qemu-appimage***](apps/qemu-appimage.md) | *Prove of the concept to run a virtual machine from Appimage.*..[ *read more* ](apps/qemu-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qemu-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qemu-appimage) |
 | <img src="icons/qemu-ppc.png" width="48" height="48"> | [***qemu-ppc***](apps/qemu-ppc.md) | *Run PowerPC operating systems on 64-bit Intel Linux hosts.*..[ *read more* ](apps/qemu-ppc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qemu-ppc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qemu-ppc) |
+| <img src="icons/qflipper.png" width="48" height="48"> | [***qflipper***](apps/qflipper.md) | *Flipper Zero multitool for pentesters and geeks in a toy-like body.*..[ *read more* ](apps/qflipper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qflipper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qflipper) |
 | <img src="icons/qfsm.png" width="48" height="48"> | [***qfsm***](apps/qfsm.md) | *Qt Finite State Machine Designer.*..[ *read more* ](apps/qfsm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qfsm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qfsm) |
 | <img src="icons/qgroundcontrol-appimage.png" width="48" height="48"> | [***qgroundcontrol-appimage***](apps/qgroundcontrol-appimage.md) | *Ground control for unmanned vehicles.*..[ *read more* ](apps/qgroundcontrol-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qgroundcontrol-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qgroundcontrol-appimage) |
 | <img src="icons/qikqr.png" width="48" height="48"> | [***qikqr***](apps/qikqr.md) | *Minimal desktop app to create QR codes.*..[ *read more* ](apps/qikqr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qikqr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qikqr) |

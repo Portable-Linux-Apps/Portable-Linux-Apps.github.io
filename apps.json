@@ -7345,6 +7345,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/qemu-ppc.png"
   },
   {
+    "packageName": "qflipper",
+    "description": "Flipper Zero multitool for pentesters and geeks in a toy-like body...",
+    "icon": "https://portable-linux-apps.github.io/icons/qflipper.png"
+  },
+  {
     "packageName": "qfsm",
     "description": "Qt Finite State Machine Designer...",
     "icon": "https://portable-linux-apps.github.io/icons/qfsm.png"
