@@ -85,6 +85,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ai-bot-workspace.png"
   },
   {
+    "packageName": "aichat",
+    "description": "AIO AI CLI tool integrating 20+ AI platforms, including OpenAI...",
+    "icon": "https://portable-linux-apps.github.io/icons/aichat.png"
+  },
+  {
     "packageName": "aillio-ts",
     "description": "The desktop application for Aillio Bullet R1...",
     "icon": "https://portable-linux-apps.github.io/icons/aillio-ts.png"
@@ -228,6 +233,11 @@
     "packageName": "aniship",
     "description": "Allows for easy viewing of anime on PCs and laptops...",
     "icon": "https://portable-linux-apps.github.io/icons/aniship.png"
+  },
+  {
+    "packageName": "anki",
+    "description": "Anki's shared backend and web components, and the Qt frontend...",
+    "icon": "https://portable-linux-apps.github.io/icons/anki.png"
   },
   {
     "packageName": "anklang-appimage",
@@ -908,6 +918,11 @@
     "packageName": "bodhi",
     "description": "Bodhi Prediction Market app...",
     "icon": "https://portable-linux-apps.github.io/icons/bodhi.png"
+  },
+  {
+    "packageName": "boilr",
+    "description": "Synchronize games from other platforms into your Steam library...",
+    "icon": "https://portable-linux-apps.github.io/icons/boilr.png"
   },
   {
     "packageName": "bomber",
@@ -1900,6 +1915,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ctool.png"
   },
   {
+    "packageName": "ctop",
+    "description": "Top-like interface for container metrics...",
+    "icon": "https://portable-linux-apps.github.io/icons/ctop.png"
+  },
+  {
     "packageName": "cubicsdr",
     "description": "Software-Defined Radio Application...",
     "icon": "https://portable-linux-apps.github.io/icons/cubicsdr.png"
@@ -1978,6 +1998,11 @@
     "packageName": "dawnlightsearch",
     "description": "A Linux version of Everything Search Engine...",
     "icon": "https://portable-linux-apps.github.io/icons/dawnlightsearch.png"
+  },
+  {
+    "packageName": "dbee",
+    "description": "Fast & Minimalistic Database Browser...",
+    "icon": "https://portable-linux-apps.github.io/icons/dbee.png"
   },
   {
     "packageName": "dbet-wallet",
@@ -2153,6 +2178,11 @@
     "packageName": "discord-qt-appimage",
     "description": "Discord client powered by Node.JS and Qt Widgets...",
     "icon": "https://portable-linux-apps.github.io/icons/discord-qt-appimage.png"
+  },
+  {
+    "packageName": "dissent",
+    "description": "Tiny native Discord app...",
+    "icon": "https://portable-linux-apps.github.io/icons/dissent.png"
   },
   {
     "packageName": "dockstation",
@@ -5320,6 +5350,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/melodie.png"
   },
   {
+    "packageName": "melonds",
+    "description": "DS emulator, sorta...",
+    "icon": "https://portable-linux-apps.github.io/icons/melonds.png"
+  },
+  {
     "packageName": "memento",
     "description": "A video player for studying Japanese...",
     "icon": "https://portable-linux-apps.github.io/icons/memento.png"
@@ -6165,6 +6200,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ocvwarp.png"
   },
   {
+    "packageName": "odicto",
+    "description": "An offline English dictionary app for desktop...",
+    "icon": "https://portable-linux-apps.github.io/icons/odicto.png"
+  },
+  {
     "packageName": "oh-mymd",
     "description": "A markdown editor,support cloud sync...",
     "icon": "https://portable-linux-apps.github.io/icons/oh-mymd.png"
@@ -6613,6 +6653,11 @@
     "packageName": "pdf2htmlex-appimage",
     "description": "Convert PDF to HTML without losing text or format...",
     "icon": "https://portable-linux-apps.github.io/icons/pdf2htmlex-appimage.png"
+  },
+  {
+    "packageName": "pdf4qt",
+    "description": "Open source PDF editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/pdf4qt.png"
   },
   {
     "packageName": "pdfquirk",
@@ -7830,6 +7875,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/rustdesk.png"
   },
   {
+    "packageName": "rustdict",
+    "description": "A dictionary CLI tool in Rust inspired by BetaPictoris's dict...",
+    "icon": "https://portable-linux-apps.github.io/icons/rustdict.png"
+  },
+  {
     "packageName": "rx-bin",
     "description": "A modern and extensible pixel editor implemented in Rust...",
     "icon": "https://portable-linux-apps.github.io/icons/rx-bin.png"
@@ -8600,6 +8650,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/steam.png"
   },
   {
+    "packageName": "steam-tui",
+    "description": "Rust TUI client for steamcmd...",
+    "icon": "https://portable-linux-apps.github.io/icons/steam-tui.png"
+  },
+  {
     "packageName": "steem-messenger",
     "description": "Messer for Steem...",
     "icon": "https://portable-linux-apps.github.io/icons/steem-messenger.png"
@@ -9030,6 +9085,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/textosaurus.png"
   },
   {
+    "packageName": "tgpt",
+    "description": "AI Chatbots in terminal without needing API keys...",
+    "icon": "https://portable-linux-apps.github.io/icons/tgpt.png"
+  },
+  {
     "packageName": "thedesk",
     "description": "Mastodon Client for PC...",
     "icon": "https://portable-linux-apps.github.io/icons/thedesk.png"
@@ -9308,6 +9368,11 @@
     "packageName": "tropy",
     "description": "Research photo management...",
     "icon": "https://portable-linux-apps.github.io/icons/tropy.png"
+  },
+  {
+    "packageName": "tssh",
+    "description": "trzsz-ssh is an alternative to ssh client, offers additional features...",
+    "icon": "https://portable-linux-apps.github.io/icons/tssh.png"
   },
   {
     "packageName": "tt",
@@ -10085,6 +10150,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/wiznoteplus.png"
   },
   {
+    "packageName": "wkp",
+    "description": "A CLI tool designed to fetch Wikipedia excerpts written in Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/wkp.png"
+  },
+  {
     "packageName": "wnr",
     "description": "Work/Rest Timer. Stricter. Prettier. More features...",
     "icon": "https://portable-linux-apps.github.io/icons/wnr.png"
@@ -10393,6 +10463,11 @@
     "packageName": "zettlr",
     "description": "A Markdown Editor for the 21st century...",
     "icon": "https://portable-linux-apps.github.io/icons/zettlr.png"
+  },
+  {
+    "packageName": "zfxtop",
+    "description": "[WIP] fetch top for gen Z with X written by bubbletea enjoyer...",
+    "icon": "https://portable-linux-apps.github.io/icons/zfxtop.png"
   },
   {
     "packageName": "zmninja",
