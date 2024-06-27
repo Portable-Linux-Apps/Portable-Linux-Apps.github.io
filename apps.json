@@ -4250,6 +4250,41 @@
     "icon": "https://portable-linux-apps.github.io/icons/jazz2.png"
   },
   {
+    "packageName": "jdappstreamedit",
+    "description": "A graphical Program to create and edit AppStream files...",
+    "icon": "https://portable-linux-apps.github.io/icons/jdappstreamedit.png"
+  },
+  {
+    "packageName": "jddesktopentryedit",
+    "description": "A graphical Program to create and edit Desktop Entries...",
+    "icon": "https://portable-linux-apps.github.io/icons/jddesktopentryedit.png"
+  },
+  {
+    "packageName": "jdminecraftlauncher",
+    "description": "Unofficial classic styled Minecraft Launcher...",
+    "icon": "https://portable-linux-apps.github.io/icons/jdminecraftlauncher.png"
+  },
+  {
+    "packageName": "jdmrpackinstaller",
+    "description": "Install Modrinth modpacks...",
+    "icon": "https://portable-linux-apps.github.io/icons/jdmrpackinstaller.png"
+  },
+  {
+    "packageName": "jdnbtexplorer",
+    "description": "A Editor for Minecraft NBT files...",
+    "icon": "https://portable-linux-apps.github.io/icons/jdnbtexplorer.png"
+  },
+  {
+    "packageName": "jdreplace",
+    "description": "With jdReplace you can replace a text in all files of a directory...",
+    "icon": "https://portable-linux-apps.github.io/icons/jdreplace.png"
+  },
+  {
+    "packageName": "jdtextedit",
+    "description": "jdTextEdit is a powerful texteditor with a lot of features...",
+    "icon": "https://portable-linux-apps.github.io/icons/jdtextedit.png"
+  },
+  {
     "packageName": "jellyamp-appimage",
     "description": "A client for listening to music from a Jellyfin server...",
     "icon": "https://portable-linux-apps.github.io/icons/jellyamp-appimage.png"
