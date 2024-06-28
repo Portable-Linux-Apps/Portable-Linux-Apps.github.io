@@ -10,7 +10,7 @@
  video game console platforms, and is operated by Skype Technologies, a 
  division of Microsoft.
  
- This is the Unofficial AppImage built from the official .deb package.
+ This is the Unofficial AppImage built from the official Snap package.
  
  ![Screenshot](https://www.addictivetips.com/app/uploads/2018/02/skype1.png)
  
