@@ -675,11 +675,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/bdash.png"
   },
   {
-    "packageName": "beaker-ng",
-    "description": "An experimental peer-to-peer Web browser...",
-    "icon": "https://portable-linux-apps.github.io/icons/beaker-ng.png"
-  },
-  {
     "packageName": "beam-wallet",
     "description": "Beam Desktop Wallet...",
     "icon": "https://portable-linux-apps.github.io/icons/beam-wallet.png"

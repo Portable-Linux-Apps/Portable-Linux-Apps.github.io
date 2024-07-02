@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2119** *Appimage packages and standalone applications*.
+#### *This database contains* **2118** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -148,7 +148,6 @@
 | <img src="icons/bazecor.png" width="48" height="48"> | [***bazecor***](apps/bazecor.md) | *Graphical configurator for Dygma Raise.*..[ *read more* ](apps/bazecor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bazecor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bazecor) |
 | <img src="icons/bbg-appimage.png" width="48" height="48"> | [***bbg-appimage***](apps/bbg-appimage.md) | *A static blog generator based on Electron Technology.*..[ *read more* ](apps/bbg-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bbg-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bbg-appimage) |
 | <img src="icons/bdash.png" width="48" height="48"> | [***bdash***](apps/bdash.md) | *A simple business intelligence application.*..[ *read more* ](apps/bdash.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bdash) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bdash) |
-| <img src="icons/beaker-ng.png" width="48" height="48"> | [***beaker-ng***](apps/beaker-ng.md) | *An experimental peer-to-peer Web browser.*..[ *read more* ](apps/beaker-ng.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beaker-ng) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beaker-ng) |
 | <img src="icons/beam-wallet.png" width="48" height="48"> | [***beam-wallet***](apps/beam-wallet.md) | *Beam Desktop Wallet.*..[ *read more* ](apps/beam-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beam-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beam-wallet) |
 | <img src="icons/beatconnect-client.png" width="48" height="48"> | [***beatconnect-client***](apps/beatconnect-client.md) | *Beatconnect power for osu irc.*..[ *read more* ](apps/beatconnect-client.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beatconnect-client) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beatconnect-client) |
 | <img src="icons/beekeeper-studio.png" width="48" height="48"> | [***beekeeper-studio***](apps/beekeeper-studio.md) | *SQL query editor and database UI.*..[ *read more* ](apps/beekeeper-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beekeeper-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beekeeper-studio) |
