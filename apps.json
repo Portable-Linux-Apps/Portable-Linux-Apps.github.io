@@ -4420,6 +4420,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/kaidan.png"
   },
   {
+    "packageName": "kajongg",
+    "description": "An ancient Chinese board game for 4 players (installs kdegames)...",
+    "icon": "https://portable-linux-apps.github.io/icons/kajongg.png"
+  },
+  {
     "packageName": "kanon",
     "description": "Maturita GPJP designed for use with kanon web app...",
     "icon": "https://portable-linux-apps.github.io/icons/kanon.png"
