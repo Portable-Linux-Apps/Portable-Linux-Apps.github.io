@@ -335,11 +335,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/appimagehelper.png"
   },
   {
-    "packageName": "appimagekit",
-    "description": "Install appimagetool, appimageupdatetool and pkg2appimage...",
-    "icon": "https://portable-linux-apps.github.io/icons/appimagekit.png"
-  },
-  {
     "packageName": "appimagelauncher",
     "description": "CLI helper for running and integrating AppImages...",
     "icon": "https://portable-linux-apps.github.io/icons/appimagelauncher.png"
@@ -7938,11 +7933,6 @@
     "packageName": "ryowallet",
     "description": "Modern GUI interface for Ryo Currency...",
     "icon": "https://portable-linux-apps.github.io/icons/ryowallet.png"
-  },
-  {
-    "packageName": "ryujinx-appimage",
-    "description": "Unofficial AppImage of the Ryujinx emulator...",
-    "icon": "https://portable-linux-apps.github.io/icons/ryujinx-appimage.png"
   },
   {
     "packageName": "ryujinx",
