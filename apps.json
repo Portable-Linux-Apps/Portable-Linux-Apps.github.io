@@ -170,6 +170,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/amazingmarvin-appimage.png"
   },
   {
+    "packageName": "ambermoon.net",
+    "description": "Ambermoon rewrite in C#...",
+    "icon": "https://portable-linux-apps.github.io/icons/ambermoon.net.png"
+  },
+  {
     "packageName": "amdgpu_top",
     "description": "Tool to display AMDGPU usage...",
     "icon": "https://portable-linux-apps.github.io/icons/amdgpu_top.png"
@@ -755,6 +760,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/billyfrontier.png"
   },
   {
+    "packageName": "bin",
+    "description": "Effortless binary manager...",
+    "icon": "https://portable-linux-apps.github.io/icons/bin.png"
+  },
+  {
     "packageName": "bingada",
     "description": "Bingo application in GTKAda...",
     "icon": "https://portable-linux-apps.github.io/icons/bingada.png"
@@ -798,6 +808,11 @@
     "packageName": "biying",
     "description": "Biying Wallpaper for Linux...",
     "icon": "https://portable-linux-apps.github.io/icons/biying.png"
+  },
+  {
+    "packageName": "bk",
+    "description": "Terminal Epub reader...",
+    "icon": "https://portable-linux-apps.github.io/icons/bk.png"
   },
   {
     "packageName": "black-chocobo",
@@ -893,6 +908,11 @@
     "packageName": "blueglow",
     "description": "A simple system tray application to watch github notifications...",
     "icon": "https://portable-linux-apps.github.io/icons/blueglow.png"
+  },
+  {
+    "packageName": "bluetuith",
+    "description": "A TUI bluetooth manager for Linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/bluetuith.png"
   },
   {
     "packageName": "boardgamestar",
@@ -1000,29 +1020,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/brainwaves.png"
   },
   {
-    "packageName": "brave-appimage",
-    "description": "Unofficial AppImage (Web Browser, Stable)...",
-    "icon": "https://portable-linux-apps.github.io/icons/brave-appimage.png"
-  },
-  {
     "packageName": "brave",
     "description": "A privacy oriented Web Browser based on Chromium (Stable)...",
     "icon": "https://portable-linux-apps.github.io/icons/brave.png"
   },
   {
-    "packageName": "brave-beta-appimage",
-    "description": "Unofficial AppImage (Web Browser, Beta Edition)...",
-    "icon": "https://portable-linux-apps.github.io/icons/brave-beta-appimage.png"
-  },
-  {
     "packageName": "brave-beta",
     "description": "A privacy oriented Web Browser (Beta Edition)...",
     "icon": "https://portable-linux-apps.github.io/icons/brave-beta.png"
-  },
-  {
-    "packageName": "brave-nightly-appimage",
-    "description": "Unofficial AppImage (Web Browser, Nightly Edition)...",
-    "icon": "https://portable-linux-apps.github.io/icons/brave-nightly-appimage.png"
   },
   {
     "packageName": "brave-nightly",
@@ -3155,6 +3160,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/foobar2000.png"
   },
   {
+    "packageName": "forkgram",
+    "description": "Fork of Telegram Desktop messaging app...",
+    "icon": "https://portable-linux-apps.github.io/icons/forkgram.png"
+  },
+  {
     "packageName": "four",
     "description": "Electron App to access All4/Channel4 (UK)...",
     "icon": "https://portable-linux-apps.github.io/icons/four.png"
@@ -4415,6 +4425,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/kajongg.png"
   },
   {
+    "packageName": "kalker",
+    "description": "Scientific calculator with math syntax for user-defined variables...",
+    "icon": "https://portable-linux-apps.github.io/icons/kalker.png"
+  },
+  {
     "packageName": "kanon",
     "description": "Maturita GPJP designed for use with kanon web app...",
     "icon": "https://portable-linux-apps.github.io/icons/kanon.png"
@@ -5405,6 +5420,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/mendeley.png"
   },
   {
+    "packageName": "menyoki",
+    "description": "Screen{shot,cast} and perform ImageOps on the command line...",
+    "icon": "https://portable-linux-apps.github.io/icons/menyoki.png"
+  },
+  {
     "packageName": "meow-sql",
     "description": "An attempt to port HeidiSQL to C++/Qt (Linux/Windows)...",
     "icon": "https://portable-linux-apps.github.io/icons/meow-sql.png"
@@ -6018,6 +6038,11 @@
     "packageName": "nmeasimulator",
     "description": "NMEA sentence generator utility to broadcast via TCP...",
     "icon": "https://portable-linux-apps.github.io/icons/nmeasimulator.png"
+  },
+  {
+    "packageName": "nnn",
+    "description": "n³ The unorthodox terminal file manager..",
+    "icon": "https://portable-linux-apps.github.io/icons/nnn.png"
   },
   {
     "packageName": "nodeflow",
@@ -8070,6 +8095,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/scytale.png"
   },
   {
+    "packageName": "sd",
+    "description": "Intuitive find & replace CLI (sed alternative)..",
+    "icon": "https://portable-linux-apps.github.io/icons/sd.png"
+  },
+  {
     "packageName": "selenium-ide",
     "description": "Open Source record and playback test automation for the web...",
     "icon": "https://portable-linux-apps.github.io/icons/selenium-ide.png"
@@ -8328,6 +8358,11 @@
     "packageName": "skrooge",
     "description": "A personal finances manager, powered by KDE...",
     "icon": "https://portable-linux-apps.github.io/icons/skrooge.png"
+  },
+  {
+    "packageName": "skyemu",
+    "description": "Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/skyemu.png"
   },
   {
     "packageName": "skype",
