@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2116** *Appimage packages and standalone applications*.
+#### *This database contains* **2117** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -2099,6 +2099,7 @@
 | <img src="icons/yesplaymusic.png" width="48" height="48"> | [***yesplaymusic***](apps/yesplaymusic.md) | *A third party music player for Netease Music.*..[ *read more* ](apps/yesplaymusic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yesplaymusic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yesplaymusic) |
 | <img src="icons/youtube-music.png" width="48" height="48"> | [***youtube-music***](apps/youtube-music.md) | *Amazing electron wrapper for YouTube Music featuring plugins.*..[ *read more* ](apps/youtube-music.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtube-music) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtube-music) |
 | <img src="icons/youtubesearchfilter.png" width="48" height="48"> | [***youtubesearchfilter***](apps/youtubesearchfilter.md) | *YouTube searches with/without a pre-filter from CLI.*..[ *read more* ](apps/youtubesearchfilter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtubesearchfilter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtubesearchfilter) |
+| <img src="icons/yt-dlg.png" width="48" height="48"> | [***yt-dlg***](apps/yt-dlg.md) | *A front-end GUI of the popular youtube-dl written in wxPython.*..[ *read more* ](apps/yt-dlg.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yt-dlg) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yt-dlg) |
 | <img src="icons/yt-dlp.png" width="48" height="48"> | [***yt-dlp***](apps/yt-dlp.md) | *A feature-rich command-line audio/video downloader.*..[ *read more* ](apps/yt-dlp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yt-dlp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yt-dlp) |
 | <img src="icons/ytdownloader.png" width="48" height="48"> | [***ytdownloader***](apps/ytdownloader.md) | *App for downloading Videos and Audios from hundreds of sites.*..[ *read more* ](apps/ytdownloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ytdownloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ytdownloader) |
 | <img src="icons/ytmdesktop.png" width="48" height="48"> | [***ytmdesktop***](apps/ytmdesktop.md) | *A Desktop App for YouTube Music.*..[ *read more* ](apps/ytmdesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ytmdesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ytmdesktop) |

@@ -10430,6 +10430,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/youtubesearchfilter.png"
   },
   {
+    "packageName": "yt-dlg",
+    "description": "A front-end GUI of the popular youtube-dl written in wxPython...",
+    "icon": "https://portable-linux-apps.github.io/icons/yt-dlg.png"
+  },
+  {
     "packageName": "yt-dlp",
     "description": "A feature-rich command-line audio/video downloader...",
     "icon": "https://portable-linux-apps.github.io/icons/yt-dlp.png"
