@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2124** *Appimage packages and standalone applications*.
+#### *This database contains* **2127** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -2099,6 +2099,9 @@
 | <img src="icons/xplorer.png" width="48" height="48"> | [***xplorer***](apps/xplorer.md) | *Xplorer, a customizable, modern file manager.*..[ *read more* ](apps/xplorer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xplorer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xplorer) |
 | <img src="icons/xxh-appimage.png" width="48" height="48"> | [***xxh-appimage***](apps/xxh-appimage.md) | *Bring your favorite shell wherever you go through the ssh.*..[ *read more* ](apps/xxh-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xxh-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xxh-appimage) |
 | <img src="icons/yana.png" width="48" height="48"> | [***yana***](apps/yana.md) | *Note-taking app with nested documents, text search/editor, code...*..[ *read more* ](apps/yana.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yana) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yana) |
+| <img src="icons/yandex-browser-beta.png" width="48" height="48"> | [***yandex-browser-beta***](apps/yandex-browser-beta.md) | *Unofficial Yandex Browser AppImage (Beta).*..[ *read more* ](apps/yandex-browser-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yandex-browser-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yandex-browser-beta) |
+| <img src="icons/yandex-browser-corporate.png" width="48" height="48"> | [***yandex-browser-corporate***](apps/yandex-browser-corporate.md) | *Unofficial Yandex Browser AppImage (Corporate).*..[ *read more* ](apps/yandex-browser-corporate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yandex-browser-corporate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yandex-browser-corporate) |
+| <img src="icons/yandex-browser.png" width="48" height="48"> | [***yandex-browser***](apps/yandex-browser.md) | *Unofficial Yandex Browser AppImage (Stable).*..[ *read more* ](apps/yandex-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yandex-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yandex-browser) |
 | <img src="icons/yangdownloader-appimage.png" width="48" height="48"> | [***yangdownloader-appimage***](apps/yangdownloader-appimage.md) | *Downloads best-quality audio and video from YouTube.*..[ *read more* ](apps/yangdownloader-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yangdownloader-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yangdownloader-appimage) |
 | <img src="icons/yank-note.png" width="48" height="48"> | [***yank-note***](apps/yank-note.md) | *A Hackable Markdown Note Application for Programmers.*..[ *read more* ](apps/yank-note.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yank-note) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yank-note) |
 | <img src="icons/yaya.png" width="48" height="48"> | [***yaya***](apps/yaya.md) | *Yet Another Yahtzee-esque Application.*..[ *read more* ](apps/yaya.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yaya) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yaya) |

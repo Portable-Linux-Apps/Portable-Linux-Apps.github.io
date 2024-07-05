@@ -10430,6 +10430,21 @@
     "icon": "https://portable-linux-apps.github.io/icons/yana.png"
   },
   {
+    "packageName": "yandex-browser-beta",
+    "description": "Unofficial Yandex Browser AppImage (Beta)...",
+    "icon": "https://portable-linux-apps.github.io/icons/yandex-browser-beta.png"
+  },
+  {
+    "packageName": "yandex-browser-corporate",
+    "description": "Unofficial Yandex Browser AppImage (Corporate)...",
+    "icon": "https://portable-linux-apps.github.io/icons/yandex-browser-corporate.png"
+  },
+  {
+    "packageName": "yandex-browser",
+    "description": "Unofficial Yandex Browser AppImage (Stable). ..",
+    "icon": "https://portable-linux-apps.github.io/icons/yandex-browser.png"
+  },
+  {
     "packageName": "yangdownloader-appimage",
     "description": "Downloads best-quality audio and video from YouTube...",
     "icon": "https://portable-linux-apps.github.io/icons/yangdownloader-appimage.png"
