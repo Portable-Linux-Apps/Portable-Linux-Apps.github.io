@@ -165,9 +165,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/alvr-appimage.png"
   },
   {
-    "packageName": "amazingmarvin-appimage",
+    "packageName": "amazingmarvin",
     "description": "Incorporates principles from behavioral psychology...",
-    "icon": "https://portable-linux-apps.github.io/icons/amazingmarvin-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/amazingmarvin.png"
   },
   {
     "packageName": "ambermoon.net",
@@ -3438,11 +3438,6 @@
     "packageName": "gifcurry",
     "description": "The open-source, Haskell-built video editor for GIF makers...",
     "icon": "https://portable-linux-apps.github.io/icons/gifcurry.png"
-  },
-  {
-    "packageName": "gimp-aferrero2707",
-    "description": "GNU Image Manipulation Program (version 2.10.25)...",
-    "icon": "https://portable-linux-apps.github.io/icons/gimp-aferrero2707.png"
   },
   {
     "packageName": "gimp-dev",
@@ -9890,11 +9885,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/vk-music-fs.png"
   },
   {
-    "packageName": "vlc-cmatomic",
-    "description": "Video player (version 3.0.11.1) build from source...",
-    "icon": "https://portable-linux-apps.github.io/icons/vlc-cmatomic.png"
-  },
-  {
     "packageName": "vlc",
     "description": "Free and Open Source Video & Media player for Audio, streaming and more...",
     "icon": "https://portable-linux-apps.github.io/icons/vlc.png"
@@ -9903,11 +9893,6 @@
     "packageName": "vlc-git",
     "description": "Free and Open Source Video & Media player (GIT version)...",
     "icon": "https://portable-linux-apps.github.io/icons/vlc-git.png"
-  },
-  {
-    "packageName": "vlc-icflorescu",
-    "description": "Video player (version 3.0.3) build from source...",
-    "icon": "https://portable-linux-apps.github.io/icons/vlc-icflorescu.png"
   },
   {
     "packageName": "vlc+",
@@ -10005,19 +9990,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/waterfox.png"
   },
   {
-    "packageName": "waterfox-classic-appimage",
-    "description": "Browse the World Wide Web (legacy UI)...",
-    "icon": "https://portable-linux-apps.github.io/icons/waterfox-classic-appimage.png"
-  },
-  {
-    "packageName": "waterfox-classic",
-    "description": "Browse the World Wide Web (legacy UI)...",
-    "icon": "https://portable-linux-apps.github.io/icons/waterfox-classic.png"
-  },
-  {
-    "packageName": "waterfox-g-appimage",
+    "packageName": "waterfox-appimage",
     "description": "Browse the World Wide Web (current version)...",
-    "icon": "https://portable-linux-apps.github.io/icons/waterfox-g-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/waterfox-appimage.png"
   },
   {
     "packageName": "wavebox",
@@ -10025,9 +10000,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/wavebox.png"
   },
   {
-    "packageName": "wazo-desktop-appimage",
+    "packageName": "wazo-desktop",
     "description": "Wazo desktop client for wazo VOIP server...",
-    "icon": "https://portable-linux-apps.github.io/icons/wazo-desktop-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/wazo-desktop.png"
   },
   {
     "packageName": "weakauras",
@@ -10043,11 +10018,6 @@
     "packageName": "webamp",
     "description": "Winamp Player 2.9 reimplementation in HTML5 and JS...",
     "icon": "https://portable-linux-apps.github.io/icons/webamp.png"
-  },
-  {
-    "packageName": "webcamoid",
-    "description": "A full featured and multiplatform webcam suite...",
-    "icon": "https://portable-linux-apps.github.io/icons/webcamoid.png"
   },
   {
     "packageName": "webcord",
@@ -10083,11 +10053,6 @@
     "packageName": "westeroscraftlauncher",
     "description": "Custom launcher for modded Minecraft (game)...",
     "icon": "https://portable-linux-apps.github.io/icons/westeroscraftlauncher.png"
-  },
-  {
-    "packageName": "wewechat++",
-    "description": "Make weweChat great again!!! 美丽的第三方微信PC客户端..",
-    "icon": "https://portable-linux-apps.github.io/icons/wewechat++.png"
   },
   {
     "packageName": "wewechat",
@@ -10150,29 +10115,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/windows95.png"
   },
   {
-    "packageName": "wine32",
-    "description": "Compatibility layer to run only 32-bit Windows programs (Stable)...",
-    "icon": "https://portable-linux-apps.github.io/icons/wine32.png"
-  },
-  {
     "packageName": "wine32-deploy",
     "description": "Tool for creating AppImages for 32-bit Microsoft Windows apps...",
     "icon": "https://portable-linux-apps.github.io/icons/wine32-deploy.png"
-  },
-  {
-    "packageName": "wine-4.21",
-    "description": "Appimage for Wine 32-bit you can run on no-multilib systems...",
-    "icon": "https://portable-linux-apps.github.io/icons/wine-4.21.png"
-  },
-  {
-    "packageName": "wine-5.11",
-    "description": "Appimage for Wine 32-bit you can run on no-multilib systems...",
-    "icon": "https://portable-linux-apps.github.io/icons/wine-5.11.png"
-  },
-  {
-    "packageName": "wine-6.0.1",
-    "description": "Appimage for Wine 32-bit you can run on no-multilib systems...",
-    "icon": "https://portable-linux-apps.github.io/icons/wine-6.0.1.png"
   },
   {
     "packageName": "wine-devel",
@@ -10220,9 +10165,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/wishdemo.png"
   },
   {
-    "packageName": "wiz",
-    "description": "Cloud based note-taking application...",
-    "icon": "https://portable-linux-apps.github.io/icons/wiz.png"
+    "packageName": "wiznote",
+    "description": "Create a powerful knowledge graph from personal notes to team wiki...",
+    "icon": "https://portable-linux-apps.github.io/icons/wiznote.png"
   },
   {
     "packageName": "wiznoteplus",
@@ -10250,9 +10195,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/wolai.png"
   },
   {
-    "packageName": "wonderpen-appimage",
+    "packageName": "wonderpen",
     "description": "A professional writing app with markdown support...",
-    "icon": "https://portable-linux-apps.github.io/icons/wonderpen-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/wonderpen.png"
   },
   {
     "packageName": "wonderwall",
@@ -10503,11 +10448,6 @@
     "packageName": "yubikey-manager",
     "description": "Configure your YubiKey over all USB transports...",
     "icon": "https://portable-linux-apps.github.io/icons/yubikey-manager.png"
-  },
-  {
-    "packageName": "yuna",
-    "description": "Anime player integrated with AniList, Crunchyroll, and Hidive...",
-    "icon": "https://portable-linux-apps.github.io/icons/yuna.png"
   },
   {
     "packageName": "yuview",
