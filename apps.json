@@ -4040,9 +4040,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/icalingua++.png"
   },
   {
-    "packageName": "icedrive-appimage",
+    "packageName": "icedrive",
     "description": "The next generation of cloud storage...",
-    "icon": "https://portable-linux-apps.github.io/icons/icedrive-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/icedrive.png"
   },
   {
     "packageName": "icestudio-appimage",
@@ -5370,14 +5370,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/mediainfo.png"
   },
   {
-    "packageName": "media-mate",
-    "description": "A full media server/player/downloader/etc all in one...",
-    "icon": "https://portable-linux-apps.github.io/icons/media-mate.png"
-  },
-  {
-    "packageName": "median-xl-launcher-appimage",
+    "packageName": "median-xl",
     "description": "Launcher for Median XL mod, Diablo II overhaul...",
-    "icon": "https://portable-linux-apps.github.io/icons/median-xl-launcher-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/median-xl.png"
   },
   {
     "packageName": "mediathekview",
@@ -5663,11 +5658,6 @@
     "packageName": "moonfm",
     "description": "A modern, fully featured audio podcast player...",
     "icon": "https://portable-linux-apps.github.io/icons/moonfm.png"
-  },
-  {
-    "packageName": "moonitor",
-    "description": "A desktop app to track cryptocurrencies...",
-    "icon": "https://portable-linux-apps.github.io/icons/moonitor.png"
   },
   {
     "packageName": "moonlight",
@@ -6245,11 +6235,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/ocenaudio.png"
   },
   {
-    "packageName": "ocrmypdf",
-    "description": "AppImage for OCRmyPDF...",
-    "icon": "https://portable-linux-apps.github.io/icons/ocrmypdf.png"
-  },
-  {
     "packageName": "ocvvid2fulldome",
     "description": "Take flat videos, distort them to fit fulldome...",
     "icon": "https://portable-linux-apps.github.io/icons/ocvvid2fulldome.png"
@@ -6270,9 +6255,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/oh-mymd.png"
   },
   {
-    "packageName": "olive-0.1",
+    "packageName": "olive-legacy",
     "description": "Free non-linear video editor (version 0.1)...",
-    "icon": "https://portable-linux-apps.github.io/icons/olive-0.1.png"
+    "icon": "https://portable-linux-apps.github.io/icons/olive-legacy.png"
   },
   {
     "packageName": "olive",
@@ -6755,11 +6740,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/pennywise.png"
   },
   {
-    "packageName": "perfect-dark",
-    "description": "A decompilation of Perfect Dark...",
-    "icon": "https://portable-linux-apps.github.io/icons/perfect-dark.png"
-  },
-  {
     "packageName": "perl-executing-browser",
     "description": "HTML5 user interface for Perl 5 desktop apps...",
     "icon": "https://portable-linux-apps.github.io/icons/perl-executing-browser.png"
@@ -7225,11 +7205,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/protoman.png"
   },
   {
-    "packageName": "proton-5.11",
-    "description": "Appimage for Wine Proton 32-bit to run on no-multilib systems...",
-    "icon": "https://portable-linux-apps.github.io/icons/proton-5.11.png"
-  },
-  {
     "packageName": "protonmail-desktop",
     "description": "Unofficial Electron wrapper for ProtonMail...",
     "icon": "https://portable-linux-apps.github.io/icons/protonmail-desktop.png"
@@ -7480,9 +7455,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/qprompt.png"
   },
   {
-    "packageName": "qqmusic-appimage",
+    "packageName": "qqmusic",
     "description": "A music player from Tencent...",
-    "icon": "https://portable-linux-apps.github.io/icons/qqmusic-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/qqmusic.png"
   },
   {
     "packageName": "qradiolink",
@@ -7910,11 +7885,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/ruffle.png"
   },
   {
-    "packageName": "rufus",
-    "description": "Logiciel de gestion de cabinet d'Ophtalmologie...",
-    "icon": "https://portable-linux-apps.github.io/icons/rufus.png"
-  },
-  {
     "packageName": "runanode",
     "description": "Lets run a node...",
     "icon": "https://portable-linux-apps.github.io/icons/runanode.png"
@@ -8163,11 +8133,6 @@
     "packageName": "sf-tube",
     "description": "Watch and download videos without ads...",
     "icon": "https://portable-linux-apps.github.io/icons/sf-tube.png"
-  },
-  {
-    "packageName": "shadow",
-    "description": "Run Windows-based applications on the devices you own...",
-    "icon": "https://portable-linux-apps.github.io/icons/shadow.png"
   },
   {
     "packageName": "shadowsocks",
@@ -8503,11 +8468,6 @@
     "packageName": "sonicvisualiser",
     "description": "Viewing and analysing the contents of music audio files...",
     "icon": "https://portable-linux-apps.github.io/icons/sonicvisualiser.png"
-  },
-  {
-    "packageName": "sonist",
-    "description": "Music Player...",
-    "icon": "https://portable-linux-apps.github.io/icons/sonist.png"
   },
   {
     "packageName": "sonixd",
@@ -8890,9 +8850,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/sunamu.png"
   },
   {
-    "packageName": "sunsama-appimage",
+    "packageName": "sunsama",
     "description": "The daily planner for elite professionals...",
-    "icon": "https://portable-linux-apps.github.io/icons/sunsama-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/sunsama.png"
   },
   {
     "packageName": "sunshine",
