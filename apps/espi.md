@@ -1,4 +1,4 @@
-# ESPI-APPIMAGE
+# ESPI
  
  Software recreation of the SP-1200 drum machine
  
