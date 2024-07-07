@@ -330,11 +330,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/appimagecraft.png"
   },
   {
-    "packageName": "appimagedl",
-    "description": "Easily download AppImages from AppImageHub (unofficial fork)...",
-    "icon": "https://portable-linux-apps.github.io/icons/appimagedl.png"
-  },
-  {
     "packageName": "appimagehelper",
     "description": "Create and organize shortcuts for AppImages...",
     "icon": "https://portable-linux-apps.github.io/icons/appimagehelper.png"
@@ -4005,11 +4000,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/hyperspace.png"
   },
   {
-    "packageName": "hypertrader",
-    "description": "Trade like a PRO, robust tools to monitor your accounts...",
-    "icon": "https://portable-linux-apps.github.io/icons/hypertrader.png"
-  },
-  {
     "packageName": "i3",
     "description": "A tiling window manager for X11, unofficial AppImage...",
     "icon": "https://portable-linux-apps.github.io/icons/i3.png"
@@ -4130,9 +4120,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/infinitex.png"
   },
   {
-    "packageName": "infra-appimage",
+    "packageName": "infra-app",
     "description": "Infra App for Linux...",
-    "icon": "https://portable-linux-apps.github.io/icons/infra-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/infra-app.png"
   },
   {
     "packageName": "inkscape-next",
@@ -7945,11 +7935,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/safe-multisig.png"
   },
   {
-    "packageName": "samanager",
-    "description": "Manage your Prestashop online Store...",
-    "icon": "https://portable-linux-apps.github.io/icons/samanager.png"
-  },
-  {
     "packageName": "saphyr",
     "description": "A C++ like compiler...",
     "icon": "https://portable-linux-apps.github.io/icons/saphyr.png"
@@ -8280,9 +8265,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/simplex-chat.png"
   },
   {
-    "packageName": "simtoolkitpro-appimage",
+    "packageName": "simtoolkitpro",
     "description": "The all-in-one flight simulation EFB...",
-    "icon": "https://portable-linux-apps.github.io/icons/simtoolkitpro-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/simtoolkitpro.png"
   },
   {
     "packageName": "singlebox",
@@ -8580,11 +8565,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/spotube.png"
   },
   {
-    "packageName": "springboard",
-    "description": "Electron-based SpringRTS Launcher app...",
-    "icon": "https://portable-linux-apps.github.io/icons/springboard.png"
-  },
-  {
     "packageName": "sptlrx",
     "description": "Synchronized lyrics in your terminal...",
     "icon": "https://portable-linux-apps.github.io/icons/sptlrx.png"
@@ -8633,11 +8613,6 @@
     "packageName": "starc",
     "description": "Story Architect, reinventing the screenwriting software...",
     "icon": "https://portable-linux-apps.github.io/icons/starc.png"
-  },
-  {
-    "packageName": "staruml",
-    "description": "A sophisticated software modeler (v3.2.2)...",
-    "icon": "https://portable-linux-apps.github.io/icons/staruml.png"
   },
   {
     "packageName": "stash-electron",
@@ -8743,11 +8718,6 @@
     "packageName": "strata",
     "description": "Semi-automated selection and scaling of time series...",
     "icon": "https://portable-linux-apps.github.io/icons/strata.png"
-  },
-  {
-    "packageName": "strawberry",
-    "description": "Music player and collection organizer (Clementine fork)...",
-    "icon": "https://portable-linux-apps.github.io/icons/strawberry.png"
   },
   {
     "packageName": "streamcapture2",
