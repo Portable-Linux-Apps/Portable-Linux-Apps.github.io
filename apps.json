@@ -1890,11 +1890,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/cryptr.png"
   },
   {
-    "packageName": "csbooks",
-    "description": "Epub reader, pdf reader, mobi book reader and djvu reader...",
-    "icon": "https://portable-linux-apps.github.io/icons/csbooks.png"
-  },
-  {
     "packageName": "cscrypto",
     "description": "A crypto app...",
     "icon": "https://portable-linux-apps.github.io/icons/cscrypto.png"
@@ -2033,11 +2028,6 @@
     "packageName": "dedop-studio",
     "description": "DeDop Studio..",
     "icon": "https://portable-linux-apps.github.io/icons/dedop-studio.png"
-  },
-  {
-    "packageName": "deemix-gui-appimage",
-    "description": "A gui electron app for the deemix lib...",
-    "icon": "https://portable-linux-apps.github.io/icons/deemix-gui-appimage.png"
   },
   {
     "packageName": "deeplx",
@@ -2545,11 +2535,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/emudeck.png"
   },
   {
-    "packageName": "emulationstation",
-    "description": "A flexible emulator front-end supporting custom themes...",
-    "icon": "https://portable-linux-apps.github.io/icons/emulationstation.png"
-  },
-  {
     "packageName": "en-croissant",
     "description": "The Ultimate Chess Toolkit...",
     "icon": "https://portable-linux-apps.github.io/icons/en-croissant.png"
@@ -2625,9 +2610,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/espanso.png"
   },
   {
-    "packageName": "espi-appimage",
+    "packageName": "espi",
     "description": "Software recreation of the SP-1200 drum machine...",
-    "icon": "https://portable-linux-apps.github.io/icons/espi-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/espi.png"
   },
   {
     "packageName": "etcher",
@@ -2800,9 +2785,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/fat-wallet.png"
   },
   {
-    "packageName": "fchat-appimage",
+    "packageName": "fchat",
     "description": "The F-Chat 3.0 client...",
-    "icon": "https://portable-linux-apps.github.io/icons/fchat-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/fchat.png"
   },
   {
     "packageName": "fchat-rising-appimage",
@@ -3075,11 +3060,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/flb.png"
   },
   {
-    "packageName": "flexvdi-client-appimage",
-    "description": "Client for connecting to flexVDI desktops...",
-    "icon": "https://portable-linux-apps.github.io/icons/flexvdi-client-appimage.png"
-  },
-  {
     "packageName": "flightgear-airports",
     "description": "A software to design Flightgear groundnets...",
     "icon": "https://portable-linux-apps.github.io/icons/flightgear-airports.png"
@@ -3125,9 +3105,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/focalizzare.png"
   },
   {
-    "packageName": "focusatwill-appimage",
+    "packageName": "focusatwill",
     "description": "Combines neuroscience and music to boost productivity...",
-    "icon": "https://portable-linux-apps.github.io/icons/focusatwill-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/focusatwill.png"
   },
   {
     "packageName": "focuswriter",
@@ -3365,11 +3345,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/gedit.png"
   },
   {
-    "packageName": "geeqie",
-    "description": "Claiming to be the best image viewer / photo collection browser...",
-    "icon": "https://portable-linux-apps.github.io/icons/geeqie.png"
-  },
-  {
     "packageName": "geforcenow-electron",
     "description": "Desktop client for Nvidia GeForce NOW game streaming...",
     "icon": "https://portable-linux-apps.github.io/icons/geforcenow-electron.png"
@@ -3588,11 +3563,6 @@
     "packageName": "goldendict",
     "description": "A feature-rich dictionary lookup program...",
     "icon": "https://portable-linux-apps.github.io/icons/goldendict.png"
-  },
-  {
-    "packageName": "goldendict-ng",
-    "description": "The Next Generation GoldenDict...",
-    "icon": "https://portable-linux-apps.github.io/icons/goldendict-ng.png"
   },
   {
     "packageName": "gooboxfileshare",
