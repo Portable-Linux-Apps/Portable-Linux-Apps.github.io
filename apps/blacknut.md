@@ -1,4 +1,4 @@
-# BLACKNUT-APPIMAGE
+# BLACKNUT
  
  Cloud gaming client (binary AppImage)
  
