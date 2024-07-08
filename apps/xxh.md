@@ -1,8 +1,8 @@
-# PODMAN
+# XXH
  
- AppImage of podman.
+ Bring your favorite shell wherever you go through the ssh.
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://github.com/xxh/xxh
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

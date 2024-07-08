@@ -1,8 +1,8 @@
-# PODMAN
+# PLATINUM-MD
  
- AppImage of podman.
+ Graphical MiniDisc NetMD conversion and upload
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://platinum-md.app/
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -1,8 +1,8 @@
-# PODMAN
+# CARGO
  
- AppImage of podman.
+ Converts your crate into an AppImage
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://github.com/StratusFearMe21/cargo-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

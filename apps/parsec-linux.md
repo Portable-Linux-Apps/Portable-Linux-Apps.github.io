@@ -1,8 +1,8 @@
-# PODMAN
+# PARSEC-LINUX
  
- AppImage of podman.
+ Parsec game streaming client
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://github.com/E5ten/parsec-linux-AppImage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

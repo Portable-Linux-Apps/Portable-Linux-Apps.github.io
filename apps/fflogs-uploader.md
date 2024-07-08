@@ -1,8 +1,8 @@
-# PODMAN
+# FFLOGS-UPLOADER
  
- AppImage of podman.
+ FFLogs Uploader appimage
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://github.com/RPGLogs/Uploaders-fflogs/
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

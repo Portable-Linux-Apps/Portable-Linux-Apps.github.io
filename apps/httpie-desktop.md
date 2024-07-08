@@ -1,8 +1,8 @@
-# PODMAN
+# HTTPIE-DESKTOP
  
- AppImage of podman.
+ HTTPie for Desktop (AppImage)
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://httpie.io/product
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

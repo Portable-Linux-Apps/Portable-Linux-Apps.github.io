@@ -1,8 +1,8 @@
-# PODMAN
+# PDF2HTMLEX
  
- AppImage of podman.
+ Convert PDF to HTML without losing text or format.
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://github.com/pdf2htmlEX/pdf2htmlEX
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

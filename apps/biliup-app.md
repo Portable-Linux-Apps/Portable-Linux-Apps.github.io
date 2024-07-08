@@ -1,8 +1,8 @@
-# PODMAN
+# BILIUP-APP
  
- AppImage of podman.
+ Bilibili uploader, supports Windows, Linux, macOS.
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://github.com/ForgQi/biliup-app
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -1,8 +1,9 @@
-# PODMAN
+# GUARDA
  
- AppImage of podman.
+ A secure, easy-to-use open source multi-platform 
+ cryptocurrency wallet
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://guarda.com/
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -1,8 +1,8 @@
-# PODMAN
+# GYROFLOW
  
- AppImage of podman.
+ Video stabilization using gyroscope data
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://gyroflow.xyz
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

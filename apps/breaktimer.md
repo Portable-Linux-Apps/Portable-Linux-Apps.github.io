@@ -1,8 +1,8 @@
-# PODMAN
+# BREAKTIMER
  
- AppImage of podman.
+ Save yourself from RSI and eye-strain.
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://breaktimer.app/
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

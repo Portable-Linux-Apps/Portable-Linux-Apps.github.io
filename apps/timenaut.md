@@ -1,8 +1,8 @@
-# PODMAN
+# TIMENAUT
  
- AppImage of podman.
+ Desktop time tracking application that does not invade your privacy
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://timenaut.app/
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

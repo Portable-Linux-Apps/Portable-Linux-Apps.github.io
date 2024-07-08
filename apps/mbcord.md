@@ -1,8 +1,8 @@
-# PODMAN
+# MBCORD
  
- AppImage of podman.
+ An Emby/Jellyfin rich presence client for Discord
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://github.com/SandwichFox/MBCord
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

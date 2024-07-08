@@ -1,8 +1,8 @@
-# PODMAN
+# ACTUAL
  
- AppImage of podman.
+ Actual is a super fast privacy-focused app for managing your finances.
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://actualbudget.com/
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

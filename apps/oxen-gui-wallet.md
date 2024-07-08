@@ -1,8 +1,8 @@
-# PODMAN
+# OXEN-GUI-WALLET
  
- AppImage of podman.
+ Oxen electron GUI wallet
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://github.com/oxen-io/oxen-electron-gui-wallet
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

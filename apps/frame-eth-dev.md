@@ -1,8 +1,8 @@
-# PODMAN
+# FRAME-ETH-DEV
  
- AppImage of podman.
+ A privacy focused Ethereum wallet
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://frame.sh/
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

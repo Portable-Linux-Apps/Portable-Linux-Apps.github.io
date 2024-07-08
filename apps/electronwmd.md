@@ -1,8 +1,8 @@
-# PODMAN
+# ELECTRONWMD
  
- AppImage of podman.
+ Upload music to NetMD MiniDisc devices
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://web.minidisc.wiki/
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

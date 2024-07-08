@@ -1,8 +1,8 @@
-# PODMAN
+# PEAZIP
  
- AppImage of podman.
+ PeaZip Appimage for linux 64bits
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://github.com/ferion11/PeaZip_Appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

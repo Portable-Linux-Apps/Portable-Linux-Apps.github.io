@@ -1,8 +1,8 @@
-# PODMAN
+# ICESTUDIO
  
- AppImage of podman.
+ A real gamechanger in the world of Open Source FPGAs
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://icestudio.io/
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

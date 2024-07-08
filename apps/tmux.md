@@ -1,8 +1,8 @@
-# PODMAN
+# TMUX
  
- AppImage of podman.
+ Tmux AppImage build via Docker.
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://github.com/nelsonenzo/tmux-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

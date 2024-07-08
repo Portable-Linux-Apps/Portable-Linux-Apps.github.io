@@ -1,8 +1,8 @@
-# PODMAN
+# SLIC3R
  
- AppImage of podman.
+ Open Source toolpath generator for 3D printers
  
- SITE: https://github.com/popsUlfr/podman-appimage
+ SITE: https://slic3r.org/
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
