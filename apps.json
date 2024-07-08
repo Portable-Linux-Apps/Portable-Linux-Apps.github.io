@@ -50,9 +50,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/acreom.png"
   },
   {
-    "packageName": "actual-appimage",
+    "packageName": "actual",
     "description": "A super fast privacy-focused app for managing your finances...",
-    "icon": "https://portable-linux-apps.github.io/icons/actual-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/actual.png"
   },
   {
     "packageName": "adb",
@@ -160,9 +160,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/altus.png"
   },
   {
-    "packageName": "alvr-appimage",
+    "packageName": "alvr",
     "description": "Stream VR games from your PC to your headset via Wi-Fi...",
-    "icon": "https://portable-linux-apps.github.io/icons/alvr-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/alvr.png"
   },
   {
     "packageName": "amazingmarvin",
@@ -245,9 +245,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/anki.png"
   },
   {
-    "packageName": "anklang-appimage",
+    "packageName": "anklang",
     "description": "MIDI and Audio Synthesizer and Composer...",
-    "icon": "https://portable-linux-apps.github.io/icons/anklang-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/anklang.png"
   },
   {
     "packageName": "another-redis-desktop-manager",
@@ -380,9 +380,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/app-outlet.png"
   },
   {
-    "packageName": "aptakube-appimage",
+    "packageName": "aptakube",
     "description": "A modern and lightweight Kubernetes desktop client...",
-    "icon": "https://portable-linux-apps.github.io/icons/aptakube-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/aptakube.png"
   },
   {
     "packageName": "apx-gcs",
@@ -495,9 +495,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/asarui.png"
   },
   {
-    "packageName": "asgardex-appimage",
+    "packageName": "asgardex",
     "description": "Thorchain wallet desktop app...",
-    "icon": "https://portable-linux-apps.github.io/icons/asgardex-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/asgardex.png"
   },
   {
     "packageName": "astroffers",
@@ -660,9 +660,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/bazecor.png"
   },
   {
-    "packageName": "bbg-appimage",
+    "packageName": "bbg",
     "description": "A static blog generator based on Electron Technology...",
-    "icon": "https://portable-linux-apps.github.io/icons/bbg-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/bbg.png"
   },
   {
     "packageName": "bdash",
@@ -740,9 +740,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/bilibilivideodownload.png"
   },
   {
-    "packageName": "biliup-app-appimage",
+    "packageName": "biliup-app",
     "description": "Bilibili uploader...",
-    "icon": "https://portable-linux-apps.github.io/icons/biliup-app-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/biliup-app.png"
   },
   {
     "packageName": "billard-gl",
@@ -955,9 +955,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/boost-note.png"
   },
   {
-    "packageName": "botclient-appimage",
+    "packageName": "botclient",
     "description": "A discord botclient built with Electron and React...",
-    "icon": "https://portable-linux-apps.github.io/icons/botclient-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/botclient.png"
   },
   {
     "packageName": "botframework-emulator",
@@ -1030,9 +1030,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/bread.png"
   },
   {
-    "packageName": "breaktimer-appimage",
+    "packageName": "breaktimer",
     "description": "Save yourself from RSI and eye-strain...",
-    "icon": "https://portable-linux-apps.github.io/icons/breaktimer-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/breaktimer.png"
   },
   {
     "packageName": "brickstore",
@@ -1050,9 +1050,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/brs-emu-app.png"
   },
   {
-    "packageName": "bruno-appimage",
+    "packageName": "bruno",
     "description": "An Opensource API Collection Collaboration Suite...",
-    "icon": "https://portable-linux-apps.github.io/icons/bruno-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/bruno.png"
   },
   {
     "packageName": "bscanfftwebcam",
@@ -1145,9 +1145,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/cacher.png"
   },
   {
-    "packageName": "cadmus-appimage",
+    "packageName": "cadmus",
     "description": "Pulse Audio real-time noise suppression plugin...",
-    "icon": "https://portable-linux-apps.github.io/icons/cadmus-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/cadmus.png"
   },
   {
     "packageName": "calculist",
@@ -1195,9 +1195,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/caprine.png"
   },
   {
-    "packageName": "cargo-appimage",
+    "packageName": "cargo",
     "description": "Converts your crate into an AppImage...",
-    "icon": "https://portable-linux-apps.github.io/icons/cargo-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/cargo.png"
   },
   {
     "packageName": "carnet",
@@ -1315,9 +1315,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/chatbox.png"
   },
   {
-    "packageName": "chat-gpt-appimage",
+    "packageName": "chat-gpt",
     "description": "ChatGPT Desktop Application (Mac, Windows and Linux)...",
-    "icon": "https://portable-linux-apps.github.io/icons/chat-gpt-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/chat-gpt.png"
   },
   {
     "packageName": "chatgpt-next-web",
@@ -1330,14 +1330,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/chatpad-ai.png"
   },
   {
-    "packageName": "chatterino2-appimage",
+    "packageName": "chatterino2",
     "description": "Second installment of the Twitch chat client...",
-    "icon": "https://portable-linux-apps.github.io/icons/chatterino2-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/chatterino2.png"
   },
   {
-    "packageName": "chatterino2-nightly-appimage",
+    "packageName": "chatterino2-nightly",
     "description": "Second installment of the Twitch chat client...",
-    "icon": "https://portable-linux-apps.github.io/icons/chatterino2-nightly-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/chatterino2-nightly.png"
   },
   {
     "packageName": "cheat",
@@ -1515,9 +1515,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/cocomusic.png"
   },
   {
-    "packageName": "code-notes-appimage",
+    "packageName": "code-notes",
     "description": "A simple code snippet amp built with Electron...",
-    "icon": "https://portable-linux-apps.github.io/icons/code-notes-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/code-notes.png"
   },
   {
     "packageName": "code-oss",
@@ -1630,9 +1630,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/converseen.png"
   },
   {
-    "packageName": "converter432hz-appimage",
+    "packageName": "converter432hz",
     "description": "Converts and re-encodes music to 432hz...",
-    "icon": "https://portable-linux-apps.github.io/icons/converter432hz-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/converter432hz.png"
   },
   {
     "packageName": "coolercontrol",
@@ -1650,9 +1650,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/cool-retro-term.png"
   },
   {
-    "packageName": "copytranslator-appimage",
+    "packageName": "copytranslator",
     "description": "Foreign language reading and translation assistant...",
-    "icon": "https://portable-linux-apps.github.io/icons/copytranslator-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/copytranslator.png"
   },
   {
     "packageName": "cordlauncher",
@@ -2145,9 +2145,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/discord.png"
   },
   {
-    "packageName": "discord-qt-appimage",
+    "packageName": "discord-qt",
     "description": "Discord client powered by Node.JS and Qt Widgets...",
-    "icon": "https://portable-linux-apps.github.io/icons/discord-qt-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/discord-qt.png"
   },
   {
     "packageName": "dissent",
@@ -2380,9 +2380,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/electron-mail.png"
   },
   {
-    "packageName": "electronreact-appimage",
+    "packageName": "electronreact",
     "description": "Desktop application using Electron and React...",
-    "icon": "https://portable-linux-apps.github.io/icons/electronreact-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/electronreact.png"
   },
   {
     "packageName": "electron-react-boilerplate",
@@ -2405,9 +2405,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/electron-wechat.png"
   },
   {
-    "packageName": "electronwmd-appimage",
+    "packageName": "electronwmd",
     "description": "Upload music to NetMD MiniDisc devices...",
-    "icon": "https://portable-linux-apps.github.io/icons/electronwmd-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/electronwmd.png"
   },
   {
     "packageName": "electron-xiami",
@@ -2430,9 +2430,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/electrum-nmc.png"
   },
   {
-    "packageName": "electrum-ravencoin-appimage",
+    "packageName": "electrum-ravencoin",
     "description": "Forked from the Electrum Bitcoin base client...",
-    "icon": "https://portable-linux-apps.github.io/icons/electrum-ravencoin-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/electrum-ravencoin.png"
   },
   {
     "packageName": "element",
@@ -2515,9 +2515,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/ember.png"
   },
   {
-    "packageName": "emoji-keyboard-appimage",
+    "packageName": "emoji-keyboard",
     "description": "Virtual keyboard-like emoji palette for Linux...",
-    "icon": "https://portable-linux-apps.github.io/icons/emoji-keyboard-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/emoji-keyboard.png"
   },
   {
     "packageName": "emudeck",
@@ -2660,9 +2660,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/excel-parser-processor.png"
   },
   {
-    "packageName": "exe-appimage",
+    "packageName": "exe",
     "description": "A Elearning XHTML/HTML5 editor...",
-    "icon": "https://portable-linux-apps.github.io/icons/exe-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/exe.png"
   },
   {
     "packageName": "exeqt",
@@ -2775,9 +2775,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/fat-wallet.png"
   },
   {
-    "packageName": "fchat-rising-appimage",
+    "packageName": "fchat-rising",
     "description": "A customized version of mainline F-Chat 3.0 client...",
-    "icon": "https://portable-linux-apps.github.io/icons/fchat-rising-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/fchat-rising.png"
   },
   {
     "packageName": "fchat",
@@ -2830,9 +2830,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/ferdium.png"
   },
   {
-    "packageName": "fflogs-uploader-appimage",
+    "packageName": "fflogs-uploader",
     "description": "FFLogs Uploader appimage...",
-    "icon": "https://portable-linux-apps.github.io/icons/fflogs-uploader-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/fflogs-uploader.png"
   },
   {
     "packageName": "ff-password-exporter",
@@ -3160,9 +3160,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/fraktal.png"
   },
   {
-    "packageName": "frame-eth-dev-appimage",
+    "packageName": "frame-eth-dev",
     "description": "A privacy focused Ethereum wallet...",
-    "icon": "https://portable-linux-apps.github.io/icons/frame-eth-dev-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/frame-eth-dev.png"
   },
   {
     "packageName": "francetv",
@@ -3220,9 +3220,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/freeze.png"
   },
   {
-    "packageName": "freezer-appimage",
+    "packageName": "freezer",
     "description": "An unofficial client for Deezer...",
-    "icon": "https://portable-linux-apps.github.io/icons/freezer-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/freezer.png"
   },
   {
     "packageName": "freshfetch",
@@ -3320,9 +3320,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/gdevelop.png"
   },
   {
-    "packageName": "gdlauncher-appimage",
+    "packageName": "gdlauncher",
     "description": "Simple, yet powerful Minecraft custom launcher...",
-    "icon": "https://portable-linux-apps.github.io/icons/gdlauncher-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/gdlauncher.png"
   },
   {
     "packageName": "gdm-settings",
@@ -3625,9 +3625,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/gpt-anywhere.png"
   },
   {
-    "packageName": "gptfusion-appimage",
+    "packageName": "gptfusion",
     "description": "GPT Aggregation Ed. (in chinese), supports POE, and more...",
-    "icon": "https://portable-linux-apps.github.io/icons/gptfusion-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/gptfusion.png"
   },
   {
     "packageName": "gpupad",
@@ -3720,9 +3720,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/gsubs.png"
   },
   {
-    "packageName": "guarda-appimage",
+    "packageName": "guarda",
     "description": "A secure, easy-to-use cryptocurrency wallet...",
-    "icon": "https://portable-linux-apps.github.io/icons/guarda-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/guarda.png"
   },
   {
     "packageName": "guglielmo",
@@ -3755,9 +3755,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/gxc-smart-contract-ide.png"
   },
   {
-    "packageName": "gyroflow-appimage",
+    "packageName": "gyroflow",
     "description": "Video stabilization using gyroscope data...",
-    "icon": "https://portable-linux-apps.github.io/icons/gyroflow-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/gyroflow.png"
   },
   {
     "packageName": "hades-emu",
@@ -3895,9 +3895,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/htop.png"
   },
   {
-    "packageName": "httpie-desktop-appimage",
+    "packageName": "httpie-desktop",
     "description": "HTTPie for Desktop...",
-    "icon": "https://portable-linux-apps.github.io/icons/httpie-desktop-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/httpie-desktop.png"
   },
   {
     "packageName": "hugin",
@@ -3995,9 +3995,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/icedrive.png"
   },
   {
-    "packageName": "icestudio-appimage",
+    "packageName": "icestudio",
     "description": "A real gamechanger in the world of Open Source FPGAs...",
-    "icon": "https://portable-linux-apps.github.io/icons/icestudio-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/icestudio.png"
   },
   {
     "packageName": "ideamaker",
@@ -4040,9 +4040,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/imapsyncclient.png"
   },
   {
-    "packageName": "imgbrd-grabber-appimage",
+    "packageName": "imgbrd-grabber",
     "description": "Very customizable imageboard/booru downloader...",
-    "icon": "https://portable-linux-apps.github.io/icons/imgbrd-grabber-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/imgbrd-grabber.png"
   },
   {
     "packageName": "imhex",
@@ -4230,9 +4230,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/jdtextedit.png"
   },
   {
-    "packageName": "jellyamp-appimage",
+    "packageName": "jellyamp",
     "description": "A client for listening to music from a Jellyfin server...",
-    "icon": "https://portable-linux-apps.github.io/icons/jellyamp-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/jellyamp.png"
   },
   {
     "packageName": "jetbrains-toolbox",
@@ -4725,9 +4725,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/ktuberling.png"
   },
   {
-    "packageName": "kubeman-appimage",
+    "packageName": "kubeman",
     "description": "The Hero that Kubernetes deserves...",
-    "icon": "https://portable-linux-apps.github.io/icons/kubeman-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/kubeman.png"
   },
   {
     "packageName": "kubenav",
@@ -4995,9 +4995,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/lisk-desktop.png"
   },
   {
-    "packageName": "listen1-desktop-appimage",
+    "packageName": "listen1-desktop",
     "description": "One for all free music in China...",
-    "icon": "https://portable-linux-apps.github.io/icons/listen1-desktop-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/listen1-desktop.png"
   },
   {
     "packageName": "liteide",
@@ -5115,9 +5115,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/lux.png"
   },
   {
-    "packageName": "lx-music-desktop-appimage",
+    "packageName": "lx-music-desktop",
     "description": "一个基于electron的音乐软件...",
-    "icon": "https://portable-linux-apps.github.io/icons/lx-music-desktop-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/lx-music-desktop.png"
   },
   {
     "packageName": "lxtask",
@@ -5255,9 +5255,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/mazesolver.png"
   },
   {
-    "packageName": "mbcord-appimage",
+    "packageName": "mbcord",
     "description": "An Emby/Jellyfin rich presence client for Discord...",
-    "icon": "https://portable-linux-apps.github.io/icons/mbcord-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/mbcord.png"
   },
   {
     "packageName": "mcpelauncher",
@@ -5585,9 +5585,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/modv.png"
   },
   {
-    "packageName": "monit-appimage",
+    "packageName": "monit",
     "description": "Desktop widgets displaying various information (in chinese)...",
-    "icon": "https://portable-linux-apps.github.io/icons/monit-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/monit.png"
   },
   {
     "packageName": "moniteur-admin",
@@ -5650,9 +5650,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/mozaic.png"
   },
   {
-    "packageName": "mp3-tagger-appimage",
+    "packageName": "mp3-tagger",
     "description": "An Electron app to edit metadata of mp3 files...",
-    "icon": "https://portable-linux-apps.github.io/icons/mp3-tagger-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/mp3-tagger.png"
   },
   {
     "packageName": "mp4grep",
@@ -5675,9 +5675,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/mqtt-explorer.png"
   },
   {
-    "packageName": "mqttx-appimage",
+    "packageName": "mqttx",
     "description": "MQTT 5.0 Desktop, CLI, and WebSocket client tools...",
-    "icon": "https://portable-linux-apps.github.io/icons/mqttx-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/mqttx.png"
   },
   {
     "packageName": "mr.dclutterer",
@@ -5695,9 +5695,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/mtcelledit.png"
   },
   {
-    "packageName": "mudita-center-appimage",
+    "packageName": "mudita-center",
     "description": "Mudita Center Electron App...",
-    "icon": "https://portable-linux-apps.github.io/icons/mudita-center-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/mudita-center.png"
   },
   {
     "packageName": "muffon",
@@ -5905,9 +5905,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/nextcloud.png"
   },
   {
-    "packageName": "nextplayer-appimage",
+    "packageName": "nextplayer",
     "description": "A blue-ray player, originally named TheNewPlayerFree...",
-    "icon": "https://portable-linux-apps.github.io/icons/nextplayer-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/nextplayer.png"
   },
   {
     "packageName": "nexus-mods",
@@ -6150,9 +6150,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/nychess.png"
   },
   {
-    "packageName": "nym-wallet-appimage",
+    "packageName": "nym-wallet",
     "description": "Use the Nym network and take advantage of it...",
-    "icon": "https://portable-linux-apps.github.io/icons/nym-wallet-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/nym-wallet.png"
   },
   {
     "packageName": "nyrna",
@@ -6335,9 +6335,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/openop2.png"
   },
   {
-    "packageName": "openosrs-launcher-appimage",
+    "packageName": "openosrs-launcher",
     "description": "Open-source client for Old School RuneScape...",
-    "icon": "https://portable-linux-apps.github.io/icons/openosrs-launcher-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/openosrs-launcher.png"
   },
   {
     "packageName": "openpilot-workbench",
@@ -6505,9 +6505,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/owncloud.png"
   },
   {
-    "packageName": "oxen-gui-wallet-appimage",
+    "packageName": "oxen-gui-wallet",
     "description": "Oxen electron GUI wallet...",
-    "icon": "https://portable-linux-apps.github.io/icons/oxen-gui-wallet-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/oxen-gui-wallet.png"
   },
   {
     "packageName": "p2p-chat",
@@ -6590,9 +6590,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/parity-fether.png"
   },
   {
-    "packageName": "parsec-linux-appimage",
+    "packageName": "parsec-linux",
     "description": "Parsec game streaming client...",
-    "icon": "https://portable-linux-apps.github.io/icons/parsec-linux-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/parsec-linux.png"
   },
   {
     "packageName": "passky",
@@ -6645,9 +6645,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/pcsx2.png"
   },
   {
-    "packageName": "pdf2htmlex-appimage",
+    "packageName": "pdf2htmlex",
     "description": "Convert PDF to HTML without losing text or format...",
-    "icon": "https://portable-linux-apps.github.io/icons/pdf2htmlex-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/pdf2htmlex.png"
   },
   {
     "packageName": "pdf4qt",
@@ -6670,9 +6670,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/pdmaner.png"
   },
   {
-    "packageName": "peazip-appimage",
+    "packageName": "peazip",
     "description": "PeaZip Appimage for linux 64bits...",
-    "icon": "https://portable-linux-apps.github.io/icons/peazip-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/peazip.png"
   },
   {
     "packageName": "pelusica",
@@ -6765,9 +6765,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/pia.png"
   },
   {
-    "packageName": "picacg-qt-appimage",
+    "packageName": "picacg-qt",
     "description": "PicACG Comic PC Client For Linux...",
-    "icon": "https://portable-linux-apps.github.io/icons/picacg-qt-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/picacg-qt.png"
   },
   {
     "packageName": "picgo",
@@ -6860,9 +6860,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/platform-tools.png"
   },
   {
-    "packageName": "platinum-md-appimage",
+    "packageName": "platinum-md",
     "description": "Graphical MiniDisc NetMD conversion and upload...",
-    "icon": "https://portable-linux-apps.github.io/icons/platinum-md-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/platinum-md.png"
   },
   {
     "packageName": "play-2048",
@@ -6915,9 +6915,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/plotjuggler.png"
   },
   {
-    "packageName": "plotly-orca-appimage",
+    "packageName": "plotly-orca",
     "description": "CLI generating static images of interactive charts...",
-    "icon": "https://portable-linux-apps.github.io/icons/plotly-orca-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/plotly-orca.png"
   },
   {
     "packageName": "plover",
@@ -6965,9 +6965,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/poe-ladder.png"
   },
   {
-    "packageName": "poi-appimage",
+    "packageName": "poi",
     "description": "Scalable KanColle browser and tool...",
-    "icon": "https://portable-linux-apps.github.io/icons/poi-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/poi.png"
   },
   {
     "packageName": "pokete",
@@ -7045,9 +7045,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/postybirb-plus.png"
   },
   {
-    "packageName": "potatopresenter-appimage",
+    "packageName": "potatopresenter",
     "description": "Create presentation slides and exported as PDF...",
-    "icon": "https://portable-linux-apps.github.io/icons/potatopresenter-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/potatopresenter.png"
   },
   {
     "packageName": "powder-toy",
@@ -7095,9 +7095,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/printerclient.png"
   },
   {
-    "packageName": "prisma-studio-appimage",
+    "packageName": "prisma-studio",
     "description": "The easiest way to explore and manipulate your data...",
-    "icon": "https://portable-linux-apps.github.io/icons/prisma-studio-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/prisma-studio.png"
   },
   {
     "packageName": "prismlauncher",
@@ -7225,9 +7225,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/pyappimage.png"
   },
   {
-    "packageName": "pyfa-appimage",
+    "packageName": "pyfa",
     "description": "EVE Online Fitting Assistant...",
-    "icon": "https://portable-linux-apps.github.io/icons/pyfa-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/pyfa.png"
   },
   {
     "packageName": "python2.7",
@@ -7340,9 +7340,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/qfsm.png"
   },
   {
-    "packageName": "qgroundcontrol-appimage",
+    "packageName": "qgroundcontrol",
     "description": "Ground control for unmanned vehicles...",
-    "icon": "https://portable-linux-apps.github.io/icons/qgroundcontrol-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/qgroundcontrol.png"
   },
   {
     "packageName": "qikqr",
@@ -7510,9 +7510,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/quaternion.png"
   },
   {
-    "packageName": "quba-appimage",
+    "packageName": "quba",
     "description": "A viewer for electronic invoices...",
-    "icon": "https://portable-linux-apps.github.io/icons/quba-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/quba.png"
   },
   {
     "packageName": "qucs-s",
@@ -7565,9 +7565,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/qxgedit.png"
   },
   {
-    "packageName": "r2modman-appimage",
+    "packageName": "r2modman",
     "description": "Mod manager for several Unity games using Thunderstore...",
-    "icon": "https://portable-linux-apps.github.io/icons/r2modman-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/r2modman.png"
   },
   {
     "packageName": "r3play",
@@ -7670,14 +7670,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/redeclipse.png"
   },
   {
-    "packageName": "redis-gui-appimage",
+    "packageName": "redis-gui",
     "description": "Modern graphical user interface to peek into redis DB...",
-    "icon": "https://portable-linux-apps.github.io/icons/redis-gui-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/redis-gui.png"
   },
   {
-    "packageName": "redis-viewer-appimage",
+    "packageName": "redis-viewer",
     "description": "A Redis visualization client tool...",
-    "icon": "https://portable-linux-apps.github.io/icons/redis-viewer-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/redis-viewer.png"
   },
   {
     "packageName": "redminetimetracker",
@@ -8020,9 +8020,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/sengi.png"
   },
   {
-    "packageName": "sentinel-appimage",
+    "packageName": "sentinel",
     "description": "An open-source decentralized VPN network application...",
-    "icon": "https://portable-linux-apps.github.io/icons/sentinel-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/sentinel.png"
   },
   {
     "packageName": "serialplot",
@@ -8250,9 +8250,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/siril.png"
   },
   {
-    "packageName": "siyuan-appimage",
+    "packageName": "siyuan",
     "description": "A local-first personal knowledge management system...",
-    "icon": "https://portable-linux-apps.github.io/icons/siyuan-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/siyuan.png"
   },
   {
     "packageName": "skrifa",
@@ -8295,9 +8295,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/sleek.png"
   },
   {
-    "packageName": "slic3r-appimage",
+    "packageName": "slic3r",
     "description": "Open Source toolpath generator for 3D printers...",
-    "icon": "https://portable-linux-apps.github.io/icons/slic3r-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/slic3r.png"
   },
   {
     "packageName": "slippi",
@@ -8340,9 +8340,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/smplayer.png"
   },
   {
-    "packageName": "smuview-appimage",
+    "packageName": "smuview",
     "description": "A Qt based source measure unit GUI for sigrok...",
-    "icon": "https://portable-linux-apps.github.io/icons/smuview-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/smuview.png"
   },
   {
     "packageName": "snake-js",
@@ -8540,9 +8540,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/squirreldisk.png"
   },
   {
-    "packageName": "srb2k-appimage",
+    "packageName": "srb2k",
     "description": "AppImage Package for Sonic Robo Blast 2 Kart (game)...",
-    "icon": "https://portable-linux-apps.github.io/icons/srb2k-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/srb2k.png"
   },
   {
     "packageName": "ssh-mitm",
@@ -9100,9 +9100,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/thlink.png"
   },
   {
-    "packageName": "thoptv-appimage",
+    "packageName": "thoptv",
     "description": "Enjoy Ultimate Movies, sports Matches, IPL and Latest Shows...",
-    "icon": "https://portable-linux-apps.github.io/icons/thoptv-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/thoptv.png"
   },
   {
     "packageName": "thorium-avx2",
@@ -9165,9 +9165,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/thunderbird-nightly.png"
   },
   {
-    "packageName": "tidal-hifi-appimage",
+    "packageName": "tidal-hifi",
     "description": "The web version of listen.tidal.com running in electron...",
-    "icon": "https://portable-linux-apps.github.io/icons/tidal-hifi-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/tidal-hifi.png"
   },
   {
     "packageName": "tilde-podcast",
@@ -9190,9 +9190,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/timely.png"
   },
   {
-    "packageName": "timenaut-appimage",
+    "packageName": "timenaut",
     "description": "Desktop time tracking application...",
-    "icon": "https://portable-linux-apps.github.io/icons/timenaut-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/timenaut.png"
   },
   {
     "packageName": "timer",
@@ -9215,9 +9215,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/tmon.png"
   },
   {
-    "packageName": "tmux-appimage",
+    "packageName": "tmux",
     "description": "Tmux AppImage build via Docker...",
-    "icon": "https://portable-linux-apps.github.io/icons/tmux-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/tmux.png"
   },
   {
     "packageName": "tnt",
@@ -9645,14 +9645,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/vhs.png"
   },
   {
-    "packageName": "via-appimage",
+    "packageName": "via",
     "description": "Your keyboard's best friend...",
-    "icon": "https://portable-linux-apps.github.io/icons/via-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/via.png"
   },
   {
-    "packageName": "vial-appimage",
+    "packageName": "vial",
     "description": "GUI and a QMK fork for configuring your keyboard in real time...",
-    "icon": "https://portable-linux-apps.github.io/icons/vial-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/vial.png"
   },
   {
     "packageName": "viber",
@@ -9975,9 +9975,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/whatsapp-nativefier.png"
   },
   {
-    "packageName": "whirlpool-gui-appimage",
+    "packageName": "whirlpool-gui",
     "description": "Desktop GUI for Whirlpool by Samourai-Wallet...",
-    "icon": "https://portable-linux-apps.github.io/icons/whirlpool-gui-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/whirlpool-gui.png"
   },
   {
     "packageName": "whiteboard",
@@ -10165,9 +10165,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/xclicker.png"
   },
   {
-    "packageName": "xcloud-desktop-appimage",
+    "packageName": "xcloud-desktop",
     "description": "An unoffical desktop app for the XCloud web beta...",
-    "icon": "https://portable-linux-apps.github.io/icons/xcloud-desktop-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/xcloud-desktop.png"
   },
   {
     "packageName": "xde",
@@ -10255,9 +10255,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/xplorer.png"
   },
   {
-    "packageName": "xxh-appimage",
+    "packageName": "xxh",
     "description": "Bring your favorite shell wherever you go through the ssh...",
-    "icon": "https://portable-linux-apps.github.io/icons/xxh-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/xxh.png"
   },
   {
     "packageName": "yana",
@@ -10280,9 +10280,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/yandex-browser.png"
   },
   {
-    "packageName": "yangdownloader-appimage",
+    "packageName": "yangdownloader",
     "description": "Downloads best-quality audio and video from YouTube...",
-    "icon": "https://portable-linux-apps.github.io/icons/yangdownloader-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/yangdownloader.png"
   },
   {
     "packageName": "yank-note",
