@@ -895,11 +895,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/blowfish.png"
   },
   {
-    "packageName": "blubvolley",
-    "description": "A fun volleyball game...",
-    "icon": "https://portable-linux-apps.github.io/icons/blubvolley.png"
-  },
-  {
     "packageName": "blueglow",
     "description": "A simple system tray application to watch github notifications...",
     "icon": "https://portable-linux-apps.github.io/icons/blueglow.png"
@@ -970,9 +965,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/botframework-emulator.png"
   },
   {
-    "packageName": "botim-appimage",
+    "packageName": "botim",
     "description": "Free, Secure, Reliable Messages and Calls...",
-    "icon": "https://portable-linux-apps.github.io/icons/botim-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/botim.png"
   },
   {
     "packageName": "bottlebats",
@@ -1375,11 +1370,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/chimeradesk.png"
   },
   {
-    "packageName": "chord",
-    "description": "A Modern Music Player...",
-    "icon": "https://portable-linux-apps.github.io/icons/chord.png"
-  },
-  {
     "packageName": "chrolog",
     "description": "A automated time tracking tool...",
     "icon": "https://portable-linux-apps.github.io/icons/chrolog.png"
@@ -1433,11 +1423,6 @@
     "packageName": "circuitblocks",
     "description": "Helps newbies get into embedded programming...",
     "icon": "https://portable-linux-apps.github.io/icons/circuitblocks.png"
-  },
-  {
-    "packageName": "citra",
-    "description": "Nintendo 3DS emulator...",
-    "icon": "https://portable-linux-apps.github.io/icons/citra.png"
   },
   {
     "packageName": "city-hub",
@@ -1653,6 +1638,11 @@
     "packageName": "coolercontrol",
     "description": "A program to monitor and control your cooling devices...",
     "icon": "https://portable-linux-apps.github.io/icons/coolercontrol.png"
+  },
+  {
+    "packageName": "coolercontrold",
+    "description": "Daemon for coolercontrol, to monitor your cooling devices...",
+    "icon": "https://portable-linux-apps.github.io/icons/coolercontrold.png"
   },
   {
     "packageName": "cool-retro-term",
@@ -2785,14 +2775,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/fat-wallet.png"
   },
   {
-    "packageName": "fchat",
-    "description": "The F-Chat 3.0 client...",
-    "icon": "https://portable-linux-apps.github.io/icons/fchat.png"
-  },
-  {
     "packageName": "fchat-rising-appimage",
     "description": "A customized version of mainline F-Chat 3.0 client...",
     "icon": "https://portable-linux-apps.github.io/icons/fchat-rising-appimage.png"
+  },
+  {
+    "packageName": "fchat",
+    "description": "The F-Chat 3.0 client...",
+    "icon": "https://portable-linux-apps.github.io/icons/fchat.png"
   },
   {
     "packageName": "f-crm",
@@ -6215,14 +6205,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/oh-mymd.png"
   },
   {
-    "packageName": "olive-legacy",
-    "description": "Free non-linear video editor (version 0.1)...",
-    "icon": "https://portable-linux-apps.github.io/icons/olive-legacy.png"
-  },
-  {
     "packageName": "olive",
     "description": "Free open-source non-linear video editor (nightly build)...",
     "icon": "https://portable-linux-apps.github.io/icons/olive.png"
+  },
+  {
+    "packageName": "olive-legacy",
+    "description": "Free non-linear video editor (version 0.1)...",
+    "icon": "https://portable-linux-apps.github.io/icons/olive-legacy.png"
   },
   {
     "packageName": "ollama",
@@ -9885,14 +9875,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/watchit.png"
   },
   {
-    "packageName": "waterfox",
-    "description": "Browse the World Wide Web, current version...",
-    "icon": "https://portable-linux-apps.github.io/icons/waterfox.png"
-  },
-  {
     "packageName": "waterfox-appimage",
     "description": "Browse the World Wide Web (current version)...",
     "icon": "https://portable-linux-apps.github.io/icons/waterfox-appimage.png"
+  },
+  {
+    "packageName": "waterfox",
+    "description": "Browse the World Wide Web, current version...",
+    "icon": "https://portable-linux-apps.github.io/icons/waterfox.png"
   },
   {
     "packageName": "wavebox",
