@@ -815,9 +815,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/black-chocobo.png"
   },
   {
-    "packageName": "blacknut-appimage",
+    "packageName": "blacknut",
     "description": "Cloud gaming client...",
-    "icon": "https://portable-linux-apps.github.io/icons/blacknut-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/blacknut.png"
   },
   {
     "packageName": "blastem",
