@@ -1,6 +1,8 @@
 # COOLERCONTROL
  
- A program to monitor and control your cooling devices
+ A program to monitor and control your cooling devices.
+
+ NOTE: requires "coolercontrold" (with final "d") to work.
  
  SITE: https://gitlab.com/coolercontrol/coolercontrol
 
