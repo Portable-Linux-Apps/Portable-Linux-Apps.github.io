@@ -1,4 +1,4 @@
-# BOTIM-APPIMAGE
+# BOTIM
 
  BOTIM - Free, Secure and Reliable Messages and Calls.
 
