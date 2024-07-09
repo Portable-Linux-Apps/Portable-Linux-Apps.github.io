@@ -1330,14 +1330,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/chatpad-ai.png"
   },
   {
-    "packageName": "chatterino2",
-    "description": "Second installment of the Twitch chat client...",
-    "icon": "https://portable-linux-apps.github.io/icons/chatterino2.png"
-  },
-  {
     "packageName": "chatterino2-nightly",
     "description": "Second installment of the Twitch chat client...",
     "icon": "https://portable-linux-apps.github.io/icons/chatterino2-nightly.png"
+  },
+  {
+    "packageName": "chatterino2",
+    "description": "Second installment of the Twitch chat client...",
+    "icon": "https://portable-linux-apps.github.io/icons/chatterino2.png"
   },
   {
     "packageName": "cheat",
@@ -2380,14 +2380,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/electron-mail.png"
   },
   {
-    "packageName": "electronreact",
-    "description": "Desktop application using Electron and React...",
-    "icon": "https://portable-linux-apps.github.io/icons/electronreact.png"
-  },
-  {
     "packageName": "electron-react-boilerplate",
     "description": "A Foundation for Scalable Cross-Platform Apps...",
     "icon": "https://portable-linux-apps.github.io/icons/electron-react-boilerplate.png"
+  },
+  {
+    "packageName": "electronreact",
+    "description": "Desktop application using Electron and React...",
+    "icon": "https://portable-linux-apps.github.io/icons/electronreact.png"
   },
   {
     "packageName": "electron-ssr",
@@ -4233,6 +4233,11 @@
     "packageName": "jellyamp",
     "description": "A client for listening to music from a Jellyfin server...",
     "icon": "https://portable-linux-apps.github.io/icons/jellyamp.png"
+  },
+  {
+    "packageName": "jellyfin",
+    "description": "Media player. Stream to any device from your own server...",
+    "icon": "https://portable-linux-apps.github.io/icons/jellyfin.png"
   },
   {
     "packageName": "jetbrains-toolbox",
@@ -9645,14 +9650,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/vhs.png"
   },
   {
-    "packageName": "via",
-    "description": "Your keyboard's best friend...",
-    "icon": "https://portable-linux-apps.github.io/icons/via.png"
-  },
-  {
     "packageName": "vial",
     "description": "GUI and a QMK fork for configuring your keyboard in real time...",
     "icon": "https://portable-linux-apps.github.io/icons/vial.png"
+  },
+  {
+    "packageName": "via",
+    "description": "Your keyboard's best friend...",
+    "icon": "https://portable-linux-apps.github.io/icons/via.png"
   },
   {
     "packageName": "viber",
