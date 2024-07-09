@@ -61,48 +61,42 @@ https://github.com/ivan-hc/AM/blob/main/APP-MANAGER
 ### AM: System integration as Super User
 "AM" requires the `sudo` privileges but only to install and remove the app, all the other commands can be executed as a normal user.
 To install a program, launch the command:
-
-    am -i $PROGRAM
-
+```
+am -i $PROGRAM
+```
 the program will be installed into a dedicated directory in `/opt` (according to the [Linux Standard Base](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch03s13.html)). This is what an installation script installs with "AM":
-
-    /opt/$PROGRAM/
-    /opt/$PROGRAM/$PROGRAM
-    /opt/$PROGRAM/AM-updater
-    /opt/$PROGRAM/remove
-    /opt/$PROGRAM/icons/$ICON-NAME
-    /usr/local/bin/$PROGRAM
-    /usr/share/applications/AM-$PROGRAM.desktop
-If the distro is immutable instead, the path of the launcher (the last line above) will change like this:
-
-     /usr/local/share/applications/AM-$PROGRAM.desktop
-From version 4.3.3-1 there is also an option `--user` to enable local installation of programs in the `$HOME` directory using AppMan (jump to the [next paragraph](#appman-portable-mode-for-non-sudo-users)).
+```
+/opt/$PROGRAM/
+/opt/$PROGRAM/$PROGRAM
+/opt/$PROGRAM/AM-updater
+/opt/$PROGRAM/remove
+/opt/$PROGRAM/icons/$ICON-NAME
+/usr/local/bin/$PROGRAM
+/usr/local/share/applications/$PROGRAM-AM.desktop
+```
+Use the option `--user` to enable local installation of programs in the `$HOME` directory using AppMan (jump to the [next paragraph](#appman-portable-mode-for-non-sudo-users)).
 
 To update all the apps at once just run the following command:
-
-    am -U
-
+```
+am -U
+```
 To uninstall everything just run:
-
-    am -R $PROGRAM
-
-**SEE IT IN ACTION!**
-
-[video](https://github.com/ivan-hc/AM/assets/88724353/b2dd8ca6-5ee7-4bb2-8480-9a53f5cfcf56)
-
+```
+am -R $PROGRAM
+```
 ### AppMan: Portable mode for non-sudo users
 If renamed "[AppMan](https://github.com/ivan-hc/AppMan)", it allows you to choose where to install your applications into your `$HOME` directory. AppMan is also usable as a portable app (i.e. you can download and place it wherever you want) and it is able to update itself, anywhere!
 
 At first start it will ask you where to install the apps and it will create the directory for you (the configuration file is in `~/.config/appman`). For example, suppose you want install everything in "Applicazioni" (the italian of "applications"), this is the structure of what an installation scripts installs with "AppMan" instead:
-
-    ~/Applicazioni/$PROGRAM/
-    ~/Applicazioni/$PROGRAM/$PROGRAM
-    ~/Applicazioni/$PROGRAM/AM-updater
-    ~/Applicazioni/$PROGRAM/remove
-    ~/Applicazioni/$PROGRAM/icons/$ICON-NAME
-    ~/.local/bin/$PROGRAM
-    ~/.local/share/applications/AM-$PROGRAM.desktop
-
+```
+~/Applicazioni/$PROGRAM/
+~/Applicazioni/$PROGRAM/$PROGRAM
+~/Applicazioni/$PROGRAM/AM-updater
+~/Applicazioni/$PROGRAM/remove
+~/Applicazioni/$PROGRAM/icons/$ICON-NAME
+~/.local/bin/$PROGRAM
+~/.local/share/applications/$PROGRAM-AM.desktop
+```
 All AppMan does is to convert [all the installation scripts for "AM"](https://github.com/ivan-hc/AM/tree/main/programs) (that normally must be executed with `sudo`) in normal scripts that can manage applications in the local folder of the current user. This allows more users to be able to better configure their profile.
 
 You can already download it now to give it a try without installation:
