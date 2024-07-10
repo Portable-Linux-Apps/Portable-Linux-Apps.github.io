@@ -16,7 +16,7 @@
 
 | *[Go to the application list](https://portable-linux-apps.github.io/apps.html)* | *[Install "AM", the package manager](https://github.com/ivan-hc/AM)* |
 | - | - |
-| [<img src="https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/assets/88724353/ad82cc11-f26e-4217-9d16-a2f0f9990940" width="512" height="256">](https://portable-linux-apps.github.io/apps.html) | [<img src="https://github.com/ivan-hc/AM/assets/88724353/671f5eb0-6fb6-4392-b45e-af0ea9271d9b" width="512" height="256">](https://github.com/ivan-hc/AM) |
+| [<img src="https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/assets/88724353/3d0442a9-02d7-4bb5-8da7-6da7111d872a" width="512" height="256">](https://portable-linux-apps.github.io/apps.html) | [<img src="https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/assets/88724353/b0cbada6-9054-46ed-84ab-35db379dbf53" width="512" height="256">](https://github.com/ivan-hc/AM) |
 
 </div>
 
