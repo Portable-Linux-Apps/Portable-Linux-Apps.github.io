@@ -25,6 +25,18 @@
 - [What are the portable linux apps?](#what-are-the-portable-linux-apps)
 - [How is this site different from other sites that list AppImage packages?](#how-is-this-site-different-from-other-sites-that-list-appimage-packages)
 - [Is there a centralized repository for AppImage packages?](#is-there-a-centralized-repository-for-appimage-packages)
+- [Differences between "AM" and "AppMan"](#differences-between-quotamquot-and-quotappmanquot)
+  - [Ownership](#ownership)
+  - [About "sudo" usage](#about-quotsudoquot-usage)
+  - [How apps are installed](#how-apps-are-installed)
+  - [How to use "AM" in non-privileged mode, like "AppMan"](#how-to-use-quotamquot-in-non-privileged-mode-like-quotappmanquot)
+- [What programs can be installed](#what-programs-can-be-installed)
+- [How to update all programs, for real](#how-to-update-all-programs-for-real)
+- [Installation](#installation)
+  - [How to install "AM"](#how-to-install-quotamquot)
+  - [How to install "AppMan"](#how-to-install-quotappmanquot)
+- [External links index (tutorials, troubleshooting, sandboxing and more](#external-links-index)
+- [Related projects](#related-projects)
 
 --------
 
@@ -52,25 +64,25 @@
 --------
 
 ## Is there a centralized repository for AppImage packages?
-*Yes, really it is both an AUR-inspired database and a package manager: "**AM**", literally "Application Manager".*
+*This catalog is just the frontend for a database that aims to extend not only to x86_64 architecture apps listed here, but also to all others, including the latest aarch64 and the oldest i686.*
+
+*All the installation scripts are stored in the repository of the "AM" package manager, which I have already mentioned above.*
+
+*Click the link or the picture down below lo know more...*
 
 <div align="center">
 
-[<img src="https://github.com/ivan-hc/AM/assets/88724353/671f5eb0-6fb6-4392-b45e-af0ea9271d9b">](https://github.com/ivan-hc/AM)
-
 ## *[https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM)*
 
-</div>
+[<img src="https://github.com/ivan-hc/AM/assets/88724353/671f5eb0-6fb6-4392-b45e-af0ea9271d9b">](https://github.com/ivan-hc/AM)
 
-*All the apps listed on this website can be installed, updated and managed system-wide (as "AM") or locally (as "AppMan"), depending on how it is installed or renamed.*
+</div>
 
 *The code of this Command Line Interface is available at [this link](https://github.com/ivan-hc/AM/blob/main/APP-MANAGER).*
 
 *The [database](https://github.com/ivan-hc/AM/tree/main/programs) of "AM" does not stores packages but installation scripts, as the Arch User Repository (AUR) does with PKGBUILDs.*
 
 *Each script points directly to a program ready to be downloaded, more often as AppImage packages, but also portable apps stored in TAR, ZIP and DEB archives, scripts, standalone binares... and in some cases a script can build on-the-fly AppImage packages in a way similar to an AUR helper using [pkg2appimage](https://github.com/AppImageCommunity/pkg2appimage) and/or [appimagetool](https://github.com/AppImage/AppImageKit).*
-
-*"AM" is also extensible to all the architectures supported by the Linux kernel (although currently my work is focused on x86_64).*
 
 ------------------------------------------------------------------------
 ### Main Index
@@ -142,25 +154,25 @@
 
 ------------------------------------------------------------------------
 # Differences between "AM" and "AppMan"
-"AM" and "AppMan" differ in how they are installed, placed and renamed in the system and how/where they install apps:
-- "**AM**" is installed system-wide (requires `sudo`) in `/opt/am/` as "**APP-MANAGER**", with a symlink named "`am`" in `/usr/local/bin`.
-- "**AppMan**" is portable, you need just to rename the "APP-MANAGER" script as "`appman`" and put it wherewer you want. I recommend to place it in `$HOME/.local/bin` to be used in $PATH, to be managed from other tools (see below).
+*"AM" and "AppMan" differ in how they are installed, placed and renamed in the system and how/where they install apps:*
+- *"**AM**" is installed system-wide (requires `sudo`) in `/opt/am/` as "**APP-MANAGER**", with a symlink named "`am`" in `/usr/local/bin`.*
+- *"**AppMan**" is portable, you need just to rename the "APP-MANAGER" script as "`appman`" and put it wherewer you want. I recommend to place it in `$HOME/.local/bin` to be used in $PATH, to be managed from other tools.*
 
-Both can be updated using "[Topgrade](https://github.com/topgrade-rs/topgrade)".
+*Both can be updated using "[Topgrade](https://github.com/topgrade-rs/topgrade)".*
 
 ------------------------------------------------------------------------
 
 ### Ownership
-- "**AM**" is owned by the user that have installed it, since other users have not read/write permissions in "/opt/am";
-- "**AppMan**" is for all users, since it works locally, everyone can have its own apps and configurations.
+- *"**AM**" is owned by the user that have installed it, since other users have not read/write permissions in "/opt/am";*
+- *"**AppMan**" is for all users, since it works locally, everyone can have its own apps and configurations.*
 
 ------------------------------------------------------------------------
 
 ### About "sudo" usage
-- "AppMan" can request the root password only in the very rare case in which you want to install a library;
-- "AM" requires the root password only to install, remove apps, enable a sandbox for an AppImage, or enable/disable bash completion.
+- *"AppMan" can request the root password only in the very rare case in which you want to install a library;*
+- *"AM" requires the root password only to install, remove apps, enable a sandbox for an AppImage, or enable/disable bash completion.*
 
-All options cannot be executed with "`sudo`".
+*All options cannot be executed with "`sudo`".*
 
 ------------------------------------------------------------------------
 
@@ -168,7 +180,7 @@ All options cannot be executed with "`sudo`".
 
 ------------------------------------------------------------------------
 
-- "**AM**" installs apps system wide, in `/opt` (see [Linux Standard Base](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch03s13.html)), using the following structure:
+- *"**AM**" installs apps system wide, in `/opt` (see [Linux Standard Base](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch03s13.html)), using the following structure:*
 ```
 /opt/$PROGRAM/
 /opt/$PROGRAM/$PROGRAM
@@ -178,18 +190,18 @@ All options cannot be executed with "`sudo`".
 /usr/local/bin/$PROGRAM
 /usr/local/share/applications/$PROGRAM-AM.desktop
 ```
-NOTE, all installation scripts used before June 28, 2024 show launchers in /usr/share/applications with suffix "AM-" instead of the "AM.desktop" extension, like this:
+*NOTE, all installation scripts used before June 28, 2024 show launchers in /usr/share/applications with suffix "AM-" instead of the "AM.desktop" extension, like this:*
 
 ```
 /usr/share/applications/AM-$PROGRAM.desktop
 ```
-From 8 July 2024 this configuration is no longer available. Reinstall the application to get the new configuration.
+*From 8 July 2024 this configuration is no longer available. Reinstall the application to get the new configuration.*
 
-The change to the default location for .desktop files from /usr/share/applications to /usr/local/share/applications was made to bring "AM" in line with GNU/Linux standards for installing system-wide third-party applications, see [here](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch04s09.html).
+*The change to the default location for .desktop files from /usr/share/applications to /usr/local/share/applications was made to bring "AM" in line with GNU/Linux standards for installing system-wide third-party applications, see [here](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch04s09.html).*
 
 ------------------------------------------------------------------------
 
-- "**AppMan**" is more flexible, since it asks you where to install the apps in your $HOME directory. For example, suppose you want install everything in "Applicazioni" (the italian of "applications"), this is the structure of what an installation scripts installs with "AppMan" instead:
+- *"**AppMan**" is more flexible, since it asks you where to install the apps in your $HOME directory. For example, suppose you want install everything in "Applicazioni" (the italian of "applications"), this is the structure of what an installation scripts installs with "AppMan" instead:*
 ```
 ~/Applicazioni/$PROGRAM/
 ~/Applicazioni/$PROGRAM/$PROGRAM
@@ -199,38 +211,38 @@ The change to the default location for .desktop files from /usr/share/applicatio
 ~/.local/bin/$PROGRAM
 ~/.local/share/applications/$PROGRAM-AM.desktop
 ```
-NOTE, all installation scripts used before June 28, 2024 show the launchers with suffix "AM-" instead of the "AM.desktop" extension, like this:
+*NOTE, all installation scripts used before June 28, 2024 show the launchers with suffix "AM-" instead of the "AM.desktop" extension, like this:*
 ```
 ~/.local/share/applications/AM-$PROGRAM.desktop
 ```
-From 8 July 2024 this configuration is no longer available. Reinstall the application to get the new configuration.
+*From 8 July 2024 this configuration is no longer available. Reinstall the application to get the new configuration.*
 
-The configuration file for AppMan is in `~/.config/appman` and contains the path you indicated at first startup. Changing its contents will result in changing the paths for each subsequent operation carried out with "AppMan", the apps and modules stored in the old path will not be manageable.
+*The configuration file for AppMan is in `~/.config/appman` and contains the path you indicated at first startup. Changing its contents will result in changing the paths for each subsequent operation carried out with "AppMan", the apps and modules stored in the old path will not be manageable.*
 
-At first startup you can indicate any directory or subdirectory you want, as long as it is in your $HOME.
+*At first startup you can indicate any directory or subdirectory you want, as long as it is in your $HOME.*
 
 ------------------------------------------------------------------------
 
 ### How to use "AM" in non-privileged mode, like "AppMan"
-As already mentioned above, at "[Ownership](#ownership)" the user who installed "AM" is the sole owner, having write permissions for both /opt/am and for all installed apps.
+*As already mentioned above, at "[Ownership](#ownership)" the user who installed "AM" is the sole owner, having write permissions for both /opt/am and for all installed apps.*
 
-However, every user of the same system is allowed to use the option `--user` or `appman`, to use "AM" as "AppMan" and to install apps locally and withour root privileges:
+*However, every user of the same system is allowed to use the option `--user` or `appman`, to use "AM" as "AppMan" and to install apps locally and withour root privileges:*
 ```
 am --user
 ```
-To switch "AM" back to "AM" from "AppMan Mode", use the always suggested option `--system`:
+*To switch "AM" back to "AM" from "AppMan Mode", use the always suggested option `--system`:*
 ```
 am --system
 ```
-To perform a test and see if you are in "AppMan Mode" or not, run for example the command `am -f` to see the list of the installed apps.
+*To perform a test and see if you are in "AppMan Mode" or not, run for example the command `am -f` to see the list of the installed apps.*
 
-In this video I'll install LXtask locally:
+*In this video I'll install LXtask locally:*
 
 https://github.com/ivan-hc/AM/assets/88724353/65b27cf6-edc5-4a4c-b2f9-42e8623dc76f
 
-NOTE: non-privileged users can update their own local applications and modules, but cannot update /opt/am/APP-MANAGER.
+*NOTE: non-privileged users can update their own local applications and modules, but cannot update /opt/am/APP-MANAGER.*
 
-It is therefore suggested to use pure "AppMan" instead of the "AppMan Mode" of "AM".
+*It is therefore suggested to use pure "AppMan" instead of the "AppMan Mode" of "AM".*
 
 ------------------------------------------------------------------------
 
@@ -239,25 +251,25 @@ It is therefore suggested to use pure "AppMan" instead of the "AppMan Mode" of "
 
 ------------------------------------------------------------------------
 # What programs can be installed
-"AM"/"AppMan" installs, removes, updates and manages only standalone programs, ie those programs that can be run from a single directory in which they are contained. The database aims to be a reference point where you can download all the AppImage packages scattered around the web, otherwise unobtainable, as you would expect from any package manager, through specific installation scripts for each application, as happens with the AUR PKGBUILDs, on Arch Linux. You can see all of them [here](https://github.com/ivan-hc/AM/tree/main/programs), divided by architecture.
+*"AM"/"AppMan" installs, removes, updates and manages only standalone programs, ie those programs that can be run from a single directory in which they are contained. The database aims to be a reference point where you can download all the AppImage packages scattered around the web, otherwise unobtainable, as you would expect from any package manager, through specific installation scripts for each application, as happens with the AUR PKGBUILDs, on Arch Linux. You can see all of them [here](https://github.com/ivan-hc/AM/tree/main/programs), divided by architecture.*
 
-NOTE that currently my work focuses on applications for [x86_64](https://github.com/ivan-hc/AM/tree/main/programs/x86_64) architecture, but it is possible to extend "AM" to all other available architectures. If you are interested, you can deliberately join this project to improve the available lists.
+*NOTE that currently my work focuses on applications for [x86_64](https://github.com/ivan-hc/AM/tree/main/programs/x86_64) architecture, but it is possible to extend "AM" to all other available architectures. If you are interested, you can deliberately join this project to improve the available lists.*
 
-1. **PROGRAMS**, they are taken:
-- from official sources (see Firefox, Thunderbird, Blender, NodeJS, Chromium Latest, Platform Tools...);
-- extracted from official .deb/tar/zip packages;
-- from the repositories and official sites of individual developers.
+*1. **PROGRAMS**, they are taken:*
+*- from official sources (see Firefox, Thunderbird, Blender, NodeJS, Chromium Latest, Platform Tools...);*
+*- extracted from official .deb/tar/zip packages;*
+*- from the repositories and official sites of individual developers.*
 
-2. **APPIMAGES**, they are taken:
-- from official sources (if the upstream developers provide them);
-- from AppImage recipes to be compiled on-the-fly with [pkg2appimage](https://github.com/AppImage/pkg2appimage) and [appimagetool](https://github.com/AppImage/AppImageKit);
-- from unofficial third-party developers, but only if an official release is not available.
+*2. **APPIMAGES**, they are taken:*
+*- from official sources (if the upstream developers provide them);*
+*- from AppImage recipes to be compiled on-the-fly with [pkg2appimage](https://github.com/AppImage/pkg2appimage) and [appimagetool](https://github.com/AppImage/AppImageKit);*
+*- from unofficial third-party developers, but only if an official release is not available.*
 
-3. **FIREFOX PROFILES** to run as webapps, the ones with suffix "ffwa-" in the apps list.
+*3. **FIREFOX PROFILES** to run as webapps, the ones with suffix "ffwa-" in the apps list.*
 
-4. **THIRD-PARTY LIBRARIES** (see [here](https://github.com/ivan-hc/AM/blob/main/libraries/libs-list)) if they are not provided in your distribution's repositories. These are to be installed in truly exceptional cases.
+*4. **THIRD-PARTY LIBRARIES**, needed if they are not provided in your distribution's repositories. These are to be installed in truly exceptional cases.*
 
-You can consult basic information, links to sites and sources used through the related command `am -a $PROGRAM` or `appman -a $PROGRAM`, or visit [**portable-linux-apps.github.io/apps**](https://portable-linux-apps.github.io/apps).
+*You can consult basic information, links to sites and sources used through the related command `am -a $PROGRAM` or `appman -a $PROGRAM`, that uses the same pages of this site.*
 
 ------------------------------------------------------------------------
 
@@ -290,7 +302,7 @@ https://github.com/ivan-hc/AM/assets/88724353/f93ca782-2fc6-45a0-a3f2-1fba297a92
 3. To update all the programs and "AM"/"AppMan" itself, just run the command`am -u` / `appman -u`
 4. To update only "AM"/"AppMan" and the modules use the option `-s` instead, `am -s` / `appman -s`
 
-NOTE, non-privileged users using "AM" in "AppMan Mode" cannot update /opt/am/APP-MANAGER (points 3 and 4). See "[How to use AM in non-privileged mode, like AppMan](#how-to-use-am-in-non-privileged-mode-like-appman)".
+NOTE, non-privileged users using "AM" in "AppMan Mode" cannot update /opt/am/APP-MANAGER (points 3 and 4). See "[How to use AM in non-privileged mode, like AppMan](#how-to-use-quotamquot-in-non-privileged-mode-like-quotappmanquot)".
 
 ### How to update everything using "Topgrade"
 Keeping your system up to date usually involves invoking multiple package managers. This results in big, non-portable shell one-liners saved in your shell. To remedy this, Topgrade detects which tools you use and runs the appropriate commands to update them.
@@ -306,7 +318,7 @@ appman -i topgrade
 
 Visit [github.com/topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) to learn more.
 
-NOTE, "AppMan" users must install `appman` in ~/.local/bin to allow updates via Topgrade. See "[How to install AppMan](#how-to-install-appman)".
+NOTE, "AppMan" users must install `appman` in ~/.local/bin to allow updates via Topgrade. See "[How to install AppMan](#how-to-install-quotappmanquot)".
 
 ------------------------------------------------------------------------
 
@@ -377,7 +389,7 @@ In both cases, the "INSTALL" script will create:
 - the directory "/opt/am/modules" (containing the .am modules for the non-core options)
 - the symlink "/usr/local/bin/am" for "/opt/am/APP-MANAGER"
 
-NOTE, if you don't feel comfortable having to always use root permissions, the installation method for "AppMan" is totally different. If you are interested, go [to the next paragraph](#how-to-install-appman), else [Back to "Main Index"](#main-index) or jump to "[Usage (all the available options)](#usage)".
+NOTE, if you don't feel comfortable having to always use root permissions, the installation method for "AppMan" is totally different. If you are interested, go [to the next paragraph](#how-to-install-quotappmanquot), else [Back to "Main Index"](#main-index) or see "[all the available options" at [github.com/ivan-hc/AM#usage](https://github.com/ivan-hc/AM#usage).
 
 ------------------------------------------------------------------------
 ## How to install "AppMan"
@@ -428,7 +440,7 @@ appman -R {PROGRAM1} {PROGRAM2} {PROGRAM3}...
 
 to have a list of the installed programs use the option `-f` or `files` (syntax `am -f` or `appman -f`).
 
-See also "[How to update or remove apps manually](#how-to-update-or-remove-apps-manually)".
+See also "[How to update or remove apps manually", at [github.com/ivan-hc/AM#how-to-update-or-remove-apps-manually](https://github.com/ivan-hc/AM#how-to-update-or-remove-apps-manually).
 
 ------------------------------------------------------------------------
 
