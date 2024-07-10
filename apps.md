@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed all the apps managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture. 
+#### Here are listed all the apps managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
@@ -1860,7 +1860,7 @@
 | <img src="icons/tmux.png" width="48" height="48"> | [***tmux***](apps/tmux.md) | *Tmux AppImage build via Docker.*..[ *read more* ](apps/tmux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tmux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tmux) |
 | <img src="icons/tnt.png" width="48" height="48"> | [***tnt***](apps/tnt.md) | *A computer-assisted translation tool.*..[ *read more* ](apps/tnt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tnt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tnt) |
 | <img src="icons/tockler.png" width="48" height="48"> | [***tockler***](apps/tockler.md) | *An application that tracks your time by monitoring.*..[ *read more* ](apps/tockler.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tockler) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tockler) |
-| <img src="icons/todo-bash.png" width="48" height="48"> | [***todo-bash***](apps/todo-bash.md) | * Todo list for the Bash command line.*..[ *read more* ](apps/todo-bash.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/todo-bash) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/todo-bash) |
+| <img src="icons/todo-bash.png" width="48" height="48"> | [***todo-bash***](apps/todo-bash.md) | *  Todo list for the Bash command line.*..[ *read more* ](apps/todo-bash.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/todo-bash) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/todo-bash) |
 | <img src="icons/todoist.png" width="48" height="48"> | [***todoist***](apps/todoist.md) | *Todoist for linux.*..[ *read more* ](apps/todoist.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/todoist) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/todoist) |
 | <img src="icons/todorust.png" width="48" height="48"> | [***todorust***](apps/todorust.md) | *Simple ToDoList made in rust.*..[ *read more* ](apps/todorust.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/todorust) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/todorust) |
 | <img src="icons/toipe.png" width="48" height="48"> | [***toipe***](apps/toipe.md) | *yet another typing test, but crab flavoured.*..[ *read more* ](apps/toipe.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/toipe) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/toipe) |
@@ -2130,6 +2130,6 @@ You can improve these pages via a [pull request](https://github.com/Portable-Lin
 
 --------
 
-*© 2020-present Ivan Alessandro Sala aka 'Ivan-HC'* - I'm here just for fun! 
+*© 2020-present Ivan Alessandro Sala aka 'Ivan-HC'* - I'm here just for fun!
 
 
