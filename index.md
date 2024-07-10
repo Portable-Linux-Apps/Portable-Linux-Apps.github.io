@@ -190,19 +190,19 @@ https://github.com/ivan-hc/AM/assets/88724353/65b27cf6-edc5-4a4c-b2f9-42e8623dc7
 
 *NOTE that currently my work focuses on applications for [x86_64](https://github.com/ivan-hc/AM/tree/main/programs/x86_64) architecture, but it is possible to extend "AM" to all other available architectures. If you are interested, you can deliberately join this project to improve the available lists.*
 
-*1. **PROGRAMS**, they are taken:*
+1. ***PROGRAMS**, they are taken:*
 - *from official sources (see Firefox, Thunderbird, Blender, NodeJS, Chromium Latest, Platform Tools...);*
 - *extracted from official .deb/tar/zip packages;*
 - *from the repositories and official sites of individual developers.*
 
-*2. **APPIMAGES**, they are taken:*
+2. ***APPIMAGES**, they are taken:*
 - *from official sources (if the upstream developers provide them);*
 - *from AppImage recipes to be compiled on-the-fly with [pkg2appimage](https://github.com/AppImage/pkg2appimage) and [appimagetool](https://github.com/AppImage/AppImageKit);*
 - *from unofficial third-party developers, but only if an official release is not available.*
 
-*3. **FIREFOX PROFILES** to run as webapps, the ones with suffix "ffwa-" in the apps list.*
+3. ***FIREFOX PROFILES** to run as webapps, the ones with suffix "ffwa-" in the apps list.*
 
-*4. **THIRD-PARTY LIBRARIES**, needed if they are not provided in your distribution's repositories. These are to be installed in truly exceptional cases.*
+4. ***THIRD-PARTY LIBRARIES**, needed if they are not provided in your distribution's repositories. These are to be installed in truly exceptional cases.*
 
 *You can consult basic information, links to sites and sources used through the related command `am -a $PROGRAM` or `appman -a $PROGRAM`, that uses the same pages of this site.*
 
@@ -230,10 +230,10 @@ https://github.com/ivan-hc/AM/assets/88724353/65b27cf6-edc5-4a4c-b2f9-42e8623dc7
 
 https://github.com/ivan-hc/AM/assets/88724353/f93ca782-2fc6-45a0-a3f2-1fba297a92bf
 
-*1. To update only the programs, use `am -u --apps` / `appman -u --apps`*
-*2. To update just one program, use `am -u $PROGRAM` / `appman -u $PROGRAM`*
-*3. To update all the programs and "AM"/"AppMan" itself, just run the command`am -u` / `appman -u`*
-*4. To update only "AM"/"AppMan" and the modules use the option `-s` instead, `am -s` / `appman -s`*
+1. *To update only the programs, use `am -u --apps` / `appman -u --apps`*
+2. *To update just one program, use `am -u $PROGRAM` / `appman -u $PROGRAM`*
+3. *To update all the programs and "AM"/"AppMan" itself, just run the command`am -u` / `appman -u`*
+4. *To update only "AM"/"AppMan" and the modules use the option `-s` instead, `am -s` / `appman -s`*
 
 *NOTE, non-privileged users using "AM" in "AppMan Mode" cannot update /opt/am/APP-MANAGER (points 3 and 4). See "[How to use AM in non-privileged mode, like AppMan](#how-to-use-quotamquot-in-non-privileged-mode-like-quotappmanquot)".*
 
