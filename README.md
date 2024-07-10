@@ -1,4 +1,7 @@
-# PORTABLE LINUX APPS: the first AUR-inspired AppImage Software Center!
+# PORTABLE LINUX APPS
+
+## the first AUR-inspired AppImage Software Center!
+
 #### Welcome to the most complete database of all AppImage packages and portable applications for GNU/Linux.
 -------
 ## [*GO TO THE APPLICATION'S LIST*](https://portable-linux-apps.github.io/apps.html)
@@ -51,7 +54,7 @@ You can consult the entire **list of managed apps** at [**portable-linux-apps.gi
 ------------------------------------------------------------------------
 ### Main Index
 ------------------------------------------------------------------------
-[Differences between "AM" and "AppMan"](#differences-quotbetweenquot-am-and-quotappmanquot)
+[Differences between "AM" and "AppMan"](#differences-between-quotamquot-and-quotappmanquot)
 - [Ownership](#ownership)
 - [About "sudo" usage](#about-quotsudoquot-usage)
 - [How apps are installed](#how-apps-are-installed)
@@ -105,7 +108,7 @@ You can consult the entire **list of managed apps** at [**portable-linux-apps.gi
 - [Cannot mount and run AppImages](#cannot-mount-and-run-appimages)
 - [Spyware, malware and dangerous software](#spyware-malware-and-dangerous-software)
 - [Stop AppImage prompt to create its own launcher, desktop integration and doubled launchers](#stop-appimage-prompt-to-create-its-own-launcher-desktop-integration-and-doubled-launchers)
-- [The script points to "releases" instead of downloading the latest stable](#the-script-points-to-releases-instead-of-downloading-the-latest-stable)
+- [The script points to "releases" instead of downloading the latest stable](#the-script-points-to-quotreleasesquot-instead-of-downloading-the-latest-stable)
 - [Wrong download link](#wrong-download-link)
 
 [Related projects](#related-projects)
