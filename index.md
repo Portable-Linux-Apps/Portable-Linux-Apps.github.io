@@ -50,7 +50,7 @@
 ### How is this site different from other sites that list AppImage packages?
 *This catalog aims to survey and list all the AppImages and autonomous programs, and aims to provide a centralized point where you can document yourself on individual apps and where you can easily reach the URLs to the sources, both through the pages dedicated to each app and by reading the "installation scripts".*
 
-*Yeah, each app has its own installation script, PKGBUIL style, but with an alternative package manager named "**[AM](https://github.com/ivan-hc/AM)**", which works like the more classic APT, PacMan/YAY, DNF... and which can therefore place them in specific paths of the filesystem , like any program, and allows updates via a system of scripts called "AM-updater". If an app can't update itself, the dedicated "AM-updater" script will use an application-specific method to always update your favorite apps to the latest version. FOR REAL!*
+*Yeah, each app has its own installation script, PKGBUILD style, but with an alternative package manager named "**[AM](https://github.com/ivan-hc/AM)**", which works like the more classic APT, PacMan/YAY, DNF... and which can therefore place them in specific paths of the filesystem , like any program, and allows updates via a system of scripts called "AM-updater". If an app can't update itself, the dedicated "AM-updater" script will use an application-specific method to always update your favorite apps to the latest version. FOR REAL!*
 
 *This catalog is open source. You can edit its pages, update them and see the sources clearly, as a "wiki".*
 
