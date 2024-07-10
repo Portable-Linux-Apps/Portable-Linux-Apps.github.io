@@ -51,19 +51,19 @@ You can consult the entire **list of managed apps** at [**portable-linux-apps.gi
 ------------------------------------------------------------------------
 ### Main Index
 ------------------------------------------------------------------------
-[Differences between "AM" and "AppMan"](#differences-between-am-and-appman)
+[Differences between "AM" and "AppMan"](#differences-quotbetweenquot-am-and-quotappmanquot)
 - [Ownership](#ownership)
-- [About "sudo" usage](#about-sudo-usage)
+- [About "sudo" usage](#about-quotsudoquot-usage)
 - [How apps are installed](#how-apps-are-installed)
-- [How to use "AM" in non-privileged mode, like "AppMan"](#how-to-use-am-in-non-privileged-mode-like-appman)
+- [How to use "AM" in non-privileged mode, like "AppMan"](#how-to-use-quotamquot-in-non-privileged-mode-like-quotappmanquot)
 
 [What programs can be installed](#what-programs-can-be-installed)
 
 [How to update all programs, for real](#how-to-update-all-programs-for-real)
 
 [Installation](#installation)
-- [How to install "AM"](#how-to-install-am)
-- [How to install "AppMan"](#how-to-install-appman)
+- [How to install "AM"](#how-to-install-quotamquot)
+- [How to install "AppMan"](#how-to-install-quotappmanquot)
 
 [Uninstall](#uninstall)
 
@@ -81,7 +81,7 @@ You can consult the entire **list of managed apps** at [**portable-linux-apps.gi
   - [How to create a launcher for a local AppImage](#how-to-create-a-launcher-for-a-local-appimage)
   - [How to remove the orphan launchers](#how-to-remove-the-orphan-launchers)
   - [AppImages from external media](#appimages-from-external-media)
-- [How to use "AM" in non-privileged mode, like "AppMan"](#how-to-use-am-in-non-privileged-mode-like-appman)
+- [How to use "AM" in non-privileged mode, like "AppMan"](#how-to-use-quotamquot-in-non-privileged-mode-like-quotappmanquot)
 - [Sandbox an AppImage](#sandbox-an-appimage)
   - [How to enable a sandbox](#how-to-enable-a-sandbox)
   - [How to disable a sandbox](#how-to-disable-a-sandbox)
@@ -91,10 +91,10 @@ You can consult the entire **list of managed apps** at [**portable-linux-apps.gi
 - [How to update or remove apps manually](#how-to-update-or-remove-apps-manually)
 - [Downgrade an installed app to a previous version](#downgrade-an-installed-app-to-a-previous-version)
 - [Create and test your own installation script](#create-and-test-your-own-installation-script)
-  - [Option Zero: "AppImages"](#option-zero-appimages)
-  - [Option One: "build AppImages on-the-fly"](#option-one-build-appimages-on-the-fly)
-  - [Option Two: "Archives and other programs"](#option-two-archives-and-other-programs)
-  - [Option Three: "Firefox profiles"](#option-three-firefox-profiles)
+  - [Option Zero: "AppImages"](#option-zero-quotappimagesquot)
+  - [Option One: "build AppImages on-the-fly"](#option-one-quotbuild-appimages-on-the-flyquot)
+  - [Option Two: "Archives and other programs"](#option-two-quotarchives-and-other-programsquot)
+  - [Option Three: "Firefox profiles"](#option-three-quotfirefox-profilesquot)
   - [How an installation script works](#how-an-installation-script-works)
   - [How to test an installation script](#how-to-test-an-installation-script)
 - [Third-party databases for applications (NeoDB)](#third-party-databases-for-applications-neodb)
@@ -287,7 +287,7 @@ NOTE, "AppMan" users must install `appman` in ~/.local/bin to allow updates via 
 # Installation
 This section explains how to install "AM" or "AppMan".
 
-If you don't know the difference, please read "[Differences between "AM" and "AppMan"](#differences-between-am-and-appman)" first.
+If you don't know the difference, please read "[Differences between "AM" and "AppMan"](#differences-between-quotamquot-and-quotappmanquot)" first.
 
 #### Core dependences
 Below are the **essential system dependencies** that you must install before proceeding:
@@ -311,8 +311,8 @@ The following are optional dependencies that some programs may require:
 
 ### Proceede
 
-- [How to install "AM"](#how-to-install-am)
-- [How to install "AppMan"](#how-to-install-appman)
+- [How to install "AM"](#how-to-install-quotamquot)
+- [How to install "AppMan"](#how-to-install-quotappmanquot)
 
 
 ## How to install "AM"
@@ -778,7 +778,7 @@ This section is committed to giving small demonstrations of each available optio
     - [How to create a launcher for a local AppImage](#how-to-create-a-launcher-for-a-local-appimage)
     - [How to remove the orphan launchers](#how-to-remove-the-orphan-launchers)
     - [AppImages from external media](#appimages-from-external-media)
-  - [How to use "AM" in non-privileged mode, like "AppMan"](#how-to-use-am-in-non-privileged-mode-like-appman)
+  - [How to use "AM" in non-privileged mode, like "AppMan"](#how-to-use-quotamquot-in-non-privileged-mode-like-quotappmanquot)
   - [Sandbox an AppImage](#sandbox-an-appimage)
     - [How to enable a sandbox](#how-to-enable-a-sandbox)
     - [How to disable a sandbox](#how-to-disable-a-sandbox)
@@ -788,10 +788,10 @@ This section is committed to giving small demonstrations of each available optio
   - [How to update or remove apps manually](#how-to-update-or-remove-apps-manually)
   - [Downgrade an installed app to a previous version](#downgrade-an-installed-app-to-a-previous-version)
   - [Create and test your own installation script](#create-and-test-your-own-installation-script)
-    - [Option Zero: "AppImages"](#option-zero-appimages)
-    - [Option One: "build AppImages on-the-fly"](#option-one-build-appimages-on-the-fly)
-    - [Option Two: "Archives and other programs"](#option-two-archives-and-other-programs)
-    - [Option Three: "Firefox profiles"](#option-three-firefox-profiles)
+    - [Option Zero: "AppImages"](#option-zero-quotappimagesquot)
+    - [Option One: "build AppImages on-the-fly"](#option-one-quotbuild-appimages-on-the-flyquot)
+    - [Option Two: "Archives and other programs"](#option-two-quotarchives-and-other-programsquot)
+    - [Option Three: "Firefox profiles"](#option-three-quotfirefox-profilesquot)
     - [How an installation script works](#how-an-installation-script-works)
     - [How to test an installation script](#how-to-test-an-installation-script)
   - [Third-party databases for applications (NeoDB)](#third-party-databases-for-applications-neodb)
@@ -1108,10 +1108,10 @@ The available options are as follows:
 3. Create a custom Firefox profile
 
 To learn more about a specific option, use the index below
-- [Option Zero: "AppImages"](#option-zero-appimages)
-- [Option One: "build AppImages on-the-fly"](#option-one-build-appimages-on-the-fly)
-- [Option Two: "Archives and other programs"](#option-two-archives-and-other-programs)
-- [Option Three: "Firefox profiles"](#option-three-firefox-profiles)
+- [Option Zero: "AppImages"](#option-zero-quotappimagesquot)
+- [Option One: "build AppImages on-the-fly"](#option-one-quotbuild-appimages-on-the-flyquot)
+- [Option Two: "Archives and other programs"](#option-two-quotarchives-and-other-programsquot)
+- [Option Three: "Firefox profiles"](#option-three-quotfirefox-profilesquot)
 
 Otherwise, go directly to the last paragraphs, which are
 - [How an installation script works](#how-an-installation-script-works)
@@ -1216,7 +1216,7 @@ For more details, see the full guide at https://github.com/ivan-hc/neodb
 - [Cannot mount and run AppImages](#cannot-mount-and-run-appimages)
 - [Spyware, malware and dangerous software](#spyware-malware-and-dangerous-software)
 - [Stop AppImage prompt to create its own launcher, desktop integration and doubled launchers](#stop-appimage-prompt-to-create-its-own-launcher-desktop-integration-and-doubled-launchers)
-- [The script points to "releases" instead of downloading the latest stable](#the-script-points-to-releases-instead-of-downloading-the-latest-stable)
+- [The script points to "releases" instead of downloading the latest stable](#the-script-points-to-quotreleasesquot-instead-of-downloading-the-latest-stable)
 - [Wrong download link](#wrong-download-link)
 
 ------------------------------------------------------------------------
