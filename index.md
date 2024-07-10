@@ -70,7 +70,7 @@
 
 *All the installation scripts are stored in the repository of the "AM" package manager, which I have already mentioned above.*
 
-*Click the link or the picture down below lo know more...*
+*Click the link or the picture down below to know more...*
 
 <div align="center">
 
