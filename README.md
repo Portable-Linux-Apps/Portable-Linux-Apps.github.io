@@ -191,14 +191,14 @@ https://github.com/ivan-hc/AM/assets/88724353/65b27cf6-edc5-4a4c-b2f9-42e8623dc7
 *NOTE that currently my work focuses on applications for [x86_64](https://github.com/ivan-hc/AM/tree/main/programs/x86_64) architecture, but it is possible to extend "AM" to all other available architectures. If you are interested, you can deliberately join this project to improve the available lists.*
 
 *1. **PROGRAMS**, they are taken:*
-*- from official sources (see Firefox, Thunderbird, Blender, NodeJS, Chromium Latest, Platform Tools...);*
-*- extracted from official .deb/tar/zip packages;*
-*- from the repositories and official sites of individual developers.*
+- *from official sources (see Firefox, Thunderbird, Blender, NodeJS, Chromium Latest, Platform Tools...);*
+- *extracted from official .deb/tar/zip packages;*
+- *from the repositories and official sites of individual developers.*
 
 *2. **APPIMAGES**, they are taken:*
-*- from official sources (if the upstream developers provide them);*
-*- from AppImage recipes to be compiled on-the-fly with [pkg2appimage](https://github.com/AppImage/pkg2appimage) and [appimagetool](https://github.com/AppImage/AppImageKit);*
-*- from unofficial third-party developers, but only if an official release is not available.*
+- *from official sources (if the upstream developers provide them);*
+- *from AppImage recipes to be compiled on-the-fly with [pkg2appimage](https://github.com/AppImage/pkg2appimage) and [appimagetool](https://github.com/AppImage/AppImageKit);*
+- *from unofficial third-party developers, but only if an official release is not available.*
 
 *3. **FIREFOX PROFILES** to run as webapps, the ones with suffix "ffwa-" in the apps list.*
 
@@ -218,12 +218,12 @@ https://github.com/ivan-hc/AM/assets/88724353/65b27cf6-edc5-4a4c-b2f9-42e8623dc7
 *This project was born to dispel this myth and to solve the problem. And the solution is much more trivial than you expect.*
 
 *There are several methods to update apps, here are the most common ones, in order of priority:*
-*- the "comparison between versions" is the most widespread in the database, the version of the app installed is compared with the one present at the source, be it an official site or another site that tracks it;*
-*- if an AppImage package has a .zsync file, that will be used to download binary deltas (especially useful with large files, but not very popular among developers);*
-*- some portable apps are self-updatable (see Firefox and Thunderbird);*
-*- if an app or script is extremely small (a few kilobytes), it is downloaded directly from scratch;*
-*- in rare cases, if a file .zsync is broken, we use [appimageupdatetool](https://github.com/AppImage/AppImageUpdate);*
-*- in some cases, the apps have a fixed version, both due to the developers' choices to abandon a portable package in favor of other more common platforms, and because a software is no longer developed.*
+- *the "comparison between versions" is the most widespread in the database, the version of the app installed is compared with the one present at the source, be it an official site or another site that tracks it;*
+- *if an AppImage package has a .zsync file, that will be used to download binary deltas (especially useful with large files, but not very popular among developers);*
+- *some portable apps are self-updatable (see Firefox and Thunderbird);*
+- *if an app or script is extremely small (a few kilobytes), it is downloaded directly from scratch;*
+- *in rare cases, if a file .zsync is broken, we use [appimageupdatetool](https://github.com/AppImage/AppImageUpdate);*
+- *in some cases, the apps have a fixed version, both due to the developers' choices to abandon a portable package in favor of other more common platforms, and because a software is no longer developed.*
 
 ### How to update all installed apps
 *Option `-u` or `update` updates all the installed apps and keeps "AM"/"AppMan" in sync with the latest version and all latest bug fixes.*
@@ -266,23 +266,23 @@ appman -i topgrade
 
 #### Core dependences
 *Below are the **essential system dependencies** that you must install before proceeding:*
-*- "`coreutils`" (contains "`cat`", "`chmod`", "`chown`"...);*
-*- "`curl`", to check URLs;*
-*- "`grep`", to check files;*
-*- "`sed`", to edit/adapt installed files;*
-*- "`wget`" to download all programs and update "AM"/"AppMan" itself.*
+- *"`coreutils`" (contains "`cat`", "`chmod`", "`chown`"...);*
+- *"`curl`", to check URLs;*
+- *"`grep`", to check files;*
+- *"`sed`", to edit/adapt installed files;*
+- *"`wget`" to download all programs and update "AM"/"AppMan" itself.*
 
 #### Dependency only for "AM"
-*- "`sudo`", required by "AM" to install/remove programs, sandbox AppImages and enable/disable bash-completion.*
+- *"`sudo`", required by "AM" to install/remove programs, sandbox AppImages and enable/disable bash-completion.*
 
 *NOTE: use "AppMan" for non privileged use or if you prefer to gain administration privileges using alternative commands such as `doas` or similar.*
 
 #### Extra dependences (recommended)
 *The following are optional dependencies that some programs may require:*
-*- "`binutils`", contains a series of basic commands, including "`ar`" which extracts .deb packages;*
-*- "`unzip`", to extract .zip packages;*
-*- "`tar`", to extract .tar* packages;*
-*- "`zsync`", about 10% of AppImages depend on this to be updated.*
+- *"`binutils`", contains a series of basic commands, including "`ar`" which extracts .deb packages;*
+- *"`unzip`", to extract .zip packages;*
+- *"`tar`", to extract .tar* packages;*
+- *"`zsync`", about 10% of AppImages depend on this to be updated.*
 
 ### Proceede
 
@@ -316,11 +316,11 @@ sudo ./INSTALL
 
 ### Structure of the "AM" installation
 *In both cases, the "INSTALL" script will create:*
-*- the script "/opt/am/APP-MANAGER"*
-*- the script "/opt/am/remove" (to remove "AM" using the command `am -R am`)*
-*- the directory "/opt/am/.cache" (where all processes will been executed)*
-*- the directory "/opt/am/modules" (containing the .am modules for the non-core options)*
-*- the symlink "/usr/local/bin/am" for "/opt/am/APP-MANAGER"*
+- *the script "/opt/am/APP-MANAGER"*
+- *the script "/opt/am/remove" (to remove "AM" using the command `am -R am`)*
+- *the directory "/opt/am/.cache" (where all processes will been executed)*
+- *the directory "/opt/am/modules" (containing the .am modules for the non-core options)*
+- *the symlink "/usr/local/bin/am" for "/opt/am/APP-MANAGER"*
 
 *NOTE, if you don't feel comfortable having to always use root permissions, the installation method for "AppMan" is totally different. If you are interested, go [to the next paragraph](#how-to-install-quotappmanquot), else [Back to "Main Index"](#main-index) or see "[all the available options" at [github.com/ivan-hc/AM#usage](https://github.com/ivan-hc/AM#usage).*
 
@@ -332,8 +332,8 @@ sudo ./INSTALL
 
 #### Use "AppMan" in "$PATH"
 *To do so, you must first enable that "$PATH":*
-*- add `export PATH=$PATH:$(xdg-user-dir USER)/.local/bin` in the ` ~/.bashrc`*
-*- create the directory `~/.local/bin` if it is not available*
+- *add `export PATH=$PATH:$(xdg-user-dir USER)/.local/bin` in the ` ~/.bashrc`*
+- *create the directory `~/.local/bin` if it is not available*
 
 *To do all this quickly, simply copy/paste the following command:*
 ```
@@ -347,10 +347,10 @@ wget https://raw.githubusercontent.com/ivan-hc/AM/main/APP-MANAGER -O appman && 
 
 ### Structure of the "AppMan" installation
 *Unlike "AM" which needs to be placed in specific locations, "AppMan" is portable. The modules and directories will be placed in the directory you chose:*
-*- the script "appman" is wherever you want*
-*- the directory "$HOME/path/to/your/custom/directory/.cache" (where all processes will been executed)*
-*- the directory "$HOME/path/to/your/custom/directory/modules" (containing the .am modules for the non-core options)*
-*- the configuration file "$HOME/.config/appman/appman-config" (the only fixed directory)*
+- *the script "appman" is wherever you want*
+- *the directory "$HOME/path/to/your/custom/directory/.cache" (where all processes will been executed)*
+- *the directory "$HOME/path/to/your/custom/directory/modules" (containing the .am modules for the non-core options)*
+- *the configuration file "$HOME/.config/appman/appman-config" (the only fixed directory)*
 
 ------------------------------------------------------------------------
 
@@ -359,8 +359,8 @@ wget https://raw.githubusercontent.com/ivan-hc/AM/main/APP-MANAGER -O appman && 
 
 ------------------------------------------------------------------------
 # Uninstall
-*- To uninstall "AM" just run the command `am -R am`*
-*- To uninstall "AppMan" just remove it and the directory `$HOME/.config/appman`*
+- *To uninstall "AM" just run the command `am -R am`*
+- *To uninstall "AppMan" just remove it and the directory `$HOME/.config/appman`*
 
 *Note, before you remove your CLI, use the option `-R` to remove the apps installed using the following syntax:*
 ```
