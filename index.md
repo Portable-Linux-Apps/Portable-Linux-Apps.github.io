@@ -66,11 +66,15 @@
 --------
 
 ## Is there a centralized repository for AppImage packages?
-*This catalog is just the frontend for a database that aims to extend not only to x86_64 architecture apps listed here, but also to all others, including the latest aarch64 and the oldest i686.*
+*Depends on what you mean by "**centralized package repository**", if you mean a repository that stores them all like Debian-based distributions do with DEB packages, no, there are thousands of packages, and they are usually distributed to remote sites and difficult to find.*
 
-*All the installation scripts are stored in the repository of the "AM" package manager, which I have already mentioned above.*
+*If instead you mean an AUR-style repo with scripts that easily find all AppImages, **you're in the right place!***
 
-*Click the link or the picture down below to know more...*
+*This catalog and its CLI, "[**AM**](https://github.com/ivan-hc/AM)", make it easy for you to find, install, integrate and update all AppImage packages!*
+
+*This catalog is just the frontend for an ever growing database that aims to extend not only to x86_64 architecture apps listed here, but also to all others, from the modern ARM64/aarch64 to oldest i686, as an universal solution for all AppImages and portable programs for GNU/Linux!*
+
+*All the installation scripts are stored in the repository of the "[**AM**](https://github.com/ivan-hc/AM)" package manager, [here](https://github.com/ivan-hc/AM/tree/main/programs).*
 
 <div align="center">
 
