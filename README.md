@@ -1,13 +1,24 @@
+<div align="center">
+
+###### *Welcome to the most complete database of all AppImage packages and portable applications for GNU/Linux.*
+
 # PORTABLE LINUX APPS
 
-## the first AUR-inspired AppImage Software Center!
+## *the first AUR-inspired AppImage Software Center!*
 
-#### Welcome to the most complete database of all AppImage packages and portable applications for GNU/Linux.
--------
-## [*GO TO THE APPLICATION'S LIST*](https://portable-linux-apps.github.io/apps.html)
 --------
 
-##### This site lists **2094** Appimage packages and standalone applications. From here you can download them, install them, update them (for real), get more information about the sources and their developers... and if you want, you can contribute yourself by adding the missing information, because this site is **open source**!
+#### *This site lists **2094** Appimage packages and standalone applications.*
+
+*From here you can download them, install them, update them (for real), get more information about the sources and their developers... and if you want, you can contribute yourself by adding the missing information, because this site is **open source**!*
+
+--------
+
+| *[Go to the application list](https://portable-linux-apps.github.io/apps.html)* | *[Install "AM", the package manager](https://github.com/ivan-hc/AM)* |
+| - | - |
+| [<img src="https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/assets/88724353/ad82cc11-f26e-4217-9d16-a2f0f9990940" width="512" height="256">](https://portable-linux-apps.github.io/apps.html) | [<img src="https://github.com/ivan-hc/AM/assets/88724353/671f5eb0-6fb6-4392-b45e-af0ea9271d9b" width="512" height="256">](https://github.com/ivan-hc/AM) |
+
+</div>
 
 --------
 
@@ -18,38 +29,41 @@
 --------
 
 ### What are the portable linux apps?
-Portable Linux Apps are standalone applications for GNU/Linux that can (theoretically) run everywhere, also on a USB stick. These applications can be AppImage packages (see [appimage.org](https://appimage.org/)) or standalone archives (for example Firefox, Blender, Thunderbird...).
+*Portable Linux Apps are standalone applications for GNU/Linux that can (theoretically) run everywhere, also on a USB stick. These applications can be AppImage packages (see [appimage.org](https://appimage.org/)) or standalone archives (for example Firefox, Blender, Thunderbird...).*
 
 --------
 
 ### How is this site different from other sites that list AppImage packages?
-The main problem with AppImage packages is that many of them couldn't be updated easily because previously there was no centralized repository that could advice users that a new version was available (unlike Snapcraft, FlatHub or the default and more common repositories you can find on your GNU/Linux distro). This gap is filled by this site, since I built one!
+*The main problem with AppImage packages is that many of them couldn't be updated easily because previously there was no centralized repository that could advice users that a new version was available (unlike Snapcraft, FlatHub or the default and more common repositories you can find on your GNU/Linux distro). This gap is filled by this site, since I built one!*
 
 --------
 
 ## Is there a centralized repository for AppImage packages?
-Yes, I've called it "[AM](https://github.com/ivan-hc/AM)" (Application Manager). All the apps listed on this website can be installed, updated and managed through two CLI (Command Line Interfaces) I wrote in bash (being bash the "base" of our GNU/Linux systems). In fact "AM" is also the name of the main CLI I developed, the code is available at [this link](https://github.com/ivan-hc/AM/blob/main/APP-MANAGER).
+*Yes, really it is both an AUR-inspired database and a package manager: "[**AM**](https://github.com/ivan-hc/AM)", literally "Application Manager".*
 
-The [database](https://github.com/ivan-hc/AM/tree/main/programs) of "AM" does not stores packages but installation scripts, the same way the Arch User Repository (AUR) do, but each script points directly to a program ready to be downloaded (more often as AppImage packages, but also TAR/DEB archives containing directories, scripts, binary files that don't need to be compiled), and in some and really rare cases a script can build on-the-fly AppImage packages in a way similar to an AUR helper using [pkg2appimage](https://github.com/AppImageCommunity/pkg2appimage) and/or [appimagetool](https://github.com/AppImage/AppImageKit).
+*All the apps listed on this website can be installed, updated and managed through it system-wide ("AM") or locally (as "AppMan"), depending on how it is installed or renamed.*
 
-"AM" is also extensible to all the architectures supported by the Linux kernel (and if the app is available for that architecture). There are installation scripts for[aarch64](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/aarch64-apps) (or ARM64), [i686](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/i686-apps) (the old and obsolete 32bit systems) and obviously the more common [x86_64](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64-apps) (64bit systems). My work on "AM" is mainly focused on the x86_64 architecture being it the one I use normally and the more used in general, so many ARM64 and i686 apps may have been omitted when I wrote the scripts for them.
+*The code of this Command Line Interface is available at [this link](https://github.com/ivan-hc/AM/blob/main/APP-MANAGER).*
 
-See "[AM Application Manager](https://github.com/ivan-hc/AM)" on github for more details.
+*The [database](https://github.com/ivan-hc/AM/tree/main/programs) of "AM" does not stores packages but installation scripts, as the Arch User Repository (AUR) does with PKGBUILDs.*
 
---------
+*Each script points directly to a program ready to be downloaded, more often as AppImage packages, but also portable apps stored in TAR, ZIP and DEB archives, scripts, standalone binares... and in some cases a script can build on-the-fly AppImage packages in a way similar to an AUR helper using [pkg2appimage](https://github.com/AppImageCommunity/pkg2appimage) and/or [appimagetool](https://github.com/AppImage/AppImageKit).*
 
-# "AM" Application Manager
-### Database & solutions for all AppImages and portable apps for GNU/Linux!
+*"AM" is also extensible to all the architectures supported by the Linux kernel (and if the app is available for that architecture), but my work on "AM" is focused on x86_64 being it the one I use normally and the more used in general.*
 
-![Istantanea_2024-06-26_17-00-46 png](https://github.com/ivan-hc/AM/assets/88724353/671f5eb0-6fb6-4392-b45e-af0ea9271d9b)
+<div align="center">
 
-"AM"/"AppMan" is a set of scripts and modules for installing, updating, and managing AppImage packages and other portable formats, in the same way that APT manages DEBs packages, DNF the RPMs, and so on... using a large database of Shell scripts inspired by the Arch User Repository, each dedicated to an app or set of applications.
+#### *Click on the link down below to learn more...*
 
-The engine of "AM"/"AppMan" is the "APP-MANAGER" script which, depending on how you install or rename it, allows you to install apps system-wide (for a single system administrator) or locally (for each user).
+## *[https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM)*
 
-"AM"/"AppMan" aims to be the default package manager for all AppImage packages, giving them a home to stay.
+[<img src="https://github.com/ivan-hc/AM/assets/88724353/671f5eb0-6fb6-4392-b45e-af0ea9271d9b">](https://github.com/ivan-hc/AM)
 
-You can consult the entire **list of managed apps** at [**portable-linux-apps.github.io/apps**](https://portable-linux-apps.github.io/apps).
+</div>
+
+
+
+#### *...or use the index below to learn more about "AM", "AppMan" and their usage.*
 
 ------------------------------------------------------------------------
 ### Main Index
