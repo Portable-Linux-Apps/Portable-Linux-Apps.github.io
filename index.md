@@ -74,7 +74,7 @@
 
 *This catalog is just the frontend for an ever growing database that aims to extend not only to x86_64 architecture apps listed here, but also to all others, from the modern ARM64/aarch64 to oldest i686, as an universal solution for all AppImages and portable programs for GNU/Linux!*
 
-*All the installation scripts are stored in the repository of the "[**AM**](https://github.com/ivan-hc/AM)" package manager, [here](https://github.com/ivan-hc/AM/tree/main/programs).*
+*All the installation scripts are stored in the repository of the "**AM**" package manager.*
 
 <div align="center">
 
