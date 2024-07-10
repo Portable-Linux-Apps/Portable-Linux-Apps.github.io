@@ -56,7 +56,7 @@
   },
   {
     "packageName": "adb",
-    "description": "Android Debug Bridge (installer for "platform-tools")...",
+    "description": "Android Debug Bridge (installer for platform-tools)...",
     "icon": "https://portable-linux-apps.github.io/icons/adb.png"
   },
   {
@@ -441,7 +441,7 @@
   },
   {
     "packageName": "ark",
-    "description": "Archiving tool for .zip/.tar/.rar and more (installs "kdeutils")...",
+    "description": "Archiving tool for .zip/.tar/.rar and more (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/ark.png"
   },
   {
@@ -461,7 +461,7 @@
   },
   {
     "packageName": "armagetronad",
-    "description": "Multiplayer game in 3d that emulates the movie "Tron"...",
+    "description": "Multiplayer game in 3d that emulates the movie Tron...",
     "icon": "https://portable-linux-apps.github.io/icons/armagetronad.png"
   },
   {
@@ -926,7 +926,7 @@
   },
   {
     "packageName": "bomber",
-    "description": "Arcade spaceship game (installs "kdegames")...",
+    "description": "Arcade spaceship game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/bomber.png"
   },
   {
@@ -991,7 +991,7 @@
   },
   {
     "packageName": "bovo",
-    "description": "Five in a row game from (installs "kdegames")...",
+    "description": "Five in a row game from (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/bovo.png"
   },
   {
@@ -1556,7 +1556,7 @@
   },
   {
     "packageName": "colorstatic-bash",
-    "description": "CLI to generate a random colorful "Static"/"Matrix"...",
+    "description": "CLI to generate a random colorful Static/Matrix...",
     "icon": "https://portable-linux-apps.github.io/icons/colorstatic-bash.png"
   },
   {
@@ -2441,7 +2441,7 @@
   },
   {
     "packageName": "elementary-code",
-    "description": "AppImage version of Elementary OS "Code" by Maksym Titenko...",
+    "description": "AppImage version of Elementary OS Code by Maksym Titenko...",
     "icon": "https://portable-linux-apps.github.io/icons/elementary-code.png"
   },
   {
@@ -2746,7 +2746,7 @@
   },
   {
     "packageName": "fastboot",
-    "description": "Tool to flash Android devices (installer for "platform-tools")...",
+    "description": "Tool to flash Android devices (installer for platform-tools)...",
     "icon": "https://portable-linux-apps.github.io/icons/fastboot.png"
   },
   {
@@ -2916,7 +2916,7 @@
   },
   {
     "packageName": "filelight",
-    "description": "View disk usage information (installs "kdeutils")...",
+    "description": "View disk usage information (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/filelight.png"
   },
   {
@@ -3476,7 +3476,7 @@
   },
   {
     "packageName": "glow",
-    "description": "Render markdown on the CLI, with pizzazz!..",
+    "description": "Render markdown on the CLI, with pizzazz! ..",
     "icon": "https://portable-linux-apps.github.io/icons/glow.png"
   },
   {
@@ -3646,7 +3646,7 @@
   },
   {
     "packageName": "granatier",
-    "description": "Bomberman clone (installs "kdegames")...",
+    "description": "Bomberman clone (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/granatier.png"
   },
   {
@@ -4371,7 +4371,7 @@
   },
   {
     "packageName": "kajongg",
-    "description": "An ancient Chinese board game for 4 players (installs "kdegames")...",
+    "description": "An ancient Chinese board game for 4 players (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kajongg.png"
   },
   {
@@ -4386,7 +4386,7 @@
   },
   {
     "packageName": "kapman",
-    "description": "Pac-Man clone (installs "kdegames")...",
+    "description": "Pac-Man clone (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kapman.png"
   },
   {
@@ -4396,7 +4396,7 @@
   },
   {
     "packageName": "katomic",
-    "description": "Edu. game based around molecular geometry (installs "kdegames")...",
+    "description": "Edu. game based around molecular geometry (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/katomic.png"
   },
   {
@@ -4406,32 +4406,32 @@
   },
   {
     "packageName": "kblackbox",
-    "description": "A game of hide and seek (installs "kdegames")...",
+    "description": "A game of hide and seek (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kblackbox.png"
   },
   {
     "packageName": "kblocks",
-    "description": "Classic Tetris / falling blocks game (installs "kdegames")...",
+    "description": "Classic Tetris / falling blocks game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kblocks.png"
   },
   {
     "packageName": "kbounce",
-    "description": "Fill the field game (installs "kdegames")...",
+    "description": "Fill the field game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kbounce.png"
   },
   {
     "packageName": "kbreakout",
-    "description": "Destroy bricks without losing the ball (installs "kdegames")...",
+    "description": "Destroy bricks without losing the ball (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kbreakout.png"
   },
   {
     "packageName": "kcalc",
-    "description": "Scientific Calculator (installs "kdeutils")...",
+    "description": "Scientific Calculator (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/kcalc.png"
   },
   {
     "packageName": "kcharselect",
-    "description": "Character Selector (installs "kdeutils")...",
+    "description": "Character Selector (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/kcharselect.png"
   },
   {
@@ -4456,12 +4456,12 @@
   },
   {
     "packageName": "kdf",
-    "description": "View Disk Usage (installs "kdeutils")...",
+    "description": "View Disk Usage (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/kdf.png"
   },
   {
     "packageName": "kdiamond",
-    "description": "Diamond game (installs "kdegames")...",
+    "description": "Diamond game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kdiamond.png"
   },
   {
@@ -4516,17 +4516,17 @@
   },
   {
     "packageName": "kfourinline",
-    "description": "4 in row game (installs "kdegames")...",
+    "description": "4 in row game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kfourinline.png"
   },
   {
     "packageName": "kgoldrunner",
-    "description": "A game with a runner and gold (installs "kdegames")...",
+    "description": "A game with a runner and gold (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kgoldrunner.png"
   },
   {
     "packageName": "kgpg",
-    "description": "A GnuPG frontend (installs "kdeutils")...",
+    "description": "A GnuPG frontend (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/kgpg.png"
   },
   {
@@ -4536,7 +4536,7 @@
   },
   {
     "packageName": "kigo",
-    "description": "Go strategic board game for two players (installs "kdegames")...",
+    "description": "Go strategic board game for two players (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kigo.png"
   },
   {
@@ -4546,7 +4546,7 @@
   },
   {
     "packageName": "killbots",
-    "description": "Port of the classic console game Robots (installs "kdegames")...",
+    "description": "Port of the classic console game Robots (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/killbots.png"
   },
   {
@@ -4556,7 +4556,7 @@
   },
   {
     "packageName": "kiriki",
-    "description": "A dice game (installs "kdegames")...",
+    "description": "A dice game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kiriki.png"
   },
   {
@@ -4566,17 +4566,17 @@
   },
   {
     "packageName": "kjumpingcube",
-    "description": "A game of dices on a board (installs "kdegames")...",
+    "description": "A game of dices on a board (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kjumpingcube.png"
   },
   {
     "packageName": "klickety",
-    "description": "Color matching like SameGame (installs "kdegames")...",
+    "description": "Color matching like SameGame (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/klickety.png"
   },
   {
     "packageName": "klines",
-    "description": "Inspired by well known game of Color Lines (installs "kdegames")...",
+    "description": "Inspired by well known game of Color Lines (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/klines.png"
   },
   {
@@ -4586,12 +4586,12 @@
   },
   {
     "packageName": "kmahjongg",
-    "description": "Mahjongg game (installs "kdegames")...",
+    "description": "Mahjongg game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kmahjongg.png"
   },
   {
     "packageName": "kmines",
-    "description": "Classic mine game (installs "kdegames")...",
+    "description": "Classic mine game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kmines.png"
   },
   {
@@ -4601,17 +4601,17 @@
   },
   {
     "packageName": "knavalbattle",
-    "description": "Battle Ship game (installs "kdegames")...",
+    "description": "Battle Ship game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/knavalbattle.png"
   },
   {
     "packageName": "knetwalk",
-    "description": "Net constructing game (installs "kdegames")...",
+    "description": "Net constructing game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/knetwalk.png"
   },
   {
     "packageName": "knights",
-    "description": "Chess interface for the KDE Platform (installs "kdegames")...",
+    "description": "Chess interface for the KDE Platform (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/knights.png"
   },
   {
@@ -4636,17 +4636,17 @@
   },
   {
     "packageName": "kolf",
-    "description": "Mini Golf game (installs "kdegames")...",
+    "description": "Mini Golf game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kolf.png"
   },
   {
     "packageName": "kollision",
-    "description": "Dodge red balls in the field (installs "kdegames")...",
+    "description": "Dodge red balls in the field (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kollision.png"
   },
   {
     "packageName": "konquest",
-    "description": "Game of planets (installs "kdegames")...",
+    "description": "Game of planets (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/konquest.png"
   },
   {
@@ -4666,12 +4666,12 @@
   },
   {
     "packageName": "kpat",
-    "description": "Klondike, Spider, Free Cell and other Solitaire (installs "kdegames")...",
+    "description": "Klondike, Spider, Free Cell and other Solitaire (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kpat.png"
   },
   {
     "packageName": "kreversi",
-    "description": "Reversi game (installs "kdegames")...",
+    "description": "Reversi game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kreversi.png"
   },
   {
@@ -4686,17 +4686,17 @@
   },
   {
     "packageName": "kshisen",
-    "description": "A game similar to Mahjongg (installs "kdegames")...",
+    "description": "A game similar to Mahjongg (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kshisen.png"
   },
   {
     "packageName": "ksirk",
-    "description": "A strategy board game (installs "kdegames")...",
+    "description": "A strategy board game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/ksirk.png"
   },
   {
     "packageName": "ksnakeduel",
-    "description": "A snake race game (installs "kdegames")...",
+    "description": "A snake race game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/ksnakeduel.png"
   },
   {
@@ -4706,27 +4706,27 @@
   },
   {
     "packageName": "kspaceduel",
-    "description": "Battleship with satellites in the space (installs "kdegames")...",
+    "description": "Battleship with satellites in the space (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kspaceduel.png"
   },
   {
     "packageName": "ksquares",
-    "description": "Win with most number of completed squares (installs "kdegames")...",
+    "description": "Win with most number of completed squares (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/ksquares.png"
   },
   {
     "packageName": "ksudoku",
-    "description": "Sudoku game (installs "kdegames")...",
+    "description": "Sudoku game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/ksudoku.png"
   },
   {
     "packageName": "ktimer",
-    "description": "Countdown Launcher (installs "kdeutils")...",
+    "description": "Countdown Launcher (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/ktimer.png"
   },
   {
     "packageName": "ktuberling",
-    "description": "Simple Mr. Potato game for children (installs "kdegames")...",
+    "description": "Simple Mr. Potato game for children (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/ktuberling.png"
   },
   {
@@ -4741,7 +4741,7 @@
   },
   {
     "packageName": "kubrick",
-    "description": "A logic game based on Rubik's Cube (installs "kdegames")...",
+    "description": "A logic game based on Rubik's Cube (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kubrick.png"
   },
   {
@@ -4751,7 +4751,7 @@
   },
   {
     "packageName": "kwalletmanager5",
-    "description": "Wallet management tool (installs "kdeutils")...",
+    "description": "Wallet management tool (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/kwalletmanager5.png"
   },
   {
@@ -4896,7 +4896,7 @@
   },
   {
     "packageName": "lf",
-    "description": "lf (as in "list files") is a terminal file manager written in Go...",
+    "description": "lf (as in list files) is a terminal file manager written in Go...",
     "icon": "https://portable-linux-apps.github.io/icons/lf.png"
   },
   {
@@ -5081,7 +5081,7 @@
   },
   {
     "packageName": "lskat",
-    "description": "Fun and engaging card game for two players (installs "kdegames")...",
+    "description": "Fun and engaging card game for two players (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/lskat.png"
   },
   {
@@ -6086,7 +6086,7 @@
   },
   {
     "packageName": "npm",
-    "description": "Package manager for Node.js (installer for "node")...",
+    "description": "Package manager for Node.js (installer for node)...",
     "icon": "https://portable-linux-apps.github.io/icons/npm.png"
   },
   {
@@ -6231,7 +6231,7 @@
   },
   {
     "packageName": "omnispeak",
-    "description": "Re-implementation of "Commander Keen in Goodbye Galaxy"...",
+    "description": "Re-implementation of Commander Keen in Goodbye Galaxy...",
     "icon": "https://portable-linux-apps.github.io/icons/omnispeak.png"
   },
   {
@@ -6271,7 +6271,7 @@
   },
   {
     "packageName": "onnx2daq",
-    "description": "Wrapper of NNAPI ("DNNLibrary" is for "daquexian's NNAPI libs)...",
+    "description": "Wrapper of NNAPI (DNNLibrary is for daquexian's NNAPI libs)...",
     "icon": "https://portable-linux-apps.github.io/icons/onnx2daq.png"
   },
   {
@@ -6551,7 +6551,7 @@
   },
   {
     "packageName": "palapeli",
-    "description": "Jigsaw puzzle game (installs "kdegames")...",
+    "description": "Jigsaw puzzle game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/palapeli.png"
   },
   {
@@ -6786,7 +6786,7 @@
   },
   {
     "packageName": "picmi",
-    "description": "Single player logic-based puzzle game (installs "kdegames")...",
+    "description": "Single player logic-based puzzle game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/picmi.png"
   },
   {
@@ -8566,7 +8566,7 @@
   },
   {
     "packageName": "stackandconquer",
-    "description": "A challenging tower conquest board game "Mixtour" inspired...",
+    "description": "A challenging tower conquest board game Mixtour inspired...",
     "icon": "https://portable-linux-apps.github.io/icons/stackandconquer.png"
   },
   {
@@ -8866,7 +8866,7 @@
   },
   {
     "packageName": "sweeper",
-    "description": "System Cleaner (installs "kdeutils")...",
+    "description": "System Cleaner (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/sweeper.png"
   },
   {
@@ -9236,7 +9236,7 @@
   },
   {
     "packageName": "todo-bash",
-    "description": " Todo list for the Bash command line...",
+    "description": "  Todo list for the Bash command line...",
     "icon": "https://portable-linux-apps.github.io/icons/todo-bash.png"
   },
   {
@@ -10281,7 +10281,7 @@
   },
   {
     "packageName": "yandex-browser",
-    "description": "Unofficial Yandex Browser AppImage (Stable)...",
+    "description": "Unofficial Yandex Browser AppImage (Stable). ..",
     "icon": "https://portable-linux-apps.github.io/icons/yandex-browser.png"
   },
   {
