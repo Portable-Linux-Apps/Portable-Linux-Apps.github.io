@@ -37,7 +37,7 @@
 - [Installation](#installation)
   - [How to install "AM"](#how-to-install-quotamquot)
   - [How to install "AppMan"](#how-to-install-quotappmanquot)
-- [External links index (tutorials, troubleshooting, sandboxing and more](#external-links-index)
+- [External links index (tutorials, troubleshooting, sandboxing... more)](#external-links-index)
 - [Related projects](#related-projects)
 
 --------
@@ -56,8 +56,8 @@
 
 #### About other catalogs
 *While I recognize the role they have had so far in supporting the diffusion of AppImage as a packaging format, through the years, as a former user, I would like to underline what led me to open an alternative catalogue:*
-- *"appimage.github.io" is more of a tool for verifying the validity of the AppImages, but as a catalog is limited to showing only that an app exists or has existed, so many of them are no more available, many pages have no buttons to the sources and all pages have no additional information on individual apps, each page is simply a copy/paste message that says "This App is available as an AppImage..." etcetera.*
-- *"appimagehub.com" publishes packages on proprietary servers of dubious transparency, the sources are not always shown, but those responsible for uploading simply declare that "they are not the developers", despite having a donation button available, effectively leading them to earning on work of others.*
+- *"**appimage.github.io**" serves more than anything else to catalog the AppImages based on validation processes based on Github Actions (i.e. that the package is compatible with old versions of Ubuntu LTS). From the developer's point of view it's fine, but from the point of view of the user who searches for AppImage packages without going into the depths of the internet, it's totally useless. As a catalog it is limited to showing only that an app exists or has existed in the past, without worrying about obsolete packages that no longer exist, but still listed only "to make up the numbers". Many pages have no buttons to the sources and all pages have no additional information on individual apps, each page is simply a copy/paste message that says that the app "is available as an AppImage which means one app = one file..." etcetera etcetera.*
+- *"**appimagehub.com**" publishes packages on proprietary servers of dubious transparency, the sources are not always shown, but those responsible for uploading simply declare that "they are not the developers", despite having a donation button available, effectively leading them to earning on work of others.*
 
 *Furthermore, **none of them track updates consistently**.*
 
