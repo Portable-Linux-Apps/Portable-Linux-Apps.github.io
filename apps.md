@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2094** *Appimage packages and standalone applications*.
+#### *This database contains* **2095** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1784,6 +1784,7 @@
 | <img src="icons/supertuxkart.png" width="48" height="48"> | [***supertuxkart***](apps/supertuxkart.md) | *The original Free kart racing game focused on Fun!*..[ *read more* ](apps/supertuxkart.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supertuxkart) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supertuxkart) |
 | <img src="icons/suyu.png" width="48" height="48"> | [***suyu***](apps/suyu.md) | *Open-source, Nintendo Switch emulator, continuation of yuzu.*..[ *read more* ](apps/suyu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/suyu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/suyu) |
 | <img src="icons/svelte-electron.png" width="48" height="48"> | [***svelte-electron***](apps/svelte-electron.md) | *Create desktop apps with this Svelte boilerplate.*..[ *read more* ](apps/svelte-electron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/svelte-electron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/svelte-electron) |
+| <img src="icons/svgwall.png" width="48" height="48"> | [***svgwall***](apps/svgwall.md) | *SVG Wallpaper Utility for Xorg.*..[ *read more* ](apps/svgwall.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/svgwall) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/svgwall) |
 | <img src="icons/swaglyrics.png" width="48" height="48"> | [***swaglyrics***](apps/swaglyrics.md) | *SwagLyrics AppImage (unofficial).*..[ *read more* ](apps/swaglyrics.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swaglyrics) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swaglyrics) |
 | <img src="icons/swc-minecraft-launcher.png" width="48" height="48"> | [***swc-minecraft-launcher***](apps/swc-minecraft-launcher.md) | *SWC Minecraft Launcher.*..[ *read more* ](apps/swc-minecraft-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swc-minecraft-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swc-minecraft-launcher) |
 | <img src="icons/sweeper.png" width="48" height="48"> | [***sweeper***](apps/sweeper.md) | *System Cleaner (installs "kdeutils").*..[ *read more* ](apps/sweeper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sweeper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sweeper) |
