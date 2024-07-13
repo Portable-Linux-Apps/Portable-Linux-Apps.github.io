@@ -525,6 +525,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/atomicwallet.png"
   },
   {
+    "packageName": "atuin",
+    "description": "Magical shell history...",
+    "icon": "https://portable-linux-apps.github.io/icons/atuin.png"
+  },
+  {
     "packageName": "audacious",
     "description": "An open source audio and music player, descendant of XMMS...",
     "icon": "https://portable-linux-apps.github.io/icons/audacious.png"
@@ -1910,6 +1915,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/cura-beta.png"
   },
   {
+    "packageName": "curlie",
+    "description": "The power of curl, the ease of use of httpie...",
+    "icon": "https://portable-linux-apps.github.io/icons/curlie.png"
+  },
+  {
     "packageName": "cursor",
     "description": "Write, edit, and chat about your code with GPT-4...",
     "icon": "https://portable-linux-apps.github.io/icons/cursor.png"
@@ -2248,6 +2258,16 @@
     "packageName": "droppoint",
     "description": "Drag content without having to open side-by-side windows...",
     "icon": "https://portable-linux-apps.github.io/icons/droppoint.png"
+  },
+  {
+    "packageName": "dtmate",
+    "description": "CLI to compute difference between date, time or duration...",
+    "icon": "https://portable-linux-apps.github.io/icons/dtmate.png"
+  },
+  {
+    "packageName": "dua",
+    "description": "View disk space usage and delete unwanted data, fast...",
+    "icon": "https://portable-linux-apps.github.io/icons/dua.png"
   },
   {
     "packageName": "duckstation",
@@ -2835,6 +2855,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ferdium.png"
   },
   {
+    "packageName": "fetchit",
+    "description": "A system fetch tool for Linux, written in Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/fetchit.png"
+  },
+  {
     "packageName": "fflogs-uploader",
     "description": "FFLogs Uploader appimage...",
     "icon": "https://portable-linux-apps.github.io/icons/fflogs-uploader.png"
@@ -3260,6 +3285,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/fukayo.png"
   },
   {
+    "packageName": "fx",
+    "description": "Terminal JSON viewer & processor...",
+    "icon": "https://portable-linux-apps.github.io/icons/fx.png"
+  },
+  {
     "packageName": "fzf",
     "description": "A command-line fuzzy finder...",
     "icon": "https://portable-linux-apps.github.io/icons/fzf.png"
@@ -3388,6 +3418,11 @@
     "packageName": "gh-eco",
     "description": "gh cli extension to explore the ecosystem...",
     "icon": "https://portable-linux-apps.github.io/icons/gh-eco.png"
+  },
+  {
+    "packageName": "gh",
+    "description": "GitHub’s official command line tool...",
+    "icon": "https://portable-linux-apps.github.io/icons/gh.png"
   },
   {
     "packageName": "giada",
@@ -3543,6 +3578,11 @@
     "packageName": "godot",
     "description": "Multi-platform 2D and 3D game engine with a feature-rich editor...",
     "icon": "https://portable-linux-apps.github.io/icons/godot.png"
+  },
+  {
+    "packageName": "gojq",
+    "description": "Pure Go implementation of jq...",
+    "icon": "https://portable-linux-apps.github.io/icons/gojq.png"
   },
   {
     "packageName": "goland",
@@ -3915,6 +3955,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/hugor.png"
   },
   {
+    "packageName": "humanlog",
+    "description": "Logs for humans to read...",
+    "icon": "https://portable-linux-apps.github.io/icons/humanlog.png"
+  },
+  {
     "packageName": "huwinterpreter",
     "description": "HuwCode interpreter...",
     "icon": "https://portable-linux-apps.github.io/icons/huwinterpreter.png"
@@ -4285,9 +4330,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/jklubtv.png"
   },
   {
+    "packageName": "jless",
+    "description": "CLI JSON viewer designed for reading, exploring, and searching...",
+    "icon": "https://portable-linux-apps.github.io/icons/jless.png"
+  },
+  {
     "packageName": "jmbde",
     "description": "Application to collect data in a company...",
     "icon": "https://portable-linux-apps.github.io/icons/jmbde.png"
+  },
+  {
+    "packageName": "jnv",
+    "description": "Interactive JSON filter using jq...",
+    "icon": "https://portable-linux-apps.github.io/icons/jnv.png"
   },
   {
     "packageName": "joaldesktop",
@@ -4318,6 +4373,11 @@
     "packageName": "jq",
     "description": "Command-line JSON processor...",
     "icon": "https://portable-linux-apps.github.io/icons/jq.png"
+  },
+  {
+    "packageName": "jqp",
+    "description": "A TUI playground to experiment with jq...",
+    "icon": "https://portable-linux-apps.github.io/icons/jqp.png"
   },
   {
     "packageName": "jreleaser",
@@ -4378,6 +4438,11 @@
     "packageName": "kajongg",
     "description": "An ancient Chinese board game for 4 players (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kajongg.png"
+  },
+  {
+    "packageName": "kalc",
+    "description": "Complex numbers, 2d/3d graphing, arbitrary precision cli calculator...",
+    "icon": "https://portable-linux-apps.github.io/icons/kalc.png"
   },
   {
     "packageName": "kalker",
@@ -4648,6 +4713,11 @@
     "packageName": "kollision",
     "description": "Dodge red balls in the field (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kollision.png"
+  },
+  {
+    "packageName": "kondo",
+    "description": "Cleans dependencies and build artifacts from your projects...",
+    "icon": "https://portable-linux-apps.github.io/icons/kondo.png"
   },
   {
     "packageName": "konquest",
@@ -5535,6 +5605,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/mki3dgame.png"
   },
   {
+    "packageName": "mk",
+    "description": "Interactive Task Runner for Makefile...",
+    "icon": "https://portable-linux-apps.github.io/icons/mk.png"
+  },
+  {
     "packageName": "mkvtoolnix",
     "description": "Matroska files creator and tools...",
     "icon": "https://portable-linux-apps.github.io/icons/mkvtoolnix.png"
@@ -6298,6 +6373,11 @@
     "packageName": "open-ai-translator",
     "description": "Browser extension for translation based on ChatGPT API...",
     "icon": "https://portable-linux-apps.github.io/icons/open-ai-translator.png"
+  },
+  {
+    "packageName": "openapi-tui",
+    "description": "Terminal UI to list, browse and run APIs defined with openapi...",
+    "icon": "https://portable-linux-apps.github.io/icons/openapi-tui.png"
   },
   {
     "packageName": "openarena",
@@ -7760,6 +7840,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ridereceipts.png"
   },
   {
+    "packageName": "rimage",
+    "description": "This is CLI tool inspired by squoosh...",
+    "icon": "https://portable-linux-apps.github.io/icons/rimage.png"
+  },
+  {
     "packageName": "ripcord",
     "description": "Chat client for group-centric services like Slack and Discord...",
     "icon": "https://portable-linux-apps.github.io/icons/ripcord.png"
@@ -8430,6 +8515,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/sonixd.png"
   },
   {
+    "packageName": "sortty",
+    "description": "sortty - sorting algorithms in the terminal...",
+    "icon": "https://portable-linux-apps.github.io/icons/sortty.png"
+  },
+  {
     "packageName": "soul-arena",
     "description": "Bleach-based online multiplayer strategy game...",
     "icon": "https://portable-linux-apps.github.io/icons/soul-arena.png"
@@ -9000,6 +9090,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/tc.png"
   },
   {
+    "packageName": "tdlib-rs",
+    "description": "Rust wrapper around the Telegram Database Library...",
+    "icon": "https://portable-linux-apps.github.io/icons/tdlib-rs.png"
+  },
+  {
     "packageName": "teams",
     "description": "Business communication platform developed by Microsoft (AppImage)...",
     "icon": "https://portable-linux-apps.github.io/icons/teams.png"
@@ -9178,6 +9273,11 @@
     "packageName": "thunderbird-nightly",
     "description": "Free and open source eMail client (Nightly Edition)...",
     "icon": "https://portable-linux-apps.github.io/icons/thunderbird-nightly.png"
+  },
+  {
+    "packageName": "ticker",
+    "description": "Terminal stock ticker with live updates and position tracking...",
+    "icon": "https://portable-linux-apps.github.io/icons/ticker.png"
   },
   {
     "packageName": "tidal-hifi",
@@ -9413,6 +9513,11 @@
     "packageName": "tutanota",
     "description": "The world's most secure email service, easy to use and private...",
     "icon": "https://portable-linux-apps.github.io/icons/tutanota.png"
+  },
+  {
+    "packageName": "tuxplorer",
+    "description": "Tuxplorer is a terminal based file explorer...",
+    "icon": "https://portable-linux-apps.github.io/icons/tuxplorer.png"
   },
   {
     "packageName": "tvalb",
@@ -9838,6 +9943,11 @@
     "packageName": "vterm",
     "description": "Extensible terminal emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/vterm.png"
+  },
+  {
+    "packageName": "vtm",
+    "description": "Text-based desktop environment...",
+    "icon": "https://portable-linux-apps.github.io/icons/vtm.png"
   },
   {
     "packageName": "vue-calc",
@@ -10408,6 +10518,11 @@
     "packageName": "zettlr",
     "description": "A Markdown Editor for the 21st century...",
     "icon": "https://portable-linux-apps.github.io/icons/zettlr.png"
+  },
+  {
+    "packageName": "zfind",
+    "description": "Search files (even inside tar/zip/7z/rar) using a SQL-WHERE filter...",
+    "icon": "https://portable-linux-apps.github.io/icons/zfind.png"
   },
   {
     "packageName": "zfxtop",
