@@ -3970,6 +3970,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/hw-probe.png"
   },
   {
+    "packageName": "hydra",
+    "description": "Game launcher with its own embedded bittorrent client...",
+    "icon": "https://portable-linux-apps.github.io/icons/hydra.png"
+  },
+  {
     "packageName": "hydrogen-music",
     "description": "The advanced drum machine for Linux, macOS, and Windows...",
     "icon": "https://portable-linux-apps.github.io/icons/hydrogen-music.png"
@@ -10483,6 +10488,11 @@
     "packageName": "zapzap",
     "description": "WhatsApp desktop application written in Pyqt6 + PyQt6-WebEngine...",
     "icon": "https://portable-linux-apps.github.io/icons/zapzap.png"
+  },
+  {
+    "packageName": "zed",
+    "description": "High-performance, multiplayer code editor from the creators of Atom...",
+    "icon": "https://portable-linux-apps.github.io/icons/zed.png"
   },
   {
     "packageName": "zegarek",
