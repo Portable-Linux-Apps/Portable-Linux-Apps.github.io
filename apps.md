@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2095** *Appimage packages and standalone applications*.
+#### *This database contains* **2096** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -430,6 +430,7 @@
 | <img src="icons/destiny.png" width="48" height="48"> | [***destiny***](apps/destiny.md) | *Cross-platform Magic Wormhole graphical client.*..[ *read more* ](apps/destiny.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/destiny) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/destiny) |
 | <img src="icons/devdocs-desktop.png" width="48" height="48"> | [***devdocs-desktop***](apps/devdocs-desktop.md) | *Desktop client for devdocs.io.*..[ *read more* ](apps/devdocs-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/devdocs-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/devdocs-desktop) |
 | <img src="icons/devhub.png" width="48" height="48"> | [***devhub***](apps/devhub.md) | *TweetDeck for GitHub*..[ *read more* ](apps/devhub.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/devhub) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/devhub) |
+| <img src="icons/devilutionx.png" width="48" height="48"> | [***devilutionx***](apps/devilutionx.md) | *Diablo build for modern operating systems.*..[ *read more* ](apps/devilutionx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/devilutionx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/devilutionx) |
 | <img src="icons/devsidecar.png" width="48" height="48"> | [***devsidecar***](apps/devsidecar.md) | *Dev sidecar/github/git/stackoverflow acceleration (in chinese).*..[ *read more* ](apps/devsidecar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/devsidecar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/devsidecar) |
 | <img src="icons/dexter-dev-env.png" width="48" height="48"> | [***dexter-dev-env***](apps/dexter-dev-env.md) | *Dexter Development Environment.*..[ *read more* ](apps/dexter-dev-env.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dexter-dev-env) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dexter-dev-env) |
 | <img src="icons/dezor.png" width="48" height="48"> | [***dezor***](apps/dezor.md) | *The web browser including VPN and Adblocker.*..[ *read more* ](apps/dezor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dezor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dezor) |
