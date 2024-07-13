@@ -2970,6 +2970,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/filmulator-gui.png"
   },
   {
+    "packageName": "fingrom",
+    "description": "Financial accounting application..",
+    "icon": "https://portable-linux-apps.github.io/icons/fingrom.png"
+  },
+  {
     "packageName": "firedragon",
     "description": "Web Browser fork of Librewolf (Firefox) from Garuda Linux...",
     "icon": "https://portable-linux-apps.github.io/icons/firedragon.png"
@@ -5895,6 +5900,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/mystiq.png"
   },
   {
+    "packageName": "mytonwallet",
+    "description": "Feature-rich web wallet and browser extension for TON Network...",
+    "icon": "https://portable-linux-apps.github.io/icons/mytonwallet.png"
+  },
+  {
     "packageName": "n3h",
     "description": "Nodejs implementation of holochain networking / p2p backend process...",
     "icon": "https://portable-linux-apps.github.io/icons/n3h.png"
@@ -7183,6 +7193,11 @@
     "packageName": "prime-world-editor",
     "description": "Edit world assets from games by Retro Studios...",
     "icon": "https://portable-linux-apps.github.io/icons/prime-world-editor.png"
+  },
+  {
+    "packageName": "principia",
+    "description": "Open source physics-based sandbox game...",
+    "icon": "https://portable-linux-apps.github.io/icons/principia.png"
   },
   {
     "packageName": "printerclient",
