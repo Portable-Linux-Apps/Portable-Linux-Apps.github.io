@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2124** *Appimage packages and standalone applications*.
+#### *This database contains* **2125** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1653,6 +1653,7 @@
 | <img src="icons/sfrt-attendance.png" width="48" height="48"> | [***sfrt-attendance***](apps/sfrt-attendance.md) | *The attendance tracking program for robotics.*..[ *read more* ](apps/sfrt-attendance.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sfrt-attendance) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sfrt-attendance) |
 | <img src="icons/sf-tube.png" width="48" height="48"> | [***sf-tube***](apps/sf-tube.md) | *Watch and download videos without ads.*..[ *read more* ](apps/sf-tube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sf-tube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sf-tube) |
 | <img src="icons/shadowsocks.png" width="48" height="48"> | [***shadowsocks***](apps/shadowsocks.md) | *Shadowsocks GUI client.*..[ *read more* ](apps/shadowsocks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shadowsocks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shadowsocks) |
+| <img src="icons/shadow-tech.png" width="48" height="48"> | [***shadow-tech***](apps/shadow-tech.md) | *Shadow.tech, cloud computing service.*..[ *read more* ](apps/shadow-tech.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shadow-tech) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shadow-tech) |
 | <img src="icons/shannon-calculator.png" width="48" height="48"> | [***shannon-calculator***](apps/shannon-calculator.md) | *Self-information content of a message text.*..[ *read more* ](apps/shannon-calculator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shannon-calculator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shannon-calculator) |
 | <img src="icons/sharemyhost.png" width="48" height="48"> | [***sharemyhost***](apps/sharemyhost.md) | *One click to share your files in your local network.*..[ *read more* ](apps/sharemyhost.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sharemyhost) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sharemyhost) |
 | <img src="icons/sharp-tune.png" width="48" height="48"> | [***sharp-tune***](apps/sharp-tune.md) | *Music player build upon the node using the electron.*..[ *read more* ](apps/sharp-tune.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sharp-tune) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sharp-tune) |

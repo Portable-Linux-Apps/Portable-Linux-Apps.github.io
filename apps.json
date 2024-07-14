@@ -8200,6 +8200,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/shadowsocks.png"
   },
   {
+    "packageName": "shadow-tech",
+    "description": "Shadow.tech, cloud computing service...",
+    "icon": "https://portable-linux-apps.github.io/icons/shadow-tech.png"
+  },
+  {
     "packageName": "shannon-calculator",
     "description": "Self-information content of a message text...",
     "icon": "https://portable-linux-apps.github.io/icons/shannon-calculator.png"
