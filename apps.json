@@ -4460,6 +4460,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/kalker.png"
   },
   {
+    "packageName": "kando",
+    "description": "The Cross-Platform Pie Menu...",
+    "icon": "https://portable-linux-apps.github.io/icons/kando.png"
+  },
+  {
     "packageName": "kanon",
     "description": "Maturita GPJP designed for use with kanon web app...",
     "icon": "https://portable-linux-apps.github.io/icons/kanon.png"

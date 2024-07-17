@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2125** *Appimage packages and standalone applications*.
+#### *This database contains* **2126** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -905,6 +905,7 @@
 | <img src="icons/kajongg.png" width="48" height="48"> | [***kajongg***](apps/kajongg.md) | *An ancient Chinese board game for 4 players (installs "kdegames").*..[ *read more* ](apps/kajongg.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kajongg) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kajongg) |
 | <img src="icons/kalc.png" width="48" height="48"> | [***kalc***](apps/kalc.md) | *Complex numbers, 2d/3d graphing, arbitrary precision cli calculator.*..[ *read more* ](apps/kalc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kalc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kalc) |
 | <img src="icons/kalker.png" width="48" height="48"> | [***kalker***](apps/kalker.md) | *Scientific calculator with math syntax for user-defined variables.*..[ *read more* ](apps/kalker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kalker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kalker) |
+| <img src="icons/kando.png" width="48" height="48"> | [***kando***](apps/kando.md) | *The Cross-Platform Pie Menu.*..[ *read more* ](apps/kando.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kando) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kando) |
 | <img src="icons/kanon.png" width="48" height="48"> | [***kanon***](apps/kanon.md) | *Maturita GPJP designed for use with kanon web app.*..[ *read more* ](apps/kanon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kanon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kanon) |
 | <img src="icons/kapman.png" width="48" height="48"> | [***kapman***](apps/kapman.md) | *Pac-Man clone (installs "kdegames").*..[ *read more* ](apps/kapman.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kapman) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kapman) |
 | <img src="icons/kate.png" width="48" height="48"> | [***kate***](apps/kate.md) | *A multi-document editor part of KDE.*..[ *read more* ](apps/kate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kate) |
