@@ -1380,9 +1380,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/chrolog.png"
   },
   {
+    "packageName": "chromium-beta",
+    "description": "FOSS Web Browser, base of Google Chrome (beta edition)...",
+    "icon": "https://portable-linux-apps.github.io/icons/chromium-beta.png"
+  },
+  {
     "packageName": "chromium-bsu",
     "description": "Fast paced arcade style scrolling space shooter (game)...",
     "icon": "https://portable-linux-apps.github.io/icons/chromium-bsu.png"
+  },
+  {
+    "packageName": "chromium-edge",
+    "description": "FOSS Web Browser, base of Google Chrome (edge edition)...",
+    "icon": "https://portable-linux-apps.github.io/icons/chromium-edge.png"
   },
   {
     "packageName": "chromium-latest",
@@ -1390,8 +1400,13 @@
     "icon": "https://portable-linux-apps.github.io/icons/chromium-latest.png"
   },
   {
+    "packageName": "chromium-rc",
+    "description": "FOSS Web Browser, base of Google Chrome (release candidate)...",
+    "icon": "https://portable-linux-apps.github.io/icons/chromium-rc.png"
+  },
+  {
     "packageName": "chromium",
-    "description": "Web Browser. Open source base of Google Chrome, Edge and Brave...",
+    "description": "FOSS Web Browser, base of Google Chrome, Edge and Brave (stable)...",
     "icon": "https://portable-linux-apps.github.io/icons/chromium.png"
   },
   {
