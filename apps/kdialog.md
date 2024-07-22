@@ -4,6 +4,11 @@
 
  This tool is part of the KDE Utils Suite.
 
+ USAGE:
+ ```
+ kdeutils kdialog [OPTIONS] [ARGUMENTS]
+ ```
+
  ![image](https://develop.kde.org/docs/administration/kdialog/password.png)
 
  SITE: https://apps.kde.org
