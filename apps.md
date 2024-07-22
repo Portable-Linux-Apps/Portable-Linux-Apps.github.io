@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2145** *Appimage packages and standalone applications*.
+#### *This database contains* **2146** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -914,6 +914,7 @@
 | <img src="icons/kando.png" width="48" height="48"> | [***kando***](apps/kando.md) | *The Cross-Platform Pie Menu.*..[ *read more* ](apps/kando.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kando) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kando) |
 | <img src="icons/kanon.png" width="48" height="48"> | [***kanon***](apps/kanon.md) | *Maturita GPJP designed for use with kanon web app.*..[ *read more* ](apps/kanon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kanon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kanon) |
 | <img src="icons/kapman.png" width="48" height="48"> | [***kapman***](apps/kapman.md) | *Pac-Man clone (installs "kdegames").*..[ *read more* ](apps/kapman.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kapman) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kapman) |
+| <img src="icons/kate.png" width="48" height="48"> | [***kate***](apps/kate.md) | *A multi-document editor part of KDE (installs "kdeutils").*..[ *read more* ](apps/kate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kate) |
 | <img src="icons/katomic.png" width="48" height="48"> | [***katomic***](apps/katomic.md) | *Edu. game based around molecular geometry (installs "kdegames").*..[ *read more* ](apps/katomic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/katomic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/katomic) |
 | <img src="icons/kawanime.png" width="48" height="48"> | [***kawanime***](apps/kawanime.md) | *Desktop app for anime fans.*..[ *read more* ](apps/kawanime.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kawanime) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kawanime) |
 | <img src="icons/kbackup.png" width="48" height="48"> | [***kbackup***](apps/kbackup.md) | *Back up your data (installs "kdeutils").*..[ *read more* ](apps/kbackup.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kbackup) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kbackup) |
