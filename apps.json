@@ -1395,6 +1395,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/chromium-edge.png"
   },
   {
+    "packageName": "chromium",
+    "description": "FOSS Web Browser, base of Google Chrome, Edge and Brave (stable)...",
+    "icon": "https://portable-linux-apps.github.io/icons/chromium.png"
+  },
+  {
     "packageName": "chromium-latest",
     "description": "Web Browser (official unstable build)...",
     "icon": "https://portable-linux-apps.github.io/icons/chromium-latest.png"
@@ -1403,11 +1408,6 @@
     "packageName": "chromium-rc",
     "description": "FOSS Web Browser, base of Google Chrome (release candidate)...",
     "icon": "https://portable-linux-apps.github.io/icons/chromium-rc.png"
-  },
-  {
-    "packageName": "chromium",
-    "description": "FOSS Web Browser, base of Google Chrome, Edge and Brave (stable)...",
-    "icon": "https://portable-linux-apps.github.io/icons/chromium.png"
   },
   {
     "packageName": "chrysalis-bin",
@@ -3220,6 +3220,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/francetv.png"
   },
   {
+    "packageName": "francis",
+    "description": "Pomodoro technique, get more productive (installs kdeutils)...",
+    "icon": "https://portable-linux-apps.github.io/icons/francis.png"
+  },
+  {
     "packageName": "franz",
     "description": "Messaging app for WhatsApp, Slack, Telegram, HipChat and much more...",
     "icon": "https://portable-linux-apps.github.io/icons/franz.png"
@@ -4240,6 +4245,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/isle-editor.png"
   },
   {
+    "packageName": "isoimagewriter",
+    "description": "Write an ISO Image to a USB Disk (installs kdeutils)...",
+    "icon": "https://portable-linux-apps.github.io/icons/isoimagewriter.png"
+  },
+  {
     "packageName": "isolate",
     "description": "Lightweight image browser...",
     "icon": "https://portable-linux-apps.github.io/icons/isolate.png"
@@ -4475,6 +4485,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/kalker.png"
   },
   {
+    "packageName": "kalm",
+    "description": "Teach you different breathing techniques (installs kdeutils)...",
+    "icon": "https://portable-linux-apps.github.io/icons/kalm.png"
+  },
+  {
     "packageName": "kando",
     "description": "The Cross-Platform Pie Menu...",
     "icon": "https://portable-linux-apps.github.io/icons/kando.png"
@@ -4490,11 +4505,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/kapman.png"
   },
   {
-    "packageName": "kate",
-    "description": "A multi-document editor part of KDE...",
-    "icon": "https://portable-linux-apps.github.io/icons/kate.png"
-  },
-  {
     "packageName": "katomic",
     "description": "Edu. game based around molecular geometry (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/katomic.png"
@@ -4503,6 +4513,11 @@
     "packageName": "kawanime",
     "description": "Desktop app for anime fans...",
     "icon": "https://portable-linux-apps.github.io/icons/kawanime.png"
+  },
+  {
+    "packageName": "kbackup",
+    "description": "Back up your data (installs kdeutils)...",
+    "icon": "https://portable-linux-apps.github.io/icons/kbackup.png"
   },
   {
     "packageName": "kblackbox",
@@ -4535,9 +4550,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/kcharselect.png"
   },
   {
+    "packageName": "kclock",
+    "description": "A universal clock application (installs kdeutils)...",
+    "icon": "https://portable-linux-apps.github.io/icons/kclock.png"
+  },
+  {
     "packageName": "kcov",
     "description": "An AppImage of Kcov code coverage tool...",
     "icon": "https://portable-linux-apps.github.io/icons/kcov.png"
+  },
+  {
+    "packageName": "kdebugsettings",
+    "description": "Edits displayed QLoggingCategory (installs kdeutils)...",
+    "icon": "https://portable-linux-apps.github.io/icons/kdebugsettings.png"
   },
   {
     "packageName": "kdegames",
@@ -4560,6 +4585,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/kdf.png"
   },
   {
+    "packageName": "kdialog",
+    "description": "A dialog utility (installs kdeutils)...",
+    "icon": "https://portable-linux-apps.github.io/icons/kdialog.png"
+  },
+  {
     "packageName": "kdiamond",
     "description": "Diamond game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kdiamond.png"
@@ -4568,6 +4598,11 @@
     "packageName": "kdiskmark",
     "description": "A simple open-source disk benchmark tool for Linux distros...",
     "icon": "https://portable-linux-apps.github.io/icons/kdiskmark.png"
+  },
+  {
+    "packageName": "keditbookmarks",
+    "description": "Bookmarks editor (installs kdeutils)...",
+    "icon": "https://portable-linux-apps.github.io/icons/keditbookmarks.png"
   },
   {
     "packageName": "keepassxc",
@@ -4613,6 +4648,16 @@
     "packageName": "keys",
     "description": "Key management, signing and encryption...",
     "icon": "https://portable-linux-apps.github.io/icons/keys.png"
+  },
+  {
+    "packageName": "keysmith",
+    "description": "Generates tokens for your two-factor logins (installs kdeutils)...",
+    "icon": "https://portable-linux-apps.github.io/icons/keysmith.png"
+  },
+  {
+    "packageName": "kfind",
+    "description": "A search tool (installs kdeutils)...",
+    "icon": "https://portable-linux-apps.github.io/icons/kfind.png"
   },
   {
     "packageName": "kfourinline",
@@ -4750,6 +4795,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/kondo.png"
   },
   {
+    "packageName": "kongress",
+    "description": "A companion application for conferences (installs kdeutils)...",
+    "icon": "https://portable-linux-apps.github.io/icons/kongress.png"
+  },
+  {
     "packageName": "konquest",
     "description": "Game of planets (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/konquest.png"
@@ -4773,6 +4823,11 @@
     "packageName": "kpat",
     "description": "Klondike, Spider, Free Cell and other Solitaire (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kpat.png"
+  },
+  {
+    "packageName": "krecorder",
+    "description": "An audio recording application (installs kdeutils)...",
+    "icon": "https://portable-linux-apps.github.io/icons/krecorder.png"
   },
   {
     "packageName": "kreversi",
@@ -4825,9 +4880,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/ksudoku.png"
   },
   {
+    "packageName": "kteatime",
+    "description": "A handy timer for steeping tea (installs kdeutils)...",
+    "icon": "https://portable-linux-apps.github.io/icons/kteatime.png"
+  },
+  {
     "packageName": "ktimer",
     "description": "Countdown Launcher (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/ktimer.png"
+  },
+  {
+    "packageName": "ktrip",
+    "description": "KTrip helps you navigate in public transport (installs kdeutils)...",
+    "icon": "https://portable-linux-apps.github.io/icons/ktrip.png"
   },
   {
     "packageName": "ktuberling",
@@ -4855,14 +4920,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/kuro.png"
   },
   {
-    "packageName": "kwalletmanager5",
-    "description": "Wallet management tool (installs kdeutils)...",
-    "icon": "https://portable-linux-apps.github.io/icons/kwalletmanager5.png"
-  },
-  {
     "packageName": "kwave",
     "description": "A sound & audio editor designed for the KDE Desktop Environment...",
     "icon": "https://portable-linux-apps.github.io/icons/kwave.png"
+  },
+  {
+    "packageName": "kweather",
+    "description": "A convergent weather application (installs kdeutils)...",
+    "icon": "https://portable-linux-apps.github.io/icons/kweather.png"
+  },
+  {
+    "packageName": "kwrite",
+    "description": "KWrite is a text editor by KDE (installs kdeutils)...",
+    "icon": "https://portable-linux-apps.github.io/icons/kwrite.png"
   },
   {
     "packageName": "lagrange",
@@ -8395,6 +8465,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/siyuan.png"
   },
   {
+    "packageName": "skanpage",
+    "description": "A simple scanning application (installs kdeutils)...",
+    "icon": "https://portable-linux-apps.github.io/icons/skanpage.png"
+  },
+  {
     "packageName": "skrifa",
     "description": "A simple word processor built with web technologies...",
     "icon": "https://portable-linux-apps.github.io/icons/skrifa.png"
@@ -9153,6 +9228,11 @@
     "packageName": "telegram",
     "description": "Desktop version of Telegram messaging app...",
     "icon": "https://portable-linux-apps.github.io/icons/telegram.png"
+  },
+  {
+    "packageName": "telly-skout",
+    "description": "A convergent Kirigami TV guide (installs kdeutils)...",
+    "icon": "https://portable-linux-apps.github.io/icons/telly-skout.png"
   },
   {
     "packageName": "tenacity",
