@@ -5,12 +5,7 @@
  Easily manage wine prefixes in a new way. Run Windows software and games on
  Linux.
  
- This is the Unofficial AppImage built using Debian Stable and extra packages
- compiled from the AUR (Arch Linux).
-
- NOTE: requires "imagemagick" installed on the host.
- 
- RECOMMENDED SCRIPTS to install with "AM"/"AppMan": "wine"
+ This is the Unofficial AppImage built using "Conty" (see "conty").
 
  ![Istantanea_2024-02-28_14-48-48 png](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/assets/88724353/b710774a-b412-439d-a90c-db576db3ce12)
 
