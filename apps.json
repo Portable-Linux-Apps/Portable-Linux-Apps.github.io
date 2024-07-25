@@ -9975,6 +9975,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/virtscreen.png"
   },
   {
+    "packageName": "virtualbox",
+    "description": "Powerful x86 virtualization for enterprise as well as home use...",
+    "icon": "https://portable-linux-apps.github.io/icons/virtualbox.png"
+  },
+  {
     "packageName": "visual-define-xml-editor",
     "description": "Editor for CDISC Define-XML standard...",
     "icon": "https://portable-linux-apps.github.io/icons/visual-define-xml-editor.png"
