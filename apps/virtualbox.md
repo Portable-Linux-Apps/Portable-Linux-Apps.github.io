@@ -20,7 +20,7 @@
  encouraged to contribute while Oracle ensures the product always meets 
  professional quality criteria.
  
- This is thye Unofficial AppImage built on top of "Conty" (Arch Linux).
+ This is the Unofficial AppImage built on top of "Conty" (Arch Linux).
  
  It is based on VirtualBox KVM, not to depend on the "vboxdrv" driver.
  
