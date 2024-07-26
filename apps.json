@@ -3585,6 +3585,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gm-companion.png"
   },
   {
+    "packageName": "gnome-boxes",
+    "description": "A simple GNOME application to access virtual machines...",
+    "icon": "https://portable-linux-apps.github.io/icons/gnome-boxes.png"
+  },
+  {
     "packageName": "gnome-calculator",
     "description": "Perform arithmetic, scientific or financial calculations...",
     "icon": "https://portable-linux-apps.github.io/icons/gnome-calculator.png"
