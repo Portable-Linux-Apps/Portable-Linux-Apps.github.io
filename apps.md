@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2149** *Appimage packages and standalone applications*.
+#### *This database contains* **2150** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1201,6 +1201,7 @@
 | <img src="icons/muse.png" width="48" height="48"> | [***muse***](apps/muse.md) | *A digital audio workstation with support for both Audio and MIDI.*..[ *read more* ](apps/muse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/muse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/muse) |
 | <img src="icons/museeks.png" width="48" height="48"> | [***museeks***](apps/museeks.md) | *A simple, clean and cross-platform music player.*..[ *read more* ](apps/museeks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/museeks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/museeks) |
 | <img src="icons/musescore.png" width="48" height="48"> | [***musescore***](apps/musescore.md) | *An open source and free music notation software.*..[ *read more* ](apps/musescore.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/musescore) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/musescore) |
+| <img src="icons/music-assistant-companion.png" width="48" height="48"> | [***music-assistant-companion***](apps/music-assistant-companion.md) | *The desktop companion app for Music Assistant.*..[ *read more* ](apps/music-assistant-companion.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/music-assistant-companion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/music-assistant-companion) |
 | <img src="icons/musicalypse.png" width="48" height="48"> | [***musicalypse***](apps/musicalypse.md) | *Audio/Music player and server built with Web technologies.*..[ *read more* ](apps/musicalypse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/musicalypse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/musicalypse) |
 | <img src="icons/music-blocks.png" width="48" height="48"> | [***music-blocks***](apps/music-blocks.md) | *.Exploring Math, Music, and Programming.*..[ *read more* ](apps/music-blocks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/music-blocks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/music-blocks) |
 | <img src="icons/music-kitten.png" width="48" height="48"> | [***music-kitten***](apps/music-kitten.md) | *Use your own soundtrack in Counter-Strike.*..[ *read more* ](apps/music-kitten.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/music-kitten) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/music-kitten) |
