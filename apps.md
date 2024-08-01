@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2150** *Appimage packages and standalone applications*.
+#### *This database contains* **2151** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -2144,6 +2144,7 @@
 | <img src="icons/zegarek.png" width="48" height="48"> | [***zegarek***](apps/zegarek.md) | *A simple clock with millisecond resolution.*..[ *read more* ](apps/zegarek.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zegarek) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zegarek) |
 | <img src="icons/zegrapher.png" width="48" height="48"> | [***zegrapher***](apps/zegrapher.md) | *Math graphing software.*..[ *read more* ](apps/zegrapher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zegrapher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zegrapher) |
 | <img src="icons/zellij.png" width="48" height="48"> | [***zellij***](apps/zellij.md) | *A terminal workspace with batteries included.*..[ *read more* ](apps/zellij.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zellij) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zellij) |
+| <img src="icons/zen-browser.png" width="48" height="48"> | [***zen-browser***](apps/zen-browser.md) | *Experience tranquillity while browsing the web without tracking.*..[ *read more* ](apps/zen-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zen-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zen-browser) |
 | <img src="icons/zenity.png" width="48" height="48"> | [***zenity***](apps/zenity.md) | *A CLI utility that creates dialog boxes (Unofficial AppImage, GTK3).*..[ *read more* ](apps/zenity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zenity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zenity) |
 | <img src="icons/zenkit.png" width="48" height="48"> | [***zenkit***](apps/zenkit.md) | *A platform for collaboration and project management.*..[ *read more* ](apps/zenkit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zenkit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zenkit) |
 | <img src="icons/zenroomstudio.png" width="48" height="48"> | [***zenroomstudio***](apps/zenroomstudio.md) | *Extensible IDE which targets multiple dev platforms.*..[ *read more* ](apps/zenroomstudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zenroomstudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zenroomstudio) |

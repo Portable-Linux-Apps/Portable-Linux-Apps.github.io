@@ -10655,6 +10655,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/zellij.png"
   },
   {
+    "packageName": "zen-browser",
+    "description": "Experience tranquillity while browsing the web without tracking...",
+    "icon": "https://portable-linux-apps.github.io/icons/zen-browser.png"
+  },
+  {
     "packageName": "zenity",
     "description": "A CLI utility that creates dialog boxes (Unofficial AppImage, GTK3)...",
     "icon": "https://portable-linux-apps.github.io/icons/zenity.png"
