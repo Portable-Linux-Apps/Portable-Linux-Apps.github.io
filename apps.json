@@ -5705,6 +5705,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/miru.png"
   },
   {
+    "packageName": "mission-center",
+    "description": "Monitor your CPU, Memory, Disk, Network and GPU usage...",
+    "icon": "https://portable-linux-apps.github.io/icons/mission-center.png"
+  },
+  {
     "packageName": "miteiru",
     "description": "An open source Electron video player to learn Japanese...",
     "icon": "https://portable-linux-apps.github.io/icons/miteiru.png"
@@ -5940,14 +5945,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/musescore.png"
   },
   {
-    "packageName": "music-assistant-companion",
-    "description": "The desktop companion app for Music Assistant...",
-    "icon": "https://portable-linux-apps.github.io/icons/music-assistant-companion.png"
-  },
-  {
     "packageName": "musicalypse",
     "description": "Audio/Music player and server built with Web technologies...",
     "icon": "https://portable-linux-apps.github.io/icons/musicalypse.png"
+  },
+  {
+    "packageName": "music-assistant-companion",
+    "description": "The desktop companion app for Music Assistant...",
+    "icon": "https://portable-linux-apps.github.io/icons/music-assistant-companion.png"
   },
   {
     "packageName": "music-blocks",
