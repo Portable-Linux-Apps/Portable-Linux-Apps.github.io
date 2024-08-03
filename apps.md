@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2152** *Appimage packages and standalone applications*.
+#### *This database contains* **2153** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -1590,6 +1590,7 @@
 | <img src="icons/rclone-browser.png" width="48" height="48"> | [***rclone-browser***](apps/rclone-browser.md) | *Simple cross platform GUI for rclone.*..[ *read more* ](apps/rclone-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rclone-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rclone-browser) |
 | <img src="icons/reactotron.png" width="48" height="48"> | [***reactotron***](apps/reactotron.md) | *Reactotron desktop mode engage.*..[ *read more* ](apps/reactotron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/reactotron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/reactotron) |
 | <img src="icons/realm-studio.png" width="48" height="48"> | [***realm-studio***](apps/realm-studio.md) | *A tool for everything Realm.*..[ *read more* ](apps/realm-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/realm-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/realm-studio) |
+| <img src="icons/recoll.png" width="48" height="48"> | [***recoll***](apps/recoll.md) | *Full-text search for your desktop.*..[ *read more* ](apps/recoll.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/recoll) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/recoll) |
 | <img src="icons/record-compare.png" width="48" height="48"> | [***record-compare***](apps/record-compare.md) | *Record Compare.*..[ *read more* ](apps/record-compare.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/record-compare) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/record-compare) |
 | <img src="icons/redeclipse.png" width="48" height="48"> | [***redeclipse***](apps/redeclipse.md) | *A great first person 3D arena shooter with online support (game).*..[ *read more* ](apps/redeclipse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/redeclipse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/redeclipse) |
 | <img src="icons/redis-gui.png" width="48" height="48"> | [***redis-gui***](apps/redis-gui.md) | *Modern graphical user interface to peek into redis DB.*..[ *read more* ](apps/redis-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/redis-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/redis-gui) |
