@@ -8,7 +8,7 @@
 
 --------
 
-#### *This site lists **2153** Appimage packages and standalone applications.*
+#### *This site lists **2155** Appimage packages and standalone applications.*
 
 *From here you can download them, install them, update them (for real), get more information about the sources and their developers... and if you want, you can contribute yourself by adding the missing information, because this site is **open source**!*
 
