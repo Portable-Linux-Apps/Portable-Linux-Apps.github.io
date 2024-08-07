@@ -4780,6 +4780,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/kimitzu-client.png"
   },
   {
+    "packageName": "kinopio",
+    "description": "Thinking canvas for new ideas and hard problems...",
+    "icon": "https://portable-linux-apps.github.io/icons/kinopio.png"
+  },
+  {
     "packageName": "kiriki",
     "description": "A dice game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kiriki.png"
@@ -6963,6 +6968,11 @@
     "packageName": "pboy",
     "description": "A small .pdf management tool with a command-line UI...",
     "icon": "https://portable-linux-apps.github.io/icons/pboy.png"
+  },
+  {
+    "packageName": "pcloud",
+    "description": "Europe's most secure cloud storage trusted by 20 million people...",
+    "icon": "https://portable-linux-apps.github.io/icons/pcloud.png"
   },
   {
     "packageName": "pcsx2",
@@ -9618,6 +9628,11 @@
     "packageName": "tockler",
     "description": "An application that tracks your time by monitoring...",
     "icon": "https://portable-linux-apps.github.io/icons/tockler.png"
+  },
+  {
+    "packageName": "todesktop",
+    "description": "Web app to desktop app in minutes...",
+    "icon": "https://portable-linux-apps.github.io/icons/todesktop.png"
   },
   {
     "packageName": "todo-bash",
