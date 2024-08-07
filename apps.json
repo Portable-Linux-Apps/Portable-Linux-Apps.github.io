@@ -2090,9 +2090,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/dedop-studio.png"
   },
   {
+    "packageName": "deepl-linux-electron",
+    "description": "DeepL Integration. Select & translate text in any app...",
+    "icon": "https://portable-linux-apps.github.io/icons/deepl-linux-electron.png"
+  },
+  {
     "packageName": "deeplx",
     "description": "DeepL Free API (No TOKEN required)...",
     "icon": "https://portable-linux-apps.github.io/icons/deeplx.png"
+  },
+  {
+    "packageName": "deepnotes",
+    "description": "End-to-end encrypted visual note-taking tool...",
+    "icon": "https://portable-linux-apps.github.io/icons/deepnotes.png"
   },
   {
     "packageName": "deeptags",
@@ -7260,6 +7270,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/plover.png"
   },
   {
+    "packageName": "plume",
+    "description": "A note-taking app written in Qt C++ and QML...",
+    "icon": "https://portable-linux-apps.github.io/icons/plume.png"
+  },
+  {
     "packageName": "pnpm",
     "description": "A single file, powered by AppImage...",
     "icon": "https://portable-linux-apps.github.io/icons/pnpm.png"
@@ -7888,6 +7903,11 @@
     "packageName": "quokkagit",
     "description": "A small, TortoiseGit inspired git log viewer for linux...",
     "icon": "https://portable-linux-apps.github.io/icons/quokkagit.png"
+  },
+  {
+    "packageName": "quran-companion",
+    "description": "Free and open-source desktop Quran reader and player...",
+    "icon": "https://portable-linux-apps.github.io/icons/quran-companion.png"
   },
   {
     "packageName": "qv2ray",
@@ -8525,6 +8545,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/sigrok-cli.png"
   },
   {
+    "packageName": "silex-desktop",
+    "description": "This is the official Silex desktop version...",
+    "icon": "https://portable-linux-apps.github.io/icons/silex-desktop.png"
+  },
+  {
     "packageName": "siliconsneaker",
     "description": "View runs from your Garmin brand watch..",
     "icon": "https://portable-linux-apps.github.io/icons/siliconsneaker.png"
@@ -8793,6 +8818,11 @@
     "packageName": "soul-arena",
     "description": "Bleach-based online multiplayer strategy game...",
     "icon": "https://portable-linux-apps.github.io/icons/soul-arena.png"
+  },
+  {
+    "packageName": "soundcloud-rpc",
+    "description": "A SoundCloud client with Discord Rich Presence and AdBlock...",
+    "icon": "https://portable-linux-apps.github.io/icons/soundcloud-rpc.png"
   },
   {
     "packageName": "sourcetrail",
@@ -10288,6 +10318,11 @@
     "packageName": "vvave-maui",
     "description": "Manage your music collection and stream it from the cloud...",
     "icon": "https://portable-linux-apps.github.io/icons/vvave-maui.png"
+  },
+  {
+    "packageName": "waifu2x-gui",
+    "description": "An app that upscales anime-styled images, gifs, videos, pdfs...",
+    "icon": "https://portable-linux-apps.github.io/icons/waifu2x-gui.png"
   },
   {
     "packageName": "walc",
