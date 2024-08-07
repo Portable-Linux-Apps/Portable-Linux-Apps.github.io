@@ -7,7 +7,7 @@
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
-#### *This database contains* **2197** *Appimage packages and standalone applications*.
+#### *This database contains* **2198** *Appimage packages and standalone applications*.
 
 -----------------
 
@@ -561,6 +561,7 @@
 | <img src="icons/etherealengine-cc.png" width="48" height="48"> | [***etherealengine-cc***](apps/etherealengine-cc.md) | *App for managing Ethereal Engine cluster.*..[ *read more* ](apps/etherealengine-cc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/etherealengine-cc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/etherealengine-cc) |
 | <img src="icons/etichetta.png" width="48" height="48"> | [***etichetta***](apps/etichetta.md) | *A YOLO annotator, for human beings.*..[ *read more* ](apps/etichetta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/etichetta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/etichetta) |
 | <img src="icons/eudic.png" width="48" height="48"> | [***eudic***](apps/eudic.md) | *Chinese app to learn english (listen statistics/note synch...).*..[ *read more* ](apps/eudic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eudic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eudic) |
+| <img src="icons/evalit.png" width="48" height="48"> | [***evalit***](apps/evalit.md) | *A notepad calculator application with JavaScript configuration.*..[ *read more* ](apps/evalit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/evalit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/evalit) |
 | <img src="icons/everinst.png" width="48" height="48"> | [***everinst***](apps/everinst.md) | *An installer for the Everest mod loader.*..[ *read more* ](apps/everinst.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/everinst) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/everinst) |
 | <img src="icons/evince.png" width="48" height="48"> | [***evince***](apps/evince.md) | *Document viewer for popular document formats.*..[ *read more* ](apps/evince.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/evince) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/evince) |
 | <img src="icons/evoplex.png" width="48" height="48"> | [***evoplex***](apps/evoplex.md) | *Agent-based modeling.*..[ *read more* ](apps/evoplex.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/evoplex) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/evoplex) |

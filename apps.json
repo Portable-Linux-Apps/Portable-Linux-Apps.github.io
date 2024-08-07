@@ -2740,6 +2740,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/eudic.png"
   },
   {
+    "packageName": "evalit",
+    "description": "A notepad calculator application with JavaScript configuration...",
+    "icon": "https://portable-linux-apps.github.io/icons/evalit.png"
+  },
+  {
     "packageName": "everinst",
     "description": "An installer for the Everest mod loader...",
     "icon": "https://portable-linux-apps.github.io/icons/everinst.png"
