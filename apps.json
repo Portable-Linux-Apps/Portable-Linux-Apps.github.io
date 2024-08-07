@@ -75,6 +75,21 @@
     "icon": "https://portable-linux-apps.github.io/icons/advanced-rest-client.png"
   },
   {
+    "packageName": "affine-beta",
+    "description": "Next-gen knowledge base that brings planning, sorting and creating...",
+    "icon": "https://portable-linux-apps.github.io/icons/affine-beta.png"
+  },
+  {
+    "packageName": "affine-canary",
+    "description": "Next-gen knowledge base that brings planning/sorting/creating...",
+    "icon": "https://portable-linux-apps.github.io/icons/affine-canary.png"
+  },
+  {
+    "packageName": "affine",
+    "description": "Next-gen knowledge base that brings planning, sorting and creating. ..",
+    "icon": "https://portable-linux-apps.github.io/icons/affine.png"
+  },
+  {
     "packageName": "agregore",
     "description": "A minimal browser for the distributed web (Desktop version)...",
     "icon": "https://portable-linux-apps.github.io/icons/agregore.png"
@@ -93,6 +108,11 @@
     "packageName": "aillio-ts",
     "description": "The desktop application for Aillio Bullet R1...",
     "icon": "https://portable-linux-apps.github.io/icons/aillio-ts.png"
+  },
+  {
+    "packageName": "aiming-pro",
+    "description": "Aim trainer to practice, train and improve their FPS aim skills...",
+    "icon": "https://portable-linux-apps.github.io/icons/aiming-pro.png"
   },
   {
     "packageName": "air-controller-desktop",
@@ -238,6 +258,11 @@
     "packageName": "aniship",
     "description": "Allows for easy viewing of anime on PCs and laptops...",
     "icon": "https://portable-linux-apps.github.io/icons/aniship.png"
+  },
+  {
+    "packageName": "ankama-launcher",
+    "description": "Ankama is an entertainment and digital creation group...",
+    "icon": "https://portable-linux-apps.github.io/icons/ankama-launcher.png"
   },
   {
     "packageName": "anki",
@@ -678,6 +703,11 @@
     "packageName": "beam-wallet",
     "description": "Beam Desktop Wallet...",
     "icon": "https://portable-linux-apps.github.io/icons/beam-wallet.png"
+  },
+  {
+    "packageName": "bearly",
+    "description": "The world's best AI at your fingertips...",
+    "icon": "https://portable-linux-apps.github.io/icons/bearly.png"
   },
   {
     "packageName": "beatconnect-client",
@@ -2400,6 +2430,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/eksplode.re.png"
   },
   {
+    "packageName": "elapp",
+    "description": "Elapp let's you send files to mobile and desktop devices near you...",
+    "icon": "https://portable-linux-apps.github.io/icons/elapp.png"
+  },
+  {
     "packageName": "elcalc",
     "description": "Cross-Platform calculator built with Electron...",
     "icon": "https://portable-linux-apps.github.io/icons/elcalc.png"
@@ -3275,6 +3310,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/freeman.png"
   },
   {
+    "packageName": "freeshow",
+    "description": "User-friendly presenter software...",
+    "icon": "https://portable-linux-apps.github.io/icons/freeshow.png"
+  },
+  {
     "packageName": "freetexturepacker",
     "description": "Creates sprite sheets for you game or site (graphics)...",
     "icon": "https://portable-linux-apps.github.io/icons/freetexturepacker.png"
@@ -3940,6 +3980,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/hexoeditor.png"
   },
   {
+    "packageName": "heynote",
+    "description": "A dedicated scratchpad for developers...",
+    "icon": "https://portable-linux-apps.github.io/icons/heynote.png"
+  },
+  {
     "packageName": "hiddify-next",
     "description": "Auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria...",
     "icon": "https://portable-linux-apps.github.io/icons/hiddify-next.png"
@@ -4105,6 +4150,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ideamaker.png"
   },
   {
+    "packageName": "ideamerit",
+    "description": "Diagramming tool. Software for drawing Objectives and Key Results...",
+    "icon": "https://portable-linux-apps.github.io/icons/ideamerit.png"
+  },
+  {
     "packageName": "igdm",
     "description": "Desktop application for Instagram DMs...",
     "icon": "https://portable-linux-apps.github.io/icons/igdm.png"
@@ -4213,6 +4263,11 @@
     "packageName": "instead",
     "description": "Simple Text Adventures Interpreter...",
     "icon": "https://portable-linux-apps.github.io/icons/instead.png"
+  },
+  {
+    "packageName": "internxt-drive",
+    "description": "Electron React Boilerplate uses Electron and React...",
+    "icon": "https://portable-linux-apps.github.io/icons/internxt-drive.png"
   },
   {
     "packageName": "intiface",
@@ -5205,6 +5260,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/listen1-desktop.png"
   },
   {
+    "packageName": "listen.moe",
+    "description": "Official LISTEN.moe Desktop Client...",
+    "icon": "https://portable-linux-apps.github.io/icons/listen.moe.png"
+  },
+  {
     "packageName": "liteide",
     "description": "LiteIDE is a simple, open source, cross-platform Go IDE...",
     "icon": "https://portable-linux-apps.github.io/icons/liteide.png"
@@ -5248,6 +5308,11 @@
     "packageName": "logseq",
     "description": "A privacy-first platform for knowledge management and collaboration...",
     "icon": "https://portable-linux-apps.github.io/icons/logseq.png"
+  },
+  {
+    "packageName": "looofix",
+    "description": "Minimalist Desktop Lofi Player To Relax and Enjoy...",
+    "icon": "https://portable-linux-apps.github.io/icons/looofix.png"
   },
   {
     "packageName": "loopauditioneer",
@@ -5655,6 +5720,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/mindmapp.png"
   },
   {
+    "packageName": "mine-craft.io",
+    "description": "Minecraft and even more!..",
+    "icon": "https://portable-linux-apps.github.io/icons/mine-craft.io.png"
+  },
+  {
     "packageName": "minecraft-launcher",
     "description": "Game downloader and launcher for Minecraft...",
     "icon": "https://portable-linux-apps.github.io/icons/minecraft-launcher.png"
@@ -5815,6 +5885,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/monokle.png"
   },
   {
+    "packageName": "monoline",
+    "description": "Your personal micro journal...",
+    "icon": "https://portable-linux-apps.github.io/icons/monoline.png"
+  },
+  {
     "packageName": "moolticute",
     "description": "Mooltipass crossplatform daemon/tools...",
     "icon": "https://portable-linux-apps.github.io/icons/moolticute.png"
@@ -5913,6 +5988,11 @@
     "packageName": "mudita-center",
     "description": "Mudita Center Electron App...",
     "icon": "https://portable-linux-apps.github.io/icons/mudita-center.png"
+  },
+  {
+    "packageName": "mudlet",
+    "description": "Play immersive, multiplayer, pure-text games on Mudlet...",
+    "icon": "https://portable-linux-apps.github.io/icons/mudlet.png"
   },
   {
     "packageName": "muffon",
@@ -6175,6 +6255,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/nightpdf.png"
   },
   {
+    "packageName": "nightwave-plaza-electron",
+    "description": "https://plaza.one/ radio station desktop app...",
+    "icon": "https://portable-linux-apps.github.io/icons/nightwave-plaza-electron.png"
+  },
+  {
     "packageName": "nimbus-weather",
     "description": "A beautiful weather app built using the Dark Sky API...",
     "icon": "https://portable-linux-apps.github.io/icons/nimbus-weather.png"
@@ -6328,6 +6413,11 @@
     "packageName": "nuclia",
     "description": "A low-code API to build an AI multi-language semantic search engine...",
     "icon": "https://portable-linux-apps.github.io/icons/nuclia.png"
+  },
+  {
+    "packageName": "nuclino",
+    "description": "Bring knowledge, docs, and projects together in one place...",
+    "icon": "https://portable-linux-apps.github.io/icons/nuclino.png"
   },
   {
     "packageName": "numara",
@@ -6823,6 +6913,11 @@
     "packageName": "parsec-linux",
     "description": "Parsec game streaming client...",
     "icon": "https://portable-linux-apps.github.io/icons/parsec-linux.png"
+  },
+  {
+    "packageName": "parsec",
+    "description": "Open source Dropbox-like file sharing with full client encryption...",
+    "icon": "https://portable-linux-apps.github.io/icons/parsec.png"
   },
   {
     "packageName": "passky",
@@ -7938,6 +8033,11 @@
     "packageName": "reor",
     "description": "AI note-taking app that runs models locally...",
     "icon": "https://portable-linux-apps.github.io/icons/reor.png"
+  },
+  {
+    "packageName": "repath-studio",
+    "description": "A cross-platform vector graphics editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/repath-studio.png"
   },
   {
     "packageName": "responsively",
@@ -9060,6 +9160,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/superfile.png"
   },
   {
+    "packageName": "supernotes",
+    "description": "Enjoy efficient note-taking without the hassle...",
+    "icon": "https://portable-linux-apps.github.io/icons/supernotes.png"
+  },
+  {
     "packageName": "superpaper",
     "description": "A cross-platform multi monitor wallpaper manager...",
     "icon": "https://portable-linux-apps.github.io/icons/superpaper.png"
@@ -9233,6 +9338,11 @@
     "packageName": "tagtime-desktop",
     "description": "Time tracking for space cadets, desktop edition...",
     "icon": "https://portable-linux-apps.github.io/icons/tagtime-desktop.png"
+  },
+  {
+    "packageName": "taskade",
+    "description": "AI-Powered productivity...",
+    "icon": "https://portable-linux-apps.github.io/icons/taskade.png"
   },
   {
     "packageName": "taskizer",
@@ -9520,6 +9630,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/todoist.png"
   },
   {
+    "packageName": "todorant",
+    "description": "Todorant releases...",
+    "icon": "https://portable-linux-apps.github.io/icons/todorant.png"
+  },
+  {
     "packageName": "todorust",
     "description": "Simple ToDoList made in rust...",
     "icon": "https://portable-linux-apps.github.io/icons/todorust.png"
@@ -9725,6 +9840,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/typioca.png"
   },
   {
+    "packageName": "tzared",
+    "description": "Real-time strategy game...",
+    "icon": "https://portable-linux-apps.github.io/icons/tzared.png"
+  },
+  {
     "packageName": "uad-ng",
     "description": "GUI Rust wrapper for ADB to debloat non-rooted Android devices...",
     "icon": "https://portable-linux-apps.github.io/icons/uad-ng.png"
@@ -9830,9 +9950,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/unreel.png"
   },
   {
+    "packageName": "unyo",
+    "description": "Anime streaming and Manga reader desktop app without ads. ..",
+    "icon": "https://portable-linux-apps.github.io/icons/unyo.png"
+  },
+  {
     "packageName": "updatedeployqt",
     "description": "Tool to deploy auto update for qt applications...",
     "icon": "https://portable-linux-apps.github.io/icons/updatedeployqt.png"
+  },
+  {
+    "packageName": "upnote",
+    "description": "Collaborative tools to improve your efficiency (in French)...",
+    "icon": "https://portable-linux-apps.github.io/icons/upnote.png"
   },
   {
     "packageName": "upscayl",
@@ -10105,6 +10235,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/vrest-ng.png"
   },
   {
+    "packageName": "vrew",
+    "description": "Your first video editor, your easiest choice...",
+    "icon": "https://portable-linux-apps.github.io/icons/vrew.png"
+  },
+  {
     "packageName": "vscodium",
     "description": "Community-driven, freely-licensed binary distribution of MS VSCode...",
     "icon": "https://portable-linux-apps.github.io/icons/vscodium.png"
@@ -10203,6 +10338,11 @@
     "packageName": "webamp",
     "description": "Winamp Player 2.9 reimplementation in HTML5 and JS...",
     "icon": "https://portable-linux-apps.github.io/icons/webamp.png"
+  },
+  {
+    "packageName": "webcatalog",
+    "description": "App store for web apps. Find the right software and services...",
+    "icon": "https://portable-linux-apps.github.io/icons/webcatalog.png"
   },
   {
     "packageName": "webcord",
@@ -10410,6 +10550,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/wootomation.png"
   },
   {
+    "packageName": "wordtsar",
+    "description": "Document mode clone for Wordstar, supports Wordstar, RTF and DOCX...",
+    "icon": "https://portable-linux-apps.github.io/icons/wordtsar.png"
+  },
+  {
     "packageName": "workflowy",
     "description": "A notetaking tool...",
     "icon": "https://portable-linux-apps.github.io/icons/workflowy.png"
@@ -10555,6 +10700,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/xxh.png"
   },
   {
+    "packageName": "yam",
+    "description": "Unofficial Game Updater for the F95Zone platform...",
+    "icon": "https://portable-linux-apps.github.io/icons/yam.png"
+  },
+  {
     "packageName": "yana",
     "description": "Note-taking app with nested documents, text search/editor, code.....",
     "icon": "https://portable-linux-apps.github.io/icons/yana.png"
@@ -10610,6 +10760,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/youtubesearchfilter.png"
   },
   {
+    "packageName": "yt-dlandcut",
+    "description": "Download and cut Youtube videos by providing url and time range...",
+    "icon": "https://portable-linux-apps.github.io/icons/yt-dlandcut.png"
+  },
+  {
     "packageName": "yt-dlg",
     "description": "A front-end GUI of the popular youtube-dl written in wxPython...",
     "icon": "https://portable-linux-apps.github.io/icons/yt-dlg.png"
@@ -10628,6 +10783,11 @@
     "packageName": "ytmdesktop",
     "description": "A Desktop App for YouTube Music...",
     "icon": "https://portable-linux-apps.github.io/icons/ytmdesktop.png"
+  },
+  {
+    "packageName": "yts-streaming",
+    "description": "Stream or play yts and torrent movies. ..",
+    "icon": "https://portable-linux-apps.github.io/icons/yts-streaming.png"
   },
   {
     "packageName": "yubikey-manager",
