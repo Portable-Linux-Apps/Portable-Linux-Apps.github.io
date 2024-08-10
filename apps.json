@@ -1051,17 +1051,17 @@
   },
   {
     "packageName": "brave",
-    "description": "A privacy oriented Web Browser based on Chromium (Stable)...",
+    "description": "A privacy oriented Web Browser based on Chromium (Stable). (Multiple-choices)...",
     "icon": "https://portable-linux-apps.github.io/icons/brave.png"
   },
   {
     "packageName": "brave-beta",
-    "description": "A privacy oriented Web Browser (Beta Edition)...",
+    "description": "A privacy oriented Web Browser (Beta Edition). (Multiple-choices)...",
     "icon": "https://portable-linux-apps.github.io/icons/brave-beta.png"
   },
   {
     "packageName": "brave-nightly",
-    "description": "A privacy oriented Web Browser (Nightly Edition)...",
+    "description": "A privacy oriented Web Browser (Nightly Edition). (Multiple-choices)...",
     "icon": "https://portable-linux-apps.github.io/icons/brave-nightly.png"
   },
   {
@@ -2061,7 +2061,7 @@
   },
   {
     "packageName": "deadbeef",
-    "description": "A modular cross-platform audio player...",
+    "description": "A modular cross-platform audio player. (Multiple-choices)...",
     "icon": "https://portable-linux-apps.github.io/icons/deadbeef.png"
   },
   {
@@ -2226,12 +2226,12 @@
   },
   {
     "packageName": "discord",
-    "description": "All-in-one voice and text chat for gamers...",
+    "description": "Unofficial, All-in-one voice and text chat for gamers...",
     "icon": "https://portable-linux-apps.github.io/icons/discord.png"
   },
   {
     "packageName": "discord-qt",
-    "description": "Discord client powered by Node.JS and Qt Widgets...",
+    "description": "Unofficial, Discord client powered by Node.JS and Qt Widgets...",
     "icon": "https://portable-linux-apps.github.io/icons/discord-qt.png"
   },
   {
@@ -2256,7 +2256,7 @@
   },
   {
     "packageName": "dolphin-emu",
-    "description": "GameCube/Nintento Wii emulator for PC with improvements...",
+    "description": "Unofficial, GameCube/Nintento Wii emulator with improvements...",
     "icon": "https://portable-linux-apps.github.io/icons/dolphin-emu.png"
   },
   {
@@ -3458,6 +3458,11 @@
     "packageName": "gdm-settings",
     "description": "A settings app for GNOME's Login Manager, GDM...",
     "icon": "https://portable-linux-apps.github.io/icons/gdm-settings.png"
+  },
+  {
+    "packageName": "geany",
+    "description": "Unofficial, a fast and lightweight IDE...",
+    "icon": "https://portable-linux-apps.github.io/icons/geany.png"
   },
   {
     "packageName": "gedit",
@@ -5856,7 +5861,7 @@
   },
   {
     "packageName": "mob",
-    "description": ".A handsome Himalayan desktop client...",
+    "description": "A handsome Himalayan desktop client...",
     "icon": "https://portable-linux-apps.github.io/icons/mob.png"
   },
   {
@@ -5971,7 +5976,7 @@
   },
   {
     "packageName": "mpv",
-    "description": "A free, open source, and cross-platform media player...",
+    "description": "Unofficial, A free, open source, and cross-platform media player (Multiple-choices)...",
     "icon": "https://portable-linux-apps.github.io/icons/mpv.png"
   },
   {
@@ -7231,7 +7236,7 @@
   },
   {
     "packageName": "playerctl",
-    "description": "MPRIS media player command-line controller, unofficial AppImage...",
+    "description": "Unofficial, MPRIS media player command-line controller...",
     "icon": "https://portable-linux-apps.github.io/icons/playerctl.png"
   },
   {
@@ -7426,7 +7431,7 @@
   },
   {
     "packageName": "ppsspp",
-    "description": "A PSP emulator written in C++...",
+    "description": "Unofficial, PSP emulator written in C++...",
     "icon": "https://portable-linux-apps.github.io/icons/ppsspp.png"
   },
   {
@@ -8166,7 +8171,7 @@
   },
   {
     "packageName": "rofi",
-    "description": "A window switcher, runs dialogs, dmenu like, etc (Unofficial AppImage)...",
+    "description": "Unofficial, A window switcher, runs dialogs, dmenu like, etc...",
     "icon": "https://portable-linux-apps.github.io/icons/rofi.png"
   },
   {
@@ -8256,7 +8261,7 @@
   },
   {
     "packageName": "ryujinx",
-    "description": "A simple, experimental Nintendo Switch emulator...",
+    "description": "A simple, experimental Nintendo Switch emulator. (Multiple-choices)...",
     "icon": "https://portable-linux-apps.github.io/icons/ryujinx.png"
   },
   {
@@ -8876,7 +8881,7 @@
   },
   {
     "packageName": "speedcrunch",
-    "description": "A fast and usable calculator for power users...",
+    "description": "A fast and usable calculator for power users (Multiple-choices)...",
     "icon": "https://portable-linux-apps.github.io/icons/speedcrunch.png"
   },
   {
@@ -9021,7 +9026,7 @@
   },
   {
     "packageName": "steam",
-    "description": "The ultimate destination for playing, discussing, and creating games...",
+    "description": "Unofficial, The ultimate destination for playing, discussing, and creating games...",
     "icon": "https://portable-linux-apps.github.io/icons/steam.png"
   },
   {
@@ -9411,7 +9416,7 @@
   },
   {
     "packageName": "teams",
-    "description": "Business communication platform developed by Microsoft (AppImage)...",
+    "description": "Unofficial, Business communication platform developed by Microsoft...",
     "icon": "https://portable-linux-apps.github.io/icons/teams.png"
   },
   {
@@ -9421,7 +9426,7 @@
   },
   {
     "packageName": "telegram",
-    "description": "Desktop version of Telegram messaging app...",
+    "description": "Unofficial, Desktop version of Telegram messaging app...",
     "icon": "https://portable-linux-apps.github.io/icons/telegram.png"
   },
   {
@@ -10456,12 +10461,12 @@
   },
   {
     "packageName": "whatsapp-for-linux",
-    "description": "WhatsApp Linux Client (Unofficial)...",
+    "description": "Unofficial, WhatsApp Linux Client...",
     "icon": "https://portable-linux-apps.github.io/icons/whatsapp-for-linux.png"
   },
   {
     "packageName": "whatsapp-nativefier",
-    "description": "Electron-based WhatsApp Linux Client (Unofficial)...",
+    "description": "Unofficial, Electron-based WhatsApp Linux Client...",
     "icon": "https://portable-linux-apps.github.io/icons/whatsapp-nativefier.png"
   },
   {
@@ -10526,12 +10531,12 @@
   },
   {
     "packageName": "winrar",
-    "description": "WinRAR unofficial AppImage, by ryuuzaki42...",
+    "description": "Unofficial, data compression, encryption and archiving tool...",
     "icon": "https://portable-linux-apps.github.io/icons/winrar.png"
   },
   {
     "packageName": "wireshark",
-    "description": "Wireshark unofficial AppImage, by ryuuzaki42...",
+    "description": "Unofficial, the world's most popular network protocol analyze...",
     "icon": "https://portable-linux-apps.github.io/icons/wireshark.png"
   },
   {
@@ -10896,7 +10901,7 @@
   },
   {
     "packageName": "zenity",
-    "description": "A CLI utility that creates dialog boxes (Unofficial AppImage, GTK3)...",
+    "description": "Unofficial, A CLI utility that creates dialog boxes, GTK3 version...",
     "icon": "https://portable-linux-apps.github.io/icons/zenity.png"
   },
   {
