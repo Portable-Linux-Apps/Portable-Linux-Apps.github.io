@@ -10,7 +10,7 @@
 ---
 
 | [Back to Home](https://portable-linux-apps.github.io/) | [Back to Applications](https://portable-linux-apps.github.io/apps.html)
-| --- |
+| --- | --- |
 
 --------
 
@@ -1948,8 +1948,8 @@ You can improve these pages via a [pull request](https://github.com/Portable-Lin
 
 ---
 
-| [Home](https://portable-linux-apps.github.io/) | [Applications](https://portable-linux-apps.github.io/apps.html)
-| --- |
+| [Back to Home](https://portable-linux-apps.github.io/) | [Back to Applications](https://portable-linux-apps.github.io/apps.html)
+| --- | --- |
 
 --------
 
