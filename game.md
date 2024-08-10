@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **211** applications for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **212** applications for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page.*
 
@@ -14,8 +14,8 @@
 
 ### *Categories*
 
-| *[AppImages](https://portable-linux-apps.github.io/appimages.html)* 	| *[android](https://portable-linux-apps.github.io/android.html)* 	| *[audio](https://portable-linux-apps.github.io/audio.html)* 	| *[game](https://portable-linux-apps.github.io/game.html)* 	| *[graphic](https://portable-linux-apps.github.io/graphic.html)* 	| *[internet](https://portable-linux-apps.github.io/internet.html)* 	| *[office](https://portable-linux-apps.github.io/office.html)* 	| *[video](https://portable-linux-apps.github.io/video.html)* |
-| - | - | - | - | - | - | - | - |
+| *[AppImages](https://portable-linux-apps.github.io/appimages.html)* 	| *[android](https://portable-linux-apps.github.io/android.html)* 	| *[audio](https://portable-linux-apps.github.io/audio.html)* 	| *[audio](https://portable-linux-apps.github.io/communication.html)* 	| *[game](https://portable-linux-apps.github.io/education.html)* 	| *[game](https://portable-linux-apps.github.io/game.html)* 	| *[graphic](https://portable-linux-apps.github.io/graphic.html)* 	| *[internet](https://portable-linux-apps.github.io/internet.html)* 	| *[office](https://portable-linux-apps.github.io/office.html)* 	| *[video](https://portable-linux-apps.github.io/video.html)* 	| *[video](https://portable-linux-apps.github.io/web-browser.html)* 	|
+| - | - | - | - | - | - | - | - | - | - | - |
 
 -----------------
 
@@ -95,6 +95,7 @@
 | <img src="icons/hugor.png" width="48" height="48"> | [***hugor***](apps/hugor.md) | *A cross-platform, multimedia interpreter for Hugo adventure games.*..[ *read more* ](apps/hugor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hugor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hugor) |
 | <img src="icons/hydra.png" width="48" height="48"> | [***hydra***](apps/hydra.md) | *Game launcher with its own embedded bittorrent client.*..[ *read more* ](apps/hydra.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hydra) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hydra) |
 | <img src="icons/icestudio.png" width="48" height="48"> | [***icestudio***](apps/icestudio.md) | *A real gamechanger in the world of Open Source FPGAs.*..[ *read more* ](apps/icestudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/icestudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/icestudio) |
+| <img src="icons/instead.png" width="48" height="48"> | [***instead***](apps/instead.md) | *Simple Text Adventures Interpreter.*..[ *read more* ](apps/instead.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/instead) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/instead) |
 | <img src="icons/ipuissance-4d.png" width="48" height="48"> | [***ipuissance-4d***](apps/ipuissance-4d.md) | *Connect Four video game with a 3-Dimentional rendering.*..[ *read more* ](apps/ipuissance-4d.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ipuissance-4d) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ipuissance-4d) |
 | <img src="icons/iqpuzzle.png" width="48" height="48"> | [***iqpuzzle***](apps/iqpuzzle.md) | *A diverting I.Q. challenging pentomino puzzle.*..[ *read more* ](apps/iqpuzzle.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/iqpuzzle) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/iqpuzzle) |
 | <img src="icons/jklubtv.png" width="48" height="48"> | [***jklubtv***](apps/jklubtv.md) | *Chess Round Robin Tournament Manager.*..[ *read more* ](apps/jklubtv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jklubtv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jklubtv) |
