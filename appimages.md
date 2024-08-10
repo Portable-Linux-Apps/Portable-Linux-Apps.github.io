@@ -9,8 +9,8 @@
 
 ---
 
-| [Back to Home](https://portable-linux-apps.github.io/) | [Back to Applications](https://portable-linux-apps.github.io/apps.html)
-| --- | --- |
+| [Back to Applications](https://portable-linux-apps.github.io/apps.html) |
+| --- |
 
 --------
 

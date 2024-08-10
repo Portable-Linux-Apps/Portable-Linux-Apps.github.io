@@ -100,8 +100,8 @@ You can improve these pages via a [pull request](https://github.com/Portable-Lin
 
 ---
 
-| [Back to Home](https://portable-linux-apps.github.io/) | [Back to Applications](https://portable-linux-apps.github.io/apps.html)
-| --- | --- |
+| [Back to Applications](https://portable-linux-apps.github.io/apps.html) |
+| --- |
 
 --------
 
