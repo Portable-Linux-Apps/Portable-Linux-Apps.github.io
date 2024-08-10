@@ -1,4 +1,4 @@
-# CATEGORY
+# OFFICE
 
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |

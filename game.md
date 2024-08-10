@@ -1,4 +1,4 @@
-# CATEGORY
+# GAME
 
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |

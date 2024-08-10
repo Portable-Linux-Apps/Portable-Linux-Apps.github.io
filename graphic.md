@@ -1,4 +1,4 @@
-# CATEGORY
+# GRAPHIC
 
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |

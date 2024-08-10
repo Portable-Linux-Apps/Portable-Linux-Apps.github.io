@@ -1,4 +1,4 @@
-# CATEGORY
+# INTERNET
 
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
