@@ -236,7 +236,7 @@
   },
   {
     "packageName": "android-tools",
-    "description": "AppImage for the Android Platform tools (adb, fastboot, etc)..",
+    "description": "Unofficial AppImage for the Android Platform tools (adb, fastboot, etc)..",
     "icon": "https://portable-linux-apps.github.io/icons/android-tools.png"
   },
   {
@@ -586,7 +586,7 @@
   },
   {
     "packageName": "authy",
-    "description": "Authy unofficial AppImage, by ryuuzaki42...",
+    "description": "Unofficial, Protect all your accounts with 2FA...",
     "icon": "https://portable-linux-apps.github.io/icons/authy.png"
   },
   {
@@ -2076,7 +2076,7 @@
   },
   {
     "packageName": "debian-testing-avidemux",
-    "description": "Unofficial Avidemux built from deb-multimedia...",
+    "description": "Unofficial, Avidemux built from deb-multimedia...",
     "icon": "https://portable-linux-apps.github.io/icons/debian-testing-avidemux.png"
   },
   {
@@ -3056,7 +3056,7 @@
   },
   {
     "packageName": "firedragon",
-    "description": "Web Browser fork of Librewolf (Firefox) from Garuda Linux...",
+    "description": "Unofficial, Web Browser fork of Librewolf (Firefox) from Garuda Linux...",
     "icon": "https://portable-linux-apps.github.io/icons/firedragon.png"
   },
   {
@@ -3066,12 +3066,12 @@
   },
   {
     "packageName": "firefox-appimage",
-    "description": "Unofficial AppImage of the Web Browser (Stable)...",
+    "description": "Unofficial, AppImage of the Web Browser (Stable)...",
     "icon": "https://portable-linux-apps.github.io/icons/firefox-appimage.png"
   },
   {
     "packageName": "firefox-beta-appimage",
-    "description": "Unofficial AppImage of the Web Browser (Beta)...",
+    "description": "Unofficial, AppImage of the Web Browser (Beta)...",
     "icon": "https://portable-linux-apps.github.io/icons/firefox-beta-appimage.png"
   },
   {
@@ -3126,7 +3126,7 @@
   },
   {
     "packageName": "fish",
-    "description": "AppImage for `fish` shell...",
+    "description": "Unofficial, AppImage for `fish` shell...",
     "icon": "https://portable-linux-apps.github.io/icons/fish.png"
   },
   {
@@ -3236,7 +3236,7 @@
   },
   {
     "packageName": "foobar2000",
-    "description": "An advanced freeware audio player for Windows (includes WINE)...",
+    "description": "Unofficial, An advanced freeware audio player for Windows (includes WINE)...",
     "icon": "https://portable-linux-apps.github.io/icons/foobar2000.png"
   },
   {
@@ -3541,22 +3541,22 @@
   },
   {
     "packageName": "gimp-dev",
-    "description": "Cross-platform image and photo editor (Developer Edition)...",
+    "description": "Unofficial, Cross-platform image and photo editor (Developer Edition)...",
     "icon": "https://portable-linux-apps.github.io/icons/gimp-dev.png"
   },
   {
     "packageName": "gimp-git",
-    "description": "Cross-platform image and photo editor (built from GIT)...",
+    "description": "Unofficial, Cross-platform image and photo editor (built from GIT)...",
     "icon": "https://portable-linux-apps.github.io/icons/gimp-git.png"
   },
   {
     "packageName": "gimp",
-    "description": "GNU Image Manipulation Program, cross-platform image and photo editor...",
+    "description": "Unofficial, GNU Image Manipulation Program, cross-platform image and photo editor...",
     "icon": "https://portable-linux-apps.github.io/icons/gimp.png"
   },
   {
     "packageName": "gimp-hybrid",
-    "description": "GIMP including third-party plugins and python2 support...",
+    "description": "Unofficial, GIMP including third-party plugins and python2 support...",
     "icon": "https://portable-linux-apps.github.io/icons/gimp-hybrid.png"
   },
   {
@@ -3656,22 +3656,22 @@
   },
   {
     "packageName": "gnome-boxes",
-    "description": "A simple GNOME application to access virtual machines...",
+    "description": "Unofficial, A simple GNOME application to access virtual machines...",
     "icon": "https://portable-linux-apps.github.io/icons/gnome-boxes.png"
   },
   {
     "packageName": "gnome-calculator",
-    "description": "Perform arithmetic, scientific or financial calculations...",
+    "description": "Unofficial, Perform arithmetic, scientific or financial calculations...",
     "icon": "https://portable-linux-apps.github.io/icons/gnome-calculator.png"
   },
   {
     "packageName": "gnome-system-monitor3",
-    "description": "Version 3.38.0 (for all those who hate GNOME4+ UIs)...",
+    "description": "Unofficial, Version 3.38.0 (for all those who hate GNOME4+ UIs)...",
     "icon": "https://portable-linux-apps.github.io/icons/gnome-system-monitor3.png"
   },
   {
     "packageName": "gnome-tweaks",
-    "description": "Experimental AppImage port of advanced GNOME 3 settings GUI...",
+    "description": "Unofficial, Experimental AppImage port of advanced GNOME 3 settings GUI...",
     "icon": "https://portable-linux-apps.github.io/icons/gnome-tweaks.png"
   },
   {
@@ -3716,27 +3716,27 @@
   },
   {
     "packageName": "google-chrome-beta",
-    "description": "Web Browser (Beta version, Unofficial AppImage)...",
+    "description": "Unofficial, Web Browser (Beta version)...",
     "icon": "https://portable-linux-apps.github.io/icons/google-chrome-beta.png"
   },
   {
     "packageName": "google-chrome-dev",
-    "description": "Web Browser (Unstable version, Unofficial AppImage)...",
+    "description": "Unofficial, Web Browser (Unstable version)...",
     "icon": "https://portable-linux-apps.github.io/icons/google-chrome-dev.png"
   },
   {
     "packageName": "google-chrome",
-    "description": "Web Browser (Stable version, Unofficial AppImage)...",
+    "description": "Unofficial, Web Browser (Stable version)...",
     "icon": "https://portable-linux-apps.github.io/icons/google-chrome.png"
   },
   {
     "packageName": "google-docs",
-    "description": "Google Docs Desktop App made with electron...",
+    "description": "Unofficial, Google Docs Desktop App made with electron...",
     "icon": "https://portable-linux-apps.github.io/icons/google-docs.png"
   },
   {
     "packageName": "google-tasks-desktop",
-    "description": "Unofficial client...",
+    "description": "Unofficial Google Tasks Desktop Client...",
     "icon": "https://portable-linux-apps.github.io/icons/google-tasks-desktop.png"
   },
   {
@@ -3921,7 +3921,7 @@
   },
   {
     "packageName": "handbrake",
-    "description": "An open-source multiplatform video transcoder...",
+    "description": "Unofficial, An open-source multiplatform video transcoder...",
     "icon": "https://portable-linux-apps.github.io/icons/handbrake.png"
   },
   {
@@ -4046,7 +4046,7 @@
   },
   {
     "packageName": "htop",
-    "description": "A CLI utility to monitor system resources (Unofficial AppImage)...",
+    "description": "Unofficial, CLI utility to monitor system resources...",
     "icon": "https://portable-linux-apps.github.io/icons/htop.png"
   },
   {
@@ -4126,7 +4126,7 @@
   },
   {
     "packageName": "i3",
-    "description": "A tiling window manager for X11, unofficial AppImage...",
+    "description": "Unofficial, A tiling window manager for X11...",
     "icon": "https://portable-linux-apps.github.io/icons/i3.png"
   },
   {
@@ -4566,7 +4566,7 @@
   },
   {
     "packageName": "kajongg",
-    "description": "An ancient Chinese board game for 4 players (installs kdegames)...",
+    "description": "Unofficial, An ancient Chinese board game for 4 players (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kajongg.png"
   },
   {
@@ -4581,7 +4581,7 @@
   },
   {
     "packageName": "kalm",
-    "description": "Teach you different breathing techniques (installs kdeutils)...",
+    "description": "Unofficial, Teach you different breathing techniques (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/kalm.png"
   },
   {
@@ -4601,7 +4601,7 @@
   },
   {
     "packageName": "kate",
-    "description": "A multi-document editor part of KDE (installs kdeutils)...",
+    "description": "Unofficial, A multi-document editor part of KDE (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/kate.png"
   },
   {
@@ -4621,52 +4621,52 @@
   },
   {
     "packageName": "kblackbox",
-    "description": "A game of hide and seek (installs kdegames)...",
+    "description": "Unofficial, A game of hide and seek (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kblackbox.png"
   },
   {
     "packageName": "kblocks",
-    "description": "Classic Tetris / falling blocks game (installs kdegames)...",
+    "description": "Unofficial, Classic Tetris / falling blocks game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kblocks.png"
   },
   {
     "packageName": "kbounce",
-    "description": "Fill the field game (installs kdegames)...",
+    "description": "Unofficial, Fill the field game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kbounce.png"
   },
   {
     "packageName": "kbreakout",
-    "description": "Destroy bricks without losing the ball (installs kdegames)...",
+    "description": "Unofficial, Destroy bricks without losing the ball (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kbreakout.png"
   },
   {
     "packageName": "kcalc",
-    "description": "Scientific Calculator (installs kdeutils)...",
+    "description": "Unofficial, Scientific Calculator (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/kcalc.png"
   },
   {
     "packageName": "kcharselect",
-    "description": "Character Selector (installs kdeutils)...",
+    "description": "Unofficial, Character Selector (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/kcharselect.png"
   },
   {
     "packageName": "kclock",
-    "description": "A universal clock application (installs kdeutils)...",
+    "description": "Unofficial, A universal clock application (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/kclock.png"
   },
   {
     "packageName": "kcov",
-    "description": "An AppImage of Kcov code coverage tool...",
+    "description": "Unofficial, An AppImage of Kcov code coverage tool...",
     "icon": "https://portable-linux-apps.github.io/icons/kcov.png"
   },
   {
     "packageName": "kdebugsettings",
-    "description": "Edits displayed QLoggingCategory (installs kdeutils)...",
+    "description": "Unofficial, Edits displayed QLoggingCategory (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/kdebugsettings.png"
   },
   {
     "packageName": "kdegames",
-    "description": "Full & updatable KDE Games suite from Debian Stable (metapackage)...",
+    "description": "Unofficial, Full & updatable KDE Games suite from Debian Stable (metapackage)...",
     "icon": "https://portable-linux-apps.github.io/icons/kdegames.png"
   },
   {
@@ -4676,22 +4676,22 @@
   },
   {
     "packageName": "kdeutils",
-    "description": "Full & updatable KDE Utils suite from Debian Stable (metapackage)...",
+    "description": "Unofficial, Full & updatable KDE Utils suite from Debian Stable (metapackage)...",
     "icon": "https://portable-linux-apps.github.io/icons/kdeutils.png"
   },
   {
     "packageName": "kdf",
-    "description": "View Disk Usage (installs kdeutils)...",
+    "description": "Unofficial, view Disk Usage (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/kdf.png"
   },
   {
     "packageName": "kdialog",
-    "description": "A dialog utility (installs kdeutils)...",
+    "description": "Unofficial, a dialog utility (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/kdialog.png"
   },
   {
     "packageName": "kdiamond",
-    "description": "Diamond game (installs kdegames)...",
+    "description": "Unofficial, Diamond game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kdiamond.png"
   },
   {
@@ -4701,7 +4701,7 @@
   },
   {
     "packageName": "keditbookmarks",
-    "description": "Bookmarks editor (installs kdeutils)...",
+    "description": "Unofficial, Bookmarks editor (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/keditbookmarks.png"
   },
   {
@@ -4761,12 +4761,12 @@
   },
   {
     "packageName": "kfourinline",
-    "description": "4 in row game (installs kdegames)...",
+    "description": "Unofficial, 4 in row game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kfourinline.png"
   },
   {
     "packageName": "kgoldrunner",
-    "description": "A game with a runner and gold (installs kdegames)...",
+    "description": "Unofficial, A game with a runner and gold (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kgoldrunner.png"
   },
   {
@@ -4781,7 +4781,7 @@
   },
   {
     "packageName": "kigo",
-    "description": "Go strategic board game for two players (installs kdegames)...",
+    "description": "Unofficial, Go strategic board game for two players (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kigo.png"
   },
   {
@@ -4791,7 +4791,7 @@
   },
   {
     "packageName": "killbots",
-    "description": "Port of the classic console game Robots (installs kdegames)...",
+    "description": "Unofficial, Port of the classic console game Robots (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/killbots.png"
   },
   {
@@ -4836,12 +4836,12 @@
   },
   {
     "packageName": "kmahjongg",
-    "description": "Mahjongg game (installs kdegames)...",
+    "description": "Unofficial, Mahjongg game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kmahjongg.png"
   },
   {
     "packageName": "kmines",
-    "description": "Classic mine game (installs kdegames)...",
+    "description": "Unofficial, Classic mine game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kmines.png"
   },
   {
@@ -4851,17 +4851,17 @@
   },
   {
     "packageName": "knavalbattle",
-    "description": "Battle Ship game (installs kdegames)...",
+    "description": "Unofficial, Battle Ship game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/knavalbattle.png"
   },
   {
     "packageName": "knetwalk",
-    "description": "Net constructing game (installs kdegames)...",
+    "description": "Unofficial, Net constructing game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/knetwalk.png"
   },
   {
     "packageName": "knights",
-    "description": "Chess interface for the KDE Platform (installs kdegames)...",
+    "description": "Unofficial, Chess interface for the KDE Platform (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/knights.png"
   },
   {
@@ -4886,12 +4886,12 @@
   },
   {
     "packageName": "kolf",
-    "description": "Mini Golf game (installs kdegames)...",
+    "description": "Unofficial, Mini Golf game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kolf.png"
   },
   {
     "packageName": "kollision",
-    "description": "Dodge red balls in the field (installs kdegames)...",
+    "description": "Unofficial, Dodge red balls in the field (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kollision.png"
   },
   {
@@ -4901,7 +4901,7 @@
   },
   {
     "packageName": "kongress",
-    "description": "A companion application for conferences (installs kdeutils)...",
+    "description": "Unofficial, A companion application for conferences (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/kongress.png"
   },
   {
@@ -4926,12 +4926,12 @@
   },
   {
     "packageName": "kpat",
-    "description": "Klondike, Spider, Free Cell and other Solitaire (installs kdegames)...",
+    "description": "Unofficial, Klondike, Spider, Free Cell and other Solitaire (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kpat.png"
   },
   {
     "packageName": "krecorder",
-    "description": "An audio recording application (installs kdeutils)...",
+    "description": "Unofficial, An audio recording application (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/krecorder.png"
   },
   {
@@ -4971,37 +4971,37 @@
   },
   {
     "packageName": "kspaceduel",
-    "description": "Battleship with satellites in the space (installs kdegames)...",
+    "description": "Unofficial, Battleship with satellites in the space (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kspaceduel.png"
   },
   {
     "packageName": "ksquares",
-    "description": "Win with most number of completed squares (installs kdegames)...",
+    "description": "Unofficial, Win with most number of completed squares (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/ksquares.png"
   },
   {
     "packageName": "ksudoku",
-    "description": "Sudoku game (installs kdegames)...",
+    "description": "Unofficial, Sudoku game (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/ksudoku.png"
   },
   {
     "packageName": "kteatime",
-    "description": "A handy timer for steeping tea (installs kdeutils)...",
+    "description": "Unofficial, A handy timer for steeping tea (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/kteatime.png"
   },
   {
     "packageName": "ktimer",
-    "description": "Countdown Launcher (installs kdeutils)...",
+    "description": "Unofficial, Countdown Launcher (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/ktimer.png"
   },
   {
     "packageName": "ktrip",
-    "description": "KTrip helps you navigate in public transport (installs kdeutils)...",
+    "description": "Unofficial, KTrip helps you navigate in public transport (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/ktrip.png"
   },
   {
     "packageName": "ktuberling",
-    "description": "Simple Mr. Potato game for children (installs kdegames)...",
+    "description": "Unofficial, Simple Mr. Potato game for children (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/ktuberling.png"
   },
   {
@@ -5016,7 +5016,7 @@
   },
   {
     "packageName": "kubrick",
-    "description": "A logic game based on Rubik's Cube (installs kdegames)...",
+    "description": "Unofficial, A logic game based on Rubik's Cube (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/kubrick.png"
   },
   {
@@ -5036,7 +5036,7 @@
   },
   {
     "packageName": "kwrite",
-    "description": "KWrite is a text editor by KDE (installs kdeutils)...",
+    "description": "Unofficial, KWrite is a text editor by KDE (installs kdeutils)...",
     "icon": "https://portable-linux-apps.github.io/icons/kwrite.png"
   },
   {
@@ -5371,7 +5371,7 @@
   },
   {
     "packageName": "lskat",
-    "description": "Fun and engaging card game for two players (installs kdegames)...",
+    "description": "Unofficial, Fun and engaging card game for two players (installs kdegames)...",
     "icon": "https://portable-linux-apps.github.io/icons/lskat.png"
   },
   {
@@ -5531,7 +5531,7 @@
   },
   {
     "packageName": "mate-system-monitor",
-    "description": "Process viewer and system resource monitor (from MATE)...",
+    "description": "Unofficial, Process viewer and system resource monitor (from MATE)...",
     "icon": "https://portable-linux-apps.github.io/icons/mate-system-monitor.png"
   },
   {
