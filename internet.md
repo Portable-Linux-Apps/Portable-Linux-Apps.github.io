@@ -14,7 +14,7 @@
 
 ### *Categories*
 
-| *[AppImages](https://portable-linux-apps.github.io/appimages.html)* 	| *[android](https://portable-linux-apps.github.io/android.html)* 	| *[audio](https://portable-linux-apps.github.io/audio.html)* 	| *[audio](https://portable-linux-apps.github.io/communication.html)* 	| *[game](https://portable-linux-apps.github.io/education.html)* 	| *[game](https://portable-linux-apps.github.io/game.html)* 	| *[graphic](https://portable-linux-apps.github.io/graphic.html)* 	| *[internet](https://portable-linux-apps.github.io/internet.html)* 	| *[office](https://portable-linux-apps.github.io/office.html)* 	| *[video](https://portable-linux-apps.github.io/video.html)* 	| *[video](https://portable-linux-apps.github.io/web-browser.html)* 	|
+| *[AppImages](https://portable-linux-apps.github.io/appimages.html)* 	| *[android](https://portable-linux-apps.github.io/android.html)* 	| *[audio](https://portable-linux-apps.github.io/audio.html)* 	| *[communication](https://portable-linux-apps.github.io/communication.html)* 	| *[education](https://portable-linux-apps.github.io/education.html)* 	| *[game](https://portable-linux-apps.github.io/game.html)* 	| *[graphic](https://portable-linux-apps.github.io/graphic.html)* 	| *[internet](https://portable-linux-apps.github.io/internet.html)* 	| *[office](https://portable-linux-apps.github.io/office.html)* 	| *[video](https://portable-linux-apps.github.io/video.html)* 	| *[web-browser](https://portable-linux-apps.github.io/web-browser.html)* 	|
 | - | - | - | - | - | - | - | - | - | - | - |
 
 -----------------
