@@ -94,7 +94,7 @@
 
 # Differences between "AM" and "AppMan"
 *"AM" and "AppMan" differ in how they are installed, placed and renamed in the system and how/where they install apps:*
-- *"**AM**" is installed system-wide (requires `sudo`) in `/opt/am/` as "**APP-MANAGER**", with a symlink named "`am`" in `/usr/local/bin`.*
+- *"**AM**" is installed system-wide (requires `sudo` o `doas`) in `/opt/am/` as "**APP-MANAGER**", with a symlink named "`am`" in `/usr/local/bin`.*
 - *"**AppMan**" is portable, you need just to rename the "APP-MANAGER" script as "`appman`" and put it wherewer you want. I recommend to place it in `$HOME/.local/bin` to be used in $PATH, to be managed from other tools.*
 
 *Both can be updated using "[Topgrade](https://github.com/topgrade-rs/topgrade)".*
@@ -111,7 +111,7 @@
 - *"AppMan" can request the root password only in the very rare case in which you want to install a library;*
 - *"AM" requires the root password only to install, remove apps, enable a sandbox for an AppImage, or enable/disable bash completion.*
 
-*All options cannot be executed with "`sudo`".*
+*All options cannot be executed with "`sudo`"/"`doas`".*
 
 ------------------------------------------------------------------------
 
@@ -274,7 +274,7 @@ wget -q https://raw.githubusercontent.com/ivan-hc/AM/main/AM-INSTALLER
 chmod a+x ./AM-INSTALLER
 ./AM-INSTALLER
 ```
-*Type "1" to install "AM" (requires "sudo" password), "2" to install "AppMan". Any other key will abort the installation.*
+*Type "1" to install "AM" (requires "sudo"/"`doas`" password), "2" to install "AppMan". Any other key will abort the installation.*
 
 | ![AM-INSTALLER](https://github.com/user-attachments/assets/82b21979-e99d-4bee-b466-716bac1e7e45) |
 | - |
@@ -291,7 +291,7 @@ chmod a+x ./AM-INSTALLER
 - *"`wget`" to download all programs and update "AM"/"AppMan" itself.*
 
 #### Dependency only for "AM"
-- *"`sudo`", required by "AM" to install/remove programs, sandbox AppImages and enable/disable bash-completion.*
+- *"`sudo`" or "`doas`", required by "AM" to install/remove programs, sandbox AppImages and enable/disable bash-completion.*
 
 *NOTE: use "AppMan" for non privileged use or if you prefer to gain administration privileges using alternative commands such as `doas` or similar.*
 
