@@ -9,9 +9,9 @@
 
 #### *This database contains* **2199** *Appimage packages and standalone applications*.
 
-### *Categories*
+#### *Categories*
 
-*[AppImages](https://portable-linux-apps.github.io/appimages.html)* 	- *[android](https://portable-linux-apps.github.io/android.html)* 	- *[audio](https://portable-linux-apps.github.io/audio.html)* 	- *[communication](https://portable-linux-apps.github.io/communication.html)* 	- *[education](https://portable-linux-apps.github.io/education.html)* 	- *[game](https://portable-linux-apps.github.io/game.html)* 	- *[graphic](https://portable-linux-apps.github.io/graphic.html)* 	- *[internet](https://portable-linux-apps.github.io/internet.html)* 	- *[office](https://portable-linux-apps.github.io/office.html)* 	- *[video](https://portable-linux-apps.github.io/video.html)* 	- *[web-browser](https://portable-linux-apps.github.io/web-browser.html)* 	
+***[AppImages](https://portable-linux-apps.github.io/appimages.html)*** 	- ***[Android](https://portable-linux-apps.github.io/android.html)*** 	- ***[Audio](https://portable-linux-apps.github.io/audio.html)*** 	- ***[Communication](https://portable-linux-apps.github.io/communication.html)*** 	- ***[Education](https://portable-linux-apps.github.io/education.html)*** 	- ***[Game](https://portable-linux-apps.github.io/game.html)*** 	- ***[Graphic](https://portable-linux-apps.github.io/graphic.html)*** 	- ***[Internet](https://portable-linux-apps.github.io/internet.html)*** 	- ***[Office](https://portable-linux-apps.github.io/office.html)*** 	- ***[Video](https://portable-linux-apps.github.io/video.html)*** 	- ***[Web-App](https://portable-linux-apps.github.io/web-app.html)*** 	- ***[Web-Browser](https://portable-linux-apps.github.io/web-browser.html)*** 	
 
 -----------------
 
