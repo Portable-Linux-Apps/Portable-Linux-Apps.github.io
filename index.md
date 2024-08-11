@@ -293,8 +293,6 @@ chmod a+x ./AM-INSTALLER
 #### Dependency only for "AM"
 - *"`sudo`" or "`doas`", required by "AM" to install/remove programs, sandbox AppImages and enable/disable bash-completion.*
 
-*NOTE: use "AppMan" for non privileged use or if you prefer to gain administration privileges using alternative commands such as `doas` or similar.*
-
 #### Extra dependences (recommended)
 *The following are optional dependencies that some programs may require:*
 - *"`binutils`", contains a series of basic commands, including "`ar`" which extracts .deb packages;*
