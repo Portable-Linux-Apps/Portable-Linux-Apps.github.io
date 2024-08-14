@@ -5,11 +5,16 @@
 
 #### Here are listed the **1923** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
-*Use your browser's built-in search tool to easily navigate to this page.*
+*Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
 
 | [Back to Applications](https://portable-linux-apps.github.io/apps.html) |
 | --- |
+
+
+#### *Categories*
+
+***[AppImages](https://portable-linux-apps.github.io/appimages.html)*** 	- ***[Android](https://portable-linux-apps.github.io/android.html)*** 	- ***[Audio](https://portable-linux-apps.github.io/audio.html)*** 	- ***[Communication](https://portable-linux-apps.github.io/communication.html)*** 	- ***[Education](https://portable-linux-apps.github.io/education.html)*** 	- ***[Game](https://portable-linux-apps.github.io/game.html)*** 	- ***[Graphic](https://portable-linux-apps.github.io/graphic.html)*** 	- ***[Internet](https://portable-linux-apps.github.io/internet.html)*** 	- ***[Office](https://portable-linux-apps.github.io/office.html)*** 	- ***[Video](https://portable-linux-apps.github.io/video.html)*** 	- ***[Web-App](https://portable-linux-apps.github.io/web-app.html)*** 	- ***[Web-Browser](https://portable-linux-apps.github.io/web-browser.html)*** 	
 
 -----------------
 

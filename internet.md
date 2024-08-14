@@ -3,9 +3,9 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **145** applications for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **136** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
-*Use your browser's built-in search tool to easily navigate to this page.*
+*Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
 
 | [Back to Applications](https://portable-linux-apps.github.io/apps.html) |
@@ -107,7 +107,7 @@
 | <img src="icons/mullvad-browser.png" width="48" height="48"> | [***mullvad-browser***](apps/mullvad-browser.md) | *A Tor-based Web Browser.*..[ *read more* ](apps/mullvad-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mullvad-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mullvad-browser) |
 | <img src="icons/n3h.png" width="48" height="48"> | [***n3h***](apps/n3h.md) | *Nodejs implementation of holochain networking / p2p backend process.*..[ *read more* ](apps/n3h.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/n3h) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/n3h) |
 | <img src="icons/ncsa-mosaic.png" width="48" height="48"> | [***ncsa-mosaic***](apps/ncsa-mosaic.md) | *One of the first graphical web browsers.*..[ *read more* ](apps/ncsa-mosaic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ncsa-mosaic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ncsa-mosaic) |
-| <img src="icons/node.png" width="48" height="48"> | [***node***](apps/node.md) | *NodeJS is a JavaScript runtime built on Chrome's V8 JavaScript engine. This is the official suite including the "npm" Package manager for Node.js.*..[ *read more* ](apps/node.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/node) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/node) |
+| <img src="icons/node.png" width="48" height="48"> | [***node***](apps/node.md) | *This is the official suite of Node.js tools, also known as "NodeJS", a JavaScript runtime built on Chrome's V8 JavaScript engine.*..[ *read more* ](apps/node.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/node) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/node) |
 | <img src="icons/nyaa.png" width="48" height="48"> | [***nyaa***](apps/nyaa.md) | *A nyaa.si tui tool for browsing and downloading torrents.*..[ *read more* ](apps/nyaa.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nyaa) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nyaa) |
 | <img src="icons/one-gpt.png" width="48" height="48"> | [***one-gpt***](apps/one-gpt.md) | *Aggregate ChatGPT official version, Wenxin Yiyan, Poe, chatchat.*..[ *read more* ](apps/one-gpt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/one-gpt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/one-gpt) |
 | <img src="icons/open-ai-translator.png" width="48" height="48"> | [***open-ai-translator***](apps/open-ai-translator.md) | *Browser extension for translation based on ChatGPT API.*..[ *read more* ](apps/open-ai-translator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/open-ai-translator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/open-ai-translator) |
