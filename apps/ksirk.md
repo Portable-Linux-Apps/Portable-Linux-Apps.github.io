@@ -5,7 +5,6 @@
  simply to conquer the World… It is done by attacking your neighbours with 
  your armies.
 
- 
  This script installs the full and updatable KDE Games suite from JuNest, a
  lightweight Arch Linux based distribution that allows the creation of 
  disposable and partially isolated GNU/Linux environments within any generic 

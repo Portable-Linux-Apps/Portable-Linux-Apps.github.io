@@ -8,8 +8,6 @@
  disposable and partially isolated GNU/Linux environments within any generic 
  GNU/Linux host OS and without requiring root privileges to install packages.
  
- NOTE: due to "proot", it is unable to connect the internet.
- 
  USAGE (from the command line):
  
            kdegames -h (shows the list of games)

@@ -4,7 +4,7 @@
  
  Brave Beta is an early preview for new versions of Brave.
  
- This script lets you choose between the official binary and the AppImage.
+ This is the official "beta" release.
  
  ![Screenshot](https://upload.wikimedia.org/wikipedia/commons/8/83/Brave_Browser_Welcome_Page.png)
  

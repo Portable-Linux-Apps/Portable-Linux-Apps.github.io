@@ -8,9 +8,6 @@
  disposable and partially isolated GNU/Linux environments within any generic 
  GNU/Linux host OS and without requiring root privileges to install packages.
  
- NOTE: due to "proot", a dialog message should appear at start, about a 
- missing kpat directory to download. Press "OK" or Enter to ignore it.
- 
  USAGE (from the command line):
  
            kdegames -h (shows the list of games)
