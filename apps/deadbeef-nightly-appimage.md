@@ -1,4 +1,4 @@
-# DEADBEEF-APPIMAGE
+# DEADBEEF-NIGHTLY-APPIMAGE
 
  Unofficial AppImage of the DeaDBeeF music player. Stable and Nightly versions.
 
