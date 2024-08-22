@@ -1,7 +1,6 @@
 # MUFFON
 
- Music streaming browser,retrieves audio, video and metadata from 
- various Internet sources.
+ Music streaming browser,retrieves audio, video and metadata from  various Internet sources.
 
  SITE: https://muffon.netlify.app/
 

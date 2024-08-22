@@ -1,7 +1,6 @@
 # RTNEURON
  
- Interactive visualization framework for geometrically
- detailed neuron simulations
+ Interactive visualization framework for geometrically detailed neuron simulations
  
  SITE: https://github.com/BlueBrain/RTNeuron
 

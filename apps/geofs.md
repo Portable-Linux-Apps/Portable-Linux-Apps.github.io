@@ -1,6 +1,6 @@
 # GEOFS
 
-   GeoFS flight sim as a desktop application; supported on macOS, Windows, and Linux!
+ GeoFS flight sim as a desktop application supported on macOS, Windows, and Linux!
 
  SITE: https://github.com/Jminding/GeoFS-Desktop
 

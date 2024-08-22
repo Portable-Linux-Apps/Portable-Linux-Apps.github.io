@@ -1,6 +1,6 @@
 # QUARTO-CLI
 
-   Open-source scientific and technical publishing system built on Pandoc.
+ Open-source scientific and technical publishing system built on Pandoc.
 
  SITE: https://github.com/quarto-dev/quarto-cli
 

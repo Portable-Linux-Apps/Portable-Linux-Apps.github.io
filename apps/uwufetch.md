@@ -1,7 +1,6 @@
 # UWUFETCH
 
- A meme system info tool for Linux, based on nyan/uwu 
- trend on r/linuxmasterrace.
+ A meme system info tool for Linux, based on nyan/uwu  trend on r/linuxmasterrace.
 
  SITE: https://github.com/ad-oliviero/uwufetch
 

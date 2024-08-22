@@ -1,7 +1,6 @@
 # DTMATE
 
- Golang package and CLI to compute the difference between date, 
- time or duration.
+ Golang package and CLI to compute the difference between date,  time or duration.
 
  SITE: https://github.com/jftuga/DateTimeMate
 

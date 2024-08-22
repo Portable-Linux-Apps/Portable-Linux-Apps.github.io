@@ -1,7 +1,6 @@
 # ALEXANDRIA
 
- A minimalistic cross-platform eBook reader built with Tauri, 
- Epub.js and Typescript.
+ A minimalistic cross-platform eBook reader built with Tauri,  Epub.js and Typescript.
 
  SITE: https://github.com/btpf/Alexandria
 

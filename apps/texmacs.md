@@ -1,7 +1,6 @@
 # TEXMACS
 
- Free scientific text editor, inspired by TeX and GNU Emacs. 
- WYSIWYG editor and CAS-interface.
+ Free scientific text editor, inspired by TeX and GNU Emacs.  WYSIWYG editor and CAS-interface.
 
  SITE: http://www.texmacs.org/
 
