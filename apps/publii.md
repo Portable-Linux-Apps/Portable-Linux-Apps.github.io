@@ -1,8 +1,6 @@
 # PUBLII
  
- Publii is a desktop-based CMS for Windows, Mac and Linux 
- that makes creating static websites fast and hassle-free, 
- even for beginners.
+ Publii is a desktop-based CMS for Windows, Mac and Linux  that makes creating static websites fast and hassle-free,  even for beginners.
  
  SITE: https://getpublii.com
 

@@ -1,7 +1,6 @@
 # WXMEDIT
 
- wxMedit is a cross-platform Text/Hex Editor, an improved 
- version of MadEdit. 
+ wxMedit is a cross-platform Text/Hex Editor, an improved  version of MadEdit. 
 
  This is the Unofficial AppImage.
  

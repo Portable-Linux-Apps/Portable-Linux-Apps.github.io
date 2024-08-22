@@ -1,7 +1,6 @@
 # SHUTTER
 
- A converter designed by video editors. 
- The professional compression tool accessible to all.
+ A converter designed by video editors.  The professional compression tool accessible to all.
  
  ![Screenshot](https://www.shutterencoder.com/images/en/BurnSubtitles.png)
 

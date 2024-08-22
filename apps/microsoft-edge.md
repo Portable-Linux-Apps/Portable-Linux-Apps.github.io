@@ -1,8 +1,6 @@
 # MICROSOFT-EDGE
 
- Microsoft Edge (Stable) - A browser that combines a minimal design
- with sophisticated technology to make the web faster, safer, and
- easier.
+ Microsoft Edge (Stable) - A browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
   
  SITE: https://www.microsoft.com
 

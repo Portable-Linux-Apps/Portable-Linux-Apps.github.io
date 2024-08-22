@@ -1,7 +1,6 @@
 # GOOGLE-DOCS
 
- Google Docs Desktop App made with electron. Includes Google Docs, 
- Sheets, Slides, Forms, and Drive.
+ Google Docs Desktop App made with electron. Includes Google Docs,  Sheets, Slides, Forms, and Drive.
 
  SITE: https://complabs.in/apps/google-docs
 

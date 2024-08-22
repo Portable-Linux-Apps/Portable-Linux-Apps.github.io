@@ -1,8 +1,6 @@
 # HIDDIFY-NEXT
 
- Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, 
- Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and 
- ad-free.
+ Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC,  Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and  ad-free.
 
  SITE: https://github.com/hiddify/hiddify-next
 

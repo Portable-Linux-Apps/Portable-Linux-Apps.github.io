@@ -1,7 +1,6 @@
 # LAMBDA-LANTERN
 
- A 3D game about functional programming patterns. Uses PureScript 
- Native, C++, and Panda3D.
+ A 3D game about functional programming patterns. Uses PureScript  Native, C++, and Panda3D.
  
  ![gif](https://img.itch.zone/aW1nLzE2NzcwNjYuZ2lm/original/WMdP2V.gif)
 

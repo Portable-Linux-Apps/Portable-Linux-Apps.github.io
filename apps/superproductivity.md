@@ -1,8 +1,6 @@
 # SUPERPRODUCTIVITY
 
- An advanced todo list app with integrated Timeboxing and time tracking 
- capabilities. It also comes with integrations for Jira, Gitlab, GitHub 
- and Open Project.
+ An advanced todo list app with integrated Timeboxing and time tracking  capabilities. It also comes with integrations for Jira, Gitlab, GitHub  and Open Project.
 
  SITE: http://super-productivity.com/
 

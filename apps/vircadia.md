@@ -1,8 +1,6 @@
 # VIRCADIA
 
- An open-source 3D interface and server foundation that allows 
- for vast social, educational platforms to be created and lived 
- in while also being shared in real-time with others.
+ An open-source 3D interface and server foundation that allows  for vast social, educational platforms to be created and lived  in while also being shared in real-time with others.
 
  SITE: https://vircadia.com/
 

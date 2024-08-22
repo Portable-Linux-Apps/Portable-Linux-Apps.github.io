@@ -1,5 +1,4 @@
 # GEOMETRIZE
-# GEOMETRIZE
  
  Images to shapes converter
  
@@ -8,5 +7,3 @@
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
 
- | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
- | --- | --- |

@@ -2,7 +2,7 @@
 
  dosemu2 is an emulator for running DOS programs under linux.
  
- It can also serve as a VM to boot various DOSes
+ It can also serve as a VM to boot various DOSes.
 
  SITE: https://github.com/dosemu2/dosemu2
  
