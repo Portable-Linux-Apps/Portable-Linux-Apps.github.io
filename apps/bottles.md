@@ -2,8 +2,7 @@
 
  Bottles - Profile manager for WINE to easily install Windows apps.
  
- Easily manage wine prefixes in a new way. Run Windows software and games on
- Linux.
+ Easily manage wine prefixes in a new way. Run Windows software and games on Linux.
  
  This is the Unofficial AppImage built using "Conty" (see "conty").
 

@@ -1,12 +1,8 @@
 # KSPACEDUEL
 
- Eliminate your opponents satellite while controlling your own satellite 
- revolving around a sun. Don't get too close or your will burn up.
+ Eliminate your opponents satellite while controlling your own satellite  revolving around a sun. Don't get too close or your will burn up.
  
- This script installs the full and updatable KDE Games suite from JuNest, a
- lightweight Arch Linux based distribution that allows the creation of 
- disposable and partially isolated GNU/Linux environments within any generic 
- GNU/Linux host OS and without requiring root privileges to install packages.
+ This script installs the full and updatable KDE Games suite from JuNest, a lightweight Arch Linux based distribution that allows the creation of disposable and partially isolated GNU/Linux environments within any generic GNU/Linux host OS and without requiring root privileges to install packages.
  
  USAGE (from the command line):
  

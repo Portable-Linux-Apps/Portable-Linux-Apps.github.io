@@ -3,12 +3,9 @@
  Modern and Delightful HTTP Debugging Proxy for Windows and Linux.
 
  Features:
- - Intercept HTTP/HTTPS requests/responses with ease. Generating, 
-   trusting a certificate, and automatically overriding the System 
-   Proxy is never easier;
+ - Intercept HTTP/HTTPS requests/responses with ease. Generating,    trusting a certificate, and automatically overriding the System    Proxy is never easier;
  - Modern and intuitive UI;
- - Multiple Filters (URL, Header, Query, Body, etc) and Content-Type 
-   Filter (JSON, Form, XML, Image, etc);
+ - Multiple Filters (URL, Header, Query, Body, etc) and Content-Type    Filter (JSON, Form, XML, Image, etc);
  - SSL Proxying List, No Caching, Compose & Repeat, Repeat;
  - Debugging Tools: Map Local, Breakpoint, Diff, etc.
  

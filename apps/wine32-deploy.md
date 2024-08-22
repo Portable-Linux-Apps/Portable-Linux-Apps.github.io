@@ -1,7 +1,6 @@
 # WINE32-DEPLOY
 
- Wine32-deploy is a tool for creating AppImages for 32-bit Microsoft 
- Windows® applications.
+ Wine32-deploy is a tool for creating AppImages for 32-bit Microsoft Windows® applications.
  
  USAGE: wine32-deploy <OPTION> <ARGUMENT/ARGUMENTS>
  

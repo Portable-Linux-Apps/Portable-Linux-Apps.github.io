@@ -10,13 +10,9 @@
         wine-staging notepad (this will launch Notepad)
         wine-staging <program>.exe (to launch a any Windows program)
         
- NOTE that Q4wine and other profile managers for WINE may not recognize 
- this command, to solve this problem AM automatically creates a symbolic 
- link to this AppImage called /opt/wine-staging/wine which can be used by 
- the above profile managers.
+ NOTE that Q4wine and other profile managers for WINE may not recognize  this command, to solve this problem AM automatically creates a symbolic  link to this AppImage called /opt/wine-staging/wine which can be used by  the above profile managers.
  
- The "mmtrt" repository always provides the latest version for each of the 
- three development branches of WINE.
+ The "mmtrt" repository always provides the latest version for each of the  three development branches of WINE.
  
  SITE: https://www.winehq.org
 
