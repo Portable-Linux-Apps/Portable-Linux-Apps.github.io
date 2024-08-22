@@ -1,6 +1,7 @@
 # FIREFOX-ESR
 
- Firefox is a powerful, extensible web browser with support  for modern web application technologies. 
+ Firefox is a powerful, extensible web browser with support for modern web application technologies.
+ 
  This is the Extended Support Release (ESR).
   
  This is the official build with automatic updates. 
