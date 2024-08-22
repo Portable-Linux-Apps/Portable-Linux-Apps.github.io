@@ -1,10 +1,6 @@
 # MIDTERM
  
- A free note-taking app for studying.
- Midterm for Linux is completely free to use. 
- It is a note-taking app with study tools to 
- help you study better. You can use it to prepare 
- for exams.
+ A free note-taking app for studying. Midterm for Linux is completely free to use.  It is a note-taking app with study tools to  help you study better. You can use it to prepare  for exams.
  Features:
  - Write notes with quizzes (cloze deletion, image occlusion inspired from Anki)
  - Sync notes with your phone and tablet.

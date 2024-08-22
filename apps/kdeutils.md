@@ -1,7 +1,6 @@
 # KDEUTILS
 
- This metapackage includes general-purpose utilities 
- provided with the official release of KDE:
+ This metapackage includes general-purpose utilities  provided with the official release of KDE:
  
  - ark
  - filelight

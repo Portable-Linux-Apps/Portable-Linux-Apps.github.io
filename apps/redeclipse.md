@@ -1,7 +1,6 @@
 # REDECLIPSE
 
- Red Eclipse is a fun-filled new take on the first person arena
- shooter, featuring parkour, impulse boosts, and other tricks.
+ Red Eclipse is a fun-filled new take on the first person arena shooter, featuring parkour, impulse boosts, and other tricks.
  
  This release comes from the Master branch (Continuous build).
  

@@ -1,8 +1,6 @@
 # CHROMIUM-LATEST
 
- Chromium is an open-source browser project that aims to build a 
- safer, faster, and more stable way for all Internet users to 
- experience the web. 
+ Chromium is an open-source browser project that aims to build a  safer, faster, and more stable way for all Internet users to  experience the web. 
  
  This is the official Latest Development/Unstable build.
  

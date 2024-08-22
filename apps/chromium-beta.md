@@ -1,11 +1,8 @@
 # CHROMIUM-BETA
 
- Chromium is an open-source browser project that aims to build a safer, faster,
- and more stable way for all Internet users to experience the web. 
+ Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web. 
  
- The Chromium projects include Chromium and Chromium OS, the open-source
- projects behind the Google Chrome browser and Google Chrome OS, the Brave, Web
- Browser, Microsoft Edge, Vivaldi Web Browser, Electron and many more.
+ The Chromium projects include Chromium and Chromium OS, the open-source projects behind the Google Chrome browser and Google Chrome OS, the Brave, Web Browser, Microsoft Edge, Vivaldi Web Browser, Electron and many more.
  
  This is the Beta release built from the Snap package.
  

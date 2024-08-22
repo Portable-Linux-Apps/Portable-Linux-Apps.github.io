@@ -2,8 +2,7 @@
 
  OcenAudio - Complete and User friendly Audio Editor.
  
- This is the "ArchImage" version, built on top of JuNest, the lightweight 
- Arch Linux based distro that runs on top of any other Linux distro.
+ This is the "ArchImage" version, built on top of JuNest, the lightweight  Arch Linux based distro that runs on top of any other Linux distro.
  
  ![Istantanea_2023-05-04_20-34-26 png](https://user-images.githubusercontent.com/88724353/236297308-01dfc549-1bec-4712-8131-e400d06a9ed8.jpg)
 

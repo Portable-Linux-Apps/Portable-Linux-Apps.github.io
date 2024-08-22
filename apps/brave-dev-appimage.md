@@ -2,8 +2,7 @@
 
  Brave - A privacy oriented Web Browser based on Chromium.
  
- Dev is not the release channel version of Brave. Be 
- careful, things are unstable and might even be broken.
+ Dev is not the release channel version of Brave. Be  careful, things are unstable and might even be broken.
 
  This is the Unofficial AppImage.
  See "brave-dev" to install from the official source.

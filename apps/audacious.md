@@ -1,8 +1,6 @@
 # AUDACIOUS
 
- Audacious is an open source audio player. Originally a descendant of XMMS,
- Audacious plays your music how you want it, without stealing away your 
- computer’s resources from other tasks.
+ Audacious is an open source audio player. Originally a descendant of XMMS, Audacious plays your music how you want it, without stealing away your  computer’s resources from other tasks.
 
  This is the unofficial AppImage built from PPA.
  

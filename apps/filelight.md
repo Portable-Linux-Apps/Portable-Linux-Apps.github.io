@@ -1,11 +1,8 @@
 # FILELIGHT
  
- Filelight allows you to understand your disk usage by graphically 
- representing your filesystem as a set of concentric, segmented rings.
+ Filelight allows you to understand your disk usage by graphically  representing your filesystem as a set of concentric, segmented rings.
  
- It is like a pie-chart, but the segments nest, allowing you to see 
- both which directories take up all your space, and which directories 
- and files inside those directories are the real culprits. 
+ It is like a pie-chart, but the segments nest, allowing you to see  both which directories take up all your space, and which directories  and files inside those directories are the real culprits. 
  
  This tool is part of the KDE Utils Suite.
  

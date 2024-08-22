@@ -2,9 +2,7 @@
 
  KDebugSettings edits which QLoggingCategory are displayed.
  
- QLoggingCategory prints messages on the console for applications and you 
- can define which applications display messages for information, warning or
- critical errors to help debugging Qt applications.
+ QLoggingCategory prints messages on the console for applications and you  can define which applications display messages for information, warning or critical errors to help debugging Qt applications.
 
  This tool is part of the KDE Utils Suite.
 

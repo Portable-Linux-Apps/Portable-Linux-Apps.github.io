@@ -1,7 +1,6 @@
 # ORCASLICER-ANY
 
- G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, 
- Creality, etc.).
+ G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig,  Creality, etc.).
  
  This is the more recent release (Beta, RC or Stable/Latest release).
  

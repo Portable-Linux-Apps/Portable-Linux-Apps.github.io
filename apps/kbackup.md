@@ -1,7 +1,6 @@
 # KBACKUP
 
- KBackup is an application which lets you back up your data in a simple,
- user friendly way.
+ KBackup is an application which lets you back up your data in a simple, user friendly way.
  
  Features:
  

@@ -1,10 +1,6 @@
 # KWALLETMANAGER5
 
- The KDE Wallet system provides a secure way to store 
- passwords and other secret information, allowing the 
- user to remember only a single KDE Wallet password 
- instead of numerous different passwords and 
- credentials. 
+ The KDE Wallet system provides a secure way to store  passwords and other secret information, allowing the  user to remember only a single KDE Wallet password  instead of numerous different passwords and  credentials. 
 
  This tool is part of the KDE Utils Suite.
  

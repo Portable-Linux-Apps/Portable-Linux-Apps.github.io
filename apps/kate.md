@@ -2,9 +2,7 @@
  
  Kate is a multi-document, multi-view text editor by KDE.
  
- It features stuff like codefolding, syntaxhighlighting, dynamic word wrap,
- an embedded console, an extensive plugin interface and some preliminary 
- scripting support.
+ It features stuff like codefolding, syntaxhighlighting, dynamic word wrap, an embedded console, an extensive plugin interface and some preliminary  scripting support.
 
  This tool is part of the KDE Utils Suite.
 

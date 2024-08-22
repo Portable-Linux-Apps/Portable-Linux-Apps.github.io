@@ -2,8 +2,7 @@
 
  A universal clock application for desktop and mobile.
  
- Clock includes a stopwatch and a world clock, and allows you to set multiple 
- alarms and timers.
+ Clock includes a stopwatch and a world clock, and allows you to set multiple  alarms and timers.
  
  It contains alarm, timer, stopwatch and timezone functionalities.
  

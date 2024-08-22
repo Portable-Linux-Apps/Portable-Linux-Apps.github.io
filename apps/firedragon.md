@@ -1,8 +1,6 @@
 # FIREDRAGON
 
- Firedragon is a fork of Librewolf (fork of Firefox itself) with enhanced 
- KDE integration, saner defaults & custom branding from the Garuda Linux
- project.
+ Firedragon is a fork of Librewolf (fork of Firefox itself) with enhanced  KDE integration, saner defaults & custom branding from the Garuda Linux project.
  
  This is the unofficial AppImage.
  

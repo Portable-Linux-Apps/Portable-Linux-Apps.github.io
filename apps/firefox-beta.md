@@ -1,7 +1,6 @@
 # FIREFOX-BETA
 
- Firefox is a powerful, extensible web browser with support 
- for modern web application technologies. 
+ Firefox is a powerful, extensible web browser with support for modern web application technologies. 
  This is the Firefox Beta, the next Stable release.
  
  This is the official build with automatic updates. 
