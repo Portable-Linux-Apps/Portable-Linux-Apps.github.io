@@ -1,7 +1,6 @@
 # BOTFRAMEWORK-EMULATOR
 
- A desktop application that allows users to locally test and debug 
- chat bots built with the Bot Framework SDK.
+ A desktop application that allows users to locally test and debug  chat bots built with the Bot Framework SDK.
 
  SITE: https://aka.ms/botemulator
 

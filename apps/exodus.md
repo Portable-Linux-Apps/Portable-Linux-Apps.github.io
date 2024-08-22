@@ -1,7 +1,6 @@
 # EXODUS
 
- Send, receive & exchange cryptocurrency with ease on the world's 
- leading Desktop, Mobile and Hardware wallets.
+ Send, receive & exchange cryptocurrency with ease on the world's  leading Desktop, Mobile and Hardware wallets.
  
  Bitcoin wallet.
 

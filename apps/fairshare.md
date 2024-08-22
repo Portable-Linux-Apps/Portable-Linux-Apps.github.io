@@ -1,7 +1,6 @@
 # FAIRSHARE
 
- Simplifying the curation and sharing of biomedical research 
- data and software according to applicable FAIR guidelines.
+ Simplifying the curation and sharing of biomedical research  data and software according to applicable FAIR guidelines.
 
  SITE: https://fairdataihub.org/fairshare
 

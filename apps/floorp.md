@@ -1,7 +1,6 @@
 # FLOORP
 
- The source code of version 10 or later of Floorp Browser, the most 
- Advanced and Fastest Firefox derivative 🦊
+ The source code of version 10 or later of Floorp Browser, the most  Advanced and Fastest Firefox derivative 🦊
 
  SITE: https://github.com/Floorp-Projects/Floorp
 

@@ -1,7 +1,6 @@
 # GOOFCORD
 
- Take control of your Discord experience with GoofCord. 
- The highly configurable and privacy first discord client.
+ Take control of your Discord experience with GoofCord.  The highly configurable and privacy first discord client.
 
  SITE: https://github.com/Milkshiift/GoofCord
 

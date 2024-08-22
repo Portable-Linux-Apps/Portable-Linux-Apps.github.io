@@ -1,7 +1,6 @@
 # TOCKLER
 
- An application that tracks your time by monitoring your active window 
- title and idle time.
+ An application that tracks your time by monitoring your active window  title and idle time.
 
  SITE: https://tockler.io
 

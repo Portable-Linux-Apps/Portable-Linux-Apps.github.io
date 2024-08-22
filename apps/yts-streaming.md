@@ -1,7 +1,6 @@
 # YTS-STREAMING
 
- An electronJS based desktop app to stream or play yts and torrent 
- movies in desktop without downloading. 
+ An electronJS based desktop app to stream or play yts and torrent  movies in desktop without downloading. 
 
  SITE: https://github.com/iambpn/YTS-Streaming
 

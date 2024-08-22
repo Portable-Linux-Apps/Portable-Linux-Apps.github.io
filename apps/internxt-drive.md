@@ -1,7 +1,6 @@
 # INTERNXT-DRIVE
 
- Electron React Boilerplate uses Electron, React, React Router, Webpack 
- and React Fast Refresh.
+ Electron React Boilerplate uses Electron, React, React Router, Webpack  and React Fast Refresh.
 
  SITE: https://github.com/internxt/drive-desktop-linux
 

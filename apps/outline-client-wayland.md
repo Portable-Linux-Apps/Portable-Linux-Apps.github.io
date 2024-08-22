@@ -1,7 +1,6 @@
 # OUTLINE-CLIENT-WAYLAND
 
- The Outline clients use the popular Shadowsocks protocol, and lean on the 
- Cordova and Electron frameworks.
+ The Outline clients use the popular Shadowsocks protocol, and lean on the  Cordova and Electron frameworks.
 
  SITE: https://getoutline.org
 

@@ -1,6 +1,6 @@
 # DUF
 
- Disk Usage/Free Utility - a better 'df' alternative
+ Disk Usage/Free Utility - a better 'df' alternative.
  
  ![image](https://raw.githubusercontent.com/muesli/duf/master/duf.png)
 

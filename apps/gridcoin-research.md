@@ -1,7 +1,6 @@
 # GRIDCOIN-RESEARCH
 
- POS-based cryptocurrency that rewards users for participating on 
- the BOINC network.
+ POS-based cryptocurrency that rewards users for participating on  the BOINC network.
 
  SITE: https://github.com/gridcoin-community/Gridcoin-Research
 

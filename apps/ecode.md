@@ -1,7 +1,6 @@
 # ECODE
 
- Lightweight multi-platform code editor designed for modern hardware with 
- a focus on responsiveness and performance.
+ Lightweight multi-platform code editor designed for modern hardware with  a focus on responsiveness and performance.
 
  SITE: https://github.com/SpartanJ/ecode
 

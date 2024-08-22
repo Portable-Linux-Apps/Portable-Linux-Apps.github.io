@@ -1,7 +1,6 @@
 # WEEKTODO
 
- WeekToDo is a Free and Open Source Weekly Planner. Stop prioritizing 
- what's on your schedule and start scheduling your priorities.
+ WeekToDo is a Free and Open Source Weekly Planner. Stop prioritizing  what's on your schedule and start scheduling your priorities.
 
  SITE: https://weektodo.me/
 

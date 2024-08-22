@@ -1,7 +1,6 @@
 # HOPTODESK
 
- A free remote desktop tool that allows users to share their screens 
- and remotely control access to their computers and devices.
+ A free remote desktop tool that allows users to share their screens  and remotely control access to their computers and devices.
 
  SITE: https://www.hoptodesk.com
 

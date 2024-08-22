@@ -1,7 +1,6 @@
 # IBUS-RIME
 
- This project provides a packaging solution for the Zhongzhou Yun 
- input method (ibus-rime) in AppImage format.
+ This project provides a packaging solution for the Zhongzhou Yun  input method (ibus-rime) in AppImage format.
 
  SITE: https://github.com/hchunhui/ibus-rime.AppImage
 

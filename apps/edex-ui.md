@@ -1,7 +1,6 @@
 # EDEX-UI
 
- A cross-platform, customizable science fiction terminal emulator 
- with advanced monitoring and touchscreen support.
+ A cross-platform, customizable science fiction terminal emulator  with advanced monitoring and touchscreen support.
 
  SITE: https://github.com/GitSquared/edex-ui
 

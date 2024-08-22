@@ -1,7 +1,6 @@
 # LBRY-DESKTOP
 
- A browser and wallet for LBRY, the decentralized, user-controlled 
- content marketplace.
+ A browser and wallet for LBRY, the decentralized, user-controlled  content marketplace.
 
  SITE: https://lbry.com/
 

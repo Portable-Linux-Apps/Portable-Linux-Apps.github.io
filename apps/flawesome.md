@@ -1,7 +1,6 @@
 # FLAWESOME
 
- Flawesome is a modern productivity tool that will help you organise 
- your day-today work and thoughts.
+ Flawesome is a modern productivity tool that will help you organise  your day-today work and thoughts.
 
  SITE: https://github.com/ashishBharadwaj/flawesome
 

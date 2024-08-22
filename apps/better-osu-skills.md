@@ -1,7 +1,6 @@
 # BETTER-OSU-SKILLS
 
- Gets results from the osu!Skills training page and PMs them on osu!
- Using your own IRC credentials.
+ Gets results from the osu!Skills training page and PMs them on osu! Using your own IRC credentials.
 
  SITE: https://github.com/straightcurve/better-osuskills
 

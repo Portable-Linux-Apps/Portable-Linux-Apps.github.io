@@ -1,7 +1,6 @@
 # KNOWLEDGE
 
- A tool for saving, searching, accessing, and exploring all of your 
- favorite websites, documents and files.
+ A tool for saving, searching, accessing, and exploring all of your  favorite websites, documents and files.
 
  SITE: https://github.com/KnowledgeCanvas/knowledge
 

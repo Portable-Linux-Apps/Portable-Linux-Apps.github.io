@@ -1,7 +1,6 @@
 # NTERACT
 
- An open-source organization committed to creating fantastic interactive 
- computing experiences that allow people to collaborate with ease.
+ An open-source organization committed to creating fantastic interactive  computing experiences that allow people to collaborate with ease.
 
  SITE: https://nteract.io/
 
