@@ -1,7 +1,6 @@
 # NPM
 
- Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
- NPM is the package manager of NodeJS.
+ Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. NPM is the package manager of NodeJS.
  
  USAGE: npm <options> [arguments]
         ./program <options> [arguments]

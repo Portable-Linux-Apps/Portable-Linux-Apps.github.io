@@ -1,8 +1,6 @@
 # AFFINE-BETA
 
- There can be more than Notion and Miro. AFFiNE is a next-gen knowledge 
- base that brings planning, sorting and creating all together.
- Privacy first, open-source, customizable and ready to use.
+ There can be more than Notion and Miro. AFFiNE is a next-gen knowledge  base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
  
  This is the Beta build.
 

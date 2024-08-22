@@ -1,7 +1,6 @@
 # APPIMAGEN
  
- A script that generates a custom AppImage from a PPA of your choice for the
- previous (not the oldest, not the latest) and still supported Ubuntu LTS.
+ A script that generates a custom AppImage from a PPA of your choice for the previous (not the oldest, not the latest) and still supported Ubuntu LTS.
  
  Powered by appimagetool, pkg2appimage and libunionpreload.
  

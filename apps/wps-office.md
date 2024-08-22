@@ -1,7 +1,6 @@
 # WPS-OFFICE
  
- WPS Office is a lightweight, feature-rich comprehensive office suite with high 
- compatibility.
+ WPS Office is a lightweight, feature-rich comprehensive office suite with high  compatibility.
  
  This is the unofficial AppImage built from the official .deb package.
 

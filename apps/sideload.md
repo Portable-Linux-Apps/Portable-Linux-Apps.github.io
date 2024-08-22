@@ -1,7 +1,6 @@
 # SIDELOAD
  
- Utility to install Flatpak apps from Flathub, built from the .deb 
- package available on the official PPA of the elementaryOS project.
+ Utility to install Flatpak apps from Flathub, built from the .deb  package available on the official PPA of the elementaryOS project.
  
 
  SOURCE: https://launchpad.net/~elementary-os

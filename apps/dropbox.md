@@ -1,7 +1,6 @@
 # DROPBOX
 
- DropBox - A free cloud service. Bring your photos, docs, and videos 
- anywhere and share them easily.
+ DropBox - A free cloud service. Bring your photos, docs, and videos  anywhere and share them easily.
 
  This is the Unofficial AppImage built from AUR.
  

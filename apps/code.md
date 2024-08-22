@@ -1,7 +1,6 @@
 # CODE
 
- Visual Studio Code (vscode): Editor for building and debugging modern 
- web and cloud applications.
+ Visual Studio Code (vscode): Editor for building and debugging modern  web and cloud applications.
  
  This is the OFFICIAL binary version|
  
