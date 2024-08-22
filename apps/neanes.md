@@ -1,7 +1,6 @@
 # NEANES
 
- A free and open source scorewriter for notating Byzantine chant 
- in Byzantine notation.
+ A free and open source scorewriter for notating Byzantine chant  in Byzantine notation.
 
  SITE: https://danielgarthur.github.io/neanes/
 

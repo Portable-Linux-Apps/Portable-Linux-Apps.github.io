@@ -1,7 +1,6 @@
 # TRANS
 
- Command-line translator using Google Translate, Bing Translator, 
- Yandex.Translate, etc.
+ Command-line translator using Google Translate, Bing Translator,  Yandex.Translate, etc.
 
  SITE: https://github.com/soimort/translate-shell
 

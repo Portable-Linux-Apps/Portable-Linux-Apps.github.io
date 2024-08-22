@@ -1,7 +1,6 @@
 # FDC3-SAIL
 
- Open implementation of the FDC3 standard using Electron and an 
- integrated App Directory.
+ Open implementation of the FDC3 standard using Electron and an  integrated App Directory.
 
  SITE: https://github.com/finos/FDC3-Sail
 

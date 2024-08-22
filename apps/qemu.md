@@ -1,7 +1,6 @@
 # QEMU
 
- This is a Prove of the concept that is possible to run a virtual machine 
- from an Appimage.
+ This is a Prove of the concept that is possible to run a virtual machine  from an Appimage.
 
  SITE: https://github.com/lucasmz1/Qemu_Appimage
 

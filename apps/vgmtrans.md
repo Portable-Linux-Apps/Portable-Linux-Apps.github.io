@@ -1,7 +1,6 @@
 # VGMTRANS
 
- A tool to convert proprietary, sequenced videogame music 
- to industry-standard formats.
+ A tool to convert proprietary, sequenced videogame music  to industry-standard formats.
 
  SITE: https://github.com/vgmtrans/vgmtrans
 

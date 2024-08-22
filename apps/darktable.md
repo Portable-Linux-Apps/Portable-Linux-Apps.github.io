@@ -1,7 +1,6 @@
 # DARKTABLE
 
- Darktable is an open source photography workflow 
- application and raw developer.
+ Darktable is an open source photography workflow  application and raw developer.
 
  SITE: https://github.com/darktable-org/darktable
 

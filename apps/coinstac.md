@@ -1,7 +1,6 @@
 # COINSTAC
 
- Collaborative Informatics and Neuroimaging Suite Toolkit for 
- Anonymous Computation.
+ Collaborative Informatics and Neuroimaging Suite Toolkit for  Anonymous Computation.
 
  SITE: https://github.com/trendscenter/coinstac
 

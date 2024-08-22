@@ -1,7 +1,6 @@
 # FRICTION
 
- Friction Graphics, a flexible, user expandable 2D animation software
- for Linux and Windows.
+ Friction Graphics, a flexible, user expandable 2D animation software for Linux and Windows.
 
  SITE: https://github.com/friction2d/friction
 

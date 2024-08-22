@@ -1,7 +1,6 @@
 # GIT-GOOD
 
- Just a simple git client using electron and nodegit, focus on lightweight 
- and performance.
+ Just a simple git client using electron and nodegit, focus on lightweight  and performance.
 
  SITE: https://github.com/weedz/git-good
 

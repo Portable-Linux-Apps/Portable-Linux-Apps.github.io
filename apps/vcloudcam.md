@@ -1,7 +1,6 @@
 # VCLOUDCAM
 
- A secure and cost-effective solution for the camera 
- systems of gas and fuel stations.
+ A secure and cost-effective solution for the camera  systems of gas and fuel stations.
 
  SITE: https://github.com/quocson95/vCloudcam
 

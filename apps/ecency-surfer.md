@@ -1,7 +1,6 @@
 # ECENCY-SURFER
 
- Immutable, decentralized, uncensored, rewarding communities built, 
- owned and operated by its users.
+ Immutable, decentralized, uncensored, rewarding communities built,  owned and operated by its users.
 
  SITE: https://ecency.com/
 

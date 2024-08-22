@@ -1,7 +1,6 @@
 # DESTINY
 
- The latest stable AppImage of Destiny, a Cross-platform Magic 
- Wormhole graphical client.
+ The latest stable AppImage of Destiny, a Cross-platform Magic  Wormhole graphical client.
 
  SITE: https://github.com/LeastAuthority/destiny
 

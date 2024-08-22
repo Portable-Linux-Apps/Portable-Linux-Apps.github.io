@@ -1,7 +1,6 @@
 # CLASHY-APPIMAGE
 
- A GUI proxy client for Windows / Mac / Ubuntu Desktop based 
- on Clash and Electron.
+ A GUI proxy client for Windows / Mac / Ubuntu Desktop based  on Clash and Electron.
 
  SITE: https://github.com/SpongeNobody/Clashy
 

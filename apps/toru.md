@@ -1,7 +1,6 @@
 # TORU
 
- Bittorrent streaming CLI tool. Stream anime torrents, 
- real-time with no waiting for downloads. 
+ Bittorrent streaming CLI tool. Stream anime torrents,  real-time with no waiting for downloads. 
 
  SITE: https://github.com/sweetbbak/toru
 
