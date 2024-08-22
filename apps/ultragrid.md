@@ -1,7 +1,6 @@
 # ULTRAGRID
  
- UltraGrid low-latency audio and video network
- transmission system
+ UltraGrid low-latency audio and video network transmission system
  
  SITE: https://github.com/CESNET/UltraGrid
 

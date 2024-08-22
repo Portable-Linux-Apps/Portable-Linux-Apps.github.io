@@ -1,7 +1,6 @@
 # POLAR
 
- One-click Bitcoin Lightning networks for local app 
- development & amp testing.
+ One-click Bitcoin Lightning networks for local app  development & amp testing.
 
  SITE: https://lightningpolar.com/
 
