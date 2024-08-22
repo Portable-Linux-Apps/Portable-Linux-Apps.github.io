@@ -1,7 +1,6 @@
 # MANGAYOMI
 
- Free and open source application for reading manga and watching anime
- available on Android, iOS, macOS, Linux and Windows.
+ Free and open source application for reading manga and watching anime available on Android, iOS, macOS, Linux and Windows.
 
  SITE: https://github.com/kodjodevf/mangayomi
 

@@ -1,7 +1,6 @@
 # POPCORN
 
- Popcorn Time is a multi-platform, free software BitTorrent client that 
- includes an integrated media player.
+ Popcorn Time is a multi-platform, free software BitTorrent client that  includes an integrated media player.
  
  A Butter-Project Fork.
 

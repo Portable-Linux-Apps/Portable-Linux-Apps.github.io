@@ -1,7 +1,6 @@
 # STICKER-CONVERT
 
- Convert (animated) stickers to/from WhatsApp, Telegram, Signal, Line, 
- Kakao, iMessage. Written in Python.
+ Convert (animated) stickers to/from WhatsApp, Telegram, Signal, Line,  Kakao, iMessage. Written in Python.
 
  SITE: https://github.com/laggykiller/sticker-convert
 

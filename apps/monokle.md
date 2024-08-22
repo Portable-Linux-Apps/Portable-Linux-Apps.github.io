@@ -1,7 +1,6 @@
 # MONOKLE
 
- Lets you create, analyze, and deploy YAML manifests with a visual UI, 
- and provides policy validation and cluster management.
+ Lets you create, analyze, and deploy YAML manifests with a visual UI,  and provides policy validation and cluster management.
 
  SITE: https://monokle.io
 

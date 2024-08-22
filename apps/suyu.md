@@ -1,7 +1,6 @@
 # SUYU
 
- suyu is the continuation of the world's most popular, open-source, 
- Nintendo Switch emulator, yuzu.
+ suyu is the continuation of the world's most popular, open-source,  Nintendo Switch emulator, yuzu.
  
  It is written in C++ with portability in mind.
 

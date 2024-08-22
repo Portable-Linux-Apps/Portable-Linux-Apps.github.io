@@ -1,8 +1,6 @@
 # CHATALL
 
- Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, 
- Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the 
- best answers.
+ Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna,  Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the  best answers.
 
  SITE: http://chatall.ai/
 

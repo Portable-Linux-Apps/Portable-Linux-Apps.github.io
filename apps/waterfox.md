@@ -1,7 +1,6 @@
 # WATERFOX
 
- Waterfox is the privacy-focused web browser engineered to give you 
- speed, control, and peace of mind on the internet.
+ Waterfox is the privacy-focused web browser engineered to give you  speed, control, and peace of mind on the internet.
  
  ![image](https://i.imgur.com/HHPG3Re.jpeg)
 

@@ -1,8 +1,6 @@
 # NUCLIA
 
- A low-code API to build an AI &amp; multi-language semantic search 
- engine in minutes. For any data, including audios and videos, and 
- any source.
+ A low-code API to build an AI multi-language semantic search  engine in minutes. For any data, including audios and videos, and  any source.
 
  SITE: https://nuclia.com/
 

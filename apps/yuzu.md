@@ -1,7 +1,6 @@
 # YUZU
 
- An experimental open-source emulator for the Nintendo Switch from 
- the creators of Citra.
+ An experimental open-source emulator for the Nintendo Switch from  the creators of Citra.
 
  SITE: https://yuzu-emu.org
  

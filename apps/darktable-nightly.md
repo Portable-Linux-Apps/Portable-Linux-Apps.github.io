@@ -1,7 +1,6 @@
 # DARKTABLE-NIGHTLY
 
- Darktable is an open source photography workflow 
- application and raw developer
+ Darktable is an open source photography workflow  application and raw developer.
  
  This is the nightly build.
 

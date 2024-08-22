@@ -1,7 +1,6 @@
 # CROW-TRANSLATE
 
- A simple and lightweight translator that allows you to translate
- and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
+ A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
 
  SITE: https://github.com/crow-translate/crow-translate
 

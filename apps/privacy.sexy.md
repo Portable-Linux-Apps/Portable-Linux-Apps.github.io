@@ -1,7 +1,6 @@
 # PRIVACY.SEXY
 
- Enforce privacy & security best-practices on Windows and
- macOS (and Linux), because privacy is sexy.
+ Enforce privacy & security best-practices on Windows and macOS (and Linux), because privacy is sexy.
  
  SITE: https://privacy.sexy
 

@@ -1,6 +1,6 @@
 # WATERFOX-FOURTH-GENERATION
  
- Browse the World Wide Web
+ Browse the World Wide Web.
  
  ![Screenshot](https://idroot.us/wp-content/uploads/2022/08/Waterfox-browser.png)
  

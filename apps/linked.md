@@ -1,8 +1,6 @@
 # LINKED
 
- Daily journaling without distraction. An easy, distraction-free 
- way to record your thoughts, declutter your mind and keep the 
- things you want to remember.
+ Daily journaling without distraction. An easy, distraction-free  way to record your thoughts, declutter your mind and keep the  things you want to remember.
 
  SITE: https://uselinked.com/
 
