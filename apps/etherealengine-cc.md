@@ -1,7 +1,6 @@
 # ETHEREALENGINE-CC
 
- One stop solution for all your Metaverse needs. A desktop app for 
- managing Ethereal Engine cluster.
+ One stop solution for all your Metaverse needs. A desktop app for  managing Ethereal Engine cluster.
 
  SITE: https://etherealengine.org/
 

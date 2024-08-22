@@ -1,7 +1,6 @@
 # MUSIC-QUIZ
 
- Jepardy like game where the object is to guess as many songs as 
- possible as fast as possible.
+ Jepardy like game where the object is to guess as many songs as  possible as fast as possible.
 
  SITE: https://github.com/MusicQuizCPP/Music-Quiz_CPP
 

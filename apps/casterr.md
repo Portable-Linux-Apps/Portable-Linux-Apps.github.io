@@ -1,7 +1,6 @@
 # CASTERR
 
- Screen recorder with the main goal of easing the process of recording 
- and clipping your best moments in-game.
+ Screen recorder with the main goal of easing the process of recording  and clipping your best moments in-game.
 
  SITE: https://casterr.sbond.co/
 

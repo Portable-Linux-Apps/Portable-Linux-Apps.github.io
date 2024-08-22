@@ -1,8 +1,6 @@
 # ZMNINJA
 
- High performance, cross platform ionic app 
- for Home/Commerical Security Surveillance 
- using ZoneMinder.
+ High performance, cross platform ionic app  for Home/Commerical Security Surveillance  using ZoneMinder.
 
  SITE: https://zmninja.zoneminder.com/
  

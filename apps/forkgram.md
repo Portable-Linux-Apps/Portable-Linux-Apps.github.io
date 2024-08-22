@@ -1,8 +1,6 @@
 # FORKGRAM
 
  Fork of Telegram Desktop messaging app.
-  Telegram Desktop messaging app
-  Telegram Desktop messaging app
 
  SITE: https://github.com/forkgram/tdesktop
 

@@ -1,7 +1,6 @@
 # RBDOOM-3
 
- Doom 3 BFG Edition source port with updated DX12 / Vulkan renderer
- and modern game engine features.
+ Doom 3 BFG Edition source port with updated DX12 / Vulkan renderer and modern game engine features.
 
  SITE: https://github.com/mantralunar/RBDOOM-3-BFG
 

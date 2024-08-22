@@ -1,6 +1,6 @@
 # HEROIC-GAMES-LAUNCHER
 
-   A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
+ A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
 
  SITE: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
 

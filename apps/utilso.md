@@ -1,7 +1,6 @@
 # UTILSO
 
- Regex Tester, JWT Verify, Image Converter, Format JSON, Decode base64, 
- Code Beautify and more.Work completely offline.
+ Regex Tester, JWT Verify, Image Converter, Format JSON, Decode base64,  Code Beautify and more.Work completely offline.
 
  SITE: https://utilso.com
 

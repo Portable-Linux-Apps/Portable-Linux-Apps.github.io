@@ -1,7 +1,6 @@
 # NORA
 
- An elegant music player built using Electron and React. 
- Inspired by Oto Music for Android by Piyush Mamidwar.
+ An elegant music player built using Electron and React.  Inspired by Oto Music for Android by Piyush Mamidwar.
 
  SITE: https://github.com/Sandakan/Nora
 

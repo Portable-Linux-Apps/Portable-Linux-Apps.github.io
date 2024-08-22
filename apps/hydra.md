@@ -1,7 +1,6 @@
 # HYDRA
 
- Hydra is a game launcher with its own embedded bittorrent client and a 
- self-managed repack scraper.
+ Hydra is a game launcher with its own embedded bittorrent client and a  self-managed repack scraper.
 
  SITE: https://github.com/hydralauncher/hydra
 

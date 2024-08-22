@@ -1,7 +1,6 @@
 # MANTA
 
- Flexible invoicing desktop app with beautiful &
- customizable templates. 
+ Flexible invoicing desktop app with beautiful & customizable templates. 
  
  SITE: https://getmanta.app/
 

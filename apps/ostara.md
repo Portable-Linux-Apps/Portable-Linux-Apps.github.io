@@ -1,7 +1,6 @@
 # OSTARA
 
- A desktop application that provides various features to monitor 
- and interact with Spring Boot Applications via Actuator.
+ A desktop application that provides various features to monitor  and interact with Spring Boot Applications via Actuator.
 
  SITE: https://ostara.dev/
 

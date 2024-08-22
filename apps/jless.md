@@ -1,7 +1,6 @@
 # JLESS
 
- jless is a command-line JSON viewer designed for reading, exploring, 
- and searching through JSON data.
+ jless is a command-line JSON viewer designed for reading, exploring,  and searching through JSON data.
 
  SITE: https://github.com/PaulJuliusMartinez/jless
 

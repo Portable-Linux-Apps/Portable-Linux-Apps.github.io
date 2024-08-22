@@ -1,7 +1,6 @@
 # NUCLINO
 
- A modern, simple, and blazingly fast way to collaborate – bring knowledge,
- docs, and projects together in one place.
+ A modern, simple, and blazingly fast way to collaborate – bring knowledge, docs, and projects together in one place.
 
  SITE: https://www.nuclino.com
 
