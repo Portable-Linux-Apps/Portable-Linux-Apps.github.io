@@ -1,7 +1,6 @@
 # FIREFOX
 
- Firefox is a powerful, extensible web browser with support 
- for modern web application technologies.
+ Firefox is a powerful, extensible web browser with support for modern web application technologies.
  This is "firefox-stable", the last release.
  
  This is the official build with automatic updates. 

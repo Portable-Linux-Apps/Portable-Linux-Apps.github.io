@@ -1,7 +1,6 @@
 # APPIMAGEKIT
  
- Install these AppImage utilities to build (pkg2appimage), export (appimagetool)
- and update (appimageupdatetool) AppImage packages.
+ Install these AppImage utilities to build (pkg2appimage), export (appimagetool) and update (appimageupdatetool) AppImage packages.
  
  SITES:
  	- AppImagetool at https://github.com/AppImage/AppImageKit

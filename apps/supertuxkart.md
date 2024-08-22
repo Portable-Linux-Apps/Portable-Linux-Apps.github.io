@@ -1,8 +1,6 @@
 # SUPERTUXKART
 
- SuperTuxKart is a free kart racing game. It focuses on fun and
- not on realistic kart physics. Instructions can be found on the
- in-game help page.
+ SuperTuxKart is a free kart racing game. It focuses on fun and not on realistic kart physics. Instructions can be found on the in-game help page.
  
  This is the official version for x86, x86_64 and arm64.
  

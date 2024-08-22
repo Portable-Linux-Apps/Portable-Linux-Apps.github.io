@@ -1,7 +1,6 @@
 # APK-EDITOR-STUDIO
 
- APK Editor Studio is a powerful yet easy to use APK
- reverse-engineering tool written in C++/Qt.
+ APK Editor Studio is a powerful yet easy to use APK reverse-engineering tool written in C++/Qt.
  
  ![Screenshot](https://qwertycube.com/apk-editor-studio/images/screenshots/1.png)
  

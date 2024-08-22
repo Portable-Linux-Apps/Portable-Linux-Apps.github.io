@@ -1,9 +1,6 @@
 # APP-OUTLET
 
- App Outlet is a Universal application store. It easily allows 
- you to search and download applications that runs on most Linux 
- distributions. It currently supports AppImages, Flatpaks and 
- Snaps packages.
+ App Outlet is a Universal application store. It easily allows  you to search and download applications that runs on most Linux  distributions. It currently supports AppImages, Flatpaks and  Snaps packages.
  
  ![Screenshot](https://raw.githubusercontent.com/AppOutlet/AppOutlet/main/screenshot/screenshots.png)
  

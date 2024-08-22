@@ -1,8 +1,6 @@
 # ANT-DOWNLOADER
 
- ANT Downloader is a BitTorrent Client developed by golang,
- angular 7, and electron. ANT aims to be a lightweight,
- feature-rich, easy-to-use and nice-looking client.
+ ANT Downloader is a BitTorrent Client developed by golang, angular 7, and electron. ANT aims to be a lightweight, feature-rich, easy-to-use and nice-looking client.
  
  ![Screenshot](https://appimage.github.io/database/ANT_Downloader/screenshot.png)
  

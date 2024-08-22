@@ -1,7 +1,6 @@
 # KWEATHER
 
- A convergent weather application for Plasma. Has flat and dynamic/animated 
- views for showing forecasts and other information.
+ A convergent weather application for Plasma. Has flat and dynamic/animated  views for showing forecasts and other information.
 
  This tool is part of the KDE Utils Suite.
 

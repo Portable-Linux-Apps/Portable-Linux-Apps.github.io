@@ -1,8 +1,6 @@
 # SKANPAGE
 
- Skanpage is a simple scanning application optimized for multi-page 
- document scanning. It can also scan and save single-page 
- documents and images.
+ Skanpage is a simple scanning application optimized for multi-page  document scanning. It can also scan and save single-page  documents and images.
 
  This tool is part of the KDE Utils Suite.
 

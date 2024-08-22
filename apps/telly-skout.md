@@ -2,8 +2,7 @@
 
  Telly Skout is a convergent Kirigami TV guide. 
  
- It shows the TV program for your favorite channels from TV Spielfilm 
- or an XMLTV file.
+ It shows the TV program for your favorite channels from TV Spielfilm  or an XMLTV file.
 
  This tool is part of the KDE Utils Suite.
 

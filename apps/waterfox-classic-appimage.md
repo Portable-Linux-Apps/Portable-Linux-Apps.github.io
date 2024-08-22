@@ -1,7 +1,6 @@
 # WATERFOX-CLASSIC-APPIMAGE
 
- Waterfox Classic is a legacy web browser for older systems and those 
- that require use of XPCOM and XUL extensions.
+ Waterfox Classic is a legacy web browser for older systems and those  that require use of XPCOM and XUL extensions.
  
  This is the unofficial Appimage.
  

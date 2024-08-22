@@ -1,7 +1,6 @@
 # FIREFOX-DEV
 
- Firefox is a powerful, extensible web browser with support 
- for modern web application technologies. 
+ Firefox is a powerful, extensible web browser with support for modern web application technologies. 
  This is the Developer Edition.
  
  This is the official build with automatic updates. 

@@ -1,7 +1,6 @@
 # MPV
  
- MPV is a free (as in freedom) media player for the command line. It supports a 
- wide variety of media file formats, audio and video codecs and subtitle types.
+ MPV is a free (as in freedom) media player for the command line. It supports a  wide variety of media file formats, audio and video codecs and subtitle types.
  
  This script lets you choose between the unofficials AppImage and Archimage.
  

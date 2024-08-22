@@ -1,7 +1,6 @@
 # PLATFORM-TOOLS
 
- Android SDK Platform Tools is a complete suite of Command line utilities
- needed to manage Android devices. The commands included are:
+ Android SDK Platform Tools is a complete suite of Command line utilities needed to manage Android devices. The commands included are:
   - adb
   - dmtracedump
   - e2fsdroid

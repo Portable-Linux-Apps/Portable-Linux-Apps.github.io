@@ -1,9 +1,6 @@
 # EMACS-PGTK
 
- GNU Emacs is a free software text editor. It was created by GNU Project founder
- Richard Stallman. In common with other varieties of Emacs, GNU Emacs is
- extensible using a Turing complete programming language.
- GNU Emacs has been called "the most powerful text editor available today".
+ GNU Emacs is a free software text editor. It was created by GNU Project founder Richard Stallman. In common with other varieties of Emacs, GNU Emacs is extensible using a Turing complete programming language. GNU Emacs has been called "the most powerful text editor available today".
 
  This is the unofficial AppImage.
 

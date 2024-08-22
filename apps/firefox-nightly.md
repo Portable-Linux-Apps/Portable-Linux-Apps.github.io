@@ -1,7 +1,6 @@
 # FIREFOX-NIGHTLY
 
- Firefox is a powerful, extensible web browser with support 
- for modern web application technologies. 
+ Firefox is a powerful, extensible web browser with support for modern web application technologies. 
  This is the Nightly version.
  
  This is the official build with automatic updates. 

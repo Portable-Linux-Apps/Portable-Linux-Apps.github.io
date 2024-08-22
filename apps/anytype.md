@@ -1,7 +1,6 @@
 # ANYTYPE
 
- The everything app for those who celebrate trust & autonomy. Imagine an app
- where you can do everything.
+ The everything app for those who celebrate trust & autonomy. Imagine an app where you can do everything.
  
  ![pic1](https://anytype.io/assets/usecases/Recipe%20book.jpg) ![pic2](https://anytype.io/assets/usecases/Vault.jpg) ![pic3](https://anytype.io/assets/usecases/Knowledge%20base.jpg)
 

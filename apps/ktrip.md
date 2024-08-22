@@ -1,8 +1,6 @@
 # KTRIP
 
- KTrip helps you navigate in public transport. It allows you to find 
- journeys between specified locations, departures for a specific station 
- and shows real-time delay and disruption information.
+ KTrip helps you navigate in public transport. It allows you to find  journeys between specified locations, departures for a specific station  and shows real-time delay and disruption information.
 
  This tool is part of the KDE Utils Suite.
 

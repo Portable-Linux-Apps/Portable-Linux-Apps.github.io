@@ -2,9 +2,7 @@
 
  RStudio is an integrated development environment (IDE) for R.
 
- NOTE: it requires "r-base" (Debian and derivatives) or "R" (Fedora/RHEL) 
-       installed from your system's package manager.
-       Visit the R-Project website for more information.
+ NOTE: it requires "r-base" (Debian and derivatives) or "R" (Fedora/RHEL) installed from your system's package manager. Visit the R-Project website for more information.
 
  SITE & SOURCE: https://cran.rstudio.com
  

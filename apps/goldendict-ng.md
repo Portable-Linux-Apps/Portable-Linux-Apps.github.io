@@ -1,8 +1,6 @@
 # GOLDENDICT-NG
 
- The Next Generation GoldenDict. A feature-rich open-source dictionary 
- lookup program, supporting multiple dictionary formats and online 
- dictionaries.
+ The Next Generation GoldenDict. A feature-rich open-source dictionary  lookup program, supporting multiple dictionary formats and online  dictionaries.
  
  ![picture](https://raw.githubusercontent.com/xiaoyifang/goldendict-ng/staged/website/docs/img/linux_genshin.webp)
 
