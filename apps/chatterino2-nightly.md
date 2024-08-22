@@ -1,7 +1,6 @@
 # CHATTERINO2-NIGHTLY
  
- Second installment of the Twitch chat client series
- nightly appimage
+ Second installment of the Twitch chat client series nightly appimage
  
  SITE: https://chatterino.com
 

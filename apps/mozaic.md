@@ -1,6 +1,6 @@
 # MOZAIC
 
-   MOZAIC is the Massive Online Zeus Artificial Intelligence Competition platform
+ MOZAIC is the Massive Online Zeus Artificial Intelligence Competition platform
 
  SITE: https://github.com/ZeusWPI/MOZAIC
 

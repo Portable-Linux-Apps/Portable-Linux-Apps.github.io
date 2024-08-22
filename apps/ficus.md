@@ -1,7 +1,6 @@
 # FICUS
 
- A software for editing and managing markdown documents, 
- developed by the gg=G team.
+ A software for editing and managing markdown documents, developed by the gg=G team.
 
  SITE: https://ficus.world/
 
