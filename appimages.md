@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed the **1923** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **1924** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1297,6 +1297,7 @@
 | <img src="icons/powershell.png" width="48" height="48"> | [***powershell***](apps/powershell.md) | *Microsoft PowerShell.*..[ *read more* ](apps/powershell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/powershell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/powershell) |
 | <img src="icons/ppet3.png" width="48" height="48"> | [***ppet3***](apps/ppet3.md) | *Put a cute girl on your desk for more fun.*..[ *read more* ](apps/ppet3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ppet3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ppet3) |
 | <img src="icons/ppsspp.png" width="48" height="48"> | [***ppsspp***](apps/ppsspp.md) | *Unofficial, PSP emulator written in C++.*..[ *read more* ](apps/ppsspp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ppsspp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ppsspp) |
+| <img src="icons/pragtical.png" width="48" height="48"> | [***pragtical***](apps/pragtical.md) | *The practical and pragmatic code editor.*..[ *read more* ](apps/pragtical.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pragtical) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pragtical) |
 | <img src="icons/pretty-handy-privacy.png" width="48" height="48"> | [***pretty-handy-privacy***](apps/pretty-handy-privacy.md) | *User interface for basic encryption tasks.*..[ *read more* ](apps/pretty-handy-privacy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pretty-handy-privacy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pretty-handy-privacy) |
 | <img src="icons/primate.png" width="48" height="48"> | [***primate***](apps/primate.md) | *A modern dashboard for Kong Gateway admins.*..[ *read more* ](apps/primate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/primate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/primate) |
 | <img src="icons/prime-world-editor.png" width="48" height="48"> | [***prime-world-editor***](apps/prime-world-editor.md) | *Edit world assets from games by Retro Studios.*..[ *read more* ](apps/prime-world-editor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/prime-world-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/prime-world-editor) |
