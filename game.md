@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **172** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **173** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -168,6 +168,7 @@
 | <img src="icons/openramodsdk.png" width="48" height="48"> | [***openramodsdk***](apps/openramodsdk.md) | *Dev Kit for building your own games using the OpenRA engine.*..[ *read more* ](apps/openramodsdk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openramodsdk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openramodsdk) |
 | <img src="icons/openra-red-alert.png" width="48" height="48"> | [***openra-red-alert***](apps/openra-red-alert.md) | *Real-time strategy game engine, MOD Red Alert.*..[ *read more* ](apps/openra-red-alert.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openra-red-alert) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openra-red-alert) |
 | <img src="icons/openra-tiberian-dawn.png" width="48" height="48"> | [***openra-tiberian-dawn***](apps/openra-tiberian-dawn.md) | *Real-time strategy game engine penGL, MOD TD.*..[ *read more* ](apps/openra-tiberian-dawn.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openra-tiberian-dawn) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openra-tiberian-dawn) |
+| <img src="icons/openrct2.png" width="48" height="48"> | [***openrct2***](apps/openrct2.md) | *Re-implementation of RollerCoaster Tycoon 2 (RCT2), expanding the game with new features.*..[ *read more* ](apps/openrct2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openrct2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openrct2) |
 | <img src="icons/osu.png" width="48" height="48"> | [***osu***](apps/osu.md) | *A free-to-win rhythm game. Rhythm is just a click away!*..[ *read more* ](apps/osu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/osu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/osu) |
 | <img src="icons/ottomatic.png" width="48" height="48"> | [***ottomatic***](apps/ottomatic.md) | *Pangea Software’s Otto Matic, a game of robots.*..[ *read more* ](apps/ottomatic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ottomatic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ottomatic) |
 | <img src="icons/palapeli.png" width="48" height="48"> | [***palapeli***](apps/palapeli.md) | *Jigsaw puzzle game. This script installs the full "kdegames" suite.*..[ *read more* ](apps/palapeli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/palapeli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/palapeli) |
