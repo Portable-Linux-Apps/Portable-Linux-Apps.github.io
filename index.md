@@ -115,7 +115,7 @@
 
 ### About "sudo" usage
 - *"AppMan" can request the root password only in the very rare case in which you want to install a library;*
-- *"AM" requires the root password only to install, remove apps, enable a sandbox for an AppImage, or enable/disable bash completion.*
+- *"AM" requires the root password only to install, remove apps, enable a sandbox for an AppImage.*
 
 *All options cannot be executed with "`sudo`"/"`doas`".*
 
@@ -340,7 +340,6 @@ sudo ./INSTALL
 *In both cases, the "INSTALL" script will create:*
 - *the script "/opt/am/APP-MANAGER"*
 - *the script "/opt/am/remove" (to remove "AM" using the command `am -R am`)*
-- *the directory "/opt/am/.cache" (where all processes will been executed)*
 - *the directory "/opt/am/modules" (containing the .am modules for the non-core options)*
 - *the symlink "/usr/local/bin/am" for "/opt/am/APP-MANAGER"*
 
@@ -370,7 +369,6 @@ wget https://raw.githubusercontent.com/ivan-hc/AM/main/APP-MANAGER -O appman && 
 ### Structure of the "AppMan" installation
 *Unlike "AM" which needs to be placed in specific locations, "AppMan" is portable. The modules and directories will be placed in the directory you chose:*
 - *the script "appman" is wherever you want*
-- *the directory "$HOME/path/to/your/custom/directory/.cache" (where all processes will been executed)*
 - *the directory "$HOME/path/to/your/custom/directory/modules" (containing the .am modules for the non-core options)*
 - *the configuration file "$HOME/.config/appman/appman-config" (the only fixed directory)*
 
