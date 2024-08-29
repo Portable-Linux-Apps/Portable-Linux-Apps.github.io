@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **123** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **124** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -20,6 +20,7 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
+| <img src="icons/akuse.png" width="48" height="48"> | [***akuse***](apps/akuse.md) | *Simple and easy to use anime streaming desktop app without ads.*..[ *read more* ](apps/akuse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/akuse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/akuse) |
 | <img src="icons/alvr.png" width="48" height="48"> | [***alvr***](apps/alvr.md) | *Stream VR games from your PC to your headset via Wi-Fi.*..[ *read more* ](apps/alvr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alvr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alvr) |
 | <img src="icons/animos.png" width="48" height="48"> | [***animos***](apps/animos.md) | *Anime-streaming desktop application without any ads.*..[ *read more* ](apps/animos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/animos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/animos) |
 | <img src="icons/armagetronad.png" width="48" height="48"> | [***armagetronad***](apps/armagetronad.md) | *Multiplayer game in 3d that emulates the movie "Tron".*..[ *read more* ](apps/armagetronad.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/armagetronad) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/armagetronad) |
