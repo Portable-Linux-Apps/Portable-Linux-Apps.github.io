@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **117** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **118** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -111,6 +111,7 @@
 | <img src="icons/qqmusic.png" width="48" height="48"> | [***qqmusic***](apps/qqmusic.md) | *A music player from Tencent.*..[ *read more* ](apps/qqmusic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qqmusic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qqmusic) |
 | <img src="icons/qt-dab.png" width="48" height="48"> | [***qt-dab***](apps/qt-dab.md) | *Listening to terrestrial Digital Audio Broadcasting.*..[ *read more* ](apps/qt-dab.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qt-dab) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qt-dab) |
 | <img src="icons/qtractor.png" width="48" height="48"> | [***qtractor***](apps/qtractor.md) | *An Audio/MIDI multi-track sequencer.*..[ *read more* ](apps/qtractor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qtractor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qtractor) |
+| <img src="icons/rendertune.png" width="48" height="48"> | [***rendertune***](apps/rendertune.md) | *Electron app that uses ffmpeg to combine audio.+image files into video files.*..[ *read more* ](apps/rendertune.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rendertune) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rendertune) |
 | <img src="icons/rhythmbox.png" width="48" height="48"> | [***rhythmbox***](apps/rhythmbox.md) | *The popular Audio Player Rhythmbox.*..[ *read more* ](apps/rhythmbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rhythmbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rhythmbox) |
 | <img src="icons/saucedacity.png" width="48" height="48"> | [***saucedacity***](apps/saucedacity.md) | *Audio editor based on Audacity focusing on general improvements.*..[ *read more* ](apps/saucedacity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/saucedacity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/saucedacity) |
 | <img src="icons/sayonara.png" width="48" height="48"> | [***sayonara***](apps/sayonara.md) | *Music player and music library admininstration.*..[ *read more* ](apps/sayonara.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sayonara) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sayonara) |
