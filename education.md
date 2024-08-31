@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **59** programs and **7** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **60** programs and **7** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -60,6 +60,7 @@
 | <img src="icons/openaudible.png" width="48" height="48"> | [***openaudible***](apps/openaudible.md) | *Download and manage your Audible audiobooks.*..[ *read more* ](apps/openaudible.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openaudible) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openaudible) |
 | <img src="icons/openosrs-launcher.png" width="48" height="48"> | [***openosrs-launcher***](apps/openosrs-launcher.md) | *Open-source client for Old School RuneScape.*..[ *read more* ](apps/openosrs-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openosrs-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openosrs-launcher) |
 | <img src="icons/paletti.png" width="48" height="48"> | [***paletti***](apps/paletti.md) | *Reduces an image into fewer colors to simplify, color palettes.*..[ *read more* ](apps/paletti.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/paletti) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/paletti) |
+| <img src="icons/pcsx-redux.png" width="48" height="48"> | [***pcsx-redux***](apps/pcsx-redux.md) | *The PCSX-Redux project is a collection of tools, research, hardware design, and libraries aiming at development and reverse engineering on the PlayStation 1. The core product itself, PCSX-Redux, is yet another fork of the Playstation emulator, PCSX.*..[ *read more* ](apps/pcsx-redux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pcsx-redux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pcsx-redux) |
 | <img src="icons/peruse.png" width="48" height="48"> | [***peruse***](apps/peruse.md) | *A reader application for comic books.*..[ *read more* ](apps/peruse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/peruse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/peruse) |
 | <img src="icons/pigs-n-cows.png" width="48" height="48"> | [***pigs-n-cows***](apps/pigs-n-cows.md) | *A relaxing game for children and adults alike.*..[ *read more* ](apps/pigs-n-cows.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pigs-n-cows) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pigs-n-cows) |
 | <img src="icons/playback.png" width="48" height="48"> | [***playback***](apps/playback.md) | *Play and manage your cartridges and replay your childhood games.*..[ *read more* ](apps/playback.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playback) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playback) |

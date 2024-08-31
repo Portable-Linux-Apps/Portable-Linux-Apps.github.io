@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed the **1941** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **1942** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1227,6 +1227,7 @@
 | <img src="icons/pavucontrol-qt.png" width="48" height="48"> | [***pavucontrol-qt***](apps/pavucontrol-qt.md) | *Qt port of pavucontrol Pulseaudio mixer, unofficial AppImage.*..[ *read more* ](apps/pavucontrol-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pavucontrol-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pavucontrol-qt) |
 | <img src="icons/pb-for-desktop.png" width="48" height="48"> | [***pb-for-desktop***](apps/pb-for-desktop.md) | *Pushbullet Desktop app.*..[ *read more* ](apps/pb-for-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pb-for-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pb-for-desktop) |
 | <img src="icons/pcloud.png" width="48" height="48"> | [***pcloud***](apps/pcloud.md) | *Europe's most secure cloud storage trusted by 20 million people.*..[ *read more* ](apps/pcloud.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pcloud) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pcloud) |
+| <img src="icons/pcsx-redux.png" width="48" height="48"> | [***pcsx-redux***](apps/pcsx-redux.md) | *The PCSX-Redux project is a collection of tools, research, hardware design, and libraries aiming at development and reverse engineering on the PlayStation 1. The core product itself, PCSX-Redux, is yet another fork of the Playstation emulator, PCSX.*..[ *read more* ](apps/pcsx-redux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pcsx-redux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pcsx-redux) |
 | <img src="icons/pcsx2.png" width="48" height="48"> | [***pcsx2***](apps/pcsx2.md) | *The Playstation 2 Emulator.*..[ *read more* ](apps/pcsx2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pcsx2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pcsx2) |
 | <img src="icons/pdf2htmlex.png" width="48" height="48"> | [***pdf2htmlex***](apps/pdf2htmlex.md) | *Convert PDF to HTML without losing text or format.*..[ *read more* ](apps/pdf2htmlex.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pdf2htmlex) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pdf2htmlex) |
 | <img src="icons/pdf4qt.png" width="48" height="48"> | [***pdf4qt***](apps/pdf4qt.md) | *Open source PDF editor.*..[ *read more* ](apps/pdf4qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pdf4qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pdf4qt) |
