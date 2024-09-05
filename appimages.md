@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed the **1942** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **1943** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1080,6 +1080,7 @@
 | <img src="icons/ncsa-mosaic.png" width="48" height="48"> | [***ncsa-mosaic***](apps/ncsa-mosaic.md) | *One of the first graphical web browsers.*..[ *read more* ](apps/ncsa-mosaic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ncsa-mosaic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ncsa-mosaic) |
 | <img src="icons/neanes.png" width="48" height="48"> | [***neanes***](apps/neanes.md) | *A scorewriter for notating Byzantine chant in Byzantine notation.*..[ *read more* ](apps/neanes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neanes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neanes) |
 | <img src="icons/neon.png" width="48" height="48"> | [***neon***](apps/neon.md) | *Light wallet for NEO blockchain.*..[ *read more* ](apps/neon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neon) |
+| <img src="icons/neovide.png" width="48" height="48"> | [***neovide***](apps/neovide.md) | *No Nonsense Neovim Client in Rust*..[ *read more* ](apps/neovide.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neovide) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neovide) |
 | <img src="icons/nepaliunicode.png" width="48" height="48"> | [***nepaliunicode***](apps/nepaliunicode.md) | *An Unicode Converter app for Windows, OS X and Linux.*..[ *read more* ](apps/nepaliunicode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nepaliunicode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nepaliunicode) |
 | <img src="icons/nest-desktop.png" width="48" height="48"> | [***nest-desktop***](apps/nest-desktop.md) | *A web-based GUI application for NEST Simulator.*..[ *read more* ](apps/nest-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nest-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nest-desktop) |
 | <img src="icons/netbeans.png" width="48" height="48"> | [***netbeans***](apps/netbeans.md) | *Apache NetBeans installers.*..[ *read more* ](apps/netbeans.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/netbeans) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/netbeans) |
