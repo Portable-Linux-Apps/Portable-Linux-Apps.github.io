@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **143** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **144** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -165,6 +165,7 @@
 | <img src="icons/yangdownloader.png" width="48" height="48"> | [***yangdownloader***](apps/yangdownloader.md) | *Downloads best-quality audio and video from YouTube.*..[ *read more* ](apps/yangdownloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yangdownloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yangdownloader) |
 | <img src="icons/ym-desktop.png" width="48" height="48"> | [***ym-desktop***](apps/ym-desktop.md) | *The YouTube music desktop app.*..[ *read more* ](apps/ym-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ym-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ym-desktop) |
 | <img src="icons/youtube-downloader.png" width="48" height="48"> | [***youtube-downloader***](apps/youtube-downloader.md) | *Download video/audio from youtube (and instagram) videos.*..[ *read more* ](apps/youtube-downloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtube-downloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtube-downloader) |
+| <img src="icons/youtube-download.png" width="48" height="48"> | [***youtube-download***](apps/youtube-download.md) | *GUI and CLI for downloading YouTube video/audio.*..[ *read more* ](apps/youtube-download.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtube-download) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtube-download) |
 | <img src="icons/youtube-music.png" width="48" height="48"> | [***youtube-music***](apps/youtube-music.md) | *Unofficial. Amazing electron wrapper for YouTube Music featuring plugins.*..[ *read more* ](apps/youtube-music.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtube-music) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtube-music) |
 | <img src="icons/youtubesearchfilter.png" width="48" height="48"> | [***youtubesearchfilter***](apps/youtubesearchfilter.md) | *YouTube searches with/without a pre-filter from CLI.*..[ *read more* ](apps/youtubesearchfilter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtubesearchfilter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtubesearchfilter) |
 | <img src="icons/yt-dlandcut.png" width="48" height="48"> | [***yt-dlandcut***](apps/yt-dlandcut.md) | *Download and cut Youtube videos by providing url and time range.*..[ *read more* ](apps/yt-dlandcut.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yt-dlandcut) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yt-dlandcut) |
