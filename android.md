@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **30** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **31** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -39,6 +39,7 @@
 | <img src="icons/dezor.png" width="48" height="48"> | [***dezor***](apps/dezor.md) | *The web browser including VPN and Adblocker.*..[ *read more* ](apps/dezor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dezor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dezor) |
 | <img src="icons/fastboot.png" width="48" height="48"> | [***fastboot***](apps/fastboot.md) | *Tool to flash Android devices. This script installs the full "platform-tools" suite.*..[ *read more* ](apps/fastboot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fastboot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fastboot) |
 | <img src="icons/firetv-toolkit.png" width="48" height="48"> | [***firetv-toolkit***](apps/firetv-toolkit.md) | *Android-Toolkit, a GUI for adb, modify android devices.*..[ *read more* ](apps/firetv-toolkit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firetv-toolkit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firetv-toolkit) |
+| <img src="icons/flyingcarpet.png" width="48" height="48"> | [***flyingcarpet***](apps/flyingcarpet.md) | *Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.*..[ *read more* ](apps/flyingcarpet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flyingcarpet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flyingcarpet) |
 | <img src="icons/guiscrcpy.png" width="48" height="48"> | [***guiscrcpy***](apps/guiscrcpy.md) | *GUI integration for android screen mirroring system.*..[ *read more* ](apps/guiscrcpy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/guiscrcpy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/guiscrcpy) |
 | <img src="icons/joy2droidx.png" width="48" height="48"> | [***joy2droidx***](apps/joy2droidx.md) | *Turn Android phones into virtual Xbox 360 controller.*..[ *read more* ](apps/joy2droidx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/joy2droidx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/joy2droidx) |
 | <img src="icons/linphone.png" width="48" height="48"> | [***linphone***](apps/linphone.md) | *A libre SIP client.*..[ *read more* ](apps/linphone.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/linphone) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/linphone) |
