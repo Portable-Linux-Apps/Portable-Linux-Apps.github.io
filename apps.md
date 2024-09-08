@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed all **2163** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2164** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -432,6 +432,7 @@
 | <img src="icons/dataset-annotator.png" width="48" height="48"> | [***dataset-annotator***](apps/dataset-annotator.md) | *An annotation tool for a dataset.*..[ *read more* ](apps/dataset-annotator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dataset-annotator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dataset-annotator) |
 | <img src="icons/datcord.png" width="48" height="48"> | [***datcord***](apps/datcord.md) | *Discord client.*..[ *read more* ](apps/datcord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/datcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/datcord) |
 | <img src="icons/dawnlightsearch.png" width="48" height="48"> | [***dawnlightsearch***](apps/dawnlightsearch.md) | *A Linux version of Everything Search Engine.*..[ *read more* ](apps/dawnlightsearch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dawnlightsearch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dawnlightsearch) |
+| <img src="icons/dbeaver-ce.png" width="48" height="48"> | [***dbeaver-ce***](apps/dbeaver-ce.md) | *Unofficial, DBeaver Community is a free cross-platform database tool for developers, database administrators, analysts, and everyone working with data.*..[ *read more* ](apps/dbeaver-ce.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dbeaver-ce) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dbeaver-ce) |
 | <img src="icons/dbee.png" width="48" height="48"> | [***dbee***](apps/dbee.md) | *Fast & Minimalistic Database Browser.*..[ *read more* ](apps/dbee.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dbee) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dbee) |
 | <img src="icons/dbet-wallet.png" width="48" height="48"> | [***dbet-wallet***](apps/dbet-wallet.md) | *DBET Wallet.*..[ *read more* ](apps/dbet-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dbet-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dbet-wallet) |
 | <img src="icons/dbgate.png" width="48" height="48"> | [***dbgate***](apps/dbgate.md) | *Opensource database administration tool*..[ *read more* ](apps/dbgate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dbgate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dbgate) |
