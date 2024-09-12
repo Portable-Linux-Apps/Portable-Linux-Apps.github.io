@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **98** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **99** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -43,6 +43,7 @@
 | <img src="icons/dust3d.png" width="48" height="48"> | [***dust3d***](apps/dust3d.md) | *3D modeling software for games, 3D printing, and so on.*..[ *read more* ](apps/dust3d.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dust3d) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dust3d) |
 | <img src="icons/ente-auth.png" width="48" height="48"> | [***ente-auth***](apps/ente-auth.md) | *Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos.*..[ *read more* ](apps/ente-auth.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ente-auth) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ente-auth) |
 | <img src="icons/ente-photos.png" width="48" height="48"> | [***ente-photos***](apps/ente-photos.md) | *Binary releases of the Ente Photos desktop app.*..[ *read more* ](apps/ente-photos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ente-photos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ente-photos) |
+| <img src="icons/escrcpy.png" width="48" height="48"> | [***escrcpy***](apps/escrcpy.md) | *Graphical Scrcpy to display and control Android, devices powered by Electron.*..[ *read more* ](apps/escrcpy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/escrcpy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/escrcpy) |
 | <img src="icons/esearch.png" width="48" height="48"> | [***esearch***](apps/esearch.md) | *Screenshot OCR search translate search for picture paste...*..[ *read more* ](apps/esearch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/esearch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/esearch) |
 | <img src="icons/evoplex.png" width="48" height="48"> | [***evoplex***](apps/evoplex.md) | *Agent-based modeling.*..[ *read more* ](apps/evoplex.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/evoplex) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/evoplex) |
 | <img src="icons/feebas.png" width="48" height="48"> | [***feebas***](apps/feebas.md) | *Screenshot comparison tool for identifying visual regressions.*..[ *read more* ](apps/feebas.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/feebas) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/feebas) |

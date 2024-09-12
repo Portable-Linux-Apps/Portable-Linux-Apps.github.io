@@ -1,8 +1,8 @@
-# BITWARDEN
+# SPECIAL-EUREKA
 
- Bitwarden client apps (web, browser extension, desktop, and cli).
+ A desktop mangareader built in Tauri and React
 
- SITE: https://github.com/bitwarden/clients
+ SITE: https://github.com/tonymushah/special-eureka
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

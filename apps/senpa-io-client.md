@@ -1,8 +1,8 @@
-# BITWARDEN
+# SENPA-IO-CLIENT
 
- Bitwarden client apps (web, browser extension, desktop, and cli).
+ Official Client for Senpa.io
 
- SITE: https://github.com/bitwarden/clients
+ SITE: https://github.com/NullDev/senpa-io-client
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **148** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **149** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -25,6 +25,7 @@
 | <img src="icons/ant-downloader.png" width="48" height="48"> | [***ant-downloader***](apps/ant-downloader.md) | *BitTorrent Client developed by golang, angular, electron.*..[ *read more* ](apps/ant-downloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ant-downloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ant-downloader) |
 | <img src="icons/beeper.png" width="48" height="48"> | [***beeper***](apps/beeper.md) | *All your chats in one app.*..[ *read more* ](apps/beeper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beeper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beeper) |
 | <img src="icons/bettercrewlink.png" width="48" height="48"> | [***bettercrewlink***](apps/bettercrewlink.md) | *Free, open, Among Us proximity voice chat.*..[ *read more* ](apps/bettercrewlink.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bettercrewlink) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bettercrewlink) |
+| <img src="icons/binglite.png" width="48" height="48"> | [***binglite***](apps/binglite.md) | *A lightweight new Bing (AI chat) desktop application based on Tauri.*..[ *read more* ](apps/binglite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/binglite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/binglite) |
 | <img src="icons/botframework-emulator.png" width="48" height="48"> | [***botframework-emulator***](apps/botframework-emulator.md) | *Test and debug chat bots built with Bot Framework SDK.*..[ *read more* ](apps/botframework-emulator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/botframework-emulator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/botframework-emulator) |
 | <img src="icons/brave-appimage.png" width="48" height="48"> | [***brave-appimage***](apps/brave-appimage.md) | *Unofficial, a privacy oriented Web Browser based on Chromium, this is the "stable" release.*..[ *read more* ](apps/brave-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-appimage) |
 | <img src="icons/brave.png" width="48" height="48"> | [***brave***](apps/brave.md) | *A privacy oriented Web Browser based on Chromium, this is the official "stable" release.*..[ *read more* ](apps/brave.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave) |

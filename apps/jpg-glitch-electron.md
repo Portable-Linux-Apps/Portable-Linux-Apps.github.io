@@ -1,8 +1,8 @@
-# BITWARDEN
+# JPG-GLITCH-ELECTRON
 
- Bitwarden client apps (web, browser extension, desktop, and cli).
+ Desktop app for glitching images.
 
- SITE: https://github.com/bitwarden/clients
+ SITE: https://github.com/snorpey/jpg-glitch-electron
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

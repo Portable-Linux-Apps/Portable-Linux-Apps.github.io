@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **125** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **126** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -28,6 +28,7 @@
 | <img src="icons/asunder.png" width="48" height="48"> | [***asunder***](apps/asunder.md) | *Unofficial. Audio CD ripper and encoder, WAV, MP3, OGG, FLAC, Opus, AAC....*..[ *read more* ](apps/asunder.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/asunder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/asunder) |
 | <img src="icons/audacious.png" width="48" height="48"> | [***audacious***](apps/audacious.md) | *Unofficial. An open source audio and music player, descendant of XMMS.*..[ *read more* ](apps/audacious.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audacious) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audacious) |
 | <img src="icons/audacity.png" width="48" height="48"> | [***audacity***](apps/audacity.md) | *Multiplatform Audio Editor.*..[ *read more* ](apps/audacity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audacity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audacity) |
+| <img src="icons/audapolis.png" width="48" height="48"> | [***audapolis***](apps/audapolis.md) | *An editor for spoken-word audio with automatic transcription.*..[ *read more* ](apps/audapolis.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audapolis) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audapolis) |
 | <img src="icons/audiomoth.png" width="48" height="48"> | [***audiomoth***](apps/audiomoth.md) | *Configuration app for the AudioMoth acoustic monitoring device.*..[ *read more* ](apps/audiomoth.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audiomoth) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audiomoth) |
 | <img src="icons/auryo.png" width="48" height="48"> | [***auryo***](apps/auryo.md) | *An audio/music desktop client for SoundCloud.*..[ *read more* ](apps/auryo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/auryo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/auryo) |
 | <img src="icons/bodacious.png" width="48" height="48"> | [***bodacious***](apps/bodacious.md) | *A bodacious music player.*..[ *read more* ](apps/bodacious.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bodacious) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bodacious) |

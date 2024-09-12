@@ -1,8 +1,8 @@
-# BITWARDEN
+# AUDAPOLIS
 
- Bitwarden client apps (web, browser extension, desktop, and cli).
+ An editor for spoken-word audio with automatic transcription.
 
- SITE: https://github.com/bitwarden/clients
+ SITE: https://github.com/bugbakery/audapolis
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
