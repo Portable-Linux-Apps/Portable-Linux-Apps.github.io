@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **191** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **192** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -201,6 +201,7 @@
 | <img src="icons/reliefvalve.png" width="48" height="48"> | [***reliefvalve***](apps/reliefvalve.md) | *Helps manage the Steam client application.*..[ *read more* ](apps/reliefvalve.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/reliefvalve) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/reliefvalve) |
 | <img src="icons/retroarch.png" width="48" height="48"> | [***retroarch***](apps/retroarch.md) | *Frontend for emulators, game engines and media players.*..[ *read more* ](apps/retroarch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retroarch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retroarch) |
 | <img src="icons/revealed.png" width="48" height="48"> | [***revealed***](apps/revealed.md) | *A platform and store for apps, games, and more.*..[ *read more* ](apps/revealed.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/revealed) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/revealed) |
+| <img src="icons/riichi-city.png" width="48" height="48"> | [***riichi-city***](apps/riichi-city.md) | *A competitive urban-style Anime mahjong game, featuring beginner-friendly mahjong tutorials.*..[ *read more* ](apps/riichi-city.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/riichi-city) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/riichi-city) |
 | <img src="icons/rpcs3.png" width="48" height="48"> | [***rpcs3***](apps/rpcs3.md) | *An open-source PlayStation 3 emulator/debugger written in C++.*..[ *read more* ](apps/rpcs3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rpcs3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rpcs3) |
 | <img src="icons/ryujinx.png" width="48" height="48"> | [***ryujinx***](apps/ryujinx.md) | *An open-source Nintendo Switch emulator created by gdkchan.*..[ *read more* ](apps/ryujinx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ryujinx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ryujinx) |
 | <img src="icons/ryujinx-appimage.png" width="48" height="48"> | [***ryujinx-appimage***](apps/ryujinx-appimage.md) | *Unofficial AppImage of the Ryujinx Nintendo Switch emulator.*..[ *read more* ](apps/ryujinx-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ryujinx-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ryujinx-appimage) |

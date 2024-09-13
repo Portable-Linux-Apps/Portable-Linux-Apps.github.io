@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **127** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **128** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -31,6 +31,7 @@
 | <img src="icons/audapolis.png" width="48" height="48"> | [***audapolis***](apps/audapolis.md) | *An editor for spoken-word audio with automatic transcription.*..[ *read more* ](apps/audapolis.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audapolis) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audapolis) |
 | <img src="icons/audiomoth.png" width="48" height="48"> | [***audiomoth***](apps/audiomoth.md) | *Configuration app for the AudioMoth acoustic monitoring device.*..[ *read more* ](apps/audiomoth.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audiomoth) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audiomoth) |
 | <img src="icons/auryo.png" width="48" height="48"> | [***auryo***](apps/auryo.md) | *An audio/music desktop client for SoundCloud.*..[ *read more* ](apps/auryo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/auryo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/auryo) |
+| <img src="icons/bloomee.png" width="48" height="48"> | [***bloomee***](apps/bloomee.md) | *Music app designed to bring you ad-free tunes from various sources.*..[ *read more* ](apps/bloomee.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bloomee) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bloomee) |
 | <img src="icons/bodacious.png" width="48" height="48"> | [***bodacious***](apps/bodacious.md) | *A bodacious music player.*..[ *read more* ](apps/bodacious.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bodacious) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bodacious) |
 | <img src="icons/cadmus.png" width="48" height="48"> | [***cadmus***](apps/cadmus.md) | *Pulse Audio real-time noise suppression plugin.*..[ *read more* ](apps/cadmus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cadmus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cadmus) |
 | <img src="icons/castersoundboard.png" width="48" height="48"> | [***castersoundboard***](apps/castersoundboard.md) | *Soundboard for hot-keying and playing back sounds.*..[ *read more* ](apps/castersoundboard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/castersoundboard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/castersoundboard) |
