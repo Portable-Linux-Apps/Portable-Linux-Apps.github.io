@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **126** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **127** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -37,6 +37,7 @@
 | <img src="icons/cider.png" width="48" height="48"> | [***cider***](apps/cider.md) | *A new cross-platform Apple Music experience with performance in mind.*..[ *read more* ](apps/cider.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cider) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cider) |
 | <img src="icons/clementineremote.png" width="48" height="48"> | [***clementineremote***](apps/clementineremote.md) | *Remote for Clementine Music Player.*..[ *read more* ](apps/clementineremote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clementineremote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clementineremote) |
 | <img src="icons/cocomusic.png" width="48" height="48"> | [***cocomusic***](apps/cocomusic.md) | *A simple music player built by electron and vue.*..[ *read more* ](apps/cocomusic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cocomusic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cocomusic) |
+| <img src="icons/code-radio.png" width="48" height="48"> | [***code-radio***](apps/code-radio.md) | *A command line music radio client for coderadio.freecodecamp.org, written in Rust.*..[ *read more* ](apps/code-radio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/code-radio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/code-radio) |
 | <img src="icons/converter432hz.png" width="48" height="48"> | [***converter432hz***](apps/converter432hz.md) | *Converts and re-encodes music to 432hz.*..[ *read more* ](apps/converter432hz.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/converter432hz) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/converter432hz) |
 | <img src="icons/deadbeef.png" width="48" height="48"> | [***deadbeef***](apps/deadbeef.md) | *A modular cross-platform audio player.*..[ *read more* ](apps/deadbeef.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deadbeef) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deadbeef) |
 | <img src="icons/deadbeef-appimage.png" width="48" height="48"> | [***deadbeef-appimage***](apps/deadbeef-appimage.md) | *Unofficial AppImage of the DeaDBeeF music player. Stable build.*..[ *read more* ](apps/deadbeef-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deadbeef-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deadbeef-appimage) |
