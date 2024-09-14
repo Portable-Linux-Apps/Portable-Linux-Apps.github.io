@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed all **2245** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2244** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1192,7 +1192,6 @@
 | <img src="icons/mdl.png" width="48" height="48"> | [***mdl***](apps/mdl.md) | *MDL wallet.*..[ *read more* ](apps/mdl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mdl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mdl) |
 | <img src="icons/mdsilo-app.png" width="48" height="48"> | [***mdsilo-app***](apps/mdsilo-app.md) | *Lightweight Knowledge Base and Feed Reader.*..[ *read more* ](apps/mdsilo-app.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mdsilo-app) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mdsilo-app) |
 | <img src="icons/mdview.png" width="48" height="48"> | [***mdview***](apps/mdview.md) | *Application that renders and displays Markdown files.*..[ *read more* ](apps/mdview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mdview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mdview) |
-| <img src="icons/mdx.png" width="48" height="48"> | [***mdx***](apps/mdx.md) | *CLI program for downloading manga from the MangaDex website.*..[ *read more* ](apps/mdx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mdx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mdx) |
 | <img src="icons/measur.png" width="48" height="48"> | [***measur***](apps/measur.md) | *Energy efficiency calculation app for use with industrial equipment.*..[ *read more* ](apps/measur.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/measur) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/measur) |
 | <img src="icons/mechvibes.png" width="48" height="48"> | [***mechvibes***](apps/mechvibes.md) | *Play mechanical keyboard sounds as you type.*..[ *read more* ](apps/mechvibes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mechvibes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mechvibes) |
 | <img src="icons/mediachips.png" width="48" height="48"> | [***mediachips***](apps/mediachips.md) | *Manage your videos, add any metadata to them and play them.*..[ *read more* ](apps/mediachips.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mediachips) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mediachips) |

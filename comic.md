@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **29** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **28** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -38,7 +38,6 @@
 | <img src="icons/mangal.png" width="48" height="48"> | [***mangal***](apps/mangal.md) | *Most advanced, yet simple CLI manga downloader in the universe!*..[ *read more* ](apps/mangal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangal) |
 | <img src="icons/manga-tui.png" width="48" height="48"> | [***manga-tui***](apps/manga-tui.md) | *Terminal-based manga reader and downloader with image support.*..[ *read more* ](apps/manga-tui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/manga-tui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/manga-tui) |
 | <img src="icons/mangayomi.png" width="48" height="48"> | [***mangayomi***](apps/mangayomi.md) | *Application for reading manga and watching anime.*..[ *read more* ](apps/mangayomi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangayomi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangayomi) |
-| <img src="icons/mdx.png" width="48" height="48"> | [***mdx***](apps/mdx.md) | *CLI program for downloading manga from the MangaDex website.*..[ *read more* ](apps/mdx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mdx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mdx) |
 | <img src="icons/miru.png" width="48" height="48"> | [***miru***](apps/miru.md) | *Bittorrent streaming software for cats. Stream anime torrents.*..[ *read more* ](apps/miru.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/miru) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/miru) |
 | <img src="icons/opencomic.png" width="48" height="48"> | [***opencomic***](apps/opencomic.md) | *Comic and Manga reader, written with Node.js and using Electron.*..[ *read more* ](apps/opencomic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opencomic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opencomic) |
 | <img src="icons/peruse.png" width="48" height="48"> | [***peruse***](apps/peruse.md) | *A reader application for comic books.*..[ *read more* ](apps/peruse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/peruse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/peruse) |
