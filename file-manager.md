@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **20** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **21** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -21,6 +21,7 @@
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
 | <img src="icons/camelot.png" width="48" height="48"> | [***camelot***](apps/camelot.md) | *Camelot is cross-platform file manager written in C.*..[ *read more* ](apps/camelot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/camelot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/camelot) |
+| <img src="icons/cask.png" width="48" height="48"> | [***cask***](apps/cask.md) | *A universal, distributed binary file manager.*..[ *read more* ](apps/cask.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cask) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cask) |
 | <img src="icons/clifm.png" width="48" height="48"> | [***clifm***](apps/clifm.md) | *The shell-like, command line terminal file manager simple, fast, extensible, and lightweight as hell.*..[ *read more* ](apps/clifm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clifm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clifm) |
 | <img src="icons/cloud-browser.png" width="48" height="48"> | [***cloud-browser***](apps/cloud-browser.md) | *Access to files located in various cloud services.*..[ *read more* ](apps/cloud-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cloud-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cloud-browser) |
 | <img src="icons/corefm.png" width="48" height="48"> | [***corefm***](apps/corefm.md) | *A lightweight file-manager for C Suite.*..[ *read more* ](apps/corefm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/corefm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/corefm) |

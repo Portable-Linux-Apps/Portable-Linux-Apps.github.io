@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **28** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **29** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -29,6 +29,7 @@
 | <img src="icons/cbetar2.png" width="48" height="48"> | [***cbetar2***](apps/cbetar2.md) | *ePub viewer supporting fetching and displaying HTML as ePub.*..[ *read more* ](apps/cbetar2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cbetar2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cbetar2) |
 | <img src="icons/comic-book-reader.png" width="48" height="48"> | [***comic-book-reader***](apps/comic-book-reader.md) | *Reader and converter for cbz, cbr, epub and pdf files.*..[ *read more* ](apps/comic-book-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/comic-book-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/comic-book-reader) |
 | <img src="icons/comic-reader.png" width="48" height="48"> | [***comic-reader***](apps/comic-reader.md) | *Electron based comic reader.*..[ *read more* ](apps/comic-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/comic-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/comic-reader) |
+| <img src="icons/comics-downloader.png" width="48" height="48"> | [***comics-downloader***](apps/comics-downloader.md) | *Tool to download comics and manga in pdf/epub/cbr/cbz from a website.*..[ *read more* ](apps/comics-downloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/comics-downloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/comics-downloader) |
 | <img src="icons/comictagger.png" width="48" height="48"> | [***comictagger***](apps/comictagger.md) | *A multi-platform app for writing metadata to digital comics.*..[ *read more* ](apps/comictagger.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/comictagger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/comictagger) |
 | <img src="icons/cosmic-comics.png" width="48" height="48"> | [***cosmic-comics***](apps/cosmic-comics.md) | *Web Server based Comics / Manga Collectionner & viewer.*..[ *read more* ](apps/cosmic-comics.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cosmic-comics) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cosmic-comics) |
 | <img src="icons/eplee.png" width="48" height="48"> | [***eplee***](apps/eplee.md) | *Sweet, simple epub reader.*..[ *read more* ](apps/eplee.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eplee) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eplee) |
