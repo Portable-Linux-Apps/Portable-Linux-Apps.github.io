@@ -273,7 +273,7 @@ wget -q https://raw.githubusercontent.com/ivan-hc/AM/main/AM-INSTALLER
 chmod a+x ./AM-INSTALLER
 ./AM-INSTALLER
 ```
-*Type "1" to install "AM" (requires "sudo"/"`doas`" password), "2" to install "AppMan". Any other key will abort the installation.*
+*Type "1" to install "AM" (requires "`sudo`"/"`doas`" password), "2" to install "AppMan". Any other key will abort the installation.*
 
 | ![AM-INSTALLER](https://github.com/user-attachments/assets/82b21979-e99d-4bee-b466-716bac1e7e45) |
 | - |
@@ -291,7 +291,7 @@ chmod a+x ./AM-INSTALLER
 - *"`wget`" to download all programs and update "AM"/"AppMan" itself.*
 
 #### Dependency only for "AM"
-- *"`sudo`" or "`doas`", required by "AM" to install/remove programs, sandbox AppImages and enable/disable bash-completion.*
+- *"`sudo`" or "`doas`", required by "AM" to install/remove programs and sandbox AppImages.*
 
 #### Extra dependences (recommended)
 *The following are optional dependencies that some programs may require:*
