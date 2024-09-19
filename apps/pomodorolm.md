@@ -1,8 +1,8 @@
-# SPTLRX
+# POMODOROLM
 
- Synchronized lyrics in your terminal
+ A simple, good looking and multi-platform pomodoro tracker
 
- SITE: https://github.com/raitonoberu/sptlrx
+ SITE: https://github.com/vjousse/pomodorolm
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

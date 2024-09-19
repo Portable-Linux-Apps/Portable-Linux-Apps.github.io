@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **129** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **130** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -75,6 +75,7 @@
 | <img src="icons/lovelive.png" width="48" height="48"> | [***lovelive***](apps/lovelive.md) | *A LoveLiver Music Player.*..[ *read more* ](apps/lovelive.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lovelive) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lovelive) |
 | <img src="icons/lx-music-desktop.png" width="48" height="48"> | [***lx-music-desktop***](apps/lx-music-desktop.md) | *一个基于electron的音乐软件.*..[ *read more* ](apps/lx-music-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lx-music-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lx-music-desktop) |
 | <img src="icons/mcpodcast.png" width="48" height="48"> | [***mcpodcast***](apps/mcpodcast.md) | *Electron app for tasks around Podcast mp3 files.*..[ *read more* ](apps/mcpodcast.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mcpodcast) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mcpodcast) |
+| <img src="icons/mechtype.png" width="48" height="48"> | [***mechtype***](apps/mechtype.md) | *A lightweight app designed to elevate your typing experience by allowing you to enjoy custom soundtracks with every keystroke.*..[ *read more* ](apps/mechtype.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mechtype) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mechtype) |
 | <img src="icons/mechvibes.png" width="48" height="48"> | [***mechvibes***](apps/mechvibes.md) | *Play mechanical keyboard sounds as you type.*..[ *read more* ](apps/mechvibes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mechvibes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mechvibes) |
 | <img src="icons/media-downloader.png" width="48" height="48"> | [***media-downloader***](apps/media-downloader.md) | *Cross-platform audio/video downloader.*..[ *read more* ](apps/media-downloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/media-downloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/media-downloader) |
 | <img src="icons/mediainfo.png" width="48" height="48"> | [***mediainfo***](apps/mediainfo.md) | *Supplies technical & tag information about a video or audio file.*..[ *read more* ](apps/mediainfo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mediainfo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mediainfo) |

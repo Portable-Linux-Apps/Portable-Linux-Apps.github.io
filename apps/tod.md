@@ -1,8 +1,8 @@
-# SPTLRX
+# TOD
 
- Synchronized lyrics in your terminal
+ An unofficial Todoist command line client written in Rust
 
- SITE: https://github.com/raitonoberu/sptlrx
+ SITE: https://github.com/alanvardy/tod
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

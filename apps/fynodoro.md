@@ -1,8 +1,8 @@
-# SPTLRX
+# FYNODORO
 
- Synchronized lyrics in your terminal
+ Fynodoro, the Pomodoro Widget
 
- SITE: https://github.com/raitonoberu/sptlrx
+ SITE: https://github.com/tomsquest/fynodoro
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

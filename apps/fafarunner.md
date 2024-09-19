@@ -1,8 +1,8 @@
-# SPTLRX
+# FAFARUNNER
 
- Synchronized lyrics in your terminal
+ A game developed using flutter and flame.
 
- SITE: https://github.com/raitonoberu/sptlrx
+ SITE: https://github.com/fafarunner/fafarunner
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
