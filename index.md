@@ -387,7 +387,7 @@ appman -R {PROGRAM1} {PROGRAM2} {PROGRAM3}...
 
 *to have a list of the installed programs use the option `-f` or `files` (syntax `am -f` or `appman -f`).*
 
-*See also "[How to update or remove apps manually", at [github.com/ivan-hc/AM#how-to-update-or-remove-apps-manually](https://github.com/ivan-hc/AM#how-to-update-or-remove-apps-manually).*
+*See also "How to update or remove apps manually", at [github.com/ivan-hc/AM#how-to-update-or-remove-apps-manually](https://github.com/ivan-hc/AM#how-to-update-or-remove-apps-manually).*
 
 ------------------------------------------------------------------------
 ### External links index
