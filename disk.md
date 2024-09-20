@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **16** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **17** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -26,6 +26,7 @@
 | <img src="icons/etcher.png" width="48" height="48"> | [***etcher***](apps/etcher.md) | *Flash OS images to SD cards and USB drives, Balena Etcher.*..[ *read more* ](apps/etcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/etcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/etcher) |
 | <img src="icons/etcher-latest.png" width="48" height="48"> | [***etcher-latest***](apps/etcher-latest.md) | *Flash OS images to SD cards and USB drives, Balena Etcher.*..[ *read more* ](apps/etcher-latest.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/etcher-latest) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/etcher-latest) |
 | <img src="icons/filelight.png" width="48" height="48"> | [***filelight***](apps/filelight.md) | *Unofficial. View disk usage information. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/filelight.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filelight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filelight) |
+| <img src="icons/gncdu.png" width="48" height="48"> | [***gncdu***](apps/gncdu.md) | *Implements NCurses Disk Usage(ncdu) with golang.*..[ *read more* ](apps/gncdu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gncdu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gncdu) |
 | <img src="icons/isoimagewriter.png" width="48" height="48"> | [***isoimagewriter***](apps/isoimagewriter.md) | *Write an ISO Image to a USB Disk. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/isoimagewriter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/isoimagewriter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/isoimagewriter) |
 | <img src="icons/itusb1-manager.png" width="48" height="48"> | [***itusb1-manager***](apps/itusb1-manager.md) | *Control the ITUSB1 USB Test Switch.*..[ *read more* ](apps/itusb1-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/itusb1-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/itusb1-manager) |
 | <img src="icons/kdf.png" width="48" height="48"> | [***kdf***](apps/kdf.md) | *Unofficial, view Disk Usage. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/kdf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdf) |

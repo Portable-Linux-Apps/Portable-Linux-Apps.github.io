@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **29** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **30** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -36,6 +36,7 @@
 | <img src="icons/fukayo.png" width="48" height="48"> | [***fukayo***](apps/fukayo.md) | *Manga reader.*..[ *read more* ](apps/fukayo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fukayo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fukayo) |
 | <img src="icons/houdoku.png" width="48" height="48"> | [***houdoku***](apps/houdoku.md) | *Manga reader and library manager for the desktop.*..[ *read more* ](apps/houdoku.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/houdoku) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/houdoku) |
 | <img src="icons/kawanime.png" width="48" height="48"> | [***kawanime***](apps/kawanime.md) | *Desktop app for anime fans.*..[ *read more* ](apps/kawanime.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kawanime) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kawanime) |
+| <img src="icons/mangadesk.png" width="48" height="48"> | [***mangadesk***](apps/mangadesk.md) | *Terminal client for MangaDex.*..[ *read more* ](apps/mangadesk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangadesk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangadesk) |
 | <img src="icons/mangal.png" width="48" height="48"> | [***mangal***](apps/mangal.md) | *Most advanced, yet simple CLI manga downloader in the universe!*..[ *read more* ](apps/mangal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangal) |
 | <img src="icons/manga-tui.png" width="48" height="48"> | [***manga-tui***](apps/manga-tui.md) | *Terminal-based manga reader and downloader with image support.*..[ *read more* ](apps/manga-tui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/manga-tui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/manga-tui) |
 | <img src="icons/mangayomi.png" width="48" height="48"> | [***mangayomi***](apps/mangayomi.md) | *Application for reading manga and watching anime.*..[ *read more* ](apps/mangayomi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangayomi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangayomi) |
