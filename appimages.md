@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed the **2026** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2027** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -51,6 +51,7 @@
 | <img src="icons/alduin.png" width="48" height="48"> | [***alduin***](apps/alduin.md) | *An Atom and RSS feed aggregator.*..[ *read more* ](apps/alduin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alduin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alduin) |
 | <img src="icons/alephium-wallet.png" width="48" height="48"> | [***alephium-wallet***](apps/alephium-wallet.md) | *The official Alephium wallet for desktop.*..[ *read more* ](apps/alephium-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alephium-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alephium-wallet) |
 | <img src="icons/alexandria.png" width="48" height="48"> | [***alexandria***](apps/alexandria.md) | *eBook reader built with Tauri, Epub.js, and Typescript.*..[ *read more* ](apps/alexandria.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alexandria) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alexandria) |
+| <img src="icons/alien-tec-ui.png" width="48" height="48"> | [***alien-tec-ui***](apps/alien-tec-ui.md) | *Alien-Tec Tron Matrix Like Shell Terminal User Interface.*..[ *read more* ](apps/alien-tec-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alien-tec-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alien-tec-ui) |
 | <img src="icons/allusion.png" width="48" height="48"> | [***allusion***](apps/allusion.md) | *A desktop application for managing your visual library.*..[ *read more* ](apps/allusion.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/allusion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/allusion) |
 | <img src="icons/alpine-flatimage.png" width="48" height="48"> | [***alpine-flatimage***](apps/alpine-flatimage.md) | *A hybrid of Flatpak sandboxing with AppImage portability.*..[ *read more* ](apps/alpine-flatimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alpine-flatimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alpine-flatimage) |
 | <img src="icons/altair.png" width="48" height="48"> | [***altair***](apps/altair.md) | *The best graphQL client you will ever need.*..[ *read more* ](apps/altair.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/altair) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/altair) |
