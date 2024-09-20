@@ -1,8 +1,8 @@
-# TODOIST
+# TRILIUM
 
- The to-do list to organize work & life.
+ Build your personal knowledge base with Trilium Notes
 
- SITE: https://todoist.com
+ SITE: https://github.com/zadam/trilium
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

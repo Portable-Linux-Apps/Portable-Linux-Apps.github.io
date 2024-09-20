@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **130** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **131** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -130,6 +130,7 @@
 | <img src="icons/sonicvisualiser.png" width="48" height="48"> | [***sonicvisualiser***](apps/sonicvisualiser.md) | *Viewing and analysing the contents of music audio files.*..[ *read more* ](apps/sonicvisualiser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonicvisualiser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonicvisualiser) |
 | <img src="icons/sonixd.png" width="48" height="48"> | [***sonixd***](apps/sonixd.md) | *A full-featured Subsonic/Jellyfin compatible desktop music player.*..[ *read more* ](apps/sonixd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonixd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonixd) |
 | <img src="icons/soundcloud-rpc.png" width="48" height="48"> | [***soundcloud-rpc***](apps/soundcloud-rpc.md) | *A SoundCloud client with Discord Rich Presence and AdBlock.*..[ *read more* ](apps/soundcloud-rpc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soundcloud-rpc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soundcloud-rpc) |
+| <img src="icons/spmp.png" width="48" height="48"> | [***spmp***](apps/spmp.md) | *A YouTube Music client with a focus on customisation of colours and song metadata.*..[ *read more* ](apps/spmp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spmp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spmp) |
 | <img src="icons/spotify.png" width="48" height="48"> | [***spotify***](apps/spotify.md) | *Unofficial. A proprietary music streaming service.*..[ *read more* ](apps/spotify.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify) |
 | <img src="icons/tenacity.png" width="48" height="48"> | [***tenacity***](apps/tenacity.md) | *An easy-to-use, cross-platform multi-track audio editor/recorder.*..[ *read more* ](apps/tenacity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tenacity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tenacity) |
 | <img src="icons/tunepack.png" width="48" height="48"> | [***tunepack***](apps/tunepack.md) | *Finding and download HQ audio files.*..[ *read more* ](apps/tunepack.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tunepack) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tunepack) |

@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **140** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **141** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -110,6 +110,7 @@
 | <img src="icons/smart-media-cutter.png" width="48" height="48"> | [***smart-media-cutter***](apps/smart-media-cutter.md) | *The fastest way to cut and trim streams and long videos.*..[ *read more* ](apps/smart-media-cutter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smart-media-cutter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smart-media-cutter) |
 | <img src="icons/smplayer.png" width="48" height="48"> | [***smplayer***](apps/smplayer.md) | *Media Player with built-in codecs for all audio and video formats.*..[ *read more* ](apps/smplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smplayer) |
 | <img src="icons/spivak.png" width="48" height="48"> | [***spivak***](apps/spivak.md) | *Karaoke player based on GStreamer and Qt5.*..[ *read more* ](apps/spivak.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spivak) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spivak) |
+| <img src="icons/spmp.png" width="48" height="48"> | [***spmp***](apps/spmp.md) | *A YouTube Music client with a focus on customisation of colours and song metadata.*..[ *read more* ](apps/spmp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spmp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spmp) |
 | <img src="icons/spotify.png" width="48" height="48"> | [***spotify***](apps/spotify.md) | *Unofficial. A proprietary music streaming service.*..[ *read more* ](apps/spotify.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify) |
 | <img src="icons/stereophotoview.png" width="48" height="48"> | [***stereophotoview***](apps/stereophotoview.md) | *3d stereoscopic photo/video viewer and editor.*..[ *read more* ](apps/stereophotoview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stereophotoview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stereophotoview) |
 | <img src="icons/streamcapture2.png" width="48" height="48"> | [***streamcapture2***](apps/streamcapture2.md) | *Download video streams.*..[ *read more* ](apps/streamcapture2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/streamcapture2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/streamcapture2) |

@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **108** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **109** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -71,6 +71,7 @@
 | <img src="icons/imagine.png" width="48" height="48"> | [***imagine***](apps/imagine.md) | *PNG/JPEG optimization.*..[ *read more* ](apps/imagine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/imagine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/imagine) |
 | <img src="icons/inkscape-next.png" width="48" height="48"> | [***inkscape-next***](apps/inkscape-next.md) | *Vector-based drawing program, SVG, PDF, AutoCAD..., Unstable.*..[ *read more* ](apps/inkscape-next.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/inkscape-next) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/inkscape-next) |
 | <img src="icons/inkscape.png" width="48" height="48"> | [***inkscape***](apps/inkscape.md) | *Vector-based drawing program, SVG, PDF, AutoCAD..., Stable.*..[ *read more* ](apps/inkscape.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/inkscape) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/inkscape) |
+| <img src="icons/jabref.png" width="48" height="48"> | [***jabref***](apps/jabref.md) | *Graphical Java application for managing BibTeX and biblatex (.bib) databases.*..[ *read more* ](apps/jabref.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jabref) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jabref) |
 | <img src="icons/jdappstreamedit.png" width="48" height="48"> | [***jdappstreamedit***](apps/jdappstreamedit.md) | *A graphical Program to create and edit AppStream files.*..[ *read more* ](apps/jdappstreamedit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jdappstreamedit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jdappstreamedit) |
 | <img src="icons/jddesktopentryedit.png" width="48" height="48"> | [***jddesktopentryedit***](apps/jddesktopentryedit.md) | *A graphical Program to create and edit Desktop Entries.*..[ *read more* ](apps/jddesktopentryedit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jddesktopentryedit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jddesktopentryedit) |
 | <img src="icons/jexiftoolgui.png" width="48" height="48"> | [***jexiftoolgui***](apps/jexiftoolgui.md) | *Java/Swing graphical frontend for ExifTool.*..[ *read more* ](apps/jexiftoolgui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jexiftoolgui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jexiftoolgui) |

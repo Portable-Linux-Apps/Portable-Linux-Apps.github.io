@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **152** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **153** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -138,6 +138,7 @@
 | <img src="icons/sengi.png" width="48" height="48"> | [***sengi***](apps/sengi.md) | *A multi-account desktop client for Mastodon and Pleroma.*..[ *read more* ](apps/sengi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sengi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sengi) |
 | <img src="icons/simplex-chat.png" width="48" height="48"> | [***simplex-chat***](apps/simplex-chat.md) | *First messaging platform operating without user identifiers.*..[ *read more* ](apps/simplex-chat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/simplex-chat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/simplex-chat) |
 | <img src="icons/skype.png" width="48" height="48"> | [***skype***](apps/skype.md) | *Unofficial. VoIP-based videoconferencing, voice calls and instant messaging app.*..[ *read more* ](apps/skype.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/skype) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/skype) |
+| <img src="icons/spmp.png" width="48" height="48"> | [***spmp***](apps/spmp.md) | *A YouTube Music client with a focus on customisation of colours and song metadata.*..[ *read more* ](apps/spmp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spmp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spmp) |
 | <img src="icons/sup.png" width="48" height="48"> | [***sup***](apps/sup.md) | *A Slack client with WhatsApp like UI.*..[ *read more* ](apps/sup.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sup) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sup) |
 | <img src="icons/tc.png" width="48" height="48"> | [***tc***](apps/tc.md) | *A desktop chat client for Twitch.*..[ *read more* ](apps/tc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tc) |
 | <img src="icons/tdlib-rs.png" width="48" height="48"> | [***tdlib-rs***](apps/tdlib-rs.md) | *Rust wrapper around the Telegram Database Library.*..[ *read more* ](apps/tdlib-rs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tdlib-rs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tdlib-rs) |
