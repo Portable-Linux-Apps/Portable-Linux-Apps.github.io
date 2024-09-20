@@ -33,7 +33,7 @@
 | <img src="icons/passky.png" width="48" height="48"> | [***passky***](apps/passky.md) | *Simple and secure password manager.*..[ *read more* ](apps/passky.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/passky) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/passky) |
 | <img src="icons/qmasterpassword.png" width="48" height="48"> | [***qmasterpassword***](apps/qmasterpassword.md) | *A password manager based on Qt.*..[ *read more* ](apps/qmasterpassword.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmasterpassword) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmasterpassword) |
 | <img src="icons/rbw.png" width="48" height="48"> | [***rbw***](apps/rbw.md) | *Unofficial Bitwarden password manager cli.*..[ *read more* ](apps/rbw.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rbw) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rbw) |
-| <img src="icons/swifty.png" width="48" height="48"> | [***swifty***](apps/swifty.md) | *Free Offline-first Password Manager for MacOS, Windows and Linux.*..[ *read more* ](apps/swifty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swifty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swifty) |
+| <img src="icons/swifty.png" width="48" height="48"> | [***swifty***](apps/swifty.md) | *Free Offline-first Password Manager.*..[ *read more* ](apps/swifty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swifty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swifty) |
 
 
 ---
