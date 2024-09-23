@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **59** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **60** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -60,6 +60,7 @@
 | <img src="icons/neon.png" width="48" height="48"> | [***neon***](apps/neon.md) | *Light wallet for NEO blockchain.*..[ *read more* ](apps/neon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neon) |
 | <img src="icons/nexus-wallet.png" width="48" height="48"> | [***nexus-wallet***](apps/nexus-wallet.md) | *Official interface layers of the Nexus Software Stack.*..[ *read more* ](apps/nexus-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nexus-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nexus-wallet) |
 | <img src="icons/niffler.png" width="48" height="48"> | [***niffler***](apps/niffler.md) | *A grin gui wallet.*..[ *read more* ](apps/niffler.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/niffler) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/niffler) |
+| <img src="icons/nix-bucks.png" width="48" height="48"> | [***nix-bucks***](apps/nix-bucks.md) | *A money tracker. Your income and expenses at your control. Finance.*..[ *read more* ](apps/nix-bucks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nix-bucks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nix-bucks) |
 | <img src="icons/nym-wallet.png" width="48" height="48"> | [***nym-wallet***](apps/nym-wallet.md) | *Use the Nym network and take advantage of it.*..[ *read more* ](apps/nym-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nym-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nym-wallet) |
 | <img src="icons/onekey-wallet.png" width="48" height="48"> | [***onekey-wallet***](apps/onekey-wallet.md) | *Open source crypto wallet.*..[ *read more* ](apps/onekey-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/onekey-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/onekey-wallet) |
 | <img src="icons/owallet.png" width="48" height="48"> | [***owallet***](apps/owallet.md) | *A comprehensive Ontology desktop wallet.*..[ *read more* ](apps/owallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/owallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/owallet) |

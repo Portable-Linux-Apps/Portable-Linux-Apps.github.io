@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **86** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **87** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -99,6 +99,7 @@
 | <img src="icons/thorium-reader.png" width="48" height="48"> | [***thorium-reader***](apps/thorium-reader.md) | *Desktop application to read ebooks.*..[ *read more* ](apps/thorium-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thorium-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thorium-reader) |
 | <img src="icons/tipitaka-pali-reader.png" width="48" height="48"> | [***tipitaka-pali-reader***](apps/tipitaka-pali-reader.md) | *A Pali Reading app made in Flutter.*..[ *read more* ](apps/tipitaka-pali-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tipitaka-pali-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tipitaka-pali-reader) |
 | <img src="icons/tweaksophia.png" width="48" height="48"> | [***tweaksophia***](apps/tweaksophia.md) | *An app to automatically renew the books of the SophiA system.*..[ *read more* ](apps/tweaksophia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tweaksophia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tweaksophia) |
+| <img src="icons/unveil.png" width="48" height="48"> | [***unveil***](apps/unveil.md) | *Unveil Rs is a tool to create presentations from markdown inspired by reveal.js, mdbook and zola.*..[ *read more* ](apps/unveil.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unveil) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unveil) |
 | <img src="icons/unyo.png" width="48" height="48"> | [***unyo***](apps/unyo.md) | *Anime streaming and Manga reader desktop app without ads.*..[ *read more* ](apps/unyo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unyo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unyo) |
 | <img src="icons/waifu2x-gui.png" width="48" height="48"> | [***waifu2x-gui***](apps/waifu2x-gui.md) | *An app that upscales anime-styled images, gifs, videos, pdfs.*..[ *read more* ](apps/waifu2x-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/waifu2x-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/waifu2x-gui) |
 | <img src="icons/wolai.png" width="48" height="48"> | [***wolai***](apps/wolai.md) | *A new form of document/note/information system, in chinese.*..[ *read more* ](apps/wolai.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wolai) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wolai) |
