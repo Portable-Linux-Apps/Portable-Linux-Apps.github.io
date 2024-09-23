@@ -428,6 +428,8 @@ appman -R {PROGRAM1} {PROGRAM2} {PROGRAM3}...
   - [How to test an installation script](https://github.com/ivan-hc/AM#how-to-test-an-installation-script)
 - [Third-party databases for applications (NeoDB)](https://github.com/ivan-hc/AM#third-party-databases-for-applications-neodb)
 
+[Instructions for Linux Distro Maintainers](https://github.com/ivan-hc/AM#instructions-for-linux-distro-maintainers)
+
 [Troubleshooting](https://github.com/ivan-hc/AM#troubleshooting)
 - [An application does not work, is old and unsupported](https://github.com/ivan-hc/AM#an-application-does-not-work-is-old-and-unsupported)
 - [Cannot download or update an application](https://github.com/ivan-hc/AM#cannot-download-or-update-an-application)
