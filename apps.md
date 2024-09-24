@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed all **2391** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2392** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -957,6 +957,7 @@
 | <img src="icons/iagoncloudapp.png" width="48" height="48"> | [***iagoncloudapp***](apps/iagoncloudapp.md) | *Iagon Cloud Application.*..[ *read more* ](apps/iagoncloudapp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/iagoncloudapp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/iagoncloudapp) |
 | <img src="icons/ibus-rime.png" width="48" height="48"> | [***ibus-rime***](apps/ibus-rime.md) | *Zhongzhou Yun input method, ibus-rime in AppImage format.*..[ *read more* ](apps/ibus-rime.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ibus-rime) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ibus-rime) |
 | <img src="icons/icalingua++.png" width="48" height="48"> | [***icalingua++***](apps/icalingua++.md) | *A client for QQ and more.*..[ *read more* ](apps/icalingua++.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/icalingua++) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/icalingua++) |
+| <img src="icons/icecat.png" width="48" height="48"> | [***icecat***](apps/icecat.md) | *GNU IceCat is the GNU version of the Firefox web browser.*..[ *read more* ](apps/icecat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/icecat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/icecat) |
 | <img src="icons/icedrive.png" width="48" height="48"> | [***icedrive***](apps/icedrive.md) | *The next generation of cloud storage.*..[ *read more* ](apps/icedrive.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/icedrive) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/icedrive) |
 | <img src="icons/icestudio.png" width="48" height="48"> | [***icestudio***](apps/icestudio.md) | *A real gamechanger in the world of Open Source FPGAs.*..[ *read more* ](apps/icestudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/icestudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/icestudio) |
 | <img src="icons/ideamaker.png" width="48" height="48"> | [***ideamaker***](apps/ideamaker.md) | *3D slicing software, automatically generates support structure.*..[ *read more* ](apps/ideamaker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ideamaker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ideamaker) |
