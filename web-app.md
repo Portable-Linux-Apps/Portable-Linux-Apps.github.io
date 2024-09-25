@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **10** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **11** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -30,6 +30,7 @@
 | <img src="icons/ffwa-whatsapp.png" width="48" height="48"> | [***ffwa-whatsapp***](apps/ffwa-whatsapp.md) | *WebApp & Firefox Profile for WhatsApp.*..[ *read more* ](apps/ffwa-whatsapp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-whatsapp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-whatsapp) |
 | <img src="icons/ffwa-wikipedia.png" width="48" height="48"> | [***ffwa-wikipedia***](apps/ffwa-wikipedia.md) | *WebApp & Firefox Profile for Wikipedia.*..[ *read more* ](apps/ffwa-wikipedia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-wikipedia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-wikipedia) |
 | <img src="icons/ffwa-youtube.png" width="48" height="48"> | [***ffwa-youtube***](apps/ffwa-youtube.md) | *WebApp & Firefox Profile for YouTube.*..[ *read more* ](apps/ffwa-youtube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-youtube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-youtube) |
+| <img src="icons/firework.png" width="48" height="48"> | [***firework***](apps/firework.md) | *Easiest way to turn web applications and sites into desktop applications.*..[ *read more* ](apps/firework.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firework) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firework) |
 | <img src="icons/iheartradio-webapp.png" width="48" height="48"> | [***iheartradio-webapp***](apps/iheartradio-webapp.md) | *Election WebApp for iHeartRadio.*..[ *read more* ](apps/iheartradio-webapp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/iheartradio-webapp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/iheartradio-webapp) |
 | <img src="icons/kanon.png" width="48" height="48"> | [***kanon***](apps/kanon.md) | *Maturita GPJP designed for use with kanon web app.*..[ *read more* ](apps/kanon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kanon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kanon) |
 | <img src="icons/keyrier-json.png" width="48" height="48"> | [***keyrier-json***](apps/keyrier-json.md) | *A CLI/library/webapp to perfom SQL queries on JSON & CSV.*..[ *read more* ](apps/keyrier-json.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keyrier-json) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keyrier-json) |

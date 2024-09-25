@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **145** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **146** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -101,6 +101,7 @@
 | <img src="icons/qprompt.png" width="48" height="48"> | [***qprompt***](apps/qprompt.md) | *Personal teleprompter software for all video creators.*..[ *read more* ](apps/qprompt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qprompt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qprompt) |
 | <img src="icons/quark-player.png" width="48" height="48"> | [***quark-player***](apps/quark-player.md) | *An Electron based Web Video Services Player.*..[ *read more* ](apps/quark-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/quark-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/quark-player) |
 | <img src="icons/real-video-enhancer.png" width="48" height="48"> | [***real-video-enhancer***](apps/real-video-enhancer.md) | *Interpolate and Upscale easily.*..[ *read more* ](apps/real-video-enhancer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/real-video-enhancer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/real-video-enhancer) |
+| <img src="icons/rebaslight.png" width="48" height="48"> | [***rebaslight***](apps/rebaslight.md) | *An easy to use special effects video editor.*..[ *read more* ](apps/rebaslight.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rebaslight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rebaslight) |
 | <img src="icons/rendertune.png" width="48" height="48"> | [***rendertune***](apps/rendertune.md) | *Electron app that uses ffmpeg to combine audio.+image files into video files.*..[ *read more* ](apps/rendertune.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rendertune) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rendertune) |
 | <img src="icons/retroarch.png" width="48" height="48"> | [***retroarch***](apps/retroarch.md) | *Frontend for emulators, game engines and media players.*..[ *read more* ](apps/retroarch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retroarch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retroarch) |
 | <img src="icons/ser-player.png" width="48" height="48"> | [***ser-player***](apps/ser-player.md) | *Video player for SER files used for astronomy-imaging.*..[ *read more* ](apps/ser-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ser-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ser-player) |
