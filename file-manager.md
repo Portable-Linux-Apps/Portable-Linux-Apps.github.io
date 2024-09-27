@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **24** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **25** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -35,6 +35,7 @@
 | <img src="icons/jumpfm.png" width="48" height="48"> | [***jumpfm***](apps/jumpfm.md) | *A file manager that lets you jump.*..[ *read more* ](apps/jumpfm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jumpfm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jumpfm) |
 | <img src="icons/lf.png" width="48" height="48"> | [***lf***](apps/lf.md) | *lf, as in "list files" is a terminal file manager written in Go.*..[ *read more* ](apps/lf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lf) |
 | <img src="icons/nnn.png" width="48" height="48"> | [***nnn***](apps/nnn.md) | *n³ The unorthodox terminal file manager*..[ *read more* ](apps/nnn.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nnn) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nnn) |
+| <img src="icons/shell-assistant.png" width="48" height="48"> | [***shell-assistant***](apps/shell-assistant.md) | *Ad free Terminal SSH & SFTP client File manager and Code editor.*..[ *read more* ](apps/shell-assistant.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shell-assistant) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shell-assistant) |
 | <img src="icons/sigma-file-manager.png" width="48" height="48"> | [***sigma-file-manager***](apps/sigma-file-manager.md) | *A free, open-source, modern file manager.*..[ *read more* ](apps/sigma-file-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sigma-file-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sigma-file-manager) |
 | <img src="icons/superfile.png" width="48" height="48"> | [***superfile***](apps/superfile.md) | *Pretty fancy and modern terminal file manager.*..[ *read more* ](apps/superfile.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/superfile) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/superfile) |
 | <img src="icons/tere.png" width="48" height="48"> | [***tere***](apps/tere.md) | *Terminal file explorer.*..[ *read more* ](apps/tere.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tere) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tere) |

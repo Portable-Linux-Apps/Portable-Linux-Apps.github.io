@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **146** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **147** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -108,6 +108,7 @@
 | <img src="icons/sf-tube.png" width="48" height="48"> | [***sf-tube***](apps/sf-tube.md) | *Watch and download videos without ads.*..[ *read more* ](apps/sf-tube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sf-tube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sf-tube) |
 | <img src="icons/shotcut.png" width="48" height="48"> | [***shotcut***](apps/shotcut.md) | *A powerful Video Editor.*..[ *read more* ](apps/shotcut.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shotcut) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shotcut) |
 | <img src="icons/shutter.png" width="48" height="48"> | [***shutter***](apps/shutter.md) | *Professional converter & compression tool designed by video editors.*..[ *read more* ](apps/shutter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shutter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shutter) |
+| <img src="icons/sinon.png" width="48" height="48"> | [***sinon***](apps/sinon.md) | *A handy video tool.*..[ *read more* ](apps/sinon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sinon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sinon) |
 | <img src="icons/skype.png" width="48" height="48"> | [***skype***](apps/skype.md) | *Unofficial. VoIP-based videoconferencing, voice calls and instant messaging app.*..[ *read more* ](apps/skype.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/skype) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/skype) |
 | <img src="icons/smart-media-cutter.png" width="48" height="48"> | [***smart-media-cutter***](apps/smart-media-cutter.md) | *The fastest way to cut and trim streams and long videos.*..[ *read more* ](apps/smart-media-cutter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smart-media-cutter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smart-media-cutter) |
 | <img src="icons/smplayer.png" width="48" height="48"> | [***smplayer***](apps/smplayer.md) | *Media Player with built-in codecs for all audio and video formats.*..[ *read more* ](apps/smplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smplayer) |

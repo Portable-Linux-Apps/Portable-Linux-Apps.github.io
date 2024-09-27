@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **14** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **15** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -31,6 +31,7 @@
 | <img src="icons/keeweb.png" width="48" height="48"> | [***keeweb***](apps/keeweb.md) | *Free cross-platform password manager compatible with KeePass.*..[ *read more* ](apps/keeweb.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keeweb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keeweb) |
 | <img src="icons/kure.png" width="48" height="48"> | [***kure***](apps/kure.md) | *CLI password manager with sessions.*..[ *read more* ](apps/kure.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kure) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kure) |
 | <img src="icons/passky.png" width="48" height="48"> | [***passky***](apps/passky.md) | *Simple and secure password manager.*..[ *read more* ](apps/passky.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/passky) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/passky) |
+| <img src="icons/passphraser.png" width="48" height="48"> | [***passphraser***](apps/passphraser.md) | *Phrase-based password generator that can use your own list of words.*..[ *read more* ](apps/passphraser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/passphraser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/passphraser) |
 | <img src="icons/qmasterpassword.png" width="48" height="48"> | [***qmasterpassword***](apps/qmasterpassword.md) | *A password manager based on Qt.*..[ *read more* ](apps/qmasterpassword.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmasterpassword) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmasterpassword) |
 | <img src="icons/rbw.png" width="48" height="48"> | [***rbw***](apps/rbw.md) | *Unofficial Bitwarden password manager cli.*..[ *read more* ](apps/rbw.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rbw) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rbw) |
 | <img src="icons/swifty.png" width="48" height="48"> | [***swifty***](apps/swifty.md) | *Free Offline-first Password Manager.*..[ *read more* ](apps/swifty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swifty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swifty) |

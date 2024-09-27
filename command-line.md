@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **198** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **199** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -156,6 +156,7 @@
 | <img src="icons/rocketfetch.png" width="48" height="48"> | [***rocketfetch***](apps/rocketfetch.md) | *A WIP command line system information tool written with multithreading in rust for performance with toml file configuration.*..[ *read more* ](apps/rocketfetch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rocketfetch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rocketfetch) |
 | <img src="icons/rustdict.png" width="48" height="48"> | [***rustdict***](apps/rustdict.md) | *A dictionary CLI tool in Rust inspired by BetaPictoris's dict.*..[ *read more* ](apps/rustdict.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rustdict) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rustdict) |
 | <img src="icons/school-sections.png" width="48" height="48"> | [***school-sections***](apps/school-sections.md) | *This project was generated with Angular CLI v1.7.4.*..[ *read more* ](apps/school-sections.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/school-sections) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/school-sections) |
+| <img src="icons/shell-assistant.png" width="48" height="48"> | [***shell-assistant***](apps/shell-assistant.md) | *Ad free Terminal SSH & SFTP client File manager and Code editor.*..[ *read more* ](apps/shell-assistant.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shell-assistant) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shell-assistant) |
 | <img src="icons/shellcheck.png" width="48" height="48"> | [***shellcheck***](apps/shellcheck.md) | *ShellCheck, a static analysis tool for shell scripts.*..[ *read more* ](apps/shellcheck.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shellcheck) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shellcheck) |
 | <img src="icons/shellharden.png" width="48" height="48"> | [***shellharden***](apps/shellharden.md) | *The corrective bash syntax highlighter.*..[ *read more* ](apps/shellharden.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shellharden) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shellharden) |
 | <img src="icons/simplechroot.png" width="48" height="48"> | [***simplechroot***](apps/simplechroot.md) | *Simple command line chroot with ease.*..[ *read more* ](apps/simplechroot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/simplechroot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/simplechroot) |
