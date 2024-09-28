@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **114** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **113** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -102,7 +102,6 @@
 | <img src="icons/photogimp.png" width="48" height="48"> | [***photogimp***](apps/photogimp.md) | *A patched version of GIMP for Adobe Photoshop users.*..[ *read more* ](apps/photogimp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/photogimp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/photogimp) |
 | <img src="icons/photoname.png" width="48" height="48"> | [***photoname***](apps/photoname.md) | *Rename photo image files based on EXIF shoot date.*..[ *read more* ](apps/photoname.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/photoname) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/photoname) |
 | <img src="icons/photon.png" width="48" height="48"> | [***photon***](apps/photon.md) | *Cross-platform file-transfer application built using flutter. It uses http to transfer files between devices.*..[ *read more* ](apps/photon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/photon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/photon) |
-| <img src="icons/photopea.png" width="48" height="48"> | [***photopea***](apps/photopea.md) | *Advanced Photo Editor for professional use.*..[ *read more* ](apps/photopea.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/photopea) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/photopea) |
 | <img src="icons/photoqt.png" width="48" height="48"> | [***photoqt***](apps/photoqt.md) | *View and manage images.*..[ *read more* ](apps/photoqt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/photoqt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/photoqt) |
 | <img src="icons/photoquick.png" width="48" height="48"> | [***photoquick***](apps/photoquick.md) | *Light-weight image viewer, resize, collage, filters....*..[ *read more* ](apps/photoquick.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/photoquick) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/photoquick) |
 | <img src="icons/phototeleport.png" width="48" height="48"> | [***phototeleport***](apps/phototeleport.md) | *Upload your photos to multiple services at once.*..[ *read more* ](apps/phototeleport.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/phototeleport) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/phototeleport) |
