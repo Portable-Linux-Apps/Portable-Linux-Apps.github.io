@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **199** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **200** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -123,6 +123,7 @@
 | <img src="icons/mp4grep.png" width="48" height="48"> | [***mp4grep***](apps/mp4grep.md) | *CLI for transcribing and searching audio/video files.*..[ *read more* ](apps/mp4grep.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mp4grep) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mp4grep) |
 | <img src="icons/nap.png" width="48" height="48"> | [***nap***](apps/nap.md) | *Code spippets in your terminal.*..[ *read more* ](apps/nap.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nap) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nap) |
 | <img src="icons/navi.png" width="48" height="48"> | [***navi***](apps/navi.md) | *An interactive cheatsheet tool for the command-line.*..[ *read more* ](apps/navi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/navi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/navi) |
+| <img src="icons/nazuna.png" width="48" height="48"> | [***nazuna***](apps/nazuna.md) | *Download Twitter videos using your terminal!*..[ *read more* ](apps/nazuna.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nazuna) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nazuna) |
 | <img src="icons/nnn.png" width="48" height="48"> | [***nnn***](apps/nnn.md) | *n³ The unorthodox terminal file manager*..[ *read more* ](apps/nnn.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nnn) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nnn) |
 | <img src="icons/noter.png" width="48" height="48"> | [***noter***](apps/noter.md) | *Simple serial terminal application.*..[ *read more* ](apps/noter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/noter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/noter) |
 | <img src="icons/npm.png" width="48" height="48"> | [***npm***](apps/npm.md) | *Package manager for Node.js. This script installs the full "node" suite.*..[ *read more* ](apps/npm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/npm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/npm) |
