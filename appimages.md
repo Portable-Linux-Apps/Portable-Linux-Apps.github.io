@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed the **2063** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2064** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -885,6 +885,7 @@
 | <img src="icons/kdeutils.png" width="48" height="48"> | [***kdeutils***](apps/kdeutils.md) | *Unofficial, Full & updatable KDE Utils suite, metapackage.*..[ *read more* ](apps/kdeutils.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdeutils) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdeutils) |
 | <img src="icons/kdiskmark.png" width="48" height="48"> | [***kdiskmark***](apps/kdiskmark.md) | *A simple open-source disk benchmark tool for Linux distros.*..[ *read more* ](apps/kdiskmark.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdiskmark) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdiskmark) |
 | <img src="icons/keepassxc.png" width="48" height="48"> | [***keepassxc***](apps/keepassxc.md) | *Port of the Windows application “Keepass Password Safe”.*..[ *read more* ](apps/keepassxc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keepassxc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keepassxc) |
+| <img src="icons/keepassxc-devel.png" width="48" height="48"> | [***keepassxc-devel***](apps/keepassxc-devel.md) | *Port of the Windows application “Keepass Password Safe”, dev-edition.*..[ *read more* ](apps/keepassxc-devel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keepassxc-devel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keepassxc-devel) |
 | <img src="icons/keeweb.png" width="48" height="48"> | [***keeweb***](apps/keeweb.md) | *Free cross-platform password manager compatible with KeePass.*..[ *read more* ](apps/keeweb.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keeweb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keeweb) |
 | <img src="icons/keibo-moneytracker-x86-64.png" width="48" height="48"> | [***keibo-moneytracker-x86-64***](apps/keibo-moneytracker-x86-64.md) | *Track your income and expenses easily.*..[ *read more* ](apps/keibo-moneytracker-x86-64.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keibo-moneytracker-x86-64) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keibo-moneytracker-x86-64) |
 | <img src="icons/kettleclient.png" width="48" height="48"> | [***kettleclient***](apps/kettleclient.md) | *Client for Kettle REST service.*..[ *read more* ](apps/kettleclient.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kettleclient) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kettleclient) |

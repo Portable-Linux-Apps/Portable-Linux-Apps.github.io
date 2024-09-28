@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **15** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **16** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -28,6 +28,7 @@
 | <img src="icons/gokey.png" width="48" height="48"> | [***gokey***](apps/gokey.md) | *A simple vaultless password manager in Go.*..[ *read more* ](apps/gokey.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gokey) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gokey) |
 | <img src="icons/gopass.png" width="48" height="48"> | [***gopass***](apps/gopass.md) | *The slightly more awesome standard unix password manager for teams.*..[ *read more* ](apps/gopass.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gopass) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gopass) |
 | <img src="icons/keepassxc.png" width="48" height="48"> | [***keepassxc***](apps/keepassxc.md) | *Port of the Windows application “Keepass Password Safe”.*..[ *read more* ](apps/keepassxc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keepassxc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keepassxc) |
+| <img src="icons/keepassxc-devel.png" width="48" height="48"> | [***keepassxc-devel***](apps/keepassxc-devel.md) | *Port of the Windows application “Keepass Password Safe”, dev-edition.*..[ *read more* ](apps/keepassxc-devel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keepassxc-devel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keepassxc-devel) |
 | <img src="icons/keeweb.png" width="48" height="48"> | [***keeweb***](apps/keeweb.md) | *Free cross-platform password manager compatible with KeePass.*..[ *read more* ](apps/keeweb.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keeweb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keeweb) |
 | <img src="icons/kure.png" width="48" height="48"> | [***kure***](apps/kure.md) | *CLI password manager with sessions.*..[ *read more* ](apps/kure.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kure) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kure) |
 | <img src="icons/passky.png" width="48" height="48"> | [***passky***](apps/passky.md) | *Simple and secure password manager.*..[ *read more* ](apps/passky.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/passky) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/passky) |
