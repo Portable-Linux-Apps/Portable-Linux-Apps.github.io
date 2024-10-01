@@ -18,7 +18,11 @@
 
 -----------------
 
-*NOTE, the installer scripts in the "INSTALLER" column are intended for use via "AM", and are therefore dedicated to a system-wide installation of applications (in /opt), and all that "AppMan" does is convert those scripts for local installation, changing the paths. **They are listed here for reading purposes only**. Should you decide to run them manually, the only way to remove the application is to run the command "`sudo /opt/appname/remove`" (where "appname" is the name of the application directory containing the "remove" script).*
+*NOTE, the installer scripts in the "INSTALLER" column are intended for use via "AM", and are therefore dedicated to a system-wide 	installation of applications (in /opt), and all that "AppMan" does is convert those scripts for local installation, changing the paths. 	**They are listed here for reading purposes only**!*
+
+*Should you decide to run them manually, the only way to remove the application is to run 	the command "`sudo /opt/appname/remove`", where "appname" is the name of the application directory containing the "remove" script. 	Likewise, you can also update applications by running the "AM-updater" script in the same directory.*
+
+*The "AM" project allow the autonomy of installed apps, regardless of the presence of "AM" itself in the system. However, it is strongly 	recommended to use "AM" and "AppMan" to take full advantage of all the benefits you could get from an application installed in this way.*
 
 -----------------
 
