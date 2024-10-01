@@ -18,6 +18,10 @@
 
 -----------------
 
+*NOTE, the installer scripts in the "INSTALLER" column are intended for use via "AM", and are therefore dedicated to a system-wide installation of applications (in /opt), and all that "AppMan" does is convert those scripts for local installation, changing the paths. **They are listed here for reading purposes only**. Should you decide to run them manually, the only way to remove the application is to run the command "`sudo /opt/appname/remove`" (where "appname" is the name of the application directory containing the "remove" script).*
+
+-----------------
+
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
 | <img src="icons/baobab-gtk3.png" width="48" height="48"> | [***baobab-gtk3***](apps/baobab-gtk3.md) | *Unofficial. Disk Usage Analyser, version 3.38, for all GNOME4+ haters.*..[ *read more* ](apps/baobab-gtk3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/baobab-gtk3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/baobab-gtk3) |

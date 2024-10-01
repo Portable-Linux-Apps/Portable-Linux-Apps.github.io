@@ -18,6 +18,10 @@
 
 -----------------
 
+*NOTE, the installer scripts in the "INSTALLER" column are intended for use via "AM", and are therefore dedicated to a system-wide installation of applications (in /opt), and all that "AppMan" does is convert those scripts for local installation, changing the paths. **They are listed here for reading purposes only**. Should you decide to run them manually, the only way to remove the application is to run the command "`sudo /opt/appname/remove`" (where "appname" is the name of the application directory containing the "remove" script).*
+
+-----------------
+
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
 | <img src="icons/aichat.png" width="48" height="48"> | [***aichat***](apps/aichat.md) | *AIO AI CLI tool integrating 20+ AI platforms, including OpenAI.*..[ *read more* ](apps/aichat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aichat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aichat) |

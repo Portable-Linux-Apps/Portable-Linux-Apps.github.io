@@ -18,6 +18,10 @@
 
 -----------------
 
+*NOTE, the installer scripts in the "INSTALLER" column are intended for use via "AM", and are therefore dedicated to a system-wide installation of applications (in /opt), and all that "AppMan" does is convert those scripts for local installation, changing the paths. **They are listed here for reading purposes only**. Should you decide to run them manually, the only way to remove the application is to run the command "`sudo /opt/appname/remove`" (where "appname" is the name of the application directory containing the "remove" script).*
+
+-----------------
+
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
 | <img src="icons/actual.png" width="48" height="48"> | [***actual***](apps/actual.md) | *A super fast privacy-focused app for managing your finances.*..[ *read more* ](apps/actual.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/actual) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/actual) |

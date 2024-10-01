@@ -18,6 +18,10 @@
 
 -----------------
 
+*NOTE, the installer scripts in the "INSTALLER" column are intended for use via "AM", and are therefore dedicated to a system-wide installation of applications (in /opt), and all that "AppMan" does is convert those scripts for local installation, changing the paths. **They are listed here for reading purposes only**. Should you decide to run them manually, the only way to remove the application is to run the command "`sudo /opt/appname/remove`" (where "appname" is the name of the application directory containing the "remove" script).*
+
+-----------------
+
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
 | <img src="icons/432hz-player.png" width="48" height="48"> | [***432hz-player***](apps/432hz-player.md) | *Because most music is recorded in 440hz, Audio Player.*..[ *read more* ](apps/432hz-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/432hz-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/432hz-player) |
