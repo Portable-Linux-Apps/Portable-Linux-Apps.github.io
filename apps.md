@@ -20,8 +20,6 @@
 
 *The "AM" project allow the autonomy of installed apps, regardless of the presence of "AM" itself in the system. However, it is strongly 	recommended to use "AM" and "AppMan" to take full advantage of all the benefits you could get from an application installed in this way.*
 
-*"AM"/"AppMan" makes it easy to find and integrate and install applications, quickly, from the command line.*
-
 *If you are here just to download apps manually, click on the program name and check the URL(s) on the application page. This site does not 	provide direct links, for security reasons, but it does provide the exact sources and references where you can find them!*
 
 *Transparency and credibility are the focus of this catalog. Happy exploring!*
