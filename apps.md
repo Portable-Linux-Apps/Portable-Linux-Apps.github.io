@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed all **2415** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2416** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1170,6 +1170,7 @@
 | <img src="icons/kwave.png" width="48" height="48"> | [***kwave***](apps/kwave.md) | *A sound & audio editor designed for the KDE Desktop Environment.*..[ *read more* ](apps/kwave.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kwave) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kwave) |
 | <img src="icons/kweather.png" width="48" height="48"> | [***kweather***](apps/kweather.md) | *A convergent weather application. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/kweather.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kweather) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kweather) |
 | <img src="icons/kwrite.png" width="48" height="48"> | [***kwrite***](apps/kwrite.md) | *Unofficial, KWrite is a text editor by KDE. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/kwrite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kwrite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kwrite) |
+| <img src="icons/labplot.png" width="48" height="48"> | [***labplot***](apps/labplot.md) | *Data Visualization and Analysis software accessible to everyone and trusted by professionals.*..[ *read more* ](apps/labplot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/labplot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/labplot) |
 | <img src="icons/lagrange.png" width="48" height="48"> | [***lagrange***](apps/lagrange.md) | *A Beautiful Gemini Client.*..[ *read more* ](apps/lagrange.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lagrange) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lagrange) |
 | <img src="icons/laidout.png" width="48" height="48"> | [***laidout***](apps/laidout.md) | *Laidout, desktop publishing software*..[ *read more* ](apps/laidout.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/laidout) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/laidout) |
 | <img src="icons/laigter.png" width="48" height="48"> | [***laigter***](apps/laigter.md) | *Tool to generate normal/specular/occlussion/parallax 2D maps.*..[ *read more* ](apps/laigter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/laigter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/laigter) |
