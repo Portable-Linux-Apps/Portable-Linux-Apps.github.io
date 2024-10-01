@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **209** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **210** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -219,6 +219,7 @@
 | <img src="icons/prime-world-editor.png" width="48" height="48"> | [***prime-world-editor***](apps/prime-world-editor.md) | *Edit world assets from games by Retro Studios.*..[ *read more* ](apps/prime-world-editor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/prime-world-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/prime-world-editor) |
 | <img src="icons/principia.png" width="48" height="48"> | [***principia***](apps/principia.md) | *Open source physics-based sandbox game.*..[ *read more* ](apps/principia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/principia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/principia) |
 | <img src="icons/prismlauncher.png" width="48" height="48"> | [***prismlauncher***](apps/prismlauncher.md) | *Launcher for Minecraft, manage multiple installations.*..[ *read more* ](apps/prismlauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/prismlauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/prismlauncher) |
+| <img src="icons/prismlauncher-qt5.png" width="48" height="48"> | [***prismlauncher-qt5***](apps/prismlauncher-qt5.md) | *Launcher for Minecraft, manage multiple installations (Qt5 version).*..[ *read more* ](apps/prismlauncher-qt5.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/prismlauncher-qt5) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/prismlauncher-qt5) |
 | <img src="icons/protonup-qt.png" width="48" height="48"> | [***protonup-qt***](apps/protonup-qt.md) | *Manage Proton-GE/Luxtorpeda for Steam/Wine-GE for Lutris.*..[ *read more* ](apps/protonup-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/protonup-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/protonup-qt) |
 | <img src="icons/qtads.png" width="48" height="48"> | [***qtads***](apps/qtads.md) | *A cross-platform, multimedia interpreter for TADS adventure games.*..[ *read more* ](apps/qtads.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qtads) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qtads) |
 | <img src="icons/r2modman.png" width="48" height="48"> | [***r2modman***](apps/r2modman.md) | *Mod manager for several Unity games using Thunderstore.*..[ *read more* ](apps/r2modman.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/r2modman) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/r2modman) |
