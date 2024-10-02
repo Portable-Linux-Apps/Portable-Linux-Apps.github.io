@@ -3,7 +3,7 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed **134** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **135** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -125,6 +125,7 @@
 | <img src="icons/playme.png" width="48" height="48"> | [***playme***](apps/playme.md) | *Elegant YouTube Music desktop app.*..[ *read more* ](apps/playme.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playme) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playme) |
 | <img src="icons/plexamp.png" width="48" height="48"> | [***plexamp***](apps/plexamp.md) | *The best little audio player on the planet.*..[ *read more* ](apps/plexamp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/plexamp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/plexamp) |
 | <img src="icons/powerliminals-player.png" width="48" height="48"> | [***powerliminals-player***](apps/powerliminals-player.md) | *Powerliminal audios in the background, Audio player.*..[ *read more* ](apps/powerliminals-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/powerliminals-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/powerliminals-player) |
+| <img src="icons/puddletag.png" width="48" height="48"> | [***puddletag***](apps/puddletag.md) | *Unofficial, Powerful, simple, audio tag editor for GNU/Linux.*..[ *read more* ](apps/puddletag.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/puddletag) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/puddletag) |
 | <img src="icons/qmidictl.png" width="48" height="48"> | [***qmidictl***](apps/qmidictl.md) | *MIDI Remote Controller via UDP/IP Multicast.*..[ *read more* ](apps/qmidictl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmidictl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmidictl) |
 | <img src="icons/qmidinet.png" width="48" height="48"> | [***qmidinet***](apps/qmidinet.md) | *MIDI Network Gateway via UDP/IP Multicast.*..[ *read more* ](apps/qmidinet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmidinet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmidinet) |
 | <img src="icons/qmplay2.png" width="48" height="48"> | [***qmplay2***](apps/qmplay2.md) | *Video and audio player whit support of most formats and codecs.*..[ *read more* ](apps/qmplay2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmplay2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmplay2) |
