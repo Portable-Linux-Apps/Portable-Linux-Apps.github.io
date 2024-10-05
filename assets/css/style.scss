@@ -57,6 +57,17 @@ a {
     color: lightgreen;
   }
 
+  h1 {
+    color: #45c1c1;
+    font: icon;
+  }
+  
+  hr {
+    background-color: #4c545f
+    height: .16em;
+    margin: 16px 0;
+  }
+
   pre {
     color: #128418;
     font-style: italic;
@@ -66,9 +77,8 @@ a {
   table {
     background-color: #010211; /* Dark background for table */
     color: #e0e0e0; /* Table text color for dark theme */
-    font-size: large;
+    font-size: inherit;
     font-style: italic;
-    
   }
 
   th {
@@ -77,6 +87,6 @@ a {
   }
 
   td {
-    background-color: #1e1e1e; /* Dark background for table cells */
+    background-color: #110e1b; /* Dark background for table cells */
   }
 }
