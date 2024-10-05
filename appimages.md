@@ -1,6 +1,6 @@
 # APPIMAGES
 
-| [Home](https://portable-linux-apps.github.io/) |
+| [Home](index.md) |
 | --- |
 
 #### Here are listed the **2076** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.

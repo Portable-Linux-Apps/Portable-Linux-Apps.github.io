@@ -1,6 +1,6 @@
 # APPLICATIONS
 
-| [Home](https://portable-linux-apps.github.io/) |
+| [Home](index.md) |
 | --- |
 
 #### Here are listed all **2435** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
@@ -2552,7 +2552,7 @@ You can improve these pages via a [pull request](https://github.com/Portable-Lin
 
 ---
 
-| [Home](https://portable-linux-apps.github.io/) |
+| [Home](index.md) |
 | --- |
 
 --------
