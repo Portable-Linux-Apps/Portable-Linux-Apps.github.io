@@ -3,18 +3,18 @@
 | [Home](https://portable-linux-apps.github.io/) |
 | --- |
 
-#### Here are listed the **2075** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2076** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
 
-| [Back to Applications](https://portable-linux-apps.github.io/apps.html) |
+| [Back to Applications](apps.md) |
 | --- |
 
 
 #### *Categories*
 
-***[AppImages](https://portable-linux-apps.github.io/appimages.html)*** 		 - ***[android](https://portable-linux-apps.github.io/android.html)*** - ***[audio](https://portable-linux-apps.github.io/audio.html)*** - ***[comic](https://portable-linux-apps.github.io/comic.html)*** - ***[command-line](https://portable-linux-apps.github.io/command-line.html)*** - ***[communication](https://portable-linux-apps.github.io/communication.html)*** - ***[disk](https://portable-linux-apps.github.io/disk.html)*** - ***[education](https://portable-linux-apps.github.io/education.html)*** - ***[file-manager](https://portable-linux-apps.github.io/file-manager.html)*** - ***[finance](https://portable-linux-apps.github.io/finance.html)*** - ***[game](https://portable-linux-apps.github.io/game.html)*** - ***[gnome](https://portable-linux-apps.github.io/gnome.html)*** - ***[graphic](https://portable-linux-apps.github.io/graphic.html)*** - ***[internet](https://portable-linux-apps.github.io/internet.html)*** - ***[kde](https://portable-linux-apps.github.io/kde.html)*** - ***[office](https://portable-linux-apps.github.io/office.html)*** - ***[password](https://portable-linux-apps.github.io/password.html)*** - ***[steam](https://portable-linux-apps.github.io/steam.html)*** - ***[system-monitor](https://portable-linux-apps.github.io/system-monitor.html)*** - ***[video](https://portable-linux-apps.github.io/video.html)*** - ***[web-app](https://portable-linux-apps.github.io/web-app.html)*** - ***[web-browser](https://portable-linux-apps.github.io/web-browser.html)*** - ***[wine](https://portable-linux-apps.github.io/wine.html)***
+***[AppImages](appimages.md)*** 		 - ***[android](android.md)*** - ***[audio](audio.md)*** - ***[comic](comic.md)*** - ***[command-line](command-line.md)*** - ***[communication](communication.md)*** - ***[disk](disk.md)*** - ***[education](education.md)*** - ***[file-manager](file-manager.md)*** - ***[finance](finance.md)*** - ***[game](game.md)*** - ***[gnome](gnome.md)*** - ***[graphic](graphic.md)*** - ***[internet](internet.md)*** - ***[kde](kde.md)*** - ***[office](office.md)*** - ***[password](password.md)*** - ***[steam](steam.md)*** - ***[system-monitor](system-monitor.md)*** - ***[video](video.md)*** - ***[web-app](web-app.md)*** - ***[web-browser](web-browser.md)*** - ***[wine](wine.md)***
 
 -----------------
 
@@ -1989,6 +1989,7 @@
 | <img src="icons/weakauras.png" width="48" height="48"> | [***weakauras***](apps/weakauras.md) | *App to provide missing link between Wago.io and World of Warcraft.*..[ *read more* ](apps/weakauras.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/weakauras) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/weakauras) |
 | <img src="icons/weatherdump.png" width="48" height="48"> | [***weatherdump***](apps/weatherdump.md) | *A WeatherDump GUI.*..[ *read more* ](apps/weatherdump.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/weatherdump) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/weatherdump) |
 | <img src="icons/webamp.png" width="48" height="48"> | [***webamp***](apps/webamp.md) | *Winamp Player 2.9 reimplementation in HTML5 and JS.*..[ *read more* ](apps/webamp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/webamp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/webamp) |
+| <img src="icons/webcamoid.png" width="48" height="48"> | [***webcamoid***](apps/webcamoid.md) | *A multi-platform camera capture app focused on providing all major features required by power users with a very simple and intuitive interface.*..[ *read more* ](apps/webcamoid.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/webcamoid) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/webcamoid) |
 | <img src="icons/webcatalog.png" width="48" height="48"> | [***webcatalog***](apps/webcatalog.md) | *App store for web apps. Find the right software and services.*..[ *read more* ](apps/webcatalog.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/webcatalog) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/webcatalog) |
 | <img src="icons/webcord.png" width="48" height="48"> | [***webcord***](apps/webcord.md) | *A Discord and Fosscord client implemented without Discord API.*..[ *read more* ](apps/webcord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/webcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/webcord) |
 | <img src="icons/webdesktop.png" width="48" height="48"> | [***webdesktop***](apps/webdesktop.md) | *WebDesktop make apps with just a text editor and nodejs.*..[ *read more* ](apps/webdesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/webdesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/webdesktop) |
@@ -2117,7 +2118,7 @@ You can improve these pages via a [pull request](https://github.com/Portable-Lin
 
 ---
 
-| [Back to Home](https://portable-linux-apps.github.io/) | [Back to Applications](https://portable-linux-apps.github.io/apps.html)
+| [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
 --------
