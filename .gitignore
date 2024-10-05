@@ -1,0 +1,14 @@
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata/
+
+# Gemfile dependencies
+Gemfile.lock
+
+# Bundler files
+.bundle/
+
+# System files
+.DS_Store  # macOS
+Thumbs.db  # Windows
