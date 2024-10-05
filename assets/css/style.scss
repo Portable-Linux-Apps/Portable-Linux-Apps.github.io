@@ -63,14 +63,20 @@ a {
   }
   
   hr {
-    background-color: #2b343f;
     height: 0.2em;
     margin: 12px 0;
   }
 
+  markdown-body hr {
+    background-color: #2b343f;
+  }
+
+  markdown-body pre {
+    background-color: #000;
+  }
+
   pre {
     color: #128418;
-    background-color: #000;
     font-style: italic;
     font-weight: bold;
   }
