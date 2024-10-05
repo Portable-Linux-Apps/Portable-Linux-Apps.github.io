@@ -26,6 +26,20 @@ a {
   a {
     color: blue; /* Link color for light theme */
   }
+
+  table {
+    background-color: white; /* Table background for light theme */
+    color: black; /* Table text color for light theme */
+  }
+
+  th {
+    background-color: #f0f0f0; /* Light gray background for table headers */
+    color: black; /* Header text color */
+  }
+
+  td {
+    background-color: white; /* Background color for table cells */
+  }
 }
 
 /* Dark theme styles */
@@ -42,5 +56,19 @@ a {
   /* Light yellow hover effect for dark theme */
   a:hover {
     color: lightyellow; /* Light yellow on hover */
+  }
+
+  table {
+    background-color: #1e1e1e; /* Dark background for table */
+    color: #e0e0e0; /* Table text color for dark theme */
+  }
+
+  th {
+    background-color: #333; /* Darker gray background for table headers */
+    color: #e0e0e0; /* Header text color for dark theme */
+  }
+
+  td {
+    background-color: #1e1e1e; /* Dark background for table cells */
   }
 }
