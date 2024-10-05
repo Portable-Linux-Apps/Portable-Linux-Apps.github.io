@@ -45,8 +45,8 @@ a {
 /* Dark theme styles */
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #121212; /* Dark background color */
-    color: #e0e0e0; /* Light text color for dark theme */
+    background-color: #010211; /* Dark background color */
+    color: #f3d0d0; /* Light text color for dark theme */
   }
 
   a {
@@ -59,6 +59,11 @@ a {
 
   pre {
     color: blue;
+  }
+
+  markdown-body hr {
+    background-color: #20262e;
+    marging: 5px 0;
   }
 
   table {
