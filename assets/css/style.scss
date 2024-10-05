@@ -40,6 +40,18 @@ a {
   td {
     background-color: white; /* Background color for table cells */
   }
+
+  pre code  {
+    background-color: #f0f0f0; /* Light gray background for code blocks */
+    color: black; /* Text color for code blocks */
+    border-radius: 4px; /* Optional: rounded corners */
+    padding: 8px; /* Optional: padding for code blocks */
+    overflow-x: auto; /* Ensure horizontal scrolling for long lines */
+  }
+
+  ul, ol {
+    color: black; /* Text color for lists */
+  }
 }
 
 /* Dark theme styles */
@@ -73,5 +85,28 @@ a {
 
   td {
     background-color: #1e1e1e; /* Dark background for table cells */
+    color: #e0e0e0; /* Text color for table cells in dark mode */
+  }
+
+  pre code {
+    background-color: white; /* Dark background for code blocks */
+    color: black; /* Light text color for code blocks */
+    border-radius: 4px; /* Optional: rounded corners */
+    padding: 8px; /* Optional: padding for code blocks */
+    overflow-x: auto; /* Ensure horizontal scrolling for long lines */
+  }
+
+  ul, ol {
+    color: #e0e0e0; /* Light text color for lists in dark mode */
+  }
+
+  h6 {
+    color: #FFFFFF; /* White heading color for dark theme */
+    font-weight: bold; /* Optional: Ensure heading stands out */
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5); /* Optional: Add shadow for better contrast */
+  }
+
+  h3 {
+    color: #FFFFFF; /* White color for h3 headings */
   }
 }
