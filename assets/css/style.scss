@@ -2,3 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+
+/* Custom styles below */
+
+/* Change all links to green */
+a {
+  color: green;
+}
+
+/* Optional: Change link color on hover */
+a:hover {
+  color: darkgreen;
+}
+
