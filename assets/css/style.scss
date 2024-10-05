@@ -50,12 +50,11 @@ a {
   }
 
   a {
-    color: yellow; /* Yellow for better readability in dark mode */
+    color: green;
   }
 
-  /* Light yellow hover effect for dark theme */
   a:hover {
-    color: lightyellow; /* Light yellow on hover */
+    color: lightgreen;
   }
 
   table {
