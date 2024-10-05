@@ -3,15 +3,44 @@
 
 @import "{{ site.theme }}";
 
-/* Custom styles below */
+/* Default body styles */
+body {
+  background-color: white; /* Default background color for light theme */
+  color: black; /* Default text color for light theme */
+}
 
-/* Change all links to green */
+/* Default link styles */
 a {
-  color: green;
+  color: blue; /* Default link color */
+  text-decoration: none;
+  transition: color 0.3s; /* Smooth transition for hover effect */
 }
 
-/* Optional: Change link color on hover */
-a:hover {
-  color: darkgreen;
+/* Light theme styles */
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: white; /* Background color for light theme */
+    color: black; /* Text color for light theme */
+  }
+
+  a {
+    color: blue; /* Link color for light theme */
+  }
 }
 
+/* Dark theme styles */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #121212; /* Dark background color */
+    color: #e0e0e0; /* Light text color for dark theme */
+  }
+
+  a {
+    color: yellow; /* Yellow for better readability in dark mode */
+  }
+
+  /* Light yellow hover effect for dark theme */
+  a:hover {
+    color: lightyellow; /* Light yellow on hover */
+  }
+}
