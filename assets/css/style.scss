@@ -67,6 +67,30 @@ a {
     margin: 12px 0;
   }
 
+  .markdown-body h1 {
+    padding-bottom: 1em;
+    border-bottom: 5px solid #2b343f;
+  }
+
+  .markdown-body h2 {
+    padding-bottom: 1em;
+    font-size: 1.5em;
+    border-bottom: 2.5px solid #2b343f;
+  }
+
+  .markdown-body h3 {
+    font-size: 1.1em;
+  }
+
+  .markdown-body h4 {
+    font-size: 1.5em;
+  }
+
+  .markdown-body h6 {
+    font-size: 0.8em;
+    color: #d8dbdf;
+  }
+
   .markdown-body hr {
     background-color: #2b343f;
   }
@@ -94,5 +118,6 @@ a {
 
   td {
     background-color: #110e1b; /* Dark background for table cells */
+    border: 1px solid #35333b;
   }
 }
