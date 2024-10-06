@@ -1,17 +1,30 @@
-name: PORTABLE LINUX APPS
+title: PORTABLE LINUX APPS
 collections:
   categories:
     output: true
-description: The first AUR-inspired Software Center of all AppImage packages and portable applications for GNU/Linux.
+description:  >- # this means to ignore newlines until "baseurl:"
+  The first AUR-inspired Software Center of all AppImage packages and portable
+  applications for GNU/Linux.
+baseurl: ""
+url: https://portable-linux-apps.github.io/
+repository: Portable-Linux-Apps/portable-linux-apps.github.io
 avatar: favicon.ico
 
 google_analytics:
 piwik_analytics:
-url: https://portable-linux-apps.github.io/
 
 exclude:
   - node_modules
   - script
+  - .jekyll-cache/
+  - .sass-cache/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - .github/
+  - .gitignore
+  - .git/
 
 sass:
   style: :compressed
