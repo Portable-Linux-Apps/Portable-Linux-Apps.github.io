@@ -5,7 +5,7 @@ collections:
 description: The database of all AppImage packages and portable applications for GNU/Linux.
 avatar: favicon.ico
 
-google_analytics: 
+google_analytics:
 piwik_analytics:
 url: https://portable-linux-apps.github.io/
 
@@ -19,10 +19,9 @@ sass:
 theme: jekyll-theme-primer
 plugins:
   - jekyll-seo-tag
-  - jekyll-feed
   - jekyll-redirect-from
   - jekyll-sitemap
-  
+
 markdown: GFM
 github:
   private: false
