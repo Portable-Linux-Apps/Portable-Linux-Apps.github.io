@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **66** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **67** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -48,6 +48,7 @@
 | <img src="icons/crow-translate.png" width="48" height="48"> | [***crow-translate***](apps/crow-translate.md) | *Translate and speak text using Google, Yandex, Bing and more.*..[ *read more* ](apps/crow-translate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crow-translate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crow-translate) |
 | <img src="icons/dana.png" width="48" height="48"> | [***dana***](apps/dana.md) | *A desktop client for the Dana learning box.*..[ *read more* ](apps/dana.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dana) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dana) |
 | <img src="icons/deepl-linux-electron.png" width="48" height="48"> | [***deepl-linux-electron***](apps/deepl-linux-electron.md) | *DeepL Integration. Select & translate text in any app.*..[ *read more* ](apps/deepl-linux-electron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deepl-linux-electron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deepl-linux-electron) |
+| <img src="icons/dl-desktop.png" width="48" height="48"> | [***dl-desktop***](apps/dl-desktop.md) | *Desktop client for the Duolingo language learning application.*..[ *read more* ](apps/dl-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dl-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dl-desktop) |
 | <img src="icons/edex-ui.png" width="48" height="48"> | [***edex-ui***](apps/edex-ui.md) | *A cross-platform, customizable science fiction terminal emulator.*..[ *read more* ](apps/edex-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/edex-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/edex-ui) |
 | <img src="icons/elements.png" width="48" height="48"> | [***elements***](apps/elements.md) | *App which displays the periodic table, Education, Science.*..[ *read more* ](apps/elements.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elements) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elements) |
 | <img src="icons/esearch.png" width="48" height="48"> | [***esearch***](apps/esearch.md) | *Screenshot OCR search translate search for picture paste...*..[ *read more* ](apps/esearch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/esearch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/esearch) |
