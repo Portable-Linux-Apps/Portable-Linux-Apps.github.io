@@ -1,11 +1,12 @@
 # ANYDESK
  
  AnyDesk - Remote desktop application.
+ 
  Access any device at any time. From anywhere. Always secure and fast.
  
- This is the unofficial AppImage built the official .deb package.
- 
- ![Screenshot](https://dl.flathub.org/repo/screenshots/com.anydesk.Anydesk-stable/752x423/com.anydesk.Anydesk-b8f4a58c33a1e1603bad8a835f244173.png)
+ This is the unofficial AppImage built the official .deb package. NOTE that Anydesk requires gtk2 libraries installed on the system.
+
+ ![Istantanea_2024-10-06_06-55-27 png](https://github.com/user-attachments/assets/00813a9d-2f3c-4d40-a885-bf47a38a2281)
  
  SITE: https://anydesk.com
  
