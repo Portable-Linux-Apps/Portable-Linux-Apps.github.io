@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2438** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2439** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1391,6 +1391,7 @@
 | <img src="icons/mqtt-explorer.png" width="48" height="48"> | [***mqtt-explorer***](apps/mqtt-explorer.md) | *Explore your message queues.*..[ *read more* ](apps/mqtt-explorer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mqtt-explorer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mqtt-explorer) |
 | <img src="icons/mqttx.png" width="48" height="48"> | [***mqttx***](apps/mqttx.md) | *MQTT 5.0 Desktop, CLI, and WebSocket client tools.*..[ *read more* ](apps/mqttx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mqttx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mqttx) |
 | <img src="icons/mrcode.png" width="48" height="48"> | [***mrcode***](apps/mrcode.md) | *An opinionated editor based on VSCodium / VSCode.*..[ *read more* ](apps/mrcode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mrcode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mrcode) |
+| <img src="icons/mrwriter.png" width="48" height="48"> | [***mrwriter***](apps/mrwriter.md) | *Notetaking and blackboard replacement application. Inspired by Xournal. Written in C++/Qt.*..[ *read more* ](apps/mrwriter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mrwriter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mrwriter) |
 | <img src="icons/mr.dclutterer.png" width="48" height="48"> | [***mr.dclutterer***](apps/mr.dclutterer.md) | *Minimal App To Aggregate And Rename Files In Bulk.*..[ *read more* ](apps/mr.dclutterer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mr.dclutterer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mr.dclutterer) |
 | <img src="icons/ms-365-electron.png" width="48" height="48"> | [***ms-365-electron***](apps/ms-365-electron.md) | *Unofficial Microsoft 365 Desktop Wrapper made with Electron.*..[ *read more* ](apps/ms-365-electron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ms-365-electron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ms-365-electron) |
 | <img src="icons/mtcelledit.png" width="48" height="48"> | [***mtcelledit***](apps/mtcelledit.md) | *Lightweight spreadsheet program.*..[ *read more* ](apps/mtcelledit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mtcelledit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mtcelledit) |
