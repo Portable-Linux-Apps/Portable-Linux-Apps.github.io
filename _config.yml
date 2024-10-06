@@ -1,8 +1,8 @@
-name: PORTABLE LINUX APPS, the first AUR-inspired AppImage Software Center!
+name: PORTABLE LINUX APPS
 collections:
   categories:
     output: true
-description: The database of all AppImage packages and portable applications for GNU/Linux.
+description: The first AUR-inspired Software Center of all AppImage packages and portable applications for GNU/Linux.
 avatar: favicon.ico
 
 google_analytics:
