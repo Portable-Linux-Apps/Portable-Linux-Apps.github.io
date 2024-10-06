@@ -4,9 +4,9 @@
 
  This emulator aims at providing excellent accuracy and performance, a user-friendly interface, and consistent builds.
 
- Unofficial AppImage.
+ As of now, the ryujinx-mirror/ryujinx repository serves as a downstream hard-fork of the original Ryujinx project.
 
- SITE: https://github.com/Samueru-sama/Ryujinx-AppImage
+ SITE: https://github.com/ryujinx-mirror/ryujinx
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
