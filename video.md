@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **148** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **149** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -69,6 +69,7 @@
 | <img src="icons/jellyfin.png" width="48" height="48"> | [***jellyfin***](apps/jellyfin.md) | *Media player. Stream to any device from your own server.*..[ *read more* ](apps/jellyfin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jellyfin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jellyfin) |
 | <img src="icons/kadium.png" width="48" height="48"> | [***kadium***](apps/kadium.md) | *App for staying ontop of YouTube channels' uploads.*..[ *read more* ](apps/kadium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kadium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kadium) |
 | <img src="icons/kdenlive.png" width="48" height="48"> | [***kdenlive***](apps/kdenlive.md) | *A powerful Video Editor provided by KDE.*..[ *read more* ](apps/kdenlive.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdenlive) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdenlive) |
+| <img src="icons/kdenlive-daily.png" width="48" height="48"> | [***kdenlive-daily***](apps/kdenlive-daily.md) | *A powerful Video Editor provided by KDE (daily builds).*..[ *read more* ](apps/kdenlive-daily.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdenlive-daily) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdenlive-daily) |
 | <img src="icons/kiku.png" width="48" height="48"> | [***kiku***](apps/kiku.md) | *Play music from youtube on desktop. Supports local api, invidious and piped as source.*..[ *read more* ](apps/kiku.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kiku) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kiku) |
 | <img src="icons/leonflix.png" width="48" height="48"> | [***leonflix***](apps/leonflix.md) | *Multi-platform desktop application for watching movies & TV shows.*..[ *read more* ](apps/leonflix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/leonflix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/leonflix) |
 | <img src="icons/losslesscut.png" width="48" height="48"> | [***losslesscut***](apps/losslesscut.md) | *The swiss army knife of lossless video/audio editing.*..[ *read more* ](apps/losslesscut.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/losslesscut) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/losslesscut) |

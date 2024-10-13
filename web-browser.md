@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **67** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **68** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -63,6 +63,7 @@
 | <img src="icons/firefox-nightly.png" width="48" height="48"> | [***firefox-nightly***](apps/firefox-nightly.md) | *Fast, powerful and extensible Web Browser, Nightly Edition.*..[ *read more* ](apps/firefox-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firefox-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firefox-nightly) |
 | <img src="icons/floorp.png" width="48" height="48"> | [***floorp***](apps/floorp.md) | *Floorp Web Browser, the most Advanced and Fastest Firefox derivative.*..[ *read more* ](apps/floorp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/floorp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/floorp) |
 | <img src="icons/galacteek.png" width="48" height="48"> | [***galacteek***](apps/galacteek.md) | *IPFS Multi-platform browser for the distributed web.*..[ *read more* ](apps/galacteek.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/galacteek) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/galacteek) |
+| <img src="icons/godmode.png" width="48" height="48"> | [***godmode***](apps/godmode.md) | *AI Chat Browser fast, full webapp access to ChatGPT/Claude/Bard/Bing/Llama2.*..[ *read more* ](apps/godmode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/godmode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/godmode) |
 | <img src="icons/google-chrome-beta.png" width="48" height="48"> | [***google-chrome-beta***](apps/google-chrome-beta.md) | *Unofficial, Web Browser, Beta version.*..[ *read more* ](apps/google-chrome-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/google-chrome-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/google-chrome-beta) |
 | <img src="icons/google-chrome-dev.png" width="48" height="48"> | [***google-chrome-dev***](apps/google-chrome-dev.md) | *Unofficial, Web Browser, Unstable version.*..[ *read more* ](apps/google-chrome-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/google-chrome-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/google-chrome-dev) |
 | <img src="icons/google-chrome.png" width="48" height="48"> | [***google-chrome***](apps/google-chrome.md) | *Unofficial, Web Browser, Stable version.*..[ *read more* ](apps/google-chrome.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/google-chrome) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/google-chrome) |

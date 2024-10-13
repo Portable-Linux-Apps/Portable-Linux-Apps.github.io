@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **78** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **79** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -66,6 +66,7 @@
 | <img src="icons/ffwa-facebook.png" width="48" height="48"> | [***ffwa-facebook***](apps/ffwa-facebook.md) | *WebApp & Firefox Profile for Facebook.*..[ *read more* ](apps/ffwa-facebook.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-facebook) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-facebook) |
 | <img src="icons/ffwa-whatsapp.png" width="48" height="48"> | [***ffwa-whatsapp***](apps/ffwa-whatsapp.md) | *WebApp & Firefox Profile for WhatsApp.*..[ *read more* ](apps/ffwa-whatsapp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-whatsapp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-whatsapp) |
 | <img src="icons/franz.png" width="48" height="48"> | [***franz***](apps/franz.md) | *Messaging app for WhatsApp, Slack, Telegram, HipChat and much more.*..[ *read more* ](apps/franz.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/franz) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/franz) |
+| <img src="icons/godmode.png" width="48" height="48"> | [***godmode***](apps/godmode.md) | *AI Chat Browser fast, full webapp access to ChatGPT/Claude/Bard/Bing/Llama2.*..[ *read more* ](apps/godmode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/godmode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/godmode) |
 | <img src="icons/goofcord.png" width="48" height="48"> | [***goofcord***](apps/goofcord.md) | *Take control of your Discord experience with GoofCord.*..[ *read more* ](apps/goofcord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/goofcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/goofcord) |
 | <img src="icons/hermesmessenger.png" width="48" height="48"> | [***hermesmessenger***](apps/hermesmessenger.md) | *Desktop client version for Hermes Messenger.*..[ *read more* ](apps/hermesmessenger.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hermesmessenger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hermesmessenger) |
 | <img src="icons/hyperspace.png" width="48" height="48"> | [***hyperspace***](apps/hyperspace.md) | *A fluffy client for Mastodon in React.*..[ *read more* ](apps/hyperspace.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperspace) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperspace) |

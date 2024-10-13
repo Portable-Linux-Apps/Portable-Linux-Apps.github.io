@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **158** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **159** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -102,6 +102,7 @@
 | <img src="icons/fraidycat.png" width="48" height="48"> | [***fraidycat***](apps/fraidycat.md) | *Follow blogs, wikis, YouTube, Twitter, Reddit, Instagram and more.*..[ *read more* ](apps/fraidycat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fraidycat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fraidycat) |
 | <img src="icons/franz.png" width="48" height="48"> | [***franz***](apps/franz.md) | *Messaging app for WhatsApp, Slack, Telegram, HipChat and much more.*..[ *read more* ](apps/franz.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/franz) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/franz) |
 | <img src="icons/freetube.png" width="48" height="48"> | [***freetube***](apps/freetube.md) | *An Open Source YouTube app for privacy.*..[ *read more* ](apps/freetube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freetube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freetube) |
+| <img src="icons/godmode.png" width="48" height="48"> | [***godmode***](apps/godmode.md) | *AI Chat Browser fast, full webapp access to ChatGPT/Claude/Bard/Bing/Llama2.*..[ *read more* ](apps/godmode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/godmode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/godmode) |
 | <img src="icons/google-chrome-beta.png" width="48" height="48"> | [***google-chrome-beta***](apps/google-chrome-beta.md) | *Unofficial, Web Browser, Beta version.*..[ *read more* ](apps/google-chrome-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/google-chrome-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/google-chrome-beta) |
 | <img src="icons/google-chrome-dev.png" width="48" height="48"> | [***google-chrome-dev***](apps/google-chrome-dev.md) | *Unofficial, Web Browser, Unstable version.*..[ *read more* ](apps/google-chrome-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/google-chrome-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/google-chrome-dev) |
 | <img src="icons/google-chrome.png" width="48" height="48"> | [***google-chrome***](apps/google-chrome.md) | *Unofficial, Web Browser, Stable version.*..[ *read more* ](apps/google-chrome.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/google-chrome) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/google-chrome) |

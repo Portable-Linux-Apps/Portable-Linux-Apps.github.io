@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **204** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **205** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -111,6 +111,7 @@
 | <img src="icons/hascard.png" width="48" height="48"> | [***hascard***](apps/hascard.md) | *Flashcard TUI CLI with markdown cards.*..[ *read more* ](apps/hascard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hascard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hascard) |
 | <img src="icons/hide.me.png" width="48" height="48"> | [***hide.me***](apps/hide.me.md) | *Hide.me CLI VPN client for Linux.*..[ *read more* ](apps/hide.me.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hide.me) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hide.me) |
 | <img src="icons/hilbish.png" width="48" height="48"> | [***hilbish***](apps/hilbish.md) | *The Moon-powered shell! A comfy and extensible shell for Lua fans!*..[ *read more* ](apps/hilbish.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hilbish) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hilbish) |
+| <img src="icons/himalaya.png" width="48" height="48"> | [***himalaya***](apps/himalaya.md) | *CLI to manage emails.*..[ *read more* ](apps/himalaya.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/himalaya) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/himalaya) |
 | <img src="icons/htop.png" width="48" height="48"> | [***htop***](apps/htop.md) | *Unofficial, CLI utility to monitor system resources.*..[ *read more* ](apps/htop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/htop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/htop) |
 | <img src="icons/hyper.png" width="48" height="48"> | [***hyper***](apps/hyper.md) | *A terminal built on web technologies.*..[ *read more* ](apps/hyper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyper) |
 | <img src="icons/hyperfine.png" width="48" height="48"> | [***hyperfine***](apps/hyperfine.md) | *A command-line benchmarking tool.*..[ *read more* ](apps/hyperfine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperfine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperfine) |

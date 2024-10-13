@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **92** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **93** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -121,6 +121,7 @@
 | <img src="icons/waifu2x-gui.png" width="48" height="48"> | [***waifu2x-gui***](apps/waifu2x-gui.md) | *An app that upscales anime-styled images, gifs, videos, pdfs.*..[ *read more* ](apps/waifu2x-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/waifu2x-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/waifu2x-gui) |
 | <img src="icons/wolai.png" width="48" height="48"> | [***wolai***](apps/wolai.md) | *A new form of document/note/information system, in chinese.*..[ *read more* ](apps/wolai.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wolai) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wolai) |
 | <img src="icons/wordtsar.png" width="48" height="48"> | [***wordtsar***](apps/wordtsar.md) | *Document mode clone for Wordstar, supports Wordstar, RTF and DOCX.*..[ *read more* ](apps/wordtsar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wordtsar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wordtsar) |
+| <img src="icons/wournal.png" width="48" height="48"> | [***wournal***](apps/wournal.md) | *Simple "digitial paper" for note taking and PDF annotation. Heavily inspired by Xournal.*..[ *read more* ](apps/wournal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wournal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wournal) |
 | <img src="icons/wps-office.png" width="48" height="48"> | [***wps-office***](apps/wps-office.md) | *Unofficial, Office suite built from the official .deb package.*..[ *read more* ](apps/wps-office.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wps-office) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wps-office) |
 | <img src="icons/wxmaxima.png" width="48" height="48"> | [***wxmaxima***](apps/wxmaxima.md) | *A document based interface for the computer algebra system Maxima.*..[ *read more* ](apps/wxmaxima.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wxmaxima) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wxmaxima) |
 | <img src="icons/xgetter.png" width="48" height="48"> | [***xgetter***](apps/xgetter.md) | *Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Bilibili, Douyin and more.*..[ *read more* ](apps/xgetter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xgetter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xgetter) |
