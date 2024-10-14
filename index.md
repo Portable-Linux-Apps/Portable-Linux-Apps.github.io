@@ -450,6 +450,7 @@ appman -R {PROGRAM1} {PROGRAM2} {PROGRAM3}...
 - [Spyware, malware and dangerous software](https://github.com/ivan-hc/AM#spyware-malware-and-dangerous-software)
 - [Stop AppImage prompt to create its own launcher, desktop integration and doubled launchers](https://github.com/ivan-hc/AM#stop-appimage-prompt-to-create-its-own-launcher-desktop-integration-and-doubled-launchers)
 - [The script points to "releases" instead of downloading the latest stable](https://github.com/ivan-hc/AM#the-script-points-to-releases-instead-of-downloading-the-latest-stable)
+- [Ubuntu mess](https://github.com/ivan-hc/AM#ubuntu-mess)
 - [Wrong download link](https://github.com/ivan-hc/AM#wrong-download-link)
 
 ------------------------------------------------------------------------
