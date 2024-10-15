@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2086** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2087** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -237,6 +237,7 @@
 | <img src="icons/brickstore.png" width="48" height="48"> | [***brickstore***](apps/brickstore.md) | *An offline BrickLink inventory management tool.*..[ *read more* ](apps/brickstore.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brickstore) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brickstore) |
 | <img src="icons/bridge.png" width="48" height="48"> | [***bridge***](apps/bridge.md) | *The perfect Bridge between Megascans and your favorite tools.*..[ *read more* ](apps/bridge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bridge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bridge) |
 | <img src="icons/brisqi.png" width="48" height="48"> | [***brisqi***](apps/brisqi.md) | *Offline-first Personal Kanban app.*..[ *read more* ](apps/brisqi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brisqi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brisqi) |
+| <img src="icons/browservice.png" width="48" height="48"> | [***browservice***](apps/browservice.md) | *Browse the modern web on historical browsers.*..[ *read more* ](apps/browservice.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/browservice) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/browservice) |
 | <img src="icons/brs-emu-app.png" width="48" height="48"> | [***brs-emu-app***](apps/brs-emu-app.md) | *BrightScript Emulator, runs on browsers and Electron apps.*..[ *read more* ](apps/brs-emu-app.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brs-emu-app) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brs-emu-app) |
 | <img src="icons/bruno.png" width="48" height="48"> | [***bruno***](apps/bruno.md) | *An Opensource API Collection Collaboration Suite.*..[ *read more* ](apps/bruno.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bruno) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bruno) |
 | <img src="icons/bscanfftwebcam.png" width="48" height="48"> | [***bscanfftwebcam***](apps/bscanfftwebcam.md) | *FDOCT tool.*..[ *read more* ](apps/bscanfftwebcam.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bscanfftwebcam) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bscanfftwebcam) |
