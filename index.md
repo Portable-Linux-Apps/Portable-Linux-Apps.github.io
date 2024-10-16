@@ -431,6 +431,7 @@ appman -R {PROGRAM1} {PROGRAM2} {PROGRAM3}...
 - [How to enable bash completion](https://github.com/ivan-hc/AM#how-to-enable-bash-completion)
 - [How to update or remove apps manually](https://github.com/ivan-hc/AM#how-to-update-or-remove-apps-manually)
 - [Downgrade an installed app to a previous version](https://github.com/ivan-hc/AM#downgrade-an-installed-app-to-a-previous-version)
+- [How to use multiple versions of the same application](https://github.com/ivan-hc/AM#how-to-use-multiple-versions-of-the-same-application)
 - [Create and test your own installation script](https://github.com/ivan-hc/AM#create-and-test-your-own-installation-script)
   - [Option Zero: "AppImages"](https://github.com/ivan-hc/AM#option-zero-appimages)
   - [Option One: "build AppImages on-the-fly"](https://github.com/ivan-hc/AM#option-one-build-appimages-on-the-fly)
