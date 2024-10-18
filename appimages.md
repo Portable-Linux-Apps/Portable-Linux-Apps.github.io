@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2087** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2088** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1960,6 +1960,7 @@
 | <img src="icons/vircadia.png" width="48" height="48"> | [***vircadia***](apps/vircadia.md) | *Open Source continuation of the High Fidelity metaverse.*..[ *read more* ](apps/vircadia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vircadia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vircadia) |
 | <img src="icons/virtscreen.png" width="48" height="48"> | [***virtscreen***](apps/virtscreen.md) | *Make your iPad/tablet/computer into a secondary monitor on Linux.*..[ *read more* ](apps/virtscreen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/virtscreen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/virtscreen) |
 | <img src="icons/virtualbox.png" width="48" height="48"> | [***virtualbox***](apps/virtualbox.md) | *Powerful x86 virtualization for enterprise as well as home use.*..[ *read more* ](apps/virtualbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/virtualbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/virtualbox) |
+| <img src="icons/visipics.png" width="48" height="48"> | [***visipics***](apps/visipics.md) | *Windows software to find and remove duplicate pictures. Unofficial AppImage built using "wine32-deploy" and powered by "wine".*..[ *read more* ](apps/visipics.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/visipics) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/visipics) |
 | <img src="icons/visual-define-xml-editor.png" width="48" height="48"> | [***visual-define-xml-editor***](apps/visual-define-xml-editor.md) | *Editor for CDISC Define-XML standard.*..[ *read more* ](apps/visual-define-xml-editor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/visual-define-xml-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/visual-define-xml-editor) |
 | <img src="icons/visualfamilytree.png" width="48" height="48"> | [***visualfamilytree***](apps/visualfamilytree.md) | *Create a family tree with information and pictures.*..[ *read more* ](apps/visualfamilytree.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/visualfamilytree) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/visualfamilytree) |
 | <img src="icons/vita3k.png" width="48" height="48"> | [***vita3k***](apps/vita3k.md) | *Experimental PlayStation Vita emulator.*..[ *read more* ](apps/vita3k.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vita3k) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vita3k) |
