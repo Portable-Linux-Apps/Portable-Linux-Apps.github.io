@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2088** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2089** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1648,6 +1648,7 @@
 | <img src="icons/sigdigger.png" width="48" height="48"> | [***sigdigger***](apps/sigdigger.md) | *Signal analyzer, using Suscan core and Sigutils DSP library.*..[ *read more* ](apps/sigdigger.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sigdigger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sigdigger) |
 | <img src="icons/sigma-file-manager.png" width="48" height="48"> | [***sigma-file-manager***](apps/sigma-file-manager.md) | *A free, open-source, modern file manager.*..[ *read more* ](apps/sigma-file-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sigma-file-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sigma-file-manager) |
 | <img src="icons/sigmaspectra.png" width="48" height="48"> | [***sigmaspectra***](apps/sigmaspectra.md) | *Semi-automated selection and scaling of time series.*..[ *read more* ](apps/sigmaspectra.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sigmaspectra) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sigmaspectra) |
+| <img src="icons/signal.png" width="48" height="48"> | [***signal***](apps/signal.md) | *Unofficial AppImage package for Signal (communication).*..[ *read more* ](apps/signal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/signal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/signal) |
 | <img src="icons/sigrok-cli.png" width="48" height="48"> | [***sigrok-cli***](apps/sigrok-cli.md) | *Control your logic analyzer, oscilloscope, or MSO.*..[ *read more* ](apps/sigrok-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sigrok-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sigrok-cli) |
 | <img src="icons/silex-desktop.png" width="48" height="48"> | [***silex-desktop***](apps/silex-desktop.md) | *This is the official Silex desktop version.*..[ *read more* ](apps/silex-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/silex-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/silex-desktop) |
 | <img src="icons/siliconsneaker.png" width="48" height="48"> | [***siliconsneaker***](apps/siliconsneaker.md) | *View runs from your Garmin brand watch*..[ *read more* ](apps/siliconsneaker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/siliconsneaker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/siliconsneaker) |
