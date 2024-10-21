@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2468** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2469** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -750,6 +750,7 @@
 | <img src="icons/flacon.png" width="48" height="48"> | [***flacon***](apps/flacon.md) | *Audio File Encoder. Extracts audio tracks from audio CDs.*..[ *read more* ](apps/flacon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flacon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flacon) |
 | <img src="icons/flameshot.png" width="48" height="48"> | [***flameshot***](apps/flameshot.md) | *Tool to take screenshots with many built-in features, graphics.*..[ *read more* ](apps/flameshot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flameshot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flameshot) |
 | <img src="icons/flare.png" width="48" height="48"> | [***flare***](apps/flare.md) | *Fantasy action RPG game using the FLARE engine.*..[ *read more* ](apps/flare.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flare) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flare) |
+| <img src="icons/flashpoint.png" width="48" height="48"> | [***flashpoint***](apps/flashpoint.md) | *Flashpoint Archive is a community effort to preserve games and animations from the web.*..[ *read more* ](apps/flashpoint.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flashpoint) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flashpoint) |
 | <img src="icons/flawesome.png" width="48" height="48"> | [***flawesome***](apps/flawesome.md) | *Flawesome is a modern productivity tool.*..[ *read more* ](apps/flawesome.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flawesome) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flawesome) |
 | <img src="icons/flb.png" width="48" height="48"> | [***flb***](apps/flb.md) | *A beautiful Feature Rich Music Player and Downloader,cross platform.*..[ *read more* ](apps/flb.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flb) |
 | <img src="icons/flightgear-airports.png" width="48" height="48"> | [***flightgear-airports***](apps/flightgear-airports.md) | *A software to design Flightgear groundnets.*..[ *read more* ](apps/flightgear-airports.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flightgear-airports) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flightgear-airports) |
