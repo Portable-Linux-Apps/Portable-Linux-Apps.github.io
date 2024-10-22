@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **67** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **68** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -100,6 +100,7 @@
 | <img src="icons/tweaksophia.png" width="48" height="48"> | [***tweaksophia***](apps/tweaksophia.md) | *An app to automatically renew the books of the SophiA system.*..[ *read more* ](apps/tweaksophia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tweaksophia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tweaksophia) |
 | <img src="icons/unoffical-qwerty-learner.png" width="48" height="48"> | [***unoffical-qwerty-learner***](apps/unoffical-qwerty-learner.md) | *Unofficial. Words learning and English muscle memory training.*..[ *read more* ](apps/unoffical-qwerty-learner.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unoffical-qwerty-learner) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unoffical-qwerty-learner) |
 | <img src="icons/vocabsieve.png" width="48" height="48"> | [***vocabsieve***](apps/vocabsieve.md) | *Simple sentence mining tool for language learning.*..[ *read more* ](apps/vocabsieve.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vocabsieve) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vocabsieve) |
+| <img src="icons/waydroid-helper.png" width="48" height="48"> | [***waydroid-helper***](apps/waydroid-helper.md) | *App that provides a user-friendly way to configure Waydroid and install extensions, including Magisk and ARM translation (android).*..[ *read more* ](apps/waydroid-helper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/waydroid-helper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/waydroid-helper) |
 | <img src="icons/xgetter.png" width="48" height="48"> | [***xgetter***](apps/xgetter.md) | *Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Bilibili, Douyin and more.*..[ *read more* ](apps/xgetter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xgetter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xgetter) |
 | <img src="icons/x-loc.png" width="48" height="48"> | [***x-loc***](apps/x-loc.md) | *Extra localizations/translations manager for Stardew Valley.*..[ *read more* ](apps/x-loc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/x-loc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/x-loc) |
 
