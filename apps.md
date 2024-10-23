@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2470** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2471** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1363,6 +1363,7 @@
 | <img src="icons/minecraft-launcher.png" width="48" height="48"> | [***minecraft-launcher***](apps/minecraft-launcher.md) | *Game downloader and launcher for Minecraft.*..[ *read more* ](apps/minecraft-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/minecraft-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/minecraft-launcher) |
 | <img src="icons/minetest.png" width="48" height="48"> | [***minetest***](apps/minetest.md) | *Multiplayer infinite-world block sandbox.*..[ *read more* ](apps/minetest.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/minetest) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/minetest) |
 | <img src="icons/minetime.png" width="48" height="48"> | [***minetime***](apps/minetime.md) | *Smart scheduling assistant.*..[ *read more* ](apps/minetime.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/minetime) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/minetime) |
+| <img src="icons/migu.png" width="48" height="48"> | [***migu***](apps/migu.md) | *Stream anime torrents, real-time with no waiting for downloads.*..[ *read more* ](apps/migu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/migu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/migu) |
 | <img src="icons/mini-diary.png" width="48" height="48"> | [***mini-diary***](apps/mini-diary.md) | *Simple and secure journal app.*..[ *read more* ](apps/mini-diary.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mini-diary) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mini-diary) |
 | <img src="icons/minififa.png" width="48" height="48"> | [***minififa***](apps/minififa.md) | *OpenGL-powered third-person football, soccer game.*..[ *read more* ](apps/minififa.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/minififa) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/minififa) |
 | <img src="icons/minimal-podcasts-player.png" width="48" height="48"> | [***minimal-podcasts-player***](apps/minimal-podcasts-player.md) | *Subscribe, listen and download your podcasts.*..[ *read more* ](apps/minimal-podcasts-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/minimal-podcasts-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/minimal-podcasts-player) |
