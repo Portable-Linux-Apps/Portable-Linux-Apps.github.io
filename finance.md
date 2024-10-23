@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **60** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **61** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -50,6 +50,7 @@
 | <img src="icons/cro-chain-desktop-bin.png" width="48" height="48"> | [***cro-chain-desktop-bin***](apps/cro-chain-desktop-bin.md) | *Crypto.com DeFi Desktop Wallet, AppImage version.*..[ *read more* ](apps/cro-chain-desktop-bin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cro-chain-desktop-bin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cro-chain-desktop-bin) |
 | <img src="icons/dbet-wallet.png" width="48" height="48"> | [***dbet-wallet***](apps/dbet-wallet.md) | *DBET Wallet.*..[ *read more* ](apps/dbet-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dbet-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dbet-wallet) |
 | <img src="icons/defichain-app.png" width="48" height="48"> | [***defichain-app***](apps/defichain-app.md) | *DefiChain Wallet AppImage.*..[ *read more* ](apps/defichain-app.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/defichain-app) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/defichain-app) |
+| <img src="icons/electrum-ltc.png" width="48" height="48"> | [***electrum-ltc***](apps/electrum-ltc.md) | *A simple, but powerful Litecoin wallet.*..[ *read more* ](apps/electrum-ltc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electrum-ltc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electrum-ltc) |
 | <img src="icons/elphyre-walletshell.png" width="48" height="48"> | [***elphyre-walletshell***](apps/elphyre-walletshell.md) | *Elphyrecoin GUI Wallet.*..[ *read more* ](apps/elphyre-walletshell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elphyre-walletshell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elphyre-walletshell) |
 | <img src="icons/eqonomize.png" width="48" height="48"> | [***eqonomize***](apps/eqonomize.md) | *Manage your personal finances.*..[ *read more* ](apps/eqonomize.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eqonomize) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eqonomize) |
 | <img src="icons/eximchain-wallet.png" width="48" height="48"> | [***eximchain-wallet***](apps/eximchain-wallet.md) | *Eximchain Wallet web and electron app.*..[ *read more* ](apps/eximchain-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eximchain-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eximchain-wallet) |

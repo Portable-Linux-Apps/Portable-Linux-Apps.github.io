@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2091** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2092** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -513,6 +513,7 @@
 | <img src="icons/electron-xiami.png" width="48" height="48"> | [***electron-xiami***](apps/electron-xiami.md) | *Xiami Electron desktop application.*..[ *read more* ](apps/electron-xiami.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electron-xiami) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electron-xiami) |
 | <img src="icons/electrumfair.png" width="48" height="48"> | [***electrumfair***](apps/electrumfair.md) | *Lightweight FairCoin Client.*..[ *read more* ](apps/electrumfair.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electrumfair) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electrumfair) |
 | <img src="icons/electrum.png" width="48" height="48"> | [***electrum***](apps/electrum.md) | *Lightweight Bitcoin Client.*..[ *read more* ](apps/electrum.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electrum) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electrum) |
+| <img src="icons/electrum-ltc.png" width="48" height="48"> | [***electrum-ltc***](apps/electrum-ltc.md) | *A simple, but powerful Litecoin wallet.*..[ *read more* ](apps/electrum-ltc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electrum-ltc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electrum-ltc) |
 | <img src="icons/electrum-nmc.png" width="48" height="48"> | [***electrum-nmc***](apps/electrum-nmc.md) | *Lightweight Namecoin Client.*..[ *read more* ](apps/electrum-nmc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electrum-nmc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electrum-nmc) |
 | <img src="icons/electrum-ravencoin.png" width="48" height="48"> | [***electrum-ravencoin***](apps/electrum-ravencoin.md) | *Forked from the Electrum Bitcoin base client.*..[ *read more* ](apps/electrum-ravencoin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electrum-ravencoin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electrum-ravencoin) |
 | <img src="icons/element.png" width="48" height="48"> | [***element***](apps/element.md) | *A feature-rich client for Matrix.org.*..[ *read more* ](apps/element.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/element) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/element) |
