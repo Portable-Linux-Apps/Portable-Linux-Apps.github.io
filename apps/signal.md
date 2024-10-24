@@ -6,7 +6,7 @@
 
  SITE: https://signal.org
 
- UNOFFICIAL APPIMAGE: https://github.com/Twig6943/Signal-AppImage
+ UNOFFICIAL APPIMAGE: https://github.com/karo-solutions/Signal-Desktop-AppImage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
