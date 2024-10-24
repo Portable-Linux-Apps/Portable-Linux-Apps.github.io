@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **211** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **212** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -211,6 +211,7 @@
 | <img src="icons/pelusica.png" width="48" height="48"> | [***pelusica***](apps/pelusica.md) | *Action game, control the blue dot with your keyboard/create music.*..[ *read more* ](apps/pelusica.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pelusica) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pelusica) |
 | <img src="icons/picmi.png" width="48" height="48"> | [***picmi***](apps/picmi.md) | *Single player logic-based puzzle game. This script installs the full "kdegames" suite.*..[ *read more* ](apps/picmi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picmi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picmi) |
 | <img src="icons/pigs-n-cows.png" width="48" height="48"> | [***pigs-n-cows***](apps/pigs-n-cows.md) | *A relaxing game for children and adults alike.*..[ *read more* ](apps/pigs-n-cows.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pigs-n-cows) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pigs-n-cows) |
+| <img src="icons/pince.png" width="48" height="48"> | [***pince***](apps/pince.md) | *Reverse engineering tool for linux games.*..[ *read more* ](apps/pince.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pince) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pince) |
 | <img src="icons/planes.png" width="48" height="48"> | [***planes***](apps/planes.md) | *Variant of battleships game.*..[ *read more* ](apps/planes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/planes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/planes) |
 | <img src="icons/planet-blupi.png" width="48" height="48"> | [***planet-blupi***](apps/planet-blupi.md) | *A delirious spell-binding game.*..[ *read more* ](apps/planet-blupi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/planet-blupi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/planet-blupi) |
 | <img src="icons/play-2048.png" width="48" height="48"> | [***play-2048***](apps/play-2048.md) | *Another implementation of the 2048 game.*..[ *read more* ](apps/play-2048.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/play-2048) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/play-2048) |
