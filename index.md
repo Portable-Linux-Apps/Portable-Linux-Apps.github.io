@@ -42,8 +42,6 @@
 - [What programs can be installed](#what-programs-can-be-installed)
 - [How to update all programs, for real](#how-to-update-all-programs-for-real)
 - [Installation](#installation)
-  - [How to install "AM"](#how-to-install-quotamquot)
-  - [How to install "AppMan"](#how-to-install-quotappmanquot)
 - [External links index (tutorials, troubleshooting, sandboxing... more)](#external-links-index)
 - [Related projects](#related-projects)
 
@@ -276,23 +274,7 @@ appman -i topgrade
 # Installation
 *This section explains how to install "AM" or "AppMan".*
 
-*If you don't know the difference, please read "[Differences between "AM" and "AppMan"](#differences-between-quotamquot-and-quotappmanquot)" first.*
-
-*You can choose to continue reading and see the installation methods in detail (jump to "[Core dependences](#core-dependences)"), or you can choose to use the common installer for "AM" and "AppMan", named "[AM-INSTALLER](https://github.com/ivan-hc/AM/blob/main/AM-INSTALLER)", by downloading the script and making it executable, like this:*
-```
-wget -q https://raw.githubusercontent.com/ivan-hc/AM/main/AM-INSTALLER
-chmod a+x ./AM-INSTALLER
-./AM-INSTALLER
-```
-*Type "1" to install "AM" (requires "`sudo`"/"`doas`" password), "2" to install "AppMan". Any other key will abort the installation.*
-
-| ![AM-INSTALLER](https://github.com/user-attachments/assets/82b21979-e99d-4bee-b466-716bac1e7e45) |
-| - |
-
-*This "[AM-INSTALLER](https://github.com/ivan-hc/AM/blob/main/AM-INSTALLER)" script acts as a "launcher" to speed up the processes available in the guides "[How to install "AM"](#how-to-install-quotamquot)" and "[How to install "AppMan"](#how-to-install-quotappmanquot)".*
-
-------------------------------------------------------------------------
-#### Core dependences
+#### Core dependencies
 *Below are the **essential system dependencies** that you must install before proceeding:*
 - *"`coreutils`" (contains "`cat`", "`chmod`", "`chown`"...);*
 - *"`curl`", to check URLs;*
@@ -301,23 +283,49 @@ chmod a+x ./AM-INSTALLER
 - *"`sed`", to edit/adapt installed files;*
 - *"`wget`" to download all programs and update "AM"/"AppMan" itself.*
 
-#### Dependency only for "AM"
-- *"`sudo`" or "`doas`", required by "AM" to install/remove programs and sandbox AppImages.*
+- *"`sudo`" or "`doas`", required by "AM" only, to install/remove programs and sandbox AppImages.*
 
-#### Extra dependences (recommended)
-*The following are optional dependencies that some programs may require:*
+#### Extra dependencies (recommended)
+<details>
+  <summary>Click here to see the optional dependencies that some programs may require</summary>
+
 - *"`binutils`", contains a series of basic commands, including "`ar`" which extracts .deb packages;*
 - *"`unzip`", to extract .zip packages;*
 - *"`tar`", to extract .tar* packages;*
 - *"`torsocks`", to connect to the TOR network;*
 - *"`zsync`", required by very few programs and AppImages (although it is mentioned in all installation scripts, it is often disabled because the managed .zsync files are often broken, especially for apps hosted on github.com).*
 
-### Proceede
+</details>
 
-- [How to install "AM"](#how-to-install-quotamquot)
-- [How to install "AppMan"](#how-to-install-quotappmanquot)
+------------------------------------------------------------------------
+### Quick installation
+*Copy/paste the following one line command to download and run the "[AM-INSTALLER](https://github.com/ivan-hc/AM/blob/main/AM-INSTALLER)" script*
+```
+wget -q https://raw.githubusercontent.com/ivan-hc/AM/main/AM-INSTALLER && chmod a+x ./AM-INSTALLER && ./AM-INSTALLER
+```
+*...below, the screenshot of what will appear*
+| ![AM-INSTALLER](https://github.com/user-attachments/assets/82b21979-e99d-4bee-b466-716bac1e7e45) |
+| - |
 
+*Type "1" to install "AM", "2" to install "AppMan". Any other key will abort the installation (please read "[Differences between "AM" and "AppMan"](#differences-between-am-and-appman)" first).*
 
+*Now you are ready to use this CLI.*
+
+*For more details on how "AM" and "AppMan" are installed via the "[AM-INSTALLER](https://github.com/ivan-hc/AM/blob/main/AM-INSTALLER)" script, see "[*Step by step installation*](#step-by-step-installation)", in the next paragraph.*
+
+------------------------------------------------------------------------
+### Step by step installation
+*Do you prefer to install "AM" or "AppMan" without using the "AM-INSTALLER" script?*
+
+*Also do you want to know in detail how they are installed in the system?*
+
+<details>
+  <summary> click here! </summary>
+
+- [How to install "AM"](#how-to-install-am)
+- [How to install "AppMan"](#how-to-install-appman)
+
+------------------------------------------------------------------------
 ## How to install "AM"
 *"**AM**" is ment to be installed at system level to manage apps.*
 
@@ -378,6 +386,8 @@ wget https://raw.githubusercontent.com/ivan-hc/AM/main/APP-MANAGER -O appman && 
 - *the directory "/path/to/your/custom/directory/modules" (containing the .am modules for the non-core options)*
 - *the configuration file "$HOME/.config/appman/appman-config" (the only fixed directory)*
 
+</details>
+
 ------------------------------------------------------------------------
 
 | [Back to "Main Index"](#main-index) |
@@ -400,6 +410,8 @@ appman -R {PROGRAM1} {PROGRAM2} {PROGRAM3}...
 *to have a list of the installed programs use the option `-f` or `files` (syntax `am -f` or `appman -f`).*
 
 *See also "How to update or remove apps manually", at [github.com/ivan-hc/AM#how-to-update-or-remove-apps-manually](https://github.com/ivan-hc/AM#how-to-update-or-remove-apps-manually).*
+
+</details>
 
 ------------------------------------------------------------------------
 ### External links index
