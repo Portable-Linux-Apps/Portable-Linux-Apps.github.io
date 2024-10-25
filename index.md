@@ -307,7 +307,7 @@ wget -q https://raw.githubusercontent.com/ivan-hc/AM/main/AM-INSTALLER && chmod 
 | ![AM-INSTALLER](https://github.com/user-attachments/assets/82b21979-e99d-4bee-b466-716bac1e7e45) |
 | - |
 
-*Type "1" to install "AM", "2" to install "AppMan". Any other key will abort the installation (please read "[Differences between "AM" and "AppMan"](#differences-between-am-and-appman)" first).*
+*Type "1" to install "AM", "2" to install "AppMan". Any other key will abort the installation (please read "[Differences between "AM" and "AppMan"](#differences-between-quotamquot-and-quotappmanquot)" first).*
 
 *Now you are ready to use this CLI.*
 
