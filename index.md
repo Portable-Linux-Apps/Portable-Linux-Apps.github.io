@@ -322,8 +322,8 @@ wget -q https://raw.githubusercontent.com/ivan-hc/AM/main/AM-INSTALLER && chmod 
 <details>
   <summary> click here! </summary>
 
-- [How to install "AM"](#how-to-install-am)
-- [How to install "AppMan"](#how-to-install-appman)
+- [How to install "AM"](#how-to-install-quotamquot)
+- [How to install "AppMan"](#how-to-install-quotappmanquot)
 
 ------------------------------------------------------------------------
 ## How to install "AM"
