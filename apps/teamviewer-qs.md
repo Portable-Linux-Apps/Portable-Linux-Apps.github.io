@@ -1,6 +1,6 @@
-# TEAMVIEWER
+# TEAMVIEWER-QS
 
- A secure and scalable remote connectivity platform for your business.
+ QuickSupport utility for TeamViewer.
 
  SITE: https://www.teamviewer.com
 
