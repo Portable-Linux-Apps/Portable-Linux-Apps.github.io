@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **135** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **136** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -142,6 +142,7 @@
 | <img src="icons/soniclineup.png" width="48" height="48"> | [***soniclineup***](apps/soniclineup.md) | *Comparative visualisation of multiple audio files.*..[ *read more* ](apps/soniclineup.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soniclineup) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soniclineup) |
 | <img src="icons/sonicvisualiser.png" width="48" height="48"> | [***sonicvisualiser***](apps/sonicvisualiser.md) | *Viewing and analysing the contents of music audio files.*..[ *read more* ](apps/sonicvisualiser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonicvisualiser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonicvisualiser) |
 | <img src="icons/sonixd.png" width="48" height="48"> | [***sonixd***](apps/sonixd.md) | *A full-featured Subsonic/Jellyfin compatible desktop music player.*..[ *read more* ](apps/sonixd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonixd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonixd) |
+| <img src="icons/sonusmix.png" width="48" height="48"> | [***sonusmix***](apps/sonusmix.md) | *Next-gen Pipewire audio routing tool.*..[ *read more* ](apps/sonusmix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonusmix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonusmix) |
 | <img src="icons/soundcloud-rpc.png" width="48" height="48"> | [***soundcloud-rpc***](apps/soundcloud-rpc.md) | *A SoundCloud client with Discord Rich Presence and AdBlock.*..[ *read more* ](apps/soundcloud-rpc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soundcloud-rpc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soundcloud-rpc) |
 | <img src="icons/spmp.png" width="48" height="48"> | [***spmp***](apps/spmp.md) | *A YouTube Music client with a focus on customisation of colours and song metadata.*..[ *read more* ](apps/spmp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spmp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spmp) |
 | <img src="icons/spotify.png" width="48" height="48"> | [***spotify***](apps/spotify.md) | *Unofficial. A proprietary music streaming service.*..[ *read more* ](apps/spotify.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify) |

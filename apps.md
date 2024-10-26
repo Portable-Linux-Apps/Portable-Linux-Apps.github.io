@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2475** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2476** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2074,6 +2074,7 @@
 | <img src="icons/soniclineup.png" width="48" height="48"> | [***soniclineup***](apps/soniclineup.md) | *Comparative visualisation of multiple audio files.*..[ *read more* ](apps/soniclineup.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soniclineup) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soniclineup) |
 | <img src="icons/sonicvisualiser.png" width="48" height="48"> | [***sonicvisualiser***](apps/sonicvisualiser.md) | *Viewing and analysing the contents of music audio files.*..[ *read more* ](apps/sonicvisualiser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonicvisualiser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonicvisualiser) |
 | <img src="icons/sonixd.png" width="48" height="48"> | [***sonixd***](apps/sonixd.md) | *A full-featured Subsonic/Jellyfin compatible desktop music player.*..[ *read more* ](apps/sonixd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonixd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonixd) |
+| <img src="icons/sonusmix.png" width="48" height="48"> | [***sonusmix***](apps/sonusmix.md) | *Next-gen Pipewire audio routing tool.*..[ *read more* ](apps/sonusmix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonusmix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonusmix) |
 | <img src="icons/s.png" width="48" height="48"> | [***s***](apps/s.md) | *Open a web search in your terminal.*..[ *read more* ](apps/s.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/s) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/s) |
 | <img src="icons/sortty.png" width="48" height="48"> | [***sortty***](apps/sortty.md) | *sortty - sorting algorithms in the terminal.*..[ *read more* ](apps/sortty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sortty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sortty) |
 | <img src="icons/soul-arena.png" width="48" height="48"> | [***soul-arena***](apps/soul-arena.md) | *Bleach-based online multiplayer strategy game.*..[ *read more* ](apps/soul-arena.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soul-arena) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soul-arena) |
