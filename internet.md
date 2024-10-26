@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **160** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **161** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -98,6 +98,7 @@
 | <img src="icons/firefox-nightly-appimage.png" width="48" height="48"> | [***firefox-nightly-appimage***](apps/firefox-nightly-appimage.md) | *Unofficial AppImage of the Web Browser, Nightly.*..[ *read more* ](apps/firefox-nightly-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firefox-nightly-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firefox-nightly-appimage) |
 | <img src="icons/firefox-nightly.png" width="48" height="48"> | [***firefox-nightly***](apps/firefox-nightly.md) | *Fast, powerful and extensible Web Browser, Nightly Edition.*..[ *read more* ](apps/firefox-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firefox-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firefox-nightly) |
 | <img src="icons/floorp.png" width="48" height="48"> | [***floorp***](apps/floorp.md) | *Floorp Web Browser, the most Advanced and Fastest Firefox derivative.*..[ *read more* ](apps/floorp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/floorp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/floorp) |
+| <img src="icons/fluffychat.png" width="48" height="48"> | [***fluffychat***](apps/fluffychat.md) | *The cutest instant messenger in the matrix.*..[ *read more* ](apps/fluffychat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fluffychat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fluffychat) |
 | <img src="icons/forkgram.png" width="48" height="48"> | [***forkgram***](apps/forkgram.md) | *Fork of Telegram Desktop messaging app.*..[ *read more* ](apps/forkgram.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/forkgram) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/forkgram) |
 | <img src="icons/fraidycat.png" width="48" height="48"> | [***fraidycat***](apps/fraidycat.md) | *Follow blogs, wikis, YouTube, Twitter, Reddit, Instagram and more.*..[ *read more* ](apps/fraidycat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fraidycat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fraidycat) |
 | <img src="icons/franz.png" width="48" height="48"> | [***franz***](apps/franz.md) | *Messaging app for WhatsApp, Slack, Telegram, HipChat and much more.*..[ *read more* ](apps/franz.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/franz) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/franz) |
