@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **212** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **213** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -41,6 +41,7 @@
 | <img src="icons/antimicrox.png" width="48" height="48"> | [***antimicrox***](apps/antimicrox.md) | *Use a gamepad to control a variety of programs.*..[ *read more* ](apps/antimicrox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/antimicrox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/antimicrox) |
 | <img src="icons/arcade-manager.png" width="48" height="48"> | [***arcade-manager***](apps/arcade-manager.md) | *Manage your rom collection, Games/Retropie & Recalbox.*..[ *read more* ](apps/arcade-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/arcade-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/arcade-manager) |
 | <img src="icons/archipelago.png" width="48" height="48"> | [***archipelago***](apps/archipelago.md) | *Archipelago Multi-Game Randomizer and Server.*..[ *read more* ](apps/archipelago.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/archipelago) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/archipelago) |
+| <img src="icons/archisteamfarm.png" width="48" height="48"> | [***archisteamfarm***](apps/archisteamfarm.md) | *C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.*..[ *read more* ](apps/archisteamfarm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/archisteamfarm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/archisteamfarm) |
 | <img src="icons/arena-tracker.png" width="48" height="48"> | [***arena-tracker***](apps/arena-tracker.md) | *Deck Tracker for Hearthstone game with arena in focus.*..[ *read more* ](apps/arena-tracker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/arena-tracker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/arena-tracker) |
 | <img src="icons/arma3-unix-launcher.png" width="48" height="48"> | [***arma3-unix-launcher***](apps/arma3-unix-launcher.md) | *ArmA 3 Unix Launcher, game.*..[ *read more* ](apps/arma3-unix-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/arma3-unix-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/arma3-unix-launcher) |
 | <img src="icons/armagetronad.png" width="48" height="48"> | [***armagetronad***](apps/armagetronad.md) | *Multiplayer game in 3d that emulates the movie "Tron".*..[ *read more* ](apps/armagetronad.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/armagetronad) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/armagetronad) |
