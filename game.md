@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **218** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **219** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -197,6 +197,7 @@
 | <img src="icons/openarena.png" width="48" height="48"> | [***openarena***](apps/openarena.md) | *Violent & sexy, multiplayer first person shooter game, ioquake3.*..[ *read more* ](apps/openarena.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openarena) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openarena) |
 | <img src="icons/openblok.png" width="48" height="48"> | [***openblok***](apps/openblok.md) | *A customizable falling block puzzle game like tetris.*..[ *read more* ](apps/openblok.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openblok) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openblok) |
 | <img src="icons/openhv.png" width="48" height="48"> | [***openhv***](apps/openhv.md) | *A mod for OpenRA based on the Hard Vacuum, game.*..[ *read more* ](apps/openhv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openhv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openhv) |
+| <img src="icons/openmw.png" width="48" height="48"> | [***openmw***](apps/openmw.md) | *OpenMW is an open-source open-world RPG game engine that supports playing Morrowind.*..[ *read more* ](apps/openmw.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openmw) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openmw) |
 | <img src="icons/openop2.png" width="48" height="48"> | [***openop2***](apps/openop2.md) | *Re-implementation of the game Outpost 2, using the OpenRA engine.*..[ *read more* ](apps/openop2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openop2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openop2) |
 | <img src="icons/openra-dune.png" width="48" height="48"> | [***openra-dune***](apps/openra-dune.md) | *Real-time strategy game engine, MOD Dune 2000.*..[ *read more* ](apps/openra-dune.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openra-dune) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openra-dune) |
 | <img src="icons/openramodsdk.png" width="48" height="48"> | [***openramodsdk***](apps/openramodsdk.md) | *Dev Kit for building your own games using the OpenRA engine.*..[ *read more* ](apps/openramodsdk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openramodsdk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openramodsdk) |

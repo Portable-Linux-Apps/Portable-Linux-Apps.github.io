@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2501** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2502** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1584,6 +1584,7 @@
 | <img src="icons/openhv.png" width="48" height="48"> | [***openhv***](apps/openhv.md) | *A mod for OpenRA based on the Hard Vacuum, game.*..[ *read more* ](apps/openhv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openhv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openhv) |
 | <img src="icons/openlens.png" width="48" height="48"> | [***openlens***](apps/openlens.md) | *OpenLens Binary Build Repository.*..[ *read more* ](apps/openlens.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openlens) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openlens) |
 | <img src="icons/open-markup-editor.png" width="48" height="48"> | [***open-markup-editor***](apps/open-markup-editor.md) | *Pluggable markup editor.*..[ *read more* ](apps/open-markup-editor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/open-markup-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/open-markup-editor) |
+| <img src="icons/openmw.png" width="48" height="48"> | [***openmw***](apps/openmw.md) | *OpenMW is an open-source open-world RPG game engine that supports playing Morrowind.*..[ *read more* ](apps/openmw.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openmw) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openmw) |
 | <img src="icons/openop2.png" width="48" height="48"> | [***openop2***](apps/openop2.md) | *Re-implementation of the game Outpost 2, using the OpenRA engine.*..[ *read more* ](apps/openop2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openop2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openop2) |
 | <img src="icons/openosrs-launcher.png" width="48" height="48"> | [***openosrs-launcher***](apps/openosrs-launcher.md) | *Open-source client for Old School RuneScape.*..[ *read more* ](apps/openosrs-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openosrs-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openosrs-launcher) |
 | <img src="icons/openpilot-workbench.png" width="48" height="48"> | [***openpilot-workbench***](apps/openpilot-workbench.md) | *Fix problems with EON/Openpilot.*..[ *read more* ](apps/openpilot-workbench.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openpilot-workbench) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openpilot-workbench) |
