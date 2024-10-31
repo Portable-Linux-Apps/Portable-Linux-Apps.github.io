@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **151** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **152** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -37,6 +37,7 @@
 | <img src="icons/animos.png" width="48" height="48"> | [***animos***](apps/animos.md) | *Anime-streaming desktop application without any ads.*..[ *read more* ](apps/animos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/animos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/animos) |
 | <img src="icons/armagetronad.png" width="48" height="48"> | [***armagetronad***](apps/armagetronad.md) | *Multiplayer game in 3d that emulates the movie "Tron".*..[ *read more* ](apps/armagetronad.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/armagetronad) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/armagetronad) |
 | <img src="icons/around.png" width="48" height="48"> | [***around***](apps/around.md) | *Video calls designed for energy, ideas and action.*..[ *read more* ](apps/around.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/around) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/around) |
+| <img src="icons/audiorelay.png" width="48" height="48"> | [***audiorelay***](apps/audiorelay.md) | *Stream audio between your devices. Turn your phone into a microphone or speakers for PC.*..[ *read more* ](apps/audiorelay.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audiorelay) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audiorelay) |
 | <img src="icons/avidemux.png" width="48" height="48"> | [***avidemux***](apps/avidemux.md) | *Multiplatform Video Editor.*..[ *read more* ](apps/avidemux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/avidemux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/avidemux) |
 | <img src="icons/avidemux-nightly.png" width="48" height="48"> | [***avidemux-nightly***](apps/avidemux-nightly.md) | *Multiplatform Video Editor, nightly build.*..[ *read more* ](apps/avidemux-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/avidemux-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/avidemux-nightly) |
 | <img src="icons/bilibilivideodownload.png" width="48" height="48"> | [***bilibilivideodownload***](apps/bilibilivideodownload.md) | *Bilibili video downloader.*..[ *read more* ](apps/bilibilivideodownload.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bilibilivideodownload) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bilibilivideodownload) |

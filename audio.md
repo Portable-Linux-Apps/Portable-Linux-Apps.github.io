@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **137** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **138** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -42,6 +42,7 @@
 | <img src="icons/audacity.png" width="48" height="48"> | [***audacity***](apps/audacity.md) | *Multiplatform Audio Editor.*..[ *read more* ](apps/audacity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audacity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audacity) |
 | <img src="icons/audapolis.png" width="48" height="48"> | [***audapolis***](apps/audapolis.md) | *An editor for spoken-word audio with automatic transcription.*..[ *read more* ](apps/audapolis.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audapolis) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audapolis) |
 | <img src="icons/audiomoth.png" width="48" height="48"> | [***audiomoth***](apps/audiomoth.md) | *Configuration app for the AudioMoth acoustic monitoring device.*..[ *read more* ](apps/audiomoth.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audiomoth) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audiomoth) |
+| <img src="icons/audiorelay.png" width="48" height="48"> | [***audiorelay***](apps/audiorelay.md) | *Stream audio between your devices. Turn your phone into a microphone or speakers for PC.*..[ *read more* ](apps/audiorelay.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audiorelay) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audiorelay) |
 | <img src="icons/auryo.png" width="48" height="48"> | [***auryo***](apps/auryo.md) | *An audio/music desktop client for SoundCloud.*..[ *read more* ](apps/auryo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/auryo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/auryo) |
 | <img src="icons/blob-dl.png" width="48" height="48"> | [***blob-dl***](apps/blob-dl.md) | *Blob-dl is a yt-dlp CLI interface used to download video and audio files from YouTube.*..[ *read more* ](apps/blob-dl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/blob-dl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/blob-dl) |
 | <img src="icons/bloomee.png" width="48" height="48"> | [***bloomee***](apps/bloomee.md) | *Music app designed to bring you ad-free tunes from various sources.*..[ *read more* ](apps/bloomee.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bloomee) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bloomee) |
