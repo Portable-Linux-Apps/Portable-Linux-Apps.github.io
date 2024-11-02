@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2101** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2102** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -634,6 +634,7 @@
 | <img src="icons/flightgear-airports.png" width="48" height="48"> | [***flightgear-airports***](apps/flightgear-airports.md) | *A software to design Flightgear groundnets.*..[ *read more* ](apps/flightgear-airports.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flightgear-airports) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flightgear-airports) |
 | <img src="icons/flightgear.png" width="48" height="48"> | [***flightgear***](apps/flightgear.md) | *Free, open source flight simulator developed since 1997.*..[ *read more* ](apps/flightgear.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flightgear) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flightgear) |
 | <img src="icons/flippy-qualitative-testbench.png" width="48" height="48"> | [***flippy-qualitative-testbench***](apps/flippy-qualitative-testbench.md) | *Music sheet reader.*..[ *read more* ](apps/flippy-qualitative-testbench.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flippy-qualitative-testbench) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flippy-qualitative-testbench) |
+| <img src="icons/flowinity.png" width="48" height="48"> | [***flowinity***](apps/flowinity.md) | *The versatile all-in-one online platform, for everyone.*..[ *read more* ](apps/flowinity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flowinity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flowinity) |
 | <img src="icons/fluent-reader.png" width="48" height="48"> | [***fluent-reader***](apps/fluent-reader.md) | *Modern desktop RSS reader.*..[ *read more* ](apps/fluent-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fluent-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fluent-reader) |
 | <img src="icons/flycast.png" width="48" height="48"> | [***flycast***](apps/flycast.md) | *A Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator.*..[ *read more* ](apps/flycast.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flycast) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flycast) |
 | <img src="icons/flyingcarpet.png" width="48" height="48"> | [***flyingcarpet***](apps/flyingcarpet.md) | *Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.*..[ *read more* ](apps/flyingcarpet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flyingcarpet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flyingcarpet) |
