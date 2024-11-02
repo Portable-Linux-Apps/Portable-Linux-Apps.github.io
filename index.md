@@ -38,7 +38,8 @@
   - [What is "AppMan"?](#what-is-appman)
   - [AM installation structure](#am-installation-structure)
   - [How are apps installed](#how-are-apps-installed)
-  - [What programs can be installed](#what-programs-can-be-installed)[How to update all programs, for real](#how-to-update-all-programs-for-real)
+  - [What programs can be installed](#what-programs-can-be-installed)
+  - [How to update all programs, for real](#how-to-update-all-programs-for-real)
 - [External links index (tutorials, troubleshooting, sandboxing... more)](#external-links-index)
 - [Related projects](#related-projects)
 
