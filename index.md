@@ -34,14 +34,11 @@
 - [How is this site different from other sites that list AppImage packages?](#how-is-this-site-different-from-other-sites-that-list-appimage-packages)
 - [How can I improve the pages on this site?](#how-can-i-improve-the-pages-on-this-site)
 - [Is there a centralized repository for AppImage packages?](#is-there-a-centralized-repository-for-appimage-packages)
-- [Differences between "AM" and "AppMan"](#differences-between-quotamquot-and-quotappmanquot)
-  - [Ownership](#ownership)
-  - [About "sudo" usage](#about-quotsudoquot-usage)
-  - [How apps are installed](#how-apps-are-installed)
-  - [How to use "AM" in non-privileged mode, like "AppMan"](#how-to-use-quotamquot-in-non-privileged-mode-like-quotappmanquot)
-- [What programs can be installed](#what-programs-can-be-installed)
-- [How to update all programs, for real](#how-to-update-all-programs-for-real)
-- [Installation](#installation)
+- [How to install "AM"](#how-to-install-am)
+  - [What is "AppMan"?](#what-is-appman)
+  - [AM installation structure](#am-installation-structure)
+  - [How are apps installed](#how-are-apps-installed)
+  - [What programs can be installed](#what-programs-can-be-installed)[How to update all programs, for real](#how-to-update-all-programs-for-real)
 - [External links index (tutorials, troubleshooting, sandboxing... more)](#external-links-index)
 - [Related projects](#related-projects)
 
@@ -87,10 +84,6 @@
 
 *This catalog and its CLI, "[**AM**](https://github.com/ivan-hc/AM)", make it easy for you to find, install, integrate and update all AppImage packages!*
 
-*This catalog is just the frontend for an ever growing database that aims to extend not only to x86_64 architecture apps listed here, but also to all others, from the modern ARM64/aarch64 to oldest i686, as an universal solution for all AppImages and portable programs for GNU/Linux!*
-
-*All the installation scripts are stored in the repository of the "**AM**" package manager.*
-
 <div align="center">
 
 ## *[https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM)*
@@ -105,42 +98,81 @@
 
 </div>
 
-*The code of this Command Line Interface is available at [this link](https://github.com/ivan-hc/AM/blob/main/APP-MANAGER).*
+*This catalog is just the frontend for an ever growing database that aims to extend not only to x86_64 architecture apps listed here, but also to all others, from the modern ARM64/aarch64 to oldest i686, as an universal solution for all AppImages and portable programs for GNU/Linux!*
 
-*The [database](https://github.com/ivan-hc/AM/tree/main/programs) of "AM" does not stores packages but installation scripts, as the Arch User Repository (AUR) does with PKGBUILDs.*
-
-*Each script points directly to a program ready to be downloaded, more often as AppImage packages, but also portable apps stored in TAR, ZIP and DEB archives, scripts, standalone binares... and in some cases a script can build on-the-fly AppImage packages in a way similar to an AUR helper using [pkg2appimage](https://github.com/AppImageCommunity/pkg2appimage) and/or [appimagetool](https://github.com/AppImage/AppImageKit).*
+*All the installation scripts are stored in the repository of the "**AM**" package manager.*
 
 ------------------------------------------------------------------------
 
-# Differences between "AM" and "AppMan"
-*"AM" and "AppMan" differ in how they are installed, placed and renamed in the system and how/where they install apps:*
-- *"**AM**" is installed system-wide (requires `sudo` o `doas`) in `/opt/am/` as "**APP-MANAGER**", with a symlink named "`am`" in `/usr/local/bin`.*
-- *"**AppMan**" is portable, you need just to rename the "APP-MANAGER" script as "`appman`" and put it wherewer you want. I recommend to place it in `$HOME/.local/bin` to be used in $PATH, to be managed from other tools.*
+# How to install AM
 
-*Both can be updated using "[Topgrade](https://github.com/topgrade-rs/topgrade)".*
+*To install "AM" you must first install the "core" dependencies from your package manager:*
+- *"`coreutils`" (contains "`cat`", "`chmod`", "`chown`"...);*
+- *"`curl`", to check URLs;*
+- *"`grep`", to check files;*
+- *"`less`", to read the ever-longer lists;*
+- *"`sed`", to edit/adapt installed files;*
+- *"`wget`" to download all programs and update "AM" itself.*
+- *"`sudo`" or "`doas`", for installing and removing programs at the system level.*
+
+<details>
+  <summary>Additionally, you may need these optional dependencies, click here.</summary>
+
+- *"`binutils`", contains a series of basic commands, including "`ar`" which extracts .deb packages;*
+- *"`unzip`", to extract .zip packages;*
+- *"`tar`", to extract .tar* packages;*
+- *"`torsocks`", to connect to the TOR network;*
+- *"`zsync`", required by very few programs and AppImages (although it is mentioned in all installation scripts, it is often disabled because the managed .zsync files are often broken, especially for apps hosted on github.com).*
+
+</details>
+
+
+### Quick installation
+
+*Copy/paste the following one line command to download and run the "[AM-INSTALLER](https://github.com/ivan-hc/AM/blob/main/AM-INSTALLER)" script*
+```
+wget -q https://raw.githubusercontent.com/ivan-hc/AM/main/AM-INSTALLER && chmod a+x ./AM-INSTALLER && ./AM-INSTALLER
+```
+*...below, the screenshot of what will appear.*
+
+| ![AM-INSTALLER](https://github.com/user-attachments/assets/7bb170da-5b17-4d36-8d86-679d477debf5) |
+| - |
+
+*Type "1" to install "AM", "2" to install "[AppMan](#what-is-appman)". Any other key will abort the installation.*
+
+**Installation is complete!**
+
+*Run `am -h` or jump to "**[Usage](#usage)**" to see all the available options.*
 
 ------------------------------------------------------------------------
 
-### Ownership
-- *"**AM**" is owned by the user that have installed it, since other users have not read/write permissions in "/opt/am";*
-- *"**AppMan**" is for all users, since it works locally, everyone can have its own apps and configurations.*
+### What is AppMan?
+
+*AppMan is a portable version of "AM", limited to installing and managing apps only locally and without root privileges.*
+
+*The command name changes, from `am` to `appman`, but the script is the same.*
+
+*"AM" on the contrary, provides a "fixed" installation, but can install and manage apps both locally and at the system level.*
+
+*I recommend "AM" to privileged users who want to install and manage apps at multiple levels, and "AppMan" to non-privileged users who do not have large needs.*
 
 ------------------------------------------------------------------------
 
-### About "sudo" usage
-- *"AppMan" can request the root password only in the very rare case in which you want to install a library;*
-- *"AM" requires the root password only to install, remove apps, enable a sandbox for an AppImage.*
+### AM installation structure
 
-*All options cannot be executed with "`sudo`"/"`doas`".*
+*The classic "AM" installation has the following structure:*
+```
+/opt/am/APP-MANAGER ==> /usr/local/bin/am
+/opt/am/modules
+/opt/am/remove
+```
+*Where the command `/usr/local/bin/am` is just a symbolic link to `/opt/am/APP-MANAGER`. The directory `/opt/am/modules` contains the modules "not vital" for "AM" but necessary for managing the apps. The script `/opt/am/remove` is instead necessary for removing "AM".*
 
 ------------------------------------------------------------------------
 
-### How apps are installed
+### How are apps installed
 
-------------------------------------------------------------------------
-
-- *"**AM**" installs apps system wide, in `/opt` (see [Linux Standard Base](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch03s13.html)), using the following structure:*
+*The system-wide AppImage integration has the following structure:*
 ```
 /opt/$PROGRAM/
 /opt/$PROGRAM/$PROGRAM
@@ -150,10 +182,11 @@
 /usr/local/bin/$PROGRAM
 /usr/local/share/applications/$PROGRAM-AM.desktop
 ```
+*Locally installed apps can have a directory of your choice, depending on what you decided when you first started `am -i --user {PROGRAM}` or when you started `appman` (if you chose [AppMan](#what-is-appman)) or by using the `am --user` command.*
 
-------------------------------------------------------------------------
+*In fact, the `--user` command can be used as a "flag" for application installation options, allowing you to integrate them locally and without root permissions, as AppMan does.*
 
-- *"**AppMan**" is more flexible, since it asks you where to install the apps. For example, suppose you want install everything in "Applicazioni" (the italian of "applications") and in your $HOME directory, this is the structure of what an installation scripts installs with "AppMan" instead:*
+*For example, let's say you want to create and use the `/home/USER/Applications` directory, here is the structure of a locally embedded AppImage:*
 ```
 ~/Applicazioni/$PROGRAM/
 ~/Applicazioni/$PROGRAM/$PROGRAM
@@ -164,59 +197,28 @@
 ~/.local/share/applications/$PROGRAM-AM.desktop
 ```
 
-*The configuration file for AppMan is in `~/.config/appman` and contains the path you indicated at first startup. Changing its contents will result in changing the paths for each subsequent operation carried out with "AppMan", the apps and modules stored in the old path will not be manageable.*
-
-*At first startup you can indicate any directory or subdirectory you want, as long as it is in your $HOME.*
-
-------------------------------------------------------------------------
-
-### How to use "AM" in non-privileged mode, like "AppMan"
-*As already mentioned above, at "[Ownership](#ownership)" the user who installed "AM" is the sole owner, having write permissions for both /opt/am and for all installed apps.*
-
-*However, every user of the same system is allowed to use the option `--user` or `appman`, to use "AM" as "AppMan" and to install apps locally and withour root privileges:*
-```
-am --user
-```
-*To switch "AM" back to "AM" from "AppMan Mode", use the always suggested option `--system`:*
-```
-am --system
-```
-*To perform a test and see if you are in "AppMan Mode" or not, run for example the command `am -f` to see the list of the installed apps.*
-
-*In this video I'll install LXtask locally:*
-
-https://github.com/ivan-hc/AM/assets/88724353/65b27cf6-edc5-4a4c-b2f9-42e8623dc76f
-
-*NOTE: non-privileged users can update their own local applications and modules, but cannot update /opt/am/APP-MANAGER.*
-
-*It is therefore suggested to use pure "AppMan" instead of the "AppMan Mode" of "AM".*
-
 ------------------------------------------------------------------------
 
 | [Install "AM"/"AppMan"](#installation) | [Back to "Main Index"](#main-index) |
 | - | - |
 
 ------------------------------------------------------------------------
+
 # What programs can be installed
-*"AM"/"AppMan" installs, removes, updates and manages only standalone programs, ie those programs that can be run from a single directory in which they are contained. The database aims to be a reference point where you can download all the AppImage packages scattered around the web, otherwise unobtainable, as you would expect from any package manager, through specific installation scripts for each application, as happens with the AUR PKGBUILDs, on Arch Linux. You can see all of them [here](https://github.com/ivan-hc/AM/tree/main/programs), divided by architecture.*
 
-*NOTE that currently my work focuses on applications for [x86_64](https://github.com/ivan-hc/AM/tree/main/programs/x86_64) architecture, but it is possible to extend "AM" to all other available architectures. If you are interested, you can deliberately join this project to improve the available lists.*
+*"AM" installs, removes, updates and manages only standalone programs, ie those programs that can be run from a single directory in which they are contained.*
 
-1. ***PROGRAMS**, they are taken:*
-- *from official sources (see Firefox, Thunderbird, Blender, NodeJS, Chromium Latest, Platform Tools...);*
-- *extracted from official .deb/tar/zip packages;*
-- *from the repositories and official sites of individual developers.*
+*1. **PORTABLE PROGRAMS** from official sources (see Firefox, Thunderbird, Blender, NodeJS, Chromium Latest, Platform Tools...), extracted from official .deb/tar/zip packages.*
 
-2. ***APPIMAGES**, they are taken:*
-- *from official sources (if the upstream developers provide them);*
-- *from AppImage recipes to be compiled on-the-fly with [pkg2appimage](https://github.com/AppImage/pkg2appimage) and [appimagetool](https://github.com/AppImage/AppImageKit);*
-- *from unofficial third-party developers, but only if an official release is not available.*
+*2. **APPIMAGES**, from both official and unofficial sources (I also create unofficial AppImages), or compiled on-the-fly with [pkg2appimage](https://github.com/AppImage/pkg2appimage) and [appimagetool](https://github.com/AppImage/AppImageKit), like an AUR helper, from official archives.*
 
-3. ***FIREFOX PROFILES** to run as webapps, the ones with suffix "ffwa-" in the apps list.*
+*3. **FIREFOX PROFILES** to run as webapps, the ones with suffix "ffwa-" in the apps list.*
 
-4. ***THIRD-PARTY LIBRARIES**, needed if they are not provided in your distribution's repositories. These are to be installed in truly exceptional cases.*
+*4. **THIRD-PARTY LIBRARIES** if they are missing in your repositories.*
 
-*You can consult basic information, links to sites and sources used through the related command `am -a $PROGRAM` or `appman -a $PROGRAM`, that uses the same pages of this site.*
+*The database aims to be a reference point where you can download all the AppImage packages scattered around the web, otherwise unobtainable, as you would expect from any package manager, through specific installation scripts for each application, as happens with the AUR PKGBUILDs, on Arch Linux. You can see all of them [here](https://github.com/ivan-hc/AM/tree/main/programs), divided by architecture.*
+
+*You can view basic information, site links and sources using the related command `am -a {PROGRAM}`, or visit [**portable-linux-apps.github.io/apps**](https://portable-linux-apps.github.io/apps).*
 
 ------------------------------------------------------------------------
 
@@ -224,247 +226,91 @@ https://github.com/ivan-hc/AM/assets/88724353/65b27cf6-edc5-4a4c-b2f9-42e8623dc7
 | - |
 
 ------------------------------------------------------------------------
+
 # How to update all programs, for real
-*One of the reasons why many users hate Appimages is because they cannot be updated. Or at least not all.*
 
-*This project was born to dispel this myth and to solve the problem. And the solution is much more trivial than you expect.*
+*Most of the apps managed by "AM" have a script called `AM-updater`. It tells how updates are checked when running the `am -u` command.*
 
-*There are several methods to update apps, here are the most common ones, in order of priority:*
-- *the "comparison between versions" is the most widespread in the database, the version of the app installed is compared with the one present at the source, be it an official site or another site that tracks it;*
-- *if an AppImage package has a .zsync file, that will be used to download binary deltas (especially useful with large files, but not very popular among developers);*
-- *some portable apps are self-updatable (see Firefox and Thunderbird);*
-- *if an app or script is extremely small (a few kilobytes), it is downloaded directly from scratch;*
-- *in rare cases, if a file .zsync is broken, we use [appimageupdatetool](https://github.com/AppImage/AppImageUpdate);*
-- *in some cases, the apps have a fixed version, both due to the developers' choices to abandon a portable package in favor of other more common platforms, and because a software is no longer developed.*
+*In most cases, the "version comparison" is used between the installed one (file `version`) and an online source (official or not, depending on how hard or easy it is to find a download URL or just a number, using the terminal). In other cases, AppImages can rely on "`appimageupdatetool`" if they support "delta updates" (install it with the command `am -i appimageupdatetool`). However, there are some programs that update themselves (and among these the most famous is certainly Firefox, all official development builds).*
 
 ### How to update all installed apps
+
 *Option `-u` or `update` updates all the installed apps and keeps "AM"/"AppMan" in sync with the latest version and all latest bug fixes.*
 
-https://github.com/ivan-hc/AM/assets/88724353/f93ca782-2fc6-45a0-a3f2-1fba297a92bf
+*1. To update only the programs, use `am -u --apps` / `appman -u --apps`*
 
-1. *To update only the programs, use `am -u --apps` / `appman -u --apps`*
-2. *To update just one program, use `am -u $PROGRAM` / `appman -u $PROGRAM`*
-3. *To update all the programs and "AM"/"AppMan" itself, just run the command`am -u` / `appman -u`*
-4. *To update only "AM"/"AppMan" and the modules use the option `-s` instead, `am -s` / `appman -s`*
+*2. To update just one program, use `am -u $PROGRAM` / `appman -u $PROGRAM`*
 
-*NOTE, non-privileged users using "AM" in "AppMan Mode" cannot update /opt/am/APP-MANAGER (points 3 and 4). See "[How to use AM in non-privileged mode, like AppMan](#how-to-use-quotamquot-in-non-privileged-mode-like-quotappmanquot)".*
+*3. To update all the programs and "AM"/"AppMan" itself, just run the command`am -u` / `appman -u`*
 
-### How to update everything using "Topgrade"
+*4. To update only "AM"/"AppMan" and the modules use the option `-s` instead, `am -s` / `appman -s`*
+
+### How to update everything using Topgrade
+
 *Keeping your system up to date usually involves invoking multiple package managers. This results in big, non-portable shell one-liners saved in your shell. To remedy this, Topgrade detects which tools you use and runs the appropriate commands to update them.*
 
-*Install the "topgrade" package using the command*
+*Install the "`topgrade`" package using the command*
 ```
 am -i topgrade
 ```
-or
+*or*
 ```
-appman -i topgrade
+am -i --user topgrade
 ```
-
 *Visit [github.com/topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) to learn more.*
 
-*NOTE, "AppMan" users must install `appman` in ~/.local/bin to allow updates via Topgrade. See "[How to install AppMan](#how-to-install-quotappmanquot)".*
-
 ------------------------------------------------------------------------
 
 | [Back to "Main Index"](#main-index) |
 | - |
-
-------------------------------------------------------------------------
-# Installation
-*This section explains how to install "AM" or "AppMan".*
-
-#### Core dependencies
-*Below are the **essential system dependencies** that you must install before proceeding:*
-- *"`coreutils`" (contains "`cat`", "`chmod`", "`chown`"...);*
-- *"`curl`", to check URLs;*
-- *"`grep`", to check files;*
-- *"`less`", to read the ever-longer lists;*
-- *"`sed`", to edit/adapt installed files;*
-- *"`wget`" to download all programs and update "AM"/"AppMan" itself.*
-
-- *"`sudo`" or "`doas`", required by "AM" only, to install/remove programs and sandbox AppImages.*
-
-#### Extra dependencies (recommended)
-<details>
-  <summary>Click here to see the optional dependencies that some programs may require</summary>
-
-- *"`binutils`", contains a series of basic commands, including "`ar`" which extracts .deb packages;*
-- *"`unzip`", to extract .zip packages;*
-- *"`tar`", to extract .tar* packages;*
-- *"`torsocks`", to connect to the TOR network;*
-- *"`zsync`", required by very few programs and AppImages (although it is mentioned in all installation scripts, it is often disabled because the managed .zsync files are often broken, especially for apps hosted on github.com).*
-
-</details>
-
-------------------------------------------------------------------------
-### Quick installation
-*Copy/paste the following one line command to download and run the "[AM-INSTALLER](https://github.com/ivan-hc/AM/blob/main/AM-INSTALLER)" script*
-```
-wget -q https://raw.githubusercontent.com/ivan-hc/AM/main/AM-INSTALLER && chmod a+x ./AM-INSTALLER && ./AM-INSTALLER
-```
-*...below, the screenshot of what will appear*
-| ![AM-INSTALLER](https://github.com/user-attachments/assets/82b21979-e99d-4bee-b466-716bac1e7e45) |
-| - |
-
-*Type "1" to install "AM", "2" to install "AppMan". Any other key will abort the installation (please read "[Differences between "AM" and "AppMan"](#differences-between-quotamquot-and-quotappmanquot)" first).*
-
-*Now you are ready to use this CLI.*
-
-*For more details on how "AM" and "AppMan" are installed via the "[AM-INSTALLER](https://github.com/ivan-hc/AM/blob/main/AM-INSTALLER)" script, see "[*Step by step installation*](#step-by-step-installation)", in the next paragraph.*
-
-------------------------------------------------------------------------
-### Step by step installation
-*Do you prefer to install "AM" or "AppMan" without using the "AM-INSTALLER" script?*
-
-*Also do you want to know in detail how they are installed in the system?*
-
-<details>
-  <summary> click here! </summary>
-
-- [How to install "AM"](#how-to-install-quotamquot)
-- [How to install "AppMan"](#how-to-install-quotappmanquot)
-
-------------------------------------------------------------------------
-## How to install "AM"
-*"**AM**" is ment to be installed at system level to manage apps.*
-
-*The script "[INSTALL](https://github.com/ivan-hc/AM/blob/main/INSTALL)" is the one that take care of this.*
-
-#### Using "Wget"
-```
-wget https://raw.githubusercontent.com/ivan-hc/AM/main/INSTALL
-chmod a+x ./INSTALL
-sudo ./INSTALL
-```
-*or directly*
-```
-wget https://raw.githubusercontent.com/ivan-hc/AM/main/INSTALL && chmod a+x ./INSTALL && sudo ./INSTALL
-```
-
-#### Using "GIT"
-```
-git clone https://github.com/ivan-hc/AM.git
-cd AM
-chmod a+x INSTALL
-sudo ./INSTALL
-```
-
-### Structure of the "AM" installation
-*In both cases, the "INSTALL" script will create:*
-- *the script "/opt/am/APP-MANAGER"*
-- *the script "/opt/am/remove" (to remove "AM" using the command `am -R am`)*
-- *the directory "/opt/am/modules" (containing the .am modules for the non-core options)*
-- *the symlink "/usr/local/bin/am" for "/opt/am/APP-MANAGER"*
-
-*NOTE, if you don't feel comfortable having to always use root permissions, the installation method for "AppMan" is totally different. If you are interested, go [to the next paragraph](#how-to-install-quotappmanquot), else [Back to "Main Index"](#main-index) or see "[all the available options" at [github.com/ivan-hc/AM#usage](https://github.com/ivan-hc/AM#usage).*
-
-------------------------------------------------------------------------
-## How to install "AppMan"
-*"**AppMan**" can be used in different places, being it portable.*
-
-*However, to be easily used its recommended to place it in your local "$PATH", in `~/.local/bin`.*
-
-#### Use "AppMan" in "$PATH"
-*To do so, you must first enable that "$PATH":*
-- *add `export PATH=$PATH:$(xdg-user-dir USER)/.local/bin` in the ` ~/.bashrc`*
-- *create the directory `~/.local/bin` if it is not available*
-
-*To do all this quickly, simply copy/paste the following command:*
-```
-mkdir -p ~/.local/bin && echo 'export PATH="$PATH:$HOME/.local/bin"' >> ~/.bashrc && wget https://raw.githubusercontent.com/ivan-hc/AM/main/APP-MANAGER -O ~/.local/bin/appman && chmod a+x ~/.local/bin/appman
-```
-#### Use "AppMan" in "Portable Mode"
-*"AppMan" can run in any directory you download it, copy/paste the following command to download "APP-MANAGER", rename it to `appman` and make it executable:*
-```
-wget https://raw.githubusercontent.com/ivan-hc/AM/main/APP-MANAGER -O appman && chmod a+x ./appman
-```
-
-### Structure of the "AppMan" installation
-*Unlike "AM" which needs to be placed in specific locations, "AppMan" is portable. The modules and directories will be placed in the directory you chose:*
-- *the script "appman" is wherever you want*
-- *the directory "/path/to/your/custom/directory/modules" (containing the .am modules for the non-core options)*
-- *the configuration file "$HOME/.config/appman/appman-config" (the only fixed directory)*
-
-</details>
-
-------------------------------------------------------------------------
-
-| [Back to "Main Index"](#main-index) |
-| - |
-
-------------------------------------------------------------------------
-# Uninstall
-- *To uninstall "AM" just run the command `am -R am`*
-- *To uninstall "AppMan" just remove it and the directory `$HOME/.config/appman`*
-
-*Note, before you remove your CLI, use the option `-R` to remove the apps installed using the following syntax:*
-```
-am -R {PROGRAM1} {PROGRAM2} {PROGRAM3}...
-```
-or
-```
-appman -R {PROGRAM1} {PROGRAM2} {PROGRAM3}...
-```
-
-*to have a list of the installed programs use the option `-f` or `files` (syntax `am -f` or `appman -f`).*
-
-*See also "How to update or remove apps manually", at [github.com/ivan-hc/AM#how-to-update-or-remove-apps-manually](https://github.com/ivan-hc/AM#how-to-update-or-remove-apps-manually).*
-
-</details>
 
 ------------------------------------------------------------------------
 ### External links index
 ------------------------------------------------------------------------
 *All the guides listed here are available at [***github.com/ivan-hc/AM***](https://github.com/ivan-hc/AM)*
 
-[Usage (all the available options)](https://github.com/ivan-hc/AM#usage)
-
-[Guides and tutorials](https://github.com/ivan-hc/AM#guides-and-tutorials)
-- [Install applications](https://github.com/ivan-hc/AM#install-applications)
-- [Install only AppImages](https://github.com/ivan-hc/AM#install-only-appimages)
-- [Install AppImages not listed in this database but available in other github repos](https://github.com/ivan-hc/AM#install-appimages-not-listed-in-this-database-but-available-in-other-github-repos)
-- [List the installed applications](https://github.com/ivan-hc/AM#list-the-installed-applications)
-- [List and query all the applications available on the database](https://github.com/ivan-hc/AM#list-and-query-all-the-applications-available-on-the-database)
-- [Update all](https://github.com/ivan-hc/AM#update-all)
-- [Backup and restore installed apps using snapshots](https://github.com/ivan-hc/AM#backup-and-restore-installed-apps-using-snapshots)
-- [Remove one or more applications](https://github.com/ivan-hc/AM#remove-one-or-more-applications)
-- [Convert Type2 AppImages requiring libfuse2 to New Generation AppImages](https://github.com/ivan-hc/AM#convert-type2-appimages-requiring-libfuse2-to-new-generation-appimages)
-- [Integrate local AppImages into the menu by dragging and dropping them](https://github.com/ivan-hc/AM#integrate-local-appimages-into-the-menu-by-dragging-and-dropping-them)
-  - [How to create a launcher for a local AppImage](https://github.com/ivan-hc/AM#how-to-create-a-launcher-for-a-local-appimage)
-  - [How to remove the orphan launchers](https://github.com/ivan-hc/AM#how-to-remove-the-orphan-launchers)
-  - [AppImages from external media](https://github.com/ivan-hc/AM#appimages-from-external-media)
-- [How to use "AM" in non-privileged mode, like "AppMan"](https://github.com/ivan-hc/AM#how-to-use-am-in-non-privileged-mode-like-appman)
-- [Sandbox an AppImage](https://github.com/ivan-hc/AM#sandbox-an-appimage)
-  - [How to enable a sandbox](https://github.com/ivan-hc/AM#how-to-enable-a-sandbox)
-  - [How to disable a sandbox](https://github.com/ivan-hc/AM#how-to-disable-a-sandbox)
-  - [Sandboxing example](https://github.com/ivan-hc/AM#sandboxing-example)
-  - [About Aisap sandboxing](https://github.com/ivan-hc/AM#about-aisap-sandboxing)
-- [How to enable bash completion](https://github.com/ivan-hc/AM#how-to-enable-bash-completion)
-- [How to update or remove apps manually](https://github.com/ivan-hc/AM#how-to-update-or-remove-apps-manually)
-- [Downgrade an installed app to a previous version](https://github.com/ivan-hc/AM#downgrade-an-installed-app-to-a-previous-version)
-- [How to use multiple versions of the same application](https://github.com/ivan-hc/AM#how-to-use-multiple-versions-of-the-same-application)
-- [Create and test your own installation script](https://github.com/ivan-hc/AM#create-and-test-your-own-installation-script)
-  - [Option Zero: "AppImages"](https://github.com/ivan-hc/AM#option-zero-appimages)
-  - [Option One: "build AppImages on-the-fly"](https://github.com/ivan-hc/AM#option-one-build-appimages-on-the-fly)
-  - [Option Two: "Archives and other programs"](https://github.com/ivan-hc/AM#option-two-archives-and-other-programs)
-  - [Option Three: "Firefox profiles"](https://github.com/ivan-hc/AM#option-three-firefox-profiles)
-  - [How an installation script works](https://github.com/ivan-hc/AM#how-an-installation-script-works)
-  - [How to test an installation script](https://github.com/ivan-hc/AM#how-to-test-an-installation-script)
-- [Third-party databases for applications (NeoDB)](https://github.com/ivan-hc/AM#third-party-databases-for-applications-neodb)
+- [Install applications](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/install.md)
+- [Install only AppImages](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/install-appimage.md)
+- [Install AppImages not listed in this database but available in other github repos](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/extra.md)
+- [List the installed applications](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/files.md)
+- [List and query all the applications available on the database](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/list-and-query.md)
+- [Update all](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/update.md)
+- [Backup and restore installed apps using snapshots](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/backup-and-overwrite.md)
+- [Remove one or more applications](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/remove.md)
+- [Convert Type2 AppImages requiring libfuse2 to New Generation AppImages](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/nolibfuse.md)
+- [Integrate local AppImages into the menu by dragging and dropping them](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/launcher.md)
+  - [How to create a launcher for a local AppImage](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/launcher.md#how-to-create-a-launcher-for-a-local-appimage)
+  - [How to remove the orphan launchers](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/launcher.md#how-to-remove-the-orphan-launchers)
+  - [AppImages from external media](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/launcher.md#appimages-from-external-media)
+- [Sandbox an AppImage](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/sandbox.md)
+  - [How to enable a sandbox](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/sandbox.md#how-to-enable-a-sandbox)
+  - [How to disable a sandbox](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/sandbox.md#how-to-disable-a-sandbox)
+  - [Sandboxing example](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/sandbox.md#sandboxing-example)
+  - [About Aisap sandboxing](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/sandbox.md#about-aisap-sandboxing)
+- [How to update or remove apps manually](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/remove.md#how-to-update-or-remove-apps-manually)
+- [Downgrade an installed app to a previous version](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/downgrade.md)
+- [How to use multiple versions of the same application](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/backup-and-overwrite.md#how-to-use-multiple-versions-of-the-same-application)
+- [Create and test your own installation script](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md)
+  - [Option Zero: "AppImages"](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#option-zero-appimages)
+  - [Option One: "build AppImages on-the-fly"](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#option-one-build-appimages-on-the-fly)
+  - [Option Two: "Archives and other programs"](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#option-two-archives-and-other-programs)
+  - [Option Three: "Firefox profiles"](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#option-three-firefox-profiles)
+  - [How an installation script works](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#how-an-installation-script-works)
+  - [How to test an installation script](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#how-to-test-an-installation-script)
+- [Third-party databases for applications (NeoDB)](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/newrepo.md)
 
 [Instructions for Linux Distro Maintainers](https://github.com/ivan-hc/AM#instructions-for-linux-distro-maintainers)
 
 [Troubleshooting](https://github.com/ivan-hc/AM#troubleshooting)
-- [An application does not work, is old and unsupported](https://github.com/ivan-hc/AM#an-application-does-not-work-is-old-and-unsupported)
-- [Cannot download or update an application](https://github.com/ivan-hc/AM#cannot-download-or-update-an-application)
-- [Cannot mount and run AppImages](https://github.com/ivan-hc/AM#cannot-mount-and-run-appimages)
-- [Failed to open squashfs image](https://github.com/ivan-hc/AM#failed-to-open-squashfs-image)
-- [Spyware, malware and dangerous software](https://github.com/ivan-hc/AM#spyware-malware-and-dangerous-software)
-- [Stop AppImage prompt to create its own launcher, desktop integration and doubled launchers](https://github.com/ivan-hc/AM#stop-appimage-prompt-to-create-its-own-launcher-desktop-integration-and-doubled-launchers)
-- [The script points to "releases" instead of downloading the latest stable](https://github.com/ivan-hc/AM#the-script-points-to-releases-instead-of-downloading-the-latest-stable)
-- [Ubuntu mess](https://github.com/ivan-hc/AM#ubuntu-mess)
-- [Wrong download link](https://github.com/ivan-hc/AM#wrong-download-link)
+- [An application does not work, is old and unsupported](https://github.com/ivan-hc/AM/blob/main/docs/troubleshooting.md#an-application-does-not-work-is-old-and-unsupported)
+- [Cannot download or update an application](https://github.com/ivan-hc/AM/blob/main/docs/troubleshooting.md#cannot-download-or-update-an-application)
+- [Cannot mount and run AppImages](https://github.com/ivan-hc/AM/blob/main/docs/troubleshooting.md#cannot-mount-and-run-appimages)
+- [Failed to open squashfs image](https://github.com/ivan-hc/AM/blob/main/docs/troubleshooting.md#failed-to-open-squashfs-image)
+- [Spyware, malware and dangerous software](https://github.com/ivan-hc/AM/blob/main/docs/troubleshooting.md#spyware-malware-and-dangerous-software)
+- [Stop AppImage prompt to create its own launcher, desktop integration and doubled launchers](https://github.com/ivan-hc/AM/blob/main/docs/troubleshooting.md#stop-appimage-prompt-to-create-its-own-launcher-desktop-integration-and-doubled-launchers)
+- [The script points to "releases" instead of downloading the latest stable](https://github.com/ivan-hc/AM/blob/main/docs/troubleshooting.md#the-script-points-to-releases-instead-of-downloading-the-latest-stable)
+- [Ubuntu mess](https://github.com/ivan-hc/AM/blob/main/docs/troubleshooting.md#ubuntu-mess)
+- [Wrong download link](https://github.com/ivan-hc/AM/blob/main/docs/troubleshooting.md#wrong-download-link)
 
 ------------------------------------------------------------------------
 
