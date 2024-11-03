@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **138** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **139** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -75,6 +75,7 @@
 | <img src="icons/friture.png" width="48" height="48"> | [***friture***](apps/friture.md) | *Real-time audio visualizations, spectrum, spectrogram, etc..*..[ *read more* ](apps/friture.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/friture) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/friture) |
 | <img src="icons/giada.png" width="48" height="48"> | [***giada***](apps/giada.md) | *Hardcore audio music production tool and drum machine for DJs.*..[ *read more* ](apps/giada.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/giada) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/giada) |
 | <img src="icons/gsequencer.png" width="48" height="48"> | [***gsequencer***](apps/gsequencer.md) | *Tree based audio processing engine.*..[ *read more* ](apps/gsequencer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gsequencer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gsequencer) |
+| <img src="icons/harmonoid.png" width="48" height="48"> | [***harmonoid***](apps/harmonoid.md) | *Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.*..[ *read more* ](apps/harmonoid.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/harmonoid) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/harmonoid) |
 | <img src="icons/helio.png" width="48" height="48"> | [***helio***](apps/helio.md) | *One music sequencer for all major platforms, desktop and mobile.*..[ *read more* ](apps/helio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helio) |
 | <img src="icons/hydrogen-music.png" width="48" height="48"> | [***hydrogen-music***](apps/hydrogen-music.md) | *The advanced drum machine.*..[ *read more* ](apps/hydrogen-music.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hydrogen-music) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hydrogen-music) |
 | <img src="icons/impact.png" width="48" height="48"> | [***impact***](apps/impact.md) | *Music Management and Playback.*..[ *read more* ](apps/impact.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/impact) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/impact) |
