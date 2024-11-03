@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **82** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **83** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -74,6 +74,7 @@
 | <img src="icons/jan.png" width="48" height="48"> | [***jan***](apps/jan.md) | *FOSS Alternative to ChatGPT that runs 100% offline on your computer.*..[ *read more* ](apps/jan.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jan) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jan) |
 | <img src="icons/jfcord.png" width="48" height="48"> | [***jfcord***](apps/jfcord.md) | *An Jellyfin rich presence client for Discord.*..[ *read more* ](apps/jfcord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jfcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jfcord) |
 | <img src="icons/kongress.png" width="48" height="48"> | [***kongress***](apps/kongress.md) | *Unofficial, A companion application for conferences. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/kongress.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kongress) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kongress) |
+| <img src="icons/legcord.png" width="48" height="48"> | [***legcord***](apps/legcord.md) | *Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.*..[ *read more* ](apps/legcord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/legcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/legcord) |
 | <img src="icons/mbcord.png" width="48" height="48"> | [***mbcord***](apps/mbcord.md) | *An Emby/Jellyfin rich presence client for Discord.*..[ *read more* ](apps/mbcord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mbcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mbcord) |
 | <img src="icons/mirage.png" width="48" height="48"> | [***mirage***](apps/mirage.md) | *Matrix chat client for encrypted and decentralized communication.*..[ *read more* ](apps/mirage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mirage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mirage) |
 | <img src="icons/one-gpt.png" width="48" height="48"> | [***one-gpt***](apps/one-gpt.md) | *Aggregate ChatGPT official version, Wenxin Yiyan, Poe, chatchat.*..[ *read more* ](apps/one-gpt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/one-gpt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/one-gpt) |
