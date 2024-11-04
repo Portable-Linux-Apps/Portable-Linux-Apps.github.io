@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2510** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2511** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2093,6 +2093,7 @@
 | <img src="icons/snippetstore.png" width="48" height="48"> | [***snippetstore***](apps/snippetstore.md) | *A snippet management app for developers.*..[ *read more* ](apps/snippetstore.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snippetstore) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snippetstore) |
 | <img src="icons/snomcontrol.png" width="48" height="48"> | [***snomcontrol***](apps/snomcontrol.md) | *An application to control snom D3xx phones from the desktop.*..[ *read more* ](apps/snomcontrol.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snomcontrol) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snomcontrol) |
 | <img src="icons/snowball.png" width="48" height="48"> | [***snowball***](apps/snowball.md) | *Find and filter literature, fast.*..[ *read more* ](apps/snowball.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snowball) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snowball) |
+| <img src="icons/soar.png" width="48" height="48"> | [***soar***](apps/soar.md) | *A fast modern package manager for static binaries, portable apps & more.*..[ *read more* ](apps/soar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soar) |
 | <img src="icons/soapy-sdr.png" width="48" height="48"> | [***soapy-sdr***](apps/soapy-sdr.md) | *I/Q recorder and processor using SoapySDR as backend.*..[ *read more* ](apps/soapy-sdr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soapy-sdr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soapy-sdr) |
 | <img src="icons/socnetv.png" width="48" height="48"> | [***socnetv***](apps/socnetv.md) | *Social Network Analysis and Visualization software.*..[ *read more* ](apps/socnetv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/socnetv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/socnetv) |
 | <img src="icons/soft-serve.png" width="48" height="48"> | [***soft-serve***](apps/soft-serve.md) | *The mighty, self-hostable Git server for the command line.*..[ *read more* ](apps/soft-serve.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soft-serve) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soft-serve) |
