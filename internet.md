@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **162** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **163** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -150,6 +150,7 @@
 | <img src="icons/qbittorrent-enhanced.png" width="48" height="48"> | [***qbittorrent-enhanced***](apps/qbittorrent-enhanced.md) | *Unofficial qBittorrent Enhanced, based on qBittorrent.*..[ *read more* ](apps/qbittorrent-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qbittorrent-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qbittorrent-enhanced) |
 | <img src="icons/rats-search.png" width="48" height="48"> | [***rats-search***](apps/rats-search.md) | *P2P BitTorrent search engine.*..[ *read more* ](apps/rats-search.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rats-search) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rats-search) |
 | <img src="icons/ripcord.png" width="48" height="48"> | [***ripcord***](apps/ripcord.md) | *Chat client for group-centric services like Slack and Discord.*..[ *read more* ](apps/ripcord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ripcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ripcord) |
+| <img src="icons/schilbidi-chat.png" width="48" height="48"> | [***schilbidi-chat***](apps/schilbidi-chat.md) | *Matrix client / Element Web/Desktop fork.*..[ *read more* ](apps/schilbidi-chat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/schilbidi-chat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/schilbidi-chat) |
 | <img src="icons/schildichat.png" width="48" height="48"> | [***schildichat***](apps/schildichat.md) | *A Matrix Client.*..[ *read more* ](apps/schildichat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/schildichat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/schildichat) |
 | <img src="icons/sengi.png" width="48" height="48"> | [***sengi***](apps/sengi.md) | *A multi-account desktop client for Mastodon and Pleroma.*..[ *read more* ](apps/sengi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sengi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sengi) |
 | <img src="icons/simplex-chat.png" width="48" height="48"> | [***simplex-chat***](apps/simplex-chat.md) | *First messaging platform operating without user identifiers.*..[ *read more* ](apps/simplex-chat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/simplex-chat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/simplex-chat) |

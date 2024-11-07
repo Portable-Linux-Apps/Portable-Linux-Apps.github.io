@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **83** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **84** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -83,6 +83,7 @@
 | <img src="icons/qortal-ui.png" width="48" height="48"> | [***qortal-ui***](apps/qortal-ui.md) | *Decentralize the world, data storage, communications.*..[ *read more* ](apps/qortal-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qortal-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qortal-ui) |
 | <img src="icons/qtox.png" width="48" height="48"> | [***qtox***](apps/qtox.md) | *Qt 5 based Tox instant messenger for secure communication.*..[ *read more* ](apps/qtox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qtox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qtox) |
 | <img src="icons/ripcord.png" width="48" height="48"> | [***ripcord***](apps/ripcord.md) | *Chat client for group-centric services like Slack and Discord.*..[ *read more* ](apps/ripcord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ripcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ripcord) |
+| <img src="icons/schilbidi-chat.png" width="48" height="48"> | [***schilbidi-chat***](apps/schilbidi-chat.md) | *Matrix client / Element Web/Desktop fork.*..[ *read more* ](apps/schilbidi-chat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/schilbidi-chat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/schilbidi-chat) |
 | <img src="icons/schildichat.png" width="48" height="48"> | [***schildichat***](apps/schildichat.md) | *A Matrix Client.*..[ *read more* ](apps/schildichat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/schildichat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/schildichat) |
 | <img src="icons/sengi.png" width="48" height="48"> | [***sengi***](apps/sengi.md) | *A multi-account desktop client for Mastodon and Pleroma.*..[ *read more* ](apps/sengi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sengi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sengi) |
 | <img src="icons/session-desktop.png" width="48" height="48"> | [***session-desktop***](apps/session-desktop.md) | *Onion routing based messenger.*..[ *read more* ](apps/session-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/session-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/session-desktop) |

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2512** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2513** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1990,6 +1990,7 @@
 | <img src="icons/scatter.png" width="48" height="48"> | [***scatter***](apps/scatter.md) | *Scatter desktop signature server.*..[ *read more* ](apps/scatter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/scatter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/scatter) |
 | <img src="icons/scavengers.png" width="48" height="48"> | [***scavengers***](apps/scavengers.md) | *Unity Roguelike tutorial, game.*..[ *read more* ](apps/scavengers.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/scavengers) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/scavengers) |
 | <img src="icons/sc-controller.png" width="48" height="48"> | [***sc-controller***](apps/sc-controller.md) | *User-mode driver and GTK3 based GUI for Steam Controller.*..[ *read more* ](apps/sc-controller.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sc-controller) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sc-controller) |
+| <img src="icons/schilbidi-chat.png" width="48" height="48"> | [***schilbidi-chat***](apps/schilbidi-chat.md) | *Matrix client / Element Web/Desktop fork.*..[ *read more* ](apps/schilbidi-chat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/schilbidi-chat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/schilbidi-chat) |
 | <img src="icons/schildichat.png" width="48" height="48"> | [***schildichat***](apps/schildichat.md) | *A Matrix Client.*..[ *read more* ](apps/schildichat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/schildichat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/schildichat) |
 | <img src="icons/school-sections.png" width="48" height="48"> | [***school-sections***](apps/school-sections.md) | *This project was generated with Angular CLI v1.7.4.*..[ *read more* ](apps/school-sections.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/school-sections) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/school-sections) |
 | <img src="icons/sciencefair.png" width="48" height="48"> | [***sciencefair***](apps/sciencefair.md) | *Desktop science reading app for Linux.*..[ *read more* ](apps/sciencefair.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sciencefair) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sciencefair) |
