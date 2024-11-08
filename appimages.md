@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2106** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2107** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1169,6 +1169,7 @@
 | <img src="icons/nault-bin.png" width="48" height="48"> | [***nault-bin***](apps/nault-bin.md) | *Official Nault AppImage client.*..[ *read more* ](apps/nault-bin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nault-bin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nault-bin) |
 | <img src="icons/ncsa-mosaic.png" width="48" height="48"> | [***ncsa-mosaic***](apps/ncsa-mosaic.md) | *One of the first graphical web browsers.*..[ *read more* ](apps/ncsa-mosaic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ncsa-mosaic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ncsa-mosaic) |
 | <img src="icons/neanes.png" width="48" height="48"> | [***neanes***](apps/neanes.md) | *A scorewriter for notating Byzantine chant in Byzantine notation.*..[ *read more* ](apps/neanes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neanes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neanes) |
+| <img src="icons/neohtop.png" width="48" height="48"> | [***neohtop***](apps/neohtop.md) | *htop on steroids.*..[ *read more* ](apps/neohtop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neohtop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neohtop) |
 | <img src="icons/neon.png" width="48" height="48"> | [***neon***](apps/neon.md) | *Light wallet for NEO blockchain.*..[ *read more* ](apps/neon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neon) |
 | <img src="icons/neovide.png" width="48" height="48"> | [***neovide***](apps/neovide.md) | *No Nonsense Neovim Client in Rust*..[ *read more* ](apps/neovide.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neovide) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neovide) |
 | <img src="icons/nepaliunicode.png" width="48" height="48"> | [***nepaliunicode***](apps/nepaliunicode.md) | *An Unicode Converter app.*..[ *read more* ](apps/nepaliunicode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nepaliunicode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nepaliunicode) |

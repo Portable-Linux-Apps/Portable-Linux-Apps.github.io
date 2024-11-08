@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2513** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2514** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1476,6 +1476,7 @@
 | <img src="icons/ncspot.png" width="48" height="48"> | [***ncspot***](apps/ncspot.md) | *Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.*..[ *read more* ](apps/ncspot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ncspot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ncspot) |
 | <img src="icons/neanes.png" width="48" height="48"> | [***neanes***](apps/neanes.md) | *A scorewriter for notating Byzantine chant in Byzantine notation.*..[ *read more* ](apps/neanes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neanes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neanes) |
 | <img src="icons/neko.png" width="48" height="48"> | [***neko***](apps/neko.md) | *Neko is a cross-platform cursor-chasing cat.*..[ *read more* ](apps/neko.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neko) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neko) |
+| <img src="icons/neohtop.png" width="48" height="48"> | [***neohtop***](apps/neohtop.md) | *htop on steroids.*..[ *read more* ](apps/neohtop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neohtop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neohtop) |
 | <img src="icons/neon.png" width="48" height="48"> | [***neon***](apps/neon.md) | *Light wallet for NEO blockchain.*..[ *read more* ](apps/neon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neon) |
 | <img src="icons/neovide.png" width="48" height="48"> | [***neovide***](apps/neovide.md) | *No Nonsense Neovim Client in Rust*..[ *read more* ](apps/neovide.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neovide) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neovide) |
 | <img src="icons/nepaliunicode.png" width="48" height="48"> | [***nepaliunicode***](apps/nepaliunicode.md) | *An Unicode Converter app.*..[ *read more* ](apps/nepaliunicode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nepaliunicode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nepaliunicode) |
