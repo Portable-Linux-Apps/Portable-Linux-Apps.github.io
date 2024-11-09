@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **118** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **119** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -64,6 +64,7 @@
 | <img src="icons/feebas.png" width="48" height="48"> | [***feebas***](apps/feebas.md) | *Screenshot comparison tool for identifying visual regressions.*..[ *read more* ](apps/feebas.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/feebas) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/feebas) |
 | <img src="icons/figma-linux.png" width="48" height="48"> | [***figma-linux***](apps/figma-linux.md) | *First interface design tool based in the browser, graphics.*..[ *read more* ](apps/figma-linux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/figma-linux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/figma-linux) |
 | <img src="icons/filmulator-gui.png" width="48" height="48"> | [***filmulator-gui***](apps/filmulator-gui.md) | *Simplified raw editing with the power of film, graphics.*..[ *read more* ](apps/filmulator-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filmulator-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filmulator-gui) |
+| <img src="icons/firealpaca.png" width="48" height="48"> | [***firealpaca***](apps/firealpaca.md) | *A Free and Multiplatform Digital Painting Software.*..[ *read more* ](apps/firealpaca.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firealpaca) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firealpaca) |
 | <img src="icons/flameshot.png" width="48" height="48"> | [***flameshot***](apps/flameshot.md) | *Tool to take screenshots with many built-in features, graphics.*..[ *read more* ](apps/flameshot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flameshot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flameshot) |
 | <img src="icons/fractale.png" width="48" height="48"> | [***fractale***](apps/fractale.md) | *2D modeling of the Von Koch fractal.*..[ *read more* ](apps/fractale.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fractale) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fractale) |
 | <img src="icons/freecad.png" width="48" height="48"> | [***freecad***](apps/freecad.md) | *Free and open source AutoCAD alternative.*..[ *read more* ](apps/freecad.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freecad) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freecad) |
