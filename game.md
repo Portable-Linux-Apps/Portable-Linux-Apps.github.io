@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **221** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **222** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -115,6 +115,7 @@
 | <img src="icons/hastyheroes.png" width="48" height="48"> | [***hastyheroes***](apps/hastyheroes.md) | *An endless 2D jumping game.*..[ *read more* ](apps/hastyheroes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hastyheroes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hastyheroes) |
 | <img src="icons/helioslauncher.png" width="48" height="48"> | [***helioslauncher***](apps/helioslauncher.md) | *Custom launcher for modded minecraft written in Electron.*..[ *read more* ](apps/helioslauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helioslauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helioslauncher) |
 | <img src="icons/heroic-games-launcher.png" width="48" height="48"> | [***heroic-games-launcher***](apps/heroic-games-launcher.md) | *A Native GOG and Epic Games Launcher for Linux.*..[ *read more* ](apps/heroic-games-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/heroic-games-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/heroic-games-launcher) |
+| <img src="icons/hmcl.png" width="48" height="48"> | [***hmcl***](apps/hmcl.md) | *A Minecraft Launcher which is multi-functional, cross-platform and popular.*..[ *read more* ](apps/hmcl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hmcl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hmcl) |
 | <img src="icons/hugor.png" width="48" height="48"> | [***hugor***](apps/hugor.md) | *A cross-platform, multimedia interpreter for Hugo adventure games.*..[ *read more* ](apps/hugor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hugor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hugor) |
 | <img src="icons/hydra.png" width="48" height="48"> | [***hydra***](apps/hydra.md) | *Game launcher with its own embedded bittorrent client.*..[ *read more* ](apps/hydra.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hydra) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hydra) |
 | <img src="icons/icestudio.png" width="48" height="48"> | [***icestudio***](apps/icestudio.md) | *A real gamechanger in the world of Open Source FPGAs.*..[ *read more* ](apps/icestudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/icestudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/icestudio) |
