@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2108** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2109** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1600,6 +1600,7 @@
 | <img src="icons/rx-bin.png" width="48" height="48"> | [***rx-bin***](apps/rx-bin.md) | *A modern and extensible pixel editor implemented in Rust.*..[ *read more* ](apps/rx-bin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rx-bin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rx-bin) |
 | <img src="icons/ryowallet.png" width="48" height="48"> | [***ryowallet***](apps/ryowallet.md) | *Modern GUI interface for Ryo Currency.*..[ *read more* ](apps/ryowallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ryowallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ryowallet) |
 | <img src="icons/ryujinx.png" width="48" height="48"> | [***ryujinx***](apps/ryujinx.md) | *Ryujinx Nintendo Switch emulator.*..[ *read more* ](apps/ryujinx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ryujinx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ryujinx) |
+| <img src="icons/s3drive.png" width="48" height="48"> | [***s3drive***](apps/s3drive.md) | *Convert S3, SFTP, WebDAV or Rclone back-end into your encrypted storage.*..[ *read more* ](apps/s3drive.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/s3drive) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/s3drive) |
 | <img src="icons/sabaki.png" width="48" height="48"> | [***sabaki***](apps/sabaki.md) | *Modern, elegant, cross-platform Go/Baduk/Weiqi game board.*..[ *read more* ](apps/sabaki.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sabaki) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sabaki) |
 | <img src="icons/saber.png" width="48" height="48"> | [***saber***](apps/saber.md) | *A work-in-progress cross-platform libre handwritten notes app.*..[ *read more* ](apps/saber.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/saber) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/saber) |
 | <img src="icons/safe-multisig.png" width="48" height="48"> | [***safe-multisig***](apps/safe-multisig.md) | *Allowing crypto users manage funds in a safer way.*..[ *read more* ](apps/safe-multisig.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/safe-multisig) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/safe-multisig) |
