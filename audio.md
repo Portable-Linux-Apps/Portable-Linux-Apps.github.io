@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **140** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **141** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -150,6 +150,7 @@
 | <img src="icons/soundcloud-rpc.png" width="48" height="48"> | [***soundcloud-rpc***](apps/soundcloud-rpc.md) | *A SoundCloud client with Discord Rich Presence and AdBlock.*..[ *read more* ](apps/soundcloud-rpc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soundcloud-rpc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soundcloud-rpc) |
 | <img src="icons/spmp.png" width="48" height="48"> | [***spmp***](apps/spmp.md) | *A YouTube Music client with a focus on customisation of colours and song metadata.*..[ *read more* ](apps/spmp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spmp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spmp) |
 | <img src="icons/spotify.png" width="48" height="48"> | [***spotify***](apps/spotify.md) | *Unofficial. A proprietary music streaming service.*..[ *read more* ](apps/spotify.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify) |
+| <img src="icons/strawberry.png" width="48" height="48"> | [***strawberry***](apps/strawberry.md) | *Unofficial AppImage of the strawberry music player.*..[ *read more* ](apps/strawberry.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/strawberry) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/strawberry) |
 | <img src="icons/tenacity.png" width="48" height="48"> | [***tenacity***](apps/tenacity.md) | *An easy-to-use, cross-platform multi-track audio editor/recorder.*..[ *read more* ](apps/tenacity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tenacity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tenacity) |
 | <img src="icons/trackaudio.png" width="48" height="48"> | [***trackaudio***](apps/trackaudio.md) | *A next generation Audio-For-VATSIM ATC Client.*..[ *read more* ](apps/trackaudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trackaudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trackaudio) |
 | <img src="icons/tunepack.png" width="48" height="48"> | [***tunepack***](apps/tunepack.md) | *Finding and download HQ audio files.*..[ *read more* ](apps/tunepack.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tunepack) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tunepack) |

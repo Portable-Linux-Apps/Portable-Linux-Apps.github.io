@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2109** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2110** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1776,6 +1776,7 @@
 | <img src="icons/storyboarder.png" width="48" height="48"> | [***storyboarder***](apps/storyboarder.md) | *Visualize a story as fast you can draw stick figures.*..[ *read more* ](apps/storyboarder.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/storyboarder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/storyboarder) |
 | <img src="icons/strans.png" width="48" height="48"> | [***strans***](apps/strans.md) | *A powerful command-line utility.*..[ *read more* ](apps/strans.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/strans) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/strans) |
 | <img src="icons/strata.png" width="48" height="48"> | [***strata***](apps/strata.md) | *Semi-automated selection and scaling of time series.*..[ *read more* ](apps/strata.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/strata) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/strata) |
+| <img src="icons/strawberry.png" width="48" height="48"> | [***strawberry***](apps/strawberry.md) | *Unofficial AppImage of the strawberry music player.*..[ *read more* ](apps/strawberry.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/strawberry) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/strawberry) |
 | <img src="icons/streamcapture2.png" width="48" height="48"> | [***streamcapture2***](apps/streamcapture2.md) | *Download video streams.*..[ *read more* ](apps/streamcapture2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/streamcapture2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/streamcapture2) |
 | <img src="icons/streamdock.png" width="48" height="48"> | [***streamdock***](apps/streamdock.md) | *Streaming service viewer.*..[ *read more* ](apps/streamdock.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/streamdock) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/streamdock) |
 | <img src="icons/streamlink.png" width="48" height="48"> | [***streamlink***](apps/streamlink.md) | *Command-line which pipes video streams from various services.*..[ *read more* ](apps/streamlink.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/streamlink) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/streamlink) |
