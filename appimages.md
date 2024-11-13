@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2110** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2111** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -298,6 +298,7 @@
 | <img src="icons/chatpad-ai.png" width="48" height="48"> | [***chatpad-ai***](apps/chatpad-ai.md) | *Not just another ChatGPT user-interface.*..[ *read more* ](apps/chatpad-ai.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatpad-ai) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatpad-ai) |
 | <img src="icons/chatterino2-nightly.png" width="48" height="48"> | [***chatterino2-nightly***](apps/chatterino2-nightly.md) | *Second installment of the Twitch chat client.*..[ *read more* ](apps/chatterino2-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatterino2-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatterino2-nightly) |
 | <img src="icons/chatterino2.png" width="48" height="48"> | [***chatterino2***](apps/chatterino2.md) | *Second installment of the Twitch chat client.*..[ *read more* ](apps/chatterino2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatterino2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatterino2) |
+| <img src="icons/cheatbreaker.png" width="48" height="48"> | [***cheatbreaker***](apps/cheatbreaker.md) | *The free FPS boosting modpack for Minecraft 1.7 & 1.8.*..[ *read more* ](apps/cheatbreaker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cheatbreaker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cheatbreaker) |
 | <img src="icons/chemcanvas.png" width="48" height="48"> | [***chemcanvas***](apps/chemcanvas.md) | *A very intuitive 2D chemical drawing tool.*..[ *read more* ](apps/chemcanvas.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chemcanvas) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chemcanvas) |
 | <img src="icons/cherry-studio.png" width="48" height="48"> | [***cherry-studio***](apps/cherry-studio.md) | *Cherry Studio is a desktop client that supports for multiple LLM providers.*..[ *read more* ](apps/cherry-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cherry-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cherry-studio) |
 | <img src="icons/cherrytree.png" width="48" height="48"> | [***cherrytree***](apps/cherrytree.md) | *A hierarchical note taking application.*..[ *read more* ](apps/cherrytree.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cherrytree) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cherrytree) |

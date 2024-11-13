@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **222** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **223** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -69,6 +69,7 @@
 | <img src="icons/cavoke.png" width="48" height="48"> | [***cavoke***](apps/cavoke.md) | *Platform to create/host multiplayer turn-based board games.*..[ *read more* ](apps/cavoke.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cavoke) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cavoke) |
 | <img src="icons/celeste64.png" width="48" height="48"> | [***celeste64***](apps/celeste64.md) | *A game made by the Celeste developers.*..[ *read more* ](apps/celeste64.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/celeste64) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/celeste64) |
 | <img src="icons/cemu.png" width="48" height="48"> | [***cemu***](apps/cemu.md) | *A Nintendo Wii U emulator that is able to run most Wii U games.*..[ *read more* ](apps/cemu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cemu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cemu) |
+| <img src="icons/cheatbreaker.png" width="48" height="48"> | [***cheatbreaker***](apps/cheatbreaker.md) | *The free FPS boosting modpack for Minecraft 1.7 & 1.8.*..[ *read more* ](apps/cheatbreaker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cheatbreaker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cheatbreaker) |
 | <img src="icons/chiaki.png" width="48" height="48"> | [***chiaki***](apps/chiaki.md) | *PlayStation 4 Remote Play Client.*..[ *read more* ](apps/chiaki.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chiaki) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chiaki) |
 | <img src="icons/chromium-bsu.png" width="48" height="48"> | [***chromium-bsu***](apps/chromium-bsu.md) | *Unofficial. Fast paced arcade style scrolling space shooter, game.*..[ *read more* ](apps/chromium-bsu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-bsu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-bsu) |
 | <img src="icons/cncra2yr.png" width="48" height="48"> | [***cncra2yr***](apps/cncra2yr.md) | *C&C Red Alert 2, a real-time strategy game by Westwood Pacific.*..[ *read more* ](apps/cncra2yr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cncra2yr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cncra2yr) |
