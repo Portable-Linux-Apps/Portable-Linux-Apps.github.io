@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2519** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2520** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1984,6 +1984,7 @@
 | <img src="icons/sabaki.png" width="48" height="48"> | [***sabaki***](apps/sabaki.md) | *Modern, elegant, cross-platform Go/Baduk/Weiqi game board.*..[ *read more* ](apps/sabaki.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sabaki) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sabaki) |
 | <img src="icons/saber.png" width="48" height="48"> | [***saber***](apps/saber.md) | *A work-in-progress cross-platform libre handwritten notes app.*..[ *read more* ](apps/saber.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/saber) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/saber) |
 | <img src="icons/safe-multisig.png" width="48" height="48"> | [***safe-multisig***](apps/safe-multisig.md) | *Allowing crypto users manage funds in a safer way.*..[ *read more* ](apps/safe-multisig.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/safe-multisig) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/safe-multisig) |
+| <img src="icons/samira.png" width="48" height="48"> | [***samira***](apps/samira.md) | *Steam achievement manager for Linux written with Tauri and Rust.*..[ *read more* ](apps/samira.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/samira) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/samira) |
 | <img src="icons/samrewritten.png" width="48" height="48"> | [***samrewritten***](apps/samrewritten.md) | *Steam Achievement Manager For Linux. Rewritten in C++.*..[ *read more* ](apps/samrewritten.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/samrewritten) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/samrewritten) |
 | <img src="icons/saphyr.png" width="48" height="48"> | [***saphyr***](apps/saphyr.md) | *A C++ like compiler.*..[ *read more* ](apps/saphyr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/saphyr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/saphyr) |
 | <img src="icons/satisfactory.png" width="48" height="48"> | [***satisfactory***](apps/satisfactory.md) | *Satisfactory Mod Manager.*..[ *read more* ](apps/satisfactory.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/satisfactory) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/satisfactory) |

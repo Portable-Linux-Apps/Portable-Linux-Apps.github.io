@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **12** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **13** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -37,6 +37,7 @@
 | <img src="icons/droidcam.png" width="48" height="48"> | [***droidcam***](apps/droidcam.md) | *A DroidCam AppImage for the Steam Deck/SteamOS 3.0.*..[ *read more* ](apps/droidcam.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/droidcam) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/droidcam) |
 | <img src="icons/protonup-qt.png" width="48" height="48"> | [***protonup-qt***](apps/protonup-qt.md) | *Manage Proton-GE/Luxtorpeda for Steam/Wine-GE for Lutris.*..[ *read more* ](apps/protonup-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/protonup-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/protonup-qt) |
 | <img src="icons/reliefvalve.png" width="48" height="48"> | [***reliefvalve***](apps/reliefvalve.md) | *Helps manage the Steam client application.*..[ *read more* ](apps/reliefvalve.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/reliefvalve) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/reliefvalve) |
+| <img src="icons/samira.png" width="48" height="48"> | [***samira***](apps/samira.md) | *Steam achievement manager for Linux written with Tauri and Rust.*..[ *read more* ](apps/samira.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/samira) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/samira) |
 | <img src="icons/samrewritten.png" width="48" height="48"> | [***samrewritten***](apps/samrewritten.md) | *Steam Achievement Manager For Linux. Rewritten in C++.*..[ *read more* ](apps/samrewritten.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/samrewritten) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/samrewritten) |
 | <img src="icons/sc-controller.png" width="48" height="48"> | [***sc-controller***](apps/sc-controller.md) | *User-mode driver and GTK3 based GUI for Steam Controller.*..[ *read more* ](apps/sc-controller.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sc-controller) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sc-controller) |
 | <img src="icons/steamcad.png" width="48" height="48"> | [***steamcad***](apps/steamcad.md) | *2D CAD especially designed to draw steam locomotives.*..[ *read more* ](apps/steamcad.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steamcad) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steamcad) |
