@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2520** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2519** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -841,7 +841,6 @@
 | <img src="icons/gemget.png" width="48" height="48"> | [***gemget***](apps/gemget.md) | *Command line downloader for the Gemini protocol.*..[ *read more* ](apps/gemget.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gemget) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gemget) |
 | <img src="icons/genact.png" width="48" height="48"> | [***genact***](apps/genact.md) | *A nonsense activity generator.*..[ *read more* ](apps/genact.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/genact) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/genact) |
 | <img src="icons/genesis.png" width="48" height="48"> | [***genesis***](apps/genesis.md) | *Open source blockchain platform.*..[ *read more* ](apps/genesis.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/genesis) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/genesis) |
-| <img src="icons/genymotion.png" width="48" height="48"> | [***genymotion***](apps/genymotion.md) | *Professional Android emulation for development, mobile testing, demo, training and much more!*..[ *read more* ](apps/genymotion.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/genymotion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/genymotion) |
 | <img src="icons/geofs.png" width="48" height="48"> | [***geofs***](apps/geofs.md) | *GeoFS flight sim as a desktop application.*..[ *read more* ](apps/geofs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/geofs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/geofs) |
 | <img src="icons/geometrize.png" width="48" height="48"> | [***geometrize***](apps/geometrize.md) | *Images to shapes converter, graphics.*..[ *read more* ](apps/geometrize.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/geometrize) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/geometrize) |
 | <img src="icons/gerbv.png" width="48" height="48"> | [***gerbv***](apps/gerbv.md) | *Gerber file viewer for PCB design.*..[ *read more* ](apps/gerbv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gerbv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gerbv) |
