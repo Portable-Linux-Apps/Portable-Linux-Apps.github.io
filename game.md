@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **224** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **225** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -102,6 +102,7 @@
 | <img src="icons/freetexturepacker.png" width="48" height="48"> | [***freetexturepacker***](apps/freetexturepacker.md) | *Creates sprite sheets for you game or site, graphics.*..[ *read more* ](apps/freetexturepacker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freetexturepacker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freetexturepacker) |
 | <img src="icons/funkin.png" width="48" height="48"> | [***funkin***](apps/funkin.md) | *A rhythm game made with HaxeFlixel*..[ *read more* ](apps/funkin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/funkin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/funkin) |
 | <img src="icons/funkin-psych.png" width="48" height="48"> | [***funkin-psych***](apps/funkin-psych.md) | *Engine originally used on Mind Games mod, forked only for ease of use for Linux users who don't know how to compile code.*..[ *read more* ](apps/funkin-psych.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/funkin-psych) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/funkin-psych) |
+| <img src="icons/gameconqueror.png" width="48" height="48"> | [***gameconqueror***](apps/gameconqueror.md) | *Unofficial. Memory scanner designed to isolate the adress of an arbitrary variable in an executing process (gtk GUI).*..[ *read more* ](apps/gameconqueror.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gameconqueror) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gameconqueror) |
 | <img src="icons/gamehub.png" width="48" height="48"> | [***gamehub***](apps/gamehub.md) | *Unified library for all your games from different platforms.*..[ *read more* ](apps/gamehub.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gamehub) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gamehub) |
 | <img src="icons/gameimage.png" width="48" height="48"> | [***gameimage***](apps/gameimage.md) | *Pack a runner/emulator/game and it's configs in a single AppImage.*..[ *read more* ](apps/gameimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gameimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gameimage) |
 | <img src="icons/gdevelop.png" width="48" height="48"> | [***gdevelop***](apps/gdevelop.md) | *Cross-platform game engine designed to be used by everyone.*..[ *read more* ](apps/gdevelop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gdevelop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gdevelop) |

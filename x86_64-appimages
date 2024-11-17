@@ -642,6 +642,7 @@
 ◆ funterm : A Linux Terminal Emulator.
 ◆ gaiasky : Gaia Sky, a real-time 3D space simulator & astronomy visualisation.
 ◆ galacteek : IPFS Multi-platform browser for the distributed web.
+◆ gameconqueror : Unofficial. Memory scanner designed to isolate the adress of an arbitrary variable in an executing process (gtk GUI).
 ◆ gamehub : Unified library for all your games from different platforms.
 ◆ gameimage : Pack a runner/emulator/game and it's configs in a single AppImage.
 ◆ gams-studio : Development environment of General Algebraic Modeling System.
@@ -1334,6 +1335,7 @@
 ◆ picgo : Easy to upload your pic & copy to write.
 ◆ piclist : Cloud storage platform management & file upload tool based on PicGo.
 ◆ picocrypt : A very small, very simple, yet very secure encryption tool.
+◆ picsimlab : PICsimLab - Programmable IC Simulator Laboratory.
 ◆ picturama : Digital image organizer powered by the web.
 ◆ pigs-n-cows : A relaxing game for children and adults alike.
 ◆ pile : App to organize your piled work at one place.
