@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **119** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **120** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -71,6 +71,7 @@
 | <img src="icons/freetexturepacker.png" width="48" height="48"> | [***freetexturepacker***](apps/freetexturepacker.md) | *Creates sprite sheets for you game or site, graphics.*..[ *read more* ](apps/freetexturepacker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freetexturepacker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freetexturepacker) |
 | <img src="icons/gams-studio.png" width="48" height="48"> | [***gams-studio***](apps/gams-studio.md) | *Development environment of General Algebraic Modeling System.*..[ *read more* ](apps/gams-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gams-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gams-studio) |
 | <img src="icons/gaphor.png" width="48" height="48"> | [***gaphor***](apps/gaphor.md) | *A UML and SysML modeling application written in Python.*..[ *read more* ](apps/gaphor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gaphor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gaphor) |
+| <img src="icons/geeqie.png" width="48" height="48"> | [***geeqie***](apps/geeqie.md) | *Claiming to be the best image viewer and photo collection browser.*..[ *read more* ](apps/geeqie.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/geeqie) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/geeqie) |
 | <img src="icons/geometrize.png" width="48" height="48"> | [***geometrize***](apps/geometrize.md) | *Images to shapes converter, graphics.*..[ *read more* ](apps/geometrize.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/geometrize) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/geometrize) |
 | <img src="icons/gimp-dev.png" width="48" height="48"> | [***gimp-dev***](apps/gimp-dev.md) | *Unofficial, Cross-platform image and photo editor, Developer Edition.*..[ *read more* ](apps/gimp-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gimp-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gimp-dev) |
 | <img src="icons/gimp-git.png" width="48" height="48"> | [***gimp-git***](apps/gimp-git.md) | *Unofficial, Cross-platform image and photo editor, built from GIT.*..[ *read more* ](apps/gimp-git.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gimp-git) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gimp-git) |
