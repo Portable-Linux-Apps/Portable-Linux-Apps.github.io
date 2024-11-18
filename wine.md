@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **12** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **13** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -35,6 +35,7 @@
 | <img src="icons/bottles.png" width="48" height="48"> | [***bottles***](apps/bottles.md) | *Unofficial. Manage wine prefixes and run Windows software & games in a new way.*..[ *read more* ](apps/bottles.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bottles) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bottles) |
 | <img src="icons/conty-wine.png" width="48" height="48"> | [***conty-wine***](apps/conty-wine.md) | *Easy to use unprivileged and portable Arch Linux container.*..[ *read more* ](apps/conty-wine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/conty-wine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/conty-wine) |
 | <img src="icons/foobar2000.png" width="48" height="48"> | [***foobar2000***](apps/foobar2000.md) | *Unofficial, an advanced freeware audio player for Windows, includes WINE.*..[ *read more* ](apps/foobar2000.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/foobar2000) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/foobar2000) |
+| <img src="icons/lutris.png" width="48" height="48"> | [***lutris***](apps/lutris.md) | *Unofficial. Install and play video games from all eras and from most gaming systems, by leveraging and combining existing emulators, WINE included.*..[ *read more* ](apps/lutris.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lutris) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lutris) |
 | <img src="icons/notepad++.png" width="48" height="48"> | [***notepad++***](apps/notepad++.md) | *Unofficial Appimage of Notepad++, with WINE prefix.*..[ *read more* ](apps/notepad++.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/notepad++) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/notepad++) |
 | <img src="icons/protonup-qt.png" width="48" height="48"> | [***protonup-qt***](apps/protonup-qt.md) | *Manage Proton-GE/Luxtorpeda for Steam/Wine-GE for Lutris.*..[ *read more* ](apps/protonup-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/protonup-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/protonup-qt) |
 | <img src="icons/visipics.png" width="48" height="48"> | [***visipics***](apps/visipics.md) | *Windows software to find and remove duplicate pictures. Unofficial AppImage built using "wine32-deploy" and powered by "wine".*..[ *read more* ](apps/visipics.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/visipics) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/visipics) |

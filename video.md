@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **152** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **153** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -74,6 +74,7 @@
 | <img src="icons/kiku.png" width="48" height="48"> | [***kiku***](apps/kiku.md) | *Play music from youtube on desktop. Supports local api, invidious and piped as source.*..[ *read more* ](apps/kiku.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kiku) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kiku) |
 | <img src="icons/leonflix.png" width="48" height="48"> | [***leonflix***](apps/leonflix.md) | *Multi-platform desktop application for watching movies & TV shows.*..[ *read more* ](apps/leonflix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/leonflix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/leonflix) |
 | <img src="icons/losslesscut.png" width="48" height="48"> | [***losslesscut***](apps/losslesscut.md) | *The swiss army knife of lossless video/audio editing.*..[ *read more* ](apps/losslesscut.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/losslesscut) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/losslesscut) |
+| <img src="icons/lutris.png" width="48" height="48"> | [***lutris***](apps/lutris.md) | *Unofficial. Install and play video games from all eras and from most gaming systems, by leveraging and combining existing emulators, WINE included.*..[ *read more* ](apps/lutris.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lutris) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lutris) |
 | <img src="icons/matm.png" width="48" height="48"> | [***matm***](apps/matm.md) | *Watch anime, movies, tv shows and read manga from comfort of the cli.*..[ *read more* ](apps/matm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/matm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/matm) |
 | <img src="icons/mediachips.png" width="48" height="48"> | [***mediachips***](apps/mediachips.md) | *Manage your videos, add any metadata to them and play them.*..[ *read more* ](apps/mediachips.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mediachips) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mediachips) |
 | <img src="icons/media-downloader.png" width="48" height="48"> | [***media-downloader***](apps/media-downloader.md) | *Cross-platform audio/video downloader.*..[ *read more* ](apps/media-downloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/media-downloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/media-downloader) |

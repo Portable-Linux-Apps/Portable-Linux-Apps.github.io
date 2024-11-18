@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2114** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2115** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1019,6 +1019,7 @@
 | <img src="icons/lunar-client.png" width="48" height="48"> | [***lunar-client***](apps/lunar-client.md) | *Free Minecraft Client, a modpack for all versions of Minecraft.*..[ *read more* ](apps/lunar-client.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lunar-client) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lunar-client) |
 | <img src="icons/lunatask.png" width="48" height="48"> | [***lunatask***](apps/lunatask.md) | *All-in-one encrypted to-do list, notebook, habit and mood tracker.*..[ *read more* ](apps/lunatask.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lunatask) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lunatask) |
 | <img src="icons/lunyr.png" width="48" height="48"> | [***lunyr***](apps/lunyr.md) | *Ethereum-based Encyclopedia.*..[ *read more* ](apps/lunyr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lunyr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lunyr) |
+| <img src="icons/lutris.png" width="48" height="48"> | [***lutris***](apps/lutris.md) | *Unofficial. Install and play video games from all eras and from most gaming systems, by leveraging and combining existing emulators, WINE included.*..[ *read more* ](apps/lutris.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lutris) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lutris) |
 | <img src="icons/lux.png" width="48" height="48"> | [***lux***](apps/lux.md) | *A free open source image and panorama viewer.*..[ *read more* ](apps/lux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lux) |
 | <img src="icons/lx-music-desktop.png" width="48" height="48"> | [***lx-music-desktop***](apps/lx-music-desktop.md) | *一个基于electron的音乐软件.*..[ *read more* ](apps/lx-music-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lx-music-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lx-music-desktop) |
 | <img src="icons/lxtask.png" width="48" height="48"> | [***lxtask***](apps/lxtask.md) | *A lightweight and desktop-independent task manager.*..[ *read more* ](apps/lxtask.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lxtask) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lxtask) |

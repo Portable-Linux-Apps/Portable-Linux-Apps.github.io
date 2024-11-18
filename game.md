@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **225** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **226** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -174,6 +174,7 @@
 | <img src="icons/love.png" width="48" height="48"> | [***love***](apps/love.md) | *The unquestionably awesome 2D game engine.*..[ *read more* ](apps/love.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/love) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/love) |
 | <img src="icons/lskat.png" width="48" height="48"> | [***lskat***](apps/lskat.md) | *Unofficial, Fun and engaging card game for two players. This script installs the full "kdegames" suite.*..[ *read more* ](apps/lskat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lskat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lskat) |
 | <img src="icons/lunar-client.png" width="48" height="48"> | [***lunar-client***](apps/lunar-client.md) | *Free Minecraft Client, a modpack for all versions of Minecraft.*..[ *read more* ](apps/lunar-client.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lunar-client) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lunar-client) |
+| <img src="icons/lutris.png" width="48" height="48"> | [***lutris***](apps/lutris.md) | *Unofficial. Install and play video games from all eras and from most gaming systems, by leveraging and combining existing emulators, WINE included.*..[ *read more* ](apps/lutris.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lutris) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lutris) |
 | <img src="icons/mangbandclient.png" width="48" height="48"> | [***mangbandclient***](apps/mangbandclient.md) | *A free online multi-player realtime roguelike game.*..[ *read more* ](apps/mangbandclient.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangbandclient) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangbandclient) |
 | <img src="icons/mcpelauncher.png" width="48" height="48"> | [***mcpelauncher***](apps/mcpelauncher.md) | *The main repo for the Linux Bedrock edition Minecraft launcher.*..[ *read more* ](apps/mcpelauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mcpelauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mcpelauncher) |
 | <img src="icons/m.png" width="48" height="48"> | [***m***](apps/m.md) | *Data oriented programming language for game developers.*..[ *read more* ](apps/m.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/m) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/m) |
