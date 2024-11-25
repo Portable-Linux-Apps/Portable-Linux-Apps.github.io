@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **70** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **71** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -78,6 +78,7 @@
 | <img src="icons/microsoft-edge-beta.png" width="48" height="48"> | [***microsoft-edge-beta***](apps/microsoft-edge-beta.md) | *Web Browser provided by Microsoft, Beta Edition.*..[ *read more* ](apps/microsoft-edge-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/microsoft-edge-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/microsoft-edge-beta) |
 | <img src="icons/microsoft-edge-dev.png" width="48" height="48"> | [***microsoft-edge-dev***](apps/microsoft-edge-dev.md) | *Web Browser provided by Microsoft, Developer Edition.*..[ *read more* ](apps/microsoft-edge-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/microsoft-edge-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/microsoft-edge-dev) |
 | <img src="icons/microsoft-edge.png" width="48" height="48"> | [***microsoft-edge***](apps/microsoft-edge.md) | *Web Browser provided by Microsoft, Stable Edition.*..[ *read more* ](apps/microsoft-edge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/microsoft-edge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/microsoft-edge) |
+| <img src="icons/midori.png" width="48" height="48"> | [***midori***](apps/midori.md) | *Surf lightly, quickly and safely with Midori Web Browser.*..[ *read more* ](apps/midori.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/midori) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/midori) |
 | <img src="icons/mullvad-browser.png" width="48" height="48"> | [***mullvad-browser***](apps/mullvad-browser.md) | *A Tor-based Web Browser.*..[ *read more* ](apps/mullvad-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mullvad-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mullvad-browser) |
 | <img src="icons/ncsa-mosaic.png" width="48" height="48"> | [***ncsa-mosaic***](apps/ncsa-mosaic.md) | *One of the first graphical web browsers.*..[ *read more* ](apps/ncsa-mosaic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ncsa-mosaic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ncsa-mosaic) |
 | <img src="icons/opera-beta.png" width="48" height="48"> | [***opera-beta***](apps/opera-beta.md) | *Unofficial. Fast and secure web browser, Beta version.*..[ *read more* ](apps/opera-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opera-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opera-beta) |
