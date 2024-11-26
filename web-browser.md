@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **71** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **72** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -46,6 +46,7 @@
 | <img src="icons/chromium-latest.png" width="48" height="48"> | [***chromium-latest***](apps/chromium-latest.md) | *FOSS Web Browser, base of Google Chrome, official unstable build.*..[ *read more* ](apps/chromium-latest.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-latest) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-latest) |
 | <img src="icons/chromium-rc.png" width="48" height="48"> | [***chromium-rc***](apps/chromium-rc.md) | *Unofficial. FOSS Web Browser, base of Google Chrome, release candidate.*..[ *read more* ](apps/chromium-rc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-rc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-rc) |
 | <img src="icons/chromium.png" width="48" height="48"> | [***chromium***](apps/chromium.md) | *Unofficial. FOSS Web Browser, base of Google Chrome, Edge and Brave, stable.*..[ *read more* ](apps/chromium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium) |
+| <img src="icons/cromite.png" width="48" height="48"> | [***cromite***](apps/cromite.md) | *Unofficial AppImage of the Cromite web browser.*..[ *read more* ](apps/cromite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cromite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cromite) |
 | <img src="icons/deskreen.png" width="48" height="48"> | [***deskreen***](apps/deskreen.md) | *Turns any device with a web browser into a secondary screen.*..[ *read more* ](apps/deskreen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deskreen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deskreen) |
 | <img src="icons/dezor.png" width="48" height="48"> | [***dezor***](apps/dezor.md) | *The web browser including VPN and Adblocker.*..[ *read more* ](apps/dezor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dezor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dezor) |
 | <img src="icons/elzabrowser.png" width="48" height="48"> | [***elzabrowser***](apps/elzabrowser.md) | *Elza incognito web browser.*..[ *read more* ](apps/elzabrowser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elzabrowser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elzabrowser) |

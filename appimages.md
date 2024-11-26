@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2120** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2121** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -393,6 +393,7 @@
 | <img src="icons/cro-chain-desktop-bin.png" width="48" height="48"> | [***cro-chain-desktop-bin***](apps/cro-chain-desktop-bin.md) | *Crypto.com DeFi Desktop Wallet, AppImage version.*..[ *read more* ](apps/cro-chain-desktop-bin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cro-chain-desktop-bin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cro-chain-desktop-bin) |
 | <img src="icons/cromagrally.png" width="48" height="48"> | [***cromagrally***](apps/cromagrally.md) | *The wildest racing game since man invented the wheel!*..[ *read more* ](apps/cromagrally.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cromagrally) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cromagrally) |
 | <img src="icons/cromberg.png" width="48" height="48"> | [***cromberg***](apps/cromberg.md) | *Personal accounting system.*..[ *read more* ](apps/cromberg.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cromberg) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cromberg) |
+| <img src="icons/cromite.png" width="48" height="48"> | [***cromite***](apps/cromite.md) | *Unofficial AppImage of the Cromite web browser.*..[ *read more* ](apps/cromite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cromite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cromite) |
 | <img src="icons/crosscode-map-editor.png" width="48" height="48"> | [***crosscode-map-editor***](apps/crosscode-map-editor.md) | *Map Editor for CrossCode.*..[ *read more* ](apps/crosscode-map-editor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crosscode-map-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crosscode-map-editor) |
 | <img src="icons/crossmobile.png" width="48" height="48"> | [***crossmobile***](apps/crossmobile.md) | *Create native iOS/Android/Windows apps in Java.*..[ *read more* ](apps/crossmobile.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crossmobile) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crossmobile) |
 | <img src="icons/crow-translate.png" width="48" height="48"> | [***crow-translate***](apps/crow-translate.md) | *Translate and speak text using Google, Yandex, Bing and more.*..[ *read more* ](apps/crow-translate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crow-translate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crow-translate) |

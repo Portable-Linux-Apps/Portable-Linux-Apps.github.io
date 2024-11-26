@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **164** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **165** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -61,6 +61,7 @@
 | <img src="icons/chromium-rc.png" width="48" height="48"> | [***chromium-rc***](apps/chromium-rc.md) | *Unofficial. FOSS Web Browser, base of Google Chrome, release candidate.*..[ *read more* ](apps/chromium-rc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-rc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-rc) |
 | <img src="icons/chromium.png" width="48" height="48"> | [***chromium***](apps/chromium.md) | *Unofficial. FOSS Web Browser, base of Google Chrome, Edge and Brave, stable.*..[ *read more* ](apps/chromium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium) |
 | <img src="icons/circle-z.png" width="48" height="48"> | [***circle-z***](apps/circle-z.md) | *A chat client for online math courses.*..[ *read more* ](apps/circle-z.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/circle-z) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/circle-z) |
+| <img src="icons/cromite.png" width="48" height="48"> | [***cromite***](apps/cromite.md) | *Unofficial AppImage of the Cromite web browser.*..[ *read more* ](apps/cromite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cromite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cromite) |
 | <img src="icons/cursor.png" width="48" height="48"> | [***cursor***](apps/cursor.md) | *Write, edit, and chat about your code with GPT-4.*..[ *read more* ](apps/cursor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cursor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cursor) |
 | <img src="icons/deltachat-desktop.png" width="48" height="48"> | [***deltachat-desktop***](apps/deltachat-desktop.md) | *Desktop Application for delta.chat.*..[ *read more* ](apps/deltachat-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deltachat-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deltachat-desktop) |
 | <img src="icons/deskreen.png" width="48" height="48"> | [***deskreen***](apps/deskreen.md) | *Turns any device with a web browser into a secondary screen.*..[ *read more* ](apps/deskreen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deskreen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deskreen) |
