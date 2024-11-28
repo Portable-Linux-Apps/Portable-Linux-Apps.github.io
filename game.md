@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **226** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **227** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -253,6 +253,7 @@
 | <img src="icons/serioussamtfe-vk.png" width="48" height="48"> | [***serioussamtfe-vk***](apps/serioussamtfe-vk.md) | *Game engine for Serious Sam Classic, Vulkan support, TFE.*..[ *read more* ](apps/serioussamtfe-vk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/serioussamtfe-vk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/serioussamtfe-vk) |
 | <img src="icons/serioussamtse.png" width="48" height="48"> | [***serioussamtse***](apps/serioussamtse.md) | *Game engine for Serious Sam Classic, TSE.*..[ *read more* ](apps/serioussamtse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/serioussamtse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/serioussamtse) |
 | <img src="icons/serioussamtse-vk.png" width="48" height="48"> | [***serioussamtse-vk***](apps/serioussamtse-vk.md) | *Game engine for Serious Sam Classic, Vulkan support, TSE.*..[ *read more* ](apps/serioussamtse-vk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/serioussamtse-vk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/serioussamtse-vk) |
+| <img src="icons/sfp.png" width="48" height="48"> | [***sfp***](apps/sfp.md) | *This utility is designed to allow you to apply skins to the modern Steam client.*..[ *read more* ](apps/sfp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sfp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sfp) |
 | <img src="icons/shadps4.png" width="48" height="48"> | [***shadps4***](apps/shadps4.md) | *An early PlayStation 4 emulator written in C++.*..[ *read more* ](apps/shadps4.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shadps4) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shadps4) |
 | <img src="icons/shadps4-nightly.png" width="48" height="48"> | [***shadps4-nightly***](apps/shadps4-nightly.md) | *An early PlayStation 4 emulator written in C++.*..[ *read more* ](apps/shadps4-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shadps4-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shadps4-nightly) |
 | <img src="icons/skyemu.png" width="48" height="48"> | [***skyemu***](apps/skyemu.md) | *Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator.*..[ *read more* ](apps/skyemu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/skyemu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/skyemu) |

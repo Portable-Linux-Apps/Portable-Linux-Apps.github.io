@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2530** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2531** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2036,6 +2036,7 @@
 | <img src="icons/session-desktop.png" width="48" height="48"> | [***session-desktop***](apps/session-desktop.md) | *Onion routing based messenger.*..[ *read more* ](apps/session-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/session-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/session-desktop) |
 | <img src="icons/setcolors.png" width="48" height="48"> | [***setcolors***](apps/setcolors.md) | *Another way to set colors in Linux shells.*..[ *read more* ](apps/setcolors.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/setcolors) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/setcolors) |
 | <img src="icons/sfbrename.png" width="48" height="48"> | [***sfbrename***](apps/sfbrename.md) | *Bulk file renamer.*..[ *read more* ](apps/sfbrename.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sfbrename) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sfbrename) |
+| <img src="icons/sfp.png" width="48" height="48"> | [***sfp***](apps/sfp.md) | *This utility is designed to allow you to apply skins to the modern Steam client.*..[ *read more* ](apps/sfp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sfp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sfp) |
 | <img src="icons/sfrt-attendance.png" width="48" height="48"> | [***sfrt-attendance***](apps/sfrt-attendance.md) | *The attendance tracking program for robotics.*..[ *read more* ](apps/sfrt-attendance.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sfrt-attendance) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sfrt-attendance) |
 | <img src="icons/sf-tube.png" width="48" height="48"> | [***sf-tube***](apps/sf-tube.md) | *Watch and download videos without ads.*..[ *read more* ](apps/sf-tube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sf-tube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sf-tube) |
 | <img src="icons/shadowsocks.png" width="48" height="48"> | [***shadowsocks***](apps/shadowsocks.md) | *Shadowsocks GUI client.*..[ *read more* ](apps/shadowsocks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shadowsocks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shadowsocks) |
