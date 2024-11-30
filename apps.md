@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2532** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2533** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2558,6 +2558,7 @@
 | <img src="icons/xchat.png" width="48" height="48"> | [***xchat***](apps/xchat.md) | *Chat with other people using Internet Relay Chat.*..[ *read more* ](apps/xchat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xchat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xchat) |
 | <img src="icons/xclicker.png" width="48" height="48"> | [***xclicker***](apps/xclicker.md) | *Fast gui autoclicker for x11 linux desktops.*..[ *read more* ](apps/xclicker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xclicker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xclicker) |
 | <img src="icons/xcloud-desktop.png" width="48" height="48"> | [***xcloud-desktop***](apps/xcloud-desktop.md) | *An unoffical desktop app for the XCloud web beta.*..[ *read more* ](apps/xcloud-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xcloud-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xcloud-desktop) |
+| <img src="icons/xdelta3-cross-gui.png" width="48" height="48"> | [***xdelta3-cross-gui***](apps/xdelta3-cross-gui.md) | *A cross-platform GUI for creating xDelta3 patches.*..[ *read more* ](apps/xdelta3-cross-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xdelta3-cross-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xdelta3-cross-gui) |
 | <img src="icons/xde.png" width="48" height="48"> | [***xde***](apps/xde.md) | *The Expo Development Environment.*..[ *read more* ](apps/xde.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xde) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xde) |
 | <img src="icons/xdg-ninja.png" width="48" height="48"> | [***xdg-ninja***](apps/xdg-ninja.md) | *Script that checks your $HOME for unwanted files and directories.*..[ *read more* ](apps/xdg-ninja.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xdg-ninja) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xdg-ninja) |
 | <img src="icons/xelfviewer.png" width="48" height="48"> | [***xelfviewer***](apps/xelfviewer.md) | *A multiplatform ELF file viewer/editor.*..[ *read more* ](apps/xelfviewer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xelfviewer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xelfviewer) |
