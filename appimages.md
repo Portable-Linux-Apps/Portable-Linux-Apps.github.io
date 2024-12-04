@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2122** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2123** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1754,6 +1754,7 @@
 | <img src="icons/spivak.png" width="48" height="48"> | [***spivak***](apps/spivak.md) | *Karaoke player based on GStreamer and Qt5.*..[ *read more* ](apps/spivak.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spivak) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spivak) |
 | <img src="icons/spm.png" width="48" height="48"> | [***spm***](apps/spm.md) | *A simple CLI package manager written in bash mainly for AppImages.*..[ *read more* ](apps/spm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spm) |
 | <img src="icons/spmp.png" width="48" height="48"> | [***spmp***](apps/spmp.md) | *A YouTube Music client with a focus on customisation of colours and song metadata.*..[ *read more* ](apps/spmp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spmp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spmp) |
+| <img src="icons/spotify-qt.png" width="48" height="48"> | [***spotify-qt***](apps/spotify-qt.md) | *Lightweight Spotify client using Qt.*..[ *read more* ](apps/spotify-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify-qt) |
 | <img src="icons/spotify.png" width="48" height="48"> | [***spotify***](apps/spotify.md) | *Unofficial. A proprietary music streaming service.*..[ *read more* ](apps/spotify.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify) |
 | <img src="icons/spotube.png" width="48" height="48"> | [***spotube***](apps/spotube.md) | *Open source Spotify client that doesn't require Premium.*..[ *read more* ](apps/spotube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotube) |
 | <img src="icons/spyglass.png" width="48" height="48"> | [***spyglass***](apps/spyglass.md) | *A personal search engine to create a searchable library from your personal documents, interests, and more.*..[ *read more* ](apps/spyglass.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spyglass) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spyglass) |

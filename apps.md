@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2533** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2534** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2153,6 +2153,7 @@
 | <img src="icons/spotifetch.png" width="48" height="48"> | [***spotifetch***](apps/spotifetch.md) | *A simple and beautiful CLI fetch tool for spotify, now rusty.*..[ *read more* ](apps/spotifetch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotifetch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotifetch) |
 | <img src="icons/spotify-dl.png" width="48" height="48"> | [***spotify-dl***](apps/spotify-dl.md) | *A command-line utility to download songs and playlists directly from Spotify's servers.*..[ *read more* ](apps/spotify-dl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify-dl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify-dl) |
 | <img src="icons/spotify-player.png" width="48" height="48"> | [***spotify-player***](apps/spotify-player.md) | *A Spotify player in the terminal with full feature parity.*..[ *read more* ](apps/spotify-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify-player) |
+| <img src="icons/spotify-qt.png" width="48" height="48"> | [***spotify-qt***](apps/spotify-qt.md) | *Lightweight Spotify client using Qt.*..[ *read more* ](apps/spotify-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify-qt) |
 | <img src="icons/spotify-tui.png" width="48" height="48"> | [***spotify-tui***](apps/spotify-tui.md) | *Spotify for the terminal written in Rust.*..[ *read more* ](apps/spotify-tui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify-tui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify-tui) |
 | <img src="icons/spotify.png" width="48" height="48"> | [***spotify***](apps/spotify.md) | *Unofficial. A proprietary music streaming service.*..[ *read more* ](apps/spotify.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify) |
 | <img src="icons/spotube.png" width="48" height="48"> | [***spotube***](apps/spotube.md) | *Open source Spotify client that doesn't require Premium.*..[ *read more* ](apps/spotube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotube) |
