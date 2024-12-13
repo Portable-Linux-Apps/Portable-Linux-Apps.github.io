@@ -4,7 +4,7 @@
  
  This script lets you choose between the unofficials AppImage and Archimage.
  
- APPIMAGE: https://github.com/Samueru-sama/mpv-AppImage
+ APPIMAGE: https://github.com/pkgforge-dev/mpv-AppImage
  
  ARCHIMAGE (JuNest-based AppImage): https://github.com/ivan-hc/MPV-appimage
  
