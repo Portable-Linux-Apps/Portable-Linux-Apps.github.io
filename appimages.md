@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2123** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2124** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2053,6 +2053,7 @@
 | <img src="icons/whirlpool-gui.png" width="48" height="48"> | [***whirlpool-gui***](apps/whirlpool-gui.md) | *Desktop GUI for Whirlpool by Samourai-Wallet.*..[ *read more* ](apps/whirlpool-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whirlpool-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whirlpool-gui) |
 | <img src="icons/whiteboard.png" width="48" height="48"> | [***whiteboard***](apps/whiteboard.md) | *Activity-based slideshow for coding webinars and presentations.*..[ *read more* ](apps/whiteboard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whiteboard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whiteboard) |
 | <img src="icons/whu-library-seat.png" width="48" height="48"> | [***whu-library-seat***](apps/whu-library-seat.md) | *Wuhan University Library Assistant, for Jinan University.*..[ *read more* ](apps/whu-library-seat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whu-library-seat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whu-library-seat) |
+| <img src="icons/wick-editor.png" width="48" height="48"> | [***wick-editor***](apps/wick-editor.md) | *A free and open-source tool for creating games, animations and everything in-between!*..[ *read more* ](apps/wick-editor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wick-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wick-editor) |
 | <img src="icons/widelands.png" width="48" height="48"> | [***widelands***](apps/widelands.md) | *Real-time strategy game with singleplayer campaigns.*..[ *read more* ](apps/widelands.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/widelands) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/widelands) |
 | <img src="icons/window-pet.png" width="48" height="48"> | [***window-pet***](apps/window-pet.md) | *Pet overlay app that lets you have adorable companion such as pets, anime characters on your screen.*..[ *read more* ](apps/window-pet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/window-pet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/window-pet) |
 | <img src="icons/windows2usb.png" width="48" height="48"> | [***windows2usb***](apps/windows2usb.md) | *Flash Drive burning utility, MBR/GPT, BIOS/UEFI, FAT32/NTFS.*..[ *read more* ](apps/windows2usb.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/windows2usb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/windows2usb) |
