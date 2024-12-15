@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2536** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2537** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1829,6 +1829,7 @@
 | <img src="icons/pullp.png" width="48" height="48"> | [***pullp***](apps/pullp.md) | *Pull request monitoring app for Github.*..[ *read more* ](apps/pullp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pullp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pullp) |
 | <img src="icons/pulsar.png" width="48" height="48"> | [***pulsar***](apps/pulsar.md) | *A Community-led Hyper-Hackable Text Editor.*..[ *read more* ](apps/pulsar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pulsar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pulsar) |
 | <img src="icons/pulse.png" width="48" height="48"> | [***pulse***](apps/pulse.md) | *Pulse desktop client.*..[ *read more* ](apps/pulse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pulse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pulse) |
+| <img src="icons/pulseview.png" width="48" height="48"> | [***pulseview***](apps/pulseview.md) | *PulseView (sometimes abbreviated as "PV") is a Qt based logic analyzer, oscilloscope and MSO GUI for sigrok.*..[ *read more* ](apps/pulseview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pulseview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pulseview) |
 | <img src="icons/puppetry.png" width="48" height="48"> | [***puppetry***](apps/puppetry.md) | *Solution for non-developers on top of Puppeteer and Jest.*..[ *read more* ](apps/puppetry.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/puppetry) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/puppetry) |
 | <img src="icons/puush-qt.png" width="48" height="48"> | [***puush-qt***](apps/puush-qt.md) | *A GUI frontend for puush on Linux.*..[ *read more* ](apps/puush-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/puush-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/puush-qt) |
 | <img src="icons/pyappimage.png" width="48" height="48"> | [***pyappimage***](apps/pyappimage.md) | *Simple appimage builder for Python applications.*..[ *read more* ](apps/pyappimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pyappimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pyappimage) |
