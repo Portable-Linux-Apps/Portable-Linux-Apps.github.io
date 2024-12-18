@@ -69,6 +69,7 @@
 ◆ apphub : App that simplifies installation/management of .appImage packages.
 ◆ appimage-builder : GNU/Linux packaging solution using the AppImage format.
 ◆ appimagecraft : Powerful build script generator with a focus on AppImages.
+◆ appimage-creator : GUI for easily generating AppImage packages on Linux.
 ◆ appimagehelper : Create and organize shortcuts for AppImages.
 ◆ appimagelauncher : CLI helper for running and integrating AppImages.
 ◆ appimagelint : Check AppImages for compatibility, best practices etc.
@@ -747,6 +748,7 @@
 ◆ hapee : Best cross-platform downloader ever.
 ◆ hashsum : A universal tool for finding file duplicates and modified files.
 ◆ hastyheroes : An endless 2D jumping game.
+◆ haveno-reto : Decentralized P2P exchange built on Monero and Tor.
 ◆ hdrmerge : Merge several raw images into a single DNG raw image.
 ◆ heat1d : UI for testing the soilFluxex3D library, CRITERIA1D.
 ◆ heimer : Simple cross-platform mind map, diagram, and note-taking tool.
