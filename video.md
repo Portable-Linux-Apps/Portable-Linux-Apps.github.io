@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **153** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **154** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -97,6 +97,7 @@
 | <img src="icons/nazuna.png" width="48" height="48"> | [***nazuna***](apps/nazuna.md) | *Download Twitter videos using your terminal!*..[ *read more* ](apps/nazuna.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nazuna) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nazuna) |
 | <img src="icons/nostlan.png" width="48" height="48"> | [***nostlan***](apps/nostlan.md) | *A multiplatform game launcher for video game emulators.*..[ *read more* ](apps/nostlan.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nostlan) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nostlan) |
 | <img src="icons/nuclear.png" width="48" height="48"> | [***nuclear***](apps/nuclear.md) | *Streaming music player that finds free music for you.*..[ *read more* ](apps/nuclear.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nuclear) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nuclear) |
+| <img src="icons/obs-studio-full.png" width="48" height="48"> | [***obs-studio-full***](apps/obs-studio-full.md) | *Unofficial. Software for video recording and live streaming. Full version with browser support.*..[ *read more* ](apps/obs-studio-full.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/obs-studio-full) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/obs-studio-full) |
 | <img src="icons/obs-studio.png" width="48" height="48"> | [***obs-studio***](apps/obs-studio.md) | *Unofficial. Software for video recording and live streaming.*..[ *read more* ](apps/obs-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/obs-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/obs-studio) |
 | <img src="icons/ocvvid2fulldome.png" width="48" height="48"> | [***ocvvid2fulldome***](apps/ocvvid2fulldome.md) | *Take flat videos, distort them to fit fulldome.*..[ *read more* ](apps/ocvvid2fulldome.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ocvvid2fulldome) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ocvvid2fulldome) |
 | <img src="icons/ocvwarp.png" width="48" height="48"> | [***ocvwarp***](apps/ocvwarp.md) | *Warping images and videos for planetarium fulldome display.*..[ *read more* ](apps/ocvwarp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ocvwarp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ocvwarp) |
