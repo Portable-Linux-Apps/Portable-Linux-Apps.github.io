@@ -564,6 +564,7 @@
 ◆ fchat : The F-Chat 3.0 client.
 ◆ f-crm : Customer Relations Management for Freelancers.
 ◆ fdc3-sail : Open implementation of the FDC3 standard using Electron.
+◆ fdm : Free Download Manager, multiplatform powerful modern download accelerator and organizer.
 ◆ feather-wallet : Monero wallet.
 ◆ feebas : Screenshot comparison tool for identifying visual regressions.
 ◆ feedseries : Follow your series enthusiast news, in french.
@@ -2027,6 +2028,7 @@
 ◆ widelands : Real-time strategy game with singleplayer campaigns.
 ◆ window-pet : Pet overlay app that lets you have adorable companion such as pets, anime characters on your screen.
 ◆ windows2usb : Flash Drive burning utility, MBR/GPT, BIOS/UEFI, FAT32/NTFS.
+◆ windows95 : Unofficial. Windows 95 in Electron.
 ◆ wine32-deploy : Tool for creating AppImages for 32-bit Microsoft Windows apps.
 ◆ wine-devel : Unofficial. Compatibility layer to run x86_64 Windows programs, Dev Edition.
 ◆ wine-stable : Unofficial. Compatibility layer to run x86_64 Windows programs, Stable.

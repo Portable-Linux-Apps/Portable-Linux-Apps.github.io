@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2540** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2541** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -704,6 +704,7 @@
 | <img src="icons/f-crm.png" width="48" height="48"> | [***f-crm***](apps/f-crm.md) | *Customer Relations Management for Freelancers.*..[ *read more* ](apps/f-crm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/f-crm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/f-crm) |
 | <img src="icons/fd.png" width="48" height="48"> | [***fd***](apps/fd.md) | *A simple, fast and user-friendly alternative to 'find'.*..[ *read more* ](apps/fd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fd) |
 | <img src="icons/fdc3-sail.png" width="48" height="48"> | [***fdc3-sail***](apps/fdc3-sail.md) | *Open implementation of the FDC3 standard using Electron.*..[ *read more* ](apps/fdc3-sail.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fdc3-sail) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fdc3-sail) |
+| <img src="icons/fdm.png" width="48" height="48"> | [***fdm***](apps/fdm.md) | *Free Download Manager, multiplatform powerful modern download accelerator and organizer.*..[ *read more* ](apps/fdm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fdm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fdm) |
 | <img src="icons/feather-wallet.png" width="48" height="48"> | [***feather-wallet***](apps/feather-wallet.md) | *Monero wallet.*..[ *read more* ](apps/feather-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/feather-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/feather-wallet) |
 | <img src="icons/feebas.png" width="48" height="48"> | [***feebas***](apps/feebas.md) | *Screenshot comparison tool for identifying visual regressions.*..[ *read more* ](apps/feebas.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/feebas) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/feebas) |
 | <img src="icons/feedseries.png" width="48" height="48"> | [***feedseries***](apps/feedseries.md) | *Follow your series enthusiast news, in french.*..[ *read more* ](apps/feedseries.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/feedseries) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/feedseries) |
