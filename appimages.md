@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2130** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2131** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1819,6 +1819,7 @@
 | <img src="icons/sunsama.png" width="48" height="48"> | [***sunsama***](apps/sunsama.md) | *The daily planner for elite professionals.*..[ *read more* ](apps/sunsama.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sunsama) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sunsama) |
 | <img src="icons/sunshine.png" width="48" height="48"> | [***sunshine***](apps/sunshine.md) | *Sunshine is a Gamestream host for Moonlight.*..[ *read more* ](apps/sunshine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sunshine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sunshine) |
 | <img src="icons/sup.png" width="48" height="48"> | [***sup***](apps/sup.md) | *A Slack client with WhatsApp like UI.*..[ *read more* ](apps/sup.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sup) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sup) |
+| <img src="icons/superbacked.png" width="48" height="48"> | [***superbacked***](apps/superbacked.md) | *Don’t lose your secrets. A secret management platform used to back up and pass on sensitive data from one generation to the next.*..[ *read more* ](apps/superbacked.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/superbacked) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/superbacked) |
 | <img src="icons/supernotes.png" width="48" height="48"> | [***supernotes***](apps/supernotes.md) | *Enjoy efficient note-taking without the hassle.*..[ *read more* ](apps/supernotes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supernotes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supernotes) |
 | <img src="icons/superpaper.png" width="48" height="48"> | [***superpaper***](apps/superpaper.md) | *A cross-platform multi monitor wallpaper manager.*..[ *read more* ](apps/superpaper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/superpaper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/superpaper) |
 | <img src="icons/superproductivity.png" width="48" height="48"> | [***superproductivity***](apps/superproductivity.md) | *An advanced todo list app with integrated Timeboxing.*..[ *read more* ](apps/superproductivity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/superproductivity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/superproductivity) |
