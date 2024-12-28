@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2544** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2545** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1013,6 +1013,7 @@
 | <img src="icons/hyperkeys.png" width="48" height="48"> | [***hyperkeys***](apps/hyperkeys.md) | *Unleash you keyboard shorcuts.*..[ *read more* ](apps/hyperkeys.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperkeys) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperkeys) |
 | <img src="icons/hypersomnia.png" width="48" height="48"> | [***hypersomnia***](apps/hypersomnia.md) | *Hardcore arena mixing eSports with pixely nostalgia.*..[ *read more* ](apps/hypersomnia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hypersomnia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hypersomnia) |
 | <img src="icons/hyperspace.png" width="48" height="48"> | [***hyperspace***](apps/hyperspace.md) | *A fluffy client for Mastodon in React.*..[ *read more* ](apps/hyperspace.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperspace) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperspace) |
+| <img src="icons/hypnotix.png" width="48" height="48"> | [***hypnotix***](apps/hypnotix.md) | *Unofficial. An IPTV streaming application with support for live TV.*..[ *read more* ](apps/hypnotix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hypnotix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hypnotix) |
 | <img src="icons/i3-auto-layout.png" width="48" height="48"> | [***i3-auto-layout***](apps/i3-auto-layout.md) | *Automatic, optimal tiling for i3wm. Fork of dead version.*..[ *read more* ](apps/i3-auto-layout.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/i3-auto-layout) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/i3-auto-layout) |
 | <img src="icons/i3lock-color.png" width="48" height="48"> | [***i3lock-color***](apps/i3lock-color.md) | *The world's most popular non-default computer lockscreen.*..[ *read more* ](apps/i3lock-color.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/i3lock-color) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/i3lock-color) |
 | <img src="icons/i3.png" width="48" height="48"> | [***i3***](apps/i3.md) | *Unofficial, A tiling window manager for X11.*..[ *read more* ](apps/i3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/i3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/i3) |

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **154** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **155** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -64,6 +64,7 @@
 | <img src="icons/gridplayer.png" width="48" height="48"> | [***gridplayer***](apps/gridplayer.md) | *Play videos side-by-side.*..[ *read more* ](apps/gridplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gridplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gridplayer) |
 | <img src="icons/gyroflow.png" width="48" height="48"> | [***gyroflow***](apps/gyroflow.md) | *Video stabilization using gyroscope data.*..[ *read more* ](apps/gyroflow.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gyroflow) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gyroflow) |
 | <img src="icons/handbrake.png" width="48" height="48"> | [***handbrake***](apps/handbrake.md) | *Unofficial, An open-source multiplatform video transcoder.*..[ *read more* ](apps/handbrake.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/handbrake) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/handbrake) |
+| <img src="icons/hypnotix.png" width="48" height="48"> | [***hypnotix***](apps/hypnotix.md) | *Unofficial. An IPTV streaming application with support for live TV.*..[ *read more* ](apps/hypnotix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hypnotix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hypnotix) |
 | <img src="icons/iptvnator.png" width="48" height="48"> | [***iptvnator***](apps/iptvnator.md) | *IPTV player application.*..[ *read more* ](apps/iptvnator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/iptvnator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/iptvnator) |
 | <img src="icons/ipuissance-4d.png" width="48" height="48"> | [***ipuissance-4d***](apps/ipuissance-4d.md) | *Connect Four video game with a 3-Dimentional rendering.*..[ *read more* ](apps/ipuissance-4d.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ipuissance-4d) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ipuissance-4d) |
 | <img src="icons/jdappstreamedit.png" width="48" height="48"> | [***jdappstreamedit***](apps/jdappstreamedit.md) | *A graphical Program to create and edit AppStream files.*..[ *read more* ](apps/jdappstreamedit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jdappstreamedit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jdappstreamedit) |
