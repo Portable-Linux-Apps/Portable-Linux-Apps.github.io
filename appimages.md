@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2132** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2133** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2088,6 +2088,7 @@
 | <img src="icons/wootility.png" width="48" height="48"> | [***wootility***](apps/wootility.md) | *Utility for configuring Wooting keyboards.*..[ *read more* ](apps/wootility.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wootility) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wootility) |
 | <img src="icons/wooting-analog-midi.png" width="48" height="48"> | [***wooting-analog-midi***](apps/wooting-analog-midi.md) | *Virtual MIDI device for, Wooting analog keyboards.*..[ *read more* ](apps/wooting-analog-midi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wooting-analog-midi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wooting-analog-midi) |
 | <img src="icons/wootomation.png" width="48" height="48"> | [***wootomation***](apps/wootomation.md) | *The official Wooting Macros software.*..[ *read more* ](apps/wootomation.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wootomation) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wootomation) |
+| <img src="icons/wora.png" width="48" height="48"> | [***wora***](apps/wora.md) | *A beautiful player for audiophiles.*..[ *read more* ](apps/wora.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wora) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wora) |
 | <img src="icons/wordtsar.png" width="48" height="48"> | [***wordtsar***](apps/wordtsar.md) | *Document mode clone for Wordstar, supports Wordstar, RTF and DOCX.*..[ *read more* ](apps/wordtsar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wordtsar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wordtsar) |
 | <img src="icons/workflowy.png" width="48" height="48"> | [***workflowy***](apps/workflowy.md) | *A notetaking tool.*..[ *read more* ](apps/workflowy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/workflowy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/workflowy) |
 | <img src="icons/wournal.png" width="48" height="48"> | [***wournal***](apps/wournal.md) | *Simple "digitial paper" for note taking and PDF annotation. Heavily inspired by Xournal.*..[ *read more* ](apps/wournal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wournal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wournal) |

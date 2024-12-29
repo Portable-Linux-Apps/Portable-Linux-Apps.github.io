@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **141** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **142** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -162,6 +162,7 @@
 | <img src="icons/vlc+.png" width="48" height="48"> | [***vlc+***](apps/vlc+.md) | *Unofficial. Video & Media player for Audio, streaming and more, with JAVA support.*..[ *read more* ](apps/vlc+.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vlc+) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vlc+) |
 | <img src="icons/vvave-maui.png" width="48" height="48"> | [***vvave-maui***](apps/vvave-maui.md) | *Manage your music collection and stream it from the cloud.*..[ *read more* ](apps/vvave-maui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vvave-maui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vvave-maui) |
 | <img src="icons/wooting-analog-midi.png" width="48" height="48"> | [***wooting-analog-midi***](apps/wooting-analog-midi.md) | *Virtual MIDI device for, Wooting analog keyboards.*..[ *read more* ](apps/wooting-analog-midi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wooting-analog-midi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wooting-analog-midi) |
+| <img src="icons/wora.png" width="48" height="48"> | [***wora***](apps/wora.md) | *A beautiful player for audiophiles.*..[ *read more* ](apps/wora.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wora) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wora) |
 | <img src="icons/yangdownloader.png" width="48" height="48"> | [***yangdownloader***](apps/yangdownloader.md) | *Downloads best-quality audio and video from YouTube.*..[ *read more* ](apps/yangdownloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yangdownloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yangdownloader) |
 | <img src="icons/yesplaymusic.png" width="48" height="48"> | [***yesplaymusic***](apps/yesplaymusic.md) | *A third party music player for Netease Music.*..[ *read more* ](apps/yesplaymusic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yesplaymusic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yesplaymusic) |
 | <img src="icons/ym-desktop.png" width="48" height="48"> | [***ym-desktop***](apps/ym-desktop.md) | *The YouTube music desktop app.*..[ *read more* ](apps/ym-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ym-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ym-desktop) |
