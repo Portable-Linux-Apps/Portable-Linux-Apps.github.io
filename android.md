@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **27** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **28** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -42,6 +42,7 @@
 | <img src="icons/apk-editor-studio.png" width="48" height="48"> | [***apk-editor-studio***](apps/apk-editor-studio.md) | *Easy to use APK, Android reverse-engineering tool.*..[ *read more* ](apps/apk-editor-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/apk-editor-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/apk-editor-studio) |
 | <img src="icons/audiorelay.png" width="48" height="48"> | [***audiorelay***](apps/audiorelay.md) | *Stream audio between your devices. Turn your phone into a microphone or speakers for PC.*..[ *read more* ](apps/audiorelay.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audiorelay) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audiorelay) |
 | <img src="icons/biplanes-revival.png" width="48" height="48"> | [***biplanes-revival***](apps/biplanes-revival.md) | *An old cellphone arcade recreated for PC.*..[ *read more* ](apps/biplanes-revival.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/biplanes-revival) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/biplanes-revival) |
+| <img src="icons/checkra1n.png" width="48" height="48"> | [***checkra1n***](apps/checkra1n.md) | *Jailbreak for iPhone 5s through iPhone X, iOS 12.0 and up*..[ *read more* ](apps/checkra1n.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/checkra1n) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/checkra1n) |
 | <img src="icons/communicator-maui.png" width="48" height="48"> | [***communicator-maui***](apps/communicator-maui.md) | *Create and organize contacts, phone, email, name, etc..*..[ *read more* ](apps/communicator-maui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/communicator-maui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/communicator-maui) |
 | <img src="icons/crossmobile.png" width="48" height="48"> | [***crossmobile***](apps/crossmobile.md) | *Create native iOS/Android/Windows apps in Java.*..[ *read more* ](apps/crossmobile.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crossmobile) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crossmobile) |
 | <img src="icons/deckboard.png" width="48" height="48"> | [***deckboard***](apps/deckboard.md) | *Control your PC with your phone in easy way possible.*..[ *read more* ](apps/deckboard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deckboard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deckboard) |
