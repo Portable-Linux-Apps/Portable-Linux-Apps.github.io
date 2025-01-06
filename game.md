@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **230** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **231** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -213,6 +213,7 @@
 | <img src="icons/openrct2.png" width="48" height="48"> | [***openrct2***](apps/openrct2.md) | *Re-implementation of RollerCoaster Tycoon 2 (RCT2), expanding the game with new features.*..[ *read more* ](apps/openrct2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openrct2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openrct2) |
 | <img src="icons/osu.png" width="48" height="48"> | [***osu***](apps/osu.md) | *A free-to-win rhythm game. Rhythm is just a click away!*..[ *read more* ](apps/osu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/osu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/osu) |
 | <img src="icons/ottomatic.png" width="48" height="48"> | [***ottomatic***](apps/ottomatic.md) | *Pangea Software’s Otto Matic, a game of robots.*..[ *read more* ](apps/ottomatic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ottomatic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ottomatic) |
+| <img src="icons/overbind.png" width="48" height="48"> | [***overbind***](apps/overbind.md) | *A utility that allows binding keyboard buttons to virtual Xbox360 controller joystick outputs.*..[ *read more* ](apps/overbind.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/overbind) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/overbind) |
 | <img src="icons/packsquash.png" width="48" height="48"> | [***packsquash***](apps/packsquash.md) | *A Minecraft Java Edition resource and data pack optimizer.*..[ *read more* ](apps/packsquash.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/packsquash) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/packsquash) |
 | <img src="icons/palapeli.png" width="48" height="48"> | [***palapeli***](apps/palapeli.md) | *Jigsaw puzzle game. This script installs the full "kdegames" suite.*..[ *read more* ](apps/palapeli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/palapeli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/palapeli) |
 | <img src="icons/parsec-linux.png" width="48" height="48"> | [***parsec-linux***](apps/parsec-linux.md) | *Parsec game streaming client.*..[ *read more* ](apps/parsec-linux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/parsec-linux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/parsec-linux) |

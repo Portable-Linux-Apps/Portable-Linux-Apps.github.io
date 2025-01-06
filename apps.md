@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2547** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2548** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1645,6 +1645,7 @@
 | <img src="icons/outline-client.png" width="48" height="48"> | [***outline-client***](apps/outline-client.md) | *Lean on the Cordova and Electron frameworks.*..[ *read more* ](apps/outline-client.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/outline-client) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/outline-client) |
 | <img src="icons/outline-client-wayland.png" width="48" height="48"> | [***outline-client-wayland***](apps/outline-client-wayland.md) | *Lean on the Cordova and Electron frameworks.*..[ *read more* ](apps/outline-client-wayland.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/outline-client-wayland) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/outline-client-wayland) |
 | <img src="icons/outline-manager.png" width="48" height="48"> | [***outline-manager***](apps/outline-manager.md) | *Create and manage access to Outline servers.*..[ *read more* ](apps/outline-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/outline-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/outline-manager) |
+| <img src="icons/overbind.png" width="48" height="48"> | [***overbind***](apps/overbind.md) | *A utility that allows binding keyboard buttons to virtual Xbox360 controller joystick outputs.*..[ *read more* ](apps/overbind.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/overbind) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/overbind) |
 | <img src="icons/overte.png" width="48" height="48"> | [***overte***](apps/overte.md) | *Overte open source virtual worlds platform.*..[ *read more* ](apps/overte.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/overte) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/overte) |
 | <img src="icons/ovideo.png" width="48" height="48"> | [***ovideo***](apps/ovideo.md) | *Video Editor.*..[ *read more* ](apps/ovideo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ovideo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ovideo) |
 | <img src="icons/owallet.png" width="48" height="48"> | [***owallet***](apps/owallet.md) | *A comprehensive Ontology desktop wallet.*..[ *read more* ](apps/owallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/owallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/owallet) |
