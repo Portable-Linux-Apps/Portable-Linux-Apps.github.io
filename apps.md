@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2548** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2549** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -527,6 +527,7 @@
 | <img src="icons/densify.png" width="48" height="48"> | [***densify***](apps/densify.md) | *A GTK+ GUI Application written in Python that simplifies compressing PDF files with Ghostscript.*..[ *read more* ](apps/densify.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/densify) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/densify) |
 | <img src="icons/deployer.png" width="48" height="48"> | [***deployer***](apps/deployer.md) | *Deploy your applications through Jenkins.*..[ *read more* ](apps/deployer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deployer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deployer) |
 | <img src="icons/deskreen.png" width="48" height="48"> | [***deskreen***](apps/deskreen.md) | *Turns any device with a web browser into a secondary screen.*..[ *read more* ](apps/deskreen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deskreen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deskreen) |
+| <img src="icons/desmume.png" width="48" height="48"> | [***desmume***](apps/desmume.md) | *Unofficial AppImage of the DeSmuME emulator.*..[ *read more* ](apps/desmume.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/desmume) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/desmume) |
 | <img src="icons/destiny.png" width="48" height="48"> | [***destiny***](apps/destiny.md) | *Cross-platform Magic Wormhole graphical client.*..[ *read more* ](apps/destiny.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/destiny) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/destiny) |
 | <img src="icons/devclean.png" width="48" height="48"> | [***devclean***](apps/devclean.md) | *A CLI and Desktop GUI app to clean dev dependencies (node_modules, cache) and more.*..[ *read more* ](apps/devclean.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/devclean) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/devclean) |
 | <img src="icons/devdocs-desktop.png" width="48" height="48"> | [***devdocs-desktop***](apps/devdocs-desktop.md) | *Desktop client for devdocs.io.*..[ *read more* ](apps/devdocs-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/devdocs-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/devdocs-desktop) |
