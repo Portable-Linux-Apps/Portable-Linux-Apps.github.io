@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2136** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2137** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -705,6 +705,7 @@
 | <img src="icons/gerbv.png" width="48" height="48"> | [***gerbv***](apps/gerbv.md) | *Gerber file viewer for PCB design.*..[ *read more* ](apps/gerbv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gerbv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gerbv) |
 | <img src="icons/getthermal.png" width="48" height="48"> | [***getthermal***](apps/getthermal.md) | *Cross-platform Thermal Camera Viewer.*..[ *read more* ](apps/getthermal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/getthermal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/getthermal) |
 | <img src="icons/gextractwinicons.png" width="48" height="48"> | [***gextractwinicons***](apps/gextractwinicons.md) | *Extract cursors, icons and images from MS Windows files.*..[ *read more* ](apps/gextractwinicons.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gextractwinicons) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gextractwinicons) |
+| <img src="icons/ghostty.png" width="48" height="48"> | [***ghostty***](apps/ghostty.md) | *Unofficial AppImage(s) of Ghostty terminal emulator.*..[ *read more* ](apps/ghostty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ghostty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ghostty) |
 | <img src="icons/giada.png" width="48" height="48"> | [***giada***](apps/giada.md) | *Hardcore audio music production tool and drum machine for DJs.*..[ *read more* ](apps/giada.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/giada) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/giada) |
 | <img src="icons/gibs.png" width="48" height="48"> | [***gibs***](apps/gibs.md) | *Generally In-source Build System, build C++ projects without a project.*..[ *read more* ](apps/gibs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gibs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gibs) |
 | <img src="icons/gifcurry.png" width="48" height="48"> | [***gifcurry***](apps/gifcurry.md) | *The open-source, Haskell-built video editor for GIF makers.*..[ *read more* ](apps/gifcurry.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gifcurry) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gifcurry) |

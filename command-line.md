@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **208** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **209** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -96,6 +96,7 @@
 | <img src="icons/gemget.png" width="48" height="48"> | [***gemget***](apps/gemget.md) | *Command line downloader for the Gemini protocol.*..[ *read more* ](apps/gemget.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gemget) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gemget) |
 | <img src="icons/gert.png" width="48" height="48"> | [***gert***](apps/gert.md) | *A command line tool to download media from Reddit.*..[ *read more* ](apps/gert.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gert) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gert) |
 | <img src="icons/ghdl.png" width="48" height="48"> | [***ghdl***](apps/ghdl.md) | *A much more convenient way to download GitHub release binaries on the command line.*..[ *read more* ](apps/ghdl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ghdl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ghdl) |
+| <img src="icons/ghostty.png" width="48" height="48"> | [***ghostty***](apps/ghostty.md) | *Unofficial AppImage(s) of Ghostty terminal emulator.*..[ *read more* ](apps/ghostty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ghostty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ghostty) |
 | <img src="icons/gh-eco.png" width="48" height="48"> | [***gh-eco***](apps/gh-eco.md) | *gh cli extension to explore the ecosystem.*..[ *read more* ](apps/gh-eco.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gh-eco) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gh-eco) |
 | <img src="icons/gh.png" width="48" height="48"> | [***gh***](apps/gh.md) | *GitHub’s official command line tool.*..[ *read more* ](apps/gh.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gh) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gh) |
 | <img src="icons/gitui.png" width="48" height="48"> | [***gitui***](apps/gitui.md) | *Blazing fast terminal-ui for git written in rust.*..[ *read more* ](apps/gitui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gitui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gitui) |

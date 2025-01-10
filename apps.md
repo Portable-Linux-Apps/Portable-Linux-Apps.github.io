@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2551** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2552** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -858,6 +858,7 @@
 | <img src="icons/getthermal.png" width="48" height="48"> | [***getthermal***](apps/getthermal.md) | *Cross-platform Thermal Camera Viewer.*..[ *read more* ](apps/getthermal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/getthermal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/getthermal) |
 | <img src="icons/gextractwinicons.png" width="48" height="48"> | [***gextractwinicons***](apps/gextractwinicons.md) | *Extract cursors, icons and images from MS Windows files.*..[ *read more* ](apps/gextractwinicons.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gextractwinicons) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gextractwinicons) |
 | <img src="icons/ghdl.png" width="48" height="48"> | [***ghdl***](apps/ghdl.md) | *A much more convenient way to download GitHub release binaries on the command line.*..[ *read more* ](apps/ghdl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ghdl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ghdl) |
+| <img src="icons/ghostty.png" width="48" height="48"> | [***ghostty***](apps/ghostty.md) | *Unofficial AppImage(s) of Ghostty terminal emulator.*..[ *read more* ](apps/ghostty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ghostty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ghostty) |
 | <img src="icons/gh-eco.png" width="48" height="48"> | [***gh-eco***](apps/gh-eco.md) | *gh cli extension to explore the ecosystem.*..[ *read more* ](apps/gh-eco.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gh-eco) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gh-eco) |
 | <img src="icons/gh.png" width="48" height="48"> | [***gh***](apps/gh.md) | *GitHub’s official command line tool.*..[ *read more* ](apps/gh.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gh) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gh) |
 | <img src="icons/ghrel.png" width="48" height="48"> | [***ghrel***](apps/ghrel.md) | *Download and verify GitHub release.*..[ *read more* ](apps/ghrel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ghrel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ghrel) |
