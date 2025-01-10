@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2550** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2551** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2424,6 +2424,7 @@
 | <img src="icons/upterm.png" width="48" height="48"> | [***upterm***](apps/upterm.md) | *A terminal emulator for the 21st century.*..[ *read more* ](apps/upterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/upterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/upterm) |
 | <img src="icons/urbanterror.png" width="48" height="48"> | [***urbanterror***](apps/urbanterror.md) | *A team-based tactical game shooter based on the Quake 3 Engine.*..[ *read more* ](apps/urbanterror.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/urbanterror) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/urbanterror) |
 | <img src="icons/utilso.png" width="48" height="48"> | [***utilso***](apps/utilso.md) | *Regex Tester, JWT Verify, Image Converter, Format JSON, Decode...*..[ *read more* ](apps/utilso.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/utilso) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/utilso) |
+| <img src="icons/uv.png" width="48" height="48"> | [***uv***](apps/uv.md) | *An extremely fast Python package and project manager, written in Rust.*..[ *read more* ](apps/uv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uv) |
 | <img src="icons/uwufetch.png" width="48" height="48"> | [***uwufetch***](apps/uwufetch.md) | *A meme system info tool for Linux, based on nyan/uwu trend.*..[ *read more* ](apps/uwufetch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uwufetch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uwufetch) |
 | <img src="icons/uyou.png" width="48" height="48"> | [***uyou***](apps/uyou.md) | *This is a todo list with electron.*..[ *read more* ](apps/uyou.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uyou) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uyou) |
 | <img src="icons/v2ray-desktop.png" width="48" height="48"> | [***v2ray-desktop***](apps/v2ray-desktop.md) | *V2Ray GUI client for Linux.*..[ *read more* ](apps/v2ray-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/v2ray-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/v2ray-desktop) |
