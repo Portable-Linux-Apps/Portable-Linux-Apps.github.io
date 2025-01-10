@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2135** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2136** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2122,6 +2122,7 @@
 | <img src="icons/xournal++.png" width="48" height="48"> | [***xournal++***](apps/xournal++.md) | *A C++ handwriting notetaking software with PDF annotation support.*..[ *read more* ](apps/xournal++.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xournal++) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xournal++) |
 | <img src="icons/xournal++nightly.png" width="48" height="48"> | [***xournal++nightly***](apps/xournal++nightly.md) | *C++ notetaking software with PDF annotation support, DEV.*..[ *read more* ](apps/xournal++nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xournal++nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xournal++nightly) |
 | <img src="icons/xpeviewer.png" width="48" height="48"> | [***xpeviewer***](apps/xpeviewer.md) | *PE file viewer/editor.*..[ *read more* ](apps/xpeviewer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xpeviewer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xpeviewer) |
+| <img src="icons/xpipe.png" width="48" height="48"> | [***xpipe***](apps/xpipe.md) | *Your entire server infrastructure at your fingertips. Manage all your servers from your local desktop. No remote setup required.*..[ *read more* ](apps/xpipe.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xpipe) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xpipe) |
 | <img src="icons/xplist.png" width="48" height="48"> | [***xplist***](apps/xplist.md) | *Cross-platform Plist Editor.*..[ *read more* ](apps/xplist.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xplist) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xplist) |
 | <img src="icons/xplorer.png" width="48" height="48"> | [***xplorer***](apps/xplorer.md) | *Xplorer, a customizable, modern file manager.*..[ *read more* ](apps/xplorer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xplorer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xplorer) |
 | <img src="icons/xtuber.png" width="48" height="48"> | [***xtuber***](apps/xtuber.md) | *Simple YouTube Downloader.*..[ *read more* ](apps/xtuber.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xtuber) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xtuber) |
