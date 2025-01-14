@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **154** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **153** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -164,7 +164,6 @@
 | <img src="icons/vlc+.png" width="48" height="48"> | [***vlc+***](apps/vlc+.md) | *Unofficial. Video & Media player for Audio, streaming and more, with JAVA support.*..[ *read more* ](apps/vlc+.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vlc+) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vlc+) |
 | <img src="icons/vrew.png" width="48" height="48"> | [***vrew***](apps/vrew.md) | *Your first video editor, your easiest choice.*..[ *read more* ](apps/vrew.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vrew) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vrew) |
 | <img src="icons/vvave-maui.png" width="48" height="48"> | [***vvave-maui***](apps/vvave-maui.md) | *Manage your music collection and stream it from the cloud.*..[ *read more* ](apps/vvave-maui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vvave-maui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vvave-maui) |
-| <img src="icons/waifu2x-gui.png" width="48" height="48"> | [***waifu2x-gui***](apps/waifu2x-gui.md) | *An app that upscales anime-styled images, gifs, videos, pdfs.*..[ *read more* ](apps/waifu2x-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/waifu2x-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/waifu2x-gui) |
 | <img src="icons/watched.png" width="48" height="48"> | [***watched***](apps/watched.md) | *A media player and a browser for Excellent entertainment.*..[ *read more* ](apps/watched.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/watched) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/watched) |
 | <img src="icons/watchit.png" width="48" height="48"> | [***watchit***](apps/watchit.md) | *Open movies everywhere.*..[ *read more* ](apps/watchit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/watchit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/watchit) |
 | <img src="icons/xgetter.png" width="48" height="48"> | [***xgetter***](apps/xgetter.md) | *Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Bilibili, Douyin and more.*..[ *read more* ](apps/xgetter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xgetter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xgetter) |

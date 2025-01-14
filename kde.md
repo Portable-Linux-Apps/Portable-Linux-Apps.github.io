@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **7** programs and **67** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **6** programs and **67** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -102,7 +102,6 @@
 | <img src="icons/palapeli.png" width="48" height="48"> | [***palapeli***](apps/palapeli.md) | *Jigsaw puzzle game. This script installs the full "kdegames" suite.*..[ *read more* ](apps/palapeli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/palapeli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/palapeli) |
 | <img src="icons/picmi.png" width="48" height="48"> | [***picmi***](apps/picmi.md) | *Single player logic-based puzzle game. This script installs the full "kdegames" suite.*..[ *read more* ](apps/picmi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picmi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picmi) |
 | <img src="icons/skanpage.png" width="48" height="48"> | [***skanpage***](apps/skanpage.md) | *A simple scanning application. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/skanpage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/skanpage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/skanpage) |
-| <img src="icons/skrooge.png" width="48" height="48"> | [***skrooge***](apps/skrooge.md) | *A personal finances manager, powered by KDE.*..[ *read more* ](apps/skrooge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/skrooge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/skrooge) |
 | <img src="icons/subtitle-composer.png" width="48" height="48"> | [***subtitle-composer***](apps/subtitle-composer.md) | *KF5/Qt Video Subtitle Editor for KDE.*..[ *read more* ](apps/subtitle-composer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/subtitle-composer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/subtitle-composer) |
 | <img src="icons/sweeper.png" width="48" height="48"> | [***sweeper***](apps/sweeper.md) | *Unofficial. System Cleaner. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/sweeper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sweeper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sweeper) |
 | <img src="icons/telly-skout.png" width="48" height="48"> | [***telly-skout***](apps/telly-skout.md) | *A convergent Kirigami TV guide. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/telly-skout.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/telly-skout) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/telly-skout) |

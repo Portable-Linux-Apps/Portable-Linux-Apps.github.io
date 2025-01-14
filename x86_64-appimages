@@ -141,7 +141,6 @@
 ◆ beeper : All your chats in one app.
 ◆ bench-cli : CLI tool to benchmark commands, written in `Fortran`.
 ◆ bettercrewlink : Free, open, Among Us proximity voice chat.
-◆ better-kirka-client : A electron js based client for the game kirka.io.
 ◆ better-osu-skills : Gets results from the osu! Using your own IRC credentials.
 ◆ bettersis : Modern shell for SIS.
 ◆ beurerscalemanager : AppImage packaging project for BeurerScaleManager.
@@ -237,7 +236,6 @@
 ◆ caprine : Unofficial, elegant privacy focused Facebook Messenger app.
 ◆ cardo : Podcast client.
 ◆ cargo : Converts your crate into an AppImage.
-◆ carnet : A complete and rich note taking app with sync capabilities.
 ◆ carpenters : Digital preservation ingest utility.
 ◆ carta : Cube Analysis and Rendering Tool for Astronomy.
 ◆ casm : Corinthian Abstract State Machine, CASM.
@@ -302,7 +300,6 @@
 ◆ coal-launcher : A client to view and play games from the AB Coal website.
 ◆ cocomusic : A simple music player built by electron and vue.
 ◆ code-notes : A simple code snippet amp built with Electron.
-◆ code-oss : Visual Studio Code OSS Edition.
 ◆ coinstac : Collaborative Informatics and Neuroimaging Suite Toolkit.
 ◆ colobot : Colonize with bots, game.
 ◆ colon : A flexible text editor.
@@ -794,7 +791,6 @@
 ◆ icalingua++ : A client for QQ and more.
 ◆ icedrive : The next generation of cloud storage.
 ◆ icestudio : A real gamechanger in the world of Open Source FPGAs.
-◆ ideamaker : 3D slicing software, automatically generates support structure.
 ◆ ideamerit : Diagramming tool. Software for drawing Objectives and Key Results.
 ◆ igdm : Desktop application for Instagram DMs.
 ◆ iheartradio-webapp : Election WebApp for iHeartRadio.
@@ -854,7 +850,6 @@
 ◆ jira-timer : Menubar app for JIRA time logging.
 ◆ jitsi-meet : Jitsi Meet Desktop App.
 ◆ jklubtv : Chess Round Robin Tournament Manager.
-◆ jmbde : Application to collect data in a company.
 ◆ joaldesktop : Electron application boilerplate.
 ◆ join-desktop : A companion app for the Join website.
 ◆ joplin-beta : A cross-platform note taking and to-do app.
@@ -879,7 +874,6 @@
 ◆ kanri : Modern offline Kanban board app. Built with simplicity and user experience in mind.
 ◆ kardi : Application for taking notes with capabilities to view all content from any device while keeping all data accessible by you only.
 ◆ katvan : A bare-bones editor for Typst files, with a bias for Right-to-Left editing.
-◆ kawanime : Desktop app for anime fans.
 ◆ kcov : Unofficial, An AppImage of Kcov code coverage tool.
 ◆ kdegames : Unofficial, Full & updatable KDE Games suite, metapackage.
 ◆ kdenlive : A powerful Video Editor provided by KDE.
@@ -1675,7 +1669,6 @@
 ◆ siril : Astronomical image pre-processing program.
 ◆ siyuan : A local-first personal knowledge management system.
 ◆ skrifa : A simple word processor built with web technologies.
-◆ skrooge : A personal finances manager, powered by KDE.
 ◆ skype : Unofficial. VoIP-based videoconferencing, voice calls and instant messaging app.
 ◆ slackbackup : An app to archive Slack messages.
 ◆ slacktronic : Connect your Slack workspace to Arduino.
@@ -1903,7 +1896,6 @@
 ◆ turntable : Simple youtube DJ app made with Electron and Angular4.
 ◆ tusk : Evernote desktop app.
 ◆ tutanota : The world's most secure email service, easy to use and private.
-◆ tvalb : Watch your favorite Albanian TV channels through your PC.
 ◆ t.viewer : Cross Platform Tizen Log Viewer.
 ◆ twake : Desktop App for Twake.
 ◆ tweaksophia : An app to automatically renew the books of the SophiA system.
@@ -1995,7 +1987,6 @@
 ◆ vuerd : A desktop ERD app.
 ◆ vup : Private and decentralized cloud storage.
 ◆ vvave-maui : Manage your music collection and stream it from the cloud.
-◆ waifu2x-gui : An app that upscales anime-styled images, gifs, videos, pdfs.
 ◆ walc : WhatsApp Linux Client, Unofficial.
 ◆ wallettech : BytechCoin GUI Wallet.
 ◆ warp-terminal : Terminal reimagined with AI and collaborative tools.

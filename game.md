@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **231** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **230** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -49,7 +49,6 @@
 | <img src="icons/artix.png" width="48" height="48"> | [***artix***](apps/artix.md) | *One app. All your favorite Artix games.*..[ *read more* ](apps/artix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/artix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/artix) |
 | <img src="icons/avocado.png" width="48" height="48"> | [***avocado***](apps/avocado.md) | *PlayStation 1 emulator, games.*..[ *read more* ](apps/avocado.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/avocado) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/avocado) |
 | <img src="icons/badlion.png" width="48" height="48"> | [***badlion***](apps/badlion.md) | *Most Complete All-In-One Mod Library for Minecraft with 100+ Mods.*..[ *read more* ](apps/badlion.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/badlion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/badlion) |
-| <img src="icons/better-kirka-client.png" width="48" height="48"> | [***better-kirka-client***](apps/better-kirka-client.md) | *A electron js based client for the game kirka.io.*..[ *read more* ](apps/better-kirka-client.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/better-kirka-client) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/better-kirka-client) |
 | <img src="icons/beyond-all-reason.png" width="48" height="48"> | [***beyond-all-reason***](apps/beyond-all-reason.md) | *3D Real-Time Strategy Total Annihilation Inspired, game.*..[ *read more* ](apps/beyond-all-reason.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beyond-all-reason) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beyond-all-reason) |
 | <img src="icons/bezique.png" width="48" height="48"> | [***bezique***](apps/bezique.md) | *Plays bezique game against the AI.*..[ *read more* ](apps/bezique.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bezique) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bezique) |
 | <img src="icons/billard-gl.png" width="48" height="48"> | [***billard-gl***](apps/billard-gl.md) | *Unofficial. 3D billiards game, play a game of 8-ball or 9-ball.*..[ *read more* ](apps/billard-gl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/billard-gl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/billard-gl) |
