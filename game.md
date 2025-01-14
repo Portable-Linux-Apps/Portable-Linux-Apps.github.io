@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **230** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **231** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -273,6 +273,7 @@
 | <img src="icons/steam-tui.png" width="48" height="48"> | [***steam-tui***](apps/steam-tui.md) | *Rust TUI client for steamcmd.*..[ *read more* ](apps/steam-tui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steam-tui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steam-tui) |
 | <img src="icons/steam.png" width="48" height="48"> | [***steam***](apps/steam.md) | *Unofficial. The ultimate destination for playing, discussing, and creating games.*..[ *read more* ](apps/steam.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steam) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steam) |
 | <img src="icons/stunt-car-remake.png" width="48" height="48"> | [***stunt-car-remake***](apps/stunt-car-remake.md) | *Remake of the old game Stunt Car Racer.*..[ *read more* ](apps/stunt-car-remake.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stunt-car-remake) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stunt-car-remake) |
+| <img src="icons/sudachi.png" width="48" height="48"> | [***sudachi***](apps/sudachi.md) | *Nintendo Switch emulator.*..[ *read more* ](apps/sudachi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sudachi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sudachi) |
 | <img src="icons/sunshine.png" width="48" height="48"> | [***sunshine***](apps/sunshine.md) | *Sunshine is a Gamestream host for Moonlight.*..[ *read more* ](apps/sunshine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sunshine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sunshine) |
 | <img src="icons/supertux.png" width="48" height="48"> | [***supertux***](apps/supertux.md) | *Classic 2D jump'n run sidescroller game inspired to Super Mario.*..[ *read more* ](apps/supertux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supertux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supertux) |
 | <img src="icons/supertuxkart-appimage.png" width="48" height="48"> | [***supertuxkart-appimage***](apps/supertuxkart-appimage.md) | *Unofficial. Racing game focused on Fun.*..[ *read more* ](apps/supertuxkart-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supertuxkart-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supertuxkart-appimage) |
