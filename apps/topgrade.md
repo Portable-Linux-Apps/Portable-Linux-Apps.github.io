@@ -4,7 +4,7 @@
  
  To remedy this, Topgrade detects which tools you use and runs the  appropriate commands to update them.
  
- ![gif](https://raw.githubusercontent.com/topgrade-rs/topgrade/master/doc/screenshot.gif)
+ ![gif](https://github.com/topgrade-rs/topgrade/blob/main/doc/topgrade_demo.gif)
 
  SITE: https://topgrade-rs.github.io
  
