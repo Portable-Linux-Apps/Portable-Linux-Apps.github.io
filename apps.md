@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2538** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2537** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -371,7 +371,6 @@
 | <img src="icons/chrysalis-bin.png" width="48" height="48"> | [***chrysalis-bin***](apps/chrysalis-bin.md) | *Graphical configurator for Kaleidoscope-powered keyboards.*..[ *read more* ](apps/chrysalis-bin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chrysalis-bin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chrysalis-bin) |
 | <img src="icons/ciaa-suite.png" width="48" height="48"> | [***ciaa-suite***](apps/ciaa-suite.md) | *Makefile based IDE for embedded systems.*..[ *read more* ](apps/ciaa-suite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ciaa-suite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ciaa-suite) |
 | <img src="icons/cicada.png" width="48" height="48"> | [***cicada***](apps/cicada.md) | *An old-school bash-like Unix shell written in Rust.*..[ *read more* ](apps/cicada.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cicada) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cicada) |
-| <img src="icons/cider.png" width="48" height="48"> | [***cider***](apps/cider.md) | *A new cross-platform Apple Music experience with performance in mind.*..[ *read more* ](apps/cider.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cider) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cider) |
 | <img src="icons/cinelerra-gg.png" width="48" height="48"> | [***cinelerra-gg***](apps/cinelerra-gg.md) | *Professional video editing and compositing environment.*..[ *read more* ](apps/cinelerra-gg.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cinelerra-gg) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cinelerra-gg) |
 | <img src="icons/cinny.png" width="48" height="48"> | [***cinny***](apps/cinny.md) | *Yet another matrix client for desktop.*..[ *read more* ](apps/cinny.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cinny) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cinny) |
 | <img src="icons/circle-z.png" width="48" height="48"> | [***circle-z***](apps/circle-z.md) | *A chat client for online math courses.*..[ *read more* ](apps/circle-z.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/circle-z) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/circle-z) |

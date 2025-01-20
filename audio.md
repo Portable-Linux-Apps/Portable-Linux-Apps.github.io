@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **142** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **141** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -49,7 +49,6 @@
 | <img src="icons/bodacious.png" width="48" height="48"> | [***bodacious***](apps/bodacious.md) | *A bodacious music player.*..[ *read more* ](apps/bodacious.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bodacious) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bodacious) |
 | <img src="icons/cadmus.png" width="48" height="48"> | [***cadmus***](apps/cadmus.md) | *Pulse Audio real-time noise suppression plugin.*..[ *read more* ](apps/cadmus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cadmus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cadmus) |
 | <img src="icons/castersoundboard.png" width="48" height="48"> | [***castersoundboard***](apps/castersoundboard.md) | *Soundboard for hot-keying and playing back sounds.*..[ *read more* ](apps/castersoundboard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/castersoundboard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/castersoundboard) |
-| <img src="icons/cider.png" width="48" height="48"> | [***cider***](apps/cider.md) | *A new cross-platform Apple Music experience with performance in mind.*..[ *read more* ](apps/cider.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cider) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cider) |
 | <img src="icons/clementineremote.png" width="48" height="48"> | [***clementineremote***](apps/clementineremote.md) | *Remote for Clementine Music Player.*..[ *read more* ](apps/clementineremote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clementineremote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clementineremote) |
 | <img src="icons/cocomusic.png" width="48" height="48"> | [***cocomusic***](apps/cocomusic.md) | *A simple music player built by electron and vue.*..[ *read more* ](apps/cocomusic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cocomusic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cocomusic) |
 | <img src="icons/code-radio.png" width="48" height="48"> | [***code-radio***](apps/code-radio.md) | *A command line music radio client for coderadio.freecodecamp.org, written in Rust.*..[ *read more* ](apps/code-radio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/code-radio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/code-radio) |
