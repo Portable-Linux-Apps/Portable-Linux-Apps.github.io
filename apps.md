@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2539** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2538** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2501,7 +2501,6 @@
 | <img src="icons/webcatalog.png" width="48" height="48"> | [***webcatalog***](apps/webcatalog.md) | *App store for web apps. Find the right software and services.*..[ *read more* ](apps/webcatalog.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/webcatalog) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/webcatalog) |
 | <img src="icons/webcord.png" width="48" height="48"> | [***webcord***](apps/webcord.md) | *A Discord and Fosscord client implemented without Discord API.*..[ *read more* ](apps/webcord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/webcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/webcord) |
 | <img src="icons/webdesktop.png" width="48" height="48"> | [***webdesktop***](apps/webdesktop.md) | *WebDesktop make apps with just a text editor and nodejs.*..[ *read more* ](apps/webdesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/webdesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/webdesktop) |
-| <img src="icons/webitel-phone.png" width="48" height="48"> | [***webitel-phone***](apps/webitel-phone.md) | *Webitel Phone, Alpha.*..[ *read more* ](apps/webitel-phone.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/webitel-phone) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/webitel-phone) |
 | <img src="icons/webkitty.png" width="48" height="48"> | [***webkitty***](apps/webkitty.md) | *Local web development IDE.*..[ *read more* ](apps/webkitty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/webkitty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/webkitty) |
 | <img src="icons/webrecorder.png" width="48" height="48"> | [***webrecorder***](apps/webrecorder.md) | *A complete packaging of Webrecorder hosted service in Electron.*..[ *read more* ](apps/webrecorder.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/webrecorder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/webrecorder) |
 | <img src="icons/weektodo.png" width="48" height="48"> | [***weektodo***](apps/weektodo.md) | *WeekToDo is a Free and Open Source Weekly Planner.*..[ *read more* ](apps/weektodo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/weektodo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/weektodo) |
