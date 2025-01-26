@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2540** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2541** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2262,6 +2262,7 @@
 | <img src="icons/tagspaces.png" width="48" height="48"> | [***tagspaces***](apps/tagspaces.md) | *An offline, open source, document manager with tagging support.*..[ *read more* ](apps/tagspaces.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tagspaces) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tagspaces) |
 | <img src="icons/tagstoo.png" width="48" height="48"> | [***tagstoo***](apps/tagstoo.md) | *Tagstoo tagging application.*..[ *read more* ](apps/tagstoo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tagstoo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tagstoo) |
 | <img src="icons/tagtime-desktop.png" width="48" height="48"> | [***tagtime-desktop***](apps/tagtime-desktop.md) | *Time tracking for space cadets, desktop edition.*..[ *read more* ](apps/tagtime-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tagtime-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tagtime-desktop) |
+| <img src="icons/tangent.png" width="48" height="48"> | [***tangent***](apps/tangent.md) | *A clean and powerful open source notes app.*..[ *read more* ](apps/tangent.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tangent) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tangent) |
 | <img src="icons/taskade.png" width="48" height="48"> | [***taskade***](apps/taskade.md) | *AI-Powered productivity.*..[ *read more* ](apps/taskade.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskade) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskade) |
 | <img src="icons/taskell.png" width="48" height="48"> | [***taskell***](apps/taskell.md) | *Command-line Kanban board/task manager with support for Trello boards and GitHub projects.*..[ *read more* ](apps/taskell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskell) |
 | <img src="icons/taskizer.png" width="48" height="48"> | [***taskizer***](apps/taskizer.md) | *A task management app.*..[ *read more* ](apps/taskizer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskizer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskizer) |
