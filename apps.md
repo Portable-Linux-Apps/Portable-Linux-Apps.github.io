@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2541** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2542** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -376,6 +376,7 @@
 | <img src="icons/cinny.png" width="48" height="48"> | [***cinny***](apps/cinny.md) | *Yet another matrix client for desktop.*..[ *read more* ](apps/cinny.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cinny) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cinny) |
 | <img src="icons/circle-z.png" width="48" height="48"> | [***circle-z***](apps/circle-z.md) | *A chat client for online math courses.*..[ *read more* ](apps/circle-z.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/circle-z) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/circle-z) |
 | <img src="icons/circuitblocks.png" width="48" height="48"> | [***circuitblocks***](apps/circuitblocks.md) | *Helps newbies get into embedded programming.*..[ *read more* ](apps/circuitblocks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/circuitblocks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/circuitblocks) |
+| <img src="icons/citron.png" width="48" height="48"> | [***citron***](apps/citron.md) | *Unofficial AppImage of Citron (fork of yuzu), with optimized builds for modern cpus.*..[ *read more* ](apps/citron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/citron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/citron) |
 | <img src="icons/city-hub.png" width="48" height="48"> | [***city-hub***](apps/city-hub.md) | *Hub into everything on City Chain/Smart City Platform.*..[ *read more* ](apps/city-hub.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/city-hub) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/city-hub) |
 | <img src="icons/clamtk.png" width="48" height="48"> | [***clamtk***](apps/clamtk.md) | *An easy to use, light-weight, on-demand virus scanner for Linux systems*..[ *read more* ](apps/clamtk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clamtk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clamtk) |
 | <img src="icons/clash-verge.png" width="48" height="48"> | [***clash-verge***](apps/clash-verge.md) | *A multiplatform Clash GUI based on tauri.*..[ *read more* ](apps/clash-verge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clash-verge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clash-verge) |
