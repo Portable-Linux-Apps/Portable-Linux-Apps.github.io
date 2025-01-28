@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2542** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2543** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -72,6 +72,7 @@
 | <img src="icons/altitude.png" width="48" height="48"> | [***altitude***](apps/altitude.md) | *The Altitude wallet by Linda Project Inc.*..[ *read more* ](apps/altitude.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/altitude) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/altitude) |
 | <img src="icons/altus.png" width="48" height="48"> | [***altus***](apps/altus.md) | *Client for WhatsApp Web with themes & multiple account support.*..[ *read more* ](apps/altus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/altus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/altus) |
 | <img src="icons/alvr.png" width="48" height="48"> | [***alvr***](apps/alvr.md) | *Stream VR games from your PC to your headset via Wi-Fi.*..[ *read more* ](apps/alvr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alvr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alvr) |
+| <img src="icons/amarok.png" width="48" height="48"> | [***amarok***](apps/amarok.md) | *Unofficial. The powerful music player for KDE.*..[ *read more* ](apps/amarok.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amarok) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amarok) |
 | <img src="icons/amazingmarvin.png" width="48" height="48"> | [***amazingmarvin***](apps/amazingmarvin.md) | *Incorporates principles from behavioral psychology.*..[ *read more* ](apps/amazingmarvin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amazingmarvin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amazingmarvin) |
 | <img src="icons/ambermoon.net.png" width="48" height="48"> | [***ambermoon.net***](apps/ambermoon.net.md) | *Ambermoon rewrite in C#.*..[ *read more* ](apps/ambermoon.net.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ambermoon.net) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ambermoon.net) |
 | <img src="icons/amdgpu_top.png" width="48" height="48"> | [***amdgpu_top***](apps/amdgpu_top.md) | *Tool to display AMDGPU usage.*..[ *read more* ](apps/amdgpu_top.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amdgpu_top) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amdgpu_top) |

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **6** programs and **67** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **7** programs and **67** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -32,6 +32,7 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
+| <img src="icons/amarok.png" width="48" height="48"> | [***amarok***](apps/amarok.md) | *Unofficial. The powerful music player for KDE.*..[ *read more* ](apps/amarok.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amarok) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amarok) |
 | <img src="icons/ark.png" width="48" height="48"> | [***ark***](apps/ark.md) | *Unofficial. Archiving tool for .zip/.tar/.rar and more. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/ark.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ark) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ark) |
 | <img src="icons/bomber.png" width="48" height="48"> | [***bomber***](apps/bomber.md) | *Unofficial. Arcade spaceship game. This script installs the full "kdegames" suite.*..[ *read more* ](apps/bomber.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bomber) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bomber) |
 | <img src="icons/bovo.png" width="48" height="48"> | [***bovo***](apps/bovo.md) | *Unofficial. Five in a row game from. This script installs the full "kdegames" suite.*..[ *read more* ](apps/bovo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bovo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bovo) |
