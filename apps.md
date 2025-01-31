@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2541** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2540** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1870,7 +1870,6 @@
 | <img loading="lazy" src="icons/qpdf.png" width="48" height="48"> | [***qpdf***](apps/qpdf.md) | *CLI tool to perform content-preserving transformations on PDF files.*..[ *read more* ](apps/qpdf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qpdf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qpdf) |
 | <img loading="lazy" src="icons/qppcad.png" width="48" height="48"> | [***qppcad***](apps/qppcad.md) | *Molecule and crystal editor written in c++*..[ *read more* ](apps/qppcad.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qppcad) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qppcad) |
 | <img loading="lazy" src="icons/qprompt.png" width="48" height="48"> | [***qprompt***](apps/qprompt.md) | *Personal teleprompter software for all video creators.*..[ *read more* ](apps/qprompt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qprompt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qprompt) |
-| <img loading="lazy" src="icons/qqmusic.png" width="48" height="48"> | [***qqmusic***](apps/qqmusic.md) | *A music player from Tencent.*..[ *read more* ](apps/qqmusic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qqmusic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qqmusic) |
 | <img loading="lazy" src="icons/qrab.png" width="48" height="48"> | [***qrab***](apps/qrab.md) | *Grabs text of QR code from a screen and copies it to clipboard.*..[ *read more* ](apps/qrab.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qrab) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qrab) |
 | <img loading="lazy" src="icons/qradiolink.png" width="48" height="48"> | [***qradiolink***](apps/qradiolink.md) | *Multimode SDR transceiver for GNU radio.*..[ *read more* ](apps/qradiolink.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qradiolink) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qradiolink) |
 | <img loading="lazy" src="icons/qr-code-generator.png" width="48" height="48"> | [***qr-code-generator***](apps/qr-code-generator.md) | *Create custom QR Codes, resize, save them as PNG image.*..[ *read more* ](apps/qr-code-generator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qr-code-generator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qr-code-generator) |
