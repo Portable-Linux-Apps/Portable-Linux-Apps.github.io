@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2540** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2541** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1362,6 +1362,7 @@
 | <img loading="lazy" src="icons/mediainfo.png" width="48" height="48"> | [***mediainfo***](apps/mediainfo.md) | *Supplies technical & tag information about a video or audio file.*..[ *read more* ](apps/mediainfo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mediainfo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mediainfo) |
 | <img loading="lazy" src="icons/median-xl.png" width="48" height="48"> | [***median-xl***](apps/median-xl.md) | *Launcher for Median XL mod, Diablo II overhaul.*..[ *read more* ](apps/median-xl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/median-xl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/median-xl) |
 | <img loading="lazy" src="icons/mediathekview.png" width="48" height="48"> | [***mediathekview***](apps/mediathekview.md) | *Searches the online media libraries of various broadcasters.*..[ *read more* ](apps/mediathekview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mediathekview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mediathekview) |
+| <img loading="lazy" src="icons/megaglest.png" width="48" height="48"> | [***megaglest***](apps/megaglest.md) | *MegaGlest real-time strategy game engine (cross-platform, 3-d).*..[ *read more* ](apps/megaglest.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/megaglest) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/megaglest) |
 | <img loading="lazy" src="icons/mellowplayer.png" width="48" height="48"> | [***mellowplayer***](apps/mellowplayer.md) | *Cloud music integration for your desktop.*..[ *read more* ](apps/mellowplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mellowplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mellowplayer) |
 | <img loading="lazy" src="icons/melodie.png" width="48" height="48"> | [***melodie***](apps/melodie.md) | *Simple-as-pie music player.*..[ *read more* ](apps/melodie.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/melodie) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/melodie) |
 | <img loading="lazy" src="icons/melonds.png" width="48" height="48"> | [***melonds***](apps/melonds.md) | *DS emulator, sorta.*..[ *read more* ](apps/melonds.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/melonds) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/melonds) |
