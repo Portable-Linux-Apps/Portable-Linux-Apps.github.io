@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2127** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2126** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -279,7 +279,6 @@
 | <img loading="lazy" src="icons/castersoundboard.png" width="48" height="48"> | [***castersoundboard***](apps/castersoundboard.md) | *Soundboard for hot-keying and playing back sounds.*..[ *read more* ](apps/castersoundboard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/castersoundboard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/castersoundboard) |
 | <img loading="lazy" src="icons/catalyst.png" width="48" height="48"> | [***catalyst***](apps/catalyst.md) | *Catalyst web browser.*..[ *read more* ](apps/catalyst.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/catalyst) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/catalyst) |
 | <img loading="lazy" src="icons/catcher.png" width="48" height="48"> | [***catcher***](apps/catcher.md) | *Peer-testing of software projects.*..[ *read more* ](apps/catcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/catcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/catcher) |
-| <img loading="lazy" src="icons/cate-desktop.png" width="48" height="48"> | [***cate-desktop***](apps/cate-desktop.md) | *GUI for the ESA CCI Toolbox, Cate.*..[ *read more* ](apps/cate-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cate-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cate-desktop) |
 | <img loading="lazy" src="icons/cavoke.png" width="48" height="48"> | [***cavoke***](apps/cavoke.md) | *Platform to create/host multiplayer turn-based board games.*..[ *read more* ](apps/cavoke.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cavoke) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cavoke) |
 | <img loading="lazy" src="icons/cbetar2.png" width="48" height="48"> | [***cbetar2***](apps/cbetar2.md) | *ePub viewer supporting fetching and displaying HTML as ePub.*..[ *read more* ](apps/cbetar2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cbetar2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cbetar2) |
 | <img loading="lazy" src="icons/cccp.png" width="48" height="48"> | [***cccp***](apps/cccp.md) | *Cortex Command, a community-driven effort to continue the development of Cortex Command.*..[ *read more* ](apps/cccp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cccp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cccp) |
