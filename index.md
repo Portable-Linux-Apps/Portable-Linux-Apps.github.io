@@ -16,7 +16,7 @@
 
 | *[Go to the applications list](https://portable-linux-apps.github.io/apps.html)* | *[Install "AM", the package manager](https://github.com/ivan-hc/AM)* |
 | - | - |
-| [<img src="https://github.com/user-attachments/assets/5ae2be73-76da-4528-af23-6e8ca3500e5e" width="512" height="256">](https://portable-linux-apps.github.io/apps.html) | [<img src="https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/assets/88724353/b0cbada6-9054-46ed-84ab-35db379dbf53" width="512" height="256">](https://github.com/ivan-hc/AM) |
+| [<img loading="lazy" src="https://github.com/user-attachments/assets/5ae2be73-76da-4528-af23-6e8ca3500e5e" width="512" height="256">](https://portable-linux-apps.github.io/apps.html) | [<img loading="lazy" src="https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/assets/88724353/b0cbada6-9054-46ed-84ab-35db379dbf53" width="512" height="256">](https://github.com/ivan-hc/AM) |
 
 #### *Categories*
 
@@ -89,12 +89,12 @@
 
 ## *[https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM)*
 
-| [<img src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/sandbox.gif">](https://github.com/ivan-hc/AM) | [<img src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/list.gif">](https://github.com/ivan-hc/AM) | [<img src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/about.gif">](https://github.com/ivan-hc/AM) |
+| [<img loading="lazy" src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/sandbox.gif">](https://github.com/ivan-hc/AM) | [<img loading="lazy" src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/list.gif">](https://github.com/ivan-hc/AM) | [<img loading="lazy" src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/about.gif">](https://github.com/ivan-hc/AM) |
 | - | - | - |
 | *sandbox AppImages* | *list available apps* | *info about the apps* |
-| [<img src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/install.gif">](https://github.com/ivan-hc/AM) | [<img src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/query.gif">](https://github.com/ivan-hc/AM) | [<img src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/files.gif">](https://github.com/ivan-hc/AM) |
+| [<img loading="lazy" src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/install.gif">](https://github.com/ivan-hc/AM) | [<img loading="lazy" src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/query.gif">](https://github.com/ivan-hc/AM) | [<img loading="lazy" src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/files.gif">](https://github.com/ivan-hc/AM) |
 | *install applications* | *query lists using keywords* | *show the installed apps* |
-| [<img src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/backup-overwrite.gif">](https://github.com/ivan-hc/AM) | [<img src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/update.gif">](https://github.com/ivan-hc/AM) | [<img src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/nolibfuse.gif">](https://github.com/ivan-hc/AM) |
+| [<img loading="lazy" src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/backup-overwrite.gif">](https://github.com/ivan-hc/AM) | [<img loading="lazy" src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/update.gif">](https://github.com/ivan-hc/AM) | [<img loading="lazy" src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/nolibfuse.gif">](https://github.com/ivan-hc/AM) |
 | *create and restore snapshots* | *update everything* | *get rid of libfuse2* |
 
 </div>
