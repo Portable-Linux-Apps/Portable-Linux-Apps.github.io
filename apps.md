@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2539** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2538** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2145,7 +2145,6 @@
 | <img loading="lazy" src="icons/speek.png" width="48" height="48"> | [***speek***](apps/speek.md) | *Privacy focused messenger.*..[ *read more* ](apps/speek.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speek) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speek) |
 | <img loading="lazy" src="icons/sphia.png" width="48" height="48"> | [***sphia***](apps/sphia.md) | *A Proxy Handling Intuitive Application.*..[ *read more* ](apps/sphia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sphia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sphia) |
 | <img loading="lazy" src="icons/spicy-launcher.png" width="48" height="48"> | [***spicy-launcher***](apps/spicy-launcher.md) | *Cross-platform launcher for Spicy Lobster games.*..[ *read more* ](apps/spicy-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spicy-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spicy-launcher) |
-| <img loading="lazy" src="icons/spiritfarer.png" width="48" height="48"> | [***spiritfarer***](apps/spiritfarer.md) | *Spiritfarer, AppImage version.*..[ *read more* ](apps/spiritfarer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spiritfarer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spiritfarer) |
 | <img loading="lazy" src="icons/spivak.png" width="48" height="48"> | [***spivak***](apps/spivak.md) | *Karaoke player based on GStreamer and Qt5.*..[ *read more* ](apps/spivak.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spivak) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spivak) |
 | <img loading="lazy" src="icons/spm.png" width="48" height="48"> | [***spm***](apps/spm.md) | *A simple CLI package manager written in bash mainly for AppImages.*..[ *read more* ](apps/spm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spm) |
 | <img loading="lazy" src="icons/spmp.png" width="48" height="48"> | [***spmp***](apps/spmp.md) | *A YouTube Music client with a focus on customisation of colours and song metadata.*..[ *read more* ](apps/spmp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spmp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spmp) |
