@@ -1,13 +1,13 @@
 [
   {
-    "packageName": "0ad-latest",
-    "description": "Unofficial. Real Time Strategy game of ancient warfare, development branch...",
-    "icon": "https://portable-linux-apps.github.io/icons/0ad-latest.png"
-  },
-  {
     "packageName": "0ad",
     "description": "Unofficial. FOSS historical Real Time Strategy, RTS game of ancient warfare...",
     "icon": "https://portable-linux-apps.github.io/icons/0ad.png"
+  },
+  {
+    "packageName": "0ad-latest",
+    "description": "Unofficial. Real Time Strategy game of ancient warfare, development branch...",
+    "icon": "https://portable-linux-apps.github.io/icons/0ad-latest.png"
   },
   {
     "packageName": "3d-puzzles",
@@ -85,6 +85,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/afetch.png"
   },
   {
+    "packageName": "affine",
+    "description": "Next-gen knowledge base that brings planning, sorting and creating...",
+    "icon": "https://portable-linux-apps.github.io/icons/affine.png"
+  },
+  {
     "packageName": "affine-beta",
     "description": "Next-gen knowledge base that brings planning, sorting and creating...",
     "icon": "https://portable-linux-apps.github.io/icons/affine-beta.png"
@@ -93,11 +98,6 @@
     "packageName": "affine-canary",
     "description": "Next-gen knowledge base that brings planning/sorting/creating...",
     "icon": "https://portable-linux-apps.github.io/icons/affine-canary.png"
-  },
-  {
-    "packageName": "affine",
-    "description": "Next-gen knowledge base that brings planning, sorting and creating...",
-    "icon": "https://portable-linux-apps.github.io/icons/affine.png"
   },
   {
     "packageName": "agregore",
@@ -270,14 +270,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/android-messages-desktop.png"
   },
   {
-    "packageName": "android-studio-latest",
-    "description": "Unofficial. Android Studio as AppImages, release...",
-    "icon": "https://portable-linux-apps.github.io/icons/android-studio-latest.png"
-  },
-  {
     "packageName": "android-studio",
     "description": "Unofficial. Android Studio as AppImages, stable...",
     "icon": "https://portable-linux-apps.github.io/icons/android-studio.png"
+  },
+  {
+    "packageName": "android-studio-latest",
+    "description": "Unofficial. Android Studio as AppImages, release...",
+    "icon": "https://portable-linux-apps.github.io/icons/android-studio-latest.png"
   },
   {
     "packageName": "android-tools",
@@ -450,6 +450,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/appimagetool.png"
   },
   {
+    "packageName": "appimageupdate",
+    "description": "Tool to update an AppImage using embedded information...",
+    "icon": "https://portable-linux-apps.github.io/icons/appimageupdate.png"
+  },
+  {
     "packageName": "appimageupdater",
     "description": "AppImage Updater for Humans built with QML/C++ with Qt5...",
     "icon": "https://portable-linux-apps.github.io/icons/appimageupdater.png"
@@ -458,11 +463,6 @@
     "packageName": "appimageupdatetool",
     "description": "Tool to update an AppImage using embedded information...",
     "icon": "https://portable-linux-apps.github.io/icons/appimageupdatetool.png"
-  },
-  {
-    "packageName": "appimageupdate",
-    "description": "Tool to update an AppImage using embedded information...",
-    "icon": "https://portable-linux-apps.github.io/icons/appimageupdate.png"
   },
   {
     "packageName": "appinstall",
@@ -525,14 +525,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/archimede.png"
   },
   {
-    "packageName": "archipelago",
-    "description": "Archipelago Multi-Game Randomizer and Server...",
-    "icon": "https://portable-linux-apps.github.io/icons/archipelago.png"
-  },
-  {
     "packageName": "archipel",
     "description": "Decentralized archiving and media library system...",
     "icon": "https://portable-linux-apps.github.io/icons/archipel.png"
+  },
+  {
+    "packageName": "archipelago",
+    "description": "Archipelago Multi-Game Randomizer and Server...",
+    "icon": "https://portable-linux-apps.github.io/icons/archipelago.png"
   },
   {
     "packageName": "archisteamfarm",
@@ -555,6 +555,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/aretext.png"
   },
   {
+    "packageName": "ark",
+    "description": "Unofficial. Archiving tool for .zip/.tar/.rar and more. This script installs the full \"kdeutils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/ark.png"
+  },
+  {
     "packageName": "arkaway",
     "description": "Another Arkanoid clone and make with Pyxel...",
     "icon": "https://portable-linux-apps.github.io/icons/arkaway.png"
@@ -563,11 +568,6 @@
     "packageName": "ark.desktop.wallet",
     "description": "Ark Ecosystem Desktop Wallet...",
     "icon": "https://portable-linux-apps.github.io/icons/ark.desktop.wallet.png"
-  },
-  {
-    "packageName": "ark",
-    "description": "Unofficial. Archiving tool for .zip/.tar/.rar and more. This script installs the full \"kdeutils\" suite...",
-    "icon": "https://portable-linux-apps.github.io/icons/ark.png"
   },
   {
     "packageName": "arma3-unix-launcher",
@@ -935,14 +935,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/billyfrontier.png"
   },
   {
-    "packageName": "binclock",
-    "description": "Binary clock in terminal...",
-    "icon": "https://portable-linux-apps.github.io/icons/binclock.png"
-  },
-  {
     "packageName": "bin",
     "description": "Effortless binary manager...",
     "icon": "https://portable-linux-apps.github.io/icons/bin.png"
+  },
+  {
+    "packageName": "binclock",
+    "description": "Binary clock in terminal...",
+    "icon": "https://portable-linux-apps.github.io/icons/binclock.png"
   },
   {
     "packageName": "binfinder",
@@ -1025,6 +1025,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/blastem.png"
   },
   {
+    "packageName": "blender",
+    "description": "Very fast and versatile 3D modeller/renderer, Stable...",
+    "icon": "https://portable-linux-apps.github.io/icons/blender.png"
+  },
+  {
     "packageName": "blender-alpha",
     "description": "Very fast and versatile 3D modeller/renderer, Alpha...",
     "icon": "https://portable-linux-apps.github.io/icons/blender-alpha.png"
@@ -1038,11 +1043,6 @@
     "packageName": "blender-rc",
     "description": "Very fast and versatile 3D modeller/renderer, Release Candidate...",
     "icon": "https://portable-linux-apps.github.io/icons/blender-rc.png"
-  },
-  {
-    "packageName": "blender",
-    "description": "Very fast and versatile 3D modeller/renderer, Stable...",
-    "icon": "https://portable-linux-apps.github.io/icons/blender.png"
   },
   {
     "packageName": "blensor",
@@ -1230,19 +1230,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/brainwaves.png"
   },
   {
-    "packageName": "brave-appimage",
-    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"stable\" release...",
-    "icon": "https://portable-linux-apps.github.io/icons/brave-appimage.png"
-  },
-  {
     "packageName": "brave",
     "description": "A privacy oriented Web Browser based on Chromium, this is the official \"stable\" release...",
     "icon": "https://portable-linux-apps.github.io/icons/brave.png"
   },
   {
-    "packageName": "brave-beta-appimage",
-    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"beta\" release...",
-    "icon": "https://portable-linux-apps.github.io/icons/brave-beta-appimage.png"
+    "packageName": "brave-appimage",
+    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"stable\" release...",
+    "icon": "https://portable-linux-apps.github.io/icons/brave-appimage.png"
   },
   {
     "packageName": "brave-beta",
@@ -1250,14 +1245,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/brave-beta.png"
   },
   {
-    "packageName": "brave-nightly-appimage",
-    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"nightly\" release...",
-    "icon": "https://portable-linux-apps.github.io/icons/brave-nightly-appimage.png"
+    "packageName": "brave-beta-appimage",
+    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"beta\" release...",
+    "icon": "https://portable-linux-apps.github.io/icons/brave-beta-appimage.png"
   },
   {
     "packageName": "brave-nightly",
     "description": "A privacy oriented Web Browser based on Chromium, this is the official \"nightly\" release...",
     "icon": "https://portable-linux-apps.github.io/icons/brave-nightly.png"
+  },
+  {
+    "packageName": "brave-nightly-appimage",
+    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"nightly\" release...",
+    "icon": "https://portable-linux-apps.github.io/icons/brave-nightly-appimage.png"
   },
   {
     "packageName": "bread",
@@ -1335,14 +1335,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/buckets.png"
   },
   {
-    "packageName": "bugdom2",
-    "description": "Pangea Software’s Bugdom 2 for modern systems...",
-    "icon": "https://portable-linux-apps.github.io/icons/bugdom2.png"
-  },
-  {
     "packageName": "bugdom",
     "description": "Pangea Software's Bugdom game...",
     "icon": "https://portable-linux-apps.github.io/icons/bugdom.png"
+  },
+  {
+    "packageName": "bugdom2",
+    "description": "Pangea Software’s Bugdom 2 for modern systems...",
+    "icon": "https://portable-linux-apps.github.io/icons/bugdom2.png"
   },
   {
     "packageName": "buho-maui",
@@ -1545,6 +1545,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/celeste64.png"
   },
   {
+    "packageName": "celestia",
+    "description": "Real time 3D space simulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/celestia.png"
+  },
+  {
     "packageName": "celestia-dev",
     "description": "Real time 3D space simulator, developer edition...",
     "icon": "https://portable-linux-apps.github.io/icons/celestia-dev.png"
@@ -1553,11 +1558,6 @@
     "packageName": "celestia-enanched",
     "description": "Unofficial. Real-time 3D space simulator with extra detailed maps...",
     "icon": "https://portable-linux-apps.github.io/icons/celestia-enanched.png"
-  },
-  {
-    "packageName": "celestia",
-    "description": "Real time 3D space simulator...",
-    "icon": "https://portable-linux-apps.github.io/icons/celestia.png"
   },
   {
     "packageName": "celoterminal-bin",
@@ -1600,14 +1600,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/chatbox.png"
   },
   {
-    "packageName": "chatgpt-next-web",
-    "description": "A cross-platform ChatGPT/Gemini UI...",
-    "icon": "https://portable-linux-apps.github.io/icons/chatgpt-next-web.png"
-  },
-  {
     "packageName": "chat-gpt",
     "description": "Unofficial. ChatGPT Desktop Application...",
     "icon": "https://portable-linux-apps.github.io/icons/chat-gpt.png"
+  },
+  {
+    "packageName": "chatgpt-next-web",
+    "description": "A cross-platform ChatGPT/Gemini UI...",
+    "icon": "https://portable-linux-apps.github.io/icons/chatgpt-next-web.png"
   },
   {
     "packageName": "chatpad-ai",
@@ -1615,24 +1615,24 @@
     "icon": "https://portable-linux-apps.github.io/icons/chatpad-ai.png"
   },
   {
-    "packageName": "chatterino2-nightly",
-    "description": "Second installment of the Twitch chat client...",
-    "icon": "https://portable-linux-apps.github.io/icons/chatterino2-nightly.png"
-  },
-  {
     "packageName": "chatterino2",
     "description": "Second installment of the Twitch chat client...",
     "icon": "https://portable-linux-apps.github.io/icons/chatterino2.png"
   },
   {
-    "packageName": "cheatbreaker",
-    "description": "The free FPS boosting modpack for Minecraft 1.7 & 1.8...",
-    "icon": "https://portable-linux-apps.github.io/icons/cheatbreaker.png"
+    "packageName": "chatterino2-nightly",
+    "description": "Second installment of the Twitch chat client...",
+    "icon": "https://portable-linux-apps.github.io/icons/chatterino2-nightly.png"
   },
   {
     "packageName": "cheat",
     "description": "Create and view interactive cheatsheets on the command-line...",
     "icon": "https://portable-linux-apps.github.io/icons/cheat.png"
+  },
+  {
+    "packageName": "cheatbreaker",
+    "description": "The free FPS boosting modpack for Minecraft 1.7 & 1.8...",
+    "icon": "https://portable-linux-apps.github.io/icons/cheatbreaker.png"
   },
   {
     "packageName": "checkra1n",
@@ -1660,14 +1660,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/chiaki.png"
   },
   {
+    "packageName": "chimeradesk",
+    "description": "Simple, fast and flexible DIY Remote Desktop software...",
+    "icon": "https://portable-linux-apps.github.io/icons/chimeradesk.png"
+  },
+  {
     "packageName": "chimeradesk-kvm",
     "description": "Simple, fast and flexible DIY Remote Desktop software...",
     "icon": "https://portable-linux-apps.github.io/icons/chimeradesk-kvm.png"
   },
   {
-    "packageName": "chimeradesk",
-    "description": "Simple, fast and flexible DIY Remote Desktop software...",
-    "icon": "https://portable-linux-apps.github.io/icons/chimeradesk.png"
+    "packageName": "chromium",
+    "description": "Unofficial. FOSS Web Browser, base of Google Chrome, Edge and Brave, stable...",
+    "icon": "https://portable-linux-apps.github.io/icons/chromium.png"
   },
   {
     "packageName": "chromium-beta",
@@ -1693,11 +1698,6 @@
     "packageName": "chromium-rc",
     "description": "Unofficial. FOSS Web Browser, base of Google Chrome, release candidate...",
     "icon": "https://portable-linux-apps.github.io/icons/chromium-rc.png"
-  },
-  {
-    "packageName": "chromium",
-    "description": "Unofficial. FOSS Web Browser, base of Google Chrome, Edge and Brave, stable...",
-    "icon": "https://portable-linux-apps.github.io/icons/chromium.png"
   },
   {
     "packageName": "chrysalis-bin",
@@ -1840,6 +1840,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/cocomusic.png"
   },
   {
+    "packageName": "code",
+    "description": "Visual Studio, VSCode, Original Editor to build/debug web/cloud apps...",
+    "icon": "https://portable-linux-apps.github.io/icons/code.png"
+  },
+  {
     "packageName": "code-notes",
     "description": "A simple code snippet amp built with Electron...",
     "icon": "https://portable-linux-apps.github.io/icons/code-notes.png"
@@ -1848,11 +1853,6 @@
     "packageName": "code-radio",
     "description": "A command line music radio client for coderadio.freecodecamp.org, written in Rust...",
     "icon": "https://portable-linux-apps.github.io/icons/code-radio.png"
-  },
-  {
-    "packageName": "code",
-    "description": "Visual Studio, VSCode, Original Editor to build/debug web/cloud apps...",
-    "icon": "https://portable-linux-apps.github.io/icons/code.png"
   },
   {
     "packageName": "coinstac",
@@ -2310,14 +2310,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/dana.png"
   },
   {
-    "packageName": "darktable-nightly",
-    "description": "Photography workflow app and raw developer, nightly...",
-    "icon": "https://portable-linux-apps.github.io/icons/darktable-nightly.png"
-  },
-  {
     "packageName": "darktable",
     "description": "Photography workflow app and raw developer...",
     "icon": "https://portable-linux-apps.github.io/icons/darktable.png"
+  },
+  {
+    "packageName": "darktable-nightly",
+    "description": "Photography workflow app and raw developer, nightly...",
+    "icon": "https://portable-linux-apps.github.io/icons/darktable-nightly.png"
   },
   {
     "packageName": "dashy-app",
@@ -2570,14 +2570,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/disass.png"
   },
   {
-    "packageName": "discord-qt",
-    "description": "Unofficial. Discord client powered by Node.JS and Qt Widgets...",
-    "icon": "https://portable-linux-apps.github.io/icons/discord-qt.png"
-  },
-  {
     "packageName": "discord",
     "description": "Unofficial. All-in-one voice and text chat for gamers...",
     "icon": "https://portable-linux-apps.github.io/icons/discord.png"
+  },
+  {
+    "packageName": "discord-qt",
+    "description": "Unofficial. Discord client powered by Node.JS and Qt Widgets...",
+    "icon": "https://portable-linux-apps.github.io/icons/discord-qt.png"
   },
   {
     "packageName": "diskonaut",
@@ -2765,14 +2765,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/duskplayer.png"
   },
   {
-    "packageName": "dust3d",
-    "description": "3D modeling software for games, 3D printing, and so on...",
-    "icon": "https://portable-linux-apps.github.io/icons/dust3d.png"
-  },
-  {
     "packageName": "dust",
     "description": "A more intuitive version of du in rust...",
     "icon": "https://portable-linux-apps.github.io/icons/dust.png"
+  },
+  {
+    "packageName": "dust3d",
+    "description": "3D modeling software for games, 3D printing, and so on...",
+    "icon": "https://portable-linux-apps.github.io/icons/dust3d.png"
   },
   {
     "packageName": "dvdisaster",
@@ -2885,14 +2885,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/electron-mail.png"
   },
   {
-    "packageName": "electron-react-boilerplate",
-    "description": "A Foundation for Scalable Cross-Platform Apps...",
-    "icon": "https://portable-linux-apps.github.io/icons/electron-react-boilerplate.png"
-  },
-  {
     "packageName": "electronreact",
     "description": "Desktop application using Electron and React...",
     "icon": "https://portable-linux-apps.github.io/icons/electronreact.png"
+  },
+  {
+    "packageName": "electron-react-boilerplate",
+    "description": "A Foundation for Scalable Cross-Platform Apps...",
+    "icon": "https://portable-linux-apps.github.io/icons/electron-react-boilerplate.png"
   },
   {
     "packageName": "electron-ssr",
@@ -2920,14 +2920,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/electron-xiami.png"
   },
   {
-    "packageName": "electrumfair",
-    "description": "Lightweight FairCoin Client...",
-    "icon": "https://portable-linux-apps.github.io/icons/electrumfair.png"
-  },
-  {
     "packageName": "electrum",
     "description": "Lightweight Bitcoin Client...",
     "icon": "https://portable-linux-apps.github.io/icons/electrum.png"
+  },
+  {
+    "packageName": "electrumfair",
+    "description": "Lightweight FairCoin Client...",
+    "icon": "https://portable-linux-apps.github.io/icons/electrumfair.png"
   },
   {
     "packageName": "electrum-ltc",
@@ -2985,9 +2985,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/elzabrowser.png"
   },
   {
-    "packageName": "emacs-nox-daily",
+    "packageName": "emacs",
     "description": "Unofficial. FOSS text editor for complete programming language...",
-    "icon": "https://portable-linux-apps.github.io/icons/emacs-nox-daily.png"
+    "icon": "https://portable-linux-apps.github.io/icons/emacs.png"
   },
   {
     "packageName": "emacs-nox",
@@ -2995,9 +2995,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/emacs-nox.png"
   },
   {
-    "packageName": "emacs-pgtk-daily",
+    "packageName": "emacs-nox-daily",
     "description": "Unofficial. FOSS text editor for complete programming language...",
-    "icon": "https://portable-linux-apps.github.io/icons/emacs-pgtk-daily.png"
+    "icon": "https://portable-linux-apps.github.io/icons/emacs-nox-daily.png"
   },
   {
     "packageName": "emacs-pgtk",
@@ -3005,19 +3005,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/emacs-pgtk.png"
   },
   {
-    "packageName": "emacs",
+    "packageName": "emacs-pgtk-daily",
     "description": "Unofficial. FOSS text editor for complete programming language...",
-    "icon": "https://portable-linux-apps.github.io/icons/emacs.png"
-  },
-  {
-    "packageName": "emacs-x11-daily",
-    "description": "Unofficial. FOSS text editor for complete programming language...",
-    "icon": "https://portable-linux-apps.github.io/icons/emacs-x11-daily.png"
+    "icon": "https://portable-linux-apps.github.io/icons/emacs-pgtk-daily.png"
   },
   {
     "packageName": "emacs-x11",
     "description": "Unofficial. FOSS text editor for complete programming language...",
     "icon": "https://portable-linux-apps.github.io/icons/emacs-x11.png"
+  },
+  {
+    "packageName": "emacs-x11-daily",
+    "description": "Unofficial. FOSS text editor for complete programming language...",
+    "icon": "https://portable-linux-apps.github.io/icons/emacs-x11-daily.png"
   },
   {
     "packageName": "embedded-ide",
@@ -3345,14 +3345,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/fat-wallet.png"
   },
   {
-    "packageName": "fchat-rising",
-    "description": "A customized version of mainline F-Chat 3.0 client...",
-    "icon": "https://portable-linux-apps.github.io/icons/fchat-rising.png"
-  },
-  {
     "packageName": "fchat",
     "description": "The F-Chat 3.0 client...",
     "icon": "https://portable-linux-apps.github.io/icons/fchat.png"
+  },
+  {
+    "packageName": "fchat-rising",
+    "description": "A customized version of mainline F-Chat 3.0 client...",
+    "icon": "https://portable-linux-apps.github.io/icons/fchat-rising.png"
   },
   {
     "packageName": "fcp",
@@ -3530,14 +3530,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/filelight.png"
   },
   {
-    "packageName": "filen-cli",
-    "description": "Filen CLI for Windows, macOS and Linux..",
-    "icon": "https://portable-linux-apps.github.io/icons/filen-cli.png"
-  },
-  {
     "packageName": "filen",
     "description": "Desktop client for Filen.io, end-to-end encrypted cloud storage...",
     "icon": "https://portable-linux-apps.github.io/icons/filen.png"
+  },
+  {
+    "packageName": "filen-cli",
+    "description": "Filen CLI for Windows, macOS and Linux..",
+    "icon": "https://portable-linux-apps.github.io/icons/filen-cli.png"
   },
   {
     "packageName": "file-to-c",
@@ -3575,14 +3575,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/firefly-desktop.png"
   },
   {
+    "packageName": "firefox",
+    "description": "Fast, powerful and extensible Web Browser, Stable...",
+    "icon": "https://portable-linux-apps.github.io/icons/firefox.png"
+  },
+  {
     "packageName": "firefox-appimage",
     "description": "Unofficial, AppImage of the Web Browser, Stable...",
     "icon": "https://portable-linux-apps.github.io/icons/firefox-appimage.png"
-  },
-  {
-    "packageName": "firefox-beta-appimage",
-    "description": "Unofficial, AppImage of the Web Browser, Beta...",
-    "icon": "https://portable-linux-apps.github.io/icons/firefox-beta-appimage.png"
   },
   {
     "packageName": "firefox-beta",
@@ -3590,9 +3590,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/firefox-beta.png"
   },
   {
-    "packageName": "firefox-devedition-appimage",
-    "description": "Unofficial AppImage of the Web Browser, Dev...",
-    "icon": "https://portable-linux-apps.github.io/icons/firefox-devedition-appimage.png"
+    "packageName": "firefox-beta-appimage",
+    "description": "Unofficial, AppImage of the Web Browser, Beta...",
+    "icon": "https://portable-linux-apps.github.io/icons/firefox-beta-appimage.png"
   },
   {
     "packageName": "firefox-dev",
@@ -3600,9 +3600,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/firefox-dev.png"
   },
   {
-    "packageName": "firefox-esr-appimage",
-    "description": "Unofficial AppImage of the Web Browser, ESR...",
-    "icon": "https://portable-linux-apps.github.io/icons/firefox-esr-appimage.png"
+    "packageName": "firefox-devedition-appimage",
+    "description": "Unofficial AppImage of the Web Browser, Dev...",
+    "icon": "https://portable-linux-apps.github.io/icons/firefox-devedition-appimage.png"
   },
   {
     "packageName": "firefox-esr",
@@ -3610,19 +3610,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/firefox-esr.png"
   },
   {
-    "packageName": "firefox",
-    "description": "Fast, powerful and extensible Web Browser, Stable...",
-    "icon": "https://portable-linux-apps.github.io/icons/firefox.png"
-  },
-  {
-    "packageName": "firefox-nightly-appimage",
-    "description": "Unofficial AppImage of the Web Browser, Nightly...",
-    "icon": "https://portable-linux-apps.github.io/icons/firefox-nightly-appimage.png"
+    "packageName": "firefox-esr-appimage",
+    "description": "Unofficial AppImage of the Web Browser, ESR...",
+    "icon": "https://portable-linux-apps.github.io/icons/firefox-esr-appimage.png"
   },
   {
     "packageName": "firefox-nightly",
     "description": "Fast, powerful and extensible Web Browser, Nightly Edition...",
     "icon": "https://portable-linux-apps.github.io/icons/firefox-nightly.png"
+  },
+  {
+    "packageName": "firefox-nightly-appimage",
+    "description": "Unofficial AppImage of the Web Browser, Nightly...",
+    "icon": "https://portable-linux-apps.github.io/icons/firefox-nightly-appimage.png"
   },
   {
     "packageName": "firetail",
@@ -3640,6 +3640,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/firework.png"
   },
   {
+    "packageName": "fish",
+    "description": "Unofficial, AppImage for `fish` shell...",
+    "icon": "https://portable-linux-apps.github.io/icons/fish.png"
+  },
+  {
     "packageName": "fishing-funds",
     "description": "Fund, big market, stock, virtual currency status, in chinese...",
     "icon": "https://portable-linux-apps.github.io/icons/fishing-funds.png"
@@ -3648,11 +3653,6 @@
     "packageName": "fishterm",
     "description": "A open-soruce Terminal remote access...",
     "icon": "https://portable-linux-apps.github.io/icons/fishterm.png"
-  },
-  {
-    "packageName": "fish",
-    "description": "Unofficial, AppImage for `fish` shell...",
-    "icon": "https://portable-linux-apps.github.io/icons/fish.png"
   },
   {
     "packageName": "fixit",
@@ -3690,14 +3690,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/flb.png"
   },
   {
-    "packageName": "flightgear-airports",
-    "description": "A software to design Flightgear groundnets...",
-    "icon": "https://portable-linux-apps.github.io/icons/flightgear-airports.png"
-  },
-  {
     "packageName": "flightgear",
     "description": "Free, open source flight simulator developed since 1997...",
     "icon": "https://portable-linux-apps.github.io/icons/flightgear.png"
+  },
+  {
+    "packageName": "flightgear-airports",
+    "description": "A software to design Flightgear groundnets...",
+    "icon": "https://portable-linux-apps.github.io/icons/flightgear-airports.png"
   },
   {
     "packageName": "flippy-qualitative-testbench",
@@ -3860,14 +3860,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/freac.png"
   },
   {
-    "packageName": "freecad-assembly3",
-    "description": "Assembly3 workbench for FreeCAD...",
-    "icon": "https://portable-linux-apps.github.io/icons/freecad-assembly3.png"
-  },
-  {
     "packageName": "freecad",
     "description": "Free and open source AutoCAD alternative...",
     "icon": "https://portable-linux-apps.github.io/icons/freecad.png"
+  },
+  {
+    "packageName": "freecad-assembly3",
+    "description": "Assembly3 workbench for FreeCAD...",
+    "icon": "https://portable-linux-apps.github.io/icons/freecad-assembly3.png"
   },
   {
     "packageName": "freefilesync",
@@ -4120,6 +4120,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gextractwinicons.png"
   },
   {
+    "packageName": "gh",
+    "description": "GitHub’s official command line tool...",
+    "icon": "https://portable-linux-apps.github.io/icons/gh.png"
+  },
+  {
     "packageName": "ghdl",
     "description": "A much more convenient way to download GitHub release binaries on the command line...",
     "icon": "https://portable-linux-apps.github.io/icons/ghdl.png"
@@ -4128,11 +4133,6 @@
     "packageName": "gh-eco",
     "description": "gh cli extension to explore the ecosystem...",
     "icon": "https://portable-linux-apps.github.io/icons/gh-eco.png"
-  },
-  {
-    "packageName": "gh",
-    "description": "GitHub’s official command line tool...",
-    "icon": "https://portable-linux-apps.github.io/icons/gh.png"
   },
   {
     "packageName": "ghostty",
@@ -4165,6 +4165,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gifcurry.png"
   },
   {
+    "packageName": "gimp",
+    "description": "Unofficial, GNU Image Manipulation Program, cross-platform image and photo editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/gimp.png"
+  },
+  {
     "packageName": "gimp-dev",
     "description": "Unofficial, Cross-platform image and photo editor, Developer Edition...",
     "icon": "https://portable-linux-apps.github.io/icons/gimp-dev.png"
@@ -4178,11 +4183,6 @@
     "packageName": "gimp-hybrid",
     "description": "Unofficial, GIMP including third-party plugins and python2 support...",
     "icon": "https://portable-linux-apps.github.io/icons/gimp-hybrid.png"
-  },
-  {
-    "packageName": "gimp",
-    "description": "Unofficial, GNU Image Manipulation Program, cross-platform image and photo editor...",
-    "icon": "https://portable-linux-apps.github.io/icons/gimp.png"
   },
   {
     "packageName": "gingko",
@@ -4390,6 +4390,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/goofcord.png"
   },
   {
+    "packageName": "google-chrome",
+    "description": "Unofficial, Web Browser, Stable version...",
+    "icon": "https://portable-linux-apps.github.io/icons/google-chrome.png"
+  },
+  {
     "packageName": "google-chrome-beta",
     "description": "Unofficial, Web Browser, Beta version...",
     "icon": "https://portable-linux-apps.github.io/icons/google-chrome-beta.png"
@@ -4398,11 +4403,6 @@
     "packageName": "google-chrome-dev",
     "description": "Unofficial, Web Browser, Unstable version...",
     "icon": "https://portable-linux-apps.github.io/icons/google-chrome-dev.png"
-  },
-  {
-    "packageName": "google-chrome",
-    "description": "Unofficial, Web Browser, Stable version...",
-    "icon": "https://portable-linux-apps.github.io/icons/google-chrome.png"
   },
   {
     "packageName": "google-docs",
@@ -4460,6 +4460,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gost-shred.png"
   },
   {
+    "packageName": "got",
+    "description": "Simple golang package and CLI tool to download large files faster than cURL and Wget!..",
+    "icon": "https://portable-linux-apps.github.io/icons/got.png"
+  },
+  {
     "packageName": "gotimer",
     "description": "A simple terminal based digital timer for Pomodoro...",
     "icon": "https://portable-linux-apps.github.io/icons/gotimer.png"
@@ -4468,11 +4473,6 @@
     "packageName": "goto",
     "description": "A simple terminal SSH manager that lists favorite SSH servers...",
     "icon": "https://portable-linux-apps.github.io/icons/goto.png"
-  },
-  {
-    "packageName": "got",
-    "description": "Simple golang package and CLI tool to download large files faster than cURL and Wget!..",
-    "icon": "https://portable-linux-apps.github.io/icons/got.png"
   },
   {
     "packageName": "goverlay",
@@ -4580,14 +4580,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/grist-desktop.png"
   },
   {
-    "packageName": "gron.awk",
-    "description": "True JSON parser in pure Awk. fast with Gawk/Mawk/GoAWK...",
-    "icon": "https://portable-linux-apps.github.io/icons/gron.awk.png"
-  },
-  {
     "packageName": "gron",
     "description": "Make JSON greppable! Transform JSON into discrete assignments to grep...",
     "icon": "https://portable-linux-apps.github.io/icons/gron.png"
+  },
+  {
+    "packageName": "gron.awk",
+    "description": "True JSON parser in pure Awk. fast with Gawk/Mawk/GoAWK...",
+    "icon": "https://portable-linux-apps.github.io/icons/gron.awk.png"
   },
   {
     "packageName": "groot",
@@ -4920,6 +4920,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/hypnotix.png"
   },
   {
+    "packageName": "i3",
+    "description": "Unofficial, A tiling window manager for X11...",
+    "icon": "https://portable-linux-apps.github.io/icons/i3.png"
+  },
+  {
     "packageName": "i3-auto-layout",
     "description": "Automatic, optimal tiling for i3wm. Fork of dead version...",
     "icon": "https://portable-linux-apps.github.io/icons/i3-auto-layout.png"
@@ -4928,11 +4933,6 @@
     "packageName": "i3lock-color",
     "description": "The world's most popular non-default computer lockscreen...",
     "icon": "https://portable-linux-apps.github.io/icons/i3lock-color.png"
-  },
-  {
-    "packageName": "i3",
-    "description": "Unofficial, A tiling window manager for X11...",
-    "icon": "https://portable-linux-apps.github.io/icons/i3.png"
   },
   {
     "packageName": "iagoncloudapp",
@@ -5065,14 +5065,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/inkdown.png"
   },
   {
-    "packageName": "inkscape-next",
-    "description": "Vector-based drawing program, SVG, PDF, AutoCAD..., Unstable...",
-    "icon": "https://portable-linux-apps.github.io/icons/inkscape-next.png"
-  },
-  {
     "packageName": "inkscape",
     "description": "Vector-based drawing program, SVG, PDF, AutoCAD..., Stable...",
     "icon": "https://portable-linux-apps.github.io/icons/inkscape.png"
+  },
+  {
+    "packageName": "inkscape-next",
+    "description": "Vector-based drawing program, SVG, PDF, AutoCAD..., Unstable...",
+    "icon": "https://portable-linux-apps.github.io/icons/inkscape-next.png"
   },
   {
     "packageName": "innerbreeze",
@@ -5305,14 +5305,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/join-desktop.png"
   },
   {
-    "packageName": "joplin-beta",
-    "description": "A cross-platform note taking and to-do app...",
-    "icon": "https://portable-linux-apps.github.io/icons/joplin-beta.png"
-  },
-  {
     "packageName": "joplin",
     "description": "Note and to-do application with synchronization capabilities...",
     "icon": "https://portable-linux-apps.github.io/icons/joplin.png"
+  },
+  {
+    "packageName": "joplin-beta",
+    "description": "A cross-platform note taking and to-do app...",
+    "icon": "https://portable-linux-apps.github.io/icons/joplin-beta.png"
   },
   {
     "packageName": "jottem",
@@ -5570,9 +5570,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/keditbookmarks.png"
   },
   {
-    "packageName": "keepassxc-devel",
-    "description": "Port of the Windows application “Keepass Password Safe”, dev-edition...",
-    "icon": "https://portable-linux-apps.github.io/icons/keepassxc-devel.png"
+    "packageName": "keep",
+    "description": "Desktop app for Google Keep...",
+    "icon": "https://portable-linux-apps.github.io/icons/keep.png"
   },
   {
     "packageName": "keepassxc",
@@ -5580,9 +5580,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/keepassxc.png"
   },
   {
-    "packageName": "keep",
-    "description": "Desktop app for Google Keep...",
-    "icon": "https://portable-linux-apps.github.io/icons/keep.png"
+    "packageName": "keepassxc-devel",
+    "description": "Port of the Windows application “Keepass Password Safe”, dev-edition...",
+    "icon": "https://portable-linux-apps.github.io/icons/keepassxc-devel.png"
   },
   {
     "packageName": "keeweb",
@@ -5740,14 +5740,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/kmines.png"
   },
   {
-    "packageName": "kmonad",
-    "description": "An advanced keyboard manager...",
-    "icon": "https://portable-linux-apps.github.io/icons/kmonad.png"
-  },
-  {
     "packageName": "kmon",
     "description": "Linux Kernel Manager and Activity Monitor...",
     "icon": "https://portable-linux-apps.github.io/icons/kmon.png"
+  },
+  {
+    "packageName": "kmonad",
+    "description": "An advanced keyboard manager...",
+    "icon": "https://portable-linux-apps.github.io/icons/kmonad.png"
   },
   {
     "packageName": "knavalbattle",
@@ -6320,6 +6320,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/losslesscut.png"
   },
   {
+    "packageName": "love",
+    "description": "The unquestionably awesome 2D game engine...",
+    "icon": "https://portable-linux-apps.github.io/icons/love.png"
+  },
+  {
     "packageName": "lovelive",
     "description": "A LoveLiver Music Player...",
     "icon": "https://portable-linux-apps.github.io/icons/lovelive.png"
@@ -6328,11 +6333,6 @@
     "packageName": "lovesay",
     "description": "Cowsay, but full of love and now a little rusty...",
     "icon": "https://portable-linux-apps.github.io/icons/lovesay.png"
-  },
-  {
-    "packageName": "love",
-    "description": "The unquestionably awesome 2D game engine...",
-    "icon": "https://portable-linux-apps.github.io/icons/love.png"
   },
   {
     "packageName": "lovr",
@@ -6408,6 +6408,11 @@
     "packageName": "lyricistant",
     "description": "A helpful writing assistant for lyricists...",
     "icon": "https://portable-linux-apps.github.io/icons/lyricistant.png"
+  },
+  {
+    "packageName": "m",
+    "description": "Data oriented programming language for game developers...",
+    "icon": "https://portable-linux-apps.github.io/icons/m.png"
   },
   {
     "packageName": "macchina",
@@ -6585,11 +6590,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/mcpodcast.png"
   },
   {
-    "packageName": "m",
-    "description": "Data oriented programming language for game developers...",
-    "icon": "https://portable-linux-apps.github.io/icons/m.png"
-  },
-  {
     "packageName": "mdcat",
     "description": "Command line, \"cat\" for markdown...",
     "icon": "https://portable-linux-apps.github.io/icons/mdcat.png"
@@ -6710,14 +6710,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/meow-sql.png"
   },
   {
-    "packageName": "mercury-avx2",
-    "description": "Firefox fork, with compiler optim. and patches from Librewolf...",
-    "icon": "https://portable-linux-apps.github.io/icons/mercury-avx2.png"
-  },
-  {
     "packageName": "mercury",
     "description": "Firefox fork with compiler optimizations and patches from Librewolf...",
     "icon": "https://portable-linux-apps.github.io/icons/mercury.png"
+  },
+  {
+    "packageName": "mercury-avx2",
+    "description": "Firefox fork, with compiler optim. and patches from Librewolf...",
+    "icon": "https://portable-linux-apps.github.io/icons/mercury-avx2.png"
   },
   {
     "packageName": "mercury-sse3",
@@ -6755,6 +6755,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/micropad.png"
   },
   {
+    "packageName": "microsoft-edge",
+    "description": "Web Browser provided by Microsoft, Stable Edition...",
+    "icon": "https://portable-linux-apps.github.io/icons/microsoft-edge.png"
+  },
+  {
     "packageName": "microsoft-edge-beta",
     "description": "Web Browser provided by Microsoft, Beta Edition...",
     "icon": "https://portable-linux-apps.github.io/icons/microsoft-edge-beta.png"
@@ -6763,11 +6768,6 @@
     "packageName": "microsoft-edge-dev",
     "description": "Web Browser provided by Microsoft, Developer Edition...",
     "icon": "https://portable-linux-apps.github.io/icons/microsoft-edge-dev.png"
-  },
-  {
-    "packageName": "microsoft-edge",
-    "description": "Web Browser provided by Microsoft, Stable Edition...",
-    "icon": "https://portable-linux-apps.github.io/icons/microsoft-edge.png"
   },
   {
     "packageName": "midori",
@@ -6880,14 +6880,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/mjml-app.png"
   },
   {
-    "packageName": "mki3dgame",
-    "description": "A game of searching, in 3D stages...",
-    "icon": "https://portable-linux-apps.github.io/icons/mki3dgame.png"
-  },
-  {
     "packageName": "mk",
     "description": "Interactive Task Runner for Makefile...",
     "icon": "https://portable-linux-apps.github.io/icons/mk.png"
+  },
+  {
+    "packageName": "mki3dgame",
+    "description": "A game of searching, in 3D stages...",
+    "icon": "https://portable-linux-apps.github.io/icons/mki3dgame.png"
   },
   {
     "packageName": "mkvtoolnix",
@@ -7225,14 +7225,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/nami.png"
   },
   {
-    "packageName": "nanosaur2",
-    "description": "Pangea Software’s Nanosaur II for modern systems...",
-    "icon": "https://portable-linux-apps.github.io/icons/nanosaur2.png"
-  },
-  {
     "packageName": "nanosaur",
     "description": "Pangea Software’s game, adventure of a cybernetic dinosaur...",
     "icon": "https://portable-linux-apps.github.io/icons/nanosaur.png"
+  },
+  {
+    "packageName": "nanosaur2",
+    "description": "Pangea Software’s Nanosaur II for modern systems...",
+    "icon": "https://portable-linux-apps.github.io/icons/nanosaur2.png"
   },
   {
     "packageName": "nanovault",
@@ -7435,6 +7435,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/nnn.png"
   },
   {
+    "packageName": "node",
+    "description": "This is the official suite of Node.js tools, also known as \"NodeJS\", a JavaScript runtime built on Chrome's V8 JavaScript engine...",
+    "icon": "https://portable-linux-apps.github.io/icons/node.png"
+  },
+  {
     "packageName": "nodeflow",
     "description": "An Editor for creating simple or complex OCR workflows...",
     "icon": "https://portable-linux-apps.github.io/icons/nodeflow.png"
@@ -7443,11 +7448,6 @@
     "packageName": "nodes",
     "description": "A new way to create with code...",
     "icon": "https://portable-linux-apps.github.io/icons/nodes.png"
-  },
-  {
-    "packageName": "node",
-    "description": "This is the official suite of Node.js tools, also known as \"NodeJS\", a JavaScript runtime built on Chrome's V8 JavaScript engine...",
-    "icon": "https://portable-linux-apps.github.io/icons/node.png"
   },
   {
     "packageName": "no-fwl",
@@ -7510,6 +7510,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/notemaster.png"
   },
   {
+    "packageName": "notepad++",
+    "description": "Unofficial Appimage of Notepad++, with WINE prefix...",
+    "icon": "https://portable-linux-apps.github.io/icons/notepad++.png"
+  },
+  {
     "packageName": "notepadnext",
     "description": "A cross-platform, reimplementation of Notepad++...",
     "icon": "https://portable-linux-apps.github.io/icons/notepadnext.png"
@@ -7520,14 +7525,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/notepadqq.png"
   },
   {
-    "packageName": "notepad++",
-    "description": "Unofficial Appimage of Notepad++, with WINE prefix...",
-    "icon": "https://portable-linux-apps.github.io/icons/notepad++.png"
-  },
-  {
     "packageName": "noter",
     "description": "Simple serial terminal application...",
     "icon": "https://portable-linux-apps.github.io/icons/noter.png"
+  },
+  {
+    "packageName": "notes",
+    "description": "Note-taking application, write down your thoughts...",
+    "icon": "https://portable-linux-apps.github.io/icons/notes.png"
   },
   {
     "packageName": "noteshrink-qt",
@@ -7543,11 +7548,6 @@
     "packageName": "notesnook",
     "description": "Private note-taking app that encrypts everything on client side...",
     "icon": "https://portable-linux-apps.github.io/icons/notesnook.png"
-  },
-  {
-    "packageName": "notes",
-    "description": "Note-taking application, write down your thoughts...",
-    "icon": "https://portable-linux-apps.github.io/icons/notes.png"
   },
   {
     "packageName": "novelwriter",
@@ -7675,14 +7675,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/obsidian-cli.png"
   },
   {
-    "packageName": "obs-studio-full",
-    "description": "Unofficial. Software for video recording and live streaming. Full version with browser support...",
-    "icon": "https://portable-linux-apps.github.io/icons/obs-studio-full.png"
-  },
-  {
     "packageName": "obs-studio",
     "description": "Unofficial. Software for video recording and live streaming...",
     "icon": "https://portable-linux-apps.github.io/icons/obs-studio.png"
+  },
+  {
+    "packageName": "obs-studio-full",
+    "description": "Unofficial. Software for video recording and live streaming. Full version with browser support...",
+    "icon": "https://portable-linux-apps.github.io/icons/obs-studio-full.png"
   },
   {
     "packageName": "ocat",
@@ -7960,6 +7960,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/openxcom.png"
   },
   {
+    "packageName": "opera",
+    "description": "Unofficial. Fast and secure web browser, Stable version...",
+    "icon": "https://portable-linux-apps.github.io/icons/opera.png"
+  },
+  {
     "packageName": "opera-beta",
     "description": "Unofficial. Fast and secure web browser, Beta version...",
     "icon": "https://portable-linux-apps.github.io/icons/opera-beta.png"
@@ -7970,14 +7975,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/opera-dev.png"
   },
   {
-    "packageName": "opera",
-    "description": "Unofficial. Fast and secure web browser, Stable version...",
-    "icon": "https://portable-linux-apps.github.io/icons/opera.png"
-  },
-  {
     "packageName": "orange",
     "description": "Cross-platform local file search engine...",
     "icon": "https://portable-linux-apps.github.io/icons/orange.png"
+  },
+  {
+    "packageName": "orcaslicer",
+    "description": "G-code generator for 3D printers, Stable release...",
+    "icon": "https://portable-linux-apps.github.io/icons/orcaslicer.png"
   },
   {
     "packageName": "orcaslicer-any",
@@ -7988,11 +7993,6 @@
     "packageName": "orcaslicer-beta",
     "description": "G-code generator for 3D printers, Beta release...",
     "icon": "https://portable-linux-apps.github.io/icons/orcaslicer-beta.png"
-  },
-  {
-    "packageName": "orcaslicer",
-    "description": "G-code generator for 3D printers, Stable release...",
-    "icon": "https://portable-linux-apps.github.io/icons/orcaslicer.png"
   },
   {
     "packageName": "orcaslicer-rc",
@@ -8180,14 +8180,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/parity-fether.png"
   },
   {
-    "packageName": "parsec-linux",
-    "description": "Parsec game streaming client...",
-    "icon": "https://portable-linux-apps.github.io/icons/parsec-linux.png"
-  },
-  {
     "packageName": "parsec",
     "description": "Open source Dropbox-like file sharing with full client encryption...",
     "icon": "https://portable-linux-apps.github.io/icons/parsec.png"
+  },
+  {
+    "packageName": "parsec-linux",
+    "description": "Parsec game streaming client...",
+    "icon": "https://portable-linux-apps.github.io/icons/parsec-linux.png"
   },
   {
     "packageName": "passky",
@@ -8395,14 +8395,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/photogimp.png"
   },
   {
-    "packageName": "photoname",
-    "description": "Rename photo image files based on EXIF shoot date...",
-    "icon": "https://portable-linux-apps.github.io/icons/photoname.png"
-  },
-  {
     "packageName": "photon",
     "description": "Cross-platform file-transfer application built using flutter. It uses http to transfer files between devices...",
     "icon": "https://portable-linux-apps.github.io/icons/photon.png"
+  },
+  {
+    "packageName": "photoname",
+    "description": "Rename photo image files based on EXIF shoot date...",
+    "icon": "https://portable-linux-apps.github.io/icons/photoname.png"
   },
   {
     "packageName": "photopealoader",
@@ -8585,6 +8585,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/platinum-md.png"
   },
   {
+    "packageName": "play",
+    "description": "PlayStation 2 emulator on your computer or mobile device...",
+    "icon": "https://portable-linux-apps.github.io/icons/play.png"
+  },
+  {
     "packageName": "play-2048",
     "description": "Another implementation of the 2048 game...",
     "icon": "https://portable-linux-apps.github.io/icons/play-2048.png"
@@ -8615,24 +8620,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/playme.png"
   },
   {
-    "packageName": "play",
-    "description": "PlayStation 2 emulator on your computer or mobile device...",
-    "icon": "https://portable-linux-apps.github.io/icons/play.png"
-  },
-  {
     "packageName": "playyourdamnturn",
     "description": "Desktop Client to assist with playing your damn turns...",
     "icon": "https://portable-linux-apps.github.io/icons/playyourdamnturn.png"
   },
   {
-    "packageName": "plexamp",
-    "description": "The best little audio player on the planet...",
-    "icon": "https://portable-linux-apps.github.io/icons/plexamp.png"
-  },
-  {
     "packageName": "plex",
     "description": "The ultimate home theater experience...",
     "icon": "https://portable-linux-apps.github.io/icons/plex.png"
+  },
+  {
+    "packageName": "plexamp",
+    "description": "The best little audio player on the planet...",
+    "icon": "https://portable-linux-apps.github.io/icons/plexamp.png"
   },
   {
     "packageName": "plotjuggler",
@@ -8685,6 +8685,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/podium.png"
   },
   {
+    "packageName": "podman",
+    "description": "Free & open source tool to manage containers, pods, and images...",
+    "icon": "https://portable-linux-apps.github.io/icons/podman.png"
+  },
+  {
     "packageName": "podman-appimage",
     "description": "AppImage of podman...",
     "icon": "https://portable-linux-apps.github.io/icons/podman-appimage.png"
@@ -8695,24 +8700,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/podman-desktop-companion.png"
   },
   {
-    "packageName": "podman",
-    "description": "Free & open source tool to manage containers, pods, and images...",
-    "icon": "https://portable-linux-apps.github.io/icons/podman.png"
-  },
-  {
     "packageName": "poe-ladder",
     "description": "Path of Exile ladder viewer...",
     "icon": "https://portable-linux-apps.github.io/icons/poe-ladder.png"
   },
   {
-    "packageName": "pointless",
-    "description": "An endless drawing canvas desktop app made with Tauri (Rust) and React...",
-    "icon": "https://portable-linux-apps.github.io/icons/pointless.png"
-  },
-  {
     "packageName": "poi",
     "description": "Scalable KanColle browser and tool...",
     "icon": "https://portable-linux-apps.github.io/icons/poi.png"
+  },
+  {
+    "packageName": "pointless",
+    "description": "An endless drawing canvas desktop app made with Tauri (Rust) and React...",
+    "icon": "https://portable-linux-apps.github.io/icons/pointless.png"
   },
   {
     "packageName": "pokeget-rs",
@@ -8730,14 +8730,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/pokete.png"
   },
   {
-    "packageName": "polar-bookshelf",
-    "description": "Personal knowledge repository for PDF and web content...",
-    "icon": "https://portable-linux-apps.github.io/icons/polar-bookshelf.png"
-  },
-  {
     "packageName": "polar",
     "description": "One-click Bitcoin Lightning networks for local app development...",
     "icon": "https://portable-linux-apps.github.io/icons/polar.png"
+  },
+  {
+    "packageName": "polar-bookshelf",
+    "description": "Personal knowledge repository for PDF and web content...",
+    "icon": "https://portable-linux-apps.github.io/icons/polar-bookshelf.png"
   },
   {
     "packageName": "polkakey",
@@ -8770,14 +8770,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/pomotroid.png"
   },
   {
-    "packageName": "popcorn",
-    "description": "BitTorrent client with integrated media player...",
-    "icon": "https://portable-linux-apps.github.io/icons/popcorn.png"
-  },
-  {
     "packageName": "pop",
     "description": "Send emails from your terminal...",
     "icon": "https://portable-linux-apps.github.io/icons/pop.png"
+  },
+  {
+    "packageName": "popcorn",
+    "description": "BitTorrent client with integrated media player...",
+    "icon": "https://portable-linux-apps.github.io/icons/popcorn.png"
   },
   {
     "packageName": "popsicle",
@@ -9290,14 +9290,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/quamodbusclient.png"
   },
   {
-    "packageName": "quark-player",
-    "description": "An Electron based Web Video Services Player...",
-    "icon": "https://portable-linux-apps.github.io/icons/quark-player.png"
-  },
-  {
     "packageName": "quark",
     "description": "Sketchbook for rapid prototyping and development of your projects...",
     "icon": "https://portable-linux-apps.github.io/icons/quark.png"
+  },
+  {
+    "packageName": "quark-player",
+    "description": "An Electron based Web Video Services Player...",
+    "icon": "https://portable-linux-apps.github.io/icons/quark-player.png"
   },
   {
     "packageName": "quarto-cli",
@@ -9470,14 +9470,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/rbw.png"
   },
   {
-    "packageName": "rclone-browser",
-    "description": "Simple cross platform GUI for rclone...",
-    "icon": "https://portable-linux-apps.github.io/icons/rclone-browser.png"
-  },
-  {
     "packageName": "rclone",
     "description": "\"rsync for cloud storage\", CLI that supports Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files...",
     "icon": "https://portable-linux-apps.github.io/icons/rclone.png"
+  },
+  {
+    "packageName": "rclone-browser",
+    "description": "Simple cross platform GUI for rclone...",
+    "icon": "https://portable-linux-apps.github.io/icons/rclone-browser.png"
   },
   {
     "packageName": "reactotron",
@@ -9655,14 +9655,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/ripes.png"
   },
   {
-    "packageName": "ripgrep-all",
-    "description": "A ripgrep version to also search in documents and archives...",
-    "icon": "https://portable-linux-apps.github.io/icons/ripgrep-all.png"
-  },
-  {
     "packageName": "ripgrep",
     "description": "Search directories for regex pattern while respecting gitignore...",
     "icon": "https://portable-linux-apps.github.io/icons/ripgrep.png"
+  },
+  {
+    "packageName": "ripgrep-all",
+    "description": "A ripgrep version to also search in documents and archives...",
+    "icon": "https://portable-linux-apps.github.io/icons/ripgrep-all.png"
   },
   {
     "packageName": "rmg",
@@ -9813,6 +9813,11 @@
     "packageName": "ryujinx-mirror",
     "description": "Hard-fork of Ryujinx, more similar to the original Ryujinx...",
     "icon": "https://portable-linux-apps.github.io/icons/ryujinx-mirror.png"
+  },
+  {
+    "packageName": "s",
+    "description": "Open a web search in your terminal...",
+    "icon": "https://portable-linux-apps.github.io/icons/s.png"
   },
   {
     "packageName": "s3drive",
@@ -10480,11 +10485,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/sonusmix.png"
   },
   {
-    "packageName": "s",
-    "description": "Open a web search in your terminal...",
-    "icon": "https://portable-linux-apps.github.io/icons/s.png"
-  },
-  {
     "packageName": "soul-arena",
     "description": "Bleach-based online multiplayer strategy game...",
     "icon": "https://portable-linux-apps.github.io/icons/soul-arena.png"
@@ -10505,14 +10505,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/sozi.png"
   },
   {
-    "packageName": "spacebar-debug",
-    "description": "Extendable discord-compatible native Spacebar client, debug...",
-    "icon": "https://portable-linux-apps.github.io/icons/spacebar-debug.png"
-  },
-  {
     "packageName": "spacebar",
     "description": "Themeable and extendable discord-compatible native Spacebar client...",
     "icon": "https://portable-linux-apps.github.io/icons/spacebar.png"
+  },
+  {
+    "packageName": "spacebar-debug",
+    "description": "Extendable discord-compatible native Spacebar client, debug...",
+    "icon": "https://portable-linux-apps.github.io/icons/spacebar-debug.png"
   },
   {
     "packageName": "spacecadet",
@@ -10605,6 +10605,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/spotifetch.png"
   },
   {
+    "packageName": "spotify",
+    "description": "Unofficial. A proprietary music streaming service...",
+    "icon": "https://portable-linux-apps.github.io/icons/spotify.png"
+  },
+  {
     "packageName": "spotify-dl",
     "description": "A command-line utility to download songs and playlists directly from Spotify's servers...",
     "icon": "https://portable-linux-apps.github.io/icons/spotify-dl.png"
@@ -10623,11 +10628,6 @@
     "packageName": "spotify-tui",
     "description": "Spotify for the terminal written in Rust...",
     "icon": "https://portable-linux-apps.github.io/icons/spotify-tui.png"
-  },
-  {
-    "packageName": "spotify",
-    "description": "Unofficial. A proprietary music streaming service...",
-    "icon": "https://portable-linux-apps.github.io/icons/spotify.png"
   },
   {
     "packageName": "spotube",
@@ -10720,6 +10720,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/statuspilatus.png"
   },
   {
+    "packageName": "steam",
+    "description": "Unofficial. The ultimate destination for playing, discussing, and creating games...",
+    "icon": "https://portable-linux-apps.github.io/icons/steam.png"
+  },
+  {
     "packageName": "steamcad",
     "description": "2D CAD especially designed to draw steam locomotives...",
     "icon": "https://portable-linux-apps.github.io/icons/steamcad.png"
@@ -10738,11 +10743,6 @@
     "packageName": "steam-tui",
     "description": "Rust TUI client for steamcmd...",
     "icon": "https://portable-linux-apps.github.io/icons/steam-tui.png"
-  },
-  {
-    "packageName": "steam",
-    "description": "Unofficial. The ultimate destination for playing, discussing, and creating games...",
-    "icon": "https://portable-linux-apps.github.io/icons/steam.png"
   },
   {
     "packageName": "steem-messenger",
@@ -10990,14 +10990,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/supertux.png"
   },
   {
-    "packageName": "supertuxkart-appimage",
-    "description": "Unofficial. Racing game focused on Fun...",
-    "icon": "https://portable-linux-apps.github.io/icons/supertuxkart-appimage.png"
-  },
-  {
     "packageName": "supertuxkart",
     "description": "The original Free kart racing game focused on Fun!..",
     "icon": "https://portable-linux-apps.github.io/icons/supertuxkart.png"
+  },
+  {
+    "packageName": "supertuxkart-appimage",
+    "description": "Unofficial. Racing game focused on Fun...",
+    "icon": "https://portable-linux-apps.github.io/icons/supertuxkart-appimage.png"
   },
   {
     "packageName": "surrealist",
@@ -11360,6 +11360,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/thoptv.png"
   },
   {
+    "packageName": "thorium",
+    "description": "Web Browser, a Chromium fork including Widevine and FFmpeg support...",
+    "icon": "https://portable-linux-apps.github.io/icons/thorium.png"
+  },
+  {
     "packageName": "thorium-avx2",
     "description": "AVX2 Linux builds of Thorium Browser...",
     "icon": "https://portable-linux-apps.github.io/icons/thorium-avx2.png"
@@ -11385,9 +11390,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/thorium-sse4.png"
   },
   {
-    "packageName": "thorium",
-    "description": "Web Browser, a Chromium fork including Widevine and FFmpeg support...",
-    "icon": "https://portable-linux-apps.github.io/icons/thorium.png"
+    "packageName": "thunderbird",
+    "description": "Free and open source eMail client, Stable...",
+    "icon": "https://portable-linux-apps.github.io/icons/thunderbird.png"
   },
   {
     "packageName": "thunderbird-appimage",
@@ -11395,29 +11400,24 @@
     "icon": "https://portable-linux-apps.github.io/icons/thunderbird-appimage.png"
   },
   {
-    "packageName": "thunderbird-beta-appimage",
-    "description": "Unofficial. Mail client's Unofficial AppImage, Beta...",
-    "icon": "https://portable-linux-apps.github.io/icons/thunderbird-beta-appimage.png"
-  },
-  {
     "packageName": "thunderbird-beta",
     "description": "Free and open source eMail client, Beta Edition...",
     "icon": "https://portable-linux-apps.github.io/icons/thunderbird-beta.png"
   },
   {
-    "packageName": "thunderbird",
-    "description": "Free and open source eMail client, Stable...",
-    "icon": "https://portable-linux-apps.github.io/icons/thunderbird.png"
-  },
-  {
-    "packageName": "thunderbird-nightly-appimage",
-    "description": "Unofficial. Mail client's Unofficial AppImage, Nightly...",
-    "icon": "https://portable-linux-apps.github.io/icons/thunderbird-nightly-appimage.png"
+    "packageName": "thunderbird-beta-appimage",
+    "description": "Unofficial. Mail client's Unofficial AppImage, Beta...",
+    "icon": "https://portable-linux-apps.github.io/icons/thunderbird-beta-appimage.png"
   },
   {
     "packageName": "thunderbird-nightly",
     "description": "Free and open source eMail client, Nightly Edition...",
     "icon": "https://portable-linux-apps.github.io/icons/thunderbird-nightly.png"
+  },
+  {
+    "packageName": "thunderbird-nightly-appimage",
+    "description": "Unofficial. Mail client's Unofficial AppImage, Nightly...",
+    "icon": "https://portable-linux-apps.github.io/icons/thunderbird-nightly-appimage.png"
   },
   {
     "packageName": "ticker",
@@ -11545,14 +11545,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/topgrade.png"
   },
   {
-    "packageName": "tor-browser-alpha",
-    "description": "Privacy-oriented Web Browser for sites blocked in your country...",
-    "icon": "https://portable-linux-apps.github.io/icons/tor-browser-alpha.png"
-  },
-  {
     "packageName": "tor-browser",
     "description": "Privacy-oriented Web Browser for sites blocked in your country...",
     "icon": "https://portable-linux-apps.github.io/icons/tor-browser.png"
+  },
+  {
+    "packageName": "tor-browser-alpha",
+    "description": "Privacy-oriented Web Browser for sites blocked in your country...",
+    "icon": "https://portable-linux-apps.github.io/icons/tor-browser-alpha.png"
   },
   {
     "packageName": "torcs",
@@ -11895,14 +11895,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/upgit.png"
   },
   {
-    "packageName": "upnotes",
-    "description": "A notes app for software developers...",
-    "icon": "https://portable-linux-apps.github.io/icons/upnotes.png"
-  },
-  {
     "packageName": "upnote",
     "description": "Stay focused and productive with a clean and clutter-free note space...",
     "icon": "https://portable-linux-apps.github.io/icons/upnote.png"
+  },
+  {
+    "packageName": "upnotes",
+    "description": "A notes app for software developers...",
+    "icon": "https://portable-linux-apps.github.io/icons/upnotes.png"
   },
   {
     "packageName": "upscayl",
@@ -12010,14 +12010,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/vhs.png"
   },
   {
-    "packageName": "vial",
-    "description": "GUI and a QMK fork for configuring your keyboard in real time...",
-    "icon": "https://portable-linux-apps.github.io/icons/vial.png"
-  },
-  {
     "packageName": "via",
     "description": "Your keyboard's best friend...",
     "icon": "https://portable-linux-apps.github.io/icons/via.png"
+  },
+  {
+    "packageName": "vial",
+    "description": "GUI and a QMK fork for configuring your keyboard in real time...",
+    "icon": "https://portable-linux-apps.github.io/icons/vial.png"
   },
   {
     "packageName": "viber",
@@ -12075,14 +12075,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/violetbug.png"
   },
   {
-    "packageName": "viper-browser",
-    "description": "Fast and lightweight Qt web browser...",
-    "icon": "https://portable-linux-apps.github.io/icons/viper-browser.png"
-  },
-  {
     "packageName": "viper",
     "description": "Launcher and Updater for TF2 Northstar...",
     "icon": "https://portable-linux-apps.github.io/icons/viper.png"
+  },
+  {
+    "packageName": "viper-browser",
+    "description": "Fast and lightweight Qt web browser...",
+    "icon": "https://portable-linux-apps.github.io/icons/viper-browser.png"
   },
   {
     "packageName": "vipster",
@@ -12165,11 +12165,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/vk-music-fs.png"
   },
   {
-    "packageName": "vlc-git",
-    "description": "Unofficial. Free and Open Source Video & Media player, GIT version...",
-    "icon": "https://portable-linux-apps.github.io/icons/vlc-git.png"
-  },
-  {
     "packageName": "vlc",
     "description": "Unofficial. Free and Open Source Video & Media player for Audio, streaming and more...",
     "icon": "https://portable-linux-apps.github.io/icons/vlc.png"
@@ -12178,6 +12173,11 @@
     "packageName": "vlc+",
     "description": "Unofficial. Video & Media player for Audio, streaming and more, with JAVA support...",
     "icon": "https://portable-linux-apps.github.io/icons/vlc+.png"
+  },
+  {
+    "packageName": "vlc-git",
+    "description": "Unofficial. Free and Open Source Video & Media player, GIT version...",
+    "icon": "https://portable-linux-apps.github.io/icons/vlc-git.png"
   },
   {
     "packageName": "vnote",
@@ -12220,6 +12220,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/vscodium.png"
   },
   {
+    "packageName": "vt",
+    "description": "VirusTotal Command Line Interface...",
+    "icon": "https://portable-linux-apps.github.io/icons/vt.png"
+  },
+  {
     "packageName": "vterm",
     "description": "Extensible terminal emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/vterm.png"
@@ -12228,11 +12233,6 @@
     "packageName": "vtm",
     "description": "Text-based desktop environment...",
     "icon": "https://portable-linux-apps.github.io/icons/vtm.png"
-  },
-  {
-    "packageName": "vt",
-    "description": "VirusTotal Command Line Interface...",
-    "icon": "https://portable-linux-apps.github.io/icons/vt.png"
   },
   {
     "packageName": "vue-calc",
@@ -12300,14 +12300,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/watchit.png"
   },
   {
-    "packageName": "waterfox-appimage",
-    "description": "Browse the World Wide Web, current version...",
-    "icon": "https://portable-linux-apps.github.io/icons/waterfox-appimage.png"
-  },
-  {
     "packageName": "waterfox",
     "description": "Browse the World Wide Web, current version...",
     "icon": "https://portable-linux-apps.github.io/icons/waterfox.png"
+  },
+  {
+    "packageName": "waterfox-appimage",
+    "description": "Browse the World Wide Web, current version...",
+    "icon": "https://portable-linux-apps.github.io/icons/waterfox-appimage.png"
   },
   {
     "packageName": "wavebox",
@@ -12460,6 +12460,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/windows95.png"
   },
   {
+    "packageName": "wine",
+    "description": "Unofficial. Run Windows programs, select a version from mmtrt/WINE_AppImage...",
+    "icon": "https://portable-linux-apps.github.io/icons/wine.png"
+  },
+  {
     "packageName": "wine32-deploy",
     "description": "Tool for creating AppImages for 32-bit Microsoft Windows apps...",
     "icon": "https://portable-linux-apps.github.io/icons/wine32-deploy.png"
@@ -12475,24 +12480,24 @@
     "icon": "https://portable-linux-apps.github.io/icons/wine-stable.png"
   },
   {
-    "packageName": "wine-staging-ge-proton",
-    "description": "Unofficial. Run x86_64 Windows programs, Staging GE Proton...",
-    "icon": "https://portable-linux-apps.github.io/icons/wine-staging-ge-proton.png"
-  },
-  {
     "packageName": "wine-staging",
     "description": "Unofficial. Compatibility layer to run x86_64 Windows programs, Staging...",
     "icon": "https://portable-linux-apps.github.io/icons/wine-staging.png"
   },
   {
-    "packageName": "wine",
-    "description": "Unofficial. Run Windows programs, select a version from mmtrt/WINE_AppImage...",
-    "icon": "https://portable-linux-apps.github.io/icons/wine.png"
+    "packageName": "wine-staging-ge-proton",
+    "description": "Unofficial. Run x86_64 Windows programs, Staging GE Proton...",
+    "icon": "https://portable-linux-apps.github.io/icons/wine-staging-ge-proton.png"
   },
   {
     "packageName": "winrar",
     "description": "Unofficial, data compression, encryption and archiving tool...",
     "icon": "https://portable-linux-apps.github.io/icons/winrar.png"
+  },
+  {
+    "packageName": "wire",
+    "description": "The most secure collaboration platform...",
+    "icon": "https://portable-linux-apps.github.io/icons/wire.png"
   },
   {
     "packageName": "wireframesketcher",
@@ -12508,11 +12513,6 @@
     "packageName": "wireshark",
     "description": "Unofficial, the world's most popular network protocol analyze...",
     "icon": "https://portable-linux-apps.github.io/icons/wireshark.png"
-  },
-  {
-    "packageName": "wire",
-    "description": "The most secure collaboration platform...",
-    "icon": "https://portable-linux-apps.github.io/icons/wire.png"
   },
   {
     "packageName": "wishdemo",
@@ -12670,14 +12670,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/xcloud-desktop.png"
   },
   {
-    "packageName": "xdelta3-cross-gui",
-    "description": "A cross-platform GUI for creating xDelta3 patches...",
-    "icon": "https://portable-linux-apps.github.io/icons/xdelta3-cross-gui.png"
-  },
-  {
     "packageName": "xde",
     "description": "The Expo Development Environment...",
     "icon": "https://portable-linux-apps.github.io/icons/xde.png"
+  },
+  {
+    "packageName": "xdelta3-cross-gui",
+    "description": "A cross-platform GUI for creating xDelta3 patches...",
+    "icon": "https://portable-linux-apps.github.io/icons/xdelta3-cross-gui.png"
   },
   {
     "packageName": "xdg-ninja",
@@ -12810,6 +12810,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/yana.png"
   },
   {
+    "packageName": "yandex-browser",
+    "description": "Unofficial Yandex Browser AppImage, Stable. ..",
+    "icon": "https://portable-linux-apps.github.io/icons/yandex-browser.png"
+  },
+  {
     "packageName": "yandex-browser-beta",
     "description": "Unofficial Yandex Browser AppImage, Beta...",
     "icon": "https://portable-linux-apps.github.io/icons/yandex-browser-beta.png"
@@ -12818,11 +12823,6 @@
     "packageName": "yandex-browser-corporate",
     "description": "Unofficial Yandex Browser AppImage, Corporate...",
     "icon": "https://portable-linux-apps.github.io/icons/yandex-browser-corporate.png"
-  },
-  {
-    "packageName": "yandex-browser",
-    "description": "Unofficial Yandex Browser AppImage, Stable. ..",
-    "icon": "https://portable-linux-apps.github.io/icons/yandex-browser.png"
   },
   {
     "packageName": "yangdownloader",
@@ -12860,14 +12860,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/youtubeanddownloader.png"
   },
   {
-    "packageName": "youtube-downloader",
-    "description": "Download video/audio from youtube (and instagram) videos...",
-    "icon": "https://portable-linux-apps.github.io/icons/youtube-downloader.png"
-  },
-  {
     "packageName": "youtube-download",
     "description": "GUI and CLI for downloading YouTube video/audio...",
     "icon": "https://portable-linux-apps.github.io/icons/youtube-download.png"
+  },
+  {
+    "packageName": "youtube-downloader",
+    "description": "Download video/audio from youtube (and instagram) videos...",
+    "icon": "https://portable-linux-apps.github.io/icons/youtube-downloader.png"
   },
   {
     "packageName": "youtube-music",
@@ -12915,14 +12915,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/ytermusic.png"
   },
   {
-    "packageName": "ytmdesktop2",
-    "description": "Unofficial Youtube Music Desktop App, with LastFM support...",
-    "icon": "https://portable-linux-apps.github.io/icons/ytmdesktop2.png"
-  },
-  {
     "packageName": "ytmdesktop",
     "description": "A Desktop App for YouTube Music...",
     "icon": "https://portable-linux-apps.github.io/icons/ytmdesktop.png"
+  },
+  {
+    "packageName": "ytmdesktop2",
+    "description": "Unofficial Youtube Music Desktop App, with LastFM support...",
+    "icon": "https://portable-linux-apps.github.io/icons/ytmdesktop2.png"
   },
   {
     "packageName": "yts-streaming",
