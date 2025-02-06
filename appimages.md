@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2125** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2126** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2106,6 +2106,7 @@
 | <img loading="lazy" src="icons/xm8.png" width="48" height="48"> | [***xm8***](apps/xm8.md) | *PC-8801 emulator.*..[ *read more* ](apps/xm8.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xm8) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xm8) |
 | <img loading="lazy" src="icons/xmedcon.png" width="48" height="48"> | [***xmedcon***](apps/xmedcon.md) | *An open-source toolkit for medical image conversion.*..[ *read more* ](apps/xmedcon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xmedcon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xmedcon) |
 | <img loading="lazy" src="icons/x-minecraft-launcher.png" width="48" height="48"> | [***x-minecraft-launcher***](apps/x-minecraft-launcher.md) | *An Open Source Minecraft Launcher with Modern UX.*..[ *read more* ](apps/x-minecraft-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/x-minecraft-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/x-minecraft-launcher) |
+| <img loading="lazy" src="icons/xnconvert.png" width="48" height="48"> | [***xnconvert***](apps/xnconvert.md) | *A fast, powerful and free cross-platform batch image converter.*..[ *read more* ](apps/xnconvert.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xnconvert) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xnconvert) |
 | <img loading="lazy" src="icons/xnviewmp.png" width="48" height="48"> | [***xnviewmp***](apps/xnviewmp.md) | *Graphic viewer, browser, converter.*..[ *read more* ](apps/xnviewmp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xnviewmp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xnviewmp) |
 | <img loading="lazy" src="icons/xonsh.png" width="48" height="48"> | [***xonsh***](apps/xonsh.md) | *Python-powered, cross-platform, Unix-gazing shell.*..[ *read more* ](apps/xonsh.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xonsh) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xonsh) |
 | <img loading="lazy" src="icons/xournal++.png" width="48" height="48"> | [***xournal++***](apps/xournal++.md) | *A C++ handwriting notetaking software with PDF annotation support.*..[ *read more* ](apps/xournal++.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xournal++) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xournal++) |

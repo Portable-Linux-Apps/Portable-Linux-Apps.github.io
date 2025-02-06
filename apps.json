@@ -12735,6 +12735,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/x-minecraft-launcher.png"
   },
   {
+    "packageName": "xnconvert",
+    "description": "A fast, powerful and free cross-platform batch image converter...",
+    "icon": "https://portable-linux-apps.github.io/icons/xnconvert.png"
+  },
+  {
     "packageName": "xnviewmp",
     "description": "Graphic viewer, browser, converter...",
     "icon": "https://portable-linux-apps.github.io/icons/xnviewmp.png"
