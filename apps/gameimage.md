@@ -13,9 +13,7 @@
  - Usability, get your game running with a double click on a fresh linux  install, no dependencies required.
  - Storage, Smaller file sizes than loose files, since appimage uses squashfs.
  
- SITE: https://gitlab.com/formigoni/gameimage
-
- VIDEO-TUTORIAL: https://gitlab.com/formigoni/gameimage/-/raw/master/doc/not-aidan-tutorial.mp4
+ SITE: https://github.com/ruanformigoni/gameimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
