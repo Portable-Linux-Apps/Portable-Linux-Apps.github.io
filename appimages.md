@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2128** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2127** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1871,7 +1871,6 @@
 | <img loading="lazy" src="icons/thermusqt.png" width="48" height="48"> | [***thermusqt***](apps/thermusqt.md) | *Calculate particle composition of hadronic state.*..[ *read more* ](apps/thermusqt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thermusqt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thermusqt) |
 | <img loading="lazy" src="icons/theweb.png" width="48" height="48"> | [***theweb***](apps/theweb.md) | *Web Browser.*..[ *read more* ](apps/theweb.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/theweb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/theweb) |
 | <img loading="lazy" src="icons/thief.png" width="48" height="48"> | [***thief***](apps/thief.md) | *An innovative cross-platform fishing tool, in chinese.*..[ *read more* ](apps/thief.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thief) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thief) |
-| <img loading="lazy" src="icons/thinktool-desktop.png" width="48" height="48"> | [***thinktool-desktop***](apps/thinktool-desktop.md) | *Desktop application for Thinktool.*..[ *read more* ](apps/thinktool-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thinktool-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thinktool-desktop) |
 | <img loading="lazy" src="icons/thinreports-section-editor.png" width="48" height="48"> | [***thinreports-section-editor***](apps/thinreports-section-editor.md) | *A template editor for Thinreports.*..[ *read more* ](apps/thinreports-section-editor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thinreports-section-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thinreports-section-editor) |
 | <img loading="lazy" src="icons/thlink.png" width="48" height="48"> | [***thlink***](apps/thlink.md) | *Touhou Project Game Netplay Tool.*..[ *read more* ](apps/thlink.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thlink) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thlink) |
 | <img loading="lazy" src="icons/thoptv.png" width="48" height="48"> | [***thoptv***](apps/thoptv.md) | *Enjoy Ultimate Movies, sports Matches, IPL and Latest Shows.*..[ *read more* ](apps/thoptv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thoptv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thoptv) |

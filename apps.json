@@ -11350,11 +11350,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/thief.png"
   },
   {
-    "packageName": "thinktool-desktop",
-    "description": "Desktop application for Thinktool...",
-    "icon": "https://portable-linux-apps.github.io/icons/thinktool-desktop.png"
-  },
-  {
     "packageName": "thinreports-section-editor",
     "description": "A template editor for Thinreports...",
     "icon": "https://portable-linux-apps.github.io/icons/thinreports-section-editor.png"
