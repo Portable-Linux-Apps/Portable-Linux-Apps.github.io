@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2540** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2541** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -879,6 +879,7 @@
 | <img loading="lazy" src="icons/gitnote.png" width="48" height="48"> | [***gitnote***](apps/gitnote.md) | *A modern note taking app based on GIT.*..[ *read more* ](apps/gitnote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gitnote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gitnote) |
 | <img loading="lazy" src="icons/gitqlient.png" width="48" height="48"> | [***gitqlient***](apps/gitqlient.md) | *Multi-platform Git client written with Qt.*..[ *read more* ](apps/gitqlient.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gitqlient) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gitqlient) |
 | <img loading="lazy" src="icons/gitql.png" width="48" height="48"> | [***gitql***](apps/gitql.md) | *A git query language.*..[ *read more* ](apps/gitql.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gitql) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gitql) |
+| <img loading="lazy" src="icons/gittyup.png" width="48" height="48"> | [***gittyup***](apps/gittyup.md) | *GUI Git client designed to help you understand and manage your source code history.*..[ *read more* ](apps/gittyup.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gittyup) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gittyup) |
 | <img loading="lazy" src="icons/gitui.png" width="48" height="48"> | [***gitui***](apps/gitui.md) | *Blazing fast terminal-ui for git written in rust.*..[ *read more* ](apps/gitui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gitui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gitui) |
 | <img loading="lazy" src="icons/glabels.png" width="48" height="48"> | [***glabels***](apps/glabels.md) | *Create labels, business cards and media covers.*..[ *read more* ](apps/glabels.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/glabels) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/glabels) |
 | <img loading="lazy" src="icons/glab.png" width="48" height="48"> | [***glab***](apps/glab.md) | *A GitLab CLI tool bringing GitLab to your command line.*..[ *read more* ](apps/glab.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/glab) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/glab) |
