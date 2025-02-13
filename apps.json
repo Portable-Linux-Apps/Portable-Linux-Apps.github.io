@@ -4335,11 +4335,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/gnome-calculator.png"
   },
   {
-    "packageName": "gnome-system-monitor3",
-    "description": "Unofficial, Version 3.38.0, for all those who hate GNOME4+ UIs...",
-    "icon": "https://portable-linux-apps.github.io/icons/gnome-system-monitor3.png"
-  },
-  {
     "packageName": "gnome-tweaks",
     "description": "Unofficial, Experimental AppImage port of advanced GNOME 3 settings GUI...",
     "icon": "https://portable-linux-apps.github.io/icons/gnome-tweaks.png"
@@ -11123,6 +11118,11 @@
     "packageName": "synthv1",
     "description": "An old school polyphonic synthesizer...",
     "icon": "https://portable-linux-apps.github.io/icons/synthv1.png"
+  },
+  {
+    "packageName": "system-monitor-gtk3",
+    "description": "Unofficial, Version 3.38.0, for all those who hate GNOME4+ UIs...",
+    "icon": "https://portable-linux-apps.github.io/icons/system-monitor-gtk3.png"
   },
   {
     "packageName": "sysz",
