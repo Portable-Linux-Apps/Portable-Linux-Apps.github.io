@@ -10240,6 +10240,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/simple-s3-uploader.png"
   },
   {
+    "packageName": "simple-scan-gtk3",
+    "description": "Unofficial. A simple document scanner, version 3.38.1, for all GNOME4+ haters...",
+    "icon": "https://portable-linux-apps.github.io/icons/simple-scan-gtk3.png"
+  },
+  {
     "packageName": "simplescreenrecorder",
     "description": "Unofficial. Feature-rich screen recorder supporting X11 & OpenGL...",
     "icon": "https://portable-linux-apps.github.io/icons/simplescreenrecorder.png"
