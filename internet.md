@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **167** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **166** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -72,7 +72,6 @@
 | <img loading="lazy" src="icons/electron-wechat.png" width="48" height="48"> | [***electron-wechat***](apps/electron-wechat.md) | *Wechat desktop application.*..[ *read more* ](apps/electron-wechat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electron-wechat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electron-wechat) |
 | <img loading="lazy" src="icons/elk.png" width="48" height="48"> | [***elk***](apps/elk.md) | *Native version of Elk, a nimble Mastodon web.*..[ *read more* ](apps/elk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elk) |
 | <img loading="lazy" src="icons/elzabrowser.png" width="48" height="48"> | [***elzabrowser***](apps/elzabrowser.md) | *Elza incognito web browser.*..[ *read more* ](apps/elzabrowser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elzabrowser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elzabrowser) |
-| <img loading="lazy" src="icons/fchat-rising.png" width="48" height="48"> | [***fchat-rising***](apps/fchat-rising.md) | *A customized version of mainline F-Chat 3.0 client.*..[ *read more* ](apps/fchat-rising.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fchat-rising) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fchat-rising) |
 | <img loading="lazy" src="icons/fchat.png" width="48" height="48"> | [***fchat***](apps/fchat.md) | *The F-Chat 3.0 client.*..[ *read more* ](apps/fchat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fchat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fchat) |
 | <img loading="lazy" src="icons/ff-password-exporter.png" width="48" height="48"> | [***ff-password-exporter***](apps/ff-password-exporter.md) | *Export your saved passwords from Firefox.*..[ *read more* ](apps/ff-password-exporter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ff-password-exporter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ff-password-exporter) |
 | <img loading="lazy" src="icons/ffsend.png" width="48" height="48"> | [***ffsend***](apps/ffsend.md) | *Easily and securely share files from the command line. A fully featured Firefox Send client.*..[ *read more* ](apps/ffsend.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffsend) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffsend) |

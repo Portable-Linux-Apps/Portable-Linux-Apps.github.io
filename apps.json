@@ -3355,11 +3355,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/fat-wallet.png"
   },
   {
-    "packageName": "fchat-rising",
-    "description": "A customized version of mainline F-Chat 3.0 client...",
-    "icon": "https://portable-linux-apps.github.io/icons/fchat-rising.png"
-  },
-  {
     "packageName": "fchat",
     "description": "The F-Chat 3.0 client...",
     "icon": "https://portable-linux-apps.github.io/icons/fchat.png"
