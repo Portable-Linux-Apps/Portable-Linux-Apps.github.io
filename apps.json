@@ -7985,6 +7985,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/orange.png"
   },
   {
+    "packageName": "oras",
+    "description": "OCI registry client managing content like artifacts, images, packages...",
+    "icon": "https://portable-linux-apps.github.io/icons/oras.png"
+  },
+  {
     "packageName": "orcaslicer-any",
     "description": "G-code generator for 3D printers, the most recent release...",
     "icon": "https://portable-linux-apps.github.io/icons/orcaslicer-any.png"
