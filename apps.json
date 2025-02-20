@@ -10441,7 +10441,7 @@
   },
   {
     "packageName": "soar",
-    "description": "A fast modern package manager for static binaries, portable apps & more...",
+    "description": "A fast, modern package manager for Static Binaries, Portable Formats, AppImage, AppBundle, FlatImage, Runimage & More...",
     "icon": "https://portable-linux-apps.github.io/icons/soar.png"
   },
   {
