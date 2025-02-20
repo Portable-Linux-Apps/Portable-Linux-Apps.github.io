@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2124** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2123** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -574,7 +574,6 @@
 | <img loading="lazy" src="icons/exeqt.png" width="48" height="48"> | [***exeqt***](apps/exeqt.md) | *Cross platform tray manager.*..[ *read more* ](apps/exeqt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/exeqt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/exeqt) |
 | <img loading="lazy" src="icons/exifcleaner.png" width="48" height="48"> | [***exifcleaner***](apps/exifcleaner.md) | *Clean exif metadata from images, videos, and PDFs.*..[ *read more* ](apps/exifcleaner.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/exifcleaner) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/exifcleaner) |
 | <img loading="lazy" src="icons/eximchain-wallet.png" width="48" height="48"> | [***eximchain-wallet***](apps/eximchain-wallet.md) | *Eximchain Wallet web and electron app.*..[ *read more* ](apps/eximchain-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eximchain-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eximchain-wallet) |
-| <img loading="lazy" src="icons/exocortex.png" width="48" height="48"> | [***exocortex***](apps/exocortex.md) | *An encrypted note taking and personal knowledge management app for those who value privacy and security.*..[ *read more* ](apps/exocortex.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/exocortex) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/exocortex) |
 | <img loading="lazy" src="icons/explorook.png" width="48" height="48"> | [***explorook***](apps/explorook.md) | *Rookout’s site addon to support local files and folders.*..[ *read more* ](apps/explorook.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/explorook) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/explorook) |
 | <img loading="lazy" src="icons/exportoo.png" width="48" height="48"> | [***exportoo***](apps/exportoo.md) | *Read and search your exports.*..[ *read more* ](apps/exportoo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/exportoo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/exportoo) |
 | <img loading="lazy" src="icons/exsplode.re.png" width="48" height="48"> | [***exsplode.re***](apps/exsplode.re.md) | *A Bomberman game made with Godot under BSD3.*..[ *read more* ](apps/exsplode.re.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/exsplode.re) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/exsplode.re) |

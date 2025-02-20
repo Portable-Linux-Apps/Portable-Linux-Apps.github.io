@@ -3235,11 +3235,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/eximchain-wallet.png"
   },
   {
-    "packageName": "exocortex",
-    "description": "An encrypted note taking and personal knowledge management app for those who value privacy and security...",
-    "icon": "https://portable-linux-apps.github.io/icons/exocortex.png"
-  },
-  {
     "packageName": "exodus",
     "description": "Send, receive & exchange cryptocurrency. Bitcoin wallet...",
     "icon": "https://portable-linux-apps.github.io/icons/exodus.png"
