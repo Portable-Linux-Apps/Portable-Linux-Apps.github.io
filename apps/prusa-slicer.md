@@ -4,7 +4,7 @@
  
  SITE: https://www.prusa3d.com 
  
- SOURCE: https://github.com/prusa3d/PrusaSlicer
+ SOURCE: https://github.com/probonopd/PrusaSlicer
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
