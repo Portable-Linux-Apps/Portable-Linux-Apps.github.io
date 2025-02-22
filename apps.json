@@ -7600,11 +7600,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/numara.png"
   },
   {
-    "packageName": "nuranotes",
-    "description": "NuraNote is your all-in-one solution for effortless note-taking and organization...",
-    "icon": "https://portable-linux-apps.github.io/icons/nuranotes.png"
-  },
-  {
     "packageName": "nuxeo-drive",
     "description": "Desktop synchronization client for the Nuxeo platform...",
     "icon": "https://portable-linux-apps.github.io/icons/nuxeo-drive.png"
@@ -8043,11 +8038,6 @@
     "packageName": "outline-client",
     "description": "Lean on the Cordova and Electron frameworks...",
     "icon": "https://portable-linux-apps.github.io/icons/outline-client.png"
-  },
-  {
-    "packageName": "outline-client-wayland",
-    "description": "Lean on the Cordova and Electron frameworks...",
-    "icon": "https://portable-linux-apps.github.io/icons/outline-client-wayland.png"
   },
   {
     "packageName": "outline-manager",
