@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2121** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2122** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -448,6 +448,7 @@
 | <img loading="lazy" src="icons/devdocs-desktop.png" width="48" height="48"> | [***devdocs-desktop***](apps/devdocs-desktop.md) | *Desktop client for devdocs.io.*..[ *read more* ](apps/devdocs-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/devdocs-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/devdocs-desktop) |
 | <img loading="lazy" src="icons/devhub.png" width="48" height="48"> | [***devhub***](apps/devhub.md) | *TweetDeck for GitHub*..[ *read more* ](apps/devhub.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/devhub) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/devhub) |
 | <img loading="lazy" src="icons/devilutionx.png" width="48" height="48"> | [***devilutionx***](apps/devilutionx.md) | *Diablo build for modern operating systems.*..[ *read more* ](apps/devilutionx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/devilutionx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/devilutionx) |
+| <img loading="lazy" src="icons/devpod.png" width="48" height="48"> | [***devpod***](apps/devpod.md) | *Codespaces but open-source, client-only and unopinionated. Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.*..[ *read more* ](apps/devpod.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/devpod) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/devpod) |
 | <img loading="lazy" src="icons/devsidecar.png" width="48" height="48"> | [***devsidecar***](apps/devsidecar.md) | *Dev sidecar/github/git/stackoverflow acceleration, in chinese.*..[ *read more* ](apps/devsidecar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/devsidecar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/devsidecar) |
 | <img loading="lazy" src="icons/devtools-x.png" width="48" height="48"> | [***devtools-x***](apps/devtools-x.md) | *Collection of offline first developer utilities available as desktop application.*..[ *read more* ](apps/devtools-x.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/devtools-x) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/devtools-x) |
 | <img loading="lazy" src="icons/dexter-dev-env.png" width="48" height="48"> | [***dexter-dev-env***](apps/dexter-dev-env.md) | *Dexter Development Environment.*..[ *read more* ](apps/dexter-dev-env.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dexter-dev-env) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dexter-dev-env) |

@@ -2515,6 +2515,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/devilutionx.png"
   },
   {
+    "packageName": "devpod",
+    "description": "Codespaces but open-source, client-only and unopinionated. Works with any IDE and lets you use any cloud, kubernetes or just localhost docker...",
+    "icon": "https://portable-linux-apps.github.io/icons/devpod.png"
+  },
+  {
     "packageName": "devsidecar",
     "description": "Dev sidecar/github/git/stackoverflow acceleration, in chinese...",
     "icon": "https://portable-linux-apps.github.io/icons/devsidecar.png"
@@ -3543,6 +3548,11 @@
     "packageName": "file-to-c",
     "description": "Tool for generating a C header from a spir-v binary file...",
     "icon": "https://portable-linux-apps.github.io/icons/file-to-c.png"
+  },
+  {
+    "packageName": "filezilla",
+    "description": "The free FTP solution with support for FTP over TLS and SFTP...",
+    "icon": "https://portable-linux-apps.github.io/icons/filezilla.png"
   },
   {
     "packageName": "filmulator-gui",
