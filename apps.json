@@ -4310,11 +4310,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/gmail-desktop.png"
   },
   {
-    "packageName": "gmappimager",
-    "description": "Graphically Converts GameMaker Studio 2 Linux Games to AppImage...",
-    "icon": "https://portable-linux-apps.github.io/icons/gmappimager.png"
-  },
-  {
     "packageName": "gm-companion",
     "description": "A tool for rpg gamemasters...",
     "icon": "https://portable-linux-apps.github.io/icons/gm-companion.png"
@@ -5528,6 +5523,11 @@
     "packageName": "kdebugsettings",
     "description": "Unofficial, Edits displayed QLoggingCategory. This script installs the full \"kdeutils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/kdebugsettings.png"
+  },
+  {
+    "packageName": "kdeconnect",
+    "description": "Unofficial, A project that enables all your Android devices to communicate with each other...",
+    "icon": "https://portable-linux-apps.github.io/icons/kdeconnect.png"
   },
   {
     "packageName": "kdegames",

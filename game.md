@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **232** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **231** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -108,7 +108,6 @@
 | <img loading="lazy" src="icons/gdevelop.png" width="48" height="48"> | [***gdevelop***](apps/gdevelop.md) | *Cross-platform game engine designed to be used by everyone.*..[ *read more* ](apps/gdevelop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gdevelop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gdevelop) |
 | <img loading="lazy" src="icons/gdlauncher.png" width="48" height="48"> | [***gdlauncher***](apps/gdlauncher.md) | *Simple, yet powerful Minecraft custom launcher.*..[ *read more* ](apps/gdlauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gdlauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gdlauncher) |
 | <img loading="lazy" src="icons/geforcenow-electron.png" width="48" height="48"> | [***geforcenow-electron***](apps/geforcenow-electron.md) | *Desktop client for Nvidia GeForce NOW game streaming.*..[ *read more* ](apps/geforcenow-electron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/geforcenow-electron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/geforcenow-electron) |
-| <img loading="lazy" src="icons/gmappimager.png" width="48" height="48"> | [***gmappimager***](apps/gmappimager.md) | *Graphically Converts GameMaker Studio 2 Linux Games to AppImage.*..[ *read more* ](apps/gmappimager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gmappimager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gmappimager) |
 | <img loading="lazy" src="icons/gm-companion.png" width="48" height="48"> | [***gm-companion***](apps/gm-companion.md) | *A tool for rpg gamemasters.*..[ *read more* ](apps/gm-companion.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gm-companion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gm-companion) |
 | <img loading="lazy" src="icons/godot.png" width="48" height="48"> | [***godot***](apps/godot.md) | *Multi-platform 2D and 3D game engine with a feature-rich editor.*..[ *read more* ](apps/godot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/godot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/godot) |
 | <img loading="lazy" src="icons/granatier.png" width="48" height="48"> | [***granatier***](apps/granatier.md) | *Bomberman clone. This script installs the full "kdegames" suite.*..[ *read more* ](apps/granatier.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/granatier) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/granatier) |

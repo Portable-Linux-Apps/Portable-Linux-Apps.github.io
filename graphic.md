@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **119** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **118** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -77,7 +77,6 @@
 | <img loading="lazy" src="icons/gimp-hybrid.png" width="48" height="48"> | [***gimp-hybrid***](apps/gimp-hybrid.md) | *Unofficial, GIMP including third-party plugins and python2 support.*..[ *read more* ](apps/gimp-hybrid.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gimp-hybrid) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gimp-hybrid) |
 | <img loading="lazy" src="icons/gimp.png" width="48" height="48"> | [***gimp***](apps/gimp.md) | *Unofficial, GNU Image Manipulation Program, cross-platform image and photo editor.*..[ *read more* ](apps/gimp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gimp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gimp) |
 | <img loading="lazy" src="icons/glaxnimate.png" width="48" height="48"> | [***glaxnimate***](apps/glaxnimate.md) | *A simple and fast vector graphics animation program.*..[ *read more* ](apps/glaxnimate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/glaxnimate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/glaxnimate) |
-| <img loading="lazy" src="icons/gmappimager.png" width="48" height="48"> | [***gmappimager***](apps/gmappimager.md) | *Graphically Converts GameMaker Studio 2 Linux Games to AppImage.*..[ *read more* ](apps/gmappimager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gmappimager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gmappimager) |
 | <img loading="lazy" src="icons/go-pd.png" width="48" height="48"> | [***go-pd***](apps/go-pd.md) | *A free easy to use pixeldrain.com go client pkg and CLI upload tool.*..[ *read more* ](apps/go-pd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/go-pd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/go-pd) |
 | <img loading="lazy" src="icons/go-pd-gui.png" width="48" height="48"> | [***go-pd-gui***](apps/go-pd-gui.md) | *DRAINY is a free easy to use cross plattform upload tool for pixeldrain.com.*..[ *read more* ](apps/go-pd-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/go-pd-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/go-pd-gui) |
 | <img loading="lazy" src="icons/goverlay.png" width="48" height="48"> | [***goverlay***](apps/goverlay.md) | *An opensource project that aims to create a Graphical UI to help manage Linux overlays.*..[ *read more* ](apps/goverlay.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/goverlay) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/goverlay) |
