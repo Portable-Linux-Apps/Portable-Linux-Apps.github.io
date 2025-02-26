@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2122** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2123** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1568,6 +1568,7 @@
 | <img loading="lazy" src="icons/rendertune.png" width="48" height="48"> | [***rendertune***](apps/rendertune.md) | *Electron app that uses ffmpeg to combine audio.+image files into video files.*..[ *read more* ](apps/rendertune.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rendertune) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rendertune) |
 | <img loading="lazy" src="icons/reor.png" width="48" height="48"> | [***reor***](apps/reor.md) | *AI note-taking app that runs models locally.*..[ *read more* ](apps/reor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/reor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/reor) |
 | <img loading="lazy" src="icons/repath-studio.png" width="48" height="48"> | [***repath-studio***](apps/repath-studio.md) | *A cross-platform vector graphics editor.*..[ *read more* ](apps/repath-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/repath-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/repath-studio) |
+| <img loading="lazy" src="icons/reqable.png" width="48" height="48"> | [***reqable***](apps/reqable.md) | *Advanced API Debugging Proxy and REST Client.*..[ *read more* ](apps/reqable.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/reqable) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/reqable) |
 | <img loading="lazy" src="icons/responsively.png" width="48" height="48"> | [***responsively***](apps/responsively.md) | *A browser for developing responsive web apps.*..[ *read more* ](apps/responsively.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/responsively) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/responsively) |
 | <img loading="lazy" src="icons/retroarch.png" width="48" height="48"> | [***retroarch***](apps/retroarch.md) | *Frontend for emulators, game engines and media players.*..[ *read more* ](apps/retroarch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retroarch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retroarch) |
 | <img loading="lazy" src="icons/retrom.png" width="48" height="48"> | [***retrom***](apps/retrom.md) | *A centralized game library/collection management service with a focus on emulation.*..[ *read more* ](apps/retrom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retrom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retrom) |
