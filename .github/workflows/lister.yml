@@ -1,0 +1,41 @@
+name: "Update Lists"
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  sync-files:
+    name: "Run sync"
+    runs-on: ubuntu-22.04
+    steps:
+      - name: "Checkout source repository"
+        uses: actions/checkout@v4
+
+      - name: "Run lister"
+        run: |
+          wget -q https://raw.githubusercontent.com/ivan-hc/AM/main/tools/am2pla-site && chmod a+x ./am2pla-site || exit 1
+          ./am2pla-site
+          rm -f ./am2pla-site
+          mv "$(xdg-user-dir DESKTOP)"/*.md ./
+
+      - name: "Push to Source"
+        run: |
+          git config --global user.name "Portable-Linux-Apps"
+          git config --global user.email "noreply@github.com"
+          git add *.md
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit." >> $GITHUB_STEP_SUMMARY
+          else
+            git commit -m "Sync files from source repository"
+            git push && echo "Sync to Source succeeded" >> $GITHUB_STEP_SUMMARY
+          fi
