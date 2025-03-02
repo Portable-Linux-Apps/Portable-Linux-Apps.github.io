@@ -4,7 +4,7 @@
  
  SITE: https://mauikit.org
  
- SOURCE: https://github.com/Nitrux/maui-appimages-storage
+ SOURCE: https://invent.kde.org/maui/
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
