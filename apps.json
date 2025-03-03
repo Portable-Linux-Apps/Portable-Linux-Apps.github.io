@@ -2725,6 +2725,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/droppoint.png"
   },
   {
+    "packageName": "dsda-doom",
+    "description": "This is a successor of prboom+ with extra tooling for demo recording and playback, with a focus on speedrunning and quality of life...",
+    "icon": "https://portable-linux-apps.github.io/icons/dsda-doom.png"
+  },
+  {
     "packageName": "dstask",
     "description": "Git powered terminal-based todo/note manager,  markdown note page per task...",
     "icon": "https://portable-linux-apps.github.io/icons/dstask.png"
@@ -5098,6 +5103,11 @@
     "packageName": "instead",
     "description": "Simple Text Adventures Interpreter...",
     "icon": "https://portable-linux-apps.github.io/icons/instead.png"
+  },
+  {
+    "packageName": "international-doom",
+    "description": "Small, functional and simple source ports, created with help, efforts and bits of code from people around the world...",
+    "icon": "https://portable-linux-apps.github.io/icons/international-doom.png"
   },
   {
     "packageName": "internxt-drive",
@@ -12578,6 +12588,11 @@
     "packageName": "woocommerce-pos",
     "description": "Electron Desktop App for WooCommerce POS..",
     "icon": "https://portable-linux-apps.github.io/icons/woocommerce-pos.png"
+  },
+  {
+    "packageName": "woof-doom",
+    "description": "Woof! is a continuation of the Boom/MBF bloodline of Doom source ports...",
+    "icon": "https://portable-linux-apps.github.io/icons/woof-doom.png"
   },
   {
     "packageName": "wootility",
