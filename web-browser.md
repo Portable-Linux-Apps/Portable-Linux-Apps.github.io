@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **72** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **73** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -50,6 +50,7 @@
 | <img loading="lazy" src="icons/deskreen.png" width="48" height="48"> | [***deskreen***](apps/deskreen.md) | *Turns any device with a web browser into a secondary screen.*..[ *read more* ](apps/deskreen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deskreen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deskreen) |
 | <img loading="lazy" src="icons/dezor.png" width="48" height="48"> | [***dezor***](apps/dezor.md) | *The web browser including VPN and Adblocker.*..[ *read more* ](apps/dezor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dezor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dezor) |
 | <img loading="lazy" src="icons/elzabrowser.png" width="48" height="48"> | [***elzabrowser***](apps/elzabrowser.md) | *Elza incognito web browser.*..[ *read more* ](apps/elzabrowser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elzabrowser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elzabrowser) |
+| <img loading="lazy" src="icons/falkon.png" width="48" height="48"> | [***falkon***](apps/falkon.md) | *Unofficial. A fast Qt web browser from KDE.*..[ *read more* ](apps/falkon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/falkon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/falkon) |
 | <img loading="lazy" src="icons/fiery-maui.png" width="48" height="48"> | [***fiery-maui***](apps/fiery-maui.md) | *Web browser with integrated ad-blocker and split views.*..[ *read more* ](apps/fiery-maui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fiery-maui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fiery-maui) |
 | <img loading="lazy" src="icons/fifo.png" width="48" height="48"> | [***fifo***](apps/fifo.md) | *A modern web browser, built on top of modern web technologies.*..[ *read more* ](apps/fifo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fifo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fifo) |
 | <img loading="lazy" src="icons/firedragon.png" width="48" height="48"> | [***firedragon***](apps/firedragon.md) | *A web browser based on Floorp (the Vivaldi of Firefox's) with many opiniated settings by default.*..[ *read more* ](apps/firedragon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firedragon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firedragon) |

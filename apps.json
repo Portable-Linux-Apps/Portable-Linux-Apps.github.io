@@ -10,6 +10,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/0ad.png"
   },
   {
+    "packageName": "2ship",
+    "description": "2 Ship 2 Harkinian game...",
+    "icon": "https://portable-linux-apps.github.io/icons/2ship.png"
+  },
+  {
     "packageName": "3d-puzzles",
     "description": "3D-Puzzles are Rubik, Dogic and Dogic12...",
     "icon": "https://portable-linux-apps.github.io/icons/3d-puzzles.png"
@@ -3315,6 +3320,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/fakedata.png"
   },
   {
+    "packageName": "falkon",
+    "description": "Unofficial. A fast Qt web browser from KDE...",
+    "icon": "https://portable-linux-apps.github.io/icons/falkon.png"
+  },
+  {
     "packageName": "fantascene-dynamic-wallpaper",
     "description": "Dynamic wallpaper software for Linux...",
     "icon": "https://portable-linux-apps.github.io/icons/fantascene-dynamic-wallpaper.png"
@@ -3738,6 +3748,11 @@
     "packageName": "flycast",
     "description": "A Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/flycast.png"
+  },
+  {
+    "packageName": "flycast-dojo",
+    "description": "Flycast fork, multiplatform Sega Dreamcast, Naomi and Atomiswave emulator for netplay, training & online tournament gameplay...",
+    "icon": "https://portable-linux-apps.github.io/icons/flycast-dojo.png"
   },
   {
     "packageName": "flyctl",
