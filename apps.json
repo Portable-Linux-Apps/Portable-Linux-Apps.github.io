@@ -4161,8 +4161,13 @@
   },
   {
     "packageName": "ghostty",
-    "description": "Unofficial AppImage(s) of Ghostty terminal emulator...",
+    "description": "Unofficial, 👻 ⚙️ AppImage for Ghostty Terminal Emulator (Stable)..",
     "icon": "https://portable-linux-apps.github.io/icons/ghostty.png"
+  },
+  {
+    "packageName": "ghostty-nightly",
+    "description": "Unoffical, 👻 ⚙️ AppImage for Ghostty Terminal Emulator (Tip, Nightly)..",
+    "icon": "https://portable-linux-apps.github.io/icons/ghostty-nightly.png"
   },
   {
     "packageName": "ghrel",
