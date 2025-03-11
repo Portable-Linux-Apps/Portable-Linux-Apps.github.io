@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2129** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2128** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -465,7 +465,6 @@
 | <img loading="lazy" src="icons/discord-qt.png" width="48" height="48"> | [***discord-qt***](apps/discord-qt.md) | *Unofficial. Discord client powered by Node.JS and Qt Widgets.*..[ *read more* ](apps/discord-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/discord-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/discord-qt) |
 | <img loading="lazy" src="icons/discord.png" width="48" height="48"> | [***discord***](apps/discord.md) | *Unofficial. All-in-one voice and text chat for gamers.*..[ *read more* ](apps/discord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/discord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/discord) |
 | <img loading="lazy" src="icons/dockstation.png" width="48" height="48"> | [***dockstation***](apps/dockstation.md) | *Developing with Docker has never been so easy and convenient.*..[ *read more* ](apps/dockstation.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dockstation) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dockstation) |
-| <img loading="lazy" src="icons/dokidokimodmanager.png" width="48" height="48"> | [***dokidokimodmanager***](apps/dokidokimodmanager.md) | *Mod Manager for Doki Doki Literature Club!*..[ *read more* ](apps/dokidokimodmanager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dokidokimodmanager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dokidokimodmanager) |
 | <img loading="lazy" src="icons/dolphin-emu.png" width="48" height="48"> | [***dolphin-emu***](apps/dolphin-emu.md) | *Unofficial, GameCube/Nintento Wii emulator with improvements.*..[ *read more* ](apps/dolphin-emu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dolphin-emu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dolphin-emu) |
 | <img loading="lazy" src="icons/domterm.png" width="48" height="48"> | [***domterm***](apps/domterm.md) | *DOM/JavaScript-based terminal-emulator/console.*..[ *read more* ](apps/domterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/domterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/domterm) |
 | <img loading="lazy" src="icons/dopamine-preview.png" width="48" height="48"> | [***dopamine-preview***](apps/dopamine-preview.md) | *The audio player that keeps it simple.*..[ *read more* ](apps/dopamine-preview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dopamine-preview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dopamine-preview) |

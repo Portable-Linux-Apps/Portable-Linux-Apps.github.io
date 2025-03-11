@@ -2625,11 +2625,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/doggo.png"
   },
   {
-    "packageName": "dokidokimodmanager",
-    "description": "Mod Manager for Doki Doki Literature Club!..",
-    "icon": "https://portable-linux-apps.github.io/icons/dokidokimodmanager.png"
-  },
-  {
     "packageName": "dolphin-emu",
     "description": "Unofficial, GameCube/Nintento Wii emulator with improvements...",
     "icon": "https://portable-linux-apps.github.io/icons/dolphin-emu.png"
