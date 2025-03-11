@@ -5615,11 +5615,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/keepassxc.png"
   },
   {
-    "packageName": "keep",
-    "description": "Desktop app for Google Keep...",
-    "icon": "https://portable-linux-apps.github.io/icons/keep.png"
-  },
-  {
     "packageName": "keeweb",
     "description": "Free cross-platform password manager compatible with KeePass...",
     "icon": "https://portable-linux-apps.github.io/icons/keeweb.png"
