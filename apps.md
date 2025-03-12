@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2546** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2547** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -482,6 +482,7 @@
 | <img loading="lazy" src="icons/ctool.png" width="48" height="48"> | [***ctool***](apps/ctool.md) | *Common Tools for Program Development.*..[ *read more* ](apps/ctool.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ctool) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ctool) |
 | <img loading="lazy" src="icons/ctop.png" width="48" height="48"> | [***ctop***](apps/ctop.md) | *Top-like interface for container metrics.*..[ *read more* ](apps/ctop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ctop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ctop) |
 | <img loading="lazy" src="icons/cubicsdr.png" width="48" height="48"> | [***cubicsdr***](apps/cubicsdr.md) | *Software-Defined Radio Application.*..[ *read more* ](apps/cubicsdr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cubicsdr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cubicsdr) |
+| <img loading="lazy" src="icons/cudatext.png" width="48" height="48"> | [***cudatext***](apps/cudatext.md) | *A cross-platform text editor, written in Object Pascal.*..[ *read more* ](apps/cudatext.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cudatext) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cudatext) |
 | <img loading="lazy" src="icons/cura-beta.png" width="48" height="48"> | [***cura-beta***](apps/cura-beta.md) | *An open source slicing application for 3D printers, beta.*..[ *read more* ](apps/cura-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cura-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cura-beta) |
 | <img loading="lazy" src="icons/cura.png" width="48" height="48"> | [***cura***](apps/cura.md) | *An open source slicing application for 3D printers.*..[ *read more* ](apps/cura.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cura) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cura) |
 | <img loading="lazy" src="icons/curlie.png" width="48" height="48"> | [***curlie***](apps/curlie.md) | *The power of curl, the ease of use of httpie.*..[ *read more* ](apps/curlie.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/curlie) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/curlie) |
