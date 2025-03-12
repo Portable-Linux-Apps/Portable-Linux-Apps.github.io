@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **85** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **84** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -51,7 +51,6 @@
 | <img loading="lazy" src="icons/chatterino2-nightly.png" width="48" height="48"> | [***chatterino2-nightly***](apps/chatterino2-nightly.md) | *Second installment of the Twitch chat client.*..[ *read more* ](apps/chatterino2-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatterino2-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatterino2-nightly) |
 | <img loading="lazy" src="icons/chatterino2.png" width="48" height="48"> | [***chatterino2***](apps/chatterino2.md) | *Second installment of the Twitch chat client.*..[ *read more* ](apps/chatterino2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatterino2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatterino2) |
 | <img loading="lazy" src="icons/circle-z.png" width="48" height="48"> | [***circle-z***](apps/circle-z.md) | *A chat client for online math courses.*..[ *read more* ](apps/circle-z.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/circle-z) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/circle-z) |
-| <img loading="lazy" src="icons/cursor.png" width="48" height="48"> | [***cursor***](apps/cursor.md) | *Write, edit, and chat about your code with GPT-4.*..[ *read more* ](apps/cursor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cursor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cursor) |
 | <img loading="lazy" src="icons/datcord.png" width="48" height="48"> | [***datcord***](apps/datcord.md) | *Discord client.*..[ *read more* ](apps/datcord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/datcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/datcord) |
 | <img loading="lazy" src="icons/deltachat-desktop.png" width="48" height="48"> | [***deltachat-desktop***](apps/deltachat-desktop.md) | *Desktop Application for delta.chat.*..[ *read more* ](apps/deltachat-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deltachat-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deltachat-desktop) |
 | <img loading="lazy" src="icons/discord-qt.png" width="48" height="48"> | [***discord-qt***](apps/discord-qt.md) | *Unofficial. Discord client powered by Node.JS and Qt Widgets.*..[ *read more* ](apps/discord-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/discord-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/discord-qt) |
