@@ -1,10 +1,8 @@
 # CURSOR
 
- Write, edit, and chat about your code with GPT-4.
- 
- This is the AppImage version.
+ Built to make you extraordinarily productive, Cursor is the best way to code with AI.
 
- SITE: https://cursor.so
+ SITE: https://www.cursor.com
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
