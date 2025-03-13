@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2128** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2127** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -501,7 +501,6 @@
 | <img loading="lazy" src="icons/ehdev-shell.png" width="48" height="48"> | [***ehdev-shell***](apps/ehdev-shell.md) | *An electron based developing tool for feds.*..[ *read more* ](apps/ehdev-shell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ehdev-shell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ehdev-shell) |
 | <img loading="lazy" src="icons/eka2l1.png" width="48" height="48"> | [***eka2l1***](apps/eka2l1.md) | *A Symbian OS/N-Gage emulator*..[ *read more* ](apps/eka2l1.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eka2l1) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eka2l1) |
 | <img loading="lazy" src="icons/eksplode.re.png" width="48" height="48"> | [***eksplode.re***](apps/eksplode.re.md) | *Bomberman game made with Godot under BSD3.*..[ *read more* ](apps/eksplode.re.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eksplode.re) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eksplode.re) |
-| <img loading="lazy" src="icons/elapp.png" width="48" height="48"> | [***elapp***](apps/elapp.md) | *Elapp let's you send files to mobile and desktop devices near you.*..[ *read more* ](apps/elapp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elapp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elapp) |
 | <img loading="lazy" src="icons/elcalc.png" width="48" height="48"> | [***elcalc***](apps/elcalc.md) | *Cross-Platform calculator built with Electron.*..[ *read more* ](apps/elcalc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elcalc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elcalc) |
 | <img loading="lazy" src="icons/eldumper.png" width="48" height="48"> | [***eldumper***](apps/eldumper.md) | *A GB Cartridge Dumper.*..[ *read more* ](apps/eldumper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eldumper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eldumper) |
 | <img loading="lazy" src="icons/electorrent.png" width="48" height="48"> | [***electorrent***](apps/electorrent.md) | *A remote control Torrent client.*..[ *read more* ](apps/electorrent.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electorrent) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electorrent) |

@@ -2870,11 +2870,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/eksplode.re.png"
   },
   {
-    "packageName": "elapp",
-    "description": "Elapp let's you send files to mobile and desktop devices near you...",
-    "icon": "https://portable-linux-apps.github.io/icons/elapp.png"
-  },
-  {
     "packageName": "elcalc",
     "description": "Cross-Platform calculator built with Electron...",
     "icon": "https://portable-linux-apps.github.io/icons/elcalc.png"
