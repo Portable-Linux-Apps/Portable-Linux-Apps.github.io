@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **209** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **208** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -225,7 +225,6 @@
 | <img loading="lazy" src="icons/viddy.png" width="48" height="48"> | [***viddy***](apps/viddy.md) | *A modern watch command line utility. Time machine and pager etc.*..[ *read more* ](apps/viddy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viddy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viddy) |
 | <img loading="lazy" src="icons/vimeo-dl.png" width="48" height="48"> | [***vimeo-dl***](apps/vimeo-dl.md) | *A cli tool to download private videos on vimeo. Written in golang.*..[ *read more* ](apps/vimeo-dl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vimeo-dl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vimeo-dl) |
 | <img loading="lazy" src="icons/viu.png" width="48" height="48"> | [***viu***](apps/viu.md) | *Terminal image viewer with native support for iTerm and Kitty.*..[ *read more* ](apps/viu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viu) |
-| <img loading="lazy" src="icons/vterm.png" width="48" height="48"> | [***vterm***](apps/vterm.md) | *Extensible terminal emulator.*..[ *read more* ](apps/vterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vterm) |
 | <img loading="lazy" src="icons/vt.png" width="48" height="48"> | [***vt***](apps/vt.md) | *VirusTotal Command Line Interface.*..[ *read more* ](apps/vt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vt) |
 | <img loading="lazy" src="icons/walk.png" width="48" height="48"> | [***walk***](apps/walk.md) | *Terminal file manager.*..[ *read more* ](apps/walk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/walk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/walk) |
 | <img loading="lazy" src="icons/warp-terminal.png" width="48" height="48"> | [***warp-terminal***](apps/warp-terminal.md) | *Terminal reimagined with AI and collaborative tools.*..[ *read more* ](apps/warp-terminal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/warp-terminal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/warp-terminal) |

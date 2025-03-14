@@ -1420,11 +1420,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/caesium.png"
   },
   {
-    "packageName": "calculist",
-    "description": "Desktop version of Calculist.io...",
-    "icon": "https://portable-linux-apps.github.io/icons/calculist.png"
-  },
-  {
     "packageName": "calibre",
     "description": "Unofficial. The one stop solution to all your e-book needs..",
     "icon": "https://portable-linux-apps.github.io/icons/calibre.png"
@@ -2258,11 +2253,6 @@
     "packageName": "ctop",
     "description": "Top-like interface for container metrics...",
     "icon": "https://portable-linux-apps.github.io/icons/ctop.png"
-  },
-  {
-    "packageName": "cubicsdr",
-    "description": "Software-Defined Radio Application...",
-    "icon": "https://portable-linux-apps.github.io/icons/cubicsdr.png"
   },
   {
     "packageName": "cudatext",
@@ -3110,11 +3100,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/era.png"
   },
   {
-    "packageName": "erdesigner",
-    "description": "ER Diagram tool available for ALL platforms...",
-    "icon": "https://portable-linux-apps.github.io/icons/erdesigner.png"
-  },
-  {
     "packageName": "erscaffold",
     "description": "A code generator for websites...",
     "icon": "https://portable-linux-apps.github.io/icons/erscaffold.png"
@@ -3333,11 +3318,6 @@
     "packageName": "fastfetch",
     "description": "Like neofetch, but much faster because written mostly in C...",
     "icon": "https://portable-linux-apps.github.io/icons/fastfetch.png"
-  },
-  {
-    "packageName": "fastqt",
-    "description": "Control tool for high throughput genomics sequence data...",
-    "icon": "https://portable-linux-apps.github.io/icons/fastqt.png"
   },
   {
     "packageName": "fasttrack",
@@ -4510,11 +4490,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/gpt-anywhere.png"
   },
   {
-    "packageName": "gptfusion",
-    "description": "GPT Aggregation Ed., in chinese, supports POE, and more...",
-    "icon": "https://portable-linux-apps.github.io/icons/gptfusion.png"
-  },
-  {
     "packageName": "gpupad",
     "description": "A flexible GLSL shader editor and IDE...",
     "icon": "https://portable-linux-apps.github.io/icons/gpupad.png"
@@ -4528,11 +4503,6 @@
     "packageName": "grabscr",
     "description": "Yet another screenshot maker...",
     "icon": "https://portable-linux-apps.github.io/icons/grabscr.png"
-  },
-  {
-    "packageName": "gradestats",
-    "description": "Import xls spredsheets, store/analyze student grade...",
-    "icon": "https://portable-linux-apps.github.io/icons/gradestats.png"
   },
   {
     "packageName": "granatier",
@@ -4995,11 +4965,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/imagemosaicwall.png"
   },
   {
-    "packageName": "imageplay",
-    "description": "A rapid prototyping app for image processing...",
-    "icon": "https://portable-linux-apps.github.io/icons/imageplay.png"
-  },
-  {
     "packageName": "imagine",
     "description": "PNG/JPEG optimization...",
     "icon": "https://portable-linux-apps.github.io/icons/imagine.png"
@@ -5143,11 +5108,6 @@
     "packageName": "ipuissance-4d",
     "description": "Connect Four video game with a 3-Dimentional rendering...",
     "icon": "https://portable-linux-apps.github.io/icons/ipuissance-4d.png"
-  },
-  {
-    "packageName": "iqpuzzle",
-    "description": "A diverting I.Q. challenging pentomino puzzle...",
-    "icon": "https://portable-linux-apps.github.io/icons/iqpuzzle.png"
   },
   {
     "packageName": "irccloud-desktop",
@@ -5378,11 +5338,6 @@
     "packageName": "julius",
     "description": "An open source re-implementation of the Caesar III game...",
     "icon": "https://portable-linux-apps.github.io/icons/julius.png"
-  },
-  {
-    "packageName": "jumpfm",
-    "description": "A file manager that lets you jump...",
-    "icon": "https://portable-linux-apps.github.io/icons/jumpfm.png"
   },
   {
     "packageName": "junest",
@@ -6370,11 +6325,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/lumi.png"
   },
   {
-    "packageName": "luminance-hdr",
-    "description": "Create and tonemap HDR images...",
-    "icon": "https://portable-linux-apps.github.io/icons/luminance-hdr.png"
-  },
-  {
     "packageName": "luna",
     "description": "Manage npm dependencies through a modern UI...",
     "icon": "https://portable-linux-apps.github.io/icons/luna.png"
@@ -6648,11 +6598,6 @@
     "packageName": "mediaelch",
     "description": "Media Manager for Kodi...",
     "icon": "https://portable-linux-apps.github.io/icons/mediaelch.png"
-  },
-  {
-    "packageName": "mediainfo",
-    "description": "Supplies technical & tag information about a video or audio file...",
-    "icon": "https://portable-linux-apps.github.io/icons/mediainfo.png"
   },
   {
     "packageName": "median-xl",
@@ -7520,11 +7465,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/notepadnext.png"
   },
   {
-    "packageName": "notepadqq",
-    "description": "Edit source code files...",
-    "icon": "https://portable-linux-apps.github.io/icons/notepadqq.png"
-  },
-  {
     "packageName": "notepad++",
     "description": "Unofficial Appimage of Notepad++, with WINE prefix...",
     "icon": "https://portable-linux-apps.github.io/icons/notepad++.png"
@@ -8225,11 +8165,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/pathephone.png"
   },
   {
-    "packageName": "patternpaint",
-    "description": "Making beautiful light shows is as easy as drawing a picture...",
-    "icon": "https://portable-linux-apps.github.io/icons/patternpaint.png"
-  },
-  {
     "packageName": "pavo",
     "description": "A mini desktop wallpaper application...",
     "icon": "https://portable-linux-apps.github.io/icons/pavo.png"
@@ -8338,11 +8273,6 @@
     "packageName": "permastead",
     "description": "Desktop software for managing a homestead using permaculture design...",
     "icon": "https://portable-linux-apps.github.io/icons/permastead.png"
-  },
-  {
-    "packageName": "peruse",
-    "description": "A reader application for comic books...",
-    "icon": "https://portable-linux-apps.github.io/icons/peruse.png"
   },
   {
     "packageName": "pet",
@@ -9105,11 +9035,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/qbittorrent-enhanced.png"
   },
   {
-    "packageName": "qctools",
-    "description": "Quality Control Tools for Video Preservation...",
-    "icon": "https://portable-linux-apps.github.io/icons/qctools.png"
-  },
-  {
     "packageName": "qdriverstation",
     "description": "Cross-platform clone of the FRC Driver Station...",
     "icon": "https://portable-linux-apps.github.io/icons/qdriverstation.png"
@@ -9203,11 +9128,6 @@
     "packageName": "qprompt",
     "description": "Personal teleprompter software for all video creators...",
     "icon": "https://portable-linux-apps.github.io/icons/qprompt.png"
-  },
-  {
-    "packageName": "qrab",
-    "description": "Grabs text of QR code from a screen and copies it to clipboard...",
-    "icon": "https://portable-linux-apps.github.io/icons/qrab.png"
   },
   {
     "packageName": "qradiolink",
@@ -9538,16 +9458,6 @@
     "packageName": "redis-viewer",
     "description": "A Redis visualization client tool...",
     "icon": "https://portable-linux-apps.github.io/icons/redis-viewer.png"
-  },
-  {
-    "packageName": "redminetimetracker",
-    "description": "Time Tracking tool for Redmine...",
-    "icon": "https://portable-linux-apps.github.io/icons/redminetimetracker.png"
-  },
-  {
-    "packageName": "reliefvalve",
-    "description": "Helps manage the Steam client application...",
-    "icon": "https://portable-linux-apps.github.io/icons/reliefvalve.png"
   },
   {
     "packageName": "remind-me-again",
@@ -9913,11 +9823,6 @@
     "packageName": "school-sections",
     "description": "This project was generated with Angular CLI v1.7.4...",
     "icon": "https://portable-linux-apps.github.io/icons/school-sections.png"
-  },
-  {
-    "packageName": "sciencefair",
-    "description": "Desktop science reading app for Linux...",
-    "icon": "https://portable-linux-apps.github.io/icons/sciencefair.png"
   },
   {
     "packageName": "scilab",
@@ -10303,11 +10208,6 @@
     "packageName": "skanpage",
     "description": "A simple scanning application. This script installs the full \"kdeutils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/skanpage.png"
-  },
-  {
-    "packageName": "skrifa",
-    "description": "A simple word processor built with web technologies...",
-    "icon": "https://portable-linux-apps.github.io/icons/skrifa.png"
   },
   {
     "packageName": "skyemu",
@@ -11110,11 +11010,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/syncthing-tray.png"
   },
   {
-    "packageName": "synfigstudio",
-    "description": "A free and open-source 2D animation software, graphics...",
-    "icon": "https://portable-linux-apps.github.io/icons/synfigstudio.png"
-  },
-  {
     "packageName": "synthein",
     "description": "A space ship building and combat game...",
     "icon": "https://portable-linux-apps.github.io/icons/synthein.png"
@@ -11705,11 +11600,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/turbowarp.png"
   },
   {
-    "packageName": "turntable",
-    "description": "Simple youtube DJ app made with Electron and Angular4...",
-    "icon": "https://portable-linux-apps.github.io/icons/turntable.png"
-  },
-  {
     "packageName": "tusk",
     "description": "Evernote desktop app...",
     "icon": "https://portable-linux-apps.github.io/icons/tusk.png"
@@ -11985,11 +11875,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/vesktop.png"
   },
   {
-    "packageName": "vessel",
-    "description": "A simple wallet for managing your Steem accounts...",
-    "icon": "https://portable-linux-apps.github.io/icons/vessel.png"
-  },
-  {
     "packageName": "vgmtrans",
     "description": "A tool to convert proprietary, sequenced videogame music...",
     "icon": "https://portable-linux-apps.github.io/icons/vgmtrans.png"
@@ -12068,11 +11953,6 @@
     "packageName": "vimeo-dl",
     "description": "A cli tool to download private videos on vimeo. Written in golang...",
     "icon": "https://portable-linux-apps.github.io/icons/vimeo-dl.png"
-  },
-  {
-    "packageName": "violetbug",
-    "description": "Roku Debugger Graphical Interface...",
-    "icon": "https://portable-linux-apps.github.io/icons/violetbug.png"
   },
   {
     "packageName": "viper-browser",
@@ -12218,11 +12098,6 @@
     "packageName": "vscodium",
     "description": "Community-driven, freely-licensed binary distribution of MS VSCode...",
     "icon": "https://portable-linux-apps.github.io/icons/vscodium.png"
-  },
-  {
-    "packageName": "vterm",
-    "description": "Extensible terminal emulator...",
-    "icon": "https://portable-linux-apps.github.io/icons/vterm.png"
   },
   {
     "packageName": "vtm",
@@ -12423,11 +12298,6 @@
     "packageName": "whirlpool-gui",
     "description": "Desktop GUI for Whirlpool by Samourai-Wallet...",
     "icon": "https://portable-linux-apps.github.io/icons/whirlpool-gui.png"
-  },
-  {
-    "packageName": "whiteboard",
-    "description": "Activity-based slideshow for coding webinars and presentations...",
-    "icon": "https://portable-linux-apps.github.io/icons/whiteboard.png"
   },
   {
     "packageName": "whu-library-seat",

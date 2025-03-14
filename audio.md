@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **141** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **140** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -92,7 +92,6 @@
 | <img loading="lazy" src="icons/mechtype.png" width="48" height="48"> | [***mechtype***](apps/mechtype.md) | *A lightweight app designed to elevate your typing experience by allowing you to enjoy custom soundtracks with every keystroke.*..[ *read more* ](apps/mechtype.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mechtype) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mechtype) |
 | <img loading="lazy" src="icons/mechvibes.png" width="48" height="48"> | [***mechvibes***](apps/mechvibes.md) | *Play mechanical keyboard sounds as you type.*..[ *read more* ](apps/mechvibes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mechvibes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mechvibes) |
 | <img loading="lazy" src="icons/media-downloader.png" width="48" height="48"> | [***media-downloader***](apps/media-downloader.md) | *Cross-platform audio/video downloader.*..[ *read more* ](apps/media-downloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/media-downloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/media-downloader) |
-| <img loading="lazy" src="icons/mediainfo.png" width="48" height="48"> | [***mediainfo***](apps/mediainfo.md) | *Supplies technical & tag information about a video or audio file.*..[ *read more* ](apps/mediainfo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mediainfo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mediainfo) |
 | <img loading="lazy" src="icons/mellowplayer.png" width="48" height="48"> | [***mellowplayer***](apps/mellowplayer.md) | *Cloud music integration for your desktop.*..[ *read more* ](apps/mellowplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mellowplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mellowplayer) |
 | <img loading="lazy" src="icons/melodie.png" width="48" height="48"> | [***melodie***](apps/melodie.md) | *Simple-as-pie music player.*..[ *read more* ](apps/melodie.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/melodie) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/melodie) |
 | <img loading="lazy" src="icons/milkytracker.png" width="48" height="48"> | [***milkytracker***](apps/milkytracker.md) | *An FT2 compatible music tracker.*..[ *read more* ](apps/milkytracker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/milkytracker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/milkytracker) |

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **60** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **59** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -89,7 +89,6 @@
 | <img loading="lazy" src="icons/spark-wallet.png" width="48" height="48"> | [***spark-wallet***](apps/spark-wallet.md) | *A wallet GUI for c-lightning, accessible over web/mobile/pc.*..[ *read more* ](apps/spark-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spark-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spark-wallet) |
 | <img loading="lazy" src="icons/trinity-desktop.png" width="48" height="48"> | [***trinity-desktop***](apps/trinity-desktop.md) | *Desktop wallet for IOTA.*..[ *read more* ](apps/trinity-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trinity-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trinity-desktop) |
 | <img loading="lazy" src="icons/verto.png" width="48" height="48"> | [***verto***](apps/verto.md) | *A multi-currency crypto wallet with support for EOS & VTX.*..[ *read more* ](apps/verto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/verto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/verto) |
-| <img loading="lazy" src="icons/vessel.png" width="48" height="48"> | [***vessel***](apps/vessel.md) | *A simple wallet for managing your Steem accounts.*..[ *read more* ](apps/vessel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vessel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vessel) |
 | <img loading="lazy" src="icons/wallettech.png" width="48" height="48"> | [***wallettech***](apps/wallettech.md) | *BytechCoin GUI Wallet.*..[ *read more* ](apps/wallettech.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wallettech) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wallettech) |
 | <img loading="lazy" src="icons/whirlpool-gui.png" width="48" height="48"> | [***whirlpool-gui***](apps/whirlpool-gui.md) | *Desktop GUI for Whirlpool by Samourai-Wallet.*..[ *read more* ](apps/whirlpool-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whirlpool-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whirlpool-gui) |
 
