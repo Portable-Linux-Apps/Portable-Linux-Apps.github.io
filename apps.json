@@ -1230,11 +1230,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/boxxy.png"
   },
   {
-    "packageName": "brackets",
-    "description": "Brackets-Electron...",
-    "icon": "https://portable-linux-apps.github.io/icons/brackets.png"
-  },
-  {
     "packageName": "brainverse",
     "description": "Electronic Lab Notebook for Reproducible Neuro Imaging Research...",
     "icon": "https://portable-linux-apps.github.io/icons/brainverse.png"
@@ -2465,11 +2460,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/defichain-app.png"
   },
   {
-    "packageName": "delir",
-    "description": "Web Technology driven VFX Application...",
-    "icon": "https://portable-linux-apps.github.io/icons/delir.png"
-  },
-  {
     "packageName": "deltachat-desktop",
     "description": "Desktop Application for delta.chat...",
     "icon": "https://portable-linux-apps.github.io/icons/deltachat-desktop.png"
@@ -2683,11 +2673,6 @@
     "packageName": "dragdrop",
     "description": "Small drag-and-drop file source for the command line...",
     "icon": "https://portable-linux-apps.github.io/icons/dragdrop.png"
-  },
-  {
-    "packageName": "dragoman",
-    "description": "GUI for polyglot...",
-    "icon": "https://portable-linux-apps.github.io/icons/dragoman.png"
   },
   {
     "packageName": "dragula",
@@ -4613,11 +4598,6 @@
     "packageName": "groot",
     "description": "Graphical Editor to create BehaviorTrees...",
     "icon": "https://portable-linux-apps.github.io/icons/groot.png"
-  },
-  {
-    "packageName": "grx",
-    "description": "Fastest Web Gerber Renderer...",
-    "icon": "https://portable-linux-apps.github.io/icons/grx.png"
   },
   {
     "packageName": "gsequencer",
@@ -11933,11 +11913,6 @@
     "packageName": "upscayl",
     "description": "Free and Open Source AI Image Upscaler...",
     "icon": "https://portable-linux-apps.github.io/icons/upscayl.png"
-  },
-  {
-    "packageName": "upterm",
-    "description": "A terminal emulator for the 21st century...",
-    "icon": "https://portable-linux-apps.github.io/icons/upterm.png"
   },
   {
     "packageName": "urbanterror",

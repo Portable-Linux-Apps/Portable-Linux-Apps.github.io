@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **210** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **209** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -221,7 +221,6 @@
 | <img loading="lazy" src="icons/ttyper.png" width="48" height="48"> | [***ttyper***](apps/ttyper.md) | *Terminal-based typing test.*..[ *read more* ](apps/ttyper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ttyper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ttyper) |
 | <img loading="lazy" src="icons/tuxplorer.png" width="48" height="48"> | [***tuxplorer***](apps/tuxplorer.md) | *Tuxplorer is a terminal based file explorer.*..[ *read more* ](apps/tuxplorer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tuxplorer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tuxplorer) |
 | <img loading="lazy" src="icons/typioca.png" width="48" height="48"> | [***typioca***](apps/typioca.md) | *Cozy typing speed tester in terminal.*..[ *read more* ](apps/typioca.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/typioca) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/typioca) |
-| <img loading="lazy" src="icons/upterm.png" width="48" height="48"> | [***upterm***](apps/upterm.md) | *A terminal emulator for the 21st century.*..[ *read more* ](apps/upterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/upterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/upterm) |
 | <img loading="lazy" src="icons/vhs.png" width="48" height="48"> | [***vhs***](apps/vhs.md) | *Your CLI home video recorder.*..[ *read more* ](apps/vhs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vhs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vhs) |
 | <img loading="lazy" src="icons/viddy.png" width="48" height="48"> | [***viddy***](apps/viddy.md) | *A modern watch command line utility. Time machine and pager etc.*..[ *read more* ](apps/viddy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viddy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viddy) |
 | <img loading="lazy" src="icons/vimeo-dl.png" width="48" height="48"> | [***vimeo-dl***](apps/vimeo-dl.md) | *A cli tool to download private videos on vimeo. Written in golang.*..[ *read more* ](apps/vimeo-dl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vimeo-dl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vimeo-dl) |
