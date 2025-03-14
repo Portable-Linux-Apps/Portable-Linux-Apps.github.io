@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2127** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2126** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1944,7 +1944,6 @@
 | <img loading="lazy" src="icons/ums.png" width="48" height="48"> | [***ums***](apps/ums.md) | *Universal Media Server. A DLNA, UPnP and HTTP(S) Media Server.*..[ *read more* ](apps/ums.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ums) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ums) |
 | <img loading="lazy" src="icons/uncov.png" width="48" height="48"> | [***uncov***](apps/uncov.md) | *A tool that collects and processes code coverage reports.*..[ *read more* ](apps/uncov.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uncov) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uncov) |
 | <img loading="lazy" src="icons/ungoogled-chromium.png" width="48" height="48"> | [***ungoogled-chromium***](apps/ungoogled-chromium.md) | *Chromium Web Browser without Google services.*..[ *read more* ](apps/ungoogled-chromium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ungoogled-chromium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ungoogled-chromium) |
-| <img loading="lazy" src="icons/unified-communications.png" width="48" height="48"> | [***unified-communications***](apps/unified-communications.md) | *Unified Communication from Mundio Mobiles.*..[ *read more* ](apps/unified-communications.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unified-communications) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unified-communications) |
 | <img loading="lazy" src="icons/unishellect.png" width="48" height="48"> | [***unishellect***](apps/unishellect.md) | *JSON parser file and menu customizez Hyper-inspired.*..[ *read more* ](apps/unishellect.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unishellect) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unishellect) |
 | <img loading="lazy" src="icons/unoffical-flomo.png" width="48" height="48"> | [***unoffical-flomo***](apps/unoffical-flomo.md) | *Unofficial Flomo Appimage Client.*..[ *read more* ](apps/unoffical-flomo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unoffical-flomo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unoffical-flomo) |
 | <img loading="lazy" src="icons/unoffical-microsoft-loop.png" width="48" height="48"> | [***unoffical-microsoft-loop***](apps/unoffical-microsoft-loop.md) | *Unofficial. People who want to create together with ease.*..[ *read more* ](apps/unoffical-microsoft-loop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unoffical-microsoft-loop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unoffical-microsoft-loop) |

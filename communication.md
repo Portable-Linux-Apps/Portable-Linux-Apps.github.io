@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **84** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **83** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -103,7 +103,6 @@
 | <img loading="lazy" src="icons/teamviewer.png" width="48" height="48"> | [***teamviewer***](apps/teamviewer.md) | *Deliver remote IT support to your customers and colleagues, anytime, anywhere. Communication, network.*..[ *read more* ](apps/teamviewer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/teamviewer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/teamviewer) |
 | <img loading="lazy" src="icons/tgpt.png" width="48" height="48"> | [***tgpt***](apps/tgpt.md) | *AI Chatbots in terminal without needing API keys.*..[ *read more* ](apps/tgpt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tgpt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tgpt) |
 | <img loading="lazy" src="icons/thedesk.png" width="48" height="48"> | [***thedesk***](apps/thedesk.md) | *Mastodon Client for PC.*..[ *read more* ](apps/thedesk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thedesk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thedesk) |
-| <img loading="lazy" src="icons/unified-communications.png" width="48" height="48"> | [***unified-communications***](apps/unified-communications.md) | *Unified Communication from Mundio Mobiles.*..[ *read more* ](apps/unified-communications.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unified-communications) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unified-communications) |
 | <img loading="lazy" src="icons/vesktop.png" width="48" height="48"> | [***vesktop***](apps/vesktop.md) | *Vesktop gives you the performance of web Discord.*..[ *read more* ](apps/vesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vesktop) |
 | <img loading="lazy" src="icons/viber.png" width="48" height="48"> | [***viber***](apps/viber.md) | *Proprietary cross-platform IM and VoIP software.*..[ *read more* ](apps/viber.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viber) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viber) |
 | <img loading="lazy" src="icons/walc.png" width="48" height="48"> | [***walc***](apps/walc.md) | *WhatsApp Linux Client, Unofficial.*..[ *read more* ](apps/walc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/walc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/walc) |
