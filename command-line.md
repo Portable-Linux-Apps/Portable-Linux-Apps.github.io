@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **208** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **207** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -177,7 +177,6 @@
 | <img loading="lazy" src="icons/rucola.png" width="48" height="48"> | [***rucola***](apps/rucola.md) | *Terminal-based markdown note manager.*..[ *read more* ](apps/rucola.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rucola) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rucola) |
 | <img loading="lazy" src="icons/rustdict.png" width="48" height="48"> | [***rustdict***](apps/rustdict.md) | *A dictionary CLI tool in Rust inspired by BetaPictoris's dict.*..[ *read more* ](apps/rustdict.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rustdict) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rustdict) |
 | <img loading="lazy" src="icons/school-sections.png" width="48" height="48"> | [***school-sections***](apps/school-sections.md) | *This project was generated with Angular CLI v1.7.4.*..[ *read more* ](apps/school-sections.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/school-sections) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/school-sections) |
-| <img loading="lazy" src="icons/shell-assistant.png" width="48" height="48"> | [***shell-assistant***](apps/shell-assistant.md) | *Ad free Terminal SSH & SFTP client File manager and Code editor.*..[ *read more* ](apps/shell-assistant.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shell-assistant) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shell-assistant) |
 | <img loading="lazy" src="icons/shellcheck.png" width="48" height="48"> | [***shellcheck***](apps/shellcheck.md) | *ShellCheck, a static analysis tool for shell scripts.*..[ *read more* ](apps/shellcheck.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shellcheck) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shellcheck) |
 | <img loading="lazy" src="icons/shellharden.png" width="48" height="48"> | [***shellharden***](apps/shellharden.md) | *The corrective bash syntax highlighter.*..[ *read more* ](apps/shellharden.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shellharden) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shellharden) |
 | <img loading="lazy" src="icons/sidenote.png" width="48" height="48"> | [***sidenote***](apps/sidenote.md) | *A CLI tool that helps to manage plain text notes per working directory.*..[ *read more* ](apps/sidenote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sidenote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sidenote) |

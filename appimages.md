@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2094** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2093** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1640,7 +1640,6 @@
 | <img loading="lazy" src="icons/sharp-tune.png" width="48" height="48"> | [***sharp-tune***](apps/sharp-tune.md) | *Music player build upon the node using the electron.*..[ *read more* ](apps/sharp-tune.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sharp-tune) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sharp-tune) |
 | <img loading="lazy" src="icons/sheikah.png" width="48" height="48"> | [***sheikah***](apps/sheikah.md) | *A Witnet compatible desktop wallet.*..[ *read more* ](apps/sheikah.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sheikah) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sheikah) |
 | <img loading="lazy" src="icons/shelf-maui.png" width="48" height="48"> | [***shelf-maui***](apps/shelf-maui.md) | *Document viewer for various document formats.*..[ *read more* ](apps/shelf-maui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shelf-maui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shelf-maui) |
-| <img loading="lazy" src="icons/shell-assistant.png" width="48" height="48"> | [***shell-assistant***](apps/shell-assistant.md) | *Ad free Terminal SSH & SFTP client File manager and Code editor.*..[ *read more* ](apps/shell-assistant.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shell-assistant) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shell-assistant) |
 | <img loading="lazy" src="icons/shipwright.png" width="48" height="48"> | [***shipwright***](apps/shipwright.md) | *Ship of Harkinian.*..[ *read more* ](apps/shipwright.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shipwright) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shipwright) |
 | <img loading="lazy" src="icons/shotcut.png" width="48" height="48"> | [***shotcut***](apps/shotcut.md) | *A powerful Video Editor.*..[ *read more* ](apps/shotcut.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shotcut) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shotcut) |
 | <img loading="lazy" src="icons/shutter.png" width="48" height="48"> | [***shutter***](apps/shutter.md) | *Professional converter & compression tool designed by video editors.*..[ *read more* ](apps/shutter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shutter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shutter) |

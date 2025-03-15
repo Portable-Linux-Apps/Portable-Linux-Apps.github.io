@@ -10010,11 +10010,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/shelf-maui.png"
   },
   {
-    "packageName": "shell-assistant",
-    "description": "Ad free Terminal SSH & SFTP client File manager and Code editor...",
-    "icon": "https://portable-linux-apps.github.io/icons/shell-assistant.png"
-  },
-  {
     "packageName": "shellcheck",
     "description": "ShellCheck, a static analysis tool for shell scripts...",
     "icon": "https://portable-linux-apps.github.io/icons/shellcheck.png"
