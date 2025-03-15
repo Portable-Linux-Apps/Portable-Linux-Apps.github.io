@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2514** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2513** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1972,7 +1972,6 @@
 | <img loading="lazy" src="icons/rustypaste.png" width="48" height="48"> | [***rustypaste***](apps/rustypaste.md) | *A minimal file upload/pastebin service.*..[ *read more* ](apps/rustypaste.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rustypaste) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rustypaste) |
 | <img loading="lazy" src="icons/rx-bin.png" width="48" height="48"> | [***rx-bin***](apps/rx-bin.md) | *A modern and extensible pixel editor implemented in Rust.*..[ *read more* ](apps/rx-bin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rx-bin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rx-bin) |
 | <img loading="lazy" src="icons/ryowallet.png" width="48" height="48"> | [***ryowallet***](apps/ryowallet.md) | *Modern GUI interface for Ryo Currency.*..[ *read more* ](apps/ryowallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ryowallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ryowallet) |
-| <img loading="lazy" src="icons/ryujinx-mirror.png" width="48" height="48"> | [***ryujinx-mirror***](apps/ryujinx-mirror.md) | *Hard-fork of Ryujinx, more similar to the original Ryujinx.*..[ *read more* ](apps/ryujinx-mirror.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ryujinx-mirror) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ryujinx-mirror) |
 | <img loading="lazy" src="icons/ryujinx.png" width="48" height="48"> | [***ryujinx***](apps/ryujinx.md) | *Continuation of the original Ryujinx with new features.*..[ *read more* ](apps/ryujinx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ryujinx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ryujinx) |
 | <img loading="lazy" src="icons/s.png" width="48" height="48"> | [***s***](apps/s.md) | *Open a web search in your terminal.*..[ *read more* ](apps/s.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/s) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/s) |
 | <img loading="lazy" src="icons/s3drive.png" width="48" height="48"> | [***s3drive***](apps/s3drive.md) | *Convert S3, SFTP, WebDAV or Rclone back-end into your encrypted storage.*..[ *read more* ](apps/s3drive.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/s3drive) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/s3drive) |

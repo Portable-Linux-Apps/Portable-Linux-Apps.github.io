@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2095** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2094** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1585,7 +1585,6 @@
 | <img loading="lazy" src="icons/rx-bin.png" width="48" height="48"> | [***rx-bin***](apps/rx-bin.md) | *A modern and extensible pixel editor implemented in Rust.*..[ *read more* ](apps/rx-bin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rx-bin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rx-bin) |
 | <img loading="lazy" src="icons/ryowallet.png" width="48" height="48"> | [***ryowallet***](apps/ryowallet.md) | *Modern GUI interface for Ryo Currency.*..[ *read more* ](apps/ryowallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ryowallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ryowallet) |
 | <img loading="lazy" src="icons/ryujinx.png" width="48" height="48"> | [***ryujinx***](apps/ryujinx.md) | *Continuation of the original Ryujinx with new features.*..[ *read more* ](apps/ryujinx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ryujinx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ryujinx) |
-| <img loading="lazy" src="icons/ryujinx-mirror.png" width="48" height="48"> | [***ryujinx-mirror***](apps/ryujinx-mirror.md) | *Hard-fork of Ryujinx, more similar to the original Ryujinx.*..[ *read more* ](apps/ryujinx-mirror.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ryujinx-mirror) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ryujinx-mirror) |
 | <img loading="lazy" src="icons/s3drive.png" width="48" height="48"> | [***s3drive***](apps/s3drive.md) | *Convert S3, SFTP, WebDAV or Rclone back-end into your encrypted storage.*..[ *read more* ](apps/s3drive.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/s3drive) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/s3drive) |
 | <img loading="lazy" src="icons/sabaki.png" width="48" height="48"> | [***sabaki***](apps/sabaki.md) | *Modern, elegant, cross-platform Go/Baduk/Weiqi game board.*..[ *read more* ](apps/sabaki.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sabaki) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sabaki) |
 | <img loading="lazy" src="icons/saber.png" width="48" height="48"> | [***saber***](apps/saber.md) | *A work-in-progress cross-platform libre handwritten notes app.*..[ *read more* ](apps/saber.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/saber) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/saber) |
