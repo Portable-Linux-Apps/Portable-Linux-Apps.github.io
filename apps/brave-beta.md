@@ -12,7 +12,5 @@
  
  OFFICIAL RELEASE: https://github.com/brave/brave-browser
  
- UNOFFICIAL APPIMAGE: https://github.com/srevinsaju/Brave-AppImage
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
