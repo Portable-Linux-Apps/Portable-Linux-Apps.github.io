@@ -14,6 +14,8 @@
 
  APPIMAGE for AMD64: https://github.com/srevinsaju/Brave-AppImage
 
+ APPIMAGE for AMD64 (fallback): https://github.com/psadi/Brave-AppImage
+
  APPIMAGE for ARM64: https://github.com/ivan-hc/Brave-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
