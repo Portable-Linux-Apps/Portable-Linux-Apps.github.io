@@ -1,6 +1,8 @@
 # SPOTIFY
 
  Spotify - A proprietary music streaming service.
+
+ This is the Unofficial AppImage.
  
  SITE: https://www.spotify.com
 
