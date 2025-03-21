@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2512** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2511** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1930,7 +1930,6 @@
 | <img loading="lazy" src="icons/retroarch.png" width="48" height="48"> | [***retroarch***](apps/retroarch.md) | *Frontend for emulators, game engines and media players.*..[ *read more* ](apps/retroarch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retroarch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retroarch) |
 | <img loading="lazy" src="icons/retrom.png" width="48" height="48"> | [***retrom***](apps/retrom.md) | *A centralized game library/collection management service with a focus on emulation.*..[ *read more* ](apps/retrom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retrom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retrom) |
 | <img loading="lazy" src="icons/retroshare.png" width="48" height="48"> | [***retroshare***](apps/retroshare.md) | *Securely share files with your friends.*..[ *read more* ](apps/retroshare.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retroshare) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retroshare) |
-| <img loading="lazy" src="icons/revealed.png" width="48" height="48"> | [***revealed***](apps/revealed.md) | *A platform and store for apps, games, and more.*..[ *read more* ](apps/revealed.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/revealed) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/revealed) |
 | <img loading="lazy" src="icons/revealgo.png" width="48" height="48"> | [***revealgo***](apps/revealgo.md) | *Markdown driven presentation tool written in Go!*..[ *read more* ](apps/revealgo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/revealgo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/revealgo) |
 | <img loading="lazy" src="icons/revolt.png" width="48" height="48"> | [***revolt***](apps/revolt.md) | *Revolt Desktop App.*..[ *read more* ](apps/revolt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/revolt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/revolt) |
 | <img loading="lazy" src="icons/rhb.png" width="48" height="48"> | [***rhb***](apps/rhb.md) | *Rapid HTML Builder/Prototyper.*..[ *read more* ](apps/rhb.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rhb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rhb) |

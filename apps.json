@@ -9510,11 +9510,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/retroshare.png"
   },
   {
-    "packageName": "revealed",
-    "description": "A platform and store for apps, games, and more...",
-    "icon": "https://portable-linux-apps.github.io/icons/revealed.png"
-  },
-  {
     "packageName": "revealgo",
     "description": "Markdown driven presentation tool written in Go!..",
     "icon": "https://portable-linux-apps.github.io/icons/revealgo.png"
