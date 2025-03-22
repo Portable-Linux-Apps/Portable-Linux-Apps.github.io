@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **73** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **72** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -43,7 +43,6 @@
 | <img loading="lazy" src="icons/catalyst.png" width="48" height="48"> | [***catalyst***](apps/catalyst.md) | *Catalyst web browser.*..[ *read more* ](apps/catalyst.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/catalyst) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/catalyst) |
 | <img loading="lazy" src="icons/chromium-beta.png" width="48" height="48"> | [***chromium-beta***](apps/chromium-beta.md) | *Unofficial. FOSS Web Browser, base of Google Chrome, beta edition.*..[ *read more* ](apps/chromium-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-beta) |
 | <img loading="lazy" src="icons/chromium-edge.png" width="48" height="48"> | [***chromium-edge***](apps/chromium-edge.md) | *Unofficial. FOSS Web Browser, base of Google Chrome, edge edition.*..[ *read more* ](apps/chromium-edge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-edge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-edge) |
-| <img loading="lazy" src="icons/chromium-latest.png" width="48" height="48"> | [***chromium-latest***](apps/chromium-latest.md) | *FOSS Web Browser, base of Google Chrome, official unstable build.*..[ *read more* ](apps/chromium-latest.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-latest) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-latest) |
 | <img loading="lazy" src="icons/chromium-rc.png" width="48" height="48"> | [***chromium-rc***](apps/chromium-rc.md) | *Unofficial. FOSS Web Browser, base of Google Chrome, release candidate.*..[ *read more* ](apps/chromium-rc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-rc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-rc) |
 | <img loading="lazy" src="icons/chromium.png" width="48" height="48"> | [***chromium***](apps/chromium.md) | *Unofficial. FOSS Web Browser, base of Google Chrome, Edge and Brave, stable.*..[ *read more* ](apps/chromium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium) |
 | <img loading="lazy" src="icons/cromite.png" width="48" height="48"> | [***cromite***](apps/cromite.md) | *Unofficial AppImage of the Cromite web browser.*..[ *read more* ](apps/cromite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cromite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cromite) |

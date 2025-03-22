@@ -515,11 +515,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/arcade-manager.png"
   },
   {
-    "packageName": "arch-deployer",
-    "description": "Script to convert Arch Linux packages to AppDir/AppImage...",
-    "icon": "https://portable-linux-apps.github.io/icons/arch-deployer.png"
-  },
-  {
     "packageName": "arch-flatimage",
     "description": "A hybrid of Flatpak sandboxing with AppImage portability...",
     "icon": "https://portable-linux-apps.github.io/icons/arch-flatimage.png"
@@ -1688,11 +1683,6 @@
     "packageName": "chromium-edge",
     "description": "Unofficial. FOSS Web Browser, base of Google Chrome, edge edition...",
     "icon": "https://portable-linux-apps.github.io/icons/chromium-edge.png"
-  },
-  {
-    "packageName": "chromium-latest",
-    "description": "FOSS Web Browser, base of Google Chrome, official unstable build...",
-    "icon": "https://portable-linux-apps.github.io/icons/chromium-latest.png"
   },
   {
     "packageName": "chromium-rc",
