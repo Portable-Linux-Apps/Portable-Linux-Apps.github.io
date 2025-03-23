@@ -12,9 +12,7 @@
  
  SITE: https://brave.com
 
- APPIMAGE for AMD64: https://github.com/srevinsaju/Brave-AppImage
-
- APPIMAGE for ARM64: https://github.com/ivan-hc/Brave-appimage
+ UNOFFICIAL APPIMAGE: https://github.com/ivan-hc/Brave-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
