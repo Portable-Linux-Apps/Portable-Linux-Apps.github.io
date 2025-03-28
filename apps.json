@@ -1730,14 +1730,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/circuitblocks.png"
   },
   {
-    "packageName": "citron",
-    "description": "Unofficial AppImage of Citron (fork of yuzu), with optimized builds for modern cpus...",
-    "icon": "https://portable-linux-apps.github.io/icons/citron.png"
-  },
-  {
     "packageName": "citron-nightly",
     "description": "Unofficial AppImage of Citron (fork of yuzu), with optimized builds for modern cpus (nightly builds)...",
     "icon": "https://portable-linux-apps.github.io/icons/citron-nightly.png"
+  },
+  {
+    "packageName": "citron",
+    "description": "Unofficial AppImage of Citron (fork of yuzu), with optimized builds for modern cpus...",
+    "icon": "https://portable-linux-apps.github.io/icons/citron.png"
   },
   {
     "packageName": "city-hub",
@@ -4115,14 +4115,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/gh.png"
   },
   {
-    "packageName": "ghostty",
-    "description": "Unofficial, 👻 ⚙️ AppImage for Ghostty Terminal Emulator (Stable)..",
-    "icon": "https://portable-linux-apps.github.io/icons/ghostty.png"
-  },
-  {
     "packageName": "ghostty-nightly",
     "description": "Unoffical, 👻 ⚙️ AppImage for Ghostty Terminal Emulator (Tip, Nightly)..",
     "icon": "https://portable-linux-apps.github.io/icons/ghostty-nightly.png"
+  },
+  {
+    "packageName": "ghostty",
+    "description": "Unofficial, 👻 ⚙️ AppImage for Ghostty Terminal Emulator (Stable)..",
+    "icon": "https://portable-linux-apps.github.io/icons/ghostty.png"
   },
   {
     "packageName": "ghrel",
@@ -4160,14 +4160,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/gimp-git.png"
   },
   {
-    "packageName": "gimp-hybrid",
-    "description": "Unofficial, GIMP including third-party plugins and python2 support...",
-    "icon": "https://portable-linux-apps.github.io/icons/gimp-hybrid.png"
-  },
-  {
     "packageName": "gimp",
     "description": "GNU Image Manipulation Program, cross-platform image and photo editor. Multiple-choices...",
     "icon": "https://portable-linux-apps.github.io/icons/gimp.png"
+  },
+  {
+    "packageName": "gimp-hybrid",
+    "description": "Unofficial, GIMP including third-party plugins and python2 support...",
+    "icon": "https://portable-linux-apps.github.io/icons/gimp-hybrid.png"
   },
   {
     "packageName": "gingko",
@@ -5218,6 +5218,16 @@
     "packageName": "jfcord",
     "description": "An Jellyfin rich presence client for Discord...",
     "icon": "https://portable-linux-apps.github.io/icons/jfcord.png"
+  },
+  {
+    "packageName": "jgenesis-cli",
+    "description": "Sega Genesis, Sega CD, SNES, Master System, Game Gear emulator (CLI)...",
+    "icon": "https://portable-linux-apps.github.io/icons/jgenesis-cli.png"
+  },
+  {
+    "packageName": "jgenesis",
+    "description": "Sega Genesis, Sega CD, SNES, Master System, Game Gear emulator (GUI)...",
+    "icon": "https://portable-linux-apps.github.io/icons/jgenesis.png"
   },
   {
     "packageName": "jgrasp",
@@ -9390,14 +9400,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/rclone-browser.png"
   },
   {
-    "packageName": "rclone-ui",
-    "description": "The cross-platform desktop GUI for rclone & S3...",
-    "icon": "https://portable-linux-apps.github.io/icons/rclone-ui.png"
-  },
-  {
     "packageName": "rclone",
     "description": "\"rsync for cloud storage\", CLI that supports Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files...",
     "icon": "https://portable-linux-apps.github.io/icons/rclone.png"
+  },
+  {
+    "packageName": "rclone-ui",
+    "description": "The cross-platform desktop GUI for rclone & S3...",
+    "icon": "https://portable-linux-apps.github.io/icons/rclone-ui.png"
   },
   {
     "packageName": "reactotron",
