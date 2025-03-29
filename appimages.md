@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2096** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2097** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -705,6 +705,7 @@
 | <img loading="lazy" src="icons/gimp.png" width="48" height="48"> | [***gimp***](apps/gimp.md) | *GNU Image Manipulation Program, cross-platform image and photo editor. Multiple-choices.*..[ *read more* ](apps/gimp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gimp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gimp) |
 | <img loading="lazy" src="icons/gimp-hybrid.png" width="48" height="48"> | [***gimp-hybrid***](apps/gimp-hybrid.md) | *Unofficial, GIMP including third-party plugins and python2 support.*..[ *read more* ](apps/gimp-hybrid.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gimp-hybrid) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gimp-hybrid) |
 | <img loading="lazy" src="icons/gingko.png" width="48" height="48"> | [***gingko***](apps/gingko.md) | *Gingko client rewritten in Elm.*..[ *read more* ](apps/gingko.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gingko) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gingko) |
+| <img loading="lazy" src="icons/gitbutler.png" width="48" height="48"> | [***gitbutler***](apps/gitbutler.md) | *The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte.*..[ *read more* ](apps/gitbutler.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gitbutler) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gitbutler) |
 | <img loading="lazy" src="icons/git-good.png" width="48" height="48"> | [***git-good***](apps/git-good.md) | *Just a simple git client using electron and nodegit.*..[ *read more* ](apps/git-good.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/git-good) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/git-good) |
 | <img loading="lazy" src="icons/githoard.png" width="48" height="48"> | [***githoard***](apps/githoard.md) | *Hoard git repositories with ease.*..[ *read more* ](apps/githoard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/githoard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/githoard) |
 | <img loading="lazy" src="icons/github-desktop.png" width="48" height="48"> | [***github-desktop***](apps/github-desktop.md) | *Electron-based GitHub app.*..[ *read more* ](apps/github-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/github-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/github-desktop) |

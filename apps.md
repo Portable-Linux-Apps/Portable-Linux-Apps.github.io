@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2513** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2514** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -865,6 +865,7 @@
 | <img loading="lazy" src="icons/gingko.png" width="48" height="48"> | [***gingko***](apps/gingko.md) | *Gingko client rewritten in Elm.*..[ *read more* ](apps/gingko.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gingko) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gingko) |
 | <img loading="lazy" src="icons/git-cliff.png" width="48" height="48"> | [***git-cliff***](apps/git-cliff.md) | *A highly customizable Changelog Generator that follows Conventional Commit specifications.*..[ *read more* ](apps/git-cliff.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/git-cliff) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/git-cliff) |
 | <img loading="lazy" src="icons/git-good.png" width="48" height="48"> | [***git-good***](apps/git-good.md) | *Just a simple git client using electron and nodegit.*..[ *read more* ](apps/git-good.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/git-good) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/git-good) |
+| <img loading="lazy" src="icons/gitbutler.png" width="48" height="48"> | [***gitbutler***](apps/gitbutler.md) | *The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte.*..[ *read more* ](apps/gitbutler.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gitbutler) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gitbutler) |
 | <img loading="lazy" src="icons/githoard.png" width="48" height="48"> | [***githoard***](apps/githoard.md) | *Hoard git repositories with ease.*..[ *read more* ](apps/githoard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/githoard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/githoard) |
 | <img loading="lazy" src="icons/github-desktop.png" width="48" height="48"> | [***github-desktop***](apps/github-desktop.md) | *Electron-based GitHub app.*..[ *read more* ](apps/github-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/github-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/github-desktop) |
 | <img loading="lazy" src="icons/gitify.png" width="48" height="48"> | [***gitify***](apps/gitify.md) | *GitHub notifications on your menu bar.*..[ *read more* ](apps/gitify.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gitify) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gitify) |

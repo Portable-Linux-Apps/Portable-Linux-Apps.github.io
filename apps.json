@@ -4175,6 +4175,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gingko.png"
   },
   {
+    "packageName": "gitbutler",
+    "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte...",
+    "icon": "https://portable-linux-apps.github.io/icons/gitbutler.png"
+  },
+  {
     "packageName": "git-cliff",
     "description": "A highly customizable Changelog Generator that follows Conventional Commit specifications...",
     "icon": "https://portable-linux-apps.github.io/icons/git-cliff.png"
