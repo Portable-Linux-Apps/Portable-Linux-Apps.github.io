@@ -9190,11 +9190,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/qtjsondiff.png"
   },
   {
-    "packageName": "qtmips",
-    "description": "Qt Mips emulator...",
-    "icon": "https://portable-linux-apps.github.io/icons/qtmips.png"
-  },
-  {
     "packageName": "qtox",
     "description": "Qt 5 based Tox instant messenger for secure communication...",
     "icon": "https://portable-linux-apps.github.io/icons/qtox.png"
