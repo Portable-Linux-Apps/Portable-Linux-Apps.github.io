@@ -4,7 +4,7 @@
  
  This is the unofficial AppImage.
 
- SITE: https://github.com/lucasmz1/Lutris_AppImage
+ SITE: https://github.com/pkgforge-dev/Lutris-AppImage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
