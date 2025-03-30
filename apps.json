@@ -710,11 +710,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/avidemux.png"
   },
   {
-    "packageName": "avidemux-nightly",
-    "description": "Multiplatform Video Editor, nightly build...",
-    "icon": "https://portable-linux-apps.github.io/icons/avidemux-nightly.png"
-  },
-  {
     "packageName": "avidemux-qt",
     "description": "Unofficial, my custom Avidemux Video Editor built to use system themes...",
     "icon": "https://portable-linux-apps.github.io/icons/avidemux-qt.png"

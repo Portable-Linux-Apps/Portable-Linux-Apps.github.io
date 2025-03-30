@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2513** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2512** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -169,7 +169,6 @@
 | <img loading="lazy" src="icons/authy.png" width="48" height="48"> | [***authy***](apps/authy.md) | *Unofficial, Protect all your accounts with 2FA.*..[ *read more* ](apps/authy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/authy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/authy) |
 | <img loading="lazy" src="icons/autoedit2.png" width="48" height="48"> | [***autoedit2***](apps/autoedit2.md) | *autoEdit2 Desktop Client for Linux.*..[ *read more* ](apps/autoedit2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/autoedit2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/autoedit2) |
 | <img loading="lazy" src="icons/avantgarde.png" width="48" height="48"> | [***avantgarde***](apps/avantgarde.md) | *Avalonia XAML Preview.*..[ *read more* ](apps/avantgarde.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/avantgarde) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/avantgarde) |
-| <img loading="lazy" src="icons/avidemux-nightly.png" width="48" height="48"> | [***avidemux-nightly***](apps/avidemux-nightly.md) | *Multiplatform Video Editor, nightly build.*..[ *read more* ](apps/avidemux-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/avidemux-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/avidemux-nightly) |
 | <img loading="lazy" src="icons/avidemux-qt.png" width="48" height="48"> | [***avidemux-qt***](apps/avidemux-qt.md) | *Unofficial, my custom Avidemux Video Editor built to use system themes.*..[ *read more* ](apps/avidemux-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/avidemux-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/avidemux-qt) |
 | <img loading="lazy" src="icons/avidemux.png" width="48" height="48"> | [***avidemux***](apps/avidemux.md) | *Multiplatform Video Editor.*..[ *read more* ](apps/avidemux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/avidemux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/avidemux) |
 | <img loading="lazy" src="icons/avocado.png" width="48" height="48"> | [***avocado***](apps/avocado.md) | *PlayStation 1 emulator, games.*..[ *read more* ](apps/avocado.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/avocado) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/avocado) |
