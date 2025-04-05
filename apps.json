@@ -2695,6 +2695,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/droppoint.png"
   },
   {
+    "packageName": "drovp",
+    "description": "Desktop app for encoding, converting, upscaling, and much more...",
+    "icon": "https://portable-linux-apps.github.io/icons/drovp.png"
+  },
+  {
     "packageName": "dsda-doom",
     "description": "This is a successor of prboom+ with extra tooling for demo recording and playback, with a focus on speedrunning and quality of life...",
     "icon": "https://portable-linux-apps.github.io/icons/dsda-doom.png"

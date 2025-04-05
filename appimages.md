@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2096** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2097** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -478,6 +478,7 @@
 | <img loading="lazy" src="icons/droidcam.png" width="48" height="48"> | [***droidcam***](apps/droidcam.md) | *A DroidCam AppImage for the Steam Deck/SteamOS 3.0.*..[ *read more* ](apps/droidcam.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/droidcam) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/droidcam) |
 | <img loading="lazy" src="icons/dropbox.png" width="48" height="48"> | [***dropbox***](apps/dropbox.md) | *A free cloud service, Unofficial AppImage.*..[ *read more* ](apps/dropbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dropbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dropbox) |
 | <img loading="lazy" src="icons/droppoint.png" width="48" height="48"> | [***droppoint***](apps/droppoint.md) | *Drag content without having to open side-by-side windows.*..[ *read more* ](apps/droppoint.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/droppoint) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/droppoint) |
+| <img loading="lazy" src="icons/drovp.png" width="48" height="48"> | [***drovp***](apps/drovp.md) | *Desktop app for encoding, converting, upscaling, and much more.*..[ *read more* ](apps/drovp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/drovp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/drovp) |
 | <img loading="lazy" src="icons/dsda-doom.png" width="48" height="48"> | [***dsda-doom***](apps/dsda-doom.md) | *This is a successor of prboom+ with extra tooling for demo recording and playback, with a focus on speedrunning and quality of life.*..[ *read more* ](apps/dsda-doom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dsda-doom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dsda-doom) |
 | <img loading="lazy" src="icons/duckling.png" width="48" height="48"> | [***duckling***](apps/duckling.md) | *A fast viewer for CSV/Parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc.*..[ *read more* ](apps/duckling.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/duckling) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/duckling) |
 | <img loading="lazy" src="icons/duckstation.png" width="48" height="48"> | [***duckstation***](apps/duckstation.md) | *PlayStation 1, aka PSX games Emulator.*..[ *read more* ](apps/duckstation.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/duckstation) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/duckstation) |
