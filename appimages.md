@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2097** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2096** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -931,7 +931,6 @@
 | <img loading="lazy" src="icons/koodo-reader.png" width="48" height="48"> | [***koodo-reader***](apps/koodo-reader.md) | *Modern ebook manager and reader with sync & backup capacities.*..[ *read more* ](apps/koodo-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/koodo-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/koodo-reader) |
 | <img loading="lazy" src="icons/kopia.png" width="48" height="48"> | [***kopia***](apps/kopia.md) | *Cross-platform backup tool.*..[ *read more* ](apps/kopia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kopia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kopia) |
 | <img loading="lazy" src="icons/koreader.png" width="48" height="48"> | [***koreader***](apps/koreader.md) | *A document viewer.*..[ *read more* ](apps/koreader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/koreader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/koreader) |
-| <img loading="lazy" src="icons/kristall.png" width="48" height="48"> | [***kristall***](apps/kristall.md) | *A web browser without support for css/js/wasm or graphical websites.*..[ *read more* ](apps/kristall.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kristall) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kristall) |
 | <img loading="lazy" src="icons/krita.png" width="48" height="48"> | [***krita***](apps/krita.md) | *A professional FREE and open source painting program, graphics.*..[ *read more* ](apps/krita.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/krita) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/krita) |
 | <img loading="lazy" src="icons/krita-devel.png" width="48" height="48"> | [***krita-devel***](apps/krita-devel.md) | *A professional FREE open source painting program, dev-edition.*..[ *read more* ](apps/krita-devel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/krita-devel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/krita-devel) |
 | <img loading="lazy" src="icons/krunker.png" width="48" height="48"> | [***krunker***](apps/krunker.md) | *Krunker (.io) is a fast-paced first-person shooter game with pixel graphics.*..[ *read more* ](apps/krunker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/krunker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/krunker) |

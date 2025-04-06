@@ -5810,11 +5810,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/kreversi.png"
   },
   {
-    "packageName": "kristall",
-    "description": "A web browser without support for css/js/wasm or graphical websites...",
-    "icon": "https://portable-linux-apps.github.io/icons/kristall.png"
-  },
-  {
     "packageName": "krita",
     "description": "A professional FREE and open source painting program, graphics...",
     "icon": "https://portable-linux-apps.github.io/icons/krita.png"
