@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2096** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2097** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -523,6 +523,7 @@
 | <img loading="lazy" src="icons/elk.png" width="48" height="48"> | [***elk***](apps/elk.md) | *Native version of Elk, a nimble Mastodon web.*..[ *read more* ](apps/elk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elk) |
 | <img loading="lazy" src="icons/ellas-war.png" width="48" height="48"> | [***ellas-war***](apps/ellas-war.md) | *Explore Ancient Greece on Ellas-War.*..[ *read more* ](apps/ellas-war.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ellas-war) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ellas-war) |
 | <img loading="lazy" src="icons/elphyre-walletshell.png" width="48" height="48"> | [***elphyre-walletshell***](apps/elphyre-walletshell.md) | *Elphyrecoin GUI Wallet.*..[ *read more* ](apps/elphyre-walletshell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elphyre-walletshell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elphyre-walletshell) |
+| <img loading="lazy" src="icons/elyprismlauncher.png" width="48" height="48"> | [***elyprismlauncher***](apps/elyprismlauncher.md) | *This fork of Prism Launcher adds integrated support for Ely.by accounts.*..[ *read more* ](apps/elyprismlauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elyprismlauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elyprismlauncher) |
 | <img loading="lazy" src="icons/elzabrowser.png" width="48" height="48"> | [***elzabrowser***](apps/elzabrowser.md) | *Elza incognito web browser.*..[ *read more* ](apps/elzabrowser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elzabrowser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elzabrowser) |
 | <img loading="lazy" src="icons/emacs-nox-daily.png" width="48" height="48"> | [***emacs-nox-daily***](apps/emacs-nox-daily.md) | *Unofficial. FOSS text editor for complete programming language.*..[ *read more* ](apps/emacs-nox-daily.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/emacs-nox-daily) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/emacs-nox-daily) |
 | <img loading="lazy" src="icons/emacs-nox.png" width="48" height="48"> | [***emacs-nox***](apps/emacs-nox.md) | *Unofficial. FOSS text editor for complete programming language.*..[ *read more* ](apps/emacs-nox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/emacs-nox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/emacs-nox) |

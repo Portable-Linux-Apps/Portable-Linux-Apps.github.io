@@ -2970,6 +2970,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/elvish.png"
   },
   {
+    "packageName": "elyprismlauncher",
+    "description": "This fork of Prism Launcher adds integrated support for Ely.by accounts...",
+    "icon": "https://portable-linux-apps.github.io/icons/elyprismlauncher.png"
+  },
+  {
     "packageName": "elzabrowser",
     "description": "Elza incognito web browser...",
     "icon": "https://portable-linux-apps.github.io/icons/elzabrowser.png"
