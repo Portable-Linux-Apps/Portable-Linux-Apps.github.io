@@ -3645,6 +3645,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/flacon.png"
   },
   {
+    "packageName": "fladder",
+    "description": "A Simple Jellyfin frontend built on top of Flutter...",
+    "icon": "https://portable-linux-apps.github.io/icons/fladder.png"
+  },
+  {
     "packageName": "flameshot",
     "description": "Tool to take screenshots with many built-in features, graphics...",
     "icon": "https://portable-linux-apps.github.io/icons/flameshot.png"

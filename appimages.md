@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2098** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2099** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -627,6 +627,7 @@
 | <img loading="lazy" src="icons/fishterm.png" width="48" height="48"> | [***fishterm***](apps/fishterm.md) | *A open-soruce Terminal remote access.*..[ *read more* ](apps/fishterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fishterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fishterm) |
 | <img loading="lazy" src="icons/fish.png" width="48" height="48"> | [***fish***](apps/fish.md) | *Unofficial, AppImage for `fish` shell.*..[ *read more* ](apps/fish.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fish) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fish) |
 | <img loading="lazy" src="icons/flacon.png" width="48" height="48"> | [***flacon***](apps/flacon.md) | *Audio File Encoder. Extracts audio tracks from audio CDs.*..[ *read more* ](apps/flacon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flacon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flacon) |
+| <img loading="lazy" src="icons/fladder.png" width="48" height="48"> | [***fladder***](apps/fladder.md) | *A Simple Jellyfin frontend built on top of Flutter.*..[ *read more* ](apps/fladder.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fladder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fladder) |
 | <img loading="lazy" src="icons/flameshot.png" width="48" height="48"> | [***flameshot***](apps/flameshot.md) | *Tool to take screenshots with many built-in features, graphics.*..[ *read more* ](apps/flameshot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flameshot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flameshot) |
 | <img loading="lazy" src="icons/flare.png" width="48" height="48"> | [***flare***](apps/flare.md) | *Fantasy action RPG game using the FLARE engine.*..[ *read more* ](apps/flare.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flare) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flare) |
 | <img loading="lazy" src="icons/flawesome.png" width="48" height="48"> | [***flawesome***](apps/flawesome.md) | *Flawesome is a modern productivity tool.*..[ *read more* ](apps/flawesome.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flawesome) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flawesome) |
