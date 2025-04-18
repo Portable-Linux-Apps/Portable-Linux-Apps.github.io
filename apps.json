@@ -11300,16 +11300,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/thorium.png"
   },
   {
-    "packageName": "thunderbird-appimage",
-    "description": "Unofficial. Mail client's Unofficial AppImage, Stable...",
-    "icon": "https://portable-linux-apps.github.io/icons/thunderbird-appimage.png"
-  },
-  {
-    "packageName": "thunderbird-beta-appimage",
-    "description": "Unofficial. Mail client's Unofficial AppImage, Beta...",
-    "icon": "https://portable-linux-apps.github.io/icons/thunderbird-beta-appimage.png"
-  },
-  {
     "packageName": "thunderbird-beta",
     "description": "Free and open source eMail client, Beta Edition...",
     "icon": "https://portable-linux-apps.github.io/icons/thunderbird-beta.png"
@@ -11318,11 +11308,6 @@
     "packageName": "thunderbird",
     "description": "Free and open source eMail client, Stable...",
     "icon": "https://portable-linux-apps.github.io/icons/thunderbird.png"
-  },
-  {
-    "packageName": "thunderbird-nightly-appimage",
-    "description": "Unofficial. Mail client's Unofficial AppImage, Nightly...",
-    "icon": "https://portable-linux-apps.github.io/icons/thunderbird-nightly-appimage.png"
   },
   {
     "packageName": "thunderbird-nightly",
