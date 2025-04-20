@@ -70,11 +70,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/adb.png"
   },
   {
-    "packageName": "admin-tools",
-    "description": "Administrative tools...",
-    "icon": "https://portable-linux-apps.github.io/icons/admin-tools.png"
-  },
-  {
     "packageName": "advanced-passgen",
     "description": "Advanced Password Generator...",
     "icon": "https://portable-linux-apps.github.io/icons/advanced-passgen.png"
@@ -588,11 +583,6 @@
     "packageName": "armcord",
     "description": "Custom client designed to enhance your Discord experience...",
     "icon": "https://portable-linux-apps.github.io/icons/armcord.png"
-  },
-  {
-    "packageName": "around",
-    "description": "Video calls designed for energy, ideas and action...",
-    "icon": "https://portable-linux-apps.github.io/icons/around.png"
   },
   {
     "packageName": "artifact",
