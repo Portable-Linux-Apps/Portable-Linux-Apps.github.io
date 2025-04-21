@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **91** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **90** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -64,7 +64,6 @@
 | <img loading="lazy" src="icons/gospel.png" width="48" height="48"> | [***gospel***](apps/gospel.md) | *Poppler based fast pdf viewer written in PyQt5.*..[ *read more* ](apps/gospel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gospel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gospel) |
 | <img loading="lazy" src="icons/houdoku.png" width="48" height="48"> | [***houdoku***](apps/houdoku.md) | *Manga reader and library manager for the desktop.*..[ *read more* ](apps/houdoku.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/houdoku) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/houdoku) |
 | <img loading="lazy" src="icons/htmldoc.png" width="48" height="48"> | [***htmldoc***](apps/htmldoc.md) | *HTML & Markdown Conversion Software to output PostScript and PDF.*..[ *read more* ](apps/htmldoc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/htmldoc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/htmldoc) |
-| <img loading="lazy" src="icons/inkscape-next.png" width="48" height="48"> | [***inkscape-next***](apps/inkscape-next.md) | *Vector-based drawing program, SVG, PDF, AutoCAD..., Unstable.*..[ *read more* ](apps/inkscape-next.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/inkscape-next) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/inkscape-next) |
 | <img loading="lazy" src="icons/inkscape.png" width="48" height="48"> | [***inkscape***](apps/inkscape.md) | *Vector-based drawing program, SVG, PDF, AutoCAD..., Stable.*..[ *read more* ](apps/inkscape.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/inkscape) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/inkscape) |
 | <img loading="lazy" src="icons/kate.png" width="48" height="48"> | [***kate***](apps/kate.md) | *Unofficial, A multi-document editor part of KDE. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/kate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kate) |
 | <img loading="lazy" src="icons/keditbookmarks.png" width="48" height="48"> | [***keditbookmarks***](apps/keditbookmarks.md) | *Unofficial, Bookmarks editor. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/keditbookmarks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keditbookmarks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keditbookmarks) |

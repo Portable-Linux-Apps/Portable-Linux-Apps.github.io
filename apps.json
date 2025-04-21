@@ -5030,11 +5030,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/inkdown.png"
   },
   {
-    "packageName": "inkscape-next",
-    "description": "Vector-based drawing program, SVG, PDF, AutoCAD..., Unstable...",
-    "icon": "https://portable-linux-apps.github.io/icons/inkscape-next.png"
-  },
-  {
     "packageName": "inkscape",
     "description": "Vector-based drawing program, SVG, PDF, AutoCAD..., Stable...",
     "icon": "https://portable-linux-apps.github.io/icons/inkscape.png"
@@ -10083,11 +10078,6 @@
     "packageName": "signal",
     "description": "Unofficial AppImage package for Signal (communication)...",
     "icon": "https://portable-linux-apps.github.io/icons/signal.png"
-  },
-  {
-    "packageName": "sigrok-cli",
-    "description": "Control your logic analyzer, oscilloscope, or MSO...",
-    "icon": "https://portable-linux-apps.github.io/icons/sigrok-cli.png"
   },
   {
     "packageName": "silex-desktop",
