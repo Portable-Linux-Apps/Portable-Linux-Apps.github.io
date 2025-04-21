@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **71** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **72** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -33,6 +33,7 @@
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/agregore.png" width="48" height="48"> | [***agregore***](apps/agregore.md) | *A minimal browser for the distributed web, Desktop version.*..[ *read more* ](apps/agregore.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/agregore) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/agregore) |
+| <img loading="lazy" src="icons/archiveweb.page.png" width="48" height="48"> | [***archiveweb.page***](apps/archiveweb.page.md) | *A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers.*..[ *read more* ](apps/archiveweb.page.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/archiveweb.page) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/archiveweb.page) |
 | <img loading="lazy" src="icons/brave-appimage.png" width="48" height="48"> | [***brave-appimage***](apps/brave-appimage.md) | *Unofficial, a privacy oriented Web Browser based on Chromium, this is the "stable" release.*..[ *read more* ](apps/brave-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-appimage) |
 | <img loading="lazy" src="icons/brave.png" width="48" height="48"> | [***brave***](apps/brave.md) | *A privacy oriented Web Browser based on Chromium, this is the official "stable" release.*..[ *read more* ](apps/brave.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave) |
 | <img loading="lazy" src="icons/brave-beta-appimage.png" width="48" height="48"> | [***brave-beta-appimage***](apps/brave-beta-appimage.md) | *Unofficial, a privacy oriented Web Browser based on Chromium, this is the "beta" release.*..[ *read more* ](apps/brave-beta-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-beta-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-beta-appimage) |

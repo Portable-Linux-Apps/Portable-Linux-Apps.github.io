@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **163** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **164** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -35,6 +35,7 @@
 | <img loading="lazy" src="icons/aichat.png" width="48" height="48"> | [***aichat***](apps/aichat.md) | *AIO AI CLI tool integrating 20+ AI platforms, including OpenAI.*..[ *read more* ](apps/aichat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aichat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aichat) |
 | <img loading="lazy" src="icons/altus.png" width="48" height="48"> | [***altus***](apps/altus.md) | *Client for WhatsApp Web with themes & multiple account support.*..[ *read more* ](apps/altus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/altus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/altus) |
 | <img loading="lazy" src="icons/ant-downloader.png" width="48" height="48"> | [***ant-downloader***](apps/ant-downloader.md) | *BitTorrent Client developed by golang, angular, electron.*..[ *read more* ](apps/ant-downloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ant-downloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ant-downloader) |
+| <img loading="lazy" src="icons/archiveweb.page.png" width="48" height="48"> | [***archiveweb.page***](apps/archiveweb.page.md) | *A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers.*..[ *read more* ](apps/archiveweb.page.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/archiveweb.page) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/archiveweb.page) |
 | <img loading="lazy" src="icons/beeper.png" width="48" height="48"> | [***beeper***](apps/beeper.md) | *All your chats in one app.*..[ *read more* ](apps/beeper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beeper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beeper) |
 | <img loading="lazy" src="icons/bettercrewlink.png" width="48" height="48"> | [***bettercrewlink***](apps/bettercrewlink.md) | *Free, open, Among Us proximity voice chat.*..[ *read more* ](apps/bettercrewlink.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bettercrewlink) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bettercrewlink) |
 | <img loading="lazy" src="icons/binglite.png" width="48" height="48"> | [***binglite***](apps/binglite.md) | *A lightweight new Bing (AI chat) desktop application based on Tauri.*..[ *read more* ](apps/binglite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/binglite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/binglite) |
