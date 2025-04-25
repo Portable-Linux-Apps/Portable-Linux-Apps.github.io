@@ -3130,11 +3130,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/etcher.png"
   },
   {
-    "packageName": "etcher-latest",
-    "description": "Flash OS images to SD cards and USB drives, Balena Etcher...",
-    "icon": "https://portable-linux-apps.github.io/icons/etcher-latest.png"
-  },
-  {
     "packageName": "eternal-lands",
     "description": "3D fantasy multiplayer online role playing game...",
     "icon": "https://portable-linux-apps.github.io/icons/eternal-lands.png"

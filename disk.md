@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **18** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **17** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -37,7 +37,6 @@
 | <img loading="lazy" src="icons/dua.png" width="48" height="48"> | [***dua***](apps/dua.md) | *View disk space usage and delete unwanted data, fast.*..[ *read more* ](apps/dua.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dua) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dua) |
 | <img loading="lazy" src="icons/duf.png" width="48" height="48"> | [***duf***](apps/duf.md) | *Disk Usage/Free Utility, a better 'df' alternative.*..[ *read more* ](apps/duf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/duf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/duf) |
 | <img loading="lazy" src="icons/etcher.png" width="48" height="48"> | [***etcher***](apps/etcher.md) | *Flash OS images to SD cards and USB drives, Balena Etcher.*..[ *read more* ](apps/etcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/etcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/etcher) |
-| <img loading="lazy" src="icons/etcher-latest.png" width="48" height="48"> | [***etcher-latest***](apps/etcher-latest.md) | *Flash OS images to SD cards and USB drives, Balena Etcher.*..[ *read more* ](apps/etcher-latest.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/etcher-latest) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/etcher-latest) |
 | <img loading="lazy" src="icons/filelight.png" width="48" height="48"> | [***filelight***](apps/filelight.md) | *Unofficial. View disk usage information. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/filelight.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filelight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filelight) |
 | <img loading="lazy" src="icons/gncdu.png" width="48" height="48"> | [***gncdu***](apps/gncdu.md) | *Implements NCurses Disk Usage(ncdu) with golang.*..[ *read more* ](apps/gncdu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gncdu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gncdu) |
 | <img loading="lazy" src="icons/isoimagewriter.png" width="48" height="48"> | [***isoimagewriter***](apps/isoimagewriter.md) | *Write an ISO Image to a USB Disk. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/isoimagewriter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/isoimagewriter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/isoimagewriter) |
