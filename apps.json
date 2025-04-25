@@ -4115,9 +4115,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/gh.png"
   },
   {
+    "packageName": "ghostty-glfw-nightly",
+    "description": "Unofficial, 👻 ⚙️ AppImage for Ghostty Terminal Emulator (Tip, Nightly) (glfw version)..",
+    "icon": "https://portable-linux-apps.github.io/icons/ghostty-glfw-nightly.png"
+  },
+  {
     "packageName": "ghostty-nightly",
     "description": "Unoffical, 👻 ⚙️ AppImage for Ghostty Terminal Emulator (Tip, Nightly)..",
     "icon": "https://portable-linux-apps.github.io/icons/ghostty-nightly.png"
+  },
+  {
+    "packageName": "ghostty-glfw",
+    "description": "Unofficial, 👻 ⚙️ AppImage for Ghostty Terminal Emulator (glfw version)..",
+    "icon": "https://portable-linux-apps.github.io/icons/ghostty-glfw.png"
   },
   {
     "packageName": "ghostty",
