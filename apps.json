@@ -6140,11 +6140,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/liketaskmanager.png"
   },
   {
-    "packageName": "lime3ds",
-    "description": "Nintendo 3DS emulator, continuation of citra...",
-    "icon": "https://portable-linux-apps.github.io/icons/lime3ds.png"
-  },
-  {
     "packageName": "linedancer",
     "description": "Arcade game and entry for Ludum Dare 35...",
     "icon": "https://portable-linux-apps.github.io/icons/linedancer.png"
@@ -9555,11 +9550,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/ridereceipts.png"
   },
   {
-    "packageName": "riichi-city",
-    "description": "A competitive urban-style Anime mahjong game, featuring beginner-friendly mahjong tutorials...",
-    "icon": "https://portable-linux-apps.github.io/icons/riichi-city.png"
-  },
-  {
     "packageName": "rimage",
     "description": "This is CLI tool inspired by squoosh...",
     "icon": "https://portable-linux-apps.github.io/icons/rimage.png"
@@ -11693,6 +11683,11 @@
     "packageName": "unishellect",
     "description": "JSON parser file and menu customizez Hyper-inspired...",
     "icon": "https://portable-linux-apps.github.io/icons/unishellect.png"
+  },
+  {
+    "packageName": "unleashedrecomp",
+    "description": "Unofficial AppImage of UnleashedRecomp (Sonic Unleashed port)..",
+    "icon": "https://portable-linux-apps.github.io/icons/unleashedrecomp.png"
   },
   {
     "packageName": "unoffical-flomo",
