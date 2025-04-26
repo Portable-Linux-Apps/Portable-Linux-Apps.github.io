@@ -10130,11 +10130,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/sipgate-softphone.png"
   },
   {
-    "packageName": "siril",
-    "description": "Astronomical image pre-processing program...",
-    "icon": "https://portable-linux-apps.github.io/icons/siril.png"
-  },
-  {
     "packageName": "siyuan",
     "description": "A local-first personal knowledge management system...",
     "icon": "https://portable-linux-apps.github.io/icons/siyuan.png"
@@ -12328,11 +12323,6 @@
     "packageName": "wolai",
     "description": "A new form of document/note/information system, in chinese...",
     "icon": "https://portable-linux-apps.github.io/icons/wolai.png"
-  },
-  {
-    "packageName": "wonderpen",
-    "description": "A professional writing app with markdown support...",
-    "icon": "https://portable-linux-apps.github.io/icons/wonderpen.png"
   },
   {
     "packageName": "wonderwall",
