@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **164** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **163** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -84,7 +84,6 @@
 | <img loading="lazy" src="icons/ffwa-whatsapp.png" width="48" height="48"> | [***ffwa-whatsapp***](apps/ffwa-whatsapp.md) | *WebApp & Firefox Profile for WhatsApp.*..[ *read more* ](apps/ffwa-whatsapp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-whatsapp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-whatsapp) |
 | <img loading="lazy" src="icons/ffwa-wikipedia.png" width="48" height="48"> | [***ffwa-wikipedia***](apps/ffwa-wikipedia.md) | *WebApp & Firefox Profile for Wikipedia.*..[ *read more* ](apps/ffwa-wikipedia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-wikipedia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-wikipedia) |
 | <img loading="lazy" src="icons/ffwa-youtube.png" width="48" height="48"> | [***ffwa-youtube***](apps/ffwa-youtube.md) | *WebApp & Firefox Profile for YouTube.*..[ *read more* ](apps/ffwa-youtube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-youtube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-youtube) |
-| <img loading="lazy" src="icons/fiery-maui.png" width="48" height="48"> | [***fiery-maui***](apps/fiery-maui.md) | *Web browser with integrated ad-blocker and split views.*..[ *read more* ](apps/fiery-maui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fiery-maui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fiery-maui) |
 | <img loading="lazy" src="icons/fifo.png" width="48" height="48"> | [***fifo***](apps/fifo.md) | *A modern web browser, built on top of modern web technologies.*..[ *read more* ](apps/fifo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fifo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fifo) |
 | <img loading="lazy" src="icons/firedragon.png" width="48" height="48"> | [***firedragon***](apps/firedragon.md) | *A web browser based on Floorp (the Vivaldi of Firefox's) with many opiniated settings by default.*..[ *read more* ](apps/firedragon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firedragon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firedragon) |
 | <img loading="lazy" src="icons/firefox-appimage.png" width="48" height="48"> | [***firefox-appimage***](apps/firefox-appimage.md) | *Unofficial, AppImage of the Web Browser, Stable.*..[ *read more* ](apps/firefox-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firefox-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firefox-appimage) |

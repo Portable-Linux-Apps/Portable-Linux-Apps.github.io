@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **140** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **139** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -158,7 +158,6 @@
 | <img loading="lazy" src="icons/vk-music-fs.png" width="48" height="48"> | [***vk-music-fs***](apps/vk-music-fs.md) | *Listen to the music from VK.*..[ *read more* ](apps/vk-music-fs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vk-music-fs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vk-music-fs) |
 | <img loading="lazy" src="icons/vlc.png" width="48" height="48"> | [***vlc***](apps/vlc.md) | *Unofficial. Free and Open Source Video & Media player for Audio, streaming and more.*..[ *read more* ](apps/vlc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vlc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vlc) |
 | <img loading="lazy" src="icons/vlc+.png" width="48" height="48"> | [***vlc+***](apps/vlc+.md) | *Unofficial. Video & Media player for Audio, streaming and more, with JAVA support.*..[ *read more* ](apps/vlc+.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vlc+) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vlc+) |
-| <img loading="lazy" src="icons/vvave-maui.png" width="48" height="48"> | [***vvave-maui***](apps/vvave-maui.md) | *Manage your music collection and stream it from the cloud.*..[ *read more* ](apps/vvave-maui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vvave-maui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vvave-maui) |
 | <img loading="lazy" src="icons/wooting-analog-midi.png" width="48" height="48"> | [***wooting-analog-midi***](apps/wooting-analog-midi.md) | *Virtual MIDI device for, Wooting analog keyboards.*..[ *read more* ](apps/wooting-analog-midi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wooting-analog-midi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wooting-analog-midi) |
 | <img loading="lazy" src="icons/wora.png" width="48" height="48"> | [***wora***](apps/wora.md) | *A beautiful player for audiophiles.*..[ *read more* ](apps/wora.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wora) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wora) |
 | <img loading="lazy" src="icons/yangdownloader.png" width="48" height="48"> | [***yangdownloader***](apps/yangdownloader.md) | *Downloads best-quality audio and video from YouTube.*..[ *read more* ](apps/yangdownloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yangdownloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yangdownloader) |

@@ -1145,11 +1145,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/bomber.png"
   },
   {
-    "packageName": "bonsai-maui",
-    "description": "Manage Git repositories from a GUI...",
-    "icon": "https://portable-linux-apps.github.io/icons/bonsai-maui.png"
-  },
-  {
     "packageName": "book-manager",
     "description": "Simple desktop app to manage personal library...",
     "icon": "https://portable-linux-apps.github.io/icons/book-manager.png"
@@ -1338,11 +1333,6 @@
     "packageName": "bugdom",
     "description": "Pangea Software's Bugdom game...",
     "icon": "https://portable-linux-apps.github.io/icons/bugdom.png"
-  },
-  {
-    "packageName": "buho-maui",
-    "description": "Easy-to-use note-taking application with “tags” support...",
-    "icon": "https://portable-linux-apps.github.io/icons/buho-maui.png"
   },
   {
     "packageName": "bulkreviewer",
@@ -1645,11 +1635,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/cherrytree.png"
   },
   {
-    "packageName": "chiaki",
-    "description": "PlayStation 4 Remote Play Client...",
-    "icon": "https://portable-linux-apps.github.io/icons/chiaki.png"
-  },
-  {
     "packageName": "chimeradesk-kvm",
     "description": "Simple, fast and flexible DIY Remote Desktop software...",
     "icon": "https://portable-linux-apps.github.io/icons/chimeradesk-kvm.png"
@@ -1775,11 +1760,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/clipgrab.png"
   },
   {
-    "packageName": "clip-maui",
-    "description": "Official movie player of Maui using MPV as backend...",
-    "icon": "https://portable-linux-apps.github.io/icons/clip-maui.png"
-  },
-  {
     "packageName": "clippy",
     "description": "Clipboard History...",
     "icon": "https://portable-linux-apps.github.io/icons/clippy.png"
@@ -1893,11 +1873,6 @@
     "packageName": "comictagger",
     "description": "A multi-platform app for writing metadata to digital comics...",
     "icon": "https://portable-linux-apps.github.io/icons/comictagger.png"
-  },
-  {
-    "packageName": "communicator-maui",
-    "description": "Create and organize contacts, phone, email, name, etc....",
-    "icon": "https://portable-linux-apps.github.io/icons/communicator-maui.png"
   },
   {
     "packageName": "compass",
@@ -3470,11 +3445,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/fidias-database-migration-app.png"
   },
   {
-    "packageName": "fiery-maui",
-    "description": "Web browser with integrated ad-blocker and split views...",
-    "icon": "https://portable-linux-apps.github.io/icons/fiery-maui.png"
-  },
-  {
     "packageName": "fifo",
     "description": "A modern web browser, built on top of modern web technologies...",
     "icon": "https://portable-linux-apps.github.io/icons/fifo.png"
@@ -5013,11 +4983,6 @@
     "packageName": "inboxer",
     "description": "Simple client for Google Inbox...",
     "icon": "https://portable-linux-apps.github.io/icons/inboxer.png"
-  },
-  {
-    "packageName": "index-maui",
-    "description": "Browse your system files and preview your multimedia...",
-    "icon": "https://portable-linux-apps.github.io/icons/index-maui.png"
   },
   {
     "packageName": "infection-monkey",
@@ -7450,11 +7415,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/notable.png"
   },
   {
-    "packageName": "nota-maui",
-    "description": "Text editor with tab support, syntax highlight and more...",
-    "icon": "https://portable-linux-apps.github.io/icons/nota-maui.png"
-  },
-  {
     "packageName": "notedown",
     "description": "Note taking with react + rust...",
     "icon": "https://portable-linux-apps.github.io/icons/notedown.png"
@@ -8478,11 +8438,6 @@
     "packageName": "pixfetch",
     "description": "Another CLI fetch program with pixelized images written in Rust...",
     "icon": "https://portable-linux-apps.github.io/icons/pixfetch.png"
-  },
-  {
-    "packageName": "pix-maui",
-    "description": "Image gallery and viewer with basic editing features...",
-    "icon": "https://portable-linux-apps.github.io/icons/pix-maui.png"
   },
   {
     "packageName": "pixsrt",
@@ -10010,11 +9965,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/sheikah.png"
   },
   {
-    "packageName": "shelf-maui",
-    "description": "Document viewer for various document formats...",
-    "icon": "https://portable-linux-apps.github.io/icons/shelf-maui.png"
-  },
-  {
     "packageName": "shellcheck",
     "description": "ShellCheck, a static analysis tool for shell scripts...",
     "icon": "https://portable-linux-apps.github.io/icons/shellcheck.png"
@@ -10605,11 +10555,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/station.png"
   },
   {
-    "packageName": "station-maui",
-    "description": "Terminal emulator with quick functions support for touch...",
-    "icon": "https://portable-linux-apps.github.io/icons/station-maui.png"
-  },
-  {
     "packageName": "statsbook-tool",
     "description": "A tool for error checking WFTDA Statsbooks...",
     "icon": "https://portable-linux-apps.github.io/icons/statsbook-tool.png"
@@ -10745,11 +10690,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/stretchly.png"
   },
   {
-    "packageName": "strike-maui",
-    "description": "Simple convergent IDE...",
-    "icon": "https://portable-linux-apps.github.io/icons/strike-maui.png"
-  },
-  {
     "packageName": "strongbox",
     "description": "A World of Warcraft Addon Manager aimed at Linux players...",
     "icon": "https://portable-linux-apps.github.io/icons/strongbox.png"
@@ -10798,11 +10738,6 @@
     "packageName": "sudachi",
     "description": "Nintendo Switch emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/sudachi.png"
-  },
-  {
-    "packageName": "sugarizer",
-    "description": "A taste of Sugar on any device...",
-    "icon": "https://portable-linux-apps.github.io/icons/sugarizer.png"
   },
   {
     "packageName": "sultanpos",
@@ -12103,11 +12038,6 @@
     "packageName": "vup",
     "description": "Private and decentralized cloud storage...",
     "icon": "https://portable-linux-apps.github.io/icons/vup.png"
-  },
-  {
-    "packageName": "vvave-maui",
-    "description": "Manage your music collection and stream it from the cloud...",
-    "icon": "https://portable-linux-apps.github.io/icons/vvave-maui.png"
   },
   {
     "packageName": "w2vgrep",

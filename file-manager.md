@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **23** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **22** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -43,7 +43,6 @@
 | <img loading="lazy" src="icons/file-commander.png" width="48" height="48"> | [***file-commander***](apps/file-commander.md) | *CLI, cross-platform Total Commander-like orthodox file manager.*..[ *read more* ](apps/file-commander.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/file-commander) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/file-commander) |
 | <img loading="lazy" src="icons/fman.png" width="48" height="48"> | [***fman***](apps/fman.md) | *TUI CLI File Manager.*..[ *read more* ](apps/fman.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fman) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fman) |
 | <img loading="lazy" src="icons/freeman.png" width="48" height="48"> | [***freeman***](apps/freeman.md) | *A free, extensible, cross-platform file manager for power users.*..[ *read more* ](apps/freeman.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freeman) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freeman) |
-| <img loading="lazy" src="icons/index-maui.png" width="48" height="48"> | [***index-maui***](apps/index-maui.md) | *Browse your system files and preview your multimedia.*..[ *read more* ](apps/index-maui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/index-maui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/index-maui) |
 | <img loading="lazy" src="icons/lf.png" width="48" height="48"> | [***lf***](apps/lf.md) | *lf, as in "list files" is a terminal file manager written in Go.*..[ *read more* ](apps/lf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lf) |
 | <img loading="lazy" src="icons/nnn.png" width="48" height="48"> | [***nnn***](apps/nnn.md) | *n³ The unorthodox terminal file manager*..[ *read more* ](apps/nnn.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nnn) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nnn) |
 | <img loading="lazy" src="icons/sigma-file-manager.png" width="48" height="48"> | [***sigma-file-manager***](apps/sigma-file-manager.md) | *A free, open-source, modern file manager.*..[ *read more* ](apps/sigma-file-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sigma-file-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sigma-file-manager) |

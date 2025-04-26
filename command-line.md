@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **209** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **208** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -194,7 +194,6 @@
 | <img loading="lazy" src="icons/spotify-player.png" width="48" height="48"> | [***spotify-player***](apps/spotify-player.md) | *A Spotify player in the terminal with full feature parity.*..[ *read more* ](apps/spotify-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify-player) |
 | <img loading="lazy" src="icons/spotify-tui.png" width="48" height="48"> | [***spotify-tui***](apps/spotify-tui.md) | *Spotify for the terminal written in Rust.*..[ *read more* ](apps/spotify-tui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify-tui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify-tui) |
 | <img loading="lazy" src="icons/sptlrx.png" width="48" height="48"> | [***sptlrx***](apps/sptlrx.md) | *Synchronized lyrics in your terminal.*..[ *read more* ](apps/sptlrx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sptlrx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sptlrx) |
-| <img loading="lazy" src="icons/station-maui.png" width="48" height="48"> | [***station-maui***](apps/station-maui.md) | *Terminal emulator with quick functions support for touch.*..[ *read more* ](apps/station-maui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/station-maui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/station-maui) |
 | <img loading="lazy" src="icons/strans.png" width="48" height="48"> | [***strans***](apps/strans.md) | *A powerful command-line utility.*..[ *read more* ](apps/strans.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/strans) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/strans) |
 | <img loading="lazy" src="icons/streamlink.png" width="48" height="48"> | [***streamlink***](apps/streamlink.md) | *Command-line which pipes video streams from various services.*..[ *read more* ](apps/streamlink.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/streamlink) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/streamlink) |
 | <img loading="lazy" src="icons/superfile.png" width="48" height="48"> | [***superfile***](apps/superfile.md) | *Pretty fancy and modern terminal file manager.*..[ *read more* ](apps/superfile.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/superfile) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/superfile) |
