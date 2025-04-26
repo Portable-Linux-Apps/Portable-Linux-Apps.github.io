@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2081** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2080** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1116,7 +1116,6 @@
 | <img loading="lazy" src="icons/motrix.png" width="48" height="48"> | [***motrix***](apps/motrix.md) | *A full-featured download manager.*..[ *read more* ](apps/motrix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/motrix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/motrix) |
 | <img loading="lazy" src="icons/movie-monad.png" width="48" height="48"> | [***movie-monad***](apps/movie-monad.md) | *Free and simple to use video player made with Haskell.*..[ *read more* ](apps/movie-monad.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/movie-monad) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/movie-monad) |
 | <img loading="lazy" src="icons/moyu.png" width="48" height="48"> | [***moyu***](apps/moyu.md) | *An online collaborative api interface management tool.*..[ *read more* ](apps/moyu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moyu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moyu) |
-| <img loading="lazy" src="icons/mozaic.png" width="48" height="48"> | [***mozaic***](apps/mozaic.md) | *Massive Online Zeus Artificial Intelligence Competition platform.*..[ *read more* ](apps/mozaic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mozaic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mozaic) |
 | <img loading="lazy" src="icons/mp3-tagger.png" width="48" height="48"> | [***mp3-tagger***](apps/mp3-tagger.md) | *An Electron app to edit metadata of mp3 files.*..[ *read more* ](apps/mp3-tagger.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mp3-tagger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mp3-tagger) |
 | <img loading="lazy" src="icons/mpv.png" width="48" height="48"> | [***mpv***](apps/mpv.md) | *Unofficial, A free, open source, and cross-platform media player, Multiple-choices.*..[ *read more* ](apps/mpv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mpv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mpv) |
 | <img loading="lazy" src="icons/mqttcute.png" width="48" height="48"> | [***mqttcute***](apps/mqttcute.md) | *An advanced desktop MQTT client for binary protocol development.*..[ *read more* ](apps/mqttcute.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mqttcute) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mqttcute) |

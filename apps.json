@@ -6945,11 +6945,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/moyu.png"
   },
   {
-    "packageName": "mozaic",
-    "description": "Massive Online Zeus Artificial Intelligence Competition platform...",
-    "icon": "https://portable-linux-apps.github.io/icons/mozaic.png"
-  },
-  {
     "packageName": "mp3-tagger",
     "description": "An Electron app to edit metadata of mp3 files...",
     "icon": "https://portable-linux-apps.github.io/icons/mp3-tagger.png"
