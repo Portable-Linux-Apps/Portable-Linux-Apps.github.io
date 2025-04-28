@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2080** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2081** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -218,6 +218,7 @@
 | <img loading="lazy" src="icons/boardgamestar.png" width="48" height="48"> | [***boardgamestar***](apps/boardgamestar.md) | *A platform for playing digital boardgames.*..[ *read more* ](apps/boardgamestar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/boardgamestar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/boardgamestar) |
 | <img loading="lazy" src="icons/bodacious.png" width="48" height="48"> | [***bodacious***](apps/bodacious.md) | *A bodacious music player.*..[ *read more* ](apps/bodacious.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bodacious) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bodacious) |
 | <img loading="lazy" src="icons/bodhi.png" width="48" height="48"> | [***bodhi***](apps/bodhi.md) | *Bodhi Prediction Market app.*..[ *read more* ](apps/bodhi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bodhi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bodhi) |
+| <img loading="lazy" src="icons/bongocat.png" width="48" height="48"> | [***bongocat***](apps/bongocat.md) | *A chinese cute interactive desktop pet application that makes your desktop full of fun!*..[ *read more* ](apps/bongocat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bongocat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bongocat) |
 | <img loading="lazy" src="icons/book-manager.png" width="48" height="48"> | [***book-manager***](apps/book-manager.md) | *Simple desktop app to manage personal library.*..[ *read more* ](apps/book-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/book-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/book-manager) |
 | <img loading="lazy" src="icons/bookmarks-manager.png" width="48" height="48"> | [***bookmarks-manager***](apps/bookmarks-manager.md) | *Edit bookmarks, check url.*..[ *read more* ](apps/bookmarks-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bookmarks-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bookmarks-manager) |
 | <img loading="lazy" src="icons/boostchanger.png" width="48" height="48"> | [***boostchanger***](apps/boostchanger.md) | *Control CPU turbo boost and the settings of the cpu speed.*..[ *read more* ](apps/boostchanger.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/boostchanger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/boostchanger) |

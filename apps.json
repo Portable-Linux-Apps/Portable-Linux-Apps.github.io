@@ -1145,6 +1145,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/bomber.png"
   },
   {
+    "packageName": "bongocat",
+    "description": "A chinese cute interactive desktop pet application that makes your desktop full of fun!..",
+    "icon": "https://portable-linux-apps.github.io/icons/bongocat.png"
+  },
+  {
     "packageName": "book-manager",
     "description": "Simple desktop app to manage personal library...",
     "icon": "https://portable-linux-apps.github.io/icons/book-manager.png"
