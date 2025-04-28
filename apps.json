@@ -4090,14 +4090,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/ghostty-glfw-nightly.png"
   },
   {
-    "packageName": "ghostty-nightly",
-    "description": "Unoffical, 👻 ⚙️ AppImage for Ghostty Terminal Emulator (Tip, Nightly)..",
-    "icon": "https://portable-linux-apps.github.io/icons/ghostty-nightly.png"
-  },
-  {
     "packageName": "ghostty-glfw",
     "description": "Unofficial, 👻 ⚙️ AppImage for Ghostty Terminal Emulator (glfw version)..",
     "icon": "https://portable-linux-apps.github.io/icons/ghostty-glfw.png"
+  },
+  {
+    "packageName": "ghostty-nightly",
+    "description": "Unoffical, 👻 ⚙️ AppImage for Ghostty Terminal Emulator (Tip, Nightly)..",
+    "icon": "https://portable-linux-apps.github.io/icons/ghostty-nightly.png"
   },
   {
     "packageName": "ghostty",
@@ -10818,6 +10818,11 @@
     "packageName": "supertuxkart-appimage",
     "description": "Unofficial. Racing game focused on Fun...",
     "icon": "https://portable-linux-apps.github.io/icons/supertuxkart-appimage.png"
+  },
+  {
+    "packageName": "supertuxkart-dev-appimage",
+    "description": "Unofficial. Racing game focused on Fun. Pre-release...",
+    "icon": "https://portable-linux-apps.github.io/icons/supertuxkart-dev-appimage.png"
   },
   {
     "packageName": "supertuxkart",
