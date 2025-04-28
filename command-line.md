@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **208** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **209** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -85,6 +85,7 @@
 | <img loading="lazy" src="icons/ffsend.png" width="48" height="48"> | [***ffsend***](apps/ffsend.md) | *Easily and securely share files from the command line. A fully featured Firefox Send client.*..[ *read more* ](apps/ffsend.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffsend) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffsend) |
 | <img loading="lazy" src="icons/filen-cli.png" width="48" height="48"> | [***filen-cli***](apps/filen-cli.md) | *Filen CLI for Windows, macOS and Linux*..[ *read more* ](apps/filen-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filen-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filen-cli) |
 | <img loading="lazy" src="icons/fishterm.png" width="48" height="48"> | [***fishterm***](apps/fishterm.md) | *A open-soruce Terminal remote access.*..[ *read more* ](apps/fishterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fishterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fishterm) |
+| <img loading="lazy" src="icons/fish.png" width="48" height="48"> | [***fish***](apps/fish.md) | *The user-friendly command line shell.*..[ *read more* ](apps/fish.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fish) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fish) |
 | <img loading="lazy" src="icons/flyctl.png" width="48" height="48"> | [***flyctl***](apps/flyctl.md) | *Command line tools for fly.io services.*..[ *read more* ](apps/flyctl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flyctl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flyctl) |
 | <img loading="lazy" src="icons/fman.png" width="48" height="48"> | [***fman***](apps/fman.md) | *TUI CLI File Manager.*..[ *read more* ](apps/fman.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fman) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fman) |
 | <img loading="lazy" src="icons/focus.png" width="48" height="48"> | [***focus***](apps/focus.md) | *A fully featured productivity timer for the command line, based on the Pomodoro Technique.*..[ *read more* ](apps/focus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/focus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/focus) |

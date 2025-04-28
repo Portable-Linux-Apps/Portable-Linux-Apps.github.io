@@ -3626,7 +3626,7 @@
   },
   {
     "packageName": "fish",
-    "description": "Unofficial, AppImage for `fish` shell...",
+    "description": "The user-friendly command line shell...",
     "icon": "https://portable-linux-apps.github.io/icons/fish.png"
   },
   {
