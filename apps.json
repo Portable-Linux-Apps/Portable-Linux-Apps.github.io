@@ -1435,11 +1435,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/calm-fan.png"
   },
   {
-    "packageName": "calmly-writer",
-    "description": "Traditional word processors include dozens of options for formatting text, distracting you from what really matters, writing...",
-    "icon": "https://portable-linux-apps.github.io/icons/calmly-writer.png"
-  },
-  {
     "packageName": "calm-meditator",
     "description": "Calm down and draw something, in Lisp...",
     "icon": "https://portable-linux-apps.github.io/icons/calm-meditator.png"

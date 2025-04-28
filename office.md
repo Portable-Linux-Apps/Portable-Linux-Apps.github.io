@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **89** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **88** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -42,7 +42,6 @@
 | <img loading="lazy" src="icons/boost-note.png" width="48" height="48"> | [***boost-note***](apps/boost-note.md) | *Document driven project management tool to speedup remote DevOps.*..[ *read more* ](apps/boost-note.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/boost-note) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/boost-note) |
 | <img loading="lazy" src="icons/brainverse.png" width="48" height="48"> | [***brainverse***](apps/brainverse.md) | *Electronic Lab Notebook for Reproducible Neuro Imaging Research.*..[ *read more* ](apps/brainverse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brainverse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brainverse) |
 | <img loading="lazy" src="icons/calibre.png" width="48" height="48"> | [***calibre***](apps/calibre.md) | *Unofficial. The one stop solution to all your e-book needs*..[ *read more* ](apps/calibre.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/calibre) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/calibre) |
-| <img loading="lazy" src="icons/calmly-writer.png" width="48" height="48"> | [***calmly-writer***](apps/calmly-writer.md) | *Traditional word processors include dozens of options for formatting text, distracting you from what really matters, writing.*..[ *read more* ](apps/calmly-writer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/calmly-writer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/calmly-writer) |
 | <img loading="lazy" src="icons/caprine.png" width="48" height="48"> | [***caprine***](apps/caprine.md) | *Unofficial, elegant privacy focused Facebook Messenger app.*..[ *read more* ](apps/caprine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/caprine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/caprine) |
 | <img loading="lazy" src="icons/comic-book-reader.png" width="48" height="48"> | [***comic-book-reader***](apps/comic-book-reader.md) | *Reader and converter for cbz, cbr, epub and pdf files.*..[ *read more* ](apps/comic-book-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/comic-book-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/comic-book-reader) |
 | <img loading="lazy" src="icons/comic-reader.png" width="48" height="48"> | [***comic-reader***](apps/comic-reader.md) | *Electron based comic reader.*..[ *read more* ](apps/comic-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/comic-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/comic-reader) |
