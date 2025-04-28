@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2079** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2080** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -347,6 +347,7 @@
 | <img loading="lazy" src="icons/contour.png" width="48" height="48"> | [***contour***](apps/contour.md) | *Modern C++ Terminal Emulator.*..[ *read more* ](apps/contour.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/contour) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/contour) |
 | <img loading="lazy" src="icons/converseen.png" width="48" height="48"> | [***converseen***](apps/converseen.md) | *A batch image converter and resizer.*..[ *read more* ](apps/converseen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/converseen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/converseen) |
 | <img loading="lazy" src="icons/converter432hz.png" width="48" height="48"> | [***converter432hz***](apps/converter432hz.md) | *Converts and re-encodes music to 432hz.*..[ *read more* ](apps/converter432hz.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/converter432hz) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/converter432hz) |
+| <img loading="lazy" src="icons/converternow.png" width="48" height="48"> | [***converternow***](apps/converternow.md) | *The Unit Converter app. Easy, immediate and multi-platform.*..[ *read more* ](apps/converternow.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/converternow) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/converternow) |
 | <img loading="lazy" src="icons/coolercontrol.png" width="48" height="48"> | [***coolercontrol***](apps/coolercontrol.md) | *A program to monitor and control your cooling devices.*..[ *read more* ](apps/coolercontrol.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/coolercontrol) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/coolercontrol) |
 | <img loading="lazy" src="icons/coolercontrold.png" width="48" height="48"> | [***coolercontrold***](apps/coolercontrold.md) | *Daemon for coolercontrol, to monitor your cooling devices.*..[ *read more* ](apps/coolercontrold.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/coolercontrold) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/coolercontrold) |
 | <img loading="lazy" src="icons/cool-retro-term.png" width="48" height="48"> | [***cool-retro-term***](apps/cool-retro-term.md) | *Use the command line the old way.*..[ *read more* ](apps/cool-retro-term.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cool-retro-term) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cool-retro-term) |
