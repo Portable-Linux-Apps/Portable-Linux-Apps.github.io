@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **147** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **148** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -32,6 +32,7 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
+| <img loading="lazy" src="icons/acestream.png" width="48" height="48"> | [***acestream***](apps/acestream.md) | *Створення бінарника AppImage з AceStream Media.*..[ *read more* ](apps/acestream.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/acestream) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/acestream) |
 | <img loading="lazy" src="icons/akuse.png" width="48" height="48"> | [***akuse***](apps/akuse.md) | *Simple and easy to use anime streaming desktop app without ads.*..[ *read more* ](apps/akuse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/akuse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/akuse) |
 | <img loading="lazy" src="icons/alvr.png" width="48" height="48"> | [***alvr***](apps/alvr.md) | *Stream VR games from your PC to your headset via Wi-Fi.*..[ *read more* ](apps/alvr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alvr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alvr) |
 | <img loading="lazy" src="icons/animos.png" width="48" height="48"> | [***animos***](apps/animos.md) | *Anime-streaming desktop application without any ads.*..[ *read more* ](apps/animos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/animos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/animos) |

@@ -55,6 +55,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/accessimap-lecteur-der.png"
   },
   {
+    "packageName": "acestream",
+    "description": "Створення бінарника AppImage з AceStream Media...",
+    "icon": "https://portable-linux-apps.github.io/icons/acestream.png"
+  },
+  {
     "packageName": "acreom",
     "description": "Acreom desktop app releases...",
     "icon": "https://portable-linux-apps.github.io/icons/acreom.png"
@@ -198,6 +203,11 @@
     "packageName": "alpine-flatimage",
     "description": "A hybrid of Flatpak sandboxing with AppImage portability...",
     "icon": "https://portable-linux-apps.github.io/icons/alpine-flatimage.png"
+  },
+  {
+    "packageName": "alr2appimage",
+    "description": "Tool for building an AppImage from an Alire crate...",
+    "icon": "https://portable-linux-apps.github.io/icons/alr2appimage.png"
   },
   {
     "packageName": "altair",
@@ -555,6 +565,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/arena-tracker.png"
   },
   {
+    "packageName": "ares",
+    "description": "AppImage for the ares emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/ares.png"
+  },
+  {
     "packageName": "aretext",
     "description": "Minimalist text editor with vim-compatible key bindings...",
     "icon": "https://portable-linux-apps.github.io/icons/aretext.png"
@@ -773,6 +788,11 @@
     "packageName": "barnacal",
     "description": "A simple menu bar app for viewing a calendar..",
     "icon": "https://portable-linux-apps.github.io/icons/barnacal.png"
+  },
+  {
+    "packageName": "basilisk2",
+    "description": "Classic Macintosh emulator BasiliskII...",
+    "icon": "https://portable-linux-apps.github.io/icons/basilisk2.png"
   },
   {
     "packageName": "bastyon",
@@ -2733,6 +2753,11 @@
     "packageName": "dunst",
     "description": "Lightweight and customizable notification daemon...",
     "icon": "https://portable-linux-apps.github.io/icons/dunst.png"
+  },
+  {
+    "packageName": "duplicate-image-finder",
+    "description": "It is an application that can find duplicated images (jpg, png, bitmap, etc) in a collection...",
+    "icon": "https://portable-linux-apps.github.io/icons/duplicate-image-finder.png"
   },
   {
     "packageName": "duskplayer",
@@ -5703,6 +5728,11 @@
     "packageName": "kmon",
     "description": "Linux Kernel Manager and Activity Monitor...",
     "icon": "https://portable-linux-apps.github.io/icons/kmon.png"
+  },
+  {
+    "packageName": "km-recplayer",
+    "description": "Recorder and player of keyboard and mouse input (HID)..",
+    "icon": "https://portable-linux-apps.github.io/icons/km-recplayer.png"
   },
   {
     "packageName": "knavalbattle",
@@ -8955,6 +8985,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/python3.12.png"
   },
   {
+    "packageName": "python3.13",
+    "description": "Unofficial. Interactive high-level object-oriented language, version 3.13...",
+    "icon": "https://portable-linux-apps.github.io/icons/python3.13.png"
+  },
+  {
     "packageName": "python3.5",
     "description": "Unofficial. Interactive high-level object-oriented language, version 3.5...",
     "icon": "https://portable-linux-apps.github.io/icons/python3.5.png"
@@ -9963,6 +9998,11 @@
     "packageName": "sharp-tune",
     "description": "Music player build upon the node using the electron...",
     "icon": "https://portable-linux-apps.github.io/icons/sharp-tune.png"
+  },
+  {
+    "packageName": "sheepshaver",
+    "description": "Classic Macintosh emulator SheepShaver...",
+    "icon": "https://portable-linux-apps.github.io/icons/sheepshaver.png"
   },
   {
     "packageName": "sheikah",

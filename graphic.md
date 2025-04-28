@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **113** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **114** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -53,6 +53,7 @@
 | <img loading="lazy" src="icons/destiny.png" width="48" height="48"> | [***destiny***](apps/destiny.md) | *Cross-platform Magic Wormhole graphical client.*..[ *read more* ](apps/destiny.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/destiny) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/destiny) |
 | <img loading="lazy" src="icons/digikam.png" width="48" height="48"> | [***digikam***](apps/digikam.md) | *Professional and advanced digital photo management application.*..[ *read more* ](apps/digikam.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/digikam) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/digikam) |
 | <img loading="lazy" src="icons/dotto.png" width="48" height="48"> | [***dotto***](apps/dotto.md) | *A portable and modern pixelart editor, written from scratch.*..[ *read more* ](apps/dotto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dotto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dotto) |
+| <img loading="lazy" src="icons/duplicate-image-finder.png" width="48" height="48"> | [***duplicate-image-finder***](apps/duplicate-image-finder.md) | *It is an application that can find duplicated images (jpg, png, bitmap, etc) in a collection.*..[ *read more* ](apps/duplicate-image-finder.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/duplicate-image-finder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/duplicate-image-finder) |
 | <img loading="lazy" src="icons/dust3d.png" width="48" height="48"> | [***dust3d***](apps/dust3d.md) | *3D modeling software for games, 3D printing, and so on.*..[ *read more* ](apps/dust3d.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dust3d) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dust3d) |
 | <img loading="lazy" src="icons/ente-auth.png" width="48" height="48"> | [***ente-auth***](apps/ente-auth.md) | *Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos.*..[ *read more* ](apps/ente-auth.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ente-auth) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ente-auth) |
 | <img loading="lazy" src="icons/ente-photos.png" width="48" height="48"> | [***ente-photos***](apps/ente-photos.md) | *Binary releases of the Ente Photos desktop app.*..[ *read more* ](apps/ente-photos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ente-photos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ente-photos) |
