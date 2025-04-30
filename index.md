@@ -8,7 +8,7 @@
 
 #### *Categories*
 
-#### *This site lists **2504** unique apps (**2089** Appimage packages and **415** standalone/portable programs), plus **79** items.*
+#### *This site lists **2505** unique apps (**2090** Appimage packages and **415** standalone/portable programs), plus **79** items.*
 
 
 #### *Categories*
