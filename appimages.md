@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2088** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2089** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2110,6 +2110,7 @@
 | <img loading="lazy" src="icons/zenkit.png" width="48" height="48"> | [***zenkit***](apps/zenkit.md) | *A platform for collaboration and project management.*..[ *read more* ](apps/zenkit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zenkit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zenkit) |
 | <img loading="lazy" src="icons/zenroomstudio.png" width="48" height="48"> | [***zenroomstudio***](apps/zenroomstudio.md) | *Extensible IDE which targets multiple dev platforms.*..[ *read more* ](apps/zenroomstudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zenroomstudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zenroomstudio) |
 | <img loading="lazy" src="icons/zettlr.png" width="48" height="48"> | [***zettlr***](apps/zettlr.md) | *A Markdown Editor for the 21st century.*..[ *read more* ](apps/zettlr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zettlr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zettlr) |
+| <img loading="lazy" src="icons/zmk-studio.png" width="48" height="48"> | [***zmk-studio***](apps/zmk-studio.md) | *ZMK Firmware. Modern, open source keyboard firmware.*..[ *read more* ](apps/zmk-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zmk-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zmk-studio) |
 | <img loading="lazy" src="icons/zmninja.png" width="48" height="48"> | [***zmninja***](apps/zmninja.md) | *Ionic app for Home/Commerical Security Surveillance.*..[ *read more* ](apps/zmninja.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zmninja) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zmninja) |
 | <img loading="lazy" src="icons/znax.png" width="48" height="48"> | [***znax***](apps/znax.md) | *Znax is a cross platform puzzle / arcade game using SDL2 libraries.*..[ *read more* ](apps/znax.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/znax) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/znax) |
 | <img loading="lazy" src="icons/znote.png" width="48" height="48"> | [***znote***](apps/znote.md) | *A Beautiful markdown editor inspired by Jupyter.*..[ *read more* ](apps/znote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/znote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/znote) |

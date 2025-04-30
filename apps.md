@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2503** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2504** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2597,6 +2597,7 @@
 | <img loading="lazy" src="icons/zfind.png" width="48" height="48"> | [***zfind***](apps/zfind.md) | *Search files, even inside tar/zip/7z/rar using a SQL-WHERE filter.*..[ *read more* ](apps/zfind.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zfind) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zfind) |
 | <img loading="lazy" src="icons/zfxtop.png" width="48" height="48"> | [***zfxtop***](apps/zfxtop.md) | *[WIP] fetch top for gen Z with X written by bubbletea enjoyer.*..[ *read more* ](apps/zfxtop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zfxtop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zfxtop) |
 | <img loading="lazy" src="icons/zk.png" width="48" height="48"> | [***zk***](apps/zk.md) | *A plain text note-taking assistant*..[ *read more* ](apps/zk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zk) |
+| <img loading="lazy" src="icons/zmk-studio.png" width="48" height="48"> | [***zmk-studio***](apps/zmk-studio.md) | *ZMK Firmware. Modern, open source keyboard firmware.*..[ *read more* ](apps/zmk-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zmk-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zmk-studio) |
 | <img loading="lazy" src="icons/zmninja.png" width="48" height="48"> | [***zmninja***](apps/zmninja.md) | *Ionic app for Home/Commerical Security Surveillance.*..[ *read more* ](apps/zmninja.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zmninja) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zmninja) |
 | <img loading="lazy" src="icons/znax.png" width="48" height="48"> | [***znax***](apps/znax.md) | *Znax is a cross platform puzzle / arcade game using SDL2 libraries.*..[ *read more* ](apps/znax.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/znax) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/znax) |
 | <img loading="lazy" src="icons/znote.png" width="48" height="48"> | [***znote***](apps/znote.md) | *A Beautiful markdown editor inspired by Jupyter.*..[ *read more* ](apps/znote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/znote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/znote) |
