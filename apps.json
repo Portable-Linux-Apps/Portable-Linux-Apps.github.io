@@ -725,11 +725,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/avidemux-qt.png"
   },
   {
-    "packageName": "avocado",
-    "description": "PlayStation 1 emulator, games...",
-    "icon": "https://portable-linux-apps.github.io/icons/avocado.png"
-  },
-  {
     "packageName": "avogadro2",
     "description": "Molecular editor for computational chemistry, bioinformatics...",
     "icon": "https://portable-linux-apps.github.io/icons/avogadro2.png"
@@ -1003,11 +998,6 @@
     "packageName": "bitbox-wallet",
     "description": "Cryptocurrency hardware wallet desktop app...",
     "icon": "https://portable-linux-apps.github.io/icons/bitbox-wallet.png"
-  },
-  {
-    "packageName": "bitfighter",
-    "description": "A 2-D multi-player space combat game...",
-    "icon": "https://portable-linux-apps.github.io/icons/bitfighter.png"
   },
   {
     "packageName": "bitshares",
