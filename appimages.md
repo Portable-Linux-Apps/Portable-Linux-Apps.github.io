@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2088** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2087** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1306,7 +1306,6 @@
 | <img loading="lazy" src="icons/packsquash.png" width="48" height="48"> | [***packsquash***](apps/packsquash.md) | *A Minecraft Java Edition resource and data pack optimizer.*..[ *read more* ](apps/packsquash.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/packsquash) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/packsquash) |
 | <img loading="lazy" src="icons/padloc.png" width="48" height="48"> | [***padloc***](apps/padloc.md) | *Electron Wrapper for Padloc app.*..[ *read more* ](apps/padloc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/padloc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/padloc) |
 | <img loading="lazy" src="icons/painel-web.png" width="48" height="48"> | [***painel-web***](apps/painel-web.md) | *Novo SGA panel.*..[ *read more* ](apps/painel-web.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/painel-web) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/painel-web) |
-| <img loading="lazy" src="icons/paletti.png" width="48" height="48"> | [***paletti***](apps/paletti.md) | *Reduces an image into fewer colors to simplify, color palettes.*..[ *read more* ](apps/paletti.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/paletti) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/paletti) |
 | <img loading="lazy" src="icons/panini.png" width="48" height="48"> | [***panini***](apps/panini.md) | *Perspective views from panoramic images.*..[ *read more* ](apps/panini.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/panini) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/panini) |
 | <img loading="lazy" src="icons/panwriter.png" width="48" height="48"> | [***panwriter***](apps/panwriter.md) | *Markdown editor with pandoc integration.*..[ *read more* ](apps/panwriter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/panwriter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/panwriter) |
 | <img loading="lazy" src="icons/paper.png" width="48" height="48"> | [***paper***](apps/paper.md) | *A CLI Tool to set a random wallpaper from Unsplash.com.*..[ *read more* ](apps/paper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/paper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/paper) |
