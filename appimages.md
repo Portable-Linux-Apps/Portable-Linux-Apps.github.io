@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2086** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2087** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1023,6 +1023,7 @@
 | <img loading="lazy" src="icons/manager-io.png" width="48" height="48"> | [***manager-io***](apps/manager-io.md) | *Free Accounting Software for Linux, Server.*..[ *read more* ](apps/manager-io.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/manager-io) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/manager-io) |
 | <img loading="lazy" src="icons/mandelbulber2.png" width="48" height="48"> | [***mandelbulber2***](apps/mandelbulber2.md) | *Explore trigonometric, hyper-complex and other 3D fractals.*..[ *read more* ](apps/mandelbulber2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mandelbulber2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mandelbulber2) |
 | <img loading="lazy" src="icons/mangbandclient.png" width="48" height="48"> | [***mangbandclient***](apps/mangbandclient.md) | *A free online multi-player realtime roguelike game.*..[ *read more* ](apps/mangbandclient.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangbandclient) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangbandclient) |
+| <img loading="lazy" src="icons/mangojuice.png" width="48" height="48"> | [***mangojuice***](apps/mangojuice.md) | *It's a great alternative to GOverlay.*..[ *read more* ](apps/mangojuice.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangojuice) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangojuice) |
 | <img loading="lazy" src="icons/manta.png" width="48" height="48"> | [***manta***](apps/manta.md) | *Flexible invoicing app with beautiful & customizable templates.*..[ *read more* ](apps/manta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/manta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/manta) |
 | <img loading="lazy" src="icons/mapeo.png" width="48" height="48"> | [***mapeo***](apps/mapeo.md) | *Local-first mapping and monitoring in remote environments.*..[ *read more* ](apps/mapeo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mapeo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mapeo) |
 | <img loading="lazy" src="icons/mapollage.png" width="48" height="48"> | [***mapollage***](apps/mapollage.md) | *Photo kml generator for Google Earth.*..[ *read more* ](apps/mapollage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mapollage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mapollage) |

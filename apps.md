@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2501** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2502** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1314,6 +1314,7 @@
 | <img loading="lazy" src="icons/mangadesk.png" width="48" height="48"> | [***mangadesk***](apps/mangadesk.md) | *Terminal client for MangaDex.*..[ *read more* ](apps/mangadesk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangadesk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangadesk) |
 | <img loading="lazy" src="icons/mangal.png" width="48" height="48"> | [***mangal***](apps/mangal.md) | *Most advanced, yet simple CLI manga downloader in the universe!*..[ *read more* ](apps/mangal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangal) |
 | <img loading="lazy" src="icons/mangbandclient.png" width="48" height="48"> | [***mangbandclient***](apps/mangbandclient.md) | *A free online multi-player realtime roguelike game.*..[ *read more* ](apps/mangbandclient.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangbandclient) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangbandclient) |
+| <img loading="lazy" src="icons/mangojuice.png" width="48" height="48"> | [***mangojuice***](apps/mangojuice.md) | *It's a great alternative to GOverlay.*..[ *read more* ](apps/mangojuice.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangojuice) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangojuice) |
 | <img loading="lazy" src="icons/manta.png" width="48" height="48"> | [***manta***](apps/manta.md) | *Flexible invoicing app with beautiful & customizable templates.*..[ *read more* ](apps/manta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/manta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/manta) |
 | <img loading="lazy" src="icons/mapeo.png" width="48" height="48"> | [***mapeo***](apps/mapeo.md) | *Local-first mapping and monitoring in remote environments.*..[ *read more* ](apps/mapeo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mapeo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mapeo) |
 | <img loading="lazy" src="icons/mapollage.png" width="48" height="48"> | [***mapollage***](apps/mapollage.md) | *Photo kml generator for Google Earth.*..[ *read more* ](apps/mapollage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mapollage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mapollage) |
