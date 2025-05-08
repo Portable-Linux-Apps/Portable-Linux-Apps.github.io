@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2087** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2086** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1988,7 +1988,6 @@
 | <img loading="lazy" src="icons/watchflower.png" width="48" height="48"> | [***watchflower***](apps/watchflower.md) | *Read and plot datas from your Xiaomi devices.*..[ *read more* ](apps/watchflower.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/watchflower) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/watchflower) |
 | <img loading="lazy" src="icons/watchit.png" width="48" height="48"> | [***watchit***](apps/watchit.md) | *Open movies everywhere.*..[ *read more* ](apps/watchit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/watchit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/watchit) |
 | <img loading="lazy" src="icons/waterfox-appimage.png" width="48" height="48"> | [***waterfox-appimage***](apps/waterfox-appimage.md) | *Browse the World Wide Web, current version.*..[ *read more* ](apps/waterfox-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/waterfox-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/waterfox-appimage) |
-| <img loading="lazy" src="icons/wavebox.png" width="48" height="48"> | [***wavebox***](apps/wavebox.md) | *The next generation of web-desktop communication.*..[ *read more* ](apps/wavebox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wavebox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wavebox) |
 | <img loading="lazy" src="icons/waydroid-helper.png" width="48" height="48"> | [***waydroid-helper***](apps/waydroid-helper.md) | *App that provides a user-friendly way to configure Waydroid and install extensions, including Magisk and ARM translation (android).*..[ *read more* ](apps/waydroid-helper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/waydroid-helper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/waydroid-helper) |
 | <img loading="lazy" src="icons/wazo-desktop.png" width="48" height="48"> | [***wazo-desktop***](apps/wazo-desktop.md) | *Wazo desktop client for wazo VOIP server.*..[ *read more* ](apps/wazo-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wazo-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wazo-desktop) |
 | <img loading="lazy" src="icons/weakauras.png" width="48" height="48"> | [***weakauras***](apps/weakauras.md) | *App to provide missing link between Wago.io and World of Warcraft.*..[ *read more* ](apps/weakauras.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/weakauras) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/weakauras) |

@@ -12125,11 +12125,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/waterfox.png"
   },
   {
-    "packageName": "wavebox",
-    "description": "The next generation of web-desktop communication...",
-    "icon": "https://portable-linux-apps.github.io/icons/wavebox.png"
-  },
-  {
     "packageName": "waydroid-helper",
     "description": "App that provides a user-friendly way to configure Waydroid and install extensions, including Magisk and ARM translation (android)...",
     "icon": "https://portable-linux-apps.github.io/icons/waydroid-helper.png"
