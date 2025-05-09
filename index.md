@@ -46,7 +46,7 @@
 --------
 
 ### What are the portable linux apps?
-*Portable Linux Apps are standalone applications for GNU/Linux that can (theoretically) run everywhere, also on a USB stick. These applications can be AppImage packages (see [appimage.org](https://appimage.org/)) or standalone archives (for example Firefox, Blender, Thunderbird...).*
+*Portable Linux Apps are standalone applications for GNU/Linux that can (theoretically) run everywhere, also on a USB stick. These applications can be AppImage packages (see [appimage.org](https://appimage.org/)) or standalone archives (for example Firefox, Thunderbird...).*
 
 --------
 
@@ -209,7 +209,7 @@ wget -q https://raw.githubusercontent.com/ivan-hc/AM/main/AM-INSTALLER && chmod 
 
 *"AM" installs, removes, updates and manages only standalone programs, ie those programs that can be run from a single directory in which they are contained.*
 
-*1. **PORTABLE PROGRAMS** from official sources (see Firefox, Thunderbird, Blender, NodeJS, Chromium Latest, Platform Tools...), extracted from official .deb/tar/zip packages.*
+*1. **PORTABLE PROGRAMS** from official sources (see Firefox, Thunderbird, NodeJS, Platform Tools...), extracted from official .deb/tar/zip packages.*
 
 *2. **APPIMAGES**, from both official and unofficial sources (I also create unofficial AppImages), or compiled on-the-fly with [pkg2appimage](https://github.com/AppImage/pkg2appimage) and [appimagetool](https://github.com/AppImage/AppImageKit), like an AUR helper, from official archives.*
 
