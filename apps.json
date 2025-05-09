@@ -10855,18 +10855,13 @@
     "icon": "https://portable-linux-apps.github.io/icons/supertux.png"
   },
   {
-    "packageName": "supertuxkart-appimage",
-    "description": "Unofficial. Racing game focused on Fun...",
-    "icon": "https://portable-linux-apps.github.io/icons/supertuxkart-appimage.png"
-  },
-  {
-    "packageName": "supertuxkart-dev-appimage",
-    "description": "Unofficial. Racing game focused on Fun. Pre-release...",
-    "icon": "https://portable-linux-apps.github.io/icons/supertuxkart-dev-appimage.png"
+    "packageName": "supertuxkart-dev",
+    "description": "Free kart racing game focused on Fun! Pre-release...",
+    "icon": "https://portable-linux-apps.github.io/icons/supertuxkart-dev.png"
   },
   {
     "packageName": "supertuxkart",
-    "description": "The original Free kart racing game focused on Fun!..",
+    "description": "Free kart racing game focused on Fun!..",
     "icon": "https://portable-linux-apps.github.io/icons/supertuxkart.png"
   },
   {
