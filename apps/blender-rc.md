@@ -7,6 +7,8 @@
  ![Screenshot](https://upload.wikimedia.org/wikipedia/commons/3/33/Blender_3.1.0_screenshot.png)
  
  SITE: https://www.blender.org
+ 
+ UNOFFICIAL APPIMAGE: https://github.com/ivan-hc/Blender-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
