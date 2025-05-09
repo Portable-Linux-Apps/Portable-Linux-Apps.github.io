@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2501** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2502** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1207,6 +1207,7 @@
 | <img loading="lazy" src="icons/kubeman.png" width="48" height="48"> | [***kubeman***](apps/kubeman.md) | *The Hero that Kubernetes deserves.*..[ *read more* ](apps/kubeman.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kubeman) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kubeman) |
 | <img loading="lazy" src="icons/kubenav.png" width="48" height="48"> | [***kubenav***](apps/kubenav.md) | *The navigator for your Kubernetes clusters right in your pocket.*..[ *read more* ](apps/kubenav.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kubenav) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kubenav) |
 | <img loading="lazy" src="icons/kubrick.png" width="48" height="48"> | [***kubrick***](apps/kubrick.md) | *Unofficial, A logic game based on Rubik's Cube. This script installs the full "kdegames" suite.*..[ *read more* ](apps/kubrick.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kubrick) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kubrick) |
+| <img loading="lazy" src="icons/kunkun.png" width="48" height="48"> | [***kunkun***](apps/kunkun.md) | *An open source, cross-platform, extensible app launcher.*..[ *read more* ](apps/kunkun.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kunkun) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kunkun) |
 | <img loading="lazy" src="icons/kure.png" width="48" height="48"> | [***kure***](apps/kure.md) | *CLI password manager with sessions.*..[ *read more* ](apps/kure.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kure) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kure) |
 | <img loading="lazy" src="icons/kuro.png" width="48" height="48"> | [***kuro***](apps/kuro.md) | *An elegant Microsoft ToDo desktop client for Linux, a fork of Ao.*..[ *read more* ](apps/kuro.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kuro) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kuro) |
 | <img loading="lazy" src="icons/kvrt.png" width="48" height="48"> | [***kvrt***](apps/kvrt.md) | *Official Kaspersky Virus Removal Tool for Linux.*..[ *read more* ](apps/kvrt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kvrt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kvrt) |

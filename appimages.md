@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2086** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2087** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -937,6 +937,7 @@
 | <img loading="lazy" src="icons/ksnip.png" width="48" height="48"> | [***ksnip***](apps/ksnip.md) | *Screenshot tool inspired by Windows Snipping Tool and made with Qt.*..[ *read more* ](apps/ksnip.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ksnip) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ksnip) |
 | <img loading="lazy" src="icons/kubeman.png" width="48" height="48"> | [***kubeman***](apps/kubeman.md) | *The Hero that Kubernetes deserves.*..[ *read more* ](apps/kubeman.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kubeman) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kubeman) |
 | <img loading="lazy" src="icons/kubenav.png" width="48" height="48"> | [***kubenav***](apps/kubenav.md) | *The navigator for your Kubernetes clusters right in your pocket.*..[ *read more* ](apps/kubenav.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kubenav) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kubenav) |
+| <img loading="lazy" src="icons/kunkun.png" width="48" height="48"> | [***kunkun***](apps/kunkun.md) | *An open source, cross-platform, extensible app launcher.*..[ *read more* ](apps/kunkun.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kunkun) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kunkun) |
 | <img loading="lazy" src="icons/kuro.png" width="48" height="48"> | [***kuro***](apps/kuro.md) | *An elegant Microsoft ToDo desktop client for Linux, a fork of Ao.*..[ *read more* ](apps/kuro.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kuro) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kuro) |
 | <img loading="lazy" src="icons/kwave.png" width="48" height="48"> | [***kwave***](apps/kwave.md) | *A sound & audio editor designed for the KDE Desktop Environment.*..[ *read more* ](apps/kwave.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kwave) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kwave) |
 | <img loading="lazy" src="icons/labplot.png" width="48" height="48"> | [***labplot***](apps/labplot.md) | *Data Visualization and Analysis software accessible to everyone and trusted by professionals.*..[ *read more* ](apps/labplot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/labplot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/labplot) |
