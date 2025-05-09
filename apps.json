@@ -3925,11 +3925,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/funkin-legacy.png"
   },
   {
-    "packageName": "funkin-psych",
-    "description": "Engine originally used on Mind Games mod, forked only for ease of use for Linux users who don't know how to compile code...",
-    "icon": "https://portable-linux-apps.github.io/icons/funkin-psych.png"
-  },
-  {
     "packageName": "funterm",
     "description": "A Linux Terminal Emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/funterm.png"

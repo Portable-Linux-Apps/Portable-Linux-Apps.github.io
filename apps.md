@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2501** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2500** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -812,7 +812,6 @@
 | <img loading="lazy" src="icons/fspy.png" width="48" height="48"> | [***fspy***](apps/fspy.md) | *An open source, cross platform app for still image camera matching.*..[ *read more* ](apps/fspy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fspy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fspy) |
 | <img loading="lazy" src="icons/fukayo.png" width="48" height="48"> | [***fukayo***](apps/fukayo.md) | *Manga reader.*..[ *read more* ](apps/fukayo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fukayo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fukayo) |
 | <img loading="lazy" src="icons/funkin-legacy.png" width="48" height="48"> | [***funkin-legacy***](apps/funkin-legacy.md) | *Legacy GLibC Linux support for Friday Night Funkin. A rhythm game made with HaxeFlixel.*..[ *read more* ](apps/funkin-legacy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/funkin-legacy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/funkin-legacy) |
-| <img loading="lazy" src="icons/funkin-psych.png" width="48" height="48"> | [***funkin-psych***](apps/funkin-psych.md) | *Engine originally used on Mind Games mod, forked only for ease of use for Linux users who don't know how to compile code.*..[ *read more* ](apps/funkin-psych.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/funkin-psych) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/funkin-psych) |
 | <img loading="lazy" src="icons/funkin.png" width="48" height="48"> | [***funkin***](apps/funkin.md) | *A rhythm game made with HaxeFlixel*..[ *read more* ](apps/funkin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/funkin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/funkin) |
 | <img loading="lazy" src="icons/funterm.png" width="48" height="48"> | [***funterm***](apps/funterm.md) | *A Linux Terminal Emulator.*..[ *read more* ](apps/funterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/funterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/funterm) |
 | <img loading="lazy" src="icons/fx.png" width="48" height="48"> | [***fx***](apps/fx.md) | *Terminal JSON viewer & processor.*..[ *read more* ](apps/fx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fx) |
