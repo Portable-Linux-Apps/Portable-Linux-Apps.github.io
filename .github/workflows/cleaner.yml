@@ -33,7 +33,7 @@ jobs:
           done
           for p in $PNGS; do
           	if ! echo "$LIST" | grep -q "◆ $p :"; then
-          		rm -f "apps/$p.png"
+          		rm -f "icons/$p.png"
           	fi
           done
 
