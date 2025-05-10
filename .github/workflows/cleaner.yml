@@ -28,12 +28,12 @@ jobs:
           PNGS=$(ls icons/* | sed 's:.*/::; s/.png$//g')
           for md in $MDS; do
           	if ! echo "$LIST" | grep -q "◆ $md :"; then
-          		rm -f apps/"$md".md
+          		git rm -r apps/"$md".md
           	fi
           done
           for png in $PNGS; do
           	if ! echo "$LIST" | grep -q "◆ $png :"; then
-          		rm -f apps/"$png".png
+          		git rm -r apps/"$png".png
           	fi
           done
           
