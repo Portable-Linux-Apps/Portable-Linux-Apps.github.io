@@ -28,12 +28,12 @@ jobs:
           PNGS=$(ls icons/* | sed 's:.*/::; s/.png$//g')
           for md in $MDS; do
           	if ! echo "$LIST" | grep -q "◆ $md :"; then
-          		echo "apps/$md.md" >> toremove
+          		rm -f "apps/$md.md"
           	fi
           done
           for png in $PNGS; do
           	if ! echo "$LIST" | grep -q "◆ $png :"; then
-          		echo "apps/$png.png" >> toremove
+          		rm -f "apps/$png.png"
           	fi
           done
           
@@ -42,10 +42,6 @@ jobs:
         run: |
           git config --global user.name "Portable-Linux-Apps"
           git config --global user.email "noreply@github.com"
-          toberemove=$(cat toremove)
-          for r in $toberemove; do
-          	git rm -r "$r"
-          done
           if git diff-index --quiet HEAD; then
             echo "No changes to commit." >> $GITHUB_STEP_SUMMARY
           else
