@@ -15,7 +15,7 @@ permissions:
 
 jobs:
   sync-files:
-    name: "Run sync"
+    name: "To clean"
     runs-on: ubuntu-22.04
     steps:
       - name: "Checkout source repository"
@@ -28,12 +28,12 @@ jobs:
           PNGS=$(ls icons/* | sed 's:.*/::; s/.png$//g')
           for md in $MDS; do
           	if ! echo "$LIST" | grep -q "◆ $md :"; then
-          		git rm -r apps/"$md".md
+          		echo "apps/$md.md" >> toremove
           	fi
           done
           for png in $PNGS; do
           	if ! echo "$LIST" | grep -q "◆ $png :"; then
-          		git rm -r apps/"$png".png
+          		echo "apps/$png.png" >> toremove
           	fi
           done
           
@@ -42,8 +42,10 @@ jobs:
         run: |
           git config --global user.name "Portable-Linux-Apps"
           git config --global user.email "noreply@github.com"
-          git commit -m "clean unneeded"
-          git push --force
+          toberemove=$(cat toremove)
+          for r in $toberemove; do
+          	git rm -r "$r"
+          done
           if git diff-index --quiet HEAD; then
             echo "No changes to commit." >> $GITHUB_STEP_SUMMARY
           else
