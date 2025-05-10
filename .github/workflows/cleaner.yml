@@ -1,0 +1,51 @@
+name: "Cleaner"
+
+on:
+  #schedule:
+  #  - cron: "*/15 * * * *"
+
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  sync-files:
+    name: "Run sync"
+    runs-on: ubuntu-22.04
+    steps:
+      - name: "Checkout source repository"
+        uses: actions/checkout@v4
+
+      - name: "Run cleaner"
+        run: |
+          LIST=$(curl -Ls https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64-apps)
+          MDS=$(ls apps/* | sed 's:.*/::; s/.md$//g')
+          PNGS=$(ls icons/* | sed 's:.*/::; s/.png$//g')
+          for md in $MDS; do
+          	if ! echo "$LIST" | grep -q "◆ $md :"; then
+          		rm -f apps/"$md".md
+          	fi
+          done
+          for png in $PNGS; do
+          	if ! echo "$LIST" | grep -q "◆ $png :"; then
+          		rm -f apps/"$png".png
+          	fi
+          done
+          
+          
+      - name: "Push to Source"
+        run: |
+          git config --global user.name "Portable-Linux-Apps"
+          git config --global user.email "noreply@github.com"
+          git add apps/*.md icons/*.png
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit." >> $GITHUB_STEP_SUMMARY
+          else
+            git commit -m "Sync files from source repository"
+            git push && echo "Sync to Source succeeded" >> $GITHUB_STEP_SUMMARY
+          fi
