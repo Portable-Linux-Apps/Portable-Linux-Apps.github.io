@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2091** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2092** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1785,6 +1785,7 @@
 | <img loading="lazy" src="icons/sunny.png" width="48" height="48"> | [***sunny***](apps/sunny.md) | *Screenshot software that supports OCR and image translation features.*..[ *read more* ](apps/sunny.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sunny) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sunny) |
 | <img loading="lazy" src="icons/sunsama.png" width="48" height="48"> | [***sunsama***](apps/sunsama.md) | *The daily planner for elite professionals.*..[ *read more* ](apps/sunsama.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sunsama) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sunsama) |
 | <img loading="lazy" src="icons/sunshine.png" width="48" height="48"> | [***sunshine***](apps/sunshine.md) | *Sunshine is a Gamestream host for Moonlight.*..[ *read more* ](apps/sunshine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sunshine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sunshine) |
+| <img loading="lazy" src="icons/sunvox.png" width="48" height="48"> | [***sunvox***](apps/sunvox.md) | *Small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).*..[ *read more* ](apps/sunvox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sunvox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sunvox) |
 | <img loading="lazy" src="icons/sup.png" width="48" height="48"> | [***sup***](apps/sup.md) | *A Slack client with WhatsApp like UI.*..[ *read more* ](apps/sup.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sup) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sup) |
 | <img loading="lazy" src="icons/superbacked.png" width="48" height="48"> | [***superbacked***](apps/superbacked.md) | *Don’t lose your secrets. A secret management platform used to back up and pass on sensitive data from one generation to the next.*..[ *read more* ](apps/superbacked.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/superbacked) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/superbacked) |
 | <img loading="lazy" src="icons/supernotes.png" width="48" height="48"> | [***supernotes***](apps/supernotes.md) | *Enjoy efficient note-taking without the hassle.*..[ *read more* ](apps/supernotes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supernotes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supernotes) |

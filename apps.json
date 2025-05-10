@@ -10800,6 +10800,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/sunshine.png"
   },
   {
+    "packageName": "sunvox",
+    "description": "Small, fast and powerful modular synthesizer with pattern-based sequencer (tracker)...",
+    "icon": "https://portable-linux-apps.github.io/icons/sunvox.png"
+  },
+  {
     "packageName": "sup",
     "description": "A Slack client with WhatsApp like UI...",
     "icon": "https://portable-linux-apps.github.io/icons/sup.png"
