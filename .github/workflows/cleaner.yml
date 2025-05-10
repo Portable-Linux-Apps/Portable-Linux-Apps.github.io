@@ -26,18 +26,17 @@ jobs:
           LIST=$(curl -Ls https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64-apps)
           MDS=$(ls apps/* | sed 's:.*/::; s/.md$//g')
           PNGS=$(ls icons/* | sed 's:.*/::; s/.png$//g')
-          for md in $MDS; do
-          	if ! echo "$LIST" | grep -q "◆ $md :"; then
-          		rm -f "apps/$md.md"
+          for m in $MDS; do
+          	if ! echo "$LIST" | grep -q "◆ $m :"; then
+          		rm -f "apps/$m.md"
           	fi
           done
-          for png in $PNGS; do
-          	if ! echo "$LIST" | grep -q "◆ $png :"; then
-          		rm -f "apps/$png.png"
+          for p in $PNGS; do
+          	if ! echo "$LIST" | grep -q "◆ $p :"; then
+          		rm -f "apps/$p.png"
           	fi
           done
-          
-          
+
       - name: "Push to Source"
         run: |
           git config --global user.name "Portable-Linux-Apps"
