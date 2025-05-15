@@ -1240,33 +1240,18 @@
     "icon": "https://portable-linux-apps.github.io/icons/brainwaves.png"
   },
   {
-    "packageName": "brave-appimage",
-    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"stable\" release...",
-    "icon": "https://portable-linux-apps.github.io/icons/brave-appimage.png"
-  },
-  {
     "packageName": "brave",
-    "description": "A privacy oriented Web Browser based on Chromium, this is the official \"stable\" release...",
+    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"stable\" release...",
     "icon": "https://portable-linux-apps.github.io/icons/brave.png"
   },
   {
-    "packageName": "brave-beta-appimage",
-    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"beta\" release...",
-    "icon": "https://portable-linux-apps.github.io/icons/brave-beta-appimage.png"
-  },
-  {
     "packageName": "brave-beta",
-    "description": "A privacy oriented Web Browser based on Chromium, this is the official \"beta\" release...",
+    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"beta\" release...",
     "icon": "https://portable-linux-apps.github.io/icons/brave-beta.png"
   },
   {
-    "packageName": "brave-nightly-appimage",
-    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"nightly\" release...",
-    "icon": "https://portable-linux-apps.github.io/icons/brave-nightly-appimage.png"
-  },
-  {
     "packageName": "brave-nightly",
-    "description": "A privacy oriented Web Browser based on Chromium, this is the official \"nightly\" release...",
+    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"nightly\" release...",
     "icon": "https://portable-linux-apps.github.io/icons/brave-nightly.png"
   },
   {
@@ -2805,6 +2790,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ecode.png"
   },
   {
+    "packageName": "eden",
+    "description": "An experimental open-source emulator for Nintendo Switch (yuzu fork)...",
+    "icon": "https://portable-linux-apps.github.io/icons/eden.png"
+  },
+  {
     "packageName": "edex-ui",
     "description": "A cross-platform, customizable science fiction terminal emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/edex-ui.png"
@@ -2975,39 +2965,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/elzabrowser.png"
   },
   {
-    "packageName": "emacs-nox-daily",
-    "description": "Unofficial. FOSS text editor for complete programming language...",
-    "icon": "https://portable-linux-apps.github.io/icons/emacs-nox-daily.png"
-  },
-  {
     "packageName": "emacs-nox",
     "description": "Unofficial. FOSS text editor for complete programming language...",
     "icon": "https://portable-linux-apps.github.io/icons/emacs-nox.png"
   },
   {
-    "packageName": "emacs-pgtk-daily",
-    "description": "Unofficial. FOSS text editor for complete programming language...",
-    "icon": "https://portable-linux-apps.github.io/icons/emacs-pgtk-daily.png"
-  },
-  {
-    "packageName": "emacs-pgtk",
-    "description": "Unofficial. FOSS text editor for complete programming language...",
-    "icon": "https://portable-linux-apps.github.io/icons/emacs-pgtk.png"
-  },
-  {
     "packageName": "emacs",
     "description": "Unofficial. FOSS text editor for complete programming language...",
     "icon": "https://portable-linux-apps.github.io/icons/emacs.png"
-  },
-  {
-    "packageName": "emacs-x11-daily",
-    "description": "Unofficial. FOSS text editor for complete programming language...",
-    "icon": "https://portable-linux-apps.github.io/icons/emacs-x11-daily.png"
-  },
-  {
-    "packageName": "emacs-x11",
-    "description": "Unofficial. FOSS text editor for complete programming language...",
-    "icon": "https://portable-linux-apps.github.io/icons/emacs-x11.png"
   },
   {
     "packageName": "embedded-ide",
@@ -8600,11 +8565,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/podium.png"
   },
   {
-    "packageName": "podman-appimage",
-    "description": "AppImage of podman...",
-    "icon": "https://portable-linux-apps.github.io/icons/podman-appimage.png"
-  },
-  {
     "packageName": "podman-desktop-companion",
     "description": "Podman command line interface...",
     "icon": "https://portable-linux-apps.github.io/icons/podman-desktop-companion.png"
@@ -10800,6 +10760,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/sunshine.png"
   },
   {
+    "packageName": "sunvox",
+    "description": "Small, fast and powerful modular synthesizer with pattern-based sequencer (tracker)...",
+    "icon": "https://portable-linux-apps.github.io/icons/sunvox.png"
+  },
+  {
     "packageName": "sup",
     "description": "A Slack client with WhatsApp like UI...",
     "icon": "https://portable-linux-apps.github.io/icons/sup.png"
@@ -11295,11 +11260,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/timenaut.png"
   },
   {
-    "packageName": "timer",
-    "description": "Time recurring events...",
-    "icon": "https://portable-linux-apps.github.io/icons/timer.png"
-  },
-  {
     "packageName": "tipitaka-pali-reader",
     "description": "A Pali Reading app made in Flutter...",
     "icon": "https://portable-linux-apps.github.io/icons/tipitaka-pali-reader.png"
@@ -11453,6 +11413,11 @@
     "packageName": "transmissionic",
     "description": "Remote for Transmission Daemon...",
     "icon": "https://portable-linux-apps.github.io/icons/transmissionic.png"
+  },
+  {
+    "packageName": "trenchbroom",
+    "description": "A modern, cross-platform level editor for Quake engine based games...",
+    "icon": "https://portable-linux-apps.github.io/icons/trenchbroom.png"
   },
   {
     "packageName": "trezor-suite",
@@ -12108,11 +12073,6 @@
     "packageName": "watchit",
     "description": "Open movies everywhere...",
     "icon": "https://portable-linux-apps.github.io/icons/watchit.png"
-  },
-  {
-    "packageName": "waterfox-appimage",
-    "description": "Browse the World Wide Web, current version...",
-    "icon": "https://portable-linux-apps.github.io/icons/waterfox-appimage.png"
   },
   {
     "packageName": "waterfox",
