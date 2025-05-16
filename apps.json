@@ -1240,11 +1240,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/brainwaves.png"
   },
   {
-    "packageName": "brave",
-    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"stable\" release...",
-    "icon": "https://portable-linux-apps.github.io/icons/brave.png"
-  },
-  {
     "packageName": "brave-beta",
     "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"beta\" release...",
     "icon": "https://portable-linux-apps.github.io/icons/brave-beta.png"
@@ -1253,6 +1248,11 @@
     "packageName": "brave-nightly",
     "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"nightly\" release...",
     "icon": "https://portable-linux-apps.github.io/icons/brave-nightly.png"
+  },
+  {
+    "packageName": "brave",
+    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"stable\" release...",
+    "icon": "https://portable-linux-apps.github.io/icons/brave.png"
   },
   {
     "packageName": "bread",
@@ -6448,6 +6448,11 @@
     "packageName": "marvin",
     "description": "Open Source record and playback test automation for the web...",
     "icon": "https://portable-linux-apps.github.io/icons/marvin.png"
+  },
+  {
+    "packageName": "master-pdf-editor",
+    "description": "Master PDF Editor is a full solutions for work with PDF documents...",
+    "icon": "https://portable-linux-apps.github.io/icons/master-pdf-editor.png"
   },
   {
     "packageName": "mastervyrn",
