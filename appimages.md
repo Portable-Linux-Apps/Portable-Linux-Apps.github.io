@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2091** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2092** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1139,6 +1139,7 @@
 | <img loading="lazy" src="icons/mudita-center.png" width="48" height="48"> | [***mudita-center***](apps/mudita-center.md) | *Mudita Center Electron App.*..[ *read more* ](apps/mudita-center.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mudita-center) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mudita-center) |
 | <img loading="lazy" src="icons/mudlet.png" width="48" height="48"> | [***mudlet***](apps/mudlet.md) | *Play immersive, multiplayer, pure-text games on Mudlet.*..[ *read more* ](apps/mudlet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mudlet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mudlet) |
 | <img loading="lazy" src="icons/muffon.png" width="48" height="48"> | [***muffon***](apps/muffon.md) | *Music streaming browser,retrieves audio, video and metadata.*..[ *read more* ](apps/muffon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/muffon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/muffon) |
+| <img loading="lazy" src="icons/mullvad-browser.png" width="48" height="48"> | [***mullvad-browser***](apps/mullvad-browser.md) | *A Tor-based Web Browser.*..[ *read more* ](apps/mullvad-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mullvad-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mullvad-browser) |
 | <img loading="lazy" src="icons/munt.png" width="48" height="48"> | [***munt***](apps/munt.md) | *The payment system of the future.*..[ *read more* ](apps/munt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/munt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/munt) |
 | <img loading="lazy" src="icons/mupdf.png" width="48" height="48"> | [***mupdf***](apps/mupdf.md) | *Lightweight PDF, XPS, and E-book viewer.*..[ *read more* ](apps/mupdf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mupdf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mupdf) |
 | <img loading="lazy" src="icons/muse.png" width="48" height="48"> | [***muse***](apps/muse.md) | *A digital audio workstation with support for both Audio and MIDI.*..[ *read more* ](apps/muse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/muse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/muse) |
