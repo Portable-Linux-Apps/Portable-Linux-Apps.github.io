@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2093** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2092** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -336,7 +336,6 @@
 | <img loading="lazy" src="icons/cncjs.png" width="48" height="48"> | [***cncjs***](apps/cncjs.md) | *CNC Milling Controller.*..[ *read more* ](apps/cncjs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cncjs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cncjs) |
 | <img loading="lazy" src="icons/cncra2yr.png" width="48" height="48"> | [***cncra2yr***](apps/cncra2yr.md) | *C&C Red Alert 2, a real-time strategy game by Westwood Pacific.*..[ *read more* ](apps/cncra2yr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cncra2yr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cncra2yr) |
 | <img loading="lazy" src="icons/coal-launcher.png" width="48" height="48"> | [***coal-launcher***](apps/coal-launcher.md) | *A client to view and play games from the AB Coal website.*..[ *read more* ](apps/coal-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/coal-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/coal-launcher) |
-| <img loading="lazy" src="icons/cocomusic.png" width="48" height="48"> | [***cocomusic***](apps/cocomusic.md) | *A simple music player built by electron and vue.*..[ *read more* ](apps/cocomusic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cocomusic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cocomusic) |
 | <img loading="lazy" src="icons/code-notes.png" width="48" height="48"> | [***code-notes***](apps/code-notes.md) | *A simple code snippet amp built with Electron.*..[ *read more* ](apps/code-notes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/code-notes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/code-notes) |
 | <img loading="lazy" src="icons/coinstac.png" width="48" height="48"> | [***coinstac***](apps/coinstac.md) | *Collaborative Informatics and Neuroimaging Suite Toolkit.*..[ *read more* ](apps/coinstac.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/coinstac) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/coinstac) |
 | <img loading="lazy" src="icons/colobot.png" width="48" height="48"> | [***colobot***](apps/colobot.md) | *Colonize with bots, game.*..[ *read more* ](apps/colobot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/colobot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/colobot) |

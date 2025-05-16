@@ -1805,11 +1805,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/coal-launcher.png"
   },
   {
-    "packageName": "cocomusic",
-    "description": "A simple music player built by electron and vue...",
-    "icon": "https://portable-linux-apps.github.io/icons/cocomusic.png"
-  },
-  {
     "packageName": "code-notes",
     "description": "A simple code snippet amp built with Electron...",
     "icon": "https://portable-linux-apps.github.io/icons/code-notes.png"
