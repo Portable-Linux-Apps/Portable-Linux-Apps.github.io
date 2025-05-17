@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **89** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **88** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -116,7 +116,6 @@
 | <img loading="lazy" src="icons/unveil.png" width="48" height="48"> | [***unveil***](apps/unveil.md) | *Unveil Rs is a tool to create presentations from markdown inspired by reveal.js, mdbook and zola.*..[ *read more* ](apps/unveil.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unveil) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unveil) |
 | <img loading="lazy" src="icons/unyo.png" width="48" height="48"> | [***unyo***](apps/unyo.md) | *Anime streaming and Manga reader desktop app without ads.*..[ *read more* ](apps/unyo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unyo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unyo) |
 | <img loading="lazy" src="icons/wolai.png" width="48" height="48"> | [***wolai***](apps/wolai.md) | *A new form of document/note/information system, in chinese.*..[ *read more* ](apps/wolai.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wolai) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wolai) |
-| <img loading="lazy" src="icons/wordtsar.png" width="48" height="48"> | [***wordtsar***](apps/wordtsar.md) | *Document mode clone for Wordstar, supports Wordstar, RTF and DOCX.*..[ *read more* ](apps/wordtsar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wordtsar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wordtsar) |
 | <img loading="lazy" src="icons/wournal.png" width="48" height="48"> | [***wournal***](apps/wournal.md) | *Simple "digitial paper" for note taking and PDF annotation. Heavily inspired by Xournal.*..[ *read more* ](apps/wournal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wournal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wournal) |
 | <img loading="lazy" src="icons/wps-office.png" width="48" height="48"> | [***wps-office***](apps/wps-office.md) | *Unofficial, Office suite built from the official .deb package.*..[ *read more* ](apps/wps-office.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wps-office) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wps-office) |
 | <img loading="lazy" src="icons/wxmaxima.png" width="48" height="48"> | [***wxmaxima***](apps/wxmaxima.md) | *A document based interface for the computer algebra system Maxima.*..[ *read more* ](apps/wxmaxima.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wxmaxima) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wxmaxima) |

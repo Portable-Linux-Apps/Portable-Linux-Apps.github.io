@@ -1585,6 +1585,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/chatgpt-next-web.png"
   },
   {
+    "packageName": "chatgpt-pake",
+    "description": "Unofficial ChatGPT app. Pake project turns any webpage into a desktop app with Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/chatgpt-pake.png"
+  },
+  {
     "packageName": "chat-gpt",
     "description": "Unofficial. ChatGPT Desktop Application...",
     "icon": "https://portable-linux-apps.github.io/icons/chat-gpt.png"
@@ -3140,6 +3145,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/evoplex.png"
   },
   {
+    "packageName": "excalidraw-pake",
+    "description": "Unofficial Excalidraw, a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them. Pake project turns any webpage into a desktop app with Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/excalidraw-pake.png"
+  },
+  {
     "packageName": "excel-parser-processor",
     "description": "Generates an array of items from the rows...",
     "icon": "https://portable-linux-apps.github.io/icons/excel-parser-processor.png"
@@ -3635,6 +3645,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/flippy-qualitative-testbench.png"
   },
   {
+    "packageName": "flomo-pake",
+    "description": "Unofficial Flomo app. Pake project turns any webpage into a desktop app with Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/flomo-pake.png"
+  },
+  {
     "packageName": "floorp",
     "description": "Floorp Web Browser, the most Advanced and Fastest Firefox derivative...",
     "icon": "https://portable-linux-apps.github.io/icons/floorp.png"
@@ -4008,6 +4023,11 @@
     "packageName": "gemget",
     "description": "Command line downloader for the Gemini protocol...",
     "icon": "https://portable-linux-apps.github.io/icons/gemget.png"
+  },
+  {
+    "packageName": "gemini-pake",
+    "description": "Unofficial Gemini app. Pake project turns any webpage into a desktop app with Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/gemini-pake.png"
   },
   {
     "packageName": "genact",
@@ -6170,6 +6190,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/liveme-pro-tools.png"
   },
   {
+    "packageName": "lizhi-pake",
+    "description": "Unofficial LiZhi app. Pake project turns any webpage into a desktop app with Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/lizhi-pake.png"
+  },
+  {
     "packageName": "lmms",
     "description": "FL Studio® alternative that allows you to produce music with the PC...",
     "icon": "https://portable-linux-apps.github.io/icons/lmms.png"
@@ -6688,6 +6713,11 @@
     "packageName": "microsoft-edge",
     "description": "Web Browser provided by Microsoft, Stable Edition...",
     "icon": "https://portable-linux-apps.github.io/icons/microsoft-edge.png"
+  },
+  {
+    "packageName": "microsoft-loop-pake",
+    "description": "Unofficial Microsoft Loop. Pake project turns any webpage into a desktop app with Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/microsoft-loop-pake.png"
   },
   {
     "packageName": "midori",
@@ -8800,6 +8830,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/programmer-browser.png"
   },
   {
+    "packageName": "programmusic-pake",
+    "description": "Unofficial ProgramMusic app. Pake project turns any webpage into a desktop app with Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/programmusic-pake.png"
+  },
+  {
     "packageName": "promethium",
     "description": "Extensible and innovative web browser with built-in AdBlock...",
     "icon": "https://portable-linux-apps.github.io/icons/promethium.png"
@@ -9248,6 +9283,11 @@
     "packageName": "qview",
     "description": "Practical and minimal image viewer...",
     "icon": "https://portable-linux-apps.github.io/icons/qview.png"
+  },
+  {
+    "packageName": "qwerty-learner-pake",
+    "description": "Unofficial. Words learning and English muscle memory training. Pake project turns any webpage into a desktop app with Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/qwerty-learner-pake.png"
   },
   {
     "packageName": "qxgedit",
@@ -10308,6 +10348,11 @@
     "packageName": "sonixd",
     "description": "A full-featured Subsonic/Jellyfin compatible desktop music player...",
     "icon": "https://portable-linux-apps.github.io/icons/sonixd.png"
+  },
+  {
+    "packageName": "sonos-controller",
+    "description": "An Electron based linux app for controlling your sonos system...",
+    "icon": "https://portable-linux-apps.github.io/icons/sonos-controller.png"
   },
   {
     "packageName": "sonusmix",
@@ -11545,6 +11590,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/twitch-wrapper.png"
   },
   {
+    "packageName": "twitter-pake",
+    "description": "Unofficial Twitter app. Pake project turns any webpage into a desktop app with Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/twitter-pake.png"
+  },
+  {
     "packageName": "typioca",
     "description": "Cozy typing speed tester in terminal...",
     "icon": "https://portable-linux-apps.github.io/icons/typioca.png"
@@ -11623,41 +11673,6 @@
     "packageName": "unleashedrecomp",
     "description": "Unofficial AppImage of UnleashedRecomp (Sonic Unleashed port)..",
     "icon": "https://portable-linux-apps.github.io/icons/unleashedrecomp.png"
-  },
-  {
-    "packageName": "unoffical-flomo",
-    "description": "Unofficial Flomo Appimage Client...",
-    "icon": "https://portable-linux-apps.github.io/icons/unoffical-flomo.png"
-  },
-  {
-    "packageName": "unoffical-microsoft-loop",
-    "description": "Unofficial. People who want to create together with ease...",
-    "icon": "https://portable-linux-apps.github.io/icons/unoffical-microsoft-loop.png"
-  },
-  {
-    "packageName": "unoffical-qwerty-learner",
-    "description": "Unofficial. Words learning and English muscle memory training...",
-    "icon": "https://portable-linux-apps.github.io/icons/unoffical-qwerty-learner.png"
-  },
-  {
-    "packageName": "unoffical-sonos-controller",
-    "description": "Unofficial sonos controller for linux...",
-    "icon": "https://portable-linux-apps.github.io/icons/unoffical-sonos-controller.png"
-  },
-  {
-    "packageName": "unoffical-weread",
-    "description": "Unofficial WeRead Appimage Client...",
-    "icon": "https://portable-linux-apps.github.io/icons/unoffical-weread.png"
-  },
-  {
-    "packageName": "unoffical-xiaohongshu",
-    "description": "Unofficial xiaohongshu Appimage Client...",
-    "icon": "https://portable-linux-apps.github.io/icons/unoffical-xiaohongshu.png"
-  },
-  {
-    "packageName": "unoffical-yuque",
-    "description": "Unofficial YuQue Appimage Client...",
-    "icon": "https://portable-linux-apps.github.io/icons/unoffical-yuque.png"
   },
   {
     "packageName": "unofficial-homestuck-collection",
@@ -12140,6 +12155,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/weektodo.png"
   },
   {
+    "packageName": "weread-pake",
+    "description": "Unofficial WeRead. Pake project turns any webpage into a desktop app with Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/weread-pake.png"
+  },
+  {
     "packageName": "westeroscraftlauncher",
     "description": "Custom launcher for modded Minecraft, game...",
     "icon": "https://portable-linux-apps.github.io/icons/westeroscraftlauncher.png"
@@ -12350,11 +12370,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/wora.png"
   },
   {
-    "packageName": "wordtsar",
-    "description": "Document mode clone for Wordstar, supports Wordstar, RTF and DOCX...",
-    "icon": "https://portable-linux-apps.github.io/icons/wordtsar.png"
-  },
-  {
     "packageName": "workflowy",
     "description": "A notetaking tool...",
     "icon": "https://portable-linux-apps.github.io/icons/workflowy.png"
@@ -12458,6 +12473,11 @@
     "packageName": "xgetter",
     "description": "Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Bilibili, Douyin and more...",
     "icon": "https://portable-linux-apps.github.io/icons/xgetter.png"
+  },
+  {
+    "packageName": "xiaohongshu-pake",
+    "description": "Unofficial xiaohongshu. Pake project turns any webpage into a desktop app with Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/xiaohongshu-pake.png"
   },
   {
     "packageName": "xilinota",
@@ -12635,9 +12655,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/youtube-download.png"
   },
   {
+    "packageName": "youtubemusic-pake",
+    "description": "Unofficial YouTube Music app. Pake project turns any webpage into a desktop app with Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/youtubemusic-pake.png"
+  },
+  {
     "packageName": "youtube-music",
     "description": "Unofficial. Amazing electron wrapper for YouTube Music featuring plugins...",
     "icon": "https://portable-linux-apps.github.io/icons/youtube-music.png"
+  },
+  {
+    "packageName": "youtube-pake",
+    "description": "Unofficial YouTube app. Pake project turns any webpage into a desktop app with Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/youtube-pake.png"
   },
   {
     "packageName": "youtubesearchfilter",
@@ -12703,6 +12733,11 @@
     "packageName": "yup",
     "description": "Arch Linux AUR Helper with ncurses functionality and better searching and sorting...",
     "icon": "https://portable-linux-apps.github.io/icons/yup.png"
+  },
+  {
+    "packageName": "yuque-pake",
+    "description": "Unofficial YuQue. Pake project turns any webpage into a desktop app with Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/yuque-pake.png"
   },
   {
     "packageName": "yuview",
