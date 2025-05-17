@@ -23,10 +23,8 @@ jobs:
 
       - name: "Run lister"
         run: |
-          wget -q https://raw.githubusercontent.com/ivan-hc/AM/main/tools/am2pla-site && chmod a+x ./am2pla-site || exit 1
           sed -i 's/^cd "$(xdg-user-dir DESKTOP)"/#cd "$(xdg-user-dir DESKTOP)"/g' ./am2pla-site
           ./am2pla-site
-          rm -f ./am2pla-site
           
       - name: "Push to Source"
         run: |
