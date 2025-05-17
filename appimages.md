@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2092** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2093** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1831,6 +1831,7 @@
 | <img loading="lazy" src="icons/tc.png" width="48" height="48"> | [***tc***](apps/tc.md) | *A desktop chat client for Twitch.*..[ *read more* ](apps/tc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tc) |
 | <img loading="lazy" src="icons/teams.png" width="48" height="48"> | [***teams***](apps/teams.md) | *Unofficial, Business communication platform developed by Microsoft.*..[ *read more* ](apps/teams.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/teams) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/teams) |
 | <img loading="lazy" src="icons/teledrive.png" width="48" height="48"> | [***teledrive***](apps/teledrive.md) | *Automatically backup Telegram Saved Messages.*..[ *read more* ](apps/teledrive.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/teledrive) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/teledrive) |
+| <img loading="lazy" src="icons/telegram.png" width="48" height="48"> | [***telegram***](apps/telegram.md) | *Official desktop version of Telegram messaging app.*..[ *read more* ](apps/telegram.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/telegram) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/telegram) |
 | <img loading="lazy" src="icons/tenacity.png" width="48" height="48"> | [***tenacity***](apps/tenacity.md) | *An easy-to-use, cross-platform multi-track audio editor/recorder.*..[ *read more* ](apps/tenacity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tenacity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tenacity) |
 | <img loading="lazy" src="icons/terminalos-sim.png" width="48" height="48"> | [***terminalos-sim***](apps/terminalos-sim.md) | *A terminalOS simulator.*..[ *read more* ](apps/terminalos-sim.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/terminalos-sim) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/terminalos-sim) |
 | <img loading="lazy" src="icons/teslacam-browser.png" width="48" height="48"> | [***teslacam-browser***](apps/teslacam-browser.md) | *A minimal TeslaCam Browser.*..[ *read more* ](apps/teslacam-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/teslacam-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/teslacam-browser) |
