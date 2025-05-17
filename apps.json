@@ -1820,6 +1820,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/code-radio.png"
   },
   {
+    "packageName": "coderunner-pake",
+    "description": "Unofficial CodeRunner app. Pake project turns any webpage into a desktop app with Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/coderunner-pake.png"
+  },
+  {
     "packageName": "code",
     "description": "Visual Studio, VSCode, Original Editor to build/debug web/cloud apps...",
     "icon": "https://portable-linux-apps.github.io/icons/code.png"
@@ -8608,6 +8613,11 @@
     "packageName": "poe-ladder",
     "description": "Path of Exile ladder viewer...",
     "icon": "https://portable-linux-apps.github.io/icons/poe-ladder.png"
+  },
+  {
+    "packageName": "poe-pake",
+    "description": "Unofficial Poe app. Pake project turns any webpage into a desktop app with Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/poe-pake.png"
   },
   {
     "packageName": "pointless",
