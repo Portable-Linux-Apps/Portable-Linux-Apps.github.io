@@ -10,7 +10,7 @@
 
  SOURCE: https://github.com/telegramdesktop/tdesktop
 
- APIMAGE: https://github.com/Portable-Linux-Apps/Telegram-AppImage
+ APPIMAGE: https://github.com/Portable-Linux-Apps/Telegram-AppImage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
