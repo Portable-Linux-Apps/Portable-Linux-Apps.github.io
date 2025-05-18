@@ -5,6 +5,8 @@
  It also has instant messaging, file transfer, debit-based calls to  landline and mobile telephones (over traditional telephone  networks),  and other features. Skype is available on  various desktop, mobile and  video game console platforms, and is operated by Skype Technologies, a  division of Microsoft.
  
  This is the Unofficial AppImage built from the official Snap package.
+
+ WARNING: since May 5, 2025, Skype is deprecated! Microsoft suggests switching to "Teams".
  
  ![Screenshot](https://www.addictivetips.com/app/uploads/2018/02/skype1.png)
  
