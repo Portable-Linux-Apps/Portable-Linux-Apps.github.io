@@ -24,6 +24,7 @@ jobs:
       - name: "Run cleaner"
         run: |
           LIST=$(curl -Ls https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64-apps)
+          [ -z "$LIST" ] && exit 1
           MDS=$(ls apps/* | sed 's:.*/::; s/.md$//g')
           PNGS=$(ls icons/* | sed 's:.*/::; s/.png$//g')
           for m in $MDS; do
