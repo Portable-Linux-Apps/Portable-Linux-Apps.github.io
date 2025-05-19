@@ -8,7 +8,7 @@ AMREPO="https://raw.githubusercontent.com/ivan-hc/AM/main"
 arch="x86_64"
 
 # ENTER THE DESKTOP DIRECTORY
-#cd "$(xdg-user-dir DESKTOP)" || exit 1
+cd "$(xdg-user-dir DESKTOP)" || exit 1
 
 # GET THE NAMES OF ALL APPLICATION
 if [ -f "$HOME"/.local/share/AM/"$arch"-apps ]; then
