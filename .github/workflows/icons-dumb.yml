@@ -28,9 +28,10 @@ jobs:
           MDS=$(ls apps/* | sed 's:.*/::; s/.md$//g')
           for m in $MDS; do
           	if ! test -f icons/"$m".png; then
-          		cp -r gear.png "icons/$m.md"
+          		cp -r gear.png "icons/$m.png"
           	fi
           done
+          rm -f icons/*.md
 
       - name: "Push to Source"
         run: |
