@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **209** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **210** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -36,6 +36,7 @@
 | <img loading="lazy" src="icons/afetch.png" width="48" height="48"> | [***afetch***](apps/afetch.md) | *A CLI system information tool written in Rust.*..[ *read more* ](apps/afetch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/afetch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/afetch) |
 | <img loading="lazy" src="icons/aichat.png" width="48" height="48"> | [***aichat***](apps/aichat.md) | *AIO AI CLI tool integrating 20+ AI platforms, including OpenAI.*..[ *read more* ](apps/aichat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aichat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aichat) |
 | <img loading="lazy" src="icons/aim.png" width="48" height="48"> | [***aim***](apps/aim.md) | *A command line download/upload tool with resume.*..[ *read more* ](apps/aim.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aim) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aim) |
+| <img loading="lazy" src="icons/alacritty.png" width="48" height="48"> | [***alacritty***](apps/alacritty.md) | *Unofficial. A modern terminal emulator that comes with sensible defaults, but allows for extensive configuration.*..[ *read more* ](apps/alacritty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alacritty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alacritty) |
 | <img loading="lazy" src="icons/alien-tec-ui.png" width="48" height="48"> | [***alien-tec-ui***](apps/alien-tec-ui.md) | *Alien-Tec Tron Matrix Like Shell Terminal User Interface.*..[ *read more* ](apps/alien-tec-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alien-tec-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alien-tec-ui) |
 | <img loading="lazy" src="icons/amfora.png" width="48" height="48"> | [***amfora***](apps/amfora.md) | *A fancy terminal browser for the Gemini protocol.*..[ *read more* ](apps/amfora.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amfora) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amfora) |
 | <img loading="lazy" src="icons/android-tools.png" width="48" height="48"> | [***android-tools***](apps/android-tools.md) | *Unofficial AppImage for the Android Platform tools, adb, fastboot, etc.*..[ *read more* ](apps/android-tools.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/android-tools) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/android-tools) |

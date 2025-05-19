@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2102** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2103** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -61,6 +61,7 @@
 | <img loading="lazy" src="icons/aisleriot.png" width="48" height="48"> | [***aisleriot***](apps/aisleriot.md) | *Unofficial. A card game featuring over 80 different solitaire-type card games.*..[ *read more* ](apps/aisleriot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aisleriot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aisleriot) |
 | <img loading="lazy" src="icons/akasha.png" width="48" height="48"> | [***akasha***](apps/akasha.md) | *AKASHA community client.*..[ *read more* ](apps/akasha.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/akasha) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/akasha) |
 | <img loading="lazy" src="icons/akuse.png" width="48" height="48"> | [***akuse***](apps/akuse.md) | *Simple and easy to use anime streaming desktop app without ads.*..[ *read more* ](apps/akuse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/akuse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/akuse) |
+| <img loading="lazy" src="icons/alacritty.png" width="48" height="48"> | [***alacritty***](apps/alacritty.md) | *Unofficial. A modern terminal emulator that comes with sensible defaults, but allows for extensive configuration.*..[ *read more* ](apps/alacritty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alacritty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alacritty) |
 | <img loading="lazy" src="icons/alduin.png" width="48" height="48"> | [***alduin***](apps/alduin.md) | *An Atom and RSS feed aggregator.*..[ *read more* ](apps/alduin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alduin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alduin) |
 | <img loading="lazy" src="icons/alephium-wallet.png" width="48" height="48"> | [***alephium-wallet***](apps/alephium-wallet.md) | *The official Alephium wallet for desktop.*..[ *read more* ](apps/alephium-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alephium-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alephium-wallet) |
 | <img loading="lazy" src="icons/alexandria.png" width="48" height="48"> | [***alexandria***](apps/alexandria.md) | *eBook reader built with Tauri, Epub.js, and Typescript.*..[ *read more* ](apps/alexandria.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alexandria) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alexandria) |
