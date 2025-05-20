@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2106** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2107** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -955,6 +955,7 @@
 | <img loading="lazy" src="icons/landrop.png" width="48" height="48"> | [***landrop***](apps/landrop.md) | *Drop any files to any devices on your LAN.*..[ *read more* ](apps/landrop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/landrop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/landrop) |
 | <img loading="lazy" src="icons/langly.png" width="48" height="48"> | [***langly***](apps/langly.md) | *Manage Laravel json language files.*..[ *read more* ](apps/langly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/langly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/langly) |
 | <img loading="lazy" src="icons/lanshare.png" width="48" height="48"> | [***lanshare***](apps/lanshare.md) | *LAN file transfer app for any kind and size of files and folders.*..[ *read more* ](apps/lanshare.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lanshare) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lanshare) |
+| <img loading="lazy" src="icons/lapce.png" width="48" height="48"> | [***lapce***](apps/lapce.md) | *Lightning-fast and Powerful Code Editor written in Rust.*..[ *read more* ](apps/lapce.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lapce) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lapce) |
 | <img loading="lazy" src="icons/laravel-kit.png" width="48" height="48"> | [***laravel-kit***](apps/laravel-kit.md) | *Easy Laravel application management.*..[ *read more* ](apps/laravel-kit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/laravel-kit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/laravel-kit) |
 | <img loading="lazy" src="icons/launcher.png" width="48" height="48"> | [***launcher***](apps/launcher.md) | *Generic application's launcher.*..[ *read more* ](apps/launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/launcher) |
 | <img loading="lazy" src="icons/lbry-desktop.png" width="48" height="48"> | [***lbry-desktop***](apps/lbry-desktop.md) | *A browser and wallet for LBRY.*..[ *read more* ](apps/lbry-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lbry-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lbry-desktop) |
