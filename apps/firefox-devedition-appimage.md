@@ -1,4 +1,4 @@
-# FIREFOX-DEV-APPIMAGE
+# FIREFOX-DEVEDITION-APPIMAGE
 
  Firefox is a powerful, extensible web browser with support for modern web application technologies.
  
