@@ -1,4 +1,4 @@
-# FIREFOX-NIGHTLY-APPIMAGE
+# FIREFOX-DEV-APPIMAGE
 
  Firefox is a powerful, extensible web browser with support for modern web application technologies.
  
