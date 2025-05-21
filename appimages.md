@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2107** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2106** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1663,7 +1663,6 @@
 | <img loading="lazy" src="icons/shutter.png" width="48" height="48"> | [***shutter***](apps/shutter.md) | *Professional converter & compression tool designed by video editors.*..[ *read more* ](apps/shutter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shutter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shutter) |
 | <img loading="lazy" src="icons/shuttle.png" width="48" height="48"> | [***shuttle***](apps/shuttle.md) | *The fastest access to your favorite applications.*..[ *read more* ](apps/shuttle.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shuttle) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shuttle) |
 | <img loading="lazy" src="icons/sideka.png" width="48" height="48"> | [***sideka***](apps/sideka.md) | *Platform Tata Kelola Desa*..[ *read more* ](apps/sideka.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sideka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sideka) |
-| <img loading="lazy" src="icons/sideload.png" width="48" height="48"> | [***sideload***](apps/sideload.md) | *Utility, from elementaryOS 6 to install Flatpak apps from Flathub.*..[ *read more* ](apps/sideload.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sideload) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sideload) |
 | <img loading="lazy" src="icons/sigdigger.png" width="48" height="48"> | [***sigdigger***](apps/sigdigger.md) | *Signal analyzer, using Suscan core and Sigutils DSP library.*..[ *read more* ](apps/sigdigger.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sigdigger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sigdigger) |
 | <img loading="lazy" src="icons/sigma-file-manager.png" width="48" height="48"> | [***sigma-file-manager***](apps/sigma-file-manager.md) | *A free, open-source, modern file manager.*..[ *read more* ](apps/sigma-file-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sigma-file-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sigma-file-manager) |
 | <img loading="lazy" src="icons/sigmaspectra.png" width="48" height="48"> | [***sigmaspectra***](apps/sigmaspectra.md) | *Semi-automated selection and scaling of time series.*..[ *read more* ](apps/sigmaspectra.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sigmaspectra) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sigmaspectra) |

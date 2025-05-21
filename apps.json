@@ -10050,11 +10050,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/sideka.png"
   },
   {
-    "packageName": "sideload",
-    "description": "Utility, from elementaryOS 6 to install Flatpak apps from Flathub...",
-    "icon": "https://portable-linux-apps.github.io/icons/sideload.png"
-  },
-  {
     "packageName": "sidenote",
     "description": "A CLI tool that helps to manage plain text notes per working directory...",
     "icon": "https://portable-linux-apps.github.io/icons/sidenote.png"
