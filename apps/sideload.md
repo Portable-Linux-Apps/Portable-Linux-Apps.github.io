@@ -1,11 +1,12 @@
 # SIDELOAD
  
- Utility to install Flatpak apps from Flathub, built from the .deb  package available on the official PPA of the elementaryOS project.
- 
+ AppImage of the "Sideload" utility from elementaryOS that installs Flatpaks from Flathub by pressing the "Install" button on any browser.
 
- SOURCE: https://launchpad.net/~elementary-os
- 	 https://github.com/elementary/sideload
- 	 https://github.com/ivan-hc/Flatpak-installer-appimage
+ NOTE, this AppImage may not work. Consider it a prototype.
+ 
+ SITE: https://github.com/elementary/sideload
+ 
+ APPIMAGE: https://github.com/ivan-hc/io.elementary.sideload-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
