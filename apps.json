@@ -10245,11 +10245,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/smartgit.png"
   },
   {
-    "packageName": "smart-media-cutter",
-    "description": "The fastest way to cut and trim streams and long videos...",
-    "icon": "https://portable-linux-apps.github.io/icons/smart-media-cutter.png"
-  },
-  {
     "packageName": "smartservogui",
     "description": "Scan for servo devices easily view...",
     "icon": "https://portable-linux-apps.github.io/icons/smartservogui.png"
