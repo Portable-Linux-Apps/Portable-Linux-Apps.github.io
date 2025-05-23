@@ -23,6 +23,8 @@ jobs:
 
       - name: "Run lister"
         run: |
+          AM2PLA_SCRIPT=$(curl -Ls https://raw.githubusercontent.com/ivan-hc/AM/main/tools/am2pla-site)
+          [ -n "$AM2PLA_SCRIPT" ] && echo "$AM2PLA_SCRIPT" | grep -q "^AMREPO=" && echo "◆ Update am2pla-site script..." && echo "$AM2PLA_SCRIPT" > ./am2pla-site
           sed -i 's/^cd "$(xdg-user-dir DESKTOP)"/#cd "$(xdg-user-dir DESKTOP)"/g' ./am2pla-site
           #chmod a+x ./am2pla-site
           ./am2pla-site
