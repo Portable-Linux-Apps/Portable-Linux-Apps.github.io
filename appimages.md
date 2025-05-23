@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2106** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2107** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -498,6 +498,7 @@
 | <img loading="lazy" src="icons/e2-sat-editor.png" width="48" height="48"> | [***e2-sat-editor***](apps/e2-sat-editor.md) | *Satellite channel lists editor with tabbed nav.*..[ *read more* ](apps/e2-sat-editor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/e2-sat-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/e2-sat-editor) |
 | <img loading="lazy" src="icons/eaglemode.png" width="48" height="48"> | [***eaglemode***](apps/eaglemode.md) | *Zoomable user interface with plugin applications.*..[ *read more* ](apps/eaglemode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eaglemode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eaglemode) |
 | <img loading="lazy" src="icons/easymercurial.png" width="48" height="48"> | [***easymercurial***](apps/easymercurial.md) | *A simple UI for the Mercurial version-control system.*..[ *read more* ](apps/easymercurial.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/easymercurial) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/easymercurial) |
+| <img loading="lazy" src="icons/easytag.png" width="48" height="48"> | [***easytag***](apps/easytag.md) | *Unofficial AppImage of EasyTAG tag editor.*..[ *read more* ](apps/easytag.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/easytag) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/easytag) |
 | <img loading="lazy" src="icons/ecency-surfer.png" width="48" height="48"> | [***ecency-surfer***](apps/ecency-surfer.md) | *Rewarding communities built, owned and operated by its users.*..[ *read more* ](apps/ecency-surfer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ecency-surfer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ecency-surfer) |
 | <img loading="lazy" src="icons/ecode.png" width="48" height="48"> | [***ecode***](apps/ecode.md) | *Lightweight code editor designed for modern hardware.*..[ *read more* ](apps/ecode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ecode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ecode) |
 | <img loading="lazy" src="icons/eden.png" width="48" height="48"> | [***eden***](apps/eden.md) | *An experimental open-source emulator for Nintendo Switch (yuzu fork).*..[ *read more* ](apps/eden.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eden) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eden) |

@@ -2790,6 +2790,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/easymercurial.png"
   },
   {
+    "packageName": "easytag",
+    "description": "Unofficial AppImage of EasyTAG tag editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/easytag.png"
+  },
+  {
     "packageName": "ecency-surfer",
     "description": "Rewarding communities built, owned and operated by its users...",
     "icon": "https://portable-linux-apps.github.io/icons/ecency-surfer.png"
@@ -4256,7 +4261,7 @@
   },
   {
     "packageName": "glow",
-    "description": "Render markdown on the CLI, with pizzazz! ..",
+    "description": "Render markdown on the CLI, with pizzazz!..",
     "icon": "https://portable-linux-apps.github.io/icons/glow.png"
   },
   {
@@ -9706,7 +9711,7 @@
   },
   {
     "packageName": "rusty-rain",
-    "description": "CLI, a cross platform matrix rain made with Rust. ..",
+    "description": "CLI, a cross platform matrix rain made with Rust...",
     "icon": "https://portable-linux-apps.github.io/icons/rusty-rain.png"
   },
   {
@@ -11721,7 +11726,7 @@
   },
   {
     "packageName": "unyo",
-    "description": "Anime streaming and Manga reader desktop app without ads. ..",
+    "description": "Anime streaming and Manga reader desktop app without ads...",
     "icon": "https://portable-linux-apps.github.io/icons/unyo.png"
   },
   {
@@ -12631,7 +12636,7 @@
   },
   {
     "packageName": "yandex-browser",
-    "description": "Unofficial Yandex Browser AppImage, Stable. ..",
+    "description": "Unofficial Yandex Browser AppImage, Stable...",
     "icon": "https://portable-linux-apps.github.io/icons/yandex-browser.png"
   },
   {
@@ -12746,7 +12751,7 @@
   },
   {
     "packageName": "yts-streaming",
-    "description": "Stream or play yts and torrent movies. ..",
+    "description": "Stream or play yts and torrent movies...",
     "icon": "https://portable-linux-apps.github.io/icons/yts-streaming.png"
   },
   {
