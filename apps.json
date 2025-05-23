@@ -1,8 +1,8 @@
 [
   {
-    "packageName": "0ad-latest",
-    "description": "Unofficial. Real Time Strategy game of ancient warfare, development branch...",
-    "icon": "https://portable-linux-apps.github.io/icons/0ad-latest.png"
+    "packageName": "0ad-prerelease",
+    "description": "Unofficial. FOSS historical Real Time Strategy, RTS game of ancient warfare (Pre-release)...",
+    "icon": "https://portable-linux-apps.github.io/icons/0ad-prerelease.png"
   },
   {
     "packageName": "0ad",
