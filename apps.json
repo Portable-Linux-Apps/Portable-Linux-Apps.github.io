@@ -6670,24 +6670,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/meow-sql.png"
   },
   {
-    "packageName": "mercury-avx2",
-    "description": "Firefox fork, with compiler optim. and patches from Librewolf...",
-    "icon": "https://portable-linux-apps.github.io/icons/mercury-avx2.png"
-  },
-  {
     "packageName": "mercury",
     "description": "Firefox fork with compiler optimizations and patches from Librewolf...",
     "icon": "https://portable-linux-apps.github.io/icons/mercury.png"
-  },
-  {
-    "packageName": "mercury-sse3",
-    "description": "Firefox fork with compiler optim. and patches from Librewolf...",
-    "icon": "https://portable-linux-apps.github.io/icons/mercury-sse3.png"
-  },
-  {
-    "packageName": "mercury-sse4",
-    "description": "Firefox fork with compiler optim. and patches from Librewolf...",
-    "icon": "https://portable-linux-apps.github.io/icons/mercury-sse4.png"
   },
   {
     "packageName": "meshlab",
@@ -10245,11 +10230,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/smartgit.png"
   },
   {
-    "packageName": "smart-media-cutter",
-    "description": "The fastest way to cut and trim streams and long videos...",
-    "icon": "https://portable-linux-apps.github.io/icons/smart-media-cutter.png"
-  },
-  {
     "packageName": "smartservogui",
     "description": "Scan for servo devices easily view...",
     "icon": "https://portable-linux-apps.github.io/icons/smartservogui.png"
@@ -11240,11 +11220,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/thoptv.png"
   },
   {
-    "packageName": "thorium-avx2",
-    "description": "AVX2 Linux builds of Thorium Browser...",
-    "icon": "https://portable-linux-apps.github.io/icons/thorium-avx2.png"
-  },
-  {
     "packageName": "thorium-client",
     "description": "A locked-down electron kiosk for Thorium...",
     "icon": "https://portable-linux-apps.github.io/icons/thorium-client.png"
@@ -11253,16 +11228,6 @@
     "packageName": "thorium-reader",
     "description": "Desktop application to read ebooks...",
     "icon": "https://portable-linux-apps.github.io/icons/thorium-reader.png"
-  },
-  {
-    "packageName": "thorium-sse3",
-    "description": "Web Browser, Chromium fork with Widevine and FFmpeg support...",
-    "icon": "https://portable-linux-apps.github.io/icons/thorium-sse3.png"
-  },
-  {
-    "packageName": "thorium-sse4",
-    "description": "Web Browser, Chromium fork with Widevine and FFmpeg support...",
-    "icon": "https://portable-linux-apps.github.io/icons/thorium-sse4.png"
   },
   {
     "packageName": "thorium",
