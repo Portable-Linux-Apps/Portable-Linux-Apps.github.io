@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2498** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2499** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1025,6 +1025,7 @@
 | <img loading="lazy" src="icons/imgcat.png" width="48" height="48"> | [***imgcat***](apps/imgcat.md) | *Display images and gifs in your terminal.*..[ *read more* ](apps/imgcat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/imgcat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/imgcat) |
 | <img loading="lazy" src="icons/imhex.png" width="48" height="48"> | [***imhex***](apps/imhex.md) | *A Hex Editor for Reverse Engineers and Programmers.*..[ *read more* ](apps/imhex.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/imhex) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/imhex) |
 | <img loading="lazy" src="icons/impact.png" width="48" height="48"> | [***impact***](apps/impact.md) | *Music Management and Playback.*..[ *read more* ](apps/impact.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/impact) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/impact) |
+| <img loading="lazy" src="icons/implay.png" width="48" height="48"> | [***implay***](apps/implay.md) | *A Cross-Platform Desktop Media Player, built on top of mpv and ImGui.*..[ *read more* ](apps/implay.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/implay) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/implay) |
 | <img loading="lazy" src="icons/impposter.png" width="48" height="48"> | [***impposter***](apps/impposter.md) | *Post to my own development blog.*..[ *read more* ](apps/impposter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/impposter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/impposter) |
 | <img loading="lazy" src="icons/inboxer.png" width="48" height="48"> | [***inboxer***](apps/inboxer.md) | *Simple client for Google Inbox.*..[ *read more* ](apps/inboxer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/inboxer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/inboxer) |
 | <img loading="lazy" src="icons/infection-monkey.png" width="48" height="48"> | [***infection-monkey***](apps/infection-monkey.md) | *An automated penetration test tool, security.*..[ *read more* ](apps/infection-monkey.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/infection-monkey) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/infection-monkey) |
