@@ -2810,6 +2810,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/eden.png"
   },
   {
+    "packageName": "eden-nightly",
+    "description": "Unofficial, an experimental open-source emulator for Nintendo Switch (yuzu fork, nightly builds)...",
+    "icon": "https://portable-linux-apps.github.io/icons/eden-nightly.png"
+  },
+  {
     "packageName": "edex-ui",
     "description": "A cross-platform, customizable science fiction terminal emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/edex-ui.png"

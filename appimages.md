@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2105** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2106** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -502,6 +502,7 @@
 | <img loading="lazy" src="icons/ecency-surfer.png" width="48" height="48"> | [***ecency-surfer***](apps/ecency-surfer.md) | *Rewarding communities built, owned and operated by its users.*..[ *read more* ](apps/ecency-surfer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ecency-surfer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ecency-surfer) |
 | <img loading="lazy" src="icons/ecode.png" width="48" height="48"> | [***ecode***](apps/ecode.md) | *Lightweight code editor designed for modern hardware.*..[ *read more* ](apps/ecode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ecode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ecode) |
 | <img loading="lazy" src="icons/eden.png" width="48" height="48"> | [***eden***](apps/eden.md) | *An experimental open-source emulator for Nintendo Switch (yuzu fork).*..[ *read more* ](apps/eden.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eden) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eden) |
+| <img loading="lazy" src="icons/eden-nightly.png" width="48" height="48"> | [***eden-nightly***](apps/eden-nightly.md) | *Unofficial, an experimental open-source emulator for Nintendo Switch (yuzu fork, nightly builds).*..[ *read more* ](apps/eden-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eden-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eden-nightly) |
 | <img loading="lazy" src="icons/edex-ui.png" width="48" height="48"> | [***edex-ui***](apps/edex-ui.md) | *A cross-platform, customizable science fiction terminal emulator.*..[ *read more* ](apps/edex-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/edex-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/edex-ui) |
 | <img loading="lazy" src="icons/ehdev-shell.png" width="48" height="48"> | [***ehdev-shell***](apps/ehdev-shell.md) | *An electron based developing tool for feds.*..[ *read more* ](apps/ehdev-shell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ehdev-shell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ehdev-shell) |
 | <img loading="lazy" src="icons/eka2l1.png" width="48" height="48"> | [***eka2l1***](apps/eka2l1.md) | *A Symbian OS/N-Gage emulator*..[ *read more* ](apps/eka2l1.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eka2l1) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eka2l1) |

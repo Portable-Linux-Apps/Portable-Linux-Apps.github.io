@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **234** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **235** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -86,6 +86,7 @@
 | <img loading="lazy" src="icons/duelyst.png" width="48" height="48"> | [***duelyst***](apps/duelyst.md) | *A digital collectible card game and turn-based strategy hybrid.*..[ *read more* ](apps/duelyst.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/duelyst) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/duelyst) |
 | <img loading="lazy" src="icons/dust3d.png" width="48" height="48"> | [***dust3d***](apps/dust3d.md) | *3D modeling software for games, 3D printing, and so on.*..[ *read more* ](apps/dust3d.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dust3d) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dust3d) |
 | <img loading="lazy" src="icons/eden.png" width="48" height="48"> | [***eden***](apps/eden.md) | *An experimental open-source emulator for Nintendo Switch (yuzu fork).*..[ *read more* ](apps/eden.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eden) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eden) |
+| <img loading="lazy" src="icons/eden-nightly.png" width="48" height="48"> | [***eden-nightly***](apps/eden-nightly.md) | *Unofficial, an experimental open-source emulator for Nintendo Switch (yuzu fork, nightly builds).*..[ *read more* ](apps/eden-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eden-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eden-nightly) |
 | <img loading="lazy" src="icons/eksplode.re.png" width="48" height="48"> | [***eksplode.re***](apps/eksplode.re.md) | *Bomberman game made with Godot under BSD3.*..[ *read more* ](apps/eksplode.re.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eksplode.re) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eksplode.re) |
 | <img loading="lazy" src="icons/ember.png" width="48" height="48"> | [***ember***](apps/ember.md) | *Client for the WorldForge virtual world system, game.*..[ *read more* ](apps/ember.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ember) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ember) |
 | <img loading="lazy" src="icons/en-croissant.png" width="48" height="48"> | [***en-croissant***](apps/en-croissant.md) | *The Ultimate Chess Toolkit.*..[ *read more* ](apps/en-croissant.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/en-croissant) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/en-croissant) |
