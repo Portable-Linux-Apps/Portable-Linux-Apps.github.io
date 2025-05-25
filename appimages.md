@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2106** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2107** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1231,6 +1231,7 @@
 | <img loading="lazy" src="icons/novelwriter.png" width="48" height="48"> | [***novelwriter***](apps/novelwriter.md) | *Plain text editor designed for writing novels, supports a minimal markdown-like syntax for formatting text.*..[ *read more* ](apps/novelwriter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/novelwriter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/novelwriter) |
 | <img loading="lazy" src="icons/nrf-connect.png" width="48" height="48"> | [***nrf-connect***](apps/nrf-connect.md) | *Framework for desktop apps for development kits.*..[ *read more* ](apps/nrf-connect.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nrf-connect) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nrf-connect) |
 | <img loading="lazy" src="icons/nteract.png" width="48" height="48"> | [***nteract***](apps/nteract.md) | *An open-source organization.*..[ *read more* ](apps/nteract.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nteract) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nteract) |
+| <img loading="lazy" src="icons/ntsc-rs.png" width="48" height="48"> | [***ntsc-rs***](apps/ntsc-rs.md) | *Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).*..[ *read more* ](apps/ntsc-rs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ntsc-rs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ntsc-rs) |
 | <img loading="lazy" src="icons/nuclear.png" width="48" height="48"> | [***nuclear***](apps/nuclear.md) | *Streaming music player that finds free music for you.*..[ *read more* ](apps/nuclear.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nuclear) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nuclear) |
 | <img loading="lazy" src="icons/nuclia.png" width="48" height="48"> | [***nuclia***](apps/nuclia.md) | *A low-code API to build an AI multi-language semantic search engine.*..[ *read more* ](apps/nuclia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nuclia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nuclia) |
 | <img loading="lazy" src="icons/nuclino.png" width="48" height="48"> | [***nuclino***](apps/nuclino.md) | *Bring knowledge, docs, and projects together in one place.*..[ *read more* ](apps/nuclino.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nuclino) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nuclino) |

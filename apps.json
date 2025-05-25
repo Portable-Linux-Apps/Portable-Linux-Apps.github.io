@@ -7520,6 +7520,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ntfydesktop.png"
   },
   {
+    "packageName": "ntsc-rs",
+    "description": "Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX)...",
+    "icon": "https://portable-linux-apps.github.io/icons/ntsc-rs.png"
+  },
+  {
     "packageName": "nu",
     "description": "A new type of shell...",
     "icon": "https://portable-linux-apps.github.io/icons/nu.png"
