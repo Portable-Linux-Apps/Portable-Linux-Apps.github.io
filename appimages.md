@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2107** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2108** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1369,6 +1369,7 @@
 | <img loading="lazy" src="icons/phreshplayer.png" width="48" height="48"> | [***phreshplayer***](apps/phreshplayer.md) | *Electron based media player app.*..[ *read more* ](apps/phreshplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/phreshplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/phreshplayer) |
 | <img loading="lazy" src="icons/pia.png" width="48" height="48"> | [***pia***](apps/pia.md) | *Version Portable Outil PIA.*..[ *read more* ](apps/pia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pia) |
 | <img loading="lazy" src="icons/picacg-qt.png" width="48" height="48"> | [***picacg-qt***](apps/picacg-qt.md) | *PicACG Comic PC Client For Linux.*..[ *read more* ](apps/picacg-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picacg-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picacg-qt) |
+| <img loading="lazy" src="icons/picard-daily.png" width="48" height="48"> | [***picard-daily***](apps/picard-daily.md) | *Inofficial daily development builds for MusicBrainz Picard.*..[ *read more* ](apps/picard-daily.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picard-daily) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picard-daily) |
 | <img loading="lazy" src="icons/picgo.png" width="48" height="48"> | [***picgo***](apps/picgo.md) | *Easy to upload your pic & copy to write.*..[ *read more* ](apps/picgo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picgo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picgo) |
 | <img loading="lazy" src="icons/piclist.png" width="48" height="48"> | [***piclist***](apps/piclist.md) | *Cloud storage platform management & file upload tool based on PicGo.*..[ *read more* ](apps/piclist.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/piclist) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/piclist) |
 | <img loading="lazy" src="icons/picocrypt.png" width="48" height="48"> | [***picocrypt***](apps/picocrypt.md) | *A very small, very simple, yet very secure encryption tool.*..[ *read more* ](apps/picocrypt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picocrypt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picocrypt) |

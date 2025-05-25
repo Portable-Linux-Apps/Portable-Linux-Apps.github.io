@@ -8370,6 +8370,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/picacg-qt.png"
   },
   {
+    "packageName": "picard-daily",
+    "description": "Inofficial daily development builds for MusicBrainz Picard...",
+    "icon": "https://portable-linux-apps.github.io/icons/picard-daily.png"
+  },
+  {
     "packageName": "picgo",
     "description": "Easy to upload your pic & copy to write...",
     "icon": "https://portable-linux-apps.github.io/icons/picgo.png"
@@ -9768,6 +9773,11 @@
     "packageName": "satisfactory",
     "description": "Satisfactory Mod Manager...",
     "icon": "https://portable-linux-apps.github.io/icons/satisfactory.png"
+  },
+  {
+    "packageName": "satty",
+    "description": "Modern Screenshot Annotation...",
+    "icon": "https://portable-linux-apps.github.io/icons/satty.png"
   },
   {
     "packageName": "saucedacity",
