@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2108** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2109** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1071,6 +1071,7 @@
 | <img loading="lazy" src="icons/media-downloader.png" width="48" height="48"> | [***media-downloader***](apps/media-downloader.md) | *Cross-platform audio/video downloader.*..[ *read more* ](apps/media-downloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/media-downloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/media-downloader) |
 | <img loading="lazy" src="icons/media-dupes.png" width="48" height="48"> | [***media-dupes***](apps/media-dupes.md) | *Content duplicator for common media services like YouTube.*..[ *read more* ](apps/media-dupes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/media-dupes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/media-dupes) |
 | <img loading="lazy" src="icons/mediaelch.png" width="48" height="48"> | [***mediaelch***](apps/mediaelch.md) | *Media Manager for Kodi.*..[ *read more* ](apps/mediaelch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mediaelch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mediaelch) |
+| <img loading="lazy" src="icons/mediaharbor.png" width="48" height="48"> | [***mediaharbor***](apps/mediaharbor.md) | *Cross-platform MediaHarbor*..[ *read more* ](apps/mediaharbor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mediaharbor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mediaharbor) |
 | <img loading="lazy" src="icons/median-xl.png" width="48" height="48"> | [***median-xl***](apps/median-xl.md) | *Launcher for Median XL mod, Diablo II overhaul.*..[ *read more* ](apps/median-xl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/median-xl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/median-xl) |
 | <img loading="lazy" src="icons/mediathekview.png" width="48" height="48"> | [***mediathekview***](apps/mediathekview.md) | *Searches the online media libraries of various broadcasters.*..[ *read more* ](apps/mediathekview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mediathekview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mediathekview) |
 | <img loading="lazy" src="icons/megaglest.png" width="48" height="48"> | [***megaglest***](apps/megaglest.md) | *MegaGlest real-time strategy game engine (cross-platform, 3-d).*..[ *read more* ](apps/megaglest.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/megaglest) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/megaglest) |
