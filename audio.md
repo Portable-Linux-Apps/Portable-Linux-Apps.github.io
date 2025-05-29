@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **141** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **142** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -147,6 +147,7 @@
 | <img loading="lazy" src="icons/sonixd.png" width="48" height="48"> | [***sonixd***](apps/sonixd.md) | *A full-featured Subsonic/Jellyfin compatible desktop music player.*..[ *read more* ](apps/sonixd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonixd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonixd) |
 | <img loading="lazy" src="icons/sonusmix.png" width="48" height="48"> | [***sonusmix***](apps/sonusmix.md) | *Next-gen Pipewire audio routing tool.*..[ *read more* ](apps/sonusmix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonusmix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonusmix) |
 | <img loading="lazy" src="icons/soundcloud-rpc.png" width="48" height="48"> | [***soundcloud-rpc***](apps/soundcloud-rpc.md) | *A SoundCloud client with Discord Rich Presence and AdBlock.*..[ *read more* ](apps/soundcloud-rpc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soundcloud-rpc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soundcloud-rpc) |
+| <img loading="lazy" src="icons/splayer.png" width="48" height="48"> | [***splayer***](apps/splayer.md) | *🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player*..[ *read more* ](apps/splayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/splayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/splayer) |
 | <img loading="lazy" src="icons/spmp.png" width="48" height="48"> | [***spmp***](apps/spmp.md) | *A YouTube Music client with a focus on customisation of colours and song metadata.*..[ *read more* ](apps/spmp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spmp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spmp) |
 | <img loading="lazy" src="icons/spotify.png" width="48" height="48"> | [***spotify***](apps/spotify.md) | *Unofficial. A proprietary music streaming service.*..[ *read more* ](apps/spotify.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify) |
 | <img loading="lazy" src="icons/strawberry.png" width="48" height="48"> | [***strawberry***](apps/strawberry.md) | *Unofficial AppImage of the strawberry music player.*..[ *read more* ](apps/strawberry.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/strawberry) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/strawberry) |
