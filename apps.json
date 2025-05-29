@@ -9050,6 +9050,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/qbittorrent-enhanced.png"
   },
   {
+    "packageName": "qdiskinfo",
+    "description": "QDiskInfo is a frontend for smartctl. It provides a user experience similar to CrystalDiskInfo...",
+    "icon": "https://portable-linux-apps.github.io/icons/qdiskinfo.png"
+  },
+  {
     "packageName": "qdriverstation",
     "description": "Cross-platform clone of the FRC Driver Station...",
     "icon": "https://portable-linux-apps.github.io/icons/qdriverstation.png"

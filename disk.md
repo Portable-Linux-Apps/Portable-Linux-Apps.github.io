@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **17** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **18** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -46,6 +46,7 @@
 | <img loading="lazy" src="icons/liketaskmanager.png" width="48" height="48"> | [***liketaskmanager***](apps/liketaskmanager.md) | *Process/performances monitor, CPU, RAM, Disks and Network.*..[ *read more* ](apps/liketaskmanager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/liketaskmanager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/liketaskmanager) |
 | <img loading="lazy" src="icons/mission-center.png" width="48" height="48"> | [***mission-center***](apps/mission-center.md) | *Monitor your CPU, Memory, Disk, Network and GPU usage.*..[ *read more* ](apps/mission-center.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mission-center) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mission-center) |
 | <img loading="lazy" src="icons/popsicle.png" width="48" height="48"> | [***popsicle***](apps/popsicle.md) | *Multiple USB File Flasher.*..[ *read more* ](apps/popsicle.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/popsicle) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/popsicle) |
+| <img loading="lazy" src="icons/qdiskinfo.png" width="48" height="48"> | [***qdiskinfo***](apps/qdiskinfo.md) | *QDiskInfo is a frontend for smartctl. It provides a user experience similar to CrystalDiskInfo.*..[ *read more* ](apps/qdiskinfo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qdiskinfo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qdiskinfo) |
 | <img loading="lazy" src="icons/squirrel-disk.png" width="48" height="48"> | [***squirrel-disk***](apps/squirrel-disk.md) | *Cross-Platform and Super Fast Disk Usage Analysis Tool.*..[ *read more* ](apps/squirrel-disk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/squirrel-disk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/squirrel-disk) |
 | <img loading="lazy" src="icons/testdisk.png" width="48" height="48"> | [***testdisk***](apps/testdisk.md) | *TestDisk & PhotoRec, tools to recover lost partitions and files.*..[ *read more* ](apps/testdisk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/testdisk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/testdisk) |
 | <img loading="lazy" src="icons/unetbootin.png" width="48" height="48"> | [***unetbootin***](apps/unetbootin.md) | *Install Linux/BSD distributions to a partition or USB drive.*..[ *read more* ](apps/unetbootin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unetbootin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unetbootin) |

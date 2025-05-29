@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2109** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2110** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1488,6 +1488,7 @@
 | <img loading="lazy" src="icons/qawl.png" width="48" height="48"> | [***qawl***](apps/qawl.md) | *Read the Holy Qur’ān whenever, wherever, however you like.*..[ *read more* ](apps/qawl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qawl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qawl) |
 | <img loading="lazy" src="icons/qbittorrent.png" width="48" height="48"> | [***qbittorrent***](apps/qbittorrent.md) | *A powerful QT-based Bittorrent Client, official AppImage.*..[ *read more* ](apps/qbittorrent.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qbittorrent) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qbittorrent) |
 | <img loading="lazy" src="icons/qbittorrent-enhanced.png" width="48" height="48"> | [***qbittorrent-enhanced***](apps/qbittorrent-enhanced.md) | *Unofficial qBittorrent Enhanced, based on qBittorrent.*..[ *read more* ](apps/qbittorrent-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qbittorrent-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qbittorrent-enhanced) |
+| <img loading="lazy" src="icons/qdiskinfo.png" width="48" height="48"> | [***qdiskinfo***](apps/qdiskinfo.md) | *QDiskInfo is a frontend for smartctl. It provides a user experience similar to CrystalDiskInfo.*..[ *read more* ](apps/qdiskinfo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qdiskinfo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qdiskinfo) |
 | <img loading="lazy" src="icons/qdriverstation.png" width="48" height="48"> | [***qdriverstation***](apps/qdriverstation.md) | *Cross-platform clone of the FRC Driver Station.*..[ *read more* ](apps/qdriverstation.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qdriverstation) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qdriverstation) |
 | <img loading="lazy" src="icons/qelectrotech.png" width="48" height="48"> | [***qelectrotech***](apps/qelectrotech.md) | *Edit electrical diagrams.*..[ *read more* ](apps/qelectrotech.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qelectrotech) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qelectrotech) |
 | <img loading="lazy" src="icons/qemu-appimage.png" width="48" height="48"> | [***qemu-appimage***](apps/qemu-appimage.md) | *Unofficial. Prove of the concept to run a virtual machine from Appimage.*..[ *read more* ](apps/qemu-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qemu-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qemu-appimage) |
