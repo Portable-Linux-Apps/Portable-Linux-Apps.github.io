@@ -7905,11 +7905,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/open-video-downloader.png"
   },
   {
-    "packageName": "openxcom",
-    "description": "An open-source clone of the original UFO Enemy Unknown...",
-    "icon": "https://portable-linux-apps.github.io/icons/openxcom.png"
-  },
-  {
     "packageName": "opera-beta",
     "description": "Unofficial. Fast and secure web browser, Beta version...",
     "icon": "https://portable-linux-apps.github.io/icons/opera-beta.png"

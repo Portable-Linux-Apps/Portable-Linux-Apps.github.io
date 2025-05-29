@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2109** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2108** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1294,7 +1294,6 @@
 | <img loading="lazy" src="icons/opentrons.png" width="48" height="48"> | [***opentrons***](apps/opentrons.md) | *Opentrons desktop application.*..[ *read more* ](apps/opentrons.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opentrons) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opentrons) |
 | <img loading="lazy" src="icons/open-typer.png" width="48" height="48"> | [***open-typer***](apps/open-typer.md) | *A free and open source typing tutor program.*..[ *read more* ](apps/open-typer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/open-typer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/open-typer) |
 | <img loading="lazy" src="icons/open-video-downloader.png" width="48" height="48"> | [***open-video-downloader***](apps/open-video-downloader.md) | *A cross-platform GUI for youtube-dl made in Electron.*..[ *read more* ](apps/open-video-downloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/open-video-downloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/open-video-downloader) |
-| <img loading="lazy" src="icons/openxcom.png" width="48" height="48"> | [***openxcom***](apps/openxcom.md) | *An open-source clone of the original UFO Enemy Unknown.*..[ *read more* ](apps/openxcom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openxcom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openxcom) |
 | <img loading="lazy" src="icons/opera-beta.png" width="48" height="48"> | [***opera-beta***](apps/opera-beta.md) | *Unofficial. Fast and secure web browser, Beta version.*..[ *read more* ](apps/opera-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opera-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opera-beta) |
 | <img loading="lazy" src="icons/opera-dev.png" width="48" height="48"> | [***opera-dev***](apps/opera-dev.md) | *Unofficial. Fast and secure web browser, Developer version.*..[ *read more* ](apps/opera-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opera-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opera-dev) |
 | <img loading="lazy" src="icons/opera.png" width="48" height="48"> | [***opera***](apps/opera.md) | *Unofficial. Fast and secure web browser, Stable version.*..[ *read more* ](apps/opera.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opera) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opera) |
