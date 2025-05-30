@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2110** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2111** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1311,6 +1311,7 @@
 | <img loading="lazy" src="icons/outline-client.png" width="48" height="48"> | [***outline-client***](apps/outline-client.md) | *Lean on the Cordova and Electron frameworks.*..[ *read more* ](apps/outline-client.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/outline-client) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/outline-client) |
 | <img loading="lazy" src="icons/outline-manager.png" width="48" height="48"> | [***outline-manager***](apps/outline-manager.md) | *Create and manage access to Outline servers.*..[ *read more* ](apps/outline-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/outline-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/outline-manager) |
 | <img loading="lazy" src="icons/overbind.png" width="48" height="48"> | [***overbind***](apps/overbind.md) | *A utility that allows binding keyboard buttons to virtual Xbox360 controller joystick outputs.*..[ *read more* ](apps/overbind.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/overbind) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/overbind) |
+| <img loading="lazy" src="icons/overlayed.png" width="48" height="48"> | [***overlayed***](apps/overlayed.md) | *A modern, open-source, and free voice chat overlay for Discord.*..[ *read more* ](apps/overlayed.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/overlayed) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/overlayed) |
 | <img loading="lazy" src="icons/overte.png" width="48" height="48"> | [***overte***](apps/overte.md) | *Overte open source virtual worlds platform.*..[ *read more* ](apps/overte.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/overte) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/overte) |
 | <img loading="lazy" src="icons/ovideo.png" width="48" height="48"> | [***ovideo***](apps/ovideo.md) | *Video Editor.*..[ *read more* ](apps/ovideo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ovideo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ovideo) |
 | <img loading="lazy" src="icons/owallet.png" width="48" height="48"> | [***owallet***](apps/owallet.md) | *A comprehensive Ontology desktop wallet.*..[ *read more* ](apps/owallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/owallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/owallet) |

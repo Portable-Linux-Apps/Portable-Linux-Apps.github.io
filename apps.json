@@ -8000,6 +8000,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/overbind.png"
   },
   {
+    "packageName": "overlayed",
+    "description": "A modern, open-source, and free voice chat overlay for Discord...",
+    "icon": "https://portable-linux-apps.github.io/icons/overlayed.png"
+  },
+  {
     "packageName": "overte",
     "description": "Overte open source virtual worlds platform...",
     "icon": "https://portable-linux-apps.github.io/icons/overte.png"
