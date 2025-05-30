@@ -280,11 +280,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/anchor.png"
   },
   {
-    "packageName": "android-knot",
-    "description": "An Android gadget integrating Todo, Notes, Reader and more...",
-    "icon": "https://portable-linux-apps.github.io/icons/android-knot.png"
-  },
-  {
     "packageName": "android-messages-desktop",
     "description": "Messages for web, as a desktop app...",
     "icon": "https://portable-linux-apps.github.io/icons/android-messages-desktop.png"

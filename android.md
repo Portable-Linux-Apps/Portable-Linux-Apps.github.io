@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **28** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **27** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -34,7 +34,6 @@
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/adb.png" width="48" height="48"> | [***adb***](apps/adb.md) | *Android Debug Bridge, a command line utility to handle Android devices. This script installs the full "platform-tools" suite.*..[ *read more* ](apps/adb.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/adb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/adb) |
 | <img loading="lazy" src="icons/air-controller-desktop.png" width="48" height="48"> | [***air-controller-desktop***](apps/air-controller-desktop.md) | *Android phone assistant,powered by Flutter.*..[ *read more* ](apps/air-controller-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/air-controller-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/air-controller-desktop) |
-| <img loading="lazy" src="icons/android-knot.png" width="48" height="48"> | [***android-knot***](apps/android-knot.md) | *An Android gadget integrating Todo, Notes, Reader and more.*..[ *read more* ](apps/android-knot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/android-knot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/android-knot) |
 | <img loading="lazy" src="icons/android-messages-desktop.png" width="48" height="48"> | [***android-messages-desktop***](apps/android-messages-desktop.md) | *Messages for web, as a desktop app.*..[ *read more* ](apps/android-messages-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/android-messages-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/android-messages-desktop) |
 | <img loading="lazy" src="icons/android-studio-latest.png" width="48" height="48"> | [***android-studio-latest***](apps/android-studio-latest.md) | *Unofficial. Android Studio as AppImages, release.*..[ *read more* ](apps/android-studio-latest.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/android-studio-latest) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/android-studio-latest) |
 | <img loading="lazy" src="icons/android-studio.png" width="48" height="48"> | [***android-studio***](apps/android-studio.md) | *Unofficial. Android Studio as AppImages, stable.*..[ *read more* ](apps/android-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/android-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/android-studio) |

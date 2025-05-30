@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **88** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **87** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -34,7 +34,6 @@
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/abiword.png" width="48" height="48"> | [***abiword***](apps/abiword.md) | *Unofficial. A light and free word processing software.*..[ *read more* ](apps/abiword.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/abiword) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/abiword) |
 | <img loading="lazy" src="icons/alexandria.png" width="48" height="48"> | [***alexandria***](apps/alexandria.md) | *eBook reader built with Tauri, Epub.js, and Typescript.*..[ *read more* ](apps/alexandria.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alexandria) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alexandria) |
-| <img loading="lazy" src="icons/android-knot.png" width="48" height="48"> | [***android-knot***](apps/android-knot.md) | *An Android gadget integrating Todo, Notes, Reader and more.*..[ *read more* ](apps/android-knot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/android-knot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/android-knot) |
 | <img loading="lazy" src="icons/anything-llm.png" width="48" height="48"> | [***anything-llm***](apps/anything-llm.md) | *AI business intelligence tool. Any LLM, any document.*..[ *read more* ](apps/anything-llm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/anything-llm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/anything-llm) |
 | <img loading="lazy" src="icons/bk.png" width="48" height="48"> | [***bk***](apps/bk.md) | *Terminal Epub reader.*..[ *read more* ](apps/bk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bk) |
 | <img loading="lazy" src="icons/book-manager.png" width="48" height="48"> | [***book-manager***](apps/book-manager.md) | *Simple desktop app to manage personal library.*..[ *read more* ](apps/book-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/book-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/book-manager) |
