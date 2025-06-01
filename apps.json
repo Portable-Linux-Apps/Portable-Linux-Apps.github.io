@@ -9775,6 +9775,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/saphyr.png"
   },
   {
+    "packageName": "sas",
+    "description": "Tool to sandbox AppImages with bubblewrap easily...",
+    "icon": "https://portable-linux-apps.github.io/icons/sas.png"
+  },
+  {
     "packageName": "satisfactory",
     "description": "Satisfactory Mod Manager...",
     "icon": "https://portable-linux-apps.github.io/icons/satisfactory.png"
