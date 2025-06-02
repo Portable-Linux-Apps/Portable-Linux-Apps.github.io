@@ -1740,6 +1740,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/classicimageviewer.png"
   },
   {
+    "packageName": "classipod",
+    "description": "A local music player app designed to capture the nostalgic essence of the iconic iPod Classic...",
+    "icon": "https://portable-linux-apps.github.io/icons/classipod.png"
+  },
+  {
     "packageName": "cleepdesktop",
     "description": "Desktop application to manage your Cleep devices...",
     "icon": "https://portable-linux-apps.github.io/icons/cleepdesktop.png"

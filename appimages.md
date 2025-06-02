@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2110** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2111** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -325,6 +325,7 @@
 | <img loading="lazy" src="icons/city-hub.png" width="48" height="48"> | [***city-hub***](apps/city-hub.md) | *Hub into everything on City Chain/Smart City Platform.*..[ *read more* ](apps/city-hub.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/city-hub) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/city-hub) |
 | <img loading="lazy" src="icons/clash-verge.png" width="48" height="48"> | [***clash-verge***](apps/clash-verge.md) | *A multiplatform Clash GUI based on tauri.*..[ *read more* ](apps/clash-verge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clash-verge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clash-verge) |
 | <img loading="lazy" src="icons/classicimageviewer.png" width="48" height="48"> | [***classicimageviewer***](apps/classicimageviewer.md) | *A simple image viewer with some editing features.*..[ *read more* ](apps/classicimageviewer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/classicimageviewer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/classicimageviewer) |
+| <img loading="lazy" src="icons/classipod.png" width="48" height="48"> | [***classipod***](apps/classipod.md) | *A local music player app designed to capture the nostalgic essence of the iconic iPod Classic.*..[ *read more* ](apps/classipod.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/classipod) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/classipod) |
 | <img loading="lazy" src="icons/cleepdesktop.png" width="48" height="48"> | [***cleepdesktop***](apps/cleepdesktop.md) | *Desktop application to manage your Cleep devices.*..[ *read more* ](apps/cleepdesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cleepdesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cleepdesktop) |
 | <img loading="lazy" src="icons/clementineremote.png" width="48" height="48"> | [***clementineremote***](apps/clementineremote.md) | *Remote for Clementine Music Player.*..[ *read more* ](apps/clementineremote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clementineremote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clementineremote) |
 | <img loading="lazy" src="icons/cliniface.png" width="48" height="48"> | [***cliniface***](apps/cliniface.md) | *3D Facial Image Visualisation and Analysis.*..[ *read more* ](apps/cliniface.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cliniface) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cliniface) |
