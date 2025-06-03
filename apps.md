@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2507** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2508** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1756,6 +1756,7 @@
 | <img loading="lazy" src="icons/podman.png" width="48" height="48"> | [***podman***](apps/podman.md) | *Free & open source tool to manage containers, pods, and images.*..[ *read more* ](apps/podman.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/podman) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/podman) |
 | <img loading="lazy" src="icons/poe-ladder.png" width="48" height="48"> | [***poe-ladder***](apps/poe-ladder.md) | *Path of Exile ladder viewer.*..[ *read more* ](apps/poe-ladder.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/poe-ladder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/poe-ladder) |
 | <img loading="lazy" src="icons/poe-pake.png" width="48" height="48"> | [***poe-pake***](apps/poe-pake.md) | *Unofficial Poe app. Pake project turns any webpage into a desktop app with Rust.*..[ *read more* ](apps/poe-pake.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/poe-pake) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/poe-pake) |
+| <img loading="lazy" src="icons/poedit.png" width="48" height="48"> | [***poedit***](apps/poedit.md) | *Unofficial. Powerful and intuitive translation editor.*..[ *read more* ](apps/poedit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/poedit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/poedit) |
 | <img loading="lazy" src="icons/poi.png" width="48" height="48"> | [***poi***](apps/poi.md) | *Scalable KanColle browser and tool.*..[ *read more* ](apps/poi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/poi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/poi) |
 | <img loading="lazy" src="icons/pointless.png" width="48" height="48"> | [***pointless***](apps/pointless.md) | *An endless drawing canvas desktop app made with Tauri (Rust) and React.*..[ *read more* ](apps/pointless.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pointless) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pointless) |
 | <img loading="lazy" src="icons/pokeget-rs.png" width="48" height="48"> | [***pokeget-rs***](apps/pokeget-rs.md) | *A better rust version of pokeget. CLI.*..[ *read more* ](apps/pokeget-rs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pokeget-rs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pokeget-rs) |

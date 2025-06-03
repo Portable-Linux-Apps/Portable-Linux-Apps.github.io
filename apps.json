@@ -8630,6 +8630,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/podman.png"
   },
   {
+    "packageName": "poedit",
+    "description": "Unofficial. Powerful and intuitive translation editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/poedit.png"
+  },
+  {
     "packageName": "poe-ladder",
     "description": "Path of Exile ladder viewer...",
     "icon": "https://portable-linux-apps.github.io/icons/poe-ladder.png"

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2111** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2112** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1409,6 +1409,7 @@
 | <img loading="lazy" src="icons/poddr.png" width="48" height="48"> | [***poddr***](apps/poddr.md) | *Podcast client that uses iTunes RSS feeds and Search API.*..[ *read more* ](apps/poddr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/poddr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/poddr) |
 | <img loading="lazy" src="icons/podium.png" width="48" height="48"> | [***podium***](apps/podium.md) | *A Markdown-based native presentation tool.*..[ *read more* ](apps/podium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/podium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/podium) |
 | <img loading="lazy" src="icons/podman-desktop-companion.png" width="48" height="48"> | [***podman-desktop-companion***](apps/podman-desktop-companion.md) | *Podman command line interface.*..[ *read more* ](apps/podman-desktop-companion.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/podman-desktop-companion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/podman-desktop-companion) |
+| <img loading="lazy" src="icons/poedit.png" width="48" height="48"> | [***poedit***](apps/poedit.md) | *Unofficial. Powerful and intuitive translation editor.*..[ *read more* ](apps/poedit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/poedit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/poedit) |
 | <img loading="lazy" src="icons/poe-ladder.png" width="48" height="48"> | [***poe-ladder***](apps/poe-ladder.md) | *Path of Exile ladder viewer.*..[ *read more* ](apps/poe-ladder.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/poe-ladder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/poe-ladder) |
 | <img loading="lazy" src="icons/poe-pake.png" width="48" height="48"> | [***poe-pake***](apps/poe-pake.md) | *Unofficial Poe app. Pake project turns any webpage into a desktop app with Rust.*..[ *read more* ](apps/poe-pake.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/poe-pake) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/poe-pake) |
 | <img loading="lazy" src="icons/pointless.png" width="48" height="48"> | [***pointless***](apps/pointless.md) | *An endless drawing canvas desktop app made with Tauri (Rust) and React.*..[ *read more* ](apps/pointless.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pointless) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pointless) |
