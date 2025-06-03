@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **115** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **114** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -134,7 +134,6 @@
 | <img loading="lazy" src="icons/rx-bin.png" width="48" height="48"> | [***rx-bin***](apps/rx-bin.md) | *A modern and extensible pixel editor implemented in Rust.*..[ *read more* ](apps/rx-bin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rx-bin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rx-bin) |
 | <img loading="lazy" src="icons/satty.png" width="48" height="48"> | [***satty***](apps/satty.md) | *Modern Screenshot Annotation.*..[ *read more* ](apps/satty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/satty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/satty) |
 | <img loading="lazy" src="icons/screencloud.png" width="48" height="48"> | [***screencloud***](apps/screencloud.md) | *Capture and share screenshots easily.*..[ *read more* ](apps/screencloud.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/screencloud) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/screencloud) |
-| <img loading="lazy" src="icons/stereophotoview.png" width="48" height="48"> | [***stereophotoview***](apps/stereophotoview.md) | *3d stereoscopic photo/video viewer and editor.*..[ *read more* ](apps/stereophotoview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stereophotoview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stereophotoview) |
 | <img loading="lazy" src="icons/substrate-ide.png" width="48" height="48"> | [***substrate-ide***](apps/substrate-ide.md) | *Graphic IDE for developing Substrate blockchains.*..[ *read more* ](apps/substrate-ide.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/substrate-ide) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/substrate-ide) |
 | <img loading="lazy" src="icons/sunny.png" width="48" height="48"> | [***sunny***](apps/sunny.md) | *Screenshot software that supports OCR and image translation features.*..[ *read more* ](apps/sunny.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sunny) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sunny) |
 | <img loading="lazy" src="icons/superpaper.png" width="48" height="48"> | [***superpaper***](apps/superpaper.md) | *A cross-platform multi monitor wallpaper manager.*..[ *read more* ](apps/superpaper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/superpaper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/superpaper) |

@@ -10680,11 +10680,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/stellarium.png"
   },
   {
-    "packageName": "stereophotoview",
-    "description": "3d stereoscopic photo/video viewer and editor...",
-    "icon": "https://portable-linux-apps.github.io/icons/stereophotoview.png"
-  },
-  {
     "packageName": "stew",
     "description": "An independent package manager for compiled binaries...",
     "icon": "https://portable-linux-apps.github.io/icons/stew.png"

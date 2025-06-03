@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2113** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2112** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1775,7 +1775,6 @@
 | <img loading="lazy" src="icons/steem-messenger.png" width="48" height="48"> | [***steem-messenger***](apps/steem-messenger.md) | *Messer for Steem.*..[ *read more* ](apps/steem-messenger.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steem-messenger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steem-messenger) |
 | <img loading="lazy" src="icons/stele.png" width="48" height="48"> | [***stele***](apps/stele.md) | *Kiosk app wrapper for museum media exhibits.*..[ *read more* ](apps/stele.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stele) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stele) |
 | <img loading="lazy" src="icons/stellarium.png" width="48" height="48"> | [***stellarium***](apps/stellarium.md) | *Planetarium that shows a realistic sky in 3D.*..[ *read more* ](apps/stellarium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stellarium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stellarium) |
-| <img loading="lazy" src="icons/stereophotoview.png" width="48" height="48"> | [***stereophotoview***](apps/stereophotoview.md) | *3d stereoscopic photo/video viewer and editor.*..[ *read more* ](apps/stereophotoview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stereophotoview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stereophotoview) |
 | <img loading="lazy" src="icons/sticker-convert.png" width="48" height="48"> | [***sticker-convert***](apps/sticker-convert.md) | *Convert animated stickers.*..[ *read more* ](apps/sticker-convert.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sticker-convert) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sticker-convert) |
 | <img loading="lazy" src="icons/stockstalk.png" width="48" height="48"> | [***stockstalk***](apps/stockstalk.md) | *Your stocks on your desktop.*..[ *read more* ](apps/stockstalk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stockstalk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stockstalk) |
 | <img loading="lazy" src="icons/stoplight.png" width="48" height="48"> | [***stoplight***](apps/stoplight.md) | *The kickass API platform.*..[ *read more* ](apps/stoplight.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stoplight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stoplight) |
