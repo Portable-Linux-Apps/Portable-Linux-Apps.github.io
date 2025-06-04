@@ -10481,13 +10481,8 @@
   },
   {
     "packageName": "speedcrunch",
-    "description": "A high-precision scientific calculator featuring a fast, keyboard-driven user interface...",
+    "description": "Unofficial, a high-precision scientific calculator featuring a fast, keyboard-driven user interface...",
     "icon": "https://portable-linux-apps.github.io/icons/speedcrunch.png"
-  },
-  {
-    "packageName": "speedcrunch-appimage",
-    "description": "Unofficial AppImage of the SpeedCrunch Calculator...",
-    "icon": "https://portable-linux-apps.github.io/icons/speedcrunch-appimage.png"
   },
   {
     "packageName": "speed-dreams",
