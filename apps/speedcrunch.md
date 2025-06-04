@@ -6,7 +6,7 @@
 
  SITE: http://speedcrunch.org
 
- APPIMAGE: github.com/repos/pkgforge-dev/SpeedCrunch-AppImage
+ APPIMAGE: https://github.com/pkgforge-dev/SpeedCrunch-AppImage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
