@@ -1,8 +1,8 @@
-# STEREOPHOTOVIEW
- 
- A cross-platform 3d stereoscopic photo/video viewer and editor
- 
- SITE: https://stereophotoview.bitbucket.io
+# DELTA
+
+ A syntax-highlighting pager for git, diff, grep, and blame output
+
+ SITE: https://github.com/dandavison/delta
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

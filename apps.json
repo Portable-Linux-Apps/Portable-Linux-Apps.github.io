@@ -1740,6 +1740,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/classicimageviewer.png"
   },
   {
+    "packageName": "classipod",
+    "description": "A local music player app designed to capture the nostalgic essence of the iconic iPod Classic...",
+    "icon": "https://portable-linux-apps.github.io/icons/classipod.png"
+  },
+  {
     "packageName": "cleepdesktop",
     "description": "Desktop application to manage your Cleep devices...",
     "icon": "https://portable-linux-apps.github.io/icons/cleepdesktop.png"
@@ -2418,6 +2423,11 @@
     "packageName": "defichain-app",
     "description": "DefiChain Wallet AppImage...",
     "icon": "https://portable-linux-apps.github.io/icons/defichain-app.png"
+  },
+  {
+    "packageName": "delta",
+    "description": "A syntax-highlighting pager for git, diff, grep, and blame output...",
+    "icon": "https://portable-linux-apps.github.io/icons/delta.png"
   },
   {
     "packageName": "deltachat-desktop",
@@ -5985,6 +5995,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/launcher.png"
   },
   {
+    "packageName": "lazygit",
+    "description": "Simple terminal UI for git commands...",
+    "icon": "https://portable-linux-apps.github.io/icons/lazygit.png"
+  },
+  {
     "packageName": "lbry-desktop",
     "description": "A browser and wallet for LBRY...",
     "icon": "https://portable-linux-apps.github.io/icons/lbry-desktop.png"
@@ -8625,6 +8640,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/podman.png"
   },
   {
+    "packageName": "poedit",
+    "description": "Unofficial. Powerful and intuitive translation editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/poedit.png"
+  },
+  {
     "packageName": "poe-ladder",
     "description": "Path of Exile ladder viewer...",
     "icon": "https://portable-linux-apps.github.io/icons/poe-ladder.png"
@@ -10668,11 +10688,6 @@
     "packageName": "stellarium",
     "description": "Planetarium that shows a realistic sky in 3D...",
     "icon": "https://portable-linux-apps.github.io/icons/stellarium.png"
-  },
-  {
-    "packageName": "stereophotoview",
-    "description": "3d stereoscopic photo/video viewer and editor...",
-    "icon": "https://portable-linux-apps.github.io/icons/stereophotoview.png"
   },
   {
     "packageName": "stew",
