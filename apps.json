@@ -7395,6 +7395,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/nixnote.png"
   },
   {
+    "packageName": "nix-portable",
+    "description": "Use nix on any linux system, rootless and configuration free...",
+    "icon": "https://portable-linux-apps.github.io/icons/nix-portable.png"
+  },
+  {
     "packageName": "nmeasimulator",
     "description": "NMEA sentence generator utility to broadcast via TCP...",
     "icon": "https://portable-linux-apps.github.io/icons/nmeasimulator.png"

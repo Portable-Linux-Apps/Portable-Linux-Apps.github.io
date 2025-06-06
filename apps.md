@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2506** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2507** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1506,6 +1506,7 @@
 | <img loading="lazy" src="icons/nitch.png" width="48" height="48"> | [***nitch***](apps/nitch.md) | *Incredibly fast system fetch written in nim.*..[ *read more* ](apps/nitch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nitch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nitch) |
 | <img loading="lazy" src="icons/nitrokey.png" width="48" height="48"> | [***nitrokey***](apps/nitrokey.md) | *Manage your Nitrokey devices.*..[ *read more* ](apps/nitrokey.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nitrokey) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nitrokey) |
 | <img loading="lazy" src="icons/nix-bucks.png" width="48" height="48"> | [***nix-bucks***](apps/nix-bucks.md) | *A money tracker. Your income and expenses at your control. Finance.*..[ *read more* ](apps/nix-bucks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nix-bucks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nix-bucks) |
+| <img loading="lazy" src="icons/nix-portable.png" width="48" height="48"> | [***nix-portable***](apps/nix-portable.md) | *Use nix on any linux system, rootless and configuration free.*..[ *read more* ](apps/nix-portable.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nix-portable) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nix-portable) |
 | <img loading="lazy" src="icons/nixnote.png" width="48" height="48"> | [***nixnote***](apps/nixnote.md) | *Use with Evernote to remember everything.*..[ *read more* ](apps/nixnote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nixnote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nixnote) |
 | <img loading="lazy" src="icons/nmeasimulator.png" width="48" height="48"> | [***nmeasimulator***](apps/nmeasimulator.md) | *NMEA sentence generator utility to broadcast via TCP.*..[ *read more* ](apps/nmeasimulator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nmeasimulator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nmeasimulator) |
 | <img loading="lazy" src="icons/nnn.png" width="48" height="48"> | [***nnn***](apps/nnn.md) | *n³ The unorthodox terminal file manager*..[ *read more* ](apps/nnn.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nnn) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nnn) |
