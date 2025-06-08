@@ -9805,6 +9805,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/satisfactory.png"
   },
   {
+    "packageName": "sat",
+    "description": "Simple AppImage thumbnailer in POSIX shell..",
+    "icon": "https://portable-linux-apps.github.io/icons/sat.png"
+  },
+  {
     "packageName": "satty",
     "description": "Modern Screenshot Annotation...",
     "icon": "https://portable-linux-apps.github.io/icons/satty.png"
