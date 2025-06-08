@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2110** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2111** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1619,6 +1619,7 @@
 | <img loading="lazy" src="icons/saphyr.png" width="48" height="48"> | [***saphyr***](apps/saphyr.md) | *A C++ like compiler.*..[ *read more* ](apps/saphyr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/saphyr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/saphyr) |
 | <img loading="lazy" src="icons/sas.png" width="48" height="48"> | [***sas***](apps/sas.md) | *Tool to sandbox AppImages with bubblewrap easily.*..[ *read more* ](apps/sas.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sas) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sas) |
 | <img loading="lazy" src="icons/satisfactory.png" width="48" height="48"> | [***satisfactory***](apps/satisfactory.md) | *Satisfactory Mod Manager.*..[ *read more* ](apps/satisfactory.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/satisfactory) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/satisfactory) |
+| <img loading="lazy" src="icons/sat.png" width="48" height="48"> | [***sat***](apps/sat.md) | *Simple AppImage thumbnailer in POSIX shell*..[ *read more* ](apps/sat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sat) |
 | <img loading="lazy" src="icons/saucedacity.png" width="48" height="48"> | [***saucedacity***](apps/saucedacity.md) | *Audio editor based on Audacity focusing on general improvements.*..[ *read more* ](apps/saucedacity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/saucedacity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/saucedacity) |
 | <img loading="lazy" src="icons/savvycan.png" width="48" height="48"> | [***savvycan***](apps/savvycan.md) | *Facilitates reverse engineering of canbus captures.*..[ *read more* ](apps/savvycan.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/savvycan) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/savvycan) |
 | <img loading="lazy" src="icons/sayonara.png" width="48" height="48"> | [***sayonara***](apps/sayonara.md) | *Music player and music library admininstration.*..[ *read more* ](apps/sayonara.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sayonara) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sayonara) |
