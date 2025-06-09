@@ -5210,11 +5210,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/jellyfin.png"
   },
   {
-    "packageName": "jetbrains-toolbox",
-    "description": "Essential tools for software developers and teams...",
-    "icon": "https://portable-linux-apps.github.io/icons/jetbrains-toolbox.png"
-  },
-  {
     "packageName": "jexiftoolgui",
     "description": "Java/Swing graphical frontend for ExifTool...",
     "icon": "https://portable-linux-apps.github.io/icons/jexiftoolgui.png"

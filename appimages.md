@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2111** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2110** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -877,7 +877,6 @@
 | <img loading="lazy" src="icons/jdreplace.png" width="48" height="48"> | [***jdreplace***](apps/jdreplace.md) | *With jdReplace you can replace a text in all files of a directory.*..[ *read more* ](apps/jdreplace.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jdreplace) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jdreplace) |
 | <img loading="lazy" src="icons/jdtextedit.png" width="48" height="48"> | [***jdtextedit***](apps/jdtextedit.md) | *jdTextEdit is a powerful texteditor with a lot of features.*..[ *read more* ](apps/jdtextedit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jdtextedit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jdtextedit) |
 | <img loading="lazy" src="icons/jellyamp.png" width="48" height="48"> | [***jellyamp***](apps/jellyamp.md) | *A client for listening to music from a Jellyfin server.*..[ *read more* ](apps/jellyamp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jellyamp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jellyamp) |
-| <img loading="lazy" src="icons/jetbrains-toolbox.png" width="48" height="48"> | [***jetbrains-toolbox***](apps/jetbrains-toolbox.md) | *Essential tools for software developers and teams.*..[ *read more* ](apps/jetbrains-toolbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jetbrains-toolbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jetbrains-toolbox) |
 | <img loading="lazy" src="icons/jexiftoolgui.png" width="48" height="48"> | [***jexiftoolgui***](apps/jexiftoolgui.md) | *Java/Swing graphical frontend for ExifTool.*..[ *read more* ](apps/jexiftoolgui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jexiftoolgui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jexiftoolgui) |
 | <img loading="lazy" src="icons/jfcord.png" width="48" height="48"> | [***jfcord***](apps/jfcord.md) | *An Jellyfin rich presence client for Discord.*..[ *read more* ](apps/jfcord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jfcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jfcord) |
 | <img loading="lazy" src="icons/jgenesis-cli.png" width="48" height="48"> | [***jgenesis-cli***](apps/jgenesis-cli.md) | *Sega Genesis, Sega CD, SNES, Master System, Game Gear emulator (CLI).*..[ *read more* ](apps/jgenesis-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jgenesis-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jgenesis-cli) |
