@@ -6010,11 +6010,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/ldtk.png"
   },
   {
-    "packageName": "ldview",
-    "description": "LDraw Model Viewer...",
-    "icon": "https://portable-linux-apps.github.io/icons/ldview.png"
-  },
-  {
     "packageName": "leaflet",
     "description": "POSP official notes application, written in flutter, beautiful, fast and secure...",
     "icon": "https://portable-linux-apps.github.io/icons/leaflet.png"
@@ -11213,11 +11208,6 @@
     "packageName": "textosaurus",
     "description": "Cross-platform text editor based on Qt and Scintilla...",
     "icon": "https://portable-linux-apps.github.io/icons/textosaurus.png"
-  },
-  {
-    "packageName": "texts",
-    "description": "All of your messages in one inbox...",
-    "icon": "https://portable-linux-apps.github.io/icons/texts.png"
   },
   {
     "packageName": "tgpt",
