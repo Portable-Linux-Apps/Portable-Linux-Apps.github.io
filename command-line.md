@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **211** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **212** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -205,6 +205,7 @@
 | <img loading="lazy" src="icons/sysz.png" width="48" height="48"> | [***sysz***](apps/sysz.md) | *An fzf terminal UI for systemctl.*..[ *read more* ](apps/sysz.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sysz) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sysz) |
 | <img loading="lazy" src="icons/tabby.png" width="48" height="48"> | [***tabby***](apps/tabby.md) | *A terminal for a more modern age*..[ *read more* ](apps/tabby.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tabby) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tabby) |
 | <img loading="lazy" src="icons/taskell.png" width="48" height="48"> | [***taskell***](apps/taskell.md) | *Command-line Kanban board/task manager with support for Trello boards and GitHub projects.*..[ *read more* ](apps/taskell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskell) |
+| <img loading="lazy" src="icons/task.png" width="48" height="48"> | [***task***](apps/task.md) | *Unofficial AppImage for Taskwarrior, a powerful and open source CLI for todo.*..[ *read more* ](apps/task.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/task) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/task) |
 | <img loading="lazy" src="icons/tb.png" width="48" height="48"> | [***tb***](apps/tb.md) | *Tasks, boards & notes for the command-line habitat.*..[ *read more* ](apps/tb.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tb) |
 | <img loading="lazy" src="icons/tere.png" width="48" height="48"> | [***tere***](apps/tere.md) | *Terminal file explorer.*..[ *read more* ](apps/tere.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tere) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tere) |
 | <img loading="lazy" src="icons/terminalos-sim.png" width="48" height="48"> | [***terminalos-sim***](apps/terminalos-sim.md) | *A terminalOS simulator.*..[ *read more* ](apps/terminalos-sim.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/terminalos-sim) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/terminalos-sim) |

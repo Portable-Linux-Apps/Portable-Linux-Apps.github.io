@@ -11090,6 +11090,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/taskizer.png"
   },
   {
+    "packageName": "task",
+    "description": "Unofficial AppImage for Taskwarrior, a powerful and open source CLI for todo...",
+    "icon": "https://portable-linux-apps.github.io/icons/task.png"
+  },
+  {
     "packageName": "tastee-ui",
     "description": "Tool helping you write executable specifications in your lang...",
     "icon": "https://portable-linux-apps.github.io/icons/tastee-ui.png"

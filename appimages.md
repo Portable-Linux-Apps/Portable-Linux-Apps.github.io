@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2110** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2111** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1847,6 +1847,7 @@
 | <img loading="lazy" src="icons/tangent.png" width="48" height="48"> | [***tangent***](apps/tangent.md) | *A clean and powerful open source notes app.*..[ *read more* ](apps/tangent.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tangent) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tangent) |
 | <img loading="lazy" src="icons/taskade.png" width="48" height="48"> | [***taskade***](apps/taskade.md) | *AI-Powered productivity.*..[ *read more* ](apps/taskade.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskade) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskade) |
 | <img loading="lazy" src="icons/taskizer.png" width="48" height="48"> | [***taskizer***](apps/taskizer.md) | *A task management app.*..[ *read more* ](apps/taskizer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskizer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskizer) |
+| <img loading="lazy" src="icons/task.png" width="48" height="48"> | [***task***](apps/task.md) | *Unofficial AppImage for Taskwarrior, a powerful and open source CLI for todo.*..[ *read more* ](apps/task.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/task) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/task) |
 | <img loading="lazy" src="icons/tastee-ui.png" width="48" height="48"> | [***tastee-ui***](apps/tastee-ui.md) | *Tool helping you write executable specifications in your lang.*..[ *read more* ](apps/tastee-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tastee-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tastee-ui) |
 | <img loading="lazy" src="icons/tc.png" width="48" height="48"> | [***tc***](apps/tc.md) | *A desktop chat client for Twitch.*..[ *read more* ](apps/tc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tc) |
 | <img loading="lazy" src="icons/teams.png" width="48" height="48"> | [***teams***](apps/teams.md) | *Unofficial, Business communication platform developed by Microsoft.*..[ *read more* ](apps/teams.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/teams) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/teams) |
