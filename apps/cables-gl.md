@@ -1,6 +1,6 @@
 # CABLES-GL
 
- Cables is a tool for creating beautiful interactive content.With an easy to navigate interface and real time visuals, it allows for rapid prototyping and fast adjustments.
+ Cables is a tool for creating beautiful interactive content. With an easy to navigate interface and real time visuals, it allows for rapid prototyping and fast adjustments.
 
  SITE: https://cables.gl
  
