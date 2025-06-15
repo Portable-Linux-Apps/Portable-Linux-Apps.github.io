@@ -8786,7 +8786,7 @@
   },
   {
     "packageName": "ppsspp",
-    "description": "Unofficial, PSP emulator written in C++...",
+    "description": "PSP emulator written in C++...",
     "icon": "https://portable-linux-apps.github.io/icons/ppsspp.png"
   },
   {
