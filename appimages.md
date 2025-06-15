@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2110** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2109** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -602,7 +602,6 @@
 | <img loading="lazy" src="icons/feather-wallet.png" width="48" height="48"> | [***feather-wallet***](apps/feather-wallet.md) | *Monero wallet.*..[ *read more* ](apps/feather-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/feather-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/feather-wallet) |
 | <img loading="lazy" src="icons/feebas.png" width="48" height="48"> | [***feebas***](apps/feebas.md) | *Screenshot comparison tool for identifying visual regressions.*..[ *read more* ](apps/feebas.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/feebas) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/feebas) |
 | <img loading="lazy" src="icons/feedseries.png" width="48" height="48"> | [***feedseries***](apps/feedseries.md) | *Follow your series enthusiast news, in french.*..[ *read more* ](apps/feedseries.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/feedseries) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/feedseries) |
-| <img loading="lazy" src="icons/feidao.png" width="48" height="48"> | [***feidao***](apps/feidao.md) | *Feidao Online Course Design Platform, chinese.*..[ *read more* ](apps/feidao.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/feidao) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/feidao) |
 | <img loading="lazy" src="icons/feishin.png" width="48" height="48"> | [***feishin***](apps/feishin.md) | *Sonixd Rewrite, a desktop music player.*..[ *read more* ](apps/feishin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/feishin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/feishin) |
 | <img loading="lazy" src="icons/ferdium.png" width="48" height="48"> | [***ferdium***](apps/ferdium.md) | *All your services in one place, built by the community.*..[ *read more* ](apps/ferdium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ferdium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ferdium) |
 | <img loading="lazy" src="icons/fflogs-uploader.png" width="48" height="48"> | [***fflogs-uploader***](apps/fflogs-uploader.md) | *FFLogs Uploader appimage.*..[ *read more* ](apps/fflogs-uploader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fflogs-uploader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fflogs-uploader) |

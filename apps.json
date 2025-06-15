@@ -3365,11 +3365,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/feedseries.png"
   },
   {
-    "packageName": "feidao",
-    "description": "Feidao Online Course Design Platform, chinese...",
-    "icon": "https://portable-linux-apps.github.io/icons/feidao.png"
-  },
-  {
     "packageName": "feishin",
     "description": "Sonixd Rewrite, a desktop music player...",
     "icon": "https://portable-linux-apps.github.io/icons/feishin.png"
