@@ -4675,6 +4675,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/haveno-reto.png"
   },
   {
+    "packageName": "hayase",
+    "description": "Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads...",
+    "icon": "https://portable-linux-apps.github.io/icons/hayase.png"
+  },
+  {
     "packageName": "hctl",
     "description": "A tool to control your Home Assistant devices from the command-line...",
     "icon": "https://portable-linux-apps.github.io/icons/hctl.png"
@@ -6823,11 +6828,6 @@
     "packageName": "mirage",
     "description": "Matrix chat client for encrypted and decentralized communication...",
     "icon": "https://portable-linux-apps.github.io/icons/mirage.png"
-  },
-  {
-    "packageName": "miru",
-    "description": "Bittorrent streaming software for cats. Stream anime torrents...",
-    "icon": "https://portable-linux-apps.github.io/icons/miru.png"
   },
   {
     "packageName": "mission-center",
