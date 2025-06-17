@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2110** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2111** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -432,6 +432,7 @@
 | <img loading="lazy" src="icons/deadbeef-appimage.png" width="48" height="48"> | [***deadbeef-appimage***](apps/deadbeef-appimage.md) | *Unofficial AppImage of the DeaDBeeF music player. Stable build.*..[ *read more* ](apps/deadbeef-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deadbeef-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deadbeef-appimage) |
 | <img loading="lazy" src="icons/deadbeef-nightly-appimage.png" width="48" height="48"> | [***deadbeef-nightly-appimage***](apps/deadbeef-nightly-appimage.md) | *Unofficial AppImage of the DeaDBeeF music player. Nightly build.*..[ *read more* ](apps/deadbeef-nightly-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deadbeef-nightly-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deadbeef-nightly-appimage) |
 | <img loading="lazy" src="icons/deadgame-2048.png" width="48" height="48"> | [***deadgame-2048***](apps/deadgame-2048.md) | *GUI tool available for ALL platforms.*..[ *read more* ](apps/deadgame-2048.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deadgame-2048) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deadgame-2048) |
+| <img loading="lazy" src="icons/dealers-choice.png" width="48" height="48"> | [***dealers-choice***](apps/dealers-choice.md) | *Multiplayer Stud and Draw Poker game.*..[ *read more* ](apps/dealers-choice.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dealers-choice) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dealers-choice) |
 | <img loading="lazy" src="icons/deb2appimage.png" width="48" height="48"> | [***deb2appimage***](apps/deb2appimage.md) | *Build AppImages from deb packages on any distro.*..[ *read more* ](apps/deb2appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deb2appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deb2appimage) |
 | <img loading="lazy" src="icons/deckboard.png" width="48" height="48"> | [***deckboard***](apps/deckboard.md) | *Control your PC with your phone in easy way possible.*..[ *read more* ](apps/deckboard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deckboard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deckboard) |
 | <img loading="lazy" src="icons/dedop-studio.png" width="48" height="48"> | [***dedop-studio***](apps/dedop-studio.md) | *DeDop Studio*..[ *read more* ](apps/dedop-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dedop-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dedop-studio) |
