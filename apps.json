@@ -2380,6 +2380,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/deadgame-2048.png"
   },
   {
+    "packageName": "dealers-choice",
+    "description": "Multiplayer Stud and Draw Poker game...",
+    "icon": "https://portable-linux-apps.github.io/icons/dealers-choice.png"
+  },
+  {
     "packageName": "deb2appimage",
     "description": "Build AppImages from deb packages on any distro...",
     "icon": "https://portable-linux-apps.github.io/icons/deb2appimage.png"
