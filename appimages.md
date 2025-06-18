@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2111** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2112** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -179,6 +179,7 @@
 | <img loading="lazy" src="icons/beaver-notes.png" width="48" height="48"> | [***beaver-notes***](apps/beaver-notes.md) | *Build your knowledge one log at a time.*..[ *read more* ](apps/beaver-notes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beaver-notes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beaver-notes) |
 | <img loading="lazy" src="icons/beekeeper-studio.png" width="48" height="48"> | [***beekeeper-studio***](apps/beekeeper-studio.md) | *SQL query editor and database UI.*..[ *read more* ](apps/beekeeper-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beekeeper-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beekeeper-studio) |
 | <img loading="lazy" src="icons/beeper.png" width="48" height="48"> | [***beeper***](apps/beeper.md) | *All your chats in one app.*..[ *read more* ](apps/beeper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beeper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beeper) |
+| <img loading="lazy" src="icons/beeref.png" width="48" height="48"> | [***beeref***](apps/beeref.md) | *BeeRef Reference Image Viewer.*..[ *read more* ](apps/beeref.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beeref) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beeref) |
 | <img loading="lazy" src="icons/bench-cli.png" width="48" height="48"> | [***bench-cli***](apps/bench-cli.md) | *CLI tool to benchmark commands, written in `Fortran`.*..[ *read more* ](apps/bench-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bench-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bench-cli) |
 | <img loading="lazy" src="icons/bettercrewlink.png" width="48" height="48"> | [***bettercrewlink***](apps/bettercrewlink.md) | *Free, open, Among Us proximity voice chat.*..[ *read more* ](apps/bettercrewlink.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bettercrewlink) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bettercrewlink) |
 | <img loading="lazy" src="icons/better-osu-skills.png" width="48" height="48"> | [***better-osu-skills***](apps/better-osu-skills.md) | *Gets results from the osu! Using your own IRC credentials.*..[ *read more* ](apps/better-osu-skills.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/better-osu-skills) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/better-osu-skills) |
