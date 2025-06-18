@@ -7060,11 +7060,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/mudita-center.png"
   },
   {
-    "packageName": "mudlet",
-    "description": "Play immersive, multiplayer, pure-text games on Mudlet...",
-    "icon": "https://portable-linux-apps.github.io/icons/mudlet.png"
-  },
-  {
     "packageName": "muffon",
     "description": "Music streaming browser,retrieves audio, video and metadata...",
     "icon": "https://portable-linux-apps.github.io/icons/muffon.png"
