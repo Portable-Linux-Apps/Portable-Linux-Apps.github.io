@@ -8975,6 +8975,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/puppetry.png"
   },
   {
+    "packageName": "pureref",
+    "description": "All your reference images in one place...",
+    "icon": "https://portable-linux-apps.github.io/icons/pureref.png"
+  },
+  {
     "packageName": "puush-qt",
     "description": "A GUI frontend for puush on Linux...",
     "icon": "https://portable-linux-apps.github.io/icons/puush-qt.png"

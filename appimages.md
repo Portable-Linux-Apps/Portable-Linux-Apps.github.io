@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2111** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2112** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1470,6 +1470,7 @@
 | <img loading="lazy" src="icons/pulse.png" width="48" height="48"> | [***pulse***](apps/pulse.md) | *Pulse desktop client.*..[ *read more* ](apps/pulse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pulse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pulse) |
 | <img loading="lazy" src="icons/pulseview.png" width="48" height="48"> | [***pulseview***](apps/pulseview.md) | *PulseView (sometimes abbreviated as "PV") is a Qt based logic analyzer, oscilloscope and MSO GUI for sigrok.*..[ *read more* ](apps/pulseview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pulseview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pulseview) |
 | <img loading="lazy" src="icons/puppetry.png" width="48" height="48"> | [***puppetry***](apps/puppetry.md) | *Solution for non-developers on top of Puppeteer and Jest.*..[ *read more* ](apps/puppetry.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/puppetry) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/puppetry) |
+| <img loading="lazy" src="icons/pureref.png" width="48" height="48"> | [***pureref***](apps/pureref.md) | *All your reference images in one place.*..[ *read more* ](apps/pureref.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pureref) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pureref) |
 | <img loading="lazy" src="icons/puush-qt.png" width="48" height="48"> | [***puush-qt***](apps/puush-qt.md) | *A GUI frontend for puush on Linux.*..[ *read more* ](apps/puush-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/puush-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/puush-qt) |
 | <img loading="lazy" src="icons/pyappimage.png" width="48" height="48"> | [***pyappimage***](apps/pyappimage.md) | *Simple appimage builder for Python applications.*..[ *read more* ](apps/pyappimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pyappimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pyappimage) |
 | <img loading="lazy" src="icons/pycharm.png" width="48" height="48"> | [***pycharm***](apps/pycharm.md) | *Unofficial, PyCharm-community-edition in AppImage.*..[ *read more* ](apps/pycharm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pycharm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pycharm) |
