@@ -4900,11 +4900,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/hyperkeys.png"
   },
   {
-    "packageName": "hypersomnia",
-    "description": "Hardcore arena mixing eSports with pixely nostalgia...",
-    "icon": "https://portable-linux-apps.github.io/icons/hypersomnia.png"
-  },
-  {
     "packageName": "hyperspace",
     "description": "A fluffy client for Mastodon in React...",
     "icon": "https://portable-linux-apps.github.io/icons/hyperspace.png"

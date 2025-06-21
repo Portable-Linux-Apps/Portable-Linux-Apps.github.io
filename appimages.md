@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2112** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2111** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -822,7 +822,6 @@
 | <img loading="lazy" src="icons/hyperdex.png" width="48" height="48"> | [***hyperdex***](apps/hyperdex.md) | *BarterDEX desktop app.*..[ *read more* ](apps/hyperdex.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperdex) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperdex) |
 | <img loading="lazy" src="icons/hyperionide.png" width="48" height="48"> | [***hyperionide***](apps/hyperionide.md) | *Hyperion IDE for JIRA.*..[ *read more* ](apps/hyperionide.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperionide) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperionide) |
 | <img loading="lazy" src="icons/hyperkeys.png" width="48" height="48"> | [***hyperkeys***](apps/hyperkeys.md) | *Unleash you keyboard shorcuts.*..[ *read more* ](apps/hyperkeys.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperkeys) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperkeys) |
-| <img loading="lazy" src="icons/hypersomnia.png" width="48" height="48"> | [***hypersomnia***](apps/hypersomnia.md) | *Hardcore arena mixing eSports with pixely nostalgia.*..[ *read more* ](apps/hypersomnia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hypersomnia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hypersomnia) |
 | <img loading="lazy" src="icons/hyperspace.png" width="48" height="48"> | [***hyperspace***](apps/hyperspace.md) | *A fluffy client for Mastodon in React.*..[ *read more* ](apps/hyperspace.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperspace) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperspace) |
 | <img loading="lazy" src="icons/hypnotix.png" width="48" height="48"> | [***hypnotix***](apps/hypnotix.md) | *Unofficial. An IPTV streaming application with support for live TV.*..[ *read more* ](apps/hypnotix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hypnotix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hypnotix) |
 | <img loading="lazy" src="icons/i3.png" width="48" height="48"> | [***i3***](apps/i3.md) | *Unofficial, A tiling window manager for X11.*..[ *read more* ](apps/i3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/i3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/i3) |
