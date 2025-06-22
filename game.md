@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **235** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **236** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -265,6 +265,7 @@
 | <img loading="lazy" src="icons/soul-arena.png" width="48" height="48"> | [***soul-arena***](apps/soul-arena.md) | *Bleach-based online multiplayer strategy game.*..[ *read more* ](apps/soul-arena.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soul-arena) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soul-arena) |
 | <img loading="lazy" src="icons/spacecadet.png" width="48" height="48"> | [***spacecadet***](apps/spacecadet.md) | *Unofficial. Reverse engineered port of 3D Pinball for Windows XP Space Cadet.*..[ *read more* ](apps/spacecadet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spacecadet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spacecadet) |
 | <img loading="lazy" src="icons/spacewars.png" width="48" height="48"> | [***spacewars***](apps/spacewars.md) | *A re-imagining of the classic game Spacewar using Amethyst engine.*..[ *read more* ](apps/spacewars.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spacewars) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spacewars) |
+| <img loading="lazy" src="icons/spaghettikart.png" width="48" height="48"> | [***spaghettikart***](apps/spaghettikart.md) | *Unofficial Mario Kart 64 PC game Port.*..[ *read more* ](apps/spaghettikart.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spaghettikart) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spaghettikart) |
 | <img loading="lazy" src="icons/speed-dreams.png" width="48" height="48"> | [***speed-dreams***](apps/speed-dreams.md) | *A Torcs fork, 3d motorsport simulation and race cars game.*..[ *read more* ](apps/speed-dreams.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speed-dreams) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speed-dreams) |
 | <img loading="lazy" src="icons/spicy-launcher.png" width="48" height="48"> | [***spicy-launcher***](apps/spicy-launcher.md) | *Cross-platform launcher for Spicy Lobster games.*..[ *read more* ](apps/spicy-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spicy-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spicy-launcher) |
 | <img loading="lazy" src="icons/srb2k.png" width="48" height="48"> | [***srb2k***](apps/srb2k.md) | *AppImage Package for Sonic Robo Blast 2 Kart, game.*..[ *read more* ](apps/srb2k.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/srb2k) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/srb2k) |
