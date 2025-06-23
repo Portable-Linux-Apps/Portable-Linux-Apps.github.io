@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2511** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2512** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2406,6 +2406,7 @@
 | <img loading="lazy" src="icons/via.png" width="48" height="48"> | [***via***](apps/via.md) | *Your keyboard's best friend.*..[ *read more* ](apps/via.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/via) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/via) |
 | <img loading="lazy" src="icons/vial.png" width="48" height="48"> | [***vial***](apps/vial.md) | *GUI and a QMK fork for configuring your keyboard in real time.*..[ *read more* ](apps/vial.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vial) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vial) |
 | <img loading="lazy" src="icons/viber.png" width="48" height="48"> | [***viber***](apps/viber.md) | *Proprietary cross-platform IM and VoIP software.*..[ *read more* ](apps/viber.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viber) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viber) |
+| <img loading="lazy" src="icons/vicut.png" width="48" height="48"> | [***vicut***](apps/vicut.md) | *A Vim-based, scriptable, headless text editor for the command line.*..[ *read more* ](apps/vicut.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vicut) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vicut) |
 | <img loading="lazy" src="icons/vidcutter.png" width="48" height="48"> | [***vidcutter***](apps/vidcutter.md) | *Simple and fast video cutter and joiner.*..[ *read more* ](apps/vidcutter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vidcutter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vidcutter) |
 | <img loading="lazy" src="icons/viddy.png" width="48" height="48"> | [***viddy***](apps/viddy.md) | *A modern watch command line utility. Time machine and pager etc.*..[ *read more* ](apps/viddy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viddy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viddy) |
 | <img loading="lazy" src="icons/video-hub.png" width="48" height="48"> | [***video-hub***](apps/video-hub.md) | *A fastest way to browse and search for videos on your computer.*..[ *read more* ](apps/video-hub.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/video-hub) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/video-hub) |
