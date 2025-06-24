@@ -4515,14 +4515,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/gpupad.png"
   },
   {
-    "packageName": "gqrx",
-    "description": "Software defined radio receiver, SDR...",
-    "icon": "https://portable-linux-apps.github.io/icons/gqrx.png"
-  },
-  {
     "packageName": "gpu-screen-recorder",
     "description": "Unofficial, AppImage of GPU Screen Recorder..",
     "icon": "https://portable-linux-apps.github.io/icons/gpu-screen-recorder.png"
+  },
+  {
+    "packageName": "gqrx",
+    "description": "Software defined radio receiver, SDR...",
+    "icon": "https://portable-linux-apps.github.io/icons/gqrx.png"
   },
   {
     "packageName": "grabscr",
@@ -11523,6 +11523,11 @@
     "packageName": "transmissionic",
     "description": "Remote for Transmission Daemon...",
     "icon": "https://portable-linux-apps.github.io/icons/transmissionic.png"
+  },
+  {
+    "packageName": "transmission-qt",
+    "description": "Unofficial, Fast, easy, and free BitTorrent client, Qt GUI...",
+    "icon": "https://portable-linux-apps.github.io/icons/transmission-qt.png"
   },
   {
     "packageName": "trenchbroom",
