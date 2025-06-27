@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2115** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2116** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -740,6 +740,7 @@
 | <img loading="lazy" src="icons/gm-companion.png" width="48" height="48"> | [***gm-companion***](apps/gm-companion.md) | *A tool for rpg gamemasters.*..[ *read more* ](apps/gm-companion.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gm-companion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gm-companion) |
 | <img loading="lazy" src="icons/gnome-boxes.png" width="48" height="48"> | [***gnome-boxes***](apps/gnome-boxes.md) | *Unofficial, A simple GNOME application to access virtual machines.*..[ *read more* ](apps/gnome-boxes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-boxes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-boxes) |
 | <img loading="lazy" src="icons/gnome-calculator.png" width="48" height="48"> | [***gnome-calculator***](apps/gnome-calculator.md) | *Unofficial, Perform arithmetic, scientific or financial calculations.*..[ *read more* ](apps/gnome-calculator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-calculator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-calculator) |
+| <img loading="lazy" src="icons/gnome-pomodoro.png" width="48" height="48"> | [***gnome-pomodoro***](apps/gnome-pomodoro.md) | *A productivity tool designed to help you manage your time effectively using the Pomodoro Technique.*..[ *read more* ](apps/gnome-pomodoro.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-pomodoro) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-pomodoro) |
 | <img loading="lazy" src="icons/gnome-tweaks.png" width="48" height="48"> | [***gnome-tweaks***](apps/gnome-tweaks.md) | *Unofficial, Experimental AppImage port of advanced GNOME 3 settings GUI.*..[ *read more* ](apps/gnome-tweaks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-tweaks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-tweaks) |
 | <img loading="lazy" src="icons/gnumeric.png" width="48" height="48"> | [***gnumeric***](apps/gnumeric.md) | *Unofficial. An open-source spreadsheet program.*..[ *read more* ](apps/gnumeric.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnumeric) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnumeric) |
 | <img loading="lazy" src="icons/godmode.png" width="48" height="48"> | [***godmode***](apps/godmode.md) | *AI Chat Browser fast, full webapp access to ChatGPT/Claude/Bard/Bing/Llama2.*..[ *read more* ](apps/godmode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/godmode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/godmode) |

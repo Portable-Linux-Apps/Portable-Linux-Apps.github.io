@@ -4335,6 +4335,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gnome-calculator.png"
   },
   {
+    "packageName": "gnome-pomodoro",
+    "description": "A productivity tool designed to help you manage your time effectively using the Pomodoro Technique...",
+    "icon": "https://portable-linux-apps.github.io/icons/gnome-pomodoro.png"
+  },
+  {
     "packageName": "gnome-tweaks",
     "description": "Unofficial, Experimental AppImage port of advanced GNOME 3 settings GUI...",
     "icon": "https://portable-linux-apps.github.io/icons/gnome-tweaks.png"
