@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2116** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2117** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1803,6 +1803,7 @@
 | <img loading="lazy" src="icons/subsurface.png" width="48" height="48"> | [***subsurface***](apps/subsurface.md) | *Official upstream of the Subsurface divelog program.*..[ *read more* ](apps/subsurface.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/subsurface) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/subsurface) |
 | <img loading="lazy" src="icons/subtitle-composer.png" width="48" height="48"> | [***subtitle-composer***](apps/subtitle-composer.md) | *KF5/Qt Video Subtitle Editor for KDE.*..[ *read more* ](apps/subtitle-composer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/subtitle-composer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/subtitle-composer) |
 | <img loading="lazy" src="icons/subtitler.png" width="48" height="48"> | [***subtitler***](apps/subtitler.md) | *Quickly download subtitles.*..[ *read more* ](apps/subtitler.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/subtitler) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/subtitler) |
+| <img loading="lazy" src="icons/sudachi.png" width="48" height="48"> | [***sudachi***](apps/sudachi.md) | *Unofficial. Nintendo Switch emulator.*..[ *read more* ](apps/sudachi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sudachi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sudachi) |
 | <img loading="lazy" src="icons/sultanpos.png" width="48" height="48"> | [***sultanpos***](apps/sultanpos.md) | *Simple POS for minimarket.*..[ *read more* ](apps/sultanpos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sultanpos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sultanpos) |
 | <img loading="lazy" src="icons/summoners.war.exporter.png" width="48" height="48"> | [***summoners.war.exporter***](apps/summoners.war.exporter.md) | *To parse intercepted data from Summoners War.*..[ *read more* ](apps/summoners.war.exporter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/summoners.war.exporter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/summoners.war.exporter) |
 | <img loading="lazy" src="icons/sumoco.png" width="48" height="48"> | [***sumoco***](apps/sumoco.md) | *Simple Unified Model for Orthopaedics.*..[ *read more* ](apps/sumoco.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sumoco) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sumoco) |
