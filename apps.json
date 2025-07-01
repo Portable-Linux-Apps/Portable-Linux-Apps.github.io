@@ -10470,11 +10470,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/spacecadet.png"
   },
   {
-    "packageName": "spacemesh",
-    "description": "Spacemesh App, Smesher + Wallet...",
-    "icon": "https://portable-linux-apps.github.io/icons/spacemesh.png"
-  },
-  {
     "packageName": "spacewars",
     "description": "A re-imagining of the classic game Spacewar using Amethyst engine...",
     "icon": "https://portable-linux-apps.github.io/icons/spacewars.png"

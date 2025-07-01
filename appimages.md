@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2117** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2116** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1738,7 +1738,6 @@
 | <img loading="lazy" src="icons/spacebar-debug.png" width="48" height="48"> | [***spacebar-debug***](apps/spacebar-debug.md) | *Extendable discord-compatible native Spacebar client, debug.*..[ *read more* ](apps/spacebar-debug.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spacebar-debug) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spacebar-debug) |
 | <img loading="lazy" src="icons/spacebar.png" width="48" height="48"> | [***spacebar***](apps/spacebar.md) | *Themeable and extendable discord-compatible native Spacebar client.*..[ *read more* ](apps/spacebar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spacebar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spacebar) |
 | <img loading="lazy" src="icons/spacecadet.png" width="48" height="48"> | [***spacecadet***](apps/spacecadet.md) | *Unofficial. Reverse engineered port of 3D Pinball for Windows XP Space Cadet.*..[ *read more* ](apps/spacecadet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spacecadet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spacecadet) |
-| <img loading="lazy" src="icons/spacemesh.png" width="48" height="48"> | [***spacemesh***](apps/spacemesh.md) | *Spacemesh App, Smesher + Wallet.*..[ *read more* ](apps/spacemesh.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spacemesh) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spacemesh) |
 | <img loading="lazy" src="icons/spacewars.png" width="48" height="48"> | [***spacewars***](apps/spacewars.md) | *A re-imagining of the classic game Spacewar using Amethyst engine.*..[ *read more* ](apps/spacewars.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spacewars) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spacewars) |
 | <img loading="lazy" src="icons/spaghettikart.png" width="48" height="48"> | [***spaghettikart***](apps/spaghettikart.md) | *Unofficial Mario Kart 64 PC game Port.*..[ *read more* ](apps/spaghettikart.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spaghettikart) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spaghettikart) |
 | <img loading="lazy" src="icons/spark.payments.png" width="48" height="48"> | [***spark.payments***](apps/spark.payments.md) | *Terminal app for processing DASH payments.*..[ *read more* ](apps/spark.payments.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spark.payments) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spark.payments) |
