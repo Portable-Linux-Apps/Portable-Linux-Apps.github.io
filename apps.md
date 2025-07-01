@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2513** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2512** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -950,7 +950,6 @@
 | <img loading="lazy" src="icons/groot.png" width="48" height="48"> | [***groot***](apps/groot.md) | *Graphical Editor to create BehaviorTrees.*..[ *read more* ](apps/groot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/groot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/groot) |
 | <img loading="lazy" src="icons/gsequencer.png" width="48" height="48"> | [***gsequencer***](apps/gsequencer.md) | *Tree based audio processing engine.*..[ *read more* ](apps/gsequencer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gsequencer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gsequencer) |
 | <img loading="lazy" src="icons/gsubs.png" width="48" height="48"> | [***gsubs***](apps/gsubs.md) | *Finds you the perfect subtitle match.*..[ *read more* ](apps/gsubs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gsubs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gsubs) |
-| <img loading="lazy" src="icons/guarda.png" width="48" height="48"> | [***guarda***](apps/guarda.md) | *A secure, easy-to-use cryptocurrency wallet.*..[ *read more* ](apps/guarda.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/guarda) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/guarda) |
 | <img loading="lazy" src="icons/guglielmo.png" width="48" height="48"> | [***guglielmo***](apps/guglielmo.md) | *A FM, DAB/DAB+ decoder using Qt and C++.*..[ *read more* ](apps/guglielmo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/guglielmo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/guglielmo) |
 | <img loading="lazy" src="icons/guiscrcpy.png" width="48" height="48"> | [***guiscrcpy***](apps/guiscrcpy.md) | *GUI integration for android screen mirroring system.*..[ *read more* ](apps/guiscrcpy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/guiscrcpy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/guiscrcpy) |
 | <img loading="lazy" src="icons/guitar.png" width="48" height="48"> | [***guitar***](apps/guitar.md) | *Graphical git client.*..[ *read more* ](apps/guitar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/guitar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/guitar) |

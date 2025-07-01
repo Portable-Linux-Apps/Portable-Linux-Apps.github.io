@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **58** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **57** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -60,7 +60,6 @@
 | <img loading="lazy" src="icons/firefly-desktop.png" width="48" height="48"> | [***firefly-desktop***](apps/firefly-desktop.md) | *The official IOTA and Shimmer wallet.*..[ *read more* ](apps/firefly-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firefly-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firefly-desktop) |
 | <img loading="lazy" src="icons/frame-eth-dev.png" width="48" height="48"> | [***frame-eth-dev***](apps/frame-eth-dev.md) | *A privacy focused Ethereum wallet.*..[ *read more* ](apps/frame-eth-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/frame-eth-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/frame-eth-dev) |
 | <img loading="lazy" src="icons/grinplusplus.png" width="48" height="48"> | [***grinplusplus***](apps/grinplusplus.md) | *A C++ Grin Node & Wallet.*..[ *read more* ](apps/grinplusplus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/grinplusplus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/grinplusplus) |
-| <img loading="lazy" src="icons/guarda.png" width="48" height="48"> | [***guarda***](apps/guarda.md) | *A secure, easy-to-use cryptocurrency wallet.*..[ *read more* ](apps/guarda.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/guarda) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/guarda) |
 | <img loading="lazy" src="icons/keibo-moneytracker-x86-64.png" width="48" height="48"> | [***keibo-moneytracker-x86-64***](apps/keibo-moneytracker-x86-64.md) | *Track your income and expenses easily.*..[ *read more* ](apps/keibo-moneytracker-x86-64.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keibo-moneytracker-x86-64) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keibo-moneytracker-x86-64) |
 | <img loading="lazy" src="icons/lbry-desktop.png" width="48" height="48"> | [***lbry-desktop***](apps/lbry-desktop.md) | *A browser and wallet for LBRY.*..[ *read more* ](apps/lbry-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lbry-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lbry-desktop) |
 | <img loading="lazy" src="icons/ledger-live-desktop.png" width="48" height="48"> | [***ledger-live-desktop***](apps/ledger-live-desktop.md) | *Wallet desktop app for multiple cryptocurrencies.*..[ *read more* ](apps/ledger-live-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ledger-live-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ledger-live-desktop) |

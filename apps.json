@@ -4610,11 +4610,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/gsubs.png"
   },
   {
-    "packageName": "guarda",
-    "description": "A secure, easy-to-use cryptocurrency wallet...",
-    "icon": "https://portable-linux-apps.github.io/icons/guarda.png"
-  },
-  {
     "packageName": "guglielmo",
     "description": "A FM, DAB/DAB+ decoder using Qt and C++...",
     "icon": "https://portable-linux-apps.github.io/icons/guglielmo.png"
