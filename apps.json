@@ -1210,11 +1210,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/bottlebats.png"
   },
   {
-    "packageName": "bottlenose",
-    "description": "Bottlenose is a front-end for video game emulators...",
-    "icon": "https://portable-linux-apps.github.io/icons/bottlenose.png"
-  },
-  {
     "packageName": "bottles",
     "description": "Unofficial. Manage wine prefixes and run Windows software & games in a new way...",
     "icon": "https://portable-linux-apps.github.io/icons/bottles.png"
@@ -7453,11 +7448,6 @@
     "packageName": "nosqlbooster",
     "description": "Essential admin GUI for mongodb...",
     "icon": "https://portable-linux-apps.github.io/icons/nosqlbooster.png"
-  },
-  {
-    "packageName": "nostlan",
-    "description": "A multiplatform game launcher for video game emulators...",
-    "icon": "https://portable-linux-apps.github.io/icons/nostlan.png"
   },
   {
     "packageName": "notable",
