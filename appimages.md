@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2114** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2113** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1236,7 +1236,6 @@
 | <img loading="lazy" src="icons/nuclia.png" width="48" height="48"> | [***nuclia***](apps/nuclia.md) | *A low-code API to build an AI multi-language semantic search engine.*..[ *read more* ](apps/nuclia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nuclia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nuclia) |
 | <img loading="lazy" src="icons/nuclino.png" width="48" height="48"> | [***nuclino***](apps/nuclino.md) | *Bring knowledge, docs, and projects together in one place.*..[ *read more* ](apps/nuclino.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nuclino) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nuclino) |
 | <img loading="lazy" src="icons/numara.png" width="48" height="48"> | [***numara***](apps/numara.md) | *Simple notepad calculator built on Electron.*..[ *read more* ](apps/numara.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/numara) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/numara) |
-| <img loading="lazy" src="icons/nuxeo-drive.png" width="48" height="48"> | [***nuxeo-drive***](apps/nuxeo-drive.md) | *Desktop synchronization client for the Nuxeo platform.*..[ *read more* ](apps/nuxeo-drive.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nuxeo-drive) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nuxeo-drive) |
 | <img loading="lazy" src="icons/nvim.png" width="48" height="48"> | [***nvim***](apps/nvim.md) | *NeoVim, Vim fork focused on extensibility and usability.*..[ *read more* ](apps/nvim.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nvim) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nvim) |
 | <img loading="lazy" src="icons/nvim-nightly.png" width="48" height="48"> | [***nvim-nightly***](apps/nvim-nightly.md) | *NeoVim, Vim fork, the most recent development build.*..[ *read more* ](apps/nvim-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nvim-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nvim-nightly) |
 | <img loading="lazy" src="icons/nvtop.png" width="48" height="48"> | [***nvtop***](apps/nvtop.md) | *GPUs process monitoring for AMD, Intel and NVIDIA.*..[ *read more* ](apps/nvtop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nvtop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nvtop) |

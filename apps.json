@@ -7565,11 +7565,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/numara.png"
   },
   {
-    "packageName": "nuxeo-drive",
-    "description": "Desktop synchronization client for the Nuxeo platform...",
-    "icon": "https://portable-linux-apps.github.io/icons/nuxeo-drive.png"
-  },
-  {
     "packageName": "nvim",
     "description": "NeoVim, Vim fork focused on extensibility and usability...",
     "icon": "https://portable-linux-apps.github.io/icons/nvim.png"
