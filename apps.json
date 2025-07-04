@@ -3521,7 +3521,7 @@
   },
   {
     "packageName": "filezilla",
-    "description": "The free FTP solution with support for FTP over TLS and SFTP...",
+    "description": "Unofficial. The free FTP solution with support for FTP over TLS and SFTP...",
     "icon": "https://portable-linux-apps.github.io/icons/filezilla.png"
   },
   {
@@ -9463,6 +9463,11 @@
     "packageName": "reaper",
     "description": "A complete digital audio production app, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset...",
     "icon": "https://portable-linux-apps.github.io/icons/reaper.png"
+  },
+  {
+    "packageName": "reaper-appimage",
+    "description": "Unofficial. A complete digital audio production app, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset...",
+    "icon": "https://portable-linux-apps.github.io/icons/reaper-appimage.png"
   },
   {
     "packageName": "rebaslight",
