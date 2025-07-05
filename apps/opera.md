@@ -2,7 +2,7 @@
 
  Opera - Fast and secure web browser (Stable version).
 
- This is the Unofficial AppImage built from the official deb package.
+ This is the Unofficial AppImage built from the official deb/snap package.
 
  ![screenshot](https://www-static-blogs.operacdn.com/news/wp-content/uploads/sites/2/2016/05/full-page-screenshot-joxi-addon.jpg)
  
