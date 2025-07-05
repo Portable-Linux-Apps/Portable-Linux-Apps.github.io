@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2115** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2116** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1083,6 +1083,7 @@
 | <img loading="lazy" src="icons/memento.png" width="48" height="48"> | [***memento***](apps/memento.md) | *A video player for studying Japanese.*..[ *read more* ](apps/memento.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/memento) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/memento) |
 | <img loading="lazy" src="icons/memocast.png" width="48" height="48"> | [***memocast***](apps/memocast.md) | *Yet another elegant Wiz Note Client.*..[ *read more* ](apps/memocast.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/memocast) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/memocast) |
 | <img loading="lazy" src="icons/memospot.png" width="48" height="48"> | [***memospot***](apps/memospot.md) | *Memospot is a self-contained desktop version of Memos -a privacy-first, lightweight note-taking service.*..[ *read more* ](apps/memospot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/memospot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/memospot) |
+| <img loading="lazy" src="icons/memoto.png" width="48" height="48"> | [***memoto***](apps/memoto.md) | *DevOps oriented modeling tool.*..[ *read more* ](apps/memoto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/memoto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/memoto) |
 | <img loading="lazy" src="icons/mendeley.png" width="48" height="48"> | [***mendeley***](apps/mendeley.md) | *Search over 100 million cross-publisher articles and counting.*..[ *read more* ](apps/mendeley.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mendeley) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mendeley) |
 | <img loading="lazy" src="icons/meow-sql.png" width="48" height="48"> | [***meow-sql***](apps/meow-sql.md) | *An attempt to port HeidiSQL to C++/Qt.*..[ *read more* ](apps/meow-sql.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/meow-sql) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/meow-sql) |
 | <img loading="lazy" src="icons/meshlab.png" width="48" height="48"> | [***meshlab***](apps/meshlab.md) | *Processor and editor of large 3D triangular meshes.*..[ *read more* ](apps/meshlab.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/meshlab) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/meshlab) |
