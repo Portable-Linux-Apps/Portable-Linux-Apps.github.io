@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **28** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **29** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -52,6 +52,7 @@
 | <img loading="lazy" src="icons/mangadesk.png" width="48" height="48"> | [***mangadesk***](apps/mangadesk.md) | *Terminal client for MangaDex.*..[ *read more* ](apps/mangadesk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangadesk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangadesk) |
 | <img loading="lazy" src="icons/mangal.png" width="48" height="48"> | [***mangal***](apps/mangal.md) | *Most advanced, yet simple CLI manga downloader in the universe!*..[ *read more* ](apps/mangal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangal) |
 | <img loading="lazy" src="icons/manga-tui.png" width="48" height="48"> | [***manga-tui***](apps/manga-tui.md) | *Terminal-based manga reader and downloader with image support.*..[ *read more* ](apps/manga-tui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/manga-tui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/manga-tui) |
+| <img loading="lazy" src="icons/mangayomi.png" width="48" height="48"> | [***mangayomi***](apps/mangayomi.md) | *Free and open source application for reading manga, novels, and watching animes available.*..[ *read more* ](apps/mangayomi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangayomi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangayomi) |
 | <img loading="lazy" src="icons/matm.png" width="48" height="48"> | [***matm***](apps/matm.md) | *Watch anime, movies, tv shows and read manga from comfort of the cli.*..[ *read more* ](apps/matm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/matm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/matm) |
 | <img loading="lazy" src="icons/migu.png" width="48" height="48"> | [***migu***](apps/migu.md) | *Stream anime torrents, real-time with no waiting for downloads.*..[ *read more* ](apps/migu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/migu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/migu) |
 | <img loading="lazy" src="icons/opencomic.png" width="48" height="48"> | [***opencomic***](apps/opencomic.md) | *Comic and Manga reader, written with Node.js and using Electron.*..[ *read more* ](apps/opencomic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opencomic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opencomic) |

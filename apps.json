@@ -6450,6 +6450,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/manga-tui.png"
   },
   {
+    "packageName": "mangayomi",
+    "description": "Free and open source application for reading manga, novels, and watching animes available...",
+    "icon": "https://portable-linux-apps.github.io/icons/mangayomi.png"
+  },
+  {
     "packageName": "mangbandclient",
     "description": "A free online multi-player realtime roguelike game...",
     "icon": "https://portable-linux-apps.github.io/icons/mangbandclient.png"

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2116** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2117** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1039,6 +1039,7 @@
 | <img loading="lazy" src="icons/malice.png" width="48" height="48"> | [***malice***](apps/malice.md) | *GUI Programming Tool for iCE40.*..[ *read more* ](apps/malice.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/malice) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/malice) |
 | <img loading="lazy" src="icons/manager-io.png" width="48" height="48"> | [***manager-io***](apps/manager-io.md) | *Free Accounting Software for Linux, Server.*..[ *read more* ](apps/manager-io.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/manager-io) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/manager-io) |
 | <img loading="lazy" src="icons/mandelbulber2.png" width="48" height="48"> | [***mandelbulber2***](apps/mandelbulber2.md) | *Explore trigonometric, hyper-complex and other 3D fractals.*..[ *read more* ](apps/mandelbulber2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mandelbulber2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mandelbulber2) |
+| <img loading="lazy" src="icons/mangayomi.png" width="48" height="48"> | [***mangayomi***](apps/mangayomi.md) | *Free and open source application for reading manga, novels, and watching animes available.*..[ *read more* ](apps/mangayomi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangayomi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangayomi) |
 | <img loading="lazy" src="icons/mangbandclient.png" width="48" height="48"> | [***mangbandclient***](apps/mangbandclient.md) | *A free online multi-player realtime roguelike game.*..[ *read more* ](apps/mangbandclient.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangbandclient) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangbandclient) |
 | <img loading="lazy" src="icons/mangojuice.png" width="48" height="48"> | [***mangojuice***](apps/mangojuice.md) | *It's a great alternative to GOverlay.*..[ *read more* ](apps/mangojuice.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangojuice) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangojuice) |
 | <img loading="lazy" src="icons/manta.png" width="48" height="48"> | [***manta***](apps/manta.md) | *Flexible invoicing app with beautiful & customizable templates.*..[ *read more* ](apps/manta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/manta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/manta) |
