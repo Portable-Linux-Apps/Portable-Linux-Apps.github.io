@@ -12465,11 +12465,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/wrapbox.png"
   },
   {
-    "packageName": "writemonkey",
-    "description": "A Windows zenware writing application with an extremely stripped down user interface, leaving you alone with your thoughts and your words...",
-    "icon": "https://portable-linux-apps.github.io/icons/writemonkey.png"
-  },
-  {
     "packageName": "wsjtz",
     "description": "AppImage of WSJT-Z – fork of WSJT-X with automation features...",
     "icon": "https://portable-linux-apps.github.io/icons/wsjtz.png"
