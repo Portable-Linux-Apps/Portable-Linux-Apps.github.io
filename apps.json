@@ -12390,6 +12390,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/wkp.png"
   },
   {
+    "packageName": "wlx-overlay-s",
+    "description": "Access your Wayland/X11 desktop from Monado/WiVRn/SteamVR...",
+    "icon": "https://portable-linux-apps.github.io/icons/wlx-overlay-s.png"
+  },
+  {
     "packageName": "wnr",
     "description": "Work/Rest Timer. Stricter. Prettier. More features...",
     "icon": "https://portable-linux-apps.github.io/icons/wnr.png"
