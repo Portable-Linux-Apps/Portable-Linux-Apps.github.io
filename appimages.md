@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2118** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2119** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -88,6 +88,7 @@
 | <img loading="lazy" src="icons/animos.png" width="48" height="48"> | [***animos***](apps/animos.md) | *Anime-streaming desktop application without any ads.*..[ *read more* ](apps/animos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/animos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/animos) |
 | <img loading="lazy" src="icons/aniship.png" width="48" height="48"> | [***aniship***](apps/aniship.md) | *Allows for easy viewing of anime on PCs and laptops.*..[ *read more* ](apps/aniship.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aniship) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aniship) |
 | <img loading="lazy" src="icons/ankama-launcher.png" width="48" height="48"> | [***ankama-launcher***](apps/ankama-launcher.md) | *Ankama is an entertainment and digital creation group.*..[ *read more* ](apps/ankama-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ankama-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ankama-launcher) |
+| <img loading="lazy" src="icons/anki.png" width="48" height="48"> | [***anki***](apps/anki.md) | *Unofficial, Anki's shared backend and web components, and the Qt frontend.*..[ *read more* ](apps/anki.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/anki) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/anki) |
 | <img loading="lazy" src="icons/anklang.png" width="48" height="48"> | [***anklang***](apps/anklang.md) | *MIDI and Audio Synthesizer and Composer.*..[ *read more* ](apps/anklang.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/anklang) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/anklang) |
 | <img loading="lazy" src="icons/another-redis-desktop-manager.png" width="48" height="48"> | [***another-redis-desktop-manager***](apps/another-redis-desktop-manager.md) | *Faster and better redis desktop manager.*..[ *read more* ](apps/another-redis-desktop-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/another-redis-desktop-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/another-redis-desktop-manager) |
 | <img loading="lazy" src="icons/antares.png" width="48" height="48"> | [***antares***](apps/antares.md) | *An useful SQL client based on Electron.js and Vue.js.*..[ *read more* ](apps/antares.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/antares) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/antares) |

@@ -331,7 +331,7 @@
   },
   {
     "packageName": "anki",
-    "description": "Anki's shared backend and web components, and the Qt frontend...",
+    "description": "Unofficial, Anki's shared backend and web components, and the Qt frontend...",
     "icon": "https://portable-linux-apps.github.io/icons/anki.png"
   },
   {
