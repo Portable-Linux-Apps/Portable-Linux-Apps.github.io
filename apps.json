@@ -520,6 +520,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/arcade-manager.png"
   },
   {
+    "packageName": "arch-deployer",
+    "description": "A script to bulk download an Arch Linux package with all its dependencies to be converted in AppImage...",
+    "icon": "https://portable-linux-apps.github.io/icons/arch-deployer.png"
+  },
+  {
     "packageName": "arch-flatimage",
     "description": "A hybrid of Flatpak sandboxing with AppImage portability...",
     "icon": "https://portable-linux-apps.github.io/icons/arch-flatimage.png"
