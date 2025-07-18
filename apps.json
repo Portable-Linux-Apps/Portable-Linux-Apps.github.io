@@ -2810,11 +2810,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/eaglemode.png"
   },
   {
-    "packageName": "easymercurial",
-    "description": "A simple UI for the Mercurial version-control system...",
-    "icon": "https://portable-linux-apps.github.io/icons/easymercurial.png"
-  },
-  {
     "packageName": "easytag",
     "description": "Unofficial AppImage of EasyTAG tag editor...",
     "icon": "https://portable-linux-apps.github.io/icons/easytag.png"
