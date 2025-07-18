@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **144** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **143** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -144,7 +144,6 @@
 | <img loading="lazy" src="icons/sharp-tune.png" width="48" height="48"> | [***sharp-tune***](apps/sharp-tune.md) | *Music player build upon the node using the electron.*..[ *read more* ](apps/sharp-tune.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sharp-tune) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sharp-tune) |
 | <img loading="lazy" src="icons/smf-dsp.png" width="48" height="48"> | [***smf-dsp***](apps/smf-dsp.md) | *Standard MIDI file player.*..[ *read more* ](apps/smf-dsp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smf-dsp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smf-dsp) |
 | <img loading="lazy" src="icons/smplayer.png" width="48" height="48"> | [***smplayer***](apps/smplayer.md) | *Media Player with built-in codecs for all audio and video formats.*..[ *read more* ](apps/smplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smplayer) |
-| <img loading="lazy" src="icons/soniclineup.png" width="48" height="48"> | [***soniclineup***](apps/soniclineup.md) | *Comparative visualisation of multiple audio files.*..[ *read more* ](apps/soniclineup.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soniclineup) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soniclineup) |
 | <img loading="lazy" src="icons/sonicvisualiser.png" width="48" height="48"> | [***sonicvisualiser***](apps/sonicvisualiser.md) | *Viewing and analysing the contents of music audio files.*..[ *read more* ](apps/sonicvisualiser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonicvisualiser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonicvisualiser) |
 | <img loading="lazy" src="icons/sonixd.png" width="48" height="48"> | [***sonixd***](apps/sonixd.md) | *A full-featured Subsonic/Jellyfin compatible desktop music player.*..[ *read more* ](apps/sonixd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonixd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonixd) |
 | <img loading="lazy" src="icons/sonusmix.png" width="48" height="48"> | [***sonusmix***](apps/sonusmix.md) | *Next-gen Pipewire audio routing tool.*..[ *read more* ](apps/sonusmix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonusmix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonusmix) |

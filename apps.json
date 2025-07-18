@@ -10415,11 +10415,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/solarwallet.png"
   },
   {
-    "packageName": "soniclineup",
-    "description": "Comparative visualisation of multiple audio files...",
-    "icon": "https://portable-linux-apps.github.io/icons/soniclineup.png"
-  },
-  {
     "packageName": "sonicvisualiser",
     "description": "Viewing and analysing the contents of music audio files...",
     "icon": "https://portable-linux-apps.github.io/icons/sonicvisualiser.png"
