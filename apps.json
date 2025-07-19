@@ -9240,11 +9240,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/qtox.png"
   },
   {
-    "packageName": "qtractor",
-    "description": "An Audio/MIDI multi-track sequencer...",
-    "icon": "https://portable-linux-apps.github.io/icons/qtractor.png"
-  },
-  {
     "packageName": "qt-raster-lines",
     "description": "Lines between points using rasterization, DDA, Bresenham...",
     "icon": "https://portable-linux-apps.github.io/icons/qt-raster-lines.png"

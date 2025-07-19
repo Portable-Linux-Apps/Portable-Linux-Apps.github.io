@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2513** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2512** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1877,7 +1877,6 @@
 | <img loading="lazy" src="icons/qtchan.png" width="48" height="48"> | [***qtchan***](apps/qtchan.md) | *4chan browser in qt5.*..[ *read more* ](apps/qtchan.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qtchan) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qtchan) |
 | <img loading="lazy" src="icons/qtjsondiff.png" width="48" height="48"> | [***qtjsondiff***](apps/qtjsondiff.md) | *Json difference checker widget and viewer.*..[ *read more* ](apps/qtjsondiff.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qtjsondiff) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qtjsondiff) |
 | <img loading="lazy" src="icons/qtox.png" width="48" height="48"> | [***qtox***](apps/qtox.md) | *Qt 5 based Tox instant messenger for secure communication.*..[ *read more* ](apps/qtox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qtox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qtox) |
-| <img loading="lazy" src="icons/qtractor.png" width="48" height="48"> | [***qtractor***](apps/qtractor.md) | *An Audio/MIDI multi-track sequencer.*..[ *read more* ](apps/qtractor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qtractor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qtractor) |
 | <img loading="lazy" src="icons/qtrfpowermeter.png" width="48" height="48"> | [***qtrfpowermeter***](apps/qtrfpowermeter.md) | *Improve usage of chinese RF power meter RF8000.*..[ *read more* ](apps/qtrfpowermeter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qtrfpowermeter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qtrfpowermeter) |
 | <img loading="lazy" src="icons/quamodbusclient.png" width="48" height="48"> | [***quamodbusclient***](apps/quamodbusclient.md) | *Modbus to OPC UA Gateway*..[ *read more* ](apps/quamodbusclient.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/quamodbusclient) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/quamodbusclient) |
 | <img loading="lazy" src="icons/quark-player.png" width="48" height="48"> | [***quark-player***](apps/quark-player.md) | *An Electron based Web Video Services Player.*..[ *read more* ](apps/quark-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/quark-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/quark-player) |

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2118** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2117** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1523,7 +1523,6 @@
 | <img loading="lazy" src="icons/qt-dab.png" width="48" height="48"> | [***qt-dab***](apps/qt-dab.md) | *Listening to terrestrial Digital Audio Broadcasting.*..[ *read more* ](apps/qt-dab.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qt-dab) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qt-dab) |
 | <img loading="lazy" src="icons/qtjsondiff.png" width="48" height="48"> | [***qtjsondiff***](apps/qtjsondiff.md) | *Json difference checker widget and viewer.*..[ *read more* ](apps/qtjsondiff.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qtjsondiff) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qtjsondiff) |
 | <img loading="lazy" src="icons/qtox.png" width="48" height="48"> | [***qtox***](apps/qtox.md) | *Qt 5 based Tox instant messenger for secure communication.*..[ *read more* ](apps/qtox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qtox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qtox) |
-| <img loading="lazy" src="icons/qtractor.png" width="48" height="48"> | [***qtractor***](apps/qtractor.md) | *An Audio/MIDI multi-track sequencer.*..[ *read more* ](apps/qtractor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qtractor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qtractor) |
 | <img loading="lazy" src="icons/qt-raster-lines.png" width="48" height="48"> | [***qt-raster-lines***](apps/qt-raster-lines.md) | *Lines between points using rasterization, DDA, Bresenham.*..[ *read more* ](apps/qt-raster-lines.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qt-raster-lines) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qt-raster-lines) |
 | <img loading="lazy" src="icons/qtrfpowermeter.png" width="48" height="48"> | [***qtrfpowermeter***](apps/qtrfpowermeter.md) | *Improve usage of chinese RF power meter RF8000.*..[ *read more* ](apps/qtrfpowermeter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qtrfpowermeter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qtrfpowermeter) |
 | <img loading="lazy" src="icons/quamodbusclient.png" width="48" height="48"> | [***quamodbusclient***](apps/quamodbusclient.md) | *Modbus to OPC UA Gateway*..[ *read more* ](apps/quamodbusclient.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/quamodbusclient) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/quamodbusclient) |
