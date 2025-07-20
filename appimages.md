@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2117** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2118** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -699,6 +699,7 @@
 | <img loading="lazy" src="icons/geany.png" width="48" height="48"> | [***geany***](apps/geany.md) | *Unofficial, a fast and lightweight IDE.*..[ *read more* ](apps/geany.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/geany) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/geany) |
 | <img loading="lazy" src="icons/gedit.png" width="48" height="48"> | [***gedit***](apps/gedit.md) | *Unofficial. The popular GNOME text editor Gedit.*..[ *read more* ](apps/gedit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gedit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gedit) |
 | <img loading="lazy" src="icons/geeqie.png" width="48" height="48"> | [***geeqie***](apps/geeqie.md) | *Claiming to be the best image viewer and photo collection browser.*..[ *read more* ](apps/geeqie.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/geeqie) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/geeqie) |
+| <img loading="lazy" src="icons/geforce-infinity.png" width="48" height="48"> | [***geforce-infinity***](apps/geforce-infinity.md) | *Enhance the Nvidia GeForce NOW experience.*..[ *read more* ](apps/geforce-infinity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/geforce-infinity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/geforce-infinity) |
 | <img loading="lazy" src="icons/geforcenow-electron.png" width="48" height="48"> | [***geforcenow-electron***](apps/geforcenow-electron.md) | *Desktop client for Nvidia GeForce NOW game streaming.*..[ *read more* ](apps/geforcenow-electron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/geforcenow-electron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/geforcenow-electron) |
 | <img loading="lazy" src="icons/gemalaya.png" width="48" height="48"> | [***gemalaya***](apps/gemalaya.md) | *A keyboard-driven Gemini browser written in QML.*..[ *read more* ](apps/gemalaya.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gemalaya) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gemalaya) |
 | <img loading="lazy" src="icons/gemini-pake.png" width="48" height="48"> | [***gemini-pake***](apps/gemini-pake.md) | *Unofficial Gemini app. Pake project turns any webpage into a desktop app with Rust.*..[ *read more* ](apps/gemini-pake.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gemini-pake) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gemini-pake) |

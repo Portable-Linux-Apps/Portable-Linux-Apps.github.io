@@ -4050,6 +4050,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/geeqie.png"
   },
   {
+    "packageName": "geforce-infinity",
+    "description": "Enhance the Nvidia GeForce NOW experience...",
+    "icon": "https://portable-linux-apps.github.io/icons/geforce-infinity.png"
+  },
+  {
     "packageName": "geforcenow-electron",
     "description": "Desktop client for Nvidia GeForce NOW game streaming...",
     "icon": "https://portable-linux-apps.github.io/icons/geforcenow-electron.png"
