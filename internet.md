@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **173** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **174** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -188,6 +188,7 @@
 | <img loading="lazy" src="icons/vivaldi-stable.png" width="48" height="48"> | [***vivaldi-stable***](apps/vivaldi-stable.md) | *Unofficial. Advanced Web Browser, Stable Version.*..[ *read more* ](apps/vivaldi-stable.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vivaldi-stable) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vivaldi-stable) |
 | <img loading="lazy" src="icons/walc.png" width="48" height="48"> | [***walc***](apps/walc.md) | *WhatsApp Linux Client, Unofficial.*..[ *read more* ](apps/walc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/walc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/walc) |
 | <img loading="lazy" src="icons/wasistlos.png" width="48" height="48"> | [***wasistlos***](apps/wasistlos.md) | *Unofficial, WhatsApp Linux Client, formerly known as "whatsapp-for-linux".*..[ *read more* ](apps/wasistlos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wasistlos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wasistlos) |
+| <img loading="lazy" src="icons/waterfox.png" width="48" height="48"> | [***waterfox***](apps/waterfox.md) | *A privacy-focused web browser engineered to give you  speed, control, and peace of mind on the internet.*..[ *read more* ](apps/waterfox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/waterfox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/waterfox) |
 | <img loading="lazy" src="icons/wewechat.png" width="48" height="48"> | [***wewechat***](apps/wewechat.md) | *Unofficial WeChat client built with React, MobX and Electron.*..[ *read more* ](apps/wewechat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wewechat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wewechat) |
 | <img loading="lazy" src="icons/wexond.png" width="48" height="48"> | [***wexond***](apps/wexond.md) | *Extensible, fast and innovative web browser with material UI.*..[ *read more* ](apps/wexond.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wexond) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wexond) |
 | <img loading="lazy" src="icons/whalebird.png" width="48" height="48"> | [***whalebird***](apps/whalebird.md) | *An Electron based Mastodon client.*..[ *read more* ](apps/whalebird.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whalebird) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whalebird) |
