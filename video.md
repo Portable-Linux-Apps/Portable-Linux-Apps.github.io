@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **147** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **146** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -43,7 +43,6 @@
 | <img loading="lazy" src="icons/bilibilivideodownload.png" width="48" height="48"> | [***bilibilivideodownload***](apps/bilibilivideodownload.md) | *Bilibili video downloader.*..[ *read more* ](apps/bilibilivideodownload.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bilibilivideodownload) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bilibilivideodownload) |
 | <img loading="lazy" src="icons/blob-dl.png" width="48" height="48"> | [***blob-dl***](apps/blob-dl.md) | *Blob-dl is a yt-dlp CLI interface used to download video and audio files from YouTube.*..[ *read more* ](apps/blob-dl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/blob-dl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/blob-dl) |
 | <img loading="lazy" src="icons/blockstream-green.png" width="48" height="48"> | [***blockstream-green***](apps/blockstream-green.md) | *Bitcoin wallet compatible with Blockstream Jade.*..[ *read more* ](apps/blockstream-green.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/blockstream-green) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/blockstream-green) |
-| <img loading="lazy" src="icons/cinelerra-gg.png" width="48" height="48"> | [***cinelerra-gg***](apps/cinelerra-gg.md) | *Professional video editing and compositing environment.*..[ *read more* ](apps/cinelerra-gg.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cinelerra-gg) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cinelerra-gg) |
 | <img loading="lazy" src="icons/clipgrab.png" width="48" height="48"> | [***clipgrab***](apps/clipgrab.md) | *Download and Convert Online Videos.*..[ *read more* ](apps/clipgrab.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clipgrab) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clipgrab) |
 | <img loading="lazy" src="icons/cryptocam-companion.png" width="48" height="48"> | [***cryptocam-companion***](apps/cryptocam-companion.md) | *GUI to decrypt videos taken by Cryptocam.*..[ *read more* ](apps/cryptocam-companion.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cryptocam-companion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cryptocam-companion) |
 | <img loading="lazy" src="icons/downline.png" width="48" height="48"> | [***downline***](apps/downline.md) | *A cross-platform video and audio downloader.*..[ *read more* ](apps/downline.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/downline) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/downline) |

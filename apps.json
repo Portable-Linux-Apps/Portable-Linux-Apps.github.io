@@ -1700,11 +1700,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/cicada.png"
   },
   {
-    "packageName": "cinelerra-gg",
-    "description": "Professional video editing and compositing environment...",
-    "icon": "https://portable-linux-apps.github.io/icons/cinelerra-gg.png"
-  },
-  {
     "packageName": "cinny",
     "description": "Yet another matrix client for desktop...",
     "icon": "https://portable-linux-apps.github.io/icons/cinny.png"
