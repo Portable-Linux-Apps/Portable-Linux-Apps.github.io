@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **213** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **214** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -55,6 +55,7 @@
 | <img loading="lazy" src="icons/blobdrop.png" width="48" height="48"> | [***blobdrop***](apps/blobdrop.md) | *Drag and drop files directly out of the terminal.*..[ *read more* ](apps/blobdrop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/blobdrop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/blobdrop) |
 | <img loading="lazy" src="icons/btop.png" width="48" height="48"> | [***btop***](apps/btop.md) | *A command line utility to monitor system resources, like Htop.*..[ *read more* ](apps/btop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/btop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/btop) |
 | <img loading="lazy" src="icons/carbonyl.png" width="48" height="48"> | [***carbonyl***](apps/carbonyl.md) | *Chromium running inside your terminal.*..[ *read more* ](apps/carbonyl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/carbonyl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/carbonyl) |
+| <img loading="lazy" src="icons/cbird.png" width="48" height="48"> | [***cbird***](apps/cbird.md) | *Command-line program for Content-Based Image Retrieval of images and videos. Includes tools for general search and de-duplication.*..[ *read more* ](apps/cbird.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cbird) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cbird) |
 | <img loading="lazy" src="icons/celoterminal-bin.png" width="48" height="48"> | [***celoterminal-bin***](apps/celoterminal-bin.md) | *Celo Terminal, AppImage version.*..[ *read more* ](apps/celoterminal-bin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/celoterminal-bin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/celoterminal-bin) |
 | <img loading="lazy" src="icons/cheat.png" width="48" height="48"> | [***cheat***](apps/cheat.md) | *Create and view interactive cheatsheets on the command-line.*..[ *read more* ](apps/cheat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cheat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cheat) |
 | <img loading="lazy" src="icons/cicada.png" width="48" height="48"> | [***cicada***](apps/cicada.md) | *An old-school bash-like Unix shell written in Rust.*..[ *read more* ](apps/cicada.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cicada) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cicada) |

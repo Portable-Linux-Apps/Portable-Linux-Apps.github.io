@@ -1525,6 +1525,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/cbetar2.png"
   },
   {
+    "packageName": "cbird",
+    "description": "Command-line program for Content-Based Image Retrieval of images and videos. Includes tools for general search and de-duplication...",
+    "icon": "https://portable-linux-apps.github.io/icons/cbird.png"
+  },
+  {
     "packageName": "cccp",
     "description": "Cortex Command, a community-driven effort to continue the development of Cortex Command...",
     "icon": "https://portable-linux-apps.github.io/icons/cccp.png"
