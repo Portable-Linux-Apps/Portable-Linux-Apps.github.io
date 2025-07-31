@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2122** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2121** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -540,7 +540,6 @@
 | <img loading="lazy" src="icons/emacs-nox.png" width="48" height="48"> | [***emacs-nox***](apps/emacs-nox.md) | *Unofficial. FOSS text editor for complete programming language.*..[ *read more* ](apps/emacs-nox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/emacs-nox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/emacs-nox) |
 | <img loading="lazy" src="icons/emacs.png" width="48" height="48"> | [***emacs***](apps/emacs.md) | *Unofficial. FOSS text editor for complete programming language.*..[ *read more* ](apps/emacs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/emacs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/emacs) |
 | <img loading="lazy" src="icons/embedded-ide.png" width="48" height="48"> | [***embedded-ide***](apps/embedded-ide.md) | *Makefile based IDE for embedded systems.*..[ *read more* ](apps/embedded-ide.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/embedded-ide) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/embedded-ide) |
-| <img loading="lazy" src="icons/ember.png" width="48" height="48"> | [***ember***](apps/ember.md) | *Client for the WorldForge virtual world system, game.*..[ *read more* ](apps/ember.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ember) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ember) |
 | <img loading="lazy" src="icons/emoji-keyboard.png" width="48" height="48"> | [***emoji-keyboard***](apps/emoji-keyboard.md) | *Virtual keyboard-like emoji palette for Linux.*..[ *read more* ](apps/emoji-keyboard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/emoji-keyboard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/emoji-keyboard) |
 | <img loading="lazy" src="icons/emudeck.png" width="48" height="48"> | [***emudeck***](apps/emudeck.md) | *EmuDeck Desktop Electron Wrapper.*..[ *read more* ](apps/emudeck.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/emudeck) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/emudeck) |
 | <img loading="lazy" src="icons/en-croissant.png" width="48" height="48"> | [***en-croissant***](apps/en-croissant.md) | *The Ultimate Chess Toolkit.*..[ *read more* ](apps/en-croissant.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/en-croissant) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/en-croissant) |

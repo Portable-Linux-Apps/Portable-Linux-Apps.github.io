@@ -3020,11 +3020,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/embedded-ide.png"
   },
   {
-    "packageName": "ember",
-    "description": "Client for the WorldForge virtual world system, game...",
-    "icon": "https://portable-linux-apps.github.io/icons/ember.png"
-  },
-  {
     "packageName": "emoji-keyboard",
     "description": "Virtual keyboard-like emoji palette for Linux...",
     "icon": "https://portable-linux-apps.github.io/icons/emoji-keyboard.png"
