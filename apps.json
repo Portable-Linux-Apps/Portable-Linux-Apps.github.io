@@ -2950,11 +2950,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/electrum-ltc.png"
   },
   {
-    "packageName": "electrum-nmc",
-    "description": "Lightweight Namecoin Client...",
-    "icon": "https://portable-linux-apps.github.io/icons/electrum-nmc.png"
-  },
-  {
     "packageName": "electrum-ravencoin",
     "description": "Forked from the Electrum Bitcoin base client...",
     "icon": "https://portable-linux-apps.github.io/icons/electrum-ravencoin.png"

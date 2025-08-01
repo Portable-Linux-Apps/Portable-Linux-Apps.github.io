@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2121** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2120** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -527,7 +527,6 @@
 | <img loading="lazy" src="icons/electrumfair.png" width="48" height="48"> | [***electrumfair***](apps/electrumfair.md) | *Lightweight FairCoin Client.*..[ *read more* ](apps/electrumfair.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electrumfair) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electrumfair) |
 | <img loading="lazy" src="icons/electrum.png" width="48" height="48"> | [***electrum***](apps/electrum.md) | *Lightweight Bitcoin Client.*..[ *read more* ](apps/electrum.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electrum) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electrum) |
 | <img loading="lazy" src="icons/electrum-ltc.png" width="48" height="48"> | [***electrum-ltc***](apps/electrum-ltc.md) | *A simple, but powerful Litecoin wallet.*..[ *read more* ](apps/electrum-ltc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electrum-ltc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electrum-ltc) |
-| <img loading="lazy" src="icons/electrum-nmc.png" width="48" height="48"> | [***electrum-nmc***](apps/electrum-nmc.md) | *Lightweight Namecoin Client.*..[ *read more* ](apps/electrum-nmc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electrum-nmc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electrum-nmc) |
 | <img loading="lazy" src="icons/electrum-ravencoin.png" width="48" height="48"> | [***electrum-ravencoin***](apps/electrum-ravencoin.md) | *Forked from the Electrum Bitcoin base client.*..[ *read more* ](apps/electrum-ravencoin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electrum-ravencoin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electrum-ravencoin) |
 | <img loading="lazy" src="icons/element.png" width="48" height="48"> | [***element***](apps/element.md) | *A feature-rich client for Matrix.org.*..[ *read more* ](apps/element.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/element) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/element) |
 | <img loading="lazy" src="icons/elementary-code.png" width="48" height="48"> | [***elementary-code***](apps/elementary-code.md) | *AppImage version of Elementary OS "Code" by Maksym Titenko.*..[ *read more* ](apps/elementary-code.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elementary-code) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elementary-code) |
