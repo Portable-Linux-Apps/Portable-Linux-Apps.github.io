@@ -4,7 +4,7 @@
  
  An unofficial AppImage for the open source android screen mirroring  software scrcpy. Continuous Integration to create preconfigured  AppImages of scrcpy.
  
- SITE: https://github.com/srevinsaju/scrcpy-appimage
+ SITE: https://github.com/pkgforge-dev/scrcpy-AppImage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
