@@ -865,6 +865,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/beatmapexporter.png"
   },
   {
+    "packageName": "beatsaber-mod-manager",
+    "description": "Yet another mod installer for Beat Saber, heavily inspired by ModAssistant...",
+    "icon": "https://portable-linux-apps.github.io/icons/beatsaber-mod-manager.png"
+  },
+  {
     "packageName": "beaver-notes",
     "description": "Build your knowledge one log at a time...",
     "icon": "https://portable-linux-apps.github.io/icons/beaver-notes.png"
