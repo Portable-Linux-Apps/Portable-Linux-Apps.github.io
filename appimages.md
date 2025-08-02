@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2120** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2121** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -999,6 +999,7 @@
 | <img loading="lazy" src="icons/linuxdeployqt.png" width="48" height="48"> | [***linuxdeployqt***](apps/linuxdeployqt.md) | *Convert a linux program to an AppDir or an AppImage.*..[ *read more* ](apps/linuxdeployqt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/linuxdeployqt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/linuxdeployqt) |
 | <img loading="lazy" src="icons/linux-intel-undervolt-gui.png" width="48" height="48"> | [***linux-intel-undervolt-gui***](apps/linux-intel-undervolt-gui.md) | *Undervolting GUI for Intel Linux Systems.*..[ *read more* ](apps/linux-intel-undervolt-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/linux-intel-undervolt-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/linux-intel-undervolt-gui) |
 | <img loading="lazy" src="icons/linuxqq.png" width="48" height="48"> | [***linuxqq***](apps/linuxqq.md) | *New Linux QQ based on Electron.*..[ *read more* ](apps/linuxqq.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/linuxqq) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/linuxqq) |
+| <img loading="lazy" src="icons/linuxtoys.png" width="48" height="48"> | [***linuxtoys***](apps/linuxtoys.md) | *A collection of tools for Linux in a user-friendly way.*..[ *read more* ](apps/linuxtoys.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/linuxtoys) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/linuxtoys) |
 | <img loading="lazy" src="icons/linwood-butterfly.png" width="48" height="48"> | [***linwood-butterfly***](apps/linwood-butterfly.md) | *Powerful, minimalistic, cross-platform, note-taking app.*..[ *read more* ](apps/linwood-butterfly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/linwood-butterfly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/linwood-butterfly) |
 | <img loading="lazy" src="icons/lisk-desktop.png" width="48" height="48"> | [***lisk-desktop***](apps/lisk-desktop.md) | *Lisk graphical user interface for desktop.*..[ *read more* ](apps/lisk-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lisk-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lisk-desktop) |
 | <img loading="lazy" src="icons/listen1-desktop.png" width="48" height="48"> | [***listen1-desktop***](apps/listen1-desktop.md) | *One for all free music in China.*..[ *read more* ](apps/listen1-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/listen1-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/listen1-desktop) |

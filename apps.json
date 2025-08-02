@@ -6195,6 +6195,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/linuxqq.png"
   },
   {
+    "packageName": "linuxtoys",
+    "description": "A collection of tools for Linux in a user-friendly way...",
+    "icon": "https://portable-linux-apps.github.io/icons/linuxtoys.png"
+  },
+  {
     "packageName": "linwood-butterfly",
     "description": "Powerful, minimalistic, cross-platform, note-taking app...",
     "icon": "https://portable-linux-apps.github.io/icons/linwood-butterfly.png"
