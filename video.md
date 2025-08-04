@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **147** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **148** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -136,6 +136,7 @@
 | <img loading="lazy" src="icons/streamlink-twitch-gui.png" width="48" height="48"> | [***streamlink-twitch-gui***](apps/streamlink-twitch-gui.md) | *A multi platform Twitch.tv browser for Streamlink.*..[ *read more* ](apps/streamlink-twitch-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/streamlink-twitch-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/streamlink-twitch-gui) |
 | <img loading="lazy" src="icons/streamon.png" width="48" height="48"> | [***streamon***](apps/streamon.md) | *Create streaming links to instagram live.*..[ *read more* ](apps/streamon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/streamon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/streamon) |
 | <img loading="lazy" src="icons/subsurface.png" width="48" height="48"> | [***subsurface***](apps/subsurface.md) | *Official upstream of the Subsurface divelog program.*..[ *read more* ](apps/subsurface.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/subsurface) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/subsurface) |
+| <img loading="lazy" src="icons/subtitld.png" width="48" height="48"> | [***subtitld***](apps/subtitld.md) | *Transform your video content creation with Subtitld, the open source software that streamlines your video content creation process.*..[ *read more* ](apps/subtitld.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/subtitld) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/subtitld) |
 | <img loading="lazy" src="icons/subtitle-composer.png" width="48" height="48"> | [***subtitle-composer***](apps/subtitle-composer.md) | *KF5/Qt Video Subtitle Editor for KDE.*..[ *read more* ](apps/subtitle-composer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/subtitle-composer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/subtitle-composer) |
 | <img loading="lazy" src="icons/sunshine.png" width="48" height="48"> | [***sunshine***](apps/sunshine.md) | *Sunshine is a Gamestream host for Moonlight.*..[ *read more* ](apps/sunshine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sunshine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sunshine) |
 | <img loading="lazy" src="icons/swell.png" width="48" height="48"> | [***swell***](apps/swell.md) | *Testing for streaming APIs, right at your desktop.*..[ *read more* ](apps/swell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swell) |
