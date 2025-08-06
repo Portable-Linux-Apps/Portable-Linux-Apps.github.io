@@ -6050,11 +6050,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/ledger-live-desktop.png"
   },
   {
-    "packageName": "left",
-    "description": "Distractionless Writing Tool...",
-    "icon": "https://portable-linux-apps.github.io/icons/left.png"
-  },
-  {
     "packageName": "legcord",
     "description": "Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight...",
     "icon": "https://portable-linux-apps.github.io/icons/legcord.png"
