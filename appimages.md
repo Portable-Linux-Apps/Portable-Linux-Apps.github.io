@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2124** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2123** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -103,7 +103,6 @@
 | <img loading="lazy" src="icons/apifox.png" width="48" height="48"> | [***apifox***](apps/apifox.md) | *API manager, in chinese. 文档、API 调试、API Mock、API 自动化测试*..[ *read more* ](apps/apifox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/apifox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/apifox) |
 | <img loading="lazy" src="icons/apk-editor-studio.png" width="48" height="48"> | [***apk-editor-studio***](apps/apk-editor-studio.md) | *Easy to use APK, Android reverse-engineering tool.*..[ *read more* ](apps/apk-editor-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/apk-editor-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/apk-editor-studio) |
 | <img loading="lazy" src="icons/apla.png" width="48" height="48"> | [***apla***](apps/apla.md) | *Project was bootstrapped with Create React App.*..[ *read more* ](apps/apla.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/apla) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/apla) |
-| <img loading="lazy" src="icons/appflowy.png" width="48" height="48"> | [***appflowy***](apps/appflowy.md) | *Bring projects, wikis, and teams together with AI. Alternative to Notion.*..[ *read more* ](apps/appflowy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/appflowy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/appflowy) |
 | <img loading="lazy" src="icons/apphub.png" width="48" height="48"> | [***apphub***](apps/apphub.md) | *App that simplifies installation/management of .appImage packages.*..[ *read more* ](apps/apphub.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/apphub) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/apphub) |
 | <img loading="lazy" src="icons/appimage-builder.png" width="48" height="48"> | [***appimage-builder***](apps/appimage-builder.md) | *GNU/Linux packaging solution using the AppImage format.*..[ *read more* ](apps/appimage-builder.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/appimage-builder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/appimage-builder) |
 | <img loading="lazy" src="icons/appimagecraft.png" width="48" height="48"> | [***appimagecraft***](apps/appimagecraft.md) | *Powerful build script generator with a focus on AppImages.*..[ *read more* ](apps/appimagecraft.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/appimagecraft) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/appimagecraft) |
