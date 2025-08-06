@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2123** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2124** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -911,6 +911,7 @@
 | <img loading="lazy" src="icons/kando.png" width="48" height="48"> | [***kando***](apps/kando.md) | *The Cross-Platform Pie Menu.*..[ *read more* ](apps/kando.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kando) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kando) |
 | <img loading="lazy" src="icons/kanon.png" width="48" height="48"> | [***kanon***](apps/kanon.md) | *Maturita GPJP designed for use with kanon web app.*..[ *read more* ](apps/kanon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kanon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kanon) |
 | <img loading="lazy" src="icons/kanri.png" width="48" height="48"> | [***kanri***](apps/kanri.md) | *Modern offline Kanban board app. Built with simplicity and user experience in mind.*..[ *read more* ](apps/kanri.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kanri) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kanri) |
+| <img loading="lazy" src="icons/karbonized.png" width="48" height="48"> | [***karbonized***](apps/karbonized.md) | *💫 Awesome Image Generator for Code Snippets & Mockups*..[ *read more* ](apps/karbonized.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/karbonized) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/karbonized) |
 | <img loading="lazy" src="icons/kardi.png" width="48" height="48"> | [***kardi***](apps/kardi.md) | *Application for taking notes with capabilities to view all content from any device while keeping all data accessible by you only.*..[ *read more* ](apps/kardi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kardi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kardi) |
 | <img loading="lazy" src="icons/katvan.png" width="48" height="48"> | [***katvan***](apps/katvan.md) | *A bare-bones editor for Typst files, with a bias for Right-to-Left editing.*..[ *read more* ](apps/katvan.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/katvan) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/katvan) |
 | <img loading="lazy" src="icons/kcov.png" width="48" height="48"> | [***kcov***](apps/kcov.md) | *Unofficial, An AppImage of Kcov code coverage tool.*..[ *read more* ](apps/kcov.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kcov) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kcov) |
