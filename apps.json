@@ -9395,6 +9395,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/rambox.png"
   },
   {
+    "packageName": "rapidraw",
+    "description": "A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind...",
+    "icon": "https://portable-linux-apps.github.io/icons/rapidraw.png"
+  },
+  {
     "packageName": "rare",
     "description": "GUI for legendary. An Epic Games Launcher open source alternative...",
     "icon": "https://portable-linux-apps.github.io/icons/rare.png"
