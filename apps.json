@@ -9035,6 +9035,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/python3.13.png"
   },
   {
+    "packageName": "python3.14",
+    "description": "Unofficial. Interactive high-level object-oriented language, version 3.14...",
+    "icon": "https://portable-linux-apps.github.io/icons/python3.14.png"
+  },
+  {
     "packageName": "python3.5",
     "description": "Unofficial. Interactive high-level object-oriented language, version 3.5...",
     "icon": "https://portable-linux-apps.github.io/icons/python3.5.png"
