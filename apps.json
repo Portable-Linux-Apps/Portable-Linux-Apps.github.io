@@ -9010,59 +9010,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/pyfa.png"
   },
   {
-    "packageName": "python2.7",
-    "description": "Unofficial. Interactive high-level object-oriented language, version 2.7...",
-    "icon": "https://portable-linux-apps.github.io/icons/python2.7.png"
-  },
-  {
-    "packageName": "python3.10",
-    "description": "Unofficial. Interactive high-level object-oriented language, version 3.10...",
-    "icon": "https://portable-linux-apps.github.io/icons/python3.10.png"
-  },
-  {
-    "packageName": "python3.11",
-    "description": "Unofficial. Interactive high-level object-oriented language, version 3.11...",
-    "icon": "https://portable-linux-apps.github.io/icons/python3.11.png"
-  },
-  {
-    "packageName": "python3.12",
-    "description": "Unofficial. Interactive high-level object-oriented language, version 3.12...",
-    "icon": "https://portable-linux-apps.github.io/icons/python3.12.png"
-  },
-  {
-    "packageName": "python3.13",
-    "description": "Unofficial. Interactive high-level object-oriented language, version 3.13...",
-    "icon": "https://portable-linux-apps.github.io/icons/python3.13.png"
-  },
-  {
-    "packageName": "python3.14",
-    "description": "Unofficial. Interactive high-level object-oriented language, version 3.14...",
-    "icon": "https://portable-linux-apps.github.io/icons/python3.14.png"
-  },
-  {
-    "packageName": "python3.5",
-    "description": "Unofficial. Interactive high-level object-oriented language, version 3.5...",
-    "icon": "https://portable-linux-apps.github.io/icons/python3.5.png"
-  },
-  {
-    "packageName": "python3.6",
-    "description": "Unofficial. Interactive high-level object-oriented language, version 3.6...",
-    "icon": "https://portable-linux-apps.github.io/icons/python3.6.png"
-  },
-  {
-    "packageName": "python3.7",
-    "description": "Unofficial. Interactive high-level object-oriented language, version 3.7...",
-    "icon": "https://portable-linux-apps.github.io/icons/python3.7.png"
-  },
-  {
-    "packageName": "python3.8",
-    "description": "Unofficial. Interactive high-level object-oriented language, version 3.8...",
-    "icon": "https://portable-linux-apps.github.io/icons/python3.8.png"
-  },
-  {
-    "packageName": "python3.9",
-    "description": "Unofficial. Interactive high-level object-oriented language, version 3.9...",
-    "icon": "https://portable-linux-apps.github.io/icons/python3.9.png"
+    "packageName": "python",
+    "description": "AppImage distributions of Python, an interactive high-level object-oriented language...",
+    "icon": "https://portable-linux-apps.github.io/icons/python.png"
   },
   {
     "packageName": "qaddapp",
