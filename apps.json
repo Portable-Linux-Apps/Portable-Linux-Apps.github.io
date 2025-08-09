@@ -10440,11 +10440,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/spaghettikart.png"
   },
   {
-    "packageName": "spark.payments",
-    "description": "Terminal app for processing DASH payments...",
-    "icon": "https://portable-linux-apps.github.io/icons/spark.payments.png"
-  },
-  {
     "packageName": "spark-wallet",
     "description": "A wallet GUI for c-lightning, accessible over web/mobile/pc...",
     "icon": "https://portable-linux-apps.github.io/icons/spark-wallet.png"
@@ -11453,11 +11448,6 @@
     "packageName": "torzu",
     "description": "Unofficial AppImage of Torzu (fork of yuzu), with optimized builds for modern cpus...",
     "icon": "https://portable-linux-apps.github.io/icons/torzu.png"
-  },
-  {
-    "packageName": "toughcookies",
-    "description": "A modern flash cards study and management app...",
-    "icon": "https://portable-linux-apps.github.io/icons/toughcookies.png"
   },
   {
     "packageName": "trackaudio",

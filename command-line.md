@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **214** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **213** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -191,7 +191,6 @@
 | <img loading="lazy" src="icons/simdock.png" width="48" height="48"> | [***simdock***](apps/simdock.md) | *Small dock with pseudo-transparency and good window handling.*..[ *read more* ](apps/simdock.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/simdock) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/simdock) |
 | <img loading="lazy" src="icons/simdsp.png" width="48" height="48"> | [***simdsp***](apps/simdsp.md) | *DSP Simulator.*..[ *read more* ](apps/simdsp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/simdsp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/simdsp) |
 | <img loading="lazy" src="icons/s.png" width="48" height="48"> | [***s***](apps/s.md) | *Open a web search in your terminal.*..[ *read more* ](apps/s.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/s) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/s) |
-| <img loading="lazy" src="icons/spark.payments.png" width="48" height="48"> | [***spark.payments***](apps/spark.payments.md) | *Terminal app for processing DASH payments.*..[ *read more* ](apps/spark.payments.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spark.payments) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spark.payments) |
 | <img loading="lazy" src="icons/spm.png" width="48" height="48"> | [***spm***](apps/spm.md) | *A simple CLI package manager written in bash mainly for AppImages.*..[ *read more* ](apps/spm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spm) |
 | <img loading="lazy" src="icons/spotifetch.png" width="48" height="48"> | [***spotifetch***](apps/spotifetch.md) | *A simple and beautiful CLI fetch tool for spotify, now rusty.*..[ *read more* ](apps/spotifetch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotifetch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotifetch) |
 | <img loading="lazy" src="icons/spotify-dl.png" width="48" height="48"> | [***spotify-dl***](apps/spotify-dl.md) | *A command-line utility to download songs and playlists directly from Spotify's servers.*..[ *read more* ](apps/spotify-dl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify-dl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify-dl) |
