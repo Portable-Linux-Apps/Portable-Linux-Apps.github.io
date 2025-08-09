@@ -9470,6 +9470,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/recordscript.png"
   },
   {
+    "packageName": "redact",
+    "description": "Application to mass delete your account posts from different social media...",
+    "icon": "https://portable-linux-apps.github.io/icons/redact.png"
+  },
+  {
     "packageName": "redeclipse",
     "description": "A great first person 3D arena shooter with online support, game...",
     "icon": "https://portable-linux-apps.github.io/icons/redeclipse.png"
