@@ -6645,6 +6645,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/media-dupes.png"
   },
   {
+    "packageName": "media-hoarder",
+    "description": "Media Hoarder - THE media frontend for data hoarders and movie lovers..",
+    "icon": "https://portable-linux-apps.github.io/icons/media-hoarder.png"
+  },
+  {
     "packageName": "mediaelch",
     "description": "Media Manager for Kodi...",
     "icon": "https://portable-linux-apps.github.io/icons/mediaelch.png"
