@@ -5686,7 +5686,7 @@
   },
   {
     "packageName": "kitty",
-    "description": "Cross-platform, fast, feature-rich, GPU based terminal..",
+    "description": "Cross-platform, fast, feature-rich, GPU based terminal (also provides \"kitten\" CLI utility)...",
     "icon": "https://portable-linux-apps.github.io/icons/kitty.png"
   },
   {
@@ -7628,6 +7628,11 @@
     "packageName": "nychess",
     "description": "A python Chess Engine and AI...",
     "icon": "https://portable-linux-apps.github.io/icons/nychess.png"
+  },
+  {
+    "packageName": "nym-vpn",
+    "description": "Cross-platform open source VPN client built in Rust, with mixnet anonymity and WireGuard speed. Protects metadata, not just IP addresses. Zero-knowledge payments for unlinkable online activities...",
+    "icon": "https://portable-linux-apps.github.io/icons/nym-vpn.png"
   },
   {
     "packageName": "nym-wallet",

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2115** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2116** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1248,6 +1248,7 @@
 | <img loading="lazy" src="icons/nxshell.png" width="48" height="48"> | [***nxshell***](apps/nxshell.md) | *An easy to use new terminal.*..[ *read more* ](apps/nxshell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nxshell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nxshell) |
 | <img loading="lazy" src="icons/nx-software-center.png" width="48" height="48"> | [***nx-software-center***](apps/nx-software-center.md) | *A GUI to install and manage AppImages, Nitrux OS.*..[ *read more* ](apps/nx-software-center.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nx-software-center) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nx-software-center) |
 | <img loading="lazy" src="icons/nychess.png" width="48" height="48"> | [***nychess***](apps/nychess.md) | *A python Chess Engine and AI.*..[ *read more* ](apps/nychess.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nychess) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nychess) |
+| <img loading="lazy" src="icons/nym-vpn.png" width="48" height="48"> | [***nym-vpn***](apps/nym-vpn.md) | *Cross-platform open source VPN client built in Rust, with mixnet anonymity and WireGuard speed. Protects metadata, not just IP addresses. Zero-knowledge payments for unlinkable online activities.*..[ *read more* ](apps/nym-vpn.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nym-vpn) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nym-vpn) |
 | <img loading="lazy" src="icons/nym-wallet.png" width="48" height="48"> | [***nym-wallet***](apps/nym-wallet.md) | *Use the Nym network and take advantage of it.*..[ *read more* ](apps/nym-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nym-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nym-wallet) |
 | <img loading="lazy" src="icons/obliqoro.png" width="48" height="48"> | [***obliqoro***](apps/obliqoro.md) | * A cross-platform tauri gui where Oblique Strategies meets Pomodoro.*..[ *read more* ](apps/obliqoro.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/obliqoro) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/obliqoro) |
 | <img loading="lazy" src="icons/obsidian.png" width="48" height="48"> | [***obsidian***](apps/obsidian.md) | *A powerful knowledge base, plain text Markdown files.*..[ *read more* ](apps/obsidian.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/obsidian) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/obsidian) |
