@@ -9450,11 +9450,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/reaper.png"
   },
   {
-    "packageName": "reaper-appimage",
-    "description": "Unofficial. A complete digital audio production app, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset...",
-    "icon": "https://portable-linux-apps.github.io/icons/reaper-appimage.png"
-  },
-  {
     "packageName": "rebaslight",
     "description": "An easy to use special effects video editor...",
     "icon": "https://portable-linux-apps.github.io/icons/rebaslight.png"

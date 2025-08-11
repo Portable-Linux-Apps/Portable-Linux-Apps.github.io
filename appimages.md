@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2116** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2115** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1562,7 +1562,6 @@
 | <img loading="lazy" src="icons/reactotron.png" width="48" height="48"> | [***reactotron***](apps/reactotron.md) | *Reactotron desktop mode engage.*..[ *read more* ](apps/reactotron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/reactotron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/reactotron) |
 | <img loading="lazy" src="icons/realm-studio.png" width="48" height="48"> | [***realm-studio***](apps/realm-studio.md) | *A tool for everything Realm.*..[ *read more* ](apps/realm-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/realm-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/realm-studio) |
 | <img loading="lazy" src="icons/real-video-enhancer.png" width="48" height="48"> | [***real-video-enhancer***](apps/real-video-enhancer.md) | *Interpolate and Upscale easily.*..[ *read more* ](apps/real-video-enhancer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/real-video-enhancer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/real-video-enhancer) |
-| <img loading="lazy" src="icons/reaper-appimage.png" width="48" height="48"> | [***reaper-appimage***](apps/reaper-appimage.md) | *Unofficial. A complete digital audio production app, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.*..[ *read more* ](apps/reaper-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/reaper-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/reaper-appimage) |
 | <img loading="lazy" src="icons/recoll.png" width="48" height="48"> | [***recoll***](apps/recoll.md) | *Full-text search for your desktop.*..[ *read more* ](apps/recoll.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/recoll) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/recoll) |
 | <img loading="lazy" src="icons/record-compare.png" width="48" height="48"> | [***record-compare***](apps/record-compare.md) | *Record Compare.*..[ *read more* ](apps/record-compare.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/record-compare) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/record-compare) |
 | <img loading="lazy" src="icons/recordscript.png" width="48" height="48"> | [***recordscript***](apps/recordscript.md) | *Cross-platform screen recorder, transcript, subtitle.*..[ *read more* ](apps/recordscript.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/recordscript) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/recordscript) |
