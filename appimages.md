@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2115** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2114** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -804,7 +804,6 @@
 | <img loading="lazy" src="icons/heynote.png" width="48" height="48"> | [***heynote***](apps/heynote.md) | *A dedicated scratchpad for developers.*..[ *read more* ](apps/heynote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/heynote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/heynote) |
 | <img loading="lazy" src="icons/hiddify-next.png" width="48" height="48"> | [***hiddify-next***](apps/hiddify-next.md) | *Auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria.*..[ *read more* ](apps/hiddify-next.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hiddify-next) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hiddify-next) |
 | <img loading="lazy" src="icons/hidpi-fixer.png" width="48" height="48"> | [***hidpi-fixer***](apps/hidpi-fixer.md) | *Fractional scaling configuration on X11 desktops.*..[ *read more* ](apps/hidpi-fixer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hidpi-fixer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hidpi-fixer) |
-| <img loading="lazy" src="icons/hoptodesk.png" width="48" height="48"> | [***hoptodesk***](apps/hoptodesk.md) | *Allows users to share their screens and remotely control access.*..[ *read more* ](apps/hoptodesk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hoptodesk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hoptodesk) |
 | <img loading="lazy" src="icons/hotspot.png" width="48" height="48"> | [***hotspot***](apps/hotspot.md) | *The Linux perf GUI for performance analysis.*..[ *read more* ](apps/hotspot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hotspot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hotspot) |
 | <img loading="lazy" src="icons/houdoku.png" width="48" height="48"> | [***houdoku***](apps/houdoku.md) | *Manga reader and library manager for the desktop.*..[ *read more* ](apps/houdoku.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/houdoku) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/houdoku) |
 | <img loading="lazy" src="icons/hpack.png" width="48" height="48"> | [***hpack***](apps/hpack.md) | *A fine tool to convert any data into C header.*..[ *read more* ](apps/hpack.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hpack) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hpack) |

@@ -4800,11 +4800,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/hmcl.png"
   },
   {
-    "packageName": "hoptodesk",
-    "description": "Allows users to share their screens and remotely control access...",
-    "icon": "https://portable-linux-apps.github.io/icons/hoptodesk.png"
-  },
-  {
     "packageName": "hotspot",
     "description": "The Linux perf GUI for performance analysis...",
     "icon": "https://portable-linux-apps.github.io/icons/hotspot.png"

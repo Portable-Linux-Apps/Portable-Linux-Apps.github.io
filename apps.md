@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2508** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2507** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -988,7 +988,6 @@
 | <img loading="lazy" src="icons/hilbish.png" width="48" height="48"> | [***hilbish***](apps/hilbish.md) | *The Moon-powered shell! A comfy and extensible shell for Lua fans!*..[ *read more* ](apps/hilbish.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hilbish) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hilbish) |
 | <img loading="lazy" src="icons/himalaya.png" width="48" height="48"> | [***himalaya***](apps/himalaya.md) | *CLI to manage emails.*..[ *read more* ](apps/himalaya.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/himalaya) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/himalaya) |
 | <img loading="lazy" src="icons/hmcl.png" width="48" height="48"> | [***hmcl***](apps/hmcl.md) | *A Minecraft Launcher which is multi-functional, cross-platform and popular.*..[ *read more* ](apps/hmcl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hmcl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hmcl) |
-| <img loading="lazy" src="icons/hoptodesk.png" width="48" height="48"> | [***hoptodesk***](apps/hoptodesk.md) | *Allows users to share their screens and remotely control access.*..[ *read more* ](apps/hoptodesk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hoptodesk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hoptodesk) |
 | <img loading="lazy" src="icons/hotspot.png" width="48" height="48"> | [***hotspot***](apps/hotspot.md) | *The Linux perf GUI for performance analysis.*..[ *read more* ](apps/hotspot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hotspot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hotspot) |
 | <img loading="lazy" src="icons/houdoku.png" width="48" height="48"> | [***houdoku***](apps/houdoku.md) | *Manga reader and library manager for the desktop.*..[ *read more* ](apps/houdoku.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/houdoku) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/houdoku) |
 | <img loading="lazy" src="icons/hpack.png" width="48" height="48"> | [***hpack***](apps/hpack.md) | *A fine tool to convert any data into C header.*..[ *read more* ](apps/hpack.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hpack) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hpack) |
