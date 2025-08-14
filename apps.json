@@ -3375,6 +3375,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ferdium.png"
   },
   {
+    "packageName": "ferrix",
+    "description": "Fast, modern, cross-platform download manager built with Rust and Tauri, supports resumable downloads, clean UI, and blazing performance...",
+    "icon": "https://portable-linux-apps.github.io/icons/ferrix.png"
+  },
+  {
     "packageName": "fetchit",
     "description": "A system fetch tool for Linux, written in Rust...",
     "icon": "https://portable-linux-apps.github.io/icons/fetchit.png"

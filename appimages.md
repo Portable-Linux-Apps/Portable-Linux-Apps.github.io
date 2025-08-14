@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2114** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2115** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -603,6 +603,7 @@
 | <img loading="lazy" src="icons/feedseries.png" width="48" height="48"> | [***feedseries***](apps/feedseries.md) | *Follow your series enthusiast news, in french.*..[ *read more* ](apps/feedseries.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/feedseries) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/feedseries) |
 | <img loading="lazy" src="icons/feishin.png" width="48" height="48"> | [***feishin***](apps/feishin.md) | *Sonixd Rewrite, a desktop music player.*..[ *read more* ](apps/feishin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/feishin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/feishin) |
 | <img loading="lazy" src="icons/ferdium.png" width="48" height="48"> | [***ferdium***](apps/ferdium.md) | *All your services in one place, built by the community.*..[ *read more* ](apps/ferdium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ferdium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ferdium) |
+| <img loading="lazy" src="icons/ferrix.png" width="48" height="48"> | [***ferrix***](apps/ferrix.md) | *Fast, modern, cross-platform download manager built with Rust and Tauri, supports resumable downloads, clean UI, and blazing performance.*..[ *read more* ](apps/ferrix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ferrix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ferrix) |
 | <img loading="lazy" src="icons/fflogs-uploader.png" width="48" height="48"> | [***fflogs-uploader***](apps/fflogs-uploader.md) | *FFLogs Uploader appimage.*..[ *read more* ](apps/fflogs-uploader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fflogs-uploader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fflogs-uploader) |
 | <img loading="lazy" src="icons/ff-password-exporter.png" width="48" height="48"> | [***ff-password-exporter***](apps/ff-password-exporter.md) | *Export your saved passwords from Firefox.*..[ *read more* ](apps/ff-password-exporter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ff-password-exporter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ff-password-exporter) |
 | <img loading="lazy" src="icons/ffvim.png" width="48" height="48"> | [***ffvim***](apps/ffvim.md) | *FIVIM is an editor for encrypted notes and files.*..[ *read more* ](apps/ffvim.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffvim) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffvim) |
