@@ -28,12 +28,12 @@ jobs:
           MDS=$(ls apps/* | sed 's:.*/::; s/.md$//g')
           PNGS=$(ls icons/* | sed 's:.*/::; s/.png$//g')
           for m in $MDS; do
-          	if ! echo "$LIST" | grep -q "◆ $m :"; then
+          	if ! echo "$LIST" 2>/dev/null | grep -q "◆ $m :"; then
           		rm -f "apps/$m.md"
           	fi
           done
           for p in $PNGS; do
-          	if ! echo "$LIST" | grep -q "◆ $p :"; then
+          	if ! echo "$LIST" 2>/dev/null | grep -q "◆ $p :"; then
           		rm -f "icons/$p.png"
           	fi
           done
