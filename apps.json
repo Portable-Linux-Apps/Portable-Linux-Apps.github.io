@@ -10955,11 +10955,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/swell.png"
   },
   {
-    "packageName": "swift",
-    "description": "Communicate over the Jabber/XMPP network, v4.0.2...",
-    "icon": "https://portable-linux-apps.github.io/icons/swift.png"
-  },
-  {
     "packageName": "swiftnessx",
     "description": "Electron application boilerplate based on React/Webpack...",
     "icon": "https://portable-linux-apps.github.io/icons/swiftnessx.png"

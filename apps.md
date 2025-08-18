@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2509** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2508** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2219,7 +2219,6 @@
 | <img loading="lazy" src="icons/sweeper.png" width="48" height="48"> | [***sweeper***](apps/sweeper.md) | *Unofficial. System Cleaner. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/sweeper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sweeper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sweeper) |
 | <img loading="lazy" src="icons/sweethome3d.png" width="48" height="48"> | [***sweethome3d***](apps/sweethome3d.md) | *An interior design app to draw house plans & arrange furniture.*..[ *read more* ](apps/sweethome3d.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sweethome3d) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sweethome3d) |
 | <img loading="lazy" src="icons/swell.png" width="48" height="48"> | [***swell***](apps/swell.md) | *Testing for streaming APIs, right at your desktop.*..[ *read more* ](apps/swell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swell) |
-| <img loading="lazy" src="icons/swift.png" width="48" height="48"> | [***swift***](apps/swift.md) | *Communicate over the Jabber/XMPP network, v4.0.2.*..[ *read more* ](apps/swift.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swift) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swift) |
 | <img loading="lazy" src="icons/swiftnessx.png" width="48" height="48"> | [***swiftnessx***](apps/swiftnessx.md) | *Electron application boilerplate based on React/Webpack.*..[ *read more* ](apps/swiftnessx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swiftnessx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swiftnessx) |
 | <img loading="lazy" src="icons/swifty.png" width="48" height="48"> | [***swifty***](apps/swifty.md) | *Free Offline-first Password Manager.*..[ *read more* ](apps/swifty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swifty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swifty) |
 | <img loading="lazy" src="icons/swish.png" width="48" height="48"> | [***swish***](apps/swish.md) | *Command Line Interface for Swisstransfer Infomaniak's free service.*..[ *read more* ](apps/swish.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swish) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swish) |

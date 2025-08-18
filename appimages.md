@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2116** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2115** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1826,7 +1826,6 @@
 | <img loading="lazy" src="icons/swaglyrics.png" width="48" height="48"> | [***swaglyrics***](apps/swaglyrics.md) | *SwagLyrics AppImage, unofficial.*..[ *read more* ](apps/swaglyrics.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swaglyrics) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swaglyrics) |
 | <img loading="lazy" src="icons/swc-minecraft-launcher.png" width="48" height="48"> | [***swc-minecraft-launcher***](apps/swc-minecraft-launcher.md) | *SWC Minecraft Launcher.*..[ *read more* ](apps/swc-minecraft-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swc-minecraft-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swc-minecraft-launcher) |
 | <img loading="lazy" src="icons/swell.png" width="48" height="48"> | [***swell***](apps/swell.md) | *Testing for streaming APIs, right at your desktop.*..[ *read more* ](apps/swell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swell) |
-| <img loading="lazy" src="icons/swift.png" width="48" height="48"> | [***swift***](apps/swift.md) | *Communicate over the Jabber/XMPP network, v4.0.2.*..[ *read more* ](apps/swift.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swift) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swift) |
 | <img loading="lazy" src="icons/swiftnessx.png" width="48" height="48"> | [***swiftnessx***](apps/swiftnessx.md) | *Electron application boilerplate based on React/Webpack.*..[ *read more* ](apps/swiftnessx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swiftnessx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swiftnessx) |
 | <img loading="lazy" src="icons/swifty.png" width="48" height="48"> | [***swifty***](apps/swifty.md) | *Free Offline-first Password Manager.*..[ *read more* ](apps/swifty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swifty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swifty) |
 | <img loading="lazy" src="icons/switchhosts.png" width="48" height="48"> | [***switchhosts***](apps/switchhosts.md) | *Switch hosts quickly!*..[ *read more* ](apps/switchhosts.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/switchhosts) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/switchhosts) |
