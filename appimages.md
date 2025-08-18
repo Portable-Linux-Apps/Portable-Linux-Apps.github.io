@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2115** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2116** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1589,6 +1589,7 @@
 | <img loading="lazy" src="icons/ripes.png" width="48" height="48"> | [***ripes***](apps/ripes.md) | *Graphical processor simulator and assembly editor for the RISC-V ISA.*..[ *read more* ](apps/ripes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ripes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ripes) |
 | <img loading="lazy" src="icons/rmg.png" width="48" height="48"> | [***rmg***](apps/rmg.md) | *Rosalie's Mupen GUI.*..[ *read more* ](apps/rmg.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rmg) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rmg) |
 | <img loading="lazy" src="icons/rmw.png" width="48" height="48"> | [***rmw***](apps/rmw.md) | *A safe-remove utility for the command line.*..[ *read more* ](apps/rmw.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rmw) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rmw) |
+| <img loading="lazy" src="icons/rnote.png" width="48" height="48"> | [***rnote***](apps/rnote.md) | *Unofficial, Rnote is a vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures.*..[ *read more* ](apps/rnote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rnote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rnote) |
 | <img loading="lazy" src="icons/roborock-control-center.png" width="48" height="48"> | [***roborock-control-center***](apps/roborock-control-center.md) | *Control Your Xiaomi Vacuum.*..[ *read more* ](apps/roborock-control-center.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/roborock-control-center) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/roborock-control-center) |
 | <img loading="lazy" src="icons/rock.so.png" width="48" height="48"> | [***rock.so***](apps/rock.so.md) | *Messaging + Tasks.*..[ *read more* ](apps/rock.so.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rock.so) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rock.so) |
 | <img loading="lazy" src="icons/rofi.png" width="48" height="48"> | [***rofi***](apps/rofi.md) | *Unofficial, A window switcher, runs dialogs, dmenu like, etc.*..[ *read more* ](apps/rofi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rofi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rofi) |

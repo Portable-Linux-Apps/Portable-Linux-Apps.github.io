@@ -9615,6 +9615,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/rmw.png"
   },
   {
+    "packageName": "rnote",
+    "description": "Unofficial, Rnote is a vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures...",
+    "icon": "https://portable-linux-apps.github.io/icons/rnote.png"
+  },
+  {
     "packageName": "roborock-control-center",
     "description": "Control Your Xiaomi Vacuum...",
     "icon": "https://portable-linux-apps.github.io/icons/roborock-control-center.png"

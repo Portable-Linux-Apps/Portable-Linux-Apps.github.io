@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **114** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **115** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -131,6 +131,7 @@
 | <img loading="lazy" src="icons/redis-gui.png" width="48" height="48"> | [***redis-gui***](apps/redis-gui.md) | *Modern graphical user interface to peek into redis DB.*..[ *read more* ](apps/redis-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/redis-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/redis-gui) |
 | <img loading="lazy" src="icons/repath-studio.png" width="48" height="48"> | [***repath-studio***](apps/repath-studio.md) | *A cross-platform vector graphics editor.*..[ *read more* ](apps/repath-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/repath-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/repath-studio) |
 | <img loading="lazy" src="icons/ripes.png" width="48" height="48"> | [***ripes***](apps/ripes.md) | *Graphical processor simulator and assembly editor for the RISC-V ISA.*..[ *read more* ](apps/ripes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ripes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ripes) |
+| <img loading="lazy" src="icons/rnote.png" width="48" height="48"> | [***rnote***](apps/rnote.md) | *Unofficial, Rnote is a vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures.*..[ *read more* ](apps/rnote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rnote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rnote) |
 | <img loading="lazy" src="icons/rx-bin.png" width="48" height="48"> | [***rx-bin***](apps/rx-bin.md) | *A modern and extensible pixel editor implemented in Rust.*..[ *read more* ](apps/rx-bin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rx-bin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rx-bin) |
 | <img loading="lazy" src="icons/satty.png" width="48" height="48"> | [***satty***](apps/satty.md) | *Modern Screenshot Annotation.*..[ *read more* ](apps/satty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/satty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/satty) |
 | <img loading="lazy" src="icons/screencloud.png" width="48" height="48"> | [***screencloud***](apps/screencloud.md) | *Capture and share screenshots easily.*..[ *read more* ](apps/screencloud.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/screencloud) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/screencloud) |
