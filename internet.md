@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **174** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **173** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -138,7 +138,6 @@
 | <img loading="lazy" src="icons/opera-dev.png" width="48" height="48"> | [***opera-dev***](apps/opera-dev.md) | *Unofficial. Fast and secure web browser, Developer version.*..[ *read more* ](apps/opera-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opera-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opera-dev) |
 | <img loading="lazy" src="icons/opera.png" width="48" height="48"> | [***opera***](apps/opera.md) | *Unofficial. Fast and secure web browser, Stable version.*..[ *read more* ](apps/opera.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opera) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opera) |
 | <img loading="lazy" src="icons/overlayed.png" width="48" height="48"> | [***overlayed***](apps/overlayed.md) | *A modern, open-source, and free voice chat overlay for Discord.*..[ *read more* ](apps/overlayed.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/overlayed) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/overlayed) |
-| <img loading="lazy" src="icons/owncloud.png" width="48" height="48"> | [***owncloud***](apps/owncloud.md) | *The most essential productivity tool since email.*..[ *read more* ](apps/owncloud.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/owncloud) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/owncloud) |
 | <img loading="lazy" src="icons/p2p-chat.png" width="48" height="48"> | [***p2p-chat***](apps/p2p-chat.md) | *P2P LAN chatting and file sharing tool.*..[ *read more* ](apps/p2p-chat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/p2p-chat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/p2p-chat) |
 | <img loading="lazy" src="icons/p2pderivatives.png" width="48" height="48"> | [***p2pderivatives***](apps/p2pderivatives.md) | *Enables users to enter into Discreet Log Contracts.*..[ *read more* ](apps/p2pderivatives.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/p2pderivatives) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/p2pderivatives) |
 | <img loading="lazy" src="icons/palemoon.png" width="48" height="48"> | [***palemoon***](apps/palemoon.md) | *Web browser, a Firefox fork with a classic UI and modern APIs.*..[ *read more* ](apps/palemoon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/palemoon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/palemoon) |

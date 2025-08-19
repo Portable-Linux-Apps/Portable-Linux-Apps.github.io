@@ -8060,11 +8060,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/ow-mod-man.png"
   },
   {
-    "packageName": "owncloud",
-    "description": "The most essential productivity tool since email...",
-    "icon": "https://portable-linux-apps.github.io/icons/owncloud.png"
-  },
-  {
     "packageName": "oxen-gui-wallet",
     "description": "Oxen electron GUI wallet...",
     "icon": "https://portable-linux-apps.github.io/icons/oxen-gui-wallet.png"
