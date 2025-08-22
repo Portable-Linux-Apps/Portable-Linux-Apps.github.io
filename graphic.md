@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **115** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **116** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -32,6 +32,7 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
+| <img loading="lazy" src="icons/ansel.png" width="48" height="48"> | [***ansel***](apps/ansel.md) | *An open-source photo-editing software for digital artists, designed to help you achieve your own interpretation of raw digital photographs.*..[ *read more* ](apps/ansel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ansel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ansel) |
 | <img loading="lazy" src="icons/aphototoollibre.png" width="48" height="48"> | [***aphototoollibre***](apps/aphototoollibre.md) | *Photo editing app for GNU/Linux.*..[ *read more* ](apps/aphototoollibre.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aphototoollibre) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aphototoollibre) |
 | <img loading="lazy" src="icons/astrofox.png" width="48" height="48"> | [***astrofox***](apps/astrofox.md) | *Audio reactive motion graphics program.*..[ *read more* ](apps/astrofox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/astrofox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/astrofox) |
 | <img loading="lazy" src="icons/astroshutter.png" width="48" height="48"> | [***astroshutter***](apps/astroshutter.md) | *Ui to control your camera for astrophotography.*..[ *read more* ](apps/astroshutter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/astroshutter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/astroshutter) |

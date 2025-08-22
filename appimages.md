@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2114** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2115** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -91,6 +91,7 @@
 | <img loading="lazy" src="icons/anki.png" width="48" height="48"> | [***anki***](apps/anki.md) | *Unofficial, Anki's shared backend and web components, and the Qt frontend.*..[ *read more* ](apps/anki.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/anki) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/anki) |
 | <img loading="lazy" src="icons/anklang.png" width="48" height="48"> | [***anklang***](apps/anklang.md) | *MIDI and Audio Synthesizer and Composer.*..[ *read more* ](apps/anklang.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/anklang) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/anklang) |
 | <img loading="lazy" src="icons/another-redis-desktop-manager.png" width="48" height="48"> | [***another-redis-desktop-manager***](apps/another-redis-desktop-manager.md) | *Faster and better redis desktop manager.*..[ *read more* ](apps/another-redis-desktop-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/another-redis-desktop-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/another-redis-desktop-manager) |
+| <img loading="lazy" src="icons/ansel.png" width="48" height="48"> | [***ansel***](apps/ansel.md) | *An open-source photo-editing software for digital artists, designed to help you achieve your own interpretation of raw digital photographs.*..[ *read more* ](apps/ansel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ansel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ansel) |
 | <img loading="lazy" src="icons/antares.png" width="48" height="48"> | [***antares***](apps/antares.md) | *An useful SQL client based on Electron.js and Vue.js.*..[ *read more* ](apps/antares.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/antares) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/antares) |
 | <img loading="lazy" src="icons/ant-downloader.png" width="48" height="48"> | [***ant-downloader***](apps/ant-downloader.md) | *BitTorrent Client developed by golang, angular, electron.*..[ *read more* ](apps/ant-downloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ant-downloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ant-downloader) |
 | <img loading="lazy" src="icons/antimicrox.png" width="48" height="48"> | [***antimicrox***](apps/antimicrox.md) | *Use a gamepad to control a variety of programs.*..[ *read more* ](apps/antimicrox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/antimicrox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/antimicrox) |
