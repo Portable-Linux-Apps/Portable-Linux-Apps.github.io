@@ -12265,6 +12265,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/widelands.png"
   },
   {
+    "packageName": "wiiu-downloader",
+    "description": "Allows to download encrypted wiiu files from nintendo's official servers...",
+    "icon": "https://portable-linux-apps.github.io/icons/wiiu-downloader.png"
+  },
+  {
     "packageName": "wikilynx",
     "description": "A simple game browser made using Qt C++ for playing wikipedia speed-runs the right way...",
     "icon": "https://portable-linux-apps.github.io/icons/wikilynx.png"
