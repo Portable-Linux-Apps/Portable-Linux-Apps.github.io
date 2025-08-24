@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **116** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **115** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -101,7 +101,6 @@
 | <img loading="lazy" src="icons/lisk-desktop.png" width="48" height="48"> | [***lisk-desktop***](apps/lisk-desktop.md) | *Lisk graphical user interface for desktop.*..[ *read more* ](apps/lisk-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lisk-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lisk-desktop) |
 | <img loading="lazy" src="icons/mapollage.png" width="48" height="48"> | [***mapollage***](apps/mapollage.md) | *Photo kml generator for Google Earth.*..[ *read more* ](apps/mapollage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mapollage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mapollage) |
 | <img loading="lazy" src="icons/memoto.png" width="48" height="48"> | [***memoto***](apps/memoto.md) | *DevOps oriented modeling tool.*..[ *read more* ](apps/memoto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/memoto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/memoto) |
-| <img loading="lazy" src="icons/miesimulatorgui.png" width="48" height="48"> | [***miesimulatorgui***](apps/miesimulatorgui.md) | *MieSimulatorGUI by Virtual Photonics.*..[ *read more* ](apps/miesimulatorgui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/miesimulatorgui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/miesimulatorgui) |
 | <img loading="lazy" src="icons/minizinc-ide.png" width="48" height="48"> | [***minizinc-ide***](apps/minizinc-ide.md) | *A free and open-source constraint modeling language.*..[ *read more* ](apps/minizinc-ide.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/minizinc-ide) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/minizinc-ide) |
 | <img loading="lazy" src="icons/mmapper.png" width="48" height="48"> | [***mmapper***](apps/mmapper.md) | *Graphical MUD client for the game MUME.*..[ *read more* ](apps/mmapper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mmapper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mmapper) |
 | <img loading="lazy" src="icons/mypaint.png" width="48" height="48"> | [***mypaint***](apps/mypaint.md) | *Simple drawing and painting program, graphics.*..[ *read more* ](apps/mypaint.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mypaint) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mypaint) |

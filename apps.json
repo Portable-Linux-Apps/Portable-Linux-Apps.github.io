@@ -6785,11 +6785,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/midori.png"
   },
   {
-    "packageName": "miesimulatorgui",
-    "description": "MieSimulatorGUI by Virtual Photonics...",
-    "icon": "https://portable-linux-apps.github.io/icons/miesimulatorgui.png"
-  },
-  {
     "packageName": "mightymike",
     "description": "Pangea Software's Mighty Mike, Power Pete for modern systems...",
     "icon": "https://portable-linux-apps.github.io/icons/mightymike.png"
