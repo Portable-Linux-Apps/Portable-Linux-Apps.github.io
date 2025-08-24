@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2116** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2117** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1714,6 +1714,7 @@
 | <img loading="lazy" src="icons/smplayer.png" width="48" height="48"> | [***smplayer***](apps/smplayer.md) | *Media Player with built-in codecs for all audio and video formats.*..[ *read more* ](apps/smplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smplayer) |
 | <img loading="lazy" src="icons/smuview.png" width="48" height="48"> | [***smuview***](apps/smuview.md) | *A Qt based source measure unit GUI for sigrok.*..[ *read more* ](apps/smuview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smuview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smuview) |
 | <img loading="lazy" src="icons/snake-js.png" width="48" height="48"> | [***snake-js***](apps/snake-js.md) | *Canvas/JavaScript based Snake Game with support for controllers.*..[ *read more* ](apps/snake-js.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snake-js) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snake-js) |
+| <img loading="lazy" src="icons/snapclear.png" width="48" height="48"> | [***snapclear***](apps/snapclear.md) | *Remove Image Background with AI for Free Offline.*..[ *read more* ](apps/snapclear.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snapclear) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snapclear) |
 | <img loading="lazy" src="icons/snapshot-slider.png" width="48" height="48"> | [***snapshot-slider***](apps/snapshot-slider.md) | *Present/print/email Snapshots of modern mathematics.*..[ *read more* ](apps/snapshot-slider.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snapshot-slider) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snapshot-slider) |
 | <img loading="lazy" src="icons/snes9x.png" width="48" height="48"> | [***snes9x***](apps/snes9x.md) | *Snes9x - Portable Super Nintendo Entertainment System TM emulator.*..[ *read more* ](apps/snes9x.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snes9x) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snes9x) |
 | <img loading="lazy" src="icons/snippetstore.png" width="48" height="48"> | [***snippetstore***](apps/snippetstore.md) | *A snippet management app for developers.*..[ *read more* ](apps/snippetstore.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snippetstore) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snippetstore) |
