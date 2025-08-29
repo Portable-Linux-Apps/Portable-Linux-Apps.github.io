@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **238** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **239** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -307,6 +307,7 @@
 | <img loading="lazy" src="icons/wlx-overlay-s.png" width="48" height="48"> | [***wlx-overlay-s***](apps/wlx-overlay-s.md) | *Access your Wayland/X11 desktop from Monado/WiVRn/SteamVR.*..[ *read more* ](apps/wlx-overlay-s.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wlx-overlay-s) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wlx-overlay-s) |
 | <img loading="lazy" src="icons/woof-doom.png" width="48" height="48"> | [***woof-doom***](apps/woof-doom.md) | *Woof! is a continuation of the Boom/MBF bloodline of Doom source ports.*..[ *read more* ](apps/woof-doom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/woof-doom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/woof-doom) |
 | <img loading="lazy" src="icons/xemu.png" width="48" height="48"> | [***xemu***](apps/xemu.md) | *Original Xbox Emulator.*..[ *read more* ](apps/xemu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xemu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xemu) |
+| <img loading="lazy" src="icons/xenia-canary.png" width="48" height="48"> | [***xenia-canary***](apps/xenia-canary.md) | *Unofficial AppImage of xenia-canary Xbox360 emulator.*..[ *read more* ](apps/xenia-canary.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xenia-canary) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xenia-canary) |
 | <img loading="lazy" src="icons/x-minecraft-launcher.png" width="48" height="48"> | [***x-minecraft-launcher***](apps/x-minecraft-launcher.md) | *An Open Source Minecraft Launcher with Modern UX.*..[ *read more* ](apps/x-minecraft-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/x-minecraft-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/x-minecraft-launcher) |
 | <img loading="lazy" src="icons/yam.png" width="48" height="48"> | [***yam***](apps/yam.md) | *Unofficial Game Updater for the F95Zone platform.*..[ *read more* ](apps/yam.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yam) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yam) |
 | <img loading="lazy" src="icons/znax.png" width="48" height="48"> | [***znax***](apps/znax.md) | *Znax is a cross platform puzzle / arcade game using SDL2 libraries.*..[ *read more* ](apps/znax.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/znax) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/znax) |

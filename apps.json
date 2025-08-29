@@ -12530,6 +12530,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/xemu.png"
   },
   {
+    "packageName": "xenia-canary",
+    "description": "Unofficial AppImage of xenia-canary Xbox360 emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/xenia-canary.png"
+  },
+  {
     "packageName": "xgetter",
     "description": "Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Bilibili, Douyin and more...",
     "icon": "https://portable-linux-apps.github.io/icons/xgetter.png"
