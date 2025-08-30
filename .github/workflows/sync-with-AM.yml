@@ -55,27 +55,27 @@ jobs:
       - name: "Create dumb pages/icons if missing"
         run: |
           [ -z "$AMD64_LIST" ] && AMD64_LIST=$(curl -Ls https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64-apps)
-          if [ -n "$AMD64_LIST" ] && echo "$AMD64_LIST" | grep -q "^◆ "; then
+          if [ -n "$AMD64_LIST" ] && echo "$AMD64_LIST" 2>/dev/null | grep -q "^◆ "; then
 
-            APPS=$(echo "$AMD64_LIST" | awk '{print $2}' | xargs)
+            APPS=$(echo "$AMD64_LIST" 2>/dev/null | awk '{print $2}' | xargs)
             for a in $APPS; do
               if ! test -f apps/"$a".md; then
                 INSTALLATION_SCRIPT=$(curl -Ls https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/"$a")
-                if [ -n "$INSTALLATION_SCRIPT" ] && echo "$INSTALLATION_SCRIPT" | grep -q "^APP=$a"; then
+                if [ -n "$INSTALLATION_SCRIPT" ] && echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep -q "^APP=$a"; then
                   APP=$(echo "$a" | tr '[:lower:]' '[:upper:]')
-                  DESCRIPTION=$(echo "$AMD64_LIST" | grep "^◆ $a :" | sed "s/^◆ $a ://g")
+                  DESCRIPTION=$(echo "$AMD64_LIST" 2>/dev/null | grep "^◆ $a :" | sed "s/^◆ $a ://g")
 
-                  if echo "$INSTALLATION_SCRIPT" | grep -q "^SITE="; then
-                    site_ref=$(echo "$INSTALLATION_SCRIPT" | grep "^SITE=" | head -1 | awk -F'"' '$0=$2')
-                    if echo "$INSTALLATION_SCRIPT" | grep -q "^version=.*curl .*codeberg.org"; then
+                  if echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep -q "^SITE="; then
+                    site_ref=$(echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep "^SITE=" | head -1 | awk -F'"' '$0=$2')
+                    if echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep -q "^version=.*curl .*codeberg.org"; then
                       SITE="https://codeberg.org/$site_ref"
-                    elif echo "$INSTALLATION_SCRIPT" | grep -q "^version=.*curl .*api.github.com" || ! echo "$site_ref" | grep -q "^http://\|https://\|ftp://"; then
+                    elif echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep -q "^version=.*curl .*api.github.com" || ! echo "$site_ref" 2>/dev/null | grep -q "^http://\|^https://\|^ftp://"; then
                       SITE="https://github.com/$site_ref"
                     else
                       SITE="$site_ref"
                     fi
                   else
-                    SITE="https://$(echo "$INSTALLATION_SCRIPT" |  grep -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*" | head -1 | awk -F[/:] '{print $4}')"
+                    SITE="https://$(echo "$INSTALLATION_SCRIPT" 2>/dev/null |  grep -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*" | head -1 | awk -F[/:] '{print $4}')"
                   fi
                   
                   echo "# $APP" > apps/"$a".md
