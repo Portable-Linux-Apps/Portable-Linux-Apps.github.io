@@ -1,4 +1,4 @@
-name: "Update Site"
+name: "Keep this site sync with AM"
 
 on:
   schedule:
