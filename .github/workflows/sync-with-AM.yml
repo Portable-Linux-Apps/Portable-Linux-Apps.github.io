@@ -1,0 +1,112 @@
+name: "Update Site"
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  sync-files:
+    name: "Run sync"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Checkout source repository"
+        uses: actions/checkout@v4
+
+      - name: "Update lists"
+        run: |
+          AM2PLA_SCRIPT=$(curl -Ls https://raw.githubusercontent.com/ivan-hc/AM/main/tools/am2pla-site)
+          [ -n "$AM2PLA_SCRIPT" ] && echo "$AM2PLA_SCRIPT" | grep -q "^AMREPO=" && echo "◆ Update am2pla-site script..." && echo "$AM2PLA_SCRIPT" > ./am2pla-site
+          sed -i 's/^cd "$(xdg-user-dir DESKTOP)"/#cd "$(xdg-user-dir DESKTOP)"/g' ./am2pla-site
+          [ ! -x ./am2pla-site ] && chmod a+x ./am2pla-site
+          ./am2pla-site
+
+      - name: "Remove unneeded pages/icons"
+        run: |
+          AMD64_LIST=$(curl -Ls https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64-apps)
+          if [ -n "$AMD64_LIST" ] && echo "$AMD64_LIST" 2>/dev/null | grep -q "^◆ "; then
+
+            MDS=$(ls apps/* | sed 's:.*/::; s/.md$//g')
+            PNGS=$(ls icons/* | sed 's:.*/::; s/.png$//g')
+            for m in $MDS; do
+              if ! echo "$AMD64_LIST" 2>/dev/null | grep -q "◆ $m :"; then
+                rm -f "apps/$m.md"
+                echo "Removed apps/$m.md"
+              fi
+            done
+
+            for p in $PNGS; do
+              if ! echo "$AMD64_LIST" 2>/dev/null | grep -q "◆ $p :"; then
+                rm -f "icons/$p.png"
+                echo "Removed icons/$p.png"
+              fi
+            done
+
+          fi
+
+      - name: "Create dumb pages/icons if missing"
+        run: |
+          [ -z "$AMD64_LIST" ] && AMD64_LIST=$(curl -Ls https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64-apps)
+          if [ -n "$AMD64_LIST" ] && echo "$AMD64_LIST" | grep -q "^◆ "; then
+
+            APPS=$(echo "$AMD64_LIST" | awk '{print $2}' | xargs)
+            for a in $APPS; do
+              if ! test -f apps/"$a".md; then
+                INSTALLATION_SCRIPT=$(curl -Ls https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/"$a")
+                if [ -n "$INSTALLATION_SCRIPT" ] && echo "$INSTALLATION_SCRIPT" | grep -q "^APP=$a"; then
+                  APP=$(echo "$a" | tr '[:lower:]' '[:upper:]')
+                  DESCRIPTION=$(echo "$AMD64_LIST" | grep "^◆ $a :" | sed "s/^◆ $a ://g")
+
+                  if echo "$INSTALLATION_SCRIPT" | grep -q "^SITE="; then
+                    site_ref=$(echo "$INSTALLATION_SCRIPT" | grep "^SITE=" | head -1 | awk -F'"' '$0=$2')
+                    if echo "$INSTALLATION_SCRIPT" | grep -q "^version=.*curl .*codeberg.org"; then
+                      SITE="https://codeberg.org/$site_ref"
+                    elif echo "$INSTALLATION_SCRIPT" | grep -q "^version=.*curl .*api.github.com" || ! echo "$site_ref" | grep -q "^http://\|https://\|ftp://"; then
+                      SITE="https://github.com/$site_ref"
+                    else
+                      SITE="$site_ref"
+                    fi
+                  else
+                    SITE="https://$(echo "$INSTALLATION_SCRIPT" |  grep -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*" | head -1 | awk -F[/:] '{print $4}')"
+                  fi
+                  
+                  echo "# $APP" > apps/"$a".md
+                  printf "\n$DESCRIPTION\n" >> apps/"$a".md
+                  printf "\n SITE/SOURCE: $SITE\n\n" >> apps/"$a".md
+                  printf " | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)\n | --- | --- |" >> apps/"$a".md
+
+                  echo "Adding apps/$a.md"
+                fi
+              fi
+            done
+
+            MDS=$(ls apps/* | sed 's:.*/::; s/.md$//g')
+            for m in $MDS; do
+            if ! test -f icons/"$m".png; then
+              cp -r no-icon.png "icons/$m.png"
+              echo "Adding icons/$m.png"
+            fi
+            done
+            rm -f icons/*.md
+
+          fi
+
+      - name: "Push to Source"
+        run: |
+          git config --global user.name "Portable-Linux-Apps"
+          git config --global user.email "noreply@github.com"
+          git add *.md *.json am2pla-site apps icons
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit." >> $GITHUB_STEP_SUMMARY
+          else
+            git commit -m "Sync files from source repository"
+            git push && echo "Sync to Source succeeded" >> $GITHUB_STEP_SUMMARY
+          fi
