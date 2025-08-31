@@ -10080,6 +10080,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/shipwright.png"
   },
   {
+    "packageName": "shiru",
+    "description": "BitTorrent streaming software with no paws in the way—watch anime in real-time, no waiting for downloads!..",
+    "icon": "https://portable-linux-apps.github.io/icons/shiru.png"
+  },
+  {
     "packageName": "shotcut",
     "description": "A powerful Video Editor...",
     "icon": "https://portable-linux-apps.github.io/icons/shotcut.png"
@@ -10928,6 +10933,11 @@
     "packageName": "surrealist",
     "description": "Surrealist is the ultimate way to visually manage your SurrealDB database...",
     "icon": "https://portable-linux-apps.github.io/icons/surrealist.png"
+  },
+  {
+    "packageName": "suwayomi",
+    "description": "A rewrite of Tachiyomi for the Desktop...",
+    "icon": "https://portable-linux-apps.github.io/icons/suwayomi.png"
   },
   {
     "packageName": "suyu",
@@ -12288,6 +12298,11 @@
     "packageName": "wikilynx",
     "description": "A simple game browser made using Qt C++ for playing wikipedia speed-runs the right way...",
     "icon": "https://portable-linux-apps.github.io/icons/wikilynx.png"
+  },
+  {
+    "packageName": "winboat",
+    "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration...",
+    "icon": "https://portable-linux-apps.github.io/icons/winboat.png"
   },
   {
     "packageName": "window-pet",

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **173** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **174** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -154,6 +154,7 @@
 | <img loading="lazy" src="icons/schilbidi-chat.png" width="48" height="48"> | [***schilbidi-chat***](apps/schilbidi-chat.md) | *Matrix client / Element Web/Desktop fork.*..[ *read more* ](apps/schilbidi-chat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/schilbidi-chat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/schilbidi-chat) |
 | <img loading="lazy" src="icons/schildichat.png" width="48" height="48"> | [***schildichat***](apps/schildichat.md) | *A Matrix Client.*..[ *read more* ](apps/schildichat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/schildichat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/schildichat) |
 | <img loading="lazy" src="icons/sengi.png" width="48" height="48"> | [***sengi***](apps/sengi.md) | *A multi-account desktop client for Mastodon and Pleroma.*..[ *read more* ](apps/sengi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sengi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sengi) |
+| <img loading="lazy" src="icons/shiru.png" width="48" height="48"> | [***shiru***](apps/shiru.md) | *BitTorrent streaming software with no paws in the way—watch anime in real-time, no waiting for downloads!*..[ *read more* ](apps/shiru.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shiru) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shiru) |
 | <img loading="lazy" src="icons/simplex-chat.png" width="48" height="48"> | [***simplex-chat***](apps/simplex-chat.md) | *First messaging platform operating without user identifiers.*..[ *read more* ](apps/simplex-chat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/simplex-chat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/simplex-chat) |
 | <img loading="lazy" src="icons/skype.png" width="48" height="48"> | [***skype***](apps/skype.md) | *Unofficial. VoIP-based videoconferencing, voice calls and instant messaging app.*..[ *read more* ](apps/skype.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/skype) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/skype) |
 | <img loading="lazy" src="icons/snapshot-slider.png" width="48" height="48"> | [***snapshot-slider***](apps/snapshot-slider.md) | *Present/print/email Snapshots of modern mathematics.*..[ *read more* ](apps/snapshot-slider.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snapshot-slider) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snapshot-slider) |
