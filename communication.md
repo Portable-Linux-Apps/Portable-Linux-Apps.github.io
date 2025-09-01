@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **97** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **96** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -46,7 +46,6 @@
 | <img loading="lazy" src="icons/chatall.png" width="48" height="48"> | [***chatall***](apps/chatall.md) | *Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca and more.*..[ *read more* ](apps/chatall.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatall) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatall) |
 | <img loading="lazy" src="icons/chatbox.png" width="48" height="48"> | [***chatbox***](apps/chatbox.md) | *Chatbox is a desktop app for GPT-4 / GPT-3.5, OpenAI API.*..[ *read more* ](apps/chatbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatbox) |
 | <img loading="lazy" src="icons/chatgpt-next-web.png" width="48" height="48"> | [***chatgpt-next-web***](apps/chatgpt-next-web.md) | *A cross-platform ChatGPT/Gemini UI.*..[ *read more* ](apps/chatgpt-next-web.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatgpt-next-web) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatgpt-next-web) |
-| <img loading="lazy" src="icons/chatgpt-pake.png" width="48" height="48"> | [***chatgpt-pake***](apps/chatgpt-pake.md) | *Unofficial ChatGPT app. Pake project turns any webpage into a desktop app with Rust.*..[ *read more* ](apps/chatgpt-pake.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatgpt-pake) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatgpt-pake) |
 | <img loading="lazy" src="icons/chat-gpt.png" width="48" height="48"> | [***chat-gpt***](apps/chat-gpt.md) | *Unofficial. ChatGPT Desktop Application.*..[ *read more* ](apps/chat-gpt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chat-gpt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chat-gpt) |
 | <img loading="lazy" src="icons/chatpad-ai.png" width="48" height="48"> | [***chatpad-ai***](apps/chatpad-ai.md) | *Not just another ChatGPT user-interface.*..[ *read more* ](apps/chatpad-ai.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatpad-ai) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatpad-ai) |
 | <img loading="lazy" src="icons/chatterino2-nightly.png" width="48" height="48"> | [***chatterino2-nightly***](apps/chatterino2-nightly.md) | *Second installment of the Twitch chat client.*..[ *read more* ](apps/chatterino2-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatterino2-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatterino2-nightly) |
