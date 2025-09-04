@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2107** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2106** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1896,7 +1896,6 @@
 | <img loading="lazy" src="icons/torrenttools.png" width="48" height="48"> | [***torrenttools***](apps/torrenttools.md) | *Cli tool to inspect/create/edit BitTorrent metafiles.*..[ *read more* ](apps/torrenttools.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/torrenttools) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/torrenttools) |
 | <img loading="lazy" src="icons/torzu.png" width="48" height="48"> | [***torzu***](apps/torzu.md) | *Unofficial AppImage of Torzu (fork of yuzu), with optimized builds for modern cpus.*..[ *read more* ](apps/torzu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/torzu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/torzu) |
 | <img loading="lazy" src="icons/trackaudio.png" width="48" height="48"> | [***trackaudio***](apps/trackaudio.md) | *A next generation Audio-For-VATSIM ATC Client.*..[ *read more* ](apps/trackaudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trackaudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trackaudio) |
-| <img loading="lazy" src="icons/trader.png" width="48" height="48"> | [***trader***](apps/trader.md) | *Play Star Traders, a simple game of interstellar trading.*..[ *read more* ](apps/trader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trader) |
 | <img loading="lazy" src="icons/transfernow.png" width="48" height="48"> | [***transfernow***](apps/transfernow.md) | *TransferNow is a simple and free way to safely share your data.*..[ *read more* ](apps/transfernow.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/transfernow) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/transfernow) |
 | <img loading="lazy" src="icons/translatium.png" width="48" height="48"> | [***translatium***](apps/translatium.md) | *Translate Any Languages like a Pro.*..[ *read more* ](apps/translatium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/translatium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/translatium) |
 | <img loading="lazy" src="icons/transmission-gtk.png" width="48" height="48"> | [***transmission-gtk***](apps/transmission-gtk.md) | *Unofficial. Fast, easy, and free BitTorrent client, GTK+ GUI.*..[ *read more* ](apps/transmission-gtk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/transmission-gtk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/transmission-gtk) |

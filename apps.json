@@ -11440,11 +11440,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/trackaudio.png"
   },
   {
-    "packageName": "trader",
-    "description": "Play Star Traders, a simple game of interstellar trading...",
-    "icon": "https://portable-linux-apps.github.io/icons/trader.png"
-  },
-  {
     "packageName": "trans",
     "description": "CLI translator using Google/Bing/Yandex Translate, etc.....",
     "icon": "https://portable-linux-apps.github.io/icons/trans.png"

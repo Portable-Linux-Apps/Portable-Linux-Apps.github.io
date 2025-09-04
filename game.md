@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **239** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **238** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -285,7 +285,6 @@
 | <img loading="lazy" src="icons/synthein.png" width="48" height="48"> | [***synthein***](apps/synthein.md) | *A space ship building and combat game.*..[ *read more* ](apps/synthein.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/synthein) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/synthein) |
 | <img loading="lazy" src="icons/thlink.png" width="48" height="48"> | [***thlink***](apps/thlink.md) | *Touhou Project Game Netplay Tool.*..[ *read more* ](apps/thlink.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thlink) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thlink) |
 | <img loading="lazy" src="icons/torcs.png" width="48" height="48"> | [***torcs***](apps/torcs.md) | *The 3D Open Racing Car Game and Simulator.*..[ *read more* ](apps/torcs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/torcs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/torcs) |
-| <img loading="lazy" src="icons/trader.png" width="48" height="48"> | [***trader***](apps/trader.md) | *Play Star Traders, a simple game of interstellar trading.*..[ *read more* ](apps/trader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trader) |
 | <img loading="lazy" src="icons/trenchbroom.png" width="48" height="48"> | [***trenchbroom***](apps/trenchbroom.md) | *A modern, cross-platform level editor for Quake engine based games.*..[ *read more* ](apps/trenchbroom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trenchbroom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trenchbroom) |
 | <img loading="lazy" src="icons/tzared.png" width="48" height="48"> | [***tzared***](apps/tzared.md) | *Real-time strategy game.*..[ *read more* ](apps/tzared.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tzared) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tzared) |
 | <img loading="lazy" src="icons/ultimmc.png" width="48" height="48"> | [***ultimmc***](apps/ultimmc.md) | *Offline Minecraft launcher.*..[ *read more* ](apps/ultimmc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ultimmc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ultimmc) |
