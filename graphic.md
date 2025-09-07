@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **116** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **117** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -129,6 +129,7 @@
 | <img loading="lazy" src="icons/png2svg.png" width="48" height="48"> | [***png2svg***](apps/png2svg.md) | *CLI, convert small PNG images to SVG Tiny 1.2.*..[ *read more* ](apps/png2svg.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/png2svg) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/png2svg) |
 | <img loading="lazy" src="icons/qr-code-generator.png" width="48" height="48"> | [***qr-code-generator***](apps/qr-code-generator.md) | *Create custom QR Codes, resize, save them as PNG image.*..[ *read more* ](apps/qr-code-generator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qr-code-generator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qr-code-generator) |
 | <img loading="lazy" src="icons/rawtherapee.png" width="48" height="48"> | [***rawtherapee***](apps/rawtherapee.md) | *An advanced raw photo development program.*..[ *read more* ](apps/rawtherapee.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rawtherapee) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rawtherapee) |
+| <img loading="lazy" src="icons/rclone-gui-manager.png" width="48" height="48"> | [***rclone-gui-manager***](apps/rclone-gui-manager.md) | *A simple, modern graphical user interface for managing rclone remotes for Linux.*..[ *read more* ](apps/rclone-gui-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rclone-gui-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rclone-gui-manager) |
 | <img loading="lazy" src="icons/redis-gui.png" width="48" height="48"> | [***redis-gui***](apps/redis-gui.md) | *Modern graphical user interface to peek into redis DB.*..[ *read more* ](apps/redis-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/redis-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/redis-gui) |
 | <img loading="lazy" src="icons/repath-studio.png" width="48" height="48"> | [***repath-studio***](apps/repath-studio.md) | *A cross-platform vector graphics editor.*..[ *read more* ](apps/repath-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/repath-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/repath-studio) |
 | <img loading="lazy" src="icons/ripes.png" width="48" height="48"> | [***ripes***](apps/ripes.md) | *Graphical processor simulator and assembly editor for the RISC-V ISA.*..[ *read more* ](apps/ripes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ripes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ripes) |

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2107** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2108** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1551,6 +1551,7 @@
 | <img loading="lazy" src="icons/rbdl-toolkit.png" width="48" height="48"> | [***rbdl-toolkit***](apps/rbdl-toolkit.md) | *Application for visualizing and working with rbdl models.*..[ *read more* ](apps/rbdl-toolkit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rbdl-toolkit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rbdl-toolkit) |
 | <img loading="lazy" src="icons/rbdoom-3.png" width="48" height="48"> | [***rbdoom-3***](apps/rbdoom-3.md) | *Doom 3 BFG Edition source port with updated DX12/Vulkan renderer.*..[ *read more* ](apps/rbdoom-3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rbdoom-3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rbdoom-3) |
 | <img loading="lazy" src="icons/rclone-browser.png" width="48" height="48"> | [***rclone-browser***](apps/rclone-browser.md) | *Simple cross platform GUI for rclone.*..[ *read more* ](apps/rclone-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rclone-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rclone-browser) |
+| <img loading="lazy" src="icons/rclone-gui-manager.png" width="48" height="48"> | [***rclone-gui-manager***](apps/rclone-gui-manager.md) | *A simple, modern graphical user interface for managing rclone remotes for Linux.*..[ *read more* ](apps/rclone-gui-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rclone-gui-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rclone-gui-manager) |
 | <img loading="lazy" src="icons/rclone-ui.png" width="48" height="48"> | [***rclone-ui***](apps/rclone-ui.md) | *The cross-platform desktop GUI for rclone & S3.*..[ *read more* ](apps/rclone-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rclone-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rclone-ui) |
 | <img loading="lazy" src="icons/reactotron.png" width="48" height="48"> | [***reactotron***](apps/reactotron.md) | *Reactotron desktop mode engage.*..[ *read more* ](apps/reactotron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/reactotron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/reactotron) |
 | <img loading="lazy" src="icons/realm-studio.png" width="48" height="48"> | [***realm-studio***](apps/realm-studio.md) | *A tool for everything Realm.*..[ *read more* ](apps/realm-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/realm-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/realm-studio) |
