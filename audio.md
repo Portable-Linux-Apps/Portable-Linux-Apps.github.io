@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **139** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **140** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -120,6 +120,7 @@
 | <img loading="lazy" src="icons/openaudible.png" width="48" height="48"> | [***openaudible***](apps/openaudible.md) | *Download and manage your Audible audiobooks.*..[ *read more* ](apps/openaudible.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openaudible) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openaudible) |
 | <img loading="lazy" src="icons/openstream-music.png" width="48" height="48"> | [***openstream-music***](apps/openstream-music.md) | *The OpenStream Music source.*..[ *read more* ](apps/openstream-music.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openstream-music) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openstream-music) |
 | <img loading="lazy" src="icons/ossia-score.png" width="48" height="48"> | [***ossia-score***](apps/ossia-score.md) | *Sequencer for audio-visual artists for interactive shows.*..[ *read more* ](apps/ossia-score.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ossia-score) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ossia-score) |
+| <img loading="lazy" src="icons/pano-scrobbler.png" width="48" height="48"> | [***pano-scrobbler***](apps/pano-scrobbler.md) | *Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other compatible services.*..[ *read more* ](apps/pano-scrobbler.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pano-scrobbler) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pano-scrobbler) |
 | <img loading="lazy" src="icons/pathephone.png" width="48" height="48"> | [***pathephone***](apps/pathephone.md) | *Distributed audio player.*..[ *read more* ](apps/pathephone.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pathephone) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pathephone) |
 | <img loading="lazy" src="icons/pavucontrol-qt.png" width="48" height="48"> | [***pavucontrol-qt***](apps/pavucontrol-qt.md) | *Qt port of pavucontrol Pulseaudio mixer, unofficial AppImage.*..[ *read more* ](apps/pavucontrol-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pavucontrol-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pavucontrol-qt) |
 | <img loading="lazy" src="icons/pelusica.png" width="48" height="48"> | [***pelusica***](apps/pelusica.md) | *Action game, control the blue dot with your keyboard/create music.*..[ *read more* ](apps/pelusica.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pelusica) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pelusica) |

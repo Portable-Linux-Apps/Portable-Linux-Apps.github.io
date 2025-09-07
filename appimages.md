@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2106** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2107** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1327,6 +1327,7 @@
 | <img loading="lazy" src="icons/painel-web.png" width="48" height="48"> | [***painel-web***](apps/painel-web.md) | *Novo SGA panel.*..[ *read more* ](apps/painel-web.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/painel-web) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/painel-web) |
 | <img loading="lazy" src="icons/palemoon.png" width="48" height="48"> | [***palemoon***](apps/palemoon.md) | *Web browser, a Firefox fork with a classic UI and modern APIs.*..[ *read more* ](apps/palemoon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/palemoon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/palemoon) |
 | <img loading="lazy" src="icons/panini.png" width="48" height="48"> | [***panini***](apps/panini.md) | *Perspective views from panoramic images.*..[ *read more* ](apps/panini.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/panini) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/panini) |
+| <img loading="lazy" src="icons/pano-scrobbler.png" width="48" height="48"> | [***pano-scrobbler***](apps/pano-scrobbler.md) | *Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other compatible services.*..[ *read more* ](apps/pano-scrobbler.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pano-scrobbler) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pano-scrobbler) |
 | <img loading="lazy" src="icons/panwriter.png" width="48" height="48"> | [***panwriter***](apps/panwriter.md) | *Markdown editor with pandoc integration.*..[ *read more* ](apps/panwriter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/panwriter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/panwriter) |
 | <img loading="lazy" src="icons/paper.png" width="48" height="48"> | [***paper***](apps/paper.md) | *A CLI Tool to set a random wallpaper from Unsplash.com.*..[ *read more* ](apps/paper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/paper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/paper) |
 | <img loading="lazy" src="icons/papercraft.png" width="48" height="48"> | [***papercraft***](apps/papercraft.md) | *A tool to unwrap 3D models.*..[ *read more* ](apps/papercraft.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/papercraft) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/papercraft) |

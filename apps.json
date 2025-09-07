@@ -8105,6 +8105,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/panini.png"
   },
   {
+    "packageName": "pano-scrobbler",
+    "description": "Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other compatible services...",
+    "icon": "https://portable-linux-apps.github.io/icons/pano-scrobbler.png"
+  },
+  {
     "packageName": "panwriter",
     "description": "Markdown editor with pandoc integration...",
     "icon": "https://portable-linux-apps.github.io/icons/panwriter.png"
