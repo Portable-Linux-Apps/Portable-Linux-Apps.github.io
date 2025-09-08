@@ -4930,6 +4930,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/icecat.png"
   },
   {
+    "packageName": "icedrive",
+    "description": "A secure and fast cloud storage with Twofish encryption...",
+    "icon": "https://portable-linux-apps.github.io/icons/icedrive.png"
+  },
+  {
     "packageName": "icestudio",
     "description": "A real gamechanger in the world of Open Source FPGAs...",
     "icon": "https://portable-linux-apps.github.io/icons/icestudio.png"

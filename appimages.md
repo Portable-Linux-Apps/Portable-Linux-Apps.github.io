@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2107** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2108** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -826,6 +826,7 @@
 | <img loading="lazy" src="icons/ibus-rime.png" width="48" height="48"> | [***ibus-rime***](apps/ibus-rime.md) | *Zhongzhou Yun input method, ibus-rime in AppImage format.*..[ *read more* ](apps/ibus-rime.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ibus-rime) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ibus-rime) |
 | <img loading="lazy" src="icons/icalingua++.png" width="48" height="48"> | [***icalingua++***](apps/icalingua++.md) | *A client for QQ and more.*..[ *read more* ](apps/icalingua++.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/icalingua++) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/icalingua++) |
 | <img loading="lazy" src="icons/icecat.png" width="48" height="48"> | [***icecat***](apps/icecat.md) | *GNU IceCat is the GNU version of the Firefox web browser.*..[ *read more* ](apps/icecat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/icecat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/icecat) |
+| <img loading="lazy" src="icons/icedrive.png" width="48" height="48"> | [***icedrive***](apps/icedrive.md) | *A secure and fast cloud storage with Twofish encryption.*..[ *read more* ](apps/icedrive.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/icedrive) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/icedrive) |
 | <img loading="lazy" src="icons/icestudio.png" width="48" height="48"> | [***icestudio***](apps/icestudio.md) | *A real gamechanger in the world of Open Source FPGAs.*..[ *read more* ](apps/icestudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/icestudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/icestudio) |
 | <img loading="lazy" src="icons/igdm.png" width="48" height="48"> | [***igdm***](apps/igdm.md) | *Desktop application for Instagram DMs.*..[ *read more* ](apps/igdm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/igdm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/igdm) |
 | <img loading="lazy" src="icons/iheartradio-webapp.png" width="48" height="48"> | [***iheartradio-webapp***](apps/iheartradio-webapp.md) | *Election WebApp for iHeartRadio.*..[ *read more* ](apps/iheartradio-webapp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/iheartradio-webapp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/iheartradio-webapp) |
