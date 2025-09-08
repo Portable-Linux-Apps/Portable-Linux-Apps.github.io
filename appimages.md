@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2108** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2107** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -419,7 +419,6 @@
 | <img loading="lazy" src="icons/cutter.png" width="48" height="48"> | [***cutter***](apps/cutter.md) | *Free and Open Source Reverse Engineering Platform.*..[ *read more* ](apps/cutter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cutter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cutter) |
 | <img loading="lazy" src="icons/czkawka.png" width="48" height="48"> | [***czkawka***](apps/czkawka.md) | *App to find duplicates, empty folders, similar images etc.*..[ *read more* ](apps/czkawka.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/czkawka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/czkawka) |
 | <img loading="lazy" src="icons/dana.png" width="48" height="48"> | [***dana***](apps/dana.md) | *A desktop client for the Dana learning box.*..[ *read more* ](apps/dana.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dana) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dana) |
-| <img loading="lazy" src="icons/darktable-nightly.png" width="48" height="48"> | [***darktable-nightly***](apps/darktable-nightly.md) | *Photography workflow app and raw developer, nightly.*..[ *read more* ](apps/darktable-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/darktable-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/darktable-nightly) |
 | <img loading="lazy" src="icons/darktable.png" width="48" height="48"> | [***darktable***](apps/darktable.md) | *Photography workflow app and raw developer.*..[ *read more* ](apps/darktable.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/darktable) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/darktable) |
 | <img loading="lazy" src="icons/dashy-app.png" width="48" height="48"> | [***dashy-app***](apps/dashy-app.md) | *Dashboard creation application.*..[ *read more* ](apps/dashy-app.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dashy-app) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dashy-app) |
 | <img loading="lazy" src="icons/database-dossier.png" width="48" height="48"> | [***database-dossier***](apps/database-dossier.md) | *A User Interface for your databases.*..[ *read more* ](apps/database-dossier.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/database-dossier) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/database-dossier) |
