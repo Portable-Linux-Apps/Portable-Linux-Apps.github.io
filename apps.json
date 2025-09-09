@@ -2300,6 +2300,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dana.png"
   },
   {
+    "packageName": "darktable-nightly",
+    "description": "Photography workflow app and raw developer, nightly...",
+    "icon": "https://portable-linux-apps.github.io/icons/darktable-nightly.png"
+  },
+  {
     "packageName": "darktable",
     "description": "Photography workflow app and raw developer...",
     "icon": "https://portable-linux-apps.github.io/icons/darktable.png"

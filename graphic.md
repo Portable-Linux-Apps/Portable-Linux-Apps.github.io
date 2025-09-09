@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **116** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **117** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -49,6 +49,7 @@
 | <img loading="lazy" src="icons/caesium.png" width="48" height="48"> | [***caesium***](apps/caesium.md) | *Image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.*..[ *read more* ](apps/caesium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/caesium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/caesium) |
 | <img loading="lazy" src="icons/chrysalis-bin.png" width="48" height="48"> | [***chrysalis-bin***](apps/chrysalis-bin.md) | *Graphical configurator for Kaleidoscope-powered keyboards.*..[ *read more* ](apps/chrysalis-bin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chrysalis-bin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chrysalis-bin) |
 | <img loading="lazy" src="icons/corepaint.png" width="48" height="48"> | [***corepaint***](apps/corepaint.md) | *A paint app for CuboCore Application Suite.*..[ *read more* ](apps/corepaint.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/corepaint) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/corepaint) |
+| <img loading="lazy" src="icons/darktable-nightly.png" width="48" height="48"> | [***darktable-nightly***](apps/darktable-nightly.md) | *Photography workflow app and raw developer, nightly.*..[ *read more* ](apps/darktable-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/darktable-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/darktable-nightly) |
 | <img loading="lazy" src="icons/darktable.png" width="48" height="48"> | [***darktable***](apps/darktable.md) | *Photography workflow app and raw developer.*..[ *read more* ](apps/darktable.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/darktable) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/darktable) |
 | <img loading="lazy" src="icons/destiny.png" width="48" height="48"> | [***destiny***](apps/destiny.md) | *Cross-platform Magic Wormhole graphical client.*..[ *read more* ](apps/destiny.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/destiny) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/destiny) |
 | <img loading="lazy" src="icons/digikam.png" width="48" height="48"> | [***digikam***](apps/digikam.md) | *Professional and advanced digital photo management application.*..[ *read more* ](apps/digikam.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/digikam) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/digikam) |
