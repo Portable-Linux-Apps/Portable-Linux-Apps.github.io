@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2107** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2108** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1076,6 +1076,7 @@
 | <img loading="lazy" src="icons/media-hoarder.png" width="48" height="48"> | [***media-hoarder***](apps/media-hoarder.md) | *Media Hoarder - THE media frontend for data hoarders and movie lovers*..[ *read more* ](apps/media-hoarder.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/media-hoarder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/media-hoarder) |
 | <img loading="lazy" src="icons/median-xl.png" width="48" height="48"> | [***median-xl***](apps/median-xl.md) | *Launcher for Median XL mod, Diablo II overhaul.*..[ *read more* ](apps/median-xl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/median-xl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/median-xl) |
 | <img loading="lazy" src="icons/mediathekview.png" width="48" height="48"> | [***mediathekview***](apps/mediathekview.md) | *Searches the online media libraries of various broadcasters.*..[ *read more* ](apps/mediathekview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mediathekview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mediathekview) |
+| <img loading="lazy" src="icons/mednafen.png" width="48" height="48"> | [***mednafen***](apps/mednafen.md) | *Unofficial AppImage. Mednafen is a portable, utilizing OpenGL and SDL, argument(command-line)-driven multi-system emulator.*..[ *read more* ](apps/mednafen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mednafen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mednafen) |
 | <img loading="lazy" src="icons/megaglest.png" width="48" height="48"> | [***megaglest***](apps/megaglest.md) | *MegaGlest real-time strategy game engine (cross-platform, 3-d).*..[ *read more* ](apps/megaglest.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/megaglest) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/megaglest) |
 | <img loading="lazy" src="icons/mellowplayer.png" width="48" height="48"> | [***mellowplayer***](apps/mellowplayer.md) | *Cloud music integration for your desktop.*..[ *read more* ](apps/mellowplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mellowplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mellowplayer) |
 | <img loading="lazy" src="icons/melodie.png" width="48" height="48"> | [***melodie***](apps/melodie.md) | *Simple-as-pie music player.*..[ *read more* ](apps/melodie.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/melodie) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/melodie) |

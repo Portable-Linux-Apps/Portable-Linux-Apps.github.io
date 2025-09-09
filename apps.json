@@ -6650,6 +6650,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/mediathekview.png"
   },
   {
+    "packageName": "mednafen",
+    "description": "Unofficial AppImage. Mednafen is a portable, utilizing OpenGL and SDL, argument(command-line)-driven multi-system emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/mednafen.png"
+  },
+  {
     "packageName": "megaglest",
     "description": "MegaGlest real-time strategy game engine (cross-platform, 3-d)...",
     "icon": "https://portable-linux-apps.github.io/icons/megaglest.png"
