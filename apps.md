@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2503** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2504** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2385,6 +2385,7 @@
 | <img loading="lazy" src="icons/uyou.png" width="48" height="48"> | [***uyou***](apps/uyou.md) | *This is a todo list with electron.*..[ *read more* ](apps/uyou.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uyou) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uyou) |
 | <img loading="lazy" src="icons/v2ray-desktop.png" width="48" height="48"> | [***v2ray-desktop***](apps/v2ray-desktop.md) | *V2Ray GUI client for Linux.*..[ *read more* ](apps/v2ray-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/v2ray-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/v2ray-desktop) |
 | <img loading="lazy" src="icons/valeronoi.png" width="48" height="48"> | [***valeronoi***](apps/valeronoi.md) | *Companion app for Valetudo for generating WiFi heat maps.*..[ *read more* ](apps/valeronoi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/valeronoi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/valeronoi) |
+| <img loading="lazy" src="icons/vapour.png" width="48" height="48"> | [***vapour***](apps/vapour.md) | *An alternative open source Steam client.*..[ *read more* ](apps/vapour.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vapour) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vapour) |
 | <img loading="lazy" src="icons/vcloudcam.png" width="48" height="48"> | [***vcloudcam***](apps/vcloudcam.md) | *Solution for the camera systems of gas and fuel stations.*..[ *read more* ](apps/vcloudcam.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vcloudcam) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vcloudcam) |
 | <img loading="lazy" src="icons/vechain.png" width="48" height="48"> | [***vechain***](apps/vechain.md) | *A browser that empowers DApps on VeChain.*..[ *read more* ](apps/vechain.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vechain) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vechain) |
 | <img loading="lazy" src="icons/vegeta.png" width="48" height="48"> | [***vegeta***](apps/vegeta.md) | *HTTP load testing tool and library. It's over 9000!*..[ *read more* ](apps/vegeta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vegeta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vegeta) |

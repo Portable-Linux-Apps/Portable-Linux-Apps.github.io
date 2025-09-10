@@ -11785,6 +11785,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/valeronoi.png"
   },
   {
+    "packageName": "vapour",
+    "description": "An alternative open source Steam client...",
+    "icon": "https://portable-linux-apps.github.io/icons/vapour.png"
+  },
+  {
     "packageName": "vcloudcam",
     "description": "Solution for the camera systems of gas and fuel stations...",
     "icon": "https://portable-linux-apps.github.io/icons/vcloudcam.png"

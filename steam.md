@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **14** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **15** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -45,6 +45,7 @@
 | <img loading="lazy" src="icons/steam-rom-manager.png" width="48" height="48"> | [***steam-rom-manager***](apps/steam-rom-manager.md) | *An app for managing ROMs in Steam.*..[ *read more* ](apps/steam-rom-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steam-rom-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steam-rom-manager) |
 | <img loading="lazy" src="icons/steam-tui.png" width="48" height="48"> | [***steam-tui***](apps/steam-tui.md) | *Rust TUI client for steamcmd.*..[ *read more* ](apps/steam-tui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steam-tui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steam-tui) |
 | <img loading="lazy" src="icons/steam.png" width="48" height="48"> | [***steam***](apps/steam.md) | *Unofficial. The ultimate destination for playing, discussing, and creating games.*..[ *read more* ](apps/steam.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steam) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steam) |
+| <img loading="lazy" src="icons/vapour.png" width="48" height="48"> | [***vapour***](apps/vapour.md) | *An alternative open source Steam client.*..[ *read more* ](apps/vapour.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vapour) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vapour) |
 | <img loading="lazy" src="icons/wlx-overlay-s.png" width="48" height="48"> | [***wlx-overlay-s***](apps/wlx-overlay-s.md) | *Access your Wayland/X11 desktop from Monado/WiVRn/SteamVR.*..[ *read more* ](apps/wlx-overlay-s.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wlx-overlay-s) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wlx-overlay-s) |
 
 

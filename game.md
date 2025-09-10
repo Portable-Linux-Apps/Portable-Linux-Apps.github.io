@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **238** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **239** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -289,6 +289,7 @@
 | <img loading="lazy" src="icons/tzared.png" width="48" height="48"> | [***tzared***](apps/tzared.md) | *Real-time strategy game.*..[ *read more* ](apps/tzared.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tzared) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tzared) |
 | <img loading="lazy" src="icons/ultimmc.png" width="48" height="48"> | [***ultimmc***](apps/ultimmc.md) | *Offline Minecraft launcher.*..[ *read more* ](apps/ultimmc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ultimmc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ultimmc) |
 | <img loading="lazy" src="icons/urbanterror.png" width="48" height="48"> | [***urbanterror***](apps/urbanterror.md) | *A team-based tactical game shooter based on the Quake 3 Engine.*..[ *read more* ](apps/urbanterror.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/urbanterror) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/urbanterror) |
+| <img loading="lazy" src="icons/vapour.png" width="48" height="48"> | [***vapour***](apps/vapour.md) | *An alternative open source Steam client.*..[ *read more* ](apps/vapour.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vapour) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vapour) |
 | <img loading="lazy" src="icons/vgmtrans.png" width="48" height="48"> | [***vgmtrans***](apps/vgmtrans.md) | *A tool to convert proprietary, sequenced videogame music.*..[ *read more* ](apps/vgmtrans.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vgmtrans) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vgmtrans) |
 | <img loading="lazy" src="icons/visipics.png" width="48" height="48"> | [***visipics***](apps/visipics.md) | *Windows software to find and remove duplicate pictures. Unofficial AppImage built using "wine32-deploy" and powered by "wine".*..[ *read more* ](apps/visipics.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/visipics) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/visipics) |
 | <img loading="lazy" src="icons/vita3k.png" width="48" height="48"> | [***vita3k***](apps/vita3k.md) | *Experimental PlayStation Vita emulator.*..[ *read more* ](apps/vita3k.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vita3k) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vita3k) |
