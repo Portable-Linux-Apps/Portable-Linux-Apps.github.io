@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **148** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **149** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -58,6 +58,7 @@
 | <img loading="lazy" src="icons/geforcenow-electron.png" width="48" height="48"> | [***geforcenow-electron***](apps/geforcenow-electron.md) | *Desktop client for Nvidia GeForce NOW game streaming.*..[ *read more* ](apps/geforcenow-electron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/geforcenow-electron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/geforcenow-electron) |
 | <img loading="lazy" src="icons/gifcurry.png" width="48" height="48"> | [***gifcurry***](apps/gifcurry.md) | *The open-source, Haskell-built video editor for GIF makers.*..[ *read more* ](apps/gifcurry.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gifcurry) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gifcurry) |
 | <img loading="lazy" src="icons/gl-warp2mp4.png" width="48" height="48"> | [***gl-warp2mp4***](apps/gl-warp2mp4.md) | *Utility to pre-warp a movie similar to TGAWarp.*..[ *read more* ](apps/gl-warp2mp4.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gl-warp2mp4) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gl-warp2mp4) |
+| <img loading="lazy" src="icons/gozen.png" width="48" height="48"> | [***gozen***](apps/gozen.md) | *A lightweight, stable, minimalistic and performant video editor with simplicity in mind.*..[ *read more* ](apps/gozen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gozen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gozen) |
 | <img loading="lazy" src="icons/greenlight.png" width="48" height="48"> | [***greenlight***](apps/greenlight.md) | *Client for xCloud and Xbox home streaming made in Typescript.*..[ *read more* ](apps/greenlight.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/greenlight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/greenlight) |
 | <img loading="lazy" src="icons/gridplayer.png" width="48" height="48"> | [***gridplayer***](apps/gridplayer.md) | *Play videos side-by-side.*..[ *read more* ](apps/gridplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gridplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gridplayer) |
 | <img loading="lazy" src="icons/gyroflow.png" width="48" height="48"> | [***gyroflow***](apps/gyroflow.md) | *Video stabilization using gyroscope data.*..[ *read more* ](apps/gyroflow.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gyroflow) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gyroflow) |

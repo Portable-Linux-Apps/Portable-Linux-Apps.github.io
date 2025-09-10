@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2502** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2503** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -923,6 +923,7 @@
 | <img loading="lazy" src="icons/gotimer.png" width="48" height="48"> | [***gotimer***](apps/gotimer.md) | *A simple terminal based digital timer for Pomodoro.*..[ *read more* ](apps/gotimer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gotimer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gotimer) |
 | <img loading="lazy" src="icons/goto.png" width="48" height="48"> | [***goto***](apps/goto.md) | *A simple terminal SSH manager that lists favorite SSH servers.*..[ *read more* ](apps/goto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/goto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/goto) |
 | <img loading="lazy" src="icons/goverlay.png" width="48" height="48"> | [***goverlay***](apps/goverlay.md) | *An opensource project that aims to create a Graphical UI to help manage Linux overlays.*..[ *read more* ](apps/goverlay.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/goverlay) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/goverlay) |
+| <img loading="lazy" src="icons/gozen.png" width="48" height="48"> | [***gozen***](apps/gozen.md) | *A lightweight, stable, minimalistic and performant video editor with simplicity in mind.*..[ *read more* ](apps/gozen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gozen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gozen) |
 | <img loading="lazy" src="icons/gpg-tui.png" width="48" height="48"> | [***gpg-tui***](apps/gpg-tui.md) | *CLI, manage your GnuPG keys with ease!*..[ *read more* ](apps/gpg-tui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gpg-tui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gpg-tui) |
 | <img loading="lazy" src="icons/gpgfrontend.png" width="48" height="48"> | [***gpgfrontend***](apps/gpgfrontend.md) | *A Cross-Platform OpenPGP Frontend Software.*..[ *read more* ](apps/gpgfrontend.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gpgfrontend) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gpgfrontend) |
 | <img loading="lazy" src="icons/gping.png" width="48" height="48"> | [***gping***](apps/gping.md) | *Ping, but with a graph.*..[ *read more* ](apps/gping.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gping) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gping) |

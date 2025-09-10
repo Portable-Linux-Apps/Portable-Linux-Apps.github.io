@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2109** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2110** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -754,6 +754,7 @@
 | <img loading="lazy" src="icons/gopeed.png" width="48" height="48"> | [***gopeed***](apps/gopeed.md) | *A modern download manager that supports all platforms.*..[ *read more* ](apps/gopeed.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gopeed) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gopeed) |
 | <img loading="lazy" src="icons/gospel.png" width="48" height="48"> | [***gospel***](apps/gospel.md) | *Poppler based fast pdf viewer written in PyQt5.*..[ *read more* ](apps/gospel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gospel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gospel) |
 | <img loading="lazy" src="icons/goverlay.png" width="48" height="48"> | [***goverlay***](apps/goverlay.md) | *An opensource project that aims to create a Graphical UI to help manage Linux overlays.*..[ *read more* ](apps/goverlay.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/goverlay) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/goverlay) |
+| <img loading="lazy" src="icons/gozen.png" width="48" height="48"> | [***gozen***](apps/gozen.md) | *A lightweight, stable, minimalistic and performant video editor with simplicity in mind.*..[ *read more* ](apps/gozen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gozen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gozen) |
 | <img loading="lazy" src="icons/gpgfrontend.png" width="48" height="48"> | [***gpgfrontend***](apps/gpgfrontend.md) | *A Cross-Platform OpenPGP Frontend Software.*..[ *read more* ](apps/gpgfrontend.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gpgfrontend) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gpgfrontend) |
 | <img loading="lazy" src="icons/gpredict.png" width="48" height="48"> | [***gpredict***](apps/gpredict.md) | *A satellite tracking application.*..[ *read more* ](apps/gpredict.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gpredict) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gpredict) |
 | <img loading="lazy" src="icons/gpt-anywhere.png" width="48" height="48"> | [***gpt-anywhere***](apps/gpt-anywhere.md) | *Use GPT anywhere with just one shortcut.*..[ *read more* ](apps/gpt-anywhere.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gpt-anywhere) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gpt-anywhere) |
