@@ -45,6 +45,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/aaaaxy.png"
   },
   {
+    "packageName": "ab-download-manager",
+    "description": "A Download Manager that speeds up your downloads...",
+    "icon": "https://portable-linux-apps.github.io/icons/ab-download-manager.png"
+  },
+  {
     "packageName": "abiword",
     "description": "Unofficial. A light and free word processing software...",
     "icon": "https://portable-linux-apps.github.io/icons/abiword.png"
