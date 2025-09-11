@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2111** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2110** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -109,7 +109,6 @@
 | <img loading="lazy" src="icons/appimage-builder.png" width="48" height="48"> | [***appimage-builder***](apps/appimage-builder.md) | *GNU/Linux packaging solution using the AppImage format.*..[ *read more* ](apps/appimage-builder.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/appimage-builder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/appimage-builder) |
 | <img loading="lazy" src="icons/appimagecraft.png" width="48" height="48"> | [***appimagecraft***](apps/appimagecraft.md) | *Powerful build script generator with a focus on AppImages.*..[ *read more* ](apps/appimagecraft.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/appimagecraft) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/appimagecraft) |
 | <img loading="lazy" src="icons/appimage-creator.png" width="48" height="48"> | [***appimage-creator***](apps/appimage-creator.md) | *GUI for easily generating AppImage packages on Linux.*..[ *read more* ](apps/appimage-creator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/appimage-creator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/appimage-creator) |
-| <img loading="lazy" src="icons/appimagehelper.png" width="48" height="48"> | [***appimagehelper***](apps/appimagehelper.md) | *Create and organize shortcuts for AppImages.*..[ *read more* ](apps/appimagehelper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/appimagehelper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/appimagehelper) |
 | <img loading="lazy" src="icons/appimagelauncher.png" width="48" height="48"> | [***appimagelauncher***](apps/appimagelauncher.md) | *CLI helper for running and integrating AppImages.*..[ *read more* ](apps/appimagelauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/appimagelauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/appimagelauncher) |
 | <img loading="lazy" src="icons/appimagelint.png" width="48" height="48"> | [***appimagelint***](apps/appimagelint.md) | *Check AppImages for compatibility, best practices etc.*..[ *read more* ](apps/appimagelint.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/appimagelint) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/appimagelint) |
 | <img loading="lazy" src="icons/appimagepool.png" width="48" height="48"> | [***appimagepool***](apps/appimagepool.md) | *A simple, modern AppImageHub Client, powered by flutter.*..[ *read more* ](apps/appimagepool.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/appimagepool) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/appimagepool) |
