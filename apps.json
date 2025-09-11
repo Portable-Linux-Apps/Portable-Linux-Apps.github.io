@@ -11340,6 +11340,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/tipitaka-pali-reader.png"
   },
   {
+    "packageName": "tixati",
+    "description": "A New and Powerful P2P System 100% Free, Simple and Easy to Use Bittorrent Client...",
+    "icon": "https://portable-linux-apps.github.io/icons/tixati.png"
+  },
+  {
     "packageName": "tlock",
     "description": "Two-Factor Authentication Tokens Manager in Terminal...",
     "icon": "https://portable-linux-apps.github.io/icons/tlock.png"
