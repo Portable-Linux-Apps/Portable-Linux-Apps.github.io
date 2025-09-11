@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2110** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2109** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -679,7 +679,6 @@
 | <img loading="lazy" src="icons/fukayo.png" width="48" height="48"> | [***fukayo***](apps/fukayo.md) | *Manga reader.*..[ *read more* ](apps/fukayo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fukayo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fukayo) |
 | <img loading="lazy" src="icons/funterm.png" width="48" height="48"> | [***funterm***](apps/funterm.md) | *A Linux Terminal Emulator.*..[ *read more* ](apps/funterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/funterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/funterm) |
 | <img loading="lazy" src="icons/gaiasky.png" width="48" height="48"> | [***gaiasky***](apps/gaiasky.md) | *Gaia Sky, a real-time 3D space simulator & astronomy visualisation.*..[ *read more* ](apps/gaiasky.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gaiasky) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gaiasky) |
-| <img loading="lazy" src="icons/galacteek.png" width="48" height="48"> | [***galacteek***](apps/galacteek.md) | *IPFS Multi-platform browser for the distributed web.*..[ *read more* ](apps/galacteek.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/galacteek) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/galacteek) |
 | <img loading="lazy" src="icons/gameconqueror.png" width="48" height="48"> | [***gameconqueror***](apps/gameconqueror.md) | *Unofficial. Memory scanner designed to isolate the adress of an arbitrary variable in an executing process (gtk GUI).*..[ *read more* ](apps/gameconqueror.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gameconqueror) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gameconqueror) |
 | <img loading="lazy" src="icons/gamehub.png" width="48" height="48"> | [***gamehub***](apps/gamehub.md) | *Unified library for all your games from different platforms.*..[ *read more* ](apps/gamehub.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gamehub) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gamehub) |
 | <img loading="lazy" src="icons/gams-studio.png" width="48" height="48"> | [***gams-studio***](apps/gams-studio.md) | *Development environment of General Algebraic Modeling System.*..[ *read more* ](apps/gams-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gams-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gams-studio) |

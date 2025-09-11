@@ -3950,11 +3950,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/gaiasky.png"
   },
   {
-    "packageName": "galacteek",
-    "description": "IPFS Multi-platform browser for the distributed web...",
-    "icon": "https://portable-linux-apps.github.io/icons/galacteek.png"
-  },
-  {
     "packageName": "gallery-dl",
     "description": "Command-line program to download image galleries and collections...",
     "icon": "https://portable-linux-apps.github.io/icons/gallery-dl.png"
