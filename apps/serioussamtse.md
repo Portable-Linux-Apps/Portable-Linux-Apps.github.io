@@ -1,4 +1,4 @@
-# SERIOUSSAMTSE-VK
+# SERIOUSSAMTSE
 
  Open source game engine version developed by Croteam for Serious Sam Classic (Windows, Linux, FreeBSD,  OpenBSD, macOS, Raspberry Pi OS).
  

@@ -1,4 +1,4 @@
-# DEFI-APP-BIN
+# DEFICHAIN-APP
  
  DefiChain Wallet AppImage
  
