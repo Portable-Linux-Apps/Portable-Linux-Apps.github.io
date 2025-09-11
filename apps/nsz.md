@@ -1,4 +1,4 @@
-# TRANSMISSION-QT
+# NSZ
 
  Unofficial, Homebrew compatible NSP/XCI compressor/decompressor.
 
