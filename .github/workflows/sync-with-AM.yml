@@ -35,7 +35,6 @@ jobs:
           if [ -n "$AMD64_LIST" ] && echo "$AMD64_LIST" 2>/dev/null | grep -q "^◆ "; then
 
             MDS=$(ls apps/* | sed 's:.*/::; s/.md$//g')
-            PNGS=$(ls icons/* | sed 's:.*/::; s/.png$//g')
             for m in $MDS; do
               if ! echo "$AMD64_LIST" 2>/dev/null | grep -q "◆ $m :"; then
                 rm -f "apps/$m.md"
@@ -43,12 +42,13 @@ jobs:
               fi
             done
 
-            for p in $PNGS; do
-              if ! echo "$AMD64_LIST" 2>/dev/null | grep -q "◆ $p :"; then
-                rm -f "icons/$p.png"
-                echo "Removed icons/$p.png"
-              fi
-            done
+            #PNGS=$(ls icons/* | sed 's:.*/::; s/.png$//g')
+            #for p in $PNGS; do
+            #  if ! echo "$AMD64_LIST" 2>/dev/null | grep -q "◆ $p :"; then
+            #    rm -f "icons/$p.png"
+            #    echo "Removed icons/$p.png"
+            #  fi
+            #done
 
           fi
 
@@ -67,7 +67,13 @@ jobs:
 
                   if echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep -q "^SITE="; then
                     site_ref=$(echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep "^SITE=" | head -1 | awk -F'"' '$0=$2')
-                    if echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep -q "^version=.*curl .*codeberg.org"; then
+                    if [ -z "$site_ref" ]; then
+                      if echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep -q "^version=.*curl .*api.github.com"; then
+                        SITE=$(echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep "^version" | grep -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*" | head -1 | sed 's#//api.#//#g; s#/repos/#/#g; s#/releases.*##')
+                      else
+                        SITE=$(echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep "^version" | grep -Eo "(http|https)://[a-zA-Z0-9.?=_%:-]*" | head -1)
+                      fi
+                    elif echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep -q "^version=.*curl .*codeberg.org"; then
                       SITE="https://codeberg.org/$site_ref"
                     elif echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep -q "^version=.*curl .*api.github.com" || ! echo "$site_ref" 2>/dev/null | grep -q "^http://\|^https://\|^ftp://"; then
                       SITE="https://github.com/$site_ref"
