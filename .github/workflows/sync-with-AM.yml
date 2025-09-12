@@ -35,7 +35,6 @@ jobs:
           if [ -n "$AMD64_LIST" ] && echo "$AMD64_LIST" 2>/dev/null | grep -q "^◆ "; then
 
             MDS=$(ls apps/* | sed 's:.*/::; s/.md$//g')
-            PNGS=$(ls icons/* | sed 's:.*/::; s/.png$//g')
             for m in $MDS; do
               if ! echo "$AMD64_LIST" 2>/dev/null | grep -q "◆ $m :"; then
                 rm -f "apps/$m.md"
@@ -43,12 +42,13 @@ jobs:
               fi
             done
 
-            for p in $PNGS; do
-              if ! echo "$AMD64_LIST" 2>/dev/null | grep -q "◆ $p :"; then
-                rm -f "icons/$p.png"
-                echo "Removed icons/$p.png"
-              fi
-            done
+            #PNGS=$(ls icons/* | sed 's:.*/::; s/.png$//g')
+            #for p in $PNGS; do
+            #  if ! echo "$AMD64_LIST" 2>/dev/null | grep -q "◆ $p :"; then
+            #    rm -f "icons/$p.png"
+            #    echo "Removed icons/$p.png"
+            #  fi
+            #done
 
           fi
 
