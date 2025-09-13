@@ -7565,6 +7565,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/nuclino.png"
   },
   {
+    "packageName": "mame",
+    "description": "Unofficial AppImage of MAME emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/mame.png"
+  },
+  {
     "packageName": "numara",
     "description": "Simple notepad calculator built on Electron...",
     "icon": "https://portable-linux-apps.github.io/icons/numara.png"

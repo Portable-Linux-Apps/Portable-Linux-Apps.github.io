@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2109** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2110** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1236,6 +1236,7 @@
 | <img loading="lazy" src="icons/nuclear.png" width="48" height="48"> | [***nuclear***](apps/nuclear.md) | *Streaming music player that finds free music for you.*..[ *read more* ](apps/nuclear.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nuclear) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nuclear) |
 | <img loading="lazy" src="icons/nuclia.png" width="48" height="48"> | [***nuclia***](apps/nuclia.md) | *A low-code API to build an AI multi-language semantic search engine.*..[ *read more* ](apps/nuclia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nuclia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nuclia) |
 | <img loading="lazy" src="icons/nuclino.png" width="48" height="48"> | [***nuclino***](apps/nuclino.md) | *Bring knowledge, docs, and projects together in one place.*..[ *read more* ](apps/nuclino.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nuclino) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nuclino) |
+| <img loading="lazy" src="icons/mame.png" width="48" height="48"> | [***mame***](apps/mame.md) | *Unofficial AppImage of MAME emulator.*..[ *read more* ](apps/mame.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mame) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mame) |
 | <img loading="lazy" src="icons/numara.png" width="48" height="48"> | [***numara***](apps/numara.md) | *Simple notepad calculator built on Electron.*..[ *read more* ](apps/numara.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/numara) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/numara) |
 | <img loading="lazy" src="icons/nvim.png" width="48" height="48"> | [***nvim***](apps/nvim.md) | *NeoVim, Vim fork focused on extensibility and usability.*..[ *read more* ](apps/nvim.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nvim) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nvim) |
 | <img loading="lazy" src="icons/nvim-nightly.png" width="48" height="48"> | [***nvim-nightly***](apps/nvim-nightly.md) | *NeoVim, Vim fork, the most recent development build.*..[ *read more* ](apps/nvim-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nvim-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nvim-nightly) |

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2503** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2504** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1311,6 +1311,7 @@
 | <img loading="lazy" src="icons/makagiga.png" width="48" height="48"> | [***makagiga***](apps/makagiga.md) | *To-do manager, notepad, RSS reader and much more.*..[ *read more* ](apps/makagiga.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/makagiga) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/makagiga) |
 | <img loading="lazy" src="icons/makoureactor.png" width="48" height="48"> | [***makoureactor***](apps/makoureactor.md) | *Can edit field from Final Fantasy VII, PS & PC.*..[ *read more* ](apps/makoureactor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/makoureactor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/makoureactor) |
 | <img loading="lazy" src="icons/malice.png" width="48" height="48"> | [***malice***](apps/malice.md) | *GUI Programming Tool for iCE40.*..[ *read more* ](apps/malice.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/malice) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/malice) |
+| <img loading="lazy" src="icons/mame.png" width="48" height="48"> | [***mame***](apps/mame.md) | *Unofficial AppImage of MAME emulator.*..[ *read more* ](apps/mame.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mame) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mame) |
 | <img loading="lazy" src="icons/manager-io.png" width="48" height="48"> | [***manager-io***](apps/manager-io.md) | *Free Accounting Software for Linux, Server.*..[ *read more* ](apps/manager-io.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/manager-io) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/manager-io) |
 | <img loading="lazy" src="icons/mandelbulber2.png" width="48" height="48"> | [***mandelbulber2***](apps/mandelbulber2.md) | *Explore trigonometric, hyper-complex and other 3D fractals.*..[ *read more* ](apps/mandelbulber2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mandelbulber2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mandelbulber2) |
 | <img loading="lazy" src="icons/manga-tui.png" width="48" height="48"> | [***manga-tui***](apps/manga-tui.md) | *Terminal-based manga reader and downloader with image support.*..[ *read more* ](apps/manga-tui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/manga-tui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/manga-tui) |
