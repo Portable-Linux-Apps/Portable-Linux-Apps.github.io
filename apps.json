@@ -5950,6 +5950,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/labplot.png"
   },
   {
+    "packageName": "ladybird",
+    "description": "A truly independent web browser, using a novel engine based on web standards...",
+    "icon": "https://portable-linux-apps.github.io/icons/ladybird.png"
+  },
+  {
     "packageName": "lagrange",
     "description": "A Beautiful Gemini Client...",
     "icon": "https://portable-linux-apps.github.io/icons/lagrange.png"

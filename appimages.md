@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2112** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2113** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -953,6 +953,7 @@
 | <img loading="lazy" src="icons/kuro.png" width="48" height="48"> | [***kuro***](apps/kuro.md) | *An elegant Microsoft ToDo desktop client for Linux, a fork of Ao.*..[ *read more* ](apps/kuro.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kuro) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kuro) |
 | <img loading="lazy" src="icons/kwave.png" width="48" height="48"> | [***kwave***](apps/kwave.md) | *A sound & audio editor designed for the KDE Desktop Environment.*..[ *read more* ](apps/kwave.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kwave) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kwave) |
 | <img loading="lazy" src="icons/labplot.png" width="48" height="48"> | [***labplot***](apps/labplot.md) | *Data Visualization and Analysis software accessible to everyone and trusted by professionals.*..[ *read more* ](apps/labplot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/labplot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/labplot) |
+| <img loading="lazy" src="icons/ladybird.png" width="48" height="48"> | [***ladybird***](apps/ladybird.md) | *A truly independent web browser, using a novel engine based on web standards.*..[ *read more* ](apps/ladybird.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ladybird) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ladybird) |
 | <img loading="lazy" src="icons/lagrange.png" width="48" height="48"> | [***lagrange***](apps/lagrange.md) | *A Beautiful Gemini Client.*..[ *read more* ](apps/lagrange.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lagrange) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lagrange) |
 | <img loading="lazy" src="icons/laidout.png" width="48" height="48"> | [***laidout***](apps/laidout.md) | *Laidout, desktop publishing software*..[ *read more* ](apps/laidout.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/laidout) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/laidout) |
 | <img loading="lazy" src="icons/laigter.png" width="48" height="48"> | [***laigter***](apps/laigter.md) | *Tool to generate normal/specular/occlussion/parallax 2D maps.*..[ *read more* ](apps/laigter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/laigter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/laigter) |
