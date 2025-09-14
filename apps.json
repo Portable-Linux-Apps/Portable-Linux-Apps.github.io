@@ -1770,6 +1770,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/clementineremote.png"
   },
   {
+    "packageName": "clementine",
+    "description": "Unofficial AppImage of the Clementine music player...",
+    "icon": "https://portable-linux-apps.github.io/icons/clementine.png"
+  },
+  {
     "packageName": "clifm",
     "description": "The shell-like, command line terminal file manager simple, fast, extensible, and lightweight as hell...",
     "icon": "https://portable-linux-apps.github.io/icons/clifm.png"
@@ -4320,6 +4325,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gnome-pomodoro.png"
   },
   {
+    "packageName": "gnome-text-editor",
+    "description": "Unofficial AppImage of the Gnome's Text Editor application...",
+    "icon": "https://portable-linux-apps.github.io/icons/gnome-text-editor.png"
+  },
+  {
     "packageName": "gnome-tweaks",
     "description": "Unofficial, Experimental AppImage port of advanced GNOME 3 settings GUI...",
     "icon": "https://portable-linux-apps.github.io/icons/gnome-tweaks.png"
@@ -6410,6 +6420,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/malice.png"
   },
   {
+    "packageName": "mame",
+    "description": "Unofficial AppImage of MAME emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/mame.png"
+  },
+  {
     "packageName": "manager-io",
     "description": "Free Accounting Software for Linux, Server...",
     "icon": "https://portable-linux-apps.github.io/icons/manager-io.png"
@@ -7563,11 +7578,6 @@
     "packageName": "nuclino",
     "description": "Bring knowledge, docs, and projects together in one place...",
     "icon": "https://portable-linux-apps.github.io/icons/nuclino.png"
-  },
-  {
-    "packageName": "mame",
-    "description": "Unofficial AppImage of MAME emulator...",
-    "icon": "https://portable-linux-apps.github.io/icons/mame.png"
   },
   {
     "packageName": "numara",
