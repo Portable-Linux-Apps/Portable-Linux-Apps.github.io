@@ -11640,11 +11640,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/typioca.png"
   },
   {
-    "packageName": "tzared",
-    "description": "Real-time strategy game...",
-    "icon": "https://portable-linux-apps.github.io/icons/tzared.png"
-  },
-  {
     "packageName": "uad-ng",
     "description": "GUI Rust wrapper for ADB to debloat non-rooted Android devices...",
     "icon": "https://portable-linux-apps.github.io/icons/uad-ng.png"

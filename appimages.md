@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2113** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2112** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1929,7 +1929,6 @@
 | <img loading="lazy" src="icons/tweet-tray.png" width="48" height="48"> | [***tweet-tray***](apps/tweet-tray.md) | *Tweet quickly from the desktop without any distractions.*..[ *read more* ](apps/tweet-tray.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tweet-tray) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tweet-tray) |
 | <img loading="lazy" src="icons/twetter.png" width="48" height="48"> | [***twetter***](apps/twetter.md) | *Client for the pubsub app.*..[ *read more* ](apps/twetter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/twetter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/twetter) |
 | <img loading="lazy" src="icons/twitch-wrapper.png" width="48" height="48"> | [***twitch-wrapper***](apps/twitch-wrapper.md) | *An Electron wrapper for Twitch.tv.*..[ *read more* ](apps/twitch-wrapper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/twitch-wrapper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/twitch-wrapper) |
-| <img loading="lazy" src="icons/tzared.png" width="48" height="48"> | [***tzared***](apps/tzared.md) | *Real-time strategy game.*..[ *read more* ](apps/tzared.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tzared) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tzared) |
 | <img loading="lazy" src="icons/ubiquity.png" width="48" height="48"> | [***ubiquity***](apps/ubiquity.md) | *A cross-platform markdown editor.*..[ *read more* ](apps/ubiquity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ubiquity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ubiquity) |
 | <img loading="lazy" src="icons/ubports-installer.png" width="48" height="48"> | [***ubports-installer***](apps/ubports-installer.md) | *A simple tool to install Ubuntu Touch on UBports devices*..[ *read more* ](apps/ubports-installer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ubports-installer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ubports-installer) |
 | <img loading="lazy" src="icons/uhk.agent.png" width="48" height="48"> | [***uhk.agent***](apps/uhk.agent.md) | *Configuration app of the Ultimate Hacking Keyboard.*..[ *read more* ](apps/uhk.agent.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uhk.agent) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uhk.agent) |
