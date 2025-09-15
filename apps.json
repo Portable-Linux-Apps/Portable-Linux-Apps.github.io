@@ -7700,11 +7700,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/oh.png"
   },
   {
-    "packageName": "oh-my-git",
-    "description": "An open source game about learning Git!..",
-    "icon": "https://portable-linux-apps.github.io/icons/oh-my-git.png"
-  },
-  {
     "packageName": "oh-mymd",
     "description": "A markdown editor,support cloud sync...",
     "icon": "https://portable-linux-apps.github.io/icons/oh-mymd.png"

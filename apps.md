@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2506** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2505** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1567,7 +1567,6 @@
 | <img loading="lazy" src="icons/ocvvid2fulldome.png" width="48" height="48"> | [***ocvvid2fulldome***](apps/ocvvid2fulldome.md) | *Take flat videos, distort them to fit fulldome.*..[ *read more* ](apps/ocvvid2fulldome.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ocvvid2fulldome) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ocvvid2fulldome) |
 | <img loading="lazy" src="icons/ocvwarp.png" width="48" height="48"> | [***ocvwarp***](apps/ocvwarp.md) | *Warping images and videos for planetarium fulldome display.*..[ *read more* ](apps/ocvwarp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ocvwarp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ocvwarp) |
 | <img loading="lazy" src="icons/odicto.png" width="48" height="48"> | [***odicto***](apps/odicto.md) | *An offline English dictionary app for desktop.*..[ *read more* ](apps/odicto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/odicto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/odicto) |
-| <img loading="lazy" src="icons/oh-my-git.png" width="48" height="48"> | [***oh-my-git***](apps/oh-my-git.md) | *An open source game about learning Git!*..[ *read more* ](apps/oh-my-git.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/oh-my-git) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/oh-my-git) |
 | <img loading="lazy" src="icons/oh-mymd.png" width="48" height="48"> | [***oh-mymd***](apps/oh-mymd.md) | *A markdown editor,support cloud sync.*..[ *read more* ](apps/oh-mymd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/oh-mymd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/oh-mymd) |
 | <img loading="lazy" src="icons/oh.png" width="48" height="48"> | [***oh***](apps/oh.md) | *A new Unix shell.*..[ *read more* ](apps/oh.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/oh) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/oh) |
 | <img loading="lazy" src="icons/olive-legacy.png" width="48" height="48"> | [***olive-legacy***](apps/olive-legacy.md) | *Free non-linear video editor, version 0.1.*..[ *read more* ](apps/olive-legacy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/olive-legacy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/olive-legacy) |
