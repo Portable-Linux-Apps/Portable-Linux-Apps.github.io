@@ -1,0 +1,49 @@
+name: "Remove icons"
+
+# Icons are retained with the hope that deleted apps will be reintroduced in the future.
+# This workflow is included in the main one but disabled. Use this if orphaned icons are too many.
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  sync-files:
+    name: "Run sync"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Checkout source repository"
+        uses: actions/checkout@v4
+
+      - name: "Remove unneeded icons"
+        run: |
+          AMD64_LIST=$(curl -Ls https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64-apps)
+          if [ -n "$AMD64_LIST" ] && echo "$AMD64_LIST" 2>/dev/null | grep -q "^◆ "; then
+
+            PNGS=$(ls icons/* | sed 's:.*/::; s/.png$//g')
+            for p in $PNGS; do
+              if ! echo "$AMD64_LIST" 2>/dev/null | grep -q "◆ $p :"; then
+                rm -f "icons/$p.png"
+                echo "Removed icons/$p.png"
+              fi
+            done
+
+          fi
+
+      - name: "Push to Source"
+        run: |
+          git config --global user.name "Portable-Linux-Apps"
+          git config --global user.email "noreply@github.com"
+          git add icons
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit." >> $GITHUB_STEP_SUMMARY
+          else
+            git commit -m "Remove extra icon/icons"
+            git push && echo "Sync to Source succeeded" >> $GITHUB_STEP_SUMMARY
+          fi
