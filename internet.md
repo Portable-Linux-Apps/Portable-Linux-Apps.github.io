@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **173** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **172** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -142,7 +142,6 @@
 | <img loading="lazy" src="icons/p2pderivatives.png" width="48" height="48"> | [***p2pderivatives***](apps/p2pderivatives.md) | *Enables users to enter into Discreet Log Contracts.*..[ *read more* ](apps/p2pderivatives.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/p2pderivatives) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/p2pderivatives) |
 | <img loading="lazy" src="icons/palemoon.png" width="48" height="48"> | [***palemoon***](apps/palemoon.md) | *Web browser, a Firefox fork with a classic UI and modern APIs.*..[ *read more* ](apps/palemoon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/palemoon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/palemoon) |
 | <img loading="lazy" src="icons/playme.png" width="48" height="48"> | [***playme***](apps/playme.md) | *Elegant YouTube Music desktop app.*..[ *read more* ](apps/playme.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playme) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playme) |
-| <img loading="lazy" src="icons/popcorn.png" width="48" height="48"> | [***popcorn***](apps/popcorn.md) | *BitTorrent client with integrated media player.*..[ *read more* ](apps/popcorn.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/popcorn) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/popcorn) |
 | <img loading="lazy" src="icons/pop.png" width="48" height="48"> | [***pop***](apps/pop.md) | *Send emails from your terminal.*..[ *read more* ](apps/pop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pop) |
 | <img loading="lazy" src="icons/promethium.png" width="48" height="48"> | [***promethium***](apps/promethium.md) | *Extensible and innovative web browser with built-in AdBlock.*..[ *read more* ](apps/promethium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/promethium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/promethium) |
 | <img loading="lazy" src="icons/qbittorrent.png" width="48" height="48"> | [***qbittorrent***](apps/qbittorrent.md) | *A powerful QT-based Bittorrent Client, official AppImage.*..[ *read more* ](apps/qbittorrent.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qbittorrent) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qbittorrent) |

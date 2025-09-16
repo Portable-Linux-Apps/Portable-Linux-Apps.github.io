@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **149** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **148** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -112,7 +112,6 @@
 | <img loading="lazy" src="icons/phreshplayer.png" width="48" height="48"> | [***phreshplayer***](apps/phreshplayer.md) | *Electron based media player app.*..[ *read more* ](apps/phreshplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/phreshplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/phreshplayer) |
 | <img loading="lazy" src="icons/playerctl.png" width="48" height="48"> | [***playerctl***](apps/playerctl.md) | *Unofficial, MPRIS media player command-line controller.*..[ *read more* ](apps/playerctl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playerctl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playerctl) |
 | <img loading="lazy" src="icons/playme.png" width="48" height="48"> | [***playme***](apps/playme.md) | *Elegant YouTube Music desktop app.*..[ *read more* ](apps/playme.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playme) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playme) |
-| <img loading="lazy" src="icons/popcorn.png" width="48" height="48"> | [***popcorn***](apps/popcorn.md) | *BitTorrent client with integrated media player.*..[ *read more* ](apps/popcorn.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/popcorn) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/popcorn) |
 | <img loading="lazy" src="icons/positron.png" width="48" height="48"> | [***positron***](apps/positron.md) | *Manage your movie and show watchlist.*..[ *read more* ](apps/positron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/positron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/positron) |
 | <img loading="lazy" src="icons/pstube.png" width="48" height="48"> | [***pstube***](apps/pstube.md) | *Watch and download videos without ads.*..[ *read more* ](apps/pstube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pstube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pstube) |
 | <img loading="lazy" src="icons/qmplay2.png" width="48" height="48"> | [***qmplay2***](apps/qmplay2.md) | *Video and audio player whit support of most formats and codecs.*..[ *read more* ](apps/qmplay2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmplay2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmplay2) |

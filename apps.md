@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2505** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2504** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1776,7 +1776,6 @@
 | <img loading="lazy" src="icons/pomodorolm.png" width="48" height="48"> | [***pomodorolm***](apps/pomodorolm.md) | *A simple, good looking and multi-platform pomodoro tracker.*..[ *read more* ](apps/pomodorolm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pomodorolm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pomodorolm) |
 | <img loading="lazy" src="icons/pomotroid.png" width="48" height="48"> | [***pomotroid***](apps/pomotroid.md) | *Simple and visually-pleasing Pomodoro timer.*..[ *read more* ](apps/pomotroid.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pomotroid) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pomotroid) |
 | <img loading="lazy" src="icons/pop.png" width="48" height="48"> | [***pop***](apps/pop.md) | *Send emails from your terminal.*..[ *read more* ](apps/pop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pop) |
-| <img loading="lazy" src="icons/popcorn.png" width="48" height="48"> | [***popcorn***](apps/popcorn.md) | *BitTorrent client with integrated media player.*..[ *read more* ](apps/popcorn.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/popcorn) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/popcorn) |
 | <img loading="lazy" src="icons/popsicle.png" width="48" height="48"> | [***popsicle***](apps/popsicle.md) | *Multiple USB File Flasher.*..[ *read more* ](apps/popsicle.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/popsicle) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/popsicle) |
 | <img loading="lazy" src="icons/positron.png" width="48" height="48"> | [***positron***](apps/positron.md) | *Manage your movie and show watchlist.*..[ *read more* ](apps/positron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/positron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/positron) |
 | <img loading="lazy" src="icons/postcat.png" width="48" height="48"> | [***postcat***](apps/postcat.md) | *An extensible API tool.*..[ *read more* ](apps/postcat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/postcat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/postcat) |

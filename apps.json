@@ -8735,11 +8735,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/pomotroid.png"
   },
   {
-    "packageName": "popcorn",
-    "description": "BitTorrent client with integrated media player...",
-    "icon": "https://portable-linux-apps.github.io/icons/popcorn.png"
-  },
-  {
     "packageName": "pop",
     "description": "Send emails from your terminal...",
     "icon": "https://portable-linux-apps.github.io/icons/pop.png"
