@@ -4355,6 +4355,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/go-spotify-cli.png"
   },
   {
+    "packageName": "gobuster",
+    "description": "A high-performance directory/file, DNS and virtual host brute-forcing tool written in Go. It's designed to be fast, reliable, and easy to use for security professionals and penetration testers...",
+    "icon": "https://portable-linux-apps.github.io/icons/gobuster.png"
+  },
+  {
     "packageName": "godmode",
     "description": "AI Chat Browser fast, full webapp access to ChatGPT/Claude/Bard/Bing/Llama2...",
     "icon": "https://portable-linux-apps.github.io/icons/godmode.png"
