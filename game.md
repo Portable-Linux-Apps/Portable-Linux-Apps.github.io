@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **237** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **238** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -188,6 +188,7 @@
 | <img loading="lazy" src="icons/mki3dgame.png" width="48" height="48"> | [***mki3dgame***](apps/mki3dgame.md) | *A game of searching, in 3D stages.*..[ *read more* ](apps/mki3dgame.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mki3dgame) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mki3dgame) |
 | <img loading="lazy" src="icons/mmapper.png" width="48" height="48"> | [***mmapper***](apps/mmapper.md) | *Graphical MUD client for the game MUME.*..[ *read more* ](apps/mmapper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mmapper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mmapper) |
 | <img loading="lazy" src="icons/moonlight.png" width="48" height="48"> | [***moonlight***](apps/moonlight.md) | *Stream games from your NVIDIA GameStream-enabled PC.*..[ *read more* ](apps/moonlight.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moonlight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moonlight) |
+| <img loading="lazy" src="icons/mudlet.png" width="48" height="48"> | [***mudlet***](apps/mudlet.md) | *Mudlet is a platform for gaming and enhancing game-play primarily with MUDs.*..[ *read more* ](apps/mudlet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mudlet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mudlet) |
 | <img loading="lazy" src="icons/multimc.png" width="48" height="48"> | [***multimc***](apps/multimc.md) | *A Minecraft launcher.*..[ *read more* ](apps/multimc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/multimc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/multimc) |
 | <img loading="lazy" src="icons/music-quiz.png" width="48" height="48"> | [***music-quiz***](apps/music-quiz.md) | *Jepardy like game, guess as many songs as possible.*..[ *read more* ](apps/music-quiz.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/music-quiz) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/music-quiz) |
 | <img loading="lazy" src="icons/naev.png" width="48" height="48"> | [***naev***](apps/naev.md) | *A 2d action/rpg space game that combines elements from the action.*..[ *read more* ](apps/naev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/naev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/naev) |

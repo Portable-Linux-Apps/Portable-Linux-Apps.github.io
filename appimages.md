@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2111** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2112** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1155,6 +1155,7 @@
 | <img loading="lazy" src="icons/ms-365-electron.png" width="48" height="48"> | [***ms-365-electron***](apps/ms-365-electron.md) | *Unofficial Microsoft 365 Desktop Wrapper made with Electron.*..[ *read more* ](apps/ms-365-electron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ms-365-electron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ms-365-electron) |
 | <img loading="lazy" src="icons/mtcelledit.png" width="48" height="48"> | [***mtcelledit***](apps/mtcelledit.md) | *Lightweight spreadsheet program.*..[ *read more* ](apps/mtcelledit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mtcelledit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mtcelledit) |
 | <img loading="lazy" src="icons/mudita-center.png" width="48" height="48"> | [***mudita-center***](apps/mudita-center.md) | *Mudita Center Electron App.*..[ *read more* ](apps/mudita-center.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mudita-center) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mudita-center) |
+| <img loading="lazy" src="icons/mudlet.png" width="48" height="48"> | [***mudlet***](apps/mudlet.md) | *Mudlet is a platform for gaming and enhancing game-play primarily with MUDs.*..[ *read more* ](apps/mudlet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mudlet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mudlet) |
 | <img loading="lazy" src="icons/muffon.png" width="48" height="48"> | [***muffon***](apps/muffon.md) | *Music streaming browser,retrieves audio, video and metadata.*..[ *read more* ](apps/muffon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/muffon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/muffon) |
 | <img loading="lazy" src="icons/mullvad-browser.png" width="48" height="48"> | [***mullvad-browser***](apps/mullvad-browser.md) | *A Tor-based Web Browser.*..[ *read more* ](apps/mullvad-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mullvad-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mullvad-browser) |
 | <img loading="lazy" src="icons/munt.png" width="48" height="48"> | [***munt***](apps/munt.md) | *The payment system of the future.*..[ *read more* ](apps/munt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/munt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/munt) |
