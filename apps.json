@@ -6350,6 +6350,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/lskat.png"
   },
   {
+    "packageName": "ludo",
+    "description": "Ludo is a work in progress libretro frontend written in go...",
+    "icon": "https://portable-linux-apps.github.io/icons/ludo.png"
+  },
+  {
     "packageName": "lumi",
     "description": "A tool to create and display interactive content with H5P...",
     "icon": "https://portable-linux-apps.github.io/icons/lumi.png"

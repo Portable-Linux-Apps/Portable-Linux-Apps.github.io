@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2507** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2508** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1298,6 +1298,7 @@
 | <img loading="lazy" src="icons/lpub3d.png" width="48" height="48"> | [***lpub3d***](apps/lpub3d.md) | *An LDraw Building Instruction Editor.*..[ *read more* ](apps/lpub3d.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lpub3d) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lpub3d) |
 | <img loading="lazy" src="icons/lsd.png" width="48" height="48"> | [***lsd***](apps/lsd.md) | *The next gen ls command.*..[ *read more* ](apps/lsd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lsd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lsd) |
 | <img loading="lazy" src="icons/lskat.png" width="48" height="48"> | [***lskat***](apps/lskat.md) | *Unofficial, Fun and engaging card game for two players. This script installs the full "kdegames" suite.*..[ *read more* ](apps/lskat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lskat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lskat) |
+| <img loading="lazy" src="icons/ludo.png" width="48" height="48"> | [***ludo***](apps/ludo.md) | *Ludo is a work in progress libretro frontend written in go.*..[ *read more* ](apps/ludo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ludo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ludo) |
 | <img loading="lazy" src="icons/lumi.png" width="48" height="48"> | [***lumi***](apps/lumi.md) | *A tool to create and display interactive content with H5P.*..[ *read more* ](apps/lumi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lumi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lumi) |
 | <img loading="lazy" src="icons/luna.png" width="48" height="48"> | [***luna***](apps/luna.md) | *Manage npm dependencies through a modern UI.*..[ *read more* ](apps/luna.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/luna) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/luna) |
 | <img loading="lazy" src="icons/lunar-client.png" width="48" height="48"> | [***lunar-client***](apps/lunar-client.md) | *Free Minecraft Client, a modpack for all versions of Minecraft.*..[ *read more* ](apps/lunar-client.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lunar-client) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lunar-client) |

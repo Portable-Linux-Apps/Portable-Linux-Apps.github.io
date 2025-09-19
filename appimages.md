@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2113** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2114** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1021,6 +1021,7 @@
 | <img loading="lazy" src="icons/lovelive.png" width="48" height="48"> | [***lovelive***](apps/lovelive.md) | *A LoveLiver Music Player.*..[ *read more* ](apps/lovelive.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lovelive) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lovelive) |
 | <img loading="lazy" src="icons/lovr.png" width="48" height="48"> | [***lovr***](apps/lovr.md) | *Lua Virtual Reality Framework.*..[ *read more* ](apps/lovr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lovr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lovr) |
 | <img loading="lazy" src="icons/lpub3d.png" width="48" height="48"> | [***lpub3d***](apps/lpub3d.md) | *An LDraw Building Instruction Editor.*..[ *read more* ](apps/lpub3d.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lpub3d) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lpub3d) |
+| <img loading="lazy" src="icons/ludo.png" width="48" height="48"> | [***ludo***](apps/ludo.md) | *Ludo is a work in progress libretro frontend written in go.*..[ *read more* ](apps/ludo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ludo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ludo) |
 | <img loading="lazy" src="icons/lumi.png" width="48" height="48"> | [***lumi***](apps/lumi.md) | *A tool to create and display interactive content with H5P.*..[ *read more* ](apps/lumi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lumi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lumi) |
 | <img loading="lazy" src="icons/luna.png" width="48" height="48"> | [***luna***](apps/luna.md) | *Manage npm dependencies through a modern UI.*..[ *read more* ](apps/luna.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/luna) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/luna) |
 | <img loading="lazy" src="icons/lunar-client.png" width="48" height="48"> | [***lunar-client***](apps/lunar-client.md) | *Free Minecraft Client, a modpack for all versions of Minecraft.*..[ *read more* ](apps/lunar-client.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lunar-client) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lunar-client) |
