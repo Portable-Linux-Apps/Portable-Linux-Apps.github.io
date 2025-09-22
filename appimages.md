@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2114** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2115** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -185,6 +185,7 @@
 | <img loading="lazy" src="icons/better-osu-skills.png" width="48" height="48"> | [***better-osu-skills***](apps/better-osu-skills.md) | *Gets results from the osu! Using your own IRC credentials.*..[ *read more* ](apps/better-osu-skills.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/better-osu-skills) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/better-osu-skills) |
 | <img loading="lazy" src="icons/bettercrewlink.png" width="48" height="48"> | [***bettercrewlink***](apps/bettercrewlink.md) | *Free, open, Among Us proximity voice chat.*..[ *read more* ](apps/bettercrewlink.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bettercrewlink) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bettercrewlink) |
 | <img loading="lazy" src="icons/bettersis.png" width="48" height="48"> | [***bettersis***](apps/bettersis.md) | *Modern shell for SIS.*..[ *read more* ](apps/bettersis.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bettersis) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bettersis) |
+| <img loading="lazy" src="icons/betterx.png" width="48" height="48"> | [***betterx***](apps/betterx.md) | *Enhance your X (formerly Twitter) experience with BetterX Desktop!*..[ *read more* ](apps/betterx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/betterx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/betterx) |
 | <img loading="lazy" src="icons/beurerscalemanager.png" width="48" height="48"> | [***beurerscalemanager***](apps/beurerscalemanager.md) | *AppImage packaging project for BeurerScaleManager.*..[ *read more* ](apps/beurerscalemanager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beurerscalemanager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beurerscalemanager) |
 | <img loading="lazy" src="icons/beyond-all-reason.png" width="48" height="48"> | [***beyond-all-reason***](apps/beyond-all-reason.md) | *3D Real-Time Strategy Total Annihilation Inspired, game.*..[ *read more* ](apps/beyond-all-reason.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beyond-all-reason) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beyond-all-reason) |
 | <img loading="lazy" src="icons/bezique.png" width="48" height="48"> | [***bezique***](apps/bezique.md) | *Plays bezique game against the AI.*..[ *read more* ](apps/bezique.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bezique) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bezique) |
