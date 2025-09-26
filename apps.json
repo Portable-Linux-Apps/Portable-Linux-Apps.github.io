@@ -920,6 +920,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/bettersis.png"
   },
   {
+    "packageName": "betterx",
+    "description": "Enhance your X (formerly Twitter) experience with BetterX Desktop!..",
+    "icon": "https://portable-linux-apps.github.io/icons/betterx.png"
+  },
+  {
     "packageName": "beurerscalemanager",
     "description": "AppImage packaging project for BeurerScaleManager...",
     "icon": "https://portable-linux-apps.github.io/icons/beurerscalemanager.png"
@@ -7748,6 +7753,11 @@
     "packageName": "ommpfritt",
     "description": "Semantic, procedural, non-destructive vector modelling...",
     "icon": "https://portable-linux-apps.github.io/icons/ommpfritt.png"
+  },
+  {
+    "packageName": "omnipull",
+    "description": "Pull Everything. Everywhere. OmniPull is a powerful, cross-platform download manager...",
+    "icon": "https://portable-linux-apps.github.io/icons/omnipull.png"
   },
   {
     "packageName": "omnispeak",
