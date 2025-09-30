@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2115** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2116** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1549,6 +1549,7 @@
 | <img loading="lazy" src="icons/rambox.png" width="48" height="48"> | [***rambox***](apps/rambox.md) | *Free and Open Source messaging and emailing app.*..[ *read more* ](apps/rambox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rambox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rambox) |
 | <img loading="lazy" src="icons/rapidraw.png" width="48" height="48"> | [***rapidraw***](apps/rapidraw.md) | *A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.*..[ *read more* ](apps/rapidraw.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rapidraw) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rapidraw) |
 | <img loading="lazy" src="icons/rare.png" width="48" height="48"> | [***rare***](apps/rare.md) | *GUI for legendary. An Epic Games Launcher open source alternative.*..[ *read more* ](apps/rare.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rare) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rare) |
+| <img loading="lazy" src="icons/raspberry-pi-imager.png" width="48" height="48"> | [***raspberry-pi-imager***](apps/raspberry-pi-imager.md) | *The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.*..[ *read more* ](apps/raspberry-pi-imager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/raspberry-pi-imager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/raspberry-pi-imager) |
 | <img loading="lazy" src="icons/raspirus.png" width="48" height="48"> | [***raspirus***](apps/raspirus.md) | *A user and resources-friendly signatures-based malware scanner.*..[ *read more* ](apps/raspirus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/raspirus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/raspirus) |
 | <img loading="lazy" src="icons/rasterdraw.png" width="48" height="48"> | [***rasterdraw***](apps/rasterdraw.md) | *Simple shape drawn using rasterisation.*..[ *read more* ](apps/rasterdraw.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rasterdraw) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rasterdraw) |
 | <img loading="lazy" src="icons/rasterview.png" width="48" height="48"> | [***rasterview***](apps/rasterview.md) | *Raster Viewer for CUPS-Raster, Apple-Raster and PWG-Raster.*..[ *read more* ](apps/rasterview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rasterview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rasterview) |

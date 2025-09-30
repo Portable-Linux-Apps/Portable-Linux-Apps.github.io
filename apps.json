@@ -9380,6 +9380,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/rare.png"
   },
   {
+    "packageName": "raspberry-pi-imager",
+    "description": "The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices...",
+    "icon": "https://portable-linux-apps.github.io/icons/raspberry-pi-imager.png"
+  },
+  {
     "packageName": "raspirus",
     "description": "A user and resources-friendly signatures-based malware scanner...",
     "icon": "https://portable-linux-apps.github.io/icons/raspirus.png"
