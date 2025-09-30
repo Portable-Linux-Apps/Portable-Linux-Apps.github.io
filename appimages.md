@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2117** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2116** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1994,7 +1994,6 @@
 | <img loading="lazy" src="icons/vk-desktop.png" width="48" height="48"> | [***vk-desktop***](apps/vk-desktop.md) | *Cross-platform client VKontakte.*..[ *read more* ](apps/vk-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vk-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vk-desktop) |
 | <img loading="lazy" src="icons/vk-music-fs.png" width="48" height="48"> | [***vk-music-fs***](apps/vk-music-fs.md) | *Listen to the music from VK.*..[ *read more* ](apps/vk-music-fs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vk-music-fs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vk-music-fs) |
 | <img loading="lazy" src="icons/vlc.png" width="48" height="48"> | [***vlc***](apps/vlc.md) | *Unofficial. Free and Open Source Video & Media player for Audio, streaming and more.*..[ *read more* ](apps/vlc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vlc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vlc) |
-| <img loading="lazy" src="icons/vlc+.png" width="48" height="48"> | [***vlc+***](apps/vlc+.md) | *Unofficial. Video & Media player for Audio, streaming and more, with JAVA support.*..[ *read more* ](apps/vlc+.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vlc+) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vlc+) |
 | <img loading="lazy" src="icons/vlc-git.png" width="48" height="48"> | [***vlc-git***](apps/vlc-git.md) | *Unofficial. Free and Open Source Video & Media player, GIT version.*..[ *read more* ](apps/vlc-git.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vlc-git) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vlc-git) |
 | <img loading="lazy" src="icons/vnote.png" width="48" height="48"> | [***vnote***](apps/vnote.md) | *Note-taking application for pleasant Markdown.*..[ *read more* ](apps/vnote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vnote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vnote) |
 | <img loading="lazy" src="icons/vocabsieve.png" width="48" height="48"> | [***vocabsieve***](apps/vocabsieve.md) | *Simple sentence mining tool for language learning.*..[ *read more* ](apps/vocabsieve.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vocabsieve) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vocabsieve) |

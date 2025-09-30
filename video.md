@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **148** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **147** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -156,7 +156,6 @@
 | <img loading="lazy" src="icons/vimeo-dl.png" width="48" height="48"> | [***vimeo-dl***](apps/vimeo-dl.md) | *A cli tool to download private videos on vimeo. Written in golang.*..[ *read more* ](apps/vimeo-dl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vimeo-dl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vimeo-dl) |
 | <img loading="lazy" src="icons/vitomu.png" width="48" height="48"> | [***vitomu***](apps/vitomu.md) | *Easy to use video to audio converter.*..[ *read more* ](apps/vitomu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vitomu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vitomu) |
 | <img loading="lazy" src="icons/vlc.png" width="48" height="48"> | [***vlc***](apps/vlc.md) | *Unofficial. Free and Open Source Video & Media player for Audio, streaming and more.*..[ *read more* ](apps/vlc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vlc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vlc) |
-| <img loading="lazy" src="icons/vlc+.png" width="48" height="48"> | [***vlc+***](apps/vlc+.md) | *Unofficial. Video & Media player for Audio, streaming and more, with JAVA support.*..[ *read more* ](apps/vlc+.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vlc+) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vlc+) |
 | <img loading="lazy" src="icons/vlc-git.png" width="48" height="48"> | [***vlc-git***](apps/vlc-git.md) | *Unofficial. Free and Open Source Video & Media player, GIT version.*..[ *read more* ](apps/vlc-git.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vlc-git) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vlc-git) |
 | <img loading="lazy" src="icons/vrew.png" width="48" height="48"> | [***vrew***](apps/vrew.md) | *Your first video editor, your easiest choice.*..[ *read more* ](apps/vrew.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vrew) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vrew) |
 | <img loading="lazy" src="icons/watched.png" width="48" height="48"> | [***watched***](apps/watched.md) | *A media player and a browser for Excellent entertainment.*..[ *read more* ](apps/watched.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/watched) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/watched) |
