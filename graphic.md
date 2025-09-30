@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **117** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **116** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -75,7 +75,6 @@
 | <img loading="lazy" src="icons/geeqie.png" width="48" height="48"> | [***geeqie***](apps/geeqie.md) | *Claiming to be the best image viewer and photo collection browser.*..[ *read more* ](apps/geeqie.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/geeqie) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/geeqie) |
 | <img loading="lazy" src="icons/geometrize.png" width="48" height="48"> | [***geometrize***](apps/geometrize.md) | *Images to shapes converter, graphics.*..[ *read more* ](apps/geometrize.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/geometrize) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/geometrize) |
 | <img loading="lazy" src="icons/gimp.png" width="48" height="48"> | [***gimp***](apps/gimp.md) | *GNU Image Manipulation Program, cross-platform image and photo editor. Multiple-choices.*..[ *read more* ](apps/gimp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gimp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gimp) |
-| <img loading="lazy" src="icons/gimp-dev.png" width="48" height="48"> | [***gimp-dev***](apps/gimp-dev.md) | *Unofficial, Cross-platform image and photo editor, Developer Edition.*..[ *read more* ](apps/gimp-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gimp-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gimp-dev) |
 | <img loading="lazy" src="icons/gimp-git.png" width="48" height="48"> | [***gimp-git***](apps/gimp-git.md) | *Unofficial, Cross-platform image and photo editor, built from GIT.*..[ *read more* ](apps/gimp-git.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gimp-git) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gimp-git) |
 | <img loading="lazy" src="icons/gimp-hybrid.png" width="48" height="48"> | [***gimp-hybrid***](apps/gimp-hybrid.md) | *Unofficial, GIMP including third-party plugins and python2 support.*..[ *read more* ](apps/gimp-hybrid.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gimp-hybrid) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gimp-hybrid) |
 | <img loading="lazy" src="icons/glaxnimate.png" width="48" height="48"> | [***glaxnimate***](apps/glaxnimate.md) | *A simple and fast vector graphics animation program.*..[ *read more* ](apps/glaxnimate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/glaxnimate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/glaxnimate) |

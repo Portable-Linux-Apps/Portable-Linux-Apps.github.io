@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2116** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2115** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -713,7 +713,6 @@
 | <img loading="lazy" src="icons/gibs.png" width="48" height="48"> | [***gibs***](apps/gibs.md) | *Generally In-source Build System, build C++ projects without a project.*..[ *read more* ](apps/gibs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gibs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gibs) |
 | <img loading="lazy" src="icons/gifcurry.png" width="48" height="48"> | [***gifcurry***](apps/gifcurry.md) | *The open-source, Haskell-built video editor for GIF makers.*..[ *read more* ](apps/gifcurry.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gifcurry) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gifcurry) |
 | <img loading="lazy" src="icons/gimp.png" width="48" height="48"> | [***gimp***](apps/gimp.md) | *GNU Image Manipulation Program, cross-platform image and photo editor. Multiple-choices.*..[ *read more* ](apps/gimp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gimp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gimp) |
-| <img loading="lazy" src="icons/gimp-dev.png" width="48" height="48"> | [***gimp-dev***](apps/gimp-dev.md) | *Unofficial, Cross-platform image and photo editor, Developer Edition.*..[ *read more* ](apps/gimp-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gimp-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gimp-dev) |
 | <img loading="lazy" src="icons/gimp-git.png" width="48" height="48"> | [***gimp-git***](apps/gimp-git.md) | *Unofficial, Cross-platform image and photo editor, built from GIT.*..[ *read more* ](apps/gimp-git.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gimp-git) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gimp-git) |
 | <img loading="lazy" src="icons/gimp-hybrid.png" width="48" height="48"> | [***gimp-hybrid***](apps/gimp-hybrid.md) | *Unofficial, GIMP including third-party plugins and python2 support.*..[ *read more* ](apps/gimp-hybrid.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gimp-hybrid) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gimp-hybrid) |
 | <img loading="lazy" src="icons/gingko.png" width="48" height="48"> | [***gingko***](apps/gingko.md) | *Gingko client rewritten in Elm.*..[ *read more* ](apps/gingko.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gingko) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gingko) |

@@ -4175,11 +4175,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/gimp.png"
   },
   {
-    "packageName": "gimp-dev",
-    "description": "Unofficial, Cross-platform image and photo editor, Developer Edition...",
-    "icon": "https://portable-linux-apps.github.io/icons/gimp-dev.png"
-  },
-  {
     "packageName": "gimp-git",
     "description": "Unofficial, Cross-platform image and photo editor, built from GIT...",
     "icon": "https://portable-linux-apps.github.io/icons/gimp-git.png"
