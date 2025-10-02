@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2116** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2115** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1255,7 +1255,6 @@
 | <img loading="lazy" src="icons/obliqoro.png" width="48" height="48"> | [***obliqoro***](apps/obliqoro.md) | * A cross-platform tauri gui where Oblique Strategies meets Pomodoro.*..[ *read more* ](apps/obliqoro.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/obliqoro) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/obliqoro) |
 | <img loading="lazy" src="icons/oblivion-desktop.png" width="48" height="48"> | [***oblivion-desktop***](apps/oblivion-desktop.md) | *Unofficial Warp Client, Oblivion provides a secure, optimised internet access.*..[ *read more* ](apps/oblivion-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/oblivion-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/oblivion-desktop) |
 | <img loading="lazy" src="icons/obs-studio.png" width="48" height="48"> | [***obs-studio***](apps/obs-studio.md) | *Unofficial. Software for video recording and live streaming.*..[ *read more* ](apps/obs-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/obs-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/obs-studio) |
-| <img loading="lazy" src="icons/obs-studio-full.png" width="48" height="48"> | [***obs-studio-full***](apps/obs-studio-full.md) | *Unofficial. Software for video recording and live streaming. Full version with browser support.*..[ *read more* ](apps/obs-studio-full.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/obs-studio-full) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/obs-studio-full) |
 | <img loading="lazy" src="icons/obsidian.png" width="48" height="48"> | [***obsidian***](apps/obsidian.md) | *A powerful knowledge base, plain text Markdown files.*..[ *read more* ](apps/obsidian.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/obsidian) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/obsidian) |
 | <img loading="lazy" src="icons/ocat.png" width="48" height="48"> | [***ocat***](apps/ocat.md) | *OpenCore Auxiliary Tools, editing config.plist files for Acidanthera.*..[ *read more* ](apps/ocat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ocat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ocat) |
 | <img loading="lazy" src="icons/ocenaudio.png" width="48" height="48"> | [***ocenaudio***](apps/ocenaudio.md) | *Unofficial. Multiplatform Audio Editor.*..[ *read more* ](apps/ocenaudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ocenaudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ocenaudio) |

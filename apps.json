@@ -7685,11 +7685,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/obs-studio.png"
   },
   {
-    "packageName": "obs-studio-full",
-    "description": "Unofficial. Software for video recording and live streaming. Full version with browser support...",
-    "icon": "https://portable-linux-apps.github.io/icons/obs-studio-full.png"
-  },
-  {
     "packageName": "obsidian",
     "description": "A powerful knowledge base, plain text Markdown files...",
     "icon": "https://portable-linux-apps.github.io/icons/obsidian.png"
