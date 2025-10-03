@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2510** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2511** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -976,6 +976,7 @@
 | <img loading="lazy" src="icons/heimer.png" width="48" height="48"> | [***heimer***](apps/heimer.md) | *Simple cross-platform mind map, diagram, and note-taking tool.*..[ *read more* ](apps/heimer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/heimer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/heimer) |
 | <img loading="lazy" src="icons/helio.png" width="48" height="48"> | [***helio***](apps/helio.md) | *One music sequencer for all major platforms, desktop and mobile.*..[ *read more* ](apps/helio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helio) |
 | <img loading="lazy" src="icons/helioslauncher.png" width="48" height="48"> | [***helioslauncher***](apps/helioslauncher.md) | *Custom launcher for modded minecraft written in Electron.*..[ *read more* ](apps/helioslauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helioslauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helioslauncher) |
+| <img loading="lazy" src="icons/helium.png" width="48" height="48"> | [***helium***](apps/helium.md) | *Private, fast, and honest Chromium-based web browser made for people.*..[ *read more* ](apps/helium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helium) |
 | <img loading="lazy" src="icons/helix.png" width="48" height="48"> | [***helix***](apps/helix.md) | *A post-modern modal text editor.*..[ *read more* ](apps/helix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helix) |
 | <img loading="lazy" src="icons/henson.png" width="48" height="48"> | [***henson***](apps/henson.md) | *A puppet manager for NationStates.*..[ *read more* ](apps/henson.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/henson) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/henson) |
 | <img loading="lazy" src="icons/hermesmessenger.png" width="48" height="48"> | [***hermesmessenger***](apps/hermesmessenger.md) | *Desktop client version for Hermes Messenger.*..[ *read more* ](apps/hermesmessenger.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hermesmessenger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hermesmessenger) |

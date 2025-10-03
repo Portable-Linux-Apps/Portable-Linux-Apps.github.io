@@ -4740,6 +4740,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/helioslauncher.png"
   },
   {
+    "packageName": "helium",
+    "description": "Private, fast, and honest Chromium-based web browser made for people...",
+    "icon": "https://portable-linux-apps.github.io/icons/helium.png"
+  },
+  {
     "packageName": "helix",
     "description": "A post-modern modal text editor...",
     "icon": "https://portable-linux-apps.github.io/icons/helix.png"

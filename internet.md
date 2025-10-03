@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **173** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **174** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -106,6 +106,7 @@
 | <img loading="lazy" src="icons/hamsket.png" width="48" height="48"> | [***hamsket***](apps/hamsket.md) | *Free and Open Source messaging and emailing app.*..[ *read more* ](apps/hamsket.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hamsket) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hamsket) |
 | <img loading="lazy" src="icons/haveno-reto.png" width="48" height="48"> | [***haveno-reto***](apps/haveno-reto.md) | *Decentralized P2P exchange built on Monero and Tor.*..[ *read more* ](apps/haveno-reto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/haveno-reto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/haveno-reto) |
 | <img loading="lazy" src="icons/hayase.png" width="48" height="48"> | [***hayase***](apps/hayase.md) | *Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads.*..[ *read more* ](apps/hayase.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hayase) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hayase) |
+| <img loading="lazy" src="icons/helium.png" width="48" height="48"> | [***helium***](apps/helium.md) | *Private, fast, and honest Chromium-based web browser made for people.*..[ *read more* ](apps/helium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helium) |
 | <img loading="lazy" src="icons/himalaya.png" width="48" height="48"> | [***himalaya***](apps/himalaya.md) | *CLI to manage emails.*..[ *read more* ](apps/himalaya.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/himalaya) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/himalaya) |
 | <img loading="lazy" src="icons/hydra.png" width="48" height="48"> | [***hydra***](apps/hydra.md) | *Game launcher with its own embedded bittorrent client.*..[ *read more* ](apps/hydra.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hydra) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hydra) |
 | <img loading="lazy" src="icons/hyperspace.png" width="48" height="48"> | [***hyperspace***](apps/hyperspace.md) | *A fluffy client for Mastodon in React.*..[ *read more* ](apps/hyperspace.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperspace) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperspace) |
