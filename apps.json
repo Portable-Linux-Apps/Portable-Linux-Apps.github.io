@@ -11105,11 +11105,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/tangent.png"
   },
   {
-    "packageName": "task",
-    "description": "Unofficial AppImage for Taskwarrior, a powerful and open source CLI for todo...",
-    "icon": "https://portable-linux-apps.github.io/icons/task.png"
-  },
-  {
     "packageName": "taskade",
     "description": "AI-Powered productivity...",
     "icon": "https://portable-linux-apps.github.io/icons/taskade.png"

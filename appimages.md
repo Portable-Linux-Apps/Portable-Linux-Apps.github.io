@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2116** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2115** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1852,7 +1852,6 @@
 | <img loading="lazy" src="icons/tagstoo.png" width="48" height="48"> | [***tagstoo***](apps/tagstoo.md) | *Tagstoo tagging application.*..[ *read more* ](apps/tagstoo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tagstoo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tagstoo) |
 | <img loading="lazy" src="icons/tagtime-desktop.png" width="48" height="48"> | [***tagtime-desktop***](apps/tagtime-desktop.md) | *Time tracking for space cadets, desktop edition.*..[ *read more* ](apps/tagtime-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tagtime-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tagtime-desktop) |
 | <img loading="lazy" src="icons/tangent.png" width="48" height="48"> | [***tangent***](apps/tangent.md) | *A clean and powerful open source notes app.*..[ *read more* ](apps/tangent.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tangent) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tangent) |
-| <img loading="lazy" src="icons/task.png" width="48" height="48"> | [***task***](apps/task.md) | *Unofficial AppImage for Taskwarrior, a powerful and open source CLI for todo.*..[ *read more* ](apps/task.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/task) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/task) |
 | <img loading="lazy" src="icons/taskade.png" width="48" height="48"> | [***taskade***](apps/taskade.md) | *AI-Powered productivity.*..[ *read more* ](apps/taskade.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskade) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskade) |
 | <img loading="lazy" src="icons/taskizer.png" width="48" height="48"> | [***taskizer***](apps/taskizer.md) | *A task management app.*..[ *read more* ](apps/taskizer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskizer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskizer) |
 | <img loading="lazy" src="icons/tastee-ui.png" width="48" height="48"> | [***tastee-ui***](apps/tastee-ui.md) | *Tool helping you write executable specifications in your lang.*..[ *read more* ](apps/tastee-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tastee-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tastee-ui) |
