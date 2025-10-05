@@ -2650,6 +2650,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dopamine-preview.png"
   },
   {
+    "packageName": "dorion",
+    "description": "Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!..",
+    "icon": "https://portable-linux-apps.github.io/icons/dorion.png"
+  },
+  {
     "packageName": "dosemu",
     "description": "Run DOS programs under linux...",
     "icon": "https://portable-linux-apps.github.io/icons/dosemu.png"

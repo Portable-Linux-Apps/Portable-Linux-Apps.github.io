@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **96** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **97** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -57,6 +57,7 @@
 | <img loading="lazy" src="icons/discord.png" width="48" height="48"> | [***discord***](apps/discord.md) | *Unofficial. All-in-one voice and text chat for gamers.*..[ *read more* ](apps/discord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/discord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/discord) |
 | <img loading="lazy" src="icons/discord-qt.png" width="48" height="48"> | [***discord-qt***](apps/discord-qt.md) | *Unofficial. Discord client powered by Node.JS and Qt Widgets.*..[ *read more* ](apps/discord-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/discord-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/discord-qt) |
 | <img loading="lazy" src="icons/dissent.png" width="48" height="48"> | [***dissent***](apps/dissent.md) | *Tiny native Discord app.*..[ *read more* ](apps/dissent.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dissent) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dissent) |
+| <img loading="lazy" src="icons/dorion.png" width="48" height="48"> | [***dorion***](apps/dorion.md) | *Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!*..[ *read more* ](apps/dorion.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dorion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dorion) |
 | <img loading="lazy" src="icons/dwyco-phoo.png" width="48" height="48"> | [***dwyco-phoo***](apps/dwyco-phoo.md) | *Dwyco Phoo Chat and Video Calling.*..[ *read more* ](apps/dwyco-phoo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dwyco-phoo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dwyco-phoo) |
 | <img loading="lazy" src="icons/eaglemode.png" width="48" height="48"> | [***eaglemode***](apps/eaglemode.md) | *Zoomable user interface with plugin applications.*..[ *read more* ](apps/eaglemode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eaglemode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eaglemode) |
 | <img loading="lazy" src="icons/electron-wechat.png" width="48" height="48"> | [***electron-wechat***](apps/electron-wechat.md) | *Wechat desktop application.*..[ *read more* ](apps/electron-wechat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electron-wechat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electron-wechat) |
