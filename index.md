@@ -16,7 +16,7 @@
 
 | *[Go to the applications list](https://portable-linux-apps.github.io/apps.html)* | *[Install "AM", the package manager](https://github.com/ivan-hc/AM)* | *[Wiki view (experimental)](https://portable-linux-apps.github.io/PortableLinuxApps.html)* |
 | - | - | - |
-| [<img loading="lazy" src="https://github.com/user-attachments/assets/f55d4242-bd5f-4195-946c-e01c6fe5e264" width="320" height="192">](https://portable-linux-apps.github.io/apps.html) | [<img loading="lazy" src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/sample.png" width="320" height="192">](https://github.com/ivan-hc/AM) | [<img loading="lazy" src="[https://raw.githubusercontent.com/ivan-hc/AM/main/sample/sample.png](https://github.com/user-attachments/assets/e1c5a58c-4efa-4f0c-b978-069142f82404)" width="320" height="192">](https://portable-linux-apps.github.io/PortableLinuxApps.html)
+| [<img loading="lazy" src="https://github.com/user-attachments/assets/f55d4242-bd5f-4195-946c-e01c6fe5e264" width="320" height="192">](https://portable-linux-apps.github.io/apps.html) | [<img loading="lazy" src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/sample.png" width="320" height="192">](https://github.com/ivan-hc/AM) | [<img loading="lazy" src="https://github.com/user-attachments/assets/ce8f9b0a-d02f-4cfb-8b04-2145864e6afd" width="320" height="192">](https://portable-linux-apps.github.io/PortableLinuxApps.html) |
 
 #### *Categories*
 
