@@ -14,12 +14,14 @@
 
 | *[Go to the applications list](https://portable-linux-apps.github.io/apps.html)* | *[Install "AM", the package manager](https://github.com/ivan-hc/AM)* |
 | - | - |
-| [<img src="https://github.com/user-attachments/assets/5ae2be73-76da-4528-af23-6e8ca3500e5e" width="512" height="256">](https://portable-linux-apps.github.io/apps.html) | [<img src="https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/assets/88724353/b0cbada6-9054-46ed-84ab-35db379dbf53" width="512" height="256">](https://github.com/ivan-hc/AM) |
+| [<img loading="lazy" src="https://github.com/user-attachments/assets/f55d4242-bd5f-4195-946c-e01c6fe5e264" width="512" height="256">](https://portable-linux-apps.github.io/apps.html) | [<img loading="lazy" src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/sample.png" width="512" height="256">](https://github.com/ivan-hc/AM) |
 
 ### Testing
 
 To test changes to the website before pushing or while working on a pull
 request:
+
+</div>
 
 * [Install Jekyll](https://jekyllrb.com/docs/installation/)
 * In a terminal, change to the repository root directory
@@ -32,8 +34,6 @@ terminal window from where you ran Jekyll. When you change a file, the site
 will rebuild automatically (it will take a few moments and you'll be informed
 in the terminal when it's done). However, if you change '_config.yml', you
 must kill Jekyll with ctrl-c and run it again to test the change.
-
-</div>
 
 --------
 
