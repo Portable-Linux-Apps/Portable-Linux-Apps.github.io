@@ -8465,6 +8465,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/picocrypt.png"
   },
   {
+    "packageName": "picocrypt-ng",
+    "description": "A very small, very simple, yet very secure encryption tool...",
+    "icon": "https://portable-linux-apps.github.io/icons/picocrypt-ng.png"
+  },
+  {
     "packageName": "picsimlab",
     "description": "PICsimLab - Programmable IC Simulator Laboratory...",
     "icon": "https://portable-linux-apps.github.io/icons/picsimlab.png"

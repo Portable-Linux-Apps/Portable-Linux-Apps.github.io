@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2510** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2511** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1720,6 +1720,7 @@
 | <img loading="lazy" src="icons/picgo.png" width="48" height="48"> | [***picgo***](apps/picgo.md) | *Easy to upload your pic & copy to write.*..[ *read more* ](apps/picgo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picgo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picgo) |
 | <img loading="lazy" src="icons/piclist.png" width="48" height="48"> | [***piclist***](apps/piclist.md) | *Cloud storage platform management & file upload tool based on PicGo.*..[ *read more* ](apps/piclist.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/piclist) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/piclist) |
 | <img loading="lazy" src="icons/picmi.png" width="48" height="48"> | [***picmi***](apps/picmi.md) | *Single player logic-based puzzle game. This script installs the full "kdegames" suite.*..[ *read more* ](apps/picmi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picmi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picmi) |
+| <img loading="lazy" src="icons/picocrypt-ng.png" width="48" height="48"> | [***picocrypt-ng***](apps/picocrypt-ng.md) | *A very small, very simple, yet very secure encryption tool.*..[ *read more* ](apps/picocrypt-ng.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picocrypt-ng) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picocrypt-ng) |
 | <img loading="lazy" src="icons/picocrypt.png" width="48" height="48"> | [***picocrypt***](apps/picocrypt.md) | *A very small, very simple, yet very secure encryption tool.*..[ *read more* ](apps/picocrypt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picocrypt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picocrypt) |
 | <img loading="lazy" src="icons/picsimlab.png" width="48" height="48"> | [***picsimlab***](apps/picsimlab.md) | *PICsimLab - Programmable IC Simulator Laboratory.*..[ *read more* ](apps/picsimlab.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picsimlab) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picsimlab) |
 | <img loading="lazy" src="icons/picterm.png" width="48" height="48"> | [***picterm***](apps/picterm.md) | *CLI, TUI image viewer.*..[ *read more* ](apps/picterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picterm) |
