@@ -5545,6 +5545,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/kdenlive-daily.png"
   },
   {
+    "packageName": "kdenlive-enhanced",
+    "description": "Unofficial AppImage of Kdenlive Video Editor which is able to work on any linux distro...",
+    "icon": "https://portable-linux-apps.github.io/icons/kdenlive-enhanced.png"
+  },
+  {
     "packageName": "kdeutils",
     "description": "Unofficial, Full & updatable KDE Utils suite, metapackage...",
     "icon": "https://portable-linux-apps.github.io/icons/kdeutils.png"

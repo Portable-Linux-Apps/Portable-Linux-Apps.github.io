@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **9** programs and **67** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **10** programs and **67** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -59,6 +59,7 @@
 | <img loading="lazy" src="icons/kdegames.png" width="48" height="48"> | [***kdegames***](apps/kdegames.md) | *Unofficial, Full & updatable KDE Games suite, metapackage.*..[ *read more* ](apps/kdegames.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdegames) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdegames) |
 | <img loading="lazy" src="icons/kdenlive.png" width="48" height="48"> | [***kdenlive***](apps/kdenlive.md) | *A powerful Video Editor provided by KDE.*..[ *read more* ](apps/kdenlive.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdenlive) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdenlive) |
 | <img loading="lazy" src="icons/kdenlive-daily.png" width="48" height="48"> | [***kdenlive-daily***](apps/kdenlive-daily.md) | *A powerful Video Editor provided by KDE (daily builds).*..[ *read more* ](apps/kdenlive-daily.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdenlive-daily) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdenlive-daily) |
+| <img loading="lazy" src="icons/kdenlive-enhanced.png" width="48" height="48"> | [***kdenlive-enhanced***](apps/kdenlive-enhanced.md) | *Unofficial AppImage of Kdenlive Video Editor which is able to work on any linux distro.*..[ *read more* ](apps/kdenlive-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdenlive-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdenlive-enhanced) |
 | <img loading="lazy" src="icons/kdeutils.png" width="48" height="48"> | [***kdeutils***](apps/kdeutils.md) | *Unofficial, Full & updatable KDE Utils suite, metapackage.*..[ *read more* ](apps/kdeutils.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdeutils) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdeutils) |
 | <img loading="lazy" src="icons/kdf.png" width="48" height="48"> | [***kdf***](apps/kdf.md) | *Unofficial, view Disk Usage. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/kdf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdf) |
 | <img loading="lazy" src="icons/kdialog.png" width="48" height="48"> | [***kdialog***](apps/kdialog.md) | *Unofficial, a dialog utility. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/kdialog.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdialog) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdialog) |
