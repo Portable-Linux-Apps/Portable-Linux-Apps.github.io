@@ -7495,11 +7495,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/nora.png"
   },
   {
-    "packageName": "nordvpn-appimage",
-    "description": "Unofficial. A nicer way to connect to NordVPN, in electron...",
-    "icon": "https://portable-linux-apps.github.io/icons/nordvpn-appimage.png"
-  },
-  {
     "packageName": "normcap",
     "description": "OCR powered screen-capture tool to capture info instead of images...",
     "icon": "https://portable-linux-apps.github.io/icons/normcap.png"

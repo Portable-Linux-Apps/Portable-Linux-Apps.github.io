@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2513** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2512** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1527,7 +1527,6 @@
 | <img loading="lazy" src="icons/nodes.png" width="48" height="48"> | [***nodes***](apps/nodes.md) | *A new way to create with code.*..[ *read more* ](apps/nodes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nodes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nodes) |
 | <img loading="lazy" src="icons/nootka.png" width="48" height="48"> | [***nootka***](apps/nootka.md) | *Application for learning musical score notation.*..[ *read more* ](apps/nootka.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nootka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nootka) |
 | <img loading="lazy" src="icons/nora.png" width="48" height="48"> | [***nora***](apps/nora.md) | *An elegant music player built using Electron and React.*..[ *read more* ](apps/nora.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nora) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nora) |
-| <img loading="lazy" src="icons/nordvpn-appimage.png" width="48" height="48"> | [***nordvpn-appimage***](apps/nordvpn-appimage.md) | *Unofficial. A nicer way to connect to NordVPN, in electron.*..[ *read more* ](apps/nordvpn-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nordvpn-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nordvpn-appimage) |
 | <img loading="lazy" src="icons/normcap.png" width="48" height="48"> | [***normcap***](apps/normcap.md) | *OCR powered screen-capture tool to capture info instead of images.*..[ *read more* ](apps/normcap.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/normcap) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/normcap) |
 | <img loading="lazy" src="icons/nosqlbooster.png" width="48" height="48"> | [***nosqlbooster***](apps/nosqlbooster.md) | *Essential admin GUI for mongodb.*..[ *read more* ](apps/nosqlbooster.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nosqlbooster) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nosqlbooster) |
 | <img loading="lazy" src="icons/notable.png" width="48" height="48"> | [***notable***](apps/notable.md) | *The Markdown-based note-taking app that doesn't suck.*..[ *read more* ](apps/notable.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/notable) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/notable) |
