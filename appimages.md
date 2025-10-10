@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2116** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2117** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1980,6 +1980,7 @@
 | <img loading="lazy" src="icons/viper-browser.png" width="48" height="48"> | [***viper-browser***](apps/viper-browser.md) | *Fast and lightweight Qt web browser.*..[ *read more* ](apps/viper-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viper-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viper-browser) |
 | <img loading="lazy" src="icons/vipster.png" width="48" height="48"> | [***vipster***](apps/vipster.md) | *Visual periodic structure editor.*..[ *read more* ](apps/vipster.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vipster) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vipster) |
 | <img loading="lazy" src="icons/vircadia.png" width="48" height="48"> | [***vircadia***](apps/vircadia.md) | *Open Source continuation of the High Fidelity metaverse.*..[ *read more* ](apps/vircadia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vircadia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vircadia) |
+| <img loading="lazy" src="icons/virt-manager.png" width="48" height="48"> | [***virt-manager***](apps/virt-manager.md) | *Unofficial AppImage of virt-manager, interface for managing virtual machines.*..[ *read more* ](apps/virt-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/virt-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/virt-manager) |
 | <img loading="lazy" src="icons/virtscreen.png" width="48" height="48"> | [***virtscreen***](apps/virtscreen.md) | *Make your iPad/tablet/computer into a secondary monitor on Linux.*..[ *read more* ](apps/virtscreen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/virtscreen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/virtscreen) |
 | <img loading="lazy" src="icons/virtualbox.png" width="48" height="48"> | [***virtualbox***](apps/virtualbox.md) | *Powerful x86 virtualization for enterprise as well as home use.*..[ *read more* ](apps/virtualbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/virtualbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/virtualbox) |
 | <img loading="lazy" src="icons/visipics.png" width="48" height="48"> | [***visipics***](apps/visipics.md) | *Windows software to find and remove duplicate pictures. Unofficial AppImage built using "wine32-deploy" and powered by "wine".*..[ *read more* ](apps/visipics.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/visipics) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/visipics) |
