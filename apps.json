@@ -12045,6 +12045,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/vk-music-fs.png"
   },
   {
+    "packageName": "vkquake",
+    "description": "Vulkan Quake game port based on QuakeSpasm...",
+    "icon": "https://portable-linux-apps.github.io/icons/vkquake.png"
+  },
+  {
     "packageName": "vlc",
     "description": "Unofficial. Free and Open Source Video & Media player for Audio, streaming and more...",
     "icon": "https://portable-linux-apps.github.io/icons/vlc.png"

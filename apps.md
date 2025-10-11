@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2513** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2514** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2437,6 +2437,7 @@
 | <img loading="lazy" src="icons/vizgraph.png" width="48" height="48"> | [***vizgraph***](apps/vizgraph.md) | *A simple tool for Using Graphviz.*..[ *read more* ](apps/vizgraph.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vizgraph) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vizgraph) |
 | <img loading="lazy" src="icons/vk-desktop.png" width="48" height="48"> | [***vk-desktop***](apps/vk-desktop.md) | *Cross-platform client VKontakte.*..[ *read more* ](apps/vk-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vk-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vk-desktop) |
 | <img loading="lazy" src="icons/vk-music-fs.png" width="48" height="48"> | [***vk-music-fs***](apps/vk-music-fs.md) | *Listen to the music from VK.*..[ *read more* ](apps/vk-music-fs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vk-music-fs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vk-music-fs) |
+| <img loading="lazy" src="icons/vkquake.png" width="48" height="48"> | [***vkquake***](apps/vkquake.md) | *Vulkan Quake game port based on QuakeSpasm.*..[ *read more* ](apps/vkquake.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vkquake) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vkquake) |
 | <img loading="lazy" src="icons/vlc-git.png" width="48" height="48"> | [***vlc-git***](apps/vlc-git.md) | *Unofficial. Free and Open Source Video & Media player, GIT version.*..[ *read more* ](apps/vlc-git.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vlc-git) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vlc-git) |
 | <img loading="lazy" src="icons/vlc.png" width="48" height="48"> | [***vlc***](apps/vlc.md) | *Unofficial. Free and Open Source Video & Media player for Audio, streaming and more.*..[ *read more* ](apps/vlc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vlc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vlc) |
 | <img loading="lazy" src="icons/vnote.png" width="48" height="48"> | [***vnote***](apps/vnote.md) | *Note-taking application for pleasant Markdown.*..[ *read more* ](apps/vnote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vnote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vnote) |

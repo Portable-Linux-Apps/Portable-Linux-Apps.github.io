@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **238** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **239** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -292,6 +292,7 @@
 | <img loading="lazy" src="icons/vgmtrans.png" width="48" height="48"> | [***vgmtrans***](apps/vgmtrans.md) | *A tool to convert proprietary, sequenced videogame music.*..[ *read more* ](apps/vgmtrans.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vgmtrans) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vgmtrans) |
 | <img loading="lazy" src="icons/visipics.png" width="48" height="48"> | [***visipics***](apps/visipics.md) | *Windows software to find and remove duplicate pictures. Unofficial AppImage built using "wine32-deploy" and powered by "wine".*..[ *read more* ](apps/visipics.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/visipics) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/visipics) |
 | <img loading="lazy" src="icons/vita3k.png" width="48" height="48"> | [***vita3k***](apps/vita3k.md) | *Experimental PlayStation Vita emulator.*..[ *read more* ](apps/vita3k.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vita3k) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vita3k) |
+| <img loading="lazy" src="icons/vkquake.png" width="48" height="48"> | [***vkquake***](apps/vkquake.md) | *Vulkan Quake game port based on QuakeSpasm.*..[ *read more* ](apps/vkquake.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vkquake) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vkquake) |
 | <img loading="lazy" src="icons/westeroscraftlauncher.png" width="48" height="48"> | [***westeroscraftlauncher***](apps/westeroscraftlauncher.md) | *Custom launcher for modded Minecraft, game.*..[ *read more* ](apps/westeroscraftlauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/westeroscraftlauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/westeroscraftlauncher) |
 | <img loading="lazy" src="icons/wick-editor.png" width="48" height="48"> | [***wick-editor***](apps/wick-editor.md) | *A free and open-source tool for creating games, animations and everything in-between!*..[ *read more* ](apps/wick-editor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wick-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wick-editor) |
 | <img loading="lazy" src="icons/widelands.png" width="48" height="48"> | [***widelands***](apps/widelands.md) | *Real-time strategy game with singleplayer campaigns.*..[ *read more* ](apps/widelands.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/widelands) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/widelands) |
