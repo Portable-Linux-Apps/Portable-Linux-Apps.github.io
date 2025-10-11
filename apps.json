@@ -2825,6 +2825,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dwyco-phoo.png"
   },
   {
+    "packageName": "dysk",
+    "description": "A linux utility to get information on filesystems, like df but better...",
+    "icon": "https://portable-linux-apps.github.io/icons/dysk.png"
+  },
+  {
     "packageName": "e2-sat-editor",
     "description": "Satellite channel lists editor with tabbed nav...",
     "icon": "https://portable-linux-apps.github.io/icons/e2-sat-editor.png"
