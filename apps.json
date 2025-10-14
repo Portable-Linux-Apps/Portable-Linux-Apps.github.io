@@ -1855,6 +1855,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/code-radio.png"
   },
   {
+    "packageName": "codebook-lsp",
+    "description": "Codebook, code-aware spell checker with language server implementation...",
+    "icon": "https://portable-linux-apps.github.io/icons/codebook-lsp.png"
+  },
+  {
     "packageName": "coinstac",
     "description": "Collaborative Informatics and Neuroimaging Suite Toolkit...",
     "icon": "https://portable-linux-apps.github.io/icons/coinstac.png"

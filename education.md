@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **64** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **65** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -41,6 +41,7 @@
 | <img loading="lazy" src="icons/celestia.png" width="48" height="48"> | [***celestia***](apps/celestia.md) | *Real time 3D space simulator.*..[ *read more* ](apps/celestia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/celestia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/celestia) |
 | <img loading="lazy" src="icons/celestia-dev.png" width="48" height="48"> | [***celestia-dev***](apps/celestia-dev.md) | *Real time 3D space simulator, developer edition.*..[ *read more* ](apps/celestia-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/celestia-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/celestia-dev) |
 | <img loading="lazy" src="icons/celestia-enanched.png" width="48" height="48"> | [***celestia-enanched***](apps/celestia-enanched.md) | *Unofficial. Real-time 3D space simulator with extra detailed maps.*..[ *read more* ](apps/celestia-enanched.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/celestia-enanched) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/celestia-enanched) |
+| <img loading="lazy" src="icons/codebook-lsp.png" width="48" height="48"> | [***codebook-lsp***](apps/codebook-lsp.md) | *Codebook, code-aware spell checker with language server implementation.*..[ *read more* ](apps/codebook-lsp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/codebook-lsp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/codebook-lsp) |
 | <img loading="lazy" src="icons/copytranslator.png" width="48" height="48"> | [***copytranslator***](apps/copytranslator.md) | *Foreign language reading and translation assistant.*..[ *read more* ](apps/copytranslator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/copytranslator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/copytranslator) |
 | <img loading="lazy" src="icons/corepins.png" width="48" height="48"> | [***corepins***](apps/corepins.md) | *A bookmarking app for CuboCore Application Suite.*..[ *read more* ](apps/corepins.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/corepins) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/corepins) |
 | <img loading="lazy" src="icons/cosmonium.png" width="48" height="48"> | [***cosmonium***](apps/cosmonium.md) | *3D astronomy and space exploration program.*..[ *read more* ](apps/cosmonium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cosmonium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cosmonium) |

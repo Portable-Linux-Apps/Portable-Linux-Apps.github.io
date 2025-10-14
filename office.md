@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **87** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **88** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -42,6 +42,7 @@
 | <img loading="lazy" src="icons/brainverse.png" width="48" height="48"> | [***brainverse***](apps/brainverse.md) | *Electronic Lab Notebook for Reproducible Neuro Imaging Research.*..[ *read more* ](apps/brainverse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brainverse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brainverse) |
 | <img loading="lazy" src="icons/calibre.png" width="48" height="48"> | [***calibre***](apps/calibre.md) | *Unofficial. The one stop solution to all your e-book needs*..[ *read more* ](apps/calibre.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/calibre) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/calibre) |
 | <img loading="lazy" src="icons/caprine.png" width="48" height="48"> | [***caprine***](apps/caprine.md) | *Unofficial, elegant privacy focused Facebook Messenger app.*..[ *read more* ](apps/caprine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/caprine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/caprine) |
+| <img loading="lazy" src="icons/codebook-lsp.png" width="48" height="48"> | [***codebook-lsp***](apps/codebook-lsp.md) | *Codebook, code-aware spell checker with language server implementation.*..[ *read more* ](apps/codebook-lsp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/codebook-lsp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/codebook-lsp) |
 | <img loading="lazy" src="icons/comic-book-reader.png" width="48" height="48"> | [***comic-book-reader***](apps/comic-book-reader.md) | *Reader and converter for cbz, cbr, epub and pdf files.*..[ *read more* ](apps/comic-book-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/comic-book-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/comic-book-reader) |
 | <img loading="lazy" src="icons/comic-reader.png" width="48" height="48"> | [***comic-reader***](apps/comic-reader.md) | *Electron based comic reader.*..[ *read more* ](apps/comic-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/comic-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/comic-reader) |
 | <img loading="lazy" src="icons/comics-downloader.png" width="48" height="48"> | [***comics-downloader***](apps/comics-downloader.md) | *Tool to download comics and manga in pdf/epub/cbr/cbz from a website.*..[ *read more* ](apps/comics-downloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/comics-downloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/comics-downloader) |
