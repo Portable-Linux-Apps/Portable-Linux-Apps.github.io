@@ -1580,6 +1580,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/cemu.png"
   },
   {
+    "packageName": "cemu-enhanced",
+    "description": "Unofficial AppImage of Cemu, Nintendo Wii U emulator that is able to run most Wii U games, which is able to work on any linux distro...",
+    "icon": "https://portable-linux-apps.github.io/icons/cemu-enhanced.png"
+  },
+  {
     "packageName": "cerebral-debugger",
     "description": "Cerebral Debugger...",
     "icon": "https://portable-linux-apps.github.io/icons/cerebral-debugger.png"
