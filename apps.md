@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2516** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2515** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -887,7 +887,6 @@
 | <img loading="lazy" src="icons/gitui.png" width="48" height="48"> | [***gitui***](apps/gitui.md) | *Blazing fast terminal-ui for git written in rust.*..[ *read more* ](apps/gitui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gitui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gitui) |
 | <img loading="lazy" src="icons/gl-warp2mp4.png" width="48" height="48"> | [***gl-warp2mp4***](apps/gl-warp2mp4.md) | *Utility to pre-warp a movie similar to TGAWarp.*..[ *read more* ](apps/gl-warp2mp4.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gl-warp2mp4) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gl-warp2mp4) |
 | <img loading="lazy" src="icons/glab.png" width="48" height="48"> | [***glab***](apps/glab.md) | *A GitLab CLI tool bringing GitLab to your command line.*..[ *read more* ](apps/glab.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/glab) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/glab) |
-| <img loading="lazy" src="icons/glabels.png" width="48" height="48"> | [***glabels***](apps/glabels.md) | *Create labels, business cards and media covers.*..[ *read more* ](apps/glabels.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/glabels) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/glabels) |
 | <img loading="lazy" src="icons/glaxnimate.png" width="48" height="48"> | [***glaxnimate***](apps/glaxnimate.md) | *A simple and fast vector graphics animation program.*..[ *read more* ](apps/glaxnimate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/glaxnimate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/glaxnimate) |
 | <img loading="lazy" src="icons/glow.png" width="48" height="48"> | [***glow***](apps/glow.md) | *Render markdown on the CLI, with pizzazz!*..[ *read more* ](apps/glow.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/glow) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/glow) |
 | <img loading="lazy" src="icons/gltf-insight.png" width="48" height="48"> | [***gltf-insight***](apps/gltf-insight.md) | *C++11 based glTF 2.0 data insight tool.*..[ *read more* ](apps/gltf-insight.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gltf-insight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gltf-insight) |

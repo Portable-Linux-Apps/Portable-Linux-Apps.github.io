@@ -4295,11 +4295,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/glab.png"
   },
   {
-    "packageName": "glabels",
-    "description": "Create labels, business cards and media covers...",
-    "icon": "https://portable-linux-apps.github.io/icons/glabels.png"
-  },
-  {
     "packageName": "glaxnimate",
     "description": "A simple and fast vector graphics animation program...",
     "icon": "https://portable-linux-apps.github.io/icons/glaxnimate.png"

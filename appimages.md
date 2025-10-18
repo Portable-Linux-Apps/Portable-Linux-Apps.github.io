@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2118** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2117** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -730,7 +730,6 @@
 | <img loading="lazy" src="icons/gitqlient.png" width="48" height="48"> | [***gitqlient***](apps/gitqlient.md) | *Multi-platform Git client written with Qt.*..[ *read more* ](apps/gitqlient.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gitqlient) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gitqlient) |
 | <img loading="lazy" src="icons/gittyup.png" width="48" height="48"> | [***gittyup***](apps/gittyup.md) | *GUI Git client designed to help you understand and manage your source code history.*..[ *read more* ](apps/gittyup.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gittyup) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gittyup) |
 | <img loading="lazy" src="icons/gl-warp2mp4.png" width="48" height="48"> | [***gl-warp2mp4***](apps/gl-warp2mp4.md) | *Utility to pre-warp a movie similar to TGAWarp.*..[ *read more* ](apps/gl-warp2mp4.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gl-warp2mp4) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gl-warp2mp4) |
-| <img loading="lazy" src="icons/glabels.png" width="48" height="48"> | [***glabels***](apps/glabels.md) | *Create labels, business cards and media covers.*..[ *read more* ](apps/glabels.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/glabels) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/glabels) |
 | <img loading="lazy" src="icons/glaxnimate.png" width="48" height="48"> | [***glaxnimate***](apps/glaxnimate.md) | *A simple and fast vector graphics animation program.*..[ *read more* ](apps/glaxnimate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/glaxnimate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/glaxnimate) |
 | <img loading="lazy" src="icons/gltf-insight.png" width="48" height="48"> | [***gltf-insight***](apps/gltf-insight.md) | *C++11 based glTF 2.0 data insight tool.*..[ *read more* ](apps/gltf-insight.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gltf-insight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gltf-insight) |
 | <img loading="lazy" src="icons/glulxe.png" width="48" height="48"> | [***glulxe***](apps/glulxe.md) | *AppImage of the glulxe interactive fiction interpreter.*..[ *read more* ](apps/glulxe.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/glulxe) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/glulxe) |
