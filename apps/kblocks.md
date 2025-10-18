@@ -2,7 +2,7 @@
 
  KBlocks is the classic falling blocks game. The idea is to stack the falling  blocks to create horizontal lines without any gaps. When a line is completed  it is removed, and more space is available in the play area. When there is  not enough space for blocks to fall, the game is over.
  
- This script installs the full and updatable KDE Games suite from JuNest, a lightweight Arch Linux based distribution that allows the creation of disposable and partially isolated GNU/Linux environments within any generic GNU/Linux host OS and without requiring root privileges to install packages.
+ This game is part of the KDE Games suite.
  
  USAGE (from the command line):
  

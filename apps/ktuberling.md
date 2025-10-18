@@ -3,7 +3,7 @@
  KTuberling a simple constructor game suitable for children and adults alike. 
  The idea of the game is based around a once popular doll making concept.
  
- This script installs the full and updatable KDE Games suite from JuNest, a lightweight Arch Linux based distribution that allows the creation of disposable and partially isolated GNU/Linux environments within any generic GNU/Linux host OS and without requiring root privileges to install packages.
+ This game is part of the KDE Games suite.
  
  USAGE (from the command line):
  

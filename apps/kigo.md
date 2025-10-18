@@ -4,7 +4,7 @@
  
  Go is noted for being rich in strategic complexity despite its simple rules.  The game is played by two players who alternately place black and white stones  (playing pieces, now usually made of glass or plastic) on the vacant  intersections of a grid of 19x19 lines (9x9 or 13x13 for easier games).
  
- This script installs the full and updatable KDE Games suite from JuNest, a lightweight Arch Linux based distribution that allows the creation of  disposable and partially isolated GNU/Linux environments within any generic  GNU/Linux host OS and without requiring root privileges to install packages.
+ This game is part of the KDE Games suite.
  
  USAGE (from the command line):
  

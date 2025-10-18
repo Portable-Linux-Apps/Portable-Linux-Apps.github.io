@@ -2,7 +2,7 @@
 
  Fill at least 75% of the field to advance to the next level while avoiding  bouncing balls.
  
- This script installs the full and updatable KDE Games suite from JuNest, a lightweight Arch Linux based distribution that allows the creation of disposable and partially isolated GNU/Linux environments within any generic GNU/Linux host OS and without requiring root privileges to install packages.
+ This game is part of the KDE Games suite.
  
  USAGE (from the command line):
  
