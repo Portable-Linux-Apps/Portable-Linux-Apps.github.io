@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **27** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **28** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -60,6 +60,7 @@
 | <img loading="lazy" src="icons/sipgate-softphone.png" width="48" height="48"> | [***sipgate-softphone***](apps/sipgate-softphone.md) | *The sipgate softphone is developed directly by sipgate.*..[ *read more* ](apps/sipgate-softphone.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sipgate-softphone) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sipgate-softphone) |
 | <img loading="lazy" src="icons/snomcontrol.png" width="48" height="48"> | [***snomcontrol***](apps/snomcontrol.md) | *An application to control snom D3xx phones from the desktop.*..[ *read more* ](apps/snomcontrol.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snomcontrol) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snomcontrol) |
 | <img loading="lazy" src="icons/uad-ng.png" width="48" height="48"> | [***uad-ng***](apps/uad-ng.md) | *GUI Rust wrapper for ADB to debloat non-rooted Android devices.*..[ *read more* ](apps/uad-ng.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uad-ng) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uad-ng) |
+| <img loading="lazy" src="icons/uad-ng-appimage.png" width="48" height="48"> | [***uad-ng-appimage***](apps/uad-ng-appimage.md) | *Unofficial, GUI Rust wrapper for ADB to debloat non-rooted Android devices.*..[ *read more* ](apps/uad-ng-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uad-ng-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uad-ng-appimage) |
 | <img loading="lazy" src="icons/waydroid-helper.png" width="48" height="48"> | [***waydroid-helper***](apps/waydroid-helper.md) | *App that provides a user-friendly way to configure Waydroid and install extensions, including Magisk and ARM translation (android).*..[ *read more* ](apps/waydroid-helper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/waydroid-helper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/waydroid-helper) |
 
 
