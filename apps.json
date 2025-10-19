@@ -9955,6 +9955,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/sd.png"
   },
   {
+    "packageName": "seafile",
+    "description": "Seafile GUI version. Beyond just syncing and sharing files, it lets you add custom file properties and organize your files in different views. With AI-powered automation for generating properties, Seafile offers a smarter, more efficient way to manage your files...",
+    "icon": "https://portable-linux-apps.github.io/icons/seafile.png"
+  },
+  {
+    "packageName": "seafile-cli",
+    "description": "Seafile CLI version. Beyond just syncing and sharing files, it lets you add custom file properties and organize your files in different views. With AI-powered automation for generating properties, Seafile offers a smarter, more efficient way to manage your files...",
+    "icon": "https://portable-linux-apps.github.io/icons/seafile-cli.png"
+  },
+  {
     "packageName": "secops",
     "description": "A Linux Desktop Application for managing security...",
     "icon": "https://portable-linux-apps.github.io/icons/secops.png"
@@ -11903,6 +11913,11 @@
     "packageName": "viber",
     "description": "Proprietary cross-platform IM and VoIP software...",
     "icon": "https://portable-linux-apps.github.io/icons/viber.png"
+  },
+  {
+    "packageName": "vicinae",
+    "description": "A high-performance, native launcher for your desktop built with C++ and Qt. Native, fast, extensible...",
+    "icon": "https://portable-linux-apps.github.io/icons/vicinae.png"
   },
   {
     "packageName": "vicut",
