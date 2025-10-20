@@ -12165,6 +12165,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/walk.png"
   },
   {
+    "packageName": "walker",
+    "description": "Multi-Purpose Launcher with a lot of features. Highly Customizable and fast...",
+    "icon": "https://portable-linux-apps.github.io/icons/walker.png"
+  },
+  {
     "packageName": "wallettech",
     "description": "BytechCoin GUI Wallet...",
     "icon": "https://portable-linux-apps.github.io/icons/wallettech.png"

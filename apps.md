@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2519** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2520** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2461,6 +2461,7 @@
 | <img loading="lazy" src="icons/w2vgrep.png" width="48" height="48"> | [***w2vgrep***](apps/w2vgrep.md) | *semantic-grep for words with similar meaning to the query.*..[ *read more* ](apps/w2vgrep.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/w2vgrep) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/w2vgrep) |
 | <img loading="lazy" src="icons/walc.png" width="48" height="48"> | [***walc***](apps/walc.md) | *WhatsApp Linux Client, Unofficial.*..[ *read more* ](apps/walc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/walc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/walc) |
 | <img loading="lazy" src="icons/walk.png" width="48" height="48"> | [***walk***](apps/walk.md) | *Terminal file manager.*..[ *read more* ](apps/walk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/walk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/walk) |
+| <img loading="lazy" src="icons/walker.png" width="48" height="48"> | [***walker***](apps/walker.md) | *Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.*..[ *read more* ](apps/walker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/walker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/walker) |
 | <img loading="lazy" src="icons/wallettech.png" width="48" height="48"> | [***wallettech***](apps/wallettech.md) | *BytechCoin GUI Wallet.*..[ *read more* ](apps/wallettech.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wallettech) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wallettech) |
 | <img loading="lazy" src="icons/warp-terminal.png" width="48" height="48"> | [***warp-terminal***](apps/warp-terminal.md) | *Terminal reimagined with AI and collaborative tools.*..[ *read more* ](apps/warp-terminal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/warp-terminal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/warp-terminal) |
 | <img loading="lazy" src="icons/wasistlos.png" width="48" height="48"> | [***wasistlos***](apps/wasistlos.md) | *Unofficial, WhatsApp Linux Client, formerly known as "whatsapp-for-linux".*..[ *read more* ](apps/wasistlos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wasistlos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wasistlos) |
