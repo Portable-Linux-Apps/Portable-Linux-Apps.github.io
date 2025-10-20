@@ -9535,11 +9535,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/remind-me-again.png"
   },
   {
-    "packageName": "remnote",
-    "description": "Build your Knowledge Base anywhere and without distractions...",
-    "icon": "https://portable-linux-apps.github.io/icons/remnote.png"
-  },
-  {
     "packageName": "rendertune",
     "description": "Electron app that uses ffmpeg to combine audio.+image files into video files...",
     "icon": "https://portable-linux-apps.github.io/icons/rendertune.png"
