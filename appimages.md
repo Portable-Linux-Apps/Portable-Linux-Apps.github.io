@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2120** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2121** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1657,6 +1657,7 @@
 | <img loading="lazy" src="icons/serioussamtfe-vk.png" width="48" height="48"> | [***serioussamtfe-vk***](apps/serioussamtfe-vk.md) | *Game engine for Serious Sam Classic, Vulkan support, TFE.*..[ *read more* ](apps/serioussamtfe-vk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/serioussamtfe-vk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/serioussamtfe-vk) |
 | <img loading="lazy" src="icons/serioussamtse.png" width="48" height="48"> | [***serioussamtse***](apps/serioussamtse.md) | *Game engine for Serious Sam Classic, TSE.*..[ *read more* ](apps/serioussamtse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/serioussamtse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/serioussamtse) |
 | <img loading="lazy" src="icons/serioussamtse-vk.png" width="48" height="48"> | [***serioussamtse-vk***](apps/serioussamtse-vk.md) | *Game engine for Serious Sam Classic, Vulkan support, TSE.*..[ *read more* ](apps/serioussamtse-vk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/serioussamtse-vk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/serioussamtse-vk) |
+| <img loading="lazy" src="icons/servo.png" width="48" height="48"> | [***servo***](apps/servo.md) | *Unofficial AppImage builds of the Servo web browser engine.*..[ *read more* ](apps/servo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/servo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/servo) |
 | <img loading="lazy" src="icons/session-desktop.png" width="48" height="48"> | [***session-desktop***](apps/session-desktop.md) | *Onion routing based messenger.*..[ *read more* ](apps/session-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/session-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/session-desktop) |
 | <img loading="lazy" src="icons/setcolors.png" width="48" height="48"> | [***setcolors***](apps/setcolors.md) | *Another way to set colors in Linux shells.*..[ *read more* ](apps/setcolors.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/setcolors) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/setcolors) |
 | <img loading="lazy" src="icons/sf-tube.png" width="48" height="48"> | [***sf-tube***](apps/sf-tube.md) | *Watch and download videos without ads.*..[ *read more* ](apps/sf-tube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sf-tube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sf-tube) |

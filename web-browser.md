@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **62** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **63** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -83,6 +83,7 @@
 | <img loading="lazy" src="icons/polypane.png" width="48" height="48"> | [***polypane***](apps/polypane.md) | *Browser for web developers.*..[ *read more* ](apps/polypane.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/polypane) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/polypane) |
 | <img loading="lazy" src="icons/promethium.png" width="48" height="48"> | [***promethium***](apps/promethium.md) | *Extensible and innovative web browser with built-in AdBlock.*..[ *read more* ](apps/promethium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/promethium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/promethium) |
 | <img loading="lazy" src="icons/responsively.png" width="48" height="48"> | [***responsively***](apps/responsively.md) | *A browser for developing responsive web apps.*..[ *read more* ](apps/responsively.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/responsively) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/responsively) |
+| <img loading="lazy" src="icons/servo.png" width="48" height="48"> | [***servo***](apps/servo.md) | *Unofficial AppImage builds of the Servo web browser engine.*..[ *read more* ](apps/servo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/servo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/servo) |
 | <img loading="lazy" src="icons/theweb.png" width="48" height="48"> | [***theweb***](apps/theweb.md) | *Web Browser.*..[ *read more* ](apps/theweb.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/theweb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/theweb) |
 | <img loading="lazy" src="icons/thorium.png" width="48" height="48"> | [***thorium***](apps/thorium.md) | *Web Browser, a Chromium fork including Widevine and FFmpeg support.*..[ *read more* ](apps/thorium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thorium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thorium) |
 | <img loading="lazy" src="icons/tor-browser.png" width="48" height="48"> | [***tor-browser***](apps/tor-browser.md) | *Privacy-oriented Web Browser for sites blocked in your country.*..[ *read more* ](apps/tor-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tor-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tor-browser) |

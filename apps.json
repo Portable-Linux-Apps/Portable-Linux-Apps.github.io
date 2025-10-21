@@ -10025,6 +10025,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/serioussamtse-vk.png"
   },
   {
+    "packageName": "servo",
+    "description": "Unofficial AppImage builds of the Servo web browser engine...",
+    "icon": "https://portable-linux-apps.github.io/icons/servo.png"
+  },
+  {
     "packageName": "session-desktop",
     "description": "Onion routing based messenger...",
     "icon": "https://portable-linux-apps.github.io/icons/session-desktop.png"
