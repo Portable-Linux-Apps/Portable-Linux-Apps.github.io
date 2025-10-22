@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **240** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **239** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -226,7 +226,6 @@
 | <img loading="lazy" src="icons/pince.png" width="48" height="48"> | [***pince***](apps/pince.md) | *Reverse engineering tool for linux games.*..[ *read more* ](apps/pince.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pince) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pince) |
 | <img loading="lazy" src="icons/planes.png" width="48" height="48"> | [***planes***](apps/planes.md) | *Variant of battleships game.*..[ *read more* ](apps/planes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/planes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/planes) |
 | <img loading="lazy" src="icons/planet-blupi.png" width="48" height="48"> | [***planet-blupi***](apps/planet-blupi.md) | *A delirious spell-binding game.*..[ *read more* ](apps/planet-blupi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/planet-blupi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/planet-blupi) |
-| <img loading="lazy" src="icons/play.png" width="48" height="48"> | [***play***](apps/play.md) | *PlayStation 2 emulator on your computer or mobile device.*..[ *read more* ](apps/play.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/play) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/play) |
 | <img loading="lazy" src="icons/play-2048.png" width="48" height="48"> | [***play-2048***](apps/play-2048.md) | *Another implementation of the 2048 game.*..[ *read more* ](apps/play-2048.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/play-2048) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/play-2048) |
 | <img loading="lazy" src="icons/playback.png" width="48" height="48"> | [***playback***](apps/playback.md) | *Play and manage your cartridges and replay your childhood games.*..[ *read more* ](apps/playback.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playback) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playback) |
 | <img loading="lazy" src="icons/playit.png" width="48" height="48"> | [***playit***](apps/playit.md) | *Want to run an online game server? playit.gg is a global proxy that allows anyone to host a server without port forwarding.*..[ *read more* ](apps/playit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playit) |

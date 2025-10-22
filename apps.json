@@ -8600,11 +8600,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/platinum-md.png"
   },
   {
-    "packageName": "play",
-    "description": "PlayStation 2 emulator on your computer or mobile device...",
-    "icon": "https://portable-linux-apps.github.io/icons/play.png"
-  },
-  {
     "packageName": "play-2048",
     "description": "Another implementation of the 2048 game...",
     "icon": "https://portable-linux-apps.github.io/icons/play-2048.png"

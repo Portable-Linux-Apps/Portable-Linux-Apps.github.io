@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2121** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2120** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1400,7 +1400,6 @@
 | <img loading="lazy" src="icons/planes.png" width="48" height="48"> | [***planes***](apps/planes.md) | *Variant of battleships game.*..[ *read more* ](apps/planes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/planes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/planes) |
 | <img loading="lazy" src="icons/planet-blupi.png" width="48" height="48"> | [***planet-blupi***](apps/planet-blupi.md) | *A delirious spell-binding game.*..[ *read more* ](apps/planet-blupi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/planet-blupi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/planet-blupi) |
 | <img loading="lazy" src="icons/platinum-md.png" width="48" height="48"> | [***platinum-md***](apps/platinum-md.md) | *Graphical MiniDisc NetMD conversion and upload.*..[ *read more* ](apps/platinum-md.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/platinum-md) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/platinum-md) |
-| <img loading="lazy" src="icons/play.png" width="48" height="48"> | [***play***](apps/play.md) | *PlayStation 2 emulator on your computer or mobile device.*..[ *read more* ](apps/play.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/play) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/play) |
 | <img loading="lazy" src="icons/play-2048.png" width="48" height="48"> | [***play-2048***](apps/play-2048.md) | *Another implementation of the 2048 game.*..[ *read more* ](apps/play-2048.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/play-2048) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/play-2048) |
 | <img loading="lazy" src="icons/playback.png" width="48" height="48"> | [***playback***](apps/playback.md) | *Play and manage your cartridges and replay your childhood games.*..[ *read more* ](apps/playback.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playback) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playback) |
 | <img loading="lazy" src="icons/playbox.png" width="48" height="48"> | [***playbox***](apps/playbox.md) | *An audio playback system for the live production industry.*..[ *read more* ](apps/playbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playbox) |
