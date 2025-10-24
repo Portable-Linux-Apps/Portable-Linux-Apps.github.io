@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2118** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2119** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -44,6 +44,7 @@
 | <img loading="lazy" src="icons/accessimap-lecteur-der.png" width="48" height="48"> | [***accessimap-lecteur-der***](apps/accessimap-lecteur-der.md) | *Accessimap Lecteur DER.*..[ *read more* ](apps/accessimap-lecteur-der.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/accessimap-lecteur-der) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/accessimap-lecteur-der) |
 | <img loading="lazy" src="icons/acestream.png" width="48" height="48"> | [***acestream***](apps/acestream.md) | *Створення бінарника AppImage з AceStream Media.*..[ *read more* ](apps/acestream.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/acestream) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/acestream) |
 | <img loading="lazy" src="icons/acreom.png" width="48" height="48"> | [***acreom***](apps/acreom.md) | *Acreom desktop app releases.*..[ *read more* ](apps/acreom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/acreom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/acreom) |
+| <img loading="lazy" src="icons/actiona.png" width="48" height="48"> | [***actiona***](apps/actiona.md) | *Actiona is an automation tool that allows you to execute many actions on your computer such as emulating mouse clicks, key presses, showing message boxes, editing text files, etc.*..[ *read more* ](apps/actiona.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/actiona) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/actiona) |
 | <img loading="lazy" src="icons/actual.png" width="48" height="48"> | [***actual***](apps/actual.md) | *A super fast privacy-focused app for managing your finances.*..[ *read more* ](apps/actual.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/actual) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/actual) |
 | <img loading="lazy" src="icons/advanced-passgen.png" width="48" height="48"> | [***advanced-passgen***](apps/advanced-passgen.md) | *Advanced Password Generator.*..[ *read more* ](apps/advanced-passgen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/advanced-passgen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/advanced-passgen) |
 | <img loading="lazy" src="icons/advanced-rest-client.png" width="48" height="48"> | [***advanced-rest-client***](apps/advanced-rest-client.md) | *Advanced REST Client and API console, by Mulesoft.*..[ *read more* ](apps/advanced-rest-client.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/advanced-rest-client) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/advanced-rest-client) |

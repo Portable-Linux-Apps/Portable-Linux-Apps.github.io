@@ -70,6 +70,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/acreom.png"
   },
   {
+    "packageName": "actiona",
+    "description": "Actiona is an automation tool that allows you to execute many actions on your computer such as emulating mouse clicks, key presses, showing message boxes, editing text files, etc...",
+    "icon": "https://portable-linux-apps.github.io/icons/actiona.png"
+  },
+  {
     "packageName": "actual",
     "description": "A super fast privacy-focused app for managing your finances...",
     "icon": "https://portable-linux-apps.github.io/icons/actual.png"
