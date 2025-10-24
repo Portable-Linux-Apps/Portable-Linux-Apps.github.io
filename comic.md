@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **30** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **29** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -47,7 +47,6 @@
 | <img loading="lazy" src="icons/cosmic-comics.png" width="48" height="48"> | [***cosmic-comics***](apps/cosmic-comics.md) | *Web Server based Comics / Manga Collectionner & viewer.*..[ *read more* ](apps/cosmic-comics.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cosmic-comics) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cosmic-comics) |
 | <img loading="lazy" src="icons/eplee.png" width="48" height="48"> | [***eplee***](apps/eplee.md) | *Sweet, simple epub reader.*..[ *read more* ](apps/eplee.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eplee) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eplee) |
 | <img loading="lazy" src="icons/fukayo.png" width="48" height="48"> | [***fukayo***](apps/fukayo.md) | *Manga reader.*..[ *read more* ](apps/fukayo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fukayo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fukayo) |
-| <img loading="lazy" src="icons/hayase.png" width="48" height="48"> | [***hayase***](apps/hayase.md) | *Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads.*..[ *read more* ](apps/hayase.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hayase) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hayase) |
 | <img loading="lazy" src="icons/houdoku.png" width="48" height="48"> | [***houdoku***](apps/houdoku.md) | *Manga reader and library manager for the desktop.*..[ *read more* ](apps/houdoku.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/houdoku) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/houdoku) |
 | <img loading="lazy" src="icons/manga-tui.png" width="48" height="48"> | [***manga-tui***](apps/manga-tui.md) | *Terminal-based manga reader and downloader with image support.*..[ *read more* ](apps/manga-tui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/manga-tui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/manga-tui) |
 | <img loading="lazy" src="icons/mangadesk.png" width="48" height="48"> | [***mangadesk***](apps/mangadesk.md) | *Terminal client for MangaDex.*..[ *read more* ](apps/mangadesk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangadesk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangadesk) |

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **97** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **96** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -63,7 +63,6 @@
 | <img loading="lazy" src="icons/electron-wechat.png" width="48" height="48"> | [***electron-wechat***](apps/electron-wechat.md) | *Wechat desktop application.*..[ *read more* ](apps/electron-wechat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electron-wechat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electron-wechat) |
 | <img loading="lazy" src="icons/elk.png" width="48" height="48"> | [***elk***](apps/elk.md) | *Native version of Elk, a nimble Mastodon web.*..[ *read more* ](apps/elk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elk) |
 | <img loading="lazy" src="icons/equibop.png" width="48" height="48"> | [***equibop***](apps/equibop.md) | *Equibop is a custom Discord App aiming to give you better performance and improve linux support.*..[ *read more* ](apps/equibop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/equibop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/equibop) |
-| <img loading="lazy" src="icons/fchat.png" width="48" height="48"> | [***fchat***](apps/fchat.md) | *The F-Chat 3.0 client.*..[ *read more* ](apps/fchat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fchat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fchat) |
 | <img loading="lazy" src="icons/ffwa-facebook.png" width="48" height="48"> | [***ffwa-facebook***](apps/ffwa-facebook.md) | *WebApp & Firefox Profile for Facebook.*..[ *read more* ](apps/ffwa-facebook.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-facebook) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-facebook) |
 | <img loading="lazy" src="icons/ffwa-whatsapp.png" width="48" height="48"> | [***ffwa-whatsapp***](apps/ffwa-whatsapp.md) | *WebApp & Firefox Profile for WhatsApp.*..[ *read more* ](apps/ffwa-whatsapp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-whatsapp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-whatsapp) |
 | <img loading="lazy" src="icons/fluffychat.png" width="48" height="48"> | [***fluffychat***](apps/fluffychat.md) | *The cutest instant messenger in the matrix.*..[ *read more* ](apps/fluffychat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fluffychat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fluffychat) |

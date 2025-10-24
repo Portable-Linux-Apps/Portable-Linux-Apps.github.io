@@ -3360,11 +3360,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/fat-wallet.png"
   },
   {
-    "packageName": "fchat",
-    "description": "The F-Chat 3.0 client...",
-    "icon": "https://portable-linux-apps.github.io/icons/fchat.png"
-  },
-  {
     "packageName": "fcp",
     "description": "CLI, a significantly faster alternative to the classic Unix cp(1) command, copying large files and directories in a fraction of the time...",
     "icon": "https://portable-linux-apps.github.io/icons/fcp.png"
@@ -4718,11 +4713,6 @@
     "packageName": "haveno-reto",
     "description": "Decentralized P2P exchange built on Monero and Tor...",
     "icon": "https://portable-linux-apps.github.io/icons/haveno-reto.png"
-  },
-  {
-    "packageName": "hayase",
-    "description": "Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads...",
-    "icon": "https://portable-linux-apps.github.io/icons/hayase.png"
   },
   {
     "packageName": "hctl",
