@@ -10125,9 +10125,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/shradiko.png"
   },
   {
-    "packageName": "shutter",
+    "packageName": "shutter-encoder",
     "description": "Professional converter & compression tool designed by video editors...",
-    "icon": "https://portable-linux-apps.github.io/icons/shutter.png"
+    "icon": "https://portable-linux-apps.github.io/icons/shutter-encoder.png"
   },
   {
     "packageName": "shuttle",
