@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2518** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2519** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -701,6 +701,7 @@
 | <img loading="lazy" src="icons/fastfetch.png" width="48" height="48"> | [***fastfetch***](apps/fastfetch.md) | *Like neofetch, but much faster because written mostly in C.*..[ *read more* ](apps/fastfetch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fastfetch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fastfetch) |
 | <img loading="lazy" src="icons/fasttrack.png" width="48" height="48"> | [***fasttrack***](apps/fasttrack.md) | *Fast tracking of multiple objects.*..[ *read more* ](apps/fasttrack.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fasttrack) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fasttrack) |
 | <img loading="lazy" src="icons/fat-wallet.png" width="48" height="48"> | [***fat-wallet***](apps/fat-wallet.md) | *Wallet for FAT tokens.*..[ *read more* ](apps/fat-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fat-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fat-wallet) |
+| <img loading="lazy" src="icons/fbreader.png" width="48" height="48"> | [***fbreader***](apps/fbreader.md) | *Your Favourite eBook Reader*..[ *read more* ](apps/fbreader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fbreader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fbreader) |
 | <img loading="lazy" src="icons/fcp.png" width="48" height="48"> | [***fcp***](apps/fcp.md) | *CLI, a significantly faster alternative to the classic Unix cp(1) command, copying large files and directories in a fraction of the time.*..[ *read more* ](apps/fcp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fcp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fcp) |
 | <img loading="lazy" src="icons/fd.png" width="48" height="48"> | [***fd***](apps/fd.md) | *A simple, fast and user-friendly alternative to 'find'.*..[ *read more* ](apps/fd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fd) |
 | <img loading="lazy" src="icons/fdc3-sail.png" width="48" height="48"> | [***fdc3-sail***](apps/fdc3-sail.md) | *Open implementation of the FDC3 standard using Electron.*..[ *read more* ](apps/fdc3-sail.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fdc3-sail) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fdc3-sail) |

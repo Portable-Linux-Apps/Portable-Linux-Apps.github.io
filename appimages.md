@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2119** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2120** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -599,6 +599,7 @@
 | <img loading="lazy" src="icons/fastfetch.png" width="48" height="48"> | [***fastfetch***](apps/fastfetch.md) | *Like neofetch, but much faster because written mostly in C.*..[ *read more* ](apps/fastfetch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fastfetch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fastfetch) |
 | <img loading="lazy" src="icons/fasttrack.png" width="48" height="48"> | [***fasttrack***](apps/fasttrack.md) | *Fast tracking of multiple objects.*..[ *read more* ](apps/fasttrack.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fasttrack) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fasttrack) |
 | <img loading="lazy" src="icons/fat-wallet.png" width="48" height="48"> | [***fat-wallet***](apps/fat-wallet.md) | *Wallet for FAT tokens.*..[ *read more* ](apps/fat-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fat-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fat-wallet) |
+| <img loading="lazy" src="icons/fbreader.png" width="48" height="48"> | [***fbreader***](apps/fbreader.md) | *Your Favourite eBook Reader*..[ *read more* ](apps/fbreader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fbreader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fbreader) |
 | <img loading="lazy" src="icons/fdc3-sail.png" width="48" height="48"> | [***fdc3-sail***](apps/fdc3-sail.md) | *Open implementation of the FDC3 standard using Electron.*..[ *read more* ](apps/fdc3-sail.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fdc3-sail) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fdc3-sail) |
 | <img loading="lazy" src="icons/fdm.png" width="48" height="48"> | [***fdm***](apps/fdm.md) | *Free Download Manager, multiplatform powerful modern download accelerator and organizer.*..[ *read more* ](apps/fdm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fdm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fdm) |
 | <img loading="lazy" src="icons/feather-wallet.png" width="48" height="48"> | [***feather-wallet***](apps/feather-wallet.md) | *Monero wallet.*..[ *read more* ](apps/feather-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/feather-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/feather-wallet) |
