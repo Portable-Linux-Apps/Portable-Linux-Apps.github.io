@@ -5,6 +5,8 @@
  This is the GTK version.
  
  SITE: https://doublecmd.sourceforge.io
+ 
+ REPOSITORY: https://github.com/doublecmd/doublecmd
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
