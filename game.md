@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **239** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **240** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -262,6 +262,7 @@
 | <img loading="lazy" src="icons/snake-js.png" width="48" height="48"> | [***snake-js***](apps/snake-js.md) | *Canvas/JavaScript based Snake Game with support for controllers.*..[ *read more* ](apps/snake-js.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snake-js) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snake-js) |
 | <img loading="lazy" src="icons/snes9x.png" width="48" height="48"> | [***snes9x***](apps/snes9x.md) | *Snes9x - Portable Super Nintendo Entertainment System TM emulator.*..[ *read more* ](apps/snes9x.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snes9x) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snes9x) |
 | <img loading="lazy" src="icons/soul-arena.png" width="48" height="48"> | [***soul-arena***](apps/soul-arena.md) | *Bleach-based online multiplayer strategy game.*..[ *read more* ](apps/soul-arena.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soul-arena) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soul-arena) |
+| <img loading="lazy" src="icons/sound-space-plus.png" width="48" height="48"> | [***sound-space-plus***](apps/sound-space-plus.md) | *Unofficial AppImage of sound-space-plus, Rhythm-based aim game.*..[ *read more* ](apps/sound-space-plus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sound-space-plus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sound-space-plus) |
 | <img loading="lazy" src="icons/spacecadet.png" width="48" height="48"> | [***spacecadet***](apps/spacecadet.md) | *Unofficial. Reverse engineered port of 3D Pinball for Windows XP Space Cadet.*..[ *read more* ](apps/spacecadet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spacecadet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spacecadet) |
 | <img loading="lazy" src="icons/spacewars.png" width="48" height="48"> | [***spacewars***](apps/spacewars.md) | *A re-imagining of the classic game Spacewar using Amethyst engine.*..[ *read more* ](apps/spacewars.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spacewars) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spacewars) |
 | <img loading="lazy" src="icons/spaghettikart.png" width="48" height="48"> | [***spaghettikart***](apps/spaghettikart.md) | *Unofficial Mario Kart 64 PC game Port.*..[ *read more* ](apps/spaghettikart.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spaghettikart) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spaghettikart) |

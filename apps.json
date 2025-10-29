@@ -10465,6 +10465,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/soul-arena.png"
   },
   {
+    "packageName": "sound-space-plus",
+    "description": "Unofficial AppImage of sound-space-plus, Rhythm-based aim game...",
+    "icon": "https://portable-linux-apps.github.io/icons/sound-space-plus.png"
+  },
+  {
     "packageName": "soundcloud-rpc",
     "description": "A SoundCloud client with Discord Rich Presence and AdBlock...",
     "icon": "https://portable-linux-apps.github.io/icons/soundcloud-rpc.png"
