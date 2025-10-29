@@ -4220,6 +4220,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/git-cliff.png"
   },
   {
+    "packageName": "git-credential-oauth",
+    "description": "A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth...",
+    "icon": "https://portable-linux-apps.github.io/icons/git-credential-oauth.png"
+  },
+  {
     "packageName": "git-good",
     "description": "Just a simple git client using electron and nodegit...",
     "icon": "https://portable-linux-apps.github.io/icons/git-good.png"
@@ -10668,6 +10673,11 @@
     "packageName": "starc",
     "description": "Story Architect, reinventing the screenwriting software...",
     "icon": "https://portable-linux-apps.github.io/icons/starc.png"
+  },
+  {
+    "packageName": "starship",
+    "description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell...",
+    "icon": "https://portable-linux-apps.github.io/icons/starship.png"
   },
   {
     "packageName": "stash-electron",
