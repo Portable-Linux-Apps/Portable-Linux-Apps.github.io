@@ -9960,6 +9960,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/seafile-cli.png"
   },
   {
+    "packageName": "seanime",
+    "description": "Open-source media server with a web interface and desktop app for anime and manga...",
+    "icon": "https://portable-linux-apps.github.io/icons/seanime.png"
+  },
+  {
     "packageName": "secops",
     "description": "A Linux Desktop Application for managing security...",
     "icon": "https://portable-linux-apps.github.io/icons/secops.png"
