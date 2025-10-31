@@ -310,6 +310,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/android-tools.png"
   },
   {
+    "packageName": "android-translation-layer",
+    "description": "Unofficial, A translation layer that allows running Android apps on a Linux system...",
+    "icon": "https://portable-linux-apps.github.io/icons/android-translation-layer.png"
+  },
+  {
     "packageName": "ani-cli",
     "description": "A cli tool to browse and play anime...",
     "icon": "https://portable-linux-apps.github.io/icons/ani-cli.png"
