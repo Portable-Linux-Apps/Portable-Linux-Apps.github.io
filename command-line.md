@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **214** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **215** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -126,6 +126,7 @@
 | <img loading="lazy" src="icons/imagemagick-clang.png" width="48" height="48"> | [***imagemagick-clang***](apps/imagemagick-clang.md) | *CLI to create, edit, compose, or convert digital images.*..[ *read more* ](apps/imagemagick-clang.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/imagemagick-clang) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/imagemagick-clang) |
 | <img loading="lazy" src="icons/imagemagick-gcc.png" width="48" height="48"> | [***imagemagick-gcc***](apps/imagemagick-gcc.md) | *CLI to create, edit, compose, or convert digital images.*..[ *read more* ](apps/imagemagick-gcc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/imagemagick-gcc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/imagemagick-gcc) |
 | <img loading="lazy" src="icons/imgcat.png" width="48" height="48"> | [***imgcat***](apps/imgcat.md) | *Display images and gifs in your terminal.*..[ *read more* ](apps/imgcat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/imgcat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/imgcat) |
+| <img loading="lazy" src="icons/inxi.png" width="48" height="48"> | [***inxi***](apps/inxi.md) | *A full featured CLI system information tool.*..[ *read more* ](apps/inxi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/inxi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/inxi) |
 | <img loading="lazy" src="icons/jless.png" width="48" height="48"> | [***jless***](apps/jless.md) | *CLI JSON viewer designed for reading, exploring, and searching.*..[ *read more* ](apps/jless.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jless) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jless) |
 | <img loading="lazy" src="icons/jottem.png" width="48" height="48"> | [***jottem***](apps/jottem.md) | *A lean, low friction terminal app for managing markdown notes.*..[ *read more* ](apps/jottem.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jottem) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jottem) |
 | <img loading="lazy" src="icons/jq.png" width="48" height="48"> | [***jq***](apps/jq.md) | *Command-line JSON processor.*..[ *read more* ](apps/jq.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jq) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jq) |
