@@ -12790,6 +12790,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/ym-desktop.png"
   },
   {
+    "packageName": "ymir",
+    "description": "Sega Saturn emulator..",
+    "icon": "https://portable-linux-apps.github.io/icons/ymir.png"
+  },
+  {
+    "packageName": "ymir-nightly",
+    "description": "Sega Saturn emulator (Nightly builds)..",
+    "icon": "https://portable-linux-apps.github.io/icons/ymir-nightly.png"
+  },
+  {
     "packageName": "youtube-download",
     "description": "GUI and CLI for downloading YouTube video/audio...",
     "icon": "https://portable-linux-apps.github.io/icons/youtube-download.png"
