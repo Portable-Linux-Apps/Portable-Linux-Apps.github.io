@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **141** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **140** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -33,7 +33,6 @@
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/432hz-player.png" width="48" height="48"> | [***432hz-player***](apps/432hz-player.md) | *Because most music is recorded in 440hz, Audio Player.*..[ *read more* ](apps/432hz-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/432hz-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/432hz-player) |
-| <img loading="lazy" src="icons/amarok.png" width="48" height="48"> | [***amarok***](apps/amarok.md) | *Unofficial. The powerful music player for KDE.*..[ *read more* ](apps/amarok.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amarok) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amarok) |
 | <img loading="lazy" src="icons/amusiz.png" width="48" height="48"> | [***amusiz***](apps/amusiz.md) | *Unofficial and unpretentious Amazon Music client.*..[ *read more* ](apps/amusiz.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amusiz) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amusiz) |
 | <img loading="lazy" src="icons/anavis.png" width="48" height="48"> | [***anavis***](apps/anavis.md) | *Tool to visualize musical form.*..[ *read more* ](apps/anavis.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/anavis) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/anavis) |
 | <img loading="lazy" src="icons/anklang.png" width="48" height="48"> | [***anklang***](apps/anklang.md) | *MIDI and Audio Synthesizer and Composer.*..[ *read more* ](apps/anklang.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/anklang) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/anklang) |

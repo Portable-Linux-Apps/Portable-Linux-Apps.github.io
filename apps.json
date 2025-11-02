@@ -245,11 +245,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/alvr.png"
   },
   {
-    "packageName": "amarok",
-    "description": "Unofficial. The powerful music player for KDE...",
-    "icon": "https://portable-linux-apps.github.io/icons/amarok.png"
-  },
-  {
     "packageName": "amazingmarvin",
     "description": "Incorporates principles from behavioral psychology...",
     "icon": "https://portable-linux-apps.github.io/icons/amazingmarvin.png"
