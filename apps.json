@@ -12640,6 +12640,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/xenia-canary.png"
   },
   {
+    "packageName": "xenia-edge",
+    "description": "Xbox 360 Emulator Research Project, fork of the Xenia emulator, with the aim of quicker iteration and improvements to Vulkan backend...",
+    "icon": "https://portable-linux-apps.github.io/icons/xenia-edge.png"
+  },
+  {
     "packageName": "xgetter",
     "description": "Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Bilibili, Douyin and more...",
     "icon": "https://portable-linux-apps.github.io/icons/xgetter.png"
