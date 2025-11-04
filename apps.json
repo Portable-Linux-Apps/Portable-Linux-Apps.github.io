@@ -9540,6 +9540,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/remind-me-again.png"
   },
   {
+    "packageName": "remnote",
+    "description": "Make flashcards in your notes. Cut study time in half. Use evidence-based memory techniques to create flashcards that resurface at the best time for retention...",
+    "icon": "https://portable-linux-apps.github.io/icons/remnote.png"
+  },
+  {
     "packageName": "rendertune",
     "description": "Electron app that uses ffmpeg to combine audio.+image files into video files...",
     "icon": "https://portable-linux-apps.github.io/icons/rendertune.png"
