@@ -2391,23 +2391,13 @@
   },
   {
     "packageName": "deadbeef",
-    "description": "A modular cross-platform audio player...",
+    "description": "Unofficial AppImage of the DeaDBeeF music player (Stable version)...",
     "icon": "https://portable-linux-apps.github.io/icons/deadbeef.png"
   },
   {
-    "packageName": "deadbeef-appimage",
-    "description": "Unofficial AppImage of the DeaDBeeF music player. Stable build...",
-    "icon": "https://portable-linux-apps.github.io/icons/deadbeef-appimage.png"
-  },
-  {
     "packageName": "deadbeef-nightly",
-    "description": "A modular cross-platform audio player. Nightly build...",
+    "description": "Unofficial AppImage of the DeaDBeeF music player (Nightly version)...",
     "icon": "https://portable-linux-apps.github.io/icons/deadbeef-nightly.png"
-  },
-  {
-    "packageName": "deadbeef-nightly-appimage",
-    "description": "Unofficial AppImage of the DeaDBeeF music player. Nightly build...",
-    "icon": "https://portable-linux-apps.github.io/icons/deadbeef-nightly-appimage.png"
   },
   {
     "packageName": "deadgame-2048",
