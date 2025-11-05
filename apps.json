@@ -1760,6 +1760,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/clamtk.png"
   },
   {
+    "packageName": "clapper",
+    "description": "Unofficial. A modern media player designed for simplicity and ease of use...",
+    "icon": "https://portable-linux-apps.github.io/icons/clapper.png"
+  },
+  {
     "packageName": "clash-verge",
     "description": "A multiplatform Clash GUI based on tauri...",
     "icon": "https://portable-linux-apps.github.io/icons/clash-verge.png"
