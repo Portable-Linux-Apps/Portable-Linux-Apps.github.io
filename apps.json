@@ -11555,6 +11555,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/torzu.png"
   },
   {
+    "packageName": "touchhle",
+    "description": "Unofficial, High-level emulator for iPhone OS apps...",
+    "icon": "https://portable-linux-apps.github.io/icons/touchhle.png"
+  },
+  {
     "packageName": "trackaudio",
     "description": "A next generation Audio-For-VATSIM ATC Client...",
     "icon": "https://portable-linux-apps.github.io/icons/trackaudio.png"
@@ -11773,6 +11778,11 @@
     "packageName": "uncov",
     "description": "A tool that collects and processes code coverage reports...",
     "icon": "https://portable-linux-apps.github.io/icons/uncov.png"
+  },
+  {
+    "packageName": "undertaker141",
+    "description": "A free and open-source game-center for linux. Pre-configured Wine and Native Games for Linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/undertaker141.png"
   },
   {
     "packageName": "unetbootin",
