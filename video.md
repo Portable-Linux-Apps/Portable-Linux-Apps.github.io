@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **147** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **148** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -94,6 +94,7 @@
 | <img loading="lazy" src="icons/moosync.png" width="48" height="48"> | [***moosync***](apps/moosync.md) | *Music player capable of playing local audio or from Youtube/Spotify.*..[ *read more* ](apps/moosync.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moosync) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moosync) |
 | <img loading="lazy" src="icons/movie-monad.png" width="48" height="48"> | [***movie-monad***](apps/movie-monad.md) | *Free and simple to use video player made with Haskell.*..[ *read more* ](apps/movie-monad.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/movie-monad) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/movie-monad) |
 | <img loading="lazy" src="icons/mp4grep.png" width="48" height="48"> | [***mp4grep***](apps/mp4grep.md) | *CLI for transcribing and searching audio/video files.*..[ *read more* ](apps/mp4grep.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mp4grep) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mp4grep) |
+| <img loading="lazy" src="icons/mpc-qt.png" width="48" height="48"> | [***mpc-qt***](apps/mpc-qt.md) | *Media Player Classic Qute Theater.*..[ *read more* ](apps/mpc-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mpc-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mpc-qt) |
 | <img loading="lazy" src="icons/mpv.png" width="48" height="48"> | [***mpv***](apps/mpv.md) | *Unofficial, A free, open source, and cross-platform media player, Multiple-choices.*..[ *read more* ](apps/mpv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mpv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mpv) |
 | <img loading="lazy" src="icons/muffon.png" width="48" height="48"> | [***muffon***](apps/muffon.md) | *Music streaming browser,retrieves audio, video and metadata.*..[ *read more* ](apps/muffon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/muffon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/muffon) |
 | <img loading="lazy" src="icons/nazuna.png" width="48" height="48"> | [***nazuna***](apps/nazuna.md) | *Download Twitter videos using your terminal!*..[ *read more* ](apps/nazuna.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nazuna) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nazuna) |

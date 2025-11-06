@@ -7080,6 +7080,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/mp4grep.png"
   },
   {
+    "packageName": "mpc-qt",
+    "description": "Media Player Classic Qute Theater...",
+    "icon": "https://portable-linux-apps.github.io/icons/mpc-qt.png"
+  },
+  {
     "packageName": "mpv",
     "description": "Unofficial, A free, open source, and cross-platform media player, Multiple-choices...",
     "icon": "https://portable-linux-apps.github.io/icons/mpv.png"
@@ -9538,6 +9543,11 @@
     "packageName": "redis-viewer",
     "description": "A Redis visualization client tool...",
     "icon": "https://portable-linux-apps.github.io/icons/redis-viewer.png"
+  },
+  {
+    "packageName": "rehex",
+    "description": "Reverse Engineers' Hex Editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/rehex.png"
   },
   {
     "packageName": "remind-me-again",
