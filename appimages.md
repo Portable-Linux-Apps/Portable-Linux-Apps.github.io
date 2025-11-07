@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2130** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2131** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1397,6 +1397,7 @@
 | <img loading="lazy" src="icons/pingnoo.png" width="48" height="48"> | [***pingnoo***](apps/pingnoo.md) | *An open source network ping analyser.*..[ *read more* ](apps/pingnoo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pingnoo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pingnoo) |
 | <img loading="lazy" src="icons/pingviewer.png" width="48" height="48"> | [***pingviewer***](apps/pingviewer.md) | *Ping viewer interface.*..[ *read more* ](apps/pingviewer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pingviewer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pingviewer) |
 | <img loading="lazy" src="icons/pinokio.png" width="48" height="48"> | [***pinokio***](apps/pinokio.md) | *AI Browser.*..[ *read more* ](apps/pinokio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pinokio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pinokio) |
+| <img loading="lazy" src="icons/pinta.png" width="48" height="48"> | [***pinta***](apps/pinta.md) | *Unofficial, Simple GTK Paint Program clone of Paint.Net 3.0.*..[ *read more* ](apps/pinta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pinta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pinta) |
 | <img loading="lazy" src="icons/pixelhopper.png" width="48" height="48"> | [***pixelhopper***](apps/pixelhopper.md) | *Animated GIF player for Linux (X11).*..[ *read more* ](apps/pixelhopper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pixelhopper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pixelhopper) |
 | <img loading="lazy" src="icons/pixsrt.png" width="48" height="48"> | [***pixsrt***](apps/pixsrt.md) | *Pixel sorter.*..[ *read more* ](apps/pixsrt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pixsrt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pixsrt) |
 | <img loading="lazy" src="icons/pkg2appimage.png" width="48" height="48"> | [***pkg2appimage***](apps/pkg2appimage.md) | *Utility to convert .yml recipes to AppDir, see appimagetool.*..[ *read more* ](apps/pkg2appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pkg2appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pkg2appimage) |

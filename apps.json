@@ -8555,6 +8555,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/pinokio.png"
   },
   {
+    "packageName": "pinta",
+    "description": "Unofficial, Simple GTK Paint Program clone of Paint.Net 3.0...",
+    "icon": "https://portable-linux-apps.github.io/icons/pinta.png"
+  },
+  {
     "packageName": "pinta-dev",
     "description": "Simple GTK Paint Program (developer edition)...",
     "icon": "https://portable-linux-apps.github.io/icons/pinta-dev.png"
