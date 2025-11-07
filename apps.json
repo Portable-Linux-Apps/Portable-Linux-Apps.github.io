@@ -10105,11 +10105,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/shadps4.png"
   },
   {
-    "packageName": "shadps4-nightly",
-    "description": "An early PlayStation 4 emulator written in C++...",
-    "icon": "https://portable-linux-apps.github.io/icons/shadps4-nightly.png"
-  },
-  {
     "packageName": "shannon-calculator",
     "description": "Self-information content of a message text...",
     "icon": "https://portable-linux-apps.github.io/icons/shannon-calculator.png"
