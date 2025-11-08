@@ -5210,6 +5210,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/jan.png"
   },
   {
+    "packageName": "janice",
+    "description": "A desktop app for viewing large JSON files...",
+    "icon": "https://portable-linux-apps.github.io/icons/janice.png"
+  },
+  {
     "packageName": "jazz2",
     "description": "Open-source reimplementation of Jazz Jackrabbit 2...",
     "icon": "https://portable-linux-apps.github.io/icons/jazz2.png"
