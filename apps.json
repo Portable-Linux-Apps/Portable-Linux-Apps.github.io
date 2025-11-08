@@ -5240,6 +5240,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/jdnbtexplorer.png"
   },
   {
+    "packageName": "jdownloader2",
+    "description": "JDownloader is a free download management tool with a huge community that makes downloading as easy and fast as it should be...",
+    "icon": "https://portable-linux-apps.github.io/icons/jdownloader2.png"
+  },
+  {
     "packageName": "jdreplace",
     "description": "With jdReplace you can replace a text in all files of a directory...",
     "icon": "https://portable-linux-apps.github.io/icons/jdreplace.png"
