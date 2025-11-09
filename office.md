@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **89** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **90** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -82,6 +82,7 @@
 | <img loading="lazy" src="icons/mtcelledit.png" width="48" height="48"> | [***mtcelledit***](apps/mtcelledit.md) | *Lightweight spreadsheet program.*..[ *read more* ](apps/mtcelledit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mtcelledit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mtcelledit) |
 | <img loading="lazy" src="icons/mupdf.png" width="48" height="48"> | [***mupdf***](apps/mupdf.md) | *Lightweight PDF, XPS, and E-book viewer.*..[ *read more* ](apps/mupdf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mupdf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mupdf) |
 | <img loading="lazy" src="icons/mutool.png" width="48" height="48"> | [***mutool***](apps/mutool.md) | *All purpose tool for dealing with PDF files.*..[ *read more* ](apps/mutool.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mutool) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mutool) |
+| <img loading="lazy" src="icons/newsflash.png" width="48" height="48"> | [***newsflash***](apps/newsflash.md) | *Unofficial. RSS reader with support for local and web RSS feed.*..[ *read more* ](apps/newsflash.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/newsflash) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/newsflash) |
 | <img loading="lazy" src="icons/nightpdf.png" width="48" height="48"> | [***nightpdf***](apps/nightpdf.md) | *Dark Mode PDF Reader built using Electron and PDF.js.*..[ *read more* ](apps/nightpdf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nightpdf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nightpdf) |
 | <img loading="lazy" src="icons/onlyoffice.png" width="48" height="48"> | [***onlyoffice***](apps/onlyoffice.md) | *Office Suite with full support for MS Windows formats and cloud.*..[ *read more* ](apps/onlyoffice.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/onlyoffice) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/onlyoffice) |
 | <img loading="lazy" src="icons/onlyrefs.png" width="48" height="48"> | [***onlyrefs***](apps/onlyrefs.md) | *Organize all of your references, notes, bookmarks and more.*..[ *read more* ](apps/onlyrefs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/onlyrefs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/onlyrefs) |
