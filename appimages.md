@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2133** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2134** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1675,6 +1675,7 @@
 | <img loading="lazy" src="icons/shadow-tech.png" width="48" height="48"> | [***shadow-tech***](apps/shadow-tech.md) | *Shadow.tech, cloud computing service.*..[ *read more* ](apps/shadow-tech.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shadow-tech) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shadow-tech) |
 | <img loading="lazy" src="icons/shadowsocks.png" width="48" height="48"> | [***shadowsocks***](apps/shadowsocks.md) | *Shadowsocks GUI client.*..[ *read more* ](apps/shadowsocks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shadowsocks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shadowsocks) |
 | <img loading="lazy" src="icons/shadps4.png" width="48" height="48"> | [***shadps4***](apps/shadps4.md) | *An early PlayStation 4 emulator written in C++.*..[ *read more* ](apps/shadps4.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shadps4) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shadps4) |
+| <img loading="lazy" src="icons/shadps4-qtlauncher.png" width="48" height="48"> | [***shadps4-qtlauncher***](apps/shadps4-qtlauncher.md) | *The official Qt launcher for shadps4 PlayStation 4 emulator.*..[ *read more* ](apps/shadps4-qtlauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shadps4-qtlauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shadps4-qtlauncher) |
 | <img loading="lazy" src="icons/shannon-calculator.png" width="48" height="48"> | [***shannon-calculator***](apps/shannon-calculator.md) | *Self-information content of a message text.*..[ *read more* ](apps/shannon-calculator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shannon-calculator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shannon-calculator) |
 | <img loading="lazy" src="icons/sharemyhost.png" width="48" height="48"> | [***sharemyhost***](apps/sharemyhost.md) | *One click to share your files in your local network.*..[ *read more* ](apps/sharemyhost.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sharemyhost) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sharemyhost) |
 | <img loading="lazy" src="icons/sharp-tune.png" width="48" height="48"> | [***sharp-tune***](apps/sharp-tune.md) | *Music player build upon the node using the electron.*..[ *read more* ](apps/sharp-tune.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sharp-tune) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sharp-tune) |
