@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2541** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2542** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2427,6 +2427,7 @@
 | <img loading="lazy" src="icons/vhc-viewer-wayland.png" width="48" height="48"> | [***vhc-viewer-wayland***](apps/vhc-viewer-wayland.md) | *Vulkan Hardware Capability Viewer.*..[ *read more* ](apps/vhc-viewer-wayland.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vhc-viewer-wayland) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vhc-viewer-wayland) |
 | <img loading="lazy" src="icons/vhc-viewer-x11.png" width="48" height="48"> | [***vhc-viewer-x11***](apps/vhc-viewer-x11.md) | *Vulkan Hardware Capability Viewer.*..[ *read more* ](apps/vhc-viewer-x11.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vhc-viewer-x11) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vhc-viewer-x11) |
 | <img loading="lazy" src="icons/vhs.png" width="48" height="48"> | [***vhs***](apps/vhs.md) | *Your CLI home video recorder.*..[ *read more* ](apps/vhs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vhs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vhs) |
+| <img loading="lazy" src="icons/via-desktop.png" width="48" height="48"> | [***via-desktop***](apps/via-desktop.md) | *VIA Desktop is an Electron application designed to provide an offline experience for VIA.*..[ *read more* ](apps/via-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/via-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/via-desktop) |
 | <img loading="lazy" src="icons/via.png" width="48" height="48"> | [***via***](apps/via.md) | *Your keyboard's best friend.*..[ *read more* ](apps/via.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/via) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/via) |
 | <img loading="lazy" src="icons/vial.png" width="48" height="48"> | [***vial***](apps/vial.md) | *GUI and a QMK fork for configuring your keyboard in real time.*..[ *read more* ](apps/vial.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vial) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vial) |
 | <img loading="lazy" src="icons/viber.png" width="48" height="48"> | [***viber***](apps/viber.md) | *Proprietary cross-platform IM and VoIP software.*..[ *read more* ](apps/viber.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viber) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viber) |

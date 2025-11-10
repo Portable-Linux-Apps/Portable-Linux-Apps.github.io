@@ -12000,6 +12000,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/via.png"
   },
   {
+    "packageName": "via-desktop",
+    "description": "VIA Desktop is an Electron application designed to provide an offline experience for VIA...",
+    "icon": "https://portable-linux-apps.github.io/icons/via-desktop.png"
+  },
+  {
     "packageName": "vial",
     "description": "GUI and a QMK fork for configuring your keyboard in real time...",
     "icon": "https://portable-linux-apps.github.io/icons/vial.png"
