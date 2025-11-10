@@ -710,6 +710,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/auryo.png"
   },
   {
+    "packageName": "authenticator",
+    "description": "Unofficial. An application which generates 2FA code in realtime...",
+    "icon": "https://portable-linux-apps.github.io/icons/authenticator.png"
+  },
+  {
     "packageName": "authme",
     "description": "Simple cross-platform two-factor authenticator app for desktop...",
     "icon": "https://portable-linux-apps.github.io/icons/authme.png"
@@ -12268,6 +12273,11 @@
     "packageName": "wallettech",
     "description": "BytechCoin GUI Wallet...",
     "icon": "https://portable-linux-apps.github.io/icons/wallettech.png"
+  },
+  {
+    "packageName": "warp",
+    "description": "Unofficial. Fast and secure file transfer through internet or local network exchanging a word-based code...",
+    "icon": "https://portable-linux-apps.github.io/icons/warp.png"
   },
   {
     "packageName": "warp-terminal",
