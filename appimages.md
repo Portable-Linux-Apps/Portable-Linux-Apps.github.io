@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2139** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2138** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1866,7 +1866,6 @@
 | <img loading="lazy" src="icons/tablo-tools.png" width="48" height="48"> | [***tablo-tools***](apps/tablo-tools.md) | *Tools to Bulk Delete and Export from Tablo DVR.*..[ *read more* ](apps/tablo-tools.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tablo-tools) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tablo-tools) |
 | <img loading="lazy" src="icons/tag-editor.png" width="48" height="48"> | [***tag-editor***](apps/tag-editor.md) | *Tag Editor, supports MP4, ID3, Vorbis, Opus, FLAC and Matroska.*..[ *read more* ](apps/tag-editor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tag-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tag-editor) |
 | <img loading="lazy" src="icons/tagspaces.png" width="48" height="48"> | [***tagspaces***](apps/tagspaces.md) | *An offline, open source, document manager with tagging support.*..[ *read more* ](apps/tagspaces.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tagspaces) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tagspaces) |
-| <img loading="lazy" src="icons/tagstoo.png" width="48" height="48"> | [***tagstoo***](apps/tagstoo.md) | *Tagstoo tagging application.*..[ *read more* ](apps/tagstoo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tagstoo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tagstoo) |
 | <img loading="lazy" src="icons/tagtime-desktop.png" width="48" height="48"> | [***tagtime-desktop***](apps/tagtime-desktop.md) | *Time tracking for space cadets, desktop edition.*..[ *read more* ](apps/tagtime-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tagtime-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tagtime-desktop) |
 | <img loading="lazy" src="icons/tangent.png" width="48" height="48"> | [***tangent***](apps/tangent.md) | *A clean and powerful open source notes app.*..[ *read more* ](apps/tangent.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tangent) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tangent) |
 | <img loading="lazy" src="icons/taskade.png" width="48" height="48"> | [***taskade***](apps/taskade.md) | *AI-Powered productivity.*..[ *read more* ](apps/taskade.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskade) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskade) |

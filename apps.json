@@ -11195,11 +11195,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/tagspaces.png"
   },
   {
-    "packageName": "tagstoo",
-    "description": "Tagstoo tagging application...",
-    "icon": "https://portable-linux-apps.github.io/icons/tagstoo.png"
-  },
-  {
     "packageName": "tagtime-desktop",
     "description": "Time tracking for space cadets, desktop edition...",
     "icon": "https://portable-linux-apps.github.io/icons/tagtime-desktop.png"
