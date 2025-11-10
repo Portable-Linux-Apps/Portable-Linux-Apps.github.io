@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **138** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **139** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -71,6 +71,7 @@
 | <img loading="lazy" src="icons/foobar2000.png" width="48" height="48"> | [***foobar2000***](apps/foobar2000.md) | *Unofficial, an advanced freeware audio player for Windows, includes WINE.*..[ *read more* ](apps/foobar2000.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/foobar2000) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/foobar2000) |
 | <img loading="lazy" src="icons/freac.png" width="48" height="48"> | [***freac***](apps/freac.md) | *fre:ac, free audio converter and CD ripper for various encoders.*..[ *read more* ](apps/freac.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freac) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freac) |
 | <img loading="lazy" src="icons/friture.png" width="48" height="48"> | [***friture***](apps/friture.md) | *Real-time audio visualizations, spectrum, spectrogram, etc..*..[ *read more* ](apps/friture.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/friture) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/friture) |
+| <img loading="lazy" src="icons/gapless.png" width="48" height="48"> | [***gapless***](apps/gapless.md) | *Unofficial. Simple music player with blur and gapless playback.*..[ *read more* ](apps/gapless.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gapless) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gapless) |
 | <img loading="lazy" src="icons/giada.png" width="48" height="48"> | [***giada***](apps/giada.md) | *Hardcore audio music production tool and drum machine for DJs.*..[ *read more* ](apps/giada.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/giada) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/giada) |
 | <img loading="lazy" src="icons/gsequencer.png" width="48" height="48"> | [***gsequencer***](apps/gsequencer.md) | *Tree based audio processing engine.*..[ *read more* ](apps/gsequencer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gsequencer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gsequencer) |
 | <img loading="lazy" src="icons/harmonoid.png" width="48" height="48"> | [***harmonoid***](apps/harmonoid.md) | *Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.*..[ *read more* ](apps/harmonoid.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/harmonoid) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/harmonoid) |

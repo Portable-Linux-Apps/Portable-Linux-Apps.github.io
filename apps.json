@@ -4035,6 +4035,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gaphor.png"
   },
   {
+    "packageName": "gapless",
+    "description": "Unofficial. Simple music player with blur and gapless playback...",
+    "icon": "https://portable-linux-apps.github.io/icons/gapless.png"
+  },
+  {
     "packageName": "gargoyle-bin",
     "description": "Interactive Fiction multi-int. for all major IF formats...",
     "icon": "https://portable-linux-apps.github.io/icons/gargoyle-bin.png"
@@ -5053,6 +5058,11 @@
     "packageName": "impposter",
     "description": "Post to my own development blog...",
     "icon": "https://portable-linux-apps.github.io/icons/impposter.png"
+  },
+  {
+    "packageName": "impression",
+    "description": "Unofficial. Simple USB image writer application...",
+    "icon": "https://portable-linux-apps.github.io/icons/impression.png"
   },
   {
     "packageName": "inboxer",
@@ -6403,6 +6413,11 @@
     "packageName": "lskat",
     "description": "Unofficial, Fun and engaging card game for two players. This script installs the full \"kdegames\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/lskat.png"
+  },
+  {
+    "packageName": "luanti",
+    "description": "Multiplayer infinite-world block sandbox...",
+    "icon": "https://portable-linux-apps.github.io/icons/luanti.png"
   },
   {
     "packageName": "ludo",
