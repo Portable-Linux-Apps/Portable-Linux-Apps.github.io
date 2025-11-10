@@ -8695,6 +8695,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/playyourdamnturn.png"
   },
   {
+    "packageName": "plebchan",
+    "description": "A GUI for plebbit similar to 4chan...",
+    "icon": "https://portable-linux-apps.github.io/icons/plebchan.png"
+  },
+  {
     "packageName": "plex",
     "description": "The ultimate home theater experience...",
     "icon": "https://portable-linux-apps.github.io/icons/plex.png"

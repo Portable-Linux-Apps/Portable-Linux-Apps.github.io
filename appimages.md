@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2138** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2139** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1418,6 +1418,7 @@
 | <img loading="lazy" src="icons/playerctl.png" width="48" height="48"> | [***playerctl***](apps/playerctl.md) | *Unofficial, MPRIS media player command-line controller.*..[ *read more* ](apps/playerctl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playerctl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playerctl) |
 | <img loading="lazy" src="icons/playme.png" width="48" height="48"> | [***playme***](apps/playme.md) | *Elegant YouTube Music desktop app.*..[ *read more* ](apps/playme.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playme) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playme) |
 | <img loading="lazy" src="icons/playyourdamnturn.png" width="48" height="48"> | [***playyourdamnturn***](apps/playyourdamnturn.md) | *Desktop Client to assist with playing your damn turns.*..[ *read more* ](apps/playyourdamnturn.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playyourdamnturn) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playyourdamnturn) |
+| <img loading="lazy" src="icons/plebchan.png" width="48" height="48"> | [***plebchan***](apps/plebchan.md) | *A GUI for plebbit similar to 4chan.*..[ *read more* ](apps/plebchan.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/plebchan) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/plebchan) |
 | <img loading="lazy" src="icons/plex.png" width="48" height="48"> | [***plex***](apps/plex.md) | *The ultimate home theater experience.*..[ *read more* ](apps/plex.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/plex) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/plex) |
 | <img loading="lazy" src="icons/plexamp.png" width="48" height="48"> | [***plexamp***](apps/plexamp.md) | *The best little audio player on the planet.*..[ *read more* ](apps/plexamp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/plexamp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/plexamp) |
 | <img loading="lazy" src="icons/plotjuggler.png" width="48" height="48"> | [***plotjuggler***](apps/plotjuggler.md) | *The Time Series Visualization Tool that you deserve.*..[ *read more* ](apps/plotjuggler.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/plotjuggler) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/plotjuggler) |
