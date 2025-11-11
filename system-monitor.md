@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **10** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **11** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -37,6 +37,7 @@
 | <img loading="lazy" src="icons/conky.png" width="48" height="48"> | [***conky***](apps/conky.md) | *Light-weight system monitor for X.*..[ *read more* ](apps/conky.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/conky) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/conky) |
 | <img loading="lazy" src="icons/corestats.png" width="48" height="48"> | [***corestats***](apps/corestats.md) | *A system resource viewer from the CoreApps family.*..[ *read more* ](apps/corestats.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/corestats) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/corestats) |
 | <img loading="lazy" src="icons/coretime.png" width="48" height="48"> | [***coretime***](apps/coretime.md) | *A time related task manager for CuboCore Application Suite.*..[ *read more* ](apps/coretime.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/coretime) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/coretime) |
+| <img loading="lazy" src="icons/gnome-system-monitor.png" width="48" height="48"> | [***gnome-system-monitor***](apps/gnome-system-monitor.md) | *Unofficial. View current processes and monitor system state.*..[ *read more* ](apps/gnome-system-monitor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-system-monitor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-system-monitor) |
 | <img loading="lazy" src="icons/htop.png" width="48" height="48"> | [***htop***](apps/htop.md) | *Unofficial, CLI utility to monitor system resources.*..[ *read more* ](apps/htop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/htop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/htop) |
 | <img loading="lazy" src="icons/lxtask.png" width="48" height="48"> | [***lxtask***](apps/lxtask.md) | *A lightweight and desktop-independent task manager.*..[ *read more* ](apps/lxtask.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lxtask) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lxtask) |
 | <img loading="lazy" src="icons/mate-system-monitor.png" width="48" height="48"> | [***mate-system-monitor***](apps/mate-system-monitor.md) | *Unofficial, Process viewer and system resource monitor, from MATE.*..[ *read more* ](apps/mate-system-monitor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mate-system-monitor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mate-system-monitor) |
