@@ -10045,6 +10045,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/secops.png"
   },
   {
+    "packageName": "seedit",
+    "description": " A GUI for plebbit similar to old.reddit...",
+    "icon": "https://portable-linux-apps.github.io/icons/seedit.png"
+  },
+  {
     "packageName": "seismic",
     "description": "A taskbar app for displaying USGS magnitude 2.5+ earthquakes from the past day...",
     "icon": "https://portable-linux-apps.github.io/icons/seismic.png"

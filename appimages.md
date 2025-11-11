@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2141** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2142** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1661,6 +1661,7 @@
 | <img loading="lazy" src="icons/seafile-cli.png" width="48" height="48"> | [***seafile-cli***](apps/seafile-cli.md) | *Seafile CLI version. Beyond just syncing and sharing files, it lets you add custom file properties and organize your files in different views. With AI-powered automation for generating properties, Seafile offers a smarter, more efficient way to manage your files.*..[ *read more* ](apps/seafile-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/seafile-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/seafile-cli) |
 | <img loading="lazy" src="icons/seanime.png" width="48" height="48"> | [***seanime***](apps/seanime.md) | *Open-source media server with a web interface and desktop app for anime and manga.*..[ *read more* ](apps/seanime.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/seanime) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/seanime) |
 | <img loading="lazy" src="icons/secops.png" width="48" height="48"> | [***secops***](apps/secops.md) | *A Linux Desktop Application for managing security.*..[ *read more* ](apps/secops.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/secops) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/secops) |
+| <img loading="lazy" src="icons/seedit.png" width="48" height="48"> | [***seedit***](apps/seedit.md) | * A GUI for plebbit similar to old.reddit.*..[ *read more* ](apps/seedit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/seedit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/seedit) |
 | <img loading="lazy" src="icons/seismic.png" width="48" height="48"> | [***seismic***](apps/seismic.md) | *A taskbar app for displaying USGS magnitude 2.5+ earthquakes from the past day.*..[ *read more* ](apps/seismic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/seismic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/seismic) |
 | <img loading="lazy" src="icons/selenium-ide.png" width="48" height="48"> | [***selenium-ide***](apps/selenium-ide.md) | *Open Source record and playback test automation for the web.*..[ *read more* ](apps/selenium-ide.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/selenium-ide) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/selenium-ide) |
 | <img loading="lazy" src="icons/sengi.png" width="48" height="48"> | [***sengi***](apps/sengi.md) | *A multi-account desktop client for Mastodon and Pleroma.*..[ *read more* ](apps/sengi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sengi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sengi) |
