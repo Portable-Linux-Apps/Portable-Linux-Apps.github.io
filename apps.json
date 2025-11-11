@@ -6460,11 +6460,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/lutris-gamepad-ui.png"
   },
   {
-    "packageName": "lux",
-    "description": "A free open source image and panorama viewer...",
-    "icon": "https://portable-linux-apps.github.io/icons/lux.png"
-  },
-  {
     "packageName": "lx-music-desktop",
     "description": "一个基于electron的音乐软件...",
     "icon": "https://portable-linux-apps.github.io/icons/lx-music-desktop.png"

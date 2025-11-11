@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2141** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2140** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1040,7 +1040,6 @@
 | <img loading="lazy" src="icons/lunatask.png" width="48" height="48"> | [***lunatask***](apps/lunatask.md) | *All-in-one encrypted to-do list, notebook, habit and mood tracker.*..[ *read more* ](apps/lunatask.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lunatask) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lunatask) |
 | <img loading="lazy" src="icons/lutris.png" width="48" height="48"> | [***lutris***](apps/lutris.md) | *Unofficial. Install and play video games from all eras and from most gaming systems, by leveraging and combining existing emulators, WINE included.*..[ *read more* ](apps/lutris.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lutris) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lutris) |
 | <img loading="lazy" src="icons/lutris-gamepad-ui.png" width="48" height="48"> | [***lutris-gamepad-ui***](apps/lutris-gamepad-ui.md) | *A simple, TV-friendly, gamepad-navigable frontend for the Lutris game launcher on Linux.*..[ *read more* ](apps/lutris-gamepad-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lutris-gamepad-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lutris-gamepad-ui) |
-| <img loading="lazy" src="icons/lux.png" width="48" height="48"> | [***lux***](apps/lux.md) | *A free open source image and panorama viewer.*..[ *read more* ](apps/lux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lux) |
 | <img loading="lazy" src="icons/lx-music-desktop.png" width="48" height="48"> | [***lx-music-desktop***](apps/lx-music-desktop.md) | *一个基于electron的音乐软件.*..[ *read more* ](apps/lx-music-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lx-music-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lx-music-desktop) |
 | <img loading="lazy" src="icons/lxtask.png" width="48" height="48"> | [***lxtask***](apps/lxtask.md) | *A lightweight and desktop-independent task manager.*..[ *read more* ](apps/lxtask.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lxtask) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lxtask) |
 | <img loading="lazy" src="icons/lyricistant.png" width="48" height="48"> | [***lyricistant***](apps/lyricistant.md) | *A helpful writing assistant for lyricists.*..[ *read more* ](apps/lyricistant.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lyricistant) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lyricistant) |
