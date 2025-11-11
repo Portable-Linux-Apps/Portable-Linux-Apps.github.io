@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2142** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2141** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1117,7 +1117,6 @@
 | <img loading="lazy" src="icons/milkytracker.png" width="48" height="48"> | [***milkytracker***](apps/milkytracker.md) | *An FT2 compatible music tracker.*..[ *read more* ](apps/milkytracker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/milkytracker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/milkytracker) |
 | <img loading="lazy" src="icons/mindmapp.png" width="48" height="48"> | [***mindmapp***](apps/mindmapp.md) | *Electron application to draw mind maps.*..[ *read more* ](apps/mindmapp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mindmapp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mindmapp) |
 | <img loading="lazy" src="icons/mine-craft.io.png" width="48" height="48"> | [***mine-craft.io***](apps/mine-craft.io.md) | *Minecraft and even more!*..[ *read more* ](apps/mine-craft.io.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mine-craft.io) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mine-craft.io) |
-| <img loading="lazy" src="icons/minetest.png" width="48" height="48"> | [***minetest***](apps/minetest.md) | *Multiplayer infinite-world block sandbox.*..[ *read more* ](apps/minetest.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/minetest) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/minetest) |
 | <img loading="lazy" src="icons/minetime.png" width="48" height="48"> | [***minetime***](apps/minetime.md) | *Smart scheduling assistant.*..[ *read more* ](apps/minetime.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/minetime) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/minetime) |
 | <img loading="lazy" src="icons/mini-diary.png" width="48" height="48"> | [***mini-diary***](apps/mini-diary.md) | *Simple and secure journal app.*..[ *read more* ](apps/mini-diary.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mini-diary) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mini-diary) |
 | <img loading="lazy" src="icons/mini-qml.png" width="48" height="48"> | [***mini-qml***](apps/mini-qml.md) | *Minimal Qt deployment.*..[ *read more* ](apps/mini-qml.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mini-qml) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mini-qml) |

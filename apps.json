@@ -6900,11 +6900,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/minecraft-launcher.png"
   },
   {
-    "packageName": "minetest",
-    "description": "Multiplayer infinite-world block sandbox...",
-    "icon": "https://portable-linux-apps.github.io/icons/minetest.png"
-  },
-  {
     "packageName": "minetime",
     "description": "Smart scheduling assistant...",
     "icon": "https://portable-linux-apps.github.io/icons/minetime.png"
