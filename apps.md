@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2544** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2545** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1446,6 +1446,7 @@
 | <img loading="lazy" src="icons/moose.png" width="48" height="48"> | [***moose***](apps/moose.md) | *An application to stream, cast and download torrents.*..[ *read more* ](apps/moose.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moose) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moose) |
 | <img loading="lazy" src="icons/moosync.png" width="48" height="48"> | [***moosync***](apps/moosync.md) | *Music player capable of playing local audio or from Youtube/Spotify.*..[ *read more* ](apps/moosync.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moosync) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moosync) |
 | <img loading="lazy" src="icons/motrix.png" width="48" height="48"> | [***motrix***](apps/motrix.md) | *A full-featured download manager.*..[ *read more* ](apps/motrix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/motrix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/motrix) |
+| <img loading="lazy" src="icons/mousai.png" width="48" height="48"> | [***mousai***](apps/mousai.md) | *Unofficial. Application for identifying songs using libre utilities.*..[ *read more* ](apps/mousai.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mousai) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mousai) |
 | <img loading="lazy" src="icons/movie-monad.png" width="48" height="48"> | [***movie-monad***](apps/movie-monad.md) | *Free and simple to use video player made with Haskell.*..[ *read more* ](apps/movie-monad.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/movie-monad) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/movie-monad) |
 | <img loading="lazy" src="icons/moyu.png" width="48" height="48"> | [***moyu***](apps/moyu.md) | *An online collaborative api interface management tool.*..[ *read more* ](apps/moyu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moyu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moyu) |
 | <img loading="lazy" src="icons/mp3-tagger.png" width="48" height="48"> | [***mp3-tagger***](apps/mp3-tagger.md) | *An Electron app to edit metadata of mp3 files.*..[ *read more* ](apps/mp3-tagger.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mp3-tagger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mp3-tagger) |
