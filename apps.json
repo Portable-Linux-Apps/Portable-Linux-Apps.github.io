@@ -690,6 +690,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/audapolis.png"
   },
   {
+    "packageName": "audio-sharing",
+    "description": "Unofficial. Share audio from the desktop on local network using RTSP protocol...",
+    "icon": "https://portable-linux-apps.github.io/icons/audio-sharing.png"
+  },
+  {
     "packageName": "audiomoth",
     "description": "Configuration app for the AudioMoth acoustic monitoring device...",
     "icon": "https://portable-linux-apps.github.io/icons/audiomoth.png"
@@ -2915,6 +2920,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/eksplode.re.png"
   },
   {
+    "packageName": "elastic",
+    "description": "Unofficial. Visualize and design physics-based animation of objects...",
+    "icon": "https://portable-linux-apps.github.io/icons/elastic.png"
+  },
+  {
     "packageName": "elcalc",
     "description": "Cross-Platform calculator built with Electron...",
     "icon": "https://portable-linux-apps.github.io/icons/elcalc.png"
@@ -3283,6 +3293,11 @@
     "packageName": "extremetuxracer",
     "description": "Unofficial. 3D racing game with Tux, the Linux penguin...",
     "icon": "https://portable-linux-apps.github.io/icons/extremetuxracer.png"
+  },
+  {
+    "packageName": "eyedropper",
+    "description": "Unofficial. Simple color picker, with support for various color palettes...",
+    "icon": "https://portable-linux-apps.github.io/icons/eyedropper.png"
   },
   {
     "packageName": "eyestalker",
