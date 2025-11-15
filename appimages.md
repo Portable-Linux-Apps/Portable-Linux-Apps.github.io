@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2148** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2149** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -69,6 +69,7 @@
 | <img loading="lazy" src="icons/alien-tec-ui.png" width="48" height="48"> | [***alien-tec-ui***](apps/alien-tec-ui.md) | *Alien-Tec Tron Matrix Like Shell Terminal User Interface.*..[ *read more* ](apps/alien-tec-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alien-tec-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alien-tec-ui) |
 | <img loading="lazy" src="icons/allusion.png" width="48" height="48"> | [***allusion***](apps/allusion.md) | *A desktop application for managing your visual library.*..[ *read more* ](apps/allusion.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/allusion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/allusion) |
 | <img loading="lazy" src="icons/alr2appimage.png" width="48" height="48"> | [***alr2appimage***](apps/alr2appimage.md) | *Tool for building an AppImage from an Alire crate.*..[ *read more* ](apps/alr2appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alr2appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alr2appimage) |
+| <img loading="lazy" src="icons/alt-sendme.png" width="48" height="48"> | [***alt-sendme***](apps/alt-sendme.md) | *Share files and directories anywhere - Local or Global*..[ *read more* ](apps/alt-sendme.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alt-sendme) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alt-sendme) |
 | <img loading="lazy" src="icons/altair.png" width="48" height="48"> | [***altair***](apps/altair.md) | *The best graphQL client you will ever need.*..[ *read more* ](apps/altair.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/altair) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/altair) |
 | <img loading="lazy" src="icons/altitude.png" width="48" height="48"> | [***altitude***](apps/altitude.md) | *The Altitude wallet by Linda Project Inc.*..[ *read more* ](apps/altitude.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/altitude) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/altitude) |
 | <img loading="lazy" src="icons/altus.png" width="48" height="48"> | [***altus***](apps/altus.md) | *Client for WhatsApp Web with themes & multiple account support.*..[ *read more* ](apps/altus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/altus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/altus) |

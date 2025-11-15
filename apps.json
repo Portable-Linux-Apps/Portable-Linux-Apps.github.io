@@ -225,6 +225,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/alr2appimage.png"
   },
   {
+    "packageName": "alt-sendme",
+    "description": "Share files and directories anywhere - Local or Global..",
+    "icon": "https://portable-linux-apps.github.io/icons/alt-sendme.png"
+  },
+  {
     "packageName": "altair",
     "description": "The best graphQL client you will ever need...",
     "icon": "https://portable-linux-apps.github.io/icons/altair.png"
