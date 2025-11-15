@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2550** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2551** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -575,6 +575,7 @@
 | <img loading="lazy" src="icons/draw.io.png" width="48" height="48"> | [***draw.io***](apps/draw.io.md) | *draw.io desktop.*..[ *read more* ](apps/draw.io.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/draw.io) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/draw.io) |
 | <img loading="lazy" src="icons/draw.png" width="48" height="48"> | [***draw***](apps/draw.md) | *Draw in your terminal.*..[ *read more* ](apps/draw.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/draw) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/draw) |
 | <img loading="lazy" src="icons/drawpile.png" width="48" height="48"> | [***drawpile***](apps/drawpile.md) | *Drawing program to sketch on the same canvas simultaneously.*..[ *read more* ](apps/drawpile.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/drawpile) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/drawpile) |
+| <img loading="lazy" src="icons/drawy.png" width="48" height="48"> | [***drawy***](apps/drawy.md) | *Your handy, infinite, brainstorming tool.*..[ *read more* ](apps/drawy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/drawy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/drawy) |
 | <img loading="lazy" src="icons/drill.png" width="48" height="48"> | [***drill***](apps/drill.md) | *Search files without indexing, but clever crawling.*..[ *read more* ](apps/drill.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/drill) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/drill) |
 | <img loading="lazy" src="icons/droidcam.png" width="48" height="48"> | [***droidcam***](apps/droidcam.md) | *A DroidCam AppImage for the Steam Deck/SteamOS 3.0.*..[ *read more* ](apps/droidcam.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/droidcam) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/droidcam) |
 | <img loading="lazy" src="icons/dropbox.png" width="48" height="48"> | [***dropbox***](apps/dropbox.md) | *A free cloud service, Unofficial AppImage.*..[ *read more* ](apps/dropbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dropbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dropbox) |

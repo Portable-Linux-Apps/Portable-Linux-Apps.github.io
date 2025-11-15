@@ -2735,6 +2735,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/drawpile.png"
   },
   {
+    "packageName": "drawy",
+    "description": "Your handy, infinite, brainstorming tool...",
+    "icon": "https://portable-linux-apps.github.io/icons/drawy.png"
+  },
+  {
     "packageName": "drill",
     "description": "Search files without indexing, but clever crawling...",
     "icon": "https://portable-linux-apps.github.io/icons/drill.png"
