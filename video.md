@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **149** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **150** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -154,6 +154,7 @@
 | <img loading="lazy" src="icons/vhs.png" width="48" height="48"> | [***vhs***](apps/vhs.md) | *Your CLI home video recorder.*..[ *read more* ](apps/vhs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vhs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vhs) |
 | <img loading="lazy" src="icons/vidcutter.png" width="48" height="48"> | [***vidcutter***](apps/vidcutter.md) | *Simple and fast video cutter and joiner.*..[ *read more* ](apps/vidcutter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vidcutter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vidcutter) |
 | <img loading="lazy" src="icons/video-hub.png" width="48" height="48"> | [***video-hub***](apps/video-hub.md) | *A fastest way to browse and search for videos on your computer.*..[ *read more* ](apps/video-hub.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/video-hub) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/video-hub) |
+| <img loading="lazy" src="icons/video-trimmer.png" width="48" height="48"> | [***video-trimmer***](apps/video-trimmer.md) | *Unofficial. Simple video trimming, with option to trim precisely or to trim without loosing video quality.*..[ *read more* ](apps/video-trimmer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/video-trimmer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/video-trimmer) |
 | <img loading="lazy" src="icons/videomass.png" width="48" height="48"> | [***videomass***](apps/videomass.md) | *Free, open source and cross-platform GUI for FFmpeg.*..[ *read more* ](apps/videomass.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/videomass) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/videomass) |
 | <img loading="lazy" src="icons/vimeo-dl.png" width="48" height="48"> | [***vimeo-dl***](apps/vimeo-dl.md) | *A cli tool to download private videos on vimeo. Written in golang.*..[ *read more* ](apps/vimeo-dl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vimeo-dl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vimeo-dl) |
 | <img loading="lazy" src="icons/vitomu.png" width="48" height="48"> | [***vitomu***](apps/vitomu.md) | *Easy to use video to audio converter.*..[ *read more* ](apps/vitomu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vitomu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vitomu) |

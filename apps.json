@@ -255,11 +255,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/amazingmarvin.png"
   },
   {
-    "packageName": "amazon-q",
-    "description": "Amazon Q Developer, a generative AI powered conversational assistant to understand, build, extend and operate AWS applications...",
-    "icon": "https://portable-linux-apps.github.io/icons/amazon-q.png"
-  },
-  {
     "packageName": "ambermoon.net",
     "description": "Ambermoon rewrite in C#...",
     "icon": "https://portable-linux-apps.github.io/icons/ambermoon.net.png"
@@ -11240,6 +11235,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/tag-editor.png"
   },
   {
+    "packageName": "tagger",
+    "description": "Unofficial. Simple audio tagger with support for various audio formats...",
+    "icon": "https://portable-linux-apps.github.io/icons/tagger.png"
+  },
+  {
     "packageName": "tagspaces",
     "description": "An offline, open source, document manager with tagging support...",
     "icon": "https://portable-linux-apps.github.io/icons/tagspaces.png"
@@ -12083,6 +12083,11 @@
     "packageName": "video-hub",
     "description": "A fastest way to browse and search for videos on your computer...",
     "icon": "https://portable-linux-apps.github.io/icons/video-hub.png"
+  },
+  {
+    "packageName": "video-trimmer",
+    "description": "Unofficial. Simple video trimming, with option to trim precisely or to trim without loosing video quality...",
+    "icon": "https://portable-linux-apps.github.io/icons/video-trimmer.png"
   },
   {
     "packageName": "videomass",
