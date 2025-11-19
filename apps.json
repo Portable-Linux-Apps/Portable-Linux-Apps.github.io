@@ -1475,11 +1475,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/candycrisis.png"
   },
   {
-    "packageName": "capbattleship",
-    "description": "Battleship game with a pirate theme...",
-    "icon": "https://portable-linux-apps.github.io/icons/capbattleship.png"
-  },
-  {
     "packageName": "caprine",
     "description": "Unofficial, elegant privacy focused Facebook Messenger app...",
     "icon": "https://portable-linux-apps.github.io/icons/caprine.png"

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2555** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2554** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -323,7 +323,6 @@
 | <img loading="lazy" src="icons/calm-mondrian.png" width="48" height="48"> | [***calm-mondrian***](apps/calm-mondrian.md) | *Calm down and draw something, in Lisp.*..[ *read more* ](apps/calm-mondrian.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/calm-mondrian) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/calm-mondrian) |
 | <img loading="lazy" src="icons/camelot.png" width="48" height="48"> | [***camelot***](apps/camelot.md) | *Camelot is cross-platform file manager written in C.*..[ *read more* ](apps/camelot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/camelot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/camelot) |
 | <img loading="lazy" src="icons/candycrisis.png" width="48" height="48"> | [***candycrisis***](apps/candycrisis.md) | *Candy Crisis source port for modern operating systems.*..[ *read more* ](apps/candycrisis.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/candycrisis) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/candycrisis) |
-| <img loading="lazy" src="icons/capbattleship.png" width="48" height="48"> | [***capbattleship***](apps/capbattleship.md) | *Battleship game with a pirate theme.*..[ *read more* ](apps/capbattleship.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/capbattleship) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/capbattleship) |
 | <img loading="lazy" src="icons/caprine.png" width="48" height="48"> | [***caprine***](apps/caprine.md) | *Unofficial, elegant privacy focused Facebook Messenger app.*..[ *read more* ](apps/caprine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/caprine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/caprine) |
 | <img loading="lazy" src="icons/carbonyl.png" width="48" height="48"> | [***carbonyl***](apps/carbonyl.md) | *Chromium running inside your terminal.*..[ *read more* ](apps/carbonyl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/carbonyl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/carbonyl) |
 | <img loading="lazy" src="icons/cardo.png" width="48" height="48"> | [***cardo***](apps/cardo.md) | *Podcast client.*..[ *read more* ](apps/cardo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cardo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cardo) |
