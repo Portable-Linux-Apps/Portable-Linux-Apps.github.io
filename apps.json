@@ -12000,6 +12000,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/vcloudcam.png"
   },
   {
+    "packageName": "vcmi",
+    "description": "Unofficial AppImage of vcmi open-source engine for Heroes of Might and Magic III..",
+    "icon": "https://portable-linux-apps.github.io/icons/vcmi.png"
+  },
+  {
     "packageName": "vechain",
     "description": "A browser that empowers DApps on VeChain...",
     "icon": "https://portable-linux-apps.github.io/icons/vechain.png"
