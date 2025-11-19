@@ -12455,11 +12455,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/whalebird.png"
   },
   {
-    "packageName": "whatsapp-nativefier",
-    "description": "Unofficial, Electron-based WhatsApp Linux Client...",
-    "icon": "https://portable-linux-apps.github.io/icons/whatsapp-nativefier.png"
-  },
-  {
     "packageName": "whatstron",
     "description": "Unofficial WhatsApp desktop client for Linux...",
     "icon": "https://portable-linux-apps.github.io/icons/whatstron.png"
