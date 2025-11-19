@@ -10240,11 +10240,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/shipwright.png"
   },
   {
-    "packageName": "shiru",
-    "description": "BitTorrent streaming software with no paws in the way—watch anime in real-time, no waiting for downloads!..",
-    "icon": "https://portable-linux-apps.github.io/icons/shiru.png"
-  },
-  {
     "packageName": "shotcut",
     "description": "A powerful Video Editor...",
     "icon": "https://portable-linux-apps.github.io/icons/shotcut.png"
