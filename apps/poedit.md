@@ -8,7 +8,7 @@
 
  SITE: https://poedit.net/
  
- UNOFFICIAL APPIMAGE: https://github.com/ivan-hc/Database-of-pkg2appimaged-packages
+ APPIMAGE: https://github.com/ivan-hc/Poedit-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

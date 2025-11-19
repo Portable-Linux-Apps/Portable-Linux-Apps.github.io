@@ -4,7 +4,7 @@
 
  SITE: https://audacious-media-player.org
 
- APPIMAGE: https://github.com/ivan-hc/Database-of-pkg2appimaged-packages
+ APPIMAGE: https://github.com/ivan-hc/Audacious-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
