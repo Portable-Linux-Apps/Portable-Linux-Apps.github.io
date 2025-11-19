@@ -1,8 +1,10 @@
 # sView - stereoscopic media player
 
-sView is a cross-platform solution to view 3D stereoscopic videos and images. Please visit official site for more information
+sView is a cross-platform solution to view 3D stereoscopic videos and images. 
 
  ![Seleucide](https://www.sview.ru/images/sview1508_playlist.jpg)
+
+ Please visit official site for more information
 
  SITE: https://www.sview.ru
  
