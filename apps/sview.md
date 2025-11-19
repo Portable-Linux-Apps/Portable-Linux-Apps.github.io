@@ -1,4 +1,4 @@
-# sView - stereoscopic media player
+# SVIEW
 
 sView is a cross-platform solution to view 3D stereoscopic videos and images. 
 
