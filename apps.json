@@ -9750,6 +9750,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/rmg.png"
   },
   {
+    "packageName": "rmg-enhanced",
+    "description": "Unofficial AppImage of RMG N64 emulator wtih x86-64-v3 optimizations and smaller size...",
+    "icon": "https://portable-linux-apps.github.io/icons/rmg-enhanced.png"
+  },
+  {
     "packageName": "rmw",
     "description": "A safe-remove utility for the command line...",
     "icon": "https://portable-linux-apps.github.io/icons/rmw.png"
