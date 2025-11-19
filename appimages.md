@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2151** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2152** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -706,6 +706,7 @@
 | <img loading="lazy" src="icons/gdlauncher.png" width="48" height="48"> | [***gdlauncher***](apps/gdlauncher.md) | *Simple, yet powerful Minecraft custom launcher.*..[ *read more* ](apps/gdlauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gdlauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gdlauncher) |
 | <img loading="lazy" src="icons/gdm-settings.png" width="48" height="48"> | [***gdm-settings***](apps/gdm-settings.md) | *A settings app for GNOME's Login Manager, GDM.*..[ *read more* ](apps/gdm-settings.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gdm-settings) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gdm-settings) |
 | <img loading="lazy" src="icons/geany.png" width="48" height="48"> | [***geany***](apps/geany.md) | *Unofficial, a fast and lightweight IDE.*..[ *read more* ](apps/geany.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/geany) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/geany) |
+| <img loading="lazy" src="icons/gearlever.png" width="48" height="48"> | [***gearlever***](apps/gearlever.md) | *Unofficial. An utility to organize and manage AppImage files for you, generate desktop entries and app metadata, update apps in-place or keep multiple versions side-by-side.*..[ *read more* ](apps/gearlever.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gearlever) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gearlever) |
 | <img loading="lazy" src="icons/gedit.png" width="48" height="48"> | [***gedit***](apps/gedit.md) | *Unofficial. The popular GNOME text editor Gedit.*..[ *read more* ](apps/gedit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gedit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gedit) |
 | <img loading="lazy" src="icons/geeqie.png" width="48" height="48"> | [***geeqie***](apps/geeqie.md) | *Claiming to be the best image viewer and photo collection browser.*..[ *read more* ](apps/geeqie.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/geeqie) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/geeqie) |
 | <img loading="lazy" src="icons/geforce-infinity.png" width="48" height="48"> | [***geforce-infinity***](apps/geforce-infinity.md) | *Enhance the Nvidia GeForce NOW experience.*..[ *read more* ](apps/geforce-infinity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/geforce-infinity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/geforce-infinity) |
