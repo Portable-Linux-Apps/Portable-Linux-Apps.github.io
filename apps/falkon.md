@@ -8,7 +8,7 @@
 
  ![falkon](https://github.com/user-attachments/assets/d91a3d97-10d9-459b-82e1-b89c18da1465)
 
- SITE: https://github.com/ivan-hc/Database-of-pkg2appimaged-packages
+ SITE: https://github.com/ivan-hc/falkon-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
