@@ -11120,6 +11120,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/svgwall.png"
   },
   {
+    "packageName": "sview",
+    "description": "3D Stereoscopic media player for videos and images...",
+    "icon": "https://portable-linux-apps.github.io/icons/sview.png"
+  },
+  {
     "packageName": "swaglyrics",
     "description": "SwagLyrics AppImage, unofficial...",
     "icon": "https://portable-linux-apps.github.io/icons/swaglyrics.png"
