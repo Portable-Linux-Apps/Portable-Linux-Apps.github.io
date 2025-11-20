@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2152** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2153** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1406,6 +1406,7 @@
 | <img loading="lazy" src="icons/picsimlab.png" width="48" height="48"> | [***picsimlab***](apps/picsimlab.md) | *PICsimLab - Programmable IC Simulator Laboratory.*..[ *read more* ](apps/picsimlab.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picsimlab) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picsimlab) |
 | <img loading="lazy" src="icons/picturama.png" width="48" height="48"> | [***picturama***](apps/picturama.md) | *Digital image organizer powered by the web.*..[ *read more* ](apps/picturama.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picturama) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picturama) |
 | <img loading="lazy" src="icons/pigs-n-cows.png" width="48" height="48"> | [***pigs-n-cows***](apps/pigs-n-cows.md) | *A relaxing game for children and adults alike.*..[ *read more* ](apps/pigs-n-cows.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pigs-n-cows) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pigs-n-cows) |
+| <img loading="lazy" src="icons/pika-backup.png" width="48" height="48"> | [***pika-backup***](apps/pika-backup.md) | *Doing backups the easy way. Plugin your USB drive and let the Pika do the rest for you.*..[ *read more* ](apps/pika-backup.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pika-backup) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pika-backup) |
 | <img loading="lazy" src="icons/pile.png" width="48" height="48"> | [***pile***](apps/pile.md) | *App to organize your piled work at one place.*..[ *read more* ](apps/pile.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pile) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pile) |
 | <img loading="lazy" src="icons/pince.png" width="48" height="48"> | [***pince***](apps/pince.md) | *Reverse engineering tool for linux games.*..[ *read more* ](apps/pince.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pince) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pince) |
 | <img loading="lazy" src="icons/pingendo.png" width="48" height="48"> | [***pingendo***](apps/pingendo.md) | *???*..[ *read more* ](apps/pingendo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pingendo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pingendo) |

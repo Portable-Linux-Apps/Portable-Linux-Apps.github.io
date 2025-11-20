@@ -8595,6 +8595,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/pigs-n-cows.png"
   },
   {
+    "packageName": "pika-backup",
+    "description": "Doing backups the easy way. Plugin your USB drive and let the Pika do the rest for you...",
+    "icon": "https://portable-linux-apps.github.io/icons/pika-backup.png"
+  },
+  {
     "packageName": "pile",
     "description": "App to organize your piled work at one place...",
     "icon": "https://portable-linux-apps.github.io/icons/pile.png"
