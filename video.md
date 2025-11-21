@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **151** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **150** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -125,7 +125,6 @@
 | <img loading="lazy" src="icons/retroarch.png" width="48" height="48"> | [***retroarch***](apps/retroarch.md) | *Frontend for emulators, game engines and media players.*..[ *read more* ](apps/retroarch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retroarch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retroarch) |
 | <img loading="lazy" src="icons/ser-player.png" width="48" height="48"> | [***ser-player***](apps/ser-player.md) | *Video player for SER files used for astronomy-imaging.*..[ *read more* ](apps/ser-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ser-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ser-player) |
 | <img loading="lazy" src="icons/sf-tube.png" width="48" height="48"> | [***sf-tube***](apps/sf-tube.md) | *Watch and download videos without ads.*..[ *read more* ](apps/sf-tube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sf-tube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sf-tube) |
-| <img loading="lazy" src="icons/shiru.png" width="48" height="48"> | [***shiru***](apps/shiru.md) | *BitTorrent streaming software with no paws in the way—watch anime in real-time, no waiting for downloads!*..[ *read more* ](apps/shiru.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shiru) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shiru) |
 | <img loading="lazy" src="icons/shotcut.png" width="48" height="48"> | [***shotcut***](apps/shotcut.md) | *A powerful Video Editor.*..[ *read more* ](apps/shotcut.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shotcut) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shotcut) |
 | <img loading="lazy" src="icons/shutter-encoder.png" width="48" height="48"> | [***shutter-encoder***](apps/shutter-encoder.md) | *Professional converter & compression tool designed by video editors.*..[ *read more* ](apps/shutter-encoder.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shutter-encoder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shutter-encoder) |
 | <img loading="lazy" src="icons/sinon.png" width="48" height="48"> | [***sinon***](apps/sinon.md) | *A handy video tool.*..[ *read more* ](apps/sinon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sinon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sinon) |

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **30** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **29** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -57,7 +57,6 @@
 | <img loading="lazy" src="icons/opencomic.png" width="48" height="48"> | [***opencomic***](apps/opencomic.md) | *Comic and Manga reader, written with Node.js and using Electron.*..[ *read more* ](apps/opencomic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opencomic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opencomic) |
 | <img loading="lazy" src="icons/picacg-qt.png" width="48" height="48"> | [***picacg-qt***](apps/picacg-qt.md) | *PicACG Comic PC Client For Linux.*..[ *read more* ](apps/picacg-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picacg-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picacg-qt) |
 | <img loading="lazy" src="icons/seanime.png" width="48" height="48"> | [***seanime***](apps/seanime.md) | *Open-source media server with a web interface and desktop app for anime and manga.*..[ *read more* ](apps/seanime.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/seanime) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/seanime) |
-| <img loading="lazy" src="icons/shiru.png" width="48" height="48"> | [***shiru***](apps/shiru.md) | *BitTorrent streaming software with no paws in the way—watch anime in real-time, no waiting for downloads!*..[ *read more* ](apps/shiru.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shiru) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shiru) |
 | <img loading="lazy" src="icons/special-eureka.png" width="48" height="48"> | [***special-eureka***](apps/special-eureka.md) | *A desktop mangareader built in Tauri and React*..[ *read more* ](apps/special-eureka.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/special-eureka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/special-eureka) |
 | <img loading="lazy" src="icons/toru.png" width="48" height="48"> | [***toru***](apps/toru.md) | *Bittorrent streaming CLI tool. Stream anime torrents real-time.*..[ *read more* ](apps/toru.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/toru) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/toru) |
 | <img loading="lazy" src="icons/unyo.png" width="48" height="48"> | [***unyo***](apps/unyo.md) | *Anime streaming and Manga reader desktop app without ads.*..[ *read more* ](apps/unyo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unyo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unyo) |

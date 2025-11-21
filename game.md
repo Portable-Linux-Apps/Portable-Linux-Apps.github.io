@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **242** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **241** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -61,7 +61,6 @@
 | <img loading="lazy" src="icons/bottles.png" width="48" height="48"> | [***bottles***](apps/bottles.md) | *Unofficial. Manage wine prefixes and run Windows software & games in a new way.*..[ *read more* ](apps/bottles.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bottles) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bottles) |
 | <img loading="lazy" src="icons/bovo.png" width="48" height="48"> | [***bovo***](apps/bovo.md) | *Unofficial. Five in a row game from. This script installs the full "kdegames" suite.*..[ *read more* ](apps/bovo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bovo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bovo) |
 | <img loading="lazy" src="icons/bugdom.png" width="48" height="48"> | [***bugdom***](apps/bugdom.md) | *Pangea Software's Bugdom game.*..[ *read more* ](apps/bugdom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bugdom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bugdom) |
-| <img loading="lazy" src="icons/capbattleship.png" width="48" height="48"> | [***capbattleship***](apps/capbattleship.md) | *Battleship game with a pirate theme.*..[ *read more* ](apps/capbattleship.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/capbattleship) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/capbattleship) |
 | <img loading="lazy" src="icons/casterr.png" width="48" height="48"> | [***casterr***](apps/casterr.md) | *Screen recorder, easing recording and clipping in-game.*..[ *read more* ](apps/casterr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/casterr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/casterr) |
 | <img loading="lazy" src="icons/cavoke.png" width="48" height="48"> | [***cavoke***](apps/cavoke.md) | *Platform to create/host multiplayer turn-based board games.*..[ *read more* ](apps/cavoke.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cavoke) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cavoke) |
 | <img loading="lazy" src="icons/celeste64.png" width="48" height="48"> | [***celeste64***](apps/celeste64.md) | *A game made by the Celeste developers.*..[ *read more* ](apps/celeste64.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/celeste64) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/celeste64) |

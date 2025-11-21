@@ -1475,11 +1475,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/candycrisis.png"
   },
   {
-    "packageName": "capbattleship",
-    "description": "Battleship game with a pirate theme...",
-    "icon": "https://portable-linux-apps.github.io/icons/capbattleship.png"
-  },
-  {
     "packageName": "caprine",
     "description": "Unofficial, elegant privacy focused Facebook Messenger app...",
     "icon": "https://portable-linux-apps.github.io/icons/caprine.png"
@@ -4103,6 +4098,11 @@
     "packageName": "geany",
     "description": "Unofficial, a fast and lightweight IDE...",
     "icon": "https://portable-linux-apps.github.io/icons/geany.png"
+  },
+  {
+    "packageName": "gearlever",
+    "description": "Unofficial. An utility to organize and manage AppImage files for you, generate desktop entries and app metadata, update apps in-place or keep multiple versions side-by-side...",
+    "icon": "https://portable-linux-apps.github.io/icons/gearlever.png"
   },
   {
     "packageName": "gedit",
@@ -8595,6 +8595,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/pigs-n-cows.png"
   },
   {
+    "packageName": "pika-backup",
+    "description": "Doing backups the easy way. Plugin your USB drive and let the Pika do the rest for you...",
+    "icon": "https://portable-linux-apps.github.io/icons/pika-backup.png"
+  },
+  {
     "packageName": "pile",
     "description": "App to organize your piled work at one place...",
     "icon": "https://portable-linux-apps.github.io/icons/pile.png"
@@ -9750,6 +9755,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/rmg.png"
   },
   {
+    "packageName": "rmg-enhanced",
+    "description": "Unofficial AppImage of RMG N64 emulator wtih x86-64-v3 optimizations and smaller size...",
+    "icon": "https://portable-linux-apps.github.io/icons/rmg-enhanced.png"
+  },
+  {
     "packageName": "rmw",
     "description": "A safe-remove utility for the command line...",
     "icon": "https://portable-linux-apps.github.io/icons/rmw.png"
@@ -10238,11 +10248,6 @@
     "packageName": "shipwright",
     "description": "Ship of Harkinian...",
     "icon": "https://portable-linux-apps.github.io/icons/shipwright.png"
-  },
-  {
-    "packageName": "shiru",
-    "description": "BitTorrent streaming software with no paws in the way—watch anime in real-time, no waiting for downloads!..",
-    "icon": "https://portable-linux-apps.github.io/icons/shiru.png"
   },
   {
     "packageName": "shotcut",
@@ -12005,6 +12010,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/vcloudcam.png"
   },
   {
+    "packageName": "vcmi",
+    "description": "Unofficial AppImage of vcmi open-source engine for Heroes of Might and Magic III..",
+    "icon": "https://portable-linux-apps.github.io/icons/vcmi.png"
+  },
+  {
     "packageName": "vechain",
     "description": "A browser that empowers DApps on VeChain...",
     "icon": "https://portable-linux-apps.github.io/icons/vechain.png"
@@ -12391,7 +12401,7 @@
   },
   {
     "packageName": "webcamoid",
-    "description": "A multi-platform camera capture app focused on providing all major features required by power users with a very simple and intuitive interface...",
+    "description": "Unofficial. A multi-platform camera capture app focused on providing all major features required by power users with a very simple and intuitive interface...",
     "icon": "https://portable-linux-apps.github.io/icons/webcamoid.png"
   },
   {
