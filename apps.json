@@ -1445,6 +1445,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/calibre.png"
   },
   {
+    "packageName": "calligra",
+    "description": "Calligra Suite is an office and graphic art suite by KDE. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases...",
+    "icon": "https://portable-linux-apps.github.io/icons/calligra.png"
+  },
+  {
     "packageName": "calm-circles",
     "description": "Calm down and draw something, in Lisp...",
     "icon": "https://portable-linux-apps.github.io/icons/calm-circles.png"

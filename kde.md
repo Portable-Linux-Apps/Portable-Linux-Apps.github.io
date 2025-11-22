@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **9** programs and **67** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **10** programs and **67** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -35,6 +35,7 @@
 | <img loading="lazy" src="icons/ark.png" width="48" height="48"> | [***ark***](apps/ark.md) | *Unofficial. Archiving tool for .zip/.tar/.rar and more. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/ark.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ark) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ark) |
 | <img loading="lazy" src="icons/bomber.png" width="48" height="48"> | [***bomber***](apps/bomber.md) | *Unofficial. Arcade spaceship game. This script installs the full "kdegames" suite.*..[ *read more* ](apps/bomber.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bomber) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bomber) |
 | <img loading="lazy" src="icons/bovo.png" width="48" height="48"> | [***bovo***](apps/bovo.md) | *Unofficial. Five in a row game from. This script installs the full "kdegames" suite.*..[ *read more* ](apps/bovo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bovo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bovo) |
+| <img loading="lazy" src="icons/calligra.png" width="48" height="48"> | [***calligra***](apps/calligra.md) | *Calligra Suite is an office and graphic art suite by KDE. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases.*..[ *read more* ](apps/calligra.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/calligra) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/calligra) |
 | <img loading="lazy" src="icons/falkon.png" width="48" height="48"> | [***falkon***](apps/falkon.md) | *Unofficial. A fast Qt web browser from KDE.*..[ *read more* ](apps/falkon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/falkon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/falkon) |
 | <img loading="lazy" src="icons/filelight.png" width="48" height="48"> | [***filelight***](apps/filelight.md) | *Unofficial. View disk usage information. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/filelight.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filelight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filelight) |
 | <img loading="lazy" src="icons/francis.png" width="48" height="48"> | [***francis***](apps/francis.md) | *Pomodoro technique, get more productive. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/francis.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/francis) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/francis) |

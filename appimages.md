@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2154** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2155** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -273,6 +273,7 @@
 | <img loading="lazy" src="icons/cadmus.png" width="48" height="48"> | [***cadmus***](apps/cadmus.md) | *Pulse Audio real-time noise suppression plugin.*..[ *read more* ](apps/cadmus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cadmus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cadmus) |
 | <img loading="lazy" src="icons/caesium.png" width="48" height="48"> | [***caesium***](apps/caesium.md) | *Image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.*..[ *read more* ](apps/caesium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/caesium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/caesium) |
 | <img loading="lazy" src="icons/calibre.png" width="48" height="48"> | [***calibre***](apps/calibre.md) | *Unofficial. The one stop solution to all your e-book needs*..[ *read more* ](apps/calibre.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/calibre) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/calibre) |
+| <img loading="lazy" src="icons/calligra.png" width="48" height="48"> | [***calligra***](apps/calligra.md) | *Calligra Suite is an office and graphic art suite by KDE. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases.*..[ *read more* ](apps/calligra.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/calligra) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/calligra) |
 | <img loading="lazy" src="icons/calm-circles.png" width="48" height="48"> | [***calm-circles***](apps/calm-circles.md) | *Calm down and draw something, in Lisp.*..[ *read more* ](apps/calm-circles.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/calm-circles) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/calm-circles) |
 | <img loading="lazy" src="icons/calm-fan.png" width="48" height="48"> | [***calm-fan***](apps/calm-fan.md) | *Calm down and draw something, in Lisp.*..[ *read more* ](apps/calm-fan.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/calm-fan) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/calm-fan) |
 | <img loading="lazy" src="icons/calm-meditator.png" width="48" height="48"> | [***calm-meditator***](apps/calm-meditator.md) | *Calm down and draw something, in Lisp.*..[ *read more* ](apps/calm-meditator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/calm-meditator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/calm-meditator) |
