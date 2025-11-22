@@ -11650,6 +11650,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/torcs.png"
   },
   {
+    "packageName": "torrents_digger",
+    "description": "Torrents Digger searches already available torrents from internet...",
+    "icon": "https://portable-linux-apps.github.io/icons/torrents_digger.png"
+  },
+  {
     "packageName": "torrenttools",
     "description": "Cli tool to inspect/create/edit BitTorrent metafiles...",
     "icon": "https://portable-linux-apps.github.io/icons/torrenttools.png"

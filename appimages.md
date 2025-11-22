@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2153** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2154** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1933,6 +1933,7 @@
 | <img loading="lazy" src="icons/tomatox.png" width="48" height="48"> | [***tomatox***](apps/tomatox.md) | *An online free VIP video analysis player, in chinese.*..[ *read more* ](apps/tomatox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tomatox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tomatox) |
 | <img loading="lazy" src="icons/tonuino-toolbox.png" width="48" height="48"> | [***tonuino-toolbox***](apps/tonuino-toolbox.md) | *SD card manager for your Tonuino.*..[ *read more* ](apps/tonuino-toolbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tonuino-toolbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tonuino-toolbox) |
 | <img loading="lazy" src="icons/torcs.png" width="48" height="48"> | [***torcs***](apps/torcs.md) | *The 3D Open Racing Car Game and Simulator.*..[ *read more* ](apps/torcs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/torcs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/torcs) |
+| <img loading="lazy" src="icons/torrents_digger.png" width="48" height="48"> | [***torrents_digger***](apps/torrents_digger.md) | *Torrents Digger searches already available torrents from internet.*..[ *read more* ](apps/torrents_digger.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/torrents_digger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/torrents_digger) |
 | <img loading="lazy" src="icons/torrenttools.png" width="48" height="48"> | [***torrenttools***](apps/torrenttools.md) | *Cli tool to inspect/create/edit BitTorrent metafiles.*..[ *read more* ](apps/torrenttools.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/torrenttools) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/torrenttools) |
 | <img loading="lazy" src="icons/torzu.png" width="48" height="48"> | [***torzu***](apps/torzu.md) | *Unofficial AppImage of Torzu (fork of yuzu), with optimized builds for modern cpus.*..[ *read more* ](apps/torzu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/torzu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/torzu) |
 | <img loading="lazy" src="icons/touchhle.png" width="48" height="48"> | [***touchhle***](apps/touchhle.md) | *Unofficial, High-level emulator for iPhone OS apps.*..[ *read more* ](apps/touchhle.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/touchhle) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/touchhle) |
