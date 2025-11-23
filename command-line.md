@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **215** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **216** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -81,6 +81,7 @@
 | <img loading="lazy" src="icons/edex-ui.png" width="48" height="48"> | [***edex-ui***](apps/edex-ui.md) | *A cross-platform, customizable science fiction terminal emulator.*..[ *read more* ](apps/edex-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/edex-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/edex-ui) |
 | <img loading="lazy" src="icons/effer.png" width="48" height="48"> | [***effer***](apps/effer.md) | *Encrypted CLI Notepad written in Rust*..[ *read more* ](apps/effer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/effer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/effer) |
 | <img loading="lazy" src="icons/elvish.png" width="48" height="48"> | [***elvish***](apps/elvish.md) | *Powerful modern shell scripting.*..[ *read more* ](apps/elvish.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elvish) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elvish) |
+| <img loading="lazy" src="icons/extension-manager.png" width="48" height="48"> | [***extension-manager***](apps/extension-manager.md) | *A native tool for browsing, installing, and managing GNOME Shell Extensions*..[ *read more* ](apps/extension-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/extension-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/extension-manager) |
 | <img loading="lazy" src="icons/extraterm.png" width="48" height="48"> | [***extraterm***](apps/extraterm.md) | *The swiss army chainsaw of terminal emulators.*..[ *read more* ](apps/extraterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/extraterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/extraterm) |
 | <img loading="lazy" src="icons/fakedata.png" width="48" height="48"> | [***fakedata***](apps/fakedata.md) | *CLI utility for fake data generation.*..[ *read more* ](apps/fakedata.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fakedata) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fakedata) |
 | <img loading="lazy" src="icons/fastboot.png" width="48" height="48"> | [***fastboot***](apps/fastboot.md) | *Tool to flash Android devices. This script installs the full "platform-tools" suite.*..[ *read more* ](apps/fastboot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fastboot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fastboot) |

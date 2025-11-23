@@ -3285,6 +3285,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/exsplode.re.png"
   },
   {
+    "packageName": "extension-manager",
+    "description": "A native tool for browsing, installing, and managing GNOME Shell Extensions..",
+    "icon": "https://portable-linux-apps.github.io/icons/extension-manager.png"
+  },
+  {
     "packageName": "extraterm",
     "description": "The swiss army chainsaw of terminal emulators...",
     "icon": "https://portable-linux-apps.github.io/icons/extraterm.png"
