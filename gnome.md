@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **12** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **13** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -33,6 +33,7 @@
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/baobab-gtk3.png" width="48" height="48"> | [***baobab-gtk3***](apps/baobab-gtk3.md) | *Unofficial. Disk Usage Analyser, version 3.38, for all GNOME4+ haters.*..[ *read more* ](apps/baobab-gtk3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/baobab-gtk3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/baobab-gtk3) |
+| <img loading="lazy" src="icons/extension-manager.png" width="48" height="48"> | [***extension-manager***](apps/extension-manager.md) | *A native tool for browsing, installing, and managing GNOME Shell Extensions*..[ *read more* ](apps/extension-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/extension-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/extension-manager) |
 | <img loading="lazy" src="icons/gdm-settings.png" width="48" height="48"> | [***gdm-settings***](apps/gdm-settings.md) | *A settings app for GNOME's Login Manager, GDM.*..[ *read more* ](apps/gdm-settings.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gdm-settings) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gdm-settings) |
 | <img loading="lazy" src="icons/gedit.png" width="48" height="48"> | [***gedit***](apps/gedit.md) | *Unofficial. The popular GNOME text editor Gedit.*..[ *read more* ](apps/gedit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gedit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gedit) |
 | <img loading="lazy" src="icons/gnome-boxes.png" width="48" height="48"> | [***gnome-boxes***](apps/gnome-boxes.md) | *Unofficial, A simple GNOME application to access virtual machines.*..[ *read more* ](apps/gnome-boxes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-boxes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-boxes) |

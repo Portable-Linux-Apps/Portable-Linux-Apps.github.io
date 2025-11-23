@@ -1445,6 +1445,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/calibre.png"
   },
   {
+    "packageName": "calligra",
+    "description": "Calligra Suite is an office and graphic art suite by KDE. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases...",
+    "icon": "https://portable-linux-apps.github.io/icons/calligra.png"
+  },
+  {
     "packageName": "calm-circles",
     "description": "Calm down and draw something, in Lisp...",
     "icon": "https://portable-linux-apps.github.io/icons/calm-circles.png"
@@ -3278,6 +3283,11 @@
     "packageName": "exsplode.re",
     "description": "A Bomberman game made with Godot under BSD3...",
     "icon": "https://portable-linux-apps.github.io/icons/exsplode.re.png"
+  },
+  {
+    "packageName": "extension-manager",
+    "description": "A native tool for browsing, installing, and managing GNOME Shell Extensions..",
+    "icon": "https://portable-linux-apps.github.io/icons/extension-manager.png"
   },
   {
     "packageName": "extraterm",
@@ -11648,6 +11658,11 @@
     "packageName": "torcs",
     "description": "The 3D Open Racing Car Game and Simulator...",
     "icon": "https://portable-linux-apps.github.io/icons/torcs.png"
+  },
+  {
+    "packageName": "torrents_digger",
+    "description": "Torrents Digger searches already available torrents from internet...",
+    "icon": "https://portable-linux-apps.github.io/icons/torrents_digger.png"
   },
   {
     "packageName": "torrenttools",
