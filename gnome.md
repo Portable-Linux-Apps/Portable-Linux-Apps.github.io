@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **13** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **14** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -44,6 +44,7 @@
 | <img loading="lazy" src="icons/gnome-tweaks.png" width="48" height="48"> | [***gnome-tweaks***](apps/gnome-tweaks.md) | *Unofficial, Experimental AppImage port of advanced GNOME 3 settings GUI.*..[ *read more* ](apps/gnome-tweaks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-tweaks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-tweaks) |
 | <img loading="lazy" src="icons/loginized.png" width="48" height="48"> | [***loginized***](apps/loginized.md) | *Loginized Gnome GDM Login Theme Manager.*..[ *read more* ](apps/loginized.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/loginized) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/loginized) |
 | <img loading="lazy" src="icons/simple-scan-gtk3.png" width="48" height="48"> | [***simple-scan-gtk3***](apps/simple-scan-gtk3.md) | *Unofficial. A simple document scanner, version 3.38.1, for all GNOME4+ haters.*..[ *read more* ](apps/simple-scan-gtk3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/simple-scan-gtk3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/simple-scan-gtk3) |
+| <img loading="lazy" src="icons/switchcraft.png" width="48" height="48"> | [***switchcraft***](apps/switchcraft.md) | *Switchcraft watches GNOME's light/dark preference and runs your shell commands when the theme changes.*..[ *read more* ](apps/switchcraft.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/switchcraft) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/switchcraft) |
 | <img loading="lazy" src="icons/system-monitor-gtk3.png" width="48" height="48"> | [***system-monitor-gtk3***](apps/system-monitor-gtk3.md) | *Unofficial, Version 3.38.0, for all those who hate GNOME4+ UIs.*..[ *read more* ](apps/system-monitor-gtk3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/system-monitor-gtk3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/system-monitor-gtk3) |
 
 

@@ -6300,6 +6300,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/linked.png"
   },
   {
+    "packageName": "linkora",
+    "description": "Link organizer for Android and desktop with self-hosted sync...",
+    "icon": "https://portable-linux-apps.github.io/icons/linkora.png"
+  },
+  {
     "packageName": "linphone",
     "description": "A libre SIP client...",
     "icon": "https://portable-linux-apps.github.io/icons/linphone.png"
@@ -11183,6 +11188,11 @@
     "packageName": "swish",
     "description": "Command Line Interface for Swisstransfer Infomaniak's free service...",
     "icon": "https://portable-linux-apps.github.io/icons/swish.png"
+  },
+  {
+    "packageName": "switchcraft",
+    "description": "Switchcraft watches GNOME's light/dark preference and runs your shell commands when the theme changes...",
+    "icon": "https://portable-linux-apps.github.io/icons/switchcraft.png"
   },
   {
     "packageName": "switchhosts",

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **216** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **217** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -205,6 +205,7 @@
 | <img loading="lazy" src="icons/streamlink.png" width="48" height="48"> | [***streamlink***](apps/streamlink.md) | *Command-line which pipes video streams from various services.*..[ *read more* ](apps/streamlink.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/streamlink) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/streamlink) |
 | <img loading="lazy" src="icons/superfile.png" width="48" height="48"> | [***superfile***](apps/superfile.md) | *Pretty fancy and modern terminal file manager.*..[ *read more* ](apps/superfile.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/superfile) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/superfile) |
 | <img loading="lazy" src="icons/swish.png" width="48" height="48"> | [***swish***](apps/swish.md) | *Command Line Interface for Swisstransfer Infomaniak's free service.*..[ *read more* ](apps/swish.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swish) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swish) |
+| <img loading="lazy" src="icons/switchcraft.png" width="48" height="48"> | [***switchcraft***](apps/switchcraft.md) | *Switchcraft watches GNOME's light/dark preference and runs your shell commands when the theme changes.*..[ *read more* ](apps/switchcraft.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/switchcraft) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/switchcraft) |
 | <img loading="lazy" src="icons/switchshuttle.png" width="48" height="48"> | [***switchshuttle***](apps/switchshuttle.md) | *Run predefined commands in various terminal applications.*..[ *read more* ](apps/switchshuttle.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/switchshuttle) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/switchshuttle) |
 | <img loading="lazy" src="icons/sysz.png" width="48" height="48"> | [***sysz***](apps/sysz.md) | *An fzf terminal UI for systemctl.*..[ *read more* ](apps/sysz.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sysz) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sysz) |
 | <img loading="lazy" src="icons/tabby.png" width="48" height="48"> | [***tabby***](apps/tabby.md) | *A terminal for a more modern age*..[ *read more* ](apps/tabby.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tabby) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tabby) |

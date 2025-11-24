@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **30** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **31** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -53,6 +53,7 @@
 | <img loading="lazy" src="icons/guiscrcpy.png" width="48" height="48"> | [***guiscrcpy***](apps/guiscrcpy.md) | *GUI integration for android screen mirroring system.*..[ *read more* ](apps/guiscrcpy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/guiscrcpy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/guiscrcpy) |
 | <img loading="lazy" src="icons/joy2droidx.png" width="48" height="48"> | [***joy2droidx***](apps/joy2droidx.md) | *Turn Android phones into virtual Xbox 360 controller.*..[ *read more* ](apps/joy2droidx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/joy2droidx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/joy2droidx) |
 | <img loading="lazy" src="icons/kdeconnect.png" width="48" height="48"> | [***kdeconnect***](apps/kdeconnect.md) | *Unofficial, A project that enables all your Android devices to communicate with each other.*..[ *read more* ](apps/kdeconnect.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdeconnect) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdeconnect) |
+| <img loading="lazy" src="icons/linkora.png" width="48" height="48"> | [***linkora***](apps/linkora.md) | *Link organizer for Android and desktop with self-hosted sync.*..[ *read more* ](apps/linkora.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/linkora) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/linkora) |
 | <img loading="lazy" src="icons/linphone.png" width="48" height="48"> | [***linphone***](apps/linphone.md) | *A libre SIP client.*..[ *read more* ](apps/linphone.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/linphone) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/linphone) |
 | <img loading="lazy" src="icons/pathephone.png" width="48" height="48"> | [***pathephone***](apps/pathephone.md) | *Distributed audio player.*..[ *read more* ](apps/pathephone.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pathephone) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pathephone) |
 | <img loading="lazy" src="icons/platform-tools.png" width="48" height="48"> | [***platform-tools***](apps/platform-tools.md) | *Official Suite of command line utilities to manage Android devices.*..[ *read more* ](apps/platform-tools.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/platform-tools) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/platform-tools) |
