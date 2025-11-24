@@ -3571,7 +3571,7 @@
   },
   {
     "packageName": "filelight",
-    "description": "Unofficial. View disk usage information. This script installs the full \"kdeutils\" suite...",
+    "description": "Unofficial. View disk usage information, by KDE...",
     "icon": "https://portable-linux-apps.github.io/icons/filelight.png"
   },
   {
@@ -5043,6 +5043,11 @@
     "packageName": "identity",
     "description": "Unofficial. Compare images and videos with one another to check for differences...",
     "icon": "https://portable-linux-apps.github.io/icons/identity.png"
+  },
+  {
+    "packageName": "idescriptor",
+    "description": "A free, open-source, and cross-platform iDevice management tool...",
+    "icon": "https://portable-linux-apps.github.io/icons/idescriptor.png"
   },
   {
     "packageName": "igdm",
