@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **141** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **142** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -156,6 +156,7 @@
 | <img loading="lazy" src="icons/trackaudio.png" width="48" height="48"> | [***trackaudio***](apps/trackaudio.md) | *A next generation Audio-For-VATSIM ATC Client.*..[ *read more* ](apps/trackaudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trackaudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trackaudio) |
 | <img loading="lazy" src="icons/tunepack.png" width="48" height="48"> | [***tunepack***](apps/tunepack.md) | *Finding and download HQ audio files.*..[ *read more* ](apps/tunepack.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tunepack) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tunepack) |
 | <img loading="lazy" src="icons/ultragrid.png" width="48" height="48"> | [***ultragrid***](apps/ultragrid.md) | *UltraGrid low-latency audio/video network transmission system.*..[ *read more* ](apps/ultragrid.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ultragrid) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ultragrid) |
+| <img loading="lazy" src="icons/varia.png" width="48" height="48"> | [***varia***](apps/varia.md) | * Unofficial. Aria2-based advanced download manager with support for downloading files, torrents, video and audio + support for Chromium and Firefox extension.*..[ *read more* ](apps/varia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/varia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/varia) |
 | <img loading="lazy" src="icons/vgmtrans.png" width="48" height="48"> | [***vgmtrans***](apps/vgmtrans.md) | *A tool to convert proprietary, sequenced videogame music.*..[ *read more* ](apps/vgmtrans.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vgmtrans) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vgmtrans) |
 | <img loading="lazy" src="icons/vitomu.png" width="48" height="48"> | [***vitomu***](apps/vitomu.md) | *Easy to use video to audio converter.*..[ *read more* ](apps/vitomu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vitomu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vitomu) |
 | <img loading="lazy" src="icons/vk-music-fs.png" width="48" height="48"> | [***vk-music-fs***](apps/vk-music-fs.md) | *Listen to the music from VK.*..[ *read more* ](apps/vk-music-fs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vk-music-fs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vk-music-fs) |

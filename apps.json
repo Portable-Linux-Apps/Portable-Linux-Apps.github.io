@@ -12035,6 +12035,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/vapour.png"
   },
   {
+    "packageName": "varia",
+    "description": " Unofficial. Aria2-based advanced download manager with support for downloading files, torrents, video and audio + support for Chromium and Firefox extension...",
+    "icon": "https://portable-linux-apps.github.io/icons/varia.png"
+  },
+  {
     "packageName": "vcloudcam",
     "description": "Solution for the camera systems of gas and fuel stations...",
     "icon": "https://portable-linux-apps.github.io/icons/vcloudcam.png"
