@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **31** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **32** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -46,6 +46,7 @@
 | <img loading="lazy" src="icons/checkra1n.png" width="48" height="48"> | [***checkra1n***](apps/checkra1n.md) | *Jailbreak for iPhone 5s through iPhone X, iOS 12.0 and up*..[ *read more* ](apps/checkra1n.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/checkra1n) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/checkra1n) |
 | <img loading="lazy" src="icons/crossmobile.png" width="48" height="48"> | [***crossmobile***](apps/crossmobile.md) | *Create native iOS/Android/Windows apps in Java.*..[ *read more* ](apps/crossmobile.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crossmobile) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crossmobile) |
 | <img loading="lazy" src="icons/deckboard.png" width="48" height="48"> | [***deckboard***](apps/deckboard.md) | *Control your PC with your phone in easy way possible.*..[ *read more* ](apps/deckboard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deckboard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deckboard) |
+| <img loading="lazy" src="icons/discord.png" width="48" height="48"> | [***discord***](apps/discord.md) | *Unofficial. All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.*..[ *read more* ](apps/discord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/discord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/discord) |
 | <img loading="lazy" src="icons/escrcpy.png" width="48" height="48"> | [***escrcpy***](apps/escrcpy.md) | *Graphical Scrcpy to display and control Android, devices powered by Electron.*..[ *read more* ](apps/escrcpy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/escrcpy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/escrcpy) |
 | <img loading="lazy" src="icons/fastboot.png" width="48" height="48"> | [***fastboot***](apps/fastboot.md) | *Tool to flash Android devices. This script installs the full "platform-tools" suite.*..[ *read more* ](apps/fastboot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fastboot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fastboot) |
 | <img loading="lazy" src="icons/firetv-toolkit.png" width="48" height="48"> | [***firetv-toolkit***](apps/firetv-toolkit.md) | *Android-Toolkit, a GUI for adb, modify android devices.*..[ *read more* ](apps/firetv-toolkit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firetv-toolkit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firetv-toolkit) |
