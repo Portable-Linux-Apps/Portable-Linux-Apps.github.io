@@ -4755,6 +4755,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/handlr.png"
   },
   {
+    "packageName": "handy",
+    "description": "A free, open source, and extensible speech-to-text application that works completely offline...",
+    "icon": "https://portable-linux-apps.github.io/icons/handy.png"
+  },
+  {
     "packageName": "hapee",
     "description": "Best cross-platform downloader ever...",
     "icon": "https://portable-linux-apps.github.io/icons/hapee.png"

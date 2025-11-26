@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2161** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2162** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -800,6 +800,7 @@
 | <img loading="lazy" src="icons/hades-emu.png" width="48" height="48"> | [***hades-emu***](apps/hades-emu.md) | *A Nintendo Game Boy Advance Emulator.*..[ *read more* ](apps/hades-emu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hades-emu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hades-emu) |
 | <img loading="lazy" src="icons/hamsket.png" width="48" height="48"> | [***hamsket***](apps/hamsket.md) | *Free and Open Source messaging and emailing app.*..[ *read more* ](apps/hamsket.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hamsket) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hamsket) |
 | <img loading="lazy" src="icons/handbrake.png" width="48" height="48"> | [***handbrake***](apps/handbrake.md) | *Unofficial, An open-source multiplatform video transcoder.*..[ *read more* ](apps/handbrake.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/handbrake) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/handbrake) |
+| <img loading="lazy" src="icons/handy.png" width="48" height="48"> | [***handy***](apps/handy.md) | *A free, open source, and extensible speech-to-text application that works completely offline.*..[ *read more* ](apps/handy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/handy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/handy) |
 | <img loading="lazy" src="icons/hapee.png" width="48" height="48"> | [***hapee***](apps/hapee.md) | *Best cross-platform downloader ever.*..[ *read more* ](apps/hapee.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hapee) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hapee) |
 | <img loading="lazy" src="icons/hashsum.png" width="48" height="48"> | [***hashsum***](apps/hashsum.md) | *A universal tool for finding file duplicates and modified files.*..[ *read more* ](apps/hashsum.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hashsum) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hashsum) |
 | <img loading="lazy" src="icons/hastyheroes.png" width="48" height="48"> | [***hastyheroes***](apps/hastyheroes.md) | *An endless 2D jumping game.*..[ *read more* ](apps/hastyheroes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hastyheroes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hastyheroes) |
