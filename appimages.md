@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2162** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2163** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2002,6 +2002,7 @@
 | <img loading="lazy" src="icons/vcloudcam.png" width="48" height="48"> | [***vcloudcam***](apps/vcloudcam.md) | *Solution for the camera systems of gas and fuel stations.*..[ *read more* ](apps/vcloudcam.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vcloudcam) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vcloudcam) |
 | <img loading="lazy" src="icons/vcmi.png" width="48" height="48"> | [***vcmi***](apps/vcmi.md) | *Unofficial AppImage of vcmi open-source engine for Heroes of Might and Magic III*..[ *read more* ](apps/vcmi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vcmi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vcmi) |
 | <img loading="lazy" src="icons/vechain.png" width="48" height="48"> | [***vechain***](apps/vechain.md) | *A browser that empowers DApps on VeChain.*..[ *read more* ](apps/vechain.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vechain) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vechain) |
+| <img loading="lazy" src="icons/veracrypt.png" width="48" height="48"> | [***veracrypt***](apps/veracrypt.md) | *VeraCrypt is a free open source disk encryption software.*..[ *read more* ](apps/veracrypt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/veracrypt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/veracrypt) |
 | <img loading="lazy" src="icons/verto.png" width="48" height="48"> | [***verto***](apps/verto.md) | *A multi-currency crypto wallet with support for EOS & VTX.*..[ *read more* ](apps/verto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/verto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/verto) |
 | <img loading="lazy" src="icons/vesktop.png" width="48" height="48"> | [***vesktop***](apps/vesktop.md) | *Vesktop gives you the performance of web Discord.*..[ *read more* ](apps/vesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vesktop) |
 | <img loading="lazy" src="icons/vgmtrans.png" width="48" height="48"> | [***vgmtrans***](apps/vgmtrans.md) | *A tool to convert proprietary, sequenced videogame music.*..[ *read more* ](apps/vgmtrans.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vgmtrans) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vgmtrans) |

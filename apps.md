@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2565** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2566** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2442,6 +2442,7 @@
 | <img loading="lazy" src="icons/vechain.png" width="48" height="48"> | [***vechain***](apps/vechain.md) | *A browser that empowers DApps on VeChain.*..[ *read more* ](apps/vechain.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vechain) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vechain) |
 | <img loading="lazy" src="icons/vegeta.png" width="48" height="48"> | [***vegeta***](apps/vegeta.md) | *HTTP load testing tool and library. It's over 9000!*..[ *read more* ](apps/vegeta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vegeta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vegeta) |
 | <img loading="lazy" src="icons/ventoy.png" width="48" height="48"> | [***ventoy***](apps/ventoy.md) | *Tool to create bootable USB drive for ISO/WIM/IMG/VHDx/EFI files.*..[ *read more* ](apps/ventoy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ventoy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ventoy) |
+| <img loading="lazy" src="icons/veracrypt.png" width="48" height="48"> | [***veracrypt***](apps/veracrypt.md) | *VeraCrypt is a free open source disk encryption software.*..[ *read more* ](apps/veracrypt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/veracrypt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/veracrypt) |
 | <img loading="lazy" src="icons/verto.png" width="48" height="48"> | [***verto***](apps/verto.md) | *A multi-currency crypto wallet with support for EOS & VTX.*..[ *read more* ](apps/verto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/verto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/verto) |
 | <img loading="lazy" src="icons/vesktop.png" width="48" height="48"> | [***vesktop***](apps/vesktop.md) | *Vesktop gives you the performance of web Discord.*..[ *read more* ](apps/vesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vesktop) |
 | <img loading="lazy" src="icons/vgmtrans.png" width="48" height="48"> | [***vgmtrans***](apps/vgmtrans.md) | *A tool to convert proprietary, sequenced videogame music.*..[ *read more* ](apps/vgmtrans.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vgmtrans) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vgmtrans) |

@@ -12070,6 +12070,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ventoy.png"
   },
   {
+    "packageName": "veracrypt",
+    "description": "VeraCrypt is a free open source disk encryption software...",
+    "icon": "https://portable-linux-apps.github.io/icons/veracrypt.png"
+  },
+  {
     "packageName": "verto",
     "description": "A multi-currency crypto wallet with support for EOS & VTX...",
     "icon": "https://portable-linux-apps.github.io/icons/verto.png"
