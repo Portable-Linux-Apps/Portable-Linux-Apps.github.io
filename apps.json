@@ -2776,7 +2776,7 @@
   },
   {
     "packageName": "dstask",
-    "description": "Git powered terminal-based todo/note manager,  markdown note page per task...",
+    "description": "Git powered terminal-based todo/note manager, markdown note page per task...",
     "icon": "https://portable-linux-apps.github.io/icons/dstask.png"
   },
   {
@@ -7811,7 +7811,7 @@
   },
   {
     "packageName": "obliqoro",
-    "description": " A cross-platform tauri gui where Oblique Strategies meets Pomodoro...",
+    "description": "A cross-platform tauri gui where Oblique Strategies meets Pomodoro...",
     "icon": "https://portable-linux-apps.github.io/icons/obliqoro.png"
   },
   {
@@ -8106,7 +8106,7 @@
   },
   {
     "packageName": "openxcom",
-    "description": "Open-source clone of the original UFO. Enemy Unknown licensed under the GPL and written in C++ / SDL...",
+    "description": "Enemy Unknown licensed under the GPL and written in C++ / SDL...",
     "icon": "https://portable-linux-apps.github.io/icons/openxcom.png"
   },
   {
@@ -10146,7 +10146,7 @@
   },
   {
     "packageName": "seedit",
-    "description": " A GUI for plebbit similar to old.reddit...",
+    "description": "A GUI for plebbit similar to old.reddit...",
     "icon": "https://portable-linux-apps.github.io/icons/seedit.png"
   },
   {
@@ -11656,7 +11656,7 @@
   },
   {
     "packageName": "todo-bash",
-    "description": "  Todo list for the Bash command line...",
+    "description": "Todo list for the Bash command line...",
     "icon": "https://portable-linux-apps.github.io/icons/todo-bash.png"
   },
   {
@@ -12076,7 +12076,7 @@
   },
   {
     "packageName": "varia",
-    "description": " Unofficial. Aria2-based advanced download manager with support for downloading files, torrents, video and audio + support for Chromium and Firefox extension...",
+    "description": "Unofficial. Aria2-based advanced download manager with support for downloading files, torrents, video and audio + support for Chromium and Firefox extension...",
     "icon": "https://portable-linux-apps.github.io/icons/varia.png"
   },
   {
@@ -12451,7 +12451,7 @@
   },
   {
     "packageName": "waterfox",
-    "description": "A privacy-focused web browser engineered to give you  speed, control, and peace of mind on the internet...",
+    "description": "A privacy-focused web browser engineered to give you speed, control, and peace of mind on the internet...",
     "icon": "https://portable-linux-apps.github.io/icons/waterfox.png"
   },
   {
