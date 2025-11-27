@@ -2,7 +2,7 @@
 
  A native tool for browsing, installing, and managing GNOME Shell Extensions
  
-![Screenshot](https://github.com/Shikakiben/extension-manager/blob/master/data/screenshot-installed-light.png#gh-light-mode-only)
+![Screenshot](https://github.com/mjakeman/extension-manager/raw/master/data/screenshot-installed-light.png#gh-light-mode-only)
 
 
 ## Features
