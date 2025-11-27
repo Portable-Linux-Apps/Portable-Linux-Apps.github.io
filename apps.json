@@ -8195,6 +8195,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/overlayed.png"
   },
   {
+    "packageName": "oversteer",
+    "description": "Unofficial, Steering Wheel Manager for Linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/oversteer.png"
+  },
+  {
     "packageName": "overte",
     "description": "Overte open source virtual worlds platform...",
     "icon": "https://portable-linux-apps.github.io/icons/overte.png"
