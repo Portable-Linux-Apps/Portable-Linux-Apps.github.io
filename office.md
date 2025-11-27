@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **92** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **93** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -126,6 +126,7 @@
 | <img loading="lazy" src="icons/xgetter.png" width="48" height="48"> | [***xgetter***](apps/xgetter.md) | *Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Bilibili, Douyin and more.*..[ *read more* ](apps/xgetter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xgetter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xgetter) |
 | <img loading="lazy" src="icons/xournal++.png" width="48" height="48"> | [***xournal++***](apps/xournal++.md) | *A C++ handwriting notetaking software with PDF annotation support.*..[ *read more* ](apps/xournal++.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xournal++) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xournal++) |
 | <img loading="lazy" src="icons/xournal++nightly.png" width="48" height="48"> | [***xournal++nightly***](apps/xournal++nightly.md) | *C++ notetaking software with PDF annotation support, DEV.*..[ *read more* ](apps/xournal++nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xournal++nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xournal++nightly) |
+| <img loading="lazy" src="icons/xtomarkdown.png" width="48" height="48"> | [***xtomarkdown***](apps/xtomarkdown.md) | *A cross-platform GUI application for converting documents to Markdown.*..[ *read more* ](apps/xtomarkdown.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xtomarkdown) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xtomarkdown) |
 | <img loading="lazy" src="icons/yana.png" width="48" height="48"> | [***yana***](apps/yana.md) | *Note-taking app with nested documents, text search/editor, code...*..[ *read more* ](apps/yana.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yana) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yana) |
 
 
