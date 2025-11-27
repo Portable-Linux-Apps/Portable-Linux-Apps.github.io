@@ -8105,6 +8105,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/opentrons.png"
   },
   {
+    "packageName": "openxcom",
+    "description": "Enemy Unknown licensed under the GPL and written in C++ / SDL...",
+    "icon": "https://portable-linux-apps.github.io/icons/openxcom.png"
+  },
+  {
+    "packageName": "openxcom-extended",
+    "description": "OXCE, extended version of openXcom provide better mod support, QoL improvements, new game mechanics, improved and new GUIs...",
+    "icon": "https://portable-linux-apps.github.io/icons/openxcom-extended.png"
+  },
+  {
     "packageName": "opera",
     "description": "Unofficial. Fast and secure web browser, Stable version...",
     "icon": "https://portable-linux-apps.github.io/icons/opera.png"
