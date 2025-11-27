@@ -4015,6 +4015,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/funterm.png"
   },
   {
+    "packageName": "furnace",
+    "description": "A multi-system chiptune tracker compatible with DefleMask modules...",
+    "icon": "https://portable-linux-apps.github.io/icons/furnace.png"
+  },
+  {
     "packageName": "fx",
     "description": "Terminal JSON viewer & processor...",
     "icon": "https://portable-linux-apps.github.io/icons/fx.png"
@@ -9695,6 +9700,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/repath-studio.png"
   },
   {
+    "packageName": "repetier-host",
+    "description": "Repetier-Host is a 3D printing application developed by Hot-World GmbH & Co. KG...",
+    "icon": "https://portable-linux-apps.github.io/icons/repetier-host.png"
+  },
+  {
     "packageName": "reqable",
     "description": "Advanced API Debugging Proxy and REST Client...",
     "icon": "https://portable-linux-apps.github.io/icons/reqable.png"
@@ -11328,6 +11338,11 @@
     "packageName": "tb",
     "description": "Tasks, boards & notes for the command-line habitat...",
     "icon": "https://portable-linux-apps.github.io/icons/tb.png"
+  },
+  {
+    "packageName": "tbc-video-export",
+    "description": "Tool for exporting S-Video and CVBS-type TBCs to video files...",
+    "icon": "https://portable-linux-apps.github.io/icons/tbc-video-export.png"
   },
   {
     "packageName": "tc",

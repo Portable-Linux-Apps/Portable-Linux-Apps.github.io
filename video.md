@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **151** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **152** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -145,6 +145,7 @@
 | <img loading="lazy" src="icons/sview.png" width="48" height="48"> | [***sview***](apps/sview.md) | *3D Stereoscopic media player for videos and images.*..[ *read more* ](apps/sview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sview) |
 | <img loading="lazy" src="icons/swell.png" width="48" height="48"> | [***swell***](apps/swell.md) | *Testing for streaming APIs, right at your desktop.*..[ *read more* ](apps/swell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swell) |
 | <img loading="lazy" src="icons/syncplay.png" width="48" height="48"> | [***syncplay***](apps/syncplay.md) | *Synchronize video playback over network.*..[ *read more* ](apps/syncplay.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/syncplay) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/syncplay) |
+| <img loading="lazy" src="icons/tbc-video-export.png" width="48" height="48"> | [***tbc-video-export***](apps/tbc-video-export.md) | *Tool for exporting S-Video and CVBS-type TBCs to video files.*..[ *read more* ](apps/tbc-video-export.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tbc-video-export) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tbc-video-export) |
 | <img loading="lazy" src="icons/thoptv.png" width="48" height="48"> | [***thoptv***](apps/thoptv.md) | *Enjoy Ultimate Movies, sports Matches, IPL and Latest Shows.*..[ *read more* ](apps/thoptv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thoptv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thoptv) |
 | <img loading="lazy" src="icons/tomatox.png" width="48" height="48"> | [***tomatox***](apps/tomatox.md) | *An online free VIP video analysis player, in chinese.*..[ *read more* ](apps/tomatox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tomatox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tomatox) |
 | <img loading="lazy" src="icons/toru.png" width="48" height="48"> | [***toru***](apps/toru.md) | *Bittorrent streaming CLI tool. Stream anime torrents real-time.*..[ *read more* ](apps/toru.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/toru) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/toru) |
