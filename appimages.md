@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2175** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2176** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2191,6 +2191,7 @@
 | <img loading="lazy" src="icons/zapzap.png" width="48" height="48"> | [***zapzap***](apps/zapzap.md) | *WhatsApp desktop application written in Pyqt6 + PyQt6-WebEngine.*..[ *read more* ](apps/zapzap.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zapzap) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zapzap) |
 | <img loading="lazy" src="icons/zegarek.png" width="48" height="48"> | [***zegarek***](apps/zegarek.md) | *A simple clock with millisecond resolution.*..[ *read more* ](apps/zegarek.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zegarek) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zegarek) |
 | <img loading="lazy" src="icons/zegrapher.png" width="48" height="48"> | [***zegrapher***](apps/zegrapher.md) | *Math graphing software.*..[ *read more* ](apps/zegrapher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zegrapher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zegrapher) |
+| <img loading="lazy" src="icons/zen-app-manager.png" width="48" height="48"> | [***zen-app-manager***](apps/zen-app-manager.md) | *Zen App Manager is a modern and lightweight startup manager that lets you manage startup applications from a single location.*..[ *read more* ](apps/zen-app-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zen-app-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zen-app-manager) |
 | <img loading="lazy" src="icons/zen-browser.png" width="48" height="48"> | [***zen-browser***](apps/zen-browser.md) | *Experience tranquillity while browsing the web without tracking.*..[ *read more* ](apps/zen-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zen-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zen-browser) |
 | <img loading="lazy" src="icons/zenity.png" width="48" height="48"> | [***zenity***](apps/zenity.md) | *Unofficial, A CLI utility that creates dialog boxes, GTK3 version.*..[ *read more* ](apps/zenity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zenity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zenity) |
 | <img loading="lazy" src="icons/zenkit.png" width="48" height="48"> | [***zenkit***](apps/zenkit.md) | *A platform for collaboration and project management.*..[ *read more* ](apps/zenkit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zenkit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zenkit) |

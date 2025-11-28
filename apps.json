@@ -13170,6 +13170,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/zellij.png"
   },
   {
+    "packageName": "zen-app-manager",
+    "description": "Zen App Manager is a modern and lightweight startup manager that lets you manage startup applications from a single location...",
+    "icon": "https://portable-linux-apps.github.io/icons/zen-app-manager.png"
+  },
+  {
     "packageName": "zen-browser",
     "description": "Experience tranquillity while browsing the web without tracking...",
     "icon": "https://portable-linux-apps.github.io/icons/zen-browser.png"
