@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2174** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2175** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -51,6 +51,7 @@
 | <img loading="lazy" src="icons/affine.png" width="48" height="48"> | [***affine***](apps/affine.md) | *Next-gen knowledge base that brings planning, sorting and creating.*..[ *read more* ](apps/affine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/affine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/affine) |
 | <img loading="lazy" src="icons/affine-beta.png" width="48" height="48"> | [***affine-beta***](apps/affine-beta.md) | *Next-gen knowledge base that brings planning, sorting and creating.*..[ *read more* ](apps/affine-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/affine-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/affine-beta) |
 | <img loading="lazy" src="icons/affine-canary.png" width="48" height="48"> | [***affine-canary***](apps/affine-canary.md) | *Next-gen knowledge base that brings planning/sorting/creating.*..[ *read more* ](apps/affine-canary.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/affine-canary) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/affine-canary) |
+| <img loading="lazy" src="icons/affinity.png" width="48" height="48"> | [***affinity***](apps/affinity.md) | *Affinity is a suite of professional graphic design, photo editing, and desktop publishing software. It's a common alternative to software from the Adobe Suite such as for Adobe Photoshop, Adobe Illustrator, Adobe InDesign.*..[ *read more* ](apps/affinity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/affinity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/affinity) |
 | <img loading="lazy" src="icons/agregore.png" width="48" height="48"> | [***agregore***](apps/agregore.md) | *A minimal browser for the distributed web, Desktop version.*..[ *read more* ](apps/agregore.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/agregore) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/agregore) |
 | <img loading="lazy" src="icons/ai-bot-workspace.png" width="48" height="48"> | [***ai-bot-workspace***](apps/ai-bot-workspace.md) | *Electron app including testing workspaces.*..[ *read more* ](apps/ai-bot-workspace.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ai-bot-workspace) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ai-bot-workspace) |
 | <img loading="lazy" src="icons/aidm.png" width="48" height="48"> | [***aidm***](apps/aidm.md) | *AppImage Desktop Maker.*..[ *read more* ](apps/aidm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aidm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aidm) |
