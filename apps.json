@@ -5905,11 +5905,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/knights.png"
   },
   {
-    "packageName": "knowledge",
-    "description": "Save/search/access/explore all your favorite websites and files...",
-    "icon": "https://portable-linux-apps.github.io/icons/knowledge.png"
-  },
-  {
     "packageName": "knowte",
     "description": "Note taking...",
     "icon": "https://portable-linux-apps.github.io/icons/knowte.png"
