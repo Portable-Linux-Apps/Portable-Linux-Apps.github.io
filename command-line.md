@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **217** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **218** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -179,6 +179,7 @@
 | <img loading="lazy" src="icons/procspin.png" width="48" height="48"> | [***procspin***](apps/procspin.md) | *CLI to create a process/progress animation with text.*..[ *read more* ](apps/procspin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/procspin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/procspin) |
 | <img loading="lazy" src="icons/qpdf.png" width="48" height="48"> | [***qpdf***](apps/qpdf.md) | *CLI tool to perform content-preserving transformations on PDF files.*..[ *read more* ](apps/qpdf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qpdf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qpdf) |
 | <img loading="lazy" src="icons/qrscan.png" width="48" height="48"> | [***qrscan***](apps/qrscan.md) | *Scan a QR code in the terminal using the system camera or an image.*..[ *read more* ](apps/qrscan.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qrscan) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qrscan) |
+| <img loading="lazy" src="icons/raspberry-pi-imager-cli.png" width="48" height="48"> | [***raspberry-pi-imager-cli***](apps/raspberry-pi-imager-cli.md) | *The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices. CLI edition.*..[ *read more* ](apps/raspberry-pi-imager-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/raspberry-pi-imager-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/raspberry-pi-imager-cli) |
 | <img loading="lazy" src="icons/rclone.png" width="48" height="48"> | [***rclone***](apps/rclone.md) | *"rsync for cloud storage", CLI that supports Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files.*..[ *read more* ](apps/rclone.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rclone) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rclone) |
 | <img loading="lazy" src="icons/rimage.png" width="48" height="48"> | [***rimage***](apps/rimage.md) | *This is CLI tool inspired by squoosh.*..[ *read more* ](apps/rimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rimage) |
 | <img loading="lazy" src="icons/rmw.png" width="48" height="48"> | [***rmw***](apps/rmw.md) | *A safe-remove utility for the command line.*..[ *read more* ](apps/rmw.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rmw) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rmw) |

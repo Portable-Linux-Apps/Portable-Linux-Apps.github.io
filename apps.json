@@ -9556,8 +9556,13 @@
   },
   {
     "packageName": "raspberry-pi-imager",
-    "description": "The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices...",
+    "description": "The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices. Desktop edition...",
     "icon": "https://portable-linux-apps.github.io/icons/raspberry-pi-imager.png"
+  },
+  {
+    "packageName": "raspberry-pi-imager-cli",
+    "description": "The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices. CLI edition...",
+    "icon": "https://portable-linux-apps.github.io/icons/raspberry-pi-imager-cli.png"
   },
   {
     "packageName": "raspirus",
