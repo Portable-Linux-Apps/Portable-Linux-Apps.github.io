@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **245** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **244** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -289,7 +289,6 @@
 | <img loading="lazy" src="icons/thlink.png" width="48" height="48"> | [***thlink***](apps/thlink.md) | *Touhou Project Game Netplay Tool.*..[ *read more* ](apps/thlink.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thlink) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thlink) |
 | <img loading="lazy" src="icons/torcs.png" width="48" height="48"> | [***torcs***](apps/torcs.md) | *The 3D Open Racing Car Game and Simulator.*..[ *read more* ](apps/torcs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/torcs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/torcs) |
 | <img loading="lazy" src="icons/trenchbroom.png" width="48" height="48"> | [***trenchbroom***](apps/trenchbroom.md) | *A modern, cross-platform level editor for Quake engine based games.*..[ *read more* ](apps/trenchbroom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trenchbroom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trenchbroom) |
-| <img loading="lazy" src="icons/ultimmc.png" width="48" height="48"> | [***ultimmc***](apps/ultimmc.md) | *Offline Minecraft launcher.*..[ *read more* ](apps/ultimmc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ultimmc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ultimmc) |
 | <img loading="lazy" src="icons/undertaker141.png" width="48" height="48"> | [***undertaker141***](apps/undertaker141.md) | *A free and open-source game-center for linux. Pre-configured Wine and Native Games for Linux.*..[ *read more* ](apps/undertaker141.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/undertaker141) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/undertaker141) |
 | <img loading="lazy" src="icons/urbanterror.png" width="48" height="48"> | [***urbanterror***](apps/urbanterror.md) | *A team-based tactical game shooter based on the Quake 3 Engine.*..[ *read more* ](apps/urbanterror.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/urbanterror) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/urbanterror) |
 | <img loading="lazy" src="icons/uzdoom.png" width="48" height="48"> | [***uzdoom***](apps/uzdoom.md) | *UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities.*..[ *read more* ](apps/uzdoom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uzdoom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uzdoom) |

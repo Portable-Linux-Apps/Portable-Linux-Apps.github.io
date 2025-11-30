@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2582** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2581** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2421,7 +2421,6 @@
 | <img loading="lazy" src="icons/ubports-installer.png" width="48" height="48"> | [***ubports-installer***](apps/ubports-installer.md) | *A simple tool to install Ubuntu Touch on UBports devices*..[ *read more* ](apps/ubports-installer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ubports-installer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ubports-installer) |
 | <img loading="lazy" src="icons/uhk.agent.png" width="48" height="48"> | [***uhk.agent***](apps/uhk.agent.md) | *Configuration app of the Ultimate Hacking Keyboard.*..[ *read more* ](apps/uhk.agent.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uhk.agent) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uhk.agent) |
 | <img loading="lazy" src="icons/uivonim.png" width="48" height="48"> | [***uivonim***](apps/uivonim.md) | *Fork of the Veonim Neovim GUI.*..[ *read more* ](apps/uivonim.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uivonim) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uivonim) |
-| <img loading="lazy" src="icons/ultimmc.png" width="48" height="48"> | [***ultimmc***](apps/ultimmc.md) | *Offline Minecraft launcher.*..[ *read more* ](apps/ultimmc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ultimmc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ultimmc) |
 | <img loading="lazy" src="icons/ultragrid.png" width="48" height="48"> | [***ultragrid***](apps/ultragrid.md) | *UltraGrid low-latency audio/video network transmission system.*..[ *read more* ](apps/ultragrid.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ultragrid) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ultragrid) |
 | <img loading="lazy" src="icons/ultrascreen.png" width="48" height="48"> | [***ultrascreen***](apps/ultrascreen.md) | *Share your screens with friends.*..[ *read more* ](apps/ultrascreen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ultrascreen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ultrascreen) |
 | <img loading="lazy" src="icons/ums.png" width="48" height="48"> | [***ums***](apps/ums.md) | *Universal Media Server. A DLNA, UPnP and HTTP(S) Media Server.*..[ *read more* ](apps/ums.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ums) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ums) |

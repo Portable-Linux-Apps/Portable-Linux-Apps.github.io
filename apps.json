@@ -11965,11 +11965,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/uivonim.png"
   },
   {
-    "packageName": "ultimmc",
-    "description": "Offline Minecraft launcher...",
-    "icon": "https://portable-linux-apps.github.io/icons/ultimmc.png"
-  },
-  {
     "packageName": "ultragrid",
     "description": "UltraGrid low-latency audio/video network transmission system...",
     "icon": "https://portable-linux-apps.github.io/icons/ultragrid.png"
