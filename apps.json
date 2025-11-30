@@ -12090,6 +12090,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/uyou.png"
   },
   {
+    "packageName": "uzdoom",
+    "description": "UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities...",
+    "icon": "https://portable-linux-apps.github.io/icons/uzdoom.png"
+  },
+  {
     "packageName": "v2ray-desktop",
     "description": "V2Ray GUI client for Linux...",
     "icon": "https://portable-linux-apps.github.io/icons/v2ray-desktop.png"

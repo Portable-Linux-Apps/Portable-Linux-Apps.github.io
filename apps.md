@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2581** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2582** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2446,6 +2446,7 @@
 | <img loading="lazy" src="icons/uv.png" width="48" height="48"> | [***uv***](apps/uv.md) | *An extremely fast Python package and project manager, written in Rust.*..[ *read more* ](apps/uv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uv) |
 | <img loading="lazy" src="icons/uwufetch.png" width="48" height="48"> | [***uwufetch***](apps/uwufetch.md) | *A meme system info tool for Linux, based on nyan/uwu trend.*..[ *read more* ](apps/uwufetch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uwufetch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uwufetch) |
 | <img loading="lazy" src="icons/uyou.png" width="48" height="48"> | [***uyou***](apps/uyou.md) | *This is a todo list with electron.*..[ *read more* ](apps/uyou.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uyou) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uyou) |
+| <img loading="lazy" src="icons/uzdoom.png" width="48" height="48"> | [***uzdoom***](apps/uzdoom.md) | *UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities.*..[ *read more* ](apps/uzdoom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uzdoom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uzdoom) |
 | <img loading="lazy" src="icons/v2ray-desktop.png" width="48" height="48"> | [***v2ray-desktop***](apps/v2ray-desktop.md) | *V2Ray GUI client for Linux.*..[ *read more* ](apps/v2ray-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/v2ray-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/v2ray-desktop) |
 | <img loading="lazy" src="icons/valeronoi.png" width="48" height="48"> | [***valeronoi***](apps/valeronoi.md) | *Companion app for Valetudo for generating WiFi heat maps.*..[ *read more* ](apps/valeronoi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/valeronoi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/valeronoi) |
 | <img loading="lazy" src="icons/vapour.png" width="48" height="48"> | [***vapour***](apps/vapour.md) | *An alternative open source Steam client.*..[ *read more* ](apps/vapour.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vapour) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vapour) |
