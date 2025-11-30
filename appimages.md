@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2179** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2180** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -648,6 +648,7 @@
 | <img loading="lazy" src="icons/firetv-toolkit.png" width="48" height="48"> | [***firetv-toolkit***](apps/firetv-toolkit.md) | *Android-Toolkit, a GUI for adb, modify android devices.*..[ *read more* ](apps/firetv-toolkit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firetv-toolkit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firetv-toolkit) |
 | <img loading="lazy" src="icons/fishing-funds.png" width="48" height="48"> | [***fishing-funds***](apps/fishing-funds.md) | *Fund, big market, stock, virtual currency status, in chinese.*..[ *read more* ](apps/fishing-funds.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fishing-funds) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fishing-funds) |
 | <img loading="lazy" src="icons/fishterm.png" width="48" height="48"> | [***fishterm***](apps/fishterm.md) | *A open-soruce Terminal remote access.*..[ *read more* ](apps/fishterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fishterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fishterm) |
+| <img loading="lazy" src="icons/fjordlauncher.png" width="48" height="48"> | [***fjordlauncher***](apps/fjordlauncher.md) | *Prism Launcher fork with support for alternative auth servers.*..[ *read more* ](apps/fjordlauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fjordlauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fjordlauncher) |
 | <img loading="lazy" src="icons/flacon.png" width="48" height="48"> | [***flacon***](apps/flacon.md) | *Audio File Encoder. Extracts audio tracks from audio CDs.*..[ *read more* ](apps/flacon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flacon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flacon) |
 | <img loading="lazy" src="icons/fladder.png" width="48" height="48"> | [***fladder***](apps/fladder.md) | *A Simple Jellyfin frontend built on top of Flutter.*..[ *read more* ](apps/fladder.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fladder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fladder) |
 | <img loading="lazy" src="icons/flameshot.png" width="48" height="48"> | [***flameshot***](apps/flameshot.md) | *Tool to take screenshots with many built-in features, graphics.*..[ *read more* ](apps/flameshot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flameshot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flameshot) |
