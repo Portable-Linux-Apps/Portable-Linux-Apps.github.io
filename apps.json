@@ -1515,6 +1515,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/carta.png"
   },
   {
+    "packageName": "cartridges",
+    "description": "Unofficial. Game launcher, which helps you visualize your game collection and easily launch games...",
+    "icon": "https://portable-linux-apps.github.io/icons/cartridges.png"
+  },
+  {
     "packageName": "cask",
     "description": "A universal, distributed binary file manager...",
     "icon": "https://portable-linux-apps.github.io/icons/cask.png"

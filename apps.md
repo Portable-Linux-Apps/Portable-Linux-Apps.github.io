@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2580** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2581** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -331,6 +331,7 @@
 | <img loading="lazy" src="icons/cargo.png" width="48" height="48"> | [***cargo***](apps/cargo.md) | *Converts your crate into an AppImage.*..[ *read more* ](apps/cargo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cargo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cargo) |
 | <img loading="lazy" src="icons/carpenters.png" width="48" height="48"> | [***carpenters***](apps/carpenters.md) | *Digital preservation ingest utility.*..[ *read more* ](apps/carpenters.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/carpenters) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/carpenters) |
 | <img loading="lazy" src="icons/carta.png" width="48" height="48"> | [***carta***](apps/carta.md) | *Cube Analysis and Rendering Tool for Astronomy.*..[ *read more* ](apps/carta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/carta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/carta) |
+| <img loading="lazy" src="icons/cartridges.png" width="48" height="48"> | [***cartridges***](apps/cartridges.md) | *Unofficial. Game launcher, which helps you visualize your game collection and easily launch games.*..[ *read more* ](apps/cartridges.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cartridges) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cartridges) |
 | <img loading="lazy" src="icons/cask.png" width="48" height="48"> | [***cask***](apps/cask.md) | *A universal, distributed binary file manager.*..[ *read more* ](apps/cask.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cask) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cask) |
 | <img loading="lazy" src="icons/casm.png" width="48" height="48"> | [***casm***](apps/casm.md) | *Corinthian Abstract State Machine, CASM.*..[ *read more* ](apps/casm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/casm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/casm) |
 | <img loading="lazy" src="icons/casterr.png" width="48" height="48"> | [***casterr***](apps/casterr.md) | *Screen recorder, easing recording and clipping in-game.*..[ *read more* ](apps/casterr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/casterr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/casterr) |
