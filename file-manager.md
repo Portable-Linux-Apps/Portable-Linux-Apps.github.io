@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **22** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **23** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -45,6 +45,7 @@
 | <img loading="lazy" src="icons/freeman.png" width="48" height="48"> | [***freeman***](apps/freeman.md) | *A free, extensible, cross-platform file manager for power users.*..[ *read more* ](apps/freeman.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freeman) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freeman) |
 | <img loading="lazy" src="icons/lf.png" width="48" height="48"> | [***lf***](apps/lf.md) | *lf, as in "list files" is a terminal file manager written in Go.*..[ *read more* ](apps/lf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lf) |
 | <img loading="lazy" src="icons/nnn.png" width="48" height="48"> | [***nnn***](apps/nnn.md) | *n³ The unorthodox terminal file manager*..[ *read more* ](apps/nnn.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nnn) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nnn) |
+| <img loading="lazy" src="icons/rcloneview.png" width="48" height="48"> | [***rcloneview***](apps/rcloneview.md) | *The ultimate GUI for Cloud Data Sync and File Management. Effortlessly browse, organize, transfer files across your cloud storages.*..[ *read more* ](apps/rcloneview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rcloneview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rcloneview) |
 | <img loading="lazy" src="icons/sigma-file-manager.png" width="48" height="48"> | [***sigma-file-manager***](apps/sigma-file-manager.md) | *A free, open-source, modern file manager.*..[ *read more* ](apps/sigma-file-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sigma-file-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sigma-file-manager) |
 | <img loading="lazy" src="icons/superfile.png" width="48" height="48"> | [***superfile***](apps/superfile.md) | *Pretty fancy and modern terminal file manager.*..[ *read more* ](apps/superfile.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/superfile) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/superfile) |
 | <img loading="lazy" src="icons/tere.png" width="48" height="48"> | [***tere***](apps/tere.md) | *Terminal file explorer.*..[ *read more* ](apps/tere.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tere) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tere) |
