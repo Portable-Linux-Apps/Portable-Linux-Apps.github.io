@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2180** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2181** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -974,6 +974,7 @@
 | <img loading="lazy" src="icons/koreader.png" width="48" height="48"> | [***koreader***](apps/koreader.md) | *A document viewer.*..[ *read more* ](apps/koreader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/koreader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/koreader) |
 | <img loading="lazy" src="icons/krita.png" width="48" height="48"> | [***krita***](apps/krita.md) | *A professional FREE and open source painting program, graphics.*..[ *read more* ](apps/krita.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/krita) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/krita) |
 | <img loading="lazy" src="icons/krita-devel.png" width="48" height="48"> | [***krita-devel***](apps/krita-devel.md) | *A professional FREE open source painting program, dev-edition.*..[ *read more* ](apps/krita-devel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/krita-devel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/krita-devel) |
+| <img loading="lazy" src="icons/kronos.png" width="48" height="48"> | [***kronos***](apps/kronos.md) | *Unofficial, Sega Saturn emulator.*..[ *read more* ](apps/kronos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kronos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kronos) |
 | <img loading="lazy" src="icons/krunker.png" width="48" height="48"> | [***krunker***](apps/krunker.md) | *Krunker (.io) is a fast-paced first-person shooter game with pixel graphics.*..[ *read more* ](apps/krunker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/krunker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/krunker) |
 | <img loading="lazy" src="icons/ksnip.png" width="48" height="48"> | [***ksnip***](apps/ksnip.md) | *Screenshot tool inspired by Windows Snipping Tool and made with Qt.*..[ *read more* ](apps/ksnip.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ksnip) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ksnip) |
 | <img loading="lazy" src="icons/kubeman.png" width="48" height="48"> | [***kubeman***](apps/kubeman.md) | *The Hero that Kubernetes deserves.*..[ *read more* ](apps/kubeman.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kubeman) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kubeman) |
