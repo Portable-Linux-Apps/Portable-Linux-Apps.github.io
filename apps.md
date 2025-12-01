@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2583** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2582** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2250,7 +2250,6 @@
 | <img loading="lazy" src="icons/sultanpos.png" width="48" height="48"> | [***sultanpos***](apps/sultanpos.md) | *Simple POS for minimarket.*..[ *read more* ](apps/sultanpos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sultanpos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sultanpos) |
 | <img loading="lazy" src="icons/summoners.war.exporter.png" width="48" height="48"> | [***summoners.war.exporter***](apps/summoners.war.exporter.md) | *To parse intercepted data from Summoners War.*..[ *read more* ](apps/summoners.war.exporter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/summoners.war.exporter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/summoners.war.exporter) |
 | <img loading="lazy" src="icons/sumoco.png" width="48" height="48"> | [***sumoco***](apps/sumoco.md) | *Simple Unified Model for Orthopaedics.*..[ *read more* ](apps/sumoco.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sumoco) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sumoco) |
-| <img loading="lazy" src="icons/sunamu.png" width="48" height="48"> | [***sunamu***](apps/sunamu.md) | *Show your currently playing song in a stylish way.*..[ *read more* ](apps/sunamu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sunamu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sunamu) |
 | <img loading="lazy" src="icons/sunny.png" width="48" height="48"> | [***sunny***](apps/sunny.md) | *Screenshot software that supports OCR and image translation features.*..[ *read more* ](apps/sunny.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sunny) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sunny) |
 | <img loading="lazy" src="icons/sunsama.png" width="48" height="48"> | [***sunsama***](apps/sunsama.md) | *The daily planner for elite professionals.*..[ *read more* ](apps/sunsama.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sunsama) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sunsama) |
 | <img loading="lazy" src="icons/sunshine.png" width="48" height="48"> | [***sunshine***](apps/sunshine.md) | *Sunshine is a Gamestream host for Moonlight.*..[ *read more* ](apps/sunshine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sunshine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sunshine) |
