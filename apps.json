@@ -500,6 +500,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/appimageupdatetool.png"
   },
   {
+    "packageName": "appimg",
+    "description": "Appimg is a lightweight command-line tool that helps you manage AppImage files on Linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/appimg.png"
+  },
+  {
     "packageName": "appinstall",
     "description": "AppImage Installer, a tool integrate AppImages to a linux desktop environment...",
     "icon": "https://portable-linux-apps.github.io/icons/appinstall.png"
