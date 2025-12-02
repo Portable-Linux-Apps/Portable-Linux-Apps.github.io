@@ -1420,6 +1420,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/bytespeichertrayicon.png"
   },
   {
+    "packageName": "c-evo",
+    "description": "C-evo is an empire building game based on Civilization II, but with a different focus. It aims to be a pure game with all players playing to win...",
+    "icon": "https://portable-linux-apps.github.io/icons/c-evo.png"
+  },
+  {
     "packageName": "cabal-desktop",
     "description": "Cabal p2p offline-first desktop application...",
     "icon": "https://portable-linux-apps.github.io/icons/cabal-desktop.png"
@@ -3105,6 +3110,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/emudeck.png"
   },
   {
+    "packageName": "emulsion",
+    "description": "Better gaming through chemistry...",
+    "icon": "https://portable-linux-apps.github.io/icons/emulsion.png"
+  },
+  {
     "packageName": "en-croissant",
     "description": "The Ultimate Chess Toolkit...",
     "icon": "https://portable-linux-apps.github.io/icons/en-croissant.png"
@@ -3683,6 +3693,11 @@
     "packageName": "firefox-nightly-appimage",
     "description": "Unofficial AppImage of the Web Browser, Nightly...",
     "icon": "https://portable-linux-apps.github.io/icons/firefox-nightly-appimage.png"
+  },
+  {
+    "packageName": "fireminipro",
+    "description": "GUI for minipro CLI...",
+    "icon": "https://portable-linux-apps.github.io/icons/fireminipro.png"
   },
   {
     "packageName": "firetail",
@@ -6175,6 +6190,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/launcher.png"
   },
   {
+    "packageName": "lazpaint",
+    "description": "Cross-platform image editor with raster and vector layers similar to Paint.Net written in Lazarus (Free Pascal)...",
+    "icon": "https://portable-linux-apps.github.io/icons/lazpaint.png"
+  },
+  {
     "packageName": "lazygit",
     "description": "Simple terminal UI for git commands...",
     "icon": "https://portable-linux-apps.github.io/icons/lazygit.png"
@@ -6708,6 +6728,11 @@
     "packageName": "marvin",
     "description": "Open Source record and playback test automation for the web...",
     "icon": "https://portable-linux-apps.github.io/icons/marvin.png"
+  },
+  {
+    "packageName": "master-pdf-editor",
+    "description": "Master PDF Editor allows you to create, edit, preview, encrypt, sign and print PDF documents...",
+    "icon": "https://portable-linux-apps.github.io/icons/master-pdf-editor.png"
   },
   {
     "packageName": "mastervyrn",
@@ -8300,6 +8325,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/padloc.png"
   },
   {
+    "packageName": "pageedit",
+    "description": "EPub XHTML Visual Editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/pageedit.png"
+  },
+  {
     "packageName": "painel-web",
     "description": "Novo SGA panel...",
     "icon": "https://portable-linux-apps.github.io/icons/painel-web.png"
@@ -8503,6 +8533,11 @@
     "packageName": "pencil",
     "description": "Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations...",
     "icon": "https://portable-linux-apps.github.io/icons/pencil.png"
+  },
+  {
+    "packageName": "penguins-eggs",
+    "description": "A professional and universal remastering tool for all major distributions...",
+    "icon": "https://portable-linux-apps.github.io/icons/penguins-eggs.png"
   },
   {
     "packageName": "pennywise",
@@ -10385,6 +10420,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/sigdigger.png"
   },
   {
+    "packageName": "sigil",
+    "description": "Sigil is a multi-platform EPUB ebook editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/sigil.png"
+  },
+  {
     "packageName": "sigma-file-manager",
     "description": "A free, open-source, modern file manager...",
     "icon": "https://portable-linux-apps.github.io/icons/sigma-file-manager.png"
@@ -12125,6 +12165,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/varia.png"
   },
   {
+    "packageName": "vcard-studio",
+    "description": "A contact management application with support for vCard file format (.vcf)...",
+    "icon": "https://portable-linux-apps.github.io/icons/vcard-studio.png"
+  },
+  {
     "packageName": "vcloudcam",
     "description": "Solution for the camera systems of gas and fuel stations...",
     "icon": "https://portable-linux-apps.github.io/icons/vcloudcam.png"
@@ -12308,6 +12353,11 @@
     "packageName": "visual-define-xml-editor",
     "description": "Editor for CDISC Define-XML standard...",
     "icon": "https://portable-linux-apps.github.io/icons/visual-define-xml-editor.png"
+  },
+  {
+    "packageName": "visual-lvm",
+    "description": "Visual LVM the remote gui lvm manager for all linux platform...",
+    "icon": "https://portable-linux-apps.github.io/icons/visual-lvm.png"
   },
   {
     "packageName": "visualfamilytree",

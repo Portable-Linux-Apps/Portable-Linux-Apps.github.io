@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **119** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **120** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -97,6 +97,7 @@
 | <img loading="lazy" src="icons/krita-devel.png" width="48" height="48"> | [***krita-devel***](apps/krita-devel.md) | *A professional FREE open source painting program, dev-edition.*..[ *read more* ](apps/krita-devel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/krita-devel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/krita-devel) |
 | <img loading="lazy" src="icons/krunker.png" width="48" height="48"> | [***krunker***](apps/krunker.md) | *Krunker (.io) is a fast-paced first-person shooter game with pixel graphics.*..[ *read more* ](apps/krunker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/krunker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/krunker) |
 | <img loading="lazy" src="icons/ksnip.png" width="48" height="48"> | [***ksnip***](apps/ksnip.md) | *Screenshot tool inspired by Windows Snipping Tool and made with Qt.*..[ *read more* ](apps/ksnip.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ksnip) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ksnip) |
+| <img loading="lazy" src="icons/lazpaint.png" width="48" height="48"> | [***lazpaint***](apps/lazpaint.md) | *Cross-platform image editor with raster and vector layers similar to Paint.Net written in Lazarus (Free Pascal).*..[ *read more* ](apps/lazpaint.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lazpaint) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lazpaint) |
 | <img loading="lazy" src="icons/libertem.png" width="48" height="48"> | [***libertem***](apps/libertem.md) | *Pixelated scanning transmission electron microscopy.*..[ *read more* ](apps/libertem.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/libertem) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/libertem) |
 | <img loading="lazy" src="icons/libresprite.png" width="48" height="48"> | [***libresprite***](apps/libresprite.md) | *Animated sprite editor & pixel art tool. Fork of the last GPLv2 commit of Aseprite.*..[ *read more* ](apps/libresprite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/libresprite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/libresprite) |
 | <img loading="lazy" src="icons/lisk-desktop.png" width="48" height="48"> | [***lisk-desktop***](apps/lisk-desktop.md) | *Lisk graphical user interface for desktop.*..[ *read more* ](apps/lisk-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lisk-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lisk-desktop) |

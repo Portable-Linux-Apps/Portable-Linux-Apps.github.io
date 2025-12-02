@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **68** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **69** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -86,6 +86,7 @@
 | <img loading="lazy" src="icons/rtneuron.png" width="48" height="48"> | [***rtneuron***](apps/rtneuron.md) | *Framework for geometrically detailed neuron simulations.*..[ *read more* ](apps/rtneuron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rtneuron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rtneuron) |
 | <img loading="lazy" src="icons/schildichat.png" width="48" height="48"> | [***schildichat***](apps/schildichat.md) | *A Matrix Client.*..[ *read more* ](apps/schildichat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/schildichat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/schildichat) |
 | <img loading="lazy" src="icons/ser-player.png" width="48" height="48"> | [***ser-player***](apps/ser-player.md) | *Video player for SER files used for astronomy-imaging.*..[ *read more* ](apps/ser-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ser-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ser-player) |
+| <img loading="lazy" src="icons/sigil.png" width="48" height="48"> | [***sigil***](apps/sigil.md) | *Sigil is a multi-platform EPUB ebook editor.*..[ *read more* ](apps/sigil.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sigil) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sigil) |
 | <img loading="lazy" src="icons/sioyek.png" width="48" height="48"> | [***sioyek***](apps/sioyek.md) | *PDF viewer designed for reading research papers and technical books.*..[ *read more* ](apps/sioyek.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sioyek) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sioyek) |
 | <img loading="lazy" src="icons/slang-ed.png" width="48" height="48"> | [***slang-ed***](apps/slang-ed.md) | *An Electron/Ionic app to edit i18n language translations files.*..[ *read more* ](apps/slang-ed.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/slang-ed) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/slang-ed) |
 | <img loading="lazy" src="icons/smallbasic.png" width="48" height="48"> | [***smallbasic***](apps/smallbasic.md) | *A fast and easy to learn BASIC language interpreter.*..[ *read more* ](apps/smallbasic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smallbasic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smallbasic) |

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **244** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **245** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -61,6 +61,7 @@
 | <img loading="lazy" src="icons/bottles.png" width="48" height="48"> | [***bottles***](apps/bottles.md) | *Unofficial. Manage wine prefixes and run Windows software & games in a new way.*..[ *read more* ](apps/bottles.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bottles) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bottles) |
 | <img loading="lazy" src="icons/bovo.png" width="48" height="48"> | [***bovo***](apps/bovo.md) | *Unofficial. Five in a row game from. This script installs the full "kdegames" suite.*..[ *read more* ](apps/bovo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bovo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bovo) |
 | <img loading="lazy" src="icons/bugdom.png" width="48" height="48"> | [***bugdom***](apps/bugdom.md) | *Pangea Software's Bugdom game.*..[ *read more* ](apps/bugdom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bugdom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bugdom) |
+| <img loading="lazy" src="icons/c-evo.png" width="48" height="48"> | [***c-evo***](apps/c-evo.md) | *C-evo is an empire building game based on Civilization II, but with a different focus. It aims to be a pure game with all players playing to win.*..[ *read more* ](apps/c-evo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/c-evo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/c-evo) |
 | <img loading="lazy" src="icons/cartridges.png" width="48" height="48"> | [***cartridges***](apps/cartridges.md) | *Unofficial. Game launcher, which helps you visualize your game collection and easily launch games.*..[ *read more* ](apps/cartridges.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cartridges) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cartridges) |
 | <img loading="lazy" src="icons/casterr.png" width="48" height="48"> | [***casterr***](apps/casterr.md) | *Screen recorder, easing recording and clipping in-game.*..[ *read more* ](apps/casterr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/casterr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/casterr) |
 | <img loading="lazy" src="icons/cavoke.png" width="48" height="48"> | [***cavoke***](apps/cavoke.md) | *Platform to create/host multiplayer turn-based board games.*..[ *read more* ](apps/cavoke.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cavoke) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cavoke) |
