@@ -655,6 +655,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/asgardex.png"
   },
   {
+    "packageName": "aspect",
+    "description": "Photo organization application with support for peer-to-peer based synchronization across devices...",
+    "icon": "https://portable-linux-apps.github.io/icons/aspect.png"
+  },
+  {
     "packageName": "astroffers",
     "description": "Take offers to watch at given nights by the NGC2000 catalog...",
     "icon": "https://portable-linux-apps.github.io/icons/astroffers.png"
@@ -1705,6 +1710,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/cherrytree.png"
   },
   {
+    "packageName": "chessmd",
+    "description": "Open source chess training software. Play against bots, analyze with engines, explore chess openings, and more...",
+    "icon": "https://portable-linux-apps.github.io/icons/chessmd.png"
+  },
+  {
     "packageName": "chimeradesk",
     "description": "Simple, fast and flexible DIY Remote Desktop software...",
     "icon": "https://portable-linux-apps.github.io/icons/chimeradesk.png"
@@ -2753,6 +2763,11 @@
     "packageName": "draw.io",
     "description": "draw.io desktop...",
     "icon": "https://portable-linux-apps.github.io/icons/draw.io.png"
+  },
+  {
+    "packageName": "drawish",
+    "description": "Simple, yet complete drawing program...",
+    "icon": "https://portable-linux-apps.github.io/icons/drawish.png"
   },
   {
     "packageName": "drawpile",
@@ -11723,6 +11738,11 @@
     "packageName": "tlock",
     "description": "Two-Factor Authentication Tokens Manager in Terminal...",
     "icon": "https://portable-linux-apps.github.io/icons/tlock.png"
+  },
+  {
+    "packageName": "tlum",
+    "description": "Tlum - open-source cross-platform language learning application leverages the power of natural language processing to pinpoint pronunciation gaps and enhance articulation, machine learning to boost vocabulary proficiency...",
+    "icon": "https://portable-linux-apps.github.io/icons/tlum.png"
   },
   {
     "packageName": "tmon",
