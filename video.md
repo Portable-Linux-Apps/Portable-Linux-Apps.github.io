@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **153** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **154** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -117,6 +117,7 @@
 | <img loading="lazy" src="icons/playme.png" width="48" height="48"> | [***playme***](apps/playme.md) | *Elegant YouTube Music desktop app.*..[ *read more* ](apps/playme.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playme) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playme) |
 | <img loading="lazy" src="icons/positron.png" width="48" height="48"> | [***positron***](apps/positron.md) | *Manage your movie and show watchlist.*..[ *read more* ](apps/positron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/positron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/positron) |
 | <img loading="lazy" src="icons/pstube.png" width="48" height="48"> | [***pstube***](apps/pstube.md) | *Watch and download videos without ads.*..[ *read more* ](apps/pstube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pstube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pstube) |
+| <img loading="lazy" src="icons/qimgv.png" width="48" height="48"> | [***qimgv***](apps/qimgv.md) | *Unofficial, Image viewer. Fast, easy to use. Optional video support.*..[ *read more* ](apps/qimgv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qimgv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qimgv) |
 | <img loading="lazy" src="icons/qmplay2.png" width="48" height="48"> | [***qmplay2***](apps/qmplay2.md) | *Video and audio player whit support of most formats and codecs.*..[ *read more* ](apps/qmplay2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmplay2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmplay2) |
 | <img loading="lazy" src="icons/qprompt.png" width="48" height="48"> | [***qprompt***](apps/qprompt.md) | *Personal teleprompter software for all video creators.*..[ *read more* ](apps/qprompt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qprompt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qprompt) |
 | <img loading="lazy" src="icons/quark-player.png" width="48" height="48"> | [***quark-player***](apps/quark-player.md) | *An Electron based Web Video Services Player.*..[ *read more* ](apps/quark-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/quark-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/quark-player) |

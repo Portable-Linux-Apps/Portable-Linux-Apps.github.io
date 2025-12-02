@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2583** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2584** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1889,6 +1889,7 @@
 | <img loading="lazy" src="icons/qfsm.png" width="48" height="48"> | [***qfsm***](apps/qfsm.md) | *Qt Finite State Machine Designer.*..[ *read more* ](apps/qfsm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qfsm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qfsm) |
 | <img loading="lazy" src="icons/qgroundcontrol.png" width="48" height="48"> | [***qgroundcontrol***](apps/qgroundcontrol.md) | *Ground control for unmanned vehicles.*..[ *read more* ](apps/qgroundcontrol.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qgroundcontrol) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qgroundcontrol) |
 | <img loading="lazy" src="icons/qikqr.png" width="48" height="48"> | [***qikqr***](apps/qikqr.md) | *Minimal desktop app to create QR codes.*..[ *read more* ](apps/qikqr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qikqr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qikqr) |
+| <img loading="lazy" src="icons/qimgv.png" width="48" height="48"> | [***qimgv***](apps/qimgv.md) | *Unofficial, Image viewer. Fast, easy to use. Optional video support.*..[ *read more* ](apps/qimgv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qimgv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qimgv) |
 | <img loading="lazy" src="icons/qmasterpassword.png" width="48" height="48"> | [***qmasterpassword***](apps/qmasterpassword.md) | *A password manager based on Qt.*..[ *read more* ](apps/qmasterpassword.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmasterpassword) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmasterpassword) |
 | <img loading="lazy" src="icons/qmediathekview.png" width="48" height="48"> | [***qmediathekview***](apps/qmediathekview.md) | *An alternative front-end to the MediathekView database.*..[ *read more* ](apps/qmediathekview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmediathekview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmediathekview) |
 | <img loading="lazy" src="icons/qmidictl.png" width="48" height="48"> | [***qmidictl***](apps/qmidictl.md) | *MIDI Remote Controller via UDP/IP Multicast.*..[ *read more* ](apps/qmidictl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmidictl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmidictl) |

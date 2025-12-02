@@ -9305,6 +9305,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/qikqr.png"
   },
   {
+    "packageName": "qimgv",
+    "description": "Unofficial, Image viewer. Fast, easy to use. Optional video support...",
+    "icon": "https://portable-linux-apps.github.io/icons/qimgv.png"
+  },
+  {
     "packageName": "qmasterpassword",
     "description": "A password manager based on Qt...",
     "icon": "https://portable-linux-apps.github.io/icons/qmasterpassword.png"
