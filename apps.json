@@ -130,6 +130,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ai-bot-workspace.png"
   },
   {
+    "packageName": "ai-gate",
+    "description": "A Desktop app which brings access of popular AI apps to your desktop...",
+    "icon": "https://portable-linux-apps.github.io/icons/ai-gate.png"
+  },
+  {
     "packageName": "aichat",
     "description": "AIO AI CLI tool integrating 20+ AI platforms, including OpenAI...",
     "icon": "https://portable-linux-apps.github.io/icons/aichat.png"
@@ -725,6 +730,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/augur.png"
   },
   {
+    "packageName": "aurora",
+    "description": "A utility to control RGB keyboard back-light and charging threshold for Asus TUF-gaming laptops...",
+    "icon": "https://portable-linux-apps.github.io/icons/aurora.png"
+  },
+  {
     "packageName": "auryo",
     "description": "An audio/music desktop client for SoundCloud...",
     "icon": "https://portable-linux-apps.github.io/icons/auryo.png"
@@ -808,6 +818,11 @@
     "packageName": "bambustudio",
     "description": "PC Software for BambuLab's 3D printers...",
     "icon": "https://portable-linux-apps.github.io/icons/bambustudio.png"
+  },
+  {
+    "packageName": "bananas",
+    "description": "Bananas, Cross-Platform screen sharing made simple...",
+    "icon": "https://portable-linux-apps.github.io/icons/bananas.png"
   },
   {
     "packageName": "banban",
@@ -933,6 +948,11 @@
     "packageName": "bench-cli",
     "description": "CLI tool to benchmark commands, written in `Fortran`...",
     "icon": "https://portable-linux-apps.github.io/icons/bench-cli.png"
+  },
+  {
+    "packageName": "berserkerquake2",
+    "description": "Berserker@Quake2 game engine, ported to SDL2 library...",
+    "icon": "https://portable-linux-apps.github.io/icons/berserkerquake2.png"
   },
   {
     "packageName": "better-osu-skills",
@@ -2015,6 +2035,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/conty-wine.png"
   },
   {
+    "packageName": "converse-desktop",
+    "description": "Electron-based Desktop client for Converse.js...",
+    "icon": "https://portable-linux-apps.github.io/icons/converse-desktop.png"
+  },
+  {
     "packageName": "converseen",
     "description": "A batch image converter and resizer...",
     "icon": "https://portable-linux-apps.github.io/icons/converseen.png"
@@ -2408,6 +2433,11 @@
     "packageName": "dawnlightsearch",
     "description": "A Linux version of Everything Search Engine...",
     "icon": "https://portable-linux-apps.github.io/icons/dawnlightsearch.png"
+  },
+  {
+    "packageName": "dayon",
+    "description": "Dayon! - A cross-platform remote desktop assistance solution for your family and friends...",
+    "icon": "https://portable-linux-apps.github.io/icons/dayon.png"
   },
   {
     "packageName": "dbeaver-ce",
@@ -5300,6 +5330,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ipuissance-4d.png"
   },
   {
+    "packageName": "iqpuzzle",
+    "description": "A challenging pentomino puzzle...",
+    "icon": "https://portable-linux-apps.github.io/icons/iqpuzzle.png"
+  },
+  {
     "packageName": "irccloud-desktop",
     "description": "IRCCloud Desktop Client...",
     "icon": "https://portable-linux-apps.github.io/icons/irccloud-desktop.png"
@@ -6633,6 +6668,11 @@
     "packageName": "makagiga",
     "description": "To-do manager, notepad, RSS reader and much more...",
     "icon": "https://portable-linux-apps.github.io/icons/makagiga.png"
+  },
+  {
+    "packageName": "makhber",
+    "description": "Makhber is a free application for Visualization and Analysis of Scientific Data...",
+    "icon": "https://portable-linux-apps.github.io/icons/makhber.png"
   },
   {
     "packageName": "makoureactor",
@@ -8580,6 +8620,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/permastead.png"
   },
   {
+    "packageName": "perplexity-ai-app",
+    "description": "Perplexity AI Desktop app eases the process to access Perplexity AI...",
+    "icon": "https://portable-linux-apps.github.io/icons/perplexity-ai-app.png"
+  },
+  {
     "packageName": "pet",
     "description": "Simple command-line snippet manager...",
     "icon": "https://portable-linux-apps.github.io/icons/pet.png"
@@ -10335,6 +10380,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/setcolors.png"
   },
   {
+    "packageName": "sevicebus-browser",
+    "description": "A cross platform tool to manage your Azure Service Bus instances...",
+    "icon": "https://portable-linux-apps.github.io/icons/sevicebus-browser.png"
+  },
+  {
     "packageName": "sf-tube",
     "description": "Watch and download videos without ads...",
     "icon": "https://portable-linux-apps.github.io/icons/sf-tube.png"
@@ -10543,6 +10593,11 @@
     "packageName": "simplex-chat",
     "description": "First messaging platform operating without user identifiers...",
     "icon": "https://portable-linux-apps.github.io/icons/simplex-chat.png"
+  },
+  {
+    "packageName": "simplex-solver",
+    "description": "Simplex for optimization problems...",
+    "icon": "https://portable-linux-apps.github.io/icons/simplex-solver.png"
   },
   {
     "packageName": "simtoolkitpro",
@@ -11038,6 +11093,11 @@
     "packageName": "stellarium",
     "description": "Planetarium that shows a realistic sky in 3D...",
     "icon": "https://portable-linux-apps.github.io/icons/stellarium.png"
+  },
+  {
+    "packageName": "stellarmaps",
+    "description": "Stylized maps from Stellaris saves...",
+    "icon": "https://portable-linux-apps.github.io/icons/stellarmaps.png"
   },
   {
     "packageName": "stew",
