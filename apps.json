@@ -2725,6 +2725,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dolphin-emu.png"
   },
   {
+    "packageName": "dolphin-emu-nightly",
+    "description": "Unofficial nightly AppImage of the Dolphin emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/dolphin-emu-nightly.png"
+  },
+  {
     "packageName": "domterm",
     "description": "DOM/JavaScript-based terminal-emulator/console...",
     "icon": "https://portable-linux-apps.github.io/icons/domterm.png"
