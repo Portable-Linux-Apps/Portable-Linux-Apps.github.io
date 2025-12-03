@@ -335,6 +335,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/animashooter-pioneer.png"
   },
   {
+    "packageName": "animecoin",
+    "description": "Animecoin is a free open source peer-to-peer electronic cash system that is completely decentralized, without the need for a central server or trusted parties. Users hold the crypto keys to their own money and transact directly with each other, with the help of a P2P network to check for double-spending...",
+    "icon": "https://portable-linux-apps.github.io/icons/animecoin.png"
+  },
+  {
     "packageName": "animos",
     "description": "Anime-streaming desktop application without any ads...",
     "icon": "https://portable-linux-apps.github.io/icons/animos.png"
@@ -3090,6 +3095,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/electrum-ltc.png"
   },
   {
+    "packageName": "electrum-neurai",
+    "description": "Neurai is a decentralized open source protocol optimized to transfer cryptoassets from one party to another on Layer1. The project aims to integrate NFT and Tokens with IoT and artificial intelligence applications...",
+    "icon": "https://portable-linux-apps.github.io/icons/electrum-neurai.png"
+  },
+  {
     "packageName": "electrum-ravencoin",
     "description": "Forked from the Electrum Bitcoin base client...",
     "icon": "https://portable-linux-apps.github.io/icons/electrum-ravencoin.png"
@@ -3098,6 +3108,11 @@
     "packageName": "electrumfair",
     "description": "Lightweight FairCoin Client...",
     "icon": "https://portable-linux-apps.github.io/icons/electrumfair.png"
+  },
+  {
+    "packageName": "electrumsvp",
+    "description": "Bitcoin BSV wallet, fork of ElectrumSV...",
+    "icon": "https://portable-linux-apps.github.io/icons/electrumsvp.png"
   },
   {
     "packageName": "element",
@@ -6448,6 +6463,11 @@
     "packageName": "linuxtoys",
     "description": "A collection of tools for Linux in a user-friendly way...",
     "icon": "https://portable-linux-apps.github.io/icons/linuxtoys.png"
+  },
+  {
+    "packageName": "linuxwallpaper",
+    "description": "Bing wallpaper of the day...",
+    "icon": "https://portable-linux-apps.github.io/icons/linuxwallpaper.png"
   },
   {
     "packageName": "linwood-butterfly",
@@ -13148,6 +13168,11 @@
     "packageName": "xxh",
     "description": "Bring your favorite shell wherever you go through the ssh...",
     "icon": "https://portable-linux-apps.github.io/icons/xxh.png"
+  },
+  {
+    "packageName": "xyce",
+    "description": "Xyce Parallel Electronic Simulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/xyce.png"
   },
   {
     "packageName": "yaf",

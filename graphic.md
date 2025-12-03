@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **121** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **122** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -101,6 +101,7 @@
 | <img loading="lazy" src="icons/lazpaint.png" width="48" height="48"> | [***lazpaint***](apps/lazpaint.md) | *Cross-platform image editor with raster and vector layers similar to Paint.Net written in Lazarus (Free Pascal).*..[ *read more* ](apps/lazpaint.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lazpaint) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lazpaint) |
 | <img loading="lazy" src="icons/libertem.png" width="48" height="48"> | [***libertem***](apps/libertem.md) | *Pixelated scanning transmission electron microscopy.*..[ *read more* ](apps/libertem.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/libertem) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/libertem) |
 | <img loading="lazy" src="icons/libresprite.png" width="48" height="48"> | [***libresprite***](apps/libresprite.md) | *Animated sprite editor & pixel art tool. Fork of the last GPLv2 commit of Aseprite.*..[ *read more* ](apps/libresprite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/libresprite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/libresprite) |
+| <img loading="lazy" src="icons/linuxwallpaper.png" width="48" height="48"> | [***linuxwallpaper***](apps/linuxwallpaper.md) | *Bing wallpaper of the day.*..[ *read more* ](apps/linuxwallpaper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/linuxwallpaper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/linuxwallpaper) |
 | <img loading="lazy" src="icons/lisk-desktop.png" width="48" height="48"> | [***lisk-desktop***](apps/lisk-desktop.md) | *Lisk graphical user interface for desktop.*..[ *read more* ](apps/lisk-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lisk-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lisk-desktop) |
 | <img loading="lazy" src="icons/mapollage.png" width="48" height="48"> | [***mapollage***](apps/mapollage.md) | *Photo kml generator for Google Earth.*..[ *read more* ](apps/mapollage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mapollage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mapollage) |
 | <img loading="lazy" src="icons/memoto.png" width="48" height="48"> | [***memoto***](apps/memoto.md) | *DevOps oriented modeling tool.*..[ *read more* ](apps/memoto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/memoto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/memoto) |
