@@ -890,6 +890,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/bbg.png"
   },
   {
+    "packageName": "bchat-desktop",
+    "description": "About A decentralized cionfidential messaging app that runs on Beldex network...",
+    "icon": "https://portable-linux-apps.github.io/icons/bchat-desktop.png"
+  },
+  {
     "packageName": "bdash",
     "description": "A simple business intelligence application...",
     "icon": "https://portable-linux-apps.github.io/icons/bdash.png"

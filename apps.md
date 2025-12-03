@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2614** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2615** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -206,6 +206,7 @@
 | <img loading="lazy" src="icons/bauh.png" width="48" height="48"> | [***bauh***](apps/bauh.md) | *GUI for managing AppImage, Arch/AUR, DEBs, Flatpak, Snap and webapps.*..[ *read more* ](apps/bauh.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bauh) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bauh) |
 | <img loading="lazy" src="icons/bazecor.png" width="48" height="48"> | [***bazecor***](apps/bazecor.md) | *Graphical configurator for Dygma Raise.*..[ *read more* ](apps/bazecor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bazecor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bazecor) |
 | <img loading="lazy" src="icons/bbg.png" width="48" height="48"> | [***bbg***](apps/bbg.md) | *A static blog generator based on Electron Technology.*..[ *read more* ](apps/bbg.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bbg) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bbg) |
+| <img loading="lazy" src="icons/bchat-desktop.png" width="48" height="48"> | [***bchat-desktop***](apps/bchat-desktop.md) | *About A decentralized cionfidential messaging app that runs on Beldex network.*..[ *read more* ](apps/bchat-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bchat-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bchat-desktop) |
 | <img loading="lazy" src="icons/bdash.png" width="48" height="48"> | [***bdash***](apps/bdash.md) | *A simple business intelligence application.*..[ *read more* ](apps/bdash.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bdash) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bdash) |
 | <img loading="lazy" src="icons/beam-wallet.png" width="48" height="48"> | [***beam-wallet***](apps/beam-wallet.md) | *Beam Desktop Wallet.*..[ *read more* ](apps/beam-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beam-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beam-wallet) |
 | <img loading="lazy" src="icons/bearly.png" width="48" height="48"> | [***bearly***](apps/bearly.md) | *The world's best AI at your fingertips.*..[ *read more* ](apps/bearly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bearly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bearly) |
