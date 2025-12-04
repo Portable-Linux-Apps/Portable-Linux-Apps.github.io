@@ -5415,6 +5415,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/janice.png"
   },
   {
+    "packageName": "janus",
+    "description": "Simple text editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/janus.png"
+  },
+  {
     "packageName": "jazz2",
     "description": "Open-source reimplementation of Jazz Jackrabbit 2...",
     "icon": "https://portable-linux-apps.github.io/icons/jazz2.png"

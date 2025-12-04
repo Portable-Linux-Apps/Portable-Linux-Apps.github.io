@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2620** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2621** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1111,6 +1111,7 @@
 | <img loading="lazy" src="icons/james.png" width="48" height="48"> | [***james***](apps/james.md) | *HTTP/HTTPS proxy built in Electron and React.*..[ *read more* ](apps/james.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/james) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/james) |
 | <img loading="lazy" src="icons/jan.png" width="48" height="48"> | [***jan***](apps/jan.md) | *FOSS Alternative to ChatGPT that runs 100% offline on your computer.*..[ *read more* ](apps/jan.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jan) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jan) |
 | <img loading="lazy" src="icons/janice.png" width="48" height="48"> | [***janice***](apps/janice.md) | *A desktop app for viewing large JSON files.*..[ *read more* ](apps/janice.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/janice) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/janice) |
+| <img loading="lazy" src="icons/janus.png" width="48" height="48"> | [***janus***](apps/janus.md) | *Simple text editor.*..[ *read more* ](apps/janus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/janus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/janus) |
 | <img loading="lazy" src="icons/jazz2.png" width="48" height="48"> | [***jazz2***](apps/jazz2.md) | *Open-source reimplementation of Jazz Jackrabbit 2.*..[ *read more* ](apps/jazz2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jazz2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jazz2) |
 | <img loading="lazy" src="icons/jdappstreamedit.png" width="48" height="48"> | [***jdappstreamedit***](apps/jdappstreamedit.md) | *A graphical Program to create and edit AppStream files.*..[ *read more* ](apps/jdappstreamedit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jdappstreamedit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jdappstreamedit) |
 | <img loading="lazy" src="icons/jddesktopentryedit.png" width="48" height="48"> | [***jddesktopentryedit***](apps/jddesktopentryedit.md) | *A graphical Program to create and edit Desktop Entries.*..[ *read more* ](apps/jddesktopentryedit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jddesktopentryedit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jddesktopentryedit) |
