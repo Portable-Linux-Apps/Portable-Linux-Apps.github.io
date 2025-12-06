@@ -2375,6 +2375,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/cursor.png"
   },
   {
+    "packageName": "cursor-cli",
+    "description": "Unofficial, AI-assisted development CLI tool...",
+    "icon": "https://portable-linux-apps.github.io/icons/cursor-cli.png"
+  },
+  {
     "packageName": "customrpc",
     "description": "An electron-vue project...",
     "icon": "https://portable-linux-apps.github.io/icons/customrpc.png"
@@ -3238,6 +3243,11 @@
     "packageName": "eplee",
     "description": "Sweet, simple epub reader...",
     "icon": "https://portable-linux-apps.github.io/icons/eplee.png"
+  },
+  {
+    "packageName": "epsxe",
+    "description": "Unofficial, enhanced PSX emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/epsxe.png"
   },
   {
     "packageName": "eqonomize",
