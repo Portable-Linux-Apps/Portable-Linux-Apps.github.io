@@ -8565,11 +8565,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/pcloud.png"
   },
   {
-    "packageName": "pcsx-redux",
-    "description": "The PCSX-Redux project is a collection of tools, research, hardware design, and libraries aiming at development and reverse engineering on the PlayStation 1. The core product itself, PCSX-Redux, is yet another fork of the Playstation emulator, PCSX...",
-    "icon": "https://portable-linux-apps.github.io/icons/pcsx-redux.png"
-  },
-  {
     "packageName": "pcsx2",
     "description": "The Playstation 2 Emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/pcsx2.png"
