@@ -1825,6 +1825,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/city-hub.png"
   },
   {
+    "packageName": "clagrange",
+    "description": "Lagrange is a cross-platform client for browsing Geminispace (CLI Version)...",
+    "icon": "https://portable-linux-apps.github.io/icons/clagrange.png"
+  },
+  {
     "packageName": "clamtk",
     "description": "An easy to use, light-weight, on-demand virus scanner for Linux systems..",
     "icon": "https://portable-linux-apps.github.io/icons/clamtk.png"
@@ -6231,7 +6236,7 @@
   },
   {
     "packageName": "lagrange",
-    "description": "A Beautiful Gemini Client...",
+    "description": "Lagrange is a cross-platform client for browsing Geminispace (GUI Version)...",
     "icon": "https://portable-linux-apps.github.io/icons/lagrange.png"
   },
   {
@@ -12318,6 +12323,11 @@
     "packageName": "vechain",
     "description": "A browser that empowers DApps on VeChain...",
     "icon": "https://portable-linux-apps.github.io/icons/vechain.png"
+  },
+  {
+    "packageName": "vector",
+    "description": "Vector is a decentralized communication platform built on the Nostr Protocol...",
+    "icon": "https://portable-linux-apps.github.io/icons/vector.png"
   },
   {
     "packageName": "vegeta",
