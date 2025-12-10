@@ -4240,9 +4240,29 @@
     "icon": "https://portable-linux-apps.github.io/icons/geany.png"
   },
   {
+    "packageName": "gearboy",
+    "description": "Game Boy / Gameboy Color emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/gearboy.png"
+  },
+  {
+    "packageName": "gearcoleco",
+    "description": "ColecoVision emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/gearcoleco.png"
+  },
+  {
+    "packageName": "geargrafx",
+    "description": "PC Engine / TurboGrafx-16 emulator and debugger...",
+    "icon": "https://portable-linux-apps.github.io/icons/geargrafx.png"
+  },
+  {
     "packageName": "gearlever",
     "description": "Unofficial. An utility to organize and manage AppImage files for you, generate desktop entries and app metadata, update apps in-place or keep multiple versions side-by-side...",
     "icon": "https://portable-linux-apps.github.io/icons/gearlever.png"
+  },
+  {
+    "packageName": "gearsystem",
+    "description": "Sega Master System / Game Gear / SG-1000 Emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/gearsystem.png"
   },
   {
     "packageName": "gedit",
