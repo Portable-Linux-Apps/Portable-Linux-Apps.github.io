@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2223** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2224** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -355,6 +355,7 @@
 | <img loading="lazy" src="icons/cloud-browser.png" width="48" height="48"> | [***cloud-browser***](apps/cloud-browser.md) | *Access to files located in various cloud services.*..[ *read more* ](apps/cloud-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cloud-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cloud-browser) |
 | <img loading="lazy" src="icons/clownmaped.png" width="48" height="48"> | [***clownmaped***](apps/clownmaped.md) | *Sonic the Hedgehog sprite editor, clone of Xenowhirl's SonMapEd.*..[ *read more* ](apps/clownmaped.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clownmaped) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clownmaped) |
 | <img loading="lazy" src="icons/clownmdemu.png" width="48" height="48"> | [***clownmdemu***](apps/clownmdemu.md) | *Reference standalone frontend for clownmdemu.*..[ *read more* ](apps/clownmdemu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clownmdemu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clownmdemu) |
+| <img loading="lazy" src="icons/cmux.png" width="48" height="48"> | [***cmux***](apps/cmux.md) | *Cmux/ManaflowX is an X feed for coding agents that lets you run + compare Claude Code, Codex CLI, Amp, Gemini CLI, Cursor CLI, Opencode, and other coding agent CLIs in parallel across multiple tasks.*..[ *read more* ](apps/cmux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cmux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cmux) |
 | <img loading="lazy" src="icons/cncjs.png" width="48" height="48"> | [***cncjs***](apps/cncjs.md) | *CNC Milling Controller.*..[ *read more* ](apps/cncjs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cncjs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cncjs) |
 | <img loading="lazy" src="icons/cncra2yr.png" width="48" height="48"> | [***cncra2yr***](apps/cncra2yr.md) | *C&C Red Alert 2, a real-time strategy game by Westwood Pacific.*..[ *read more* ](apps/cncra2yr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cncra2yr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cncra2yr) |
 | <img loading="lazy" src="icons/coal-launcher.png" width="48" height="48"> | [***coal-launcher***](apps/coal-launcher.md) | *A client to view and play games from the AB Coal website.*..[ *read more* ](apps/coal-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/coal-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/coal-launcher) |

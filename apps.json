@@ -1915,6 +1915,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/clownmdemu.png"
   },
   {
+    "packageName": "cmux",
+    "description": "Cmux/ManaflowX is an X feed for coding agents that lets you run + compare Claude Code, Codex CLI, Amp, Gemini CLI, Cursor CLI, Opencode, and other coding agent CLIs in parallel across multiple tasks...",
+    "icon": "https://portable-linux-apps.github.io/icons/cmux.png"
+  },
+  {
     "packageName": "cncjs",
     "description": "CNC Milling Controller...",
     "icon": "https://portable-linux-apps.github.io/icons/cncjs.png"
