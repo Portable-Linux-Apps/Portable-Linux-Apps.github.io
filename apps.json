@@ -2695,6 +2695,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dingtalk.png"
   },
   {
+    "packageName": "dinosaurplanetrecompiled",
+    "description": "A static recompilation/native port of the game Dinosaur Planet...",
+    "icon": "https://portable-linux-apps.github.io/icons/dinosaurplanetrecompiled.png"
+  },
+  {
     "packageName": "disass",
     "description": "A simple disassembly tool...",
     "icon": "https://portable-linux-apps.github.io/icons/disass.png"
@@ -11823,6 +11828,11 @@
     "packageName": "tidal-hifi",
     "description": "The web version of listen.tidal.com running in electron...",
     "icon": "https://portable-linux-apps.github.io/icons/tidal-hifi.png"
+  },
+  {
+    "packageName": "tidybit",
+    "description": "TidyBit is a simple handy tool that can organize messy collection of files and move them to a chosen folder...",
+    "icon": "https://portable-linux-apps.github.io/icons/tidybit.png"
   },
   {
     "packageName": "tilde-podcast",
