@@ -3875,6 +3875,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/flb.png"
   },
   {
+    "packageName": "flightcore",
+    "description": "A Northstar installer, updater, and mod-manager...",
+    "icon": "https://portable-linux-apps.github.io/icons/flightcore.png"
+  },
+  {
     "packageName": "flightgear",
     "description": "Free, open source flight simulator developed since 1997...",
     "icon": "https://portable-linux-apps.github.io/icons/flightgear.png"
@@ -4175,6 +4180,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gaiasky.png"
   },
   {
+    "packageName": "gale",
+    "description": "A modern mod manager for Thunderstore...",
+    "icon": "https://portable-linux-apps.github.io/icons/gale.png"
+  },
+  {
     "packageName": "gallery-dl",
     "description": "Command-line program to download image galleries and collections...",
     "icon": "https://portable-linux-apps.github.io/icons/gallery-dl.png"
@@ -4323,6 +4333,11 @@
     "packageName": "geometrize",
     "description": "Images to shapes converter, graphics...",
     "icon": "https://portable-linux-apps.github.io/icons/geometrize.png"
+  },
+  {
+    "packageName": "gerbil",
+    "description": "A desktop app for running Large Language Models locally...",
+    "icon": "https://portable-linux-apps.github.io/icons/gerbil.png"
   },
   {
     "packageName": "gerbv",
