@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2227** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2228** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1716,6 +1716,7 @@
 | <img loading="lazy" src="icons/scraper.png" width="48" height="48"> | [***scraper***](apps/scraper.md) | *Simple desktop scraper app.*..[ *read more* ](apps/scraper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/scraper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/scraper) |
 | <img loading="lazy" src="icons/scratux.png" width="48" height="48"> | [***scratux***](apps/scratux.md) | *Linux client for scratch programming.*..[ *read more* ](apps/scratux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/scratux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/scratux) |
 | <img loading="lazy" src="icons/scrcpy.png" width="48" height="48"> | [***scrcpy***](apps/scrcpy.md) | *Display and control your Android device.*..[ *read more* ](apps/scrcpy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/scrcpy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/scrcpy) |
+| <img loading="lazy" src="icons/scrcpygui.png" width="48" height="48"> | [***scrcpygui***](apps/scrcpygui.md) | *A user-friendly GUI for scrcpy with added functionalities.*..[ *read more* ](apps/scrcpygui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/scrcpygui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/scrcpygui) |
 | <img loading="lazy" src="icons/screencloud.png" width="48" height="48"> | [***screencloud***](apps/screencloud.md) | *Capture and share screenshots easily.*..[ *read more* ](apps/screencloud.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/screencloud) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/screencloud) |
 | <img loading="lazy" src="icons/scribus.png" width="48" height="48"> | [***scribus***](apps/scribus.md) | *Powerful desktop publishing software.*..[ *read more* ](apps/scribus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/scribus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/scribus) |
 | <img loading="lazy" src="icons/scrite.png" width="48" height="48"> | [***scrite***](apps/scrite.md) | *Multilingual Screenplay Writing App from TERIFLIX.*..[ *read more* ](apps/scrite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/scrite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/scrite) |

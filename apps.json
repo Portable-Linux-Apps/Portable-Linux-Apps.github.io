@@ -10335,6 +10335,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/scrcpy.png"
   },
   {
+    "packageName": "scrcpygui",
+    "description": "A user-friendly GUI for scrcpy with added functionalities...",
+    "icon": "https://portable-linux-apps.github.io/icons/scrcpygui.png"
+  },
+  {
     "packageName": "screencloud",
     "description": "Capture and share screenshots easily...",
     "icon": "https://portable-linux-apps.github.io/icons/screencloud.png"
