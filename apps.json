@@ -12880,6 +12880,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/wikilynx.png"
   },
   {
+    "packageName": "win11-clipboard-history",
+    "description": "A beautiful, Windows 11-style Clipboard History Manager for Linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/win11-clipboard-history.png"
+  },
+  {
     "packageName": "winboat",
     "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration...",
     "icon": "https://portable-linux-apps.github.io/icons/winboat.png"
