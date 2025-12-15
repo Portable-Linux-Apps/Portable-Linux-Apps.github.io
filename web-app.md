@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **13** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **12** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -52,7 +52,6 @@
 | <img loading="lazy" src="icons/responsively.png" width="48" height="48"> | [***responsively***](apps/responsively.md) | *A browser for developing responsive web apps.*..[ *read more* ](apps/responsively.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/responsively) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/responsively) |
 | <img loading="lazy" src="icons/spritemate4electron.png" width="48" height="48"> | [***spritemate4electron***](apps/spritemate4electron.md) | *A simple Electron-wrapper for Esshahn's awesome Spritemate-webapp.*..[ *read more* ](apps/spritemate4electron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spritemate4electron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spritemate4electron) |
 | <img loading="lazy" src="icons/station.png" width="48" height="48"> | [***station***](apps/station.md) | *A single place for all of your web applications.*..[ *read more* ](apps/station.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/station) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/station) |
-| <img loading="lazy" src="icons/todesktop.png" width="48" height="48"> | [***todesktop***](apps/todesktop.md) | *Web app to desktop app in minutes.*..[ *read more* ](apps/todesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/todesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/todesktop) |
 | <img loading="lazy" src="icons/webcatalog.png" width="48" height="48"> | [***webcatalog***](apps/webcatalog.md) | *App store for web apps. Find the right software and services.*..[ *read more* ](apps/webcatalog.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/webcatalog) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/webcatalog) |
 
 
