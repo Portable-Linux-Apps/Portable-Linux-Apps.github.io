@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **122** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **123** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -151,6 +151,7 @@
 | <img loading="lazy" src="icons/tropy.png" width="48" height="48"> | [***tropy***](apps/tropy.md) | *Research photo management.*..[ *read more* ](apps/tropy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tropy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tropy) |
 | <img loading="lazy" src="icons/visipics.png" width="48" height="48"> | [***visipics***](apps/visipics.md) | *Windows software to find and remove duplicate pictures. Unofficial AppImage built using "wine32-deploy" and powered by "wine".*..[ *read more* ](apps/visipics.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/visipics) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/visipics) |
 | <img loading="lazy" src="icons/visualfamilytree.png" width="48" height="48"> | [***visualfamilytree***](apps/visualfamilytree.md) | *Create a family tree with information and pictures.*..[ *read more* ](apps/visualfamilytree.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/visualfamilytree) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/visualfamilytree) |
+| <img loading="lazy" src="icons/vivadesigner.png" width="48" height="48"> | [***vivadesigner***](apps/vivadesigner.md) | *VivaDesigner is an extremely easy-to-use AI-based design, publishing, layout, typesetting and illustration program that meets the highest design and typographic requirements.*..[ *read more* ](apps/vivadesigner.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vivadesigner) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vivadesigner) |
 | <img loading="lazy" src="icons/vpaint.png" width="48" height="48"> | [***vpaint***](apps/vpaint.md) | *Experimental vector graphics and 2D animation editor.*..[ *read more* ](apps/vpaint.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vpaint) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vpaint) |
 | <img loading="lazy" src="icons/wonderwall.png" width="48" height="48"> | [***wonderwall***](apps/wonderwall.md) | *Wallpaper manager for Linux.*..[ *read more* ](apps/wonderwall.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wonderwall) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wonderwall) |
 | <img loading="lazy" src="icons/xnviewmp.png" width="48" height="48"> | [***xnviewmp***](apps/xnviewmp.md) | *Graphic viewer, browser, converter.*..[ *read more* ](apps/xnviewmp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xnviewmp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xnviewmp) |

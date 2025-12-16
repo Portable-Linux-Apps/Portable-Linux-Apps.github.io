@@ -12570,6 +12570,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/viu.png"
   },
   {
+    "packageName": "vivadesigner",
+    "description": "VivaDesigner is an extremely easy-to-use AI-based design, publishing, layout, typesetting and illustration program that meets the highest design and typographic requirements...",
+    "icon": "https://portable-linux-apps.github.io/icons/vivadesigner.png"
+  },
+  {
     "packageName": "vivaldi-snapshot",
     "description": "Unofficial. Advanced Web Browser, Testing Version...",
     "icon": "https://portable-linux-apps.github.io/icons/vivaldi-snapshot.png"
