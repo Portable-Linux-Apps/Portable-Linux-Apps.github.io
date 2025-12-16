@@ -11930,6 +11930,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/tod.png"
   },
   {
+    "packageName": "todesktop",
+    "description": "Take your web app codebase and transform it into a cross platform desktop app with native functionality...",
+    "icon": "https://portable-linux-apps.github.io/icons/todesktop.png"
+  },
+  {
     "packageName": "todo-bash",
     "description": "Todo list for the Bash command line...",
     "icon": "https://portable-linux-apps.github.io/icons/todo-bash.png"
@@ -12023,6 +12028,11 @@
     "packageName": "trans",
     "description": "CLI translator using Google/Bing/Yandex Translate, etc.....",
     "icon": "https://portable-linux-apps.github.io/icons/trans.png"
+  },
+  {
+    "packageName": "transfernow",
+    "description": "TransferNow is a simple, quick and secure free solution to send large files and big documents up to 250 GB per transfer. No registration required...",
+    "icon": "https://portable-linux-apps.github.io/icons/transfernow.png"
   },
   {
     "packageName": "translatium",
