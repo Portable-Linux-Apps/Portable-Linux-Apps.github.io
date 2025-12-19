@@ -12146,8 +12146,13 @@
   },
   {
     "packageName": "tutanota",
-    "description": "The world's most secure email service, easy to use and private...",
+    "description": "Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices...",
     "icon": "https://portable-linux-apps.github.io/icons/tutanota.png"
+  },
+  {
+    "packageName": "tutanota-enhanced",
+    "description": "Unofficial AppImage for Tutanota, an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices...",
+    "icon": "https://portable-linux-apps.github.io/icons/tutanota-enhanced.png"
   },
   {
     "packageName": "tuxplorer",
