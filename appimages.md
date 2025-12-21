@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2234** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2235** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1324,6 +1324,7 @@
 | <img loading="lazy" src="icons/ocvwarp.png" width="48" height="48"> | [***ocvwarp***](apps/ocvwarp.md) | *Warping images and videos for planetarium fulldome display.*..[ *read more* ](apps/ocvwarp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ocvwarp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ocvwarp) |
 | <img loading="lazy" src="icons/odicto.png" width="48" height="48"> | [***odicto***](apps/odicto.md) | *An offline English dictionary app for desktop.*..[ *read more* ](apps/odicto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/odicto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/odicto) |
 | <img loading="lazy" src="icons/oh-mymd.png" width="48" height="48"> | [***oh-mymd***](apps/oh-mymd.md) | *A markdown editor,support cloud sync.*..[ *read more* ](apps/oh-mymd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/oh-mymd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/oh-mymd) |
+| <img loading="lazy" src="icons/okteta.png" width="48" height="48"> | [***okteta***](apps/okteta.md) | *Unofficial. Hex editor for viewing and editing the raw data of files.*..[ *read more* ](apps/okteta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/okteta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/okteta) |
 | <img loading="lazy" src="icons/olive.png" width="48" height="48"> | [***olive***](apps/olive.md) | *Free open-source non-linear video editor, nightly build.*..[ *read more* ](apps/olive.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/olive) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/olive) |
 | <img loading="lazy" src="icons/olive-legacy.png" width="48" height="48"> | [***olive-legacy***](apps/olive-legacy.md) | *Free non-linear video editor, version 0.1.*..[ *read more* ](apps/olive-legacy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/olive-legacy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/olive-legacy) |
 | <img loading="lazy" src="icons/ommpfritt.png" width="48" height="48"> | [***ommpfritt***](apps/ommpfritt.md) | *Semantic, procedural, non-destructive vector modelling.*..[ *read more* ](apps/ommpfritt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ommpfritt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ommpfritt) |

@@ -8070,6 +8070,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/oh-mymd.png"
   },
   {
+    "packageName": "okteta",
+    "description": "Unofficial. Hex editor for viewing and editing the raw data of files...",
+    "icon": "https://portable-linux-apps.github.io/icons/okteta.png"
+  },
+  {
     "packageName": "olive",
     "description": "Free open-source non-linear video editor, nightly build...",
     "icon": "https://portable-linux-apps.github.io/icons/olive.png"
