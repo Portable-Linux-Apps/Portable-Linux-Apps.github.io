@@ -25,6 +25,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/432hz-player.png"
   },
   {
+    "packageName": "5ire",
+    "description": "5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers...",
+    "icon": "https://portable-linux-apps.github.io/icons/5ire.png"
+  },
+  {
     "packageName": "7zip",
     "description": "7-Zip is a file archiver with a high compression ratio...",
     "icon": "https://portable-linux-apps.github.io/icons/7zip.png"
