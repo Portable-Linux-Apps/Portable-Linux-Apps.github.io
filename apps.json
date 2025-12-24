@@ -9330,6 +9330,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/prospect-mail.png"
   },
   {
+    "packageName": "protocol_10",
+    "description": "A mod decompiler for frosty tool suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/protocol_10.png"
+  },
+  {
     "packageName": "protoman",
     "description": "A Postman-like API client for protobuf-based messages...",
     "icon": "https://portable-linux-apps.github.io/icons/protoman.png"
