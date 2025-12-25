@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **11** programs and **66** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **12** programs and **66** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -109,6 +109,7 @@
 | <img loading="lazy" src="icons/subtitle-composer.png" width="48" height="48"> | [***subtitle-composer***](apps/subtitle-composer.md) | *KF5/Qt Video Subtitle Editor for KDE.*..[ *read more* ](apps/subtitle-composer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/subtitle-composer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/subtitle-composer) |
 | <img loading="lazy" src="icons/sweeper.png" width="48" height="48"> | [***sweeper***](apps/sweeper.md) | *Unofficial. System Cleaner. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/sweeper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sweeper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sweeper) |
 | <img loading="lazy" src="icons/telly-skout.png" width="48" height="48"> | [***telly-skout***](apps/telly-skout.md) | *A convergent Kirigami TV guide. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/telly-skout.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/telly-skout) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/telly-skout) |
+| <img loading="lazy" src="icons/xapkdetector.png" width="48" height="48"> | [***xapkdetector***](apps/xapkdetector.md) | *APK/DEX detector that shows an information about build tools, libraries and protection of APK/DEX files.*..[ *read more* ](apps/xapkdetector.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xapkdetector) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xapkdetector) |
 
 
 ---

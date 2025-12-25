@@ -7620,6 +7620,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/nault-bin.png"
   },
   {
+    "packageName": "nauz-file-detector",
+    "description": "Nauz File Detector is a portable linker/compiler/packer identifier utility...",
+    "icon": "https://portable-linux-apps.github.io/icons/nauz-file-detector.png"
+  },
+  {
     "packageName": "navi",
     "description": "An interactive cheatsheet tool for the command-line...",
     "icon": "https://portable-linux-apps.github.io/icons/navi.png"
@@ -13160,6 +13165,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/x-pixiv.png"
   },
   {
+    "packageName": "xapkdetector",
+    "description": "APK/DEX detector that shows an information about build tools, libraries and protection of APK/DEX files...",
+    "icon": "https://portable-linux-apps.github.io/icons/xapkdetector.png"
+  },
+  {
     "packageName": "xchat",
     "description": "Chat with other people using Internet Relay Chat...",
     "icon": "https://portable-linux-apps.github.io/icons/xchat.png"
@@ -13235,6 +13245,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/xm8.png"
   },
   {
+    "packageName": "xmachoviewer",
+    "description": "XMachOViewer is a Mach-O viewer...",
+    "icon": "https://portable-linux-apps.github.io/icons/xmachoviewer.png"
+  },
+  {
     "packageName": "xmedcon",
     "description": "An open-source toolkit for medical image conversion...",
     "icon": "https://portable-linux-apps.github.io/icons/xmedcon.png"
@@ -13253,6 +13268,11 @@
     "packageName": "xonsh",
     "description": "Python-powered, cross-platform, Unix-gazing shell...",
     "icon": "https://portable-linux-apps.github.io/icons/xonsh.png"
+  },
+  {
+    "packageName": "xopcodecalc",
+    "description": "Opcode calculator / ASM calculator...",
+    "icon": "https://portable-linux-apps.github.io/icons/xopcodecalc.png"
   },
   {
     "packageName": "xournal++",
