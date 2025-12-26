@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2244** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2245** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -715,6 +715,7 @@
 | <img loading="lazy" src="icons/freetexturepacker.png" width="48" height="48"> | [***freetexturepacker***](apps/freetexturepacker.md) | *Creates sprite sheets for you game or site, graphics.*..[ *read more* ](apps/freetexturepacker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freetexturepacker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freetexturepacker) |
 | <img loading="lazy" src="icons/freetube.png" width="48" height="48"> | [***freetube***](apps/freetube.md) | *An Open Source YouTube app for privacy.*..[ *read more* ](apps/freetube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freetube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freetube) |
 | <img loading="lazy" src="icons/freezer.png" width="48" height="48"> | [***freezer***](apps/freezer.md) | *An unofficial client for Deezer.*..[ *read more* ](apps/freezer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freezer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freezer) |
+| <img loading="lazy" src="icons/fresh.png" width="48" height="48"> | [***fresh***](apps/fresh.md) | *easy, powerful and fast.*..[ *read more* ](apps/fresh.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fresh) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fresh) |
 | <img loading="lazy" src="icons/fretboard.png" width="48" height="48"> | [***fretboard***](apps/fretboard.md) | *Unofficial. Application which helps you find your favorite guitar chord.*..[ *read more* ](apps/fretboard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fretboard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fretboard) |
 | <img loading="lazy" src="icons/friction.png" width="48" height="48"> | [***friction***](apps/friction.md) | *Flexible, user expandable 2D animation software.*..[ *read more* ](apps/friction.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/friction) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/friction) |
 | <img loading="lazy" src="icons/friture.png" width="48" height="48"> | [***friture***](apps/friture.md) | *Real-time audio visualizations, spectrum, spectrogram, etc..*..[ *read more* ](apps/friture.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/friture) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/friture) |

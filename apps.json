@@ -4105,6 +4105,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/freezer.png"
   },
   {
+    "packageName": "fresh",
+    "description": "easy, powerful and fast...",
+    "icon": "https://portable-linux-apps.github.io/icons/fresh.png"
+  },
+  {
     "packageName": "freshfetch",
     "description": "An alternative to Neofetch in Rust with a focus on customization...",
     "icon": "https://portable-linux-apps.github.io/icons/freshfetch.png"

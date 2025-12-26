@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2651** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2652** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -849,6 +849,7 @@
 | <img loading="lazy" src="icons/freetube.png" width="48" height="48"> | [***freetube***](apps/freetube.md) | *An Open Source YouTube app for privacy.*..[ *read more* ](apps/freetube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freetube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freetube) |
 | <img loading="lazy" src="icons/freeze.png" width="48" height="48"> | [***freeze***](apps/freeze.md) | *Generate images of code and terminal output.*..[ *read more* ](apps/freeze.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freeze) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freeze) |
 | <img loading="lazy" src="icons/freezer.png" width="48" height="48"> | [***freezer***](apps/freezer.md) | *An unofficial client for Deezer.*..[ *read more* ](apps/freezer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freezer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freezer) |
+| <img loading="lazy" src="icons/fresh.png" width="48" height="48"> | [***fresh***](apps/fresh.md) | *easy, powerful and fast.*..[ *read more* ](apps/fresh.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fresh) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fresh) |
 | <img loading="lazy" src="icons/freshfetch.png" width="48" height="48"> | [***freshfetch***](apps/freshfetch.md) | *An alternative to Neofetch in Rust with a focus on customization.*..[ *read more* ](apps/freshfetch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freshfetch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freshfetch) |
 | <img loading="lazy" src="icons/fretboard.png" width="48" height="48"> | [***fretboard***](apps/fretboard.md) | *Unofficial. Application which helps you find your favorite guitar chord.*..[ *read more* ](apps/fretboard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fretboard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fretboard) |
 | <img loading="lazy" src="icons/friction.png" width="48" height="48"> | [***friction***](apps/friction.md) | *Flexible, user expandable 2D animation software.*..[ *read more* ](apps/friction.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/friction) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/friction) |
