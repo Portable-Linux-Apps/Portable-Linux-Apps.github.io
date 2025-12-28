@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2652** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2653** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1441,6 +1441,7 @@
 | <img loading="lazy" src="icons/mellowplayer.png" width="48" height="48"> | [***mellowplayer***](apps/mellowplayer.md) | *Cloud music integration for your desktop.*..[ *read more* ](apps/mellowplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mellowplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mellowplayer) |
 | <img loading="lazy" src="icons/melodie.png" width="48" height="48"> | [***melodie***](apps/melodie.md) | *Simple-as-pie music player.*..[ *read more* ](apps/melodie.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/melodie) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/melodie) |
 | <img loading="lazy" src="icons/melonds.png" width="48" height="48"> | [***melonds***](apps/melonds.md) | *DS emulator, sorta.*..[ *read more* ](apps/melonds.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/melonds) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/melonds) |
+| <img loading="lazy" src="icons/melonmix.png" width="48" height="48"> | [***melonmix***](apps/melonmix.md) | *KH Melon Mix (DS Emulator) DS emulator, sorta DS emulator, sorta.*..[ *read more* ](apps/melonmix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/melonmix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/melonmix) |
 | <img loading="lazy" src="icons/memento.png" width="48" height="48"> | [***memento***](apps/memento.md) | *A video player for studying Japanese.*..[ *read more* ](apps/memento.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/memento) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/memento) |
 | <img loading="lazy" src="icons/memocast.png" width="48" height="48"> | [***memocast***](apps/memocast.md) | *Yet another elegant Wiz Note Client.*..[ *read more* ](apps/memocast.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/memocast) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/memocast) |
 | <img loading="lazy" src="icons/memospot.png" width="48" height="48"> | [***memospot***](apps/memospot.md) | *Memospot is a self-contained desktop version of Memos -a privacy-first, lightweight note-taking service.*..[ *read more* ](apps/memospot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/memospot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/memospot) |
