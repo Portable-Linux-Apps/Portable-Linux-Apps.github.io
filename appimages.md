@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2246** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2247** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -372,6 +372,7 @@
 | <img loading="lazy" src="icons/comic-reader.png" width="48" height="48"> | [***comic-reader***](apps/comic-reader.md) | *Electron based comic reader.*..[ *read more* ](apps/comic-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/comic-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/comic-reader) |
 | <img loading="lazy" src="icons/comictagger.png" width="48" height="48"> | [***comictagger***](apps/comictagger.md) | *A multi-platform app for writing metadata to digital comics.*..[ *read more* ](apps/comictagger.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/comictagger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/comictagger) |
 | <img loading="lazy" src="icons/compass.png" width="48" height="48"> | [***compass***](apps/compass.md) | *Air Traffic Surveillance DataBase.*..[ *read more* ](apps/compass.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/compass) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/compass) |
+| <img loading="lazy" src="icons/compresso.png" width="48" height="48"> | [***compresso***](apps/compresso.md) | *Convert any video into a tiny size.*..[ *read more* ](apps/compresso.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/compresso) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/compresso) |
 | <img loading="lazy" src="icons/concordium-desktop-wallet.png" width="48" height="48"> | [***concordium-desktop-wallet***](apps/concordium-desktop-wallet.md) | *The official Concordium Dektop Wallet.*..[ *read more* ](apps/concordium-desktop-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/concordium-desktop-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/concordium-desktop-wallet) |
 | <img loading="lazy" src="icons/conduction.png" width="48" height="48"> | [***conduction***](apps/conduction.md) | *Tasks? Done. That was quick.*..[ *read more* ](apps/conduction.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/conduction) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/conduction) |
 | <img loading="lazy" src="icons/conky.png" width="48" height="48"> | [***conky***](apps/conky.md) | *Light-weight system monitor for X.*..[ *read more* ](apps/conky.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/conky) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/conky) |

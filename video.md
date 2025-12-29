@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **154** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **155** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -46,6 +46,7 @@
 | <img loading="lazy" src="icons/cbird.png" width="48" height="48"> | [***cbird***](apps/cbird.md) | *Command-line program for Content-Based Image Retrieval of images and videos. Includes tools for general search and de-duplication.*..[ *read more* ](apps/cbird.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cbird) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cbird) |
 | <img loading="lazy" src="icons/clapper.png" width="48" height="48"> | [***clapper***](apps/clapper.md) | *Unofficial. A modern media player designed for simplicity and ease of use.*..[ *read more* ](apps/clapper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clapper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clapper) |
 | <img loading="lazy" src="icons/clipgrab.png" width="48" height="48"> | [***clipgrab***](apps/clipgrab.md) | *Download and Convert Online Videos.*..[ *read more* ](apps/clipgrab.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clipgrab) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clipgrab) |
+| <img loading="lazy" src="icons/compresso.png" width="48" height="48"> | [***compresso***](apps/compresso.md) | *Convert any video into a tiny size.*..[ *read more* ](apps/compresso.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/compresso) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/compresso) |
 | <img loading="lazy" src="icons/cryptocam-companion.png" width="48" height="48"> | [***cryptocam-companion***](apps/cryptocam-companion.md) | *GUI to decrypt videos taken by Cryptocam.*..[ *read more* ](apps/cryptocam-companion.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cryptocam-companion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cryptocam-companion) |
 | <img loading="lazy" src="icons/downline.png" width="48" height="48"> | [***downline***](apps/downline.md) | *A cross-platform video and audio downloader.*..[ *read more* ](apps/downline.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/downline) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/downline) |
 | <img loading="lazy" src="icons/dwyco-phoo.png" width="48" height="48"> | [***dwyco-phoo***](apps/dwyco-phoo.md) | *Dwyco Phoo Chat and Video Calling.*..[ *read more* ](apps/dwyco-phoo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dwyco-phoo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dwyco-phoo) |
