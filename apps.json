@@ -5705,6 +5705,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/kadium.png"
   },
   {
+    "packageName": "kaffeine",
+    "description": "Unofficial, Media player with support for digital television (DVB-C/S/S2/T, ATSC, CI/CAM)...",
+    "icon": "https://portable-linux-apps.github.io/icons/kaffeine.png"
+  },
+  {
     "packageName": "kage",
     "description": "GUI for Metasploit Meterpreter and Session Handler...",
     "icon": "https://portable-linux-apps.github.io/icons/kage.png"
@@ -8778,6 +8783,11 @@
     "packageName": "pho",
     "description": "The AppImage Manager that Linux always deserved...",
     "icon": "https://portable-linux-apps.github.io/icons/pho.png"
+  },
+  {
+    "packageName": "phoenix-x-server",
+    "description": "Unofficial, a new X server, written from scratch in Zig (not a fork). Designed to be a modern alternative to the Xorg server...",
+    "icon": "https://portable-linux-apps.github.io/icons/phoenix-x-server.png"
   },
   {
     "packageName": "photocrea",
