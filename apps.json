@@ -11335,6 +11335,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/streamon.png"
   },
   {
+    "packageName": "stremio-enhanced",
+    "description": "Electron-based Stremio client with support for plugins and themes. This is a community project and is not affiliated with Stremio in any way...",
+    "icon": "https://portable-linux-apps.github.io/icons/stremio-enhanced.png"
+  },
+  {
     "packageName": "stretchly",
     "description": "App that reminds you to take breaks when working on your PC...",
     "icon": "https://portable-linux-apps.github.io/icons/stretchly.png"

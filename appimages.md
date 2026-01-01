@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2250** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2251** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1895,6 +1895,7 @@
 | <img loading="lazy" src="icons/streamlink.png" width="48" height="48"> | [***streamlink***](apps/streamlink.md) | *Command-line which pipes video streams from various services.*..[ *read more* ](apps/streamlink.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/streamlink) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/streamlink) |
 | <img loading="lazy" src="icons/streamlink-twitch-gui.png" width="48" height="48"> | [***streamlink-twitch-gui***](apps/streamlink-twitch-gui.md) | *A multi platform Twitch.tv browser for Streamlink.*..[ *read more* ](apps/streamlink-twitch-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/streamlink-twitch-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/streamlink-twitch-gui) |
 | <img loading="lazy" src="icons/streamon.png" width="48" height="48"> | [***streamon***](apps/streamon.md) | *Create streaming links to instagram live.*..[ *read more* ](apps/streamon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/streamon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/streamon) |
+| <img loading="lazy" src="icons/stremio-enhanced.png" width="48" height="48"> | [***stremio-enhanced***](apps/stremio-enhanced.md) | *Electron-based Stremio client with support for plugins and themes. This is a community project and is not affiliated with Stremio in any way.*..[ *read more* ](apps/stremio-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stremio-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stremio-enhanced) |
 | <img loading="lazy" src="icons/stretchly.png" width="48" height="48"> | [***stretchly***](apps/stretchly.md) | *App that reminds you to take breaks when working on your PC.*..[ *read more* ](apps/stretchly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stretchly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stretchly) |
 | <img loading="lazy" src="icons/strongbox.png" width="48" height="48"> | [***strongbox***](apps/strongbox.md) | *A World of Warcraft Addon Manager aimed at Linux players.*..[ *read more* ](apps/strongbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/strongbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/strongbox) |
 | <img loading="lazy" src="icons/structure.png" width="48" height="48"> | [***structure***](apps/structure.md) | *A knowledge management tool.*..[ *read more* ](apps/structure.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/structure) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/structure) |
