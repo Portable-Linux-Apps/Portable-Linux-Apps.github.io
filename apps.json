@@ -25,6 +25,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/432hz-player.png"
   },
   {
+    "packageName": "5ire",
+    "description": "5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers...",
+    "icon": "https://portable-linux-apps.github.io/icons/5ire.png"
+  },
+  {
     "packageName": "7zip",
     "description": "7-Zip is a file archiver with a high compression ratio...",
     "icon": "https://portable-linux-apps.github.io/icons/7zip.png"
@@ -1915,6 +1920,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/clownmdemu.png"
   },
   {
+    "packageName": "cmux",
+    "description": "Cmux/ManaflowX is an X feed for coding agents that lets you run + compare Claude Code, Codex CLI, Amp, Gemini CLI, Cursor CLI, Opencode, and other coding agent CLIs in parallel across multiple tasks...",
+    "icon": "https://portable-linux-apps.github.io/icons/cmux.png"
+  },
+  {
     "packageName": "cncjs",
     "description": "CNC Milling Controller...",
     "icon": "https://portable-linux-apps.github.io/icons/cncjs.png"
@@ -2008,6 +2018,11 @@
     "packageName": "compass",
     "description": "Air Traffic Surveillance DataBase...",
     "icon": "https://portable-linux-apps.github.io/icons/compass.png"
+  },
+  {
+    "packageName": "compresso",
+    "description": "Convert any video into a tiny size...",
+    "icon": "https://portable-linux-apps.github.io/icons/compresso.png"
   },
   {
     "packageName": "concordium-desktop-wallet",
@@ -2693,6 +2708,11 @@
     "packageName": "dingtalk",
     "description": "DingTalk desktop version based on electron...",
     "icon": "https://portable-linux-apps.github.io/icons/dingtalk.png"
+  },
+  {
+    "packageName": "dinosaurplanetrecompiled",
+    "description": "A static recompilation/native port of the game Dinosaur Planet...",
+    "icon": "https://portable-linux-apps.github.io/icons/dinosaurplanetrecompiled.png"
   },
   {
     "packageName": "disass",
@@ -3865,6 +3885,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/flb.png"
   },
   {
+    "packageName": "flightcore",
+    "description": "A Northstar installer, updater, and mod-manager...",
+    "icon": "https://portable-linux-apps.github.io/icons/flightcore.png"
+  },
+  {
     "packageName": "flightgear",
     "description": "Free, open source flight simulator developed since 1997...",
     "icon": "https://portable-linux-apps.github.io/icons/flightgear.png"
@@ -4085,6 +4110,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/freezer.png"
   },
   {
+    "packageName": "fresh",
+    "description": "easy, powerful and fast...",
+    "icon": "https://portable-linux-apps.github.io/icons/fresh.png"
+  },
+  {
     "packageName": "freshfetch",
     "description": "An alternative to Neofetch in Rust with a focus on customization...",
     "icon": "https://portable-linux-apps.github.io/icons/freshfetch.png"
@@ -4165,6 +4195,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gaiasky.png"
   },
   {
+    "packageName": "gale",
+    "description": "A modern mod manager for Thunderstore...",
+    "icon": "https://portable-linux-apps.github.io/icons/gale.png"
+  },
+  {
     "packageName": "gallery-dl",
     "description": "Command-line program to download image galleries and collections...",
     "icon": "https://portable-linux-apps.github.io/icons/gallery-dl.png"
@@ -4240,9 +4275,29 @@
     "icon": "https://portable-linux-apps.github.io/icons/geany.png"
   },
   {
+    "packageName": "gearboy",
+    "description": "Game Boy / Gameboy Color emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/gearboy.png"
+  },
+  {
+    "packageName": "gearcoleco",
+    "description": "ColecoVision emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/gearcoleco.png"
+  },
+  {
+    "packageName": "geargrafx",
+    "description": "PC Engine / TurboGrafx-16 emulator and debugger...",
+    "icon": "https://portable-linux-apps.github.io/icons/geargrafx.png"
+  },
+  {
     "packageName": "gearlever",
     "description": "Unofficial. An utility to organize and manage AppImage files for you, generate desktop entries and app metadata, update apps in-place or keep multiple versions side-by-side...",
     "icon": "https://portable-linux-apps.github.io/icons/gearlever.png"
+  },
+  {
+    "packageName": "gearsystem",
+    "description": "Sega Master System / Game Gear / SG-1000 Emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/gearsystem.png"
   },
   {
     "packageName": "gedit",
@@ -4293,6 +4348,11 @@
     "packageName": "geometrize",
     "description": "Images to shapes converter, graphics...",
     "icon": "https://portable-linux-apps.github.io/icons/geometrize.png"
+  },
+  {
+    "packageName": "gerbil",
+    "description": "A desktop app for running Large Language Models locally...",
+    "icon": "https://portable-linux-apps.github.io/icons/gerbil.png"
   },
   {
     "packageName": "gerbv",
@@ -4768,6 +4828,11 @@
     "packageName": "graphql-playground",
     "description": "GraphQL IDE for better development workflows...",
     "icon": "https://portable-linux-apps.github.io/icons/graphql-playground.png"
+  },
+  {
+    "packageName": "graphs",
+    "description": "Unofficial. A simple, yet powerful tool that allows you to plot and manipulate your data with ease...",
+    "icon": "https://portable-linux-apps.github.io/icons/graphs.png"
   },
   {
     "packageName": "graviton",
@@ -5638,6 +5703,11 @@
     "packageName": "kadium",
     "description": "App for staying ontop of YouTube channels' uploads...",
     "icon": "https://portable-linux-apps.github.io/icons/kadium.png"
+  },
+  {
+    "packageName": "kaffeine",
+    "description": "Unofficial, Media player with support for digital television (DVB-C/S/S2/T, ATSC, CI/CAM)...",
+    "icon": "https://portable-linux-apps.github.io/icons/kaffeine.png"
   },
   {
     "packageName": "kage",
@@ -7005,6 +7075,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/melonds.png"
   },
   {
+    "packageName": "melonmix",
+    "description": "KH Melon Mix (DS Emulator) DS emulator, sorta DS emulator, sorta...",
+    "icon": "https://portable-linux-apps.github.io/icons/melonmix.png"
+  },
+  {
     "packageName": "memento",
     "description": "A video player for studying Japanese...",
     "icon": "https://portable-linux-apps.github.io/icons/memento.png"
@@ -7565,6 +7640,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/nault-bin.png"
   },
   {
+    "packageName": "nauz-file-detector",
+    "description": "Nauz File Detector is a portable linker/compiler/packer identifier utility...",
+    "icon": "https://portable-linux-apps.github.io/icons/nauz-file-detector.png"
+  },
+  {
     "packageName": "navi",
     "description": "An interactive cheatsheet tool for the command-line...",
     "icon": "https://portable-linux-apps.github.io/icons/navi.png"
@@ -8023,6 +8103,11 @@
     "packageName": "oh-mymd",
     "description": "A markdown editor,support cloud sync...",
     "icon": "https://portable-linux-apps.github.io/icons/oh-mymd.png"
+  },
+  {
+    "packageName": "okteta",
+    "description": "Unofficial. Hex editor for viewing and editing the raw data of files...",
+    "icon": "https://portable-linux-apps.github.io/icons/okteta.png"
   },
   {
     "packageName": "olive",
@@ -8700,6 +8785,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/pho.png"
   },
   {
+    "packageName": "phoenix-x-server",
+    "description": "Unofficial, a new X server, written from scratch in Zig (not a fork). Designed to be a modern alternative to the Xorg server...",
+    "icon": "https://portable-linux-apps.github.io/icons/phoenix-x-server.png"
+  },
+  {
     "packageName": "photocrea",
     "description": "Unofficial Photopea wrapper, image editor that includes all the familiar features like layers, filters, magic wand selection, etc...",
     "icon": "https://portable-linux-apps.github.io/icons/photocrea.png"
@@ -9273,6 +9363,11 @@
     "packageName": "prospect-mail",
     "description": "An Outlook mail desktop client powered by Electron...",
     "icon": "https://portable-linux-apps.github.io/icons/prospect-mail.png"
+  },
+  {
+    "packageName": "protocol_10",
+    "description": "A mod decompiler for frosty tool suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/protocol_10.png"
   },
   {
     "packageName": "protoman",
@@ -9915,6 +10010,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/requestly.png"
   },
   {
+    "packageName": "reshade-installer",
+    "description": "Post-processing injector for games and video software made for Linux. Intented to be used with proton applications...",
+    "icon": "https://portable-linux-apps.github.io/icons/reshade-installer.png"
+  },
+  {
     "packageName": "responsively",
     "description": "A browser for developing responsive web apps...",
     "icon": "https://portable-linux-apps.github.io/icons/responsively.png"
@@ -10288,6 +10388,11 @@
     "packageName": "scrcpy",
     "description": "Display and control your Android device...",
     "icon": "https://portable-linux-apps.github.io/icons/scrcpy.png"
+  },
+  {
+    "packageName": "scrcpygui",
+    "description": "A user-friendly GUI for scrcpy with added functionalities...",
+    "icon": "https://portable-linux-apps.github.io/icons/scrcpygui.png"
   },
   {
     "packageName": "screencloud",
@@ -10785,6 +10890,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/snes9x.png"
   },
   {
+    "packageName": "sniffnet",
+    "description": "Sniffnet is a network monitoring tool to help you easily keep track of your Internet traffic. Whether you want to gather statistics, you’re curious to see who you are exchanging data with, or you need to inspect more in depth what's going on in your network, this app will get you covered...",
+    "icon": "https://portable-linux-apps.github.io/icons/sniffnet.png"
+  },
+  {
     "packageName": "snippetstore",
     "description": "A snippet management app for developers...",
     "icon": "https://portable-linux-apps.github.io/icons/snippetstore.png"
@@ -11155,6 +11265,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/sticker-convert.png"
   },
   {
+    "packageName": "stirling-pdf",
+    "description": "Unofficial. Powerful, open-source PDF editing platform...",
+    "icon": "https://portable-linux-apps.github.io/icons/stirling-pdf.png"
+  },
+  {
     "packageName": "stockstalk",
     "description": "Your stocks on your desktop...",
     "icon": "https://portable-linux-apps.github.io/icons/stockstalk.png"
@@ -11218,6 +11333,11 @@
     "packageName": "streamon",
     "description": "Create streaming links to instagram live...",
     "icon": "https://portable-linux-apps.github.io/icons/streamon.png"
+  },
+  {
+    "packageName": "stremio-enhanced",
+    "description": "Electron-based Stremio client with support for plugins and themes. This is a community project and is not affiliated with Stremio in any way...",
+    "icon": "https://portable-linux-apps.github.io/icons/stremio-enhanced.png"
   },
   {
     "packageName": "stretchly",
@@ -11498,6 +11618,11 @@
     "packageName": "system-monitor-gtk3",
     "description": "Unofficial, Version 3.38.0, for all those who hate GNOME4+ UIs...",
     "icon": "https://portable-linux-apps.github.io/icons/system-monitor-gtk3.png"
+  },
+  {
+    "packageName": "system-monitoring-center",
+    "description": "Unofficial. Multi-featured system monitor...",
+    "icon": "https://portable-linux-apps.github.io/icons/system-monitoring-center.png"
   },
   {
     "packageName": "sysz",
@@ -11805,6 +11930,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/tidal-hifi.png"
   },
   {
+    "packageName": "tidybit",
+    "description": "TidyBit is a simple handy tool that can organize messy collection of files and move them to a chosen folder...",
+    "icon": "https://portable-linux-apps.github.io/icons/tidybit.png"
+  },
+  {
     "packageName": "tilde-podcast",
     "description": "Podcast client to listen to all you favorite podcasts...",
     "icon": "https://portable-linux-apps.github.io/icons/tilde-podcast.png"
@@ -11876,7 +12006,7 @@
   },
   {
     "packageName": "todesktop",
-    "description": "Web app to desktop app in minutes...",
+    "description": "Take your web app codebase and transform it into a cross platform desktop app with native functionality...",
     "icon": "https://portable-linux-apps.github.io/icons/todesktop.png"
   },
   {
@@ -11976,7 +12106,7 @@
   },
   {
     "packageName": "transfernow",
-    "description": "TransferNow is a simple and free way to safely share your data...",
+    "description": "TransferNow is a simple, quick and secure free solution to send large files and big documents up to 250 GB per transfer. No registration required...",
     "icon": "https://portable-linux-apps.github.io/icons/transfernow.png"
   },
   {
@@ -12091,8 +12221,13 @@
   },
   {
     "packageName": "tutanota",
-    "description": "The world's most secure email service, easy to use and private...",
+    "description": "Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices...",
     "icon": "https://portable-linux-apps.github.io/icons/tutanota.png"
+  },
+  {
+    "packageName": "tutanota-enhanced",
+    "description": "Unofficial AppImage for Tutanota, an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices...",
+    "icon": "https://portable-linux-apps.github.io/icons/tutanota-enhanced.png"
   },
   {
     "packageName": "tuxplorer",
@@ -12148,6 +12283,11 @@
     "packageName": "ubports-installer",
     "description": "A simple tool to install Ubuntu Touch on UBports devices..",
     "icon": "https://portable-linux-apps.github.io/icons/ubports-installer.png"
+  },
+  {
+    "packageName": "ueli",
+    "description": "Cross-Platform Keystroke Launcher...",
+    "icon": "https://portable-linux-apps.github.io/icons/ueli.png"
   },
   {
     "packageName": "uhk.agent",
@@ -12395,6 +12535,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/viber.png"
   },
   {
+    "packageName": "viber-enhanced",
+    "description": "Unofficial. Enhanced AppImage of proprietary cross-platform IM and VoIP software...",
+    "icon": "https://portable-linux-apps.github.io/icons/viber-enhanced.png"
+  },
+  {
     "packageName": "vicinae",
     "description": "A high-performance, native launcher for your desktop built with C++ and Qt. Native, fast, extensible...",
     "icon": "https://portable-linux-apps.github.io/icons/vicinae.png"
@@ -12523,6 +12668,11 @@
     "packageName": "viu",
     "description": "Terminal image viewer with native support for iTerm and Kitty...",
     "icon": "https://portable-linux-apps.github.io/icons/viu.png"
+  },
+  {
+    "packageName": "vivadesigner",
+    "description": "VivaDesigner is an extremely easy-to-use AI-based design, publishing, layout, typesetting and illustration program that meets the highest design and typographic requirements...",
+    "icon": "https://portable-linux-apps.github.io/icons/vivadesigner.png"
   },
   {
     "packageName": "vivaldi-snapshot",
@@ -12825,6 +12975,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/wikilynx.png"
   },
   {
+    "packageName": "win11-clipboard-history",
+    "description": "A beautiful, Windows 11-style Clipboard History Manager for Linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/win11-clipboard-history.png"
+  },
+  {
     "packageName": "winboat",
     "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration...",
     "icon": "https://portable-linux-apps.github.io/icons/winboat.png"
@@ -13050,6 +13205,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/x-pixiv.png"
   },
   {
+    "packageName": "xapkdetector",
+    "description": "APK/DEX detector that shows an information about build tools, libraries and protection of APK/DEX files...",
+    "icon": "https://portable-linux-apps.github.io/icons/xapkdetector.png"
+  },
+  {
     "packageName": "xchat",
     "description": "Chat with other people using Internet Relay Chat...",
     "icon": "https://portable-linux-apps.github.io/icons/xchat.png"
@@ -13125,6 +13285,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/xm8.png"
   },
   {
+    "packageName": "xmachoviewer",
+    "description": "XMachOViewer is a Mach-O viewer...",
+    "icon": "https://portable-linux-apps.github.io/icons/xmachoviewer.png"
+  },
+  {
     "packageName": "xmedcon",
     "description": "An open-source toolkit for medical image conversion...",
     "icon": "https://portable-linux-apps.github.io/icons/xmedcon.png"
@@ -13143,6 +13308,11 @@
     "packageName": "xonsh",
     "description": "Python-powered, cross-platform, Unix-gazing shell...",
     "icon": "https://portable-linux-apps.github.io/icons/xonsh.png"
+  },
+  {
+    "packageName": "xopcodecalc",
+    "description": "Opcode calculator / ASM calculator...",
+    "icon": "https://portable-linux-apps.github.io/icons/xopcodecalc.png"
   },
   {
     "packageName": "xournal++",

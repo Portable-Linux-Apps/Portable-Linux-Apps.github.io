@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **220** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **221** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -95,6 +95,7 @@
 | <img loading="lazy" src="icons/fman.png" width="48" height="48"> | [***fman***](apps/fman.md) | *TUI CLI File Manager.*..[ *read more* ](apps/fman.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fman) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fman) |
 | <img loading="lazy" src="icons/focus.png" width="48" height="48"> | [***focus***](apps/focus.md) | *A fully featured productivity timer for the command line, based on the Pomodoro Technique.*..[ *read more* ](apps/focus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/focus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/focus) |
 | <img loading="lazy" src="icons/freeze.png" width="48" height="48"> | [***freeze***](apps/freeze.md) | *Generate images of code and terminal output.*..[ *read more* ](apps/freeze.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freeze) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freeze) |
+| <img loading="lazy" src="icons/fresh.png" width="48" height="48"> | [***fresh***](apps/fresh.md) | *easy, powerful and fast.*..[ *read more* ](apps/fresh.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fresh) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fresh) |
 | <img loading="lazy" src="icons/funterm.png" width="48" height="48"> | [***funterm***](apps/funterm.md) | *A Linux Terminal Emulator.*..[ *read more* ](apps/funterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/funterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/funterm) |
 | <img loading="lazy" src="icons/fx.png" width="48" height="48"> | [***fx***](apps/fx.md) | *Terminal JSON viewer & processor.*..[ *read more* ](apps/fx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fx) |
 | <img loading="lazy" src="icons/fzf.png" width="48" height="48"> | [***fzf***](apps/fzf.md) | *A command-line fuzzy finder.*..[ *read more* ](apps/fzf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fzf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fzf) |
