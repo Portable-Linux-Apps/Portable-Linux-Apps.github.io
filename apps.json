@@ -10010,6 +10010,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/requestly.png"
   },
   {
+    "packageName": "reshade-installer",
+    "description": "Post-processing injector for games and video software made for Linux. Intented to be used with proton applications...",
+    "icon": "https://portable-linux-apps.github.io/icons/reshade-installer.png"
+  },
+  {
     "packageName": "responsively",
     "description": "A browser for developing responsive web apps...",
     "icon": "https://portable-linux-apps.github.io/icons/responsively.png"
