@@ -10011,7 +10011,7 @@
   },
   {
     "packageName": "reshade-installer",
-    "description": "Post-processing injector for games and video software made for Linux. Intented to be used with proton applications...",
+    "description": "An unofficial Reshade Installer for Linux...",
     "icon": "https://portable-linux-apps.github.io/icons/reshade-installer.png"
   },
   {
