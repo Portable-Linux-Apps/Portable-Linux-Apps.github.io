@@ -8840,11 +8840,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/photoquick.png"
   },
   {
-    "packageName": "phototeleport",
-    "description": "Upload your photos to multiple services at once...",
-    "icon": "https://portable-linux-apps.github.io/icons/phototeleport.png"
-  },
-  {
     "packageName": "phreshplayer",
     "description": "Electron based media player app...",
     "icon": "https://portable-linux-apps.github.io/icons/phreshplayer.png"
@@ -11508,11 +11503,6 @@
     "packageName": "suwayomi",
     "description": "A rewrite of Tachiyomi for the Desktop...",
     "icon": "https://portable-linux-apps.github.io/icons/suwayomi.png"
-  },
-  {
-    "packageName": "suyu",
-    "description": "Open-source, Nintendo Switch emulator, continuation of yuzu...",
-    "icon": "https://portable-linux-apps.github.io/icons/suyu.png"
   },
   {
     "packageName": "svelte-electron",

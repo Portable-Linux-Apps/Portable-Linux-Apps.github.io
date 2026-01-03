@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **123** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **122** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -122,7 +122,6 @@
 | <img loading="lazy" src="icons/photopealoader.png" width="48" height="48"> | [***photopealoader***](apps/photopealoader.md) | *Photopea desktop app that loads local files and plugins.*..[ *read more* ](apps/photopealoader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/photopealoader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/photopealoader) |
 | <img loading="lazy" src="icons/photoqt.png" width="48" height="48"> | [***photoqt***](apps/photoqt.md) | *View and manage images.*..[ *read more* ](apps/photoqt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/photoqt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/photoqt) |
 | <img loading="lazy" src="icons/photoquick.png" width="48" height="48"> | [***photoquick***](apps/photoquick.md) | *Light-weight image viewer, resize, collage, filters....*..[ *read more* ](apps/photoquick.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/photoquick) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/photoquick) |
-| <img loading="lazy" src="icons/phototeleport.png" width="48" height="48"> | [***phototeleport***](apps/phototeleport.md) | *Upload your photos to multiple services at once.*..[ *read more* ](apps/phototeleport.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/phototeleport) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/phototeleport) |
 | <img loading="lazy" src="icons/pinta.png" width="48" height="48"> | [***pinta***](apps/pinta.md) | *Unofficial, Simple GTK Paint Program clone of Paint.Net 3.0.*..[ *read more* ](apps/pinta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pinta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pinta) |
 | <img loading="lazy" src="icons/pinta-dev.png" width="48" height="48"> | [***pinta-dev***](apps/pinta-dev.md) | *Simple GTK Paint Program (developer edition).*..[ *read more* ](apps/pinta-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pinta-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pinta-dev) |
 | <img loading="lazy" src="icons/pixelhopper.png" width="48" height="48"> | [***pixelhopper***](apps/pixelhopper.md) | *Animated GIF player for Linux (X11).*..[ *read more* ](apps/pixelhopper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pixelhopper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pixelhopper) |
