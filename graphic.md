@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **122** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **123** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -33,6 +33,7 @@
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/affinity.png" width="48" height="48"> | [***affinity***](apps/affinity.md) | *Affinity is a suite of professional graphic design, photo editing, and desktop publishing software. It's a common alternative to software from the Adobe Suite such as for Adobe Photoshop, Adobe Illustrator, Adobe InDesign.*..[ *read more* ](apps/affinity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/affinity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/affinity) |
+| <img loading="lazy" src="icons/am-gui.png" width="48" height="48"> | [***am-gui***](apps/am-gui.md) | *AM-GUI is a graphical Front for AM.*..[ *read more* ](apps/am-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/am-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/am-gui) |
 | <img loading="lazy" src="icons/ansel.png" width="48" height="48"> | [***ansel***](apps/ansel.md) | *An open-source photo-editing software for digital artists, designed to help you achieve your own interpretation of raw digital photographs.*..[ *read more* ](apps/ansel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ansel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ansel) |
 | <img loading="lazy" src="icons/aphototoollibre.png" width="48" height="48"> | [***aphototoollibre***](apps/aphototoollibre.md) | *Photo editing app for GNU/Linux.*..[ *read more* ](apps/aphototoollibre.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aphototoollibre) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aphototoollibre) |
 | <img loading="lazy" src="icons/aspect.png" width="48" height="48"> | [***aspect***](apps/aspect.md) | *Photo organization application with support for peer-to-peer based synchronization across devices.*..[ *read more* ](apps/aspect.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aspect) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aspect) |
