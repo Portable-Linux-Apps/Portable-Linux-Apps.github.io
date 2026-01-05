@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **63** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **64** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -66,6 +66,7 @@
 | <img loading="lazy" src="icons/google-chrome-beta.png" width="48" height="48"> | [***google-chrome-beta***](apps/google-chrome-beta.md) | *Unofficial, Web Browser, Beta version.*..[ *read more* ](apps/google-chrome-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/google-chrome-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/google-chrome-beta) |
 | <img loading="lazy" src="icons/google-chrome-dev.png" width="48" height="48"> | [***google-chrome-dev***](apps/google-chrome-dev.md) | *Unofficial, Web Browser, Unstable version.*..[ *read more* ](apps/google-chrome-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/google-chrome-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/google-chrome-dev) |
 | <img loading="lazy" src="icons/helium.png" width="48" height="48"> | [***helium***](apps/helium.md) | *Private, fast, and honest Chromium-based web browser made for people.*..[ *read more* ](apps/helium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helium) |
+| <img loading="lazy" src="icons/hellium.png" width="48" height="48"> | [***hellium***](apps/hellium.md) | *The Chromium-based web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise.*..[ *read more* ](apps/hellium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hellium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hellium) |
 | <img loading="lazy" src="icons/icecat.png" width="48" height="48"> | [***icecat***](apps/icecat.md) | *GNU IceCat is the GNU version of the Firefox web browser.*..[ *read more* ](apps/icecat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/icecat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/icecat) |
 | <img loading="lazy" src="icons/ladybird.png" width="48" height="48"> | [***ladybird***](apps/ladybird.md) | *A truly independent web browser, using a novel engine based on web standards.*..[ *read more* ](apps/ladybird.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ladybird) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ladybird) |
 | <img loading="lazy" src="icons/librewolf.png" width="48" height="48"> | [***librewolf***](apps/librewolf.md) | *Firefox-based Web Browser focused on privacy, security, freedom.*..[ *read more* ](apps/librewolf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/librewolf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/librewolf) |

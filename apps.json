@@ -5035,6 +5035,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/helix.png"
   },
   {
+    "packageName": "hellium",
+    "description": "The Chromium-based web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise...",
+    "icon": "https://portable-linux-apps.github.io/icons/hellium.png"
+  },
+  {
     "packageName": "henson",
     "description": "A puppet manager for NationStates...",
     "icon": "https://portable-linux-apps.github.io/icons/henson.png"
