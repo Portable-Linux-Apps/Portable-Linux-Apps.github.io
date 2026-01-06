@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2252** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2251** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -658,7 +658,6 @@
 | <img loading="lazy" src="icons/filelight.png" width="48" height="48"> | [***filelight***](apps/filelight.md) | *Unofficial. View disk usage information, by KDE.*..[ *read more* ](apps/filelight.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filelight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filelight) |
 | <img loading="lazy" src="icons/filen.png" width="48" height="48"> | [***filen***](apps/filen.md) | *Desktop client for Filen.io, end-to-end encrypted cloud storage.*..[ *read more* ](apps/filen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filen) |
 | <img loading="lazy" src="icons/filezilla.png" width="48" height="48"> | [***filezilla***](apps/filezilla.md) | *Unofficial. The free FTP solution with support for FTP over TLS and SFTP.*..[ *read more* ](apps/filezilla.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filezilla) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filezilla) |
-| <img loading="lazy" src="icons/filezilla-server.png" width="48" height="48"> | [***filezilla-server***](apps/filezilla-server.md) | *Unofficial. The free FTP solution with support for FTP over TLS and SFTP. Server edition.*..[ *read more* ](apps/filezilla-server.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filezilla-server) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filezilla-server) |
 | <img loading="lazy" src="icons/filmulator-gui.png" width="48" height="48"> | [***filmulator-gui***](apps/filmulator-gui.md) | *Simplified raw editing with the power of film, graphics.*..[ *read more* ](apps/filmulator-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filmulator-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filmulator-gui) |
 | <img loading="lazy" src="icons/fingrom.png" width="48" height="48"> | [***fingrom***](apps/fingrom.md) | *Financial accounting application*..[ *read more* ](apps/fingrom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fingrom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fingrom) |
 | <img loading="lazy" src="icons/firealpaca.png" width="48" height="48"> | [***firealpaca***](apps/firealpaca.md) | *A Free and Multiplatform Digital Painting Software.*..[ *read more* ](apps/firealpaca.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firealpaca) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firealpaca) |

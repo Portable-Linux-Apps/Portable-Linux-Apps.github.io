@@ -3735,11 +3735,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/filezilla.png"
   },
   {
-    "packageName": "filezilla-server",
-    "description": "Unofficial. The free FTP solution with support for FTP over TLS and SFTP. Server edition...",
-    "icon": "https://portable-linux-apps.github.io/icons/filezilla-server.png"
-  },
-  {
     "packageName": "filmulator-gui",
     "description": "Simplified raw editing with the power of film, graphics...",
     "icon": "https://portable-linux-apps.github.io/icons/filmulator-gui.png"
