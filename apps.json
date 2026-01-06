@@ -5026,18 +5026,13 @@
   },
   {
     "packageName": "helium",
-    "description": "Private, fast, and honest Chromium-based web browser made for people...",
+    "description": "The Chromium-based web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise...",
     "icon": "https://portable-linux-apps.github.io/icons/helium.png"
   },
   {
     "packageName": "helix",
     "description": "A post-modern modal text editor...",
     "icon": "https://portable-linux-apps.github.io/icons/helix.png"
-  },
-  {
-    "packageName": "hellium",
-    "description": "The Chromium-based web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise...",
-    "icon": "https://portable-linux-apps.github.io/icons/hellium.png"
   },
   {
     "packageName": "henson",
