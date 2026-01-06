@@ -10,6 +10,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/0ad-prerelease.png"
   },
   {
+    "packageName": "12to11",
+    "description": "Unofficial, tool for running Wayland applications on an X server...",
+    "icon": "https://portable-linux-apps.github.io/icons/12to11.png"
+  },
+  {
     "packageName": "2ship",
     "description": "2 Ship 2 Harkinian game...",
     "icon": "https://portable-linux-apps.github.io/icons/2ship.png"
@@ -11436,7 +11441,7 @@
   },
   {
     "packageName": "sunvox",
-    "description": "Small, fast and powerful modular synthesizer with pattern-based sequencer (tracker)...",
+    "description": "Unofficial. Small, fast and powerful modular synthesizer with pattern-based sequencer (tracker)...",
     "icon": "https://portable-linux-apps.github.io/icons/sunvox.png"
   },
   {
