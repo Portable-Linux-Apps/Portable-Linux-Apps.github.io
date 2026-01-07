@@ -13215,11 +13215,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/xchat.png"
   },
   {
-    "packageName": "xclicker",
-    "description": "Fast gui autoclicker for x11 linux desktops...",
-    "icon": "https://portable-linux-apps.github.io/icons/xclicker.png"
-  },
-  {
     "packageName": "xcloud-desktop",
     "description": "An unoffical desktop app for the XCloud web beta...",
     "icon": "https://portable-linux-apps.github.io/icons/xcloud-desktop.png"
