@@ -3431,7 +3431,7 @@
   },
   {
     "packageName": "extension-manager",
-    "description": "A native tool for browsing, installing, and managing GNOME Shell Extensions..",
+    "description": "A native tool for browsing, installing, and managing GNOME Shell Extensions...",
     "icon": "https://portable-linux-apps.github.io/icons/extension-manager.png"
   },
   {
