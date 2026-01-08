@@ -6,7 +6,7 @@
  
  SITE: https://www.gnome.org
  
- SOURCE: https://github.com/ivan-hc/Database-of-pkg2appimaged-packages
+ SOURCE: https://github.com/ivan-hc/GNOME3-appimages
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
