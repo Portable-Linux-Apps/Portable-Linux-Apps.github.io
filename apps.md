@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2660** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2661** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2541,6 +2541,7 @@
 | <img loading="lazy" src="icons/viber.png" width="48" height="48"> | [***viber***](apps/viber.md) | *Proprietary cross-platform IM and VoIP software.*..[ *read more* ](apps/viber.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viber) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viber) |
 | <img loading="lazy" src="icons/vicinae.png" width="48" height="48"> | [***vicinae***](apps/vicinae.md) | *A high-performance, native launcher for your desktop built with C++ and Qt. Native, fast, extensible.*..[ *read more* ](apps/vicinae.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vicinae) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vicinae) |
 | <img loading="lazy" src="icons/vicut.png" width="48" height="48"> | [***vicut***](apps/vicut.md) | *A Vim-based, scriptable, headless text editor for the command line.*..[ *read more* ](apps/vicut.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vicut) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vicut) |
+| <img loading="lazy" src="icons/vidbee.png" width="48" height="48"> | [***vidbee***](apps/vidbee.md) | *Download videos from almost any website worldwide.*..[ *read more* ](apps/vidbee.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vidbee) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vidbee) |
 | <img loading="lazy" src="icons/vidcutter.png" width="48" height="48"> | [***vidcutter***](apps/vidcutter.md) | *Simple and fast video cutter and joiner.*..[ *read more* ](apps/vidcutter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vidcutter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vidcutter) |
 | <img loading="lazy" src="icons/viddy.png" width="48" height="48"> | [***viddy***](apps/viddy.md) | *A modern watch command line utility. Time machine and pager etc.*..[ *read more* ](apps/viddy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viddy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viddy) |
 | <img loading="lazy" src="icons/video-hub.png" width="48" height="48"> | [***video-hub***](apps/video-hub.md) | *A fastest way to browse and search for videos on your computer.*..[ *read more* ](apps/video-hub.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/video-hub) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/video-hub) |

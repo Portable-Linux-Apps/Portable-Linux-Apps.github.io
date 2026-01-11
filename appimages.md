@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2253** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2254** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2094,6 +2094,7 @@
 | <img loading="lazy" src="icons/viber.png" width="48" height="48"> | [***viber***](apps/viber.md) | *Proprietary cross-platform IM and VoIP software.*..[ *read more* ](apps/viber.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viber) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viber) |
 | <img loading="lazy" src="icons/viber-enhanced.png" width="48" height="48"> | [***viber-enhanced***](apps/viber-enhanced.md) | *Unofficial. Enhanced AppImage of proprietary cross-platform IM and VoIP software.*..[ *read more* ](apps/viber-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viber-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viber-enhanced) |
 | <img loading="lazy" src="icons/vicinae.png" width="48" height="48"> | [***vicinae***](apps/vicinae.md) | *A high-performance, native launcher for your desktop built with C++ and Qt. Native, fast, extensible.*..[ *read more* ](apps/vicinae.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vicinae) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vicinae) |
+| <img loading="lazy" src="icons/vidbee.png" width="48" height="48"> | [***vidbee***](apps/vidbee.md) | *Download videos from almost any website worldwide.*..[ *read more* ](apps/vidbee.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vidbee) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vidbee) |
 | <img loading="lazy" src="icons/vidcutter.png" width="48" height="48"> | [***vidcutter***](apps/vidcutter.md) | *Simple and fast video cutter and joiner.*..[ *read more* ](apps/vidcutter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vidcutter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vidcutter) |
 | <img loading="lazy" src="icons/video-hub.png" width="48" height="48"> | [***video-hub***](apps/video-hub.md) | *A fastest way to browse and search for videos on your computer.*..[ *read more* ](apps/video-hub.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/video-hub) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/video-hub) |
 | <img loading="lazy" src="icons/video-trimmer.png" width="48" height="48"> | [***video-trimmer***](apps/video-trimmer.md) | *Unofficial. Simple video trimming, with option to trim precisely or to trim without loosing video quality.*..[ *read more* ](apps/video-trimmer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/video-trimmer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/video-trimmer) |

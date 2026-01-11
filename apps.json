@@ -12565,6 +12565,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/vicut.png"
   },
   {
+    "packageName": "vidbee",
+    "description": "Download videos from almost any website worldwide...",
+    "icon": "https://portable-linux-apps.github.io/icons/vidbee.png"
+  },
+  {
     "packageName": "vidcutter",
     "description": "Simple and fast video cutter and joiner...",
     "icon": "https://portable-linux-apps.github.io/icons/vidcutter.png"

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **156** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **157** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -158,6 +158,7 @@
 | <img loading="lazy" src="icons/varia.png" width="48" height="48"> | [***varia***](apps/varia.md) | *Unofficial. Aria2-based advanced download manager with support for downloading files, torrents, video and audio + support for Chromium and Firefox extension.*..[ *read more* ](apps/varia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/varia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/varia) |
 | <img loading="lazy" src="icons/vgmtrans.png" width="48" height="48"> | [***vgmtrans***](apps/vgmtrans.md) | *A tool to convert proprietary, sequenced videogame music.*..[ *read more* ](apps/vgmtrans.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vgmtrans) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vgmtrans) |
 | <img loading="lazy" src="icons/vhs.png" width="48" height="48"> | [***vhs***](apps/vhs.md) | *Your CLI home video recorder.*..[ *read more* ](apps/vhs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vhs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vhs) |
+| <img loading="lazy" src="icons/vidbee.png" width="48" height="48"> | [***vidbee***](apps/vidbee.md) | *Download videos from almost any website worldwide.*..[ *read more* ](apps/vidbee.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vidbee) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vidbee) |
 | <img loading="lazy" src="icons/vidcutter.png" width="48" height="48"> | [***vidcutter***](apps/vidcutter.md) | *Simple and fast video cutter and joiner.*..[ *read more* ](apps/vidcutter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vidcutter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vidcutter) |
 | <img loading="lazy" src="icons/video-hub.png" width="48" height="48"> | [***video-hub***](apps/video-hub.md) | *A fastest way to browse and search for videos on your computer.*..[ *read more* ](apps/video-hub.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/video-hub) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/video-hub) |
 | <img loading="lazy" src="icons/video-trimmer.png" width="48" height="48"> | [***video-trimmer***](apps/video-trimmer.md) | *Unofficial. Simple video trimming, with option to trim precisely or to trim without loosing video quality.*..[ *read more* ](apps/video-trimmer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/video-trimmer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/video-trimmer) |
