@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **142** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **143** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -151,6 +151,7 @@
 | <img loading="lazy" src="icons/spmp.png" width="48" height="48"> | [***spmp***](apps/spmp.md) | *A YouTube Music client with a focus on customisation of colours and song metadata.*..[ *read more* ](apps/spmp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spmp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spmp) |
 | <img loading="lazy" src="icons/spotify.png" width="48" height="48"> | [***spotify***](apps/spotify.md) | *Unofficial. A proprietary music streaming service.*..[ *read more* ](apps/spotify.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify) |
 | <img loading="lazy" src="icons/strawberry.png" width="48" height="48"> | [***strawberry***](apps/strawberry.md) | *Unofficial AppImage of the strawberry music player.*..[ *read more* ](apps/strawberry.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/strawberry) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/strawberry) |
+| <img loading="lazy" src="icons/supersonic.png" width="48" height="48"> | [***supersonic***](apps/supersonic.md) | *A lightweight and full-featured cross-platform desktop client for self-hosted music servers.*..[ *read more* ](apps/supersonic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supersonic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supersonic) |
 | <img loading="lazy" src="icons/tagger.png" width="48" height="48"> | [***tagger***](apps/tagger.md) | *Unofficial. Simple audio tagger with support for various audio formats.*..[ *read more* ](apps/tagger.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tagger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tagger) |
 | <img loading="lazy" src="icons/tenacity.png" width="48" height="48"> | [***tenacity***](apps/tenacity.md) | *An easy-to-use, cross-platform multi-track audio editor/recorder.*..[ *read more* ](apps/tenacity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tenacity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tenacity) |
 | <img loading="lazy" src="icons/trackaudio.png" width="48" height="48"> | [***trackaudio***](apps/trackaudio.md) | *A next generation Audio-For-VATSIM ATC Client.*..[ *read more* ](apps/trackaudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trackaudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trackaudio) |

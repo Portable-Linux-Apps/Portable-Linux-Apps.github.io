@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2252** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2253** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1926,6 +1926,7 @@
 | <img loading="lazy" src="icons/superproductivity.png" width="48" height="48"> | [***superproductivity***](apps/superproductivity.md) | *An advanced todo list app with integrated Timeboxing.*..[ *read more* ](apps/superproductivity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/superproductivity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/superproductivity) |
 | <img loading="lazy" src="icons/superslicer-bin.png" width="48" height="48"> | [***superslicer-bin***](apps/superslicer-bin.md) | *G-code generator for 3D printers.*..[ *read more* ](apps/superslicer-bin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/superslicer-bin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/superslicer-bin) |
 | <img loading="lazy" src="icons/superslicer-prerelease-bin.png" width="48" height="48"> | [***superslicer-prerelease-bin***](apps/superslicer-prerelease-bin.md) | *G-code generator for 3D printers.*..[ *read more* ](apps/superslicer-prerelease-bin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/superslicer-prerelease-bin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/superslicer-prerelease-bin) |
+| <img loading="lazy" src="icons/supersonic.png" width="48" height="48"> | [***supersonic***](apps/supersonic.md) | *A lightweight and full-featured cross-platform desktop client for self-hosted music servers.*..[ *read more* ](apps/supersonic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supersonic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supersonic) |
 | <img loading="lazy" src="icons/supertag.png" width="48" height="48"> | [***supertag***](apps/supertag.md) | *A tag-based filesystem written in Rust.*..[ *read more* ](apps/supertag.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supertag) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supertag) |
 | <img loading="lazy" src="icons/supertux.png" width="48" height="48"> | [***supertux***](apps/supertux.md) | *Classic 2D jump'n run sidescroller game inspired to Super Mario.*..[ *read more* ](apps/supertux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supertux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supertux) |
 | <img loading="lazy" src="icons/supertuxkart.png" width="48" height="48"> | [***supertuxkart***](apps/supertuxkart.md) | *Free kart racing game focused on Fun!*..[ *read more* ](apps/supertuxkart.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supertuxkart) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supertuxkart) |
