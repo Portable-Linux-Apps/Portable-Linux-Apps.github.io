@@ -1980,6 +1980,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/codebook-lsp.png"
   },
   {
+    "packageName": "codexmonitor",
+    "description": "An app to monitor the (Codex) situation...",
+    "icon": "https://portable-linux-apps.github.io/icons/codexmonitor.png"
+  },
+  {
     "packageName": "coinstac",
     "description": "Collaborative Informatics and Neuroimaging Suite Toolkit...",
     "icon": "https://portable-linux-apps.github.io/icons/coinstac.png"
@@ -9323,6 +9328,11 @@
     "packageName": "printerclient",
     "description": "A printer client...",
     "icon": "https://portable-linux-apps.github.io/icons/printerclient.png"
+  },
+  {
+    "packageName": "printventory",
+    "description": "The ultimate tool for managing your 3D printing collection with ease. Sort, tag, and track your models in one place...",
+    "icon": "https://portable-linux-apps.github.io/icons/printventory.png"
   },
   {
     "packageName": "prisma-studio",
