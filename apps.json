@@ -4015,6 +4015,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/foobar2000.png"
   },
   {
+    "packageName": "foot",
+    "description": "Unofficial. Fast, lightweight, and minimalistic Wayland terminal emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/foot.png"
+  },
+  {
     "packageName": "forkgram",
     "description": "Fork of Telegram Desktop messaging app...",
     "icon": "https://portable-linux-apps.github.io/icons/forkgram.png"

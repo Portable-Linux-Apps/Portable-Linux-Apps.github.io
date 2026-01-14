@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2254** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2255** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -701,6 +701,7 @@
 | <img loading="lazy" src="icons/fontforge.png" width="48" height="48"> | [***fontforge***](apps/fontforge.md) | *Free, libre font editor.*..[ *read more* ](apps/fontforge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fontforge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fontforge) |
 | <img loading="lazy" src="icons/fontlet.png" width="48" height="48"> | [***fontlet***](apps/fontlet.md) | *A package manager for fonts.*..[ *read more* ](apps/fontlet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fontlet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fontlet) |
 | <img loading="lazy" src="icons/foobar2000.png" width="48" height="48"> | [***foobar2000***](apps/foobar2000.md) | *Unofficial, an advanced freeware audio player for Windows, includes WINE.*..[ *read more* ](apps/foobar2000.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/foobar2000) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/foobar2000) |
+| <img loading="lazy" src="icons/foot.png" width="48" height="48"> | [***foot***](apps/foot.md) | *Unofficial. Fast, lightweight, and minimalistic Wayland terminal emulator.*..[ *read more* ](apps/foot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/foot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/foot) |
 | <img loading="lazy" src="icons/four.png" width="48" height="48"> | [***four***](apps/four.md) | *Electron App to access All4/Channel4, UK.*..[ *read more* ](apps/four.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/four) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/four) |
 | <img loading="lazy" src="icons/foxfolio.png" width="48" height="48"> | [***foxfolio***](apps/foxfolio.md) | *Cryptocurrency portfolio management application.*..[ *read more* ](apps/foxfolio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/foxfolio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/foxfolio) |
 | <img loading="lazy" src="icons/fpm.png" width="48" height="48"> | [***fpm***](apps/fpm.md) | *Faster Project Plus on Linux.*..[ *read more* ](apps/fpm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fpm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fpm) |
