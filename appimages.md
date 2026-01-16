@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2255** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2256** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1294,6 +1294,7 @@
 | <img loading="lazy" src="icons/no-fwl.png" width="48" height="48"> | [***no-fwl***](apps/no-fwl.md) | *NoFWL Desktop Application.*..[ *read more* ](apps/no-fwl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/no-fwl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/no-fwl) |
 | <img loading="lazy" src="icons/nodeflow.png" width="48" height="48"> | [***nodeflow***](apps/nodeflow.md) | *An Editor for creating simple or complex OCR workflows.*..[ *read more* ](apps/nodeflow.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nodeflow) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nodeflow) |
 | <img loading="lazy" src="icons/nodes.png" width="48" height="48"> | [***nodes***](apps/nodes.md) | *A new way to create with code.*..[ *read more* ](apps/nodes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nodes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nodes) |
+| <img loading="lazy" src="icons/noi.png" width="48" height="48"> | [***noi***](apps/noi.md) | *🚀 an AI-enhanced, customizable browser designed to streamline your digital experience.*..[ *read more* ](apps/noi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/noi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/noi) |
 | <img loading="lazy" src="icons/nootka.png" width="48" height="48"> | [***nootka***](apps/nootka.md) | *Application for learning musical score notation.*..[ *read more* ](apps/nootka.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nootka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nootka) |
 | <img loading="lazy" src="icons/nora.png" width="48" height="48"> | [***nora***](apps/nora.md) | *An elegant music player built using Electron and React.*..[ *read more* ](apps/nora.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nora) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nora) |
 | <img loading="lazy" src="icons/normcap.png" width="48" height="48"> | [***normcap***](apps/normcap.md) | *OCR powered screen-capture tool to capture info instead of images.*..[ *read more* ](apps/normcap.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/normcap) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/normcap) |

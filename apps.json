@@ -7880,6 +7880,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/nodes.png"
   },
   {
+    "packageName": "noi",
+    "description": "🚀 an AI-enhanced, customizable browser designed to streamline your digital experience...",
+    "icon": "https://portable-linux-apps.github.io/icons/noi.png"
+  },
+  {
     "packageName": "nootka",
     "description": "Application for learning musical score notation...",
     "icon": "https://portable-linux-apps.github.io/icons/nootka.png"
