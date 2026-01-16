@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2256** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2255** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -365,7 +365,6 @@
 | <img loading="lazy" src="icons/cncra2yr.png" width="48" height="48"> | [***cncra2yr***](apps/cncra2yr.md) | *C&C Red Alert 2, a real-time strategy game by Westwood Pacific.*..[ *read more* ](apps/cncra2yr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cncra2yr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cncra2yr) |
 | <img loading="lazy" src="icons/coal-launcher.png" width="48" height="48"> | [***coal-launcher***](apps/coal-launcher.md) | *A client to view and play games from the AB Coal website.*..[ *read more* ](apps/coal-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/coal-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/coal-launcher) |
 | <img loading="lazy" src="icons/code-notes.png" width="48" height="48"> | [***code-notes***](apps/code-notes.md) | *A simple code snippet amp built with Electron.*..[ *read more* ](apps/code-notes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/code-notes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/code-notes) |
-| <img loading="lazy" src="icons/codexmonitor.png" width="48" height="48"> | [***codexmonitor***](apps/codexmonitor.md) | *An app to monitor the (Codex) situation.*..[ *read more* ](apps/codexmonitor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/codexmonitor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/codexmonitor) |
 | <img loading="lazy" src="icons/coinstac.png" width="48" height="48"> | [***coinstac***](apps/coinstac.md) | *Collaborative Informatics and Neuroimaging Suite Toolkit.*..[ *read more* ](apps/coinstac.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/coinstac) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/coinstac) |
 | <img loading="lazy" src="icons/collision.png" width="48" height="48"> | [***collision***](apps/collision.md) | *Unofficial. Verify the checksum/hash validity of files.*..[ *read more* ](apps/collision.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/collision) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/collision) |
 | <img loading="lazy" src="icons/colobot.png" width="48" height="48"> | [***colobot***](apps/colobot.md) | *Colonize with bots, game.*..[ *read more* ](apps/colobot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/colobot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/colobot) |

@@ -1980,11 +1980,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/codebook-lsp.png"
   },
   {
-    "packageName": "codexmonitor",
-    "description": "An app to monitor the (Codex) situation...",
-    "icon": "https://portable-linux-apps.github.io/icons/codexmonitor.png"
-  },
-  {
     "packageName": "coinstac",
     "description": "Collaborative Informatics and Neuroimaging Suite Toolkit...",
     "icon": "https://portable-linux-apps.github.io/icons/coinstac.png"
