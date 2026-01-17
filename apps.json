@@ -2340,6 +2340,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/crosscode-map-editor.png"
   },
   {
+    "packageName": "crossmacro",
+    "description": "A modern mouse and keyboard macro recording and playback application...",
+    "icon": "https://portable-linux-apps.github.io/icons/crossmacro.png"
+  },
+  {
     "packageName": "crossmobile",
     "description": "Create native iOS/Android/Windows apps in Java...",
     "icon": "https://portable-linux-apps.github.io/icons/crossmobile.png"
@@ -13178,6 +13183,11 @@
     "packageName": "wowup",
     "description": "WowUp the World of Warcraft addon updater...",
     "icon": "https://portable-linux-apps.github.io/icons/wowup.png"
+  },
+  {
+    "packageName": "wox",
+    "description": "A cross-platform launcher that simply works...",
+    "icon": "https://portable-linux-apps.github.io/icons/wox.png"
   },
   {
     "packageName": "wps-office",
