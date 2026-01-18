@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2258** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2259** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -350,6 +350,7 @@
 | <img loading="lazy" src="icons/clash-verge.png" width="48" height="48"> | [***clash-verge***](apps/clash-verge.md) | *A multiplatform Clash GUI based on tauri.*..[ *read more* ](apps/clash-verge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clash-verge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clash-verge) |
 | <img loading="lazy" src="icons/classicimageviewer.png" width="48" height="48"> | [***classicimageviewer***](apps/classicimageviewer.md) | *A simple image viewer with some editing features.*..[ *read more* ](apps/classicimageviewer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/classicimageviewer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/classicimageviewer) |
 | <img loading="lazy" src="icons/classipod.png" width="48" height="48"> | [***classipod***](apps/classipod.md) | *A local music player app designed to capture the nostalgic essence of the iconic iPod Classic.*..[ *read more* ](apps/classipod.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/classipod) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/classipod) |
+| <img loading="lazy" src="icons/claude-desktop.png" width="48" height="48"> | [***claude-desktop***](apps/claude-desktop.md) | *Claude Desktop for Debian-based Linux distributions.*..[ *read more* ](apps/claude-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/claude-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/claude-desktop) |
 | <img loading="lazy" src="icons/cleepdesktop.png" width="48" height="48"> | [***cleepdesktop***](apps/cleepdesktop.md) | *Desktop application to manage your Cleep devices.*..[ *read more* ](apps/cleepdesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cleepdesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cleepdesktop) |
 | <img loading="lazy" src="icons/clementine.png" width="48" height="48"> | [***clementine***](apps/clementine.md) | *Unofficial AppImage of the Clementine music player.*..[ *read more* ](apps/clementine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clementine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clementine) |
 | <img loading="lazy" src="icons/clementineremote.png" width="48" height="48"> | [***clementineremote***](apps/clementineremote.md) | *Remote for Clementine Music Player.*..[ *read more* ](apps/clementineremote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clementineremote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clementineremote) |

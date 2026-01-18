@@ -1880,6 +1880,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/classipod.png"
   },
   {
+    "packageName": "claude-desktop",
+    "description": "Claude Desktop for Debian-based Linux distributions...",
+    "icon": "https://portable-linux-apps.github.io/icons/claude-desktop.png"
+  },
+  {
     "packageName": "cleepdesktop",
     "description": "Desktop application to manage your Cleep devices...",
     "icon": "https://portable-linux-apps.github.io/icons/cleepdesktop.png"
