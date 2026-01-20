@@ -4026,7 +4026,10 @@
   },
   {
     "packageName": "foot",
-    "description": "Unofficial. Fast, lightweight, and minimalistic Wayland terminal emulator...",
+    "description": "Unofficial, A fast, lightweight and minimalistic Wayland terminal emulator (This AppImage can work on x11 as well).
+Unofficial, A fast, lightweight and minimalistic Wayland terminal emulator (This AppImage can work on x11 as well).
+Unofficial. Fast, lightweight, and minimalistic Wayland terminal emulator.
+Unofficial. Fast, lightweight, and minimalistic Wayland terminal emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/foot.png"
   },
   {
@@ -4688,6 +4691,11 @@
     "packageName": "godot",
     "description": "Multi-platform 2D and 3D game engine with a feature-rich editor...",
     "icon": "https://portable-linux-apps.github.io/icons/godot.png"
+  },
+  {
+    "packageName": "godot-appimage",
+    "description": "Unofficial, Advanced cross-platform 2D and 3D game engine..",
+    "icon": "https://portable-linux-apps.github.io/icons/godot-appimage.png"
   },
   {
     "packageName": "gojq",
@@ -7895,6 +7903,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/noi.png"
   },
   {
+    "packageName": "nomacs",
+    "description": "Unofficial, nomacs is a free, open source image viewer, which supports multiple platforms...",
+    "icon": "https://portable-linux-apps.github.io/icons/nomacs.png"
+  },
+  {
     "packageName": "nootka",
     "description": "Application for learning musical score notation...",
     "icon": "https://portable-linux-apps.github.io/icons/nootka.png"
@@ -9525,6 +9538,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/qaddapp.png"
   },
   {
+    "packageName": "qarma",
+    "description": "Unofficial, Qarma is a tool to create dialog boxes, based on Qt. It's a clone of Zenity...",
+    "icon": "https://portable-linux-apps.github.io/icons/qarma.png"
+  },
+  {
     "packageName": "qaterialgallery",
     "description": "Demonstrate Qaterial library...",
     "icon": "https://portable-linux-apps.github.io/icons/qaterialgallery.png"
@@ -10088,6 +10106,11 @@
     "packageName": "revolt",
     "description": "Revolt Desktop App...",
     "icon": "https://portable-linux-apps.github.io/icons/revolt.png"
+  },
+  {
+    "packageName": "rewaita",
+    "description": "Unofficial, rewaita gives your Adwaita apps a fresh look by tinting them with popular color schemes...",
+    "icon": "https://portable-linux-apps.github.io/icons/rewaita.png"
   },
   {
     "packageName": "rhb",
@@ -12268,6 +12291,11 @@
     "packageName": "tutanota-enhanced",
     "description": "Unofficial AppImage for Tutanota, an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices...",
     "icon": "https://portable-linux-apps.github.io/icons/tutanota-enhanced.png"
+  },
+  {
+    "packageName": "tuxfootball",
+    "description": "Unofficial, is a great 2D football game for Windows and Linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/tuxfootball.png"
   },
   {
     "packageName": "tuxplorer",
