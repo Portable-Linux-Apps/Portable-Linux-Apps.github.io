@@ -1850,6 +1850,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/city-hub.png"
   },
   {
+    "packageName": "ciyue",
+    "description": "A simple mdict dictionary...",
+    "icon": "https://portable-linux-apps.github.io/icons/ciyue.png"
+  },
+  {
     "packageName": "clagrange",
     "description": "Lagrange is a cross-platform client for browsing Geminispace (CLI Version)...",
     "icon": "https://portable-linux-apps.github.io/icons/clagrange.png"

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2264** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2265** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -345,6 +345,7 @@
 | <img loading="lazy" src="icons/citron.png" width="48" height="48"> | [***citron***](apps/citron.md) | *Unofficial AppImage of Citron (fork of yuzu), with optimized builds for modern cpus.*..[ *read more* ](apps/citron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/citron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/citron) |
 | <img loading="lazy" src="icons/citron-nightly.png" width="48" height="48"> | [***citron-nightly***](apps/citron-nightly.md) | *Unofficial AppImage of Citron (fork of yuzu), with optimized builds for modern cpus (nightly builds).*..[ *read more* ](apps/citron-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/citron-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/citron-nightly) |
 | <img loading="lazy" src="icons/city-hub.png" width="48" height="48"> | [***city-hub***](apps/city-hub.md) | *Hub into everything on City Chain/Smart City Platform.*..[ *read more* ](apps/city-hub.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/city-hub) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/city-hub) |
+| <img loading="lazy" src="icons/ciyue.png" width="48" height="48"> | [***ciyue***](apps/ciyue.md) | *A simple mdict dictionary.*..[ *read more* ](apps/ciyue.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ciyue) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ciyue) |
 | <img loading="lazy" src="icons/clagrange.png" width="48" height="48"> | [***clagrange***](apps/clagrange.md) | *Lagrange is a cross-platform client for browsing Geminispace (CLI Version).*..[ *read more* ](apps/clagrange.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clagrange) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clagrange) |
 | <img loading="lazy" src="icons/clapper.png" width="48" height="48"> | [***clapper***](apps/clapper.md) | *Unofficial. A modern media player designed for simplicity and ease of use.*..[ *read more* ](apps/clapper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clapper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clapper) |
 | <img loading="lazy" src="icons/clash-verge.png" width="48" height="48"> | [***clash-verge***](apps/clash-verge.md) | *A multiplatform Clash GUI based on tauri.*..[ *read more* ](apps/clash-verge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clash-verge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clash-verge) |
