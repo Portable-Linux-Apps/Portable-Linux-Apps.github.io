@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **70** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **71** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -82,6 +82,7 @@
 | <img loading="lazy" src="icons/plover.png" width="48" height="48"> | [***plover***](apps/plover.md) | *Stenographic input and translation.*..[ *read more* ](apps/plover.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/plover) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/plover) |
 | <img loading="lazy" src="icons/poedit.png" width="48" height="48"> | [***poedit***](apps/poedit.md) | *Unofficial. Powerful and intuitive translation editor.*..[ *read more* ](apps/poedit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/poedit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/poedit) |
 | <img loading="lazy" src="icons/pot-desktop.png" width="48" height="48"> | [***pot-desktop***](apps/pot-desktop.md) | *A cross-platform software for text translation and recognition.*..[ *read more* ](apps/pot-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pot-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pot-desktop) |
+| <img loading="lazy" src="icons/readest.png" width="48" height="48"> | [***readest***](apps/readest.md) | *Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.*..[ *read more* ](apps/readest.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/readest) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/readest) |
 | <img loading="lazy" src="icons/remnote.png" width="48" height="48"> | [***remnote***](apps/remnote.md) | *Make flashcards in your notes. Cut study time in half. Use evidence-based memory techniques to create flashcards that resurface at the best time for retention.*..[ *read more* ](apps/remnote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/remnote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/remnote) |
 | <img loading="lazy" src="icons/rtneuron.png" width="48" height="48"> | [***rtneuron***](apps/rtneuron.md) | *Framework for geometrically detailed neuron simulations.*..[ *read more* ](apps/rtneuron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rtneuron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rtneuron) |
 | <img loading="lazy" src="icons/schildichat.png" width="48" height="48"> | [***schildichat***](apps/schildichat.md) | *A Matrix Client.*..[ *read more* ](apps/schildichat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/schildichat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/schildichat) |

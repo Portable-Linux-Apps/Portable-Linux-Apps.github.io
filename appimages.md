@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2265** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2266** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1658,6 +1658,7 @@
 | <img loading="lazy" src="icons/rclone-ui.png" width="48" height="48"> | [***rclone-ui***](apps/rclone-ui.md) | *The cross-platform desktop GUI for rclone & S3.*..[ *read more* ](apps/rclone-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rclone-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rclone-ui) |
 | <img loading="lazy" src="icons/rcloneview.png" width="48" height="48"> | [***rcloneview***](apps/rcloneview.md) | *The ultimate GUI for Cloud Data Sync and File Management. Effortlessly browse, organize, transfer files across your cloud storages.*..[ *read more* ](apps/rcloneview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rcloneview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rcloneview) |
 | <img loading="lazy" src="icons/reactotron.png" width="48" height="48"> | [***reactotron***](apps/reactotron.md) | *Reactotron desktop mode engage.*..[ *read more* ](apps/reactotron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/reactotron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/reactotron) |
+| <img loading="lazy" src="icons/readest.png" width="48" height="48"> | [***readest***](apps/readest.md) | *Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.*..[ *read more* ](apps/readest.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/readest) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/readest) |
 | <img loading="lazy" src="icons/real-video-enhancer.png" width="48" height="48"> | [***real-video-enhancer***](apps/real-video-enhancer.md) | *Interpolate and Upscale easily.*..[ *read more* ](apps/real-video-enhancer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/real-video-enhancer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/real-video-enhancer) |
 | <img loading="lazy" src="icons/realm-studio.png" width="48" height="48"> | [***realm-studio***](apps/realm-studio.md) | *A tool for everything Realm.*..[ *read more* ](apps/realm-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/realm-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/realm-studio) |
 | <img loading="lazy" src="icons/recoll.png" width="48" height="48"> | [***recoll***](apps/recoll.md) | *Full-text search for your desktop.*..[ *read more* ](apps/recoll.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/recoll) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/recoll) |
