@@ -11710,11 +11710,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/syncthing-tray.png"
   },
   {
-    "packageName": "synfig",
-    "description": "Synfig Studio, Open-source 2D Animation Software...",
-    "icon": "https://portable-linux-apps.github.io/icons/synfig.png"
-  },
-  {
     "packageName": "synthein",
     "description": "A space ship building and combat game...",
     "icon": "https://portable-linux-apps.github.io/icons/synthein.png"

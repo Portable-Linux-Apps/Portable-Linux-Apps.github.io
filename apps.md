@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2680** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2679** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2370,7 +2370,6 @@
 | <img loading="lazy" src="icons/syncmyl2p.png" width="48" height="48"> | [***syncmyl2p***](apps/syncmyl2p.md) | *L2P synchronisation tool.*..[ *read more* ](apps/syncmyl2p.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/syncmyl2p) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/syncmyl2p) |
 | <img loading="lazy" src="icons/syncplay.png" width="48" height="48"> | [***syncplay***](apps/syncplay.md) | *Synchronize video playback over network.*..[ *read more* ](apps/syncplay.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/syncplay) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/syncplay) |
 | <img loading="lazy" src="icons/syncthing-tray.png" width="48" height="48"> | [***syncthing-tray***](apps/syncthing-tray.md) | *Tray application for Syncthing.*..[ *read more* ](apps/syncthing-tray.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/syncthing-tray) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/syncthing-tray) |
-| <img loading="lazy" src="icons/synfig.png" width="48" height="48"> | [***synfig***](apps/synfig.md) | *Synfig Studio, Open-source 2D Animation Software.*..[ *read more* ](apps/synfig.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/synfig) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/synfig) |
 | <img loading="lazy" src="icons/synthein.png" width="48" height="48"> | [***synthein***](apps/synthein.md) | *A space ship building and combat game.*..[ *read more* ](apps/synthein.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/synthein) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/synthein) |
 | <img loading="lazy" src="icons/synthv1.png" width="48" height="48"> | [***synthv1***](apps/synthv1.md) | *An old school polyphonic synthesizer.*..[ *read more* ](apps/synthv1.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/synthv1) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/synthv1) |
 | <img loading="lazy" src="icons/system-monitoring-center.png" width="48" height="48"> | [***system-monitoring-center***](apps/system-monitoring-center.md) | *Unofficial. Multi-featured system monitor.*..[ *read more* ](apps/system-monitoring-center.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/system-monitoring-center) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/system-monitoring-center) |
