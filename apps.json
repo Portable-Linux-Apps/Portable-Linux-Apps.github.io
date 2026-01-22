@@ -135,6 +135,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/agregore.png"
   },
   {
+    "packageName": "ahk_x11",
+    "description": "AutoHotkey for Linux (X11-based systems)...",
+    "icon": "https://portable-linux-apps.github.io/icons/ahk_x11.png"
+  },
+  {
     "packageName": "ai-bot-workspace",
     "description": "Electron app including testing workspaces...",
     "icon": "https://portable-linux-apps.github.io/icons/ai-bot-workspace.png"
@@ -823,6 +828,11 @@
     "packageName": "aya",
     "description": "A desktop application for easily controlling android devices, which can be considered as a GUI wrapper for ADB...",
     "icon": "https://portable-linux-apps.github.io/icons/aya.png"
+  },
+  {
+    "packageName": "ayandict",
+    "description": "Simple yet advanced multi-lingual cross-platform offline dictionary for desktop, using Qt and Go...",
+    "icon": "https://portable-linux-apps.github.io/icons/ayandict.png"
   },
   {
     "packageName": "azahar-enhanced",
@@ -1763,6 +1773,11 @@
     "packageName": "cherrytree",
     "description": "A hierarchical note taking application...",
     "icon": "https://portable-linux-apps.github.io/icons/cherrytree.png"
+  },
+  {
+    "packageName": "chess-tui",
+    "description": "Play chess from your terminal...",
+    "icon": "https://portable-linux-apps.github.io/icons/chess-tui.png"
   },
   {
     "packageName": "chessmd",
@@ -3738,6 +3753,16 @@
     "packageName": "file-to-c",
     "description": "Tool for generating a C header from a spir-v binary file...",
     "icon": "https://portable-linux-apps.github.io/icons/file-to-c.png"
+  },
+  {
+    "packageName": "filebrowser",
+    "description": "Web File Browser...",
+    "icon": "https://portable-linux-apps.github.io/icons/filebrowser.png"
+  },
+  {
+    "packageName": "filebrowser-quantum",
+    "description": "Web File Browser...",
+    "icon": "https://portable-linux-apps.github.io/icons/filebrowser-quantum.png"
   },
   {
     "packageName": "filelight",
@@ -10195,6 +10220,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/roborock-control-center.png"
   },
   {
+    "packageName": "robrix",
+    "description": "A multi-platform Matrix chat client written in Rust, using the Makepad UI toolkit and the Robius app dev framework...",
+    "icon": "https://portable-linux-apps.github.io/icons/robrix.png"
+  },
+  {
     "packageName": "rock.so",
     "description": "Messaging + Tasks...",
     "icon": "https://portable-linux-apps.github.io/icons/rock.so.png"
@@ -11678,6 +11708,11 @@
     "packageName": "syncthing-tray",
     "description": "Tray application for Syncthing...",
     "icon": "https://portable-linux-apps.github.io/icons/syncthing-tray.png"
+  },
+  {
+    "packageName": "synfig",
+    "description": "Synfig Studio, Open-source 2D Animation Software...",
+    "icon": "https://portable-linux-apps.github.io/icons/synfig.png"
   },
   {
     "packageName": "synthein",
