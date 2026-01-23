@@ -475,8 +475,13 @@
     "icon": "https://portable-linux-apps.github.io/icons/aphototoollibre.png"
   },
   {
+    "packageName": "apiflow",
+    "description": "A modern API workspace that works both online and offlinecombining API documentation, testing, mock, and AI-powered automation in one lightweight tool...",
+    "icon": "https://portable-linux-apps.github.io/icons/apiflow.png"
+  },
+  {
     "packageName": "apifox",
-    "description": "API manager, in chinese. 文档、API 调试、API Mock、API 自动化测试..",
+    "description": "API manager, in Chinese. Includes documentation, API debugging, API mocking, and API automated testing...",
     "icon": "https://portable-linux-apps.github.io/icons/apifox.png"
   },
   {
@@ -11566,7 +11571,7 @@
   },
   {
     "packageName": "splayer",
-    "description": "🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player..",
+    "description": "A simple music player that supports word-by-word lyrics, song downloads, comment section display, music cloud storage and playlist management, music spectrum analysis, and basic mobile adaptation. NetEase Cloud Music...",
     "icon": "https://portable-linux-apps.github.io/icons/splayer.png"
   },
   {
