@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **23** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **25** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -32,6 +32,8 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
+| <img loading="lazy" src="icons/audiomoth-live-app.png" width="48" height="48"> | [***audiomoth-live-app***](apps/audiomoth-live-app.md) | *An Electron-based application for recording and analysing live audio from high sample rate microphones, including the AudioMoth USB Microphone.*..[ *read more* ](apps/audiomoth-live-app.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audiomoth-live-app) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audiomoth-live-app) |
+| <img loading="lazy" src="icons/audiomoth-usb-microphone-app.png" width="48" height="48"> | [***audiomoth-usb-microphone-app***](apps/audiomoth-usb-microphone-app.md) | *An Electron-based application capable of configuring the functionality of the AudioMoth-USB-Microphone firmware.*..[ *read more* ](apps/audiomoth-usb-microphone-app.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audiomoth-usb-microphone-app) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audiomoth-usb-microphone-app) |
 | <img loading="lazy" src="icons/baobab-gtk3.png" width="48" height="48"> | [***baobab-gtk3***](apps/baobab-gtk3.md) | *Unofficial. Disk Usage Analyser, version 3.38, for all GNOME4+ haters.*..[ *read more* ](apps/baobab-gtk3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/baobab-gtk3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/baobab-gtk3) |
 | <img loading="lazy" src="icons/diskfmt.png" width="48" height="48"> | [***diskfmt***](apps/diskfmt.md) | *A disk formatting utility for linux that is similar to the windows format utility.*..[ *read more* ](apps/diskfmt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/diskfmt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/diskfmt) |
 | <img loading="lazy" src="icons/diskonaut.png" width="48" height="48"> | [***diskonaut***](apps/diskonaut.md) | *Terminal disk space navigator.*..[ *read more* ](apps/diskonaut.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/diskonaut) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/diskonaut) |

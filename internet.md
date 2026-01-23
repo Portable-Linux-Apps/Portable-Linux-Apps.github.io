@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **183** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **184** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -120,6 +120,7 @@
 | <img loading="lazy" src="icons/kiku.png" width="48" height="48"> | [***kiku***](apps/kiku.md) | *Play music from youtube on desktop. Supports local api, invidious and piped as source.*..[ *read more* ](apps/kiku.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kiku) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kiku) |
 | <img loading="lazy" src="icons/ladybird.png" width="48" height="48"> | [***ladybird***](apps/ladybird.md) | *A truly independent web browser, using a novel engine based on web standards.*..[ *read more* ](apps/ladybird.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ladybird) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ladybird) |
 | <img loading="lazy" src="icons/librewolf.png" width="48" height="48"> | [***librewolf***](apps/librewolf.md) | *Firefox-based Web Browser focused on privacy, security, freedom.*..[ *read more* ](apps/librewolf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/librewolf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/librewolf) |
+| <img loading="lazy" src="icons/mages.png" width="48" height="48"> | [***mages***](apps/mages.md) | *Multiplatform Matrix chat client (experimental CMP+rust app).*..[ *read more* ](apps/mages.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mages) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mages) |
 | <img loading="lazy" src="icons/media-dupes.png" width="48" height="48"> | [***media-dupes***](apps/media-dupes.md) | *Content duplicator for common media services like YouTube.*..[ *read more* ](apps/media-dupes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/media-dupes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/media-dupes) |
 | <img loading="lazy" src="icons/mercury.png" width="48" height="48"> | [***mercury***](apps/mercury.md) | *Firefox fork with compiler optimizations and patches from Librewolf.*..[ *read more* ](apps/mercury.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mercury) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mercury) |
 | <img loading="lazy" src="icons/microsoft-edge.png" width="48" height="48"> | [***microsoft-edge***](apps/microsoft-edge.md) | *Web Browser provided by Microsoft, Stable Edition.*..[ *read more* ](apps/microsoft-edge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/microsoft-edge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/microsoft-edge) |
