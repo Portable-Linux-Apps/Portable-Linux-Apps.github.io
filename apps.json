@@ -5585,6 +5585,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/impact.png"
   },
   {
+    "packageName": "impactor",
+    "description": "Feature rich iOS/tvOS sideloading application written in Rust. Formerly known as PlumeImpactor...",
+    "icon": "https://portable-linux-apps.github.io/icons/impactor.png"
+  },
+  {
     "packageName": "implay",
     "description": "A Cross-Platform Desktop Media Player, built on top of mpv and ImGui...",
     "icon": "https://portable-linux-apps.github.io/icons/implay.png"
@@ -6030,6 +6035,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/kando.png"
   },
   {
+    "packageName": "kanji-dojo",
+    "description": "A multi-platform application for memorizing Japanese language...",
+    "icon": "https://portable-linux-apps.github.io/icons/kanji-dojo.png"
+  },
+  {
     "packageName": "kanon",
     "description": "Maturita GPJP designed for use with kanon web app...",
     "icon": "https://portable-linux-apps.github.io/icons/kanon.png"
@@ -6190,6 +6200,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/keepassxc-devel.png"
   },
   {
+    "packageName": "keepkey-desktop",
+    "description": "An all-in-one suite for using your KeepKey hardware wallet...",
+    "icon": "https://portable-linux-apps.github.io/icons/keepkey-desktop.png"
+  },
+  {
     "packageName": "keeweb",
     "description": "Free cross-platform password manager compatible with KeePass...",
     "icon": "https://portable-linux-apps.github.io/icons/keeweb.png"
@@ -6250,6 +6265,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/kfourinline.png"
   },
   {
+    "packageName": "kftray",
+    "description": "Kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding, multi-hop proxy routing through k8s clusters, stateful config via filesystem or git...",
+    "icon": "https://portable-linux-apps.github.io/icons/kftray.png"
+  },
+  {
     "packageName": "kgoldrunner",
     "description": "Unofficial, A game with a runner and gold. This script installs the full \"kdegames\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/kgoldrunner.png"
@@ -6300,9 +6320,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/kinopio.png"
   },
   {
+    "packageName": "kiri-moto",
+    "description": "Browser-based Slicer for 3D Printing, CAM, Laser and mesh editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/kiri-moto.png"
+  },
+  {
     "packageName": "kiriki",
     "description": "A dice game. This script installs the full \"kdegames\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/kiriki.png"
+  },
+  {
+    "packageName": "kitsas",
+    "description": "Finnish bookkeeping software for small organizations...",
+    "icon": "https://portable-linux-apps.github.io/icons/kitsas.png"
   },
   {
     "packageName": "kitty",
@@ -6650,6 +6680,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/lazygit.png"
   },
   {
+    "packageName": "lazytyper",
+    "description": "LazyTyper desktop client (repackaged from the official AppImage, including built-in dependencies)...",
+    "icon": "https://portable-linux-apps.github.io/icons/lazytyper.png"
+  },
+  {
     "packageName": "lbry-desktop",
     "description": "A browser and wallet for LBRY...",
     "icon": "https://portable-linux-apps.github.io/icons/lbry-desktop.png"
@@ -6825,6 +6860,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/linux-intel-undervolt-gui.png"
   },
   {
+    "packageName": "linuxaircombat",
+    "description": "Free open source combat flight simulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/linuxaircombat.png"
+  },
+  {
     "packageName": "linuxdeployqt",
     "description": "Convert a linux program to an AppDir or an AppImage...",
     "icon": "https://portable-linux-apps.github.io/icons/linuxdeployqt.png"
@@ -6848,6 +6888,11 @@
     "packageName": "linwood-butterfly",
     "description": "Powerful, minimalistic, cross-platform, note-taking app...",
     "icon": "https://portable-linux-apps.github.io/icons/linwood-butterfly.png"
+  },
+  {
+    "packageName": "liquidlauncher",
+    "description": "The official Minecraft launcher for LiquidBounce...",
+    "icon": "https://portable-linux-apps.github.io/icons/liquidlauncher.png"
   },
   {
     "packageName": "lisk-desktop",
@@ -6893,6 +6938,11 @@
     "packageName": "lmstudio",
     "description": "Experimenting with local and open-source Large Language Models...",
     "icon": "https://portable-linux-apps.github.io/icons/lmstudio.png"
+  },
+  {
+    "packageName": "lobe-chat",
+    "description": "LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application...",
+    "icon": "https://portable-linux-apps.github.io/icons/lobe-chat.png"
   },
   {
     "packageName": "local-browser",
@@ -7033,6 +7083,11 @@
     "packageName": "lutris-gamepad-ui",
     "description": "A simple, TV-friendly, gamepad-navigable frontend for the Lutris game launcher on Linux...",
     "icon": "https://portable-linux-apps.github.io/icons/lutris-gamepad-ui.png"
+  },
+  {
+    "packageName": "lvgl-editor",
+    "description": "LVGL Pro is a complete toolkit to build, test, share and ship embedded UIs efficiently...",
+    "icon": "https://portable-linux-apps.github.io/icons/lvgl-editor.png"
   },
   {
     "packageName": "lx-music-desktop",
@@ -7650,6 +7705,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/moolticute.png"
   },
   {
+    "packageName": "moondeck-buddy",
+    "description": "A server-side part of the MoonDeck plugin for the SteamDeck...",
+    "icon": "https://portable-linux-apps.github.io/icons/moondeck-buddy.png"
+  },
+  {
     "packageName": "moonfm",
     "description": "A modern, fully featured audio podcast player...",
     "icon": "https://portable-linux-apps.github.io/icons/moonfm.png"
@@ -7738,6 +7798,11 @@
     "packageName": "mrcode",
     "description": "An opinionated editor based on VSCodium / VSCode...",
     "icon": "https://portable-linux-apps.github.io/icons/mrcode.png"
+  },
+  {
+    "packageName": "mrrss",
+    "description": "A modern, cross-platform, and free AI RSS reader...",
+    "icon": "https://portable-linux-apps.github.io/icons/mrrss.png"
   },
   {
     "packageName": "mrwriter",
@@ -7898,6 +7963,11 @@
     "packageName": "nami",
     "description": "A clean and tidy decentralized package manager...",
     "icon": "https://portable-linux-apps.github.io/icons/nami.png"
+  },
+  {
+    "packageName": "nanokvm-usb",
+    "description": "Finger-sized 4K USB KVM for Server/SBCs...",
+    "icon": "https://portable-linux-apps.github.io/icons/nanokvm-usb.png"
   },
   {
     "packageName": "nanosaur",
@@ -8285,9 +8355,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/nuclino.png"
   },
   {
+    "packageName": "nudelta",
+    "description": "Open source NuPhy Console alternative...",
+    "icon": "https://portable-linux-apps.github.io/icons/nudelta.png"
+  },
+  {
     "packageName": "numara",
     "description": "Simple notepad calculator built on Electron...",
     "icon": "https://portable-linux-apps.github.io/icons/numara.png"
+  },
+  {
+    "packageName": "nunchuk",
+    "description": "Desktop bitcoin wallet with multisig, hardware, nfc and air-gapped key support...",
+    "icon": "https://portable-linux-apps.github.io/icons/nunchuk.png"
   },
   {
     "packageName": "nvim",
@@ -8450,6 +8530,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/one-gpt.png"
   },
   {
+    "packageName": "oneanime",
+    "description": "A clean, ad-free anime viewing app. A third-party client for Anime1 with subtitles and a Material You-compliant interface...",
+    "icon": "https://portable-linux-apps.github.io/icons/oneanime.png"
+  },
+  {
     "packageName": "onedrive-gui",
     "description": "Microsoft OneDrive Client GUI...",
     "icon": "https://portable-linux-apps.github.io/icons/onedrive-gui.png"
@@ -8468,6 +8553,11 @@
     "packageName": "onenote",
     "description": "P3X Onenote Linux...",
     "icon": "https://portable-linux-apps.github.io/icons/onenote.png"
+  },
+  {
+    "packageName": "oneweb",
+    "description": "OneWeb - free, private and secure web browser! POLSKA GUROM...",
+    "icon": "https://portable-linux-apps.github.io/icons/oneweb.png"
   },
   {
     "packageName": "onionmediax",
@@ -8498,6 +8588,11 @@
     "packageName": "onshape",
     "description": "Onshape desktop app, web application shell...",
     "icon": "https://portable-linux-apps.github.io/icons/onshape.png"
+  },
+  {
+    "packageName": "onthespot",
+    "description": "A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More...",
+    "icon": "https://portable-linux-apps.github.io/icons/onthespot.png"
   },
   {
     "packageName": "onyx",
@@ -8640,6 +8735,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/openstream-music.png"
   },
   {
+    "packageName": "openterface-qt",
+    "description": "Openterface Mini-KVM...",
+    "icon": "https://portable-linux-apps.github.io/icons/openterface-qt.png"
+  },
+  {
     "packageName": "opentodolist",
     "description": "A note and task managing application...",
     "icon": "https://portable-linux-apps.github.io/icons/opentodolist.png"
@@ -8683,6 +8783,11 @@
     "packageName": "oras",
     "description": "OCI registry client managing content like artifacts, images, packages...",
     "icon": "https://portable-linux-apps.github.io/icons/oras.png"
+  },
+  {
+    "packageName": "orca-note",
+    "description": "A note taking application that is good both for outlining and long-form writing...",
+    "icon": "https://portable-linux-apps.github.io/icons/orca-note.png"
   },
   {
     "packageName": "orcaslicer",
@@ -8790,6 +8895,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/owncloud.png"
   },
   {
+    "packageName": "owte",
+    "description": "Anime girl dancing on your screen...",
+    "icon": "https://portable-linux-apps.github.io/icons/owte.png"
+  },
+  {
     "packageName": "oxen-gui-wallet",
     "description": "Oxen electron GUI wallet...",
     "icon": "https://portable-linux-apps.github.io/icons/oxen-gui-wallet.png"
@@ -8878,6 +8988,11 @@
     "packageName": "papercraft",
     "description": "A tool to unwrap 3D models...",
     "icon": "https://portable-linux-apps.github.io/icons/papercraft.png"
+  },
+  {
+    "packageName": "paperlib",
+    "description": "An open-source academic paper management tool...",
+    "icon": "https://portable-linux-apps.github.io/icons/paperlib.png"
   },
   {
     "packageName": "parallelcoin",
@@ -9210,6 +9325,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/pika-backup.png"
   },
   {
+    "packageName": "pikapika",
+    "description": "A comic browser...",
+    "icon": "https://portable-linux-apps.github.io/icons/pikapika.png"
+  },
+  {
     "packageName": "pile",
     "description": "App to organize your piled work at one place...",
     "icon": "https://portable-linux-apps.github.io/icons/pile.png"
@@ -9435,6 +9555,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/poedit.png"
   },
   {
+    "packageName": "pog",
+    "description": "A Kmk firmware flashing and configuration tool...",
+    "icon": "https://portable-linux-apps.github.io/icons/pog.png"
+  },
+  {
     "packageName": "poi",
     "description": "Scalable KanColle browser and tool...",
     "icon": "https://portable-linux-apps.github.io/icons/poi.png"
@@ -9443,6 +9568,11 @@
     "packageName": "pointless",
     "description": "An endless drawing canvas desktop app made with Tauri (Rust) and React...",
     "icon": "https://portable-linux-apps.github.io/icons/pointless.png"
+  },
+  {
+    "packageName": "pokeclicker",
+    "description": "PokéClicker with quality of life changes...",
+    "icon": "https://portable-linux-apps.github.io/icons/pokeclicker.png"
   },
   {
     "packageName": "pokeget-rs",
@@ -9628,6 +9758,11 @@
     "packageName": "privaxy",
     "description": "The next generation tracker and ads/advertisement blocker...",
     "icon": "https://portable-linux-apps.github.io/icons/privaxy.png"
+  },
+  {
+    "packageName": "probe-desktop",
+    "description": "The next generation OONI Probe desktop app...",
+    "icon": "https://portable-linux-apps.github.io/icons/probe-desktop.png"
   },
   {
     "packageName": "procdepmonitor",

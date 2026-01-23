@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **149** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **150** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -122,6 +122,7 @@
 | <img loading="lazy" src="icons/nuclear.png" width="48" height="48"> | [***nuclear***](apps/nuclear.md) | *Streaming music player that finds free music for you.*..[ *read more* ](apps/nuclear.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nuclear) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nuclear) |
 | <img loading="lazy" src="icons/ocenaudio.png" width="48" height="48"> | [***ocenaudio***](apps/ocenaudio.md) | *Unofficial. Multiplatform Audio Editor.*..[ *read more* ](apps/ocenaudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ocenaudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ocenaudio) |
 | <img loading="lazy" src="icons/onionmediax.png" width="48" height="48"> | [***onionmediax***](apps/onionmediax.md) | *OnionMedia X. Convert and download videos and music quickly and easily.*..[ *read more* ](apps/onionmediax.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/onionmediax) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/onionmediax) |
+| <img loading="lazy" src="icons/onthespot.png" width="48" height="48"> | [***onthespot***](apps/onthespot.md) | *A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More.*..[ *read more* ](apps/onthespot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/onthespot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/onthespot) |
 | <img loading="lazy" src="icons/opal.png" width="48" height="48"> | [***opal***](apps/opal.md) | *Plays relaxing music in the background.*..[ *read more* ](apps/opal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opal) |
 | <img loading="lazy" src="icons/openaudible.png" width="48" height="48"> | [***openaudible***](apps/openaudible.md) | *Download and manage your Audible audiobooks.*..[ *read more* ](apps/openaudible.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openaudible) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openaudible) |
 | <img loading="lazy" src="icons/openstream-music.png" width="48" height="48"> | [***openstream-music***](apps/openstream-music.md) | *The OpenStream Music source.*..[ *read more* ](apps/openstream-music.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openstream-music) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openstream-music) |
