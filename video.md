@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **159** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **160** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -193,6 +193,7 @@
 | <img loading="lazy" src="icons/yts-streaming.png" width="48" height="48"> | [***yts-streaming***](apps/yts-streaming.md) | *Stream or play yts and torrent movies.*..[ *read more* ](apps/yts-streaming.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yts-streaming) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yts-streaming) |
 | <img loading="lazy" src="icons/zoom.png" width="48" height="48"> | [***zoom***](apps/zoom.md) | *Unofficial. Video Conferencing and Web Conferencing Service.*..[ *read more* ](apps/zoom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zoom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zoom) |
 | <img loading="lazy" src="icons/zy-player.png" width="48" height="48"> | [***zy-player***](apps/zy-player.md) | *Video resource player, simple, ad-free and high-value.*..[ *read more* ](apps/zy-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zy-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zy-player) |
+| <img loading="lazy" src="icons/zyfun.png" width="48" height="48"> | [***zyfun***](apps/zyfun.md) | *ZyPlayer. Cross-platform desktop video player, free and visually appealing.*..[ *read more* ](apps/zyfun.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zyfun) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zyfun) |
 
 
 ---

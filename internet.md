@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **186** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **187** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -200,6 +200,7 @@
 | <img loading="lazy" src="icons/viper-browser.png" width="48" height="48"> | [***viper-browser***](apps/viper-browser.md) | *Fast and lightweight Qt web browser.*..[ *read more* ](apps/viper-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viper-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viper-browser) |
 | <img loading="lazy" src="icons/vivaldi-snapshot.png" width="48" height="48"> | [***vivaldi-snapshot***](apps/vivaldi-snapshot.md) | *Unofficial. Advanced Web Browser, Testing Version.*..[ *read more* ](apps/vivaldi-snapshot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vivaldi-snapshot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vivaldi-snapshot) |
 | <img loading="lazy" src="icons/vivaldi-stable.png" width="48" height="48"> | [***vivaldi-stable***](apps/vivaldi-stable.md) | *Unofficial. Advanced Web Browser, Stable Version.*..[ *read more* ](apps/vivaldi-stable.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vivaldi-stable) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vivaldi-stable) |
+| <img loading="lazy" src="icons/vrcx.png" width="48" height="48"> | [***vrcx***](apps/vrcx.md) | *Friendship management tool for VRChat.*..[ *read more* ](apps/vrcx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vrcx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vrcx) |
 | <img loading="lazy" src="icons/walc.png" width="48" height="48"> | [***walc***](apps/walc.md) | *WhatsApp Linux Client, Unofficial.*..[ *read more* ](apps/walc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/walc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/walc) |
 | <img loading="lazy" src="icons/warp.png" width="48" height="48"> | [***warp***](apps/warp.md) | *Unofficial. Fast and secure file transfer through internet or local network exchanging a word-based code.*..[ *read more* ](apps/warp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/warp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/warp) |
 | <img loading="lazy" src="icons/wasistlos.png" width="48" height="48"> | [***wasistlos***](apps/wasistlos.md) | *Unofficial, WhatsApp Linux Client, formerly known as "whatsapp-for-linux".*..[ *read more* ](apps/wasistlos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wasistlos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wasistlos) |

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **63** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **64** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -91,6 +91,7 @@
 | <img loading="lazy" src="icons/simpleos.png" width="48" height="48"> | [***simpleos***](apps/simpleos.md) | *EOS Blockchain Interface & Wallet.*..[ *read more* ](apps/simpleos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/simpleos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/simpleos) |
 | <img loading="lazy" src="icons/solarwallet.png" width="48" height="48"> | [***solarwallet***](apps/solarwallet.md) | *Stellar wallet. Secure and user-friendly.*..[ *read more* ](apps/solarwallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/solarwallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/solarwallet) |
 | <img loading="lazy" src="icons/spark-wallet.png" width="48" height="48"> | [***spark-wallet***](apps/spark-wallet.md) | *A wallet GUI for c-lightning, accessible over web/mobile/pc.*..[ *read more* ](apps/spark-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spark-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spark-wallet) |
+| <img loading="lazy" src="icons/stack-wallet.png" width="48" height="48"> | [***stack-wallet***](apps/stack-wallet.md) | *Stack Wallet, a multicoin, cryptocurrency wallet.*..[ *read more* ](apps/stack-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stack-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stack-wallet) |
 | <img loading="lazy" src="icons/trinity-desktop.png" width="48" height="48"> | [***trinity-desktop***](apps/trinity-desktop.md) | *Desktop wallet for IOTA.*..[ *read more* ](apps/trinity-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trinity-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trinity-desktop) |
 | <img loading="lazy" src="icons/verto.png" width="48" height="48"> | [***verto***](apps/verto.md) | *A multi-currency crypto wallet with support for EOS & VTX.*..[ *read more* ](apps/verto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/verto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/verto) |
 | <img loading="lazy" src="icons/wallettech.png" width="48" height="48"> | [***wallettech***](apps/wallettech.md) | *BytechCoin GUI Wallet.*..[ *read more* ](apps/wallettech.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wallettech) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wallettech) |

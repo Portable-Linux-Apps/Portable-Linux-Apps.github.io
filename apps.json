@@ -10835,6 +10835,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/scilab.png"
   },
   {
+    "packageName": "sciqlop",
+    "description": "SciQLop is an ergonomic and efficient application to browse and label in situ plasma measurements from multi-mission satellite data...",
+    "icon": "https://portable-linux-apps.github.io/icons/sciqlop.png"
+  },
+  {
+    "packageName": "scopy",
+    "description": "A software oscilloscope and signal analysis toolset...",
+    "icon": "https://portable-linux-apps.github.io/icons/scopy.png"
+  },
+  {
     "packageName": "scraper",
     "description": "Simple desktop scraper app...",
     "icon": "https://portable-linux-apps.github.io/icons/scraper.png"
@@ -11075,6 +11085,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/shipwright.png"
   },
   {
+    "packageName": "shoopdaloop",
+    "description": "A (live) looping application with DAW elements...",
+    "icon": "https://portable-linux-apps.github.io/icons/shoopdaloop.png"
+  },
+  {
     "packageName": "shotcut",
     "description": "A powerful Video Editor...",
     "icon": "https://portable-linux-apps.github.io/icons/shotcut.png"
@@ -11093,6 +11108,11 @@
     "packageName": "shuttle",
     "description": "The fastest access to your favorite applications...",
     "icon": "https://portable-linux-apps.github.io/icons/shuttle.png"
+  },
+  {
+    "packageName": "shvspy",
+    "description": "Qt GUI tool for shvbroker administration and browsing...",
+    "icon": "https://portable-linux-apps.github.io/icons/shvspy.png"
   },
   {
     "packageName": "sideka",
@@ -11338,6 +11358,11 @@
     "packageName": "snapclear",
     "description": "Remove Image Background with AI for Free Offline...",
     "icon": "https://portable-linux-apps.github.io/icons/snapclear.png"
+  },
+  {
+    "packageName": "snapmaker-orca",
+    "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality...)...",
+    "icon": "https://portable-linux-apps.github.io/icons/snapmaker-orca.png"
   },
   {
     "packageName": "snapshot-slider",
@@ -11630,6 +11655,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/stacer.png"
   },
   {
+    "packageName": "stack-wallet",
+    "description": "Stack Wallet, a multicoin, cryptocurrency wallet...",
+    "icon": "https://portable-linux-apps.github.io/icons/stack-wallet.png"
+  },
+  {
     "packageName": "stackandconquer",
     "description": "A challenging tower conquest board game \"Mixtour\" inspired...",
     "icon": "https://portable-linux-apps.github.io/icons/stackandconquer.png"
@@ -11905,6 +11935,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/superbacked.png"
   },
   {
+    "packageName": "supercell-wx",
+    "description": "Supercell Wx is a free, open source advanced weather radar viewer...",
+    "icon": "https://portable-linux-apps.github.io/icons/supercell-wx.png"
+  },
+  {
     "packageName": "superfile",
     "description": "Pretty fancy and modern terminal file manager...",
     "icon": "https://portable-linux-apps.github.io/icons/superfile.png"
@@ -12065,6 +12100,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/syncthing-tray.png"
   },
   {
+    "packageName": "synfig",
+    "description": "Synfig Studio animation software...",
+    "icon": "https://portable-linux-apps.github.io/icons/synfig.png"
+  },
+  {
     "packageName": "synthein",
     "description": "A space ship building and combat game...",
     "icon": "https://portable-linux-apps.github.io/icons/synthein.png"
@@ -12123,6 +12163,11 @@
     "packageName": "tagtime-desktop",
     "description": "Time tracking for space cadets, desktop edition...",
     "icon": "https://portable-linux-apps.github.io/icons/tagtime-desktop.png"
+  },
+  {
+    "packageName": "talktype",
+    "description": "Linux speech to text app...",
+    "icon": "https://portable-linux-apps.github.io/icons/talktype.png"
   },
   {
     "packageName": "tangent",
@@ -12218,6 +12263,11 @@
     "packageName": "terminalos-sim",
     "description": "A terminalOS simulator...",
     "icon": "https://portable-linux-apps.github.io/icons/terminalos-sim.png"
+  },
+  {
+    "packageName": "termora",
+    "description": "A terminal emulator and SSH client...",
+    "icon": "https://portable-linux-apps.github.io/icons/termora.png"
   },
   {
     "packageName": "termshot",
@@ -12423,6 +12473,11 @@
     "packageName": "tixati",
     "description": "A New and Powerful P2P System 100% Free, Simple and Easy to Use Bittorrent Client...",
     "icon": "https://portable-linux-apps.github.io/icons/tixati.png"
+  },
+  {
+    "packageName": "tkmm",
+    "description": "TotK Mod Manager, a mod manager and merger for Tears of the Kingdom...",
+    "icon": "https://portable-linux-apps.github.io/icons/tkmm.png"
   },
   {
     "packageName": "tlock",
@@ -13205,6 +13260,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/vpaint.png"
   },
   {
+    "packageName": "vrcft-avalonia",
+    "description": "Cross-platform VRCFaceTracking made with Avalonia...",
+    "icon": "https://portable-linux-apps.github.io/icons/vrcft-avalonia.png"
+  },
+  {
+    "packageName": "vrcx",
+    "description": "Friendship management tool for VRChat...",
+    "icon": "https://portable-linux-apps.github.io/icons/vrcx.png"
+  },
+  {
     "packageName": "vrest-ng",
     "description": "Zero code API test automation solution...",
     "icon": "https://portable-linux-apps.github.io/icons/vrest-ng.png"
@@ -13278,6 +13343,11 @@
     "packageName": "warp-terminal",
     "description": "Terminal reimagined with AI and collaborative tools...",
     "icon": "https://portable-linux-apps.github.io/icons/warp-terminal.png"
+  },
+  {
+    "packageName": "warteschlangensimulator",
+    "description": "A free, platform independent, discrete-event, stochastic simulator which allows to model queueing systems in form of flowcharts...",
+    "icon": "https://portable-linux-apps.github.io/icons/warteschlangensimulator.png"
   },
   {
     "packageName": "wasistlos",
@@ -13545,6 +13615,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/wkp.png"
   },
   {
+    "packageName": "wled-gui",
+    "description": "Cross-platform desktop app for WLED...",
+    "icon": "https://portable-linux-apps.github.io/icons/wled-gui.png"
+  },
+  {
     "packageName": "wlx-overlay-s",
     "description": "Access your Wayland/X11 desktop from Monado/WiVRn/SteamVR...",
     "icon": "https://portable-linux-apps.github.io/icons/wlx-overlay-s.png"
@@ -13563,6 +13638,11 @@
     "packageName": "wolai",
     "description": "A new form of document/note/information system, in chinese...",
     "icon": "https://portable-linux-apps.github.io/icons/wolai.png"
+  },
+  {
+    "packageName": "wonderlab",
+    "description": "A new generation Minecraft launcher...",
+    "icon": "https://portable-linux-apps.github.io/icons/wonderlab.png"
   },
   {
     "packageName": "wonderwall",
@@ -13640,6 +13720,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/wsocks.png"
   },
   {
+    "packageName": "wsrx",
+    "description": "Controlled TCP-over-WebSocket forwarding tunnel...",
+    "icon": "https://portable-linux-apps.github.io/icons/wsrx.png"
+  },
+  {
     "packageName": "wtfutil",
     "description": "The personal information dashboard for your terminal...",
     "icon": "https://portable-linux-apps.github.io/icons/wtfutil.png"
@@ -13678,6 +13763,11 @@
     "packageName": "xapkdetector",
     "description": "APK/DEX detector that shows an information about build tools, libraries and protection of APK/DEX files...",
     "icon": "https://portable-linux-apps.github.io/icons/xapkdetector.png"
+  },
+  {
+    "packageName": "xbydriver",
+    "description": "Xiaobaiyang Cloud Drive - Powered by Alibaba Cloud Drive...",
+    "icon": "https://portable-linux-apps.github.io/icons/xbydriver.png"
   },
   {
     "packageName": "xchat",
@@ -13815,6 +13905,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/xtomarkdown.png"
   },
   {
+    "packageName": "xtool",
+    "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM...",
+    "icon": "https://portable-linux-apps.github.io/icons/xtool.png"
+  },
+  {
     "packageName": "xtuber",
     "description": "Simple YouTube Downloader...",
     "icon": "https://portable-linux-apps.github.io/icons/xtuber.png"
@@ -13830,6 +13925,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/xyce.png"
   },
   {
+    "packageName": "yaak",
+    "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC...",
+    "icon": "https://portable-linux-apps.github.io/icons/yaak.png"
+  },
+  {
     "packageName": "yaf",
     "description": "Yet another system CLI fetch that is minimal and customizable...",
     "icon": "https://portable-linux-apps.github.io/icons/yaf.png"
@@ -13838,6 +13938,16 @@
     "packageName": "yaka",
     "description": "No fuss todo-list manager with full keyboard navigation...",
     "icon": "https://portable-linux-apps.github.io/icons/yaka.png"
+  },
+  {
+    "packageName": "yakit",
+    "description": "Cyber Security ALL-IN-ONE Platform...",
+    "icon": "https://portable-linux-apps.github.io/icons/yakit.png"
+  },
+  {
+    "packageName": "yakit-legacy",
+    "description": "Cyber Security ALL-IN-ONE Platform (legacy)...",
+    "icon": "https://portable-linux-apps.github.io/icons/yakit-legacy.png"
   },
   {
     "packageName": "yam",
@@ -13903,6 +14013,11 @@
     "packageName": "ymir-nightly",
     "description": "Sega Saturn emulator (Nightly builds)..",
     "icon": "https://portable-linux-apps.github.io/icons/ymir-nightly.png"
+  },
+  {
+    "packageName": "yolx",
+    "description": "A modern download tool developed with Flutter, powered by Aria 2 at its core...",
+    "icon": "https://portable-linux-apps.github.io/icons/yolx.png"
   },
   {
     "packageName": "youtube-download",
@@ -14100,6 +14215,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/zograscope.png"
   },
   {
+    "packageName": "zoo-design-studio",
+    "description": "The Zoo Design Studio app...",
+    "icon": "https://portable-linux-apps.github.io/icons/zoo-design-studio.png"
+  },
+  {
     "packageName": "zoom",
     "description": "Unofficial. Video Conferencing and Web Conferencing Service...",
     "icon": "https://portable-linux-apps.github.io/icons/zoom.png"
@@ -14143,5 +14263,10 @@
     "packageName": "zy-player",
     "description": "Video resource player, simple, ad-free and high-value...",
     "icon": "https://portable-linux-apps.github.io/icons/zy-player.png"
+  },
+  {
+    "packageName": "zyfun",
+    "description": "ZyPlayer. Cross-platform desktop video player, free and visually appealing...",
+    "icon": "https://portable-linux-apps.github.io/icons/zyfun.png"
   }
 ]
