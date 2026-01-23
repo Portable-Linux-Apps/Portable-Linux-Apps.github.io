@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **104** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **103** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -73,7 +73,6 @@
 | <img loading="lazy" src="icons/franz.png" width="48" height="48"> | [***franz***](apps/franz.md) | *Messaging app for WhatsApp, Slack, Telegram, HipChat and much more.*..[ *read more* ](apps/franz.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/franz) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/franz) |
 | <img loading="lazy" src="icons/godmode.png" width="48" height="48"> | [***godmode***](apps/godmode.md) | *AI Chat Browser fast, full webapp access to ChatGPT/Claude/Bard/Bing/Llama2.*..[ *read more* ](apps/godmode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/godmode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/godmode) |
 | <img loading="lazy" src="icons/goofcord.png" width="48" height="48"> | [***goofcord***](apps/goofcord.md) | *Take control of your Discord experience with GoofCord.*..[ *read more* ](apps/goofcord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/goofcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/goofcord) |
-| <img loading="lazy" src="icons/gptfusion.png" width="48" height="48"> | [***gptfusion***](apps/gptfusion.md) | *GPT Aggregator is a cross-platform chat tool that aggregates multiple GPT chatbots. It supports multiple free GPT images, allows for custom image import, and supports multiple platforms such as PoE and Wenxin Yiyan.*..[ *read more* ](apps/gptfusion.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gptfusion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gptfusion) |
 | <img loading="lazy" src="icons/hamsket.png" width="48" height="48"> | [***hamsket***](apps/hamsket.md) | *Free and Open Source messaging and emailing app.*..[ *read more* ](apps/hamsket.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hamsket) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hamsket) |
 | <img loading="lazy" src="icons/hermesmessenger.png" width="48" height="48"> | [***hermesmessenger***](apps/hermesmessenger.md) | *Desktop client version for Hermes Messenger.*..[ *read more* ](apps/hermesmessenger.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hermesmessenger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hermesmessenger) |
 | <img loading="lazy" src="icons/himalaya.png" width="48" height="48"> | [***himalaya***](apps/himalaya.md) | *CLI to manage emails.*..[ *read more* ](apps/himalaya.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/himalaya) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/himalaya) |

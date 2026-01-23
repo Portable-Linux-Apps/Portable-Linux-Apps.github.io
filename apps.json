@@ -5020,11 +5020,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/gpt-anywhere.png"
   },
   {
-    "packageName": "gptfusion",
-    "description": "GPT Aggregator is a cross-platform chat tool that aggregates multiple GPT chatbots. It supports multiple free GPT images, allows for custom image import, and supports multiple platforms such as PoE and Wenxin Yiyan...",
-    "icon": "https://portable-linux-apps.github.io/icons/gptfusion.png"
-  },
-  {
     "packageName": "gpu-screen-recorder",
     "description": "Unofficial, AppImage of GPU Screen Recorder..",
     "icon": "https://portable-linux-apps.github.io/icons/gpu-screen-recorder.png"
