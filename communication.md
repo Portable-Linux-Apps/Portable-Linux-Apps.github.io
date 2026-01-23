@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **106** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **107** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -56,6 +56,7 @@
 | <img loading="lazy" src="icons/datcord.png" width="48" height="48"> | [***datcord***](apps/datcord.md) | *Discord client.*..[ *read more* ](apps/datcord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/datcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/datcord) |
 | <img loading="lazy" src="icons/deltachat-desktop.png" width="48" height="48"> | [***deltachat-desktop***](apps/deltachat-desktop.md) | *Desktop Application for delta.chat.*..[ *read more* ](apps/deltachat-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deltachat-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deltachat-desktop) |
 | <img loading="lazy" src="icons/deskthing.png" width="48" height="48"> | [***deskthing***](apps/deskthing.md) | *The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, just not The Car Thing anymore.*..[ *read more* ](apps/deskthing.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deskthing) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deskthing) |
+| <img loading="lazy" src="icons/dinox.png" width="48" height="48"> | [***dinox***](apps/dinox.md) | *DinoX - Modern XMPP Chat Client with Video Calls, Voice Messages & OMEMO Encryption.*..[ *read more* ](apps/dinox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dinox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dinox) |
 | <img loading="lazy" src="icons/discord.png" width="48" height="48"> | [***discord***](apps/discord.md) | *Unofficial. All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.*..[ *read more* ](apps/discord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/discord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/discord) |
 | <img loading="lazy" src="icons/discord-bot-client.png" width="48" height="48"> | [***discord-bot-client***](apps/discord-bot-client.md) | *A patched version of discord, with bot login & Vencord support.*..[ *read more* ](apps/discord-bot-client.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/discord-bot-client) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/discord-bot-client) |
 | <img loading="lazy" src="icons/discord-qt.png" width="48" height="48"> | [***discord-qt***](apps/discord-qt.md) | *Unofficial. Discord client powered by Node.JS and Qt Widgets.*..[ *read more* ](apps/discord-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/discord-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/discord-qt) |

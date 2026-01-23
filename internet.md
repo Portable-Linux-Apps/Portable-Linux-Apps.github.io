@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **187** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **188** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -66,6 +66,7 @@
 | <img loading="lazy" src="icons/deltachat-desktop.png" width="48" height="48"> | [***deltachat-desktop***](apps/deltachat-desktop.md) | *Desktop Application for delta.chat.*..[ *read more* ](apps/deltachat-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deltachat-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deltachat-desktop) |
 | <img loading="lazy" src="icons/deskreen.png" width="48" height="48"> | [***deskreen***](apps/deskreen.md) | *Turns any device with a web browser into a secondary screen.*..[ *read more* ](apps/deskreen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deskreen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deskreen) |
 | <img loading="lazy" src="icons/dezor.png" width="48" height="48"> | [***dezor***](apps/dezor.md) | *The web browser including VPN and Adblocker.*..[ *read more* ](apps/dezor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dezor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dezor) |
+| <img loading="lazy" src="icons/dinox.png" width="48" height="48"> | [***dinox***](apps/dinox.md) | *DinoX - Modern XMPP Chat Client with Video Calls, Voice Messages & OMEMO Encryption.*..[ *read more* ](apps/dinox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dinox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dinox) |
 | <img loading="lazy" src="icons/discord.png" width="48" height="48"> | [***discord***](apps/discord.md) | *Unofficial. All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.*..[ *read more* ](apps/discord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/discord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/discord) |
 | <img loading="lazy" src="icons/dwyco-phoo.png" width="48" height="48"> | [***dwyco-phoo***](apps/dwyco-phoo.md) | *Dwyco Phoo Chat and Video Calling.*..[ *read more* ](apps/dwyco-phoo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dwyco-phoo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dwyco-phoo) |
 | <img loading="lazy" src="icons/electorrent.png" width="48" height="48"> | [***electorrent***](apps/electorrent.md) | *A remote control Torrent client.*..[ *read more* ](apps/electorrent.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electorrent) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electorrent) |

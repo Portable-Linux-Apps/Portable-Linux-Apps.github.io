@@ -2875,6 +2875,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dinosaurplanetrecompiled.png"
   },
   {
+    "packageName": "dinox",
+    "description": "DinoX - Modern XMPP Chat Client with Video Calls, Voice Messages & OMEMO Encryption...",
+    "icon": "https://portable-linux-apps.github.io/icons/dinox.png"
+  },
+  {
     "packageName": "dione",
     "description": "Explore, Install, Innovate — in 1 Click...",
     "icon": "https://portable-linux-apps.github.io/icons/dione.png"

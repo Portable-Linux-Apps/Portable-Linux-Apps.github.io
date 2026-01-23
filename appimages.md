@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2365** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2366** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -523,6 +523,7 @@
 | <img loading="lazy" src="icons/digikam.png" width="48" height="48"> | [***digikam***](apps/digikam.md) | *Professional and advanced digital photo management application.*..[ *read more* ](apps/digikam.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/digikam) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/digikam) |
 | <img loading="lazy" src="icons/dingtalk.png" width="48" height="48"> | [***dingtalk***](apps/dingtalk.md) | *DingTalk desktop version based on electron.*..[ *read more* ](apps/dingtalk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dingtalk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dingtalk) |
 | <img loading="lazy" src="icons/dinosaurplanetrecompiled.png" width="48" height="48"> | [***dinosaurplanetrecompiled***](apps/dinosaurplanetrecompiled.md) | *A static recompilation/native port of the game Dinosaur Planet.*..[ *read more* ](apps/dinosaurplanetrecompiled.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dinosaurplanetrecompiled) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dinosaurplanetrecompiled) |
+| <img loading="lazy" src="icons/dinox.png" width="48" height="48"> | [***dinox***](apps/dinox.md) | *DinoX - Modern XMPP Chat Client with Video Calls, Voice Messages & OMEMO Encryption.*..[ *read more* ](apps/dinox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dinox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dinox) |
 | <img loading="lazy" src="icons/dione.png" width="48" height="48"> | [***dione***](apps/dione.md) | *Explore, Install, Innovate — in 1 Click.*..[ *read more* ](apps/dione.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dione) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dione) |
 | <img loading="lazy" src="icons/disass.png" width="48" height="48"> | [***disass***](apps/disass.md) | *A simple disassembly tool.*..[ *read more* ](apps/disass.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/disass) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/disass) |
 | <img loading="lazy" src="icons/discord.png" width="48" height="48"> | [***discord***](apps/discord.md) | *Unofficial. All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.*..[ *read more* ](apps/discord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/discord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/discord) |
