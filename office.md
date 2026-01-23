@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **98** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **99** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -59,6 +59,7 @@
 | <img loading="lazy" src="icons/flippy-qualitative-testbench.png" width="48" height="48"> | [***flippy-qualitative-testbench***](apps/flippy-qualitative-testbench.md) | *Music sheet reader.*..[ *read more* ](apps/flippy-qualitative-testbench.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flippy-qualitative-testbench) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flippy-qualitative-testbench) |
 | <img loading="lazy" src="icons/fluent-reader.png" width="48" height="48"> | [***fluent-reader***](apps/fluent-reader.md) | *Modern desktop RSS reader.*..[ *read more* ](apps/fluent-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fluent-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fluent-reader) |
 | <img loading="lazy" src="icons/focuswriter.png" width="48" height="48"> | [***focuswriter***](apps/focuswriter.md) | *Simple fullscreen word processor.*..[ *read more* ](apps/focuswriter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/focuswriter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/focuswriter) |
+| <img loading="lazy" src="icons/folo.png" width="48" height="48"> | [***folo***](apps/folo.md) | *Folo is the AI Reader.*..[ *read more* ](apps/folo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/folo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/folo) |
 | <img loading="lazy" src="icons/frappebooks.png" width="48" height="48"> | [***frappebooks***](apps/frappebooks.md) | *Book-keeping software for small-businesses and freelancers.*..[ *read more* ](apps/frappebooks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/frappebooks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/frappebooks) |
 | <img loading="lazy" src="icons/fukayo.png" width="48" height="48"> | [***fukayo***](apps/fukayo.md) | *Manga reader.*..[ *read more* ](apps/fukayo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fukayo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fukayo) |
 | <img loading="lazy" src="icons/gnumeric.png" width="48" height="48"> | [***gnumeric***](apps/gnumeric.md) | *Unofficial. An open-source spreadsheet program.*..[ *read more* ](apps/gnumeric.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnumeric) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnumeric) |

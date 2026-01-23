@@ -105,6 +105,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/advanced-rest-client.png"
   },
   {
+    "packageName": "aegisub",
+    "description": "Cross-platform advanced subtitle editor, with new feature branches. Read the README on the feature branch. Cross-platform advanced subtitle editor Cross-platform advanced subtitle editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/aegisub.png"
+  },
+  {
     "packageName": "afetch",
     "description": "A CLI system information tool written in Rust...",
     "icon": "https://portable-linux-apps.github.io/icons/afetch.png"
@@ -240,6 +245,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/allusion.png"
   },
   {
+    "packageName": "alma",
+    "description": "Elegant AI Provider Orchestration. A beautiful desktop application that unifies your AI experience. Seamlessly switch between OpenAI, Anthropic, Google Gemini, and custom providers...",
+    "icon": "https://portable-linux-apps.github.io/icons/alma.png"
+  },
+  {
     "packageName": "alpine-flatimage",
     "description": "A hybrid of Flatpak sandboxing with AppImage portability...",
     "icon": "https://portable-linux-apps.github.io/icons/alpine-flatimage.png"
@@ -263,6 +273,11 @@
     "packageName": "altitude",
     "description": "The Altitude wallet by Linda Project Inc...",
     "icon": "https://portable-linux-apps.github.io/icons/altitude.png"
+  },
+  {
+    "packageName": "altrady",
+    "description": "Altrady Crypto Trading Terminal...",
+    "icon": "https://portable-linux-apps.github.io/icons/altrady.png"
   },
   {
     "packageName": "altus",
@@ -298,6 +313,11 @@
     "packageName": "amfora",
     "description": "A fancy terminal browser for the Gemini protocol...",
     "icon": "https://portable-linux-apps.github.io/icons/amfora.png"
+  },
+  {
+    "packageName": "amplitude-soundboard",
+    "description": "A sleek, cross-platform soundboard, available...",
+    "icon": "https://portable-linux-apps.github.io/icons/amplitude-soundboard.png"
   },
   {
     "packageName": "amusiz",
@@ -360,6 +380,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/animecoin.png"
   },
   {
+    "packageName": "animeko",
+    "description": "A one-stop platform for finding, following, and watching anime, featuring danmaku (bullet comments) and cloud-based collection synchronization (Bangumi), offline caching, BitTorrent, and cloud-based danmaku filtering...",
+    "icon": "https://portable-linux-apps.github.io/icons/animeko.png"
+  },
+  {
     "packageName": "animos",
     "description": "Anime-streaming desktop application without any ads...",
     "icon": "https://portable-linux-apps.github.io/icons/animos.png"
@@ -413,6 +438,11 @@
     "packageName": "antimicrox",
     "description": "Use a gamepad to control a variety of programs...",
     "icon": "https://portable-linux-apps.github.io/icons/antimicrox.png"
+  },
+  {
+    "packageName": "any-code",
+    "description": "Claude Code CLI, OpenAI Codex, and Google Gemini CLI...",
+    "icon": "https://portable-linux-apps.github.io/icons/any-code.png"
   },
   {
     "packageName": "anydesk",
@@ -850,6 +880,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/baijimangaviewer.png"
   },
   {
+    "packageName": "balatro-multiplayer",
+    "description": "A Multiplayer Mod for Balatro...",
+    "icon": "https://portable-linux-apps.github.io/icons/balatro-multiplayer.png"
+  },
+  {
     "packageName": "bambustudio",
     "description": "PC Software for BambuLab's 3D printers...",
     "icon": "https://portable-linux-apps.github.io/icons/bambustudio.png"
@@ -1040,9 +1075,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/biblemultithelife.png"
   },
   {
+    "packageName": "biblia-sacra",
+    "description": "A multi language bible app, with emphasis on Latin...",
+    "icon": "https://portable-linux-apps.github.io/icons/biblia-sacra.png"
+  },
+  {
     "packageName": "bidirectional",
     "description": "Write Arabic text on apps that don't support the bidirectional text...",
     "icon": "https://portable-linux-apps.github.io/icons/bidirectional.png"
+  },
+  {
+    "packageName": "bili-liveluckdraw",
+    "description": "A Bilibili live stream lottery tool that draws winners based on keywords retrieved from the chat comments. It is built using Electron + React + Vite...",
+    "icon": "https://portable-linux-apps.github.io/icons/bili-liveluckdraw.png"
   },
   {
     "packageName": "bilibili",
@@ -1420,6 +1465,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/bscanfftwebcam.png"
   },
   {
+    "packageName": "bsky",
+    "description": "A desktop app of bsky.app...",
+    "icon": "https://portable-linux-apps.github.io/icons/bsky.png"
+  },
+  {
     "packageName": "btop",
     "description": "A command line utility to monitor system resources, like Htop...",
     "icon": "https://portable-linux-apps.github.io/icons/btop.png"
@@ -1515,6 +1565,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/cacoco.png"
   },
   {
+    "packageName": "cadassistant",
+    "description": "Offline 3D CAD viewer and converter, free for personal and commercial use...",
+    "icon": "https://portable-linux-apps.github.io/icons/cadassistant.png"
+  },
+  {
     "packageName": "cadmus",
     "description": "Pulse Audio real-time noise suppression plugin...",
     "icon": "https://portable-linux-apps.github.io/icons/cadmus.png"
@@ -1598,6 +1653,11 @@
     "packageName": "cartridges",
     "description": "Unofficial. Game launcher, which helps you visualize your game collection and easily launch games...",
     "icon": "https://portable-linux-apps.github.io/icons/cartridges.png"
+  },
+  {
+    "packageName": "cashonize",
+    "description": "A cross-platform Bitcoin Cash Wallet...",
+    "icon": "https://portable-linux-apps.github.io/icons/cashonize.png"
   },
   {
     "packageName": "cask",
@@ -1885,6 +1945,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/clapper.png"
   },
   {
+    "packageName": "clash-nyanpasu",
+    "description": "A Clash GUI based on tauri...",
+    "icon": "https://portable-linux-apps.github.io/icons/clash-nyanpasu.png"
+  },
+  {
     "packageName": "clash-verge",
     "description": "A multiplatform Clash GUI based on tauri...",
     "icon": "https://portable-linux-apps.github.io/icons/clash-verge.png"
@@ -1988,6 +2053,11 @@
     "packageName": "code",
     "description": "Visual Studio, VSCode, Original Editor to build/debug web/cloud apps...",
     "icon": "https://portable-linux-apps.github.io/icons/code.png"
+  },
+  {
+    "packageName": "code-expert-sync",
+    "description": "Allows syncing of Code Expert projects to a local file system...",
+    "icon": "https://portable-linux-apps.github.io/icons/code-expert-sync.png"
   },
   {
     "packageName": "code-notes",
@@ -2405,6 +2475,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/cryptr.png"
   },
   {
+    "packageName": "cs-demo-manager",
+    "description": "Companion application for your Counter-Strike demos...",
+    "icon": "https://portable-linux-apps.github.io/icons/cs-demo-manager.png"
+  },
+  {
     "packageName": "cscrypto",
     "description": "A crypto app...",
     "icon": "https://portable-linux-apps.github.io/icons/cscrypto.png"
@@ -2475,9 +2550,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/cutter.png"
   },
   {
+    "packageName": "cvrx",
+    "description": "A standalone companion app for ChilloutVR that expands the user experience! A standalone companion app for ChilloutVR that expands the user experience! A standalone companion app for ChilloutVR that expands the user experience!...",
+    "icon": "https://portable-linux-apps.github.io/icons/cvrx.png"
+  },
+  {
     "packageName": "czkawka",
     "description": "App to find duplicates, empty folders, similar images etc...",
     "icon": "https://portable-linux-apps.github.io/icons/czkawka.png"
+  },
+  {
+    "packageName": "daisy",
+    "description": "A beautiful, easy-to-use, ad-free manga and light novel client that supports both. (Anime Home)...",
+    "icon": "https://portable-linux-apps.github.io/icons/daisy.png"
   },
   {
     "packageName": "dana",
@@ -2765,6 +2850,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dinosaurplanetrecompiled.png"
   },
   {
+    "packageName": "dione",
+    "description": "Explore, Install, Innovate — in 1 Click...",
+    "icon": "https://portable-linux-apps.github.io/icons/dione.png"
+  },
+  {
     "packageName": "disass",
     "description": "A simple disassembly tool...",
     "icon": "https://portable-linux-apps.github.io/icons/disass.png"
@@ -2773,6 +2863,11 @@
     "packageName": "discord",
     "description": "Unofficial. All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone...",
     "icon": "https://portable-linux-apps.github.io/icons/discord.png"
+  },
+  {
+    "packageName": "discord-bot-client",
+    "description": "A patched version of discord, with bot login & Vencord support...",
+    "icon": "https://portable-linux-apps.github.io/icons/discord-bot-client.png"
   },
   {
     "packageName": "discord-qt",
@@ -2818,6 +2913,11 @@
     "packageName": "dolphin-emu-nightly",
     "description": "Unofficial nightly AppImage of the Dolphin emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/dolphin-emu-nightly.png"
+  },
+  {
+    "packageName": "dolt-workbench",
+    "description": "A modern, browser-based, open source SQL workbench for your MySQL and PostgreSQL compatible database with version control features when connected to Dolt...",
+    "icon": "https://portable-linux-apps.github.io/icons/dolt-workbench.png"
   },
   {
     "packageName": "domterm",
@@ -3015,6 +3115,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dwarf-fortress.png"
   },
   {
+    "packageName": "dwarffortress",
+    "description": "A Dwarf Fortress game. Build a fortress and try to help your dwarves survive against a deeply generated world...",
+    "icon": "https://portable-linux-apps.github.io/icons/dwarffortress.png"
+  },
+  {
     "packageName": "dwyco-phoo",
     "description": "Dwyco Phoo Chat and Video Calling...",
     "icon": "https://portable-linux-apps.github.io/icons/dwyco-phoo.png"
@@ -3065,6 +3170,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/edex-ui.png"
   },
   {
+    "packageName": "eez-studio",
+    "description": "Cross-platform low-code GUI and automation...",
+    "icon": "https://portable-linux-apps.github.io/icons/eez-studio.png"
+  },
+  {
     "packageName": "effer",
     "description": "Encrypted CLI Notepad written in Rust..",
     "icon": "https://portable-linux-apps.github.io/icons/effer.png"
@@ -3078,6 +3188,11 @@
     "packageName": "ehdev-shell",
     "description": "An electron based developing tool for feds...",
     "icon": "https://portable-linux-apps.github.io/icons/ehdev-shell.png"
+  },
+  {
+    "packageName": "eiskaltdcpp",
+    "description": "Client for EiskaltDC++ core...",
+    "icon": "https://portable-linux-apps.github.io/icons/eiskaltdcpp.png"
   },
   {
     "packageName": "eka2l1",
@@ -3500,6 +3615,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/eyestalker.png"
   },
   {
+    "packageName": "ez-tree",
+    "description": "EZ Tree – Procedural tree generator...",
+    "icon": "https://portable-linux-apps.github.io/icons/ez-tree.png"
+  },
+  {
     "packageName": "eza",
     "description": "A modern, maintained replacement for ls...",
     "icon": "https://portable-linux-apps.github.io/icons/eza.png"
@@ -3583,6 +3703,11 @@
     "packageName": "fbreader",
     "description": "Your Favourite eBook Reader..",
     "icon": "https://portable-linux-apps.github.io/icons/fbreader.png"
+  },
+  {
+    "packageName": "fchat-horizon",
+    "description": "The Best F-Chat 3.0 Client, No exceptions!...",
+    "icon": "https://portable-linux-apps.github.io/icons/fchat-horizon.png"
   },
   {
     "packageName": "fcp",
@@ -3800,6 +3925,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/firealpaca.png"
   },
   {
+    "packageName": "firecamp",
+    "description": "Developer-first OpenSource API DevTool, Postman/Insomnia alternative...",
+    "icon": "https://portable-linux-apps.github.io/icons/firecamp.png"
+  },
+  {
     "packageName": "firedragon",
     "description": "A web browser based on Floorp (the Vivaldi of Firefox's) with many opiniated settings by default...",
     "icon": "https://portable-linux-apps.github.io/icons/firedragon.png"
@@ -3940,6 +4070,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/flb.png"
   },
   {
+    "packageName": "flclash",
+    "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free...",
+    "icon": "https://portable-linux-apps.github.io/icons/flclash.png"
+  },
+  {
     "packageName": "flightcore",
     "description": "A Northstar installer, updater, and mod-manager...",
     "icon": "https://portable-linux-apps.github.io/icons/flightcore.png"
@@ -4033,6 +4168,11 @@
     "packageName": "focuswriter",
     "description": "Simple fullscreen word processor...",
     "icon": "https://portable-linux-apps.github.io/icons/focuswriter.png"
+  },
+  {
+    "packageName": "folo",
+    "description": "Folo is the AI Reader...",
+    "icon": "https://portable-linux-apps.github.io/icons/folo.png"
   },
   {
     "packageName": "fontbase",
@@ -4248,6 +4388,11 @@
     "packageName": "fzf",
     "description": "A command-line fuzzy finder...",
     "icon": "https://portable-linux-apps.github.io/icons/fzf.png"
+  },
+  {
+    "packageName": "g-v2ray",
+    "description": "Advanced V2Ray/Xray GUI Client for Linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/g-v2ray.png"
   },
   {
     "packageName": "gaiasky",
@@ -4645,6 +4790,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gmail-desktop.png"
   },
   {
+    "packageName": "gnatstudio",
+    "description": "GNAT Studio is a powerful and lightweight IDE for Ada and SPARK...",
+    "icon": "https://portable-linux-apps.github.io/icons/gnatstudio.png"
+  },
+  {
     "packageName": "gncdu",
     "description": "Implements NCurses Disk Usage(ncdu) with golang...",
     "icon": "https://portable-linux-apps.github.io/icons/gncdu.png"
@@ -4870,6 +5020,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gpt-anywhere.png"
   },
   {
+    "packageName": "gptfusion",
+    "description": "GPT Aggregator is a cross-platform chat tool that aggregates multiple GPT chatbots. It supports multiple free GPT images, allows for custom image import, and supports multiple platforms such as PoE and Wenxin Yiyan...",
+    "icon": "https://portable-linux-apps.github.io/icons/gptfusion.png"
+  },
+  {
     "packageName": "gpu-screen-recorder",
     "description": "Unofficial, AppImage of GPU Screen Recorder..",
     "icon": "https://portable-linux-apps.github.io/icons/gpu-screen-recorder.png"
@@ -4893,6 +5048,11 @@
     "packageName": "granatier",
     "description": "Bomberman clone. This script installs the full \"kdegames\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/granatier.png"
+  },
+  {
+    "packageName": "graphest",
+    "description": " A faithful graphing calculator...",
+    "icon": "https://portable-linux-apps.github.io/icons/graphest.png"
   },
   {
     "packageName": "graphql-playground",
@@ -4923,6 +5083,11 @@
     "packageName": "gridea",
     "description": "A static blog writing client, 一个静态博客写作客户端...",
     "icon": "https://portable-linux-apps.github.io/icons/gridea.png"
+  },
+  {
+    "packageName": "gridix",
+    "description": "A simple, fast, and secure cross-platform database management tool with Helix or Vim-style keybindings...",
+    "icon": "https://portable-linux-apps.github.io/icons/gridix.png"
   },
   {
     "packageName": "gridplayer",
@@ -4968,6 +5133,11 @@
     "packageName": "gsubs",
     "description": "Finds you the perfect subtitle match...",
     "icon": "https://portable-linux-apps.github.io/icons/gsubs.png"
+  },
+  {
+    "packageName": "guarda",
+    "description": "A secure, easy-to-use open source multi-platform cryptocurrency wallet...",
+    "icon": "https://portable-linux-apps.github.io/icons/guarda.png"
   },
   {
     "packageName": "guglielmo",
@@ -5155,6 +5325,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/hidpi-fixer.png"
   },
   {
+    "packageName": "highlite",
+    "description": "A RuneLite-esque Client for the game High Spell...",
+    "icon": "https://portable-linux-apps.github.io/icons/highlite.png"
+  },
+  {
     "packageName": "hilbish",
     "description": "The Moon-powered shell! A comfy and extensible shell for Lua fans!..",
     "icon": "https://portable-linux-apps.github.io/icons/hilbish.png"
@@ -5335,6 +5510,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/iheartradio-webapp.png"
   },
   {
+    "packageName": "iloader",
+    "description": "User friendly sideloader...",
+    "icon": "https://portable-linux-apps.github.io/icons/iloader.png"
+  },
+  {
     "packageName": "imagemagick-clang",
     "description": "CLI to create, edit, compose, or convert digital images...",
     "icon": "https://portable-linux-apps.github.io/icons/imagemagick-clang.png"
@@ -5358,6 +5538,11 @@
     "packageName": "imapsyncclient",
     "description": "An electron-vue project...",
     "icon": "https://portable-linux-apps.github.io/icons/imapsyncclient.png"
+  },
+  {
+    "packageName": "imfile",
+    "description": "A full-featured download manager...",
+    "icon": "https://portable-linux-apps.github.io/icons/imfile.png"
   },
   {
     "packageName": "imgbrd-grabber",
@@ -5518,6 +5703,11 @@
     "packageName": "irscrutinizer",
     "description": "Capture/generate/analyze/import/export infrared signals...",
     "icon": "https://portable-linux-apps.github.io/icons/irscrutinizer.png"
+  },
+  {
+    "packageName": "isd",
+    "description": "Isd (interactive systemd) – a better way to work with systemd units...",
+    "icon": "https://portable-linux-apps.github.io/icons/isd.png"
   },
   {
     "packageName": "isle-editor",
@@ -6555,6 +6745,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/librepcb.png"
   },
   {
+    "packageName": "librescore",
+    "description": "The open source (GPLv3), serverless (IPFS-based), offline-first, and totally free alternative to musescore.com..",
+    "icon": "https://portable-linux-apps.github.io/icons/librescore.png"
+  },
+  {
     "packageName": "libresprite",
     "description": "Animated sprite editor & pixel art tool. Fork of the last GPLv2 commit of Aseprite...",
     "icon": "https://portable-linux-apps.github.io/icons/libresprite.png"
@@ -7585,9 +7780,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/musescore.png"
   },
   {
-    "packageName": "music-assistant-companion",
+    "packageName": "music-assistant",
     "description": "The desktop companion app for Music Assistant...",
-    "icon": "https://portable-linux-apps.github.io/icons/music-assistant-companion.png"
+    "icon": "https://portable-linux-apps.github.io/icons/music-assistant.png"
   },
   {
     "packageName": "music-blocks",
