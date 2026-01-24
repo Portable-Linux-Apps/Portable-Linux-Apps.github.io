@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2367** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2368** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1399,6 +1399,7 @@
 | <img loading="lazy" src="icons/oblivion-desktop.png" width="48" height="48"> | [***oblivion-desktop***](apps/oblivion-desktop.md) | *Unofficial Warp Client, Oblivion provides a secure, optimised internet access.*..[ *read more* ](apps/oblivion-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/oblivion-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/oblivion-desktop) |
 | <img loading="lazy" src="icons/obs-studio.png" width="48" height="48"> | [***obs-studio***](apps/obs-studio.md) | *Unofficial. Software for video recording and live streaming.*..[ *read more* ](apps/obs-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/obs-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/obs-studio) |
 | <img loading="lazy" src="icons/obsidian.png" width="48" height="48"> | [***obsidian***](apps/obsidian.md) | *A powerful knowledge base, plain text Markdown files.*..[ *read more* ](apps/obsidian.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/obsidian) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/obsidian) |
+| <img loading="lazy" src="icons/obsidianirc.png" width="48" height="48"> | [***obsidianirc***](apps/obsidianirc.md) | *Modern IRC Client for the web, desktop and mobile.*..[ *read more* ](apps/obsidianirc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/obsidianirc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/obsidianirc) |
 | <img loading="lazy" src="icons/ocat.png" width="48" height="48"> | [***ocat***](apps/ocat.md) | *OpenCore Auxiliary Tools, editing config.plist files for Acidanthera.*..[ *read more* ](apps/ocat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ocat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ocat) |
 | <img loading="lazy" src="icons/ocenaudio.png" width="48" height="48"> | [***ocenaudio***](apps/ocenaudio.md) | *Unofficial. Multiplatform Audio Editor.*..[ *read more* ](apps/ocenaudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ocenaudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ocenaudio) |
 | <img loading="lazy" src="icons/ocvvid2fulldome.png" width="48" height="48"> | [***ocvvid2fulldome***](apps/ocvvid2fulldome.md) | *Take flat videos, distort them to fit fulldome.*..[ *read more* ](apps/ocvvid2fulldome.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ocvvid2fulldome) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ocvvid2fulldome) |

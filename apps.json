@@ -8460,6 +8460,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/obsidian-cli.png"
   },
   {
+    "packageName": "obsidianirc",
+    "description": "Modern IRC Client for the web, desktop and mobile...",
+    "icon": "https://portable-linux-apps.github.io/icons/obsidianirc.png"
+  },
+  {
     "packageName": "ocat",
     "description": "OpenCore Auxiliary Tools, editing config.plist files for Acidanthera...",
     "icon": "https://portable-linux-apps.github.io/icons/ocat.png"
