@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2368** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2367** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1589,7 +1589,6 @@
 | <img loading="lazy" src="icons/pokeclicker.png" width="48" height="48"> | [***pokeclicker***](apps/pokeclicker.md) | *PokéClicker with quality of life changes.*..[ *read more* ](apps/pokeclicker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pokeclicker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pokeclicker) |
 | <img loading="lazy" src="icons/pokete.png" width="48" height="48"> | [***pokete***](apps/pokete.md) | *A terminal based Pokemon like game.*..[ *read more* ](apps/pokete.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pokete) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pokete) |
 | <img loading="lazy" src="icons/polar.png" width="48" height="48"> | [***polar***](apps/polar.md) | *One-click Bitcoin Lightning networks for local app development.*..[ *read more* ](apps/polar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/polar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/polar) |
-| <img loading="lazy" src="icons/polar-bookshelf.png" width="48" height="48"> | [***polar-bookshelf***](apps/polar-bookshelf.md) | *Personal knowledge repository for PDF and web content.*..[ *read more* ](apps/polar-bookshelf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/polar-bookshelf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/polar-bookshelf) |
 | <img loading="lazy" src="icons/polkakey.png" width="48" height="48"> | [***polkakey***](apps/polkakey.md) | *A secure way to generate Polkadot/Kusama/Edgeware address.*..[ *read more* ](apps/polkakey.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/polkakey) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/polkakey) |
 | <img loading="lazy" src="icons/polybar.png" width="48" height="48"> | [***polybar***](apps/polybar.md) | *Unofficial AppImage of polybar. A fast easy-to-use status bar.*..[ *read more* ](apps/polybar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/polybar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/polybar) |
 | <img loading="lazy" src="icons/polypane.png" width="48" height="48"> | [***polypane***](apps/polypane.md) | *Browser for web developers.*..[ *read more* ](apps/polypane.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/polypane) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/polypane) |
