@@ -8685,6 +8685,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/openlens.png"
   },
   {
+    "packageName": "openlibextended",
+    "description": "An Open source app to download and read books from shadow library (Anna’s Archive)...",
+    "icon": "https://portable-linux-apps.github.io/icons/openlibextended.png"
+  },
+  {
     "packageName": "openmw",
     "description": "OpenMW is an open-source open-world RPG game engine that supports playing Morrowind...",
     "icon": "https://portable-linux-apps.github.io/icons/openmw.png"

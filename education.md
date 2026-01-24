@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **72** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **73** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -79,6 +79,7 @@
 | <img loading="lazy" src="icons/ocvwarp.png" width="48" height="48"> | [***ocvwarp***](apps/ocvwarp.md) | *Warping images and videos for planetarium fulldome display.*..[ *read more* ](apps/ocvwarp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ocvwarp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ocvwarp) |
 | <img loading="lazy" src="icons/onlyrefs.png" width="48" height="48"> | [***onlyrefs***](apps/onlyrefs.md) | *Organize all of your references, notes, bookmarks and more.*..[ *read more* ](apps/onlyrefs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/onlyrefs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/onlyrefs) |
 | <img loading="lazy" src="icons/open-ai-translator.png" width="48" height="48"> | [***open-ai-translator***](apps/open-ai-translator.md) | *Browser extension for translation based on ChatGPT API.*..[ *read more* ](apps/open-ai-translator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/open-ai-translator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/open-ai-translator) |
+| <img loading="lazy" src="icons/openlibextended.png" width="48" height="48"> | [***openlibextended***](apps/openlibextended.md) | *An Open source app to download and read books from shadow library (Anna’s Archive).*..[ *read more* ](apps/openlibextended.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openlibextended) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openlibextended) |
 | <img loading="lazy" src="icons/plexamp.png" width="48" height="48"> | [***plexamp***](apps/plexamp.md) | *The best little audio player on the planet.*..[ *read more* ](apps/plexamp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/plexamp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/plexamp) |
 | <img loading="lazy" src="icons/plover.png" width="48" height="48"> | [***plover***](apps/plover.md) | *Stenographic input and translation.*..[ *read more* ](apps/plover.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/plover) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/plover) |
 | <img loading="lazy" src="icons/poedit.png" width="48" height="48"> | [***poedit***](apps/poedit.md) | *Unofficial. Powerful and intuitive translation editor.*..[ *read more* ](apps/poedit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/poedit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/poedit) |

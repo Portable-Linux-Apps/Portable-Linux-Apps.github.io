@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2368** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2369** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1437,6 +1437,7 @@
 | <img loading="lazy" src="icons/opencomic.png" width="48" height="48"> | [***opencomic***](apps/opencomic.md) | *Comic and Manga reader, written with Node.js and using Electron.*..[ *read more* ](apps/opencomic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opencomic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opencomic) |
 | <img loading="lazy" src="icons/openhv.png" width="48" height="48"> | [***openhv***](apps/openhv.md) | *A mod for OpenRA based on the Hard Vacuum, game.*..[ *read more* ](apps/openhv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openhv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openhv) |
 | <img loading="lazy" src="icons/openlens.png" width="48" height="48"> | [***openlens***](apps/openlens.md) | *OpenLens Binary Build Repository.*..[ *read more* ](apps/openlens.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openlens) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openlens) |
+| <img loading="lazy" src="icons/openlibextended.png" width="48" height="48"> | [***openlibextended***](apps/openlibextended.md) | *An Open source app to download and read books from shadow library (Anna’s Archive).*..[ *read more* ](apps/openlibextended.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openlibextended) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openlibextended) |
 | <img loading="lazy" src="icons/openop2.png" width="48" height="48"> | [***openop2***](apps/openop2.md) | *Re-implementation of the game Outpost 2, using the OpenRA engine.*..[ *read more* ](apps/openop2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openop2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openop2) |
 | <img loading="lazy" src="icons/openosrs-launcher.png" width="48" height="48"> | [***openosrs-launcher***](apps/openosrs-launcher.md) | *Open-source client for Old School RuneScape.*..[ *read more* ](apps/openosrs-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openosrs-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openosrs-launcher) |
 | <img loading="lazy" src="icons/openpilot-workbench.png" width="48" height="48"> | [***openpilot-workbench***](apps/openpilot-workbench.md) | *Fix problems with EON/Openpilot.*..[ *read more* ](apps/openpilot-workbench.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openpilot-workbench) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openpilot-workbench) |
