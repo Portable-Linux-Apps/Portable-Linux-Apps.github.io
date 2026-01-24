@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **103** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **102** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -105,7 +105,6 @@
 | <img loading="lazy" src="icons/pdfcrackgui.png" width="48" height="48"> | [***pdfcrackgui***](apps/pdfcrackgui.md) | *GUI overlay for the popular and highly regarded pdfcrack.*..[ *read more* ](apps/pdfcrackgui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pdfcrackgui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pdfcrackgui) |
 | <img loading="lazy" src="icons/pdfquirk.png" width="48" height="48"> | [***pdfquirk***](apps/pdfquirk.md) | *Creating PDFs from images or scanner made easy.*..[ *read more* ](apps/pdfquirk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pdfquirk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pdfquirk) |
 | <img loading="lazy" src="icons/plagpatrol.png" width="48" height="48"> | [***plagpatrol***](apps/plagpatrol.md) | *Detecting documents tampered to bypass plagiarism detectors.*..[ *read more* ](apps/plagpatrol.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/plagpatrol) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/plagpatrol) |
-| <img loading="lazy" src="icons/polar-bookshelf.png" width="48" height="48"> | [***polar-bookshelf***](apps/polar-bookshelf.md) | *Personal knowledge repository for PDF and web content.*..[ *read more* ](apps/polar-bookshelf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/polar-bookshelf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/polar-bookshelf) |
 | <img loading="lazy" src="icons/potatopresenter.png" width="48" height="48"> | [***potatopresenter***](apps/potatopresenter.md) | *Create presentation slides and exported as PDF.*..[ *read more* ](apps/potatopresenter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/potatopresenter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/potatopresenter) |
 | <img loading="lazy" src="icons/qpdf.png" width="48" height="48"> | [***qpdf***](apps/qpdf.md) | *CLI tool to perform content-preserving transformations on PDF files.*..[ *read more* ](apps/qpdf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qpdf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qpdf) |
 | <img loading="lazy" src="icons/quark.png" width="48" height="48"> | [***quark***](apps/quark.md) | *Sketchbook for rapid prototyping and development of your projects.*..[ *read more* ](apps/quark.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/quark) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/quark) |

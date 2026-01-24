@@ -9610,11 +9610,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/polar.png"
   },
   {
-    "packageName": "polar-bookshelf",
-    "description": "Personal knowledge repository for PDF and web content...",
-    "icon": "https://portable-linux-apps.github.io/icons/polar-bookshelf.png"
-  },
-  {
     "packageName": "polkakey",
     "description": "A secure way to generate Polkadot/Kusama/Edgeware address...",
     "icon": "https://portable-linux-apps.github.io/icons/polkakey.png"
