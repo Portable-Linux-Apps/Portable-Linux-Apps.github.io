@@ -7730,11 +7730,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/moondeck-buddy.png"
   },
   {
-    "packageName": "moonfm",
-    "description": "A modern, fully featured audio podcast player...",
-    "icon": "https://portable-linux-apps.github.io/icons/moonfm.png"
-  },
-  {
     "packageName": "moonlight",
     "description": "Stream games from your NVIDIA GameStream-enabled PC...",
     "icon": "https://portable-linux-apps.github.io/icons/moonlight.png"
