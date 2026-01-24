@@ -3190,6 +3190,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ecode.png"
   },
   {
+    "packageName": "edconv",
+    "description": "A user-friendly FFmpeg GUI...",
+    "icon": "https://portable-linux-apps.github.io/icons/edconv.png"
+  },
+  {
     "packageName": "eden",
     "description": "An experimental open-source emulator for Nintendo Switch (yuzu fork)...",
     "icon": "https://portable-linux-apps.github.io/icons/eden.png"
@@ -4268,6 +4273,11 @@
     "packageName": "fraktal",
     "description": "Podcast Manager in Electron...",
     "icon": "https://portable-linux-apps.github.io/icons/fraktal.png"
+  },
+  {
+    "packageName": "frame",
+    "description": "Fast FFmpeg GUI...",
+    "icon": "https://portable-linux-apps.github.io/icons/frame.png"
   },
   {
     "packageName": "frame-eth-dev",
