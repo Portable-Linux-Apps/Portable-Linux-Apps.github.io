@@ -8,7 +8,7 @@
 
 --------
 
-#### *This site lists **2556** unique apps (**2153** Appimage packages and **403** standalone/portable programs), plus **79** items.*
+#### *This site lists **2780** unique apps (**2369** Appimage packages and **411** standalone/portable programs), plus **78** items.*
 
 *From here you can download them, install them, update them (for real), get more information about the sources and their developers... and if you want, you can contribute yourself by adding the missing information, because this site is **open source**!*
 
@@ -328,8 +328,9 @@ am -i --user topgrade
 # Related projects
 #### Side Projects
 - *[amcheck](https://github.com/ivan-hc/amcheck), checks the validity of scripts in this database and monitors the availability of AppImages*
-- *[am-extras](https://github.com/ivan-hc/am-extras), lists applications from third-party databases (not present in this catalog, but still installable via "AM")*
-- *[repology-versions](https://github.com/ivan-hc/repology-versions), lists "unfindable" versions if upstream doesn't provide easy-to-intercept references*
+- *[am-extras](https://github.com/ivan-hc/am-extras), lists applications from third-party databases*
+- *[am-gui](https://github.com/Shikakiben/AM-GUI), a graphical Front for AM, by @Shikakiben*
+- *[vappman](https://github.com/joedefen/vappman), a visual (curses) TUI interface to AppMan, by @joedefen*
 
 #### My other projects
 - *[AppImaGen](https://github.com/ivan-hc/AppImaGen), easily create AppImages from Ubuntu PPAs or Debian using pkg2appimage and appimagetool*
