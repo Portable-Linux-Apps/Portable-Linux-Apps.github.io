@@ -5975,11 +5975,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/jrom-manager.png"
   },
   {
-    "packageName": "js-design",
-    "description": "A professional UI design software tailored for Chinese designers...",
-    "icon": "https://portable-linux-apps.github.io/icons/js-design.png"
-  },
-  {
     "packageName": "jscad-desktop",
     "description": "Jscad desktop application...",
     "icon": "https://portable-linux-apps.github.io/icons/jscad-desktop.png"

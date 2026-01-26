@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2781** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2780** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1223,7 +1223,6 @@
 | <img loading="lazy" src="icons/jqp.png" width="48" height="48"> | [***jqp***](apps/jqp.md) | *A TUI playground to experiment with jq.*..[ *read more* ](apps/jqp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jqp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jqp) |
 | <img loading="lazy" src="icons/jreleaser.png" width="48" height="48"> | [***jreleaser***](apps/jreleaser.md) | *The quick way to release your project.*..[ *read more* ](apps/jreleaser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jreleaser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jreleaser) |
 | <img loading="lazy" src="icons/jrom-manager.png" width="48" height="48"> | [***jrom-manager***](apps/jrom-manager.md) | *A Rom Manager entirely written in Java and released under GPL-2.*..[ *read more* ](apps/jrom-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jrom-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jrom-manager) |
-| <img loading="lazy" src="icons/js-design.png" width="48" height="48"> | [***js-design***](apps/js-design.md) | *A professional UI design software tailored for Chinese designers.*..[ *read more* ](apps/js-design.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/js-design) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/js-design) |
 | <img loading="lazy" src="icons/jscad-desktop.png" width="48" height="48"> | [***jscad-desktop***](apps/jscad-desktop.md) | *Jscad desktop application.*..[ *read more* ](apps/jscad-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jscad-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jscad-desktop) |
 | <img loading="lazy" src="icons/juggernaut.png" width="48" height="48"> | [***juggernaut***](apps/juggernaut.md) | *Decentralized messaging and payments.*..[ *read more* ](apps/juggernaut.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/juggernaut) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/juggernaut) |
 | <img loading="lazy" src="icons/julius.png" width="48" height="48"> | [***julius***](apps/julius.md) | *An open source re-implementation of the Caesar III game.*..[ *read more* ](apps/julius.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/julius) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/julius) |
