@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **188** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **189** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -154,6 +154,7 @@
 | <img loading="lazy" src="icons/playme.png" width="48" height="48"> | [***playme***](apps/playme.md) | *Elegant YouTube Music desktop app.*..[ *read more* ](apps/playme.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playme) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playme) |
 | <img loading="lazy" src="icons/pop.png" width="48" height="48"> | [***pop***](apps/pop.md) | *Send emails from your terminal.*..[ *read more* ](apps/pop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pop) |
 | <img loading="lazy" src="icons/promethium.png" width="48" height="48"> | [***promethium***](apps/promethium.md) | *Extensible and innovative web browser with built-in AdBlock.*..[ *read more* ](apps/promethium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/promethium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/promethium) |
+| <img loading="lazy" src="icons/proxypal.png" width="48" height="48"> | [***proxypal***](apps/proxypal.md) | *A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.*..[ *read more* ](apps/proxypal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/proxypal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/proxypal) |
 | <img loading="lazy" src="icons/qbittorrent.png" width="48" height="48"> | [***qbittorrent***](apps/qbittorrent.md) | *A powerful QT-based Bittorrent Client, official AppImage.*..[ *read more* ](apps/qbittorrent.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qbittorrent) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qbittorrent) |
 | <img loading="lazy" src="icons/qbittorrent-enhanced.png" width="48" height="48"> | [***qbittorrent-enhanced***](apps/qbittorrent-enhanced.md) | *Unofficial qBittorrent Enhanced, based on qBittorrent.*..[ *read more* ](apps/qbittorrent-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qbittorrent-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qbittorrent-enhanced) |
 | <img loading="lazy" src="icons/quiet.png" width="48" height="48"> | [***quiet***](apps/quiet.md) | *A private, p2p alternative to Slack and Discord built on Tor & IPFS*..[ *read more* ](apps/quiet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/quiet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/quiet) |

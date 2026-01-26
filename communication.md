@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **107** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **108** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -91,6 +91,7 @@
 | <img loading="lazy" src="icons/overlayed.png" width="48" height="48"> | [***overlayed***](apps/overlayed.md) | *A modern, open-source, and free voice chat overlay for Discord.*..[ *read more* ](apps/overlayed.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/overlayed) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/overlayed) |
 | <img loading="lazy" src="icons/p2p-chat.png" width="48" height="48"> | [***p2p-chat***](apps/p2p-chat.md) | *P2P LAN chatting and file sharing tool.*..[ *read more* ](apps/p2p-chat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/p2p-chat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/p2p-chat) |
 | <img loading="lazy" src="icons/pop.png" width="48" height="48"> | [***pop***](apps/pop.md) | *Send emails from your terminal.*..[ *read more* ](apps/pop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pop) |
+| <img loading="lazy" src="icons/proxypal.png" width="48" height="48"> | [***proxypal***](apps/proxypal.md) | *A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.*..[ *read more* ](apps/proxypal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/proxypal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/proxypal) |
 | <img loading="lazy" src="icons/qortal-ui.png" width="48" height="48"> | [***qortal-ui***](apps/qortal-ui.md) | *Decentralize the world, data storage, communications.*..[ *read more* ](apps/qortal-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qortal-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qortal-ui) |
 | <img loading="lazy" src="icons/qtox.png" width="48" height="48"> | [***qtox***](apps/qtox.md) | *Qt 5 based Tox instant messenger for secure communication.*..[ *read more* ](apps/qtox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qtox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qtox) |
 | <img loading="lazy" src="icons/quiet.png" width="48" height="48"> | [***quiet***](apps/quiet.md) | *A private, p2p alternative to Slack and Discord built on Tor & IPFS*..[ *read more* ](apps/quiet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/quiet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/quiet) |
