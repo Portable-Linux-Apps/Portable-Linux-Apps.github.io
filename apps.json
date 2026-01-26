@@ -4735,9 +4735,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/githoard.png"
   },
   {
-    "packageName": "github-desktop",
-    "description": "Electron-based GitHub app...",
-    "icon": "https://portable-linux-apps.github.io/icons/github-desktop.png"
+    "packageName": "github-desktop-plus",
+    "description": "Electron-based GitHub Desktop fork with advanced functionality and Bitbucket, GitLab integration...",
+    "icon": "https://portable-linux-apps.github.io/icons/github-desktop-plus.png"
   },
   {
     "packageName": "gitify",
