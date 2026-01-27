@@ -1611,8 +1611,13 @@
   },
   {
     "packageName": "calibre",
-    "description": "Unofficial. The one stop solution to all your e-book needs..",
+    "description": "Unofficial. The one stop solution to all your e-book needs...",
     "icon": "https://portable-linux-apps.github.io/icons/calibre.png"
+  },
+  {
+    "packageName": "calibre-beta",
+    "description": "Unofficial. The one stop solution to all your e-book needs. Beta version...",
+    "icon": "https://portable-linux-apps.github.io/icons/calibre-beta.png"
   },
   {
     "packageName": "calligra",
