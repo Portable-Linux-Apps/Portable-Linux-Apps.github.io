@@ -580,6 +580,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/appium-inspector.png"
   },
   {
+    "packageName": "appmanager",
+    "description": "MacOS style AppImage installer and management application...",
+    "icon": "https://portable-linux-apps.github.io/icons/appmanager.png"
+  },
+  {
     "packageName": "aptakube",
     "description": "A modern and lightweight Kubernetes desktop client...",
     "icon": "https://portable-linux-apps.github.io/icons/aptakube.png"
@@ -9848,6 +9853,11 @@
     "packageName": "protonup-qt",
     "description": "Manage Proton-GE/Luxtorpeda for Steam/Wine-GE for Lutris...",
     "icon": "https://portable-linux-apps.github.io/icons/protonup-qt.png"
+  },
+  {
+    "packageName": "proxy-master",
+    "description": "Set and reset your proxy settings EVERYWHERE...",
+    "icon": "https://portable-linux-apps.github.io/icons/proxy-master.png"
   },
   {
     "packageName": "proxyman",
