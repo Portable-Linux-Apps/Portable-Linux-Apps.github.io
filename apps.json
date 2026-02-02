@@ -2005,6 +2005,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/classicimageviewer.png"
   },
   {
+    "packageName": "classicube",
+    "description": "Unofficial, Custom Minecraft Classic / ClassiCube client written in C from scratch..",
+    "icon": "https://portable-linux-apps.github.io/icons/classicube.png"
+  },
+  {
     "packageName": "classipod",
     "description": "A local music player app designed to capture the nostalgic essence of the iconic iPod Classic...",
     "icon": "https://portable-linux-apps.github.io/icons/classipod.png"
@@ -2755,6 +2760,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/defichain-app.png"
   },
   {
+    "packageName": "defold",
+    "description": "Unofficial, Defold is a completely free to use game engine for development of games...",
+    "icon": "https://portable-linux-apps.github.io/icons/defold.png"
+  },
+  {
     "packageName": "delta",
     "description": "A syntax-highlighting pager for git, diff, grep, and blame output...",
     "icon": "https://portable-linux-apps.github.io/icons/delta.png"
@@ -3078,6 +3088,11 @@
     "packageName": "drovp",
     "description": "Desktop app for encoding, converting, upscaling, and much more...",
     "icon": "https://portable-linux-apps.github.io/icons/drovp.png"
+  },
+  {
+    "packageName": "drum-machine",
+    "description": "Unofficial, Application for managing and playing with drum patterns...",
+    "icon": "https://portable-linux-apps.github.io/icons/drum-machine.png"
   },
   {
     "packageName": "dsda-doom",
@@ -3840,6 +3855,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/fflogs-uploader.png"
   },
   {
+    "packageName": "ffmpeg",
+    "description": "Unofficial, A complete, cross-platform solution to record, convert and stream audio and video...",
+    "icon": "https://portable-linux-apps.github.io/icons/ffmpeg.png"
+  },
+  {
     "packageName": "ffsend",
     "description": "Easily and securely share files from the command line. A fully featured Firefox Send client...",
     "icon": "https://portable-linux-apps.github.io/icons/ffsend.png"
@@ -4360,6 +4380,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/freetube.png"
   },
   {
+    "packageName": "freetube-enhanced",
+    "description": "Unofficial, An Open Source YouTube app for privacy...",
+    "icon": "https://portable-linux-apps.github.io/icons/freetube-enhanced.png"
+  },
+  {
     "packageName": "freeze",
     "description": "Generate images of code and terminal output...",
     "icon": "https://portable-linux-apps.github.io/icons/freeze.png"
@@ -4658,6 +4683,11 @@
     "packageName": "ghdl",
     "description": "A much more convenient way to download GitHub release binaries on the command line...",
     "icon": "https://portable-linux-apps.github.io/icons/ghdl.png"
+  },
+  {
+    "packageName": "ghostship",
+    "description": "Unofficial, Another definitive port of Super Mario 64...",
+    "icon": "https://portable-linux-apps.github.io/icons/ghostship.png"
   },
   {
     "packageName": "ghostty",
@@ -4960,6 +4990,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/goldendict.png"
   },
   {
+    "packageName": "goldendict-ng",
+    "description": "Unofficial, an advanced dictionary lookup program, supporting many formats...",
+    "icon": "https://portable-linux-apps.github.io/icons/goldendict-ng.png"
+  },
+  {
     "packageName": "gooboxfileshare",
     "description": "Goobox File Share App...",
     "icon": "https://portable-linux-apps.github.io/icons/gooboxfileshare.png"
@@ -5098,6 +5133,11 @@
     "packageName": "grabscr",
     "description": "Yet another screenshot maker...",
     "icon": "https://portable-linux-apps.github.io/icons/grabscr.png"
+  },
+  {
+    "packageName": "gradia",
+    "description": "Unofficial, screenshot/picture editor and uploader...",
+    "icon": "https://portable-linux-apps.github.io/icons/gradia.png"
   },
   {
     "packageName": "granatier",
@@ -5775,6 +5815,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/isle-editor.png"
   },
   {
+    "packageName": "isle-portable",
+    "description": "Unofficial, a portable version of LEGO Island (1997)...",
+    "icon": "https://portable-linux-apps.github.io/icons/isle-portable.png"
+  },
+  {
     "packageName": "isoimagewriter",
     "description": "Write an ISO Image to a USB Disk. This script installs the full \"kdeutils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/isoimagewriter.png"
@@ -6268,6 +6313,11 @@
     "packageName": "keymanager",
     "description": "One-stop certificate app and certificate key management...",
     "icon": "https://portable-linux-apps.github.io/icons/keymanager.png"
+  },
+  {
+    "packageName": "keypunch",
+    "description": "Unofficial, keyboard writing speed test application.　..",
+    "icon": "https://portable-linux-apps.github.io/icons/keypunch.png"
   },
   {
     "packageName": "keyrier-json",
@@ -6808,6 +6858,11 @@
     "packageName": "libassist",
     "description": "Library Assistant...",
     "icon": "https://portable-linux-apps.github.io/icons/libassist.png"
+  },
+  {
+    "packageName": "libation",
+    "description": "Unofficial, application for downloading and managing your Audible audiobooks...",
+    "icon": "https://portable-linux-apps.github.io/icons/libation.png"
   },
   {
     "packageName": "libertem",
@@ -8680,6 +8735,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/openbor.png"
   },
   {
+    "packageName": "opencode",
+    "description": "Unofficial, The open source coding agent...",
+    "icon": "https://portable-linux-apps.github.io/icons/opencode.png"
+  },
+  {
     "packageName": "opencomic",
     "description": "Comic and Manga reader, written with Node.js and using Electron...",
     "icon": "https://portable-linux-apps.github.io/icons/opencomic.png"
@@ -9950,6 +10010,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/pyfa.png"
   },
   {
+    "packageName": "pyglossary",
+    "description": "Unofficial, A tool for converting dictionary files aka glossaries...",
+    "icon": "https://portable-linux-apps.github.io/icons/pyglossary.png"
+  },
+  {
     "packageName": "python",
     "description": "AppImage distributions of Python, an interactive high-level object-oriented language...",
     "icon": "https://portable-linux-apps.github.io/icons/python.png"
@@ -10418,6 +10483,11 @@
     "packageName": "rebos",
     "description": "Rebos is a tool that aims at mimicking what NixOS does (repeatability), for any Linux distribution...",
     "icon": "https://portable-linux-apps.github.io/icons/rebos.png"
+  },
+  {
+    "packageName": "reco",
+    "description": "Unofficial, An audio recorder focused on being concise and simple to use..",
+    "icon": "https://portable-linux-apps.github.io/icons/reco.png"
   },
   {
     "packageName": "recoll",
@@ -10923,6 +10993,11 @@
     "packageName": "scrum-retroboard",
     "description": "Electron application based on React...",
     "icon": "https://portable-linux-apps.github.io/icons/scrum-retroboard.png"
+  },
+  {
+    "packageName": "scummvm",
+    "description": "Unofficial, A 'virtual machine' for several classic graphical point-and-click adventure games..",
+    "icon": "https://portable-linux-apps.github.io/icons/scummvm.png"
   },
   {
     "packageName": "scytale",
@@ -11775,6 +11850,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/stele.png"
   },
   {
+    "packageName": "stella",
+    "description": "Unofficial, A multi-platform Atari 2600 Emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/stella.png"
+  },
+  {
     "packageName": "stellarium",
     "description": "Planetarium that shows a realistic sky in 3D...",
     "icon": "https://portable-linux-apps.github.io/icons/stellarium.png"
@@ -12213,6 +12293,11 @@
     "packageName": "tangent",
     "description": "A clean and powerful open source notes app...",
     "icon": "https://portable-linux-apps.github.io/icons/tangent.png"
+  },
+  {
+    "packageName": "taradino",
+    "description": "Unofficial, SDL2 port of Rise of the Triad...",
+    "icon": "https://portable-linux-apps.github.io/icons/taradino.png"
   },
   {
     "packageName": "taskade",
@@ -12788,6 +12873,11 @@
     "packageName": "tuxplorer",
     "description": "Tuxplorer is a terminal based file explorer...",
     "icon": "https://portable-linux-apps.github.io/icons/tuxplorer.png"
+  },
+  {
+    "packageName": "tuxpuck",
+    "description": "Unofficial, hockey-like table game...",
+    "icon": "https://portable-linux-apps.github.io/icons/tuxpuck.png"
   },
   {
     "packageName": "twake",
@@ -13908,6 +13998,11 @@
     "packageName": "xopcodecalc",
     "description": "Opcode calculator / ASM calculator...",
     "icon": "https://portable-linux-apps.github.io/icons/xopcodecalc.png"
+  },
+  {
+    "packageName": "xoreos",
+    "description": "Unofficial, A reimplementation of BioWare's Aurora engine...",
+    "icon": "https://portable-linux-apps.github.io/icons/xoreos.png"
   },
   {
     "packageName": "xournal++",

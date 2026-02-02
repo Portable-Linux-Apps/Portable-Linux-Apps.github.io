@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **105** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **106** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -79,6 +79,7 @@
 | <img loading="lazy" src="icons/koodo-reader.png" width="48" height="48"> | [***koodo-reader***](apps/koodo-reader.md) | *Modern ebook manager and reader with sync & backup capacities.*..[ *read more* ](apps/koodo-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/koodo-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/koodo-reader) |
 | <img loading="lazy" src="icons/koreader.png" width="48" height="48"> | [***koreader***](apps/koreader.md) | *A document viewer.*..[ *read more* ](apps/koreader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/koreader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/koreader) |
 | <img loading="lazy" src="icons/legendary-kingdoms.png" width="48" height="48"> | [***legendary-kingdoms***](apps/legendary-kingdoms.md) | *Implementation of Legendary Kingdoms Gamebooks in C++.*..[ *read more* ](apps/legendary-kingdoms.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/legendary-kingdoms) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/legendary-kingdoms) |
+| <img loading="lazy" src="icons/libation.png" width="48" height="48"> | [***libation***](apps/libation.md) | *Unofficial, application for downloading and managing your Audible audiobooks.*..[ *read more* ](apps/libation.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/libation) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/libation) |
 | <img loading="lazy" src="icons/libreoffice.png" width="48" height="48"> | [***libreoffice***](apps/libreoffice.md) | *Free and powerful office suite, and a successor to OpenOffice.*..[ *read more* ](apps/libreoffice.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/libreoffice) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/libreoffice) |
 | <img loading="lazy" src="icons/lockbook-cli.png" width="48" height="48"> | [***lockbook-cli***](apps/lockbook-cli.md) | *The private, polished note-taking platform, CLI.*..[ *read more* ](apps/lockbook-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lockbook-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lockbook-cli) |
 | <img loading="lazy" src="icons/lockbook-desktop.png" width="48" height="48"> | [***lockbook-desktop***](apps/lockbook-desktop.md) | *The private, polished note-taking platform.*..[ *read more* ](apps/lockbook-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lockbook-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lockbook-desktop) |
