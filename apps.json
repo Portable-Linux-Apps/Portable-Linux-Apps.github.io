@@ -2365,6 +2365,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/coreuniverse.png"
   },
   {
+    "packageName": "corsixth",
+    "description": "Open source clone of Theme Hospital...",
+    "icon": "https://portable-linux-apps.github.io/icons/corsixth.png"
+  },
+  {
     "packageName": "cosmic-comics",
     "description": "Web Server based Comics / Manga Collectionner & viewer...",
     "icon": "https://portable-linux-apps.github.io/icons/cosmic-comics.png"
@@ -9983,6 +9988,11 @@
     "packageName": "pulseview",
     "description": "PulseView (sometimes abbreviated as \"PV\") is a Qt based logic analyzer, oscilloscope and MSO GUI for sigrok...",
     "icon": "https://portable-linux-apps.github.io/icons/pulseview.png"
+  },
+  {
+    "packageName": "punes",
+    "description": "Qt-based Nintendo Entertaiment System emulator and NSF/NSF2/NSFe Music Player...",
+    "icon": "https://portable-linux-apps.github.io/icons/punes.png"
   },
   {
     "packageName": "puppetry",
