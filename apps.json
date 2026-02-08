@@ -6546,8 +6546,13 @@
   },
   {
     "packageName": "koreader",
-    "description": "A document viewer...",
+    "description": "A document viewer for E Ink devices. Supported fileformats include EPUB, PDF, DjVu, XPS, CBT, CBZ, FB2, PDB, TXT, HTML, RTF, CHM, DOC, MOBI and ZIP files. It’s available for Kindle, Kobo, PocketBook, Android and desktop Linux...",
     "icon": "https://portable-linux-apps.github.io/icons/koreader.png"
+  },
+  {
+    "packageName": "koreader-nightly",
+    "description": "A document viewer for E Ink devices. Supported fileformats include EPUB, PDF, DjVu, XPS, CBT, CBZ, FB2, PDB, TXT, HTML, RTF, CHM, DOC, MOBI and ZIP files. It’s available for Kindle, Kobo, PocketBook, Android and desktop Linux. Nightly build...",
+    "icon": "https://portable-linux-apps.github.io/icons/koreader-nightly.png"
   },
   {
     "packageName": "kpat",
