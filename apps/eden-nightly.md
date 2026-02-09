@@ -4,7 +4,7 @@
 
  This is the unofficial nightly build.
 
- SITE: https://github.com/pflyly/eden-nightly
+ SITE: https://github.com/Eden-CI/Nightly
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
