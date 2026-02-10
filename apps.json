@@ -1070,6 +1070,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/better-osu-skills.png"
   },
   {
+    "packageName": "betterbird",
+    "description": "Unofficial, Betterbird is a fine-tuned version of Mozilla Thunderbird, a free and open-source email client...",
+    "icon": "https://portable-linux-apps.github.io/icons/betterbird.png"
+  },
+  {
     "packageName": "bettercrewlink",
     "description": "Free, open, Among Us proximity voice chat...",
     "icon": "https://portable-linux-apps.github.io/icons/bettercrewlink.png"
