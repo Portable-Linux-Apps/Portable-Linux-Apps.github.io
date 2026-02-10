@@ -5485,6 +5485,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/httpie-desktop.png"
   },
   {
+    "packageName": "httptoolkit",
+    "description": "HTTP Toolkit is an open-source tool for debugging, testing and building with HTTP...",
+    "icon": "https://portable-linux-apps.github.io/icons/httptoolkit.png"
+  },
+  {
     "packageName": "hugin",
     "description": "Stitch photographs together...",
     "icon": "https://portable-linux-apps.github.io/icons/hugin.png"

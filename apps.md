@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2809** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2810** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1125,6 +1125,7 @@
 | <img loading="lazy" src="icons/htmldoc.png" width="48" height="48"> | [***htmldoc***](apps/htmldoc.md) | *HTML & Markdown Conversion Software to output PostScript and PDF.*..[ *read more* ](apps/htmldoc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/htmldoc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/htmldoc) |
 | <img loading="lazy" src="icons/htop.png" width="48" height="48"> | [***htop***](apps/htop.md) | *Unofficial, CLI utility to monitor system resources.*..[ *read more* ](apps/htop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/htop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/htop) |
 | <img loading="lazy" src="icons/httpie-desktop.png" width="48" height="48"> | [***httpie-desktop***](apps/httpie-desktop.md) | *HTTPie for Desktop.*..[ *read more* ](apps/httpie-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/httpie-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/httpie-desktop) |
+| <img loading="lazy" src="icons/httptoolkit.png" width="48" height="48"> | [***httptoolkit***](apps/httptoolkit.md) | *HTTP Toolkit is an open-source tool for debugging, testing and building with HTTP.*..[ *read more* ](apps/httptoolkit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/httptoolkit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/httptoolkit) |
 | <img loading="lazy" src="icons/hugin.png" width="48" height="48"> | [***hugin***](apps/hugin.md) | *Stitch photographs together.*..[ *read more* ](apps/hugin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hugin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hugin) |
 | <img loading="lazy" src="icons/hugor.png" width="48" height="48"> | [***hugor***](apps/hugor.md) | *A cross-platform, multimedia interpreter for Hugo adventure games.*..[ *read more* ](apps/hugor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hugor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hugor) |
 | <img loading="lazy" src="icons/humanlog.png" width="48" height="48"> | [***humanlog***](apps/humanlog.md) | *Logs for humans to read.*..[ *read more* ](apps/humanlog.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/humanlog) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/humanlog) |
