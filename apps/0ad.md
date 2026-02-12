@@ -4,8 +4,8 @@
  
  This is the AppImage built from source.
  
- ![EgyptianPyramids](https://user-images.githubusercontent.com/88724353/235563498-91c93488-3c44-49e6-a52a-d5c7022647cb.jpg)
- 
+ <img width="1050" height="599" alt="Istantanea_2026-02-12_06-56-00" src="https://github.com/user-attachments/assets/5a91001d-5c56-46e7-a33e-843fcf268248" />
+
  SITE: https://play0ad.com
 
  SOURCE: https://github.com/0ad-matters/0ad-appimage
