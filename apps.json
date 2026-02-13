@@ -110,6 +110,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/aegisub.png"
   },
   {
+    "packageName": "aerofoil",
+    "description": "Multiplatform port of Glider PRO...",
+    "icon": "https://portable-linux-apps.github.io/icons/aerofoil.png"
+  },
+  {
     "packageName": "afetch",
     "description": "A CLI system information tool written in Rust...",
     "icon": "https://portable-linux-apps.github.io/icons/afetch.png"
@@ -1670,6 +1675,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/candycrisis.png"
   },
   {
+    "packageName": "cannonball",
+    "description": "An Enhanced OutRun Engine...",
+    "icon": "https://portable-linux-apps.github.io/icons/cannonball.png"
+  },
+  {
     "packageName": "caprine",
     "description": "Unofficial, elegant privacy focused Facebook Messenger app...",
     "icon": "https://portable-linux-apps.github.io/icons/caprine.png"
@@ -1763,6 +1773,11 @@
     "packageName": "cccp",
     "description": "Cortex Command, a community-driven effort to continue the development of Cortex Command...",
     "icon": "https://portable-linux-apps.github.io/icons/cccp.png"
+  },
+  {
+    "packageName": "cdogs-sdl",
+    "description": "Classic overhead run-and-gun game...",
+    "icon": "https://portable-linux-apps.github.io/icons/cdogs-sdl.png"
   },
   {
     "packageName": "celeste64",
@@ -1961,12 +1976,12 @@
   },
   {
     "packageName": "citron",
-    "description": "Unofficial AppImage of Citron (fork of yuzu), with optimized builds for modern cpus...",
+    "description": "Citron (fork of yuzu), with optimized builds for modern cpus...",
     "icon": "https://portable-linux-apps.github.io/icons/citron.png"
   },
   {
     "packageName": "citron-nightly",
-    "description": "Unofficial AppImage of Citron (fork of yuzu), with optimized builds for modern cpus (nightly builds)...",
+    "description": "Citron (fork of yuzu), with optimized builds for modern cpus (nightly builds)...",
     "icon": "https://portable-linux-apps.github.io/icons/citron-nightly.png"
   },
   {
@@ -2630,6 +2645,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dana.png"
   },
   {
+    "packageName": "darkplaces",
+    "description": "The DarkPlaces Quake engine, created by LadyHavoc...",
+    "icon": "https://portable-linux-apps.github.io/icons/darkplaces.png"
+  },
+  {
     "packageName": "darktable",
     "description": "Photography workflow app and raw developer...",
     "icon": "https://portable-linux-apps.github.io/icons/darktable.png"
@@ -2820,6 +2840,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/destiny.png"
   },
   {
+    "packageName": "dethrace",
+    "description": "Reverse engineering the 1997 game \"Carmageddon\"...",
+    "icon": "https://portable-linux-apps.github.io/icons/dethrace.png"
+  },
+  {
     "packageName": "devclean",
     "description": "A CLI and Desktop GUI app to clean dev dependencies (node_modules, cache) and more...",
     "icon": "https://portable-linux-apps.github.io/icons/devclean.png"
@@ -2878,6 +2903,11 @@
     "packageName": "dfilemanager",
     "description": "File manager written in Qt and C++...",
     "icon": "https://portable-linux-apps.github.io/icons/dfilemanager.png"
+  },
+  {
+    "packageName": "dhewm3",
+    "description": "Doom 3 GPL source port...",
+    "icon": "https://portable-linux-apps.github.io/icons/dhewm3.png"
   },
   {
     "packageName": "dicomautomaton",
@@ -3033,6 +3063,11 @@
     "packageName": "downline",
     "description": "A cross-platform video and audio downloader...",
     "icon": "https://portable-linux-apps.github.io/icons/downline.png"
+  },
+  {
+    "packageName": "dr-robotniks-ring-racers",
+    "description": "Kart racing video game originally based on SRB2Kart...",
+    "icon": "https://portable-linux-apps.github.io/icons/dr-robotniks-ring-racers.png"
   },
   {
     "packageName": "dra",
@@ -3230,6 +3265,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ecode.png"
   },
   {
+    "packageName": "ecwolf",
+    "description": "Advanced port of Wolfenstein 3D based off of Wolf4SDL...",
+    "icon": "https://portable-linux-apps.github.io/icons/ecwolf.png"
+  },
+  {
     "packageName": "edconv",
     "description": "A user-friendly FFmpeg GUI...",
     "icon": "https://portable-linux-apps.github.io/icons/edconv.png"
@@ -3248,6 +3288,11 @@
     "packageName": "edex-ui",
     "description": "A cross-platform, customizable science fiction terminal emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/edex-ui.png"
+  },
+  {
+    "packageName": "eduke32",
+    "description": "An advanced Duke Nukem 3D source port...",
+    "icon": "https://portable-linux-apps.github.io/icons/eduke32.png"
   },
   {
     "packageName": "eez-studio",
@@ -3683,6 +3728,11 @@
     "packageName": "extremetuxracer",
     "description": "Unofficial. 3D racing game with Tux, the Linux penguin...",
     "icon": "https://portable-linux-apps.github.io/icons/extremetuxracer.png"
+  },
+  {
+    "packageName": "exult",
+    "description": "A project to recreate Ultima 7 for modern operating systems...",
+    "icon": "https://portable-linux-apps.github.io/icons/exult.png"
   },
   {
     "packageName": "eyedropper",
@@ -4183,6 +4233,11 @@
     "packageName": "floorp",
     "description": "Floorp Web Browser, the most Advanced and Fastest Firefox derivative...",
     "icon": "https://portable-linux-apps.github.io/icons/floorp.png"
+  },
+  {
+    "packageName": "flow",
+    "description": "a programmer's text editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/flow.png"
   },
   {
     "packageName": "flowinity",
@@ -7665,6 +7720,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/mini-qml.png"
   },
   {
+    "packageName": "mini-vmac",
+    "description": "A miniature Macintosh 68K emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/mini-vmac.png"
+  },
+  {
     "packageName": "minififa",
     "description": "OpenGL-powered third-person football, soccer game...",
     "icon": "https://portable-linux-apps.github.io/icons/minififa.png"
@@ -8113,6 +8173,11 @@
     "packageName": "nazuna",
     "description": "Download Twitter videos using your terminal!..",
     "icon": "https://portable-linux-apps.github.io/icons/nazuna.png"
+  },
+  {
+    "packageName": "nblood",
+    "description": "Blood port based on EDuke32...",
+    "icon": "https://portable-linux-apps.github.io/icons/nblood.png"
   },
   {
     "packageName": "ncsa-mosaic",
@@ -8775,6 +8840,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/openhv.png"
   },
   {
+    "packageName": "openjazz",
+    "description": "A free, open-source version of the classic Jazz Jackrabbit™ games...",
+    "icon": "https://portable-linux-apps.github.io/icons/openjazz.png"
+  },
+  {
+    "packageName": "openlara",
+    "description": "Classic Tomb Raider open-source engine...",
+    "icon": "https://portable-linux-apps.github.io/icons/openlara.png"
+  },
+  {
     "packageName": "openlens",
     "description": "OpenLens Binary Build Repository...",
     "icon": "https://portable-linux-apps.github.io/icons/openlens.png"
@@ -8868,6 +8943,11 @@
     "packageName": "opentrons",
     "description": "Opentrons desktop application...",
     "icon": "https://portable-linux-apps.github.io/icons/opentrons.png"
+  },
+  {
+    "packageName": "opentyrian2000",
+    "description": "An open-source port of the DOS shoot-em-up Tyrian...",
+    "icon": "https://portable-linux-apps.github.io/icons/opentyrian2000.png"
   },
   {
     "packageName": "openxcom",
@@ -9198,6 +9278,11 @@
     "packageName": "pboy",
     "description": "A small .pdf management tool with a command-line UI...",
     "icon": "https://portable-linux-apps.github.io/icons/pboy.png"
+  },
+  {
+    "packageName": "pcexhumed",
+    "description": "Port of the PC version of Exhumed based on EDuke32...",
+    "icon": "https://portable-linux-apps.github.io/icons/pcexhumed.png"
   },
   {
     "packageName": "pcloud",
@@ -10555,6 +10640,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/redis-viewer.png"
   },
   {
+    "packageName": "rednukem",
+    "description": "A port of serveral BUILD Engine games based on EDuke32...",
+    "icon": "https://portable-linux-apps.github.io/icons/rednukem.png"
+  },
+  {
     "packageName": "rehex",
     "description": "Reverse Engineers' Hex Editor...",
     "icon": "https://portable-linux-apps.github.io/icons/rehex.png"
@@ -10665,6 +10755,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ridereceipts.png"
   },
   {
+    "packageName": "rigelengine",
+    "description": "Modern re-implementation of DOS game Duke Nukem II...",
+    "icon": "https://portable-linux-apps.github.io/icons/rigelengine.png"
+  },
+  {
     "packageName": "rimage",
     "description": "This is CLI tool inspired by squoosh...",
     "icon": "https://portable-linux-apps.github.io/icons/rimage.png"
@@ -10735,6 +10830,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/rofi.png"
   },
   {
+    "packageName": "roller",
+    "description": "Reverse engineering the 1995 game Whiplash/Fatal Racing...",
+    "icon": "https://portable-linux-apps.github.io/icons/roller.png"
+  },
+  {
     "packageName": "roloviewer",
     "description": "Image slideshow viewer...",
     "icon": "https://portable-linux-apps.github.io/icons/roloviewer.png"
@@ -10763,6 +10863,16 @@
     "packageName": "rrip",
     "description": "Bulk image downloader for reddit...",
     "icon": "https://portable-linux-apps.github.io/icons/rrip.png"
+  },
+  {
+    "packageName": "rsdkv3",
+    "description": "A Full Decompilation of Sonic CD (2011) & Retro Engine v3...",
+    "icon": "https://portable-linux-apps.github.io/icons/rsdkv3.png"
+  },
+  {
+    "packageName": "rsdkv4",
+    "description": "A complete decompilation of Sonic 1 & Sonic 2 (2013) & Retro Engine v4...",
+    "icon": "https://portable-linux-apps.github.io/icons/rsdkv4.png"
   },
   {
     "packageName": "rssguard",
@@ -10888,6 +10998,11 @@
     "packageName": "samrewritten",
     "description": "Steam Achievement Manager For Linux. Rewritten in C++...",
     "icon": "https://portable-linux-apps.github.io/icons/samrewritten.png"
+  },
+  {
+    "packageName": "sanicball",
+    "description": "An extraordinarily fast racing game...",
+    "icon": "https://portable-linux-apps.github.io/icons/sanicball.png"
   },
   {
     "packageName": "saphyr",
@@ -11038,6 +11153,11 @@
     "packageName": "sd",
     "description": "Intuitive find & replace CLI, sed alternative...",
     "icon": "https://portable-linux-apps.github.io/icons/sd.png"
+  },
+  {
+    "packageName": "sdlpop",
+    "description": "An open-source port of Prince of Persia...",
+    "icon": "https://portable-linux-apps.github.io/icons/sdlpop.png"
   },
   {
     "packageName": "seafile",
@@ -11580,6 +11700,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/solarwallet.png"
   },
   {
+    "packageName": "sonic-mania-decompilation",
+    "description": "A complete decompilation of Sonic Mania (2017)...",
+    "icon": "https://portable-linux-apps.github.io/icons/sonic-mania-decompilation.png"
+  },
+  {
     "packageName": "sonicvisualiser",
     "description": "Viewing and analysing the contents of music audio files...",
     "icon": "https://portable-linux-apps.github.io/icons/sonicvisualiser.png"
@@ -12098,6 +12223,11 @@
     "packageName": "superfile",
     "description": "Pretty fancy and modern terminal file manager...",
     "icon": "https://portable-linux-apps.github.io/icons/superfile.png"
+  },
+  {
+    "packageName": "supermodel",
+    "description": "Sega Model 3 arcade emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/supermodel.png"
   },
   {
     "packageName": "supernotes",
@@ -12963,6 +13093,11 @@
     "packageName": "ubports-installer",
     "description": "A simple tool to install Ubuntu Touch on UBports devices..",
     "icon": "https://portable-linux-apps.github.io/icons/ubports-installer.png"
+  },
+  {
+    "packageName": "uefitool",
+    "description": "UEFI firmware image viewer and editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/uefitool.png"
   },
   {
     "packageName": "ueli",

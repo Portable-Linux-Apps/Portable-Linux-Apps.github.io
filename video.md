@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **164** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **165** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -51,6 +51,7 @@
 | <img loading="lazy" src="icons/cryptocam-companion.png" width="48" height="48"> | [***cryptocam-companion***](apps/cryptocam-companion.md) | *GUI to decrypt videos taken by Cryptocam.*..[ *read more* ](apps/cryptocam-companion.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cryptocam-companion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cryptocam-companion) |
 | <img loading="lazy" src="icons/dinox.png" width="48" height="48"> | [***dinox***](apps/dinox.md) | *DinoX - Modern XMPP Chat Client with Video Calls, Voice Messages & OMEMO Encryption.*..[ *read more* ](apps/dinox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dinox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dinox) |
 | <img loading="lazy" src="icons/downline.png" width="48" height="48"> | [***downline***](apps/downline.md) | *A cross-platform video and audio downloader.*..[ *read more* ](apps/downline.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/downline) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/downline) |
+| <img loading="lazy" src="icons/dr-robotniks-ring-racers.png" width="48" height="48"> | [***dr-robotniks-ring-racers***](apps/dr-robotniks-ring-racers.md) | *Kart racing video game originally based on SRB2Kart.*..[ *read more* ](apps/dr-robotniks-ring-racers.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dr-robotniks-ring-racers) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dr-robotniks-ring-racers) |
 | <img loading="lazy" src="icons/dwyco-phoo.png" width="48" height="48"> | [***dwyco-phoo***](apps/dwyco-phoo.md) | *Dwyco Phoo Chat and Video Calling.*..[ *read more* ](apps/dwyco-phoo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dwyco-phoo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dwyco-phoo) |
 | <img loading="lazy" src="icons/exifcleaner.png" width="48" height="48"> | [***exifcleaner***](apps/exifcleaner.md) | *Clean exif metadata from images, videos, and PDFs.*..[ *read more* ](apps/exifcleaner.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/exifcleaner) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/exifcleaner) |
 | <img loading="lazy" src="icons/eyestalker.png" width="48" height="48"> | [***eyestalker***](apps/eyestalker.md) | *Video-based eye tracking using recursive estimation of pupil.*..[ *read more* ](apps/eyestalker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eyestalker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eyestalker) |
