@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2399** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2400** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1991,6 +1991,7 @@
 | <img loading="lazy" src="icons/stackandconquer.png" width="48" height="48"> | [***stackandconquer***](apps/stackandconquer.md) | *A challenging tower conquest board game "Mixtour" inspired.*..[ *read more* ](apps/stackandconquer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stackandconquer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stackandconquer) |
 | <img loading="lazy" src="icons/standard-notes.png" width="48" height="48"> | [***standard-notes***](apps/standard-notes.md) | *A simple and private place for your notes.*..[ *read more* ](apps/standard-notes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/standard-notes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/standard-notes) |
 | <img loading="lazy" src="icons/starc.png" width="48" height="48"> | [***starc***](apps/starc.md) | *Story Architect, reinventing the screenwriting software.*..[ *read more* ](apps/starc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/starc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/starc) |
+| <img loading="lazy" src="icons/starship-port.png" width="48" height="48"> | [***starship-port***](apps/starship-port.md) | *SF64 PC Port.*..[ *read more* ](apps/starship-port.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/starship-port) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/starship-port) |
 | <img loading="lazy" src="icons/stash-electron.png" width="48" height="48"> | [***stash-electron***](apps/stash-electron.md) | *The friendly secret storage made for teams.*..[ *read more* ](apps/stash-electron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stash-electron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stash-electron) |
 | <img loading="lazy" src="icons/station.png" width="48" height="48"> | [***station***](apps/station.md) | *A single place for all of your web applications.*..[ *read more* ](apps/station.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/station) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/station) |
 | <img loading="lazy" src="icons/statsbook-tool.png" width="48" height="48"> | [***statsbook-tool***](apps/statsbook-tool.md) | *A tool for error checking WFTDA Statsbooks.*..[ *read more* ](apps/statsbook-tool.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/statsbook-tool) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/statsbook-tool) |

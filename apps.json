@@ -11825,6 +11825,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/starship.png"
   },
   {
+    "packageName": "starship-port",
+    "description": "SF64 PC Port...",
+    "icon": "https://portable-linux-apps.github.io/icons/starship-port.png"
+  },
+  {
     "packageName": "stash-electron",
     "description": "The friendly secret storage made for teams...",
     "icon": "https://portable-linux-apps.github.io/icons/stash-electron.png"
