@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2426** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2427** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1463,6 +1463,7 @@
 | <img loading="lazy" src="icons/openaudible.png" width="48" height="48"> | [***openaudible***](apps/openaudible.md) | *Download and manage your Audible audiobooks.*..[ *read more* ](apps/openaudible.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openaudible) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openaudible) |
 | <img loading="lazy" src="icons/openblok.png" width="48" height="48"> | [***openblok***](apps/openblok.md) | *A customizable falling block puzzle game like tetris.*..[ *read more* ](apps/openblok.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openblok) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openblok) |
 | <img loading="lazy" src="icons/openbor.png" width="48" height="48"> | [***openbor***](apps/openbor.md) | *Ultimate 2D side scrolling engine for beat em ups, shooters...*..[ *read more* ](apps/openbor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openbor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openbor) |
+| <img loading="lazy" src="icons/openclaw.png" width="48" height="48"> | [***openclaw***](apps/openclaw.md) | *Reimplementation of Captain Claw (1997) platformer.*..[ *read more* ](apps/openclaw.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openclaw) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openclaw) |
 | <img loading="lazy" src="icons/opencloud.png" width="48" height="48"> | [***opencloud***](apps/opencloud.md) | *Desktop application to synchronize files from OpenCloud with your computer.*..[ *read more* ](apps/opencloud.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opencloud) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opencloud) |
 | <img loading="lazy" src="icons/opencode.png" width="48" height="48"> | [***opencode***](apps/opencode.md) | *Unofficial, The open source coding agent.*..[ *read more* ](apps/opencode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opencode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opencode) |
 | <img loading="lazy" src="icons/opencomic.png" width="48" height="48"> | [***opencomic***](apps/opencomic.md) | *Comic and Manga reader, written with Node.js and using Electron.*..[ *read more* ](apps/opencomic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opencomic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opencomic) |

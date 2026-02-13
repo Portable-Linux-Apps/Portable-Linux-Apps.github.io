@@ -8820,6 +8820,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/openbor.png"
   },
   {
+    "packageName": "openclaw",
+    "description": "Reimplementation of Captain Claw (1997) platformer...",
+    "icon": "https://portable-linux-apps.github.io/icons/openclaw.png"
+  },
+  {
     "packageName": "opencloud",
     "description": "Desktop application to synchronize files from OpenCloud with your computer...",
     "icon": "https://portable-linux-apps.github.io/icons/opencloud.png"
