@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2840** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2841** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2198,6 +2198,7 @@
 | <img loading="lazy" src="icons/rofi.png" width="48" height="48"> | [***rofi***](apps/rofi.md) | *Unofficial, A window switcher, runs dialogs, dmenu like, etc.*..[ *read more* ](apps/rofi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rofi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rofi) |
 | <img loading="lazy" src="icons/roller.png" width="48" height="48"> | [***roller***](apps/roller.md) | *Reverse engineering the 1995 game Whiplash/Fatal Racing.*..[ *read more* ](apps/roller.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/roller) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/roller) |
 | <img loading="lazy" src="icons/roloviewer.png" width="48" height="48"> | [***roloviewer***](apps/roloviewer.md) | *Image slideshow viewer.*..[ *read more* ](apps/roloviewer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/roloviewer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/roloviewer) |
+| <img loading="lazy" src="icons/root.png" width="48" height="48"> | [***root***](apps/root.md) | *Voice, video, and chat plus powerful apps that help your community organize, grow, and thrive. An alternative to Discord.*..[ *read more* ](apps/root.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/root) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/root) |
 | <img loading="lazy" src="icons/rotki.png" width="48" height="48"> | [***rotki***](apps/rotki.md) | *A portfolio tracking, asset analytics and tax reporting app.*..[ *read more* ](apps/rotki.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rotki) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rotki) |
 | <img loading="lazy" src="icons/rpan-studio.png" width="48" height="48"> | [***rpan-studio***](apps/rpan-studio.md) | *OBS Studio with RPAN integration.*..[ *read more* ](apps/rpan-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rpan-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rpan-studio) |
 | <img loading="lazy" src="icons/rpcs3.png" width="48" height="48"> | [***rpcs3***](apps/rpcs3.md) | *An open-source PlayStation 3 emulator/debugger written in C++.*..[ *read more* ](apps/rpcs3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rpcs3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rpcs3) |

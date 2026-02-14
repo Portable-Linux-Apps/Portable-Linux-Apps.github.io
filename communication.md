@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **110** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **111** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -100,6 +100,7 @@
 | <img loading="lazy" src="icons/rambox.png" width="48" height="48"> | [***rambox***](apps/rambox.md) | *Free and Open Source messaging and emailing app.*..[ *read more* ](apps/rambox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rambox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rambox) |
 | <img loading="lazy" src="icons/ripcord.png" width="48" height="48"> | [***ripcord***](apps/ripcord.md) | *Chat client for group-centric services like Slack and Discord.*..[ *read more* ](apps/ripcord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ripcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ripcord) |
 | <img loading="lazy" src="icons/robrix.png" width="48" height="48"> | [***robrix***](apps/robrix.md) | *A multi-platform Matrix chat client written in Rust, using the Makepad UI toolkit and the Robius app dev framework.*..[ *read more* ](apps/robrix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/robrix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/robrix) |
+| <img loading="lazy" src="icons/root.png" width="48" height="48"> | [***root***](apps/root.md) | *Voice, video, and chat plus powerful apps that help your community organize, grow, and thrive. An alternative to Discord.*..[ *read more* ](apps/root.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/root) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/root) |
 | <img loading="lazy" src="icons/schilbidi-chat.png" width="48" height="48"> | [***schilbidi-chat***](apps/schilbidi-chat.md) | *Matrix client / Element Web/Desktop fork.*..[ *read more* ](apps/schilbidi-chat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/schilbidi-chat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/schilbidi-chat) |
 | <img loading="lazy" src="icons/schildichat.png" width="48" height="48"> | [***schildichat***](apps/schildichat.md) | *A Matrix Client.*..[ *read more* ](apps/schildichat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/schildichat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/schildichat) |
 | <img loading="lazy" src="icons/sengi.png" width="48" height="48"> | [***sengi***](apps/sengi.md) | *A multi-account desktop client for Mastodon and Pleroma.*..[ *read more* ](apps/sengi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sengi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sengi) |

@@ -10850,6 +10850,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/roloviewer.png"
   },
   {
+    "packageName": "root",
+    "description": "Voice, video, and chat plus powerful apps that help your community organize, grow, and thrive. An alternative to Discord...",
+    "icon": "https://portable-linux-apps.github.io/icons/root.png"
+  },
+  {
     "packageName": "rotki",
     "description": "A portfolio tracking, asset analytics and tax reporting app...",
     "icon": "https://portable-linux-apps.github.io/icons/rotki.png"

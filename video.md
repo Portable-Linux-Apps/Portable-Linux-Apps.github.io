@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **165** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **166** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -133,6 +133,7 @@
 | <img loading="lazy" src="icons/rebaslight.png" width="48" height="48"> | [***rebaslight***](apps/rebaslight.md) | *An easy to use special effects video editor.*..[ *read more* ](apps/rebaslight.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rebaslight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rebaslight) |
 | <img loading="lazy" src="icons/rendertune.png" width="48" height="48"> | [***rendertune***](apps/rendertune.md) | *Electron app that uses ffmpeg to combine audio.+image files into video files.*..[ *read more* ](apps/rendertune.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rendertune) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rendertune) |
 | <img loading="lazy" src="icons/retroarch.png" width="48" height="48"> | [***retroarch***](apps/retroarch.md) | *Frontend for emulators, game engines and media players.*..[ *read more* ](apps/retroarch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retroarch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retroarch) |
+| <img loading="lazy" src="icons/root.png" width="48" height="48"> | [***root***](apps/root.md) | *Voice, video, and chat plus powerful apps that help your community organize, grow, and thrive. An alternative to Discord.*..[ *read more* ](apps/root.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/root) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/root) |
 | <img loading="lazy" src="icons/ser-player.png" width="48" height="48"> | [***ser-player***](apps/ser-player.md) | *Video player for SER files used for astronomy-imaging.*..[ *read more* ](apps/ser-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ser-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ser-player) |
 | <img loading="lazy" src="icons/sf-tube.png" width="48" height="48"> | [***sf-tube***](apps/sf-tube.md) | *Watch and download videos without ads.*..[ *read more* ](apps/sf-tube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sf-tube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sf-tube) |
 | <img loading="lazy" src="icons/shotcut.png" width="48" height="48"> | [***shotcut***](apps/shotcut.md) | *A powerful Video Editor.*..[ *read more* ](apps/shotcut.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shotcut) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shotcut) |
