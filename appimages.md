@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2429** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2430** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2344,6 +2344,7 @@
 | <img loading="lazy" src="icons/wine-staging-ge-proton.png" width="48" height="48"> | [***wine-staging-ge-proton***](apps/wine-staging-ge-proton.md) | *Unofficial. Run x86_64 Windows programs, Staging GE Proton.*..[ *read more* ](apps/wine-staging-ge-proton.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-staging-ge-proton) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-staging-ge-proton) |
 | <img loading="lazy" src="icons/wine32-deploy.png" width="48" height="48"> | [***wine32-deploy***](apps/wine32-deploy.md) | *Tool for creating AppImages for 32-bit Microsoft Windows apps.*..[ *read more* ](apps/wine32-deploy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine32-deploy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine32-deploy) |
 | <img loading="lazy" src="icons/winrar.png" width="48" height="48"> | [***winrar***](apps/winrar.md) | *Unofficial, data compression, encryption and archiving tool.*..[ *read more* ](apps/winrar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/winrar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/winrar) |
+| <img loading="lazy" src="icons/wipeout-rewrite.png" width="48" height="48"> | [***wipeout-rewrite***](apps/wipeout-rewrite.md) | *Re-implementation of the 1995 PSX game wipEout.*..[ *read more* ](apps/wipeout-rewrite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wipeout-rewrite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wipeout-rewrite) |
 | <img loading="lazy" src="icons/wire.png" width="48" height="48"> | [***wire***](apps/wire.md) | *The most secure collaboration platform.*..[ *read more* ](apps/wire.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wire) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wire) |
 | <img loading="lazy" src="icons/wireguard-gui.png" width="48" height="48"> | [***wireguard-gui***](apps/wireguard-gui.md) | *A wireguard client GUI for Debian/Linux made with nextauri.*..[ *read more* ](apps/wireguard-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wireguard-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wireguard-gui) |
 | <img loading="lazy" src="icons/wireshark.png" width="48" height="48"> | [***wireshark***](apps/wireshark.md) | *Unofficial, the world's most popular network protocol analyze.*..[ *read more* ](apps/wireshark.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wireshark) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wireshark) |
