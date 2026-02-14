@@ -4255,6 +4255,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/fluffychat.png"
   },
   {
+    "packageName": "fluxer",
+    "description": "A free and open source instant messaging and VoIP platform built for friends, groups, and communities...",
+    "icon": "https://portable-linux-apps.github.io/icons/fluxer.png"
+  },
+  {
     "packageName": "flycast",
     "description": "A Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/flycast.png"
