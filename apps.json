@@ -6915,6 +6915,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/lescovex.png"
   },
   {
+    "packageName": "leshade",
+    "description": "An unofficial Reshade Installer for Linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/leshade.png"
+  },
+  {
     "packageName": "levior",
     "description": "Converts web pages on-the-fly to the gemtext format...",
     "icon": "https://portable-linux-apps.github.io/icons/levior.png"
@@ -10693,11 +10698,6 @@
     "packageName": "requestly",
     "description": "Free and open-source API Client & Interceptor...",
     "icon": "https://portable-linux-apps.github.io/icons/requestly.png"
-  },
-  {
-    "packageName": "reshade-installer",
-    "description": "An unofficial Reshade Installer for Linux...",
-    "icon": "https://portable-linux-apps.github.io/icons/reshade-installer.png"
   },
   {
     "packageName": "responsively",
