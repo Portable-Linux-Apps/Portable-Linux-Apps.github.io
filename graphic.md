@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **124** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **125** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -85,6 +85,7 @@
 | <img loading="lazy" src="icons/go-pd.png" width="48" height="48"> | [***go-pd***](apps/go-pd.md) | *A free easy to use pixeldrain.com go client pkg and CLI upload tool.*..[ *read more* ](apps/go-pd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/go-pd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/go-pd) |
 | <img loading="lazy" src="icons/go-pd-gui.png" width="48" height="48"> | [***go-pd-gui***](apps/go-pd-gui.md) | *DRAINY is a free easy to use cross plattform upload tool for pixeldrain.com.*..[ *read more* ](apps/go-pd-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/go-pd-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/go-pd-gui) |
 | <img loading="lazy" src="icons/goverlay.png" width="48" height="48"> | [***goverlay***](apps/goverlay.md) | *An opensource project that aims to create a Graphical UI to help manage Linux overlays.*..[ *read more* ](apps/goverlay.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/goverlay) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/goverlay) |
+| <img loading="lazy" src="icons/gpu-t.png" width="48" height="48"> | [***gpu-t***](apps/gpu-t.md) | *A comprehensive graphics card information utility for Linux.*..[ *read more* ](apps/gpu-t.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gpu-t) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gpu-t) |
 | <img loading="lazy" src="icons/grabscr.png" width="48" height="48"> | [***grabscr***](apps/grabscr.md) | *Yet another screenshot maker.*..[ *read more* ](apps/grabscr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/grabscr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/grabscr) |
 | <img loading="lazy" src="icons/gradia.png" width="48" height="48"> | [***gradia***](apps/gradia.md) | *Unofficial, screenshot/picture editor and uploader.*..[ *read more* ](apps/gradia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gradia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gradia) |
 | <img loading="lazy" src="icons/groot.png" width="48" height="48"> | [***groot***](apps/groot.md) | *Graphical Editor to create BehaviorTrees.*..[ *read more* ](apps/groot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/groot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/groot) |

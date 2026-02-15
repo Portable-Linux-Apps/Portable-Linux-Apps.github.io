@@ -1,8 +1,8 @@
-# SCHILBIDI-CHAT
+# GPU-T
 
- Matrix client / Element Web/Desktop fork.
+ A comprehensive graphics card information utility for Linux.
 
- SITE/SOURCE: https://github.com/SchildiChat/schildichat-desktop
+ SITE/SOURCE: https://github.com/lseurttyuu/GPU-T
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -5190,6 +5190,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gpu-screen-recorder.png"
   },
   {
+    "packageName": "gpu-t",
+    "description": "A comprehensive graphics card information utility for Linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/gpu-t.png"
+  },
+  {
     "packageName": "gpupad",
     "description": "A flexible GLSL shader editor and IDE...",
     "icon": "https://portable-linux-apps.github.io/icons/gpupad.png"
@@ -11100,14 +11105,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/scavengers.png"
   },
   {
-    "packageName": "schilbidi-chat",
-    "description": "Matrix client / Element Web/Desktop fork...",
-    "icon": "https://portable-linux-apps.github.io/icons/schilbidi-chat.png"
-  },
-  {
-    "packageName": "schildichat",
-    "description": "A Matrix Client...",
-    "icon": "https://portable-linux-apps.github.io/icons/schildichat.png"
+    "packageName": "schildi-revenge",
+    "description": "Matrix client for desktop written in Kotlin and using the Matrix Rust SDK...",
+    "icon": "https://portable-linux-apps.github.io/icons/schildi-revenge.png"
   },
   {
     "packageName": "school-sections",
