@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2845** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2846** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -966,6 +966,7 @@
 | <img loading="lazy" src="icons/geforcenow-electron.png" width="48" height="48"> | [***geforcenow-electron***](apps/geforcenow-electron.md) | *Desktop client for Nvidia GeForce NOW game streaming.*..[ *read more* ](apps/geforcenow-electron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/geforcenow-electron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/geforcenow-electron) |
 | <img loading="lazy" src="icons/gemalaya.png" width="48" height="48"> | [***gemalaya***](apps/gemalaya.md) | *A keyboard-driven Gemini browser written in QML.*..[ *read more* ](apps/gemalaya.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gemalaya) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gemalaya) |
 | <img loading="lazy" src="icons/gemget.png" width="48" height="48"> | [***gemget***](apps/gemget.md) | *Command line downloader for the Gemini protocol.*..[ *read more* ](apps/gemget.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gemget) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gemget) |
+| <img loading="lazy" src="icons/gemrb.png" width="48" height="48"> | [***gemrb***](apps/gemrb.md) | *GemRB is a portable open-source implementation of Bioware's Infinity Engine.*..[ *read more* ](apps/gemrb.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gemrb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gemrb) |
 | <img loading="lazy" src="icons/genact.png" width="48" height="48"> | [***genact***](apps/genact.md) | *A nonsense activity generator.*..[ *read more* ](apps/genact.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/genact) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/genact) |
 | <img loading="lazy" src="icons/genesis.png" width="48" height="48"> | [***genesis***](apps/genesis.md) | *Open source blockchain platform.*..[ *read more* ](apps/genesis.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/genesis) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/genesis) |
 | <img loading="lazy" src="icons/geofs.png" width="48" height="48"> | [***geofs***](apps/geofs.md) | *GeoFS flight sim as a desktop application.*..[ *read more* ](apps/geofs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/geofs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/geofs) |

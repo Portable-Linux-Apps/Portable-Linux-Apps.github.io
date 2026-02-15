@@ -4690,6 +4690,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gemget.png"
   },
   {
+    "packageName": "gemrb",
+    "description": "GemRB is a portable open-source implementation of Bioware's Infinity Engine...",
+    "icon": "https://portable-linux-apps.github.io/icons/gemrb.png"
+  },
+  {
     "packageName": "genact",
     "description": "A nonsense activity generator...",
     "icon": "https://portable-linux-apps.github.io/icons/genact.png"
