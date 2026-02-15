@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **153** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **154** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -87,6 +87,7 @@
 | <img loading="lazy" src="icons/hydrogen-music.png" width="48" height="48"> | [***hydrogen-music***](apps/hydrogen-music.md) | *The advanced drum machine.*..[ *read more* ](apps/hydrogen-music.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hydrogen-music) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hydrogen-music) |
 | <img loading="lazy" src="icons/impact.png" width="48" height="48"> | [***impact***](apps/impact.md) | *Music Management and Playback.*..[ *read more* ](apps/impact.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/impact) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/impact) |
 | <img loading="lazy" src="icons/jellyamp.png" width="48" height="48"> | [***jellyamp***](apps/jellyamp.md) | *A client for listening to music from a Jellyfin server.*..[ *read more* ](apps/jellyamp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jellyamp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jellyamp) |
+| <img loading="lazy" src="icons/kid3.png" width="48" height="48"> | [***kid3***](apps/kid3.md) | *Unofficial, efficient audio tagger that supports a large variety of file formats.*..[ *read more* ](apps/kid3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kid3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kid3) |
 | <img loading="lazy" src="icons/kiku.png" width="48" height="48"> | [***kiku***](apps/kiku.md) | *Play music from youtube on desktop. Supports local api, invidious and piped as source.*..[ *read more* ](apps/kiku.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kiku) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kiku) |
 | <img loading="lazy" src="icons/krecorder.png" width="48" height="48"> | [***krecorder***](apps/krecorder.md) | *Unofficial, An audio recording application. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/krecorder.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/krecorder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/krecorder) |
 | <img loading="lazy" src="icons/kwave.png" width="48" height="48"> | [***kwave***](apps/kwave.md) | *A sound & audio editor designed for the KDE Desktop Environment.*..[ *read more* ](apps/kwave.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kwave) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kwave) |

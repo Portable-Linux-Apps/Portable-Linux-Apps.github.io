@@ -6445,6 +6445,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/kicad.png"
   },
   {
+    "packageName": "kid3",
+    "description": "Unofficial, efficient audio tagger that supports a large variety of file formats...",
+    "icon": "https://portable-linux-apps.github.io/icons/kid3.png"
+  },
+  {
     "packageName": "kigo",
     "description": "Unofficial, Go strategic board game for two players. This script installs the full \"kdegames\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/kigo.png"
@@ -7588,6 +7593,11 @@
     "packageName": "melonds",
     "description": "DS emulator, sorta...",
     "icon": "https://portable-linux-apps.github.io/icons/melonds.png"
+  },
+  {
+    "packageName": "melonds-enhanced",
+    "description": "Unofficial, AppImage of melonDS which is able to work on any linux distro...",
+    "icon": "https://portable-linux-apps.github.io/icons/melonds-enhanced.png"
   },
   {
     "packageName": "melonmix",
@@ -10793,6 +10803,11 @@
     "packageName": "ripgrep-all",
     "description": "A ripgrep version to also search in documents and archives...",
     "icon": "https://portable-linux-apps.github.io/icons/ripgrep-all.png"
+  },
+  {
+    "packageName": "riseup-vpn",
+    "description": "Unofficial, RiseupVPN is an easy, fast, and secure VPN service from riseup.net...",
+    "icon": "https://portable-linux-apps.github.io/icons/riseup-vpn.png"
   },
   {
     "packageName": "rmg",
