@@ -5385,6 +5385,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/handy.png"
   },
   {
+    "packageName": "hangar",
+    "description": "A native Bluesky client for Linux, built with Rust, GTK4, and Libadwaita...",
+    "icon": "https://portable-linux-apps.github.io/icons/hangar.png"
+  },
+  {
     "packageName": "hapee",
     "description": "Best cross-platform downloader ever...",
     "icon": "https://portable-linux-apps.github.io/icons/hapee.png"
@@ -13883,6 +13888,11 @@
     "packageName": "windows95",
     "description": "Unofficial. Windows 95 in Electron...",
     "icon": "https://portable-linux-apps.github.io/icons/windows95.png"
+  },
+  {
+    "packageName": "windusb-gui",
+    "description": "A modern, Rust-based graphical tool for creating bootable Windows USB installers on Linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/windusb-gui.png"
   },
   {
     "packageName": "wine",

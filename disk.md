@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **26** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **27** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -59,6 +59,7 @@
 | <img loading="lazy" src="icons/ventoy.png" width="48" height="48"> | [***ventoy***](apps/ventoy.md) | *Tool to create bootable USB drive for ISO/WIM/IMG/VHDx/EFI files.*..[ *read more* ](apps/ventoy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ventoy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ventoy) |
 | <img loading="lazy" src="icons/veracrypt.png" width="48" height="48"> | [***veracrypt***](apps/veracrypt.md) | *VeraCrypt is a free open source disk encryption software.*..[ *read more* ](apps/veracrypt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/veracrypt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/veracrypt) |
 | <img loading="lazy" src="icons/windows2usb.png" width="48" height="48"> | [***windows2usb***](apps/windows2usb.md) | *Flash Drive burning utility, MBR/GPT, BIOS/UEFI, FAT32/NTFS.*..[ *read more* ](apps/windows2usb.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/windows2usb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/windows2usb) |
+| <img loading="lazy" src="icons/windusb-gui.png" width="48" height="48"> | [***windusb-gui***](apps/windusb-gui.md) | *A modern, Rust-based graphical tool for creating bootable Windows USB installers on Linux.*..[ *read more* ](apps/windusb-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/windusb-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/windusb-gui) |
 | <img loading="lazy" src="icons/yubikey-manager.png" width="48" height="48"> | [***yubikey-manager***](apps/yubikey-manager.md) | *Configure your YubiKey over all USB transports.*..[ *read more* ](apps/yubikey-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yubikey-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yubikey-manager) |
 
 
