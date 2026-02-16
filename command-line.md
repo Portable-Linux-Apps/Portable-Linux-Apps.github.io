@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **225** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **226** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -69,6 +69,7 @@
 | <img loading="lazy" src="icons/cool-retro-term.png" width="48" height="48"> | [***cool-retro-term***](apps/cool-retro-term.md) | *Use the command line the old way.*..[ *read more* ](apps/cool-retro-term.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cool-retro-term) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cool-retro-term) |
 | <img loading="lazy" src="icons/coreterminal.png" width="48" height="48"> | [***coreterminal***](apps/coreterminal.md) | *A terminal emulator for C Suite.*..[ *read more* ](apps/coreterminal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/coreterminal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/coreterminal) |
 | <img loading="lazy" src="icons/crabfetch.png" width="48" height="48"> | [***crabfetch***](apps/crabfetch.md) | *Extremely fast, featureful and customizable command-line fetcher.*..[ *read more* ](apps/crabfetch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crabfetch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crabfetch) |
+| <img loading="lazy" src="icons/crawl-ncurses.png" width="48" height="48"> | [***crawl-ncurses***](apps/crawl-ncurses.md) | *open-source, single-player, role-playing roguelike game of exploration and treasure-hunting - ncurses version (terminal)*..[ *read more* ](apps/crawl-ncurses.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crawl-ncurses) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crawl-ncurses) |
 | <img loading="lazy" src="icons/cursor-cli.png" width="48" height="48"> | [***cursor-cli***](apps/cursor-cli.md) | *Unofficial, AI-assisted development CLI tool.*..[ *read more* ](apps/cursor-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cursor-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cursor-cli) |
 | <img loading="lazy" src="icons/cutechess.png" width="48" height="48"> | [***cutechess***](apps/cutechess.md) | *Cute Chess is a GUI, a CLI and a library for playing chess.*..[ *read more* ](apps/cutechess.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cutechess) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cutechess) |
 | <img loading="lazy" src="icons/devclean.png" width="48" height="48"> | [***devclean***](apps/devclean.md) | *A CLI and Desktop GUI app to clean dev dependencies (node_modules, cache) and more.*..[ *read more* ](apps/devclean.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/devclean) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/devclean) |

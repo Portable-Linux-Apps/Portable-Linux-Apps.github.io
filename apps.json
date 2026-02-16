@@ -2445,6 +2445,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/crankshaft.png"
   },
   {
+    "packageName": "crawl-ncurses",
+    "description": "open-source, single-player, role-playing roguelike game of exploration and treasure-hunting - ncurses version (terminal)..",
+    "icon": "https://portable-linux-apps.github.io/icons/crawl-ncurses.png"
+  },
+  {
+    "packageName": "crawl-tiles",
+    "description": "open-source, single-player, role-playing roguelike game of exploration and treasure-hunting - graphical version (SDL)..",
+    "icon": "https://portable-linux-apps.github.io/icons/crawl-tiles.png"
+  },
+  {
     "packageName": "creality-print",
     "description": "Creality Print is a slicer dedicated to FDM printers...",
     "icon": "https://portable-linux-apps.github.io/icons/creality-print.png"
