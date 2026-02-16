@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2434** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2435** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -922,6 +922,7 @@
 | <img loading="lazy" src="icons/heat1d.png" width="48" height="48"> | [***heat1d***](apps/heat1d.md) | *UI for testing the soilFluxex3D library, CRITERIA1D.*..[ *read more* ](apps/heat1d.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/heat1d) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/heat1d) |
 | <img loading="lazy" src="icons/heimer.png" width="48" height="48"> | [***heimer***](apps/heimer.md) | *Simple cross-platform mind map, diagram, and note-taking tool.*..[ *read more* ](apps/heimer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/heimer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/heimer) |
 | <img loading="lazy" src="icons/helio.png" width="48" height="48"> | [***helio***](apps/helio.md) | *One music sequencer for all major platforms, desktop and mobile.*..[ *read more* ](apps/helio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helio) |
+| <img loading="lazy" src="icons/helion.png" width="48" height="48"> | [***helion***](apps/helion.md) | *A modern fast paced Doom FPS engine.*..[ *read more* ](apps/helion.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helion) |
 | <img loading="lazy" src="icons/helioslauncher.png" width="48" height="48"> | [***helioslauncher***](apps/helioslauncher.md) | *Custom launcher for modded minecraft written in Electron.*..[ *read more* ](apps/helioslauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helioslauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helioslauncher) |
 | <img loading="lazy" src="icons/helium.png" width="48" height="48"> | [***helium***](apps/helium.md) | *The Chromium-based web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise.*..[ *read more* ](apps/helium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helium) |
 | <img loading="lazy" src="icons/helix.png" width="48" height="48"> | [***helix***](apps/helix.md) | *A post-modern modal text editor.*..[ *read more* ](apps/helix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helix) |

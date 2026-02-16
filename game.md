@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **273** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **274** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -131,6 +131,7 @@
 | <img loading="lazy" src="icons/greenlight.png" width="48" height="48"> | [***greenlight***](apps/greenlight.md) | *Client for xCloud and Xbox home streaming made in Typescript.*..[ *read more* ](apps/greenlight.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/greenlight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/greenlight) |
 | <img loading="lazy" src="icons/hades-emu.png" width="48" height="48"> | [***hades-emu***](apps/hades-emu.md) | *A Nintendo Game Boy Advance Emulator.*..[ *read more* ](apps/hades-emu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hades-emu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hades-emu) |
 | <img loading="lazy" src="icons/hastyheroes.png" width="48" height="48"> | [***hastyheroes***](apps/hastyheroes.md) | *An endless 2D jumping game.*..[ *read more* ](apps/hastyheroes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hastyheroes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hastyheroes) |
+| <img loading="lazy" src="icons/helion.png" width="48" height="48"> | [***helion***](apps/helion.md) | *A modern fast paced Doom FPS engine.*..[ *read more* ](apps/helion.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helion) |
 | <img loading="lazy" src="icons/helioslauncher.png" width="48" height="48"> | [***helioslauncher***](apps/helioslauncher.md) | *Custom launcher for modded minecraft written in Electron.*..[ *read more* ](apps/helioslauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helioslauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helioslauncher) |
 | <img loading="lazy" src="icons/heroic-games-launcher.png" width="48" height="48"> | [***heroic-games-launcher***](apps/heroic-games-launcher.md) | *A Native GOG and Epic Games Launcher for Linux.*..[ *read more* ](apps/heroic-games-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/heroic-games-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/heroic-games-launcher) |
 | <img loading="lazy" src="icons/highlite.png" width="48" height="48"> | [***highlite***](apps/highlite.md) | *A RuneLite-esque Client for the game High Spell.*..[ *read more* ](apps/highlite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/highlite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/highlite) |
