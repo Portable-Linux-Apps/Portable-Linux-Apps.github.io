@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2437** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2438** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2134,6 +2134,7 @@
 | <img loading="lazy" src="icons/teslacam-browser.png" width="48" height="48"> | [***teslacam-browser***](apps/teslacam-browser.md) | *A minimal TeslaCam Browser.*..[ *read more* ](apps/teslacam-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/teslacam-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/teslacam-browser) |
 | <img loading="lazy" src="icons/tesler.png" width="48" height="48"> | [***tesler***](apps/tesler.md) | *The Tesla Sentinel Viewer.*..[ *read more* ](apps/tesler.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tesler) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tesler) |
 | <img loading="lazy" src="icons/tesseract.png" width="48" height="48"> | [***tesseract***](apps/tesseract.md) | *Tesseract Open Source OCR Engine AppImage.*..[ *read more* ](apps/tesseract.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tesseract) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tesseract) |
+| <img loading="lazy" src="icons/tetanes.png" width="48" height="48"> | [***tetanes***](apps/tetanes.md) | *A cross-platform NES emulator written in Rust using wgpu.*..[ *read more* ](apps/tetanes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tetanes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tetanes) |
 | <img loading="lazy" src="icons/texmacs.png" width="48" height="48"> | [***texmacs***](apps/texmacs.md) | *Free scientific text editor, inspired by TeX and GNU Emacs.*..[ *read more* ](apps/texmacs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/texmacs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/texmacs) |
 | <img loading="lazy" src="icons/texstudio.png" width="48" height="48"> | [***texstudio***](apps/texstudio.md) | *LaTeX development environment.*..[ *read more* ](apps/texstudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/texstudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/texstudio) |
 | <img loading="lazy" src="icons/textosaurus.png" width="48" height="48"> | [***textosaurus***](apps/textosaurus.md) | *Cross-platform text editor based on Qt and Scintilla.*..[ *read more* ](apps/textosaurus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/textosaurus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/textosaurus) |

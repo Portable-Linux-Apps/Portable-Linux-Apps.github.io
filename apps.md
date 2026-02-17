@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2849** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2850** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2555,6 +2555,7 @@
 | <img loading="lazy" src="icons/tess.png" width="48" height="48"> | [***tess***](apps/tess.md) | *A hackable, simple, rapid and beautiful terminal.*..[ *read more* ](apps/tess.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tess) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tess) |
 | <img loading="lazy" src="icons/tesseract.png" width="48" height="48"> | [***tesseract***](apps/tesseract.md) | *Tesseract Open Source OCR Engine AppImage.*..[ *read more* ](apps/tesseract.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tesseract) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tesseract) |
 | <img loading="lazy" src="icons/testdisk.png" width="48" height="48"> | [***testdisk***](apps/testdisk.md) | *TestDisk & PhotoRec, tools to recover lost partitions and files.*..[ *read more* ](apps/testdisk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/testdisk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/testdisk) |
+| <img loading="lazy" src="icons/tetanes.png" width="48" height="48"> | [***tetanes***](apps/tetanes.md) | *A cross-platform NES emulator written in Rust using wgpu.*..[ *read more* ](apps/tetanes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tetanes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tetanes) |
 | <img loading="lazy" src="icons/texmacs.png" width="48" height="48"> | [***texmacs***](apps/texmacs.md) | *Free scientific text editor, inspired by TeX and GNU Emacs.*..[ *read more* ](apps/texmacs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/texmacs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/texmacs) |
 | <img loading="lazy" src="icons/texstudio.png" width="48" height="48"> | [***texstudio***](apps/texstudio.md) | *LaTeX development environment.*..[ *read more* ](apps/texstudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/texstudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/texstudio) |
 | <img loading="lazy" src="icons/textnote.png" width="48" height="48"> | [***textnote***](apps/textnote.md) | *Simple tool for creating and organizing daily notes on the command line.*..[ *read more* ](apps/textnote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/textnote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/textnote) |
