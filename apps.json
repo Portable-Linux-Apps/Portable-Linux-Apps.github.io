@@ -1975,16 +1975,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/circuitblocks.png"
   },
   {
-    "packageName": "citron",
-    "description": "Citron (fork of yuzu), with optimized builds for modern cpus...",
-    "icon": "https://portable-linux-apps.github.io/icons/citron.png"
-  },
-  {
-    "packageName": "citron-nightly",
-    "description": "Citron (fork of yuzu), with optimized builds for modern cpus (nightly builds)...",
-    "icon": "https://portable-linux-apps.github.io/icons/citron-nightly.png"
-  },
-  {
     "packageName": "city-hub",
     "description": "Hub into everything on City Chain/Smart City Platform...",
     "icon": "https://portable-linux-apps.github.io/icons/city-hub.png"
