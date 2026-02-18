@@ -5455,6 +5455,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/helix.png"
   },
   {
+    "packageName": "helixnotes",
+    "description": "A local markdown note-taking app built with Tauri, SvelteKit, and Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/helixnotes.png"
+  },
+  {
     "packageName": "henson",
     "description": "A puppet manager for NationStates...",
     "icon": "https://portable-linux-apps.github.io/icons/henson.png"
