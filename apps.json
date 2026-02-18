@@ -11750,6 +11750,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/solarwallet.png"
   },
   {
+    "packageName": "sonic-3-air",
+    "description": "Unofficial AppImage of Sonic 3 A.I.R...",
+    "icon": "https://portable-linux-apps.github.io/icons/sonic-3-air.png"
+  },
+  {
     "packageName": "sonic-mania-decompilation",
     "description": "A complete decompilation of Sonic Mania (2017)...",
     "icon": "https://portable-linux-apps.github.io/icons/sonic-mania-decompilation.png"
@@ -12498,6 +12503,11 @@
     "packageName": "tagtime-desktop",
     "description": "Time tracking for space cadets, desktop edition...",
     "icon": "https://portable-linux-apps.github.io/icons/tagtime-desktop.png"
+  },
+  {
+    "packageName": "taisei-project",
+    "description": "Unofficial, A free and open-source Touhou Project fangame...",
+    "icon": "https://portable-linux-apps.github.io/icons/taisei-project.png"
   },
   {
     "packageName": "talktype",
@@ -13823,6 +13833,11 @@
     "packageName": "whalebird",
     "description": "An Electron based Mastodon client...",
     "icon": "https://portable-linux-apps.github.io/icons/whalebird.png"
+  },
+  {
+    "packageName": "whatsdesk",
+    "description": "Unofficial, An unofficial client of WhatsApp...",
+    "icon": "https://portable-linux-apps.github.io/icons/whatsdesk.png"
   },
   {
     "packageName": "whatstron",

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **276** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **277** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -314,6 +314,7 @@
 | <img loading="lazy" src="icons/supertuxkart-dev.png" width="48" height="48"> | [***supertuxkart-dev***](apps/supertuxkart-dev.md) | *Free kart racing game focused on Fun! Pre-release.*..[ *read more* ](apps/supertuxkart-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supertuxkart-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supertuxkart-dev) |
 | <img loading="lazy" src="icons/swc-minecraft-launcher.png" width="48" height="48"> | [***swc-minecraft-launcher***](apps/swc-minecraft-launcher.md) | *SWC Minecraft Launcher.*..[ *read more* ](apps/swc-minecraft-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swc-minecraft-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swc-minecraft-launcher) |
 | <img loading="lazy" src="icons/synthein.png" width="48" height="48"> | [***synthein***](apps/synthein.md) | *A space ship building and combat game.*..[ *read more* ](apps/synthein.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/synthein) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/synthein) |
+| <img loading="lazy" src="icons/taisei-project.png" width="48" height="48"> | [***taisei-project***](apps/taisei-project.md) | *Unofficial, A free and open-source Touhou Project fangame.*..[ *read more* ](apps/taisei-project.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taisei-project) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taisei-project) |
 | <img loading="lazy" src="icons/thlink.png" width="48" height="48"> | [***thlink***](apps/thlink.md) | *Touhou Project Game Netplay Tool.*..[ *read more* ](apps/thlink.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thlink) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thlink) |
 | <img loading="lazy" src="icons/torcs.png" width="48" height="48"> | [***torcs***](apps/torcs.md) | *The 3D Open Racing Car Game and Simulator.*..[ *read more* ](apps/torcs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/torcs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/torcs) |
 | <img loading="lazy" src="icons/trenchbroom.png" width="48" height="48"> | [***trenchbroom***](apps/trenchbroom.md) | *A modern, cross-platform level editor for Quake engine based games.*..[ *read more* ](apps/trenchbroom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trenchbroom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trenchbroom) |

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **190** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **191** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -211,6 +211,7 @@
 | <img loading="lazy" src="icons/wewechat.png" width="48" height="48"> | [***wewechat***](apps/wewechat.md) | *Unofficial WeChat client built with React, MobX and Electron.*..[ *read more* ](apps/wewechat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wewechat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wewechat) |
 | <img loading="lazy" src="icons/wexond.png" width="48" height="48"> | [***wexond***](apps/wexond.md) | *Extensible, fast and innovative web browser with material UI.*..[ *read more* ](apps/wexond.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wexond) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wexond) |
 | <img loading="lazy" src="icons/whalebird.png" width="48" height="48"> | [***whalebird***](apps/whalebird.md) | *An Electron based Mastodon client.*..[ *read more* ](apps/whalebird.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whalebird) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whalebird) |
+| <img loading="lazy" src="icons/whatsdesk.png" width="48" height="48"> | [***whatsdesk***](apps/whatsdesk.md) | *Unofficial, An unofficial client of WhatsApp.*..[ *read more* ](apps/whatsdesk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whatsdesk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whatsdesk) |
 | <img loading="lazy" src="icons/whatstron.png" width="48" height="48"> | [***whatstron***](apps/whatstron.md) | *Unofficial WhatsApp desktop client for Linux.*..[ *read more* ](apps/whatstron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whatstron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whatstron) |
 | <img loading="lazy" src="icons/xchat.png" width="48" height="48"> | [***xchat***](apps/xchat.md) | *Chat with other people using Internet Relay Chat.*..[ *read more* ](apps/xchat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xchat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xchat) |
 | <img loading="lazy" src="icons/xgetter.png" width="48" height="48"> | [***xgetter***](apps/xgetter.md) | *Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Bilibili, Douyin and more.*..[ *read more* ](apps/xgetter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xgetter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xgetter) |
