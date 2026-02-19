@@ -14515,6 +14515,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/zapzap.png"
   },
   {
+    "packageName": "zapzap-enhanced",
+    "description": "Unofficial AppImage of ZapZap WhatsApp client...",
+    "icon": "https://portable-linux-apps.github.io/icons/zapzap-enhanced.png"
+  },
+  {
     "packageName": "zed",
     "description": "High-performance, multiplayer code editor from the creators of Atom...",
     "icon": "https://portable-linux-apps.github.io/icons/zed.png"

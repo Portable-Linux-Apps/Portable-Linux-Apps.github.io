@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **110** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **111** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -144,6 +144,7 @@
 | <img loading="lazy" src="icons/xchat.png" width="48" height="48"> | [***xchat***](apps/xchat.md) | *Chat with other people using Internet Relay Chat.*..[ *read more* ](apps/xchat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xchat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xchat) |
 | <img loading="lazy" src="icons/xgetter.png" width="48" height="48"> | [***xgetter***](apps/xgetter.md) | *Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Bilibili, Douyin and more.*..[ *read more* ](apps/xgetter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xgetter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xgetter) |
 | <img loading="lazy" src="icons/zapzap.png" width="48" height="48"> | [***zapzap***](apps/zapzap.md) | *WhatsApp desktop application written in Pyqt6 + PyQt6-WebEngine.*..[ *read more* ](apps/zapzap.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zapzap) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zapzap) |
+| <img loading="lazy" src="icons/zapzap-enhanced.png" width="48" height="48"> | [***zapzap-enhanced***](apps/zapzap-enhanced.md) | *Unofficial AppImage of ZapZap WhatsApp client.*..[ *read more* ](apps/zapzap-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zapzap-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zapzap-enhanced) |
 | <img loading="lazy" src="icons/zoom.png" width="48" height="48"> | [***zoom***](apps/zoom.md) | *Unofficial. Video Conferencing and Web Conferencing Service.*..[ *read more* ](apps/zoom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zoom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zoom) |
 
 

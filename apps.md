@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2854** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2855** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2930,6 +2930,7 @@
 | <img loading="lazy" src="icons/yuview.png" width="48" height="48"> | [***yuview***](apps/yuview.md) | *YUV player with an advanced analytic toolset.*..[ *read more* ](apps/yuview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yuview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yuview) |
 | <img loading="lazy" src="icons/zap.png" width="48" height="48"> | [***zap***](apps/zap.md) | *Delightful command line AppImage package manager for appimage.github.io.*..[ *read more* ](apps/zap.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zap) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zap) |
 | <img loading="lazy" src="icons/zapdesktop.png" width="48" height="48"> | [***zapdesktop***](apps/zapdesktop.md) | *Desktop application for the lightning network.*..[ *read more* ](apps/zapdesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zapdesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zapdesktop) |
+| <img loading="lazy" src="icons/zapzap-enhanced.png" width="48" height="48"> | [***zapzap-enhanced***](apps/zapzap-enhanced.md) | *Unofficial AppImage of ZapZap WhatsApp client.*..[ *read more* ](apps/zapzap-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zapzap-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zapzap-enhanced) |
 | <img loading="lazy" src="icons/zapzap.png" width="48" height="48"> | [***zapzap***](apps/zapzap.md) | *WhatsApp desktop application written in Pyqt6 + PyQt6-WebEngine.*..[ *read more* ](apps/zapzap.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zapzap) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zapzap) |
 | <img loading="lazy" src="icons/zed.png" width="48" height="48"> | [***zed***](apps/zed.md) | *High-performance, multiplayer code editor from the creators of Atom.*..[ *read more* ](apps/zed.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zed) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zed) |
 | <img loading="lazy" src="icons/zegarek.png" width="48" height="48"> | [***zegarek***](apps/zegarek.md) | *A simple clock with millisecond resolution.*..[ *read more* ](apps/zegarek.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zegarek) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zegarek) |

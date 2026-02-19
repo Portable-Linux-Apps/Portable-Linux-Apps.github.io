@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **191** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **192** programs and **9** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -232,6 +232,7 @@
 | <img loading="lazy" src="icons/ytmdesktop2.png" width="48" height="48"> | [***ytmdesktop2***](apps/ytmdesktop2.md) | *Unofficial Youtube Music Desktop App, with LastFM support.*..[ *read more* ](apps/ytmdesktop2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ytmdesktop2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ytmdesktop2) |
 | <img loading="lazy" src="icons/yts-streaming.png" width="48" height="48"> | [***yts-streaming***](apps/yts-streaming.md) | *Stream or play yts and torrent movies.*..[ *read more* ](apps/yts-streaming.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yts-streaming) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yts-streaming) |
 | <img loading="lazy" src="icons/zapzap.png" width="48" height="48"> | [***zapzap***](apps/zapzap.md) | *WhatsApp desktop application written in Pyqt6 + PyQt6-WebEngine.*..[ *read more* ](apps/zapzap.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zapzap) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zapzap) |
+| <img loading="lazy" src="icons/zapzap-enhanced.png" width="48" height="48"> | [***zapzap-enhanced***](apps/zapzap-enhanced.md) | *Unofficial AppImage of ZapZap WhatsApp client.*..[ *read more* ](apps/zapzap-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zapzap-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zapzap-enhanced) |
 
 
 ---
