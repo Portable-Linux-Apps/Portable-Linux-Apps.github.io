@@ -1,12 +1,12 @@
 [
   {
     "packageName": "0ad",
-    "description": "Unofficial. FOSS historical Real Time Strategy, RTS game of ancient warfare...",
+    "description": "FOSS historical Real Time Strategy, RTS game of ancient warfare...",
     "icon": "https://portable-linux-apps.github.io/icons/0ad.png"
   },
   {
     "packageName": "0ad-prerelease",
-    "description": "Unofficial. FOSS historical Real Time Strategy, RTS game of ancient warfare (Pre-release)...",
+    "description": "FOSS historical Real Time Strategy, RTS game of ancient warfare (Pre-release)...",
     "icon": "https://portable-linux-apps.github.io/icons/0ad-prerelease.png"
   },
   {
