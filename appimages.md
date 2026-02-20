@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2443** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2444** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -365,6 +365,7 @@
 | <img loading="lazy" src="icons/chromium-rc.png" width="48" height="48"> | [***chromium-rc***](apps/chromium-rc.md) | *Unofficial. FOSS Web Browser, base of Google Chrome, release candidate.*..[ *read more* ](apps/chromium-rc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-rc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-rc) |
 | <img loading="lazy" src="icons/chrysalis-bin.png" width="48" height="48"> | [***chrysalis-bin***](apps/chrysalis-bin.md) | *Graphical configurator for Kaleidoscope-powered keyboards.*..[ *read more* ](apps/chrysalis-bin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chrysalis-bin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chrysalis-bin) |
 | <img loading="lazy" src="icons/ciaa-suite.png" width="48" height="48"> | [***ciaa-suite***](apps/ciaa-suite.md) | *Makefile based IDE for embedded systems.*..[ *read more* ](apps/ciaa-suite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ciaa-suite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ciaa-suite) |
+| <img loading="lazy" src="icons/cinelerra.png" width="48" height="48"> | [***cinelerra***](apps/cinelerra.md) | *CINELERRA-GG is a software program NLE, Non-Linear Editor, that provides a way to edit, record, and play audio or video media. It can also be used to transcode media from one format to another or to correct and retouch photos.*..[ *read more* ](apps/cinelerra.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cinelerra) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cinelerra) |
 | <img loading="lazy" src="icons/cinny.png" width="48" height="48"> | [***cinny***](apps/cinny.md) | *Yet another matrix client for desktop.*..[ *read more* ](apps/cinny.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cinny) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cinny) |
 | <img loading="lazy" src="icons/circle-z.png" width="48" height="48"> | [***circle-z***](apps/circle-z.md) | *A chat client for online math courses.*..[ *read more* ](apps/circle-z.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/circle-z) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/circle-z) |
 | <img loading="lazy" src="icons/circuitblocks.png" width="48" height="48"> | [***circuitblocks***](apps/circuitblocks.md) | *Helps newbies get into embedded programming.*..[ *read more* ](apps/circuitblocks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/circuitblocks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/circuitblocks) |
