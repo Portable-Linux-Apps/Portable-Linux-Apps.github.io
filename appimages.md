@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2444** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2445** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1218,6 +1218,7 @@
 | <img loading="lazy" src="icons/mangoverlay.png" width="48" height="48"> | [***mangoverlay***](apps/mangoverlay.md) | *Mangohud configuration tool.*..[ *read more* ](apps/mangoverlay.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangoverlay) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangoverlay) |
 | <img loading="lazy" src="icons/manta.png" width="48" height="48"> | [***manta***](apps/manta.md) | *Flexible invoicing app with beautiful & customizable templates.*..[ *read more* ](apps/manta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/manta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/manta) |
 | <img loading="lazy" src="icons/mapeo.png" width="48" height="48"> | [***mapeo***](apps/mapeo.md) | *Local-first mapping and monitoring in remote environments.*..[ *read more* ](apps/mapeo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mapeo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mapeo) |
+| <img loading="lazy" src="icons/mapic.png" width="48" height="48"> | [***mapic***](apps/mapic.md) | *MaPic is a Image Viewer with AI Metadata Reader.*..[ *read more* ](apps/mapic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mapic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mapic) |
 | <img loading="lazy" src="icons/mapollage.png" width="48" height="48"> | [***mapollage***](apps/mapollage.md) | *Photo kml generator for Google Earth.*..[ *read more* ](apps/mapollage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mapollage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mapollage) |
 | <img loading="lazy" src="icons/mapton.png" width="48" height="48"> | [***mapton***](apps/mapton.md) | *Some kind of map application.*..[ *read more* ](apps/mapton.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mapton) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mapton) |
 | <img loading="lazy" src="icons/mark-mind.png" width="48" height="48"> | [***mark-mind***](apps/mark-mind.md) | *Multiplatform mind map and outliner editor with markdown support.*..[ *read more* ](apps/mark-mind.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mark-mind) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mark-mind) |

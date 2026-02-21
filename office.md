@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **107** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **108** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -87,6 +87,7 @@
 | <img loading="lazy" src="icons/lunatask.png" width="48" height="48"> | [***lunatask***](apps/lunatask.md) | *All-in-one encrypted to-do list, notebook, habit and mood tracker.*..[ *read more* ](apps/lunatask.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lunatask) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lunatask) |
 | <img loading="lazy" src="icons/makagiga.png" width="48" height="48"> | [***makagiga***](apps/makagiga.md) | *To-do manager, notepad, RSS reader and much more.*..[ *read more* ](apps/makagiga.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/makagiga) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/makagiga) |
 | <img loading="lazy" src="icons/manga-tui.png" width="48" height="48"> | [***manga-tui***](apps/manga-tui.md) | *Terminal-based manga reader and downloader with image support.*..[ *read more* ](apps/manga-tui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/manga-tui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/manga-tui) |
+| <img loading="lazy" src="icons/mapic.png" width="48" height="48"> | [***mapic***](apps/mapic.md) | *MaPic is a Image Viewer with AI Metadata Reader.*..[ *read more* ](apps/mapic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mapic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mapic) |
 | <img loading="lazy" src="icons/master-pdf-editor.png" width="48" height="48"> | [***master-pdf-editor***](apps/master-pdf-editor.md) | *Master PDF Editor allows you to create, edit, preview, encrypt, sign and print PDF documents.*..[ *read more* ](apps/master-pdf-editor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/master-pdf-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/master-pdf-editor) |
 | <img loading="lazy" src="icons/mathcha-notebook.png" width="48" height="48"> | [***mathcha-notebook***](apps/mathcha-notebook.md) | *Desktop version of Mathcha, built for your privacy.*..[ *read more* ](apps/mathcha-notebook.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mathcha-notebook) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mathcha-notebook) |
 | <img loading="lazy" src="icons/mdsilo-app.png" width="48" height="48"> | [***mdsilo-app***](apps/mdsilo-app.md) | *Lightweight Knowledge Base and Feed Reader.*..[ *read more* ](apps/mdsilo-app.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mdsilo-app) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mdsilo-app) |
