@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2445** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2444** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -705,7 +705,6 @@
 | <img loading="lazy" src="icons/ff-password-exporter.png" width="48" height="48"> | [***ff-password-exporter***](apps/ff-password-exporter.md) | *Export your saved passwords from Firefox.*..[ *read more* ](apps/ff-password-exporter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ff-password-exporter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ff-password-exporter) |
 | <img loading="lazy" src="icons/fflogs-uploader.png" width="48" height="48"> | [***fflogs-uploader***](apps/fflogs-uploader.md) | *FFLogs Uploader appimage.*..[ *read more* ](apps/fflogs-uploader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fflogs-uploader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fflogs-uploader) |
 | <img loading="lazy" src="icons/ffmpeg.png" width="48" height="48"> | [***ffmpeg***](apps/ffmpeg.md) | *Unofficial, A complete, cross-platform solution to record, convert and stream audio and video.*..[ *read more* ](apps/ffmpeg.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffmpeg) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffmpeg) |
-| <img loading="lazy" src="icons/ffvim.png" width="48" height="48"> | [***ffvim***](apps/ffvim.md) | *FIVIM is an editor for encrypted notes and files.*..[ *read more* ](apps/ffvim.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffvim) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffvim) |
 | <img loading="lazy" src="icons/ficus.png" width="48" height="48"> | [***ficus***](apps/ficus.md) | *A software for editing and managing markdown documents.*..[ *read more* ](apps/ficus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ficus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ficus) |
 | <img loading="lazy" src="icons/fiddler-everywhere.png" width="48" height="48"> | [***fiddler-everywhere***](apps/fiddler-everywhere.md) | *Debug your network traffic to deliver high-quality products.*..[ *read more* ](apps/fiddler-everywhere.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fiddler-everywhere) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fiddler-everywhere) |
 | <img loading="lazy" src="icons/fidias-database-migration-app.png" width="48" height="48"> | [***fidias-database-migration-app***](apps/fidias-database-migration-app.md) | *Migrate SQL-based databases.*..[ *read more* ](apps/fidias-database-migration-app.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fidias-database-migration-app) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fidias-database-migration-app) |

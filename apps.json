@@ -3930,11 +3930,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/ffsend.png"
   },
   {
-    "packageName": "ffvim",
-    "description": "FIVIM is an editor for encrypted notes and files...",
-    "icon": "https://portable-linux-apps.github.io/icons/ffvim.png"
-  },
-  {
     "packageName": "ffwa-facebook",
     "description": "WebApp & Firefox Profile for Facebook...",
     "icon": "https://portable-linux-apps.github.io/icons/ffwa-facebook.png"
