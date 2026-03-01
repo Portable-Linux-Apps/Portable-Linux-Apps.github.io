@@ -10855,6 +10855,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ridereceipts.png"
   },
   {
+    "packageName": "rift",
+    "description": "All your EVE Online intel in one place...",
+    "icon": "https://portable-linux-apps.github.io/icons/rift.png"
+  },
+  {
     "packageName": "rigelengine",
     "description": "Modern re-implementation of DOS game Duke Nukem II...",
     "icon": "https://portable-linux-apps.github.io/icons/rigelengine.png"

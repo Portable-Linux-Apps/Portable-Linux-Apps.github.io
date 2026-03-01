@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2455** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2456** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1825,6 +1825,7 @@
 | <img loading="lazy" src="icons/ricochet.png" width="48" height="48"> | [***ricochet***](apps/ricochet.md) | *Anonymous peer-to-peer instant messaging.*..[ *read more* ](apps/ricochet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ricochet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ricochet) |
 | <img loading="lazy" src="icons/ricochlime.png" width="48" height="48"> | [***ricochlime***](apps/ricochlime.md) | *Satisfying slime shooter.*..[ *read more* ](apps/ricochlime.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ricochlime) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ricochlime) |
 | <img loading="lazy" src="icons/ridereceipts.png" width="48" height="48"> | [***ridereceipts***](apps/ridereceipts.md) | *Automation app to download and organize your tax invoices.*..[ *read more* ](apps/ridereceipts.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ridereceipts) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ridereceipts) |
+| <img loading="lazy" src="icons/rift.png" width="48" height="48"> | [***rift***](apps/rift.md) | *All your EVE Online intel in one place.*..[ *read more* ](apps/rift.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rift) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rift) |
 | <img loading="lazy" src="icons/rigelengine.png" width="48" height="48"> | [***rigelengine***](apps/rigelengine.md) | *Modern re-implementation of DOS game Duke Nukem II.*..[ *read more* ](apps/rigelengine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rigelengine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rigelengine) |
 | <img loading="lazy" src="icons/ripcord.png" width="48" height="48"> | [***ripcord***](apps/ripcord.md) | *Chat client for group-centric services like Slack and Discord.*..[ *read more* ](apps/ripcord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ripcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ripcord) |
 | <img loading="lazy" src="icons/ripes.png" width="48" height="48"> | [***ripes***](apps/ripes.md) | *Graphical processor simulator and assembly editor for the RISC-V ISA.*..[ *read more* ](apps/ripes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ripes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ripes) |
