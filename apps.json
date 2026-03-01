@@ -7650,6 +7650,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/megaglest.png"
   },
   {
+    "packageName": "meganimus",
+    "description": "A launcher for native and emulator games...",
+    "icon": "https://portable-linux-apps.github.io/icons/meganimus.png"
+  },
+  {
     "packageName": "mellowplayer",
     "description": "Cloud music integration for your desktop...",
     "icon": "https://portable-linux-apps.github.io/icons/mellowplayer.png"
