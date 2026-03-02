@@ -945,11 +945,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/bandwhich.png"
   },
   {
-    "packageName": "baobab-gtk3",
-    "description": "Unofficial. Disk Usage Analyser, version 3.38...",
-    "icon": "https://portable-linux-apps.github.io/icons/baobab-gtk3.png"
-  },
-  {
     "packageName": "barnacal",
     "description": "A simple menu bar app for viewing a calendar..",
     "icon": "https://portable-linux-apps.github.io/icons/barnacal.png"
@@ -3575,11 +3570,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/envkey.png"
   },
   {
-    "packageName": "eog-gtk3",
-    "description": "Unofficial. Image Viewer, version 3.38.2...",
-    "icon": "https://portable-linux-apps.github.io/icons/eog-gtk3.png"
-  },
-  {
     "packageName": "eosvc",
     "description": "Application for management of self-employeed people...",
     "icon": "https://portable-linux-apps.github.io/icons/eosvc.png"
@@ -4033,11 +4023,6 @@
     "packageName": "file-converter",
     "description": "Convert between various file formats...",
     "icon": "https://portable-linux-apps.github.io/icons/file-converter.png"
-  },
-  {
-    "packageName": "file-roller-gtk3",
-    "description": "An archive manager that supports .zip/.tar/.rar/.iso/.ar/.exe and more, for the GNOME environment, version 3.38.1...",
-    "icon": "https://portable-linux-apps.github.io/icons/file-roller-gtk3.png"
   },
   {
     "packageName": "file-to-c",
@@ -5028,11 +5013,6 @@
     "packageName": "gnome-system-monitor",
     "description": "Unofficial. View current processes and monitor system state...",
     "icon": "https://portable-linux-apps.github.io/icons/gnome-system-monitor.png"
-  },
-  {
-    "packageName": "gnome-system-monitor-gtk3",
-    "description": "Unofficial, Version 3.38.0, for all those who hate GNOME4+ UIs...",
-    "icon": "https://portable-linux-apps.github.io/icons/gnome-system-monitor-gtk3.png"
   },
   {
     "packageName": "gnome-text-editor",
@@ -11568,11 +11548,6 @@
     "packageName": "simple-s3-uploader",
     "description": "Easily uploading files and sharing links via AWS S3...",
     "icon": "https://portable-linux-apps.github.io/icons/simple-s3-uploader.png"
-  },
-  {
-    "packageName": "simple-scan-gtk3",
-    "description": "Unofficial. A simple document scanner, version 3.38.1...",
-    "icon": "https://portable-linux-apps.github.io/icons/simple-scan-gtk3.png"
   },
   {
     "packageName": "simple-timer",

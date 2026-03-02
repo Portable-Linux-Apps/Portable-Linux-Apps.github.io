@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **108** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **107** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -121,7 +121,6 @@
 | <img loading="lazy" src="icons/rnote.png" width="48" height="48"> | [***rnote***](apps/rnote.md) | *Unofficial, Rnote is a vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures.*..[ *read more* ](apps/rnote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rnote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rnote) |
 | <img loading="lazy" src="icons/rssguard.png" width="48" height="48"> | [***rssguard***](apps/rssguard.md) | *Feed reader which supports RSS/ATOM/JSON, no-webengine version.*..[ *read more* ](apps/rssguard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rssguard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rssguard) |
 | <img loading="lazy" src="icons/sigil.png" width="48" height="48"> | [***sigil***](apps/sigil.md) | *Sigil is a multi-platform EPUB ebook editor.*..[ *read more* ](apps/sigil.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sigil) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sigil) |
-| <img loading="lazy" src="icons/simple-scan-gtk3.png" width="48" height="48"> | [***simple-scan-gtk3***](apps/simple-scan-gtk3.md) | *Unofficial. A simple document scanner, version 3.38.1.*..[ *read more* ](apps/simple-scan-gtk3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/simple-scan-gtk3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/simple-scan-gtk3) |
 | <img loading="lazy" src="icons/sioyek.png" width="48" height="48"> | [***sioyek***](apps/sioyek.md) | *PDF viewer designed for reading research papers and technical books.*..[ *read more* ](apps/sioyek.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sioyek) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sioyek) |
 | <img loading="lazy" src="icons/special-eureka.png" width="48" height="48"> | [***special-eureka***](apps/special-eureka.md) | *A desktop mangareader built in Tauri and React*..[ *read more* ](apps/special-eureka.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/special-eureka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/special-eureka) |
 | <img loading="lazy" src="icons/spyglass.png" width="48" height="48"> | [***spyglass***](apps/spyglass.md) | *A personal search engine to create a searchable library from your personal documents, interests, and more.*..[ *read more* ](apps/spyglass.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spyglass) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spyglass) |
