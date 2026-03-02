@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2455** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2456** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -844,6 +844,7 @@
 | <img loading="lazy" src="icons/gitbutler.png" width="48" height="48"> | [***gitbutler***](apps/gitbutler.md) | *The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte.*..[ *read more* ](apps/gitbutler.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gitbutler) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gitbutler) |
 | <img loading="lazy" src="icons/githoard.png" width="48" height="48"> | [***githoard***](apps/githoard.md) | *Hoard git repositories with ease.*..[ *read more* ](apps/githoard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/githoard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/githoard) |
 | <img loading="lazy" src="icons/github-desktop-plus.png" width="48" height="48"> | [***github-desktop-plus***](apps/github-desktop-plus.md) | *Electron-based GitHub Desktop fork with advanced functionality and Bitbucket, GitLab integration.*..[ *read more* ](apps/github-desktop-plus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/github-desktop-plus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/github-desktop-plus) |
+| <img loading="lazy" src="icons/github-store.png" width="48" height="48"> | [***github-store***](apps/github-store.md) | *A free, open-source app store for GitHub releases. Browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop.*..[ *read more* ](apps/github-store.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/github-store) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/github-store) |
 | <img loading="lazy" src="icons/gitify.png" width="48" height="48"> | [***gitify***](apps/gitify.md) | *GitHub notifications on your menu bar.*..[ *read more* ](apps/gitify.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gitify) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gitify) |
 | <img loading="lazy" src="icons/gitjournal.png" width="48" height="48"> | [***gitjournal***](apps/gitjournal.md) | *Mobile first Note Taking integrated with Git.*..[ *read more* ](apps/gitjournal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gitjournal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gitjournal) |
 | <img loading="lazy" src="icons/gitkraken.png" width="48" height="48"> | [***gitkraken***](apps/gitkraken.md) | *GitKraken Client including an intuitive GUI & powerful CLI.*..[ *read more* ](apps/gitkraken.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gitkraken) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gitkraken) |

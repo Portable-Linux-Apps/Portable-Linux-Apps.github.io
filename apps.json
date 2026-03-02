@@ -4895,6 +4895,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/github-desktop-plus.png"
   },
   {
+    "packageName": "github-store",
+    "description": "A free, open-source app store for GitHub releases. Browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop...",
+    "icon": "https://portable-linux-apps.github.io/icons/github-store.png"
+  },
+  {
     "packageName": "gitify",
     "description": "GitHub notifications on your menu bar...",
     "icon": "https://portable-linux-apps.github.io/icons/gitify.png"
