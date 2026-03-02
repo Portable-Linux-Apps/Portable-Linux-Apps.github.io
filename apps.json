@@ -1625,6 +1625,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/caesium.png"
   },
   {
+    "packageName": "cake-wallet",
+    "description": "Easily and safely store, send, receive, and exchange your cryptocurrency...",
+    "icon": "https://portable-linux-apps.github.io/icons/cake-wallet.png"
+  },
+  {
     "packageName": "calibre",
     "description": "Unofficial. The one stop solution to all your e-book needs...",
     "icon": "https://portable-linux-apps.github.io/icons/calibre.png"
@@ -9105,19 +9110,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/orcaslicer.png"
   },
   {
-    "packageName": "orcaslicer-any",
-    "description": "G-code generator for 3D printers, the most recent release...",
-    "icon": "https://portable-linux-apps.github.io/icons/orcaslicer-any.png"
-  },
-  {
-    "packageName": "orcaslicer-beta",
-    "description": "G-code generator for 3D printers, Beta release...",
-    "icon": "https://portable-linux-apps.github.io/icons/orcaslicer-beta.png"
-  },
-  {
-    "packageName": "orcaslicer-rc",
-    "description": "G-code generator for 3D printers, Release Candidate...",
-    "icon": "https://portable-linux-apps.github.io/icons/orcaslicer-rc.png"
+    "packageName": "orcaslicer-devel",
+    "description": "G-code generator for 3D printers, the most recent development build (nightly, alpha, beta, rc)...",
+    "icon": "https://portable-linux-apps.github.io/icons/orcaslicer-devel.png"
   },
   {
     "packageName": "osrs-tools",
