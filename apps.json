@@ -111,7 +111,7 @@
   },
   {
     "packageName": "aerofoil",
-    "description": "Multiplatform port of Glider PRO...",
+    "description": "Unofficial, multiplatform port of Glider PRO...",
     "icon": "https://portable-linux-apps.github.io/icons/aerofoil.png"
   },
   {
@@ -1115,6 +1115,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/biblemultithelife.png"
   },
   {
+    "packageName": "bibletime",
+    "description": "Unofficial, a Bible study application based on the Sword library and Qt toolkit...",
+    "icon": "https://portable-linux-apps.github.io/icons/bibletime.png"
+  },
+  {
     "packageName": "biblia-sacra",
     "description": "A multi language bible app, with emphasis on Latin...",
     "icon": "https://portable-linux-apps.github.io/icons/biblia-sacra.png"
@@ -1676,7 +1681,7 @@
   },
   {
     "packageName": "cannonball",
-    "description": "An Enhanced OutRun Engine...",
+    "description": "Unofficial, an Enhanced OutRun Engine...",
     "icon": "https://portable-linux-apps.github.io/icons/cannonball.png"
   },
   {
@@ -1740,6 +1745,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/castersoundboard.png"
   },
   {
+    "packageName": "catacombgl",
+    "description": "Unofficial, a source port with OpenGL graphics for Catacomb 3D (1991), The Catacomb Abyss (1992), The Catacomb Armageddon (1992) and The Catacomb Apocalypse (1993)...",
+    "icon": "https://portable-linux-apps.github.io/icons/catacombgl.png"
+  },
+  {
     "packageName": "catalyst",
     "description": "Catalyst web browser...",
     "icon": "https://portable-linux-apps.github.io/icons/catalyst.png"
@@ -1776,7 +1786,7 @@
   },
   {
     "packageName": "cdogs-sdl",
-    "description": "Classic overhead run-and-gun game...",
+    "description": "Unofficial, classic overhead run-and-gun game...",
     "icon": "https://portable-linux-apps.github.io/icons/cdogs-sdl.png"
   },
   {
@@ -2078,6 +2088,11 @@
     "packageName": "clipse",
     "description": "Configurable TUI clipboard manager for Unix...",
     "icon": "https://portable-linux-apps.github.io/icons/clipse.png"
+  },
+  {
+    "packageName": "clk",
+    "description": "Unofficial, a latency hating emulator for 8 and 16 bit platforms...",
+    "icon": "https://portable-linux-apps.github.io/icons/clk.png"
   },
   {
     "packageName": "cloud-browser",
@@ -2640,6 +2655,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/czkawka.png"
   },
   {
+    "packageName": "d1x-rebirth",
+    "description": "Unofficial, a source port of the Descent engine...",
+    "icon": "https://portable-linux-apps.github.io/icons/d1x-rebirth.png"
+  },
+  {
+    "packageName": "d2x-rebirth",
+    "description": "Unofficial, a source port of the Descent 2 engine...",
+    "icon": "https://portable-linux-apps.github.io/icons/d2x-rebirth.png"
+  },
+  {
     "packageName": "daisy",
     "description": "A beautiful, easy-to-use, ad-free manga and light novel client that supports both. (Anime Home)...",
     "icon": "https://portable-linux-apps.github.io/icons/daisy.png"
@@ -2651,7 +2676,7 @@
   },
   {
     "packageName": "darkplaces",
-    "description": "The DarkPlaces Quake engine, created by LadyHavoc...",
+    "description": "Unofficial, the DarkPlaces Quake engine, created by LadyHavoc...",
     "icon": "https://portable-linux-apps.github.io/icons/darkplaces.png"
   },
   {
@@ -2841,7 +2866,7 @@
   },
   {
     "packageName": "dethrace",
-    "description": "Reverse engineering the 1997 game \"Carmageddon\"...",
+    "description": "Unofficial, reverse engineering the 1997 game \"Carmageddon\"...",
     "icon": "https://portable-linux-apps.github.io/icons/dethrace.png"
   },
   {
@@ -2906,7 +2931,7 @@
   },
   {
     "packageName": "dhewm3",
-    "description": "Doom 3 GPL source port...",
+    "description": "Unofficial, doom 3 GPL source port...",
     "icon": "https://portable-linux-apps.github.io/icons/dhewm3.png"
   },
   {
@@ -3081,7 +3106,7 @@
   },
   {
     "packageName": "dr-robotniks-ring-racers",
-    "description": "Kart racing video game originally based on SRB2Kart...",
+    "description": "Unofficial, kart racing video game originally based on SRB2Kart...",
     "icon": "https://portable-linux-apps.github.io/icons/dr-robotniks-ring-racers.png"
   },
   {
@@ -3281,7 +3306,7 @@
   },
   {
     "packageName": "ecwolf",
-    "description": "Advanced port of Wolfenstein 3D based off of Wolf4SDL...",
+    "description": "Unofficial, advanced port of Wolfenstein 3D based off of Wolf4SDL...",
     "icon": "https://portable-linux-apps.github.io/icons/ecwolf.png"
   },
   {
@@ -3306,7 +3331,7 @@
   },
   {
     "packageName": "eduke32",
-    "description": "An advanced Duke Nukem 3D source port...",
+    "description": "Unofficial, an advanced Duke Nukem 3D source port...",
     "icon": "https://portable-linux-apps.github.io/icons/eduke32.png"
   },
   {
@@ -3655,6 +3680,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/etichetta.png"
   },
   {
+    "packageName": "etlegacy",
+    "description": "Enemy Territory...",
+    "icon": "https://portable-linux-apps.github.io/icons/etlegacy.png"
+  },
+  {
     "packageName": "eudic",
     "description": "Chinese app to learn english, listen statistics/note synch......",
     "icon": "https://portable-linux-apps.github.io/icons/eudic.png"
@@ -3751,7 +3781,7 @@
   },
   {
     "packageName": "exult",
-    "description": "A project to recreate Ultima 7 for modern operating systems...",
+    "description": "Unofficial, a project to recreate Ultima 7 for modern operating systems...",
     "icon": "https://portable-linux-apps.github.io/icons/exult.png"
   },
   {
@@ -4358,6 +4388,11 @@
     "packageName": "foobar2000",
     "description": "Unofficial, an advanced freeware audio player for Windows, includes WINE...",
     "icon": "https://portable-linux-apps.github.io/icons/foobar2000.png"
+  },
+  {
+    "packageName": "foobillardpp",
+    "description": "Unofficial, an OpenGL Billard Game based on foobillard 3.0a with patches and new features...",
+    "icon": "https://portable-linux-apps.github.io/icons/foobillardpp.png"
   },
   {
     "packageName": "foot",
@@ -5025,6 +5060,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gnome-tweaks.png"
   },
   {
+    "packageName": "gnu-freedink",
+    "description": "Unofficial, a portable and enhanced version of the Dink Smallwood game engine...",
+    "icon": "https://portable-linux-apps.github.io/icons/gnu-freedink.png"
+  },
+  {
     "packageName": "gnumeric",
     "description": "Unofficial. An open-source spreadsheet program...",
     "icon": "https://portable-linux-apps.github.io/icons/gnumeric.png"
@@ -5380,6 +5420,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/hades-emu.png"
   },
   {
+    "packageName": "hammer",
+    "description": "A simple tool for building stories...",
+    "icon": "https://portable-linux-apps.github.io/icons/hammer.png"
+  },
+  {
     "packageName": "hamsket",
     "description": "Free and Open Source messaging and emailing app...",
     "icon": "https://portable-linux-apps.github.io/icons/hamsket.png"
@@ -5428,6 +5473,11 @@
     "packageName": "hastyheroes",
     "description": "An endless 2D jumping game...",
     "icon": "https://portable-linux-apps.github.io/icons/hastyheroes.png"
+  },
+  {
+    "packageName": "hatari",
+    "description": "Unofficial, an Atari ST and STE emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/hatari.png"
   },
   {
     "packageName": "haveno-reto",
@@ -5888,6 +5938,11 @@
     "packageName": "inxi",
     "description": "A full featured CLI system information tool...",
     "icon": "https://portable-linux-apps.github.io/icons/inxi.png"
+  },
+  {
+    "packageName": "ioquake3",
+    "description": "Unofficial, the de-facto OSS Quake 3 distribution...",
+    "icon": "https://portable-linux-apps.github.io/icons/ioquake3.png"
   },
   {
     "packageName": "iota1k",
@@ -7811,7 +7866,7 @@
   },
   {
     "packageName": "mini-vmac",
-    "description": "A miniature Macintosh 68K emulator...",
+    "description": "Unofficial, a miniature Macintosh 68K emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/mini-vmac.png"
   },
   {
@@ -8266,7 +8321,7 @@
   },
   {
     "packageName": "nblood",
-    "description": "Blood port based on EDuke32...",
+    "description": "Unofficial, blood port based on EDuke32...",
     "icon": "https://portable-linux-apps.github.io/icons/nblood.png"
   },
   {
@@ -8345,6 +8400,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/netpanzer.png"
   },
   {
+    "packageName": "neverball",
+    "description": "Unofficial, tilt the floor to roll a ball through an obstacle course before time runs out...",
+    "icon": "https://portable-linux-apps.github.io/icons/neverball.png"
+  },
+  {
     "packageName": "newlogic",
     "description": "A circuit builder...",
     "icon": "https://portable-linux-apps.github.io/icons/newlogic.png"
@@ -8388,6 +8448,11 @@
     "packageName": "nfctools",
     "description": "A library which allows userspace application access to NFC devices...",
     "icon": "https://portable-linux-apps.github.io/icons/nfctools.png"
+  },
+  {
+    "packageName": "nfsiise",
+    "description": "Unofficial, Need For Speed™ II SE, cross-platform wrapper with 3D acceleration and TCP protocol...",
+    "icon": "https://portable-linux-apps.github.io/icons/nfsiise.png"
   },
   {
     "packageName": "ngpost",
@@ -8916,7 +8981,7 @@
   },
   {
     "packageName": "openclaw",
-    "description": "Reimplementation of Captain Claw (1997) platformer...",
+    "description": "Unofficial, reimplementation of Captain Claw (1997) platformer...",
     "icon": "https://portable-linux-apps.github.io/icons/openclaw.png"
   },
   {
@@ -8941,12 +9006,12 @@
   },
   {
     "packageName": "openjazz",
-    "description": "A free, open-source version of the classic Jazz Jackrabbit™ games...",
+    "description": "Unofficial, open-source version of the classic Jazz Jackrabbit™ games...",
     "icon": "https://portable-linux-apps.github.io/icons/openjazz.png"
   },
   {
     "packageName": "openlara",
-    "description": "Classic Tomb Raider open-source engine...",
+    "description": "Unofficial, classic Tomb Raider open-source engine...",
     "icon": "https://portable-linux-apps.github.io/icons/openlara.png"
   },
   {
@@ -8958,6 +9023,11 @@
     "packageName": "openlibextended",
     "description": "An Open source app to download and read books from shadow library (Anna’s Archive)...",
     "icon": "https://portable-linux-apps.github.io/icons/openlibextended.png"
+  },
+  {
+    "packageName": "openmsx",
+    "description": "Unofficial, the MSX emulator that aims for perfection...",
+    "icon": "https://portable-linux-apps.github.io/icons/openmsx.png"
   },
   {
     "packageName": "openmw",
@@ -9035,6 +9105,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/openstream-music.png"
   },
   {
+    "packageName": "openswe1r",
+    "description": "Racer...",
+    "icon": "https://portable-linux-apps.github.io/icons/openswe1r.png"
+  },
+  {
     "packageName": "openterface-qt",
     "description": "Openterface Mini-KVM...",
     "icon": "https://portable-linux-apps.github.io/icons/openterface-qt.png"
@@ -9050,8 +9125,13 @@
     "icon": "https://portable-linux-apps.github.io/icons/opentrons.png"
   },
   {
+    "packageName": "openttd",
+    "description": "Unofficial, an open source simulation game based upon Transport Tycoon Deluxe...",
+    "icon": "https://portable-linux-apps.github.io/icons/openttd.png"
+  },
+  {
     "packageName": "opentyrian2000",
-    "description": "An open-source port of the DOS shoot-em-up Tyrian...",
+    "description": "Unofficial, an open-source port of the DOS shoot-em-up Tyrian...",
     "icon": "https://portable-linux-apps.github.io/icons/opentyrian2000.png"
   },
   {
@@ -9376,7 +9456,7 @@
   },
   {
     "packageName": "pcexhumed",
-    "description": "Port of the PC version of Exhumed based on EDuke32...",
+    "description": "Unofficial, port of the PC version of Exhumed based on EDuke32...",
     "icon": "https://portable-linux-apps.github.io/icons/pcexhumed.png"
   },
   {
@@ -9463,6 +9543,11 @@
     "packageName": "pennywise",
     "description": "Open any website or media in a floating window...",
     "icon": "https://portable-linux-apps.github.io/icons/pennywise.png"
+  },
+  {
+    "packageName": "perfect-dark",
+    "description": "Unofficial, work in progress port of n64decomp/perfect_dark to modern platforms...",
+    "icon": "https://portable-linux-apps.github.io/icons/perfect-dark.png"
   },
   {
     "packageName": "perl-executing-browser",
@@ -10736,8 +10821,13 @@
   },
   {
     "packageName": "rednukem",
-    "description": "A port of serveral BUILD Engine games based on EDuke32...",
+    "description": "Unofficial, a port of serveral BUILD Engine games based on EDuke32...",
     "icon": "https://portable-linux-apps.github.io/icons/rednukem.png"
+  },
+  {
+    "packageName": "redriver2",
+    "description": "Unofficial, Driver 2 Playstation game reverse engineering effort...",
+    "icon": "https://portable-linux-apps.github.io/icons/redriver2.png"
   },
   {
     "packageName": "rehex",
@@ -10851,7 +10941,7 @@
   },
   {
     "packageName": "rigelengine",
-    "description": "Modern re-implementation of DOS game Duke Nukem II...",
+    "description": "Unofficial, modern re-implementation of DOS game Duke Nukem II...",
     "icon": "https://portable-linux-apps.github.io/icons/rigelengine.png"
   },
   {
@@ -10931,7 +11021,7 @@
   },
   {
     "packageName": "roller",
-    "description": "Reverse engineering the 1995 game Whiplash/Fatal Racing...",
+    "description": "Unofficial, reverse engineering the 1995 game Whiplash/Fatal Racing...",
     "icon": "https://portable-linux-apps.github.io/icons/roller.png"
   },
   {
@@ -10971,12 +11061,12 @@
   },
   {
     "packageName": "rsdkv3",
-    "description": "A Full Decompilation of Sonic CD (2011) & Retro Engine v3...",
+    "description": "Unofficial, a Full Decompilation of Sonic CD (2011) & Retro Engine v3...",
     "icon": "https://portable-linux-apps.github.io/icons/rsdkv3.png"
   },
   {
     "packageName": "rsdkv4",
-    "description": "A complete decompilation of Sonic 1 & Sonic 2 (2013) & Retro Engine v4...",
+    "description": "Unofficial, a complete decompilation of Sonic 1 & Sonic 2 (2013) & Retro Engine v4...",
     "icon": "https://portable-linux-apps.github.io/icons/rsdkv4.png"
   },
   {
@@ -11111,7 +11201,7 @@
   },
   {
     "packageName": "sanicball",
-    "description": "An extraordinarily fast racing game...",
+    "description": "Unofficial, an extraordinarily fast racing game...",
     "icon": "https://portable-linux-apps.github.io/icons/sanicball.png"
   },
   {
@@ -11261,7 +11351,7 @@
   },
   {
     "packageName": "sdlpop",
-    "description": "An open-source port of Prince of Persia...",
+    "description": "Unofficial, an open-source port of Prince of Persia...",
     "icon": "https://portable-linux-apps.github.io/icons/sdlpop.png"
   },
   {
@@ -11801,7 +11891,7 @@
   },
   {
     "packageName": "sonic-mania-decompilation",
-    "description": "A complete decompilation of Sonic Mania (2017)...",
+    "description": "Unofficial, a complete decompilation of Sonic Mania (2017)...",
     "icon": "https://portable-linux-apps.github.io/icons/sonic-mania-decompilation.png"
   },
   {
@@ -12008,6 +12098,11 @@
     "packageName": "squirrel-disk",
     "description": "Cross-Platform and Super Fast Disk Usage Analysis Tool...",
     "icon": "https://portable-linux-apps.github.io/icons/squirrel-disk.png"
+  },
+  {
+    "packageName": "srb2",
+    "description": "Unofficial, a 3D Sonic the Hedgehog fangame based on a modified version of Doom Legacy...",
+    "icon": "https://portable-linux-apps.github.io/icons/srb2.png"
   },
   {
     "packageName": "srb2k",
@@ -12326,7 +12421,7 @@
   },
   {
     "packageName": "supermodel",
-    "description": "Sega Model 3 arcade emulator...",
+    "description": "Unofficial, Sega Model 3 arcade emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/supermodel.png"
   },
   {
@@ -13211,7 +13306,7 @@
   },
   {
     "packageName": "uefitool",
-    "description": "UEFI firmware image viewer and editor...",
+    "description": "Unofficial, UEFI firmware image viewer and editor...",
     "icon": "https://portable-linux-apps.github.io/icons/uefitool.png"
   },
   {
@@ -13996,7 +14091,7 @@
   },
   {
     "packageName": "wipeout-rewrite",
-    "description": "Re-implementation of the 1995 PSX game wipEout...",
+    "description": "Unofficial, re-implementation of the 1995 PSX game wipEout...",
     "icon": "https://portable-linux-apps.github.io/icons/wipeout-rewrite.png"
   },
   {
@@ -14255,6 +14350,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/xilinota.png"
   },
   {
+    "packageName": "xiphos",
+    "description": "Unofficial, a Bible study tool using GTK...",
+    "icon": "https://portable-linux-apps.github.io/icons/xiphos.png"
+  },
+  {
     "packageName": "xl-converter",
     "description": "Powerful image converter with support for multithreading...",
     "icon": "https://portable-linux-apps.github.io/icons/xl-converter.png"
@@ -14388,6 +14488,11 @@
     "packageName": "yam",
     "description": "Unofficial Game Updater for the F95Zone platform...",
     "icon": "https://portable-linux-apps.github.io/icons/yam.png"
+  },
+  {
+    "packageName": "yamagi-quake-ii",
+    "description": "Unofficial, an enhanced client for id Software's Quake II...",
+    "icon": "https://portable-linux-apps.github.io/icons/yamagi-quake-ii.png"
   },
   {
     "packageName": "yamata-launcher",
@@ -14688,6 +14793,11 @@
     "packageName": "zramen",
     "description": "Manage zram swap space...",
     "icon": "https://portable-linux-apps.github.io/icons/zramen.png"
+  },
+  {
+    "packageName": "zsnes",
+    "description": "Unofficial, a Super Nintendo emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/zsnes.png"
   },
   {
     "packageName": "zsync2",
