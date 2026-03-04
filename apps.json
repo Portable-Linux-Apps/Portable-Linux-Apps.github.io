@@ -825,6 +825,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/augur.png"
   },
   {
+    "packageName": "augustus-enhanced",
+    "description": "Unofficial, a fork of the Julius project that intends to incorporate gameplay changes...",
+    "icon": "https://portable-linux-apps.github.io/icons/augustus-enhanced.png"
+  },
+  {
     "packageName": "aurora",
     "description": "A utility to control RGB keyboard back-light and charging threshold for Asus TUF-gaming laptops...",
     "icon": "https://portable-linux-apps.github.io/icons/aurora.png"
@@ -2110,6 +2115,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/clownmdemu.png"
   },
   {
+    "packageName": "clownmdemu-enhanced",
+    "description": "Unofficial, reference standalone frontend for clownmdemu...",
+    "icon": "https://portable-linux-apps.github.io/icons/clownmdemu-enhanced.png"
+  },
+  {
     "packageName": "cmux",
     "description": "Cmux/ManaflowX is an X feed for coding agents that lets you run + compare Claude Code, Codex CLI, Amp, Gemini CLI, Cursor CLI, Opencode, and other coding agent CLIs in parallel across multiple tasks...",
     "icon": "https://portable-linux-apps.github.io/icons/cmux.png"
@@ -2398,6 +2408,11 @@
     "packageName": "corsixth",
     "description": "Open source clone of Theme Hospital...",
     "icon": "https://portable-linux-apps.github.io/icons/corsixth.png"
+  },
+  {
+    "packageName": "corsixth-enhanced",
+    "description": "Unofficial, open source clone of Theme Hospital...",
+    "icon": "https://portable-linux-apps.github.io/icons/corsixth-enhanced.png"
   },
   {
     "packageName": "cosmic-comics",
@@ -2888,6 +2903,11 @@
     "packageName": "devilutionx",
     "description": "Diablo build for modern operating systems...",
     "icon": "https://portable-linux-apps.github.io/icons/devilutionx.png"
+  },
+  {
+    "packageName": "devilutionx-enhanced",
+    "description": "Unofficial, Diablo build for modern operating systems...",
+    "icon": "https://portable-linux-apps.github.io/icons/devilutionx-enhanced.png"
   },
   {
     "packageName": "devpod",
@@ -4820,6 +4840,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ghostship.png"
   },
   {
+    "packageName": "ghostship-enhanced",
+    "description": "Unofficial, Another definitive port of Super Mario 64...",
+    "icon": "https://portable-linux-apps.github.io/icons/ghostship-enhanced.png"
+  },
+  {
     "packageName": "ghostty",
     "description": "Unofficial, 👻 ⚙️ AppImage for Ghostty Terminal Emulator (Stable)..",
     "icon": "https://portable-linux-apps.github.io/icons/ghostty.png"
@@ -6003,6 +6028,11 @@
     "packageName": "isle-portable",
     "description": "Unofficial, a portable version of LEGO Island (1997)...",
     "icon": "https://portable-linux-apps.github.io/icons/isle-portable.png"
+  },
+  {
+    "packageName": "isle-portable-enhanced",
+    "description": "Unofficial, a portable version of LEGO Island (1997)...",
+    "icon": "https://portable-linux-apps.github.io/icons/isle-portable-enhanced.png"
   },
   {
     "packageName": "isoimagewriter",
@@ -7790,6 +7820,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/mgba.png"
   },
   {
+    "packageName": "mgba-enhanced",
+    "description": "Unofficial, Game Boy Advance Emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/mgba-enhanced.png"
+  },
+  {
     "packageName": "micropad",
     "description": "µPad is an open digital note taking app...",
     "icon": "https://portable-linux-apps.github.io/icons/micropad.png"
@@ -8685,6 +8720,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/nudelta.png"
   },
   {
+    "packageName": "nugget-doom-enhanced",
+    "description": "Unofficial, a Doom source port forked from Woof! with additional features...",
+    "icon": "https://portable-linux-apps.github.io/icons/nugget-doom-enhanced.png"
+  },
+  {
     "packageName": "numara",
     "description": "Simple notepad calculator built on Electron...",
     "icon": "https://portable-linux-apps.github.io/icons/numara.png"
@@ -8713,6 +8753,11 @@
     "packageName": "nx-software-center",
     "description": "A GUI to install and manage AppImages, Nitrux OS...",
     "icon": "https://portable-linux-apps.github.io/icons/nx-software-center.png"
+  },
+  {
+    "packageName": "nxengine-evo-enhanced",
+    "description": "Unofficial, a somewhat upgraded/refactored version of NXEngine...",
+    "icon": "https://portable-linux-apps.github.io/icons/nxengine-evo-enhanced.png"
   },
   {
     "packageName": "nxshell",
@@ -9073,6 +9118,11 @@
     "packageName": "openrct2",
     "description": "Re-implementation of RollerCoaster Tycoon 2 (RCT2), expanding the game with new features...",
     "icon": "https://portable-linux-apps.github.io/icons/openrct2.png"
+  },
+  {
+    "packageName": "openrct2-enhanced",
+    "description": "Unofficial, Re-implementation of RollerCoaster Tycoon 2 (RCT2), expanding the game with new features...",
+    "icon": "https://portable-linux-apps.github.io/icons/openrct2-enhanced.png"
   },
   {
     "packageName": "openrgb",
@@ -9828,6 +9878,11 @@
     "packageName": "play-2048",
     "description": "Another implementation of the 2048 game...",
     "icon": "https://portable-linux-apps.github.io/icons/play-2048.png"
+  },
+  {
+    "packageName": "play-enhanced",
+    "description": "Unofficial, a PlayStation2 emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/play-enhanced.png"
   },
   {
     "packageName": "playback",
@@ -11825,6 +11880,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/snes9x.png"
   },
   {
+    "packageName": "snes9x-enhanced",
+    "description": "Unofficial, Snes9x - Portable Super Nintendo Entertainment System TM emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/snes9x-enhanced.png"
+  },
+  {
     "packageName": "sniffnet",
     "description": "Sniffnet is a network monitoring tool to help you easily keep track of your Internet traffic. Whether you want to gather statistics, you’re curious to see who you are exchanging data with, or you need to inspect more in depth what's going on in your network, this app will get you covered...",
     "icon": "https://portable-linux-apps.github.io/icons/sniffnet.png"
@@ -11870,6 +11930,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/software-challenge-gui.png"
   },
   {
+    "packageName": "soh-enhanced",
+    "description": "Unofficial, Ship of Harkinian...",
+    "icon": "https://portable-linux-apps.github.io/icons/soh-enhanced.png"
+  },
+  {
     "packageName": "soil-editor",
     "description": "A tool to edit the soil properties, CRITERIA1D...",
     "icon": "https://portable-linux-apps.github.io/icons/soil-editor.png"
@@ -11886,18 +11951,13 @@
   },
   {
     "packageName": "sonic-3-air",
-    "description": "Unofficial AppImage of Sonic 3 A.I.R...",
+    "description": "Unofficial, Source and data to build Sonic 3 A.I.R. (Angel Island Revisited) and the Oxygen Engine...",
     "icon": "https://portable-linux-apps.github.io/icons/sonic-3-air.png"
   },
   {
     "packageName": "sonic-mania-decompilation",
     "description": "Unofficial, a complete decompilation of Sonic Mania (2017)...",
     "icon": "https://portable-linux-apps.github.io/icons/sonic-mania-decompilation.png"
-  },
-  {
-    "packageName": "sonic3air",
-    "description": "Unofficial, Source and data to build Sonic 3 A.I.R. (Angel Island Revisited) and the Oxygen Engine...",
-    "icon": "https://portable-linux-apps.github.io/icons/sonic3air.png"
   },
   {
     "packageName": "sonicvisualiser",
@@ -11968,6 +12028,11 @@
     "packageName": "spaghettikart",
     "description": "Unofficial Mario Kart 64 PC game Port...",
     "icon": "https://portable-linux-apps.github.io/icons/spaghettikart.png"
+  },
+  {
+    "packageName": "spaghettikart-enhanced",
+    "description": "Unofficial, Mario Kart 64 PC game Port...",
+    "icon": "https://portable-linux-apps.github.io/icons/spaghettikart-enhanced.png"
   },
   {
     "packageName": "spark-wallet",
@@ -13925,6 +13990,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/webcord.png"
   },
   {
+    "packageName": "webcord-enhanced",
+    "description": "Unofficial, A Discord and Fosscord client implemented without Discord API...",
+    "icon": "https://portable-linux-apps.github.io/icons/webcord-enhanced.png"
+  },
+  {
     "packageName": "webdesktop",
     "description": "WebDesktop make apps with just a text editor and nodejs...",
     "icon": "https://portable-linux-apps.github.io/icons/webdesktop.png"
@@ -14288,6 +14358,11 @@
     "packageName": "xapkdetector",
     "description": "APK/DEX detector that shows an information about build tools, libraries and protection of APK/DEX files...",
     "icon": "https://portable-linux-apps.github.io/icons/xapkdetector.png"
+  },
+  {
+    "packageName": "xash3d-fwgs-enhanced",
+    "description": "Unofficial, a game engine aimed to provide compatibility with Half-Life Engine and extend it...",
+    "icon": "https://portable-linux-apps.github.io/icons/xash3d-fwgs-enhanced.png"
   },
   {
     "packageName": "xbydriver",
