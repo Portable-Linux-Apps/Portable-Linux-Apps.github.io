@@ -155,11 +155,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/ai-bot-workspace.png"
   },
   {
-    "packageName": "ai-gate",
-    "description": "A Desktop app which brings access of popular AI apps to your desktop...",
-    "icon": "https://portable-linux-apps.github.io/icons/ai-gate.png"
-  },
-  {
     "packageName": "aichat",
     "description": "AIO AI CLI tool integrating 20+ AI platforms, including OpenAI...",
     "icon": "https://portable-linux-apps.github.io/icons/aichat.png"

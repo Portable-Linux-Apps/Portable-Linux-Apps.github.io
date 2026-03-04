@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2903** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2902** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -59,7 +59,6 @@
 | <img loading="lazy" src="icons/agregore.png" width="48" height="48"> | [***agregore***](apps/agregore.md) | *A minimal browser for the distributed web, Desktop version.*..[ *read more* ](apps/agregore.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/agregore) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/agregore) |
 | <img loading="lazy" src="icons/ahk_x11.png" width="48" height="48"> | [***ahk_x11***](apps/ahk_x11.md) | *AutoHotkey for Linux (X11-based systems).*..[ *read more* ](apps/ahk_x11.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ahk_x11) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ahk_x11) |
 | <img loading="lazy" src="icons/ai-bot-workspace.png" width="48" height="48"> | [***ai-bot-workspace***](apps/ai-bot-workspace.md) | *Electron app including testing workspaces.*..[ *read more* ](apps/ai-bot-workspace.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ai-bot-workspace) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ai-bot-workspace) |
-| <img loading="lazy" src="icons/ai-gate.png" width="48" height="48"> | [***ai-gate***](apps/ai-gate.md) | *A Desktop app which brings access of popular AI apps to your desktop.*..[ *read more* ](apps/ai-gate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ai-gate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ai-gate) |
 | <img loading="lazy" src="icons/aichat.png" width="48" height="48"> | [***aichat***](apps/aichat.md) | *AIO AI CLI tool integrating 20+ AI platforms, including OpenAI.*..[ *read more* ](apps/aichat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aichat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aichat) |
 | <img loading="lazy" src="icons/aidm.png" width="48" height="48"> | [***aidm***](apps/aidm.md) | *AppImage Desktop Maker.*..[ *read more* ](apps/aidm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aidm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aidm) |
 | <img loading="lazy" src="icons/aillio-ts.png" width="48" height="48"> | [***aillio-ts***](apps/aillio-ts.md) | *The desktop application for Aillio Bullet R1.*..[ *read more* ](apps/aillio-ts.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aillio-ts) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aillio-ts) |

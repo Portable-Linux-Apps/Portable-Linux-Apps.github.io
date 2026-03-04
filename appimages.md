@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2489** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2488** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -59,7 +59,6 @@
 | <img loading="lazy" src="icons/agregore.png" width="48" height="48"> | [***agregore***](apps/agregore.md) | *A minimal browser for the distributed web, Desktop version.*..[ *read more* ](apps/agregore.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/agregore) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/agregore) |
 | <img loading="lazy" src="icons/ahk_x11.png" width="48" height="48"> | [***ahk_x11***](apps/ahk_x11.md) | *AutoHotkey for Linux (X11-based systems).*..[ *read more* ](apps/ahk_x11.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ahk_x11) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ahk_x11) |
 | <img loading="lazy" src="icons/ai-bot-workspace.png" width="48" height="48"> | [***ai-bot-workspace***](apps/ai-bot-workspace.md) | *Electron app including testing workspaces.*..[ *read more* ](apps/ai-bot-workspace.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ai-bot-workspace) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ai-bot-workspace) |
-| <img loading="lazy" src="icons/ai-gate.png" width="48" height="48"> | [***ai-gate***](apps/ai-gate.md) | *A Desktop app which brings access of popular AI apps to your desktop.*..[ *read more* ](apps/ai-gate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ai-gate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ai-gate) |
 | <img loading="lazy" src="icons/aidm.png" width="48" height="48"> | [***aidm***](apps/aidm.md) | *AppImage Desktop Maker.*..[ *read more* ](apps/aidm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aidm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aidm) |
 | <img loading="lazy" src="icons/aillio-ts.png" width="48" height="48"> | [***aillio-ts***](apps/aillio-ts.md) | *The desktop application for Aillio Bullet R1.*..[ *read more* ](apps/aillio-ts.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aillio-ts) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aillio-ts) |
 | <img loading="lazy" src="icons/aiming-pro.png" width="48" height="48"> | [***aiming-pro***](apps/aiming-pro.md) | *Aim trainer to practice, train and improve their FPS aim skills.*..[ *read more* ](apps/aiming-pro.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aiming-pro) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aiming-pro) |
