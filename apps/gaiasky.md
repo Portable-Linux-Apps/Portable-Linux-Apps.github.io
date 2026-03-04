@@ -9,7 +9,7 @@
  ![](https://gaia.ari.uni-heidelberg.de/gaiasky/files/screenshots/20230327/00008.jpg)
  ![](https://gaia.ari.uni-heidelberg.de/gaiasky/files/screenshots/20230327/00012.jpg)
 
- SITE: https://zah.uni-heidelberg.de/gaia/outreach/gaiasky
+ SITE: https://gaiasky.space
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
