@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **155** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **156** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -120,6 +120,7 @@
 | <img loading="lazy" src="icons/music-player.png" width="48" height="48"> | [***music-player***](apps/music-player.md) | *Desktop Electron app for playing and downloading music.*..[ *read more* ](apps/music-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/music-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/music-player) |
 | <img loading="lazy" src="icons/music-quiz.png" width="48" height="48"> | [***music-quiz***](apps/music-quiz.md) | *Jepardy like game, guess as many songs as possible.*..[ *read more* ](apps/music-quiz.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/music-quiz) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/music-quiz) |
 | <img loading="lazy" src="icons/musicalypse.png" width="48" height="48"> | [***musicalypse***](apps/musicalypse.md) | *Audio/Music player and server built with Web technologies.*..[ *read more* ](apps/musicalypse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/musicalypse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/musicalypse) |
+| <img loading="lazy" src="icons/nautune.png" width="48" height="48"> | [***nautune***](apps/nautune.md) | *Poseidon's Music Player for Jellyfin.*..[ *read more* ](apps/nautune.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nautune) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nautune) |
 | <img loading="lazy" src="icons/nootka.png" width="48" height="48"> | [***nootka***](apps/nootka.md) | *Application for learning musical score notation.*..[ *read more* ](apps/nootka.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nootka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nootka) |
 | <img loading="lazy" src="icons/nora.png" width="48" height="48"> | [***nora***](apps/nora.md) | *An elegant music player built using Electron and React.*..[ *read more* ](apps/nora.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nora) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nora) |
 | <img loading="lazy" src="icons/nuclear.png" width="48" height="48"> | [***nuclear***](apps/nuclear.md) | *Streaming music player that finds free music for you.*..[ *read more* ](apps/nuclear.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nuclear) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nuclear) |

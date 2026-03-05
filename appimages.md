@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2488** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2489** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1387,6 +1387,7 @@
 | <img loading="lazy" src="icons/nanosaur2.png" width="48" height="48"> | [***nanosaur2***](apps/nanosaur2.md) | *Pangea Software’s Nanosaur II for modern systems.*..[ *read more* ](apps/nanosaur2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nanosaur2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nanosaur2) |
 | <img loading="lazy" src="icons/nanovault.png" width="48" height="48"> | [***nanovault***](apps/nanovault.md) | *Wallet for interacting with Nano.*..[ *read more* ](apps/nanovault.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nanovault) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nanovault) |
 | <img loading="lazy" src="icons/nault-bin.png" width="48" height="48"> | [***nault-bin***](apps/nault-bin.md) | *Official Nault AppImage client.*..[ *read more* ](apps/nault-bin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nault-bin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nault-bin) |
+| <img loading="lazy" src="icons/nautune.png" width="48" height="48"> | [***nautune***](apps/nautune.md) | *Poseidon's Music Player for Jellyfin.*..[ *read more* ](apps/nautune.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nautune) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nautune) |
 | <img loading="lazy" src="icons/nauz-file-detector.png" width="48" height="48"> | [***nauz-file-detector***](apps/nauz-file-detector.md) | *Nauz File Detector is a portable linker/compiler/packer identifier utility.*..[ *read more* ](apps/nauz-file-detector.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nauz-file-detector) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nauz-file-detector) |
 | <img loading="lazy" src="icons/nblood.png" width="48" height="48"> | [***nblood***](apps/nblood.md) | *Unofficial, blood port based on EDuke32.*..[ *read more* ](apps/nblood.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nblood) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nblood) |
 | <img loading="lazy" src="icons/ncsa-mosaic.png" width="48" height="48"> | [***ncsa-mosaic***](apps/ncsa-mosaic.md) | *One of the first graphical web browsers.*..[ *read more* ](apps/ncsa-mosaic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ncsa-mosaic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ncsa-mosaic) |

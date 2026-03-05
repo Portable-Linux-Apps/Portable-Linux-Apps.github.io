@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **226** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **227** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -90,6 +90,7 @@
 | <img loading="lazy" src="icons/extraterm.png" width="48" height="48"> | [***extraterm***](apps/extraterm.md) | *The swiss army chainsaw of terminal emulators.*..[ *read more* ](apps/extraterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/extraterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/extraterm) |
 | <img loading="lazy" src="icons/fakedata.png" width="48" height="48"> | [***fakedata***](apps/fakedata.md) | *CLI utility for fake data generation.*..[ *read more* ](apps/fakedata.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fakedata) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fakedata) |
 | <img loading="lazy" src="icons/fastboot.png" width="48" height="48"> | [***fastboot***](apps/fastboot.md) | *Tool to flash Android devices. This script installs the full "platform-tools" suite.*..[ *read more* ](apps/fastboot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fastboot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fastboot) |
+| <img loading="lazy" src="icons/fdroidcl.png" width="48" height="48"> | [***fdroidcl***](apps/fdroidcl.md) | *A command-line F-Droid desktop client.*..[ *read more* ](apps/fdroidcl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fdroidcl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fdroidcl) |
 | <img loading="lazy" src="icons/ffsend.png" width="48" height="48"> | [***ffsend***](apps/ffsend.md) | *Easily and securely share files from the command line. A fully featured Firefox Send client.*..[ *read more* ](apps/ffsend.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffsend) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffsend) |
 | <img loading="lazy" src="icons/filen-cli.png" width="48" height="48"> | [***filen-cli***](apps/filen-cli.md) | *Filen CLI for Windows, macOS and Linux*..[ *read more* ](apps/filen-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filen-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filen-cli) |
 | <img loading="lazy" src="icons/fish.png" width="48" height="48"> | [***fish***](apps/fish.md) | *The user-friendly command line shell.*..[ *read more* ](apps/fish.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fish) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fish) |

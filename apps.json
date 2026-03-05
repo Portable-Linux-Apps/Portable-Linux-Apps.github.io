@@ -1920,6 +1920,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/chessmd.png"
   },
   {
+    "packageName": "chezmoi",
+    "description": "Manage your dotfiles across multiple diverse machines, securely...",
+    "icon": "https://portable-linux-apps.github.io/icons/chezmoi.png"
+  },
+  {
     "packageName": "chimeradesk",
     "description": "Simple, fast and flexible DIY Remote Desktop software...",
     "icon": "https://portable-linux-apps.github.io/icons/chimeradesk.png"
@@ -3923,6 +3928,11 @@
     "packageName": "fdm",
     "description": "Free Download Manager, multiplatform powerful modern download accelerator and organizer...",
     "icon": "https://portable-linux-apps.github.io/icons/fdm.png"
+  },
+  {
+    "packageName": "fdroidcl",
+    "description": "A command-line F-Droid desktop client...",
+    "icon": "https://portable-linux-apps.github.io/icons/fdroidcl.png"
   },
   {
     "packageName": "feather-wallet",
@@ -8333,6 +8343,11 @@
     "packageName": "nault-bin",
     "description": "Official Nault AppImage client...",
     "icon": "https://portable-linux-apps.github.io/icons/nault-bin.png"
+  },
+  {
+    "packageName": "nautune",
+    "description": "Poseidon's Music Player for Jellyfin...",
+    "icon": "https://portable-linux-apps.github.io/icons/nautune.png"
   },
   {
     "packageName": "nauz-file-detector",
