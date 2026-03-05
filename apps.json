@@ -3085,6 +3085,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dooit.png"
   },
   {
+    "packageName": "doom64exultra",
+    "description": "Unofficial, A fork of DOOM64EX+ with new stuff and fixes...",
+    "icon": "https://portable-linux-apps.github.io/icons/doom64exultra.png"
+  },
+  {
     "packageName": "dopamine-preview",
     "description": "The audio player that keeps it simple...",
     "icon": "https://portable-linux-apps.github.io/icons/dopamine-preview.png"
