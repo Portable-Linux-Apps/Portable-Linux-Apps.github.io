@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2905** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2906** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -697,6 +697,7 @@
 | <img loading="lazy" src="icons/ecwolf.png" width="48" height="48"> | [***ecwolf***](apps/ecwolf.md) | *Unofficial, advanced port of Wolfenstein 3D based off of Wolf4SDL.*..[ *read more* ](apps/ecwolf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ecwolf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ecwolf) |
 | <img loading="lazy" src="icons/edconv.png" width="48" height="48"> | [***edconv***](apps/edconv.md) | *A user-friendly FFmpeg GUI.*..[ *read more* ](apps/edconv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/edconv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/edconv) |
 | <img loading="lazy" src="icons/eden-nightly.png" width="48" height="48"> | [***eden-nightly***](apps/eden-nightly.md) | *An experimental open-source emulator for Nintendo Switch (yuzu fork, nightly builds).*..[ *read more* ](apps/eden-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eden-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eden-nightly) |
+| <img loading="lazy" src="icons/eden.png" width="48" height="48"> | [***eden***](apps/eden.md) | *An experimental open-source emulator for Nintendo Switch (yuzu fork).*..[ *read more* ](apps/eden.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eden) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eden) |
 | <img loading="lazy" src="icons/edex-ui.png" width="48" height="48"> | [***edex-ui***](apps/edex-ui.md) | *A cross-platform, customizable science fiction terminal emulator.*..[ *read more* ](apps/edex-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/edex-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/edex-ui) |
 | <img loading="lazy" src="icons/eduke32.png" width="48" height="48"> | [***eduke32***](apps/eduke32.md) | *Unofficial, an advanced Duke Nukem 3D source port.*..[ *read more* ](apps/eduke32.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eduke32) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eduke32) |
 | <img loading="lazy" src="icons/eez-studio.png" width="48" height="48"> | [***eez-studio***](apps/eez-studio.md) | *Cross-platform low-code GUI and automation.*..[ *read more* ](apps/eez-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eez-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eez-studio) |
