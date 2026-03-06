@@ -3340,11 +3340,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/edconv.png"
   },
   {
-    "packageName": "eden",
-    "description": "An experimental open-source emulator for Nintendo Switch (yuzu fork)...",
-    "icon": "https://portable-linux-apps.github.io/icons/eden.png"
-  },
-  {
     "packageName": "eden-nightly",
     "description": "An experimental open-source emulator for Nintendo Switch (yuzu fork, nightly builds)...",
     "icon": "https://portable-linux-apps.github.io/icons/eden-nightly.png"
