@@ -12655,6 +12655,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/syncplay.png"
   },
   {
+    "packageName": "syncthing",
+    "description": "Open Source Continuous File Synchronization...",
+    "icon": "https://portable-linux-apps.github.io/icons/syncthing.png"
+  },
+  {
     "packageName": "syncthing-tray",
     "description": "Tray application for Syncthing...",
     "icon": "https://portable-linux-apps.github.io/icons/syncthing-tray.png"
