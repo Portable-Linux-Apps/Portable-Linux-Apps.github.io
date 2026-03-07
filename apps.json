@@ -6255,11 +6255,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/jreleaser.png"
   },
   {
-    "packageName": "jrom-manager",
-    "description": "A Rom Manager entirely written in Java and released under GPL-2...",
-    "icon": "https://portable-linux-apps.github.io/icons/jrom-manager.png"
-  },
-  {
     "packageName": "jscad-desktop",
     "description": "Jscad desktop application...",
     "icon": "https://portable-linux-apps.github.io/icons/jscad-desktop.png"
