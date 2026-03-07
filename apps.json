@@ -3945,6 +3945,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/feather-wallet.png"
   },
   {
+    "packageName": "featherpad",
+    "description": "Unofficial. A lightweight Qt plain-text editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/featherpad.png"
+  },
+  {
     "packageName": "feebas",
     "description": "Screenshot comparison tool for identifying visual regressions...",
     "icon": "https://portable-linux-apps.github.io/icons/feebas.png"
@@ -5438,6 +5443,11 @@
     "packageName": "gvim",
     "description": "Edit text files...",
     "icon": "https://portable-linux-apps.github.io/icons/gvim.png"
+  },
+  {
+    "packageName": "gwenview",
+    "description": "Unofficial. Fast and easy to use image viewer by KDE. ideal for displaying a collection of images...",
+    "icon": "https://portable-linux-apps.github.io/icons/gwenview.png"
   },
   {
     "packageName": "gxc-smart-contract-ide",
@@ -10575,6 +10585,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/qtchan.png"
   },
   {
+    "packageName": "qterminal",
+    "description": "Unofficial. A lightweight Qt terminal emulator based on QTermWidget...",
+    "icon": "https://portable-linux-apps.github.io/icons/qterminal.png"
+  },
+  {
     "packageName": "qtjsondiff",
     "description": "Json difference checker widget and viewer...",
     "icon": "https://portable-linux-apps.github.io/icons/qtjsondiff.png"
@@ -11038,6 +11053,11 @@
     "packageName": "riseup-vpn",
     "description": "Unofficial, RiseupVPN is an easy, fast, and secure VPN service from riseup.net...",
     "icon": "https://portable-linux-apps.github.io/icons/riseup-vpn.png"
+  },
+  {
+    "packageName": "ristretto",
+    "description": "Unofficial. Image viewer by Xfce  that can be used to view and scroll through images...",
+    "icon": "https://portable-linux-apps.github.io/icons/ristretto.png"
   },
   {
     "packageName": "rmg",
@@ -14503,6 +14523,11 @@
     "packageName": "xournal++nightly",
     "description": "C++ notetaking software with PDF annotation support, DEV...",
     "icon": "https://portable-linux-apps.github.io/icons/xournal++nightly.png"
+  },
+  {
+    "packageName": "xournalpp",
+    "description": "Unofficial. Handwriting notetaking software with PDF annotation support. Written in C++ with GTK3...",
+    "icon": "https://portable-linux-apps.github.io/icons/xournalpp.png"
   },
   {
     "packageName": "xpeviewer",
