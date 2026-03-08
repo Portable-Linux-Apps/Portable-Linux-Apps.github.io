@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **167** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **168** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -67,6 +67,7 @@
 | <img loading="lazy" src="icons/gharmonize.png" width="48" height="48"> | [***gharmonize***](apps/gharmonize.md) | *A cross-platform media conversion app with a built-in YouTube downloader and Spotify downloader, powered by yt-dlp and ffmpeg — now featuring FPS adaptation support for AC3, EAC3, and AAC codecs.*..[ *read more* ](apps/gharmonize.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gharmonize) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gharmonize) |
 | <img loading="lazy" src="icons/gifcurry.png" width="48" height="48"> | [***gifcurry***](apps/gifcurry.md) | *The open-source, Haskell-built video editor for GIF makers.*..[ *read more* ](apps/gifcurry.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gifcurry) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gifcurry) |
 | <img loading="lazy" src="icons/gl-warp2mp4.png" width="48" height="48"> | [***gl-warp2mp4***](apps/gl-warp2mp4.md) | *Utility to pre-warp a movie similar to TGAWarp.*..[ *read more* ](apps/gl-warp2mp4.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gl-warp2mp4) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gl-warp2mp4) |
+| <img loading="lazy" src="icons/goanime.png" width="48" height="48"> | [***goanime***](apps/goanime.md) | *A TUI tool to browse, stream, and download anime in English and Portuguese.*..[ *read more* ](apps/goanime.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/goanime) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/goanime) |
 | <img loading="lazy" src="icons/gozen.png" width="48" height="48"> | [***gozen***](apps/gozen.md) | *A lightweight, stable, minimalistic and performant video editor with simplicity in mind.*..[ *read more* ](apps/gozen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gozen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gozen) |
 | <img loading="lazy" src="icons/greenlight.png" width="48" height="48"> | [***greenlight***](apps/greenlight.md) | *Client for xCloud and Xbox home streaming made in Typescript.*..[ *read more* ](apps/greenlight.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/greenlight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/greenlight) |
 | <img loading="lazy" src="icons/gridplayer.png" width="48" height="48"> | [***gridplayer***](apps/gridplayer.md) | *Play videos side-by-side.*..[ *read more* ](apps/gridplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gridplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gridplayer) |

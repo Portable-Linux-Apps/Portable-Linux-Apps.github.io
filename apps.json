@@ -2605,6 +2605,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ctop.png"
   },
   {
+    "packageName": "cuberite",
+    "description": "Unofficial, a lightweight, fast and extensible game server for Minecraft...",
+    "icon": "https://portable-linux-apps.github.io/icons/cuberite.png"
+  },
+  {
     "packageName": "cudatext",
     "description": "A cross-platform text editor, written in Object Pascal...",
     "icon": "https://portable-linux-apps.github.io/icons/cudatext.png"
@@ -3843,6 +3848,11 @@
     "packageName": "f1mv-lights-integration",
     "description": "Connect your smart home lights to MultiViewer...",
     "icon": "https://portable-linux-apps.github.io/icons/f1mv-lights-integration.png"
+  },
+  {
+    "packageName": "fabother-world",
+    "description": "Unofficial, an interpreter for Another World (Out of this world)...",
+    "icon": "https://portable-linux-apps.github.io/icons/fabother-world.png"
   },
   {
     "packageName": "fafarunner",
@@ -5123,6 +5133,11 @@
     "packageName": "go-spotify-cli",
     "description": "Control Spotify with CLI commands...",
     "icon": "https://portable-linux-apps.github.io/icons/go-spotify-cli.png"
+  },
+  {
+    "packageName": "goanime",
+    "description": "A TUI tool to browse, stream, and download anime in English and Portuguese...",
+    "icon": "https://portable-linux-apps.github.io/icons/goanime.png"
   },
   {
     "packageName": "gobuster",
@@ -6513,6 +6528,11 @@
     "packageName": "keeweb",
     "description": "Free cross-platform password manager compatible with KeePass...",
     "icon": "https://portable-linux-apps.github.io/icons/keeweb.png"
+  },
+  {
+    "packageName": "kega-fusion",
+    "description": "Unofficial, an emulator of classic Sega consoles, including SMS/GG, Genesis/Megadrive and add-ons...",
+    "icon": "https://portable-linux-apps.github.io/icons/kega-fusion.png"
   },
   {
     "packageName": "keibo-moneytracker-x86-64",
@@ -8910,6 +8930,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ommpfritt.png"
   },
   {
+    "packageName": "omniget",
+    "description": "Media downloader from various websites...",
+    "icon": "https://portable-linux-apps.github.io/icons/omniget.png"
+  },
+  {
     "packageName": "omnipull",
     "description": "Pull Everything. Everywhere. OmniPull is a powerful, cross-platform download manager...",
     "icon": "https://portable-linux-apps.github.io/icons/omnipull.png"
@@ -9578,6 +9603,11 @@
     "packageName": "pdmaner",
     "description": "A relational database modeling tool...",
     "icon": "https://portable-linux-apps.github.io/icons/pdmaner.png"
+  },
+  {
+    "packageName": "pear-desktop",
+    "description": "An extension for music player...",
+    "icon": "https://portable-linux-apps.github.io/icons/pear-desktop.png"
   },
   {
     "packageName": "pearpass",

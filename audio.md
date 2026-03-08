@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **156** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **157** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -134,6 +134,7 @@
 | <img loading="lazy" src="icons/pano-scrobbler.png" width="48" height="48"> | [***pano-scrobbler***](apps/pano-scrobbler.md) | *Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other compatible services.*..[ *read more* ](apps/pano-scrobbler.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pano-scrobbler) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pano-scrobbler) |
 | <img loading="lazy" src="icons/pathephone.png" width="48" height="48"> | [***pathephone***](apps/pathephone.md) | *Distributed audio player.*..[ *read more* ](apps/pathephone.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pathephone) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pathephone) |
 | <img loading="lazy" src="icons/pavucontrol-qt.png" width="48" height="48"> | [***pavucontrol-qt***](apps/pavucontrol-qt.md) | *Qt port of pavucontrol Pulseaudio mixer, unofficial AppImage.*..[ *read more* ](apps/pavucontrol-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pavucontrol-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pavucontrol-qt) |
+| <img loading="lazy" src="icons/pear-desktop.png" width="48" height="48"> | [***pear-desktop***](apps/pear-desktop.md) | *An extension for music player.*..[ *read more* ](apps/pear-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pear-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pear-desktop) |
 | <img loading="lazy" src="icons/pelusica.png" width="48" height="48"> | [***pelusica***](apps/pelusica.md) | *Action game, control the blue dot with your keyboard/create music.*..[ *read more* ](apps/pelusica.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pelusica) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pelusica) |
 | <img loading="lazy" src="icons/picard-daily.png" width="48" height="48"> | [***picard-daily***](apps/picard-daily.md) | *Inofficial daily development builds for MusicBrainz Picard.*..[ *read more* ](apps/picard-daily.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picard-daily) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picard-daily) |
 | <img loading="lazy" src="icons/playbox.png" width="48" height="48"> | [***playbox***](apps/playbox.md) | *An audio playback system for the live production industry.*..[ *read more* ](apps/playbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playbox) |

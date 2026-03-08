@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **295** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **296** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -84,6 +84,7 @@
 | <img loading="lazy" src="icons/crawl-tiles.png" width="48" height="48"> | [***crawl-tiles***](apps/crawl-tiles.md) | *open-source, single-player, role-playing roguelike game of exploration and treasure-hunting - graphical version (SDL)*..[ *read more* ](apps/crawl-tiles.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crawl-tiles) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crawl-tiles) |
 | <img loading="lazy" src="icons/crg-data-tool.png" width="48" height="48"> | [***crg-data-tool***](apps/crg-data-tool.md) | *A tool for working with Games Data files from CRG.*..[ *read more* ](apps/crg-data-tool.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crg-data-tool) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crg-data-tool) |
 | <img loading="lazy" src="icons/cromagrally.png" width="48" height="48"> | [***cromagrally***](apps/cromagrally.md) | *The wildest racing game since man invented the wheel!*..[ *read more* ](apps/cromagrally.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cromagrally) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cromagrally) |
+| <img loading="lazy" src="icons/cuberite.png" width="48" height="48"> | [***cuberite***](apps/cuberite.md) | *Unofficial, a lightweight, fast and extensible game server for Minecraft.*..[ *read more* ](apps/cuberite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cuberite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cuberite) |
 | <img loading="lazy" src="icons/cutechess.png" width="48" height="48"> | [***cutechess***](apps/cutechess.md) | *Cute Chess is a GUI, a CLI and a library for playing chess.*..[ *read more* ](apps/cutechess.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cutechess) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cutechess) |
 | <img loading="lazy" src="icons/deadgame-2048.png" width="48" height="48"> | [***deadgame-2048***](apps/deadgame-2048.md) | *GUI tool available for ALL platforms.*..[ *read more* ](apps/deadgame-2048.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deadgame-2048) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deadgame-2048) |
 | <img loading="lazy" src="icons/dealers-choice.png" width="48" height="48"> | [***dealers-choice***](apps/dealers-choice.md) | *Multiplayer Stud and Draw Poker game.*..[ *read more* ](apps/dealers-choice.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dealers-choice) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dealers-choice) |
