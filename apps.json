@@ -945,6 +945,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/bandwhich.png"
   },
   {
+    "packageName": "banjo-recompiled",
+    "description": "Unofficial, a static recompiled port of N64 Banjo-Kazooie for PC...",
+    "icon": "https://portable-linux-apps.github.io/icons/banjo-recompiled.png"
+  },
+  {
     "packageName": "barnacal",
     "description": "A simple menu bar app for viewing a calendar..",
     "icon": "https://portable-linux-apps.github.io/icons/barnacal.png"
@@ -6078,6 +6083,11 @@
     "packageName": "isolate",
     "description": "Lightweight image browser...",
     "icon": "https://portable-linux-apps.github.io/icons/isolate.png"
+  },
+  {
+    "packageName": "itgmania",
+    "description": "Unofficial, a fork of StepMania 5.1, an advanced cross-platform rhythm game for home and arcade use...",
+    "icon": "https://portable-linux-apps.github.io/icons/itgmania.png"
   },
   {
     "packageName": "itusb1-manager",
