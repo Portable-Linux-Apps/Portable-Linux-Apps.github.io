@@ -3060,6 +3060,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dns-changer.png"
   },
   {
+    "packageName": "dnzhrecomp",
+    "description": "Unofficial, a native port of Duke Nukem Zero Hour, statically recompiled...",
+    "icon": "https://portable-linux-apps.github.io/icons/dnzhrecomp.png"
+  },
+  {
     "packageName": "dockstation",
     "description": "Developing with Docker has never been so easy and convenient...",
     "icon": "https://portable-linux-apps.github.io/icons/dockstation.png"
@@ -7588,6 +7593,11 @@
     "packageName": "mapton",
     "description": "Some kind of map application...",
     "icon": "https://portable-linux-apps.github.io/icons/mapton.png"
+  },
+  {
+    "packageName": "mariokart64recomp",
+    "description": "Unofficial, a native port of MarioKart 64, statically recompiled...",
+    "icon": "https://portable-linux-apps.github.io/icons/mariokart64recomp.png"
   },
   {
     "packageName": "mark-mind",
@@ -12280,6 +12290,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/starc.png"
   },
   {
+    "packageName": "starfox64recomp",
+    "description": "Unofficial, a native port of Starfox 64, statically recompiled...",
+    "icon": "https://portable-linux-apps.github.io/icons/starfox64recomp.png"
+  },
+  {
     "packageName": "starship",
     "description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell...",
     "icon": "https://portable-linux-apps.github.io/icons/starship.png"
@@ -14848,6 +14863,11 @@
     "packageName": "zegrapher",
     "description": "Math graphing software...",
     "icon": "https://portable-linux-apps.github.io/icons/zegrapher.png"
+  },
+  {
+    "packageName": "zelda64-recompiled",
+    "description": "Unofficial, a native port of the N64 Legend of Zelda games, statically recompiled...",
+    "icon": "https://portable-linux-apps.github.io/icons/zelda64-recompiled.png"
   },
   {
     "packageName": "zellij",
