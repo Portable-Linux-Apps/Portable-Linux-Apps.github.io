@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2505** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2504** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -270,7 +270,6 @@
 | <img loading="lazy" src="icons/boostchanger.png" width="48" height="48"> | [***boostchanger***](apps/boostchanger.md) | *Control CPU turbo boost and the settings of the cpu speed.*..[ *read more* ](apps/boostchanger.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/boostchanger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/boostchanger) |
 | <img loading="lazy" src="icons/botclient.png" width="48" height="48"> | [***botclient***](apps/botclient.md) | *A discord botclient built with Electron and React.*..[ *read more* ](apps/botclient.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/botclient) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/botclient) |
 | <img loading="lazy" src="icons/botframework-emulator.png" width="48" height="48"> | [***botframework-emulator***](apps/botframework-emulator.md) | *Test and debug chat bots built with Bot Framework SDK.*..[ *read more* ](apps/botframework-emulator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/botframework-emulator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/botframework-emulator) |
-| <img loading="lazy" src="icons/botim.png" width="48" height="48"> | [***botim***](apps/botim.md) | *Free, Secure, Reliable Messages and Calls.*..[ *read more* ](apps/botim.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/botim) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/botim) |
 | <img loading="lazy" src="icons/bottlebats.png" width="48" height="48"> | [***bottlebats***](apps/bottlebats.md) | *Client for the 2018 edition of the BottleBats AI competition.*..[ *read more* ](apps/bottlebats.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bottlebats) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bottlebats) |
 | <img loading="lazy" src="icons/bottles.png" width="48" height="48"> | [***bottles***](apps/bottles.md) | *Unofficial. Manage wine prefixes and run Windows software & games in a new way.*..[ *read more* ](apps/bottles.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bottles) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bottles) |
 | <img loading="lazy" src="icons/brainverse.png" width="48" height="48"> | [***brainverse***](apps/brainverse.md) | *Electronic Lab Notebook for Reproducible Neuro Imaging Research.*..[ *read more* ](apps/brainverse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brainverse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brainverse) |

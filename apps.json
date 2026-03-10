@@ -1405,11 +1405,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/botframework-emulator.png"
   },
   {
-    "packageName": "botim",
-    "description": "Free, Secure, Reliable Messages and Calls...",
-    "icon": "https://portable-linux-apps.github.io/icons/botim.png"
-  },
-  {
     "packageName": "bottlebats",
     "description": "Client for the 2018 edition of the BottleBats AI competition...",
     "icon": "https://portable-linux-apps.github.io/icons/bottlebats.png"
