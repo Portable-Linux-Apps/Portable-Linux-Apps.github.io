@@ -45,6 +45,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/86box.png"
   },
   {
+    "packageName": "86box-enhanced",
+    "description": "Unofficial, emulator of x86-based machines based on PCem...",
+    "icon": "https://portable-linux-apps.github.io/icons/86box-enhanced.png"
+  },
+  {
     "packageName": "9launcher",
     "description": "An actively maintained and cross platform remake of Touhou Relauncher...",
     "icon": "https://portable-linux-apps.github.io/icons/9launcher.png"
@@ -958,6 +963,11 @@
     "packageName": "basilisk2",
     "description": "Classic Macintosh emulator BasiliskII...",
     "icon": "https://portable-linux-apps.github.io/icons/basilisk2.png"
+  },
+  {
+    "packageName": "basiliskii-enhanced",
+    "description": "Unofficial, classic Macintosh emulator BasiliskII...",
+    "icon": "https://portable-linux-apps.github.io/icons/basiliskii-enhanced.png"
   },
   {
     "packageName": "bastyon",
@@ -3160,6 +3170,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dragula.png"
   },
   {
+    "packageName": "drally",
+    "description": "Unofficial, a port of Death Rally (1996)...",
+    "icon": "https://portable-linux-apps.github.io/icons/drally.png"
+  },
+  {
     "packageName": "draw",
     "description": "Draw in your terminal...",
     "icon": "https://portable-linux-apps.github.io/icons/draw.png"
@@ -4368,6 +4383,11 @@
     "packageName": "flycast-dojo",
     "description": "Flycast fork, multiplatform Sega Dreamcast, Naomi and Atomiswave emulator for netplay, training & online tournament gameplay...",
     "icon": "https://portable-linux-apps.github.io/icons/flycast-dojo.png"
+  },
+  {
+    "packageName": "flycast-enhanced",
+    "description": "Unofficial, A Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/flycast-enhanced.png"
   },
   {
     "packageName": "flyctl",
@@ -6048,6 +6068,11 @@
     "packageName": "ireader",
     "description": "Privacy-focused, open source novel reader app...",
     "icon": "https://portable-linux-apps.github.io/icons/ireader.png"
+  },
+  {
+    "packageName": "iris-enhanced",
+    "description": "Unofficial, Sony PlayStation 2 emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/iris-enhanced.png"
   },
   {
     "packageName": "irscrutinizer",
@@ -8898,6 +8923,11 @@
     "packageName": "ocvwarp",
     "description": "Warping images and videos for planetarium fulldome display...",
     "icon": "https://portable-linux-apps.github.io/icons/ocvwarp.png"
+  },
+  {
+    "packageName": "odamex",
+    "description": "Unofficial, Online Multiplayer Doom port with a strong focus on the original gameplay while providing a breadth of enhancements...",
+    "icon": "https://portable-linux-apps.github.io/icons/odamex.png"
   },
   {
     "packageName": "odicto",
