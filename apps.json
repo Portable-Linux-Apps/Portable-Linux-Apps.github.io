@@ -2230,6 +2230,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/comictagger.png"
   },
   {
+    "packageName": "commander-genius",
+    "description": "Unofficial, an open-source interpreter for the Commander Keen (1-6, Dreams) and Cosmos Cosmic series...",
+    "icon": "https://portable-linux-apps.github.io/icons/commander-genius.png"
+  },
+  {
     "packageName": "compass",
     "description": "Air Traffic Surveillance DataBase...",
     "icon": "https://portable-linux-apps.github.io/icons/compass.png"
