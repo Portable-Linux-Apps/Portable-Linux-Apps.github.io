@@ -9740,6 +9740,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/pget.png"
   },
   {
+    "packageName": "phantom-satellite",
+    "description": "Unofficial, a fork of Pale Moon that aims to support older/niche platforms, without sacrificing support for more common/modern platforms...",
+    "icon": "https://portable-linux-apps.github.io/icons/phantom-satellite.png"
+  },
+  {
     "packageName": "phinch",
     "description": "Phinch is a framework for visualizing biological data...",
     "icon": "https://portable-linux-apps.github.io/icons/phinch.png"
