@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **300** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **301** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -152,6 +152,7 @@
 | <img loading="lazy" src="icons/ipuissance-4d.png" width="48" height="48"> | [***ipuissance-4d***](apps/ipuissance-4d.md) | *Connect Four video game with a 3-Dimentional rendering.*..[ *read more* ](apps/ipuissance-4d.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ipuissance-4d) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ipuissance-4d) |
 | <img loading="lazy" src="icons/iqpuzzle.png" width="48" height="48"> | [***iqpuzzle***](apps/iqpuzzle.md) | *A challenging pentomino puzzle.*..[ *read more* ](apps/iqpuzzle.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/iqpuzzle) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/iqpuzzle) |
 | <img loading="lazy" src="icons/iris-enhanced.png" width="48" height="48"> | [***iris-enhanced***](apps/iris-enhanced.md) | *Unofficial, Sony PlayStation 2 emulator.*..[ *read more* ](apps/iris-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/iris-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/iris-enhanced) |
+| <img loading="lazy" src="icons/ironwail.png" width="48" height="48"> | [***ironwail***](apps/ironwail.md) | *High-performance QuakeSpasm fork QuakeSpasm. A modern, cross-platform Quake game engine based on FitzQuake.*..[ *read more* ](apps/ironwail.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ironwail) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ironwail) |
 | <img loading="lazy" src="icons/itgmania.png" width="48" height="48"> | [***itgmania***](apps/itgmania.md) | *Unofficial, a fork of StepMania 5.1, an advanced cross-platform rhythm game for home and arcade use.*..[ *read more* ](apps/itgmania.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/itgmania) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/itgmania) |
 | <img loading="lazy" src="icons/jdminecraftlauncher.png" width="48" height="48"> | [***jdminecraftlauncher***](apps/jdminecraftlauncher.md) | *Unofficial classic styled Minecraft Launcher.*..[ *read more* ](apps/jdminecraftlauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jdminecraftlauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jdminecraftlauncher) |
 | <img loading="lazy" src="icons/jdnbtexplorer.png" width="48" height="48"> | [***jdnbtexplorer***](apps/jdnbtexplorer.md) | *A Editor for Minecraft NBT files.*..[ *read more* ](apps/jdnbtexplorer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jdnbtexplorer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jdnbtexplorer) |

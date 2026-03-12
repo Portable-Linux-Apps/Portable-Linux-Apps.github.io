@@ -6080,6 +6080,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/iris-enhanced.png"
   },
   {
+    "packageName": "ironwail",
+    "description": "High-performance QuakeSpasm fork QuakeSpasm. A modern, cross-platform Quake game engine based on FitzQuake...",
+    "icon": "https://portable-linux-apps.github.io/icons/ironwail.png"
+  },
+  {
     "packageName": "irscrutinizer",
     "description": "Capture/generate/analyze/import/export infrared signals...",
     "icon": "https://portable-linux-apps.github.io/icons/irscrutinizer.png"
