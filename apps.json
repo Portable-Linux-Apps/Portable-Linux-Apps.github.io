@@ -210,6 +210,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/akasha.png"
   },
   {
+    "packageName": "akhenaten",
+    "description": "Unofficial, open-source engine for Pharaoh (+Cleopatra) city-building game...",
+    "icon": "https://portable-linux-apps.github.io/icons/akhenaten.png"
+  },
+  {
     "packageName": "akuse",
     "description": "Simple and easy to use anime streaming desktop app without ads...",
     "icon": "https://portable-linux-apps.github.io/icons/akuse.png"

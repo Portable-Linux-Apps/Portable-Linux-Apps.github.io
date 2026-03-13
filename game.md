@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **301** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **302** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -38,6 +38,7 @@
 | <img loading="lazy" src="icons/3d-puzzles.png" width="48" height="48"> | [***3d-puzzles***](apps/3d-puzzles.md) | *3D-Puzzles are Rubik, Dogic and Dogic12.*..[ *read more* ](apps/3d-puzzles.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/3d-puzzles) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/3d-puzzles) |
 | <img loading="lazy" src="icons/aaaaxy.png" width="48" height="48"> | [***aaaaxy***](apps/aaaaxy.md) | *A nonlinear puzzle platformer, game.*..[ *read more* ](apps/aaaaxy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aaaaxy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aaaaxy) |
 | <img loading="lazy" src="icons/aisleriot.png" width="48" height="48"> | [***aisleriot***](apps/aisleriot.md) | *Unofficial. A card game featuring over 80 different solitaire-type card games.*..[ *read more* ](apps/aisleriot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aisleriot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aisleriot) |
+| <img loading="lazy" src="icons/akhenaten.png" width="48" height="48"> | [***akhenaten***](apps/akhenaten.md) | *Unofficial, open-source engine for Pharaoh (+Cleopatra) city-building game.*..[ *read more* ](apps/akhenaten.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/akhenaten) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/akhenaten) |
 | <img loading="lazy" src="icons/alvr.png" width="48" height="48"> | [***alvr***](apps/alvr.md) | *Stream VR games from your PC to your headset via Wi-Fi.*..[ *read more* ](apps/alvr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alvr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alvr) |
 | <img loading="lazy" src="icons/antimicrox.png" width="48" height="48"> | [***antimicrox***](apps/antimicrox.md) | *Use a gamepad to control a variety of programs.*..[ *read more* ](apps/antimicrox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/antimicrox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/antimicrox) |
 | <img loading="lazy" src="icons/arcade-manager.png" width="48" height="48"> | [***arcade-manager***](apps/arcade-manager.md) | *Manage your rom collection, Games/Retropie & Recalbox.*..[ *read more* ](apps/arcade-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/arcade-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/arcade-manager) |
