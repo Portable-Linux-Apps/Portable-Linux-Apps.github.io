@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2513** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2514** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1689,6 +1689,7 @@
 | <img loading="lazy" src="icons/poi.png" width="48" height="48"> | [***poi***](apps/poi.md) | *Scalable KanColle browser and tool.*..[ *read more* ](apps/poi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/poi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/poi) |
 | <img loading="lazy" src="icons/pointless.png" width="48" height="48"> | [***pointless***](apps/pointless.md) | *An endless drawing canvas desktop app made with Tauri (Rust) and React.*..[ *read more* ](apps/pointless.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pointless) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pointless) |
 | <img loading="lazy" src="icons/pokeclicker.png" width="48" height="48"> | [***pokeclicker***](apps/pokeclicker.md) | *PokéClicker with quality of life changes.*..[ *read more* ](apps/pokeclicker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pokeclicker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pokeclicker) |
+| <img loading="lazy" src="icons/pokemmo.png" width="48" height="48"> | [***pokemmo***](apps/pokemmo.md) | *Unofficial, MMO based on the Pokémon Universe.*..[ *read more* ](apps/pokemmo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pokemmo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pokemmo) |
 | <img loading="lazy" src="icons/pokete.png" width="48" height="48"> | [***pokete***](apps/pokete.md) | *A terminal based Pokemon like game.*..[ *read more* ](apps/pokete.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pokete) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pokete) |
 | <img loading="lazy" src="icons/polar.png" width="48" height="48"> | [***polar***](apps/polar.md) | *One-click Bitcoin Lightning networks for local app development.*..[ *read more* ](apps/polar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/polar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/polar) |
 | <img loading="lazy" src="icons/polkakey.png" width="48" height="48"> | [***polkakey***](apps/polkakey.md) | *A secure way to generate Polkadot/Kusama/Edgeware address.*..[ *read more* ](apps/polkakey.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/polkakey) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/polkakey) |
