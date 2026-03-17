@@ -14,7 +14,7 @@ If an app is added to this list, it means that an installation script has also b
 ## If an app is **removed** from AM
   - All references to it in the lists will be removed
   - The .md page will be removed
-  - The icon will be removed
+  - The icon will be retained in case the application is added again in the future
 
 ## This project is powered by github actions, so...
 **...any attempt to add apps not listed in AM will be automatically overwritten!**
