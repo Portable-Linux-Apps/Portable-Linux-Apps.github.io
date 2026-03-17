@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **78** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **79** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -72,6 +72,7 @@
 | <img loading="lazy" src="icons/kitsas.png" width="48" height="48"> | [***kitsas***](apps/kitsas.md) | *Finnish bookkeeping software for small organizations.*..[ *read more* ](apps/kitsas.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kitsas) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kitsas) |
 | <img loading="lazy" src="icons/kitupiikki.png" width="48" height="48"> | [***kitupiikki***](apps/kitupiikki.md) | *Bookkeeping software for small organizations.*..[ *read more* ](apps/kitupiikki.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kitupiikki) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kitupiikki) |
 | <img loading="lazy" src="icons/koodo-reader.png" width="48" height="48"> | [***koodo-reader***](apps/koodo-reader.md) | *Modern ebook manager and reader with sync & backup capacities.*..[ *read more* ](apps/koodo-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/koodo-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/koodo-reader) |
+| <img loading="lazy" src="icons/lets-bend.png" width="48" height="48"> | [***lets-bend***](apps/lets-bend.md) | *Harmonica tuner for learning bending techniques with real-time visual feedback.*..[ *read more* ](apps/lets-bend.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lets-bend) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lets-bend) |
 | <img loading="lazy" src="icons/lunatask.png" width="48" height="48"> | [***lunatask***](apps/lunatask.md) | *All-in-one encrypted to-do list, notebook, habit and mood tracker.*..[ *read more* ](apps/lunatask.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lunatask) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lunatask) |
 | <img loading="lazy" src="icons/mathcha-notebook.png" width="48" height="48"> | [***mathcha-notebook***](apps/mathcha-notebook.md) | *Desktop version of Mathcha, built for your privacy.*..[ *read more* ](apps/mathcha-notebook.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mathcha-notebook) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mathcha-notebook) |
 | <img loading="lazy" src="icons/memento.png" width="48" height="48"> | [***memento***](apps/memento.md) | *A video player for studying Japanese.*..[ *read more* ](apps/memento.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/memento) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/memento) |
