@@ -7075,6 +7075,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/lazytyper.png"
   },
   {
+    "packageName": "lba2-classic-community",
+    "description": "Unofficial, a community fork for evolving and modernizing LBA2 source port...",
+    "icon": "https://portable-linux-apps.github.io/icons/lba2-classic-community.png"
+  },
+  {
     "packageName": "lbry-desktop",
     "description": "A browser and wallet for LBRY...",
     "icon": "https://portable-linux-apps.github.io/icons/lbry-desktop.png"
@@ -14998,6 +15003,11 @@
     "packageName": "znote",
     "description": "A Beautiful markdown editor inspired by Jupyter...",
     "icon": "https://portable-linux-apps.github.io/icons/znote.png"
+  },
+  {
+    "packageName": "zod-engine",
+    "description": "Unofficial, an open source remake of the 1996 game Z by the Bitmap Brothers...",
+    "icon": "https://portable-linux-apps.github.io/icons/zod-engine.png"
   },
   {
     "packageName": "zograscope",

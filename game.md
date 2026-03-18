@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **302** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **303** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -373,6 +373,7 @@
 | <img loading="lazy" src="icons/yamata-launcher.png" width="48" height="48"> | [***yamata-launcher***](apps/yamata-launcher.md) | *A multi-platform game launcher designed to unify game catalogs, downloads, and libraries from multiple ecosystems into a single, extensible application.*..[ *read more* ](apps/yamata-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yamata-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yamata-launcher) |
 | <img loading="lazy" src="icons/zelda64-recompiled.png" width="48" height="48"> | [***zelda64-recompiled***](apps/zelda64-recompiled.md) | *Unofficial, a native port of the N64 Legend of Zelda games, statically recompiled.*..[ *read more* ](apps/zelda64-recompiled.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zelda64-recompiled) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zelda64-recompiled) |
 | <img loading="lazy" src="icons/znax.png" width="48" height="48"> | [***znax***](apps/znax.md) | *Znax is a cross platform puzzle / arcade game using SDL2 libraries.*..[ *read more* ](apps/znax.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/znax) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/znax) |
+| <img loading="lazy" src="icons/zod-engine.png" width="48" height="48"> | [***zod-engine***](apps/zod-engine.md) | *Unofficial, an open source remake of the 1996 game Z by the Bitmap Brothers.*..[ *read more* ](apps/zod-engine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zod-engine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zod-engine) |
 | <img loading="lazy" src="icons/zsnes.png" width="48" height="48"> | [***zsnes***](apps/zsnes.md) | *Unofficial, a Super Nintendo emulator.*..[ *read more* ](apps/zsnes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zsnes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zsnes) |
 
 
