@@ -8150,6 +8150,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/moolticute.png"
   },
   {
+    "packageName": "moon-lander",
+    "description": "Moon Lander is a 2D game of gravity.  Land your ship on the lading pad...",
+    "icon": "https://portable-linux-apps.github.io/icons/moon-lander.png"
+  },
+  {
     "packageName": "moondeck-buddy",
     "description": "A server-side part of the MoonDeck plugin for the SteamDeck...",
     "icon": "https://portable-linux-apps.github.io/icons/moondeck-buddy.png"
@@ -9008,6 +9013,11 @@
     "packageName": "omnipull",
     "description": "Pull Everything. Everywhere. OmniPull is a powerful, cross-platform download manager...",
     "icon": "https://portable-linux-apps.github.io/icons/omnipull.png"
+  },
+  {
+    "packageName": "omniroute",
+    "description": "an OpenAI-compatible endpoint with smart routing, load balancing, retries, and fallbacks. Add policies, rate limits, caching, and observability for reliable, cost-aware inference...",
+    "icon": "https://portable-linux-apps.github.io/icons/omniroute.png"
   },
   {
     "packageName": "omnispeak",
