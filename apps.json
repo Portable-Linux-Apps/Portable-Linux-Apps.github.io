@@ -2705,6 +2705,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/d2x-rebirth.png"
   },
   {
+    "packageName": "daggerfall-unity",
+    "description": "Unofficial, open source recreation of Daggerfall in the Unity engine...",
+    "icon": "https://portable-linux-apps.github.io/icons/daggerfall-unity.png"
+  },
+  {
     "packageName": "daisy",
     "description": "A beautiful, easy-to-use, ad-free manga and light novel client that supports both. (Anime Home)...",
     "icon": "https://portable-linux-apps.github.io/icons/daisy.png"
