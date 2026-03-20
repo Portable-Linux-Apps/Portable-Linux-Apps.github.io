@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **304** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **305** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -260,6 +260,7 @@
 | <img loading="lazy" src="icons/packsquash.png" width="48" height="48"> | [***packsquash***](apps/packsquash.md) | *A Minecraft Java Edition resource and data pack optimizer.*..[ *read more* ](apps/packsquash.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/packsquash) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/packsquash) |
 | <img loading="lazy" src="icons/palapeli.png" width="48" height="48"> | [***palapeli***](apps/palapeli.md) | *Jigsaw puzzle game. This script installs the full "kdegames" suite.*..[ *read more* ](apps/palapeli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/palapeli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/palapeli) |
 | <img loading="lazy" src="icons/parsec-linux.png" width="48" height="48"> | [***parsec-linux***](apps/parsec-linux.md) | *Parsec game streaming client.*..[ *read more* ](apps/parsec-linux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/parsec-linux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/parsec-linux) |
+| <img loading="lazy" src="icons/pcsx-redux-enhanced.png" width="48" height="48"> | [***pcsx-redux-enhanced***](apps/pcsx-redux-enhanced.md) | *Unofficial, modern fork of the pcsxr PlayStation 1 emulator focused on reverse engineering and homebrew development.*..[ *read more* ](apps/pcsx-redux-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pcsx-redux-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pcsx-redux-enhanced) |
 | <img loading="lazy" src="icons/pcsx2.png" width="48" height="48"> | [***pcsx2***](apps/pcsx2.md) | *The Playstation 2 Emulator.*..[ *read more* ](apps/pcsx2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pcsx2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pcsx2) |
 | <img loading="lazy" src="icons/pelusica.png" width="48" height="48"> | [***pelusica***](apps/pelusica.md) | *Action game, control the blue dot with your keyboard/create music.*..[ *read more* ](apps/pelusica.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pelusica) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pelusica) |
 | <img loading="lazy" src="icons/picmi.png" width="48" height="48"> | [***picmi***](apps/picmi.md) | *Single player logic-based puzzle game. This script installs the full "kdegames" suite.*..[ *read more* ](apps/picmi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picmi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picmi) |

@@ -9645,6 +9645,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/pcloud.png"
   },
   {
+    "packageName": "pcsx-redux-enhanced",
+    "description": "Unofficial, modern fork of the pcsxr PlayStation 1 emulator focused on reverse engineering and homebrew development...",
+    "icon": "https://portable-linux-apps.github.io/icons/pcsx-redux-enhanced.png"
+  },
+  {
     "packageName": "pcsx2",
     "description": "The Playstation 2 Emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/pcsx2.png"
