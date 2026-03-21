@@ -4791,7 +4791,7 @@
   },
   {
     "packageName": "geargrafx",
-    "description": "PC Engine / TurboGrafx-16 emulator and debugger...",
+    "description": "Unofficial, PC Engine / TurboGrafx-16 / SuperGrafx / PCE CD-ROM² emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/geargrafx.png"
   },
   {
@@ -4806,7 +4806,7 @@
   },
   {
     "packageName": "gearsystem",
-    "description": "Sega Master System / Game Gear / SG-1000 Emulator...",
+    "description": "Unofficial, Sega Master System / Game Gear / SG-1000 emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/gearsystem.png"
   },
   {
@@ -14826,7 +14826,7 @@
   },
   {
     "packageName": "ymir",
-    "description": "Sega Saturn emulator..",
+    "description": "Unofficial, Sega Saturn emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/ymir.png"
   },
   {
