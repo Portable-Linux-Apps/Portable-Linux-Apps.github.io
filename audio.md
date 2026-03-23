@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **157** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **158** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -190,6 +190,7 @@
 | <img loading="lazy" src="icons/ytermusic.png" width="48" height="48"> | [***ytermusic***](apps/ytermusic.md) | *An in terminal youtube music client with focus on privacy, simplicity and performance.*..[ *read more* ](apps/ytermusic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ytermusic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ytermusic) |
 | <img loading="lazy" src="icons/ytmdesktop.png" width="48" height="48"> | [***ytmdesktop***](apps/ytmdesktop.md) | *A Desktop App for YouTube Music.*..[ *read more* ](apps/ytmdesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ytmdesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ytmdesktop) |
 | <img loading="lazy" src="icons/ytmdesktop2.png" width="48" height="48"> | [***ytmdesktop2***](apps/ytmdesktop2.md) | *Unofficial Youtube Music Desktop App, with LastFM support.*..[ *read more* ](apps/ytmdesktop2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ytmdesktop2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ytmdesktop2) |
+| <img loading="lazy" src="icons/ytsage.png" width="48" height="48"> | [***ytsage***](apps/ytsage.md) | *Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponsorBlock, and view video metadata. Built with yt-dlp for reliable performance.*..[ *read more* ](apps/ytsage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ytsage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ytsage) |
 
 
 ---

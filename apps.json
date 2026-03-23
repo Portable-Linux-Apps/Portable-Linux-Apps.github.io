@@ -9530,6 +9530,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/palemoon.png"
   },
   {
+    "packageName": "pandoralauncher",
+    "description": "Pandora is a modern Minecraft launcher that balances ease-of-use with powerful instance management features...",
+    "icon": "https://portable-linux-apps.github.io/icons/pandoralauncher.png"
+  },
+  {
+    "packageName": "pandoralaunchercrack",
+    "description": "Customized version of Pandora, a modern Minecraft launcher that balances ease-of-use with powerful instance management features...",
+    "icon": "https://portable-linux-apps.github.io/icons/pandoralaunchercrack.png"
+  },
+  {
     "packageName": "panini",
     "description": "Perspective views from panoramic images...",
     "icon": "https://portable-linux-apps.github.io/icons/panini.png"
@@ -11543,6 +11553,11 @@
     "packageName": "scrcpygui",
     "description": "A user-friendly GUI for scrcpy with added functionalities...",
     "icon": "https://portable-linux-apps.github.io/icons/scrcpygui.png"
+  },
+  {
+    "packageName": "screenarc",
+    "description": "ScreenArc – Cross-platform screen recorder & editor with automatic cinematic zooms, mouse tracking, and effortless video creation...",
+    "icon": "https://portable-linux-apps.github.io/icons/screenarc.png"
   },
   {
     "packageName": "screencloud",
@@ -14525,6 +14540,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/wxmedit.png"
   },
   {
+    "packageName": "wyrmhole",
+    "description": "A cross-platform GUI wrapper for the p2p magic-wormhole.rs library...",
+    "icon": "https://portable-linux-apps.github.io/icons/wyrmhole.png"
+  },
+  {
     "packageName": "x-loc",
     "description": "Extra localizations/translations manager for Stardew Valley...",
     "icon": "https://portable-linux-apps.github.io/icons/x-loc.png"
@@ -14913,6 +14933,11 @@
     "packageName": "yts-streaming",
     "description": "Stream or play yts and torrent movies...",
     "icon": "https://portable-linux-apps.github.io/icons/yts-streaming.png"
+  },
+  {
+    "packageName": "ytsage",
+    "description": "Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponsorBlock, and view video metadata. Built with yt-dlp for reliable performance...",
+    "icon": "https://portable-linux-apps.github.io/icons/ytsage.png"
   },
   {
     "packageName": "yubikey-manager",
