@@ -895,6 +895,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/awakened-poe-trade.png"
   },
   {
+    "packageName": "awakened-poe-trade-enhanced",
+    "description": "Unofficial AppImage of Awakened POE Trade with some fixes and wider OS support...",
+    "icon": "https://portable-linux-apps.github.io/icons/awakened-poe-trade-enhanced.png"
+  },
+  {
     "packageName": "axe-electrum",
     "description": "Axe Electrum Wallet...",
     "icon": "https://portable-linux-apps.github.io/icons/axe-electrum.png"
@@ -12678,6 +12683,11 @@
     "packageName": "superfile",
     "description": "Pretty fancy and modern terminal file manager...",
     "icon": "https://portable-linux-apps.github.io/icons/superfile.png"
+  },
+  {
+    "packageName": "supermariowar",
+    "description": "Unofficial, a fan-made multiplayer Super Mario Bros. style deathmatch game...",
+    "icon": "https://portable-linux-apps.github.io/icons/supermariowar.png"
   },
   {
     "packageName": "supermodel",
