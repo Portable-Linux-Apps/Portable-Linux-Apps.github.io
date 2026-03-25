@@ -12640,6 +12640,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/subtitler.png"
   },
   {
+    "packageName": "sugarizer",
+    "description": "Sugarizer is a free/libre learning platform. The Sugarizer UI use ergonomic principles from Sugar platform, developed for the One Laptop per Child project. Sugarizer is used every day by thousands of users around the world...",
+    "icon": "https://portable-linux-apps.github.io/icons/sugarizer.png"
+  },
+  {
     "packageName": "sultanpos",
     "description": "Simple POS for minimarket...",
     "icon": "https://portable-linux-apps.github.io/icons/sultanpos.png"
@@ -14638,6 +14643,11 @@
     "packageName": "xenia-edge",
     "description": "Xbox 360 Emulator Research Project, fork of the Xenia emulator, with the aim of quicker iteration and improvements to Vulkan backend...",
     "icon": "https://portable-linux-apps.github.io/icons/xenia-edge.png"
+  },
+  {
+    "packageName": "xeyes",
+    "description": "Unofficial, a \"follow the mouse\" X demo, using the X SHAPE extension...",
+    "icon": "https://portable-linux-apps.github.io/icons/xeyes.png"
   },
   {
     "packageName": "xgetter",

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **79** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **80** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -101,6 +101,7 @@
 | <img loading="lazy" src="icons/solars.png" width="48" height="48"> | [***solars***](apps/solars.md) | *Visualize the planets of our solar system.*..[ *read more* ](apps/solars.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/solars) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/solars) |
 | <img loading="lazy" src="icons/stellarium.png" width="48" height="48"> | [***stellarium***](apps/stellarium.md) | *Planetarium that shows a realistic sky in 3D.*..[ *read more* ](apps/stellarium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stellarium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stellarium) |
 | <img loading="lazy" src="icons/studymd.png" width="48" height="48"> | [***studymd***](apps/studymd.md) | *Flashcards from Markdown.*..[ *read more* ](apps/studymd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/studymd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/studymd) |
+| <img loading="lazy" src="icons/sugarizer.png" width="48" height="48"> | [***sugarizer***](apps/sugarizer.md) | *Sugarizer is a free/libre learning platform. The Sugarizer UI use ergonomic principles from Sugar platform, developed for the One Laptop per Child project. Sugarizer is used every day by thousands of users around the world.*..[ *read more* ](apps/sugarizer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sugarizer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sugarizer) |
 | <img loading="lazy" src="icons/sunny.png" width="48" height="48"> | [***sunny***](apps/sunny.md) | *Screenshot software that supports OCR and image translation features.*..[ *read more* ](apps/sunny.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sunny) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sunny) |
 | <img loading="lazy" src="icons/symphonium.png" width="48" height="48"> | [***symphonium***](apps/symphonium.md) | *A tool to help when learning to play the piano.*..[ *read more* ](apps/symphonium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/symphonium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/symphonium) |
 | <img loading="lazy" src="icons/thorium-reader.png" width="48" height="48"> | [***thorium-reader***](apps/thorium-reader.md) | *Desktop application to read ebooks.*..[ *read more* ](apps/thorium-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thorium-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thorium-reader) |
