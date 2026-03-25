@@ -3985,11 +3985,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/fd.png"
   },
   {
-    "packageName": "fdc3-sail",
-    "description": "Open implementation of the FDC3 standard using Electron...",
-    "icon": "https://portable-linux-apps.github.io/icons/fdc3-sail.png"
-  },
-  {
     "packageName": "fdm",
     "description": "Free Download Manager, multiplatform powerful modern download accelerator and organizer...",
     "icon": "https://portable-linux-apps.github.io/icons/fdm.png"

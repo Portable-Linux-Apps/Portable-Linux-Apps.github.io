@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2539** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2538** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -718,7 +718,6 @@
 | <img loading="lazy" src="icons/fat-wallet.png" width="48" height="48"> | [***fat-wallet***](apps/fat-wallet.md) | *Wallet for FAT tokens.*..[ *read more* ](apps/fat-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fat-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fat-wallet) |
 | <img loading="lazy" src="icons/fbreader.png" width="48" height="48"> | [***fbreader***](apps/fbreader.md) | *Your Favourite eBook Reader*..[ *read more* ](apps/fbreader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fbreader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fbreader) |
 | <img loading="lazy" src="icons/fchat-horizon.png" width="48" height="48"> | [***fchat-horizon***](apps/fchat-horizon.md) | *The Best F-Chat 3.0 Client, No exceptions!.*..[ *read more* ](apps/fchat-horizon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fchat-horizon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fchat-horizon) |
-| <img loading="lazy" src="icons/fdc3-sail.png" width="48" height="48"> | [***fdc3-sail***](apps/fdc3-sail.md) | *Open implementation of the FDC3 standard using Electron.*..[ *read more* ](apps/fdc3-sail.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fdc3-sail) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fdc3-sail) |
 | <img loading="lazy" src="icons/fdm.png" width="48" height="48"> | [***fdm***](apps/fdm.md) | *Free Download Manager, multiplatform powerful modern download accelerator and organizer.*..[ *read more* ](apps/fdm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fdm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fdm) |
 | <img loading="lazy" src="icons/feather-wallet.png" width="48" height="48"> | [***feather-wallet***](apps/feather-wallet.md) | *Monero wallet.*..[ *read more* ](apps/feather-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/feather-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/feather-wallet) |
 | <img loading="lazy" src="icons/featherpad.png" width="48" height="48"> | [***featherpad***](apps/featherpad.md) | *Unofficial. A lightweight Qt plain-text editor.*..[ *read more* ](apps/featherpad.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/featherpad) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/featherpad) |
