@@ -10260,6 +10260,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/popsicle.png"
   },
   {
+    "packageName": "portable2appimage",
+    "description": "Convert standalone, self-contained portable apps into AppImage packages...",
+    "icon": "https://portable-linux-apps.github.io/icons/portable2appimage.png"
+  },
+  {
     "packageName": "positron",
     "description": "Manage your movie and show watchlist...",
     "icon": "https://portable-linux-apps.github.io/icons/positron.png"
