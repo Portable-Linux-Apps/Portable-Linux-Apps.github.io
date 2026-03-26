@@ -1490,6 +1490,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/breaktimer.png"
   },
   {
+    "packageName": "briar",
+    "description": "Briar Desktop. Censorship-resistant peer-to-peer messaging that bypasses centralized servers. Connect via Bluetooth, Wi-Fi or Tor, with privacy built-in...",
+    "icon": "https://portable-linux-apps.github.io/icons/briar.png"
+  },
+  {
     "packageName": "brickstore",
     "description": "An offline BrickLink inventory management tool...",
     "icon": "https://portable-linux-apps.github.io/icons/brickstore.png"
