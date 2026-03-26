@@ -1580,6 +1580,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/bulkurlopener.png"
   },
   {
+    "packageName": "bulky",
+    "description": "Unofficial, an XApp used to rename multiple files and directories...",
+    "icon": "https://portable-linux-apps.github.io/icons/bulky.png"
+  },
+  {
     "packageName": "bunnyfetch",
     "description": "A small and fast tool for getting info about your system...",
     "icon": "https://portable-linux-apps.github.io/icons/bunnyfetch.png"
@@ -13423,6 +13428,11 @@
     "packageName": "transmissionic",
     "description": "Remote for Transmission Daemon...",
     "icon": "https://portable-linux-apps.github.io/icons/transmissionic.png"
+  },
+  {
+    "packageName": "trelby",
+    "description": "Unofficial, Trelby is simple, fast and elegantly laid out to make screenwriting simple...",
+    "icon": "https://portable-linux-apps.github.io/icons/trelby.png"
   },
   {
     "packageName": "trenchbroom",
