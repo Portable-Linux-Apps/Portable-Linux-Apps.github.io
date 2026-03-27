@@ -1,8 +1,8 @@
 # APPIMAGEUPDATE
 
- AppImageUpdate lets you update AppImages using information embedded in the AppImage itself, if provided by the developer of the AppImage.
+ A Rust implementation of AppImageUpdate, a tool for updating AppImages using efficient delta updates using zsync.
  
- SITE: https://github.com/AppImage/AppImageUpdate
+ SITE: https://github.com/pkgforge-dev/AppImageUpdate
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
