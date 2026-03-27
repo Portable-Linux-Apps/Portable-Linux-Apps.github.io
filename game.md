@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **309** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **310** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -212,6 +212,7 @@
 | <img loading="lazy" src="icons/lutris-gamepad-ui.png" width="48" height="48"> | [***lutris-gamepad-ui***](apps/lutris-gamepad-ui.md) | *A simple, TV-friendly, gamepad-navigable frontend for the Lutris game launcher on Linux.*..[ *read more* ](apps/lutris-gamepad-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lutris-gamepad-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lutris-gamepad-ui) |
 | <img loading="lazy" src="icons/m.png" width="48" height="48"> | [***m***](apps/m.md) | *Data oriented programming language for game developers.*..[ *read more* ](apps/m.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/m) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/m) |
 | <img loading="lazy" src="icons/mangbandclient.png" width="48" height="48"> | [***mangbandclient***](apps/mangbandclient.md) | *A free online multi-player realtime roguelike game.*..[ *read more* ](apps/mangbandclient.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangbandclient) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangbandclient) |
+| <img loading="lazy" src="icons/maniadrive.png" width="48" height="48"> | [***maniadrive***](apps/maniadrive.md) | *Unofficial, an open-source clone of the popular racing game TrackMania.*..[ *read more* ](apps/maniadrive.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/maniadrive) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/maniadrive) |
 | <img loading="lazy" src="icons/mcpelauncher.png" width="48" height="48"> | [***mcpelauncher***](apps/mcpelauncher.md) | *The main repo for the Linux Bedrock edition Minecraft launcher.*..[ *read more* ](apps/mcpelauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mcpelauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mcpelauncher) |
 | <img loading="lazy" src="icons/megaglest.png" width="48" height="48"> | [***megaglest***](apps/megaglest.md) | *MegaGlest real-time strategy game engine (cross-platform, 3-d).*..[ *read more* ](apps/megaglest.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/megaglest) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/megaglest) |
 | <img loading="lazy" src="icons/meganimus.png" width="48" height="48"> | [***meganimus***](apps/meganimus.md) | *A launcher for native and emulator games.*..[ *read more* ](apps/meganimus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/meganimus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/meganimus) |

@@ -561,7 +561,7 @@
   },
   {
     "packageName": "appimageupdate",
-    "description": "Tool to update an AppImage using embedded information...",
+    "description": "A Rust implementation of AppImageUpdate, a tool for updating AppImages using efficient delta updates using zsync...",
     "icon": "https://portable-linux-apps.github.io/icons/appimageupdate.png"
   },
   {
@@ -7645,6 +7645,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/mangoverlay.png"
   },
   {
+    "packageName": "maniadrive",
+    "description": "Unofficial, an open-source clone of the popular racing game TrackMania...",
+    "icon": "https://portable-linux-apps.github.io/icons/maniadrive.png"
+  },
+  {
     "packageName": "manta",
     "description": "Flexible invoicing app with beautiful & customizable templates...",
     "icon": "https://portable-linux-apps.github.io/icons/manta.png"
@@ -8073,6 +8078,11 @@
     "packageName": "miteiru",
     "description": "An open source Electron video player to learn Japanese...",
     "icon": "https://portable-linux-apps.github.io/icons/miteiru.png"
+  },
+  {
+    "packageName": "mixxx",
+    "description": "Unofficial, open source software for digital DJing...",
+    "icon": "https://portable-linux-apps.github.io/icons/mixxx.png"
   },
   {
     "packageName": "mjml-app",
@@ -10750,6 +10760,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/qtchan.png"
   },
   {
+    "packageName": "qtcreator",
+    "description": "Unofficial, lightweight, cross-platform integrated development environment...",
+    "icon": "https://portable-linux-apps.github.io/icons/qtcreator.png"
+  },
+  {
     "packageName": "qterminal",
     "description": "Unofficial. A lightweight Qt terminal emulator based on QTermWidget...",
     "icon": "https://portable-linux-apps.github.io/icons/qterminal.png"
@@ -11893,6 +11908,11 @@
     "packageName": "simdsp",
     "description": "DSP Simulator...",
     "icon": "https://portable-linux-apps.github.io/icons/simdsp.png"
+  },
+  {
+    "packageName": "simitone",
+    "description": "Unofficial, re-implementation of The Sims 1, based off of FreeSO...",
+    "icon": "https://portable-linux-apps.github.io/icons/simitone.png"
   },
   {
     "packageName": "simple-s3-uploader",
