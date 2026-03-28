@@ -8,9 +8,9 @@
 
  ![Screenshot](https://upload.wikimedia.org/wikipedia/commons/4/42/LibreOffice_7.2.4.1_start_centre_screenshot.png)
  
- APPIMAGE: https://github.com/ivan-hc/LibreOffice-appimage
- 
- ARCHIMAGE: https://github.com/Portable-Linux-Apps/LibreOffice-appimage
+ UNOFFICIAL APPIMAGE: https://github.com/Portable-Linux-Apps/LibreOffice-appimage
 
+ UNOFFICIAL ARCHIMAGE: https://github.com/ivan-hc/LibreOffice-appimage
+ 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
