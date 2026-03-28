@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2545** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2546** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2213,6 +2213,7 @@
 | <img loading="lazy" src="icons/taskade.png" width="48" height="48"> | [***taskade***](apps/taskade.md) | *AI-Powered productivity.*..[ *read more* ](apps/taskade.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskade) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskade) |
 | <img loading="lazy" src="icons/taskizer.png" width="48" height="48"> | [***taskizer***](apps/taskizer.md) | *A task management app.*..[ *read more* ](apps/taskizer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskizer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskizer) |
 | <img loading="lazy" src="icons/tastee-ui.png" width="48" height="48"> | [***tastee-ui***](apps/tastee-ui.md) | *Tool helping you write executable specifications in your lang.*..[ *read more* ](apps/tastee-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tastee-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tastee-ui) |
+| <img loading="lazy" src="icons/tauon.png" width="48" height="48"> | [***tauon***](apps/tauon.md) | *Unofficial, Tauon is a desktop music player designed for those who love their digital music collection. It’s built on the idea that a music player should be simple to use but deep in functionality. It combines a clean, modern interface with the power features you need to organize and enjoy your library.*..[ *read more* ](apps/tauon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tauon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tauon) |
 | <img loading="lazy" src="icons/tbc-video-export.png" width="48" height="48"> | [***tbc-video-export***](apps/tbc-video-export.md) | *Tool for exporting S-Video and CVBS-type TBCs to video files.*..[ *read more* ](apps/tbc-video-export.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tbc-video-export) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tbc-video-export) |
 | <img loading="lazy" src="icons/tc.png" width="48" height="48"> | [***tc***](apps/tc.md) | *A desktop chat client for Twitch.*..[ *read more* ](apps/tc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tc) |
 | <img loading="lazy" src="icons/teams.png" width="48" height="48"> | [***teams***](apps/teams.md) | *Unofficial, Business communication platform developed by Microsoft.*..[ *read more* ](apps/teams.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/teams) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/teams) |

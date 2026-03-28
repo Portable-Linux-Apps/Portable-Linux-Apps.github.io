@@ -13010,6 +13010,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/tastee-ui.png"
   },
   {
+    "packageName": "tauon",
+    "description": "Unofficial, Tauon is a desktop music player designed for those who love their digital music collection. It’s built on the idea that a music player should be simple to use but deep in functionality. It combines a clean, modern interface with the power features you need to organize and enjoy your library...",
+    "icon": "https://portable-linux-apps.github.io/icons/tauon.png"
+  },
+  {
     "packageName": "tb",
     "description": "Tasks, boards & notes for the command-line habitat...",
     "icon": "https://portable-linux-apps.github.io/icons/tb.png"
