@@ -10621,13 +10621,8 @@
   },
   {
     "packageName": "qemu",
-    "description": "Unofficial, a generic and open source machine & userspace emulator and virtualizer...",
+    "description": "Unofficial, a generic and open source machine & userspace emulator and virtualizer, to run a virtual machines...",
     "icon": "https://portable-linux-apps.github.io/icons/qemu.png"
-  },
-  {
-    "packageName": "qemu-appimage",
-    "description": "Unofficial. Prove of the concept to run a virtual machine from Appimage...",
-    "icon": "https://portable-linux-apps.github.io/icons/qemu-appimage.png"
   },
   {
     "packageName": "qemu-ppc",
