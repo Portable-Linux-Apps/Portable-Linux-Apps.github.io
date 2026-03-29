@@ -4796,12 +4796,12 @@
   },
   {
     "packageName": "gearboy",
-    "description": "Game Boy / Gameboy Color emulator...",
+    "description": "Unofficial, Game Boy / Gameboy Color emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/gearboy.png"
   },
   {
     "packageName": "gearcoleco",
-    "description": "ColecoVision emulator...",
+    "description": "Unofficial, ColecoVision emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/gearcoleco.png"
   },
   {
@@ -10618,6 +10618,11 @@
     "packageName": "qelectrotech",
     "description": "Edit electrical diagrams...",
     "icon": "https://portable-linux-apps.github.io/icons/qelectrotech.png"
+  },
+  {
+    "packageName": "qemu",
+    "description": "Unofficial, a generic and open source machine & userspace emulator and virtualizer...",
+    "icon": "https://portable-linux-apps.github.io/icons/qemu.png"
   },
   {
     "packageName": "qemu-appimage",
