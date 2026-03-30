@@ -4225,29 +4225,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/firefox.png"
   },
   {
-    "packageName": "firefox-appimage",
-    "description": "Unofficial, AppImage of the Web Browser, Stable...",
-    "icon": "https://portable-linux-apps.github.io/icons/firefox-appimage.png"
-  },
-  {
     "packageName": "firefox-beta",
     "description": "Fast, powerful and extensible Web Browser, Beta Edition...",
     "icon": "https://portable-linux-apps.github.io/icons/firefox-beta.png"
   },
   {
-    "packageName": "firefox-beta-appimage",
-    "description": "Unofficial, AppImage of the Web Browser, Beta...",
-    "icon": "https://portable-linux-apps.github.io/icons/firefox-beta-appimage.png"
-  },
-  {
-    "packageName": "firefox-dev",
+    "packageName": "firefox-devedition",
     "description": "Fast, powerful and extensible Web Browser, Developer Edition...",
-    "icon": "https://portable-linux-apps.github.io/icons/firefox-dev.png"
-  },
-  {
-    "packageName": "firefox-devedition-appimage",
-    "description": "Unofficial AppImage of the Web Browser, Dev...",
-    "icon": "https://portable-linux-apps.github.io/icons/firefox-devedition-appimage.png"
+    "icon": "https://portable-linux-apps.github.io/icons/firefox-devedition.png"
   },
   {
     "packageName": "firefox-esr",
@@ -4255,19 +4240,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/firefox-esr.png"
   },
   {
-    "packageName": "firefox-esr-appimage",
-    "description": "Unofficial AppImage of the Web Browser, ESR...",
-    "icon": "https://portable-linux-apps.github.io/icons/firefox-esr-appimage.png"
-  },
-  {
     "packageName": "firefox-nightly",
     "description": "Fast, powerful and extensible Web Browser, Nightly Edition...",
     "icon": "https://portable-linux-apps.github.io/icons/firefox-nightly.png"
-  },
-  {
-    "packageName": "firefox-nightly-appimage",
-    "description": "Unofficial AppImage of the Web Browser, Nightly...",
-    "icon": "https://portable-linux-apps.github.io/icons/firefox-nightly-appimage.png"
   },
   {
     "packageName": "fireminipro",
