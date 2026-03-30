@@ -9,7 +9,9 @@
  
  ![Screenshot](https://media.imgcdn.org/repo/2023/03/mozilla-thunderbird/Mozilla-Thunderbird-free-download.jpg)
  
- SITE & SOURCE: https://www.thunderbird.net
+ SITE: https://www.thunderbird.net
+ 
+ APPIMAGE: https://github.com/ivan-hc/Thunderbird-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
