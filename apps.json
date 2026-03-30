@@ -13195,29 +13195,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/thunderbird.png"
   },
   {
-    "packageName": "thunderbird-appimage",
-    "description": "Unofficial. Free and open source eMail client, Stable...",
-    "icon": "https://portable-linux-apps.github.io/icons/thunderbird-appimage.png"
-  },
-  {
     "packageName": "thunderbird-beta",
     "description": "Free and open source eMail client, Beta Edition...",
     "icon": "https://portable-linux-apps.github.io/icons/thunderbird-beta.png"
   },
   {
-    "packageName": "thunderbird-beta-appimage",
-    "description": "Unofficial. Free and open source eMail client, Beta Edition...",
-    "icon": "https://portable-linux-apps.github.io/icons/thunderbird-beta-appimage.png"
-  },
-  {
     "packageName": "thunderbird-nightly",
     "description": "Free and open source eMail client, Nightly Edition...",
     "icon": "https://portable-linux-apps.github.io/icons/thunderbird-nightly.png"
-  },
-  {
-    "packageName": "thunderbird-nightly-appimage",
-    "description": "Unofficial. Free and open source eMail client, Nightly Edition...",
-    "icon": "https://portable-linux-apps.github.io/icons/thunderbird-nightly-appimage.png"
   },
   {
     "packageName": "ticker",
