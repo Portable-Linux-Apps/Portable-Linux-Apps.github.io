@@ -1,10 +1,10 @@
-# FIREFOX-ESR
+# FIREFOX-DEVEDITION
 
  Firefox is a powerful, extensible web browser with support for modern web application technologies.
  Get the browser that protects what’s important!
  No shady privacy policies or back doors for advertisers. Just a lightning fast browser that doesn’t sell you out.
  
- This is the Extended Support Release, with automatic updates.
+ This is the Developer Edition, with automatic updates.
  
  This script provides both the official portable build and the AppImage.
  
