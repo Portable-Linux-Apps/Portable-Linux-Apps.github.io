@@ -5990,6 +5990,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/innerbreeze.png"
   },
   {
+    "packageName": "innoextract",
+    "description": "Unofficial, a tool to extract installers created by Inno Setup...",
+    "icon": "https://portable-linux-apps.github.io/icons/innoextract.png"
+  },
+  {
     "packageName": "insight",
     "description": "The GUI front-end of GDB with Tcl/Tk...",
     "icon": "https://portable-linux-apps.github.io/icons/insight.png"
@@ -9208,6 +9213,11 @@
     "packageName": "openlibextended",
     "description": "An Open source app to download and read books from shadow library (Anna’s Archive)...",
     "icon": "https://portable-linux-apps.github.io/icons/openlibextended.png"
+  },
+  {
+    "packageName": "openloco",
+    "description": "Unofficial, an open source re-implementation of Chris Sawyer's Locomotion...",
+    "icon": "https://portable-linux-apps.github.io/icons/openloco.png"
   },
   {
     "packageName": "openmsx",
