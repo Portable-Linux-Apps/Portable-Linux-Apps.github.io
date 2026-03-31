@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2958** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2959** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2655,6 +2655,7 @@
 | <img loading="lazy" src="icons/texstudio.png" width="48" height="48"> | [***texstudio***](apps/texstudio.md) | *LaTeX development environment.*..[ *read more* ](apps/texstudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/texstudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/texstudio) |
 | <img loading="lazy" src="icons/textnote.png" width="48" height="48"> | [***textnote***](apps/textnote.md) | *Simple tool for creating and organizing daily notes on the command line.*..[ *read more* ](apps/textnote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/textnote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/textnote) |
 | <img loading="lazy" src="icons/textosaurus.png" width="48" height="48"> | [***textosaurus***](apps/textosaurus.md) | *Cross-platform text editor based on Qt and Scintilla.*..[ *read more* ](apps/textosaurus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/textosaurus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/textosaurus) |
+| <img loading="lazy" src="icons/tfcbm.png" width="48" height="48"> | [***tfcbm***](apps/tfcbm.md) | *The * Clipboard Manager.*..[ *read more* ](apps/tfcbm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tfcbm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tfcbm) |
 | <img loading="lazy" src="icons/tgpt.png" width="48" height="48"> | [***tgpt***](apps/tgpt.md) | *AI Chatbots in terminal without needing API keys.*..[ *read more* ](apps/tgpt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tgpt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tgpt) |
 | <img loading="lazy" src="icons/the-way.png" width="48" height="48"> | [***the-way***](apps/the-way.md) | *A code snippets manager for your terminal.*..[ *read more* ](apps/the-way.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/the-way) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/the-way) |
 | <img loading="lazy" src="icons/thedesk.png" width="48" height="48"> | [***thedesk***](apps/thedesk.md) | *Mastodon Client for PC.*..[ *read more* ](apps/thedesk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thedesk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thedesk) |

@@ -13135,6 +13135,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/textosaurus.png"
   },
   {
+    "packageName": "tfcbm",
+    "description": "The * Clipboard Manager...",
+    "icon": "https://portable-linux-apps.github.io/icons/tfcbm.png"
+  },
+  {
     "packageName": "tgpt",
     "description": "AI Chatbots in terminal without needing API keys...",
     "icon": "https://portable-linux-apps.github.io/icons/tgpt.png"

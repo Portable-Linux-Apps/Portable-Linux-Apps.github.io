@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2550** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2551** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2233,6 +2233,7 @@
 | <img loading="lazy" src="icons/texmacs.png" width="48" height="48"> | [***texmacs***](apps/texmacs.md) | *Free scientific text editor, inspired by TeX and GNU Emacs.*..[ *read more* ](apps/texmacs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/texmacs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/texmacs) |
 | <img loading="lazy" src="icons/texstudio.png" width="48" height="48"> | [***texstudio***](apps/texstudio.md) | *LaTeX development environment.*..[ *read more* ](apps/texstudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/texstudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/texstudio) |
 | <img loading="lazy" src="icons/textosaurus.png" width="48" height="48"> | [***textosaurus***](apps/textosaurus.md) | *Cross-platform text editor based on Qt and Scintilla.*..[ *read more* ](apps/textosaurus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/textosaurus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/textosaurus) |
+| <img loading="lazy" src="icons/tfcbm.png" width="48" height="48"> | [***tfcbm***](apps/tfcbm.md) | *The * Clipboard Manager.*..[ *read more* ](apps/tfcbm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tfcbm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tfcbm) |
 | <img loading="lazy" src="icons/thedesk.png" width="48" height="48"> | [***thedesk***](apps/thedesk.md) | *Mastodon Client for PC.*..[ *read more* ](apps/thedesk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thedesk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thedesk) |
 | <img loading="lazy" src="icons/theframe.png" width="48" height="48"> | [***theframe***](apps/theframe.md) | *Animation tool.*..[ *read more* ](apps/theframe.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/theframe) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/theframe) |
 | <img loading="lazy" src="icons/theia-blueprint.png" width="48" height="48"> | [***theia-blueprint***](apps/theia-blueprint.md) | *Building desktop-based products based on Eclipse Theia.*..[ *read more* ](apps/theia-blueprint.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/theia-blueprint) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/theia-blueprint) |
