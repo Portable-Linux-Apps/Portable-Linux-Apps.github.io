@@ -4485,6 +4485,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/foot.png"
   },
   {
+    "packageName": "fooyin",
+    "description": "Unofficial, a customisable music player...",
+    "icon": "https://portable-linux-apps.github.io/icons/fooyin.png"
+  },
+  {
     "packageName": "forkgram",
     "description": "Fork of Telegram Desktop messaging app...",
     "icon": "https://portable-linux-apps.github.io/icons/forkgram.png"
@@ -5723,6 +5728,11 @@
     "packageName": "houdoku",
     "description": "Manga reader and library manager for the desktop...",
     "icon": "https://portable-linux-apps.github.io/icons/houdoku.png"
+  },
+  {
+    "packageName": "hp-15c-simulator",
+    "description": "Unofficial, a simulator for the HP-15C programmable scientific RPN calculator...",
+    "icon": "https://portable-linux-apps.github.io/icons/hp-15c-simulator.png"
   },
   {
     "packageName": "hpack",
@@ -11115,6 +11125,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/rendertune.png"
   },
   {
+    "packageName": "renpy",
+    "description": "Unofficial, visual novel engine Ren'Py...",
+    "icon": "https://portable-linux-apps.github.io/icons/renpy.png"
+  },
+  {
     "packageName": "reor",
     "description": "AI note-taking app that runs models locally...",
     "icon": "https://portable-linux-apps.github.io/icons/reor.png"
@@ -11518,6 +11533,11 @@
     "packageName": "sayonara",
     "description": "Music player and music library admininstration...",
     "icon": "https://portable-linux-apps.github.io/icons/sayonara.png"
+  },
+  {
+    "packageName": "sayonara-player-enhanced",
+    "description": "Unofficial, a small, clear and fast audio player...",
+    "icon": "https://portable-linux-apps.github.io/icons/sayonara-player-enhanced.png"
   },
   {
     "packageName": "sbe",
@@ -14233,6 +14253,11 @@
     "packageName": "webamp",
     "description": "Winamp Player 2.9 reimplementation in HTML5 and JS...",
     "icon": "https://portable-linux-apps.github.io/icons/webamp.png"
+  },
+  {
+    "packageName": "webamp-desktop-enhanced",
+    "description": "Unofficial, experimental cross-platform desktop version of Winamp 2.9 reimplementation in electron...",
+    "icon": "https://portable-linux-apps.github.io/icons/webamp-desktop-enhanced.png"
   },
   {
     "packageName": "webcamoid",
