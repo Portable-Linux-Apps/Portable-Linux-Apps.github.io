@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2966** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2967** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2618,6 +2618,7 @@
 | <img loading="lazy" src="icons/sysz.png" width="48" height="48"> | [***sysz***](apps/sysz.md) | *An fzf terminal UI for systemctl.*..[ *read more* ](apps/sysz.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sysz) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sysz) |
 | <img loading="lazy" src="icons/szyszka.png" width="48" height="48"> | [***szyszka***](apps/szyszka.md) | *Szyszka is fast and powerful file renamer.*..[ *read more* ](apps/szyszka.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/szyszka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/szyszka) |
 | <img loading="lazy" src="icons/t.viewer.png" width="48" height="48"> | [***t.viewer***](apps/t.viewer.md) | *Cross Platform Tizen Log Viewer.*..[ *read more* ](apps/t.viewer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/t.viewer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/t.viewer) |
+| <img loading="lazy" src="icons/t3code.png" width="48" height="48"> | [***t3code***](apps/t3code.md) | *T3 Code is a minimal web GUI for coding agents (currently Codex and Claude, more coming soon).*..[ *read more* ](apps/t3code.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/t3code) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/t3code) |
 | <img loading="lazy" src="icons/tabby.png" width="48" height="48"> | [***tabby***](apps/tabby.md) | *A terminal for a more modern age*..[ *read more* ](apps/tabby.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tabby) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tabby) |
 | <img loading="lazy" src="icons/tablo-tools.png" width="48" height="48"> | [***tablo-tools***](apps/tablo-tools.md) | *Tools to Bulk Delete and Export from Tablo DVR.*..[ *read more* ](apps/tablo-tools.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tablo-tools) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tablo-tools) |
 | <img loading="lazy" src="icons/tabularis.png" width="48" height="48"> | [***tabularis***](apps/tabularis.md) | *A lightweight, developer-focused database management tool.*..[ *read more* ](apps/tabularis.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tabularis) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tabularis) |

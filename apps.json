@@ -12950,6 +12950,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/t.viewer.png"
   },
   {
+    "packageName": "t3code",
+    "description": "T3 Code is a minimal web GUI for coding agents (currently Codex and Claude, more coming soon)...",
+    "icon": "https://portable-linux-apps.github.io/icons/t3code.png"
+  },
+  {
     "packageName": "tabby",
     "description": "A terminal for a more modern age..",
     "icon": "https://portable-linux-apps.github.io/icons/tabby.png"
