@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **171** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **172** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -130,6 +130,7 @@
 | <img loading="lazy" src="icons/qimgv.png" width="48" height="48"> | [***qimgv***](apps/qimgv.md) | *Unofficial, Image viewer. Fast, easy to use. Optional video support.*..[ *read more* ](apps/qimgv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qimgv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qimgv) |
 | <img loading="lazy" src="icons/qmmp.png" width="48" height="48"> | [***qmmp***](apps/qmmp.md) | *Unofficial, Qt-based multimedia player.*..[ *read more* ](apps/qmmp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmmp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmmp) |
 | <img loading="lazy" src="icons/qmplay2.png" width="48" height="48"> | [***qmplay2***](apps/qmplay2.md) | *Video and audio player whit support of most formats and codecs.*..[ *read more* ](apps/qmplay2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmplay2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmplay2) |
+| <img loading="lazy" src="icons/qmplay2-enhanced.png" width="48" height="48"> | [***qmplay2-enhanced***](apps/qmplay2-enhanced.md) | *Unofficial, a video and audio player which can play most formats and codecs.*..[ *read more* ](apps/qmplay2-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmplay2-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmplay2-enhanced) |
 | <img loading="lazy" src="icons/qprompt.png" width="48" height="48"> | [***qprompt***](apps/qprompt.md) | *Personal teleprompter software for all video creators.*..[ *read more* ](apps/qprompt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qprompt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qprompt) |
 | <img loading="lazy" src="icons/quark-player.png" width="48" height="48"> | [***quark-player***](apps/quark-player.md) | *An Electron based Web Video Services Player.*..[ *read more* ](apps/quark-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/quark-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/quark-player) |
 | <img loading="lazy" src="icons/real-video-enhancer.png" width="48" height="48"> | [***real-video-enhancer***](apps/real-video-enhancer.md) | *Interpolate and Upscale easily.*..[ *read more* ](apps/real-video-enhancer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/real-video-enhancer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/real-video-enhancer) |

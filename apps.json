@@ -9945,6 +9945,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/picturama.png"
   },
   {
+    "packageName": "piglit",
+    "description": "Unofficial, a collection of automated tests for OpenGL, Vulkan, and OpenCL implementations...",
+    "icon": "https://portable-linux-apps.github.io/icons/piglit.png"
+  },
+  {
     "packageName": "pigs-n-cows",
     "description": "A relaxing game for children and adults alike...",
     "icon": "https://portable-linux-apps.github.io/icons/pigs-n-cows.png"
@@ -10683,6 +10688,11 @@
     "packageName": "qmplay2",
     "description": "Video and audio player whit support of most formats and codecs...",
     "icon": "https://portable-linux-apps.github.io/icons/qmplay2.png"
+  },
+  {
+    "packageName": "qmplay2-enhanced",
+    "description": "Unofficial, a video and audio player which can play most formats and codecs...",
+    "icon": "https://portable-linux-apps.github.io/icons/qmplay2-enhanced.png"
   },
   {
     "packageName": "qnapi",
@@ -14338,6 +14348,11 @@
     "packageName": "whatsdesk",
     "description": "Unofficial, An unofficial client of WhatsApp...",
     "icon": "https://portable-linux-apps.github.io/icons/whatsdesk.png"
+  },
+  {
+    "packageName": "whatsie",
+    "description": "Unofficial, feature rich WhatsApp web client based on Qt WebEngine...",
+    "icon": "https://portable-linux-apps.github.io/icons/whatsie.png"
   },
   {
     "packageName": "whatstron",

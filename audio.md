@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **163** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **164** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -149,6 +149,7 @@
 | <img loading="lazy" src="icons/qmidictl.png" width="48" height="48"> | [***qmidictl***](apps/qmidictl.md) | *MIDI Remote Controller via UDP/IP Multicast.*..[ *read more* ](apps/qmidictl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmidictl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmidictl) |
 | <img loading="lazy" src="icons/qmidinet.png" width="48" height="48"> | [***qmidinet***](apps/qmidinet.md) | *MIDI Network Gateway via UDP/IP Multicast.*..[ *read more* ](apps/qmidinet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmidinet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmidinet) |
 | <img loading="lazy" src="icons/qmplay2.png" width="48" height="48"> | [***qmplay2***](apps/qmplay2.md) | *Video and audio player whit support of most formats and codecs.*..[ *read more* ](apps/qmplay2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmplay2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmplay2) |
+| <img loading="lazy" src="icons/qmplay2-enhanced.png" width="48" height="48"> | [***qmplay2-enhanced***](apps/qmplay2-enhanced.md) | *Unofficial, a video and audio player which can play most formats and codecs.*..[ *read more* ](apps/qmplay2-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmplay2-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmplay2-enhanced) |
 | <img loading="lazy" src="icons/qt-dab.png" width="48" height="48"> | [***qt-dab***](apps/qt-dab.md) | *Listening to terrestrial Digital Audio Broadcasting.*..[ *read more* ](apps/qt-dab.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qt-dab) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qt-dab) |
 | <img loading="lazy" src="icons/reaper.png" width="48" height="48"> | [***reaper***](apps/reaper.md) | *A complete digital audio production app, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.*..[ *read more* ](apps/reaper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/reaper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/reaper) |
 | <img loading="lazy" src="icons/reco.png" width="48" height="48"> | [***reco***](apps/reco.md) | *Unofficial, An audio recorder focused on being concise and simple to use*..[ *read more* ](apps/reco.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/reco) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/reco) |
