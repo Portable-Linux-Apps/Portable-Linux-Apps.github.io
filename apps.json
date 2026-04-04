@@ -335,6 +335,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/amfora.png"
   },
   {
+    "packageName": "amiberry",
+    "description": "Unofficial, optimized Amiga emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/amiberry.png"
+  },
+  {
     "packageName": "amplitude-soundboard",
     "description": "A sleek, cross-platform soundboard, available...",
     "icon": "https://portable-linux-apps.github.io/icons/amplitude-soundboard.png"
@@ -2215,6 +2220,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/coinstac.png"
   },
   {
+    "packageName": "collaboraoffice",
+    "description": "Unofficial, a collaborative online office suite based on LibreOffice technology...",
+    "icon": "https://portable-linux-apps.github.io/icons/collaboraoffice.png"
+  },
+  {
     "packageName": "collision",
     "description": "Unofficial. Verify the checksum/hash validity of files...",
     "icon": "https://portable-linux-apps.github.io/icons/collision.png"
@@ -2353,6 +2363,11 @@
     "packageName": "coolercontrold",
     "description": "Daemon for coolercontrol, to monitor your cooling devices...",
     "icon": "https://portable-linux-apps.github.io/icons/coolercontrold.png"
+  },
+  {
+    "packageName": "copyq",
+    "description": "Unofficial, an advanced clipboard manager with powerful editing and scripting features...",
+    "icon": "https://portable-linux-apps.github.io/icons/copyq.png"
   },
   {
     "packageName": "copytranslator",
@@ -4705,6 +4720,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gaiasky.png"
   },
   {
+    "packageName": "galculator",
+    "description": "A GTK 2 / GTK 3 based scientific calculator...",
+    "icon": "https://portable-linux-apps.github.io/icons/galculator.png"
+  },
+  {
     "packageName": "gale",
     "description": "A modern mod manager for Thunderstore...",
     "icon": "https://portable-linux-apps.github.io/icons/gale.png"
@@ -4758,6 +4778,11 @@
     "packageName": "gaucho",
     "description": "Minimalist task launcher..",
     "icon": "https://portable-linux-apps.github.io/icons/gaucho.png"
+  },
+  {
+    "packageName": "gcstar",
+    "description": "Unofficial, collection manager written in Perl and based on Gtk...",
+    "icon": "https://portable-linux-apps.github.io/icons/gcstar.png"
   },
   {
     "packageName": "gdesktopsuite",
@@ -5483,6 +5508,11 @@
     "packageName": "gsubs",
     "description": "Finds you the perfect subtitle match...",
     "icon": "https://portable-linux-apps.github.io/icons/gsubs.png"
+  },
+  {
+    "packageName": "gthumb",
+    "description": "Unofficial, image viewer and browser...",
+    "icon": "https://portable-linux-apps.github.io/icons/gthumb.png"
   },
   {
     "packageName": "guarda",
@@ -9715,6 +9745,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/pcsx2.png"
   },
   {
+    "packageName": "pdf-arranger",
+    "description": "Unofficial, a small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages...",
+    "icon": "https://portable-linux-apps.github.io/icons/pdf-arranger.png"
+  },
+  {
     "packageName": "pdf-diff",
     "description": "A CLI tool for visualizing differences between two pdf files...",
     "icon": "https://portable-linux-apps.github.io/icons/pdf-diff.png"
@@ -9723,6 +9758,11 @@
     "packageName": "pdf-sync",
     "description": "PDF Reader in JavaScript with Sync...",
     "icon": "https://portable-linux-apps.github.io/icons/pdf-sync.png"
+  },
+  {
+    "packageName": "pdf-tricks",
+    "description": "Unofficial, a simple, efficient application for small manipulations in PDF files...",
+    "icon": "https://portable-linux-apps.github.io/icons/pdf-tricks.png"
   },
   {
     "packageName": "pdf2htmlex",
@@ -11546,7 +11586,7 @@
   },
   {
     "packageName": "satty",
-    "description": "Modern Screenshot Annotation...",
+    "description": "Unofficial, a screenshot annotation tool...",
     "icon": "https://portable-linux-apps.github.io/icons/satty.png"
   },
   {
@@ -11888,6 +11928,11 @@
     "packageName": "shotcut",
     "description": "A powerful Video Editor...",
     "icon": "https://portable-linux-apps.github.io/icons/shotcut.png"
+  },
+  {
+    "packageName": "shotwell",
+    "description": "Unofficial, a digital photo organizer designed for the GNOME desktop environment...",
+    "icon": "https://portable-linux-apps.github.io/icons/shotwell.png"
   },
   {
     "packageName": "shradiko",
@@ -13071,7 +13116,7 @@
   },
   {
     "packageName": "tauon",
-    "description": "Unofficial, Tauon is a desktop music player designed for those who love their digital music collection. It’s built on the idea that a music player should be simple to use but deep in functionality. It combines a clean, modern interface with the power features you need to organize and enjoy your library...",
+    "description": "Unofficial, a music player for the desktop...",
     "icon": "https://portable-linux-apps.github.io/icons/tauon.png"
   },
   {
@@ -14138,6 +14183,11 @@
     "packageName": "voicevox",
     "description": "Offical Frontend for the free VOICEVOX TTS Engine...",
     "icon": "https://portable-linux-apps.github.io/icons/voicevox.png"
+  },
+  {
+    "packageName": "vokoscreenng",
+    "description": "Unofficial,  a powerful screencast creator...",
+    "icon": "https://portable-linux-apps.github.io/icons/vokoscreenng.png"
   },
   {
     "packageName": "volaris",

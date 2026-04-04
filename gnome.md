@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **11** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **12** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -42,6 +42,7 @@
 | <img loading="lazy" src="icons/gnome-text-editor.png" width="48" height="48"> | [***gnome-text-editor***](apps/gnome-text-editor.md) | *Unofficial AppImage of the Gnome's Text Editor application.*..[ *read more* ](apps/gnome-text-editor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-text-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-text-editor) |
 | <img loading="lazy" src="icons/gnome-tweaks.png" width="48" height="48"> | [***gnome-tweaks***](apps/gnome-tweaks.md) | *Unofficial, Experimental AppImage port of advanced GNOME 3 settings GUI.*..[ *read more* ](apps/gnome-tweaks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-tweaks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-tweaks) |
 | <img loading="lazy" src="icons/loginized.png" width="48" height="48"> | [***loginized***](apps/loginized.md) | *Loginized Gnome GDM Login Theme Manager.*..[ *read more* ](apps/loginized.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/loginized) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/loginized) |
+| <img loading="lazy" src="icons/shotwell.png" width="48" height="48"> | [***shotwell***](apps/shotwell.md) | *Unofficial, a digital photo organizer designed for the GNOME desktop environment.*..[ *read more* ](apps/shotwell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shotwell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shotwell) |
 | <img loading="lazy" src="icons/switchcraft.png" width="48" height="48"> | [***switchcraft***](apps/switchcraft.md) | *Switchcraft watches GNOME's light/dark preference and runs your shell commands when the theme changes.*..[ *read more* ](apps/switchcraft.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/switchcraft) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/switchcraft) |
 
 
