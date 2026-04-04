@@ -65,6 +65,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ab-download-manager.png"
   },
   {
+    "packageName": "abaddon",
+    "description": "Unofficial, an alternative Discord client with voice support made with C++ and GTK 3...",
+    "icon": "https://portable-linux-apps.github.io/icons/abaddon.png"
+  },
+  {
     "packageName": "abiword",
     "description": "Unofficial. A light and free word processing software...",
     "icon": "https://portable-linux-apps.github.io/icons/abiword.png"
@@ -10150,6 +10155,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/plume.png"
   },
   {
+    "packageName": "plus42",
+    "description": "Unofficial, an enhanced HP-42S calculator simulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/plus42.png"
+  },
+  {
     "packageName": "png2svg",
     "description": "CLI, convert small PNG images to SVG Tiny 1.2...",
     "icon": "https://portable-linux-apps.github.io/icons/png2svg.png"
@@ -11233,6 +11243,11 @@
     "packageName": "rigelengine",
     "description": "Unofficial, modern re-implementation of DOS game Duke Nukem II...",
     "icon": "https://portable-linux-apps.github.io/icons/rigelengine.png"
+  },
+  {
+    "packageName": "rigs-of-rods",
+    "description": "Unofficial, an open source vehicle simulator based on soft-body physics...",
+    "icon": "https://portable-linux-apps.github.io/icons/rigs-of-rods.png"
   },
   {
     "packageName": "rimage",
