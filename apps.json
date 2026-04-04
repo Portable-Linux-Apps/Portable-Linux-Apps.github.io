@@ -14975,11 +14975,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/ymir.png"
   },
   {
-    "packageName": "ymir-nightly",
-    "description": "Sega Saturn emulator (Nightly builds)..",
-    "icon": "https://portable-linux-apps.github.io/icons/ymir-nightly.png"
-  },
-  {
     "packageName": "yolx",
     "description": "A modern download tool developed with Flutter, powered by Aria 2 at its core...",
     "icon": "https://portable-linux-apps.github.io/icons/yolx.png"
