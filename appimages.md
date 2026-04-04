@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2566** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2567** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1426,6 +1426,7 @@
 | <img loading="lazy" src="icons/nblood.png" width="48" height="48"> | [***nblood***](apps/nblood.md) | *Unofficial, blood port based on EDuke32.*..[ *read more* ](apps/nblood.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nblood) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nblood) |
 | <img loading="lazy" src="icons/ncsa-mosaic.png" width="48" height="48"> | [***ncsa-mosaic***](apps/ncsa-mosaic.md) | *One of the first graphical web browsers.*..[ *read more* ](apps/ncsa-mosaic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ncsa-mosaic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ncsa-mosaic) |
 | <img loading="lazy" src="icons/neanes.png" width="48" height="48"> | [***neanes***](apps/neanes.md) | *A scorewriter for notating Byzantine chant in Byzantine notation.*..[ *read more* ](apps/neanes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neanes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neanes) |
+| <img loading="lazy" src="icons/negpy.png" width="48" height="48"> | [***negpy***](apps/negpy.md) | *Tool for processing film negatives.*..[ *read more* ](apps/negpy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/negpy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/negpy) |
 | <img loading="lazy" src="icons/neohtop.png" width="48" height="48"> | [***neohtop***](apps/neohtop.md) | *htop on steroids.*..[ *read more* ](apps/neohtop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neohtop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neohtop) |
 | <img loading="lazy" src="icons/neon.png" width="48" height="48"> | [***neon***](apps/neon.md) | *Light wallet for NEO blockchain.*..[ *read more* ](apps/neon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neon) |
 | <img loading="lazy" src="icons/neovide.png" width="48" height="48"> | [***neovide***](apps/neovide.md) | *No Nonsense Neovim Client in Rust*..[ *read more* ](apps/neovide.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neovide) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neovide) |

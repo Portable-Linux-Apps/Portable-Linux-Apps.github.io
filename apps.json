@@ -8530,6 +8530,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/neanes.png"
   },
   {
+    "packageName": "negpy",
+    "description": "Tool for processing film negatives...",
+    "icon": "https://portable-linux-apps.github.io/icons/negpy.png"
+  },
+  {
     "packageName": "neko",
     "description": "Neko is a cross-platform cursor-chasing cat...",
     "icon": "https://portable-linux-apps.github.io/icons/neko.png"
