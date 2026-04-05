@@ -8945,6 +8945,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/nx-software-center.png"
   },
   {
+    "packageName": "nxengine-evo",
+    "description": "A somewhat upgraded/refactored version of NXEngine...",
+    "icon": "https://portable-linux-apps.github.io/icons/nxengine-evo.png"
+  },
+  {
     "packageName": "nxengine-evo-enhanced",
     "description": "Unofficial, a somewhat upgraded/refactored version of NXEngine...",
     "icon": "https://portable-linux-apps.github.io/icons/nxengine-evo-enhanced.png"
@@ -14740,6 +14745,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/xapkdetector.png"
   },
   {
+    "packageName": "xash3d-fwgs",
+    "description": "A game engine aimed to provide compatibility with Half-Life Engine and extend it...",
+    "icon": "https://portable-linux-apps.github.io/icons/xash3d-fwgs.png"
+  },
+  {
     "packageName": "xash3d-fwgs-enhanced",
     "description": "Unofficial, a game engine aimed to provide compatibility with Half-Life Engine and extend it...",
     "icon": "https://portable-linux-apps.github.io/icons/xash3d-fwgs-enhanced.png"
@@ -14838,6 +14848,11 @@
     "packageName": "xmedcon",
     "description": "An open-source toolkit for medical image conversion...",
     "icon": "https://portable-linux-apps.github.io/icons/xmedcon.png"
+  },
+  {
+    "packageName": "xmoto",
+    "description": "A challenging 2D motocross platform game, where physics play an important role...",
+    "icon": "https://portable-linux-apps.github.io/icons/xmoto.png"
   },
   {
     "packageName": "xnconvert",
