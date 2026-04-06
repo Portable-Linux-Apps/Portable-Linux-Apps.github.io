@@ -6850,6 +6850,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/kmonad.png"
   },
   {
+    "packageName": "kmymoney",
+    "description": "KMyMoney is a cross-platform personal finance manager build on KDE frameworks technologies for your desktop and notebook environment...",
+    "icon": "https://portable-linux-apps.github.io/icons/kmymoney.png"
+  },
+  {
     "packageName": "knavalbattle",
     "description": "Unofficial, Battle Ship game. This script installs the full \"kdegames\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/knavalbattle.png"

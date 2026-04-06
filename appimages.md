@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2588** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2589** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1149,6 +1149,7 @@
 | <img loading="lazy" src="icons/kiwix.png" width="48" height="48"> | [***kiwix***](apps/kiwix.md) | *An offline reader for Web content, primarily designed to make Wikipedia available offline. It reads archives in the ZIM file format, a highly compressed open format with additional metadata.*..[ *read more* ](apps/kiwix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kiwix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kiwix) |
 | <img loading="lazy" src="icons/klogg.png" width="48" height="48"> | [***klogg***](apps/klogg.md) | *A smart interactive log explorer.*..[ *read more* ](apps/klogg.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/klogg) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/klogg) |
 | <img loading="lazy" src="icons/km-recplayer.png" width="48" height="48"> | [***km-recplayer***](apps/km-recplayer.md) | *Recorder and player of keyboard and mouse input (HID)*..[ *read more* ](apps/km-recplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/km-recplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/km-recplayer) |
+| <img loading="lazy" src="icons/kmymoney.png" width="48" height="48"> | [***kmymoney***](apps/kmymoney.md) | *KMyMoney is a cross-platform personal finance manager build on KDE frameworks technologies for your desktop and notebook environment.*..[ *read more* ](apps/kmymoney.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kmymoney) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kmymoney) |
 | <img loading="lazy" src="icons/knowte.png" width="48" height="48"> | [***knowte***](apps/knowte.md) | *Note taking.*..[ *read more* ](apps/knowte.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/knowte) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/knowte) |
 | <img loading="lazy" src="icons/koishi-desktop.png" width="48" height="48"> | [***koishi-desktop***](apps/koishi-desktop.md) | *Launch Koishi from your desktop.*..[ *read more* ](apps/koishi-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/koishi-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/koishi-desktop) |
 | <img loading="lazy" src="icons/koodo-reader.png" width="48" height="48"> | [***koodo-reader***](apps/koodo-reader.md) | *Modern ebook manager and reader with sync & backup capacities.*..[ *read more* ](apps/koodo-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/koodo-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/koodo-reader) |
