@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **130** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **131** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -116,6 +116,7 @@
 | <img loading="lazy" src="icons/mypaint.png" width="48" height="48"> | [***mypaint***](apps/mypaint.md) | *Simple drawing and painting program, graphics.*..[ *read more* ](apps/mypaint.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mypaint) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mypaint) |
 | <img loading="lazy" src="icons/ncsa-mosaic.png" width="48" height="48"> | [***ncsa-mosaic***](apps/ncsa-mosaic.md) | *One of the first graphical web browsers.*..[ *read more* ](apps/ncsa-mosaic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ncsa-mosaic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ncsa-mosaic) |
 | <img loading="lazy" src="icons/openstickies.png" width="48" height="48"> | [***openstickies***](apps/openstickies.md) | *Sticky notes for your desktop. Simple, fast, private. Drop files, paste screenshots, set reminders, keep things visible where you work.*..[ *read more* ](apps/openstickies.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openstickies) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openstickies) |
+| <img loading="lazy" src="icons/optiimage.png" width="48" height="48"> | [***optiimage***](apps/optiimage.md) | *Unofficial, optimize your images with OptiImage, a useful image compressor that supports PNG, JPEG, WebP and SVG file types.*..[ *read more* ](apps/optiimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/optiimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/optiimage) |
 | <img loading="lazy" src="icons/paper.png" width="48" height="48"> | [***paper***](apps/paper.md) | *A CLI Tool to set a random wallpaper from Unsplash.com.*..[ *read more* ](apps/paper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/paper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/paper) |
 | <img loading="lazy" src="icons/pavo.png" width="48" height="48"> | [***pavo***](apps/pavo.md) | *A mini desktop wallpaper application.*..[ *read more* ](apps/pavo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pavo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pavo) |
 | <img loading="lazy" src="icons/pdmaner.png" width="48" height="48"> | [***pdmaner***](apps/pdmaner.md) | *A relational database modeling tool.*..[ *read more* ](apps/pdmaner.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pdmaner) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pdmaner) |

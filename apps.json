@@ -850,6 +850,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/augur.png"
   },
   {
+    "packageName": "augustus",
+    "description": "An open source re-implementation of the game Caesar III...",
+    "icon": "https://portable-linux-apps.github.io/icons/augustus.png"
+  },
+  {
     "packageName": "augustus-enhanced",
     "description": "Unofficial, a fork of the Julius project that intends to incorporate gameplay changes...",
     "icon": "https://portable-linux-apps.github.io/icons/augustus-enhanced.png"
@@ -6140,6 +6145,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ireader.png"
   },
   {
+    "packageName": "iris",
+    "description": "Sony PlayStation 2 games emulator for Windows, Linux and macOS...",
+    "icon": "https://portable-linux-apps.github.io/icons/iris.png"
+  },
+  {
     "packageName": "iris-enhanced",
     "description": "Unofficial, Sony PlayStation 2 emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/iris-enhanced.png"
@@ -8910,6 +8920,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/nudelta.png"
   },
   {
+    "packageName": "nugget-doom",
+    "description": "Nugget Doom is a Doom game source port forked from Woof! with additional features...",
+    "icon": "https://portable-linux-apps.github.io/icons/nugget-doom.png"
+  },
+  {
     "packageName": "nugget-doom-enhanced",
     "description": "Unofficial, a Doom source port forked from Woof! with additional features...",
     "icon": "https://portable-linux-apps.github.io/icons/nugget-doom-enhanced.png"
@@ -9423,6 +9438,11 @@
     "packageName": "opera-dev",
     "description": "Unofficial. Fast and secure web browser, Developer version...",
     "icon": "https://portable-linux-apps.github.io/icons/opera-dev.png"
+  },
+  {
+    "packageName": "optiimage",
+    "description": "Unofficial, optimize your images with OptiImage, a useful image compressor that supports PNG, JPEG, WebP and SVG file types...",
+    "icon": "https://portable-linux-apps.github.io/icons/optiimage.png"
   },
   {
     "packageName": "orange",
@@ -10130,6 +10150,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/platinum-md.png"
   },
   {
+    "packageName": "play",
+    "description": "Play! is a PlayStation2 games emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/play.png"
+  },
+  {
     "packageName": "play-2048",
     "description": "Another implementation of the 2048 game...",
     "icon": "https://portable-linux-apps.github.io/icons/play-2048.png"
@@ -10418,6 +10443,11 @@
     "packageName": "pretty-handy-privacy",
     "description": "User interface for basic encryption tasks...",
     "icon": "https://portable-linux-apps.github.io/icons/pretty-handy-privacy.png"
+  },
+  {
+    "packageName": "prey2006",
+    "description": "Unofficial, Prey 2006 SDK integrated with Doom 3 GPL release...",
+    "icon": "https://portable-linux-apps.github.io/icons/prey2006.png"
   },
   {
     "packageName": "primate",
@@ -12283,6 +12313,11 @@
     "packageName": "solarwallet",
     "description": "Stellar wallet. Secure and user-friendly...",
     "icon": "https://portable-linux-apps.github.io/icons/solarwallet.png"
+  },
+  {
+    "packageName": "songrec",
+    "description": "Unofficial, an open-source Shazam client for Linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/songrec.png"
   },
   {
     "packageName": "sonic-3-air",
