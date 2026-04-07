@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **317** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **318** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -299,6 +299,7 @@
 | <img loading="lazy" src="icons/retroarch.png" width="48" height="48"> | [***retroarch***](apps/retroarch.md) | *Frontend for emulators, game engines and media players.*..[ *read more* ](apps/retroarch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retroarch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retroarch) |
 | <img loading="lazy" src="icons/retrom.png" width="48" height="48"> | [***retrom***](apps/retrom.md) | *A centralized game library/collection management service with a focus on emulation.*..[ *read more* ](apps/retrom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retrom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retrom) |
 | <img loading="lazy" src="icons/rigelengine.png" width="48" height="48"> | [***rigelengine***](apps/rigelengine.md) | *Unofficial, modern re-implementation of DOS game Duke Nukem II.*..[ *read more* ](apps/rigelengine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rigelengine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rigelengine) |
+| <img loading="lazy" src="icons/rocksndiamonds.png" width="48" height="48"> | [***rocksndiamonds***](apps/rocksndiamonds.md) | *Unofficial, an open source arcade style game of Boulder Dash, Emerald Mine, and Sokoban.*..[ *read more* ](apps/rocksndiamonds.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rocksndiamonds) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rocksndiamonds) |
 | <img loading="lazy" src="icons/roller.png" width="48" height="48"> | [***roller***](apps/roller.md) | *Unofficial, reverse engineering the 1995 game Whiplash/Fatal Racing.*..[ *read more* ](apps/roller.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/roller) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/roller) |
 | <img loading="lazy" src="icons/rpcs3.png" width="48" height="48"> | [***rpcs3***](apps/rpcs3.md) | *An open-source PlayStation 3 emulator/debugger written in C++.*..[ *read more* ](apps/rpcs3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rpcs3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rpcs3) |
 | <img loading="lazy" src="icons/ryujinx.png" width="48" height="48"> | [***ryujinx***](apps/ryujinx.md) | *An open-source Nintendo Switch emulator, originally created by gdkchan, written in C#.*..[ *read more* ](apps/ryujinx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ryujinx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ryujinx) |

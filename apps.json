@@ -8585,6 +8585,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/neko.png"
   },
   {
+    "packageName": "neko-project-ii-kai",
+    "description": "Unofficial, a PC-9801 series emulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/neko-project-ii-kai.png"
+  },
+  {
     "packageName": "neohtop",
     "description": "htop on steroids...",
     "icon": "https://portable-linux-apps.github.io/icons/neohtop.png"
@@ -11040,6 +11045,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/rapidraw.png"
   },
   {
+    "packageName": "raptor",
+    "description": "Unofficial, reversed-engineered source port from Raptor Call Of The Shadows...",
+    "icon": "https://portable-linux-apps.github.io/icons/raptor.png"
+  },
+  {
     "packageName": "rare",
     "description": "GUI for legendary. An Epic Games Launcher open source alternative...",
     "icon": "https://portable-linux-apps.github.io/icons/rare.png"
@@ -11410,6 +11420,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/rocketfetch.png"
   },
   {
+    "packageName": "rocksndiamonds",
+    "description": "Unofficial, an open source arcade style game of Boulder Dash, Emerald Mine, and Sokoban...",
+    "icon": "https://portable-linux-apps.github.io/icons/rocksndiamonds.png"
+  },
+  {
     "packageName": "rofi",
     "description": "Unofficial, A window switcher, runs dialogs, dmenu like, etc...",
     "icon": "https://portable-linux-apps.github.io/icons/rofi.png"
@@ -11758,6 +11773,11 @@
     "packageName": "sd",
     "description": "Intuitive find & replace CLI, sed alternative...",
     "icon": "https://portable-linux-apps.github.io/icons/sd.png"
+  },
+  {
+    "packageName": "sdlpal",
+    "description": "SDL-based reimplementation of the classic Chinese-language RPG known as PAL...",
+    "icon": "https://portable-linux-apps.github.io/icons/sdlpal.png"
   },
   {
     "packageName": "sdlpop",
@@ -12118,6 +12138,11 @@
     "packageName": "simtoolkitpro",
     "description": "The all-in-one flight simulation EFB...",
     "icon": "https://portable-linux-apps.github.io/icons/simtoolkitpro.png"
+  },
+  {
+    "packageName": "simutrans",
+    "description": "Unofficial, a freeware and open-source transportation simulator...",
+    "icon": "https://portable-linux-apps.github.io/icons/simutrans.png"
   },
   {
     "packageName": "singlebox",
