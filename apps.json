@@ -11880,11 +11880,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/sf-tube.png"
   },
   {
-    "packageName": "sfbrename",
-    "description": "Bulk file renamer...",
-    "icon": "https://portable-linux-apps.github.io/icons/sfbrename.png"
-  },
-  {
     "packageName": "sfp",
     "description": "This utility is designed to allow you to apply skins to the modern Steam client...",
     "icon": "https://portable-linux-apps.github.io/icons/sfp.png"
