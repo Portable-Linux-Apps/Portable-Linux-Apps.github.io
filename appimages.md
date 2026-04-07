@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2588** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2590** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2021,6 +2021,8 @@
 | <img loading="lazy" src="icons/setcolors.png" width="48" height="48"> | [***setcolors***](apps/setcolors.md) | *Another way to set colors in Linux shells.*..[ *read more* ](apps/setcolors.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/setcolors) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/setcolors) |
 | <img loading="lazy" src="icons/sevicebus-browser.png" width="48" height="48"> | [***sevicebus-browser***](apps/sevicebus-browser.md) | *A cross platform tool to manage your Azure Service Bus instances.*..[ *read more* ](apps/sevicebus-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sevicebus-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sevicebus-browser) |
 | <img loading="lazy" src="icons/sf-tube.png" width="48" height="48"> | [***sf-tube***](apps/sf-tube.md) | *Watch and download videos without ads.*..[ *read more* ](apps/sf-tube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sf-tube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sf-tube) |
+| <img loading="lazy" src="icons/sfbrename-cli.png" width="48" height="48"> | [***sfbrename-cli***](apps/sfbrename-cli.md) | *Bulk file renamer.*..[ *read more* ](apps/sfbrename-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sfbrename-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sfbrename-cli) |
+| <img loading="lazy" src="icons/sfbrename-gtk.png" width="48" height="48"> | [***sfbrename-gtk***](apps/sfbrename-gtk.md) | *Bulk file renamer.*..[ *read more* ](apps/sfbrename-gtk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sfbrename-gtk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sfbrename-gtk) |
 | <img loading="lazy" src="icons/sfrt-attendance.png" width="48" height="48"> | [***sfrt-attendance***](apps/sfrt-attendance.md) | *The attendance tracking program for robotics.*..[ *read more* ](apps/sfrt-attendance.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sfrt-attendance) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sfrt-attendance) |
 | <img loading="lazy" src="icons/shadow-tech.png" width="48" height="48"> | [***shadow-tech***](apps/shadow-tech.md) | *Shadow.tech, cloud computing service.*..[ *read more* ](apps/shadow-tech.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shadow-tech) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shadow-tech) |
 | <img loading="lazy" src="icons/shadowsocks.png" width="48" height="48"> | [***shadowsocks***](apps/shadowsocks.md) | *Shadowsocks GUI client.*..[ *read more* ](apps/shadowsocks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shadowsocks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shadowsocks) |
