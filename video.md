@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **173** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **174** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -73,6 +73,7 @@
 | <img loading="lazy" src="icons/gridplayer.png" width="48" height="48"> | [***gridplayer***](apps/gridplayer.md) | *Play videos side-by-side.*..[ *read more* ](apps/gridplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gridplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gridplayer) |
 | <img loading="lazy" src="icons/gyroflow.png" width="48" height="48"> | [***gyroflow***](apps/gyroflow.md) | *Video stabilization using gyroscope data.*..[ *read more* ](apps/gyroflow.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gyroflow) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gyroflow) |
 | <img loading="lazy" src="icons/handbrake.png" width="48" height="48"> | [***handbrake***](apps/handbrake.md) | *Unofficial, An open-source multiplatform video transcoder.*..[ *read more* ](apps/handbrake.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/handbrake) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/handbrake) |
+| <img loading="lazy" src="icons/haruna.png" width="48" height="48"> | [***haruna***](apps/haruna.md) | *Unofficial, an open source media player built with Qt/QML and libmpv.*..[ *read more* ](apps/haruna.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/haruna) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/haruna) |
 | <img loading="lazy" src="icons/hypnotix.png" width="48" height="48"> | [***hypnotix***](apps/hypnotix.md) | *Unofficial. An IPTV streaming application with support for live TV.*..[ *read more* ](apps/hypnotix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hypnotix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hypnotix) |
 | <img loading="lazy" src="icons/identity.png" width="48" height="48"> | [***identity***](apps/identity.md) | *Unofficial. Compare images and videos with one another to check for differences.*..[ *read more* ](apps/identity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/identity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/identity) |
 | <img loading="lazy" src="icons/implay.png" width="48" height="48"> | [***implay***](apps/implay.md) | *A Cross-Platform Desktop Media Player, built on top of mpv and ImGui.*..[ *read more* ](apps/implay.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/implay) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/implay) |
