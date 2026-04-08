@@ -12530,9 +12530,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/spotify.png"
   },
   {
+    "packageName": "spotify-candidate",
+    "description": "Unofficial. A proprietary music streaming service...",
+    "icon": "https://portable-linux-apps.github.io/icons/spotify-candidate.png"
+  },
+  {
     "packageName": "spotify-dl",
     "description": "A command-line utility to download songs and playlists directly from Spotify's servers...",
     "icon": "https://portable-linux-apps.github.io/icons/spotify-dl.png"
+  },
+  {
+    "packageName": "spotify-edge",
+    "description": "Unofficial. A proprietary music streaming service...",
+    "icon": "https://portable-linux-apps.github.io/icons/spotify-edge.png"
   },
   {
     "packageName": "spotify-player",
