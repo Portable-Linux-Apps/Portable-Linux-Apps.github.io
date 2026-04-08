@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **3003** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **3004** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2290,6 +2290,7 @@
 | <img loading="lazy" src="icons/revealgo.png" width="48" height="48"> | [***revealgo***](apps/revealgo.md) | *Markdown driven presentation tool written in Go!*..[ *read more* ](apps/revealgo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/revealgo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/revealgo) |
 | <img loading="lazy" src="icons/revolt.png" width="48" height="48"> | [***revolt***](apps/revolt.md) | *Revolt Desktop App.*..[ *read more* ](apps/revolt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/revolt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/revolt) |
 | <img loading="lazy" src="icons/rewaita.png" width="48" height="48"> | [***rewaita***](apps/rewaita.md) | *Unofficial, rewaita gives your Adwaita apps a fresh look by tinting them with popular color schemes.*..[ *read more* ](apps/rewaita.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rewaita) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rewaita) |
+| <img loading="lazy" src="icons/rgitui.png" width="48" height="48"> | [***rgitui***](apps/rgitui.md) | *A GPU-accelerated desktop Git client built in Rust with GPUI.*..[ *read more* ](apps/rgitui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rgitui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rgitui) |
 | <img loading="lazy" src="icons/rhb.png" width="48" height="48"> | [***rhb***](apps/rhb.md) | *Rapid HTML Builder/Prototyper.*..[ *read more* ](apps/rhb.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rhb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rhb) |
 | <img loading="lazy" src="icons/rhythmbox.png" width="48" height="48"> | [***rhythmbox***](apps/rhythmbox.md) | *The popular Audio Player Rhythmbox.*..[ *read more* ](apps/rhythmbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rhythmbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rhythmbox) |
 | <img loading="lazy" src="icons/ricochet.png" width="48" height="48"> | [***ricochet***](apps/ricochet.md) | *Anonymous peer-to-peer instant messaging.*..[ *read more* ](apps/ricochet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ricochet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ricochet) |

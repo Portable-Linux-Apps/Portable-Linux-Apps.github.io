@@ -11310,6 +11310,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/rewaita.png"
   },
   {
+    "packageName": "rgitui",
+    "description": "A GPU-accelerated desktop Git client built in Rust with GPUI...",
+    "icon": "https://portable-linux-apps.github.io/icons/rgitui.png"
+  },
+  {
     "packageName": "rhb",
     "description": "Rapid HTML Builder/Prototyper...",
     "icon": "https://portable-linux-apps.github.io/icons/rhb.png"
