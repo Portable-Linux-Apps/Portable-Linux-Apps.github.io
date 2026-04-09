@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **3011** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **3010** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2202,7 +2202,6 @@
 | <img loading="lazy" src="icons/qprompt.png" width="48" height="48"> | [***qprompt***](apps/qprompt.md) | *Personal teleprompter software for all video creators.*..[ *read more* ](apps/qprompt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qprompt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qprompt) |
 | <img loading="lazy" src="icons/qr-code-generator.png" width="48" height="48"> | [***qr-code-generator***](apps/qr-code-generator.md) | *Create custom QR Codes, resize, save them as PNG image.*..[ *read more* ](apps/qr-code-generator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qr-code-generator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qr-code-generator) |
 | <img loading="lazy" src="icons/qradiolink.png" width="48" height="48"> | [***qradiolink***](apps/qradiolink.md) | *Multimode SDR transceiver for GNU radio.*..[ *read more* ](apps/qradiolink.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qradiolink) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qradiolink) |
-| <img loading="lazy" src="icons/qrop.png" width="48" height="48"> | [***qrop***](apps/qrop.md) | *Crop planning and recordkeeping software.*..[ *read more* ](apps/qrop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qrop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qrop) |
 | <img loading="lazy" src="icons/qrscan.png" width="48" height="48"> | [***qrscan***](apps/qrscan.md) | *Scan a QR code in the terminal using the system camera or an image.*..[ *read more* ](apps/qrscan.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qrscan) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qrscan) |
 | <img loading="lazy" src="icons/qsdrswr.png" width="48" height="48"> | [***qsdrswr***](apps/qsdrswr.md) | *Qt SWR analyser using an SDR and soapy_power.*..[ *read more* ](apps/qsdrswr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qsdrswr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qsdrswr) |
 | <img loading="lazy" src="icons/qt-dab.png" width="48" height="48"> | [***qt-dab***](apps/qt-dab.md) | *Listening to terrestrial Digital Audio Broadcasting.*..[ *read more* ](apps/qt-dab.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qt-dab) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qt-dab) |

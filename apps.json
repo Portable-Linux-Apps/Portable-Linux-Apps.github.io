@@ -10870,11 +10870,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/qradiolink.png"
   },
   {
-    "packageName": "qrop",
-    "description": "Crop planning and recordkeeping software...",
-    "icon": "https://portable-linux-apps.github.io/icons/qrop.png"
-  },
-  {
     "packageName": "qrscan",
     "description": "Scan a QR code in the terminal using the system camera or an image...",
     "icon": "https://portable-linux-apps.github.io/icons/qrscan.png"
