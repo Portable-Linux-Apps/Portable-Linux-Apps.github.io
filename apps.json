@@ -4785,6 +4785,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/gaucho.png"
   },
   {
+    "packageName": "gcap2025",
+    "description": "Appimage não oficial do GCAP2025, declare seus ganhos de capital (Ano-calendário 2025)...",
+    "icon": "https://portable-linux-apps.github.io/icons/gcap2025.png"
+  },
+  {
+    "packageName": "gcap2026",
+    "description": "Appimage não oficial do GCAP2026, declare seus ganhos de capital (Ano-calendário 2026)...",
+    "icon": "https://portable-linux-apps.github.io/icons/gcap2026.png"
+  },
+  {
     "packageName": "gcstar",
     "description": "Unofficial, collection manager written in Perl and based on Gtk...",
     "icon": "https://portable-linux-apps.github.io/icons/gcstar.png"
@@ -6165,8 +6175,13 @@
     "icon": "https://portable-linux-apps.github.io/icons/ironwail.png"
   },
   {
+    "packageName": "irpf2025",
+    "description": "Appimage não oficial do IRPF2025, declare seu imposto de renda (Ano-calendário 2024)...",
+    "icon": "https://portable-linux-apps.github.io/icons/irpf2025.png"
+  },
+  {
     "packageName": "irpf2026",
-    "description": "Appimage não oficial do IRPF2026...",
+    "description": "Appimage não oficial do IRPF2026, declare seu imposto de renda (Ano-calendário 2025)...",
     "icon": "https://portable-linux-apps.github.io/icons/irpf2026.png"
   },
   {
@@ -6208,6 +6223,11 @@
     "packageName": "itgmania",
     "description": "Unofficial, a fork of StepMania 5.1, an advanced cross-platform rhythm game for home and arcade use...",
     "icon": "https://portable-linux-apps.github.io/icons/itgmania.png"
+  },
+  {
+    "packageName": "itr2025",
+    "description": "Appimage não oficial do ITR2025, declare seu imposto dos seus imóveis rurais (Ano-calendário 2025)...",
+    "icon": "https://portable-linux-apps.github.io/icons/itr2025.png"
   },
   {
     "packageName": "itusb1-manager",
