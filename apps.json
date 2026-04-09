@@ -1625,6 +1625,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/burning-series.png"
   },
   {
+    "packageName": "busybox",
+    "description": "AppImage of BusyBox, a tool that combines stripped-down versions of many common UNIX utilities into a single, small executable...",
+    "icon": "https://portable-linux-apps.github.io/icons/busybox.png"
+  },
+  {
     "packageName": "buttercup",
     "description": "Free and Open Source password vault...",
     "icon": "https://portable-linux-apps.github.io/icons/buttercup.png"

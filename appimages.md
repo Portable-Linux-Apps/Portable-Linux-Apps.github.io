@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2604** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2605** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -306,6 +306,7 @@
 | <img loading="lazy" src="icons/bulky.png" width="48" height="48"> | [***bulky***](apps/bulky.md) | *Unofficial, an XApp used to rename multiple files and directories.*..[ *read more* ](apps/bulky.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bulky) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bulky) |
 | <img loading="lazy" src="icons/bunqdesktop.png" width="48" height="48"> | [***bunqdesktop***](apps/bunqdesktop.md) | *A desktop implementation for the bunq API.*..[ *read more* ](apps/bunqdesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bunqdesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bunqdesktop) |
 | <img loading="lazy" src="icons/burning-series.png" width="48" height="48"> | [***burning-series***](apps/burning-series.md) | *Watch any series from Burning Series, Unofficial client.*..[ *read more* ](apps/burning-series.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/burning-series) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/burning-series) |
+| <img loading="lazy" src="icons/busybox.png" width="48" height="48"> | [***busybox***](apps/busybox.md) | *AppImage of BusyBox, a tool that combines stripped-down versions of many common UNIX utilities into a single, small executable.*..[ *read more* ](apps/busybox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/busybox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/busybox) |
 | <img loading="lazy" src="icons/buttercup.png" width="48" height="48"> | [***buttercup***](apps/buttercup.md) | *Free and Open Source password vault.*..[ *read more* ](apps/buttercup.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/buttercup) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/buttercup) |
 | <img loading="lazy" src="icons/bypass-cors.png" width="48" height="48"> | [***bypass-cors***](apps/bypass-cors.md) | *Unlock browser’s full potential!*..[ *read more* ](apps/bypass-cors.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bypass-cors) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bypass-cors) |
 | <img loading="lazy" src="icons/bytespeichertrayicon.png" width="48" height="48"> | [***bytespeichertrayicon***](apps/bytespeichertrayicon.md) | *Bytespeicher Status App.*..[ *read more* ](apps/bytespeichertrayicon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bytespeichertrayicon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bytespeichertrayicon) |
