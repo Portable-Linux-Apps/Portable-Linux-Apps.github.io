@@ -6165,6 +6165,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ironwail.png"
   },
   {
+    "packageName": "irpf2026",
+    "description": "Appimage não oficial do IRPF2026...",
+    "icon": "https://portable-linux-apps.github.io/icons/irpf2026.png"
+  },
+  {
     "packageName": "irscrutinizer",
     "description": "Capture/generate/analyze/import/export infrared signals...",
     "icon": "https://portable-linux-apps.github.io/icons/irscrutinizer.png"

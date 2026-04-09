@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2600** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2601** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1060,6 +1060,7 @@
 | <img loading="lazy" src="icons/ireader.png" width="48" height="48"> | [***ireader***](apps/ireader.md) | *Privacy-focused, open source novel reader app.*..[ *read more* ](apps/ireader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ireader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ireader) |
 | <img loading="lazy" src="icons/iris.png" width="48" height="48"> | [***iris***](apps/iris.md) | *Sony PlayStation 2 games emulator for Windows, Linux and macOS.*..[ *read more* ](apps/iris.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/iris) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/iris) |
 | <img loading="lazy" src="icons/iris-enhanced.png" width="48" height="48"> | [***iris-enhanced***](apps/iris-enhanced.md) | *Unofficial, Sony PlayStation 2 emulator.*..[ *read more* ](apps/iris-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/iris-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/iris-enhanced) |
+| <img loading="lazy" src="icons/irpf2026.png" width="48" height="48"> | [***irpf2026***](apps/irpf2026.md) | *Appimage não oficial do IRPF2026.*..[ *read more* ](apps/irpf2026.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/irpf2026) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/irpf2026) |
 | <img loading="lazy" src="icons/irscrutinizer.png" width="48" height="48"> | [***irscrutinizer***](apps/irscrutinizer.md) | *Capture/generate/analyze/import/export infrared signals.*..[ *read more* ](apps/irscrutinizer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/irscrutinizer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/irscrutinizer) |
 | <img loading="lazy" src="icons/isd.png" width="48" height="48"> | [***isd***](apps/isd.md) | *Isd (interactive systemd) – a better way to work with systemd units.*..[ *read more* ](apps/isd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/isd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/isd) |
 | <img loading="lazy" src="icons/isle-editor.png" width="48" height="48"> | [***isle-editor***](apps/isle-editor.md) | *Editor for Integrated Statistics Learning Environment lessons.*..[ *read more* ](apps/isle-editor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/isle-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/isle-editor) |
