@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2606** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2607** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -120,6 +120,7 @@
 | <img loading="lazy" src="icons/anzeigenchef.png" width="48" height="48"> | [***anzeigenchef***](apps/anzeigenchef.md) | *AdsChef manages your classified ads.*..[ *read more* ](apps/anzeigenchef.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/anzeigenchef) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/anzeigenchef) |
 | <img loading="lazy" src="icons/aphelion-wallet.png" width="48" height="48"> | [***aphelion-wallet***](apps/aphelion-wallet.md) | *Aphelion desktop wallet application built with Electron.*..[ *read more* ](apps/aphelion-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aphelion-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aphelion-wallet) |
 | <img loading="lazy" src="icons/aphototoollibre.png" width="48" height="48"> | [***aphototoollibre***](apps/aphototoollibre.md) | *Photo editing app for GNU/Linux.*..[ *read more* ](apps/aphototoollibre.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aphototoollibre) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aphototoollibre) |
+| <img loading="lazy" src="icons/apidog.png" width="48" height="48"> | [***apidog***](apps/apidog.md) | *API design, debugging, testing, and mock tool.*..[ *read more* ](apps/apidog.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/apidog) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/apidog) |
 | <img loading="lazy" src="icons/apiflow.png" width="48" height="48"> | [***apiflow***](apps/apiflow.md) | *A modern API workspace that works both online and offlinecombining API documentation, testing, mock, and AI-powered automation in one lightweight tool.*..[ *read more* ](apps/apiflow.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/apiflow) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/apiflow) |
 | <img loading="lazy" src="icons/apifox.png" width="48" height="48"> | [***apifox***](apps/apifox.md) | *API manager, in Chinese. Includes documentation, API debugging, API mocking, and API automated testing.*..[ *read more* ](apps/apifox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/apifox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/apifox) |
 | <img loading="lazy" src="icons/apk-editor-studio.png" width="48" height="48"> | [***apk-editor-studio***](apps/apk-editor-studio.md) | *Easy to use APK, Android reverse-engineering tool.*..[ *read more* ](apps/apk-editor-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/apk-editor-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/apk-editor-studio) |
