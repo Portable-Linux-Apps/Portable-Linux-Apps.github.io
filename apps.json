@@ -460,6 +460,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/antidot.png"
   },
   {
+    "packageName": "antigravity",
+    "description": "Google Antigravity IDE...",
+    "icon": "https://portable-linux-apps.github.io/icons/antigravity.png"
+  },
+  {
     "packageName": "antimicrox",
     "description": "Use a gamepad to control a variety of programs...",
     "icon": "https://portable-linux-apps.github.io/icons/antimicrox.png"
