@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2605** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2606** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2319,6 +2319,7 @@
 | <img loading="lazy" src="icons/todorant.png" width="48" height="48"> | [***todorant***](apps/todorant.md) | *Todorant releases.*..[ *read more* ](apps/todorant.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/todorant) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/todorant) |
 | <img loading="lazy" src="icons/todorust.png" width="48" height="48"> | [***todorust***](apps/todorust.md) | *Simple ToDoList made in rust.*..[ *read more* ](apps/todorust.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/todorust) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/todorust) |
 | <img loading="lazy" src="icons/toerings.png" width="48" height="48"> | [***toerings***](apps/toerings.md) | *A clone of Conky Seamod using Tauri.*..[ *read more* ](apps/toerings.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/toerings) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/toerings) |
+| <img loading="lazy" src="icons/tokodon.png" width="48" height="48"> | [***tokodon***](apps/tokodon.md) | *Unofficial, a modern client for Mastodon and other decentralized servers that implement its API (such as Pixelfed).*..[ *read more* ](apps/tokodon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tokodon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tokodon) |
 | <img loading="lazy" src="icons/tomatox.png" width="48" height="48"> | [***tomatox***](apps/tomatox.md) | *An online free VIP video analysis player, in chinese.*..[ *read more* ](apps/tomatox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tomatox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tomatox) |
 | <img loading="lazy" src="icons/tonuino-toolbox.png" width="48" height="48"> | [***tonuino-toolbox***](apps/tonuino-toolbox.md) | *SD card manager for your Tonuino.*..[ *read more* ](apps/tonuino-toolbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tonuino-toolbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tonuino-toolbox) |
 | <img loading="lazy" src="icons/torcs.png" width="48" height="48"> | [***torcs***](apps/torcs.md) | *The 3D Open Racing Car Game and Simulator.*..[ *read more* ](apps/torcs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/torcs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/torcs) |

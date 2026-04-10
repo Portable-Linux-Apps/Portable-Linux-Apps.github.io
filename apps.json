@@ -13590,6 +13590,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/toipe.png"
   },
   {
+    "packageName": "tokodon",
+    "description": "Unofficial, a modern client for Mastodon and other decentralized servers that implement its API (such as Pixelfed)...",
+    "icon": "https://portable-linux-apps.github.io/icons/tokodon.png"
+  },
+  {
     "packageName": "tomatox",
     "description": "An online free VIP video analysis player, in chinese...",
     "icon": "https://portable-linux-apps.github.io/icons/tomatox.png"
