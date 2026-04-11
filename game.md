@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **320** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **319** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -47,7 +47,6 @@
 | <img loading="lazy" src="icons/arena-tracker.png" width="48" height="48"> | [***arena-tracker***](apps/arena-tracker.md) | *Deck Tracker for Hearthstone game with arena in focus.*..[ *read more* ](apps/arena-tracker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/arena-tracker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/arena-tracker) |
 | <img loading="lazy" src="icons/arma3-unix-launcher.png" width="48" height="48"> | [***arma3-unix-launcher***](apps/arma3-unix-launcher.md) | *ArmA 3 Unix Launcher, game.*..[ *read more* ](apps/arma3-unix-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/arma3-unix-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/arma3-unix-launcher) |
 | <img loading="lazy" src="icons/armagetronad.png" width="48" height="48"> | [***armagetronad***](apps/armagetronad.md) | *Multiplayer game in 3d that emulates the movie "Tron".*..[ *read more* ](apps/armagetronad.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/armagetronad) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/armagetronad) |
-| <img loading="lazy" src="icons/artifact.png" width="48" height="48"> | [***artifact***](apps/artifact.md) | *Win 40 levels of mayhem without getting destroyed, game.*..[ *read more* ](apps/artifact.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/artifact) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/artifact) |
 | <img loading="lazy" src="icons/artix.png" width="48" height="48"> | [***artix***](apps/artix.md) | *One app. All your favorite Artix games.*..[ *read more* ](apps/artix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/artix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/artix) |
 | <img loading="lazy" src="icons/augustus.png" width="48" height="48"> | [***augustus***](apps/augustus.md) | *An open source re-implementation of the game Caesar III.*..[ *read more* ](apps/augustus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/augustus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/augustus) |
 | <img loading="lazy" src="icons/augustus-enhanced.png" width="48" height="48"> | [***augustus-enhanced***](apps/augustus-enhanced.md) | *Unofficial, a fork of the Julius project that intends to incorporate gameplay changes.*..[ *read more* ](apps/augustus-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/augustus-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/augustus-enhanced) |

@@ -515,11 +515,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/apiflow.png"
   },
   {
-    "packageName": "apifox",
-    "description": "API manager, in Chinese. Includes documentation, API debugging, API mocking, and API automated testing...",
-    "icon": "https://portable-linux-apps.github.io/icons/apifox.png"
-  },
-  {
     "packageName": "apk-editor-studio",
     "description": "Easy to use APK, Android reverse-engineering tool...",
     "icon": "https://portable-linux-apps.github.io/icons/apk-editor-studio.png"
@@ -733,11 +728,6 @@
     "packageName": "armcord",
     "description": "Custom client designed to enhance your Discord experience...",
     "icon": "https://portable-linux-apps.github.io/icons/armcord.png"
-  },
-  {
-    "packageName": "artifact",
-    "description": "Win 40 levels of mayhem without getting destroyed, game...",
-    "icon": "https://portable-linux-apps.github.io/icons/artifact.png"
   },
   {
     "packageName": "artisan",
@@ -3818,11 +3808,6 @@
     "packageName": "etlegacy",
     "description": "Enemy Territory...",
     "icon": "https://portable-linux-apps.github.io/icons/etlegacy.png"
-  },
-  {
-    "packageName": "eudic",
-    "description": "Chinese app to learn english, listen statistics/note synch......",
-    "icon": "https://portable-linux-apps.github.io/icons/eudic.png"
   },
   {
     "packageName": "evalit",
@@ -7093,11 +7078,6 @@
     "packageName": "kuro",
     "description": "An elegant Microsoft ToDo desktop client for Linux, a fork of Ao...",
     "icon": "https://portable-linux-apps.github.io/icons/kuro.png"
-  },
-  {
-    "packageName": "kvrt",
-    "description": "Official Kaspersky Virus Removal Tool for Linux...",
-    "icon": "https://portable-linux-apps.github.io/icons/kvrt.png"
   },
   {
     "packageName": "kwave",
@@ -13758,11 +13738,6 @@
     "packageName": "ttyper",
     "description": "Terminal-based typing test...",
     "icon": "https://portable-linux-apps.github.io/icons/ttyper.png"
-  },
-  {
-    "packageName": "tulip",
-    "description": "Large graphs analysis, drawing and visualization framework...",
-    "icon": "https://portable-linux-apps.github.io/icons/tulip.png"
   },
   {
     "packageName": "tumblr-downloader-gui",
