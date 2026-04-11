@@ -13100,9 +13100,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/syncthing.png"
   },
   {
-    "packageName": "syncthing-tray",
-    "description": "Tray application for Syncthing...",
-    "icon": "https://portable-linux-apps.github.io/icons/syncthing-tray.png"
+    "packageName": "syncthingctl",
+    "description": "Tray control application and Dolphin/Plasma integration for Syncthing...",
+    "icon": "https://portable-linux-apps.github.io/icons/syncthingctl.png"
+  },
+  {
+    "packageName": "syncthingtray",
+    "description": "Tray application and Dolphin/Plasma integration for Syncthing...",
+    "icon": "https://portable-linux-apps.github.io/icons/syncthingtray.png"
   },
   {
     "packageName": "synfig",
