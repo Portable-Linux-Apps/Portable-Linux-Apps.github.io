@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2604** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2605** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2241,6 +2241,7 @@
 | <img loading="lazy" src="icons/symphonium.png" width="48" height="48"> | [***symphonium***](apps/symphonium.md) | *A tool to help when learning to play the piano.*..[ *read more* ](apps/symphonium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/symphonium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/symphonium) |
 | <img loading="lazy" src="icons/syncmyl2p.png" width="48" height="48"> | [***syncmyl2p***](apps/syncmyl2p.md) | *L2P synchronisation tool.*..[ *read more* ](apps/syncmyl2p.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/syncmyl2p) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/syncmyl2p) |
 | <img loading="lazy" src="icons/syncplay.png" width="48" height="48"> | [***syncplay***](apps/syncplay.md) | *Synchronize video playback over network.*..[ *read more* ](apps/syncplay.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/syncplay) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/syncplay) |
+| <img loading="lazy" src="icons/syncthing.png" width="48" height="48"> | [***syncthing***](apps/syncthing.md) | *Open Source Continuous File Synchronization.*..[ *read more* ](apps/syncthing.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/syncthing) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/syncthing) |
 | <img loading="lazy" src="icons/syncthing-tray.png" width="48" height="48"> | [***syncthing-tray***](apps/syncthing-tray.md) | *Tray application for Syncthing.*..[ *read more* ](apps/syncthing-tray.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/syncthing-tray) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/syncthing-tray) |
 | <img loading="lazy" src="icons/synfig.png" width="48" height="48"> | [***synfig***](apps/synfig.md) | *Unofficial. Synfig Studio animation software.*..[ *read more* ](apps/synfig.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/synfig) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/synfig) |
 | <img loading="lazy" src="icons/synthein.png" width="48" height="48"> | [***synthein***](apps/synthein.md) | *A space ship building and combat game.*..[ *read more* ](apps/synthein.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/synthein) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/synthein) |
