@@ -2570,6 +2570,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/cric.png"
   },
   {
+    "packageName": "crispy-doom",
+    "description": "Unofficial, a limit-removing enhanced-resolution Doom source port based on Chocolate Doom...",
+    "icon": "https://portable-linux-apps.github.io/icons/crispy-doom.png"
+  },
+  {
     "packageName": "criteria-geo",
     "description": "A one-dimensional agro-hydrological model, GIS interface...",
     "icon": "https://portable-linux-apps.github.io/icons/criteria-geo.png"

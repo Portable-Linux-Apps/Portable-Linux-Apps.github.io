@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2606** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2607** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -470,6 +470,7 @@
 | <img loading="lazy" src="icons/creality-print.png" width="48" height="48"> | [***creality-print***](apps/creality-print.md) | *Creality Print is a slicer dedicated to FDM printers.*..[ *read more* ](apps/creality-print.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/creality-print) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/creality-print) |
 | <img loading="lazy" src="icons/crg-data-tool.png" width="48" height="48"> | [***crg-data-tool***](apps/crg-data-tool.md) | *A tool for working with Games Data files from CRG.*..[ *read more* ](apps/crg-data-tool.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crg-data-tool) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crg-data-tool) |
 | <img loading="lazy" src="icons/cric.png" width="48" height="48"> | [***cric***](apps/cric.md) | *Custom Runtime Image Creator.*..[ *read more* ](apps/cric.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cric) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cric) |
+| <img loading="lazy" src="icons/crispy-doom.png" width="48" height="48"> | [***crispy-doom***](apps/crispy-doom.md) | *Unofficial, a limit-removing enhanced-resolution Doom source port based on Chocolate Doom.*..[ *read more* ](apps/crispy-doom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crispy-doom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crispy-doom) |
 | <img loading="lazy" src="icons/criteria-geo.png" width="48" height="48"> | [***criteria-geo***](apps/criteria-geo.md) | *A one-dimensional agro-hydrological model, GIS interface.*..[ *read more* ](apps/criteria-geo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/criteria-geo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/criteria-geo) |
 | <img loading="lazy" src="icons/criteria1d.png" width="48" height="48"> | [***criteria1d***](apps/criteria1d.md) | *A one-dimensional agro-hydrological model.*..[ *read more* ](apps/criteria1d.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/criteria1d) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/criteria1d) |
 | <img loading="lazy" src="icons/criteria1d-pro.png" width="48" height="48"> | [***criteria1d-pro***](apps/criteria1d-pro.md) | *A one-dimensional agro-hydrological model, PRO.*..[ *read more* ](apps/criteria1d-pro.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/criteria1d-pro) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/criteria1d-pro) |
