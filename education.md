@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **81** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **82** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -68,6 +68,7 @@
 | <img loading="lazy" src="icons/kalm.png" width="48" height="48"> | [***kalm***](apps/kalm.md) | *Unofficial, Teach you different breathing techniques. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/kalm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kalm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kalm) |
 | <img loading="lazy" src="icons/keditbookmarks.png" width="48" height="48"> | [***keditbookmarks***](apps/keditbookmarks.md) | *Unofficial, Bookmarks editor. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/keditbookmarks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keditbookmarks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keditbookmarks) |
 | <img loading="lazy" src="icons/keycombiner.png" width="48" height="48"> | [***keycombiner***](apps/keycombiner.md) | *Learn exactly the keyboard shortcuts you need.*..[ *read more* ](apps/keycombiner.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keycombiner) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keycombiner) |
+| <img loading="lazy" src="icons/kindling-cli.png" width="48" height="48"> | [***kindling-cli***](apps/kindling-cli.md) | *Kindle toolkit for dictionaries, books, comics.*..[ *read more* ](apps/kindling-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kindling-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kindling-cli) |
 | <img loading="lazy" src="icons/kitsas.png" width="48" height="48"> | [***kitsas***](apps/kitsas.md) | *Finnish bookkeeping software for small organizations.*..[ *read more* ](apps/kitsas.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kitsas) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kitsas) |
 | <img loading="lazy" src="icons/kitupiikki.png" width="48" height="48"> | [***kitupiikki***](apps/kitupiikki.md) | *Bookkeeping software for small organizations.*..[ *read more* ](apps/kitupiikki.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kitupiikki) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kitupiikki) |
 | <img loading="lazy" src="icons/kmymoney.png" width="48" height="48"> | [***kmymoney***](apps/kmymoney.md) | *KMyMoney is a cross-platform personal finance manager build on KDE frameworks technologies for your desktop and notebook environment.*..[ *read more* ](apps/kmymoney.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kmymoney) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kmymoney) |

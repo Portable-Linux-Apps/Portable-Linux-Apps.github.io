@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2613** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2614** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1123,6 +1123,7 @@
 | <img loading="lazy" src="icons/karbonized.png" width="48" height="48"> | [***karbonized***](apps/karbonized.md) | *💫 Awesome Image Generator for Code Snippets & Mockups*..[ *read more* ](apps/karbonized.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/karbonized) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/karbonized) |
 | <img loading="lazy" src="icons/kardi.png" width="48" height="48"> | [***kardi***](apps/kardi.md) | *Application for taking notes with capabilities to view all content from any device while keeping all data accessible by you only.*..[ *read more* ](apps/kardi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kardi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kardi) |
 | <img loading="lazy" src="icons/katvan.png" width="48" height="48"> | [***katvan***](apps/katvan.md) | *A bare-bones editor for Typst files, with a bias for Right-to-Left editing.*..[ *read more* ](apps/katvan.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/katvan) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/katvan) |
+| <img loading="lazy" src="icons/kcc.png" width="48" height="48"> | [***kcc***](apps/kcc.md) | *KCC (Kindle Comic Converter) is a comic and manga converter for ebook readers.*..[ *read more* ](apps/kcc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kcc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kcc) |
 | <img loading="lazy" src="icons/kcov.png" width="48" height="48"> | [***kcov***](apps/kcov.md) | *Unofficial, An AppImage of Kcov code coverage tool.*..[ *read more* ](apps/kcov.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kcov) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kcov) |
 | <img loading="lazy" src="icons/kdeconnect.png" width="48" height="48"> | [***kdeconnect***](apps/kdeconnect.md) | *Unofficial, A project that enables all your Android devices to communicate with each other.*..[ *read more* ](apps/kdeconnect.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdeconnect) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdeconnect) |
 | <img loading="lazy" src="icons/kdegames.png" width="48" height="48"> | [***kdegames***](apps/kdegames.md) | *Unofficial, Full & updatable KDE Games suite, metapackage.*..[ *read more* ](apps/kdegames.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdegames) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdegames) |

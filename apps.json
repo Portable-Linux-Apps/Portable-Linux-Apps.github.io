@@ -6600,6 +6600,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/kcalc.png"
   },
   {
+    "packageName": "kcc",
+    "description": "KCC (Kindle Comic Converter) is a comic and manga converter for ebook readers...",
+    "icon": "https://portable-linux-apps.github.io/icons/kcc.png"
+  },
+  {
     "packageName": "kcharselect",
     "description": "Unofficial, Character Selector. This script installs the full \"kdeutils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/kcharselect.png"
@@ -6813,6 +6818,11 @@
     "packageName": "kimitzu-client",
     "description": "Kimitzu Client...",
     "icon": "https://portable-linux-apps.github.io/icons/kimitzu-client.png"
+  },
+  {
+    "packageName": "kindling-cli",
+    "description": "Kindle toolkit for dictionaries, books, comics...",
+    "icon": "https://portable-linux-apps.github.io/icons/kindling-cli.png"
   },
   {
     "packageName": "kinopio",
