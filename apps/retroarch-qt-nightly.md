@@ -1,4 +1,4 @@
-# RETROARCH
+# RETROARCH-QT-NIGHTLY
 
  RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications.
 
