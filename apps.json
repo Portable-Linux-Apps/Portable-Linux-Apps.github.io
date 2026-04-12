@@ -11315,11 +11315,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/reqable.png"
   },
   {
-    "packageName": "requestly",
-    "description": "Free and open-source API Client & Interceptor...",
-    "icon": "https://portable-linux-apps.github.io/icons/requestly.png"
-  },
-  {
     "packageName": "responsively",
     "description": "A browser for developing responsive web apps...",
     "icon": "https://portable-linux-apps.github.io/icons/responsively.png"
