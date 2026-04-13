@@ -2615,6 +2615,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/cromagrally.png"
   },
   {
+    "packageName": "cromagrally-enhanced",
+    "description": "Unofficial, the wildest racing game since man invented the wheel!..",
+    "icon": "https://portable-linux-apps.github.io/icons/cromagrally-enhanced.png"
+  },
+  {
     "packageName": "cromberg",
     "description": "Personal accounting system...",
     "icon": "https://portable-linux-apps.github.io/icons/cromberg.png"
@@ -10438,6 +10443,11 @@
     "packageName": "positron",
     "description": "Manage your movie and show watchlist...",
     "icon": "https://portable-linux-apps.github.io/icons/positron.png"
+  },
+  {
+    "packageName": "postal",
+    "description": "Unofficial, Postal a quirky FPS shooter...",
+    "icon": "https://portable-linux-apps.github.io/icons/postal.png"
   },
   {
     "packageName": "postcat",
