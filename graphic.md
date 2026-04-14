@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **132** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **133** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -154,6 +154,7 @@
 | <img loading="lazy" src="icons/sunny.png" width="48" height="48"> | [***sunny***](apps/sunny.md) | *Screenshot software that supports OCR and image translation features.*..[ *read more* ](apps/sunny.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sunny) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sunny) |
 | <img loading="lazy" src="icons/superpaper.png" width="48" height="48"> | [***superpaper***](apps/superpaper.md) | *A cross-platform multi monitor wallpaper manager.*..[ *read more* ](apps/superpaper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/superpaper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/superpaper) |
 | <img loading="lazy" src="icons/svgwall.png" width="48" height="48"> | [***svgwall***](apps/svgwall.md) | *SVG Wallpaper Utility for Xorg.*..[ *read more* ](apps/svgwall.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/svgwall) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/svgwall) |
+| <img loading="lazy" src="icons/terabox.png" width="48" height="48"> | [***terabox***](apps/terabox.md) | *Terabox is the simplest way to send your files around the world. Back up and Share photos, videos, docs, and other files of any size to cloud storage.*..[ *read more* ](apps/terabox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/terabox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/terabox) |
 | <img loading="lazy" src="icons/termshot.png" width="48" height="48"> | [***termshot***](apps/termshot.md) | *Creates screenshots based on terminal command output.*..[ *read more* ](apps/termshot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/termshot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/termshot) |
 | <img loading="lazy" src="icons/testdisk.png" width="48" height="48"> | [***testdisk***](apps/testdisk.md) | *TestDisk & PhotoRec, tools to recover lost partitions and files.*..[ *read more* ](apps/testdisk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/testdisk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/testdisk) |
 | <img loading="lazy" src="icons/tokodon.png" width="48" height="48"> | [***tokodon***](apps/tokodon.md) | *Unofficial, a modern client for Mastodon and other decentralized servers that implement its API (such as Pixelfed).*..[ *read more* ](apps/tokodon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tokodon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tokodon) |
