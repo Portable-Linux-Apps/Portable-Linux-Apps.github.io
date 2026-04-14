@@ -4,16 +4,18 @@
 
  Features:
 
-    - Accurate driving behaviour, with different physics engines;
-    - Playable with a variety of input devices (force feed-back is in      development);
-    - Several different racing modes (from a simple practice session,      to a full pilot career);
-    - Variety of cars/car classes (1936 Grand Prix, Supercars, Long      Day Series GT1, etc);
-    - Variety of tracks/tracks categories and always expanding;
-    - Customizable daytime and weather conditions;
-    - Several different AI bots to race with;
-    - Up to 4 user local multiplayer in "split-screen" mode.
+ - Accurate driving behaviour, with different physics engines
+ - Playable with a variety of input devices (force feed-back is in development)
+ - Several different racing modes (from a simple practice session, to a full pilot career)
+ - Variety of cars/car classes (1936 Grand Prix, Supercars, Long Day Series GT1, etc)
+ - Variety of tracks/tracks categories and always expanding
+ - Customizable daytime and weather conditions
+ - Several different AI bots to race with
+ - Up to 4 user local multiplayer in "split-screen" mode
     
  SITE: https://www.speed-dreams.net
+
+ SOURCE: https://sourceforge.net/projects/speed-dreams
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
