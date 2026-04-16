@@ -8795,6 +8795,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/nimbus-weather.png"
   },
   {
+    "packageName": "nine",
+    "description": "Nine. is an open source desktop application for managing rental properties...",
+    "icon": "https://portable-linux-apps.github.io/icons/nine.png"
+  },
+  {
     "packageName": "nitch",
     "description": "Incredibly fast system fetch written in nim...",
     "icon": "https://portable-linux-apps.github.io/icons/nitch.png"
@@ -12583,6 +12588,11 @@
     "packageName": "spmp",
     "description": "A YouTube Music client with a focus on customisation of colours and song metadata...",
     "icon": "https://portable-linux-apps.github.io/icons/spmp.png"
+  },
+  {
+    "packageName": "sponge-hash-aes256",
+    "description": "A sponge-based secure hash function that uses AES-256 as its internal PRF...",
+    "icon": "https://portable-linux-apps.github.io/icons/sponge-hash-aes256.png"
   },
   {
     "packageName": "spotifetch",
