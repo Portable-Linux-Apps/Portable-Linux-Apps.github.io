@@ -1575,11 +1575,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/bts-ce-lite.png"
   },
   {
-    "packageName": "buche",
-    "description": "A logger of sorts...",
-    "icon": "https://portable-linux-apps.github.io/icons/buche.png"
-  },
-  {
     "packageName": "buckets",
     "description": "Budgeting fast, simple and private...",
     "icon": "https://portable-linux-apps.github.io/icons/buckets.png"

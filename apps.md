@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **3024** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **3023** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -343,7 +343,6 @@
 | <img loading="lazy" src="icons/bsky.png" width="48" height="48"> | [***bsky***](apps/bsky.md) | *A desktop app of bsky.app.*..[ *read more* ](apps/bsky.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bsky) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bsky) |
 | <img loading="lazy" src="icons/btop.png" width="48" height="48"> | [***btop***](apps/btop.md) | *A command line utility to monitor system resources, like Htop.*..[ *read more* ](apps/btop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/btop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/btop) |
 | <img loading="lazy" src="icons/bts-ce-lite.png" width="48" height="48"> | [***bts-ce-lite***](apps/bts-ce-lite.md) | *Telecommunication network management application.*..[ *read more* ](apps/bts-ce-lite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bts-ce-lite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bts-ce-lite) |
-| <img loading="lazy" src="icons/buche.png" width="48" height="48"> | [***buche***](apps/buche.md) | *A logger of sorts.*..[ *read more* ](apps/buche.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/buche) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/buche) |
 | <img loading="lazy" src="icons/buckets.png" width="48" height="48"> | [***buckets***](apps/buckets.md) | *Budgeting fast, simple and private.*..[ *read more* ](apps/buckets.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/buckets) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/buckets) |
 | <img loading="lazy" src="icons/bugdom.png" width="48" height="48"> | [***bugdom***](apps/bugdom.md) | *Pangea Software's Bugdom game.*..[ *read more* ](apps/bugdom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bugdom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bugdom) |
 | <img loading="lazy" src="icons/bugdom2.png" width="48" height="48"> | [***bugdom2***](apps/bugdom2.md) | *Pangea Software’s Bugdom 2 for modern systems.*..[ *read more* ](apps/bugdom2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bugdom2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bugdom2) |
