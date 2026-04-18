@@ -9230,6 +9230,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/oneweb.png"
   },
   {
+    "packageName": "onionhop",
+    "description": "Privacy-first Desktop app that routes your traffic through Tor - Anonymous browsing made simple...",
+    "icon": "https://portable-linux-apps.github.io/icons/onionhop.png"
+  },
+  {
     "packageName": "onionmediax",
     "description": "OnionMedia X. Convert and download videos and music quickly and easily...",
     "icon": "https://portable-linux-apps.github.io/icons/onionmediax.png"
