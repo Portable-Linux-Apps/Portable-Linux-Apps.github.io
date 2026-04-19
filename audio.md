@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **166** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **167** programs and **1** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -38,6 +38,7 @@
 | <img loading="lazy" src="icons/amusiz.png" width="48" height="48"> | [***amusiz***](apps/amusiz.md) | *Unofficial and unpretentious Amazon Music client.*..[ *read more* ](apps/amusiz.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amusiz) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amusiz) |
 | <img loading="lazy" src="icons/anavis.png" width="48" height="48"> | [***anavis***](apps/anavis.md) | *Tool to visualize musical form.*..[ *read more* ](apps/anavis.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/anavis) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/anavis) |
 | <img loading="lazy" src="icons/anklang.png" width="48" height="48"> | [***anklang***](apps/anklang.md) | *MIDI and Audio Synthesizer and Composer.*..[ *read more* ](apps/anklang.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/anklang) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/anklang) |
+| <img loading="lazy" src="icons/antra.png" width="48" height="48"> | [***antra***](apps/antra.md) | *A desktop music library builder. Resolves Spotify / Apple Music / Amazon Music URLs → get lossless audio → auto-tags, transcodes, and organizes. No subscriptions. No compromises.*..[ *read more* ](apps/antra.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/antra) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/antra) |
 | <img loading="lazy" src="icons/astrofox.png" width="48" height="48"> | [***astrofox***](apps/astrofox.md) | *Audio reactive motion graphics program.*..[ *read more* ](apps/astrofox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/astrofox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/astrofox) |
 | <img loading="lazy" src="icons/asunder.png" width="48" height="48"> | [***asunder***](apps/asunder.md) | *Unofficial. Audio CD ripper and encoder, WAV, MP3, OGG, FLAC, Opus, AAC....*..[ *read more* ](apps/asunder.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/asunder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/asunder) |
 | <img loading="lazy" src="icons/audacious.png" width="48" height="48"> | [***audacious***](apps/audacious.md) | *Unofficial. An open source audio and music player, descendant of XMMS.*..[ *read more* ](apps/audacious.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audacious) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audacious) |
