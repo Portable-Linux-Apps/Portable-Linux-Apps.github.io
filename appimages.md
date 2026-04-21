@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2620** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2619** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2523,7 +2523,6 @@
 | <img loading="lazy" src="icons/wireshark.png" width="48" height="48"> | [***wireshark***](apps/wireshark.md) | *Unofficial, the world's most popular network protocol analyze.*..[ *read more* ](apps/wireshark.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wireshark) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wireshark) |
 | <img loading="lazy" src="icons/wishdemo.png" width="48" height="48"> | [***wishdemo***](apps/wishdemo.md) | *A μ Tcl/Tk distribution statically linked, AppImage.*..[ *read more* ](apps/wishdemo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wishdemo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wishdemo) |
 | <img loading="lazy" src="icons/wives.png" width="48" height="48"> | [***wives***](apps/wives.md) | *A beautiful, modern & feature-rich Terminal Emulator.*..[ *read more* ](apps/wives.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wives) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wives) |
-| <img loading="lazy" src="icons/wiznote.png" width="48" height="48"> | [***wiznote***](apps/wiznote.md) | *Create a powerful knowledge graph from personal notes to team wiki.*..[ *read more* ](apps/wiznote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wiznote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wiznote) |
 | <img loading="lazy" src="icons/wiznoteplus.png" width="48" height="48"> | [***wiznoteplus***](apps/wiznoteplus.md) | *The third party that supports the plug-in is Zhinote client.*..[ *read more* ](apps/wiznoteplus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wiznoteplus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wiznoteplus) |
 | <img loading="lazy" src="icons/wled-gui.png" width="48" height="48"> | [***wled-gui***](apps/wled-gui.md) | *Cross-platform desktop app for WLED.*..[ *read more* ](apps/wled-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wled-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wled-gui) |
 | <img loading="lazy" src="icons/wlx-overlay-s.png" width="48" height="48"> | [***wlx-overlay-s***](apps/wlx-overlay-s.md) | *Access your Wayland/X11 desktop from Monado/WiVRn/SteamVR.*..[ *read more* ](apps/wlx-overlay-s.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wlx-overlay-s) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wlx-overlay-s) |

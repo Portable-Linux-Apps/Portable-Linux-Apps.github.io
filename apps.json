@@ -14760,11 +14760,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/wives.png"
   },
   {
-    "packageName": "wiznote",
-    "description": "Create a powerful knowledge graph from personal notes to team wiki...",
-    "icon": "https://portable-linux-apps.github.io/icons/wiznote.png"
-  },
-  {
     "packageName": "wiznoteplus",
     "description": "The third party that supports the plug-in is Zhinote client...",
     "icon": "https://portable-linux-apps.github.io/icons/wiznoteplus.png"
