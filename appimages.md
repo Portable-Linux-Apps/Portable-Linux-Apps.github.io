@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2619** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2620** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -974,6 +974,7 @@
 | <img loading="lazy" src="icons/hastyheroes.png" width="48" height="48"> | [***hastyheroes***](apps/hastyheroes.md) | *An endless 2D jumping game.*..[ *read more* ](apps/hastyheroes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hastyheroes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hastyheroes) |
 | <img loading="lazy" src="icons/hatari.png" width="48" height="48"> | [***hatari***](apps/hatari.md) | *Unofficial, an Atari ST and STE emulator.*..[ *read more* ](apps/hatari.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hatari) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hatari) |
 | <img loading="lazy" src="icons/haveno-reto.png" width="48" height="48"> | [***haveno-reto***](apps/haveno-reto.md) | *Decentralized P2P exchange built on Monero and Tor.*..[ *read more* ](apps/haveno-reto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/haveno-reto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/haveno-reto) |
+| <img loading="lazy" src="icons/hdict.png" width="48" height="48"> | [***hdict***](apps/hdict.md) | *Offline dictionary reader for StarDict, Slob, Mdict and Dictd dictionaries.*..[ *read more* ](apps/hdict.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hdict) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hdict) |
 | <img loading="lazy" src="icons/hdrmerge.png" width="48" height="48"> | [***hdrmerge***](apps/hdrmerge.md) | *Merge several raw images into a single DNG raw image.*..[ *read more* ](apps/hdrmerge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hdrmerge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hdrmerge) |
 | <img loading="lazy" src="icons/heat1d.png" width="48" height="48"> | [***heat1d***](apps/heat1d.md) | *UI for testing the soilFluxex3D library, CRITERIA1D.*..[ *read more* ](apps/heat1d.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/heat1d) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/heat1d) |
 | <img loading="lazy" src="icons/heimer.png" width="48" height="48"> | [***heimer***](apps/heimer.md) | *Simple cross-platform mind map, diagram, and note-taking tool.*..[ *read more* ](apps/heimer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/heimer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/heimer) |
