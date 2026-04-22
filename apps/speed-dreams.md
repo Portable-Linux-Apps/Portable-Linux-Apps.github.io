@@ -15,7 +15,5 @@
     
  SITE: https://www.speed-dreams.net
 
- SOURCE: https://sourceforge.net/projects/speed-dreams
-
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
