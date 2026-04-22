@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2620** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2621** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1564,6 +1564,7 @@
 | <img loading="lazy" src="icons/open-markup-editor.png" width="48" height="48"> | [***open-markup-editor***](apps/open-markup-editor.md) | *Pluggable markup editor.*..[ *read more* ](apps/open-markup-editor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/open-markup-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/open-markup-editor) |
 | <img loading="lazy" src="icons/open-typer.png" width="48" height="48"> | [***open-typer***](apps/open-typer.md) | *A free and open source typing tutor program.*..[ *read more* ](apps/open-typer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/open-typer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/open-typer) |
 | <img loading="lazy" src="icons/open-video-downloader.png" width="48" height="48"> | [***open-video-downloader***](apps/open-video-downloader.md) | *A cross-platform GUI for youtube-dl made in Electron.*..[ *read more* ](apps/open-video-downloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/open-video-downloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/open-video-downloader) |
+| <img loading="lazy" src="icons/open-webui.png" width="48" height="48"> | [***open-webui***](apps/open-webui.md) | *Your AI, right on your desktop. Open WebUI as a native app. Run models locally or connect to any server. No Docker, no terminal, no setup. Download, launch, chat.*..[ *read more* ](apps/open-webui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/open-webui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/open-webui) |
 | <img loading="lazy" src="icons/openaudible.png" width="48" height="48"> | [***openaudible***](apps/openaudible.md) | *Download and manage your Audible audiobooks.*..[ *read more* ](apps/openaudible.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openaudible) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openaudible) |
 | <img loading="lazy" src="icons/openblok.png" width="48" height="48"> | [***openblok***](apps/openblok.md) | *A customizable falling block puzzle game like tetris.*..[ *read more* ](apps/openblok.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openblok) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openblok) |
 | <img loading="lazy" src="icons/openbor.png" width="48" height="48"> | [***openbor***](apps/openbor.md) | *Ultimate 2D side scrolling engine for beat em ups, shooters...*..[ *read more* ](apps/openbor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openbor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openbor) |

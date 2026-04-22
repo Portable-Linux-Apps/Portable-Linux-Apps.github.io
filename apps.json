@@ -9310,6 +9310,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/open-video-downloader.png"
   },
   {
+    "packageName": "open-webui",
+    "description": "Your AI, right on your desktop. Open WebUI as a native app. Run models locally or connect to any server. No Docker, no terminal, no setup. Download, launch, chat...",
+    "icon": "https://portable-linux-apps.github.io/icons/open-webui.png"
+  },
+  {
     "packageName": "openapi-tui",
     "description": "Terminal UI to list, browse and run APIs defined with openapi...",
     "icon": "https://portable-linux-apps.github.io/icons/openapi-tui.png"
