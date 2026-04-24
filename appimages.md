@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2621** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2622** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1540,6 +1540,7 @@
 | <img loading="lazy" src="icons/okteta.png" width="48" height="48"> | [***okteta***](apps/okteta.md) | *Unofficial. Hex editor for viewing and editing the raw data of files.*..[ *read more* ](apps/okteta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/okteta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/okteta) |
 | <img loading="lazy" src="icons/olive.png" width="48" height="48"> | [***olive***](apps/olive.md) | *Free open-source non-linear video editor, nightly build.*..[ *read more* ](apps/olive.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/olive) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/olive) |
 | <img loading="lazy" src="icons/olive-legacy.png" width="48" height="48"> | [***olive-legacy***](apps/olive-legacy.md) | *Free non-linear video editor, version 0.1.*..[ *read more* ](apps/olive-legacy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/olive-legacy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/olive-legacy) |
+| <img loading="lazy" src="icons/ollama.png" width="48" height="48"> | [***ollama***](apps/ollama.md) | *Get up and running with Llama 3, Mistral, Gemma, and other LLMs.*..[ *read more* ](apps/ollama.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ollama) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ollama) |
 | <img loading="lazy" src="icons/ommpfritt.png" width="48" height="48"> | [***ommpfritt***](apps/ommpfritt.md) | *Semantic, procedural, non-destructive vector modelling.*..[ *read more* ](apps/ommpfritt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ommpfritt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ommpfritt) |
 | <img loading="lazy" src="icons/omniget.png" width="48" height="48"> | [***omniget***](apps/omniget.md) | *Media downloader from various websites.*..[ *read more* ](apps/omniget.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/omniget) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/omniget) |
 | <img loading="lazy" src="icons/omnipull.png" width="48" height="48"> | [***omnipull***](apps/omnipull.md) | *Pull Everything. Everywhere. OmniPull is a powerful, cross-platform download manager.*..[ *read more* ](apps/omnipull.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/omnipull) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/omnipull) |
