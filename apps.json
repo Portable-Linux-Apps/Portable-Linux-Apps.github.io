@@ -7955,11 +7955,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/mediaharbor.png"
   },
   {
-    "packageName": "median-xl",
-    "description": "Launcher for Median XL mod, Diablo II overhaul...",
-    "icon": "https://portable-linux-apps.github.io/icons/median-xl.png"
-  },
-  {
     "packageName": "mediathekview",
     "description": "Searches the online media libraries of various broadcasters...",
     "icon": "https://portable-linux-apps.github.io/icons/mediathekview.png"
