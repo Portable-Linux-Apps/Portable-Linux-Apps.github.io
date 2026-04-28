@@ -9740,6 +9740,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/paper.png"
   },
   {
+    "packageName": "paper-design",
+    "description": "Paper is a modern and powerful design tool that helps you create, share, and ship your best work. Design incredible, the connected canvas for teams shipping with agents...",
+    "icon": "https://portable-linux-apps.github.io/icons/paper-design.png"
+  },
+  {
     "packageName": "papercraft",
     "description": "A tool to unwrap 3D models...",
     "icon": "https://portable-linux-apps.github.io/icons/papercraft.png"
