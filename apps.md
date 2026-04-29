@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **3028** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **3027** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2686,7 +2686,6 @@
 | <img loading="lazy" src="icons/tamga.png" width="48" height="48"> | [***tamga***](apps/tamga.md) | *A 3D sculpting, sketching, and stylized rendering app.*..[ *read more* ](apps/tamga.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tamga) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tamga) |
 | <img loading="lazy" src="icons/tangent.png" width="48" height="48"> | [***tangent***](apps/tangent.md) | *A clean and powerful open source notes app.*..[ *read more* ](apps/tangent.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tangent) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tangent) |
 | <img loading="lazy" src="icons/taradino.png" width="48" height="48"> | [***taradino***](apps/taradino.md) | *Unofficial, SDL2 port of Rise of the Triad.*..[ *read more* ](apps/taradino.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taradino) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taradino) |
-| <img loading="lazy" src="icons/taskade.png" width="48" height="48"> | [***taskade***](apps/taskade.md) | *AI-Powered productivity.*..[ *read more* ](apps/taskade.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskade) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskade) |
 | <img loading="lazy" src="icons/taskell.png" width="48" height="48"> | [***taskell***](apps/taskell.md) | *Command-line Kanban board/task manager with support for Trello boards and GitHub projects.*..[ *read more* ](apps/taskell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskell) |
 | <img loading="lazy" src="icons/taskizer.png" width="48" height="48"> | [***taskizer***](apps/taskizer.md) | *A task management app.*..[ *read more* ](apps/taskizer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskizer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskizer) |
 | <img loading="lazy" src="icons/tastee-ui.png" width="48" height="48"> | [***tastee-ui***](apps/tastee-ui.md) | *Tool helping you write executable specifications in your lang.*..[ *read more* ](apps/tastee-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tastee-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tastee-ui) |

@@ -13290,11 +13290,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/taradino.png"
   },
   {
-    "packageName": "taskade",
-    "description": "AI-Powered productivity...",
-    "icon": "https://portable-linux-apps.github.io/icons/taskade.png"
-  },
-  {
     "packageName": "taskell",
     "description": "Command-line Kanban board/task manager with support for Trello boards and GitHub projects...",
     "icon": "https://portable-linux-apps.github.io/icons/taskell.png"
