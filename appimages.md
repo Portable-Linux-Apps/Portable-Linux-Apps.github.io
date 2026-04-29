@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2623** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2624** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -495,6 +495,7 @@
 | <img loading="lazy" src="icons/cuberite.png" width="48" height="48"> | [***cuberite***](apps/cuberite.md) | *Unofficial, a lightweight, fast and extensible game server for Minecraft.*..[ *read more* ](apps/cuberite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cuberite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cuberite) |
 | <img loading="lazy" src="icons/cura.png" width="48" height="48"> | [***cura***](apps/cura.md) | *An open source slicing application for 3D printers.*..[ *read more* ](apps/cura.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cura) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cura) |
 | <img loading="lazy" src="icons/cura-beta.png" width="48" height="48"> | [***cura-beta***](apps/cura-beta.md) | *An open source slicing application for 3D printers, beta.*..[ *read more* ](apps/cura-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cura-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cura-beta) |
+| <img loading="lazy" src="icons/curseforge.png" width="48" height="48"> | [***curseforge***](apps/curseforge.md) | *Discover endless mods for your favorite games, or forge your own and share them with millions.*..[ *read more* ](apps/curseforge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/curseforge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/curseforge) |
 | <img loading="lazy" src="icons/cursor.png" width="48" height="48"> | [***cursor***](apps/cursor.md) | *Built to make you extraordinarily productive, Cursor is the best way to code with AI.*..[ *read more* ](apps/cursor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cursor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cursor) |
 | <img loading="lazy" src="icons/cursor-cli.png" width="48" height="48"> | [***cursor-cli***](apps/cursor-cli.md) | *Unofficial, AI-assisted development CLI tool.*..[ *read more* ](apps/cursor-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cursor-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cursor-cli) |
 | <img loading="lazy" src="icons/customrpc.png" width="48" height="48"> | [***customrpc***](apps/customrpc.md) | *An electron-vue project.*..[ *read more* ](apps/customrpc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/customrpc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/customrpc) |
