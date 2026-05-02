@@ -770,11 +770,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/astrofox.png"
   },
   {
-    "packageName": "astroshutter",
-    "description": "Ui to control your camera for astrophotography...",
-    "icon": "https://portable-linux-apps.github.io/icons/astroshutter.png"
-  },
-  {
     "packageName": "asunder",
     "description": "Unofficial. Audio CD ripper and encoder, WAV, MP3, OGG, FLAC, Opus, AAC......",
     "icon": "https://portable-linux-apps.github.io/icons/asunder.png"

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **134** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **133** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -38,7 +38,6 @@
 | <img loading="lazy" src="icons/aphototoollibre.png" width="48" height="48"> | [***aphototoollibre***](apps/aphototoollibre.md) | *Photo editing app for GNU/Linux.*..[ *read more* ](apps/aphototoollibre.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aphototoollibre) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aphototoollibre) |
 | <img loading="lazy" src="icons/aspect.png" width="48" height="48"> | [***aspect***](apps/aspect.md) | *Photo organization application with support for peer-to-peer based synchronization across devices.*..[ *read more* ](apps/aspect.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aspect) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aspect) |
 | <img loading="lazy" src="icons/astrofox.png" width="48" height="48"> | [***astrofox***](apps/astrofox.md) | *Audio reactive motion graphics program.*..[ *read more* ](apps/astrofox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/astrofox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/astrofox) |
-| <img loading="lazy" src="icons/astroshutter.png" width="48" height="48"> | [***astroshutter***](apps/astroshutter.md) | *Ui to control your camera for astrophotography.*..[ *read more* ](apps/astroshutter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/astroshutter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/astroshutter) |
 | <img loading="lazy" src="icons/bazecor.png" width="48" height="48"> | [***bazecor***](apps/bazecor.md) | *Graphical configurator for Dygma Raise.*..[ *read more* ](apps/bazecor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bazecor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bazecor) |
 | <img loading="lazy" src="icons/bforartists.png" width="48" height="48"> | [***bforartists***](apps/bforartists.md) | *3D modeling, animation, rendering and post-production.*..[ *read more* ](apps/bforartists.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bforartists) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bforartists) |
 | <img loading="lazy" src="icons/biying.png" width="48" height="48"> | [***biying***](apps/biying.md) | *Biying Wallpaper for Linux.*..[ *read more* ](apps/biying.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/biying) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/biying) |
