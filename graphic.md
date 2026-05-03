@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **133** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **134** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -58,6 +58,7 @@
 | <img loading="lazy" src="icons/darktable.png" width="48" height="48"> | [***darktable***](apps/darktable.md) | *Photography workflow app and raw developer.*..[ *read more* ](apps/darktable.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/darktable) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/darktable) |
 | <img loading="lazy" src="icons/destiny.png" width="48" height="48"> | [***destiny***](apps/destiny.md) | *Cross-platform Magic Wormhole graphical client.*..[ *read more* ](apps/destiny.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/destiny) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/destiny) |
 | <img loading="lazy" src="icons/digikam.png" width="48" height="48"> | [***digikam***](apps/digikam.md) | *Professional and advanced digital photo management application.*..[ *read more* ](apps/digikam.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/digikam) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/digikam) |
+| <img loading="lazy" src="icons/digikam-dev.png" width="48" height="48"> | [***digikam-dev***](apps/digikam-dev.md) | *Professional and advanced digital photo management application.*..[ *read more* ](apps/digikam-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/digikam-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/digikam-dev) |
 | <img loading="lazy" src="icons/dotto.png" width="48" height="48"> | [***dotto***](apps/dotto.md) | *A portable and modern pixelart editor, written from scratch.*..[ *read more* ](apps/dotto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dotto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dotto) |
 | <img loading="lazy" src="icons/duplicate-image-finder.png" width="48" height="48"> | [***duplicate-image-finder***](apps/duplicate-image-finder.md) | *It is an application that can find duplicated images (jpg, png, bitmap, etc) in a collection.*..[ *read more* ](apps/duplicate-image-finder.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/duplicate-image-finder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/duplicate-image-finder) |
 | <img loading="lazy" src="icons/dust3d.png" width="48" height="48"> | [***dust3d***](apps/dust3d.md) | *3D modeling software for games, 3D printing, and so on.*..[ *read more* ](apps/dust3d.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dust3d) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dust3d) |

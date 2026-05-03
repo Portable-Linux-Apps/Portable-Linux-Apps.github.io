@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2622** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2623** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -561,6 +561,7 @@
 | <img loading="lazy" src="icons/die-engine.png" width="48" height="48"> | [***die-engine***](apps/die-engine.md) | *Detect It Easy, a program for determining types of files.*..[ *read more* ](apps/die-engine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/die-engine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/die-engine) |
 | <img loading="lazy" src="icons/diffuse.png" width="48" height="48"> | [***diffuse***](apps/diffuse.md) | *Music player, connects to your cloud/distributed storage.*..[ *read more* ](apps/diffuse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/diffuse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/diffuse) |
 | <img loading="lazy" src="icons/digikam.png" width="48" height="48"> | [***digikam***](apps/digikam.md) | *Professional and advanced digital photo management application.*..[ *read more* ](apps/digikam.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/digikam) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/digikam) |
+| <img loading="lazy" src="icons/digikam-dev.png" width="48" height="48"> | [***digikam-dev***](apps/digikam-dev.md) | *Professional and advanced digital photo management application.*..[ *read more* ](apps/digikam-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/digikam-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/digikam-dev) |
 | <img loading="lazy" src="icons/dingtalk.png" width="48" height="48"> | [***dingtalk***](apps/dingtalk.md) | *DingTalk desktop version based on electron.*..[ *read more* ](apps/dingtalk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dingtalk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dingtalk) |
 | <img loading="lazy" src="icons/dinosaurplanetrecompiled.png" width="48" height="48"> | [***dinosaurplanetrecompiled***](apps/dinosaurplanetrecompiled.md) | *A static recompilation/native port of the game Dinosaur Planet.*..[ *read more* ](apps/dinosaurplanetrecompiled.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dinosaurplanetrecompiled) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dinosaurplanetrecompiled) |
 | <img loading="lazy" src="icons/dinox.png" width="48" height="48"> | [***dinox***](apps/dinox.md) | *DinoX - Modern XMPP Chat Client with Video Calls, Voice Messages & OMEMO Encryption.*..[ *read more* ](apps/dinox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dinox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dinox) |

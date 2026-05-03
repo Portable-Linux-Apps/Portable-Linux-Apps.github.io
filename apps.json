@@ -3080,6 +3080,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/digikam.png"
   },
   {
+    "packageName": "digikam-dev",
+    "description": "Professional and advanced digital photo management application...",
+    "icon": "https://portable-linux-apps.github.io/icons/digikam-dev.png"
+  },
+  {
     "packageName": "dingtalk",
     "description": "DingTalk desktop version based on electron...",
     "icon": "https://portable-linux-apps.github.io/icons/dingtalk.png"
