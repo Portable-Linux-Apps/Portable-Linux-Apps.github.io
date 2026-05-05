@@ -3220,6 +3220,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dosemu.png"
   },
   {
+    "packageName": "dotline",
+    "description": "A modern crosshair overlay app...",
+    "icon": "https://portable-linux-apps.github.io/icons/dotline.png"
+  },
+  {
     "packageName": "dotto",
     "description": "A portable and modern pixelart editor, written from scratch...",
     "icon": "https://portable-linux-apps.github.io/icons/dotto.png"
@@ -3593,11 +3598,6 @@
     "packageName": "electrum",
     "description": "Lightweight Bitcoin Client...",
     "icon": "https://portable-linux-apps.github.io/icons/electrum.png"
-  },
-  {
-    "packageName": "electrum-ltc",
-    "description": "A simple, but powerful Litecoin wallet...",
-    "icon": "https://portable-linux-apps.github.io/icons/electrum-ltc.png"
   },
   {
     "packageName": "electrum-neurai",
@@ -4613,6 +4613,11 @@
     "packageName": "freecad-assembly3",
     "description": "Assembly3 workbench for FreeCAD...",
     "icon": "https://portable-linux-apps.github.io/icons/freecad-assembly3.png"
+  },
+  {
+    "packageName": "freecad-weekly",
+    "description": "Official developmet build of FreeCAD, a free and opensource multiplatform 3D parametric modeler...",
+    "icon": "https://portable-linux-apps.github.io/icons/freecad-weekly.png"
   },
   {
     "packageName": "freefilesync",
