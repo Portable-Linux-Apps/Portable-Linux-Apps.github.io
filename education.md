@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **82** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **83** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -109,6 +109,7 @@
 | <img loading="lazy" src="icons/thorium-reader.png" width="48" height="48"> | [***thorium-reader***](apps/thorium-reader.md) | *Desktop application to read ebooks.*..[ *read more* ](apps/thorium-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thorium-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thorium-reader) |
 | <img loading="lazy" src="icons/tlum.png" width="48" height="48"> | [***tlum***](apps/tlum.md) | *Tlum - open-source cross-platform language learning application leverages the power of natural language processing to pinpoint pronunciation gaps and enhance articulation, machine learning to boost vocabulary proficiency.*..[ *read more* ](apps/tlum.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tlum) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tlum) |
 | <img loading="lazy" src="icons/tnt.png" width="48" height="48"> | [***tnt***](apps/tnt.md) | *A computer-assisted translation tool.*..[ *read more* ](apps/tnt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tnt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tnt) |
+| <img loading="lazy" src="icons/tr.png" width="48" height="48"> | [***tr***](apps/tr.md) | *Translate or delete characters. This is part of "am-utils" suite.*..[ *read more* ](apps/tr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tr) |
 | <img loading="lazy" src="icons/trans.png" width="48" height="48"> | [***trans***](apps/trans.md) | *CLI translator using Google/Bing/Yandex Translate, etc...*..[ *read more* ](apps/trans.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trans) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trans) |
 | <img loading="lazy" src="icons/translatium.png" width="48" height="48"> | [***translatium***](apps/translatium.md) | *Translate Any Languages like a Pro.*..[ *read more* ](apps/translatium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/translatium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/translatium) |
 | <img loading="lazy" src="icons/tweaksophia.png" width="48" height="48"> | [***tweaksophia***](apps/tweaksophia.md) | *An app to automatically renew the books of the SophiA system.*..[ *read more* ](apps/tweaksophia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tweaksophia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tweaksophia) |
