@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2625** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2626** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1937,6 +1937,7 @@
 | <img loading="lazy" src="icons/retroarch-qt-nightly.png" width="48" height="48"> | [***retroarch-qt-nightly***](apps/retroarch-qt-nightly.md) | *RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications.*..[ *read more* ](apps/retroarch-qt-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retroarch-qt-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retroarch-qt-nightly) |
 | <img loading="lazy" src="icons/retrom.png" width="48" height="48"> | [***retrom***](apps/retrom.md) | *A centralized game library/collection management service with a focus on emulation.*..[ *read more* ](apps/retrom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retrom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retrom) |
 | <img loading="lazy" src="icons/retroshare.png" width="48" height="48"> | [***retroshare***](apps/retroshare.md) | *Securely share files with your friends.*..[ *read more* ](apps/retroshare.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retroshare) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retroshare) |
+| <img loading="lazy" src="icons/retrovibed.png" width="48" height="48"> | [***retrovibed***](apps/retrovibed.md) | *Personal Digital Archive and Media Player with at cost cloud storage backend.*..[ *read more* ](apps/retrovibed.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retrovibed) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retrovibed) |
 | <img loading="lazy" src="icons/revolt.png" width="48" height="48"> | [***revolt***](apps/revolt.md) | *Revolt Desktop App.*..[ *read more* ](apps/revolt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/revolt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/revolt) |
 | <img loading="lazy" src="icons/rewaita.png" width="48" height="48"> | [***rewaita***](apps/rewaita.md) | *Unofficial, rewaita gives your Adwaita apps a fresh look by tinting them with popular color schemes.*..[ *read more* ](apps/rewaita.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rewaita) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rewaita) |
 | <img loading="lazy" src="icons/rgitui.png" width="48" height="48"> | [***rgitui***](apps/rgitui.md) | *A GPU-accelerated desktop Git client built in Rust with GPUI.*..[ *read more* ](apps/rgitui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rgitui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rgitui) |

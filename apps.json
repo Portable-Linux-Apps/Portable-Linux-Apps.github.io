@@ -11395,6 +11395,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/retroshare.png"
   },
   {
+    "packageName": "retrovibed",
+    "description": "Personal Digital Archive and Media Player with at cost cloud storage backend...",
+    "icon": "https://portable-linux-apps.github.io/icons/retrovibed.png"
+  },
+  {
     "packageName": "revealgo",
     "description": "Markdown driven presentation tool written in Go!..",
     "icon": "https://portable-linux-apps.github.io/icons/revealgo.png"
