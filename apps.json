@@ -5700,6 +5700,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gum.png"
   },
   {
+    "packageName": "gupt",
+    "description": "Self-hosted, end-to-end encrypted messenger. A privacy-first alternative to Telegram, Signal, WhatsApp & Discord built on Nostr relays with WebRTC calls...",
+    "icon": "https://portable-linux-apps.github.io/icons/gupt.png"
+  },
+  {
     "packageName": "gvim",
     "description": "Edit text files...",
     "icon": "https://portable-linux-apps.github.io/icons/gvim.png"

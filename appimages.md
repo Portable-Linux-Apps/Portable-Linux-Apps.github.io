@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2627** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2628** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -960,6 +960,7 @@
 | <img loading="lazy" src="icons/guglielmo.png" width="48" height="48"> | [***guglielmo***](apps/guglielmo.md) | *A FM, DAB/DAB+ decoder using Qt and C++.*..[ *read more* ](apps/guglielmo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/guglielmo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/guglielmo) |
 | <img loading="lazy" src="icons/guiscrcpy.png" width="48" height="48"> | [***guiscrcpy***](apps/guiscrcpy.md) | *GUI integration for android screen mirroring system.*..[ *read more* ](apps/guiscrcpy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/guiscrcpy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/guiscrcpy) |
 | <img loading="lazy" src="icons/guitar.png" width="48" height="48"> | [***guitar***](apps/guitar.md) | *Graphical git client.*..[ *read more* ](apps/guitar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/guitar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/guitar) |
+| <img loading="lazy" src="icons/gupt.png" width="48" height="48"> | [***gupt***](apps/gupt.md) | *Self-hosted, end-to-end encrypted messenger. A privacy-first alternative to Telegram, Signal, WhatsApp & Discord built on Nostr relays with WebRTC calls.*..[ *read more* ](apps/gupt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gupt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gupt) |
 | <img loading="lazy" src="icons/gvim.png" width="48" height="48"> | [***gvim***](apps/gvim.md) | *Edit text files.*..[ *read more* ](apps/gvim.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gvim) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gvim) |
 | <img loading="lazy" src="icons/gwenview.png" width="48" height="48"> | [***gwenview***](apps/gwenview.md) | *Unofficial. Fast and easy to use image viewer by KDE. ideal for displaying a collection of images.*..[ *read more* ](apps/gwenview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gwenview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gwenview) |
 | <img loading="lazy" src="icons/gxc-smart-contract-ide.png" width="48" height="48"> | [***gxc-smart-contract-ide***](apps/gxc-smart-contract-ide.md) | *Gxchain smart contract IDE alpha.*..[ *read more* ](apps/gxc-smart-contract-ide.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gxc-smart-contract-ide) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gxc-smart-contract-ide) |
