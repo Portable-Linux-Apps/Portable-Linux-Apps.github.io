@@ -110,6 +110,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/adb.png"
   },
   {
+    "packageName": "adobe-flash-player",
+    "description": "Unofficial port. Adobe Flash is a mostly discontinued multimedia software platform used for production of animations, rich internet applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Over 67 billion devices use adobe flash player!..",
+    "icon": "https://portable-linux-apps.github.io/icons/adobe-flash-player.png"
+  },
+  {
     "packageName": "advanced-passgen",
     "description": "Advanced Password Generator...",
     "icon": "https://portable-linux-apps.github.io/icons/advanced-passgen.png"
@@ -9493,6 +9498,11 @@
     "packageName": "open-markup-editor",
     "description": "Pluggable markup editor...",
     "icon": "https://portable-linux-apps.github.io/icons/open-markup-editor.png"
+  },
+  {
+    "packageName": "open-pencil",
+    "description": "AI-native design editor. Open-source Figma alternative...",
+    "icon": "https://portable-linux-apps.github.io/icons/open-pencil.png"
   },
   {
     "packageName": "open-typer",
