@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2630** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2631** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -145,6 +145,7 @@
 | <img loading="lazy" src="icons/apx-gcs.png" width="48" height="48"> | [***apx-gcs***](apps/apx-gcs.md) | *APX Ground Control.*..[ *read more* ](apps/apx-gcs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/apx-gcs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/apx-gcs) |
 | <img loading="lazy" src="icons/aranym.png" width="48" height="48"> | [***aranym***](apps/aranym.md) | *Virtual Machine for Atari 32-bit applications.*..[ *read more* ](apps/aranym.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aranym) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aranym) |
 | <img loading="lazy" src="icons/arcade-manager.png" width="48" height="48"> | [***arcade-manager***](apps/arcade-manager.md) | *Manage your rom collection, Games/Retropie & Recalbox.*..[ *read more* ](apps/arcade-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/arcade-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/arcade-manager) |
+| <img loading="lazy" src="icons/arcdlp.png" width="48" height="48"> | [***arcdlp***](apps/arcdlp.md) | *Open-source desktop video downloader powered by yt-dlp and electron. Download videos and audio from YouTube, Vimeo, Twitter, and thousands of sites.*..[ *read more* ](apps/arcdlp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/arcdlp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/arcdlp) |
 | <img loading="lazy" src="icons/archipel.png" width="48" height="48"> | [***archipel***](apps/archipel.md) | *Decentralized archiving and media library system.*..[ *read more* ](apps/archipel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/archipel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/archipel) |
 | <img loading="lazy" src="icons/archipelago.png" width="48" height="48"> | [***archipelago***](apps/archipelago.md) | *Archipelago Multi-Game Randomizer and Server.*..[ *read more* ](apps/archipelago.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/archipelago) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/archipelago) |
 | <img loading="lazy" src="icons/archiveweb.page.png" width="48" height="48"> | [***archiveweb.page***](apps/archiveweb.page.md) | *A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers.*..[ *read more* ](apps/archiveweb.page.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/archiveweb.page) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/archiveweb.page) |
