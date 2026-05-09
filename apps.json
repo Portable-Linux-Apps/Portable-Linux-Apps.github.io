@@ -2956,7 +2956,7 @@
   },
   {
     "packageName": "dealers-choice",
-    "description": "Multiplayer Stud and Draw Poker game...",
+    "description": "A cross-platform, networked multiplayer poker game supporting draw, stud, and community-card variants, including Texas...",
     "icon": "https://portable-linux-apps.github.io/icons/dealers-choice.png"
   },
   {
