@@ -5100,6 +5100,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ghdl.png"
   },
   {
+    "packageName": "ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework...",
+    "icon": "https://portable-linux-apps.github.io/icons/ghidra.png"
+  },
+  {
     "packageName": "ghostship",
     "description": "Unofficial, Another definitive port of Super Mario 64...",
     "icon": "https://portable-linux-apps.github.io/icons/ghostship.png"
