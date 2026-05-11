@@ -108,25 +108,16 @@
 # How to install AM
 
 *To install "AM" you must first install the "core" dependencies from your package manager:*
-- *"`coreutils`" (contains "`cat`", "`chmod`", "`chown`"...);*
-- *"`curl`", to check URLs;*
-- *"`grep`", to check files;*
-- *"`sed`", to edit/adapt installed files;*
-- *"`wget`" to download all programs and update "AM" itself.*
-- *"`sudo`" or "`doas`", for installing and removing programs at the system level.*
 
-<details>
-  <summary>Additionally, you may need these optional dependencies, click here.</summary>
+| command | motivation | pre-installed? |
+| - | - | - |
+| `coreutils` | it's a suite of core commands | YES, on almost all distributions |
+| `curl` | network utility needed to read online text like lists, URLs and versions | not in all distibutions |
+| `grep` | a string search utility | YES, on many distributions |
+| `sed` | stream editor for filtering and transforming text | YES, in almost all distributions |
+| `wget` | network utility needed to download files from the web like scripts and packages | not in all distibutions, sometime replaced with different commands like `curl` or as wrapper for `wget2` |
 
-- *"`binutils`", contains a series of basic commands, including "`ar`" which extracts .deb packages;*
-- *"`less`", to read the ever-longer lists;*
-- *"`unzip`", to extract .zip packages;*
-- *"`tar`", to extract .tar* packages;*
-- *"`torsocks`", to connect to the TOR network;*
-- *"`zsync`", required by very few programs.*
-
-</details>
-
+*NOTE, if you install "AM" (system) and not "AppMan" (local), **you need `sudo` or `doas` for root privileges**.*
 
 ### Quick installation
 
@@ -136,7 +127,7 @@ wget -q https://raw.githubusercontent.com/ivan-hc/AM/main/AM-INSTALLER && chmod 
 ```
 *...below, the screenshot of what will appear.*
 
-| ![AM-INSTALLER](https://github.com/user-attachments/assets/7bb170da-5b17-4d36-8d86-679d477debf5) |
+| <img width="747" height="600" alt="installer" src="https://github.com/user-attachments/assets/f8a153e8-d410-4a7e-9e5c-b48e686547ee" /> |
 | - |
 
 *Type "1" to install "AM", "2" to install "[AppMan](#what-is-appman)". Any other key will abort the installation.*
