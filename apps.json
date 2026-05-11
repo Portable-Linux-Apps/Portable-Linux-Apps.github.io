@@ -6625,6 +6625,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/julius.png"
   },
   {
+    "packageName": "jumble",
+    "description": "A user-friendly Nostr client for exploring relay feeds...",
+    "icon": "https://portable-linux-apps.github.io/icons/jumble.png"
+  },
+  {
     "packageName": "junest",
     "description": "Arch Linux based distro that runs rootless on any other Linux distro...",
     "icon": "https://portable-linux-apps.github.io/icons/junest.png"
