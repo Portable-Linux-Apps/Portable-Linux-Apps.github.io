@@ -3135,6 +3135,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dfilemanager.png"
   },
   {
+    "packageName": "dhammapada",
+    "description": "A simple Dhammapada verse viewer for the Linux desktop...",
+    "icon": "https://portable-linux-apps.github.io/icons/dhammapada.png"
+  },
+  {
     "packageName": "dhewm3",
     "description": "Unofficial, doom 3 GPL source port...",
     "icon": "https://portable-linux-apps.github.io/icons/dhewm3.png"

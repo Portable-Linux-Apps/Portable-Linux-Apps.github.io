@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2631** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2632** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -558,6 +558,7 @@
 | <img loading="lazy" src="icons/dezor.png" width="48" height="48"> | [***dezor***](apps/dezor.md) | *The web browser including VPN and Adblocker.*..[ *read more* ](apps/dezor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dezor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dezor) |
 | <img loading="lazy" src="icons/dfdemo.png" width="48" height="48"> | [***dfdemo***](apps/dfdemo.md) | *A thin Tcl/Tk GUI around the df POSIX command.*..[ *read more* ](apps/dfdemo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dfdemo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dfdemo) |
 | <img loading="lazy" src="icons/dfilemanager.png" width="48" height="48"> | [***dfilemanager***](apps/dfilemanager.md) | *File manager written in Qt and C++.*..[ *read more* ](apps/dfilemanager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dfilemanager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dfilemanager) |
+| <img loading="lazy" src="icons/dhammapada.png" width="48" height="48"> | [***dhammapada***](apps/dhammapada.md) | *A simple Dhammapada verse viewer for the Linux desktop.*..[ *read more* ](apps/dhammapada.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dhammapada) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dhammapada) |
 | <img loading="lazy" src="icons/dhewm3.png" width="48" height="48"> | [***dhewm3***](apps/dhewm3.md) | *Unofficial, doom 3 GPL source port.*..[ *read more* ](apps/dhewm3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dhewm3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dhewm3) |
 | <img loading="lazy" src="icons/dicomautomaton.png" width="48" height="48"> | [***dicomautomaton***](apps/dicomautomaton.md) | *Tools for working with medical physics data.*..[ *read more* ](apps/dicomautomaton.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dicomautomaton) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dicomautomaton) |
 | <img loading="lazy" src="icons/die-engine.png" width="48" height="48"> | [***die-engine***](apps/die-engine.md) | *Detect It Easy, a program for determining types of files.*..[ *read more* ](apps/die-engine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/die-engine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/die-engine) |
