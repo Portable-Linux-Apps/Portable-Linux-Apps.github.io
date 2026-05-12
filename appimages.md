@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2632** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2633** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1654,6 +1654,7 @@
 | <img loading="lazy" src="icons/paper-design.png" width="48" height="48"> | [***paper-design***](apps/paper-design.md) | *Paper is a modern and powerful design tool that helps you create, share, and ship your best work. Design incredible, the connected canvas for teams shipping with agents.*..[ *read more* ](apps/paper-design.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/paper-design) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/paper-design) |
 | <img loading="lazy" src="icons/papercraft.png" width="48" height="48"> | [***papercraft***](apps/papercraft.md) | *A tool to unwrap 3D models.*..[ *read more* ](apps/papercraft.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/papercraft) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/papercraft) |
 | <img loading="lazy" src="icons/paperlib.png" width="48" height="48"> | [***paperlib***](apps/paperlib.md) | *An open-source academic paper management tool.*..[ *read more* ](apps/paperlib.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/paperlib) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/paperlib) |
+| <img loading="lazy" src="icons/parabolic.png" width="48" height="48"> | [***parabolic***](apps/parabolic.md) | *Unofficial, Download web video and audio.*..[ *read more* ](apps/parabolic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/parabolic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/parabolic) |
 | <img loading="lazy" src="icons/parallelcoin.png" width="48" height="48"> | [***parallelcoin***](apps/parallelcoin.md) | *Parallelcoin qt wallet appimage binary.*..[ *read more* ](apps/parallelcoin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/parallelcoin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/parallelcoin) |
 | <img loading="lazy" src="icons/parchment.png" width="48" height="48"> | [***parchment***](apps/parchment.md) | *A minimal minimal text editor written using web technologies.*..[ *read more* ](apps/parchment.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/parchment) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/parchment) |
 | <img loading="lazy" src="icons/parity-fether.png" width="48" height="48"> | [***parity-fether***](apps/parity-fether.md) | *Fether Wallet.*..[ *read more* ](apps/parity-fether.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/parity-fether) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/parity-fether) |

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **185** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **186** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -125,6 +125,7 @@
 | <img loading="lazy" src="icons/openshot.png" width="48" height="48"> | [***openshot***](apps/openshot.md) | *A powerful Video Editor.*..[ *read more* ](apps/openshot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openshot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openshot) |
 | <img loading="lazy" src="icons/openstream-music.png" width="48" height="48"> | [***openstream-music***](apps/openstream-music.md) | *The OpenStream Music source.*..[ *read more* ](apps/openstream-music.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openstream-music) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openstream-music) |
 | <img loading="lazy" src="icons/ovideo.png" width="48" height="48"> | [***ovideo***](apps/ovideo.md) | *Video Editor.*..[ *read more* ](apps/ovideo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ovideo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ovideo) |
+| <img loading="lazy" src="icons/parabolic.png" width="48" height="48"> | [***parabolic***](apps/parabolic.md) | *Unofficial, Download web video and audio.*..[ *read more* ](apps/parabolic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/parabolic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/parabolic) |
 | <img loading="lazy" src="icons/parsec-linux.png" width="48" height="48"> | [***parsec-linux***](apps/parsec-linux.md) | *Parsec game streaming client.*..[ *read more* ](apps/parsec-linux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/parsec-linux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/parsec-linux) |
 | <img loading="lazy" src="icons/phreshplayer.png" width="48" height="48"> | [***phreshplayer***](apps/phreshplayer.md) | *Electron based media player app.*..[ *read more* ](apps/phreshplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/phreshplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/phreshplayer) |
 | <img loading="lazy" src="icons/playerctl.png" width="48" height="48"> | [***playerctl***](apps/playerctl.md) | *Unofficial, MPRIS media player command-line controller.*..[ *read more* ](apps/playerctl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playerctl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playerctl) |
