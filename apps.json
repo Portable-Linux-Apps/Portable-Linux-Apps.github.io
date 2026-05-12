@@ -13910,11 +13910,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/tilinggenerator.png"
   },
   {
-    "packageName": "timely",
-    "description": "The release branch for Timely electron apps...",
-    "icon": "https://portable-linux-apps.github.io/icons/timely.png"
-  },
-  {
     "packageName": "timenaut",
     "description": "Desktop time tracking application...",
     "icon": "https://portable-linux-apps.github.io/icons/timenaut.png"
