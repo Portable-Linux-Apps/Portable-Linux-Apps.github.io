@@ -15375,6 +15375,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/xash3d-fwgs-enhanced.png"
   },
   {
+    "packageName": "xbooxp",
+    "description": "A nifty software to upload homebrew apps into your Game Boy Advance (GBA) using an xboo cable...",
+    "icon": "https://portable-linux-apps.github.io/icons/xbooxp.png"
+  },
+  {
     "packageName": "xbydriver",
     "description": "Xiaobaiyang Cloud Drive - Powered by Alibaba Cloud Drive...",
     "icon": "https://portable-linux-apps.github.io/icons/xbydriver.png"
