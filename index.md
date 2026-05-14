@@ -115,9 +115,10 @@
 | `curl` | network utility needed to read online text like lists, URLs and versions | not in all distibutions |
 | `grep` | a string search utility | YES, on many distributions |
 | `sed` | stream editor for filtering and transforming text | YES, in almost all distributions |
-| `wget` | network utility needed to download files from the web like scripts and packages | not in all distibutions, sometime replaced with different commands like `curl` or as wrapper for `wget2` |
 
 *NOTE, if you install "AM" (system) and not "AppMan" (local), **you need `sudo` or `doas` for root privileges**.*
+
+*Other "optional" programs (needed by the apps themselves) may be notified if they are missing while you are using AM or AppMan, but their absence would not prevent you from using AM/AppMan itself.*
 
 ### Quick installation
 
