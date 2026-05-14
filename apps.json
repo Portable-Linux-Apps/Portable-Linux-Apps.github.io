@@ -13640,6 +13640,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/taskizer.png"
   },
   {
+    "packageName": "tasks-org",
+    "description": "Private, ad-free task lists. Optional sync with Google Tasks, CalDAV or EteSync...",
+    "icon": "https://portable-linux-apps.github.io/icons/tasks-org.png"
+  },
+  {
     "packageName": "tastee-ui",
     "description": "Tool helping you write executable specifications in your lang...",
     "icon": "https://portable-linux-apps.github.io/icons/tastee-ui.png"

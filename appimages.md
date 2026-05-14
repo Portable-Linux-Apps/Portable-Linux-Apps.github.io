@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2634** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2635** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2292,6 +2292,7 @@
 | <img loading="lazy" src="icons/tangent.png" width="48" height="48"> | [***tangent***](apps/tangent.md) | *A clean and powerful open source notes app.*..[ *read more* ](apps/tangent.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tangent) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tangent) |
 | <img loading="lazy" src="icons/taradino.png" width="48" height="48"> | [***taradino***](apps/taradino.md) | *Unofficial, SDL2 port of Rise of the Triad.*..[ *read more* ](apps/taradino.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taradino) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taradino) |
 | <img loading="lazy" src="icons/taskizer.png" width="48" height="48"> | [***taskizer***](apps/taskizer.md) | *A task management app.*..[ *read more* ](apps/taskizer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskizer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskizer) |
+| <img loading="lazy" src="icons/tasks-org.png" width="48" height="48"> | [***tasks-org***](apps/tasks-org.md) | *Private, ad-free task lists. Optional sync with Google Tasks, CalDAV or EteSync.*..[ *read more* ](apps/tasks-org.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tasks-org) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tasks-org) |
 | <img loading="lazy" src="icons/tastee-ui.png" width="48" height="48"> | [***tastee-ui***](apps/tastee-ui.md) | *Tool helping you write executable specifications in your lang.*..[ *read more* ](apps/tastee-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tastee-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tastee-ui) |
 | <img loading="lazy" src="icons/tauon.png" width="48" height="48"> | [***tauon***](apps/tauon.md) | *Unofficial, a music player for the desktop.*..[ *read more* ](apps/tauon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tauon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tauon) |
 | <img loading="lazy" src="icons/tbc-video-export.png" width="48" height="48"> | [***tbc-video-export***](apps/tbc-video-export.md) | *Tool for exporting S-Video and CVBS-type TBCs to video files.*..[ *read more* ](apps/tbc-video-export.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tbc-video-export) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tbc-video-export) |
