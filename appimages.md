@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2633** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2634** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -613,6 +613,7 @@
 | <img loading="lazy" src="icons/dukto.png" width="48" height="48"> | [***dukto***](apps/dukto.md) | *Easy and multi-platform file transfer tool.*..[ *read more* ](apps/dukto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dukto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dukto) |
 | <img loading="lazy" src="icons/dunst.png" width="48" height="48"> | [***dunst***](apps/dunst.md) | *Lightweight and customizable notification daemon.*..[ *read more* ](apps/dunst.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dunst) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dunst) |
 | <img loading="lazy" src="icons/duplicate-image-finder.png" width="48" height="48"> | [***duplicate-image-finder***](apps/duplicate-image-finder.md) | *It is an application that can find duplicated images (jpg, png, bitmap, etc) in a collection.*..[ *read more* ](apps/duplicate-image-finder.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/duplicate-image-finder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/duplicate-image-finder) |
+| <img loading="lazy" src="icons/dusklight.png" width="48" height="48"> | [***dusklight***](apps/dusklight.md) | *Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.*..[ *read more* ](apps/dusklight.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dusklight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dusklight) |
 | <img loading="lazy" src="icons/duskplayer.png" width="48" height="48"> | [***duskplayer***](apps/duskplayer.md) | *A minimal music player built on electron.*..[ *read more* ](apps/duskplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/duskplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/duskplayer) |
 | <img loading="lazy" src="icons/dust3d.png" width="48" height="48"> | [***dust3d***](apps/dust3d.md) | *3D modeling software for games, 3D printing, and so on.*..[ *read more* ](apps/dust3d.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dust3d) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dust3d) |
 | <img loading="lazy" src="icons/dvdisaster.png" width="48" height="48"> | [***dvdisaster***](apps/dvdisaster.md) | *Additional error protection for CD/DVD media.*..[ *read more* ](apps/dvdisaster.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dvdisaster) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dvdisaster) |
