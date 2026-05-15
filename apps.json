@@ -970,6 +970,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/azahar-enhanced.png"
   },
   {
+    "packageName": "azaharplus",
+    "description": "A fork of the Azahar 3DS emulator with extra features an open-source 3DS emulator project based on Citra...",
+    "icon": "https://portable-linux-apps.github.io/icons/azaharplus.png"
+  },
+  {
+    "packageName": "azaharplus-pkg-extractor",
+    "description": "Standalone PKG extractor CLI based on code that used to be in ShadPS4 PlayStation 4 emulator written in C++...",
+    "icon": "https://portable-linux-apps.github.io/icons/azaharplus-pkg-extractor.png"
+  },
+  {
     "packageName": "badlion",
     "description": "Most Complete All-In-One Mod Library for Minecraft with 100+ Mods...",
     "icon": "https://portable-linux-apps.github.io/icons/badlion.png"

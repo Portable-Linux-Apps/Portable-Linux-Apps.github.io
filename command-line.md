@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **310** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **311** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -48,6 +48,7 @@
 | <img loading="lazy" src="icons/aptly.png" width="48" height="48"> | [***aptly***](apps/aptly.md) | *Debian repository management CLI tool.*..[ *read more* ](apps/aptly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aptly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aptly) |
 | <img loading="lazy" src="icons/ar.png" width="48" height="48"> | [***ar***](apps/ar.md) | *Create, modify, and extract from .deb archives. This is part of "am-utils" suite.*..[ *read more* ](apps/ar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ar) |
 | <img loading="lazy" src="icons/atuin.png" width="48" height="48"> | [***atuin***](apps/atuin.md) | *Magical shell history.*..[ *read more* ](apps/atuin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/atuin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/atuin) |
+| <img loading="lazy" src="icons/azaharplus-pkg-extractor.png" width="48" height="48"> | [***azaharplus-pkg-extractor***](apps/azaharplus-pkg-extractor.md) | *Standalone PKG extractor CLI based on code that used to be in ShadPS4 PlayStation 4 emulator written in C++.*..[ *read more* ](apps/azaharplus-pkg-extractor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/azaharplus-pkg-extractor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/azaharplus-pkg-extractor) |
 | <img loading="lazy" src="icons/bandwhich.png" width="48" height="48"> | [***bandwhich***](apps/bandwhich.md) | *Terminal bandwidth utilization tool.*..[ *read more* ](apps/bandwhich.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bandwhich) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bandwhich) |
 | <img loading="lazy" src="icons/base64.png" width="48" height="48"> | [***base64***](apps/base64.md) | *Base64 encode/decode data and print to standard. This is part of "am-utils" suite.*..[ *read more* ](apps/base64.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/base64) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/base64) |
 | <img loading="lazy" src="icons/basename.png" width="48" height="48"> | [***basename***](apps/basename.md) | *Strip directory and suffix from filenames. This is part of "am-utils" suite.*..[ *read more* ](apps/basename.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/basename) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/basename) |
