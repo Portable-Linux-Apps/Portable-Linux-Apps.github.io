@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2636** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2635** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -416,7 +416,6 @@
 | <img loading="lazy" src="icons/coinstac.png" width="48" height="48"> | [***coinstac***](apps/coinstac.md) | *Collaborative Informatics and Neuroimaging Suite Toolkit.*..[ *read more* ](apps/coinstac.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/coinstac) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/coinstac) |
 | <img loading="lazy" src="icons/collaboraoffice.png" width="48" height="48"> | [***collaboraoffice***](apps/collaboraoffice.md) | *Unofficial, a collaborative online office suite based on LibreOffice technology.*..[ *read more* ](apps/collaboraoffice.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/collaboraoffice) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/collaboraoffice) |
 | <img loading="lazy" src="icons/collision.png" width="48" height="48"> | [***collision***](apps/collision.md) | *Unofficial. Verify the checksum/hash validity of files.*..[ *read more* ](apps/collision.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/collision) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/collision) |
-| <img loading="lazy" src="icons/colobot.png" width="48" height="48"> | [***colobot***](apps/colobot.md) | *Colonize with bots, game.*..[ *read more* ](apps/colobot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/colobot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/colobot) |
 | <img loading="lazy" src="icons/colon.png" width="48" height="48"> | [***colon***](apps/colon.md) | *A flexible text editor.*..[ *read more* ](apps/colon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/colon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/colon) |
 | <img loading="lazy" src="icons/colorgenerator.png" width="48" height="48"> | [***colorgenerator***](apps/colorgenerator.md) | *Generates color palettes similar to ColorBrewer.*..[ *read more* ](apps/colorgenerator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/colorgenerator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/colorgenerator) |
 | <img loading="lazy" src="icons/colorpicker.png" width="48" height="48"> | [***colorpicker***](apps/colorpicker.md) | *Electron app that can show colors with hex/rgb.*..[ *read more* ](apps/colorpicker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/colorpicker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/colorpicker) |

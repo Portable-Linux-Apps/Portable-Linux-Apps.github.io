@@ -2310,11 +2310,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/collision.png"
   },
   {
-    "packageName": "colobot",
-    "description": "Colonize with bots, game...",
-    "icon": "https://portable-linux-apps.github.io/icons/colobot.png"
-  },
-  {
     "packageName": "colon",
     "description": "A flexible text editor...",
     "icon": "https://portable-linux-apps.github.io/icons/colon.png"
