@@ -2,7 +2,7 @@
 
  Calm down and draw something, in Lisp.
  
- ![image](https://github.com/VitoVan/calm/blob/1.2.0/docs/examples/mondrian/canvas.png)
+ ![Screenshot](https://github.com/VitoVan/calm/blob/1.2.0/docs/examples/mondrian/canvas.png)
 
  SITE: https://github.com/VitoVan/calm
 

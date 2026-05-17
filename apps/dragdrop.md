@@ -2,7 +2,7 @@
 
  Small drag-and-drop file source for the command line.
  
- ![image](https://github.com/fernzi/dragdrop/blob/master/doc/screenshots/source.png)
+ ![Screenshot](https://github.com/fernzi/dragdrop/blob/master/doc/screenshots/source.png)
 
  SITE: https://github.com/fernzi/dragdrop
 

@@ -23,7 +23,7 @@
  - PBMode Security
  - Latest Fingerprinting as an option in firedragon.cfg (you can copy to your own firedragon.overrides.cfg and enable there)
  
- ![screenshot](https://gitlab.com/garuda-linux/firedragon/settings/-/raw/master/home.png)
+ ![Screenshot](https://gitlab.com/garuda-linux/firedragon/settings/-/raw/master/home.png)
 
  SITE: https://firedragon.garudalinux.org
 

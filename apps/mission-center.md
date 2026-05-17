@@ -17,8 +17,8 @@
  - Use OpenGL rendering for all the graphs in an effort to reduce CPU and overall resource usage
  - Uses GTK4 and Libadwaita
  - Written in Rust
- 
-  | ![Istantanea_2024-07-26_02-13-48](https://missioncenter.io/img/0001-cpu-multi.png) | ![Istantanea_2024-07-26_02-43-41](https://missioncenter.io/img/0009-apps.png) | ![Istantanea_2024-07-26_03-03-42](https://missioncenter.io/img/0013-gpu-nvidia-dark.png) |
+
+  | ![Screenshot](https://missioncenter.io/img/0001-cpu-multi.png) | ![Screenshot](https://missioncenter.io/img/0009-apps.png) | ![Screenshot](https://missioncenter.io/img/0013-gpu-nvidia-dark.png) |
 | - | - | - |
 
  SITE: https://missioncenter.io

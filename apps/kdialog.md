@@ -9,7 +9,7 @@
  kdeutils kdialog [OPTIONS] [ARGUMENTS]
  ```
 
- ![image](https://develop.kde.org/docs/administration/kdialog/password.png)
+ ![Screenshot](https://develop.kde.org/docs/administration/kdialog/password.png)
 
  SITE: https://apps.kde.org
  

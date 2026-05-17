@@ -2,7 +2,7 @@
 
  Calm down and draw something, in Lisp.
  
- ![image](https://github.com/VitoVan/calm/blob/main/docs/images/linux-appimage.png)
+ ![Screenshot](https://github.com/VitoVan/calm/blob/main/docs/images/linux-appimage.png)
 
  SITE: https://github.com/VitoVan/calm
 

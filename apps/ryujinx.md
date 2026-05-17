@@ -4,7 +4,7 @@
 
  It was written from scratch and development on the project began in September 2017. Ryujinx is available on a self-managed GitLab instance under the MIT license.
 
- ![image](https://git.ryujinx.app/ryubing/ryujinx/-/raw/master/docs/shell.png)
+ ![Screenshot](https://git.ryujinx.app/ryubing/ryujinx/-/raw/master/docs/shell.png)
 
  SITE: https://ryujinx.app
 
