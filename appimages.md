@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2634** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2633** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1645,7 +1645,6 @@
 | <img loading="lazy" src="icons/padloc.png" width="48" height="48"> | [***padloc***](apps/padloc.md) | *Electron Wrapper for Padloc app.*..[ *read more* ](apps/padloc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/padloc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/padloc) |
 | <img loading="lazy" src="icons/pageedit.png" width="48" height="48"> | [***pageedit***](apps/pageedit.md) | *EPub XHTML Visual Editor.*..[ *read more* ](apps/pageedit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pageedit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pageedit) |
 | <img loading="lazy" src="icons/painel-web.png" width="48" height="48"> | [***painel-web***](apps/painel-web.md) | *Novo SGA panel.*..[ *read more* ](apps/painel-web.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/painel-web) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/painel-web) |
-| <img loading="lazy" src="icons/palemoon.png" width="48" height="48"> | [***palemoon***](apps/palemoon.md) | *Web browser, a Firefox fork with a classic UI and modern APIs.*..[ *read more* ](apps/palemoon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/palemoon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/palemoon) |
 | <img loading="lazy" src="icons/pandoralauncher.png" width="48" height="48"> | [***pandoralauncher***](apps/pandoralauncher.md) | *Pandora is a modern Minecraft launcher that balances ease-of-use with powerful instance management features.*..[ *read more* ](apps/pandoralauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pandoralauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pandoralauncher) |
 | <img loading="lazy" src="icons/pandoralaunchercrack.png" width="48" height="48"> | [***pandoralaunchercrack***](apps/pandoralaunchercrack.md) | *Customized version of Pandora, a modern Minecraft launcher that balances ease-of-use with powerful instance management features.*..[ *read more* ](apps/pandoralaunchercrack.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pandoralaunchercrack) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pandoralaunchercrack) |
 | <img loading="lazy" src="icons/panini.png" width="48" height="48"> | [***panini***](apps/panini.md) | *Perspective views from panoramic images.*..[ *read more* ](apps/panini.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/panini) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/panini) |

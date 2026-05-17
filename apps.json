@@ -9940,11 +9940,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/palapeli.png"
   },
   {
-    "packageName": "palemoon",
-    "description": "Web browser, a Firefox fork with a classic UI and modern APIs...",
-    "icon": "https://portable-linux-apps.github.io/icons/palemoon.png"
-  },
-  {
     "packageName": "pandoralauncher",
     "description": "Pandora is a modern Minecraft launcher that balances ease-of-use with powerful instance management features...",
     "icon": "https://portable-linux-apps.github.io/icons/pandoralauncher.png"
