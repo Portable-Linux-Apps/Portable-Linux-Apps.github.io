@@ -6,7 +6,7 @@
  
  SITE: https://www.openhv.net
 
- SOURCE: https://github.com/OpenHV/OpenHV
+ SITE: https://github.com/OpenHV/OpenHV
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -4,7 +4,7 @@
  
  SITE: https://lmms.io
 
- SOURCE: https://github.com/LMMS/lmms
+ SITE: https://github.com/LMMS/lmms
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

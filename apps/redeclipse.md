@@ -8,7 +8,7 @@
  
  SITE: https://www.redeclipse.net
 
- SOURCE: https://github.com/redeclipse/deploy
+ SITE: https://github.com/redeclipse/deploy
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -6,7 +6,7 @@
  
  SITE: http://www.eternal-lands.com/
 
- SOURCE: https://github.com/raduprv/Eternal-Lands
+ SITE: https://github.com/raduprv/Eternal-Lands
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

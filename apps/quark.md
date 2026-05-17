@@ -4,7 +4,7 @@
  
  SITE: https://quarkjs.io
 
- SOURCE: https://github.com/Nishkalkashyap/Quark-electron
+ SITE: https://github.com/Nishkalkashyap/Quark-electron
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

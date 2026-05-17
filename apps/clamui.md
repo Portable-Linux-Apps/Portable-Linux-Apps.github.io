@@ -11,7 +11,7 @@
  
  <a href="https://github.com/linx-systems/clamui/blob/master/screenshots/main_view.png"><img src="https://github.com/linx-systems/clamui/blob/master/screenshots/main_view.png" alt="" width="800px"></a>
 
- SITE/SOURCE: https://github.com/linx-systems/clamui
+ SITE: https://github.com/linx-systems/clamui
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

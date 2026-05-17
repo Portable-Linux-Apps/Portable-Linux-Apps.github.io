@@ -4,7 +4,7 @@
 
  SITE: https://tts.yycc.dev
 
- SOURCE: https://github.com/funnyzak/tts-now
+ SITE: https://github.com/funnyzak/tts-now
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

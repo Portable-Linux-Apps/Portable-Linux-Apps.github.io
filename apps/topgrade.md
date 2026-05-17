@@ -8,7 +8,7 @@
 
  SITE: https://topgrade-rs.github.io
  
- SOURCE: https://github.com/topgrade-rs/topgrade
+ SITE: https://github.com/topgrade-rs/topgrade
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

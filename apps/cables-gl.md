@@ -4,7 +4,7 @@
 
  SITE: https://cables.gl
  
- SOURCE: https://github.com/cables-gl/cables_electron
+ SITE: https://github.com/cables-gl/cables_electron
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

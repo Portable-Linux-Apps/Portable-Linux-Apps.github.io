@@ -8,7 +8,7 @@
 
  SITE: https://www.affinity.studio/
  
- SOURCE: https://github.com/ryzendew/Linux-Affinity-Installer
+ SITE: https://github.com/ryzendew/Linux-Affinity-Installer
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

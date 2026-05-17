@@ -12,7 +12,7 @@
  
  ![Screenshot](https://supertuxkart.net/assets/wiki/STK1.3_1.jpg)
 
- SITE & SOURCE: https://supertuxkart.net
+ SITE & SITE: https://supertuxkart.net
 
  APPIMAGE: https://github.com/ivan-hc/SuperTuxKart-appimage
 

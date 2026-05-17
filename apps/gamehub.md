@@ -4,7 +4,7 @@
  
  SITE: https://tkashkin.tk
 
- SOURCE: https://github.com/tkashkin/GameHub
+ SITE: https://github.com/tkashkin/GameHub
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

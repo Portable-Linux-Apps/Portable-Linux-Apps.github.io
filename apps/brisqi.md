@@ -6,7 +6,7 @@
 
  SITE: https://brisqi.com
  
- SOURCE: https://github.com/Brisqi/releases
+ SITE: https://github.com/Brisqi/releases
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

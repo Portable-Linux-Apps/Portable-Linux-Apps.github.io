@@ -8,7 +8,7 @@
  
  SITE: https://apps.kde.org/kwave
 
- SOURCE: https://github.com/ivan-hc/kwave-appimage
+ SITE: https://github.com/ivan-hc/kwave-appimage
  
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

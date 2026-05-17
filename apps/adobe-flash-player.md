@@ -2,7 +2,7 @@
 
  Unofficial port. Adobe Flash is a mostly discontinued multimedia software platform used for production of animations, rich internet applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Over 67 billion devices use adobe flash player!
 
- SITE/SOURCE: https://github.com/pkgforge-dev/Adobe-Flash-Player-AppImage
+ SITE: https://github.com/pkgforge-dev/Adobe-Flash-Player-AppImage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -10,7 +10,7 @@
  
  SITE: https://megaglest.org
  
- SOURCE: https://github.com/MegaGlest/megaglest-source
+ SITE: https://github.com/MegaGlest/megaglest-source
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

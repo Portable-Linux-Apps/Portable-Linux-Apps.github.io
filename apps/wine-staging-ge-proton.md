@@ -19,7 +19,7 @@
  
  SITE: https://www.winehq.org
 
- SOURCE: https://github.com/mmtrt/WINE_AppImage
+ SITE: https://github.com/mmtrt/WINE_AppImage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -12,7 +12,7 @@
  
  SITE: https://www.skype.com
 
- SOURCE: https://github.com/ivan-hc/Skype-appimage
+ SITE: https://github.com/ivan-hc/Skype-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -4,7 +4,7 @@
 
  SITE: https://www.gitkraken.com/
 
- SOURCE: https://github.com/mmtrt/gitkraken_AppImage
+ SITE: https://github.com/mmtrt/gitkraken_AppImage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

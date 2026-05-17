@@ -4,7 +4,7 @@
  
  SITE: https://davidotek.github.io/protonup-qt
 
- SOURCE: https://github.com/DavidoTek/ProtonUp-Qt
+ SITE: https://github.com/DavidoTek/ProtonUp-Qt
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -10,7 +10,7 @@
  
  SITE: https://www.chromium.org
  
- SOURCE: https://github.com/ivan-hc/Chromium-Web-Browser-appimage
+ SITE: https://github.com/ivan-hc/Chromium-Web-Browser-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

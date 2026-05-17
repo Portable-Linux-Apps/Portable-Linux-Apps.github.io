@@ -12,7 +12,7 @@
  
  SITE: https://brave.com
  
- SOURCE: https://github.com/brave/brave-browser
+ SITE: https://github.com/brave/brave-browser
  
  APPIMAGE: https://github.com/ivan-hc/Brave-appimage
  

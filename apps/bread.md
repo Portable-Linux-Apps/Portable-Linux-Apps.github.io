@@ -4,7 +4,7 @@
  
  SITE: pegvin.github.io/bread
 
- SOURCE: https://github.com/pegvin/bread
+ SITE: https://github.com/pegvin/bread
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

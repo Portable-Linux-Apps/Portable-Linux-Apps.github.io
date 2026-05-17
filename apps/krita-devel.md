@@ -12,7 +12,7 @@
  
  SITE: https://krita.org
  
- SOURCE: https://cdn.kde.org/ci-builds/graphics/krita/master/linux
+ SITE: https://cdn.kde.org/ci-builds/graphics/krita/master/linux
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

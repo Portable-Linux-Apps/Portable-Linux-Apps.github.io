@@ -4,7 +4,7 @@
 
  SITE: https://nym.com
  
- SOURCE: https://github.com/nymtech/nym-vpn-client
+ SITE: https://github.com/nymtech/nym-vpn-client
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -15,7 +15,7 @@
  
  SITE: https://www.openshot.org
 
- SOURCE: https://github.com/OpenShot/openshot-qt
+ SITE: https://github.com/OpenShot/openshot-qt
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

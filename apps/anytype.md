@@ -6,7 +6,7 @@
 
  SITE: https://anytype.io
  
- SOURCE: https://github.com/anyproto/anytype-ts
+ SITE: https://github.com/anyproto/anytype-ts
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

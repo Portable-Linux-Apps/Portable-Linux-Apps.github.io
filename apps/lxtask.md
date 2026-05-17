@@ -4,7 +4,7 @@
  
  SITE: https://www.lxde.org
 
- SOURCE: https://github.com/ivan-hc/lxtask-appimage
+ SITE: https://github.com/ivan-hc/lxtask-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

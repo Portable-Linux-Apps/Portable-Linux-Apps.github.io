@@ -6,7 +6,7 @@
  
  SITE: https://calibre-ebook.com/
 
- SOURCE: https://github.com/kovidgoyal/calibre
+ SITE: https://github.com/kovidgoyal/calibre
 
  APPIMAGE: https://github.com/ivan-hc/Calibre-appimage
 

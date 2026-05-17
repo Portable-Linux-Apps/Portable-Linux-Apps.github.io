@@ -13,7 +13,7 @@
 
  SITE: https://proxyman.io
  
- SOURCE: https://github.com/ProxymanApp/proxyman-windows-linux
+ SITE: https://github.com/ProxymanApp/proxyman-windows-linux
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

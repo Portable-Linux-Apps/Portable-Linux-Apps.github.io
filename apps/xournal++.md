@@ -6,7 +6,7 @@
  
  SITE: https://xournalpp.github.io
 
- SOURCE: https://github.com/xournalpp/xournalpp
+ SITE: https://github.com/xournalpp/xournalpp
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

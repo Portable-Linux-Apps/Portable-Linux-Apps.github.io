@@ -6,7 +6,7 @@
 
  SITE: https://xplorer.space/
  
- SOURCE: https://github.com/kimlimjustin/xplorer
+ SITE: https://github.com/kimlimjustin/xplorer
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

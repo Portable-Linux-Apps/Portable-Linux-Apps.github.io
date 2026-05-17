@@ -2,7 +2,7 @@
 
  A modern, privacy-focused browser with a minimalistic design.
 
- SITE/SOURCE: https://github.com/MultiboxLabs/flow-browser
+ SITE: https://github.com/MultiboxLabs/flow-browser
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

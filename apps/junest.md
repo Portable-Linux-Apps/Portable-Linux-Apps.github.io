@@ -24,7 +24,7 @@
  
  For more info go to the main page of the repository of Junest, on GitHub.
  
- SITE & SOURCE: https://github.com/fsquillace/junest
+ SITE & SITE: https://github.com/fsquillace/junest
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

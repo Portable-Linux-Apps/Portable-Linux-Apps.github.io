@@ -6,7 +6,7 @@
  
  SITE: https://tutanota.com
  
- SOURCE: https://github.com/tutao/tutanota
+ SITE: https://github.com/tutao/tutanota
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -15,7 +15,7 @@
  
  DOCUMENTATION: https://develop.kde.org/docs/administration/kdialog
 
- SOURCE: https://github.com/ivan-hc/KDE-utils-appimage
+ SITE: https://github.com/ivan-hc/KDE-utils-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

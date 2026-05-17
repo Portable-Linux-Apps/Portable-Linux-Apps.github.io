@@ -8,7 +8,7 @@
  
  SITE: https://desktop.telegram.org
 
- SOURCE: https://github.com/telegramdesktop/tdesktop
+ SITE: https://github.com/telegramdesktop/tdesktop
 
  APPIMAGE: https://github.com/Portable-Linux-Apps/Telegram-AppImage
 

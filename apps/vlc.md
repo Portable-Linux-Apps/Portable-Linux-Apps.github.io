@@ -8,7 +8,7 @@
  
  SITE: https://www.videolan.org
 
- SOURCE: https://archlinux.org/packages/extra/x86_64/vlc
+ SITE: https://archlinux.org/packages/extra/x86_64/vlc
  
  APPIMAGE: https://github.com/ivan-hc/VLC-appimage
 
