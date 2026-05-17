@@ -123,9 +123,16 @@
 ### Quick installation
 
 *Copy/paste the following one line command to download and run the "[AM-INSTALLER](https://github.com/ivan-hc/AM/blob/main/AM-INSTALLER)" script*
+
+*Using `wget`:*
 ```
 wget -q https://raw.githubusercontent.com/ivan-hc/AM/main/AM-INSTALLER && chmod a+x ./AM-INSTALLER && ./AM-INSTALLER
 ```
+*or using `curl`*
+```
+curl -s -Lo ./AM-INSTALLER https://raw.githubusercontent.com/ivan-hc/AM/main/AM-INSTALLER && chmod a+x ./AM-INSTALLER && ./AM-INSTALLER && rm ./AM-INSTALLER
+```
+
 *...below, the screenshot of what will appear.*
 
 | <img width="747" height="600" alt="installer" src="https://github.com/user-attachments/assets/f8a153e8-d410-4a7e-9e5c-b48e686547ee" /> |
