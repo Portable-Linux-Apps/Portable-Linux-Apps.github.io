@@ -86,7 +86,7 @@ jobs:
                   
                   echo "# $APP" > apps/"$a".md
                   printf "\n$DESCRIPTION\n" >> apps/"$a".md
-                  printf "\n SITE/SOURCE: $SITE\n\n" >> apps/"$a".md
+                  printf "\n SITE: $SITE\n\n" >> apps/"$a".md
                   printf " | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)\n | --- | --- |" >> apps/"$a".md
 
                   echo "Adding apps/$a.md"
