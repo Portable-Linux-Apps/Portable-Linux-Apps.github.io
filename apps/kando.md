@@ -8,7 +8,7 @@
  
  If you have both hands at your keyboard most of the time, Kando is maybe  not the right tool for you.
  
- ![image](https://raw.githubusercontent.com/kando-menu/kando/main/docs/img/kando.gif)
+ ![GIF](https://raw.githubusercontent.com/kando-menu/kando/main/docs/img/kando.gif)
 
  SITE: https://github.com/kando-menu/kando
 

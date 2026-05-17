@@ -4,7 +4,7 @@
  
  一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
  
- ![image](https://raw.githubusercontent.com/ChatGPTNextWeb/ChatGPT-Next-Web/main/docs/images/cover.png)
+ ![Screenshot](https://raw.githubusercontent.com/ChatGPTNextWeb/ChatGPT-Next-Web/main/docs/images/cover.png)
 
  SITE: https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web
 

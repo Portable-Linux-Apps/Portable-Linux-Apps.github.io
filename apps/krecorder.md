@@ -4,7 +4,7 @@
 
  This tool is part of the KDE Utils Suite.
 
- ![image](https://plasma-mobile.org/2022/11/30/plasma-mobile-gear-22-11/krecorder-3.png)
+ ![Screenshot](https://plasma-mobile.org/2022/11/30/plasma-mobile-gear-22-11/krecorder-3.png)
 
  SITE: https://apps.kde.org
 

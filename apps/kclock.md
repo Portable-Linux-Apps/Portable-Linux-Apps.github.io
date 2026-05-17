@@ -10,7 +10,7 @@
 
  This tool is part of the KDE Utils Suite.
 
- ![image](https://cdn.kde.org/screenshots/kclock/kclock-desktop-timer.png)
+ ![Screenshot](https://cdn.kde.org/screenshots/kclock/kclock-desktop-timer.png)
 
  SITE: https://apps.kde.org
 

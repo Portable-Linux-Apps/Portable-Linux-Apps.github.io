@@ -4,7 +4,7 @@
 
  The installer automatically sets up Wine (a compatibility layer for running Windows applications) with all necessary configurations, dependencies, and optimizations.
 
- <img width="1275" height="1323" alt="Affinity Linux Installer" src="https://github.com/user-attachments/assets/b04e7307-ed95-484d-931a-713aadfe6c47" />
+![Screenshot](https://github.com/user-attachments/assets/b04e7307-ed95-484d-931a-713aadfe6c47)
 
  SITE: https://www.affinity.studio/
  

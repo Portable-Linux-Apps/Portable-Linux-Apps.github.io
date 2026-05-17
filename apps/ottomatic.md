@@ -6,7 +6,7 @@
  
  Your mission will take you to strange and fantastic alien worlds which are  often treacherous and will require Otto to perform amazing feats.
  
- ![screenshot](https://raw.githubusercontent.com/jorio/OttoMatic/master/docs/screenshot.webp)
+ ![Screenshot](https://raw.githubusercontent.com/jorio/OttoMatic/master/docs/screenshot.webp)
 
  SITE: https://pangeasoft.net/otto
 

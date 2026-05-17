@@ -2,7 +2,7 @@
 
  The world's most popular non-default computer lockscreen.
 
- ![image](https://raw.githubusercontent.com/Raymo111/i3lock-color/master/examples/screenshot.png)
+ ![Screenshot](https://raw.githubusercontent.com/Raymo111/i3lock-color/master/examples/screenshot.png)
 
  SITE: https://github.com/Raymo111/i3lock-color
 

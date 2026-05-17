@@ -2,7 +2,7 @@
 
  3D astronomy and space exploration program.
  
- ![image](https://raw.githubusercontent.com/wiki/cosmonium/cosmonium/screenshots/Io%2BJupiter.png)
+ ![Screenshot](https://raw.githubusercontent.com/wiki/cosmonium/cosmonium/screenshots/Io%2BJupiter.png)
 
  SITE: https://github.com/cosmonium/cosmonium
 

@@ -4,7 +4,7 @@
  
  For a version without the KVM support, see "chimeradesk".
  
- ![Screenshot](https://raw.githubusercontent.com/morrolinux/ChimeraDesk/main/media/ChimeraDesk_demo.gif)
+ ![GIF](https://raw.githubusercontent.com/morrolinux/ChimeraDesk/main/media/ChimeraDesk_demo.gif)
  
  SITE: https://github.com/morrolinux/ChimeraDesk
 

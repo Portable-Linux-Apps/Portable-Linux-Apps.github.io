@@ -4,7 +4,7 @@
  
  This is the official AppImage.
  
- <img width="1050" height="599" alt="Istantanea_2026-02-12_06-56-00" src="https://github.com/user-attachments/assets/5a91001d-5c56-46e7-a33e-843fcf268248" />
+![Screenshot](https://github.com/user-attachments/assets/5a91001d-5c56-46e7-a33e-843fcf268248)
 
  SITE: https://play0ad.com
 

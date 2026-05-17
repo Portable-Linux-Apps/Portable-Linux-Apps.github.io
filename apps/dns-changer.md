@@ -2,7 +2,7 @@
 
  An open-source DNS Changer app.
 
- SITE/SOURCE: https://github.com/DnsChanger/dnsChanger-desktop
+ SITE: https://github.com/DnsChanger/dnsChanger-desktop
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -2,7 +2,7 @@
 
  Electron-based GitHub Desktop fork with advanced functionality and Bitbucket, GitLab integration.
 
-<img src="https://github.com/pol-rivero/github-desktop-plus/blob/main/docs/assets/github-desktop-plus-demo.webp" alt="Demo" style="max-width:1000px;">
+![Screenshot](https://github.com/pol-rivero/github-desktop-plus/blob/main/docs/assets/github-desktop-plus-demo.webp)
 
  SITE: https://github.com/pol-rivero/github-desktop-plus
 

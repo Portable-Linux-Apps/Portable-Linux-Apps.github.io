@@ -4,7 +4,7 @@
  
  This means you automatically get different passwords for each  account and there is no password file that can be lost or get  stolen. There is also no need to trust any online password  service.
  
- ![image](https://github.com/bkueng/qMasterPassword/blob/main/screenshots/main_window.png)
+ ![Screenshot](https://github.com/bkueng/qMasterPassword/blob/main/screenshots/main_window.png)
 
  SITE: https://github.com/bkueng/qMasterPassword
 

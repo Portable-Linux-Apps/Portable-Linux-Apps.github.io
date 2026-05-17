@@ -4,7 +4,7 @@
 
  This tool is part of the KDE Utils Suite.
 
- ![image](https://cdn.kde.org/screenshots/skanpage/skanpage.png)
+ ![Screenshot](https://cdn.kde.org/screenshots/skanpage/skanpage.png)
 
  SITE: https://apps.kde.org
 
