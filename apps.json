@@ -14985,11 +14985,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/webcamoid.png"
   },
   {
-    "packageName": "webcatalog",
-    "description": "App store for web apps. Find the right software and services...",
-    "icon": "https://portable-linux-apps.github.io/icons/webcatalog.png"
-  },
-  {
     "packageName": "webcord",
     "description": "A Discord and Fosscord client implemented without Discord API...",
     "icon": "https://portable-linux-apps.github.io/icons/webcord.png"
