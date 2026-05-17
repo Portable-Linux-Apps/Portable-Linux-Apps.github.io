@@ -4,7 +4,7 @@
  
  SITE: https://privacy.sexy
 
- SITE: https://github.com/undergroundwires/privacy.sexy
+ SOURCE: https://github.com/undergroundwires/privacy.sexy
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

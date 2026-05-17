@@ -8,7 +8,7 @@
  
  SITE: https://zoom.us
 
- SITE: https://github.com/probonopd/Zoom.AppImage
+ SOURCE: https://github.com/probonopd/Zoom.AppImage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -13,7 +13,7 @@
  
  SITE: https://apps.kde.org
 
- SITE: https://github.com/ivan-hc/KDE-games-suite-appimage
+ SOURCE: https://github.com/ivan-hc/KDE-games-suite-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

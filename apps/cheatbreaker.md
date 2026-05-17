@@ -4,7 +4,7 @@
 
  SITE: https://cheatbreaker.net
 
- SITE: https://github.com/CheatBreakerNet/Launcher
+ SOURCE: https://github.com/CheatBreakerNet/Launcher
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

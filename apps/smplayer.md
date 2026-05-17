@@ -4,7 +4,7 @@
  
  SITE: https://www.smplayer.info
 
- SITE: https://github.com/smplayer-dev/smplayer
+ SOURCE: https://github.com/smplayer-dev/smplayer
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

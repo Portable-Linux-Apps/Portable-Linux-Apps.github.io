@@ -6,7 +6,7 @@
  
  SITE: http://wxmedit.github.io
 
- SITE: https://github.com/VinnyVynce/wxMEdit.AppImage
+ SOURCE: https://github.com/VinnyVynce/wxMEdit.AppImage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

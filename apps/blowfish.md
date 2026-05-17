@@ -4,7 +4,7 @@
  
  SITE: https://getblow.fish
 
- SITE: https://github.com/kremalicious/blowfish
+ SOURCE: https://github.com/kremalicious/blowfish
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

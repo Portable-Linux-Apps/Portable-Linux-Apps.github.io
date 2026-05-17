@@ -10,7 +10,7 @@
  
  SITE: https://zap.srev.in
 
- SITE: https://github.com/srevinsaju/zap
+ SOURCE: https://github.com/srevinsaju/zap
  
  APPIMAGE CATALOG AT: https://appimage.github.io
  APPIMAGE CATALOG "v2" AT: https://g.srev.in/get-appimage

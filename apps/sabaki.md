@@ -4,7 +4,7 @@
  
  SITE: https://sabaki.yichuanshen.de
 
- SITE: https://github.com/SabakiHQ/Sabaki
+ SOURCE: https://github.com/SabakiHQ/Sabaki
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

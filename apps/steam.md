@@ -18,7 +18,7 @@
 
  SITE: https://store.steampowered.com
 
- SITE: https://github.com/ivan-hc/Steam-appimage
+ SOURCE: https://github.com/ivan-hc/Steam-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

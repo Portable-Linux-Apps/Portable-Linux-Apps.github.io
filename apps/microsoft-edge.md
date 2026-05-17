@@ -4,7 +4,7 @@
   
  SITE: https://www.microsoft.com
 
- SITE: https://packages.microsoft.com
+ SOURCE: https://packages.microsoft.com
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

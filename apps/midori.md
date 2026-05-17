@@ -6,7 +6,7 @@
 
  SITE: https://astian.org
 
- SITE: https://github.com/goastian/midori-desktop
+ SOURCE: https://github.com/goastian/midori-desktop
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -7,7 +7,7 @@
 
  SITE: https://freetubeapp.io
  
- SITE: https://github.com/FreeTubeApp/FreeTube
+ SOURCE: https://github.com/FreeTubeApp/FreeTube
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

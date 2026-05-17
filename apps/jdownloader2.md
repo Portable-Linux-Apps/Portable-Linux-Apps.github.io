@@ -10,7 +10,7 @@ JDownloader is a free, open-source download management tool with a huge communit
 
  SITE: https://jdownloader.org/
  
- SITE: https://github.com/Shikakiben/JDownloader2-AppImage
+ SOURCE: https://github.com/Shikakiben/JDownloader2-AppImage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

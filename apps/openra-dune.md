@@ -6,7 +6,7 @@
  
  SITE: https://www.openra.net/
  
- SITE: https://github.com/OpenRA/OpenRA
+ SOURCE: https://github.com/OpenRA/OpenRA
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

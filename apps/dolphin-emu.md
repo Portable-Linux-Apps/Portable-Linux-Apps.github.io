@@ -6,7 +6,7 @@
  
  SITE: https://dolphin-emu.org/
 
- SITE: https://github.com/dolphin-emu/dolphin
+ SOURCE: https://github.com/dolphin-emu/dolphin
 
  APPIMAGE: https://github.com/pkgforge-dev/Dolphin-emu-AppImage
  

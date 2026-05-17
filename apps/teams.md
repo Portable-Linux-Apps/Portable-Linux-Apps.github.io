@@ -10,7 +10,7 @@
  
  SITE: https://teams.com
 
- SITE: https://github.com/IsmaelMartinez/teams-for-linux
+ SOURCE: https://github.com/IsmaelMartinez/teams-for-linux
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

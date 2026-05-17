@@ -27,7 +27,7 @@
  Learn more on the main repository of the project.
  
 
- SITE: https://github.com/sudo-give-me-coffee/wine32-deploy
+ SOURCE: https://github.com/sudo-give-me-coffee/wine32-deploy
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

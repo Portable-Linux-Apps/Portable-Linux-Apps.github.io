@@ -4,7 +4,7 @@
  
  SITE: https://getpublii.com
 
- SITE: https://github.com/GetPublii/Publii
+ SOURCE: https://github.com/GetPublii/Publii
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

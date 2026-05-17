@@ -8,7 +8,7 @@
  
  SITE: https://www.opera.com
 
- SITE: https://github.com/ivan-hc/Opera-appimage
+ SOURCE: https://github.com/ivan-hc/Opera-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

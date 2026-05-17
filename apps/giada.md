@@ -4,6 +4,6 @@
  
  SITE: https://www.giadamusic.com/
 
- SITE: https://github.com/monocasual/giada
+ SOURCE: https://github.com/monocasual/giada
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

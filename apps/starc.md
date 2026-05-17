@@ -4,7 +4,7 @@
  
  SITE: https://starc.app
 
- SITE: https://github.com/story-apps/starc
+ SOURCE: https://github.com/story-apps/starc
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

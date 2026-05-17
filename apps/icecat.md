@@ -8,7 +8,7 @@
  
  SITE: https://www.gnu.org/software/gnuzilla
  
- SITE: https://icecatbrowser.org
+ SOURCE: https://icecatbrowser.org
 
  APPIMAGE: https://github.com/Portable-Linux-Apps/IceCat-AppImage
 

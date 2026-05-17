@@ -6,7 +6,7 @@
  
  SITE: https://www.shotcut.org
 
- SITE: https://github.com/mltframework/shotcut
+ SOURCE: https://github.com/mltframework/shotcut
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

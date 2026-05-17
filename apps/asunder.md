@@ -8,7 +8,7 @@
  
  SITE: http://littlesvr.ca/asunder
 
- SITE: https://github.com/ivan-hc/asunder-appimage
+ SOURCE: https://github.com/ivan-hc/asunder-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

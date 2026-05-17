@@ -8,7 +8,7 @@ sView is a cross-platform solution to view 3D stereoscopic videos and images.
 
  SITE: https://www.sview.ru
  
- SITE: https://github.com/pkgforge-dev/sView-AppImage
+ SOURCE: https://github.com/pkgforge-dev/sView-AppImage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

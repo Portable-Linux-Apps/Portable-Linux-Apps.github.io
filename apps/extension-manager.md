@@ -20,7 +20,7 @@ If there's something you'd like to see, contributions are welcome!
 
  SITE:https://github.com/mjakeman/extension-manager
  
- SITE: https://github.com/pkgforge-dev/Extension-Manager-AppImage
+ SOURCE: https://github.com/pkgforge-dev/Extension-Manager-AppImage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -6,7 +6,7 @@
  
  SITE: https://runelite.net/
  
- SITE: https://github.com/runelite/launcher
+ SOURCE: https://github.com/runelite/launcher
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

@@ -7,7 +7,7 @@
  
  SITE: https://apps.kde.org
  
- SITE: https://archlinux.org/packages/extra/any/kde-games-meta
+ SOURCE: https://archlinux.org/packages/extra/any/kde-games-meta
 
  APPIMAGE: https://github.com/ivan-hc/KDE-games-suite-appimage
 

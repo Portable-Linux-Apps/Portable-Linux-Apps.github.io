@@ -4,7 +4,7 @@
  
  SITE: https://godotengine.org/
 
- SITE: https://github.com/godotengine/godot
+ SOURCE: https://github.com/godotengine/godot
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

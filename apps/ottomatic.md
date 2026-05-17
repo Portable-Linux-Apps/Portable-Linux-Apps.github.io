@@ -10,7 +10,7 @@
 
  SITE: https://pangeasoft.net/otto
 
- SITE: https://github.com/jorio/OttoMatic
+ SOURCE: https://github.com/jorio/OttoMatic
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

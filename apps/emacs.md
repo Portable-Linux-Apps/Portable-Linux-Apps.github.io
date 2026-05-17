@@ -7,7 +7,7 @@
 
  SITE: https://www.gnu.org/software/emacs
 
- SITE: https://github.com/ivan-hc/Emacs-appimage
+ SOURCE: https://github.com/ivan-hc/Emacs-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

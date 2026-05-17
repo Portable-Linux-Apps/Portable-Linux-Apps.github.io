@@ -19,7 +19,7 @@ Pika Backup is designed to save your personal data and does not support complete
  SITE: https://apps.gnome.org/en/PikaBackup/
  
  
- SITE: https://github.com/Shikakiben/pika-backup-AppImage
+ SOURCE: https://github.com/Shikakiben/pika-backup-AppImage
  
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)

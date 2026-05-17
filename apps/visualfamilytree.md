@@ -4,7 +4,7 @@
 
  SITE: https://visualfamilytree.jisco.me
 
- SITE: https://github.com/Jisco/VisualFamilyTree
+ SOURCE: https://github.com/Jisco/VisualFamilyTree
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

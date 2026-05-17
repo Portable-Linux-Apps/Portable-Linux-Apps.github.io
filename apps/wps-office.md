@@ -6,7 +6,7 @@
 
  SITE: https://www.wps.com
 
- SITE: https://github.com/ivan-hc/WPS-Office-appimage
+ SOURCE: https://github.com/ivan-hc/WPS-Office-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

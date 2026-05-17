@@ -11,7 +11,7 @@
 
  SITE: https://usebottles.com
 
- SITE: https://github.com/bottlesdevs/Bottles
+ SOURCE: https://github.com/bottlesdevs/Bottles
  
  UNOFFICIAL APPIMAGE: https://github.com/ivan-hc/Bottles-appimage
 

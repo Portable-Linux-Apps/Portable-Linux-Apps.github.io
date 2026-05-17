@@ -6,7 +6,7 @@
  
  SITE: https://wezfurlong.org/wezterm
 
- SITE: https://github.com/wez/wezterm
+ SOURCE: https://github.com/wez/wezterm
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

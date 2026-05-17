@@ -4,7 +4,7 @@
 
  SITE: https://www.postybirb-plus.com/
 
- SITE: https://github.com/mvdicarlo/postybirb-plus
+ SOURCE: https://github.com/mvdicarlo/postybirb-plus
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

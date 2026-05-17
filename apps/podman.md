@@ -6,7 +6,7 @@
 
  SITE: https://podman.io
 
- SITE: https://github.com/containers/podman
+ SOURCE: https://github.com/containers/podman
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

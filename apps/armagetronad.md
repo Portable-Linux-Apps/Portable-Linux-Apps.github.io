@@ -10,7 +10,7 @@
   
  SITE: http://www.armagetronad.org
  
- SITE: https://github.com/ArmagetronAd/armagetronad
+ SOURCE: https://github.com/ArmagetronAd/armagetronad
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

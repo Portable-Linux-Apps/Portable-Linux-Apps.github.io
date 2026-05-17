@@ -4,7 +4,7 @@
 
  SITE: https://monokle.io
 
- SITE: https://github.com/kubeshop/monokle
+ SOURCE: https://github.com/kubeshop/monokle
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

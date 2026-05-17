@@ -4,7 +4,7 @@
  
  SITE: https://github.com/Diolinux/PhotoGIMP
 
- SITE: https://github.com/sudo-give-me-coffee/PhotoMP
+ SOURCE: https://github.com/sudo-give-me-coffee/PhotoMP
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

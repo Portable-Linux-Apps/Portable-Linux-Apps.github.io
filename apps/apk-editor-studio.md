@@ -6,7 +6,7 @@
  
  SITE: https://qwertycube.com/apk-editor-studio
 
- SITE: https://github.com/kefir500/apk-editor-studio
+ SOURCE: https://github.com/kefir500/apk-editor-studio
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

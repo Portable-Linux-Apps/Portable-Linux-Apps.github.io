@@ -8,7 +8,7 @@
  
  SITE: https://olivevideoeditor.org
 
- SITE: https://github.com/olive-editor/olive
+ SOURCE: https://github.com/olive-editor/olive
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
