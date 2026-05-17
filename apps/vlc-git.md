@@ -13,7 +13,7 @@
  
  SITE: https://www.videolan.org
 
- SOURCE: https://aur.archlinux.org/packages/vlc-git
+ SOURCES: https://aur.archlinux.org/packages/vlc-git https://aur.chaotic.cx/
  
  APPIMAGE: https://github.com/ivan-hc/VLC-appimage
 
