@@ -9,7 +9,7 @@
  - Graceful handling when ClamAV is not installed
  - Modern Adwaita styling with proper GNOME integration
  
- <a href="https://github.com/linx-systems/clamui/blob/master/screenshots/main_view.png"><img src="https://github.com/linx-systems/clamui/blob/master/screenshots/main_view.png" alt="" width="800px"></a>
+ ![Screenshot](https://github.com/linx-systems/clamui/blob/master/screenshots/main_view.png)
 
  SITE: https://github.com/linx-systems/clamui
 
