@@ -9945,6 +9945,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/palapeli.png"
   },
   {
+    "packageName": "palemoon",
+    "description": "Unofficial. Pale Moon is a fully-independent web browser built on its own maintained platform and rendering engine (Goanna), focusing on user customization...",
+    "icon": "https://portable-linux-apps.github.io/icons/palemoon.png"
+  },
+  {
+    "packageName": "palemoon-legacy",
+    "description": "Unofficial. Pale Moon is a fully-independent web browser built on its own maintained platform and rendering engine (Goanna), focusing on user customization. This is the GTK2 implementation...",
+    "icon": "https://portable-linux-apps.github.io/icons/palemoon-legacy.png"
+  },
+  {
     "packageName": "pandoralauncher",
     "description": "Pandora is a modern Minecraft launcher that balances ease-of-use with powerful instance management features...",
     "icon": "https://portable-linux-apps.github.io/icons/pandoralauncher.png"
