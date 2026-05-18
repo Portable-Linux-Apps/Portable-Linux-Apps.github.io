@@ -9405,6 +9405,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/omekasy.png"
   },
   {
+    "packageName": "omikuji",
+    "description": "Qt/QML based game launcher for Linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/omikuji.png"
+  },
+  {
     "packageName": "ommpfritt",
     "description": "Semantic, procedural, non-destructive vector modelling...",
     "icon": "https://portable-linux-apps.github.io/icons/ommpfritt.png"

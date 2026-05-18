@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **331** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **332** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -249,6 +249,7 @@
 | <img loading="lazy" src="icons/nyrna.png" width="48" height="48"> | [***nyrna***](apps/nyrna.md) | *Suspend games and applications.*..[ *read more* ](apps/nyrna.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nyrna) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nyrna) |
 | <img loading="lazy" src="icons/obliqoro.png" width="48" height="48"> | [***obliqoro***](apps/obliqoro.md) | *A cross-platform tauri gui where Oblique Strategies meets Pomodoro.*..[ *read more* ](apps/obliqoro.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/obliqoro) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/obliqoro) |
 | <img loading="lazy" src="icons/odamex.png" width="48" height="48"> | [***odamex***](apps/odamex.md) | *Unofficial, Online Multiplayer Doom port with a strong focus on the original gameplay while providing a breadth of enhancements.*..[ *read more* ](apps/odamex.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/odamex) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/odamex) |
+| <img loading="lazy" src="icons/omikuji.png" width="48" height="48"> | [***omikuji***](apps/omikuji.md) | *Qt/QML based game launcher for Linux.*..[ *read more* ](apps/omikuji.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/omikuji) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/omikuji) |
 | <img loading="lazy" src="icons/openarena.png" width="48" height="48"> | [***openarena***](apps/openarena.md) | *Violent & sexy, multiplayer first person shooter game, ioquake3.*..[ *read more* ](apps/openarena.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openarena) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openarena) |
 | <img loading="lazy" src="icons/openblok.png" width="48" height="48"> | [***openblok***](apps/openblok.md) | *A customizable falling block puzzle game like tetris.*..[ *read more* ](apps/openblok.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openblok) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openblok) |
 | <img loading="lazy" src="icons/openhv.png" width="48" height="48"> | [***openhv***](apps/openhv.md) | *A mod for OpenRA based on the Hard Vacuum, game.*..[ *read more* ](apps/openhv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openhv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openhv) |
