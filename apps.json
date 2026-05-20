@@ -13195,11 +13195,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/strawberry.png"
   },
   {
-    "packageName": "streamcapture2",
-    "description": "Download video streams...",
-    "icon": "https://portable-linux-apps.github.io/icons/streamcapture2.png"
-  },
-  {
     "packageName": "streamdock",
     "description": "Streaming service viewer...",
     "icon": "https://portable-linux-apps.github.io/icons/streamdock.png"

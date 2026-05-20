@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **186** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **185** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -161,7 +161,6 @@
 | <img loading="lazy" src="icons/spotify.png" width="48" height="48"> | [***spotify***](apps/spotify.md) | *Unofficial. A proprietary music streaming service.*..[ *read more* ](apps/spotify.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify) |
 | <img loading="lazy" src="icons/spotify-candidate.png" width="48" height="48"> | [***spotify-candidate***](apps/spotify-candidate.md) | *Unofficial. A proprietary music streaming service.*..[ *read more* ](apps/spotify-candidate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify-candidate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify-candidate) |
 | <img loading="lazy" src="icons/spotify-edge.png" width="48" height="48"> | [***spotify-edge***](apps/spotify-edge.md) | *Unofficial. A proprietary music streaming service.*..[ *read more* ](apps/spotify-edge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify-edge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify-edge) |
-| <img loading="lazy" src="icons/streamcapture2.png" width="48" height="48"> | [***streamcapture2***](apps/streamcapture2.md) | *Download video streams.*..[ *read more* ](apps/streamcapture2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/streamcapture2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/streamcapture2) |
 | <img loading="lazy" src="icons/streamdock.png" width="48" height="48"> | [***streamdock***](apps/streamdock.md) | *Streaming service viewer.*..[ *read more* ](apps/streamdock.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/streamdock) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/streamdock) |
 | <img loading="lazy" src="icons/streamlink.png" width="48" height="48"> | [***streamlink***](apps/streamlink.md) | *Command-line which pipes video streams from various services.*..[ *read more* ](apps/streamlink.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/streamlink) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/streamlink) |
 | <img loading="lazy" src="icons/streamlink-twitch-gui.png" width="48" height="48"> | [***streamlink-twitch-gui***](apps/streamlink-twitch-gui.md) | *A multi platform Twitch.tv browser for Streamlink.*..[ *read more* ](apps/streamlink-twitch-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/streamlink-twitch-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/streamlink-twitch-gui) |
