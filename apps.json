@@ -5415,11 +5415,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/godot.png"
   },
   {
-    "packageName": "godot-appimage",
-    "description": "Unofficial, Advanced cross-platform 2D and 3D game engine..",
-    "icon": "https://portable-linux-apps.github.io/icons/godot-appimage.png"
-  },
-  {
     "packageName": "gojq",
     "description": "Pure Go implementation of jq...",
     "icon": "https://portable-linux-apps.github.io/icons/gojq.png"
@@ -14303,11 +14298,6 @@
     "packageName": "uad-ng",
     "description": "GUI Rust wrapper for ADB to debloat non-rooted Android devices...",
     "icon": "https://portable-linux-apps.github.io/icons/uad-ng.png"
-  },
-  {
-    "packageName": "uad-ng-appimage",
-    "description": "Unofficial, GUI Rust wrapper for ADB to debloat non-rooted Android devices...",
-    "icon": "https://portable-linux-apps.github.io/icons/uad-ng-appimage.png"
   },
   {
     "packageName": "ubiquity",

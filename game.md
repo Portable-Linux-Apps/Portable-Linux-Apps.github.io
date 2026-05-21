@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **332** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **331** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -141,7 +141,6 @@
 | <img loading="lazy" src="icons/gm-companion.png" width="48" height="48"> | [***gm-companion***](apps/gm-companion.md) | *A tool for rpg gamemasters.*..[ *read more* ](apps/gm-companion.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gm-companion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gm-companion) |
 | <img loading="lazy" src="icons/gnu-freedink.png" width="48" height="48"> | [***gnu-freedink***](apps/gnu-freedink.md) | *Unofficial, a portable and enhanced version of the Dink Smallwood game engine.*..[ *read more* ](apps/gnu-freedink.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnu-freedink) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnu-freedink) |
 | <img loading="lazy" src="icons/godot.png" width="48" height="48"> | [***godot***](apps/godot.md) | *Multi-platform 2D and 3D game engine with a feature-rich editor.*..[ *read more* ](apps/godot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/godot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/godot) |
-| <img loading="lazy" src="icons/godot-appimage.png" width="48" height="48"> | [***godot-appimage***](apps/godot-appimage.md) | *Unofficial, Advanced cross-platform 2D and 3D game engine*..[ *read more* ](apps/godot-appimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/godot-appimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/godot-appimage) |
 | <img loading="lazy" src="icons/granatier.png" width="48" height="48"> | [***granatier***](apps/granatier.md) | *Bomberman clone. This script installs the full "kdegames" suite.*..[ *read more* ](apps/granatier.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/granatier) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/granatier) |
 | <img loading="lazy" src="icons/greenlight.png" width="48" height="48"> | [***greenlight***](apps/greenlight.md) | *Client for xCloud and Xbox home streaming made in Typescript.*..[ *read more* ](apps/greenlight.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/greenlight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/greenlight) |
 | <img loading="lazy" src="icons/hades-emu.png" width="48" height="48"> | [***hades-emu***](apps/hades-emu.md) | *A Nintendo Game Boy Advance Emulator.*..[ *read more* ](apps/hades-emu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hades-emu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hades-emu) |
