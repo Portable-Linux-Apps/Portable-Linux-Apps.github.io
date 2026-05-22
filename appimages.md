@@ -8,7 +8,7 @@ layout: category
 
 #### Here are listed the **2637** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
-*Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
+*Use the search box at the top of the page to filter Appimages, or jump to a category using the tags below.*
 
 
 | [Back to Applications](apps.md) |
