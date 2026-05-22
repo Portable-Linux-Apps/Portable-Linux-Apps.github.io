@@ -169,27 +169,3 @@ layout: category
 | <img loading="lazy" src="icons/windusb-gui.png" width="48" height="48"> | [***windusb-gui***](apps/windusb-gui.md) | *A modern, Rust-based graphical tool for creating bootable Windows USB installers on Linux.*..[ *read more* ](apps/windusb-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/windusb-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/windusb-gui) |
 | <img loading="lazy" src="icons/wonderwall.png" width="48" height="48"> | [***wonderwall***](apps/wonderwall.md) | *Wallpaper manager for Linux.*..[ *read more* ](apps/wonderwall.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wonderwall) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wonderwall) |
 | <img loading="lazy" src="icons/xnviewmp.png" width="48" height="48"> | [***xnviewmp***](apps/xnviewmp.md) | *Graphic viewer, browser, converter.*..[ *read more* ](apps/xnviewmp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xnviewmp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xnviewmp) |
-
-
----
-
-You can improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) 	to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io),  	or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM/issues)' 	section of the main database, at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM).
-
-***PORTABLE-LINUX-APPS.github.io is my gift to the Linux community and was made with love for GNU/Linux and the Open Source philosophy.***
-
----
-
-| [Back to Home](index.md) | [Back to Applications](apps.md)
-| --- | --- |
-
---------
-
-# Contacts
-- **Ivan-HC** *on* [**GitHub**](https://github.com/ivan-hc)
-- **AM-Ivan** *on* [**Reddit**](https://www.reddit.com/u/am-ivan)
-
-###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and 	[**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
-
---------
-
-*© 2020-present Ivan Alessandro Sala aka 'Ivan-HC'* - I'm here just for fun!

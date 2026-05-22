@@ -115,27 +115,3 @@ layout: category
 | <img loading="lazy" src="icons/sweeper.png" width="48" height="48"> | [***sweeper***](apps/sweeper.md) | *Unofficial. System Cleaner. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/sweeper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sweeper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sweeper) |
 | <img loading="lazy" src="icons/telly-skout.png" width="48" height="48"> | [***telly-skout***](apps/telly-skout.md) | *A convergent Kirigami TV guide. This script installs the full "kdeutils" suite.*..[ *read more* ](apps/telly-skout.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/telly-skout) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/telly-skout) |
 | <img loading="lazy" src="icons/xapkdetector.png" width="48" height="48"> | [***xapkdetector***](apps/xapkdetector.md) | *APK/DEX detector that shows an information about build tools, libraries and protection of APK/DEX files.*..[ *read more* ](apps/xapkdetector.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xapkdetector) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xapkdetector) |
-
-
----
-
-You can improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) 	to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io),  	or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM/issues)' 	section of the main database, at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM).
-
-***PORTABLE-LINUX-APPS.github.io is my gift to the Linux community and was made with love for GNU/Linux and the Open Source philosophy.***
-
----
-
-| [Back to Home](index.md) | [Back to Applications](apps.md)
-| --- | --- |
-
---------
-
-# Contacts
-- **Ivan-HC** *on* [**GitHub**](https://github.com/ivan-hc)
-- **AM-Ivan** *on* [**Reddit**](https://www.reddit.com/u/am-ivan)
-
-###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and 	[**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
-
---------
-
-*© 2020-present Ivan Alessandro Sala aka 'Ivan-HC'* - I'm here just for fun!

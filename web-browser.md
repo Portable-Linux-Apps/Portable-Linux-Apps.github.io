@@ -98,27 +98,3 @@ layout: category
 | <img loading="lazy" src="icons/waterfox.png" width="48" height="48"> | [***waterfox***](apps/waterfox.md) | *A privacy-focused web browser engineered to give you speed, control, and peace of mind on the internet.*..[ *read more* ](apps/waterfox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/waterfox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/waterfox) |
 | <img loading="lazy" src="icons/wexond.png" width="48" height="48"> | [***wexond***](apps/wexond.md) | *Extensible, fast and innovative web browser with material UI.*..[ *read more* ](apps/wexond.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wexond) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wexond) |
 | <img loading="lazy" src="icons/zen-browser.png" width="48" height="48"> | [***zen-browser***](apps/zen-browser.md) | *Experience tranquillity while browsing the web without tracking.*..[ *read more* ](apps/zen-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zen-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zen-browser) |
-
-
----
-
-You can improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) 	to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io),  	or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM/issues)' 	section of the main database, at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM).
-
-***PORTABLE-LINUX-APPS.github.io is my gift to the Linux community and was made with love for GNU/Linux and the Open Source philosophy.***
-
----
-
-| [Back to Home](index.md) | [Back to Applications](apps.md)
-| --- | --- |
-
---------
-
-# Contacts
-- **Ivan-HC** *on* [**GitHub**](https://github.com/ivan-hc)
-- **AM-Ivan** *on* [**Reddit**](https://www.reddit.com/u/am-ivan)
-
-###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and 	[**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
-
---------
-
-*© 2020-present Ivan Alessandro Sala aka 'Ivan-HC'* - I'm here just for fun!

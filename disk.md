@@ -63,27 +63,3 @@ layout: category
 | <img loading="lazy" src="icons/windows2usb.png" width="48" height="48"> | [***windows2usb***](apps/windows2usb.md) | *Flash Drive burning utility, MBR/GPT, BIOS/UEFI, FAT32/NTFS.*..[ *read more* ](apps/windows2usb.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/windows2usb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/windows2usb) |
 | <img loading="lazy" src="icons/windusb-gui.png" width="48" height="48"> | [***windusb-gui***](apps/windusb-gui.md) | *A modern, Rust-based graphical tool for creating bootable Windows USB installers on Linux.*..[ *read more* ](apps/windusb-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/windusb-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/windusb-gui) |
 | <img loading="lazy" src="icons/yubikey-manager.png" width="48" height="48"> | [***yubikey-manager***](apps/yubikey-manager.md) | *Configure your YubiKey over all USB transports.*..[ *read more* ](apps/yubikey-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yubikey-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yubikey-manager) |
-
-
----
-
-You can improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) 	to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io),  	or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM/issues)' 	section of the main database, at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM).
-
-***PORTABLE-LINUX-APPS.github.io is my gift to the Linux community and was made with love for GNU/Linux and the Open Source philosophy.***
-
----
-
-| [Back to Home](index.md) | [Back to Applications](apps.md)
-| --- | --- |
-
---------
-
-# Contacts
-- **Ivan-HC** *on* [**GitHub**](https://github.com/ivan-hc)
-- **AM-Ivan** *on* [**Reddit**](https://www.reddit.com/u/am-ivan)
-
-###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and 	[**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
-
---------
-
-*© 2020-present Ivan Alessandro Sala aka 'Ivan-HC'* - I'm here just for fun!

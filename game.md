@@ -406,27 +406,3 @@ layout: category
 | <img loading="lazy" src="icons/znax.png" width="48" height="48"> | [***znax***](apps/znax.md) | *Znax is a cross platform puzzle / arcade game using SDL2 libraries.*..[ *read more* ](apps/znax.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/znax) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/znax) |
 | <img loading="lazy" src="icons/zod-engine.png" width="48" height="48"> | [***zod-engine***](apps/zod-engine.md) | *Unofficial, an open source remake of the 1996 game Z by the Bitmap Brothers.*..[ *read more* ](apps/zod-engine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zod-engine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zod-engine) |
 | <img loading="lazy" src="icons/zsnes.png" width="48" height="48"> | [***zsnes***](apps/zsnes.md) | *Unofficial, a Super Nintendo emulator.*..[ *read more* ](apps/zsnes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zsnes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zsnes) |
-
-
----
-
-You can improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) 	to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io),  	or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM/issues)' 	section of the main database, at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM).
-
-***PORTABLE-LINUX-APPS.github.io is my gift to the Linux community and was made with love for GNU/Linux and the Open Source philosophy.***
-
----
-
-| [Back to Home](index.md) | [Back to Applications](apps.md)
-| --- | --- |
-
---------
-
-# Contacts
-- **Ivan-HC** *on* [**GitHub**](https://github.com/ivan-hc)
-- **AM-Ivan** *on* [**Reddit**](https://www.reddit.com/u/am-ivan)
-
-###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and 	[**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
-
---------
-
-*© 2020-present Ivan Alessandro Sala aka 'Ivan-HC'* - I'm here just for fun!

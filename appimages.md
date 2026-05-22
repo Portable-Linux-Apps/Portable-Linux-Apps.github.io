@@ -2672,27 +2672,3 @@ layout: category
 | <img loading="lazy" src="icons/zxinfo-file-browser.png" width="48" height="48"> | [***zxinfo-file-browser***](apps/zxinfo-file-browser.md) | *Organize and manage your emulator files for ZX Spectrum.*..[ *read more* ](apps/zxinfo-file-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zxinfo-file-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zxinfo-file-browser) |
 | <img loading="lazy" src="icons/zy-player.png" width="48" height="48"> | [***zy-player***](apps/zy-player.md) | *Video resource player, simple, ad-free and high-value.*..[ *read more* ](apps/zy-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zy-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zy-player) |
 | <img loading="lazy" src="icons/zyfun.png" width="48" height="48"> | [***zyfun***](apps/zyfun.md) | *ZyPlayer. Cross-platform desktop video player, free and visually appealing.*..[ *read more* ](apps/zyfun.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zyfun) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zyfun) |
-
-
----
-
-You can improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) 	to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io),  	or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM/issues)' 	section of the main database, at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM).
-
-***PORTABLE-LINUX-APPS.github.io is my gift to the Linux community and was made with love for GNU/Linux and the Open Source philosophy.***
-
----
-
-| [Back to Home](index.md) | [Back to Applications](apps.md)
-| --- | --- |
-
---------
-
-# Contacts
-- **Ivan-HC** *on* [**GitHub**](https://github.com/ivan-hc)
-- **AM-Ivan** *on* [**Reddit**](https://www.reddit.com/u/am-ivan)
-
-###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and 	[**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
-
---------
-
-*© 2020-present Ivan Alessandro Sala aka 'Ivan-HC'* - I'm here just for fun!

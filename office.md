@@ -153,27 +153,3 @@ layout: category
 | <img loading="lazy" src="icons/xournalpp.png" width="48" height="48"> | [***xournalpp***](apps/xournalpp.md) | *Unofficial. Handwriting notetaking software with PDF annotation support. Written in C++ with GTK3.*..[ *read more* ](apps/xournalpp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xournalpp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xournalpp) |
 | <img loading="lazy" src="icons/xtomarkdown.png" width="48" height="48"> | [***xtomarkdown***](apps/xtomarkdown.md) | *A cross-platform GUI application for converting documents to Markdown.*..[ *read more* ](apps/xtomarkdown.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xtomarkdown) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xtomarkdown) |
 | <img loading="lazy" src="icons/yana.png" width="48" height="48"> | [***yana***](apps/yana.md) | *Note-taking app with nested documents, text search/editor, code...*..[ *read more* ](apps/yana.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yana) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yana) |
-
-
----
-
-You can improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) 	to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io),  	or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM/issues)' 	section of the main database, at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM).
-
-***PORTABLE-LINUX-APPS.github.io is my gift to the Linux community and was made with love for GNU/Linux and the Open Source philosophy.***
-
----
-
-| [Back to Home](index.md) | [Back to Applications](apps.md)
-| --- | --- |
-
---------
-
-# Contacts
-- **Ivan-HC** *on* [**GitHub**](https://github.com/ivan-hc)
-- **AM-Ivan** *on* [**Reddit**](https://www.reddit.com/u/am-ivan)
-
-###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and 	[**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
-
---------
-
-*© 2020-present Ivan Alessandro Sala aka 'Ivan-HC'* - I'm here just for fun!

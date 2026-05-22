@@ -56,27 +56,3 @@ layout: category
 | <img loading="lazy" src="icons/spritemate4electron.png" width="48" height="48"> | [***spritemate4electron***](apps/spritemate4electron.md) | *A simple Electron-wrapper for Esshahn's awesome Spritemate-webapp.*..[ *read more* ](apps/spritemate4electron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spritemate4electron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spritemate4electron) |
 | <img loading="lazy" src="icons/station.png" width="48" height="48"> | [***station***](apps/station.md) | *A single place for all of your web applications.*..[ *read more* ](apps/station.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/station) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/station) |
 | <img loading="lazy" src="icons/todesktop.png" width="48" height="48"> | [***todesktop***](apps/todesktop.md) | *Take your web app codebase and transform it into a cross platform desktop app with native functionality.*..[ *read more* ](apps/todesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/todesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/todesktop) |
-
-
----
-
-You can improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) 	to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io),  	or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM/issues)' 	section of the main database, at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM).
-
-***PORTABLE-LINUX-APPS.github.io is my gift to the Linux community and was made with love for GNU/Linux and the Open Source philosophy.***
-
----
-
-| [Back to Home](index.md) | [Back to Applications](apps.md)
-| --- | --- |
-
---------
-
-# Contacts
-- **Ivan-HC** *on* [**GitHub**](https://github.com/ivan-hc)
-- **AM-Ivan** *on* [**Reddit**](https://www.reddit.com/u/am-ivan)
-
-###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and 	[**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
-
---------
-
-*© 2020-present Ivan Alessandro Sala aka 'Ivan-HC'* - I'm here just for fun!
