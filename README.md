@@ -19,13 +19,42 @@
 ### Testing
 
 To test changes to the website before pushing or while working on a pull
-request:
+request, pick one of the two options below. Docker is recommended because
+the container matches the GitHub Pages build environment and works on any
+host Ruby version.
 
 </div>
 
+#### Option 1: Docker (recommended, no local Ruby needed)
+
+```sh
+# delete any host-generated lockfile so the container can regenerate one
+rm -f Gemfile.lock
+
+docker run --rm -it -p 4000:4000 \
+  -v "$PWD:/srv/jekyll" \
+  jekyll/jekyll:pages \
+  jekyll serve --watch --host 0.0.0.0
+```
+
+#### Option 2: Local Jekyll
+
 * [Install Jekyll](https://jekyllrb.com/docs/installation/)
 * In a terminal, change to the repository root directory
+* run `bundle install` (only needed the first time, or after `Gemfile`
+  changes)
 * run `bundle exec jekyll serve`
+
+Requires **Ruby 3.0 - 3.3**. The `github-pages` gem currently pins an old
+version of `jekyll-github-metadata` (2.16.1) that crashes on Ruby 3.4+
+with an `instance_variable_defined?` `NameError`. If your distribution
+ships Ruby 3.4 or newer, use Docker (Option 1) or install Ruby 3.3 via a
+version manager such as [`rbenv`](https://github.com/rbenv/rbenv) or
+[`asdf`](https://asdf-vm.com/). The `Gemfile` declares `webrick` in the
+`:development` group so `jekyll serve` works on Ruby 3.0+ (GitHub Pages
+production does not use `webrick`).
+
+#### Viewing the site
 
 You will see messages that confirm that site has generated and the server is
 running. Then in your browser, navigate to http://127.0.0.1:4000 to confirm
