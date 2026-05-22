@@ -8,7 +8,7 @@ layout: category
 
 #### Here are listed **12** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
-*Use the search box at the top of the page to filter this category, or jump to another category using the tags below.*
+*Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
 
 | [Back to Applications](apps.md) |
@@ -47,3 +47,27 @@ layout: category
 | <img loading="lazy" src="icons/loginized.png" width="48" height="48"> | [***loginized***](apps/loginized.md) | *Loginized Gnome GDM Login Theme Manager.*..[ *read more* ](apps/loginized.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/loginized) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/loginized) |
 | <img loading="lazy" src="icons/shotwell.png" width="48" height="48"> | [***shotwell***](apps/shotwell.md) | *Unofficial, a digital photo organizer designed for the GNOME desktop environment.*..[ *read more* ](apps/shotwell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shotwell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shotwell) |
 | <img loading="lazy" src="icons/switchcraft.png" width="48" height="48"> | [***switchcraft***](apps/switchcraft.md) | *Switchcraft watches GNOME's light/dark preference and runs your shell commands when the theme changes.*..[ *read more* ](apps/switchcraft.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/switchcraft) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/switchcraft) |
+
+
+---
+
+You can improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) 	to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io),  	or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM/issues)' 	section of the main database, at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM).
+
+***PORTABLE-LINUX-APPS.github.io is my gift to the Linux community and was made with love for GNU/Linux and the Open Source philosophy.***
+
+---
+
+| [Back to Home](index.md) | [Back to Applications](apps.md)
+| --- | --- |
+
+--------
+
+# Contacts
+- **Ivan-HC** *on* [**GitHub**](https://github.com/ivan-hc)
+- **AM-Ivan** *on* [**Reddit**](https://www.reddit.com/u/am-ivan)
+
+###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and 	[**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
+
+--------
+
+*© 2020-present Ivan Alessandro Sala aka 'Ivan-HC'* - I'm here just for fun!

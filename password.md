@@ -8,7 +8,7 @@ layout: category
 
 #### Here are listed **18** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
-*Use the search box at the top of the page to filter this category, or jump to another category using the tags below.*
+*Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
 
 | [Back to Applications](apps.md) |
@@ -53,3 +53,27 @@ layout: category
 | <img loading="lazy" src="icons/rbw.png" width="48" height="48"> | [***rbw***](apps/rbw.md) | *Unofficial Bitwarden password manager cli.*..[ *read more* ](apps/rbw.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rbw) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rbw) |
 | <img loading="lazy" src="icons/secrets.png" width="48" height="48"> | [***secrets***](apps/secrets.md) | *Unofficial AppImage of the Secrets keepass and 2FA password manager.*..[ *read more* ](apps/secrets.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/secrets) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/secrets) |
 | <img loading="lazy" src="icons/swifty.png" width="48" height="48"> | [***swifty***](apps/swifty.md) | *Free Offline-first Password Manager.*..[ *read more* ](apps/swifty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swifty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swifty) |
+
+
+---
+
+You can improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) 	to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io),  	or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM/issues)' 	section of the main database, at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM).
+
+***PORTABLE-LINUX-APPS.github.io is my gift to the Linux community and was made with love for GNU/Linux and the Open Source philosophy.***
+
+---
+
+| [Back to Home](index.md) | [Back to Applications](apps.md)
+| --- | --- |
+
+--------
+
+# Contacts
+- **Ivan-HC** *on* [**GitHub**](https://github.com/ivan-hc)
+- **AM-Ivan** *on* [**Reddit**](https://www.reddit.com/u/am-ivan)
+
+###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and 	[**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
+
+--------
+
+*© 2020-present Ivan Alessandro Sala aka 'Ivan-HC'* - I'm here just for fun!

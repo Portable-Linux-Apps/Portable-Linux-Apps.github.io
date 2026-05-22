@@ -8,7 +8,7 @@ layout: category
 
 #### Here are listed **14** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
-*Use the search box at the top of the page to filter this category, or jump to another category using the tags below.*
+*Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
 
 | [Back to Applications](apps.md) |
@@ -49,3 +49,27 @@ layout: category
 | <img loading="lazy" src="icons/wine-staging.png" width="48" height="48"> | [***wine-staging***](apps/wine-staging.md) | *Unofficial. Compatibility layer to run x86_64 Windows programs, Staging.*..[ *read more* ](apps/wine-staging.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-staging) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-staging) |
 | <img loading="lazy" src="icons/wine-staging-ge-proton.png" width="48" height="48"> | [***wine-staging-ge-proton***](apps/wine-staging-ge-proton.md) | *Unofficial. Run x86_64 Windows programs, Staging GE Proton.*..[ *read more* ](apps/wine-staging-ge-proton.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-staging-ge-proton) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-staging-ge-proton) |
 | <img loading="lazy" src="icons/wine32-deploy.png" width="48" height="48"> | [***wine32-deploy***](apps/wine32-deploy.md) | *Tool for creating AppImages for 32-bit Microsoft Windows apps.*..[ *read more* ](apps/wine32-deploy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine32-deploy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine32-deploy) |
+
+
+---
+
+You can improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) 	to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io),  	or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM/issues)' 	section of the main database, at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM).
+
+***PORTABLE-LINUX-APPS.github.io is my gift to the Linux community and was made with love for GNU/Linux and the Open Source philosophy.***
+
+---
+
+| [Back to Home](index.md) | [Back to Applications](apps.md)
+| --- | --- |
+
+--------
+
+# Contacts
+- **Ivan-HC** *on* [**GitHub**](https://github.com/ivan-hc)
+- **AM-Ivan** *on* [**Reddit**](https://www.reddit.com/u/am-ivan)
+
+###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and 	[**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
+
+--------
+
+*© 2020-present Ivan Alessandro Sala aka 'Ivan-HC'* - I'm here just for fun!

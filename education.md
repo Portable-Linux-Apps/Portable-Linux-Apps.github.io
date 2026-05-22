@@ -8,7 +8,7 @@ layout: category
 
 #### Here are listed **83** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
-*Use the search box at the top of the page to filter this category, or jump to another category using the tags below.*
+*Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
 
 | [Back to Applications](apps.md) |
@@ -121,3 +121,27 @@ layout: category
 | <img loading="lazy" src="icons/x-loc.png" width="48" height="48"> | [***x-loc***](apps/x-loc.md) | *Extra localizations/translations manager for Stardew Valley.*..[ *read more* ](apps/x-loc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/x-loc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/x-loc) |
 | <img loading="lazy" src="icons/xgetter.png" width="48" height="48"> | [***xgetter***](apps/xgetter.md) | *Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Bilibili, Douyin and more.*..[ *read more* ](apps/xgetter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xgetter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xgetter) |
 | <img loading="lazy" src="icons/xiphos.png" width="48" height="48"> | [***xiphos***](apps/xiphos.md) | *Unofficial, a Bible study tool using GTK.*..[ *read more* ](apps/xiphos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xiphos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xiphos) |
+
+
+---
+
+You can improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) 	to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io),  	or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM/issues)' 	section of the main database, at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM).
+
+***PORTABLE-LINUX-APPS.github.io is my gift to the Linux community and was made with love for GNU/Linux and the Open Source philosophy.***
+
+---
+
+| [Back to Home](index.md) | [Back to Applications](apps.md)
+| --- | --- |
+
+--------
+
+# Contacts
+- **Ivan-HC** *on* [**GitHub**](https://github.com/ivan-hc)
+- **AM-Ivan** *on* [**Reddit**](https://www.reddit.com/u/am-ivan)
+
+###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and 	[**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
+
+--------
+
+*© 2020-present Ivan Alessandro Sala aka 'Ivan-HC'* - I'm here just for fun!

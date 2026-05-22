@@ -8,7 +8,7 @@ layout: category
 
 #### Here are listed **80** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
-*Use the search box at the top of the page to filter this category, or jump to another category using the tags below.*
+*Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
 
 | [Back to Applications](apps.md) |
@@ -115,3 +115,27 @@ layout: category
 | <img loading="lazy" src="icons/yes.png" width="48" height="48"> | [***yes***](apps/yes.md) | *Output a string repeatedly until killed. This is part of "am-utils" suite.*..[ *read more* ](apps/yes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yes) |
 | <img loading="lazy" src="icons/zcat.png" width="48" height="48"> | [***zcat***](apps/zcat.md) | *Zcat - compress or expand files. This is part of "am-utils" suite.*..[ *read more* ](apps/zcat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zcat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zcat) |
 | <img loading="lazy" src="icons/zsync.png" width="48" height="48"> | [***zsync***](apps/zsync.md) | *Partial/differential file download client over HTTP. This is part of "am-utils" suite.*..[ *read more* ](apps/zsync.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zsync) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zsync) |
+
+
+---
+
+You can improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) 	to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io),  	or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM/issues)' 	section of the main database, at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM).
+
+***PORTABLE-LINUX-APPS.github.io is my gift to the Linux community and was made with love for GNU/Linux and the Open Source philosophy.***
+
+---
+
+| [Back to Home](index.md) | [Back to Applications](apps.md)
+| --- | --- |
+
+--------
+
+# Contacts
+- **Ivan-HC** *on* [**GitHub**](https://github.com/ivan-hc)
+- **AM-Ivan** *on* [**Reddit**](https://www.reddit.com/u/am-ivan)
+
+###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and 	[**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
+
+--------
+
+*© 2020-present Ivan Alessandro Sala aka 'Ivan-HC'* - I'm here just for fun!
