@@ -18,10 +18,10 @@
 | - | - |
 | [<img loading="lazy" src="https://github.com/user-attachments/assets/f55d4242-bd5f-4195-946c-e01c6fe5e264" width="512" height="256">](https://portable-linux-apps.github.io/apps.html) | [<img loading="lazy" src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/sample.png" width="512" height="256">](https://github.com/ivan-hc/AM) |
 
-#### *Categories*
-
-***[AppImages](appimages.md)*** 		 - ***[am-utils](am-utils.md)*** - ***[android](android.md)*** - ***[audio](audio.md)*** - ***[comic](comic.md)*** - ***[command-line](command-line.md)*** - ***[communication](communication.md)*** - ***[disk](disk.md)*** - ***[education](education.md)*** - ***[file-manager](file-manager.md)*** - ***[finance](finance.md)*** - ***[game](game.md)*** - ***[gnome](gnome.md)*** - ***[graphic](graphic.md)*** - ***[internet](internet.md)*** - ***[kde](kde.md)*** - ***[office](office.md)*** - ***[password](password.md)*** - ***[steam](steam.md)*** - ***[system-monitor](system-monitor.md)*** - ***[video](video.md)*** - ***[web-app](web-app.md)*** - ***[web-browser](web-browser.md)*** - ***[wine](wine.md)***
-
+<div id="home-search" style="margin: 1.5em auto; max-width: 640px; text-align: left;">
+  <label for="home-search-input" style="font-weight: bold; display: block; margin-bottom: 0.25em; text-align: center;">Search applications</label>
+  <input type="search" id="home-search-input" placeholder="Start typing an app name or keyword..." autocomplete="off"
+    style="width: 100%; padding: 0.6em 0.85em; font-size: 1em; border: 1px solid #999; border-radius: 4px; box-sizing: border-box;">
   <div id="home-search-status" style="margin-top: 0.5em; font-style: italic; color: #666; text-align: center;">Loading app database&hellip;</div>
   <ul id="home-search-results" style="list-style: none; padding: 0; margin: 0.5em 0 0;"></ul>
   <div id="home-search-more" style="margin-top: 0.5em; text-align: center;"></div>
