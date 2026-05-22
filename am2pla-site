@@ -193,16 +193,21 @@ _appimages_list_body
 
 ST_APPS_NUMBER=$(($APPS_NUMBER-$APPIMAGES_NUMBER))
 function _compile_the_homepage() {
-	if [ -f ./index.md ]; then
-		cat ./index.md > index.old
-	else
-		curl -Ls https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/index.md > index.old
+	# Only two lines on the home page are auto-generated: the stats line
+	# ("This site lists N unique apps…") and the categories nav list.
+	# Replace each in place wherever it appears, so hand-edited additions
+	# elsewhere on the page (e.g. the home search box) are not disturbed.
+	if [ ! -f ./index.md ]; then
+		curl -Ls https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/index.md > ./index.md
 	fi
-	sed -n '1,10p' ./index.old > ./index.md
-	echo "#### *This site lists **$APPS_NUMBER** unique apps (**$APPIMAGES_NUMBER** Appimage packages and **$ST_APPS_NUMBER** standalone/portable programs), plus **$ITEMS_NUMBER** items.*" >> ./index.md
-	sed -n '12,19p' ./index.old >> ./index.md
-	_categories_buttons >> ./index.md
-	sed -n '25,20000p' ./index.old >> ./index.md
+	local stats_line="#### *This site lists **$APPS_NUMBER** unique apps (**$APPIMAGES_NUMBER** Appimage packages and **$ST_APPS_NUMBER** standalone/portable programs), plus **$ITEMS_NUMBER** items.*"
+	local cats_line
+	cats_line=$(_categories_buttons | grep -E '^\*\*\*\[AppImages\]')
+	awk -v stats="$stats_line" -v cats="$cats_line" '
+		/^#### \*This site lists \*\*[0-9]+\*\* unique apps/ { print stats; next }
+		/^\*\*\*\[AppImages\]\(appimages\.md\)\*\*\*/        { print cats;  next }
+		{ print }
+	' ./index.md > ./index.new && mv ./index.new ./index.md
 }
 
 _compile_the_homepage
@@ -285,4 +290,4 @@ done
 ######################
 # END OF ALL PROCESSES
 ######################
-rm ./args ./index.old ./"$arch"-apps ./body.txt
+rm ./args ./"$arch"-apps ./body.txt
