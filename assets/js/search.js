@@ -124,6 +124,8 @@
       if (apps) render(input.value.trim());
       else load();
     });
+
+    load();
   }
 
   function init() {
