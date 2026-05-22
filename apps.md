@@ -5,7 +5,7 @@
 
 #### Here are listed all **3121** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
-*Use the search box below to filter the table, or jump straight to a category using the tags below.*
+*Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
 
 #### *Categories*
@@ -25,13 +25,6 @@
 *Transparency and credibility are the focus of this catalog. Happy exploring!*
 
 -----------------
-
-<div id="app-search-box" style="margin: 1em 0;">
-  <label for="app-search-input" style="font-weight: bold;">Search applications:</label>
-  <input type="search" id="app-search-input" placeholder="Type a name or keyword..." autocomplete="off"
-    style="width: 100%; max-width: 480px; padding: 0.5em 0.75em; margin-top: 0.25em; font-size: 1em; border: 1px solid #999; border-radius: 4px; box-sizing: border-box;">
-  <span id="app-search-count" style="margin-left: 0.5em; font-style: italic; color: #666;"></span>
-</div>
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
