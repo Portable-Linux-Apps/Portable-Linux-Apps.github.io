@@ -10000,6 +10000,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/paperlib.png"
   },
   {
+    "packageName": "paperweight",
+    "description": "Paperweight scans your inbox to map your digital footprint, then helps you take back control and delete your data...",
+    "icon": "https://portable-linux-apps.github.io/icons/paperweight.png"
+  },
+  {
     "packageName": "parabolic",
     "description": "Unofficial, Download web video and audio...",
     "icon": "https://portable-linux-apps.github.io/icons/parabolic.png"
