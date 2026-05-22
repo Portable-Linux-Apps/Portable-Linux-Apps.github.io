@@ -27,14 +27,20 @@ host Ruby version.
 
 #### Option 1: Docker (recommended, no local Ruby needed)
 
+Uses the official `ruby:3.3` image, which matches the Ruby version GitHub
+Pages itself builds with. The first run takes a few minutes while
+`bundle install` compiles native gems; the named `jekyll-bundle` volume
+caches them so later runs start quickly.
+
 ```sh
 # delete any host-generated lockfile so the container can regenerate one
 rm -f Gemfile.lock
 
 docker run --rm -it -p 4000:4000 \
-  -v "$PWD:/srv/jekyll" \
-  jekyll/jekyll:pages \
-  jekyll serve --watch --host 0.0.0.0
+  -v "$PWD:/srv/jekyll" -w /srv/jekyll \
+  -v jekyll-bundle:/usr/local/bundle \
+  ruby:3.3 \
+  bash -c "bundle install && bundle exec jekyll serve --host 0.0.0.0"
 ```
 
 #### Option 2: Local Jekyll
