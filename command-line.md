@@ -1,3 +1,6 @@
+---
+layout: category
+---
 # COMMAND-LINE
 
 | [Home](index.md) |
@@ -372,5 +375,3 @@ You can improve these pages via a [pull request](https://github.com/Portable-Lin
 --------
 
 *© 2020-present Ivan Alessandro Sala aka 'Ivan-HC'* - I'm here just for fun!
-
-

@@ -13,8 +13,20 @@
     var counter = document.getElementById('app-search-count');
     if (!input) return;
 
-    var table = input.closest('div').nextElementSibling;
-    while (table && table.tagName !== 'TABLE') table = table.nextElementSibling;
+    // Locate the apps table by its header cells; the search box may be at the
+    // top of the page (via the `category` layout) or inline near the table.
+    var table = null;
+    var tables = document.getElementsByTagName('table');
+    for (var t = 0; t < tables.length && !table; t++) {
+      var headerRow = tables[t].rows[0];
+      if (!headerRow) continue;
+      for (var c = 0; c < headerRow.cells.length; c++) {
+        if (/package\s*name/i.test(headerRow.cells[c].textContent || '')) {
+          table = tables[t];
+          break;
+        }
+      }
+    }
     if (!table) return;
 
     var rows = Array.prototype.slice.call(table.tBodies[0] ? table.tBodies[0].rows : table.rows);
