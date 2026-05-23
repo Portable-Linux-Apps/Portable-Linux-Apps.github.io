@@ -39,9 +39,12 @@
 
     function update() {
       var q = input.value.trim().toLowerCase();
+      // Whitespace-separated terms, ANDed. Empty query matches every row.
+      var terms = q.split(/\s+/).filter(Boolean);
       var visible = 0;
       for (var i = 0; i < rows.length; i++) {
-        var match = q === '' || haystacks[i].indexOf(q) !== -1;
+        var hay = haystacks[i];
+        var match = terms.every(function (t) { return hay.indexOf(t) !== -1; });
         rows[i].style.display = match ? '' : 'none';
         if (match) visible++;
       }
@@ -96,12 +99,13 @@
         status.textContent = apps.length + ' apps in the database.';
         return;
       }
-      var needle = q.toLowerCase();
+      // Whitespace-separated terms, ANDed against name + description.
+      var terms = q.toLowerCase().split(/\s+/).filter(Boolean);
       var matches = [];
       for (var i = 0; i < apps.length; i++) {
         var a = apps[i];
         var hay = (a.packageName + ' ' + (a.description || '')).toLowerCase();
-        if (hay.indexOf(needle) !== -1) matches.push(a);
+        if (terms.every(function (t) { return hay.indexOf(t) !== -1; })) matches.push(a);
       }
       if (!matches.length) {
         status.textContent = 'No apps match "' + q + '".';
