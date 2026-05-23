@@ -12810,11 +12810,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/speaky-miniplayer.png"
   },
   {
-    "packageName": "special-eureka",
-    "description": "A desktop mangareader built in Tauri and React..",
-    "icon": "https://portable-linux-apps.github.io/icons/special-eureka.png"
-  },
-  {
     "packageName": "speed-dreams",
     "description": "A Torcs fork, 3d motorsport simulation and race cars game...",
     "icon": "https://portable-linux-apps.github.io/icons/speed-dreams.png"

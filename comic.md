@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **43** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **42** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -89,7 +89,6 @@
 | <img loading="lazy" src="icons/seanime.png" width="48" height="48"> | [***seanime***](apps/seanime.md) | *Open-source media server with a web interface and desktop app for anime and manga.*..[ *read more* ](apps/seanime.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/seanime) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/seanime) |
 | <img loading="lazy" src="icons/shiru.png" width="48" height="48"> | [***shiru***](apps/shiru.md) | *A personal anime library manager for watching and tracking your collection in real time. Lightweight, powerful, and paws-itively fast. No waiting required.*..[ *read more* ](apps/shiru.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shiru) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shiru) |
 | <img loading="lazy" src="icons/sigil.png" width="48" height="48"> | [***sigil***](apps/sigil.md) | *Sigil is a multi-platform EPUB ebook editor.*..[ *read more* ](apps/sigil.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sigil) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sigil) |
-| <img loading="lazy" src="icons/special-eureka.png" width="48" height="48"> | [***special-eureka***](apps/special-eureka.md) | *A desktop mangareader built in Tauri and React*..[ *read more* ](apps/special-eureka.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/special-eureka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/special-eureka) |
 | <img loading="lazy" src="icons/toru.png" width="48" height="48"> | [***toru***](apps/toru.md) | *Bittorrent streaming CLI tool. Stream anime torrents real-time.*..[ *read more* ](apps/toru.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/toru) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/toru) |
 | <img loading="lazy" src="icons/unyo.png" width="48" height="48"> | [***unyo***](apps/unyo.md) | *Anime streaming and Manga reader desktop app without ads.*..[ *read more* ](apps/unyo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unyo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unyo) |
 | <img loading="lazy" src="icons/window-pet.png" width="48" height="48"> | [***window-pet***](apps/window-pet.md) | *Pet overlay app that lets you have adorable companion such as pets, anime characters on your screen.*..[ *read more* ](apps/window-pet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/window-pet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/window-pet) |

@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed the **2637** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2636** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -2180,7 +2180,6 @@
 | <img loading="lazy" src="icons/spark-wallet.png" width="48" height="48"> | [***spark-wallet***](apps/spark-wallet.md) | *A wallet GUI for c-lightning, accessible over web/mobile/pc.*..[ *read more* ](apps/spark-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spark-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spark-wallet) |
 | <img loading="lazy" src="icons/speak-to-ai.png" width="48" height="48"> | [***speak-to-ai***](apps/speak-to-ai.md) | *Speak to AI - native Linux voice-to-text app.*..[ *read more* ](apps/speak-to-ai.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speak-to-ai) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speak-to-ai) |
 | <img loading="lazy" src="icons/speaky-miniplayer.png" width="48" height="48"> | [***speaky-miniplayer***](apps/speaky-miniplayer.md) | *A miniplayer with a synthetic radio speaker.*..[ *read more* ](apps/speaky-miniplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speaky-miniplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speaky-miniplayer) |
-| <img loading="lazy" src="icons/special-eureka.png" width="48" height="48"> | [***special-eureka***](apps/special-eureka.md) | *A desktop mangareader built in Tauri and React*..[ *read more* ](apps/special-eureka.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/special-eureka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/special-eureka) |
 | <img loading="lazy" src="icons/speed-dreams.png" width="48" height="48"> | [***speed-dreams***](apps/speed-dreams.md) | *A Torcs fork, 3d motorsport simulation and race cars game.*..[ *read more* ](apps/speed-dreams.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speed-dreams) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speed-dreams) |
 | <img loading="lazy" src="icons/speedcrunch.png" width="48" height="48"> | [***speedcrunch***](apps/speedcrunch.md) | *Unofficial, a high-precision scientific calculator featuring a fast, keyboard-driven user interface.*..[ *read more* ](apps/speedcrunch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speedcrunch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speedcrunch) |
 | <img loading="lazy" src="icons/speedyloader.png" width="48" height="48"> | [***speedyloader***](apps/speedyloader.md) | *Speeduino universal firmware loader.*..[ *read more* ](apps/speedyloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speedyloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speedyloader) |
