@@ -17,7 +17,7 @@
   display: block;
   padding: 0.4em 0.6em;
   border: 1px solid;
-  border-radius: 4px;
+  border-radius: 999px;
   text-align: center;
   text-decoration: none;
   font-size: 0.95em;
@@ -25,6 +25,35 @@
 
 .cat-pill--all {
   font-weight: bold;
+}
+
+/* Hamburger toggle. The checkbox is always hidden; the label is hidden on
+   desktop and shown on narrow viewports, where it controls grid visibility
+   via the :checked sibling trick. No JavaScript needed. */
+#cat-menu-toggle {
+  display: none;
+}
+.cat-menu-button {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .cat-menu-button {
+    display: inline-block;
+    padding: 0.5em 0.9em;
+    border: 1px solid;
+    border-radius: 999px;
+    cursor: pointer;
+    user-select: none;
+    font-size: 0.95em;
+    margin: 0.5em 0;
+  }
+  .cat-menu .cat-grid {
+    display: none;
+  }
+  #cat-menu-toggle:checked ~ .cat-grid {
+    display: grid;
+  }
 }
 
 /* Default body styles */
@@ -79,6 +108,14 @@ a {
   }
   .cat-pill--all:hover {
     background-color: #b6e3ff;
+  }
+  .cat-menu-button {
+    background-color: #f6f8fa;
+    border-color: #d0d7de;
+    color: #0969da;
+  }
+  .cat-menu-button:hover {
+    background-color: #eaeef2;
   }
 }
 
@@ -178,5 +215,14 @@ a {
   }
   .cat-pill--all:hover {
     background-color: #143052;
+  }
+  .cat-menu-button {
+    background-color: #1a1d27;
+    border-color: #2b343f;
+    color: #5d93e8;
+  }
+  .cat-menu-button:hover {
+    background-color: #232733;
+    color: lightgreen;
   }
 }
