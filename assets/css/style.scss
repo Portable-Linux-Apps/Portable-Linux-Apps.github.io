@@ -3,6 +3,63 @@
 
 @import "{{ site.theme }}";
 
+/* Category grid (used by the auto-generated category list on home, apps,
+   appimages and every category page; emitted by am2pla-site in the AM repo).
+   Shared layout; theme-specific colors live in the @media blocks below. */
+.cat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(8.5em, 1fr));
+  gap: 0.4em;
+  margin: 0.75em 0;
+  /* Cells stay uniform-width so columns line up; pills inside take their
+     natural content width and sit centered, so kde stays small and
+     system-monitor stays large. */
+  justify-items: center;
+}
+
+.cat-pill {
+  display: block;
+  padding: 0.4em 0.6em;
+  border: 1px solid;
+  border-radius: 999px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 0.95em;
+}
+
+.cat-pill--all {
+  font-weight: bold;
+}
+
+/* Hamburger toggle. The checkbox is always hidden; the label is hidden on
+   desktop and shown on narrow viewports, where it controls grid visibility
+   via the :checked sibling trick. No JavaScript needed. */
+#cat-menu-toggle {
+  display: none;
+}
+.cat-menu-button {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .cat-menu-button {
+    display: inline-block;
+    padding: 0.5em 0.9em;
+    border: 1px solid;
+    border-radius: 999px;
+    cursor: pointer;
+    user-select: none;
+    font-size: 0.95em;
+    margin: 0.5em 0;
+  }
+  .cat-menu .cat-grid {
+    display: none;
+  }
+  #cat-menu-toggle:checked ~ .cat-grid {
+    display: grid;
+  }
+}
+
 /* Default body styles */
 body {
   background-color: white; /* Default background color for light theme */
@@ -39,6 +96,30 @@ a {
 
   td {
     background-color: white; /* Background color for table cells */
+  }
+
+  .cat-pill {
+    background-color: #f6f8fa;
+    border-color: #d0d7de;
+    color: #0969da;
+  }
+  .cat-pill:hover {
+    background-color: #eaeef2;
+  }
+  .cat-pill--all {
+    background-color: #ddf4ff;
+    border-color: #0969da;
+  }
+  .cat-pill--all:hover {
+    background-color: #b6e3ff;
+  }
+  .cat-menu-button {
+    background-color: #f6f8fa;
+    border-color: #d0d7de;
+    color: #0969da;
+  }
+  .cat-menu-button:hover {
+    background-color: #eaeef2;
   }
 }
 
@@ -121,5 +202,31 @@ a {
   td {
     background-color: #110e1b; /* Dark background for table cells */
     border: 1px solid #35333b;
+  }
+
+  .cat-pill {
+    background-color: #1a1d27;
+    border-color: #2b343f;
+    color: #5d93e8;
+  }
+  .cat-pill:hover {
+    background-color: #232733;
+    color: lightgreen;
+  }
+  .cat-pill--all {
+    background-color: #0d2238;
+    border-color: #5d93e8;
+  }
+  .cat-pill--all:hover {
+    background-color: #143052;
+  }
+  .cat-menu-button {
+    background-color: #1a1d27;
+    border-color: #2b343f;
+    color: #5d93e8;
+  }
+  .cat-menu-button:hover {
+    background-color: #232733;
+    color: lightgreen;
   }
 }
