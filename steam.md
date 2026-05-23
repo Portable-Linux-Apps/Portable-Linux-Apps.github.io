@@ -13,7 +13,34 @@
   <span id="app-search-count" style="margin-left: 0.5em; font-style: italic; color: #666;"></span>
 </div>
 
-#### *Categories:* ***[AppImages](appimages.md)*** - ***[am-utils](am-utils.md)*** - ***[android](android.md)*** - ***[audio](audio.md)*** - ***[comic](comic.md)*** - ***[command-line](command-line.md)*** - ***[communication](communication.md)*** - ***[disk](disk.md)*** - ***[education](education.md)*** - ***[file-manager](file-manager.md)*** - ***[finance](finance.md)*** - ***[game](game.md)*** - ***[gnome](gnome.md)*** - ***[graphic](graphic.md)*** - ***[internet](internet.md)*** - ***[kde](kde.md)*** - ***[office](office.md)*** - ***[password](password.md)*** - ***[steam](steam.md)*** - ***[system-monitor](system-monitor.md)*** - ***[video](video.md)*** - ***[web-app](web-app.md)*** - ***[web-browser](web-browser.md)*** - ***[wine](wine.md)***
+#### *Categories*
+
+<div class="cat-grid">
+  <a class="cat-pill cat-pill--all" href="appimages.html">AppImages</a>
+  <a class="cat-pill" href="am-utils.html">am-utils</a>
+  <a class="cat-pill" href="android.html">android</a>
+  <a class="cat-pill" href="audio.html">audio</a>
+  <a class="cat-pill" href="comic.html">comic</a>
+  <a class="cat-pill" href="command-line.html">command-line</a>
+  <a class="cat-pill" href="communication.html">communication</a>
+  <a class="cat-pill" href="disk.html">disk</a>
+  <a class="cat-pill" href="education.html">education</a>
+  <a class="cat-pill" href="file-manager.html">file-manager</a>
+  <a class="cat-pill" href="finance.html">finance</a>
+  <a class="cat-pill" href="game.html">game</a>
+  <a class="cat-pill" href="gnome.html">gnome</a>
+  <a class="cat-pill" href="graphic.html">graphic</a>
+  <a class="cat-pill" href="internet.html">internet</a>
+  <a class="cat-pill" href="kde.html">kde</a>
+  <a class="cat-pill" href="office.html">office</a>
+  <a class="cat-pill" href="password.html">password</a>
+  <a class="cat-pill" href="steam.html">steam</a>
+  <a class="cat-pill" href="system-monitor.html">system-monitor</a>
+  <a class="cat-pill" href="video.html">video</a>
+  <a class="cat-pill" href="web-app.html">web-app</a>
+  <a class="cat-pill" href="web-browser.html">web-browser</a>
+  <a class="cat-pill" href="wine.html">wine</a>
+</div>
 
 -----------------
 
