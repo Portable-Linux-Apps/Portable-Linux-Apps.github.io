@@ -4245,51 +4245,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/ffsend.png"
   },
   {
-    "packageName": "ffwa-facebook",
-    "description": "WebApp & Firefox Profile for Facebook...",
-    "icon": "https://portable-linux-apps.github.io/icons/ffwa-facebook.png"
-  },
-  {
-    "packageName": "ffwa-github",
-    "description": "WebApp & Firefox Profile for GitHub...",
-    "icon": "https://portable-linux-apps.github.io/icons/ffwa-github.png"
-  },
-  {
-    "packageName": "ffwa-gmail",
-    "description": "WebApp & Firefox Profile for Gmail...",
-    "icon": "https://portable-linux-apps.github.io/icons/ffwa-gmail.png"
-  },
-  {
-    "packageName": "ffwa-netflix",
-    "description": "WebApp & Firefox Profile for Netflix...",
-    "icon": "https://portable-linux-apps.github.io/icons/ffwa-netflix.png"
-  },
-  {
-    "packageName": "ffwa-reddit",
-    "description": "WebApp & Firefox Profile for Reddit...",
-    "icon": "https://portable-linux-apps.github.io/icons/ffwa-reddit.png"
-  },
-  {
-    "packageName": "ffwa-twitter",
-    "description": "WebApp & Firefox Profile for Twitter...",
-    "icon": "https://portable-linux-apps.github.io/icons/ffwa-twitter.png"
-  },
-  {
-    "packageName": "ffwa-whatsapp",
-    "description": "WebApp & Firefox Profile for WhatsApp...",
-    "icon": "https://portable-linux-apps.github.io/icons/ffwa-whatsapp.png"
-  },
-  {
-    "packageName": "ffwa-wikipedia",
-    "description": "WebApp & Firefox Profile for Wikipedia...",
-    "icon": "https://portable-linux-apps.github.io/icons/ffwa-wikipedia.png"
-  },
-  {
-    "packageName": "ffwa-youtube",
-    "description": "WebApp & Firefox Profile for YouTube...",
-    "icon": "https://portable-linux-apps.github.io/icons/ffwa-youtube.png"
-  },
-  {
     "packageName": "ficus",
     "description": "A software for editing and managing markdown documents...",
     "icon": "https://portable-linux-apps.github.io/icons/ficus.png"
@@ -6805,11 +6760,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/kdeconnect.png"
   },
   {
-    "packageName": "kdegames",
-    "description": "Unofficial, Full & updatable KDE Games suite, metapackage...",
-    "icon": "https://portable-linux-apps.github.io/icons/kdegames.png"
-  },
-  {
     "packageName": "kdenlive",
     "description": "A powerful Video Editor provided by KDE...",
     "icon": "https://portable-linux-apps.github.io/icons/kdenlive.png"
@@ -6823,11 +6773,6 @@
     "packageName": "kdenlive-enhanced",
     "description": "Unofficial AppImage of Kdenlive Video Editor which is able to work on any linux distro...",
     "icon": "https://portable-linux-apps.github.io/icons/kdenlive-enhanced.png"
-  },
-  {
-    "packageName": "kdeutils",
-    "description": "Unofficial, Full & updatable KDE Utils suite, metapackage...",
-    "icon": "https://portable-linux-apps.github.io/icons/kdeutils.png"
   },
   {
     "packageName": "kdf",
@@ -9065,11 +9010,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/no-fwl.png"
   },
   {
-    "packageName": "node",
-    "description": "This is the official suite of Node.js tools, also known as \"NodeJS\", a JavaScript runtime built on Chrome's V8 JavaScript engine...",
-    "icon": "https://portable-linux-apps.github.io/icons/node.png"
-  },
-  {
     "packageName": "nodeflow",
     "description": "An Editor for creating simple or complex OCR workflows...",
     "icon": "https://portable-linux-apps.github.io/icons/nodeflow.png"
@@ -10488,11 +10428,6 @@
     "packageName": "planet-blupi",
     "description": "A delirious spell-binding game...",
     "icon": "https://portable-linux-apps.github.io/icons/planet-blupi.png"
-  },
-  {
-    "packageName": "platform-tools",
-    "description": "Official Suite of command line utilities to manage Android devices...",
-    "icon": "https://portable-linux-apps.github.io/icons/platform-tools.png"
   },
   {
     "packageName": "platinum-md",

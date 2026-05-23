@@ -7,6 +7,13 @@
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
+<div id="app-search-box" style="margin: 1em 0;">
+  <label for="app-search-input" style="font-weight: bold;">Search applications:</label>
+  <input type="search" id="app-search-input" placeholder="Type a name or keyword..." autocomplete="off"
+    style="width: 100%; max-width: 480px; padding: 0.5em 0.75em; margin-top: 0.25em; font-size: 1em; border: 1px solid #999; border-radius: 4px; box-sizing: border-box;">
+  <span id="app-search-count" style="margin-left: 0.5em; font-style: italic; color: #666;"></span>
+</div>
+
 #### *Categories*
 
 ***[AppImages](appimages.md)*** 		 - ***[am-utils](am-utils.md)*** - ***[android](android.md)*** - ***[audio](audio.md)*** - ***[comic](comic.md)*** - ***[command-line](command-line.md)*** - ***[communication](communication.md)*** - ***[disk](disk.md)*** - ***[education](education.md)*** - ***[file-manager](file-manager.md)*** - ***[finance](finance.md)*** - ***[game](game.md)*** - ***[gnome](gnome.md)*** - ***[graphic](graphic.md)*** - ***[internet](internet.md)*** - ***[kde](kde.md)*** - ***[office](office.md)*** - ***[password](password.md)*** - ***[steam](steam.md)*** - ***[system-monitor](system-monitor.md)*** - ***[video](video.md)*** - ***[web-app](web-app.md)*** - ***[web-browser](web-browser.md)*** - ***[wine](wine.md)***
