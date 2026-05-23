@@ -11,6 +11,10 @@
   grid-template-columns: repeat(auto-fit, minmax(8.5em, 1fr));
   gap: 0.4em;
   margin: 0.75em 0;
+  /* Cells stay uniform-width so columns line up; pills inside take their
+     natural content width and sit centered, so kde stays small and
+     system-monitor stays large. */
+  justify-items: center;
 }
 
 .cat-pill {
