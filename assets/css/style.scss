@@ -7,28 +7,34 @@
    appimages and every category page; emitted by am2pla-site in the AM repo).
    Shared layout; theme-specific colors live in the @media blocks below. */
 .cat-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(8.5em, 1fr));
-  gap: 0.4em;
+  /* Flex (not grid) so pills pack tight to their content width; a small
+     gap controls inter-pill spacing, and .cat-sep bullets emitted between
+     pills by am2pla-site give a visual separator at that tight spacing. */
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25em 0.35em;
   margin: 0.75em 0;
-  /* Cells stay uniform-width so columns line up; pills inside take their
-     natural content width and sit centered, so kde stays small and
-     system-monitor stays large. */
-  justify-items: center;
 }
 
 .cat-pill {
-  display: block;
-  padding: 0.4em 0.6em;
+  padding: 0.15em 0.55em;
   border: 1px solid;
   border-radius: 999px;
   text-align: center;
   text-decoration: none;
-  font-size: 0.95em;
+  font-size: 0.85em;
+  line-height: 1.4;
+  white-space: nowrap;
 }
 
 .cat-pill--all {
   font-weight: bold;
+}
+
+.cat-sep {
+  font-size: 0.85em;
+  user-select: none;
 }
 
 /* Hamburger toggle. The checkbox is always hidden; the label is hidden on
@@ -56,7 +62,7 @@
     display: none;
   }
   #cat-menu-toggle:checked ~ .cat-grid {
-    display: grid;
+    display: flex;
   }
 }
 
@@ -120,6 +126,9 @@ a {
   }
   .cat-menu-button:hover {
     background-color: #eaeef2;
+  }
+  .cat-sep {
+    color: #999;
   }
 }
 
@@ -228,5 +237,8 @@ a {
   .cat-menu-button:hover {
     background-color: #232733;
     color: lightgreen;
+  }
+  .cat-sep {
+    color: #555;
   }
 }
