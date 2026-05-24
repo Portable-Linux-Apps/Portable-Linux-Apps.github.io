@@ -16,7 +16,7 @@
 #### *Categories*
 
 <div class="cat-grid">
-  <a class="cat-pill cat-pill--all" href="appimages.html">AppImages</a>
+  <a class="cat-pill" href="appimages.html">AppImages</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="am-utils.html">am-utils</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -24,7 +24,7 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="audio.html">audio</a>
   <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="comic.html">comic</a>
+  <a class="cat-pill cat-pill--all" href="comic.html">comic</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="command-line.html">command-line</a>
   <span class="cat-sep" aria-hidden="true">•</span>
