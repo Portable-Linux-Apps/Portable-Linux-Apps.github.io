@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **134** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **135** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -97,6 +97,7 @@
 | <img loading="lazy" src="icons/corepaint.png" width="48" height="48"> | [***corepaint***](apps/corepaint.md) | *A paint app for CuboCore Application Suite.*..[ *read more* ](apps/corepaint.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/corepaint) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/corepaint) |
 | <img loading="lazy" src="icons/crawl-tiles.png" width="48" height="48"> | [***crawl-tiles***](apps/crawl-tiles.md) | *open-source, single-player, role-playing roguelike game of exploration and treasure-hunting - graphical version (SDL)*..[ *read more* ](apps/crawl-tiles.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crawl-tiles) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crawl-tiles) |
 | <img loading="lazy" src="icons/darktable.png" width="48" height="48"> | [***darktable***](apps/darktable.md) | *Photography workflow app and raw developer.*..[ *read more* ](apps/darktable.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/darktable) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/darktable) |
+| <img loading="lazy" src="icons/darktable-nightly.png" width="48" height="48"> | [***darktable-nightly***](apps/darktable-nightly.md) | *Photography workflow application and raw developer (nightly).*..[ *read more* ](apps/darktable-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/darktable-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/darktable-nightly) |
 | <img loading="lazy" src="icons/destiny.png" width="48" height="48"> | [***destiny***](apps/destiny.md) | *Cross-platform Magic Wormhole graphical client.*..[ *read more* ](apps/destiny.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/destiny) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/destiny) |
 | <img loading="lazy" src="icons/digikam.png" width="48" height="48"> | [***digikam***](apps/digikam.md) | *Professional and advanced digital photo management application.*..[ *read more* ](apps/digikam.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/digikam) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/digikam) |
 | <img loading="lazy" src="icons/digikam-dev.png" width="48" height="48"> | [***digikam-dev***](apps/digikam-dev.md) | *Professional and advanced digital photo management application.*..[ *read more* ](apps/digikam-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/digikam-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/digikam-dev) |
