@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed the **2637** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2638** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -67,7 +67,7 @@
 
 -----------------
 
-*NOTE, Installer scripts (blob/raw) are provided for reading only: do not run them manually! Use "AM" or "AppMan" instead.*
+***NOTE, Installer scripts (blob/raw) are provided for reading only: do not run them manually! Use "[AM](https://github.com/ivan-hc/AM)" or "[AppMan](https://github.com/ivan-hc/AppMan)" instead.***
 
 -----------------
 
@@ -743,6 +743,7 @@
 | <img loading="lazy" src="icons/evalit.png" width="48" height="48"> | [***evalit***](apps/evalit.md) | *A notepad calculator application with JavaScript configuration.*..[ *read more* ](apps/evalit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/evalit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/evalit) |
 | <img loading="lazy" src="icons/everdo.png" width="48" height="48"> | [***everdo***](apps/everdo.md) | *A powerful cross-platform GTD app with focus on privacy.*..[ *read more* ](apps/everdo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/everdo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/everdo) |
 | <img loading="lazy" src="icons/everinst.png" width="48" height="48"> | [***everinst***](apps/everinst.md) | *An installer for the Everest mod loader.*..[ *read more* ](apps/everinst.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/everinst) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/everinst) |
+| <img loading="lazy" src="icons/evernote.png" width="48" height="48"> | [***evernote***](apps/evernote.md) | *Unofficial. Note taking app. Remember everything and tackle any project with your notes, tasks, and schedule all in one place.*..[ *read more* ](apps/evernote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/evernote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/evernote) |
 | <img loading="lazy" src="icons/evince.png" width="48" height="48"> | [***evince***](apps/evince.md) | *Unofficial. Document viewer for popular document formats.*..[ *read more* ](apps/evince.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/evince) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/evince) |
 | <img loading="lazy" src="icons/evoplex.png" width="48" height="48"> | [***evoplex***](apps/evoplex.md) | *Agent-based modeling.*..[ *read more* ](apps/evoplex.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/evoplex) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/evoplex) |
 | <img loading="lazy" src="icons/excel-parser-processor.png" width="48" height="48"> | [***excel-parser-processor***](apps/excel-parser-processor.md) | *Generates an array of items from the rows.*..[ *read more* ](apps/excel-parser-processor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/excel-parser-processor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/excel-parser-processor) |
@@ -2714,7 +2715,7 @@
 
 ---
 
-You can improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) 	to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io),  	or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM/issues)' 	section of the main database, at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM).
+You can improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io), or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM/issues)' section of the main database, at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM).
 
 ***PORTABLE-LINUX-APPS.github.io is my gift to the Linux community and was made with love for GNU/Linux and the Open Source philosophy.***
 
@@ -2729,7 +2730,7 @@ You can improve these pages via a [pull request](https://github.com/Portable-Lin
 - **Ivan-HC** *on* [**GitHub**](https://github.com/ivan-hc)
 - **AM-Ivan** *on* [**Reddit**](https://www.reddit.com/u/am-ivan)
 
-###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and 	[**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
+###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and [**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
 
 --------
 

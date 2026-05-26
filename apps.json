@@ -3970,6 +3970,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/everinst.png"
   },
   {
+    "packageName": "evernote",
+    "description": "Unofficial. Note taking app. Remember everything and tackle any project with your notes, tasks, and schedule all in one place...",
+    "icon": "https://portable-linux-apps.github.io/icons/evernote.png"
+  },
+  {
     "packageName": "evince",
     "description": "Unofficial. Document viewer for popular document formats...",
     "icon": "https://portable-linux-apps.github.io/icons/evince.png"
