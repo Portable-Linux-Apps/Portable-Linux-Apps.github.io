@@ -110,6 +110,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/adb.png"
   },
   {
+    "packageName": "addr2line",
+    "description": "Or symbol+offset into file names and. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/addr2line.png"
+  },
+  {
     "packageName": "adobe-flash-player",
     "description": "Unofficial port. Adobe Flash is a mostly discontinued multimedia software platform used for production of animations, rich internet applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Over 67 billion devices use adobe flash player!..",
     "icon": "https://portable-linux-apps.github.io/icons/adobe-flash-player.png"
@@ -665,6 +670,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/arcdlp.png"
   },
   {
+    "packageName": "arch",
+    "description": "Hardware name (same as uname -m). This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/arch.png"
+  },
+  {
     "packageName": "arch-deployer",
     "description": "A script to bulk download an Arch Linux package with all its dependencies to be converted in AppImage...",
     "icon": "https://portable-linux-apps.github.io/icons/arch-deployer.png"
@@ -763,6 +773,11 @@
     "packageName": "artix",
     "description": "One app. All your favorite Artix games...",
     "icon": "https://portable-linux-apps.github.io/icons/artix.png"
+  },
+  {
+    "packageName": "as",
+    "description": "GNU assembler.. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/as.png"
   },
   {
     "packageName": "asarui",
@@ -980,6 +995,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/azaharplus-pkg-extractor.png"
   },
   {
+    "packageName": "b2sum",
+    "description": "Check BLAKE2 message digest. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/b2sum.png"
+  },
+  {
     "packageName": "badlion",
     "description": "Most Complete All-In-One Mod Library for Minecraft with 100+ Mods...",
     "icon": "https://portable-linux-apps.github.io/icons/badlion.png"
@@ -1025,6 +1045,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/barnacal.png"
   },
   {
+    "packageName": "base32",
+    "description": "Base32 encode/decode data and print to standard. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/base32.png"
+  },
+  {
     "packageName": "base64",
     "description": "Base64 encode/decode data and print to standard. This is part of \"am-utils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/base64.png"
@@ -1033,6 +1058,11 @@
     "packageName": "basename",
     "description": "Strip directory and suffix from filenames. This is part of \"am-utils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/basename.png"
+  },
+  {
+    "packageName": "basenc",
+    "description": "Encode and decode with multiple base encodings.. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/basenc.png"
   },
   {
     "packageName": "basilisk2",
@@ -1685,6 +1715,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/bzip2.png"
   },
   {
+    "packageName": "c++filt",
+    "description": "And Java symbols. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/c++filt.png"
+  },
+  {
     "packageName": "c-evo",
     "description": "C-evo is an empire building game based on Civilization II, but with a different focus. It aims to be a pure game with all players playing to win...",
     "icon": "https://portable-linux-apps.github.io/icons/c-evo.png"
@@ -1985,6 +2020,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/chatterino2-nightly.png"
   },
   {
+    "packageName": "chcon",
+    "description": "Security context. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/chcon.png"
+  },
+  {
     "packageName": "cheat",
     "description": "Create and view interactive cheatsheets on the command-line...",
     "icon": "https://portable-linux-apps.github.io/icons/cheat.png"
@@ -2028,6 +2068,11 @@
     "packageName": "chezmoi",
     "description": "Manage your dotfiles across multiple diverse machines, securely...",
     "icon": "https://portable-linux-apps.github.io/icons/chezmoi.png"
+  },
+  {
+    "packageName": "chgrp",
+    "description": "Change group ownership. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/chgrp.png"
   },
   {
     "packageName": "chimeradesk",
@@ -2123,6 +2168,11 @@
     "packageName": "ciyue",
     "description": "A simple mdict dictionary...",
     "icon": "https://portable-linux-apps.github.io/icons/ciyue.png"
+  },
+  {
+    "packageName": "cksum",
+    "description": "Compute and verify file checksums. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/cksum.png"
   },
   {
     "packageName": "clagrange",
@@ -2300,6 +2350,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/coinstac.png"
   },
   {
+    "packageName": "col",
+    "description": "Line feeds from input. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/col.png"
+  },
+  {
+    "packageName": "colcrt",
+    "description": "Output for CRT previewing. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/colcrt.png"
+  },
+  {
     "packageName": "collaboraoffice",
     "description": "Unofficial, a collaborative online office suite based on LibreOffice technology...",
     "icon": "https://portable-linux-apps.github.io/icons/collaboraoffice.png"
@@ -2330,6 +2390,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/colorstatic-bash.png"
   },
   {
+    "packageName": "colrm",
+    "description": "From a file. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/colrm.png"
+  },
+  {
     "packageName": "column",
     "description": "Columnate lists. This is part of \"am-utils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/column.png"
@@ -2353,6 +2418,11 @@
     "packageName": "comictagger",
     "description": "A multi-platform app for writing metadata to digital comics...",
     "icon": "https://portable-linux-apps.github.io/icons/comictagger.png"
+  },
+  {
+    "packageName": "comm",
+    "description": "Compare two sorted files line by line. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/comm.png"
   },
   {
     "packageName": "commander-genius",
@@ -2755,6 +2825,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/cscrypto.png"
   },
   {
+    "packageName": "csplit",
+    "description": "File into sections determined by context. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/csplit.png"
+  },
+  {
     "packageName": "ctool",
     "description": "Common Tools for Program Development...",
     "icon": "https://portable-linux-apps.github.io/icons/ctool.png"
@@ -2908,6 +2983,11 @@
     "packageName": "datcord",
     "description": "Discord client...",
     "icon": "https://portable-linux-apps.github.io/icons/datcord.png"
+  },
+  {
+    "packageName": "date",
+    "description": "A header-only library which builds upon <chrono>. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/date.png"
   },
   {
     "packageName": "dawnlightsearch",
@@ -3135,6 +3215,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dezor.png"
   },
   {
+    "packageName": "df",
+    "description": "Report file system space usage. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/df.png"
+  },
+  {
     "packageName": "dfdemo",
     "description": "A thin Tcl/Tk GUI around the df POSIX command...",
     "icon": "https://portable-linux-apps.github.io/icons/dfdemo.png"
@@ -3208,6 +3293,16 @@
     "packageName": "dione",
     "description": "Explore, Install, Innovate — in 1 Click...",
     "icon": "https://portable-linux-apps.github.io/icons/dione.png"
+  },
+  {
+    "packageName": "dir",
+    "description": "List directory contents. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/dir.png"
+  },
+  {
+    "packageName": "dircolors",
+    "description": "For ls. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/dircolors.png"
   },
   {
     "packageName": "dirname",
@@ -3765,6 +3860,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/elements.png"
   },
   {
+    "packageName": "elfedit",
+    "description": "Header and program property of ELF files. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/elfedit.png"
+  },
+  {
     "packageName": "elk",
     "description": "Native version of Elk, a nimble Mastodon web...",
     "icon": "https://portable-linux-apps.github.io/icons/elk.png"
@@ -3853,6 +3953,11 @@
     "packageName": "ente-photos",
     "description": "Binary releases of the Ente Photos desktop app...",
     "icon": "https://portable-linux-apps.github.io/icons/ente-photos.png"
+  },
+  {
+    "packageName": "env",
+    "description": "Run a program in a modified environment. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/env.png"
   },
   {
     "packageName": "enve",
@@ -4015,6 +4120,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/exodus.png"
   },
   {
+    "packageName": "expand",
+    "description": "Convert tabs to spaces. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/expand.png"
+  },
+  {
     "packageName": "explorook",
     "description": "Rookout’s site addon to support local files and folders...",
     "icon": "https://portable-linux-apps.github.io/icons/explorook.png"
@@ -4023,6 +4133,11 @@
     "packageName": "exportoo",
     "description": "Read and search your exports...",
     "icon": "https://portable-linux-apps.github.io/icons/exportoo.png"
+  },
+  {
+    "packageName": "expr",
+    "description": "Evaluate expressions. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/expr.png"
   },
   {
     "packageName": "exsplode.re",
@@ -4095,6 +4210,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/fabother-world.png"
   },
   {
+    "packageName": "factor",
+    "description": "A general purpose, dynamically typed, stack-based programming language.. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/factor.png"
+  },
+  {
     "packageName": "fafarunner",
     "description": "A game developed using flutter and flame...",
     "icon": "https://portable-linux-apps.github.io/icons/fafarunner.png"
@@ -4113,6 +4233,11 @@
     "packageName": "falkon",
     "description": "Unofficial. A fast Qt web browser from KDE...",
     "icon": "https://portable-linux-apps.github.io/icons/falkon.png"
+  },
+  {
+    "packageName": "false",
+    "description": "Do nothing, unsuccessfully. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/false.png"
   },
   {
     "packageName": "fantascene-dynamic-wallpaper",
@@ -4333,6 +4458,11 @@
     "packageName": "filmulator-gui",
     "description": "Simplified raw editing with the power of film, graphics...",
     "icon": "https://portable-linux-apps.github.io/icons/filmulator-gui.png"
+  },
+  {
+    "packageName": "find",
+    "description": "Files in a directory hierarchy. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/find.png"
   },
   {
     "packageName": "fingrom",
@@ -4563,6 +4693,11 @@
     "packageName": "fms-file-explorer",
     "description": "Access and exploration of data produced...",
     "icon": "https://portable-linux-apps.github.io/icons/fms-file-explorer.png"
+  },
+  {
+    "packageName": "fmt",
+    "description": "Text formatter. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/fmt.png"
   },
   {
     "packageName": "focalizzare",
@@ -5505,6 +5640,31 @@
     "icon": "https://portable-linux-apps.github.io/icons/gozen.png"
   },
   {
+    "packageName": "gp-archive",
+    "description": "Archive profiling experiment data. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/gp-archive.png"
+  },
+  {
+    "packageName": "gp-collect-app",
+    "description": "Collect application performance profiling data. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/gp-collect-app.png"
+  },
+  {
+    "packageName": "gp-display-html",
+    "description": "Generate HTML reports from profiling data. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/gp-display-html.png"
+  },
+  {
+    "packageName": "gp-display-src",
+    "description": "Display source code annotated with profiling data. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/gp-display-src.png"
+  },
+  {
+    "packageName": "gp-display-text",
+    "description": "Display profiling data in plain text format. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/gp-display-text.png"
+  },
+  {
     "packageName": "gpg-tui",
     "description": "CLI, manage your GnuPG keys with ease!..",
     "icon": "https://portable-linux-apps.github.io/icons/gpg-tui.png"
@@ -5523,6 +5683,46 @@
     "packageName": "gpredict",
     "description": "A satellite tracking application...",
     "icon": "https://portable-linux-apps.github.io/icons/gpredict.png"
+  },
+  {
+    "packageName": "gprof",
+    "description": "Graph profile data. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/gprof.png"
+  },
+  {
+    "packageName": "gprofng",
+    "description": "Generation GNU application profiling tool. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/gprofng.png"
+  },
+  {
+    "packageName": "gprofng-archive",
+    "description": "Experiment data. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/gprofng-archive.png"
+  },
+  {
+    "packageName": "gprofng-collect-app",
+    "description": "Data for the target. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/gprofng-collect-app.png"
+  },
+  {
+    "packageName": "gprofng-display-html",
+    "description": "HTML based directory structure. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/gprofng-display-html.png"
+  },
+  {
+    "packageName": "gprofng-display-src",
+    "description": "Code and optionally. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/gprofng-display-src.png"
+  },
+  {
+    "packageName": "gprofng-display-text",
+    "description": "Performance data in plain text. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/gprofng-display-text.png"
+  },
+  {
+    "packageName": "gprofng-gmon",
+    "description": "Display or convert GNU gmon profiling data. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/gprofng-gmon.png"
   },
   {
     "packageName": "gpt-anywhere",
@@ -5648,6 +5848,11 @@
     "packageName": "groot",
     "description": "Graphical Editor to create BehaviorTrees...",
     "icon": "https://portable-linux-apps.github.io/icons/groot.png"
+  },
+  {
+    "packageName": "groups",
+    "description": "Print the groups a user is in. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/groups.png"
   },
   {
     "packageName": "gsequencer",
@@ -5790,6 +5995,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/hctl.png"
   },
   {
+    "packageName": "hd",
+    "description": "Small hex dumper utility (with optional HexII output). This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/hd.png"
+  },
+  {
     "packageName": "hdict",
     "description": "Offline dictionary reader for StarDict, Slob, Mdict and Dictd dictionaries...",
     "icon": "https://portable-linux-apps.github.io/icons/hdict.png"
@@ -5865,6 +6075,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/heroic-games-launcher.png"
   },
   {
+    "packageName": "hexdump",
+    "description": "Display file contents in hexadecimal format. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/hexdump.png"
+  },
+  {
     "packageName": "hexinator",
     "description": "Hex editor for reverse engineering & binary file analysis...",
     "icon": "https://portable-linux-apps.github.io/icons/hexinator.png"
@@ -5918,6 +6133,11 @@
     "packageName": "hmcl",
     "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular...",
     "icon": "https://portable-linux-apps.github.io/icons/hmcl.png"
+  },
+  {
+    "packageName": "hostid",
+    "description": "Print the numeric identifier for the current host. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/hostid.png"
   },
   {
     "packageName": "hotspot",
@@ -6230,6 +6450,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/insomnium.png"
   },
   {
+    "packageName": "install",
+    "description": "Copy files and set attributes. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/install.png"
+  },
+  {
     "packageName": "instead",
     "description": "Simple Text Adventures Interpreter...",
     "icon": "https://portable-linux-apps.github.io/icons/instead.png"
@@ -6528,6 +6753,11 @@
     "packageName": "joaldesktop",
     "description": "Electron application boilerplate...",
     "icon": "https://portable-linux-apps.github.io/icons/joaldesktop.png"
+  },
+  {
+    "packageName": "join",
+    "description": "Of two files on a common field. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/join.png"
   },
   {
     "packageName": "join-desktop",
@@ -7360,6 +7590,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/lcedit.png"
   },
   {
+    "packageName": "ld",
+    "description": "Standalone Linker Compiler. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/ld.png"
+  },
+  {
+    "packageName": "ld.bfd",
+    "description": "The GNU linker with BFD libraries. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/ld.bfd.png"
+  },
+  {
     "packageName": "ldtk",
     "description": "Modern and efficient 2D level editor...",
     "icon": "https://portable-linux-apps.github.io/icons/ldtk.png"
@@ -7530,6 +7770,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/linedancer.png"
   },
   {
+    "packageName": "link",
+    "description": "Call the link function to create a link to a file. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/link.png"
+  },
+  {
     "packageName": "linked",
     "description": "Daily journaling without distraction...",
     "icon": "https://portable-linux-apps.github.io/icons/linked.png"
@@ -7675,9 +7920,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/loginized.png"
   },
   {
+    "packageName": "logname",
+    "description": "Print user's login name. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/logname.png"
+  },
+  {
     "packageName": "logseq",
     "description": "A privacy-first platform for knowledge management and collaboration...",
     "icon": "https://portable-linux-apps.github.io/icons/logseq.png"
+  },
+  {
+    "packageName": "look",
+    "description": "Beginning with a given string. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/look.png"
   },
   {
     "packageName": "looofix",
@@ -8365,9 +8620,24 @@
     "icon": "https://portable-linux-apps.github.io/icons/mkdir.png"
   },
   {
+    "packageName": "mkfifo",
+    "description": "Make FIFOs (named pipes). This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/mkfifo.png"
+  },
+  {
     "packageName": "mki3dgame",
     "description": "A game of searching, in 3D stages...",
     "icon": "https://portable-linux-apps.github.io/icons/mki3dgame.png"
+  },
+  {
+    "packageName": "mknod",
+    "description": "Make block or character special files. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/mknod.png"
+  },
+  {
+    "packageName": "mktemp",
+    "description": "Create a temporary file or directory. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/mktemp.png"
   },
   {
     "packageName": "mkvtoolnix",
@@ -8955,6 +9225,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/nheko.png"
   },
   {
+    "packageName": "nice",
+    "description": "Run a program with modified scheduling priority. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/nice.png"
+  },
+  {
     "packageName": "niffler",
     "description": "A grin gui wallet...",
     "icon": "https://portable-linux-apps.github.io/icons/niffler.png"
@@ -9005,6 +9280,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/nixnote.png"
   },
   {
+    "packageName": "nl",
+    "description": "Number lines of files. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/nl.png"
+  },
+  {
+    "packageName": "nm",
+    "description": "From object files. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/nm.png"
+  },
+  {
     "packageName": "nmeasimulator",
     "description": "NMEA sentence generator utility to broadcast via TCP...",
     "icon": "https://portable-linux-apps.github.io/icons/nmeasimulator.png"
@@ -9028,6 +9313,11 @@
     "packageName": "nodes",
     "description": "A new way to create with code...",
     "icon": "https://portable-linux-apps.github.io/icons/nodes.png"
+  },
+  {
+    "packageName": "nohup",
+    "description": "Run a command immune to hangups, with output to a. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/nohup.png"
   },
   {
     "packageName": "noi",
@@ -9130,6 +9420,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/npm.png"
   },
   {
+    "packageName": "nproc",
+    "description": "Print the number of processing units available. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/nproc.png"
+  },
+  {
     "packageName": "nrf-connect",
     "description": "Framework for desktop apps for development kits...",
     "icon": "https://portable-linux-apps.github.io/icons/nrf-connect.png"
@@ -9188,6 +9483,11 @@
     "packageName": "numara",
     "description": "Simple notepad calculator built on Electron...",
     "icon": "https://portable-linux-apps.github.io/icons/numara.png"
+  },
+  {
+    "packageName": "numfmt",
+    "description": "From/to human-readable strings. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/numfmt.png"
   },
   {
     "packageName": "nunchuk",
@@ -9260,6 +9560,16 @@
     "icon": "https://portable-linux-apps.github.io/icons/nyrna.png"
   },
   {
+    "packageName": "objcopy",
+    "description": "Translate object files. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/objcopy.png"
+  },
+  {
+    "packageName": "objdump",
+    "description": "From object files. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/objdump.png"
+  },
+  {
     "packageName": "obliqoro",
     "description": "A cross-platform tauri gui where Oblique Strategies meets Pomodoro...",
     "icon": "https://portable-linux-apps.github.io/icons/obliqoro.png"
@@ -9308,6 +9618,11 @@
     "packageName": "ocvwarp",
     "description": "Warping images and videos for planetarium fulldome display...",
     "icon": "https://portable-linux-apps.github.io/icons/ocvwarp.png"
+  },
+  {
+    "packageName": "od",
+    "description": "Dump files in octal and other formats. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/od.png"
   },
   {
     "packageName": "odamex",
@@ -9995,6 +10310,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/passphraser.png"
   },
   {
+    "packageName": "paste",
+    "description": "Merge lines of files. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/paste.png"
+  },
+  {
     "packageName": "pastel",
     "description": "A command-line tool to generate, analyze, convert and manipulate colors...",
     "icon": "https://portable-linux-apps.github.io/icons/pastel.png"
@@ -10013,6 +10333,11 @@
     "packageName": "patchwork",
     "description": "Messaging and sharing app built on top of Secure Scuttlebutt...",
     "icon": "https://portable-linux-apps.github.io/icons/patchwork.png"
+  },
+  {
+    "packageName": "pathchk",
+    "description": "File names are valid or portable. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/pathchk.png"
   },
   {
     "packageName": "pathephone",
@@ -10375,6 +10700,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/pingviewer.png"
   },
   {
+    "packageName": "pinky",
+    "description": "Lightweight finger. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/pinky.png"
+  },
+  {
     "packageName": "pinokio",
     "description": "AI Browser...",
     "icon": "https://portable-linux-apps.github.io/icons/pinokio.png"
@@ -10735,6 +11065,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ppsspp.png"
   },
   {
+    "packageName": "pr",
+    "description": "Files for printing. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/pr.png"
+  },
+  {
     "packageName": "pragtical",
     "description": "The practical and pragmatic code editor...",
     "icon": "https://portable-linux-apps.github.io/icons/pragtical.png"
@@ -10763,6 +11098,11 @@
     "packageName": "principia",
     "description": "Open source physics-based sandbox game...",
     "icon": "https://portable-linux-apps.github.io/icons/principia.png"
+  },
+  {
+    "packageName": "printenv",
+    "description": "Print all or part of environment. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/printenv.png"
   },
   {
     "packageName": "printerclient",
@@ -10905,6 +11245,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/psydoom.png"
   },
   {
+    "packageName": "ptx",
+    "description": "Permuted index of file contents. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/ptx.png"
+  },
+  {
     "packageName": "publii",
     "description": "A desktop-based CMS that makes creating static websites fast...",
     "icon": "https://portable-linux-apps.github.io/icons/publii.png"
@@ -10948,6 +11293,11 @@
     "packageName": "puush-qt",
     "description": "A GUI frontend for puush on Linux...",
     "icon": "https://portable-linux-apps.github.io/icons/puush-qt.png"
+  },
+  {
+    "packageName": "pwd",
+    "description": "Print name of current/working directory. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/pwd.png"
   },
   {
     "packageName": "pyappimage",
@@ -11335,6 +11685,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/rambox.png"
   },
   {
+    "packageName": "ranlib",
+    "description": "Index to an archive. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/ranlib.png"
+  },
+  {
     "packageName": "rapidraw",
     "description": "A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind...",
     "icon": "https://portable-linux-apps.github.io/icons/rapidraw.png"
@@ -11428,6 +11783,11 @@
     "packageName": "reactotron",
     "description": "Reactotron desktop mode engage...",
     "icon": "https://portable-linux-apps.github.io/icons/reactotron.png"
+  },
+  {
+    "packageName": "readelf",
+    "description": "About ELF files. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/readelf.png"
   },
   {
     "packageName": "readest",
@@ -11715,6 +12075,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/rm.png"
   },
   {
+    "packageName": "rmdir",
+    "description": "Remove empty directories. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/rmdir.png"
+  },
+  {
     "packageName": "rmg",
     "description": "Rosalie's Mupen GUI...",
     "icon": "https://portable-linux-apps.github.io/icons/rmg.png"
@@ -11843,6 +12208,11 @@
     "packageName": "runanode",
     "description": "Lets run a node...",
     "icon": "https://portable-linux-apps.github.io/icons/runanode.png"
+  },
+  {
+    "packageName": "runcon",
+    "description": "With specified security context. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/runcon.png"
   },
   {
     "packageName": "runelite",
@@ -12175,6 +12545,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/sentinel.png"
   },
   {
+    "packageName": "seq",
+    "description": "Print a sequence of numbers. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/seq.png"
+  },
+  {
     "packageName": "ser-player",
     "description": "Video player for SER files used for astronomy-imaging...",
     "icon": "https://portable-linux-apps.github.io/icons/ser-player.png"
@@ -12265,9 +12640,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/sha1sum.png"
   },
   {
+    "packageName": "sha224sum",
+    "description": "Check SHA224 message digest. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/sha224sum.png"
+  },
+  {
     "packageName": "sha256sum",
     "description": "Compute and check SHA256 message digest. This is part of \"am-utils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/sha256sum.png"
+  },
+  {
+    "packageName": "sha384sum",
+    "description": "Check SHA384 message digest. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/sha384sum.png"
   },
   {
     "packageName": "sha512sum",
@@ -12358,6 +12743,16 @@
     "packageName": "shradiko",
     "description": "Make Portable AppImages from Distro Packages...",
     "icon": "https://portable-linux-apps.github.io/icons/shradiko.png"
+  },
+  {
+    "packageName": "shred",
+    "description": "Overwrite a file to hide its contents, and optionally. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/shred.png"
+  },
+  {
+    "packageName": "shuf",
+    "description": "Generate random permutations. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/shuf.png"
   },
   {
     "packageName": "shutter-encoder",
@@ -12523,6 +12918,11 @@
     "packageName": "siyuan",
     "description": "A local-first personal knowledge management system...",
     "icon": "https://portable-linux-apps.github.io/icons/siyuan.png"
+  },
+  {
+    "packageName": "size",
+    "description": "Sizes and total size of binary files. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/size.png"
   },
   {
     "packageName": "skanpage",
@@ -12860,6 +13260,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/splayer.png"
   },
   {
+    "packageName": "split",
+    "description": "Divide a file into multiple smaller files. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/split.png"
+  },
+  {
     "packageName": "spm",
     "description": "A simple CLI package manager written in bash mainly for AppImages...",
     "icon": "https://portable-linux-apps.github.io/icons/spm.png"
@@ -13010,6 +13415,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/stash-electron.png"
   },
   {
+    "packageName": "stat",
+    "description": "Display file or file system status. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/stat.png"
+  },
+  {
     "packageName": "station",
     "description": "A single place for all of your web applications...",
     "icon": "https://portable-linux-apps.github.io/icons/station.png"
@@ -13023,6 +13433,11 @@
     "packageName": "statuspilatus",
     "description": "Monitor your PC like never before...",
     "icon": "https://portable-linux-apps.github.io/icons/statuspilatus.png"
+  },
+  {
+    "packageName": "stdbuf",
+    "description": "With modified buffering operations for its. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/stdbuf.png"
   },
   {
     "packageName": "steam",
@@ -13185,6 +13600,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/structure.png"
   },
   {
+    "packageName": "stty",
+    "description": "Change and print terminal line settings. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/stty.png"
+  },
+  {
     "packageName": "studymd",
     "description": "Flashcards from Markdown...",
     "icon": "https://portable-linux-apps.github.io/icons/studymd.png"
@@ -13233,6 +13653,11 @@
     "packageName": "sultanpos",
     "description": "Simple POS for minimarket...",
     "icon": "https://portable-linux-apps.github.io/icons/sultanpos.png"
+  },
+  {
+    "packageName": "sum",
+    "description": "Checksum and count the blocks in a file. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/sum.png"
   },
   {
     "packageName": "summoners.war.exporter",
@@ -13445,6 +13870,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/symphonium.png"
   },
   {
+    "packageName": "sync",
+    "description": "Backup and synchronization service. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/sync.png"
+  },
+  {
     "packageName": "syncmyl2p",
     "description": "L2P synchronisation tool...",
     "icon": "https://portable-linux-apps.github.io/icons/syncmyl2p.png"
@@ -13523,6 +13953,11 @@
     "packageName": "tabularis",
     "description": "A lightweight, developer-focused database management tool...",
     "icon": "https://portable-linux-apps.github.io/icons/tabularis.png"
+  },
+  {
+    "packageName": "tac",
+    "description": "Concatenate and print files in reverse. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/tac.png"
   },
   {
     "packageName": "tag-editor",
@@ -13885,6 +14320,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/timenaut.png"
   },
   {
+    "packageName": "timeout",
+    "description": "Run a command with a time limit. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/timeout.png"
+  },
+  {
     "packageName": "tipitaka-pali-reader",
     "description": "A Pali Reading app made in Flutter...",
     "icon": "https://portable-linux-apps.github.io/icons/tipitaka-pali-reader.png"
@@ -14130,6 +14570,21 @@
     "icon": "https://portable-linux-apps.github.io/icons/tropy.png"
   },
   {
+    "packageName": "true",
+    "description": "Do nothing, successfully. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/true.png"
+  },
+  {
+    "packageName": "truncate",
+    "description": "Shrink or extend the size of a file to the specified. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/truncate.png"
+  },
+  {
+    "packageName": "tsort",
+    "description": "Perform a topological sort. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/tsort.png"
+  },
+  {
     "packageName": "tssh",
     "description": "trzsz-ssh is an alternative to ssh client, offers additional features...",
     "icon": "https://portable-linux-apps.github.io/icons/tssh.png"
@@ -14275,6 +14730,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/uivonim.png"
   },
   {
+    "packageName": "ul",
+    "description": "Translate underline sequences for terminals. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/ul.png"
+  },
+  {
     "packageName": "ultragrid",
     "description": "UltraGrid low-latency audio/video network transmission system...",
     "icon": "https://portable-linux-apps.github.io/icons/ultragrid.png"
@@ -14320,6 +14780,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/unetbootin.png"
   },
   {
+    "packageName": "unexpand",
+    "description": "Convert spaces to tabs. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/unexpand.png"
+  },
+  {
     "packageName": "ungoogled-chromium",
     "description": "Chromium Web Browser without Google services...",
     "icon": "https://portable-linux-apps.github.io/icons/ungoogled-chromium.png"
@@ -14338,6 +14803,11 @@
     "packageName": "unleashedrecomp",
     "description": "Unofficial AppImage of UnleashedRecomp (Sonic Unleashed port)..",
     "icon": "https://portable-linux-apps.github.io/icons/unleashedrecomp.png"
+  },
+  {
+    "packageName": "unlink",
+    "description": "Call the unlink function to remove the specified file. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/unlink.png"
   },
   {
     "packageName": "unofficial-homestuck-collection",
@@ -14415,6 +14885,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/urbanterror.png"
   },
   {
+    "packageName": "users",
+    "description": "Print the user names of users currently logged in to the. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/users.png"
+  },
+  {
     "packageName": "utilso",
     "description": "Regex Tester, JWT Verify, Image Converter, Format JSON, Decode.....",
     "icon": "https://portable-linux-apps.github.io/icons/utilso.png"
@@ -14473,6 +14948,11 @@
     "packageName": "vcmi",
     "description": "Unofficial AppImage of vcmi open-source engine for Heroes of Might and Magic III..",
     "icon": "https://portable-linux-apps.github.io/icons/vcmi.png"
+  },
+  {
+    "packageName": "vdir",
+    "description": "List directory contents. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/vdir.png"
   },
   {
     "packageName": "vechain",
@@ -15023,6 +15503,16 @@
     "packageName": "whispering",
     "description": "Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️...",
     "icon": "https://portable-linux-apps.github.io/icons/whispering.png"
+  },
+  {
+    "packageName": "who",
+    "description": "Show who is logged on. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/who.png"
+  },
+  {
+    "packageName": "whoami",
+    "description": "Print effective user name. This is part of \"am-utils\" suite...",
+    "icon": "https://portable-linux-apps.github.io/icons/whoami.png"
   },
   {
     "packageName": "whu-library-seat",
