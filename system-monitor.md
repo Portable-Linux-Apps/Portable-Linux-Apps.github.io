@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **11** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **12** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -84,6 +84,7 @@
 | <img loading="lazy" src="icons/mate-system-monitor.png" width="48" height="48"> | [***mate-system-monitor***](apps/mate-system-monitor.md) | *Unofficial, Process viewer and system resource monitor, from MATE.*..[ *read more* ](apps/mate-system-monitor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mate-system-monitor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mate-system-monitor) |
 | <img loading="lazy" src="icons/system-monitoring-center.png" width="48" height="48"> | [***system-monitoring-center***](apps/system-monitoring-center.md) | *Unofficial. Multi-featured system monitor.*..[ *read more* ](apps/system-monitoring-center.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/system-monitoring-center) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/system-monitoring-center) |
 | <img loading="lazy" src="icons/taskell.png" width="48" height="48"> | [***taskell***](apps/taskell.md) | *Command-line Kanban board/task manager with support for Trello boards and GitHub projects.*..[ *read more* ](apps/taskell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskell) |
+| <img loading="lazy" src="icons/tux-manager.png" width="48" height="48"> | [***tux-manager***](apps/tux-manager.md) | *A Linux Task Manager alternative built with Qt6, inspired by the Windows Task Manager but designed to go further - providing deep visibility into system processes, performance metrics, users, and services.*..[ *read more* ](apps/tux-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tux-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tux-manager) |
 
 
 ---
