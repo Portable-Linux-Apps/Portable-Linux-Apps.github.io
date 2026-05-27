@@ -1,6 +1,6 @@
 # KDEGAMES
 
- This is the full KDE Games suite into one AppImage.
+ This is the KDE Games suite into one AppImage.
 
  Usage:
 
