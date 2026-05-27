@@ -1,15 +1,56 @@
 # KDEGAMES
 
- This is the full and updatable KDE Games suite from JuNest (Jailed User Nest), a lightweight Arch Linux based distribution that allows the creation of  disposable and partially isolated GNU/Linux environments within any generic  GNU/Linux host OS and without requiring root privileges to install packages.
- 
- This scripts includes icons and launchers for the games supported.
- 
- 
- SITE: https://apps.kde.org
- 
- SOURCE: https://archlinux.org/packages/extra/any/kde-games-meta
+ This is the full KDE Games suite into one AppImage.
 
- APPIMAGE: https://github.com/ivan-hc/KDE-games-suite-appimage
+ Usage:
+
+ - kdegames PROGRAM
+ - kdegames PROGRAM OPTIONS
+
+ This scripts includes icons and launchers for the following games:
+
+ - bomber : Arcade spaceship game.
+ - bovo : Five in a row game from.
+ - granatier : Bomberman clone.
+ - kajongg : An ancient Chinese board game for 4 players.
+ - kapman : Pac-Man clone.
+ - katomic : Edu. game based around molecular geometry.
+ - kblackbox : A game of hide and seek.
+ - kblocks : Classic Tetris / falling blocks game.
+ - kbounce : Fill the field game.
+ - kbreakout : Destroy bricks without losing the ball.
+ - kdiamond : Diamond game.
+ - kfourinline : 4 in row game.
+ - kgoldrunner : A game with a runner and gold.
+ - kigo : Go strategic board game for two players.
+ - killbots : Port of the classic console game Robots.
+ - kiriki : A dice game.
+ - kjumpingcube : A game of dices on a board.
+ - klickety : Color matching like SameGame.
+ - klines : Inspired by well known game of Color Lines.
+ - kmahjongg : Mahjongg game.
+ - kmines : Classic mine game.
+ - knavalbattle : Battle Ship game.
+ - knetwalk : Net constructing game.
+ - knights : Chess interface for the KDE Platform.
+ - kolf : Mini Golf game.
+ - kollision : Dodge red balls in the field.
+ - konquest : Game of planets.
+ - kpat : Klondike, Spider, Free Cell and other Solitaire.
+ - kreversi : Reversi game.
+ - kshisen : A game similar to Mahjongg.
+ - ksirk : A strategy board game.
+ - ksnakeduel : A snake race game.
+ - kspaceduel : Battleship with satellites in the space.
+ - ksquares : Win with most number of completed squares.
+ - ksudoku : Sudoku game.
+ - ktuberling : Simple Mr. Potato game for children.
+ - kubrick : A logic game based on Rubik's Cube.
+ - lskat : Fun and engaging card game for two players.
+ - palapeli : Jigsaw puzzle game.
+ - picmi : Single player logic-based puzzle game.
+
+ SITE: https://github.com/ivan-hc/KDE-games-suite-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
