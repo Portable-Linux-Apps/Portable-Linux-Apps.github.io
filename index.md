@@ -8,7 +8,7 @@
 
 --------
 
-#### *This site lists **3220** unique apps (**2638** Appimage packages and **582** standalone/portable programs), plus **78** items.*
+#### *This site lists **3220** unique apps (**2638** Appimage packages and **582** standalone/portable programs), plus **69** items.*
 
 *From here you can download them, install them, update them (for real), get more information about the sources and their developers... and if you want, you can contribute yourself by adding the missing information, because this site is **open source**!*
 
@@ -104,7 +104,7 @@
 --------
 
 ### What are the portable linux apps?
-*Portable Linux Apps are standalone applications for GNU/Linux that can (theoretically) run everywhere, also on a USB stick. These applications can be AppImage packages (see [appimage.org](https://appimage.org/)) or standalone archives (for example Firefox, Thunderbird...).*
+*Portable Linux Apps are standalone applications for GNU/Linux that can (theoretically) run everywhere, also on a USB stick. These applications can be AppImage packages (see [appimage.org](https://appimage.org/)) or standalone archives.*
 
 --------
 
@@ -266,13 +266,11 @@ curl -s -Lo ./AM-INSTALLER https://raw.githubusercontent.com/ivan-hc/AM/main/AM-
 
 *"AM" installs, removes, updates and manages only standalone programs, ie those programs that can be run from a single directory in which they are contained.*
 
-*1. **PORTABLE PROGRAMS** from official sources (see Firefox, Thunderbird, NodeJS, Platform Tools...), extracted from official .deb/tar/zip packages.*
+*1. **PORTABLE PROGRAMS** from official sources (see NodeJS, Platform Tools...), extracted from official .deb/tar/zip packages.*
 
 *2. **APPIMAGES**, from both official and unofficial sources (I also create unofficial AppImages), or compiled on-the-fly with [pkg2appimage](https://github.com/AppImage/pkg2appimage) and [appimagetool](https://github.com/AppImage/AppImageKit), like an AUR helper, from official archives.*
 
-*3. **FIREFOX PROFILES** to run as webapps, the ones with suffix "ffwa-" in the apps list.*
-
-*4. **THIRD-PARTY LIBRARIES** if they are missing in your repositories.*
+*3. **THIRD-PARTY LIBRARIES** if they are missing in your repositories.*
 
 *The database aims to be a reference point where you can download all the AppImage packages scattered around the web, otherwise unobtainable, as you would expect from any package manager, through specific installation scripts for each application, as happens with the AUR PKGBUILDs, on Arch Linux. You can see all of them [here](https://github.com/ivan-hc/AM/tree/main/programs), divided by architecture.*
 
@@ -356,7 +354,6 @@ am -i --user topgrade
   - [Option Zero: "AppImages"](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#option-zero-appimages)
   - [Option One: "build AppImages on-the-fly"](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#option-one-build-appimages-on-the-fly)
   - [Option Two: "Archives and other programs"](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#option-two-archives-and-other-programs)
-  - [Option Three: "Firefox profiles"](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#option-three-firefox-profiles)
   - [How an installation script works](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#how-an-installation-script-works)
   - [How to test an installation script](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#how-to-test-an-installation-script)
   - [How to submit a Pull Request](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#how-to-submit-a-pull-request)

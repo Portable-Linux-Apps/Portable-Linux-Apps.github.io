@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **85** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **85** programs and **2** items for this category and managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -99,7 +99,6 @@
 | <img loading="lazy" src="icons/esearch.png" width="48" height="48"> | [***esearch***](apps/esearch.md) | *Screenshot OCR search translate search for picture paste...*..[ *read more* ](apps/esearch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/esearch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/esearch) |
 | <img loading="lazy" src="icons/exe.png" width="48" height="48"> | [***exe***](apps/exe.md) | *A Elearning XHTML/HTML5 editor.*..[ *read more* ](apps/exe.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/exe) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/exe) |
 | <img loading="lazy" src="icons/fbreader.png" width="48" height="48"> | [***fbreader***](apps/fbreader.md) | *Your Favourite eBook Reader*..[ *read more* ](apps/fbreader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fbreader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fbreader) |
-| <img loading="lazy" src="icons/ffwa-facebook.png" width="48" height="48"> | [***ffwa-facebook***](apps/ffwa-facebook.md) | *WebApp & Firefox Profile for Facebook.*..[ *read more* ](apps/ffwa-facebook.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-facebook) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-facebook) |
 | <img loading="lazy" src="icons/focusatwill.png" width="48" height="48"> | [***focusatwill***](apps/focusatwill.md) | *Combines neuroscience and music to boost productivity.*..[ *read more* ](apps/focusatwill.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/focusatwill) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/focusatwill) |
 | <img loading="lazy" src="icons/frappebooks.png" width="48" height="48"> | [***frappebooks***](apps/frappebooks.md) | *Book-keeping software for small-businesses and freelancers.*..[ *read more* ](apps/frappebooks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/frappebooks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/frappebooks) |
 | <img loading="lazy" src="icons/gaiasky.png" width="48" height="48"> | [***gaiasky***](apps/gaiasky.md) | *Gaia Sky, a real-time 3D space simulator & astronomy visualisation.*..[ *read more* ](apps/gaiasky.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gaiasky) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gaiasky) |
