@@ -59,7 +59,6 @@
   <a class="cat-pill" href="video.html">video</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="web-app.html">web-app</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="am-utils.html">am-utils</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="android.html">android</a>
