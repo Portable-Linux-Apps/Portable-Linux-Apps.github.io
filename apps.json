@@ -106,7 +106,7 @@
   },
   {
     "packageName": "adb",
-    "description": "Android Debug Bridge, a command line utility to handle Android devices. This script installs the full \"platform-tools\" suite...",
+    "description": "Command-line tool for communicating with Android devices or emulators. This is part of \"platform-tools\"...",
     "icon": "https://portable-linux-apps.github.io/icons/adb.png"
   },
   {
@@ -736,7 +736,7 @@
   },
   {
     "packageName": "ark",
-    "description": "Unofficial. Archiving tool for .zip/.tar/.rar and more. This script installs the full \"kdeutils\" suite...",
+    "description": "Archiving tool for .zip/.tar/.rar and more. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/ark.png"
   },
   {
@@ -1481,7 +1481,7 @@
   },
   {
     "packageName": "bomber",
-    "description": "Unofficial. Arcade spaceship game. This script installs the full \"kdegames\" suite...",
+    "description": "Arcade spaceship game. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/bomber.png"
   },
   {
@@ -1536,7 +1536,7 @@
   },
   {
     "packageName": "bovo",
-    "description": "Unofficial. Five in a row game from. This script installs the full \"kdegames\" suite...",
+    "description": "Five in a row game from. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/bovo.png"
   },
   {
@@ -4030,6 +4030,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/espi.png"
   },
   {
+    "packageName": "etc1tool",
+    "description": "Utility for compressing and decompressing ETC1 texture files. This is part of \"platform-tools\"...",
+    "icon": "https://portable-linux-apps.github.io/icons/etc1tool.png"
+  },
+  {
     "packageName": "etcher",
     "description": "Flash OS images to SD cards and USB drives, Balena Etcher...",
     "icon": "https://portable-linux-apps.github.io/icons/etcher.png"
@@ -4256,7 +4261,7 @@
   },
   {
     "packageName": "fastboot",
-    "description": "Tool to flash Android devices. This script installs the full \"platform-tools\" suite...",
+    "description": "Android bootloader tool for flashing, unlocking, and managing firmware. This is part of \"platform-tools\"...",
     "icon": "https://portable-linux-apps.github.io/icons/fastboot.png"
   },
   {
@@ -4816,7 +4821,7 @@
   },
   {
     "packageName": "francis",
-    "description": "Pomodoro technique, get more productive. This script installs the full \"kdeutils\" suite...",
+    "description": "Pomodoro technique, get more productive. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/francis.png"
   },
   {
@@ -5766,7 +5771,7 @@
   },
   {
     "packageName": "granatier",
-    "description": "Bomberman clone. This script installs the full \"kdegames\" suite...",
+    "description": "Bomberman clone. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/granatier.png"
   },
   {
@@ -6158,6 +6163,11 @@
     "packageName": "hpack",
     "description": "A fine tool to convert any data into C header...",
     "icon": "https://portable-linux-apps.github.io/icons/hpack.png"
+  },
+  {
+    "packageName": "hprof-conv",
+    "description": "Converts Android HPROF heap dumps to standard Java HPROF format. This is part of \"platform-tools\"...",
+    "icon": "https://portable-linux-apps.github.io/icons/hprof-conv.png"
   },
   {
     "packageName": "hsinstall",
@@ -6586,7 +6596,7 @@
   },
   {
     "packageName": "isoimagewriter",
-    "description": "Write an ISO Image to a USB Disk. This script installs the full \"kdeutils\" suite...",
+    "description": "Write an ISO Image to a USB Disk. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/isoimagewriter.png"
   },
   {
@@ -6861,7 +6871,7 @@
   },
   {
     "packageName": "kajongg",
-    "description": "Unofficial, An ancient Chinese board game for 4 players. This script installs the full \"kdegames\" suite...",
+    "description": "An ancient Chinese board game for 4 players. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kajongg.png"
   },
   {
@@ -6881,7 +6891,7 @@
   },
   {
     "packageName": "kalm",
-    "description": "Unofficial, Teach you different breathing techniques. This script installs the full \"kdeutils\" suite...",
+    "description": "Teach you different breathing techniques. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kalm.png"
   },
   {
@@ -6906,7 +6916,7 @@
   },
   {
     "packageName": "kapman",
-    "description": "Pac-Man clone. This script installs the full \"kdegames\" suite...",
+    "description": "Pac-Man clone. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kapman.png"
   },
   {
@@ -6921,12 +6931,12 @@
   },
   {
     "packageName": "kate",
-    "description": "Unofficial, A multi-document editor part of KDE. This script installs the full \"kdeutils\" suite...",
+    "description": "A multi-document editor part of KDE. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kate.png"
   },
   {
     "packageName": "katomic",
-    "description": "Edu. game based around molecular geometry. This script installs the full \"kdegames\" suite...",
+    "description": "Edu. game based around molecular geometry. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/katomic.png"
   },
   {
@@ -6936,17 +6946,17 @@
   },
   {
     "packageName": "kbackup",
-    "description": "Back up your data. This script installs the full \"kdeutils\" suite...",
+    "description": "Back up your data. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kbackup.png"
   },
   {
     "packageName": "kblackbox",
-    "description": "Unofficial, A game of hide and seek. This script installs the full \"kdegames\" suite...",
+    "description": "A game of hide and seek. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kblackbox.png"
   },
   {
     "packageName": "kblocks",
-    "description": "Unofficial, Classic Tetris / falling blocks game. This script installs the full \"kdegames\" suite...",
+    "description": "Classic Tetris / falling blocks game. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kblocks.png"
   },
   {
@@ -6956,17 +6966,17 @@
   },
   {
     "packageName": "kbounce",
-    "description": "Unofficial, Fill the field game. This script installs the full \"kdegames\" suite...",
+    "description": "Fill the field game. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kbounce.png"
   },
   {
     "packageName": "kbreakout",
-    "description": "Unofficial, Destroy bricks without losing the ball. This script installs the full \"kdegames\" suite...",
+    "description": "Destroy bricks without losing the ball. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kbreakout.png"
   },
   {
     "packageName": "kcalc",
-    "description": "Unofficial, Scientific Calculator. This script installs the full \"kdeutils\" suite...",
+    "description": "Scientific Calculator. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kcalc.png"
   },
   {
@@ -6976,12 +6986,12 @@
   },
   {
     "packageName": "kcharselect",
-    "description": "Unofficial, Character Selector. This script installs the full \"kdeutils\" suite...",
+    "description": "Character Selector. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kcharselect.png"
   },
   {
     "packageName": "kclock",
-    "description": "Unofficial, A universal clock application. This script installs the full \"kdeutils\" suite...",
+    "description": "A universal clock application. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kclock.png"
   },
   {
@@ -6991,7 +7001,7 @@
   },
   {
     "packageName": "kdebugsettings",
-    "description": "Unofficial, Edits displayed QLoggingCategory. This script installs the full \"kdeutils\" suite...",
+    "description": "Edits displayed QLoggingCategory. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kdebugsettings.png"
   },
   {
@@ -7016,17 +7026,17 @@
   },
   {
     "packageName": "kdf",
-    "description": "Unofficial, view Disk Usage. This script installs the full \"kdeutils\" suite...",
+    "description": "view Disk Usage. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kdf.png"
   },
   {
     "packageName": "kdialog",
-    "description": "Unofficial, a dialog utility. This script installs the full \"kdeutils\" suite...",
+    "description": "a dialog utility. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kdialog.png"
   },
   {
     "packageName": "kdiamond",
-    "description": "Unofficial, Diamond game. This script installs the full \"kdegames\" suite...",
+    "description": "Diamond game. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kdiamond.png"
   },
   {
@@ -7036,7 +7046,7 @@
   },
   {
     "packageName": "keditbookmarks",
-    "description": "Unofficial, Bookmarks editor. This script installs the full \"kdeutils\" suite...",
+    "description": "Bookmarks editor. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/keditbookmarks.png"
   },
   {
@@ -7111,17 +7121,17 @@
   },
   {
     "packageName": "keysmith",
-    "description": "Generates tokens for your two-factor logins. This script installs the full \"kdeutils\" suite...",
+    "description": "Generates tokens for your two-factor logins. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/keysmith.png"
   },
   {
     "packageName": "kfind",
-    "description": "A search tool. This script installs the full \"kdeutils\" suite...",
+    "description": "A search tool. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kfind.png"
   },
   {
     "packageName": "kfourinline",
-    "description": "Unofficial, 4 in row game. This script installs the full \"kdegames\" suite...",
+    "description": "4 in row game. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kfourinline.png"
   },
   {
@@ -7131,12 +7141,12 @@
   },
   {
     "packageName": "kgoldrunner",
-    "description": "Unofficial, A game with a runner and gold. This script installs the full \"kdegames\" suite...",
+    "description": "A game with a runner and gold. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kgoldrunner.png"
   },
   {
     "packageName": "kgpg",
-    "description": "A GnuPG frontend. This script installs the full \"kdeutils\" suite...",
+    "description": "A GnuPG frontend. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kgpg.png"
   },
   {
@@ -7156,7 +7166,7 @@
   },
   {
     "packageName": "kigo",
-    "description": "Unofficial, Go strategic board game for two players. This script installs the full \"kdegames\" suite...",
+    "description": "Go strategic board game for two players. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kigo.png"
   },
   {
@@ -7181,7 +7191,7 @@
   },
   {
     "packageName": "killbots",
-    "description": "Unofficial, Port of the classic console game Robots. This script installs the full \"kdegames\" suite...",
+    "description": "Port of the classic console game Robots. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/killbots.png"
   },
   {
@@ -7206,7 +7216,7 @@
   },
   {
     "packageName": "kiriki",
-    "description": "A dice game. This script installs the full \"kdegames\" suite...",
+    "description": "A dice game. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kiriki.png"
   },
   {
@@ -7231,17 +7241,17 @@
   },
   {
     "packageName": "kjumpingcube",
-    "description": "A game of dices on a board. This script installs the full \"kdegames\" suite...",
+    "description": "A game of dices on a board. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kjumpingcube.png"
   },
   {
     "packageName": "klickety",
-    "description": "Color matching like SameGame. This script installs the full \"kdegames\" suite...",
+    "description": "Color matching like SameGame. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/klickety.png"
   },
   {
     "packageName": "klines",
-    "description": "Inspired by well known game of Color Lines. This script installs the full \"kdegames\" suite...",
+    "description": "Inspired by well known game of Color Lines. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/klines.png"
   },
   {
@@ -7256,12 +7266,12 @@
   },
   {
     "packageName": "kmahjongg",
-    "description": "Unofficial, Mahjongg game. This script installs the full \"kdegames\" suite...",
+    "description": "Mahjongg game. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kmahjongg.png"
   },
   {
     "packageName": "kmines",
-    "description": "Unofficial, Classic mine game. This script installs the full \"kdegames\" suite...",
+    "description": "Classic mine game. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kmines.png"
   },
   {
@@ -7281,17 +7291,17 @@
   },
   {
     "packageName": "knavalbattle",
-    "description": "Unofficial, Battle Ship game. This script installs the full \"kdegames\" suite...",
+    "description": "Battle Ship game. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/knavalbattle.png"
   },
   {
     "packageName": "knetwalk",
-    "description": "Unofficial, Net constructing game. This script installs the full \"kdegames\" suite...",
+    "description": "Net constructing game. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/knetwalk.png"
   },
   {
     "packageName": "knights",
-    "description": "Unofficial, Chess interface for the KDE Platform. This script installs the full \"kdegames\" suite...",
+    "description": "Chess interface for the KDE Platform. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/knights.png"
   },
   {
@@ -7311,12 +7321,12 @@
   },
   {
     "packageName": "kolf",
-    "description": "Unofficial, Mini Golf game. This script installs the full \"kdegames\" suite...",
+    "description": "Mini Golf game. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kolf.png"
   },
   {
     "packageName": "kollision",
-    "description": "Unofficial, Dodge red balls in the field. This script installs the full \"kdegames\" suite...",
+    "description": "Dodge red balls in the field. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kollision.png"
   },
   {
@@ -7326,12 +7336,12 @@
   },
   {
     "packageName": "kongress",
-    "description": "Unofficial, A companion application for conferences. This script installs the full \"kdeutils\" suite...",
+    "description": "A companion application for conferences. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kongress.png"
   },
   {
     "packageName": "konquest",
-    "description": "Game of planets. This script installs the full \"kdegames\" suite...",
+    "description": "Game of planets. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/konquest.png"
   },
   {
@@ -7356,17 +7366,17 @@
   },
   {
     "packageName": "kpat",
-    "description": "Unofficial, Klondike, Spider, Free Cell and other Solitaire. This script installs the full \"kdegames\" suite...",
+    "description": "Klondike, Spider, Free Cell and other Solitaire. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kpat.png"
   },
   {
     "packageName": "krecorder",
-    "description": "Unofficial, An audio recording application. This script installs the full \"kdeutils\" suite...",
+    "description": "An audio recording application. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/krecorder.png"
   },
   {
     "packageName": "kreversi",
-    "description": "Reversi game. This script installs the full \"kdegames\" suite...",
+    "description": "Reversi game. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kreversi.png"
   },
   {
@@ -7396,17 +7406,17 @@
   },
   {
     "packageName": "kshisen",
-    "description": "A game similar to Mahjongg. This script installs the full \"kdegames\" suite...",
+    "description": "A game similar to Mahjongg. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kshisen.png"
   },
   {
     "packageName": "ksirk",
-    "description": "A strategy board game. This script installs the full \"kdegames\" suite...",
+    "description": "A strategy board game. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/ksirk.png"
   },
   {
     "packageName": "ksnakeduel",
-    "description": "A snake race game. This script installs the full \"kdegames\" suite...",
+    "description": "A snake race game. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/ksnakeduel.png"
   },
   {
@@ -7416,37 +7426,37 @@
   },
   {
     "packageName": "kspaceduel",
-    "description": "Unofficial, Battleship with satellites in the space. This script installs the full \"kdegames\" suite...",
+    "description": "Battleship with satellites in the space. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kspaceduel.png"
   },
   {
     "packageName": "ksquares",
-    "description": "Unofficial, Win with most number of completed squares. This script installs the full \"kdegames\" suite...",
+    "description": "Win with most number of completed squares. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/ksquares.png"
   },
   {
     "packageName": "ksudoku",
-    "description": "Unofficial, Sudoku game. This script installs the full \"kdegames\" suite...",
+    "description": "Sudoku game. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/ksudoku.png"
   },
   {
     "packageName": "kteatime",
-    "description": "Unofficial, A handy timer for steeping tea. This script installs the full \"kdeutils\" suite...",
+    "description": "A handy timer for steeping tea. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kteatime.png"
   },
   {
     "packageName": "ktimer",
-    "description": "Unofficial, Countdown Launcher. This script installs the full \"kdeutils\" suite...",
+    "description": "Countdown Launcher. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/ktimer.png"
   },
   {
     "packageName": "ktrip",
-    "description": "Unofficial, KTrip helps you navigate in public transport. This script installs the full \"kdeutils\" suite...",
+    "description": "KTrip helps you navigate in public transport. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/ktrip.png"
   },
   {
     "packageName": "ktuberling",
-    "description": "Unofficial, Simple Mr. Potato game for children. This script installs the full \"kdegames\" suite...",
+    "description": "Simple Mr. Potato game for children. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/ktuberling.png"
   },
   {
@@ -7461,7 +7471,7 @@
   },
   {
     "packageName": "kubrick",
-    "description": "Unofficial, A logic game based on Rubik's Cube. This script installs the full \"kdegames\" suite...",
+    "description": "A logic game based on Rubik's Cube. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kubrick.png"
   },
   {
@@ -7486,12 +7496,12 @@
   },
   {
     "packageName": "kweather",
-    "description": "A convergent weather application. This script installs the full \"kdeutils\" suite...",
+    "description": "A convergent weather application. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kweather.png"
   },
   {
     "packageName": "kwrite",
-    "description": "Unofficial, KWrite is a text editor by KDE. This script installs the full \"kdeutils\" suite...",
+    "description": "KWrite is a text editor by KDE. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kwrite.png"
   },
   {
@@ -8001,7 +8011,7 @@
   },
   {
     "packageName": "lskat",
-    "description": "Unofficial, Fun and engaging card game for two players. This script installs the full \"kdegames\" suite...",
+    "description": "Fun and engaging card game for two players. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/lskat.png"
   },
   {
@@ -8093,6 +8103,16 @@
     "packageName": "makagiga",
     "description": "To-do manager, notepad, RSS reader and much more...",
     "icon": "https://portable-linux-apps.github.io/icons/makagiga.png"
+  },
+  {
+    "packageName": "make_f2fs",
+    "description": "Creates F2FS filesystems optimized for flash storage. This is part of \"platform-tools\"...",
+    "icon": "https://portable-linux-apps.github.io/icons/make_f2fs.png"
+  },
+  {
+    "packageName": "make_f2fs_casefold",
+    "description": "Creates F2FS filesystems with case-insensitive filename support. This is part of \"platform-tools\"...",
+    "icon": "https://portable-linux-apps.github.io/icons/make_f2fs_casefold.png"
   },
   {
     "packageName": "makhber",
@@ -8618,6 +8638,11 @@
     "packageName": "mkdir",
     "description": "Make directories. This is part of \"am-utils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/mkdir.png"
+  },
+  {
+    "packageName": "mke2fs",
+    "description": "Creates ext2/ext3/ext4 Linux filesystems. This is part of \"platform-tools\"...",
+    "icon": "https://portable-linux-apps.github.io/icons/mke2fs.png"
   },
   {
     "packageName": "mkfifo",
@@ -9416,13 +9441,18 @@
   },
   {
     "packageName": "npm",
-    "description": "Package manager for Node.js. This script installs the full \"node\" suite...",
+    "description": "Package manager for Node.js dependencies and modules. This is part of \"node\"...",
     "icon": "https://portable-linux-apps.github.io/icons/npm.png"
   },
   {
     "packageName": "nproc",
     "description": "Print the number of processing units available. This is part of \"am-utils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/nproc.png"
+  },
+  {
+    "packageName": "npx",
+    "description": "Runs commands from npm packages without manual installation. This is part of \"node\"...",
+    "icon": "https://portable-linux-apps.github.io/icons/npx.png"
   },
   {
     "packageName": "nrf-connect",
@@ -10206,7 +10236,7 @@
   },
   {
     "packageName": "palapeli",
-    "description": "Jigsaw puzzle game. This script installs the full \"kdegames\" suite...",
+    "description": "Jigsaw puzzle game. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/palapeli.png"
   },
   {
@@ -10621,7 +10651,7 @@
   },
   {
     "packageName": "picmi",
-    "description": "Single player logic-based puzzle game. This script installs the full \"kdegames\" suite...",
+    "description": "Single player logic-based puzzle game. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/picmi.png"
   },
   {
@@ -12926,7 +12956,7 @@
   },
   {
     "packageName": "skanpage",
-    "description": "A simple scanning application. This script installs the full \"kdeutils\" suite...",
+    "description": "A simple scanning application. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/skanpage.png"
   },
   {
@@ -13338,6 +13368,11 @@
     "packageName": "spyglass",
     "description": "A personal search engine to create a searchable library from your personal documents, interests, and more...",
     "icon": "https://portable-linux-apps.github.io/icons/spyglass.png"
+  },
+  {
+    "packageName": "sqlite3",
+    "description": "Command-line tool for managing SQLite databases. This is part of \"platform-tools\"...",
+    "icon": "https://portable-linux-apps.github.io/icons/sqlite3.png"
   },
   {
     "packageName": "sqlitebrowser",
@@ -13816,7 +13851,7 @@
   },
   {
     "packageName": "sweeper",
-    "description": "Unofficial. System Cleaner. This script installs the full \"kdeutils\" suite...",
+    "description": "System Cleaner. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/sweeper.png"
   },
   {
@@ -14096,7 +14131,7 @@
   },
   {
     "packageName": "telly-skout",
-    "description": "A convergent Kirigami TV guide. This script installs the full \"kdeutils\" suite...",
+    "description": "A convergent Kirigami TV guide. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/telly-skout.png"
   },
   {
