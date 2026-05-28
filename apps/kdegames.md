@@ -49,6 +49,8 @@
  - palapeli : Jigsaw puzzle game.
  - picmi : Single player logic-based puzzle game.
 
+ Note, if you don't see one listed (e.g. knights), there probably already is a standalone AppImage in this database.
+
  SITE: https://github.com/ivan-hc/KDE-games-suite-appimage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)

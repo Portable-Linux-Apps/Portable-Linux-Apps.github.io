@@ -1,6 +1,6 @@
 # KDEUTILS
 
- This is the KDE utils suite into one AppImage.
+ This is the KDE Utils suite into one AppImage.
 
  Usage:
 
@@ -35,6 +35,8 @@
  - skanpage : A simple scanning application.
  - sweeper : System Cleaner.
  - telly-skout : A convergent Kirigami TV guide.
+
+ Note, if you don't see one listed (e.g. filelight), there probably already is a standalone AppImage in this database.
 
  SITE: https://github.com/ivan-hc/KDE-utils-appimage
 
