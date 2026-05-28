@@ -32,7 +32,6 @@
  - kmines : Classic mine game.
  - knavalbattle : Battle Ship game.
  - knetwalk : Net constructing game.
- - knights : Chess interface for the KDE Platform.
  - kolf : Mini Golf game.
  - kollision : Dodge red balls in the field.
  - konquest : Game of planets.
