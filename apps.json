@@ -7301,7 +7301,7 @@
   },
   {
     "packageName": "knights",
-    "description": "Chess interface for the KDE Platform. This is part of \"kdegames\"...",
+    "description": "Unofficial, KDE's chess game frontend...",
     "icon": "https://portable-linux-apps.github.io/icons/knights.png"
   },
   {
