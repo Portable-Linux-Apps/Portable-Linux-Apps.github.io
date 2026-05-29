@@ -22,6 +22,8 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="am-utils.html">am-utils</a>
   <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="appimage-on-the-fly.html">appimage-on-the-fly</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="android.html">android</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="audio.html">audio</a>
@@ -57,6 +59,10 @@
   <a class="cat-pill" href="password.html">password</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="portable.html">Portable</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="portable-cli.html">portable-cli</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="portable-desktop.html">portable-desktop</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="steam.html">steam</a>
   <span class="cat-sep" aria-hidden="true">•</span>

@@ -1,4 +1,4 @@
-# SYSTEM-MONITOR
+# APPIMAGE-ON-THE-FLY
 
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
@@ -22,7 +22,7 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="am-utils.html">am-utils</a>
   <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="appimage-on-the-fly.html">appimage-on-the-fly</a>
+  <a class="cat-pill cat-pill--all" href="appimage-on-the-fly.html">appimage-on-the-fly</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="android.html">android</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -66,7 +66,7 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="steam.html">steam</a>
   <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill cat-pill--all" href="system-monitor.html">system-monitor</a>
+  <a class="cat-pill" href="system-monitor.html">system-monitor</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="video.html">video</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -85,18 +85,18 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
-| <img loading="lazy" src="icons/bottom.png" width="48" height="48"> | [***bottom***](apps/bottom.md) | *Yet another cross-platform graphical process/system monitor.*..[ *read more* ](apps/bottom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bottom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bottom) |
-| <img loading="lazy" src="icons/btop.png" width="48" height="48"> | [***btop***](apps/btop.md) | *A command line utility to monitor system resources, like Htop.*..[ *read more* ](apps/btop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/btop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/btop) |
-| <img loading="lazy" src="icons/conky.png" width="48" height="48"> | [***conky***](apps/conky.md) | *Light-weight system monitor for X.*..[ *read more* ](apps/conky.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/conky) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/conky) |
-| <img loading="lazy" src="icons/corestats.png" width="48" height="48"> | [***corestats***](apps/corestats.md) | *A system resource viewer from the CoreApps family.*..[ *read more* ](apps/corestats.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/corestats) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/corestats) |
-| <img loading="lazy" src="icons/coretime.png" width="48" height="48"> | [***coretime***](apps/coretime.md) | *A time related task manager for CuboCore Application Suite.*..[ *read more* ](apps/coretime.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/coretime) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/coretime) |
-| <img loading="lazy" src="icons/gnome-system-monitor.png" width="48" height="48"> | [***gnome-system-monitor***](apps/gnome-system-monitor.md) | *Unofficial. View current processes and monitor system state.*..[ *read more* ](apps/gnome-system-monitor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-system-monitor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-system-monitor) |
-| <img loading="lazy" src="icons/htop.png" width="48" height="48"> | [***htop***](apps/htop.md) | *Unofficial, CLI utility to monitor system resources.*..[ *read more* ](apps/htop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/htop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/htop) |
-| <img loading="lazy" src="icons/lxtask.png" width="48" height="48"> | [***lxtask***](apps/lxtask.md) | *Unofficial. A lightweight and desktop-independent task manager.*..[ *read more* ](apps/lxtask.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lxtask) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lxtask) |
-| <img loading="lazy" src="icons/mate-system-monitor.png" width="48" height="48"> | [***mate-system-monitor***](apps/mate-system-monitor.md) | *Unofficial, Process viewer and system resource monitor, from MATE.*..[ *read more* ](apps/mate-system-monitor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mate-system-monitor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mate-system-monitor) |
-| <img loading="lazy" src="icons/system-monitoring-center.png" width="48" height="48"> | [***system-monitoring-center***](apps/system-monitoring-center.md) | *Unofficial. Multi-featured system monitor.*..[ *read more* ](apps/system-monitoring-center.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/system-monitoring-center) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/system-monitoring-center) |
-| <img loading="lazy" src="icons/taskell.png" width="48" height="48"> | [***taskell***](apps/taskell.md) | *Command-line Kanban board/task manager with support for Trello boards and GitHub projects.*..[ *read more* ](apps/taskell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskell) |
-| <img loading="lazy" src="icons/tux-manager.png" width="48" height="48"> | [***tux-manager***](apps/tux-manager.md) | *A Linux Task Manager alternative built with Qt6, inspired by the Windows Task Manager but designed to go further - providing deep visibility into system processes, performance metrics, users, and services.*..[ *read more* ](apps/tux-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tux-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tux-manager) |
+| <img loading="lazy" src="icons/antigravity.png" width="48" height="48"> | [***antigravity***](apps/antigravity.md) | *Google Antigravity IDE.*..[ *read more* ](apps/antigravity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/antigravity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/antigravity) |
+| <img loading="lazy" src="icons/czkawka.png" width="48" height="48"> | [***czkawka***](apps/czkawka.md) | *App to find duplicates, empty folders, similar images etc.*..[ *read more* ](apps/czkawka.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/czkawka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/czkawka) |
+| <img loading="lazy" src="icons/fdm.png" width="48" height="48"> | [***fdm***](apps/fdm.md) | *Free Download Manager, multiplatform powerful modern download accelerator and organizer.*..[ *read more* ](apps/fdm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fdm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fdm) |
+| <img loading="lazy" src="icons/krokiet.png" width="48" height="48"> | [***krokiet***](apps/krokiet.md) | *App to find duplicates, empty folders, similar images etc. The successor of czkawka.*..[ *read more* ](apps/krokiet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/krokiet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/krokiet) |
+| <img loading="lazy" src="icons/ntsc-rs.png" width="48" height="48"> | [***ntsc-rs***](apps/ntsc-rs.md) | *Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).*..[ *read more* ](apps/ntsc-rs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ntsc-rs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ntsc-rs) |
+| <img loading="lazy" src="icons/ollama.png" width="48" height="48"> | [***ollama***](apps/ollama.md) | *Get up and running with Llama 3, Mistral, Gemma, and other LLMs.*..[ *read more* ](apps/ollama.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ollama) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ollama) |
+| <img loading="lazy" src="icons/syncthing.png" width="48" height="48"> | [***syncthing***](apps/syncthing.md) | *Open Source Continuous File Synchronization.*..[ *read more* ](apps/syncthing.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/syncthing) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/syncthing) |
+| <img loading="lazy" src="icons/syncthingctl.png" width="48" height="48"> | [***syncthingctl***](apps/syncthingctl.md) | *Tray control application and Dolphin/Plasma integration for Syncthing.*..[ *read more* ](apps/syncthingctl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/syncthingctl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/syncthingctl) |
+| <img loading="lazy" src="icons/syncthingtray.png" width="48" height="48"> | [***syncthingtray***](apps/syncthingtray.md) | *Tray application and Dolphin/Plasma integration for Syncthing.*..[ *read more* ](apps/syncthingtray.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/syncthingtray) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/syncthingtray) |
+| <img loading="lazy" src="icons/terabox.png" width="48" height="48"> | [***terabox***](apps/terabox.md) | *Terabox is the simplest way to send your files around the world. Back up and Share photos, videos, docs, and other files of any size to cloud storage.*..[ *read more* ](apps/terabox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/terabox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/terabox) |
+| <img loading="lazy" src="icons/tixati.png" width="48" height="48"> | [***tixati***](apps/tixati.md) | *A New and Powerful P2P System 100% Free, Simple and Easy to Use Bittorrent Client.*..[ *read more* ](apps/tixati.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tixati) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tixati) |
+| <img loading="lazy" src="icons/windows95.png" width="48" height="48"> | [***windows95***](apps/windows95.md) | *Unofficial. Windows 95 in Electron.*..[ *read more* ](apps/windows95.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/windows95) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/windows95) |
 
 
 ---
