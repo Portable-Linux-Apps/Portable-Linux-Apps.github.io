@@ -1,4 +1,4 @@
-# APPIMAGE-ON-THE-FLY
+# APPIMAGE ON THE FLY
 
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |

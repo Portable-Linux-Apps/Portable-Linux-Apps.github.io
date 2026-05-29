@@ -1,4 +1,4 @@
-# WEB-BROWSER
+# WEB BROWSER
 
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |

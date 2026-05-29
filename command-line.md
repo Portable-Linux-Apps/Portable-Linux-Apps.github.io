@@ -1,4 +1,4 @@
-# COMMAND-LINE
+# COMMAND LINE
 
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |

@@ -1,4 +1,4 @@
-# WEB-APP
+# WEB APP
 
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |

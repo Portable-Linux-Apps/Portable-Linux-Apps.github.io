@@ -1,4 +1,4 @@
-# AM-UTILS
+# AM UTILS
 
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |

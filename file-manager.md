@@ -1,4 +1,4 @@
-# FILE-MANAGER
+# FILE MANAGER
 
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |

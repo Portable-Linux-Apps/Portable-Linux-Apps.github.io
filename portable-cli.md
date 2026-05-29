@@ -1,4 +1,4 @@
-# PORTABLE-CLI
+# PORTABLE CLI
 
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
