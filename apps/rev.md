@@ -1,6 +1,6 @@
 # REV
 
- No description available. This is part of "am-utils" suite.
+ Reverse lines characterwise. This is part of "am-utils" suite.
 
  SITE: https://github.com/ivan-hc/am-utils
 
