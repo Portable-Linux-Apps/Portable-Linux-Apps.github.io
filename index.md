@@ -8,7 +8,7 @@
 
 --------
 
-#### *This site lists **3222** unique apps (**2640** Appimage packages and **582** standalone/portable programs), plus **75** items.*
+#### *This site lists **3223** unique apps (**2641** Appimage packages and **582** standalone/portable programs), plus **75** items.*
 
 *From here you can download them, install them, update them (for real), get more information about the sources and their developers... and if you want, you can contribute yourself by adding the missing information, because this site is **open source**!*
 
@@ -31,19 +31,8 @@
 #### *Categories*
 
 <div class="cat-grid">
-  <a class="cat-pill" href="am-utils.html">am-utils</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="android.html">android</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="appimages.html">AppImages</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="audio.html">audio</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="comic.html">comic</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="command-line.html">command-line</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="communication.html">communication</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="disk.html">disk</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -51,13 +40,7 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="file-manager.html">file-manager</a>
   <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="finance.html">finance</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="game.html">game</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="gnome.html">gnome</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="graphic.html">graphic</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="internet.html">internet</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -73,11 +56,30 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="steam.html">steam</a>
   <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="system-monitor.html">system-monitor</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="video.html">video</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="web-app.html">web-app</a>
+  <a class="cat-pill" href="ai.html">ai</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="am-utils.html">am-utils</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="android.html">android</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="appimages.html">AppImages</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="audio.html">audio</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="command-line.html">command-line</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="communication.html">communication</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="finance.html">finance</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="gnome.html">gnome</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="graphic.html">graphic</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="system-monitor.html">system-monitor</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="web-browser.html">web-browser</a>
   <span class="cat-sep" aria-hidden="true">•</span>

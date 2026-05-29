@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **63** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **75** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -16,19 +16,8 @@
 #### *Categories*
 
 <div class="cat-grid">
-  <a class="cat-pill" href="am-utils.html">am-utils</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="android.html">android</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="appimages.html">AppImages</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="audio.html">audio</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="comic.html">comic</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="command-line.html">command-line</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="communication.html">communication</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="disk.html">disk</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -36,13 +25,7 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="file-manager.html">file-manager</a>
   <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="finance.html">finance</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="game.html">game</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="gnome.html">gnome</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="graphic.html">graphic</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="internet.html">internet</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -58,11 +41,30 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="steam.html">steam</a>
   <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="system-monitor.html">system-monitor</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="video.html">video</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="web-app.html">web-app</a>
+  <a class="cat-pill" href="ai.html">ai</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="am-utils.html">am-utils</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="android.html">android</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="appimages.html">AppImages</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="audio.html">audio</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="command-line.html">command-line</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="communication.html">communication</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="finance.html">finance</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="gnome.html">gnome</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="graphic.html">graphic</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="system-monitor.html">system-monitor</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill cat-pill--all" href="web-browser.html">web-browser</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -77,16 +79,20 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
-| <img loading="lazy" src="icons/adobe-flash-player.png" width="48" height="48"> | [***adobe-flash-player***](apps/adobe-flash-player.md) | *Unofficial port. Adobe Flash is a mostly discontinued multimedia software platform used for production of animations, rich internet applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Over 67 billion devices use adobe flash player!*..[ *read more* ](apps/adobe-flash-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/adobe-flash-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/adobe-flash-player) |
 | <img loading="lazy" src="icons/agregore.png" width="48" height="48"> | [***agregore***](apps/agregore.md) | *A minimal browser for the distributed web, Desktop version.*..[ *read more* ](apps/agregore.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/agregore) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/agregore) |
 | <img loading="lazy" src="icons/archiveweb.page.png" width="48" height="48"> | [***archiveweb.page***](apps/archiveweb.page.md) | *A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers.*..[ *read more* ](apps/archiveweb.page.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/archiveweb.page) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/archiveweb.page) |
+| <img loading="lazy" src="icons/basilisk2.png" width="48" height="48"> | [***basilisk2***](apps/basilisk2.md) | *Classic Macintosh emulator BasiliskII.*..[ *read more* ](apps/basilisk2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/basilisk2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/basilisk2) |
+| <img loading="lazy" src="icons/basiliskii-enhanced.png" width="48" height="48"> | [***basiliskii-enhanced***](apps/basiliskii-enhanced.md) | *Unofficial, classic Macintosh emulator BasiliskII.*..[ *read more* ](apps/basiliskii-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/basiliskii-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/basiliskii-enhanced) |
 | <img loading="lazy" src="icons/brave.png" width="48" height="48"> | [***brave***](apps/brave.md) | *Unofficial, a privacy oriented Web Browser based on Chromium, this is the "stable" release.*..[ *read more* ](apps/brave.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave) |
 | <img loading="lazy" src="icons/brave-beta.png" width="48" height="48"> | [***brave-beta***](apps/brave-beta.md) | *Unofficial, a privacy oriented Web Browser based on Chromium, this is the "beta" release.*..[ *read more* ](apps/brave-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-beta) |
 | <img loading="lazy" src="icons/brave-nightly.png" width="48" height="48"> | [***brave-nightly***](apps/brave-nightly.md) | *Unofficial, a privacy oriented Web Browser based on Chromium, this is the "nightly" release.*..[ *read more* ](apps/brave-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-nightly) |
 | <img loading="lazy" src="icons/browservice.png" width="48" height="48"> | [***browservice***](apps/browservice.md) | *Browse the modern web on historical browsers.*..[ *read more* ](apps/browservice.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/browservice) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/browservice) |
+| <img loading="lazy" src="icons/brs-emu-app.png" width="48" height="48"> | [***brs-emu-app***](apps/brs-emu-app.md) | *BrightScript Emulator, runs on browsers and Electron apps.*..[ *read more* ](apps/brs-emu-app.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brs-emu-app) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brs-emu-app) |
+| <img loading="lazy" src="icons/carbonyl.png" width="48" height="48"> | [***carbonyl***](apps/carbonyl.md) | *Chromium running inside your terminal.*..[ *read more* ](apps/carbonyl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/carbonyl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/carbonyl) |
 | <img loading="lazy" src="icons/catalyst.png" width="48" height="48"> | [***catalyst***](apps/catalyst.md) | *Catalyst web browser.*..[ *read more* ](apps/catalyst.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/catalyst) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/catalyst) |
 | <img loading="lazy" src="icons/chromium.png" width="48" height="48"> | [***chromium***](apps/chromium.md) | *Unofficial. FOSS Web Browser, base of Google Chrome, Edge and Brave, stable.*..[ *read more* ](apps/chromium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium) |
 | <img loading="lazy" src="icons/chromium-beta.png" width="48" height="48"> | [***chromium-beta***](apps/chromium-beta.md) | *Unofficial. FOSS Web Browser, base of Google Chrome, beta edition.*..[ *read more* ](apps/chromium-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-beta) |
+| <img loading="lazy" src="icons/chromium-bsu.png" width="48" height="48"> | [***chromium-bsu***](apps/chromium-bsu.md) | *Unofficial. Fast paced arcade style scrolling space shooter, game.*..[ *read more* ](apps/chromium-bsu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-bsu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-bsu) |
 | <img loading="lazy" src="icons/chromium-edge.png" width="48" height="48"> | [***chromium-edge***](apps/chromium-edge.md) | *Unofficial. FOSS Web Browser, base of Google Chrome, edge edition.*..[ *read more* ](apps/chromium-edge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-edge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-edge) |
 | <img loading="lazy" src="icons/chromium-rc.png" width="48" height="48"> | [***chromium-rc***](apps/chromium-rc.md) | *Unofficial. FOSS Web Browser, base of Google Chrome, release candidate.*..[ *read more* ](apps/chromium-rc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-rc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-rc) |
 | <img loading="lazy" src="icons/cromite.png" width="48" height="48"> | [***cromite***](apps/cromite.md) | *Unofficial AppImage of the Cromite web browser.*..[ *read more* ](apps/cromite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cromite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cromite) |
@@ -110,6 +116,7 @@
 | <img loading="lazy" src="icons/google-chrome-dev.png" width="48" height="48"> | [***google-chrome-dev***](apps/google-chrome-dev.md) | *Unofficial, Web Browser, Unstable version.*..[ *read more* ](apps/google-chrome-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/google-chrome-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/google-chrome-dev) |
 | <img loading="lazy" src="icons/helium.png" width="48" height="48"> | [***helium***](apps/helium.md) | *The Chromium-based web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise.*..[ *read more* ](apps/helium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helium) |
 | <img loading="lazy" src="icons/icecat.png" width="48" height="48"> | [***icecat***](apps/icecat.md) | *GNU IceCat is the GNU version of the Firefox web browser.*..[ *read more* ](apps/icecat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/icecat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/icecat) |
+| <img loading="lazy" src="icons/kiwix.png" width="48" height="48"> | [***kiwix***](apps/kiwix.md) | *An offline reader for Web content, primarily designed to make Wikipedia available offline. It reads archives in the ZIM file format, a highly compressed open format with additional metadata.*..[ *read more* ](apps/kiwix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kiwix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kiwix) |
 | <img loading="lazy" src="icons/ladybird.png" width="48" height="48"> | [***ladybird***](apps/ladybird.md) | *A truly independent web browser, using a novel engine based on web standards.*..[ *read more* ](apps/ladybird.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ladybird) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ladybird) |
 | <img loading="lazy" src="icons/librewolf.png" width="48" height="48"> | [***librewolf***](apps/librewolf.md) | *Firefox-based Web Browser focused on privacy, security, freedom.*..[ *read more* ](apps/librewolf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/librewolf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/librewolf) |
 | <img loading="lazy" src="icons/mercury.png" width="48" height="48"> | [***mercury***](apps/mercury.md) | *Firefox fork with compiler optimizations and patches from Librewolf.*..[ *read more* ](apps/mercury.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mercury) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mercury) |
@@ -118,14 +125,17 @@
 | <img loading="lazy" src="icons/microsoft-edge-dev.png" width="48" height="48"> | [***microsoft-edge-dev***](apps/microsoft-edge-dev.md) | *Web Browser provided by Microsoft, Developer Edition.*..[ *read more* ](apps/microsoft-edge-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/microsoft-edge-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/microsoft-edge-dev) |
 | <img loading="lazy" src="icons/midori.png" width="48" height="48"> | [***midori***](apps/midori.md) | *Surf lightly, quickly and safely with Midori Web Browser.*..[ *read more* ](apps/midori.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/midori) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/midori) |
 | <img loading="lazy" src="icons/mullvad-browser.png" width="48" height="48"> | [***mullvad-browser***](apps/mullvad-browser.md) | *A Tor-based Web Browser.*..[ *read more* ](apps/mullvad-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mullvad-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mullvad-browser) |
+| <img loading="lazy" src="icons/mytonwallet.png" width="48" height="48"> | [***mytonwallet***](apps/mytonwallet.md) | *Feature-rich web wallet and browser extension for TON Network.*..[ *read more* ](apps/mytonwallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mytonwallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mytonwallet) |
 | <img loading="lazy" src="icons/ncsa-mosaic.png" width="48" height="48"> | [***ncsa-mosaic***](apps/ncsa-mosaic.md) | *One of the first graphical web browsers.*..[ *read more* ](apps/ncsa-mosaic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ncsa-mosaic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ncsa-mosaic) |
 | <img loading="lazy" src="icons/oneweb.png" width="48" height="48"> | [***oneweb***](apps/oneweb.md) | *OneWeb - free, private and secure web browser! POLSKA GUROM.*..[ *read more* ](apps/oneweb.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/oneweb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/oneweb) |
+| <img loading="lazy" src="icons/open-ai-translator.png" width="48" height="48"> | [***open-ai-translator***](apps/open-ai-translator.md) | *Browser extension for translation based on ChatGPT API.*..[ *read more* ](apps/open-ai-translator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/open-ai-translator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/open-ai-translator) |
 | <img loading="lazy" src="icons/opera.png" width="48" height="48"> | [***opera***](apps/opera.md) | *Unofficial. Fast and secure web browser, Stable version.*..[ *read more* ](apps/opera.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opera) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opera) |
 | <img loading="lazy" src="icons/opera-beta.png" width="48" height="48"> | [***opera-beta***](apps/opera-beta.md) | *Unofficial. Fast and secure web browser, Beta version.*..[ *read more* ](apps/opera-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opera-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opera-beta) |
 | <img loading="lazy" src="icons/opera-dev.png" width="48" height="48"> | [***opera-dev***](apps/opera-dev.md) | *Unofficial. Fast and secure web browser, Developer version.*..[ *read more* ](apps/opera-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opera-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opera-dev) |
 | <img loading="lazy" src="icons/palemoon.png" width="48" height="48"> | [***palemoon***](apps/palemoon.md) | *Unofficial. Pale Moon is a fully-independent web browser built on its own maintained platform and rendering engine (Goanna), focusing on user customization.*..[ *read more* ](apps/palemoon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/palemoon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/palemoon) |
 | <img loading="lazy" src="icons/palemoon-legacy.png" width="48" height="48"> | [***palemoon-legacy***](apps/palemoon-legacy.md) | *Unofficial. Pale Moon is a fully-independent web browser built on its own maintained platform and rendering engine (Goanna), focusing on user customization. This is the GTK2 implementation.*..[ *read more* ](apps/palemoon-legacy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/palemoon-legacy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/palemoon-legacy) |
 | <img loading="lazy" src="icons/polypane.png" width="48" height="48"> | [***polypane***](apps/polypane.md) | *Browser for web developers.*..[ *read more* ](apps/polypane.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/polypane) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/polypane) |
+| <img loading="lazy" src="icons/programmer-browser.png" width="48" height="48"> | [***programmer-browser***](apps/programmer-browser.md) | *A fast-searching and space-saving browser specially designed for programmers.*..[ *read more* ](apps/programmer-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/programmer-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/programmer-browser) |
 | <img loading="lazy" src="icons/promethium.png" width="48" height="48"> | [***promethium***](apps/promethium.md) | *Extensible and innovative web browser with built-in AdBlock.*..[ *read more* ](apps/promethium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/promethium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/promethium) |
 | <img loading="lazy" src="icons/responsively.png" width="48" height="48"> | [***responsively***](apps/responsively.md) | *A browser for developing responsive web apps.*..[ *read more* ](apps/responsively.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/responsively) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/responsively) |
 | <img loading="lazy" src="icons/servo.png" width="48" height="48"> | [***servo***](apps/servo.md) | *Unofficial AppImage builds of the Servo web browser engine.*..[ *read more* ](apps/servo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/servo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/servo) |
@@ -134,11 +144,15 @@
 | <img loading="lazy" src="icons/tor-browser.png" width="48" height="48"> | [***tor-browser***](apps/tor-browser.md) | *Privacy-oriented Web Browser for sites blocked in your country.*..[ *read more* ](apps/tor-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tor-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tor-browser) |
 | <img loading="lazy" src="icons/tor-browser-alpha.png" width="48" height="48"> | [***tor-browser-alpha***](apps/tor-browser-alpha.md) | *Privacy-oriented Web Browser for sites blocked in your country.*..[ *read more* ](apps/tor-browser-alpha.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tor-browser-alpha) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tor-browser-alpha) |
 | <img loading="lazy" src="icons/ungoogled-chromium.png" width="48" height="48"> | [***ungoogled-chromium***](apps/ungoogled-chromium.md) | *Chromium Web Browser without Google services.*..[ *read more* ](apps/ungoogled-chromium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ungoogled-chromium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ungoogled-chromium) |
+| <img loading="lazy" src="icons/varia.png" width="48" height="48"> | [***varia***](apps/varia.md) | *Unofficial. Aria2-based advanced download manager with support for downloading files, torrents, video and audio + support for Chromium and Firefox extension.*..[ *read more* ](apps/varia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/varia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/varia) |
 | <img loading="lazy" src="icons/viper-browser.png" width="48" height="48"> | [***viper-browser***](apps/viper-browser.md) | *Fast and lightweight Qt web browser.*..[ *read more* ](apps/viper-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viper-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viper-browser) |
 | <img loading="lazy" src="icons/vivaldi-snapshot.png" width="48" height="48"> | [***vivaldi-snapshot***](apps/vivaldi-snapshot.md) | *Unofficial. Advanced Web Browser, Testing Version.*..[ *read more* ](apps/vivaldi-snapshot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vivaldi-snapshot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vivaldi-snapshot) |
 | <img loading="lazy" src="icons/vivaldi-stable.png" width="48" height="48"> | [***vivaldi-stable***](apps/vivaldi-stable.md) | *Unofficial. Advanced Web Browser, Stable Version.*..[ *read more* ](apps/vivaldi-stable.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vivaldi-stable) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vivaldi-stable) |
 | <img loading="lazy" src="icons/waterfox.png" width="48" height="48"> | [***waterfox***](apps/waterfox.md) | *A privacy-focused web browser engineered to give you speed, control, and peace of mind on the internet.*..[ *read more* ](apps/waterfox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/waterfox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/waterfox) |
 | <img loading="lazy" src="icons/wexond.png" width="48" height="48"> | [***wexond***](apps/wexond.md) | *Extensible, fast and innovative web browser with material UI.*..[ *read more* ](apps/wexond.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wexond) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wexond) |
+| <img loading="lazy" src="icons/yandex-browser.png" width="48" height="48"> | [***yandex-browser***](apps/yandex-browser.md) | *Unofficial Yandex Browser AppImage, Stable.*..[ *read more* ](apps/yandex-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yandex-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yandex-browser) |
+| <img loading="lazy" src="icons/yandex-browser-beta.png" width="48" height="48"> | [***yandex-browser-beta***](apps/yandex-browser-beta.md) | *Unofficial Yandex Browser AppImage, Beta.*..[ *read more* ](apps/yandex-browser-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yandex-browser-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yandex-browser-beta) |
+| <img loading="lazy" src="icons/yandex-browser-corporate.png" width="48" height="48"> | [***yandex-browser-corporate***](apps/yandex-browser-corporate.md) | *Unofficial Yandex Browser AppImage, Corporate.*..[ *read more* ](apps/yandex-browser-corporate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yandex-browser-corporate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yandex-browser-corporate) |
 | <img loading="lazy" src="icons/zen-browser.png" width="48" height="48"> | [***zen-browser***](apps/zen-browser.md) | *Experience tranquillity while browsing the web without tracking.*..[ *read more* ](apps/zen-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zen-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zen-browser) |
 
 

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **3222** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **75** more entries and items to help you install apps more easily.
+#### Here are listed all **3223** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **75** more entries and items to help you install apps more easily.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -16,19 +16,8 @@
 #### *Categories*
 
 <div class="cat-grid">
-  <a class="cat-pill" href="am-utils.html">am-utils</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="android.html">android</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="appimages.html">AppImages</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="audio.html">audio</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="comic.html">comic</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="command-line.html">command-line</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="communication.html">communication</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="disk.html">disk</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -36,13 +25,7 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="file-manager.html">file-manager</a>
   <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="finance.html">finance</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="game.html">game</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="gnome.html">gnome</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="graphic.html">graphic</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="internet.html">internet</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -58,11 +41,30 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="steam.html">steam</a>
   <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="system-monitor.html">system-monitor</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="video.html">video</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="web-app.html">web-app</a>
+  <a class="cat-pill" href="ai.html">ai</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="am-utils.html">am-utils</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="android.html">android</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="appimages.html">AppImages</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="audio.html">audio</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="command-line.html">command-line</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="communication.html">communication</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="finance.html">finance</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="gnome.html">gnome</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="graphic.html">graphic</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="system-monitor.html">system-monitor</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="web-browser.html">web-browser</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -521,7 +523,7 @@
 | <img loading="lazy" src="icons/classicimageviewer.png" width="48" height="48"> | [***classicimageviewer***](apps/classicimageviewer.md) | *A simple image viewer with some editing features.*..[ *read more* ](apps/classicimageviewer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/classicimageviewer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/classicimageviewer) |
 | <img loading="lazy" src="icons/classicube.png" width="48" height="48"> | [***classicube***](apps/classicube.md) | *Unofficial, Custom Minecraft Classic / ClassiCube client written in C from scratch*..[ *read more* ](apps/classicube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/classicube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/classicube) |
 | <img loading="lazy" src="icons/classipod.png" width="48" height="48"> | [***classipod***](apps/classipod.md) | *A local music player app designed to capture the nostalgic essence of the iconic iPod Classic.*..[ *read more* ](apps/classipod.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/classipod) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/classipod) |
-| <img loading="lazy" src="icons/claude-desktop.png" width="48" height="48"> | [***claude-desktop***](apps/claude-desktop.md) | *Claude Desktop for Debian-based Linux distributions.*..[ *read more* ](apps/claude-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/claude-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/claude-desktop) |
+| <img loading="lazy" src="icons/claude-desktop.png" width="48" height="48"> | [***claude-desktop***](apps/claude-desktop.md) | *Unofficial, Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.*..[ *read more* ](apps/claude-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/claude-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/claude-desktop) |
 | <img loading="lazy" src="icons/clear.png" width="48" height="48"> | [***clear***](apps/clear.md) | *Clear the terminal screen. This is part of "am-utils" suite.*..[ *read more* ](apps/clear.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clear) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clear) |
 | <img loading="lazy" src="icons/cleepdesktop.png" width="48" height="48"> | [***cleepdesktop***](apps/cleepdesktop.md) | *Desktop application to manage your Cleep devices.*..[ *read more* ](apps/cleepdesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cleepdesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cleepdesktop) |
 | <img loading="lazy" src="icons/clementine.png" width="48" height="48"> | [***clementine***](apps/clementine.md) | *Unofficial AppImage of the Clementine music player.*..[ *read more* ](apps/clementine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clementine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clementine) |
@@ -1524,6 +1526,7 @@
 | <img loading="lazy" src="icons/kiri-moto.png" width="48" height="48"> | [***kiri-moto***](apps/kiri-moto.md) | *Browser-based Slicer for 3D Printing, CAM, Laser and mesh editor.*..[ *read more* ](apps/kiri-moto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kiri-moto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kiri-moto) |
 | <img loading="lazy" src="icons/kiriki.png" width="48" height="48"> | [***kiriki***](apps/kdegames.md) | *A dice game. This is part of "kdegames".*..[ *read more* ](apps/kdegames.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdegames) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdegames) |
 | <img loading="lazy" src="icons/kitsas.png" width="48" height="48"> | [***kitsas***](apps/kitsas.md) | *Finnish bookkeeping software for small organizations.*..[ *read more* ](apps/kitsas.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kitsas) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kitsas) |
+| <img loading="lazy" src="icons/kitshn.png" width="48" height="48"> | [***kitshn***](apps/kitshn.md) | *An unofficial client for the self-hosted Tandoor recipe management software.*..[ *read more* ](apps/kitshn.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kitshn) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kitshn) |
 | <img loading="lazy" src="icons/kitty.png" width="48" height="48"> | [***kitty***](apps/kitty.md) | *Cross-platform, fast, feature-rich, GPU based terminal (also provides "kitten" CLI utility).*..[ *read more* ](apps/kitty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kitty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kitty) |
 | <img loading="lazy" src="icons/kitupiikki.png" width="48" height="48"> | [***kitupiikki***](apps/kitupiikki.md) | *Bookkeeping software for small organizations.*..[ *read more* ](apps/kitupiikki.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kitupiikki) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kitupiikki) |
 | <img loading="lazy" src="icons/kiwix.png" width="48" height="48"> | [***kiwix***](apps/kiwix.md) | *An offline reader for Web content, primarily designed to make Wikipedia available offline. It reads archives in the ZIM file format, a highly compressed open format with additional metadata.*..[ *read more* ](apps/kiwix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kiwix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kiwix) |

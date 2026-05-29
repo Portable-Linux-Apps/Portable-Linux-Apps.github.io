@@ -2221,7 +2221,7 @@
   },
   {
     "packageName": "claude-desktop",
-    "description": "Claude Desktop for Debian-based Linux distributions...",
+    "description": "Unofficial, Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work...",
     "icon": "https://portable-linux-apps.github.io/icons/claude-desktop.png"
   },
   {
@@ -7223,6 +7223,11 @@
     "packageName": "kitsas",
     "description": "Finnish bookkeeping software for small organizations...",
     "icon": "https://portable-linux-apps.github.io/icons/kitsas.png"
+  },
+  {
+    "packageName": "kitshn",
+    "description": "An unofficial client for the self-hosted Tandoor recipe management software...",
+    "icon": "https://portable-linux-apps.github.io/icons/kitshn.png"
   },
   {
     "packageName": "kitty",
