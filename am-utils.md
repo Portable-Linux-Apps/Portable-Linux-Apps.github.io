@@ -16,13 +16,13 @@
 #### *Categories*
 
 <div class="cat-grid">
+  <a class="cat-pill" href="appimages.html">AppImages</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="ai.html">ai</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill cat-pill--all" href="am-utils.html">am-utils</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="android.html">android</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="appimages.html">AppImages</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="audio.html">audio</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -191,7 +191,7 @@
 | <img loading="lazy" src="icons/readelf.png" width="48" height="48"> | [***readelf***](apps/readelf.md) | *About ELF files. This is part of "am-utils" suite.*..[ *read more* ](apps/readelf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/readelf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/readelf) |
 | <img loading="lazy" src="icons/readlink.png" width="48" height="48"> | [***readlink***](apps/readlink.md) | *Print resolved symbolic links or canonical file. This is part of "am-utils" suite.*..[ *read more* ](apps/readlink.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/readlink) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/readlink) |
 | <img loading="lazy" src="icons/realpath.png" width="48" height="48"> | [***realpath***](apps/realpath.md) | *Print the resolved path. This is part of "am-utils" suite.*..[ *read more* ](apps/realpath.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/realpath) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/realpath) |
-| <img loading="lazy" src="icons/rev.png" width="48" height="48"> | [***rev***](apps/rev.md) | *No description available. This is part of "am-utils" suite.*..[ *read more* ](apps/rev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rev) |
+| <img loading="lazy" src="icons/rev.png" width="48" height="48"> | [***rev***](apps/rev.md) | *Reverse lines characterwise. This is part of "am-utils" suite.*..[ *read more* ](apps/rev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rev) |
 | <img loading="lazy" src="icons/rm.png" width="48" height="48"> | [***rm***](apps/rm.md) | *Remove files or directories. This is part of "am-utils" suite.*..[ *read more* ](apps/rm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rm) |
 | <img loading="lazy" src="icons/rmdir.png" width="48" height="48"> | [***rmdir***](apps/rmdir.md) | *Remove empty directories. This is part of "am-utils" suite.*..[ *read more* ](apps/rmdir.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rmdir) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rmdir) |
 | <img loading="lazy" src="icons/runcon.png" width="48" height="48"> | [***runcon***](apps/runcon.md) | *With specified security context. This is part of "am-utils" suite.*..[ *read more* ](apps/runcon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/runcon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/runcon) |

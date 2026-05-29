@@ -16,13 +16,13 @@
 #### *Categories*
 
 <div class="cat-grid">
+  <a class="cat-pill" href="appimages.html">AppImages</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="ai.html">ai</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="am-utils.html">am-utils</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="android.html">android</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="appimages.html">AppImages</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="audio.html">audio</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -490,7 +490,7 @@
 | <img loading="lazy" src="icons/reaper.png" width="48" height="48"> | [***reaper***](apps/reaper.md) | *A complete digital audio production app, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.*..[ *read more* ](apps/reaper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/reaper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/reaper) |
 | <img loading="lazy" src="icons/rebaslight.png" width="48" height="48"> | [***rebaslight***](apps/rebaslight.md) | *An easy to use special effects video editor.*..[ *read more* ](apps/rebaslight.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rebaslight) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rebaslight) |
 | <img loading="lazy" src="icons/rebos.png" width="48" height="48"> | [***rebos***](apps/rebos.md) | *Rebos is a tool that aims at mimicking what NixOS does (repeatability), for any Linux distribution.*..[ *read more* ](apps/rebos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rebos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rebos) |
-| <img loading="lazy" src="icons/rev.png" width="48" height="48"> | [***rev***](apps/rev.md) | *No description available. This is part of "am-utils" suite.*..[ *read more* ](apps/rev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rev) |
+| <img loading="lazy" src="icons/rev.png" width="48" height="48"> | [***rev***](apps/rev.md) | *Reverse lines characterwise. This is part of "am-utils" suite.*..[ *read more* ](apps/rev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rev) |
 | <img loading="lazy" src="icons/revealgo.png" width="48" height="48"> | [***revealgo***](apps/revealgo.md) | *Markdown driven presentation tool written in Go!*..[ *read more* ](apps/revealgo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/revealgo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/revealgo) |
 | <img loading="lazy" src="icons/rimage.png" width="48" height="48"> | [***rimage***](apps/rimage.md) | *This is CLI tool inspired by squoosh.*..[ *read more* ](apps/rimage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rimage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rimage) |
 | <img loading="lazy" src="icons/ripgrep.png" width="48" height="48"> | [***ripgrep***](apps/ripgrep.md) | *Search directories for regex pattern while respecting gitignore.*..[ *read more* ](apps/ripgrep.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ripgrep) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ripgrep) |

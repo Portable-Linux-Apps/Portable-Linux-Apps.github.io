@@ -16,13 +16,13 @@
 #### *Categories*
 
 <div class="cat-grid">
+  <a class="cat-pill" href="appimages.html">AppImages</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="ai.html">ai</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="am-utils.html">am-utils</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="android.html">android</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="appimages.html">AppImages</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="audio.html">audio</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -2484,7 +2484,7 @@
 | <img loading="lazy" src="icons/retrom.png" width="48" height="48"> | [***retrom***](apps/retrom.md) | *A centralized game library/collection management service with a focus on emulation.*..[ *read more* ](apps/retrom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retrom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retrom) |
 | <img loading="lazy" src="icons/retroshare.png" width="48" height="48"> | [***retroshare***](apps/retroshare.md) | *Securely share files with your friends.*..[ *read more* ](apps/retroshare.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retroshare) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retroshare) |
 | <img loading="lazy" src="icons/retrovibed.png" width="48" height="48"> | [***retrovibed***](apps/retrovibed.md) | *Personal Digital Archive and Media Player with at cost cloud storage backend.*..[ *read more* ](apps/retrovibed.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retrovibed) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retrovibed) |
-| <img loading="lazy" src="icons/rev.png" width="48" height="48"> | [***rev***](apps/rev.md) | *No description available. This is part of "am-utils" suite.*..[ *read more* ](apps/rev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rev) |
+| <img loading="lazy" src="icons/rev.png" width="48" height="48"> | [***rev***](apps/rev.md) | *Reverse lines characterwise. This is part of "am-utils" suite.*..[ *read more* ](apps/rev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rev) |
 | <img loading="lazy" src="icons/revealgo.png" width="48" height="48"> | [***revealgo***](apps/revealgo.md) | *Markdown driven presentation tool written in Go!*..[ *read more* ](apps/revealgo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/revealgo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/revealgo) |
 | <img loading="lazy" src="icons/revolt.png" width="48" height="48"> | [***revolt***](apps/revolt.md) | *Revolt Desktop App.*..[ *read more* ](apps/revolt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/revolt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/revolt) |
 | <img loading="lazy" src="icons/rewaita.png" width="48" height="48"> | [***rewaita***](apps/rewaita.md) | *Unofficial, rewaita gives your Adwaita apps a fresh look by tinting them with popular color schemes.*..[ *read more* ](apps/rewaita.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rewaita) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rewaita) |
