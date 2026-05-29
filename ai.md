@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **94** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **88** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -16,8 +16,21 @@
 #### *Categories*
 
 <div class="cat-grid">
+  <a class="cat-pill cat-pill--all" href="ai.html">ai</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="am-utils.html">am-utils</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="android.html">android</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="appimages.html">AppImages</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="audio.html">audio</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="comic.html">comic</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="command-line.html">command-line</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="communication.html">communication</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="disk.html">disk</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -25,7 +38,13 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="file-manager.html">file-manager</a>
   <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="finance.html">finance</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="game.html">game</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="gnome.html">gnome</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="graphic.html">graphic</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="internet.html">internet</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -41,30 +60,11 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="steam.html">steam</a>
   <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="system-monitor.html">system-monitor</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="video.html">video</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="web-app.html">web-app</a>
-  <a class="cat-pill cat-pill--all" href="ai.html">ai</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="am-utils.html">am-utils</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="android.html">android</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="appimages.html">AppImages</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="audio.html">audio</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="command-line.html">command-line</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="communication.html">communication</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="finance.html">finance</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="gnome.html">gnome</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="graphic.html">graphic</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="system-monitor.html">system-monitor</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="web-browser.html">web-browser</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -113,11 +113,8 @@
 | <img loading="lazy" src="icons/go-pd-gui.png" width="48" height="48"> | [***go-pd-gui***](apps/go-pd-gui.md) | *DRAINY is a free easy to use cross plattform upload tool for pixeldrain.com.*..[ *read more* ](apps/go-pd-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/go-pd-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/go-pd-gui) |
 | <img loading="lazy" src="icons/godmode.png" width="48" height="48"> | [***godmode***](apps/godmode.md) | *AI Chat Browser fast, full webapp access to ChatGPT/Claude/Bard/Bing/Llama2.*..[ *read more* ](apps/godmode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/godmode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/godmode) |
 | <img loading="lazy" src="icons/hugin.png" width="48" height="48"> | [***hugin***](apps/hugin.md) | *Stitch photographs together.*..[ *read more* ](apps/hugin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hugin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hugin) |
-| <img loading="lazy" src="icons/idescriptor.png" width="48" height="48"> | [***idescriptor***](apps/idescriptor.md) | *A free, open-source, and cross-platform iDevice management tool.*..[ *read more* ](apps/idescriptor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/idescriptor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/idescriptor) |
 | <img loading="lazy" src="icons/inkscape.png" width="48" height="48"> | [***inkscape***](apps/inkscape.md) | *Unofficial. Vector-based drawing program and graphics editor for both artistic and technical illustrations. It can import and export various file formats, including SVG, AI, EPS, PDF, AutoCAD, PS and PNG.*..[ *read more* ](apps/inkscape.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/inkscape) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/inkscape) |
 | <img loading="lazy" src="icons/jan.png" width="48" height="48"> | [***jan***](apps/jan.md) | *FOSS Alternative to ChatGPT that runs 100% offline on your computer.*..[ *read more* ](apps/jan.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jan) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jan) |
-| <img loading="lazy" src="icons/janice.png" width="48" height="48"> | [***janice***](apps/janice.md) | *A desktop app for viewing large JSON files.*..[ *read more* ](apps/janice.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/janice) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/janice) |
-| <img loading="lazy" src="icons/janus.png" width="48" height="48"> | [***janus***](apps/janus.md) | *Simple text editor.*..[ *read more* ](apps/janus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/janus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/janus) |
 | <img loading="lazy" src="icons/kftray.png" width="48" height="48"> | [***kftray***](apps/kftray.md) | *Kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding, multi-hop proxy routing through k8s clusters, stateful config via filesystem or git.*..[ *read more* ](apps/kftray.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kftray) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kftray) |
 | <img loading="lazy" src="icons/kinopio.png" width="48" height="48"> | [***kinopio***](apps/kinopio.md) | *Thinking canvas for new ideas and hard problems.*..[ *read more* ](apps/kinopio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kinopio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kinopio) |
 | <img loading="lazy" src="icons/koboldcpp.png" width="48" height="48"> | [***koboldcpp***](apps/koboldcpp.md) | *Simple 1-file way to run GGML and GGUF models with KoboldAI's UI.*..[ *read more* ](apps/koboldcpp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/koboldcpp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/koboldcpp) |
@@ -143,13 +140,10 @@
 | <img loading="lazy" src="icons/open-webui.png" width="48" height="48"> | [***open-webui***](apps/open-webui.md) | *Your AI, right on your desktop. Open WebUI as a native app. Run models locally or connect to any server. No Docker, no terminal, no setup. Download, launch, chat.*..[ *read more* ](apps/open-webui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/open-webui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/open-webui) |
 | <img loading="lazy" src="icons/paper-design.png" width="48" height="48"> | [***paper-design***](apps/paper-design.md) | *Paper is a modern and powerful design tool that helps you create, share, and ship your best work. Design incredible, the connected canvas for teams shipping with agents.*..[ *read more* ](apps/paper-design.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/paper-design) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/paper-design) |
 | <img loading="lazy" src="icons/perplexity-ai-app.png" width="48" height="48"> | [***perplexity-ai-app***](apps/perplexity-ai-app.md) | *Perplexity AI Desktop app eases the process to access Perplexity AI.*..[ *read more* ](apps/perplexity-ai-app.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/perplexity-ai-app) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/perplexity-ai-app) |
-| <img loading="lazy" src="icons/pika-backup.png" width="48" height="48"> | [***pika-backup***](apps/pika-backup.md) | *Doing backups the easy way. Plugin your USB drive and let the Pika do the rest for you.*..[ *read more* ](apps/pika-backup.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pika-backup) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pika-backup) |
-| <img loading="lazy" src="icons/pikapika.png" width="48" height="48"> | [***pikapika***](apps/pikapika.md) | *A comic browser.*..[ *read more* ](apps/pikapika.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pikapika) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pikapika) |
 | <img loading="lazy" src="icons/pinokio.png" width="48" height="48"> | [***pinokio***](apps/pinokio.md) | *AI Browser.*..[ *read more* ](apps/pinokio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pinokio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pinokio) |
 | <img loading="lazy" src="icons/pointless.png" width="48" height="48"> | [***pointless***](apps/pointless.md) | *An endless drawing canvas desktop app made with Tauri (Rust) and React.*..[ *read more* ](apps/pointless.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pointless) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pointless) |
 | <img loading="lazy" src="icons/pulseview.png" width="48" height="48"> | [***pulseview***](apps/pulseview.md) | *PulseView (sometimes abbreviated as "PV") is a Qt based logic analyzer, oscilloscope and MSO GUI for sigrok.*..[ *read more* ](apps/pulseview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pulseview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pulseview) |
 | <img loading="lazy" src="icons/reor.png" width="48" height="48"> | [***reor***](apps/reor.md) | *AI note-taking app that runs models locally.*..[ *read more* ](apps/reor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/reor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/reor) |
-| <img loading="lazy" src="icons/rev.png" width="48" height="48"> | [***rev***](apps/rev.md) | *No description available. This is part of "am-utils" suite.*..[ *read more* ](apps/rev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rev) |
 | <img loading="lazy" src="icons/seafile.png" width="48" height="48"> | [***seafile***](apps/seafile.md) | *Seafile GUI version. Beyond just syncing and sharing files, it lets you add custom file properties and organize your files in different views. With AI-powered automation for generating properties, Seafile offers a smarter, more efficient way to manage your files.*..[ *read more* ](apps/seafile.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/seafile) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/seafile) |
 | <img loading="lazy" src="icons/seafile-cli.png" width="48" height="48"> | [***seafile-cli***](apps/seafile-cli.md) | *Seafile CLI version. Beyond just syncing and sharing files, it lets you add custom file properties and organize your files in different views. With AI-powered automation for generating properties, Seafile offers a smarter, more efficient way to manage your files.*..[ *read more* ](apps/seafile-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/seafile-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/seafile-cli) |
 | <img loading="lazy" src="icons/smuview.png" width="48" height="48"> | [***smuview***](apps/smuview.md) | *A Qt based source measure unit GUI for sigrok.*..[ *read more* ](apps/smuview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smuview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smuview) |
