@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **90** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **90** desktop applications NOT in AppImage format. Launchers and icons are downloaded separately during the installation process (through [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan)). Most of them already have [all the necessary requirements](https://github.com/ivan-hc/AppImage-tips) to be easily exported into AppImage packages... or they are waiting to be moved to another category (see "[AppImages on-the-fly](https://portable-linux-apps.github.io/appimage-on-the-fly.html)").
 
 
 <div id="app-search-box" style="margin: 1em 0;">

@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **4** programs and **75** items for this category and managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **4** "metapackages", those few scripts that allow the use of many more programs with one installation (**75** items in total). Find which metapackage corresponds to the program you're interested in from this list.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
