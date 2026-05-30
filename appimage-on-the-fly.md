@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **12** AppImages built on the fly starting from the official portable build, and that only wait to be distributed like this by upstream developers.
+#### Here are listed **12** AppImages built on the fly from the official portable builds, showing how easily portable apps can be converted to AppImages to gain isolated dotfiles, sandboxing via [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan), and reduced disk usage, serving as a proof of concept to encourage upstream developers to distribute them directly in such packaging format.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
