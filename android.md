@@ -22,9 +22,9 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="am-utils.html">am-utils</a>
   <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="appimage-on-the-fly.html">appimage-on-the-fly</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill cat-pill--all" href="android.html">android</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="appimage-on-the-fly.html">appimage-on-the-fly</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="audio.html">audio</a>
   <span class="cat-sep" aria-hidden="true">•</span>
