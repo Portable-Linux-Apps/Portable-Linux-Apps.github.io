@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **169** programs and **1** items for this category.
+#### Here are listed **167** programs and **1** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -38,6 +38,8 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="education.html">education</a>
   <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="emulator.html">emulator</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="file-manager.html">file-manager</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="finance.html">finance</a>
@@ -70,11 +72,17 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="video.html">video</a>
   <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="virtual-machine.html">virtual-machine</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="wallet.html">wallet</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="web-app.html">web-app</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="web-browser.html">web-browser</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="wine.html">wine</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="youtube.html">youtube</a>
 </div>
 
 -----------------
@@ -157,12 +165,11 @@
 | <img loading="lazy" src="icons/lovelive.png" width="48" height="48"> | [***lovelive***](apps/lovelive.md) | *A LoveLiver Music Player.*..[ *read more* ](apps/lovelive.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lovelive) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lovelive) |
 | <img loading="lazy" src="icons/lx-music-desktop.png" width="48" height="48"> | [***lx-music-desktop***](apps/lx-music-desktop.md) | *一个基于electron的音乐软件.*..[ *read more* ](apps/lx-music-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lx-music-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lx-music-desktop) |
 | <img loading="lazy" src="icons/mcpodcast.png" width="48" height="48"> | [***mcpodcast***](apps/mcpodcast.md) | *Electron app for tasks around Podcast mp3 files.*..[ *read more* ](apps/mcpodcast.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mcpodcast) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mcpodcast) |
-| <img loading="lazy" src="icons/mechtype.png" width="48" height="48"> | [***mechtype***](apps/mechtype.md) | *A lightweight app designed to elevate your typing experience by allowing you to enjoy custom soundtracks with every keystroke.*..[ *read more* ](apps/mechtype.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mechtype) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mechtype) |
-| <img loading="lazy" src="icons/mechvibes.png" width="48" height="48"> | [***mechvibes***](apps/mechvibes.md) | *Play mechanical keyboard sounds as you type.*..[ *read more* ](apps/mechvibes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mechvibes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mechvibes) |
 | <img loading="lazy" src="icons/media-downloader.png" width="48" height="48"> | [***media-downloader***](apps/media-downloader.md) | *Cross-platform audio/video downloader.*..[ *read more* ](apps/media-downloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/media-downloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/media-downloader) |
 | <img loading="lazy" src="icons/mellowplayer.png" width="48" height="48"> | [***mellowplayer***](apps/mellowplayer.md) | *Cloud music integration for your desktop.*..[ *read more* ](apps/mellowplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mellowplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mellowplayer) |
 | <img loading="lazy" src="icons/melodie.png" width="48" height="48"> | [***melodie***](apps/melodie.md) | *Simple-as-pie music player.*..[ *read more* ](apps/melodie.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/melodie) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/melodie) |
 | <img loading="lazy" src="icons/milkytracker.png" width="48" height="48"> | [***milkytracker***](apps/milkytracker.md) | *An FT2 compatible music tracker.*..[ *read more* ](apps/milkytracker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/milkytracker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/milkytracker) |
+| <img loading="lazy" src="icons/mkvtoolnix.png" width="48" height="48"> | [***mkvtoolnix***](apps/mkvtoolnix.md) | *Matroska files creator and tools.*..[ *read more* ](apps/mkvtoolnix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mkvtoolnix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mkvtoolnix) |
 | <img loading="lazy" src="icons/mlv-app.png" width="48" height="48"> | [***mlv-app***](apps/mlv-app.md) | *All in one MLV processing app, audio/video.*..[ *read more* ](apps/mlv-app.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mlv-app) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mlv-app) |
 | <img loading="lazy" src="icons/modv.png" width="48" height="48"> | [***modv***](apps/modv.md) | *Modular audio visualisation powered by JavaScript.*..[ *read more* ](apps/modv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/modv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/modv) |
 | <img loading="lazy" src="icons/moosync.png" width="48" height="48"> | [***moosync***](apps/moosync.md) | *Music player capable of playing local audio or from Youtube/Spotify.*..[ *read more* ](apps/moosync.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moosync) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moosync) |
@@ -220,8 +227,6 @@
 | <img loading="lazy" src="icons/sonicvisualiser.png" width="48" height="48"> | [***sonicvisualiser***](apps/sonicvisualiser.md) | *Viewing and analysing the contents of music audio files.*..[ *read more* ](apps/sonicvisualiser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonicvisualiser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonicvisualiser) |
 | <img loading="lazy" src="icons/sonixd.png" width="48" height="48"> | [***sonixd***](apps/sonixd.md) | *A full-featured Subsonic/Jellyfin compatible desktop music player.*..[ *read more* ](apps/sonixd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonixd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonixd) |
 | <img loading="lazy" src="icons/sonusmix.png" width="48" height="48"> | [***sonusmix***](apps/sonusmix.md) | *Next-gen Pipewire audio routing tool.*..[ *read more* ](apps/sonusmix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonusmix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonusmix) |
-| <img loading="lazy" src="icons/sound-space-plus.png" width="48" height="48"> | [***sound-space-plus***](apps/sound-space-plus.md) | *Unofficial AppImage of sound-space-plus, Rhythm-based aim game.*..[ *read more* ](apps/sound-space-plus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sound-space-plus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sound-space-plus) |
-| <img loading="lazy" src="icons/soundcloud-rpc.png" width="48" height="48"> | [***soundcloud-rpc***](apps/soundcloud-rpc.md) | *A SoundCloud client with Discord Rich Presence and AdBlock.*..[ *read more* ](apps/soundcloud-rpc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soundcloud-rpc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soundcloud-rpc) |
 | <img loading="lazy" src="icons/splayer.png" width="48" height="48"> | [***splayer***](apps/splayer.md) | *A simple music player that supports word-by-word lyrics, song downloads, comment section display, music cloud storage and playlist management, music spectrum analysis, and basic mobile adaptation. NetEase Cloud Music.*..[ *read more* ](apps/splayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/splayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/splayer) |
 | <img loading="lazy" src="icons/spmp.png" width="48" height="48"> | [***spmp***](apps/spmp.md) | *A YouTube Music client with a focus on customisation of colours and song metadata.*..[ *read more* ](apps/spmp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spmp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spmp) |
 | <img loading="lazy" src="icons/spotify.png" width="48" height="48"> | [***spotify***](apps/spotify.md) | *Unofficial. A proprietary music streaming service.*..[ *read more* ](apps/spotify.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify) |
@@ -229,6 +234,7 @@
 | <img loading="lazy" src="icons/spotify-edge.png" width="48" height="48"> | [***spotify-edge***](apps/spotify-edge.md) | *Unofficial. A proprietary music streaming service.*..[ *read more* ](apps/spotify-edge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify-edge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify-edge) |
 | <img loading="lazy" src="icons/strawberry.png" width="48" height="48"> | [***strawberry***](apps/strawberry.md) | *Unofficial AppImage of the strawberry music player.*..[ *read more* ](apps/strawberry.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/strawberry) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/strawberry) |
 | <img loading="lazy" src="icons/supersonic.png" width="48" height="48"> | [***supersonic***](apps/supersonic.md) | *A lightweight and full-featured cross-platform desktop client for self-hosted music servers.*..[ *read more* ](apps/supersonic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supersonic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supersonic) |
+| <img loading="lazy" src="icons/tag-editor.png" width="48" height="48"> | [***tag-editor***](apps/tag-editor.md) | *Tag Editor, supports MP4, ID3, Vorbis, Opus, FLAC and Matroska.*..[ *read more* ](apps/tag-editor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tag-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tag-editor) |
 | <img loading="lazy" src="icons/tagger.png" width="48" height="48"> | [***tagger***](apps/tagger.md) | *Unofficial. Simple audio tagger with support for various audio formats.*..[ *read more* ](apps/tagger.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tagger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tagger) |
 | <img loading="lazy" src="icons/tauon.png" width="48" height="48"> | [***tauon***](apps/tauon.md) | *Unofficial, a music player for the desktop.*..[ *read more* ](apps/tauon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tauon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tauon) |
 | <img loading="lazy" src="icons/tenacity.png" width="48" height="48"> | [***tenacity***](apps/tenacity.md) | *An easy-to-use, cross-platform multi-track audio editor/recorder.*..[ *read more* ](apps/tenacity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tenacity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tenacity) |

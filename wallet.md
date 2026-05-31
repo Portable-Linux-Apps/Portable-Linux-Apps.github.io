@@ -1,9 +1,9 @@
-# FINANCE
+# WALLET
 
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **65** programs for this category.
+#### Here are listed **59** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -42,7 +42,7 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="file-manager.html">file-manager</a>
   <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill cat-pill--all" href="finance.html">finance</a>
+  <a class="cat-pill" href="finance.html">finance</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="game.html">game</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -74,7 +74,7 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="virtual-machine.html">virtual-machine</a>
   <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="wallet.html">wallet</a>
+  <a class="cat-pill cat-pill--all" href="wallet.html">wallet</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="web-app.html">web-app</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -93,11 +93,9 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
-| <img loading="lazy" src="icons/actual.png" width="48" height="48"> | [***actual***](apps/actual.md) | *A super fast privacy-focused app for managing your finances.*..[ *read more* ](apps/actual.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/actual) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/actual) |
 | <img loading="lazy" src="icons/alephium-wallet.png" width="48" height="48"> | [***alephium-wallet***](apps/alephium-wallet.md) | *The official Alephium wallet for desktop.*..[ *read more* ](apps/alephium-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alephium-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alephium-wallet) |
 | <img loading="lazy" src="icons/altitude.png" width="48" height="48"> | [***altitude***](apps/altitude.md) | *The Altitude wallet by Linda Project Inc.*..[ *read more* ](apps/altitude.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/altitude) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/altitude) |
 | <img loading="lazy" src="icons/anchor.png" width="48" height="48"> | [***anchor***](apps/anchor.md) | *An EOSIO Light Wallet with simple and advanced tools.*..[ *read more* ](apps/anchor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/anchor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/anchor) |
-| <img loading="lazy" src="icons/animecoin.png" width="48" height="48"> | [***animecoin***](apps/animecoin.md) | *Animecoin is a free open source peer-to-peer electronic cash system that is completely decentralized, without the need for a central server or trusted parties. Users hold the crypto keys to their own money and transact directly with each other, with the help of a P2P network to check for double-spending.*..[ *read more* ](apps/animecoin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/animecoin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/animecoin) |
 | <img loading="lazy" src="icons/aphelion-wallet.png" width="48" height="48"> | [***aphelion-wallet***](apps/aphelion-wallet.md) | *Aphelion desktop wallet application built with Electron.*..[ *read more* ](apps/aphelion-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aphelion-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aphelion-wallet) |
 | <img loading="lazy" src="icons/ark.desktop.wallet.png" width="48" height="48"> | [***ark.desktop.wallet***](apps/ark.desktop.wallet.md) | *Ark Ecosystem Desktop Wallet.*..[ *read more* ](apps/ark.desktop.wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ark.desktop.wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ark.desktop.wallet) |
 | <img loading="lazy" src="icons/asgardex.png" width="48" height="48"> | [***asgardex***](apps/asgardex.md) | *Thorchain wallet desktop app.*..[ *read more* ](apps/asgardex.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/asgardex) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/asgardex) |
@@ -116,7 +114,6 @@
 | <img loading="lazy" src="icons/defichain-app.png" width="48" height="48"> | [***defichain-app***](apps/defichain-app.md) | *DefiChain Wallet AppImage.*..[ *read more* ](apps/defichain-app.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/defichain-app) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/defichain-app) |
 | <img loading="lazy" src="icons/electrumsvp.png" width="48" height="48"> | [***electrumsvp***](apps/electrumsvp.md) | *Bitcoin BSV wallet, fork of ElectrumSV.*..[ *read more* ](apps/electrumsvp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electrumsvp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electrumsvp) |
 | <img loading="lazy" src="icons/elphyre-walletshell.png" width="48" height="48"> | [***elphyre-walletshell***](apps/elphyre-walletshell.md) | *Elphyrecoin GUI Wallet.*..[ *read more* ](apps/elphyre-walletshell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elphyre-walletshell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elphyre-walletshell) |
-| <img loading="lazy" src="icons/eqonomize.png" width="48" height="48"> | [***eqonomize***](apps/eqonomize.md) | *Manage your personal finances.*..[ *read more* ](apps/eqonomize.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eqonomize) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eqonomize) |
 | <img loading="lazy" src="icons/eximchain-wallet.png" width="48" height="48"> | [***eximchain-wallet***](apps/eximchain-wallet.md) | *Eximchain Wallet web and electron app.*..[ *read more* ](apps/eximchain-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eximchain-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eximchain-wallet) |
 | <img loading="lazy" src="icons/exodus.png" width="48" height="48"> | [***exodus***](apps/exodus.md) | *Send, receive & exchange cryptocurrency. Bitcoin wallet.*..[ *read more* ](apps/exodus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/exodus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/exodus) |
 | <img loading="lazy" src="icons/fat-wallet.png" width="48" height="48"> | [***fat-wallet***](apps/fat-wallet.md) | *Wallet for FAT tokens.*..[ *read more* ](apps/fat-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fat-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fat-wallet) |
@@ -126,8 +123,6 @@
 | <img loading="lazy" src="icons/grinplusplus.png" width="48" height="48"> | [***grinplusplus***](apps/grinplusplus.md) | *A C++ Grin Node & Wallet.*..[ *read more* ](apps/grinplusplus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/grinplusplus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/grinplusplus) |
 | <img loading="lazy" src="icons/guarda.png" width="48" height="48"> | [***guarda***](apps/guarda.md) | *A secure, easy-to-use open source multi-platform cryptocurrency wallet.*..[ *read more* ](apps/guarda.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/guarda) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/guarda) |
 | <img loading="lazy" src="icons/keepkey-desktop.png" width="48" height="48"> | [***keepkey-desktop***](apps/keepkey-desktop.md) | *An all-in-one suite for using your KeepKey hardware wallet.*..[ *read more* ](apps/keepkey-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keepkey-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keepkey-desktop) |
-| <img loading="lazy" src="icons/keibo-moneytracker-x86-64.png" width="48" height="48"> | [***keibo-moneytracker-x86-64***](apps/keibo-moneytracker-x86-64.md) | *Track your income and expenses easily.*..[ *read more* ](apps/keibo-moneytracker-x86-64.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keibo-moneytracker-x86-64) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keibo-moneytracker-x86-64) |
-| <img loading="lazy" src="icons/kmymoney.png" width="48" height="48"> | [***kmymoney***](apps/kmymoney.md) | *KMyMoney is a cross-platform personal finance manager build on KDE frameworks technologies for your desktop and notebook environment.*..[ *read more* ](apps/kmymoney.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kmymoney) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kmymoney) |
 | <img loading="lazy" src="icons/lbry-desktop.png" width="48" height="48"> | [***lbry-desktop***](apps/lbry-desktop.md) | *A browser and wallet for LBRY.*..[ *read more* ](apps/lbry-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lbry-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lbry-desktop) |
 | <img loading="lazy" src="icons/ledger-live-desktop.png" width="48" height="48"> | [***ledger-live-desktop***](apps/ledger-live-desktop.md) | *Ledger Wallet crypto app. Secure your crypto assets such as Bitcoin, Ethereum, XRP, Monero, and more. Give yourself peace of mind by knowing that your cryptocurrencies are safe.*..[ *read more* ](apps/ledger-live-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ledger-live-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ledger-live-desktop) |
 | <img loading="lazy" src="icons/lescovex.png" width="48" height="48"> | [***lescovex***](apps/lescovex.md) | *Lescovex decentralized exchange, wallet and contract issuer.*..[ *read more* ](apps/lescovex.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lescovex) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lescovex) |
@@ -139,7 +134,6 @@
 | <img loading="lazy" src="icons/neon.png" width="48" height="48"> | [***neon***](apps/neon.md) | *Light wallet for NEO blockchain.*..[ *read more* ](apps/neon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neon) |
 | <img loading="lazy" src="icons/nexus-wallet.png" width="48" height="48"> | [***nexus-wallet***](apps/nexus-wallet.md) | *Official interface layers of the Nexus Software Stack.*..[ *read more* ](apps/nexus-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nexus-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nexus-wallet) |
 | <img loading="lazy" src="icons/niffler.png" width="48" height="48"> | [***niffler***](apps/niffler.md) | *A grin gui wallet.*..[ *read more* ](apps/niffler.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/niffler) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/niffler) |
-| <img loading="lazy" src="icons/nix-bucks.png" width="48" height="48"> | [***nix-bucks***](apps/nix-bucks.md) | *A money tracker. Your income and expenses at your control. Finance.*..[ *read more* ](apps/nix-bucks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nix-bucks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nix-bucks) |
 | <img loading="lazy" src="icons/nunchuk.png" width="48" height="48"> | [***nunchuk***](apps/nunchuk.md) | *Desktop bitcoin wallet with multisig, hardware, nfc and air-gapped key support.*..[ *read more* ](apps/nunchuk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nunchuk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nunchuk) |
 | <img loading="lazy" src="icons/nym-wallet.png" width="48" height="48"> | [***nym-wallet***](apps/nym-wallet.md) | *Use the Nym network and take advantage of it.*..[ *read more* ](apps/nym-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nym-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nym-wallet) |
 | <img loading="lazy" src="icons/onekey-wallet.png" width="48" height="48"> | [***onekey-wallet***](apps/onekey-wallet.md) | *Open source crypto wallet.*..[ *read more* ](apps/onekey-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/onekey-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/onekey-wallet) |

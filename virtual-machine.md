@@ -1,9 +1,9 @@
-# APPIMAGE ON THE FLY
+# VIRTUAL MACHINE
 
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **12** AppImages built on the fly from the official portable builds, showing how easily portable apps can be converted to AppImages to gain isolated dotfiles, sandboxing via [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan), and reduced disk usage, serving as a proof of concept to encourage upstream developers to distribute them directly in such packaging format. Powered by **[portable2appimage](https://github.com/ivan-hc/portable2appimage)**.
+#### Here are listed **10** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -24,7 +24,7 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="android.html">android</a>
   <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill cat-pill--all" href="appimage-on-the-fly.html">appimage-on-the-fly</a>
+  <a class="cat-pill" href="appimage-on-the-fly.html">appimage-on-the-fly</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="audio.html">audio</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -72,7 +72,7 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="video.html">video</a>
   <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="virtual-machine.html">virtual-machine</a>
+  <a class="cat-pill cat-pill--all" href="virtual-machine.html">virtual-machine</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="wallet.html">wallet</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -93,18 +93,16 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
-| <img loading="lazy" src="icons/antigravity.png" width="48" height="48"> | [***antigravity***](apps/antigravity.md) | *Google Antigravity IDE.*..[ *read more* ](apps/antigravity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/antigravity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/antigravity) |
-| <img loading="lazy" src="icons/czkawka.png" width="48" height="48"> | [***czkawka***](apps/czkawka.md) | *App to find duplicates, empty folders, similar images etc.*..[ *read more* ](apps/czkawka.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/czkawka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/czkawka) |
-| <img loading="lazy" src="icons/fdm.png" width="48" height="48"> | [***fdm***](apps/fdm.md) | *Free Download Manager, multiplatform powerful modern download accelerator and organizer.*..[ *read more* ](apps/fdm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fdm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fdm) |
-| <img loading="lazy" src="icons/krokiet.png" width="48" height="48"> | [***krokiet***](apps/krokiet.md) | *App to find duplicates, empty folders, similar images etc. The successor of czkawka.*..[ *read more* ](apps/krokiet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/krokiet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/krokiet) |
-| <img loading="lazy" src="icons/ntsc-rs.png" width="48" height="48"> | [***ntsc-rs***](apps/ntsc-rs.md) | *Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).*..[ *read more* ](apps/ntsc-rs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ntsc-rs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ntsc-rs) |
-| <img loading="lazy" src="icons/ollama.png" width="48" height="48"> | [***ollama***](apps/ollama.md) | *Get up and running with Llama 3, Mistral, Gemma, and other LLMs.*..[ *read more* ](apps/ollama.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ollama) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ollama) |
-| <img loading="lazy" src="icons/syncthing.png" width="48" height="48"> | [***syncthing***](apps/syncthing.md) | *Open Source Continuous File Synchronization.*..[ *read more* ](apps/syncthing.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/syncthing) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/syncthing) |
-| <img loading="lazy" src="icons/syncthingctl.png" width="48" height="48"> | [***syncthingctl***](apps/syncthingctl.md) | *Tray control application and Dolphin/Plasma integration for Syncthing.*..[ *read more* ](apps/syncthingctl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/syncthingctl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/syncthingctl) |
-| <img loading="lazy" src="icons/syncthingtray.png" width="48" height="48"> | [***syncthingtray***](apps/syncthingtray.md) | *Tray application and Dolphin/Plasma integration for Syncthing.*..[ *read more* ](apps/syncthingtray.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/syncthingtray) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/syncthingtray) |
-| <img loading="lazy" src="icons/terabox.png" width="48" height="48"> | [***terabox***](apps/terabox.md) | *Terabox is the simplest way to send your files around the world. Back up and Share photos, videos, docs, and other files of any size to cloud storage.*..[ *read more* ](apps/terabox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/terabox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/terabox) |
-| <img loading="lazy" src="icons/tixati.png" width="48" height="48"> | [***tixati***](apps/tixati.md) | *A New and Powerful P2P System 100% Free, Simple and Easy to Use Bittorrent Client.*..[ *read more* ](apps/tixati.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tixati) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tixati) |
-| <img loading="lazy" src="icons/windows95.png" width="48" height="48"> | [***windows95***](apps/windows95.md) | *Unofficial. Windows 95 in Electron.*..[ *read more* ](apps/windows95.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/windows95) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/windows95) |
+| <img loading="lazy" src="icons/aranym.png" width="48" height="48"> | [***aranym***](apps/aranym.md) | *Virtual Machine for Atari 32-bit applications.*..[ *read more* ](apps/aranym.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aranym) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aranym) |
+| <img loading="lazy" src="icons/gnome-boxes.png" width="48" height="48"> | [***gnome-boxes***](apps/gnome-boxes.md) | *Unofficial, A simple GNOME application to access virtual machines.*..[ *read more* ](apps/gnome-boxes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-boxes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-boxes) |
+| <img loading="lazy" src="icons/pcsx2.png" width="48" height="48"> | [***pcsx2***](apps/pcsx2.md) | *PCSX2 is a free and open-source PlayStation 2 (PS2) emulator, using a combination of MIPS CPU Interpreters, Recompilers and a Virtual Machine which manages hardware states and PS2 system memory. This allows you to play PS2 games on your PC, with many additional features and benefits.*..[ *read more* ](apps/pcsx2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pcsx2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pcsx2) |
+| <img loading="lazy" src="icons/pcsx2-nightly.png" width="48" height="48"> | [***pcsx2-nightly***](apps/pcsx2-nightly.md) | *PCSX2 is a free and open-source PlayStation 2 (PS2) emulator, using a combination of MIPS CPU Interpreters, Recompilers and a Virtual Machine which manages hardware states and PS2 system memory. This allows you to play PS2 games on your PC, with many additional features and benefits. This is the nightly version.*..[ *read more* ](apps/pcsx2-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pcsx2-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pcsx2-nightly) |
+| <img loading="lazy" src="icons/qemu.png" width="48" height="48"> | [***qemu***](apps/qemu.md) | *Unofficial, a generic and open source machine & userspace emulator and virtualizer, to run a virtual machines.*..[ *read more* ](apps/qemu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qemu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qemu) |
+| <img loading="lazy" src="icons/qemu-ppc.png" width="48" height="48"> | [***qemu-ppc***](apps/qemu-ppc.md) | *Run PowerPC operating systems on 64-bit Intel Linux hosts.*..[ *read more* ](apps/qemu-ppc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qemu-ppc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qemu-ppc) |
+| <img loading="lazy" src="icons/quickgui.png" width="48" height="48"> | [***quickgui***](apps/quickgui.md) | *An elegant virtual machine manager for the desktop.*..[ *read more* ](apps/quickgui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/quickgui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/quickgui) |
+| <img loading="lazy" src="icons/scummvm.png" width="48" height="48"> | [***scummvm***](apps/scummvm.md) | *Unofficial, A 'virtual machine' for several classic graphical point-and-click adventure games*..[ *read more* ](apps/scummvm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/scummvm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/scummvm) |
+| <img loading="lazy" src="icons/virt-manager.png" width="48" height="48"> | [***virt-manager***](apps/virt-manager.md) | *Unofficial AppImage of virt-manager, interface for managing virtual machines.*..[ *read more* ](apps/virt-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/virt-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/virt-manager) |
+| <img loading="lazy" src="icons/virtualbox.png" width="48" height="48"> | [***virtualbox***](apps/virtualbox.md) | *Powerful x86 virtualization for enterprise as well as home use.*..[ *read more* ](apps/virtualbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/virtualbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/virtualbox) |
 
 
 ---

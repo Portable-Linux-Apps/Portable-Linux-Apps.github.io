@@ -38,6 +38,8 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="education.html">education</a>
   <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="emulator.html">emulator</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="file-manager.html">file-manager</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="finance.html">finance</a>
@@ -70,11 +72,17 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="video.html">video</a>
   <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="virtual-machine.html">virtual-machine</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="wallet.html">wallet</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="web-app.html">web-app</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="web-browser.html">web-browser</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill cat-pill--all" href="wine.html">wine</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="youtube.html">youtube</a>
 </div>
 
 -----------------

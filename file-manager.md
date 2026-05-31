@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **25** programs for this category.
+#### Here are listed **26** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -38,6 +38,8 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="education.html">education</a>
   <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="emulator.html">emulator</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill cat-pill--all" href="file-manager.html">file-manager</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="finance.html">finance</a>
@@ -70,11 +72,17 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="video.html">video</a>
   <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="virtual-machine.html">virtual-machine</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="wallet.html">wallet</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="web-app.html">web-app</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="web-browser.html">web-browser</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="wine.html">wine</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="youtube.html">youtube</a>
 </div>
 
 -----------------
@@ -98,6 +106,7 @@
 | <img loading="lazy" src="icons/filebrowser-quantum.png" width="48" height="48"> | [***filebrowser-quantum***](apps/filebrowser-quantum.md) | *Web File Browser.*..[ *read more* ](apps/filebrowser-quantum.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filebrowser-quantum) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filebrowser-quantum) |
 | <img loading="lazy" src="icons/fman.png" width="48" height="48"> | [***fman***](apps/fman.md) | *TUI CLI File Manager.*..[ *read more* ](apps/fman.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fman) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fman) |
 | <img loading="lazy" src="icons/freeman.png" width="48" height="48"> | [***freeman***](apps/freeman.md) | *A free, extensible, cross-platform file manager for power users.*..[ *read more* ](apps/freeman.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freeman) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freeman) |
+| <img loading="lazy" src="icons/jdnbtexplorer.png" width="48" height="48"> | [***jdnbtexplorer***](apps/jdnbtexplorer.md) | *A Editor for Minecraft NBT files.*..[ *read more* ](apps/jdnbtexplorer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jdnbtexplorer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jdnbtexplorer) |
 | <img loading="lazy" src="icons/lf.png" width="48" height="48"> | [***lf***](apps/lf.md) | *lf, as in "list files" is a terminal file manager written in Go.*..[ *read more* ](apps/lf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lf) |
 | <img loading="lazy" src="icons/nnn.png" width="48" height="48"> | [***nnn***](apps/nnn.md) | *n³ The unorthodox terminal file manager*..[ *read more* ](apps/nnn.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nnn) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nnn) |
 | <img loading="lazy" src="icons/rcloneview.png" width="48" height="48"> | [***rcloneview***](apps/rcloneview.md) | *The ultimate GUI for Cloud Data Sync and File Management. Effortlessly browse, organize, transfer files across your cloud storages.*..[ *read more* ](apps/rcloneview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rcloneview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rcloneview) |

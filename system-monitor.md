@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **12** programs for this category.
+#### Here are listed **13** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -38,6 +38,8 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="education.html">education</a>
   <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="emulator.html">emulator</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="file-manager.html">file-manager</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="finance.html">finance</a>
@@ -70,11 +72,17 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="video.html">video</a>
   <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="virtual-machine.html">virtual-machine</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="wallet.html">wallet</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="web-app.html">web-app</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="web-browser.html">web-browser</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="wine.html">wine</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="youtube.html">youtube</a>
 </div>
 
 -----------------
@@ -96,6 +104,7 @@
 | <img loading="lazy" src="icons/mate-system-monitor.png" width="48" height="48"> | [***mate-system-monitor***](apps/mate-system-monitor.md) | *Unofficial, Process viewer and system resource monitor, from MATE.*..[ *read more* ](apps/mate-system-monitor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mate-system-monitor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mate-system-monitor) |
 | <img loading="lazy" src="icons/system-monitoring-center.png" width="48" height="48"> | [***system-monitoring-center***](apps/system-monitoring-center.md) | *Unofficial. Multi-featured system monitor.*..[ *read more* ](apps/system-monitoring-center.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/system-monitoring-center) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/system-monitoring-center) |
 | <img loading="lazy" src="icons/taskell.png" width="48" height="48"> | [***taskell***](apps/taskell.md) | *Command-line Kanban board/task manager with support for Trello boards and GitHub projects.*..[ *read more* ](apps/taskell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskell) |
+| <img loading="lazy" src="icons/top.png" width="48" height="48"> | [***top***](apps/top.md) | *Display Linux processes. This is part of "am-utils" suite.*..[ *read more* ](apps/top.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/top) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/top) |
 | <img loading="lazy" src="icons/tux-manager.png" width="48" height="48"> | [***tux-manager***](apps/tux-manager.md) | *A Linux Task Manager alternative built with Qt6, inspired by the Windows Task Manager but designed to go further - providing deep visibility into system processes, performance metrics, users, and services.*..[ *read more* ](apps/tux-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tux-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tux-manager) |
 
 
