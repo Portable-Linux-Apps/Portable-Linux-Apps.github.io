@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **3223** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **75** more entries and items to help you install apps more easily.
+#### Here are listed all **3224** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **75** more entries and items to help you install apps more easily.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -1838,6 +1838,7 @@
 | <img loading="lazy" src="icons/mochi.png" width="48" height="48"> | [***mochi***](apps/mochi.md) | *A simple markdown-powered SRS app.*..[ *read more* ](apps/mochi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mochi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mochi) |
 | <img loading="lazy" src="icons/mockman.png" width="48" height="48"> | [***mockman***](apps/mockman.md) | *Manage and start the mock servers on your local platform easily.*..[ *read more* ](apps/mockman.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mockman) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mockman) |
 | <img loading="lazy" src="icons/mockoon.png" width="48" height="48"> | [***mockoon***](apps/mockoon.md) | *Mock servers in seconds.*..[ *read more* ](apps/mockoon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mockoon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mockoon) |
+| <img loading="lazy" src="icons/modemu2k.png" width="48" height="48"> | [***modemu2k***](apps/modemu2k.md) | *A Hayes AT-command modem emulator that bridges a serial interface to TCP/Telnet.*..[ *read more* ](apps/modemu2k.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/modemu2k) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/modemu2k) |
 | <img loading="lazy" src="icons/moderndeck.png" width="48" height="48"> | [***moderndeck***](apps/moderndeck.md) | *A beautiful, powerful Twitter client for desktop.*..[ *read more* ](apps/moderndeck.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moderndeck) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moderndeck) |
 | <img loading="lazy" src="icons/modrinth.png" width="48" height="48"> | [***modrinth***](apps/modrinth.md) | *Open source launcher that allows you to play your favorite mods.*..[ *read more* ](apps/modrinth.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/modrinth) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/modrinth) |
 | <img loading="lazy" src="icons/modv.png" width="48" height="48"> | [***modv***](apps/modv.md) | *Modular audio visualisation powered by JavaScript.*..[ *read more* ](apps/modv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/modv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/modv) |

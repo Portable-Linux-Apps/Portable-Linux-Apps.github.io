@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **92** programs and **1** items for this category.
+#### Here are listed **93** programs and **1** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -146,6 +146,7 @@
 | <img loading="lazy" src="icons/mgba.png" width="48" height="48"> | [***mgba***](apps/mgba.md) | *Game Boy Advance Emulator.*..[ *read more* ](apps/mgba.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mgba) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mgba) |
 | <img loading="lazy" src="icons/mgba-enhanced.png" width="48" height="48"> | [***mgba-enhanced***](apps/mgba-enhanced.md) | *Unofficial, Game Boy Advance Emulator.*..[ *read more* ](apps/mgba-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mgba-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mgba-enhanced) |
 | <img loading="lazy" src="icons/mini-vmac.png" width="48" height="48"> | [***mini-vmac***](apps/mini-vmac.md) | *Unofficial, a miniature Macintosh 68K emulator.*..[ *read more* ](apps/mini-vmac.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mini-vmac) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mini-vmac) |
+| <img loading="lazy" src="icons/modemu2k.png" width="48" height="48"> | [***modemu2k***](apps/modemu2k.md) | *A Hayes AT-command modem emulator that bridges a serial interface to TCP/Telnet.*..[ *read more* ](apps/modemu2k.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/modemu2k) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/modemu2k) |
 | <img loading="lazy" src="icons/neko-project-ii-kai.png" width="48" height="48"> | [***neko-project-ii-kai***](apps/neko-project-ii-kai.md) | *Unofficial, a PC-9801 series emulator.*..[ *read more* ](apps/neko-project-ii-kai.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neko-project-ii-kai) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neko-project-ii-kai) |
 | <img loading="lazy" src="icons/nestopia.png" width="48" height="48"> | [***nestopia***](apps/nestopia.md) | *Unofficial, Cross-platform Nestopia NES emulator core with a GUI.*..[ *read more* ](apps/nestopia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nestopia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nestopia) |
 | <img loading="lazy" src="icons/nexen.png" width="48" height="48"> | [***nexen***](apps/nexen.md) | *Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS).*..[ *read more* ](apps/nexen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nexen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nexen) |

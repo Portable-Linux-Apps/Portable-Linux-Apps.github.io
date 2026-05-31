@@ -8715,6 +8715,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/mockoon.png"
   },
   {
+    "packageName": "modemu2k",
+    "description": "A Hayes AT-command modem emulator that bridges a serial interface to TCP/Telnet...",
+    "icon": "https://portable-linux-apps.github.io/icons/modemu2k.png"
+  },
+  {
     "packageName": "moderndeck",
     "description": "A beautiful, powerful Twitter client for desktop...",
     "icon": "https://portable-linux-apps.github.io/icons/moderndeck.png"
