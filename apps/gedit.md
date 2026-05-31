@@ -1,6 +1,6 @@
 # GEDIT
 
- ArchImage of the popular GNOME text editor Gedit.
+ An easy-to-use general-purpose text editor for the GNOME desktop environment.
 
  This script can install the latest release (if any) and a legacy variant.
 
