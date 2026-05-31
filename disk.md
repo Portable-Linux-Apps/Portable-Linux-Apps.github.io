@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **17** programs and **2** items for this category.
+#### Here are listed **18** programs and **2** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -93,6 +93,7 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
+| <img loading="lazy" src="icons/baobab.png" width="48" height="48"> | [***baobab***](apps/baobab.md) | *A graphical directory tree analyzer for the GNOME desktop environment, to keep your disk usage and available space under control.*..[ *read more* ](apps/baobab.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/baobab) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/baobab) |
 | <img loading="lazy" src="icons/diskfmt.png" width="48" height="48"> | [***diskfmt***](apps/diskfmt.md) | *A disk formatting utility for linux that is similar to the windows format utility.*..[ *read more* ](apps/diskfmt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/diskfmt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/diskfmt) |
 | <img loading="lazy" src="icons/diskonaut.png" width="48" height="48"> | [***diskonaut***](apps/diskonaut.md) | *Terminal disk space navigator.*..[ *read more* ](apps/diskonaut.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/diskonaut) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/diskonaut) |
 | <img loading="lazy" src="icons/dua.png" width="48" height="48"> | [***dua***](apps/dua.md) | *View disk space usage and delete unwanted data, fast.*..[ *read more* ](apps/dua.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dua) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dua) |

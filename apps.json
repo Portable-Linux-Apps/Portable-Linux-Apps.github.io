@@ -1040,6 +1040,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/banjo-recompiled.png"
   },
   {
+    "packageName": "baobab",
+    "description": "A graphical directory tree analyzer for the GNOME desktop environment, to keep your disk usage and available space under control...",
+    "icon": "https://portable-linux-apps.github.io/icons/baobab.png"
+  },
+  {
     "packageName": "barnacal",
     "description": "A simple menu bar app for viewing a calendar..",
     "icon": "https://portable-linux-apps.github.io/icons/barnacal.png"
@@ -3970,6 +3975,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/envkey.png"
   },
   {
+    "packageName": "eog",
+    "description": "Eye of Gnome is an image viewing and cataloging program...",
+    "icon": "https://portable-linux-apps.github.io/icons/eog.png"
+  },
+  {
     "packageName": "eosvc",
     "description": "Application for management of self-employeed people...",
     "icon": "https://portable-linux-apps.github.io/icons/eosvc.png"
@@ -4423,6 +4433,11 @@
     "packageName": "file-converter",
     "description": "Convert between various file formats...",
     "icon": "https://portable-linux-apps.github.io/icons/file-converter.png"
+  },
+  {
+    "packageName": "file-roller",
+    "description": "File Roller is an archive manager for the GNOME desktop environment. Create and modify archives...",
+    "icon": "https://portable-linux-apps.github.io/icons/file-roller.png"
   },
   {
     "packageName": "file-to-c",
@@ -5121,7 +5136,7 @@
   },
   {
     "packageName": "gedit",
-    "description": "Unofficial. The popular GNOME text editor Gedit...",
+    "description": "An easy-to-use general-purpose text editor for the GNOME desktop environment...",
     "icon": "https://portable-linux-apps.github.io/icons/gedit.png"
   },
   {
@@ -5461,7 +5476,7 @@
   },
   {
     "packageName": "gnome-system-monitor",
-    "description": "Unofficial. View current processes and monitor system state...",
+    "description": "System Monitor is a process viewer and system monitor with an attractive, easy-to-use interface for the GNOME desktop environment...",
     "icon": "https://portable-linux-apps.github.io/icons/gnome-system-monitor.png"
   },
   {
@@ -12878,6 +12893,11 @@
     "packageName": "simple-s3-uploader",
     "description": "Easily uploading files and sharing links via AWS S3...",
     "icon": "https://portable-linux-apps.github.io/icons/simple-s3-uploader.png"
+  },
+  {
+    "packageName": "simple-scan",
+    "description": "Make a digital copy of your photos and documents. Simple scanning utility for the GNOME desktop environment...",
+    "icon": "https://portable-linux-apps.github.io/icons/simple-scan.png"
   },
   {
     "packageName": "simple-timer",

@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **89** programs for this category.
+#### Here are listed **90** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -172,6 +172,7 @@
 | <img loading="lazy" src="icons/rnote.png" width="48" height="48"> | [***rnote***](apps/rnote.md) | *Unofficial, Rnote is a vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures.*..[ *read more* ](apps/rnote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rnote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rnote) |
 | <img loading="lazy" src="icons/rx-bin.png" width="48" height="48"> | [***rx-bin***](apps/rx-bin.md) | *A modern and extensible pixel editor implemented in Rust.*..[ *read more* ](apps/rx-bin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rx-bin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rx-bin) |
 | <img loading="lazy" src="icons/shotwell.png" width="48" height="48"> | [***shotwell***](apps/shotwell.md) | *Unofficial, a digital photo organizer designed for the GNOME desktop environment.*..[ *read more* ](apps/shotwell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shotwell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shotwell) |
+| <img loading="lazy" src="icons/simple-scan.png" width="48" height="48"> | [***simple-scan***](apps/simple-scan.md) | *Make a digital copy of your photos and documents. Simple scanning utility for the GNOME desktop environment.*..[ *read more* ](apps/simple-scan.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/simple-scan) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/simple-scan) |
 | <img loading="lazy" src="icons/superpaper.png" width="48" height="48"> | [***superpaper***](apps/superpaper.md) | *A cross-platform multi monitor wallpaper manager.*..[ *read more* ](apps/superpaper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/superpaper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/superpaper) |
 | <img loading="lazy" src="icons/svgwall.png" width="48" height="48"> | [***svgwall***](apps/svgwall.md) | *SVG Wallpaper Utility for Xorg.*..[ *read more* ](apps/svgwall.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/svgwall) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/svgwall) |
 | <img loading="lazy" src="icons/terabox.png" width="48" height="48"> | [***terabox***](apps/terabox.md) | *Terabox is the simplest way to send your files around the world. Back up and Share photos, videos, docs, and other files of any size to cloud storage.*..[ *read more* ](apps/terabox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/terabox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/terabox) |

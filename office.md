@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **74** programs and **1** items for this category.
+#### Here are listed **75** programs and **1** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -152,6 +152,7 @@
 | <img loading="lazy" src="icons/ripgrep-all.png" width="48" height="48"> | [***ripgrep-all***](apps/ripgrep-all.md) | *A ripgrep version to also search in documents and archives.*..[ *read more* ](apps/ripgrep-all.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ripgrep-all) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ripgrep-all) |
 | <img loading="lazy" src="icons/rnote.png" width="48" height="48"> | [***rnote***](apps/rnote.md) | *Unofficial, Rnote is a vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures.*..[ *read more* ](apps/rnote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rnote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rnote) |
 | <img loading="lazy" src="icons/rssguard.png" width="48" height="48"> | [***rssguard***](apps/rssguard.md) | *Feed reader which supports RSS/ATOM/JSON, no-webengine version.*..[ *read more* ](apps/rssguard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rssguard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rssguard) |
+| <img loading="lazy" src="icons/simple-scan.png" width="48" height="48"> | [***simple-scan***](apps/simple-scan.md) | *Make a digital copy of your photos and documents. Simple scanning utility for the GNOME desktop environment.*..[ *read more* ](apps/simple-scan.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/simple-scan) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/simple-scan) |
 | <img loading="lazy" src="icons/sioyek.png" width="48" height="48"> | [***sioyek***](apps/sioyek.md) | *PDF viewer designed for reading research papers and technical books.*..[ *read more* ](apps/sioyek.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sioyek) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sioyek) |
 | <img loading="lazy" src="icons/spyglass.png" width="48" height="48"> | [***spyglass***](apps/spyglass.md) | *A personal search engine to create a searchable library from your personal documents, interests, and more.*..[ *read more* ](apps/spyglass.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spyglass) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spyglass) |
 | <img loading="lazy" src="icons/stirling-pdf.png" width="48" height="48"> | [***stirling-pdf***](apps/stirling-pdf.md) | *Unofficial. Powerful, open-source PDF editing platform.*..[ *read more* ](apps/stirling-pdf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stirling-pdf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stirling-pdf) |
