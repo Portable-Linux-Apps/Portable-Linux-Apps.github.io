@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **332** programs and **39** items for this category.
+#### Here are listed **331** programs and **39** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -142,7 +142,6 @@
 | <img loading="lazy" src="icons/classicube.png" width="48" height="48"> | [***classicube***](apps/classicube.md) | *Unofficial, Custom Minecraft Classic / ClassiCube client written in C from scratch*..[ *read more* ](apps/classicube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/classicube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/classicube) |
 | <img loading="lazy" src="icons/cncra2yr.png" width="48" height="48"> | [***cncra2yr***](apps/cncra2yr.md) | *C&C Red Alert 2, a real-time strategy game by Westwood Pacific.*..[ *read more* ](apps/cncra2yr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cncra2yr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cncra2yr) |
 | <img loading="lazy" src="icons/coal-launcher.png" width="48" height="48"> | [***coal-launcher***](apps/coal-launcher.md) | *A client to view and play games from the AB Coal website.*..[ *read more* ](apps/coal-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/coal-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/coal-launcher) |
-| <img loading="lazy" src="icons/conty-wine.png" width="48" height="48"> | [***conty-wine***](apps/conty-wine.md) | *Easy to use unprivileged and portable Arch Linux container.*..[ *read more* ](apps/conty-wine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/conty-wine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/conty-wine) |
 | <img loading="lazy" src="icons/crawl-ncurses.png" width="48" height="48"> | [***crawl-ncurses***](apps/crawl-ncurses.md) | *open-source, single-player, role-playing roguelike game of exploration and treasure-hunting - ncurses version (terminal)*..[ *read more* ](apps/crawl-ncurses.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crawl-ncurses) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crawl-ncurses) |
 | <img loading="lazy" src="icons/crawl-tiles.png" width="48" height="48"> | [***crawl-tiles***](apps/crawl-tiles.md) | *open-source, single-player, role-playing roguelike game of exploration and treasure-hunting - graphical version (SDL)*..[ *read more* ](apps/crawl-tiles.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crawl-tiles) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crawl-tiles) |
 | <img loading="lazy" src="icons/crg-data-tool.png" width="48" height="48"> | [***crg-data-tool***](apps/crg-data-tool.md) | *A tool for working with Games Data files from CRG.*..[ *read more* ](apps/crg-data-tool.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crg-data-tool) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crg-data-tool) |

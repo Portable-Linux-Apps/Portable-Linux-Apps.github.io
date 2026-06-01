@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **924** programs and **5** items for this category.
+#### Here are listed **922** programs and **5** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">

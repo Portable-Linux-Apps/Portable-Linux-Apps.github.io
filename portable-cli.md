@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **492** command line utilities: static and dynamic ELF binaries, or simple scripts.
+#### Here are listed **490** command line utilities: static and dynamic ELF binaries, or simple scripts.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -167,8 +167,6 @@
 | <img loading="lazy" src="icons/comics-downloader.png" width="48" height="48"> | [***comics-downloader***](apps/comics-downloader.md) | *Tool to download comics and manga in pdf/epub/cbr/cbz from a website.*..[ *read more* ](apps/comics-downloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/comics-downloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/comics-downloader) |
 | <img loading="lazy" src="icons/comm.png" width="48" height="48"> | [***comm***](apps/comm.md) | *Compare two sorted files line by line. This is part of "am-utils" suite.*..[ *read more* ](apps/comm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/comm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/comm) |
 | <img loading="lazy" src="icons/conty.png" width="48" height="48"> | [***conty***](apps/conty.md) | *Easy to use unprivileged and portable Arch Linux container.*..[ *read more* ](apps/conty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/conty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/conty) |
-| <img loading="lazy" src="icons/conty-lite.png" width="48" height="48"> | [***conty-lite***](apps/conty-lite.md) | *Easy to use unprivileged and portable Arch Linux container.*..[ *read more* ](apps/conty-lite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/conty-lite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/conty-lite) |
-| <img loading="lazy" src="icons/conty-wine.png" width="48" height="48"> | [***conty-wine***](apps/conty-wine.md) | *Easy to use unprivileged and portable Arch Linux container.*..[ *read more* ](apps/conty-wine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/conty-wine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/conty-wine) |
 | <img loading="lazy" src="icons/cowitness.png" width="48" height="48"> | [***cowitness***](apps/cowitness.md) | *A powerful web app testing tool that enhances the accuracy and efficiency of your testing efforts.*..[ *read more* ](apps/cowitness.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cowitness) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cowitness) |
 | <img loading="lazy" src="icons/cp.png" width="48" height="48"> | [***cp***](apps/cp.md) | *Copy files and directories. This is part of "am-utils" suite.*..[ *read more* ](apps/cp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cp) |
 | <img loading="lazy" src="icons/cpufetch.png" width="48" height="48"> | [***cpufetch***](apps/cpufetch.md) | *Simple yet fancy CPU architecture fetching tool.*..[ *read more* ](apps/cpufetch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cpufetch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cpufetch) |

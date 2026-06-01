@@ -2475,16 +2475,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/conty.png"
   },
   {
-    "packageName": "conty-lite",
-    "description": "Easy to use unprivileged and portable Arch Linux container...",
-    "icon": "https://portable-linux-apps.github.io/icons/conty-lite.png"
-  },
-  {
-    "packageName": "conty-wine",
-    "description": "Easy to use unprivileged and portable Arch Linux container...",
-    "icon": "https://portable-linux-apps.github.io/icons/conty-wine.png"
-  },
-  {
     "packageName": "converse-desktop",
     "description": "Electron-based Desktop client for Converse.js...",
     "icon": "https://portable-linux-apps.github.io/icons/converse-desktop.png"
