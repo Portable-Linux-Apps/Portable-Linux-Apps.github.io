@@ -32,6 +32,7 @@
  - kmines : Classic mine game.
  - knavalbattle : Battle Ship game.
  - knetwalk : Net constructing game.
+ - knights : Chess interface for the KDE Platform.
  - kolf : Mini Golf game.
  - kollision : Dodge red balls in the field.
  - konquest : Game of planets.
@@ -49,7 +50,7 @@
  - palapeli : Jigsaw puzzle game.
  - picmi : Single player logic-based puzzle game.
 
- Note, if you don't see one listed (e.g. knights), there probably already is a standalone AppImage in this database.
+ Note, if you don't see one listed, there probably already is a standalone AppImage in this database. There are also packages (for example, "knights") that have their own AppImage, and these can be quite large overall due to the core KDE libraries they include. This metpackage exists precisely to avoid duplicating these libraries.
 
  SITE: https://github.com/ivan-hc/KDE-games-suite-appimage
 
