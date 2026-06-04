@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **580** portable programs NOT in AppImage format.
+#### Here are listed **579** portable programs NOT in AppImage format.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -597,7 +597,6 @@
 | <img loading="lazy" src="icons/tr.png" width="48" height="48"> | [***tr***](apps/tr.md) | *Translate or delete characters. This is part of "am-utils" suite.*..[ *read more* ](apps/tr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tr) |
 | <img loading="lazy" src="icons/trans.png" width="48" height="48"> | [***trans***](apps/trans.md) | *CLI translator using Google/Bing/Yandex Translate, etc...*..[ *read more* ](apps/trans.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trans) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trans) |
 | <img loading="lazy" src="icons/transformer.png" width="48" height="48"> | [***transformer***](apps/transformer.md) | *A command-line utility for splitting large files into chunks/pieces and merging them back together.*..[ *read more* ](apps/transformer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/transformer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/transformer) |
-| <img loading="lazy" src="icons/trilium.png" width="48" height="48"> | [***trilium***](apps/trilium.md) | *Build your personal knowledge base with Trilium Notes.*..[ *read more* ](apps/trilium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trilium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trilium) |
 | <img loading="lazy" src="icons/true.png" width="48" height="48"> | [***true***](apps/true.md) | *Do nothing, successfully. This is part of "am-utils" suite.*..[ *read more* ](apps/true.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/true) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/true) |
 | <img loading="lazy" src="icons/truncate.png" width="48" height="48"> | [***truncate***](apps/truncate.md) | *Shrink or extend the size of a file to the specified. This is part of "am-utils" suite.*..[ *read more* ](apps/truncate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/truncate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/truncate) |
 | <img loading="lazy" src="icons/tsort.png" width="48" height="48"> | [***tsort***](apps/tsort.md) | *Perform a topological sort. This is part of "am-utils" suite.*..[ *read more* ](apps/tsort.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tsort) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tsort) |

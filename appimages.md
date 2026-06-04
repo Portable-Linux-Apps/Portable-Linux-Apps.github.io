@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed the **2647** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2648** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -2441,6 +2441,7 @@
 | <img loading="lazy" src="icons/trezor-suite.png" width="48" height="48"> | [***trezor-suite***](apps/trezor-suite.md) | *Trezor Suite desktop application.*..[ *read more* ](apps/trezor-suite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trezor-suite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trezor-suite) |
 | <img loading="lazy" src="icons/trgui-ng.png" width="48" height="48"> | [***trgui-ng***](apps/trgui-ng.md) | *Remote GUI for Transmission torrent daemon.*..[ *read more* ](apps/trgui-ng.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trgui-ng) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trgui-ng) |
 | <img loading="lazy" src="icons/triagem-touch.png" width="48" height="48"> | [***triagem-touch***](apps/triagem-touch.md) | *Novo SGA triage client.*..[ *read more* ](apps/triagem-touch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/triagem-touch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/triagem-touch) |
+| <img loading="lazy" src="icons/trilium.png" width="48" height="48"> | [***trilium***](apps/trilium.md) | *Build your personal knowledge base with Trilium Notes.*..[ *read more* ](apps/trilium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trilium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trilium) |
 | <img loading="lazy" src="icons/trinity-desktop.png" width="48" height="48"> | [***trinity-desktop***](apps/trinity-desktop.md) | *Desktop wallet for IOTA.*..[ *read more* ](apps/trinity-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trinity-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trinity-desktop) |
 | <img loading="lazy" src="icons/tropy.png" width="48" height="48"> | [***tropy***](apps/tropy.md) | *Research photo management.*..[ *read more* ](apps/tropy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tropy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tropy) |
 | <img loading="lazy" src="icons/tt.png" width="48" height="48"> | [***tt***](apps/tt.md) | *A simple Time Tracker to stay basic and intuitive.*..[ *read more* ](apps/tt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tt) |
