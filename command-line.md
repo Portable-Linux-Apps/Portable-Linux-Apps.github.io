@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **922** programs and **5** items for this category.
+#### Here are listed **923** programs and **5** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -425,6 +425,7 @@
 | <img loading="lazy" src="icons/spotify-tui.png" width="48" height="48"> | [***spotify-tui***](apps/spotify-tui.md) | *Spotify for the terminal written in Rust.*..[ *read more* ](apps/spotify-tui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify-tui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify-tui) |
 | <img loading="lazy" src="icons/sptlrx.png" width="48" height="48"> | [***sptlrx***](apps/sptlrx.md) | *Synchronized lyrics in your terminal.*..[ *read more* ](apps/sptlrx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sptlrx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sptlrx) |
 | <img loading="lazy" src="icons/sqlite3.png" width="48" height="48"> | [***sqlite3***](apps/platform-tools.md) | *Command-line tool for managing SQLite databases. This is part of "platform-tools".*..[ *read more* ](apps/platform-tools.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/platform-tools) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/platform-tools) |
+| <img loading="lazy" src="icons/st+.png" width="48" height="48"> | [***st+***](apps/st+.md) | *Simple Terminal+ is a lightweight terminal (~100KB) with essential features and rock-solid stability for daily use. Best used with tmux and nerd-fonts.*..[ *read more* ](apps/st+.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/st+) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/st+) |
 | <img loading="lazy" src="icons/stat.png" width="48" height="48"> | [***stat***](apps/stat.md) | *Display file or file system status. This is part of "am-utils" suite.*..[ *read more* ](apps/stat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stat) |
 | <img loading="lazy" src="icons/stdbuf.png" width="48" height="48"> | [***stdbuf***](apps/stdbuf.md) | *With modified buffering operations for its. This is part of "am-utils" suite.*..[ *read more* ](apps/stdbuf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stdbuf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stdbuf) |
 | <img loading="lazy" src="icons/strace.png" width="48" height="48"> | [***strace***](apps/strace.md) | *Trace system calls and signals. This is part of "am-utils" suite.*..[ *read more* ](apps/strace.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/strace) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/strace) |

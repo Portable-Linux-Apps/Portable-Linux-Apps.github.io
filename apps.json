@@ -13425,6 +13425,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/ssplot.png"
   },
   {
+    "packageName": "st+",
+    "description": "Simple Terminal+ is a lightweight terminal (~100KB) with essential features and rock-solid stability for daily use. Best used with tmux and nerd-fonts...",
+    "icon": "https://portable-linux-apps.github.io/icons/st+.png"
+  },
+  {
     "packageName": "stacer",
     "description": "Linux System Optimizer and Monitoring...",
     "icon": "https://portable-linux-apps.github.io/icons/stacer.png"
