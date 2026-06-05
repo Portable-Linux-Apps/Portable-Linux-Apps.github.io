@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed the **2648** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2647** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -901,7 +901,6 @@
 | <img loading="lazy" src="icons/frontimer.png" width="48" height="48"> | [***frontimer***](apps/frontimer.md) | *Desktop timer application always displayed in the forefront of the screen.*..[ *read more* ](apps/frontimer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/frontimer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/frontimer) |
 | <img loading="lazy" src="icons/fspy.png" width="48" height="48"> | [***fspy***](apps/fspy.md) | *An open source, cross platform app for still image camera matching.*..[ *read more* ](apps/fspy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fspy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fspy) |
 | <img loading="lazy" src="icons/fukayo.png" width="48" height="48"> | [***fukayo***](apps/fukayo.md) | *Manga reader.*..[ *read more* ](apps/fukayo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fukayo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fukayo) |
-| <img loading="lazy" src="icons/funterm.png" width="48" height="48"> | [***funterm***](apps/funterm.md) | *A Linux Terminal Emulator.*..[ *read more* ](apps/funterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/funterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/funterm) |
 | <img loading="lazy" src="icons/furnace.png" width="48" height="48"> | [***furnace***](apps/furnace.md) | *A multi-system chiptune tracker compatible with DefleMask modules.*..[ *read more* ](apps/furnace.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/furnace) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/furnace) |
 | <img loading="lazy" src="icons/g-v2ray.png" width="48" height="48"> | [***g-v2ray***](apps/g-v2ray.md) | *Advanced V2Ray/Xray GUI Client for Linux.*..[ *read more* ](apps/g-v2ray.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/g-v2ray) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/g-v2ray) |
 | <img loading="lazy" src="icons/gaiasky.png" width="48" height="48"> | [***gaiasky***](apps/gaiasky.md) | *Gaia Sky, a real-time 3D space simulator & astronomy visualisation.*..[ *read more* ](apps/gaiasky.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gaiasky) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gaiasky) |

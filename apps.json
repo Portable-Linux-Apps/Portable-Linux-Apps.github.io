@@ -4955,11 +4955,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/funkin-legacy.png"
   },
   {
-    "packageName": "funterm",
-    "description": "A Linux Terminal Emulator...",
-    "icon": "https://portable-linux-apps.github.io/icons/funterm.png"
-  },
-  {
     "packageName": "furnace",
     "description": "A multi-system chiptune tracker compatible with DefleMask modules...",
     "icon": "https://portable-linux-apps.github.io/icons/furnace.png"
