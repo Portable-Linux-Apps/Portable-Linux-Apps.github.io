@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed the **2647** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2648** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -1437,6 +1437,7 @@
 | <img loading="lazy" src="icons/minififa.png" width="48" height="48"> | [***minififa***](apps/minififa.md) | *OpenGL-powered third-person football, soccer game.*..[ *read more* ](apps/minififa.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/minififa) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/minififa) |
 | <img loading="lazy" src="icons/minimal-podcasts-player.png" width="48" height="48"> | [***minimal-podcasts-player***](apps/minimal-podcasts-player.md) | *Subscribe, listen and download your podcasts.*..[ *read more* ](apps/minimal-podcasts-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/minimal-podcasts-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/minimal-podcasts-player) |
 | <img loading="lazy" src="icons/minions.png" width="48" height="48"> | [***minions***](apps/minions.md) | *A productive tool inspired by LaunchBar in macOS.*..[ *read more* ](apps/minions.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/minions) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/minions) |
+| <img loading="lazy" src="icons/miniter.png" width="48" height="48"> | [***miniter***](apps/miniter.md) | *Rust based non-linear video editor for basic tasks.*..[ *read more* ](apps/miniter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/miniter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/miniter) |
 | <img loading="lazy" src="icons/minizinc-ide.png" width="48" height="48"> | [***minizinc-ide***](apps/minizinc-ide.md) | *A free and open-source constraint modeling language.*..[ *read more* ](apps/minizinc-ide.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/minizinc-ide) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/minizinc-ide) |
 | <img loading="lazy" src="icons/mira-backup.png" width="48" height="48"> | [***mira-backup***](apps/mira-backup.md) | *Mira Auto Database Backup app.*..[ *read more* ](apps/mira-backup.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mira-backup) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mira-backup) |
 | <img loading="lazy" src="icons/mirage.png" width="48" height="48"> | [***mirage***](apps/mirage.md) | *Matrix chat client for encrypted and decentralized communication.*..[ *read more* ](apps/mirage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mirage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mirage) |

@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **162** programs for this category.
+#### Here are listed **163** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -148,6 +148,7 @@
 | <img loading="lazy" src="icons/mediachips.png" width="48" height="48"> | [***mediachips***](apps/mediachips.md) | *Manage your videos, add any metadata to them and play them.*..[ *read more* ](apps/mediachips.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mediachips) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mediachips) |
 | <img loading="lazy" src="icons/memento.png" width="48" height="48"> | [***memento***](apps/memento.md) | *A video player for studying Japanese.*..[ *read more* ](apps/memento.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/memento) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/memento) |
 | <img loading="lazy" src="icons/migu.png" width="48" height="48"> | [***migu***](apps/migu.md) | *Stream anime torrents, real-time with no waiting for downloads.*..[ *read more* ](apps/migu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/migu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/migu) |
+| <img loading="lazy" src="icons/miniter.png" width="48" height="48"> | [***miniter***](apps/miniter.md) | *Rust based non-linear video editor for basic tasks.*..[ *read more* ](apps/miniter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/miniter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/miniter) |
 | <img loading="lazy" src="icons/miteiru.png" width="48" height="48"> | [***miteiru***](apps/miteiru.md) | *An open source Electron video player to learn Japanese.*..[ *read more* ](apps/miteiru.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/miteiru) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/miteiru) |
 | <img loading="lazy" src="icons/mlv-app.png" width="48" height="48"> | [***mlv-app***](apps/mlv-app.md) | *All in one MLV processing app, audio/video.*..[ *read more* ](apps/mlv-app.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mlv-app) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mlv-app) |
 | <img loading="lazy" src="icons/mood-fi.png" width="48" height="48"> | [***mood-fi***](apps/mood-fi.md) | *App with 30+ lo-fi live streams between 8 different lo-fi types.*..[ *read more* ](apps/mood-fi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mood-fi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mood-fi) |

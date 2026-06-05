@@ -8600,6 +8600,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/minions.png"
   },
   {
+    "packageName": "miniter",
+    "description": "Rust based non-linear video editor for basic tasks...",
+    "icon": "https://portable-linux-apps.github.io/icons/miniter.png"
+  },
+  {
     "packageName": "minizinc-ide",
     "description": "A free and open-source constraint modeling language...",
     "icon": "https://portable-linux-apps.github.io/icons/minizinc-ide.png"
