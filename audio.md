@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **167** programs and **1** items for this category.
+#### Here are listed **168** programs and **1** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -94,6 +94,7 @@
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/432hz-player.png" width="48" height="48"> | [***432hz-player***](apps/432hz-player.md) | *Because most music is recorded in 440hz, Audio Player.*..[ *read more* ](apps/432hz-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/432hz-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/432hz-player) |
+| <img loading="lazy" src="icons/acestep-cpp-ui.png" width="48" height="48"> | [***acestep-cpp-ui***](apps/acestep-cpp-ui.md) | *AceStep-cpp UI, 100% local and free Suno alternative powered by acestep-cpp. Native C++ bundle for local AI music generation with 0% python.*..[ *read more* ](apps/acestep-cpp-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/acestep-cpp-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/acestep-cpp-ui) |
 | <img loading="lazy" src="icons/amarok.png" width="48" height="48"> | [***amarok***](apps/amarok.md) | *Unofficial, powerful music player that lets you rediscover your music.*..[ *read more* ](apps/amarok.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amarok) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amarok) |
 | <img loading="lazy" src="icons/amplitude-soundboard.png" width="48" height="48"> | [***amplitude-soundboard***](apps/amplitude-soundboard.md) | *A sleek, cross-platform soundboard, available.*..[ *read more* ](apps/amplitude-soundboard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amplitude-soundboard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amplitude-soundboard) |
 | <img loading="lazy" src="icons/amusiz.png" width="48" height="48"> | [***amusiz***](apps/amusiz.md) | *Unofficial and unpretentious Amazon Music client.*..[ *read more* ](apps/amusiz.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amusiz) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amusiz) |

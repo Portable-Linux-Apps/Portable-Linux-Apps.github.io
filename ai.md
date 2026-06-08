@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **88** programs for this category.
+#### Here are listed **89** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -94,6 +94,7 @@
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/5ire.png" width="48" height="48"> | [***5ire***](apps/5ire.md) | *5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers.*..[ *read more* ](apps/5ire.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/5ire) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/5ire) |
+| <img loading="lazy" src="icons/acestep-cpp-ui.png" width="48" height="48"> | [***acestep-cpp-ui***](apps/acestep-cpp-ui.md) | *AceStep-cpp UI, 100% local and free Suno alternative powered by acestep-cpp. Native C++ bundle for local AI music generation with 0% python.*..[ *read more* ](apps/acestep-cpp-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/acestep-cpp-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/acestep-cpp-ui) |
 | <img loading="lazy" src="icons/aichat.png" width="48" height="48"> | [***aichat***](apps/aichat.md) | *AIO AI CLI tool integrating 20+ AI platforms, including OpenAI.*..[ *read more* ](apps/aichat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aichat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aichat) |
 | <img loading="lazy" src="icons/alma.png" width="48" height="48"> | [***alma***](apps/alma.md) | *Elegant AI Provider Orchestration. A beautiful desktop application that unifies your AI experience. Seamlessly switch between OpenAI, Anthropic, Google Gemini, and custom providers.*..[ *read more* ](apps/alma.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alma) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alma) |
 | <img loading="lazy" src="icons/amfora.png" width="48" height="48"> | [***amfora***](apps/amfora.md) | *A fancy terminal browser for the Gemini protocol.*..[ *read more* ](apps/amfora.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amfora) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amfora) |
