@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **89** programs for this category.
+#### Here are listed **90** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -158,6 +158,7 @@
 | <img loading="lazy" src="icons/pinokio.png" width="48" height="48"> | [***pinokio***](apps/pinokio.md) | *AI Browser.*..[ *read more* ](apps/pinokio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pinokio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pinokio) |
 | <img loading="lazy" src="icons/pointless.png" width="48" height="48"> | [***pointless***](apps/pointless.md) | *An endless drawing canvas desktop app made with Tauri (Rust) and React.*..[ *read more* ](apps/pointless.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pointless) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pointless) |
 | <img loading="lazy" src="icons/pulseview.png" width="48" height="48"> | [***pulseview***](apps/pulseview.md) | *PulseView (sometimes abbreviated as "PV") is a Qt based logic analyzer, oscilloscope and MSO GUI for sigrok.*..[ *read more* ](apps/pulseview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pulseview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pulseview) |
+| <img loading="lazy" src="icons/rclip.png" width="48" height="48"> | [***rclip***](apps/rclip.md) | *AI-Powered Semantic Photo Search for the Command Line.*..[ *read more* ](apps/rclip.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rclip) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rclip) |
 | <img loading="lazy" src="icons/reor.png" width="48" height="48"> | [***reor***](apps/reor.md) | *AI note-taking app that runs models locally.*..[ *read more* ](apps/reor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/reor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/reor) |
 | <img loading="lazy" src="icons/seafile.png" width="48" height="48"> | [***seafile***](apps/seafile.md) | *Seafile GUI version. Beyond just syncing and sharing files, it lets you add custom file properties and organize your files in different views. With AI-powered automation for generating properties, Seafile offers a smarter, more efficient way to manage your files.*..[ *read more* ](apps/seafile.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/seafile) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/seafile) |
 | <img loading="lazy" src="icons/seafile-cli.png" width="48" height="48"> | [***seafile-cli***](apps/seafile-cli.md) | *Seafile CLI version. Beyond just syncing and sharing files, it lets you add custom file properties and organize your files in different views. With AI-powered automation for generating properties, Seafile offers a smarter, more efficient way to manage your files.*..[ *read more* ](apps/seafile-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/seafile-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/seafile-cli) |

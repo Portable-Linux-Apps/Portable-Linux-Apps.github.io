@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **896** programs and **10** items for this category.
+#### Here are listed **898** programs and **10** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -503,6 +503,7 @@
 | <img loading="lazy" src="icons/ranlib.png" width="48" height="48"> | [***ranlib***](apps/ranlib.md) | *Index to an archive. This is part of "am-utils" suite.*..[ *read more* ](apps/ranlib.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ranlib) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ranlib) |
 | <img loading="lazy" src="icons/raspberry-pi-imager-cli.png" width="48" height="48"> | [***raspberry-pi-imager-cli***](apps/raspberry-pi-imager-cli.md) | *The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices. CLI edition.*..[ *read more* ](apps/raspberry-pi-imager-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/raspberry-pi-imager-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/raspberry-pi-imager-cli) |
 | <img loading="lazy" src="icons/rbw.png" width="48" height="48"> | [***rbw***](apps/rbw.md) | *Unofficial Bitwarden password manager cli.*..[ *read more* ](apps/rbw.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rbw) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rbw) |
+| <img loading="lazy" src="icons/rclip.png" width="48" height="48"> | [***rclip***](apps/rclip.md) | *AI-Powered Semantic Photo Search for the Command Line.*..[ *read more* ](apps/rclip.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rclip) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rclip) |
 | <img loading="lazy" src="icons/rclone.png" width="48" height="48"> | [***rclone***](apps/rclone.md) | *"rsync for cloud storage", CLI that supports Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files.*..[ *read more* ](apps/rclone.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rclone) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rclone) |
 | <img loading="lazy" src="icons/readelf.png" width="48" height="48"> | [***readelf***](apps/readelf.md) | *About ELF files. This is part of "am-utils" suite.*..[ *read more* ](apps/readelf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/readelf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/readelf) |
 | <img loading="lazy" src="icons/readlink.png" width="48" height="48"> | [***readlink***](apps/readlink.md) | *Print resolved symbolic links or canonical file. This is part of "am-utils" suite.*..[ *read more* ](apps/readlink.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/readlink) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/readlink) |
