@@ -7161,7 +7161,7 @@
   },
   {
     "packageName": "kicad",
-    "description": "Electronic Design Automation suite...",
+    "description": "A free software suite for electronic design automation (EDA) to facilitates the design and simulation of electronic hardware for PCB manufacturing. It features an integrated environment for schematic capture, PCB layout, manufacturing file viewing, ngspice-provided SPICE simulation, and engineering calculation. Create bill of materials, artwork, Gerber files, and 3D models of the PCB and its components...",
     "icon": "https://portable-linux-apps.github.io/icons/kicad.png"
   },
   {
