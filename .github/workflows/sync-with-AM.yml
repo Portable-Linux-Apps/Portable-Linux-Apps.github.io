@@ -84,8 +84,8 @@ jobs:
                     SITE="https://$(echo "$INSTALLATION_SCRIPT" 2>/dev/null |  grep -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*" | head -1 | awk -F[/:] '{print $4}')"
                   fi
                   
-                  echo "# $APP" > apps/"$a".md
-                  printf "\n$DESCRIPTION\n" >> apps/"$a".md
+                  printf "# $APP\n\n" > apps/"$a".md
+                  echo "$DESCRIPTION" >> apps/"$a".md
                   printf "\n SITE: $SITE\n\n" >> apps/"$a".md
                   printf " | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)\n | --- | --- |" >> apps/"$a".md
 
