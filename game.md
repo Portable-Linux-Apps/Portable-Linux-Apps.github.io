@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **331** programs and **39** items for this category.
+#### Here are listed **332** programs and **39** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -220,6 +220,7 @@
 | <img loading="lazy" src="icons/iris.png" width="48" height="48"> | [***iris***](apps/iris.md) | *Sony PlayStation 2 games emulator for Windows, Linux and macOS.*..[ *read more* ](apps/iris.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/iris) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/iris) |
 | <img loading="lazy" src="icons/iris-enhanced.png" width="48" height="48"> | [***iris-enhanced***](apps/iris-enhanced.md) | *Unofficial, Sony PlayStation 2 emulator.*..[ *read more* ](apps/iris-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/iris-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/iris-enhanced) |
 | <img loading="lazy" src="icons/ironwail.png" width="48" height="48"> | [***ironwail***](apps/ironwail.md) | *High-performance QuakeSpasm fork QuakeSpasm. A modern, cross-platform Quake game engine based on FitzQuake.*..[ *read more* ](apps/ironwail.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ironwail) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ironwail) |
+| <img loading="lazy" src="icons/itch.io.png" width="48" height="48"> | [***itch.io***](apps/itch.io.md) | *A simple way to find and share indie games online for free.*..[ *read more* ](apps/itch.io.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/itch.io) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/itch.io) |
 | <img loading="lazy" src="icons/itgmania.png" width="48" height="48"> | [***itgmania***](apps/itgmania.md) | *Unofficial, a fork of StepMania 5.1, an advanced cross-platform rhythm game for home and arcade use.*..[ *read more* ](apps/itgmania.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/itgmania) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/itgmania) |
 | <img loading="lazy" src="icons/jdminecraftlauncher.png" width="48" height="48"> | [***jdminecraftlauncher***](apps/jdminecraftlauncher.md) | *Unofficial classic styled Minecraft Launcher.*..[ *read more* ](apps/jdminecraftlauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jdminecraftlauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jdminecraftlauncher) |
 | <img loading="lazy" src="icons/jdnbtexplorer.png" width="48" height="48"> | [***jdnbtexplorer***](apps/jdnbtexplorer.md) | *A Editor for Minecraft NBT files.*..[ *read more* ](apps/jdnbtexplorer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jdnbtexplorer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jdnbtexplorer) |

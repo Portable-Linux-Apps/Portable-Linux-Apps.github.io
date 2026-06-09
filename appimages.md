@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed the **2650** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2651** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -1148,6 +1148,7 @@
 | <img loading="lazy" src="icons/isle-portable.png" width="48" height="48"> | [***isle-portable***](apps/isle-portable.md) | *Unofficial, a portable version of LEGO Island (1997).*..[ *read more* ](apps/isle-portable.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/isle-portable) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/isle-portable) |
 | <img loading="lazy" src="icons/isle-portable-enhanced.png" width="48" height="48"> | [***isle-portable-enhanced***](apps/isle-portable-enhanced.md) | *Unofficial, a portable version of LEGO Island (1997).*..[ *read more* ](apps/isle-portable-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/isle-portable-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/isle-portable-enhanced) |
 | <img loading="lazy" src="icons/isolate.png" width="48" height="48"> | [***isolate***](apps/isolate.md) | *Lightweight image browser.*..[ *read more* ](apps/isolate.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/isolate) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/isolate) |
+| <img loading="lazy" src="icons/itch.io.png" width="48" height="48"> | [***itch.io***](apps/itch.io.md) | *A simple way to find and share indie games online for free.*..[ *read more* ](apps/itch.io.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/itch.io) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/itch.io) |
 | <img loading="lazy" src="icons/itgmania.png" width="48" height="48"> | [***itgmania***](apps/itgmania.md) | *Unofficial, a fork of StepMania 5.1, an advanced cross-platform rhythm game for home and arcade use.*..[ *read more* ](apps/itgmania.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/itgmania) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/itgmania) |
 | <img loading="lazy" src="icons/itr2025.png" width="48" height="48"> | [***itr2025***](apps/itr2025.md) | *Appimage não oficial do ITR2025, declare seu imposto dos seus imóveis rurais (Ano-calendário 2025).*..[ *read more* ](apps/itr2025.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/itr2025) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/itr2025) |
 | <img loading="lazy" src="icons/itusb1-manager.png" width="48" height="48"> | [***itusb1-manager***](apps/itusb1-manager.md) | *Control the ITUSB1 USB Test Switch.*..[ *read more* ](apps/itusb1-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/itusb1-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/itusb1-manager) |

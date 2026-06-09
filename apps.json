@@ -6610,6 +6610,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/isolate.png"
   },
   {
+    "packageName": "itch.io",
+    "description": "A simple way to find and share indie games online for free...",
+    "icon": "https://portable-linux-apps.github.io/icons/itch.io.png"
+  },
+  {
     "packageName": "itgmania",
     "description": "Unofficial, a fork of StepMania 5.1, an advanced cross-platform rhythm game for home and arcade use...",
     "icon": "https://portable-linux-apps.github.io/icons/itgmania.png"
