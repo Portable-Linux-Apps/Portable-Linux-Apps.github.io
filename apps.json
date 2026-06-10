@@ -365,6 +365,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/amplitude-soundboard.png"
   },
   {
+    "packageName": "amule",
+    "description": "All-platform P2P client based on eMule. aMule is a free, GPL-licensed peer-to-peer file-sharing client for the eD2k and Kademlia networks...",
+    "icon": "https://portable-linux-apps.github.io/icons/amule.png"
+  },
+  {
     "packageName": "amusiz",
     "description": "Unofficial and unpretentious Amazon Music client...",
     "icon": "https://portable-linux-apps.github.io/icons/amusiz.png"
@@ -13443,6 +13448,11 @@
     "packageName": "st+",
     "description": "Simple Terminal+ is a lightweight terminal (~100KB) with essential features and rock-solid stability for daily use. Best used with tmux and nerd-fonts...",
     "icon": "https://portable-linux-apps.github.io/icons/st+.png"
+  },
+  {
+    "packageName": "stabilitymatrix",
+    "description": "Multi-Platform Package Manager for Stable Diffusion, a deep AI learning model used for converting text to images...",
+    "icon": "https://portable-linux-apps.github.io/icons/stabilitymatrix.png"
   },
   {
     "packageName": "stacer",

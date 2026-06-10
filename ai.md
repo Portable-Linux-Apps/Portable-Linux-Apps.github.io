@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **90** programs for this category.
+#### Here are listed **91** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -166,6 +166,7 @@
 | <img loading="lazy" src="icons/snake-js.png" width="48" height="48"> | [***snake-js***](apps/snake-js.md) | *Canvas/JavaScript based Snake Game with support for controllers.*..[ *read more* ](apps/snake-js.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snake-js) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snake-js) |
 | <img loading="lazy" src="icons/snapclear.png" width="48" height="48"> | [***snapclear***](apps/snapclear.md) | *Remove Image Background with AI for Free Offline.*..[ *read more* ](apps/snapclear.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snapclear) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snapclear) |
 | <img loading="lazy" src="icons/speak-to-ai.png" width="48" height="48"> | [***speak-to-ai***](apps/speak-to-ai.md) | *Speak to AI - native Linux voice-to-text app.*..[ *read more* ](apps/speak-to-ai.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speak-to-ai) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speak-to-ai) |
+| <img loading="lazy" src="icons/stabilitymatrix.png" width="48" height="48"> | [***stabilitymatrix***](apps/stabilitymatrix.md) | *Multi-Platform Package Manager for Stable Diffusion, a deep AI learning model used for converting text to images.*..[ *read more* ](apps/stabilitymatrix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stabilitymatrix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stabilitymatrix) |
 | <img loading="lazy" src="icons/t3code.png" width="48" height="48"> | [***t3code***](apps/t3code.md) | *T3 Code is a minimal web GUI for coding agents (currently Codex and Claude, more coming soon).*..[ *read more* ](apps/t3code.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/t3code) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/t3code) |
 | <img loading="lazy" src="icons/tgpt.png" width="48" height="48"> | [***tgpt***](apps/tgpt.md) | *AI Chatbots in terminal without needing API keys.*..[ *read more* ](apps/tgpt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tgpt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tgpt) |
 | <img loading="lazy" src="icons/transformer.png" width="48" height="48"> | [***transformer***](apps/transformer.md) | *A command-line utility for splitting large files into chunks/pieces and merging them back together.*..[ *read more* ](apps/transformer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/transformer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/transformer) |
