@@ -205,11 +205,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/aim.png"
   },
   {
-    "packageName": "aiming-pro",
-    "description": "Aim trainer to practice, train and improve their FPS aim skills...",
-    "icon": "https://portable-linux-apps.github.io/icons/aiming-pro.png"
-  },
-  {
     "packageName": "air-controller-desktop",
     "description": "Android phone assistant,powered by Flutter...",
     "icon": "https://portable-linux-apps.github.io/icons/air-controller-desktop.png"
@@ -5238,11 +5233,6 @@
     "packageName": "ghostship",
     "description": "Unofficial, Another definitive port of Super Mario 64...",
     "icon": "https://portable-linux-apps.github.io/icons/ghostship.png"
-  },
-  {
-    "packageName": "ghostship-enhanced",
-    "description": "Unofficial, Another definitive port of Super Mario 64...",
-    "icon": "https://portable-linux-apps.github.io/icons/ghostship-enhanced.png"
   },
   {
     "packageName": "ghostty",
