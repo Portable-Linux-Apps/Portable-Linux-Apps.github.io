@@ -1580,6 +1580,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/brave-nightly.png"
   },
   {
+    "packageName": "brave-origin",
+    "description": "Unofficial, stripped down version of Brave Browser with no extra features...",
+    "icon": "https://portable-linux-apps.github.io/icons/brave-origin.png"
+  },
+  {
     "packageName": "bread",
     "description": "Install, update and remove AppImage from GitHub using your CLI...",
     "icon": "https://portable-linux-apps.github.io/icons/bread.png"

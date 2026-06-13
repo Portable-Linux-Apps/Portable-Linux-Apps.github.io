@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed the **2652** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2653** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -352,6 +352,7 @@
 | <img loading="lazy" src="icons/brave.png" width="48" height="48"> | [***brave***](apps/brave.md) | *Unofficial, a privacy oriented Web Browser based on Chromium, this is the "stable" release.*..[ *read more* ](apps/brave.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave) |
 | <img loading="lazy" src="icons/brave-beta.png" width="48" height="48"> | [***brave-beta***](apps/brave-beta.md) | *Unofficial, a privacy oriented Web Browser based on Chromium, this is the "beta" release.*..[ *read more* ](apps/brave-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-beta) |
 | <img loading="lazy" src="icons/brave-nightly.png" width="48" height="48"> | [***brave-nightly***](apps/brave-nightly.md) | *Unofficial, a privacy oriented Web Browser based on Chromium, this is the "nightly" release.*..[ *read more* ](apps/brave-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-nightly) |
+| <img loading="lazy" src="icons/brave-origin.png" width="48" height="48"> | [***brave-origin***](apps/brave-origin.md) | *Unofficial, stripped down version of Brave Browser with no extra features.*..[ *read more* ](apps/brave-origin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-origin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-origin) |
 | <img loading="lazy" src="icons/bread.png" width="48" height="48"> | [***bread***](apps/bread.md) | *Install, update and remove AppImage from GitHub using your CLI.*..[ *read more* ](apps/bread.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bread) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bread) |
 | <img loading="lazy" src="icons/breaktimer.png" width="48" height="48"> | [***breaktimer***](apps/breaktimer.md) | *Save yourself from RSI and eye-strain.*..[ *read more* ](apps/breaktimer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/breaktimer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/breaktimer) |
 | <img loading="lazy" src="icons/briar.png" width="48" height="48"> | [***briar***](apps/briar.md) | *Briar Desktop. Censorship-resistant peer-to-peer messaging that bypasses centralized servers. Connect via Bluetooth, Wi-Fi or Tor, with privacy built-in.*..[ *read more* ](apps/briar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/briar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/briar) |

@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **75** programs for this category.
+#### Here are listed **76** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -100,6 +100,7 @@
 | <img loading="lazy" src="icons/brave.png" width="48" height="48"> | [***brave***](apps/brave.md) | *Unofficial, a privacy oriented Web Browser based on Chromium, this is the "stable" release.*..[ *read more* ](apps/brave.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave) |
 | <img loading="lazy" src="icons/brave-beta.png" width="48" height="48"> | [***brave-beta***](apps/brave-beta.md) | *Unofficial, a privacy oriented Web Browser based on Chromium, this is the "beta" release.*..[ *read more* ](apps/brave-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-beta) |
 | <img loading="lazy" src="icons/brave-nightly.png" width="48" height="48"> | [***brave-nightly***](apps/brave-nightly.md) | *Unofficial, a privacy oriented Web Browser based on Chromium, this is the "nightly" release.*..[ *read more* ](apps/brave-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-nightly) |
+| <img loading="lazy" src="icons/brave-origin.png" width="48" height="48"> | [***brave-origin***](apps/brave-origin.md) | *Unofficial, stripped down version of Brave Browser with no extra features.*..[ *read more* ](apps/brave-origin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-origin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-origin) |
 | <img loading="lazy" src="icons/browservice.png" width="48" height="48"> | [***browservice***](apps/browservice.md) | *Browse the modern web on historical browsers.*..[ *read more* ](apps/browservice.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/browservice) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/browservice) |
 | <img loading="lazy" src="icons/brs-emu-app.png" width="48" height="48"> | [***brs-emu-app***](apps/brs-emu-app.md) | *BrightScript Emulator, runs on browsers and Electron apps.*..[ *read more* ](apps/brs-emu-app.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brs-emu-app) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brs-emu-app) |
 | <img loading="lazy" src="icons/carbonyl.png" width="48" height="48"> | [***carbonyl***](apps/carbonyl.md) | *Chromium running inside your terminal.*..[ *read more* ](apps/carbonyl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/carbonyl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/carbonyl) |
