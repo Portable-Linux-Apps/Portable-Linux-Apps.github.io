@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **39** programs for this category.
+#### Here are listed **40** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -94,6 +94,7 @@
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/adobe-flash-player.png" width="48" height="48"> | [***adobe-flash-player***](apps/adobe-flash-player.md) | *Unofficial port. Adobe Flash is a mostly discontinued multimedia software platform used for production of animations, rich internet applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Over 67 billion devices use adobe flash player!*..[ *read more* ](apps/adobe-flash-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/adobe-flash-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/adobe-flash-player) |
+| <img loading="lazy" src="icons/altersend.png" width="48" height="48"> | [***altersend***](apps/altersend.md) | *Send files directly between devices over the internet - no cloud, no servers, no size limits.*..[ *read more* ](apps/altersend.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/altersend) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/altersend) |
 | <img loading="lazy" src="icons/amule.png" width="48" height="48"> | [***amule***](apps/amule.md) | *All-platform P2P client based on eMule. aMule is a free, GPL-licensed peer-to-peer file-sharing client for the eD2k and Kademlia networks.*..[ *read more* ](apps/amule.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amule) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amule) |
 | <img loading="lazy" src="icons/animecoin.png" width="48" height="48"> | [***animecoin***](apps/animecoin.md) | *Animecoin is a free open source peer-to-peer electronic cash system that is completely decentralized, without the need for a central server or trusted parties. Users hold the crypto keys to their own money and transact directly with each other, with the help of a P2P network to check for double-spending.*..[ *read more* ](apps/animecoin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/animecoin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/animecoin) |
 | <img loading="lazy" src="icons/animeko.png" width="48" height="48"> | [***animeko***](apps/animeko.md) | *A one-stop platform for finding, following, and watching anime, featuring danmaku (bullet comments) and cloud-based collection synchronization (Bangumi), offline caching, BitTorrent, and cloud-based danmaku filtering.*..[ *read more* ](apps/animeko.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/animeko) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/animeko) |

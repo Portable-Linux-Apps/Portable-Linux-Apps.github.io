@@ -300,6 +300,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/altair.png"
   },
   {
+    "packageName": "altersend",
+    "description": "Send files directly between devices over the internet - no cloud, no servers, no size limits...",
+    "icon": "https://portable-linux-apps.github.io/icons/altersend.png"
+  },
+  {
     "packageName": "altitude",
     "description": "The Altitude wallet by Linda Project Inc...",
     "icon": "https://portable-linux-apps.github.io/icons/altitude.png"
