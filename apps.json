@@ -8825,6 +8825,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/mousai.png"
   },
   {
+    "packageName": "mouzi",
+    "description": "A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray...",
+    "icon": "https://portable-linux-apps.github.io/icons/mouzi.png"
+  },
+  {
     "packageName": "movie-monad",
     "description": "Free and simple to use video player made with Haskell...",
     "icon": "https://portable-linux-apps.github.io/icons/movie-monad.png"
