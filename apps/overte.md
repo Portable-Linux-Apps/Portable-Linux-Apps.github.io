@@ -18,5 +18,9 @@
 
  ![Screenshot of a Maker Meeting, on the "El Papa Viejo"](https://docs.overte.org/en/latest/_images/el_papa_viejo.jpg "Maker Meeting, on the El Papa Viejo")
 
+SITE: https://overte.org
+
+DONATE: https://overte.org/donate.html
+
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
- | [Overte website](https://overte.org/) | [Donate to Overte](https://overte.org/donate.html) |
+ | --- | --- |
