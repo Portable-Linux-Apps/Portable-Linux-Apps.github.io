@@ -1255,11 +1255,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/bibletime.png"
   },
   {
-    "packageName": "biblia-sacra",
-    "description": "A multi language bible app, with emphasis on Latin...",
-    "icon": "https://portable-linux-apps.github.io/icons/biblia-sacra.png"
-  },
-  {
     "packageName": "bidirectional",
     "description": "Write Arabic text on apps that don't support the bidirectional text...",
     "icon": "https://portable-linux-apps.github.io/icons/bidirectional.png"
