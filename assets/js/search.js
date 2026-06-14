@@ -11,6 +11,7 @@
   function initTableFilter() {
     var input = document.getElementById('app-search-input');
     var counter = document.getElementById('app-search-count');
+    var archSel = document.getElementById('app-search-arch');
     if (!input) return;
 
     // Locate the apps table by its header cells; the search box may be at the
@@ -35,25 +36,35 @@
     var haystacks = rows.map(function (row) {
       return (row.textContent || '').toLowerCase();
     });
+    // Per-row architecture list from the hidden .arch-data marker emitted by
+    // am2pla-site. Rows without it (pages generated before the arch filter)
+    // default to x86_64, which every listed app supports.
+    var rowArchs = rows.map(function (row) {
+      var el = row.querySelector('.arch-data');
+      return el ? (el.getAttribute('data-arch') || 'x86_64') : 'x86_64';
+    });
     var total = rows.length;
 
     function update() {
       var q = input.value.trim().toLowerCase();
       // Whitespace-separated terms, ANDed. Empty query matches every row.
       var terms = q.split(/\s+/).filter(Boolean);
+      var arch = archSel ? archSel.value : '';
       var visible = 0;
       for (var i = 0; i < rows.length; i++) {
         var hay = haystacks[i];
-        var match = terms.every(function (t) { return hay.indexOf(t) !== -1; });
+        var match = terms.every(function (t) { return hay.indexOf(t) !== -1; })
+          && (!arch || rowArchs[i].split(/\s+/).indexOf(arch) !== -1);
         rows[i].style.display = match ? '' : 'none';
         if (match) visible++;
       }
-      counter.textContent = q === ''
+      counter.textContent = (q === '' && !arch)
         ? '(' + total + ' apps)'
         : '(' + visible + ' of ' + total + ' shown)';
     }
 
     input.addEventListener('input', update);
+    if (archSel) archSel.addEventListener('change', update);
 
     var params = new URLSearchParams(window.location.search);
     var initialQ = params.get('q');
@@ -61,6 +72,8 @@
       input.value = initialQ;
       input.focus();
     }
+    var initialArch = params.get('arch');
+    if (initialArch && archSel) archSel.value = initialArch;
     update();
   }
 
@@ -74,6 +87,7 @@
     var status = document.getElementById('home-search-status');
     var results = document.getElementById('home-search-results');
     var more = document.getElementById('home-search-more');
+    var archSel = document.getElementById('home-search-arch');
     if (!input) return;
 
     var apps = null;
@@ -95,6 +109,7 @@
       results.innerHTML = '';
       more.innerHTML = '';
       if (!apps) return;
+      var arch = archSel ? archSel.value : '';
       if (!q) {
         status.textContent = apps.length + ' apps in the database.';
         return;
@@ -105,7 +120,8 @@
       for (var i = 0; i < apps.length; i++) {
         var a = apps[i];
         var hay = (a.packageName + ' ' + (a.description || '')).toLowerCase();
-        if (terms.every(function (t) { return hay.indexOf(t) !== -1; })) matches.push(a);
+        var archOk = !arch || (a.arch || ['x86_64']).indexOf(arch) !== -1;
+        if (archOk && terms.every(function (t) { return hay.indexOf(t) !== -1; })) matches.push(a);
       }
       if (!matches.length) {
         status.textContent = 'No apps match "' + q + '".';
@@ -130,13 +146,18 @@
       }
       results.innerHTML = html;
       if (matches.length > MAX_RESULTS) {
-        more.innerHTML = '<a href="' + APPS_PAGE + '?q=' + encodeURIComponent(q) + '">See all '
-          + matches.length + ' matches on the apps page &rarr;</a>';
+        more.innerHTML = '<a href="' + APPS_PAGE + '?q=' + encodeURIComponent(q)
+          + (arch ? '&arch=' + encodeURIComponent(arch) : '')
+          + '">See all ' + matches.length + ' matches on the apps page &rarr;</a>';
       }
     }
 
     input.addEventListener('focus', load);
     input.addEventListener('input', function () {
+      if (apps) render(input.value.trim());
+      else load();
+    });
+    if (archSel) archSel.addEventListener('change', function () {
       if (apps) render(input.value.trim());
       else load();
     });
