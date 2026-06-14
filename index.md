@@ -22,6 +22,13 @@
   <label for="home-search-input" style="font-weight: bold; display: block; margin-bottom: 0.25em; text-align: center;">Search applications</label>
   <input type="search" id="home-search-input" placeholder="Start typing an app name or keyword..." autocomplete="off"
     style="width: 100%; padding: 0.6em 0.85em; font-size: 1em; border: 1px solid #999; border-radius: 4px; box-sizing: border-box;">
+  <select id="home-search-arch" aria-label="Filter by architecture"
+    style="margin-top: 0.5em; padding: 0.5em; font-size: 1em; border: 1px solid #999; border-radius: 4px;">
+    <option value="">Any architecture</option>
+    <option value="x86_64">x86_64</option>
+    <option value="aarch64">aarch64</option>
+    <option value="i686">i686</option>
+  </select>
   <div id="home-search-status" style="margin-top: 0.5em; font-style: italic; color: #666; text-align: center;">Loading app database&hellip;</div>
   <ul id="home-search-results" style="list-style: none; padding: 0; margin: 0.5em 0 0;"></ul>
   <div id="home-search-more" style="margin-top: 0.5em; text-align: center;"></div>
