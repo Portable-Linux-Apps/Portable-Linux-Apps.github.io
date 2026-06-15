@@ -1809,7 +1809,7 @@
     "packageName": "bookdb",
     "description": "A book catalog database for personal collections. Can import data from Readerware 4...",
     "icon": "https://portable-linux-apps.github.io/icons/bookdb.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "bookmarks-manager",
