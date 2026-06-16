@@ -14844,6 +14844,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "safelight",
+    "description": "SafeLight is a modular image editing software that combines professional imaging tools with the customizability and modularity of modern IDEs to create a powerful, personalized editing workflow backed by an open-source community...",
+    "icon": "https://portable-linux-apps.github.io/icons/safelight.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "samira",
     "description": "Steam achievement manager for Linux written with Tauri and Rust...",
     "icon": "https://portable-linux-apps.github.io/icons/samira.png",
@@ -19473,6 +19479,12 @@
     "packageName": "yolx",
     "description": "A modern download tool developed with Flutter, powered by Aria 2 at its core...",
     "icon": "https://portable-linux-apps.github.io/icons/yolx.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "youplaytx",
+    "description": "A full-screen, dual-pane YouTube audio player for the terminal...",
+    "icon": "https://portable-linux-apps.github.io/icons/youplaytx.png",
     "arch": ["x86_64"]
   },
   {
