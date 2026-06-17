@@ -10107,7 +10107,7 @@
     "packageName": "megaglest",
     "description": "MegaGlest real-time strategy game engine (cross-platform, 3-d)...",
     "icon": "https://portable-linux-apps.github.io/icons/megaglest.png",
-    "arch": ["x86_64","aarch64"]
+    "arch": ["x86_64"]
   },
   {
     "packageName": "meganimus",
