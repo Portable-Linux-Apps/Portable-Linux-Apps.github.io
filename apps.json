@@ -5466,12 +5466,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "firework",
-    "description": "Easiest way to turn web applications and sites into desktop applications...",
-    "icon": "https://portable-linux-apps.github.io/icons/firework.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "fish",
     "description": "The user-friendly command line shell...",
     "icon": "https://portable-linux-apps.github.io/icons/fish.png",

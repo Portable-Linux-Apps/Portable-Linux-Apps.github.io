@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **579** portable programs NOT in AppImage format.
+#### Here are listed **578** portable programs NOT in AppImage format.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -259,7 +259,6 @@
 | <img loading="lazy" src="icons/filebrowser-quantum.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***filebrowser-quantum***](apps/filebrowser-quantum.md) | *Web File Browser.*..[ *read more* ](apps/filebrowser-quantum.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filebrowser-quantum) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filebrowser-quantum) |
 | <img loading="lazy" src="icons/filen-cli.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***filen-cli***](apps/filen-cli.md) | *Filen CLI for Windows, macOS and Linux*..[ *read more* ](apps/filen-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filen-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filen-cli) |
 | <img loading="lazy" src="icons/find.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***find***](apps/find.md) | *Files in a directory hierarchy. This is part of "am-utils" suite.*..[ *read more* ](apps/find.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/find) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/find) |
-| <img loading="lazy" src="icons/firework.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***firework***](apps/firework.md) | *Easiest way to turn web applications and sites into desktop applications.*..[ *read more* ](apps/firework.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firework) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firework) |
 | <img loading="lazy" src="icons/fish.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***fish***](apps/fish.md) | *The user-friendly command line shell.*..[ *read more* ](apps/fish.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fish) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fish) |
 | <img loading="lazy" src="icons/fixit.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***fixit***](apps/fixit.md) | *A utility to fix mistakes in your commands.*..[ *read more* ](apps/fixit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fixit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fixit) |
 | <img loading="lazy" src="icons/flashpoint.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***flashpoint***](apps/flashpoint.md) | *Flashpoint Archive is a community effort to preserve games and animations from the web.*..[ *read more* ](apps/flashpoint.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flashpoint) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flashpoint) |

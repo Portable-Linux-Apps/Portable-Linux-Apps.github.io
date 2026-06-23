@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **12** programs for this category.
+#### Here are listed **11** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -102,7 +102,6 @@
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/bauh.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***bauh***](apps/bauh.md) | *GUI for managing AppImage, Arch/AUR, DEBs, Flatpak, Snap and webapps.*..[ *read more* ](apps/bauh.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bauh) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bauh) |
 | <img loading="lazy" src="icons/cowitness.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***cowitness***](apps/cowitness.md) | *A powerful web app testing tool that enhances the accuracy and efficiency of your testing efforts.*..[ *read more* ](apps/cowitness.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cowitness) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cowitness) |
-| <img loading="lazy" src="icons/firework.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***firework***](apps/firework.md) | *Easiest way to turn web applications and sites into desktop applications.*..[ *read more* ](apps/firework.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firework) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firework) |
 | <img loading="lazy" src="icons/godmode.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***godmode***](apps/godmode.md) | *AI Chat Browser fast, full webapp access to ChatGPT/Claude/Bard/Bing/Llama2.*..[ *read more* ](apps/godmode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/godmode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/godmode) |
 | <img loading="lazy" src="icons/iheartradio-webapp.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***iheartradio-webapp***](apps/iheartradio-webapp.md) | *Election WebApp for iHeartRadio.*..[ *read more* ](apps/iheartradio-webapp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/iheartradio-webapp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/iheartradio-webapp) |
 | <img loading="lazy" src="icons/kanon.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***kanon***](apps/kanon.md) | *Maturita GPJP designed for use with kanon web app.*..[ *read more* ](apps/kanon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kanon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kanon) |
