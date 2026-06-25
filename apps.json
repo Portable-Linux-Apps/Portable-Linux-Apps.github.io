@@ -11893,8 +11893,14 @@
   },
   {
     "packageName": "opencode",
-    "description": "Unofficial, The open source coding agent...",
+    "description": "The open source coding agent...",
     "icon": "https://portable-linux-apps.github.io/icons/opencode.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "opencode-enhanced",
+    "description": "Unofficial, improved AppImage of opencode, the open source coding agent...",
+    "icon": "https://portable-linux-apps.github.io/icons/opencode-enhanced.png",
     "arch": ["x86_64","aarch64"]
   },
   {
