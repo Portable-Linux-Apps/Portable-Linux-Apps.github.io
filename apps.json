@@ -18,12 +18,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "2ship",
-    "description": "2 Ship 2 Harkinian game...",
-    "icon": "https://portable-linux-apps.github.io/icons/2ship.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "3d-puzzles",
     "description": "3D-Puzzles are Rubik, Dogic and Dogic12...",
     "icon": "https://portable-linux-apps.github.io/icons/3d-puzzles.png",
@@ -1491,12 +1485,6 @@
     "packageName": "bforartists",
     "description": "3D modeling, animation, rendering and post-production...",
     "icon": "https://portable-linux-apps.github.io/icons/bforartists.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "biblemultithelife",
-    "description": "Bible multi languages, free, offline, no advertising, in English, French, Italian, Spanish, Portuguese...",
-    "icon": "https://portable-linux-apps.github.io/icons/biblemultithelife.png",
     "arch": ["x86_64"]
   },
   {
@@ -15342,12 +15330,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "shipwright",
-    "description": "Ship of Harkinian...",
-    "icon": "https://portable-linux-apps.github.io/icons/shipwright.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "shiru",
     "description": "A personal anime library manager for watching and tracking your collection in real time. Lightweight, powerful, and paws-itively fast. No waiting required...",
     "icon": "https://portable-linux-apps.github.io/icons/shiru.png",
@@ -15924,12 +15906,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "spaghettikart",
-    "description": "Unofficial Mario Kart 64 PC game Port...",
-    "icon": "https://portable-linux-apps.github.io/icons/spaghettikart.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "spaghettikart-enhanced",
     "description": "Unofficial, Mario Kart 64 PC game Port...",
     "icon": "https://portable-linux-apps.github.io/icons/spaghettikart-enhanced.png",
@@ -16191,12 +16167,6 @@
     "packageName": "starship",
     "description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell...",
     "icon": "https://portable-linux-apps.github.io/icons/starship.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "starship-port",
-    "description": "SF64 PC Port...",
-    "icon": "https://portable-linux-apps.github.io/icons/starship-port.png",
     "arch": ["x86_64"]
   },
   {
