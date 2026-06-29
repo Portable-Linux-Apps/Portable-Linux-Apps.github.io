@@ -90,12 +90,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "accessimap-lecteur-der",
-    "description": "Accessimap Lecteur DER...",
-    "icon": "https://portable-linux-apps.github.io/icons/accessimap-lecteur-der.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "acestep-cpp-ui",
     "description": "AceStep-cpp UI, 100% local and free Suno alternative powered by acestep-cpp. Native C++ bundle for local AI music generation with 0% python...",
     "icon": "https://portable-linux-apps.github.io/icons/acestep-cpp-ui.png",
@@ -414,6 +408,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "amethyst-mod-manager",
+    "description": "A Linux native mod manager for a variety of games...",
+    "icon": "https://portable-linux-apps.github.io/icons/amethyst-mod-manager.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "amfora",
     "description": "A fancy terminal browser for the Gemini protocol...",
     "icon": "https://portable-linux-apps.github.io/icons/amfora.png",
@@ -537,12 +537,6 @@
     "packageName": "anki",
     "description": "Unofficial, Anki's shared backend and web components, and the Qt frontend...",
     "icon": "https://portable-linux-apps.github.io/icons/anki.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "anklang",
-    "description": "MIDI and Audio Synthesizer and Composer...",
-    "icon": "https://portable-linux-apps.github.io/icons/anklang.png",
     "arch": ["x86_64"]
   },
   {
@@ -5184,12 +5178,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "feather-wallet",
-    "description": "Monero wallet...",
-    "icon": "https://portable-linux-apps.github.io/icons/feather-wallet.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "featherpad",
     "description": "Unofficial. A lightweight Qt plain-text editor...",
     "icon": "https://portable-linux-apps.github.io/icons/featherpad.png",
@@ -6759,12 +6747,6 @@
     "packageName": "goverlay",
     "description": "An opensource project that aims to create a Graphical UI to help manage Linux overlays...",
     "icon": "https://portable-linux-apps.github.io/icons/goverlay.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "gozen",
-    "description": "A lightweight, stable, minimalistic and performant video editor with simplicity in mind...",
-    "icon": "https://portable-linux-apps.github.io/icons/gozen.png",
     "arch": ["x86_64"]
   },
   {
@@ -9060,12 +9042,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "langly",
-    "description": "Manage Laravel json language files...",
-    "icon": "https://portable-linux-apps.github.io/icons/langly.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "lanshare",
     "description": "LAN file transfer app for any kind and size of files and folders...",
     "icon": "https://portable-linux-apps.github.io/icons/lanshare.png",
@@ -9339,6 +9315,12 @@
     "packageName": "linedancer",
     "description": "Arcade game and entry for Ludum Dare 35...",
     "icon": "https://portable-linux-apps.github.io/icons/linedancer.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "lingueez",
+    "description": "Vocabulary trainer...",
+    "icon": "https://portable-linux-apps.github.io/icons/lingueez.png",
     "arch": ["x86_64"]
   },
   {

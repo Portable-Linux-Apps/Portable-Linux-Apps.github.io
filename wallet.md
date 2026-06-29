@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **59** programs for this category.
+#### Here are listed **58** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -124,7 +124,6 @@
 | <img loading="lazy" src="icons/eximchain-wallet.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***eximchain-wallet***](apps/eximchain-wallet.md) | *Eximchain Wallet web and electron app.*..[ *read more* ](apps/eximchain-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eximchain-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eximchain-wallet) |
 | <img loading="lazy" src="icons/exodus.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***exodus***](apps/exodus.md) | *Send, receive & exchange cryptocurrency. Bitcoin wallet.*..[ *read more* ](apps/exodus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/exodus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/exodus) |
 | <img loading="lazy" src="icons/fat-wallet.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***fat-wallet***](apps/fat-wallet.md) | *Wallet for FAT tokens.*..[ *read more* ](apps/fat-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fat-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fat-wallet) |
-| <img loading="lazy" src="icons/feather-wallet.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***feather-wallet***](apps/feather-wallet.md) | *Monero wallet.*..[ *read more* ](apps/feather-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/feather-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/feather-wallet) |
 | <img loading="lazy" src="icons/firefly-desktop.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***firefly-desktop***](apps/firefly-desktop.md) | *The official IOTA and Shimmer wallet.*..[ *read more* ](apps/firefly-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firefly-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firefly-desktop) |
 | <img loading="lazy" src="icons/frame-eth-dev.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***frame-eth-dev***](apps/frame-eth-dev.md) | *A privacy focused Ethereum wallet.*..[ *read more* ](apps/frame-eth-dev.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/frame-eth-dev) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/frame-eth-dev) |
 | <img loading="lazy" src="icons/grinplusplus.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***grinplusplus***](apps/grinplusplus.md) | *A C++ Grin Node & Wallet.*..[ *read more* ](apps/grinplusplus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/grinplusplus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/grinplusplus) |
