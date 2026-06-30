@@ -3906,6 +3906,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "diffre",
+    "description": "A fast, local file and folder diff tool like Beyond Compare, built for the desktop...",
+    "icon": "https://portable-linux-apps.github.io/icons/diffre.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "diffuse",
     "description": "Music player, connects to your cloud/distributed storage...",
     "icon": "https://portable-linux-apps.github.io/icons/diffuse.png",
