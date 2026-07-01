@@ -3714,6 +3714,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "deezer-enhanced",
+    "description": "An unofficial application for Deezer with enhanced features...",
+    "icon": "https://portable-linux-apps.github.io/icons/deezer-enhanced.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "defichain-app",
     "description": "DefiChain Wallet AppImage...",
     "icon": "https://portable-linux-apps.github.io/icons/defichain-app.png",
