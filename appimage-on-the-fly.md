@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **12** AppImages built on the fly from the official portable builds, showing how easily portable apps can be converted to AppImages to gain isolated dotfiles, sandboxing via [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan), and reduced disk usage, serving as a proof of concept to encourage upstream developers to distribute them directly in such packaging format. Powered by **[portable2appimage](https://github.com/ivan-hc/portable2appimage)**.
+#### Here are listed **13** AppImages built on the fly from the official portable builds, showing how easily portable apps can be converted to AppImages to gain isolated dotfiles, sandboxing via [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan), and reduced disk usage, serving as a proof of concept to encourage upstream developers to distribute them directly in such packaging format. Powered by **[portable2appimage](https://github.com/ivan-hc/portable2appimage)**.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -112,6 +112,7 @@
 | <img loading="lazy" src="icons/terabox.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***terabox***](apps/terabox.md) | *Terabox is the simplest way to send your files around the world. Back up and Share photos, videos, docs, and other files of any size to cloud storage.*..[ *read more* ](apps/terabox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/terabox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/terabox) |
 | <img loading="lazy" src="icons/tixati.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***tixati***](apps/tixati.md) | *A New and Powerful P2P System 100% Free, Simple and Easy to Use Bittorrent Client.*..[ *read more* ](apps/tixati.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tixati) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tixati) |
 | <img loading="lazy" src="icons/windows95.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***windows95***](apps/windows95.md) | *Unofficial. Windows 95 in Electron.*..[ *read more* ](apps/windows95.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/windows95) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/windows95) |
+| <img loading="lazy" src="icons/yandex-music.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***yandex-music***](apps/yandex-music.md) | *Personal recommendations, mixes for any occasion and the latest musical releases.*..[ *read more* ](apps/yandex-music.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yandex-music) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yandex-music) |
 
 
 ---

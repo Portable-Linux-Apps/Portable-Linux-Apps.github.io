@@ -19386,6 +19386,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "yandex-music",
+    "description": "Personal recommendations, mixes for any occasion and the latest musical releases...",
+    "icon": "https://portable-linux-apps.github.io/icons/yandex-music.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "yangdownloader",
     "description": "Downloads best-quality audio and video from YouTube...",
     "icon": "https://portable-linux-apps.github.io/icons/yangdownloader.png",
