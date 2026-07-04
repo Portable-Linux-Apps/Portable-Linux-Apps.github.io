@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **13** AppImages built on the fly from the official portable builds, showing how easily portable apps can be converted to AppImages to gain isolated dotfiles, sandboxing via [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan), and reduced disk usage, serving as a proof of concept to encourage upstream developers to distribute them directly in such packaging format. Powered by **[portable2appimage](https://github.com/ivan-hc/portable2appimage)**.
+#### Here are listed **12** AppImages built on the fly from the official portable builds, showing how easily portable apps can be converted to AppImages to gain isolated dotfiles, sandboxing via [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan), and reduced disk usage, serving as a proof of concept to encourage upstream developers to distribute them directly in such packaging format. Powered by **[portable2appimage](https://github.com/ivan-hc/portable2appimage)**.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -100,7 +100,6 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
-| <img loading="lazy" src="icons/antigravity.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***antigravity***](apps/antigravity.md) | *Google Antigravity IDE.*..[ *read more* ](apps/antigravity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/antigravity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/antigravity) |
 | <img loading="lazy" src="icons/czkawka.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***czkawka***](apps/czkawka.md) | *App to find duplicates, empty folders, similar images etc.*..[ *read more* ](apps/czkawka.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/czkawka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/czkawka) |
 | <img loading="lazy" src="icons/fdm.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***fdm***](apps/fdm.md) | *Free Download Manager, multiplatform powerful modern download accelerator and organizer.*..[ *read more* ](apps/fdm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fdm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fdm) |
 | <img loading="lazy" src="icons/krokiet.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***krokiet***](apps/krokiet.md) | *App to find duplicates, empty folders, similar images etc. The successor of czkawka.*..[ *read more* ](apps/krokiet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/krokiet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/krokiet) |

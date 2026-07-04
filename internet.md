@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **40** programs for this category.
+#### Here are listed **41** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -112,6 +112,7 @@
 | <img loading="lazy" src="icons/haveno-reto.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***haveno-reto***](apps/haveno-reto.md) | *Decentralized P2P exchange built on Monero and Tor.*..[ *read more* ](apps/haveno-reto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/haveno-reto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/haveno-reto) |
 | <img loading="lazy" src="icons/hide.me.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***hide.me***](apps/hide.me.md) | *Hide.me CLI VPN client for Linux.*..[ *read more* ](apps/hide.me.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hide.me) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hide.me) |
 | <img loading="lazy" src="icons/hydra.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***hydra***](apps/hydra.md) | *Game launcher with its own embedded bittorrent client.*..[ *read more* ](apps/hydra.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hydra) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hydra) |
+| <img loading="lazy" src="icons/ktorrent.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***ktorrent***](apps/ktorrent.md) | *Unofficial AppImage of KTorrent.*..[ *read more* ](apps/ktorrent.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ktorrent) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ktorrent) |
 | <img loading="lazy" src="icons/migu.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***migu***](apps/migu.md) | *Stream anime torrents, real-time with no waiting for downloads.*..[ *read more* ](apps/migu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/migu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/migu) |
 | <img loading="lazy" src="icons/moose.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***moose***](apps/moose.md) | *An application to stream, cast and download torrents.*..[ *read more* ](apps/moose.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moose) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moose) |
 | <img loading="lazy" src="icons/n3h.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***n3h***](apps/n3h.md) | *Nodejs implementation of holochain networking / p2p backend process.*..[ *read more* ](apps/n3h.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/n3h) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/n3h) |
