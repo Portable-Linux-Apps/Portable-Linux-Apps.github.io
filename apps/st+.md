@@ -1,6 +1,6 @@
 # ST+
 
- Simple Terminal+ is a lightweight terminal (~100KB) with essential features and rock-solid stability for daily use. Best used with tmux and nerd-fonts.
+ A beautiful, SIXEL-capable, lightweight terminal (~100KB) with just-enough essential features for rock-solid stability in daily usage. Features integration with nerd-fonts and Gogh color schemes.
 
  SITE: https://github.com/vishnu350/st
 
