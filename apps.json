@@ -10560,6 +10560,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "motrix-next",
+    "description": "A full-featured download manager rebuilt from the ground up...",
+    "icon": "https://portable-linux-apps.github.io/icons/motrix-next.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "mount",
     "description": "Mount a filesystem. This is part of \"am-utils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/mount.png",
