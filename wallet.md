@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **58** programs for this category.
+#### Here are listed **57** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -108,7 +108,6 @@
 | <img loading="lazy" src="icons/asgardex.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***asgardex***](apps/asgardex.md) | *Thorchain wallet desktop app.*..[ *read more* ](apps/asgardex.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/asgardex) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/asgardex) |
 | <img loading="lazy" src="icons/atomicwallet.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***atomicwallet***](apps/atomicwallet.md) | *Atomic vue-electron.*..[ *read more* ](apps/atomicwallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/atomicwallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/atomicwallet) |
 | <img loading="lazy" src="icons/axe-electrum.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***axe-electrum***](apps/axe-electrum.md) | *Axe Electrum Wallet.*..[ *read more* ](apps/axe-electrum.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/axe-electrum) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/axe-electrum) |
-| <img loading="lazy" src="icons/beam-wallet.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***beam-wallet***](apps/beam-wallet.md) | *Beam Desktop Wallet.*..[ *read more* ](apps/beam-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beam-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beam-wallet) |
 | <img loading="lazy" src="icons/bitbox-wallet.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***bitbox-wallet***](apps/bitbox-wallet.md) | *Cryptocurrency hardware wallet desktop app.*..[ *read more* ](apps/bitbox-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bitbox-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bitbox-wallet) |
 | <img loading="lazy" src="icons/bitshares.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***bitshares***](apps/bitshares.md) | *Advanced wallet interface for the BitShares financial blockchain.*..[ *read more* ](apps/bitshares.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bitshares) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bitshares) |
 | <img loading="lazy" src="icons/blockstream-green.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***blockstream-green***](apps/blockstream-green.md) | *Bitcoin wallet compatible with Blockstream Jade.*..[ *read more* ](apps/blockstream-green.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/blockstream-green) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/blockstream-green) |

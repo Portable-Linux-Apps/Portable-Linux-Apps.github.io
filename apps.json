@@ -1356,12 +1356,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "beam-wallet",
-    "description": "Beam Desktop Wallet...",
-    "icon": "https://portable-linux-apps.github.io/icons/beam-wallet.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "bearly",
     "description": "The world's best AI at your fingertips...",
     "icon": "https://portable-linux-apps.github.io/icons/bearly.png",
