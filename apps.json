@@ -16062,6 +16062,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "snowboardkids2-recomp",
+    "description": "Unofficial AppImage of game Snowboard Kids 2 Recompilation...",
+    "icon": "https://portable-linux-apps.github.io/icons/snowboardkids2-recomp.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "soapy-sdr",
     "description": "I/Q recorder and processor using SoapySDR as backend...",
     "icon": "https://portable-linux-apps.github.io/icons/soapy-sdr.png",
