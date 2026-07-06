@@ -4398,12 +4398,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "duelyst",
-    "description": "A digital collectible card game and turn-based strategy hybrid...",
-    "icon": "https://portable-linux-apps.github.io/icons/duelyst.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "duf",
     "description": "Disk Usage/Free Utility, a better 'df' alternative...",
     "icon": "https://portable-linux-apps.github.io/icons/duf.png",
@@ -4569,12 +4563,6 @@
     "packageName": "eez-studio",
     "description": "Cross-platform low-code GUI and automation...",
     "icon": "https://portable-linux-apps.github.io/icons/eez-studio.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "effer",
-    "description": "Encrypted CLI Notepad written in Rust..",
-    "icon": "https://portable-linux-apps.github.io/icons/effer.png",
     "arch": ["x86_64"]
   },
   {
