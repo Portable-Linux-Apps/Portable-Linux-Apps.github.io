@@ -11667,13 +11667,13 @@
     "packageName": "nvim",
     "description": "NeoVim, Vim fork focused on extensibility and usability...",
     "icon": "https://portable-linux-apps.github.io/icons/nvim.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "nvim-nightly",
     "description": "NeoVim, Vim fork, the most recent development build...",
     "icon": "https://portable-linux-apps.github.io/icons/nvim-nightly.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "nvtop",
