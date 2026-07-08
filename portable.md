@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **576** portable programs NOT in AppImage format.
+#### Here are listed **577** portable programs NOT in AppImage format.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -453,6 +453,7 @@
 | <img loading="lazy" src="icons/onionmediax.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***onionmediax***](apps/onionmediax.md) | *OnionMedia X. Convert and download videos and music quickly and easily.*..[ *read more* ](apps/onionmediax.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/onionmediax) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/onionmediax) |
 | <img loading="lazy" src="icons/openapi-tui.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***openapi-tui***](apps/openapi-tui.md) | *Terminal UI to list, browse and run APIs defined with openapi.*..[ *read more* ](apps/openapi-tui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openapi-tui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openapi-tui) |
 | <img loading="lazy" src="icons/openarena.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***openarena***](apps/openarena.md) | *Violent & sexy, multiplayer first person shooter game, ioquake3.*..[ *read more* ](apps/openarena.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openarena) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openarena) |
+| <img loading="lazy" src="icons/opencode.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***opencode***](apps/opencode.md) | *The open source coding agent.*..[ *read more* ](apps/opencode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opencode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opencode) |
 | <img loading="lazy" src="icons/openmw.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***openmw***](apps/openmw.md) | *OpenMW is an open-source open-world RPG game engine that supports playing Morrowind.*..[ *read more* ](apps/openmw.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openmw) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openmw) |
 | <img loading="lazy" src="icons/oras.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***oras***](apps/oras.md) | *OCI registry client managing content like artifacts, images, packages.*..[ *read more* ](apps/oras.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/oras) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/oras) |
 | <img loading="lazy" src="icons/ots.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***ots***](apps/ots.md) | *Share end-to-end encrypted secrets with others via a one-time URL.*..[ *read more* ](apps/ots.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ots) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ots) |
