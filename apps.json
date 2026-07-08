@@ -7962,12 +7962,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "ipuissance-4d",
-    "description": "Connect Four video game with a 3-Dimentional rendering...",
-    "icon": "https://portable-linux-apps.github.io/icons/ipuissance-4d.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "iqpuzzle",
     "description": "A challenging pentomino puzzle...",
     "icon": "https://portable-linux-apps.github.io/icons/iqpuzzle.png",
