@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **898** programs and **10** items for this category.
+#### Here are listed **899** programs and **10** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -460,6 +460,7 @@
 | <img loading="lazy" src="icons/onefetch.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***onefetch***](apps/onefetch.md) | *Command-line Git information tool.*..[ *read more* ](apps/onefetch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/onefetch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/onefetch) |
 | <img loading="lazy" src="icons/openapi-tui.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***openapi-tui***](apps/openapi-tui.md) | *Terminal UI to list, browse and run APIs defined with openapi.*..[ *read more* ](apps/openapi-tui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openapi-tui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openapi-tui) |
 | <img loading="lazy" src="icons/opencode.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***opencode***](apps/opencode.md) | *The open source coding agent.*..[ *read more* ](apps/opencode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opencode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opencode) |
+| <img loading="lazy" src="icons/opencode-cli.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***opencode-cli***](apps/opencode-cli.md) | *Unofficial AppImage of the opencode CLI utility. The open source coding agent.*..[ *read more* ](apps/opencode-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opencode-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opencode-cli) |
 | <img loading="lazy" src="icons/oras.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***oras***](apps/oras.md) | *OCI registry client managing content like artifacts, images, packages.*..[ *read more* ](apps/oras.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/oras) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/oras) |
 | <img loading="lazy" src="icons/ots.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***ots***](apps/ots.md) | *Share end-to-end encrypted secrets with others via a one-time URL.*..[ *read more* ](apps/ots.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ots) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ots) |
 | <img loading="lazy" src="icons/outline-client.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***outline-client***](apps/outline-client.md) | *Lean on the Cordova and Electron frameworks.*..[ *read more* ](apps/outline-client.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/outline-client) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/outline-client) |

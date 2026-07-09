@@ -1512,6 +1512,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "biblemultithelife",
+    "description": "Bible multi languages, free, offline, no advertising...",
+    "icon": "https://portable-linux-apps.github.io/icons/biblemultithelife.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "bibletime",
     "description": "Unofficial, a Bible study application based on the Sword library and Qt toolkit...",
     "icon": "https://portable-linux-apps.github.io/icons/bibletime.png",
@@ -12093,6 +12099,12 @@
     "packageName": "opencode",
     "description": "The open source coding agent...",
     "icon": "https://portable-linux-apps.github.io/icons/opencode.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "opencode-cli",
+    "description": "Unofficial AppImage of the opencode CLI utility. The open source coding agent...",
+    "icon": "https://portable-linux-apps.github.io/icons/opencode-cli.png",
     "arch": ["x86_64","aarch64"]
   },
   {
