@@ -1422,12 +1422,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "beeper",
-    "description": "All your chats in one app...",
-    "icon": "https://portable-linux-apps.github.io/icons/beeper.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "beeref",
     "description": "BeeRef Reference Image Viewer...",
     "icon": "https://portable-linux-apps.github.io/icons/beeref.png",
