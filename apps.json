@@ -5256,6 +5256,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "fauxx",
+    "description": "Cross-device companion to Fauxx Android app that generates realistic decoy web activity through synthetic personas to pollute the profiles that data brokers and ad-tech build about you...",
+    "icon": "https://portable-linux-apps.github.io/icons/fauxx.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "fbreader",
     "description": "Your Favourite eBook Reader..",
     "icon": "https://portable-linux-apps.github.io/icons/fbreader.png",
