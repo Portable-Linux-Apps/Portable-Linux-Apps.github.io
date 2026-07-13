@@ -960,6 +960,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "ascendara",
+    "description": "Skip extracting files, navigating setup processes, or any unnecessary hassles...",
+    "icon": "https://portable-linux-apps.github.io/icons/ascendara.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "asgardex",
     "description": "Thorchain wallet desktop app...",
     "icon": "https://portable-linux-apps.github.io/icons/asgardex.png",
@@ -1137,6 +1143,12 @@
     "packageName": "autoedit2",
     "description": "autoEdit2 Desktop Client for Linux...",
     "icon": "https://portable-linux-apps.github.io/icons/autoedit2.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "autosubsync",
+    "description": "Automatic subtitle synchronization tool...",
+    "icon": "https://portable-linux-apps.github.io/icons/autosubsync.png",
     "arch": ["x86_64"]
   },
   {
@@ -1509,6 +1521,12 @@
     "packageName": "biblemultithelife",
     "description": "Bible multi languages, free, offline, no advertising...",
     "icon": "https://portable-linux-apps.github.io/icons/biblemultithelife.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "biblemultithesonofman",
+    "description": "Offline Bible for Terminal...",
+    "icon": "https://portable-linux-apps.github.io/icons/biblemultithesonofman.png",
     "arch": ["x86_64"]
   },
   {
