@@ -14142,12 +14142,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "qradiolink",
-    "description": "Multimode SDR transceiver for GNU radio...",
-    "icon": "https://portable-linux-apps.github.io/icons/qradiolink.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "qrscan",
     "description": "Scan a QR code in the terminal using the system camera or an image...",
     "icon": "https://portable-linux-apps.github.io/icons/qrscan.png",
