@@ -6127,8 +6127,14 @@
   },
   {
     "packageName": "gallery-dl",
-    "description": "Command-line program to download image galleries and collections...",
+    "description": "Command-line program to download image galleries and collections from several image hosting sites...",
     "icon": "https://portable-linux-apps.github.io/icons/gallery-dl.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "gallery-dl-nightly",
+    "description": "Command-line program to download image galleries and collections from several image hosting sites, nightly build...",
+    "icon": "https://portable-linux-apps.github.io/icons/gallery-dl-nightly.png",
     "arch": ["x86_64"]
   },
   {
@@ -16809,12 +16815,6 @@
     "packageName": "subtitler",
     "description": "Quickly download subtitles...",
     "icon": "https://portable-linux-apps.github.io/icons/subtitler.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "sugarizer",
-    "description": "Sugarizer is a free/libre learning platform. The Sugarizer UI use ergonomic principles from Sugar platform, developed for the One Laptop per Child project. Sugarizer is used every day by thousands of users around the world...",
-    "icon": "https://portable-linux-apps.github.io/icons/sugarizer.png",
     "arch": ["x86_64"]
   },
   {
