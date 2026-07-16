@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **92** programs for this category.
+#### Here are listed **93** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -178,6 +178,7 @@
 | <img loading="lazy" src="icons/t3code.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***t3code***](apps/t3code.md) | *T3 Code is a minimal web GUI for coding agents (currently Codex and Claude, more coming soon).*..[ *read more* ](apps/t3code.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/t3code) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/t3code) |
 | <img loading="lazy" src="icons/tgpt.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***tgpt***](apps/tgpt.md) | *AI Chatbots in terminal without needing API keys.*..[ *read more* ](apps/tgpt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tgpt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tgpt) |
 | <img loading="lazy" src="icons/transformer.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***transformer***](apps/transformer.md) | *A command-line utility for splitting large files into chunks/pieces and merging them back together.*..[ *read more* ](apps/transformer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/transformer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/transformer) |
+| <img loading="lazy" src="icons/tura.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***tura***](apps/tura.md) | *Tura is an open-source, local-first AI coding agent that works with existing AI subscriptions and coding tools.*..[ *read more* ](apps/tura.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tura) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tura) |
 | <img loading="lazy" src="icons/upscayl.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***upscayl***](apps/upscayl.md) | *Free and Open Source AI Image Upscaler.*..[ *read more* ](apps/upscayl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/upscayl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/upscayl) |
 | <img loading="lazy" src="icons/warp-terminal.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***warp-terminal***](apps/warp-terminal.md) | *Terminal reimagined with AI and collaborative tools.*..[ *read more* ](apps/warp-terminal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/warp-terminal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/warp-terminal) |
 

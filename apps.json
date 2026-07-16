@@ -15654,12 +15654,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "shiru",
-    "description": "A personal anime library manager for watching and tracking your collection in real time. Lightweight, powerful, and paws-itively fast. No waiting required...",
-    "icon": "https://portable-linux-apps.github.io/icons/shiru.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "shockolate",
     "description": "Unofficial AppImage of Shockolate...",
     "icon": "https://portable-linux-apps.github.io/icons/shockolate.png",
@@ -18009,6 +18003,12 @@
     "packageName": "tunepack",
     "description": "Finding and download HQ audio files...",
     "icon": "https://portable-linux-apps.github.io/icons/tunepack.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "tura",
+    "description": "Tura is an open-source, local-first AI coding agent that works with existing AI subscriptions and coding tools...",
+    "icon": "https://portable-linux-apps.github.io/icons/tura.png",
     "arch": ["x86_64"]
   },
   {
