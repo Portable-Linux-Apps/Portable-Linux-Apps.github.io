@@ -1,0 +1,119 @@
+/* Hero */
+.hero {
+  background: var(--color-hero-bg);
+  color: var(--color-hero-text);
+  text-align: center;
+  padding: 4rem 1.5rem 3rem;
+}
+
+.hero-subtitle {
+  font-size: 0.875rem;
+  color: var(--color-hero-muted);
+  margin-bottom: 1rem;
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.5rem;
+}
+
+.hero-tagline {
+  font-size: 1.125rem;
+  font-style: italic;
+  color: var(--color-hero-muted);
+  margin-bottom: 2rem;
+}
+
+/* Stats */
+.stats {
+  text-align: center;
+  padding: 1.5rem 1.5rem;
+  border-bottom: 1px solid var(--color-border);
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+}
+
+.stats strong {
+  color: var(--color-text);
+}
+
+/* CTAs */
+.ctas {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  max-width: var(--max-width);
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+}
+
+.cta-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 1.5rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  transition: border-color 0.15s;
+}
+
+.cta-card:hover {
+  border-color: var(--color-accent);
+  text-decoration: none;
+}
+
+.cta-card img {
+  margin-bottom: 0.75rem;
+}
+
+.cta-card span {
+  font-weight: 600;
+  font-size: 0.9375rem;
+}
+
+@media (max-width: 640px) {
+  .ctas {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Categories */
+.categories-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  list-style: none;
+}
+
+.categories-list li {
+  margin: 0;
+}
+
+.category-link {
+  display: inline-block;
+  padding: 0.375rem 0.75rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: var(--color-text);
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.category-link:hover {
+  border-color: var(--color-accent);
+  background: var(--color-surface);
+  text-decoration: none;
+}
+
+/* About */
+.about p {
+  color: var(--color-text-muted);
+  margin-bottom: 1rem;
+}
