@@ -73,7 +73,7 @@ jobs:
                   fi
 
                   ESC_DESC=$(echo "$DESCRIPTION" | sed 's/"/\\"/g')
-                  printf '{"name":"%s","description":"%s","sites":["%s"],"sources":["%s"]}\n' \
+                  printf '{"name":"%s","description":"%s","sites":["%s"],"sources":["%s"],"screenshots":[]}\n' \
                     "$a" "$ESC_DESC" "$SITE" "$SITE" > apps/"$a".json
 
                   echo "Adding apps/$a.json"
