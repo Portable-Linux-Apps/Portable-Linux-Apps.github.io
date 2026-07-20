@@ -92,5 +92,5 @@ jobs:
             echo "No changes to commit." >> $GITHUB_STEP_SUMMARY
           else
             git commit -m "Sync files from source repository"
-            git push origin HEAD:auto-sync && echo "Sync to Source succeeded" >> $GITHUB_STEP_SUMMARY
+            git push origin && echo "Sync to Source succeeded" >> $GITHUB_STEP_SUMMARY
           fi
