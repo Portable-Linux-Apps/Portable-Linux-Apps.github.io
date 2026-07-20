@@ -61,6 +61,7 @@
       html += '<h1>' + escapeHtml(app.name || name) + '</h1>';
       html += '<div class="app-meta"></div>';
       html += '</div>';
+      html += '<a class="install-btn" href="pla-install://' + encodeURIComponent(app.name || name) + '" title="If this button doesn&apos;t work, see FAQ">Install</a>';
       html += '</div>';
 
       // Description

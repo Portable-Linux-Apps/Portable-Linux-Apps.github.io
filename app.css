@@ -32,6 +32,25 @@
   color: var(--color-accent);
 }
 
+.install-btn {
+  flex-shrink: 0;
+  padding: 0.5rem 1.25rem;
+  background: var(--color-accent);
+  color: #fff;
+  font-size: 0.875rem;
+  font-weight: 600;
+  border: none;
+  border-radius: var(--radius);
+  text-decoration: none;
+  transition: background 0.15s;
+}
+
+.install-btn:hover {
+  background: var(--color-accent-hover);
+  text-decoration: none;
+  color: #fff;
+}
+
 .app-body-content {
   max-width: var(--max-width);
   margin: 0 auto;
