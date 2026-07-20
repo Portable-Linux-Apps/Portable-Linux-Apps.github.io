@@ -1638,6 +1638,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "bitcoin-safe",
+    "description": "A desktop software for managing your cold storage wallets. - andreasgriffin/bitcoin-safe...",
+    "icon": "https://portable-linux-apps.github.io/icons/bitcoin-safe.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "bitshares",
     "description": "Advanced wallet interface for the BitShares financial blockchain...",
     "icon": "https://portable-linux-apps.github.io/icons/bitshares.png",
@@ -20080,6 +20086,12 @@
     "description": "A platform for collaboration and project management...",
     "icon": "https://portable-linux-apps.github.io/icons/zenkit.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "zennotes",
+    "description": "Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration...",
+    "icon": "https://portable-linux-apps.github.io/icons/zennotes.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "zenroomstudio",
