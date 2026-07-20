@@ -64,6 +64,78 @@
   .app-body-content table img {
     margin: 0;
   }
+  .gallery {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 1.5rem 2rem;
+    text-align: center;
+  }
+  .gallery h2 {
+    font-size: 1.125rem;
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+    text-align: left;
+  }
+  .gallery-inner {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+  }
+  .gallery-inner img {
+    max-width: 100%;
+    max-height: 480px;
+    border-radius: var(--radius);
+    border: 1px solid var(--color-border);
+    object-fit: contain;
+    flex: 1;
+  }
+  .gallery-btn {
+    flex-shrink: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid var(--color-border);
+    background: var(--color-surface);
+    color: var(--color-text);
+    font-size: 1.25rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: border-color 0.15s, background 0.15s;
+    user-select: none;
+  }
+  .gallery-btn:hover {
+    border-color: var(--color-accent);
+    background: var(--color-bg);
+  }
+  .gallery-btn:disabled {
+    opacity: 0.3;
+    cursor: default;
+    border-color: var(--color-border);
+  }
+  .gallery-dots {
+    display: flex;
+    justify-content: center;
+    gap: 6px;
+    margin-top: 0.75rem;
+  }
+  .gallery-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    border: 1px solid var(--color-border);
+    background: transparent;
+    cursor: pointer;
+    padding: 0;
+    transition: background 0.15s;
+  }
+  .gallery-dot.active {
+    background: var(--color-accent);
+    border-color: var(--color-accent);
+  }
   .app-links-section {
     max-width: var(--max-width);
     margin: 0 auto;
@@ -170,6 +242,19 @@
       }
       html += '</div>';
 
+      // Screenshots gallery
+      if (app.screenshots && app.screenshots.length) {
+        html += '<div class="gallery" id="gallery">';
+        html += '<h2>Screenshots</h2>';
+        html += '<div class="gallery-inner">';
+        html += '<button class="gallery-btn" id="gal-prev" aria-label="Previous">&#8592;</button>';
+        html += '<img id="gal-img" src="' + app.screenshots[0] + '" alt="Screenshot">';
+        html += '<button class="gallery-btn" id="gal-next" aria-label="Next">&#8594;</button>';
+        html += '</div>';
+        html += '<div class="gallery-dots" id="gal-dots"></div>';
+        html += '</div>';
+      }
+
       // Sites
       if (app.sites && app.sites.length) {
         html += '<div class="app-links-section"><h2>Sites</h2><ul>';
@@ -189,6 +274,53 @@
       }
 
       root.innerHTML = html;
+
+      // Gallery carousel
+      if (app.screenshots && app.screenshots.length > 1) {
+        var galIdx = 0;
+        var galImg = document.getElementById('gal-img');
+        var galPrev = document.getElementById('gal-prev');
+        var galNext = document.getElementById('gal-next');
+        var galDots = document.getElementById('gal-dots');
+        var shots = app.screenshots;
+
+        for (var i = 0; i < shots.length; i++) {
+          var dot = document.createElement('button');
+          dot.className = 'gallery-dot' + (i === 0 ? ' active' : '');
+          dot.setAttribute('aria-label', 'Screenshot ' + (i + 1));
+          (function(idx) {
+            dot.addEventListener('click', function() { showGal(idx); });
+          })(i);
+          galDots.appendChild(dot);
+        }
+
+        function showGal(idx) {
+          galIdx = idx;
+          galImg.src = shots[idx];
+          galPrev.disabled = idx === 0;
+          galNext.disabled = idx === shots.length - 1;
+          var dots = galDots.children;
+          for (var j = 0; j < dots.length; j++) {
+            dots[j].className = 'gallery-dot' + (j === idx ? ' active' : '');
+          }
+        }
+
+        galPrev.addEventListener('click', function() {
+          if (galIdx > 0) showGal(galIdx - 1);
+        });
+        galNext.addEventListener('click', function() {
+          if (galIdx < shots.length - 1) showGal(galIdx + 1);
+        });
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'ArrowLeft' && galIdx > 0) showGal(galIdx - 1);
+          if (e.key === 'ArrowRight' && galIdx < shots.length - 1) showGal(galIdx + 1);
+        });
+      } else if (app.screenshots && app.screenshots.length === 1) {
+        var p = document.getElementById('gal-prev');
+        var n = document.getElementById('gal-next');
+        if (p) p.style.display = 'none';
+        if (n) n.style.display = 'none';
+      }
 
       // Update page title
       document.title = (app.name || name).toUpperCase() + ' - PORTABLE LINUX APPS';
