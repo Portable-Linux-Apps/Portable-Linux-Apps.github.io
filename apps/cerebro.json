@@ -1,8 +1,1 @@
-{
-  "name": "cerebro",
-  "description": "Open-source productivity booster with a brain",
-  "sites": [
-    "https://github.com/cerebroapp/cerebro"
-  ],
-  "sources": []
-}
+{"name":"cerebro","description":"Open-source productivity booster with a brain","sites":["https://github.com/cerebroapp/cerebro"],"sources":[]}

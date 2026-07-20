@@ -1,8 +1,1 @@
-{
-  "name": "vscodium",
-  "description": "VSCodium is a community-driven, freely-licensed binary distribution of MS VSCode.\n \n <img src=\"https://vscodium.com/img/vscodium.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://vscodium.com"
-  ],
-  "sources": []
-}
+{"name":"vscodium","description":"VSCodium is a community-driven, freely-licensed binary distribution of MS VSCode.\n \n <img src=\"https://vscodium.com/img/vscodium.png\" alt=\"Screenshot\">","sites":["https://vscodium.com"],"sources":[]}

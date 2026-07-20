@@ -1,8 +1,1 @@
-{
-  "name": "ums",
-  "description": "A DLNA, UPnP and HTTP(S) Media Server.",
-  "sites": [
-    "https://github.com/UniversalMediaServer/UniversalMediaServer"
-  ],
-  "sources": []
-}
+{"name":"ums","description":"A DLNA, UPnP and HTTP(S) Media Server.","sites":["https://github.com/UniversalMediaServer/UniversalMediaServer"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "watchflower",
-  "description": "Read and plot datas from your Xiaomi \"Flower Care\" devices!",
-  "sites": [
-    "https://github.com/emericg/WatchFlower"
-  ],
-  "sources": []
-}
+{"name":"watchflower","description":"Read and plot datas from your Xiaomi \"Flower Care\" devices!","sites":["https://github.com/emericg/WatchFlower"],"sources":[]}

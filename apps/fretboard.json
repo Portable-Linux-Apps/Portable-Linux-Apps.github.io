@@ -1,8 +1,1 @@
-{
-  "name": "fretboard",
-  "description": "Unofficial. Application which helps you find your favorite guitar chord.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Fretboard-AppImage"
-  ],
-  "sources": []
-}
+{"name":"fretboard","description":"Unofficial. Application which helps you find your favorite guitar chord.","sites":["https://github.com/pkgforge-dev/Fretboard-AppImage"],"sources":[]}

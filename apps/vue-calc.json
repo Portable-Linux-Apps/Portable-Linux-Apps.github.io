@@ -1,8 +1,1 @@
-{
-  "name": "vue-calc",
-  "description": "A Simple VueJS's Calculator built with ElectronJS.",
-  "sites": [
-    "https://github.com/el3um4s/vue-calc"
-  ],
-  "sources": []
-}
+{"name":"vue-calc","description":"A Simple VueJS's Calculator built with ElectronJS.","sites":["https://github.com/el3um4s/vue-calc"],"sources":[]}

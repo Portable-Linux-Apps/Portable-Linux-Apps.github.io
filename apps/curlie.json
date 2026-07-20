@@ -1,8 +1,1 @@
-{
-  "name": "curlie",
-  "description": "The power of curl, the ease of use of httpie.",
-  "sites": [
-    "https://github.com/rs/curlie"
-  ],
-  "sources": []
-}
+{"name":"curlie","description":"The power of curl, the ease of use of httpie.","sites":["https://github.com/rs/curlie"],"sources":[]}

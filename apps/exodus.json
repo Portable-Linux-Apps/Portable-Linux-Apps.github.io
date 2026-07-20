@@ -1,8 +1,1 @@
-{
-  "name": "exodus",
-  "description": "Send, receive & exchange cryptocurrency with ease on the world's  leading Desktop, Mobile and Hardware wallets.\n \n Bitcoin wallet.",
-  "sites": [
-    "https://exodus.com"
-  ],
-  "sources": []
-}
+{"name":"exodus","description":"Send, receive & exchange cryptocurrency with ease on the world's  leading Desktop, Mobile and Hardware wallets.\n \n Bitcoin wallet.","sites":["https://exodus.com"],"sources":[]}

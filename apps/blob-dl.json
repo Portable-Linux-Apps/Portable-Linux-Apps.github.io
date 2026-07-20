@@ -1,8 +1,1 @@
-{
-  "name": "blob-dl",
-  "description": "Blob-dl is a yt-dlp interface used to download video and audio files from YouTube",
-  "sites": [
-    "https://github.com/MicheleCioccarelli/blob-dl"
-  ],
-  "sources": []
-}
+{"name":"blob-dl","description":"Blob-dl is a yt-dlp interface used to download video and audio files from YouTube","sites":["https://github.com/MicheleCioccarelli/blob-dl"],"sources":[]}

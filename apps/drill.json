@@ -1,8 +1,1 @@
-{
-  "name": "drill",
-  "description": "Search files without indexing, but clever crawling",
-  "sites": [
-    "https://drill.software/"
-  ],
-  "sources": []
-}
+{"name":"drill","description":"Search files without indexing, but clever crawling","sites":["https://drill.software/"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "liground",
-  "description": "A mordern Chess Variant Analysis GUI for the 21st century",
-  "sites": [
-    "https://github.com/ml-research/liground"
-  ],
-  "sources": []
-}
+{"name":"liground","description":"A mordern Chess Variant Analysis GUI for the 21st century","sites":["https://github.com/ml-research/liground"],"sources":[]}

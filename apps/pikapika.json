@@ -1,8 +1,1 @@
-{
-  "name": "pikapika",
-  "description": "A comic browser.",
-  "sites": [
-    "https://github.com/ComicSparks/pikapika"
-  ],
-  "sources": []
-}
+{"name":"pikapika","description":"A comic browser.","sites":["https://github.com/ComicSparks/pikapika"],"sources":[]}

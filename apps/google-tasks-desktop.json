@@ -1,8 +1,1 @@
-{
-  "name": "google-tasks-desktop",
-  "description": "Unofficial google tasks desktop application. Using React and google tasks api.",
-  "sites": [
-    "https://github.com/Pong420/google-tasks-desktop"
-  ],
-  "sources": []
-}
+{"name":"google-tasks-desktop","description":"Unofficial google tasks desktop application. Using React and google tasks api.","sites":["https://github.com/Pong420/google-tasks-desktop"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "cacoco",
-  "description": "A (slightly, but aspirationally) finished SBARDEF editor. Mostly.",
-  "sites": [
-    "https://github.com/lizzieshinkicker/Cacoco"
-  ],
-  "sources": []
-}
+{"name":"cacoco","description":"A (slightly, but aspirationally) finished SBARDEF editor. Mostly.","sites":["https://github.com/lizzieshinkicker/Cacoco"],"sources":[]}

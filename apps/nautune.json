@@ -1,8 +1,1 @@
-{
-  "name": "nautune",
-  "description": "Poseidon's Music Player for Jellyfin.",
-  "sites": [
-    "https://github.com/ElysiumDisc/nautune"
-  ],
-  "sources": []
-}
+{"name":"nautune","description":"Poseidon's Music Player for Jellyfin.","sites":["https://github.com/ElysiumDisc/nautune"],"sources":[]}

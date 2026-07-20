@@ -1,8 +1,1 @@
-{
-  "name": "clash-nyanpasu",
-  "description": "A Clash GUI based on tauri.",
-  "sites": [
-    "https://github.com/libnyanpasu/clash-nyanpasu"
-  ],
-  "sources": []
-}
+{"name":"clash-nyanpasu","description":"A Clash GUI based on tauri.","sites":["https://github.com/libnyanpasu/clash-nyanpasu"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "rasterdraw",
-  "description": "Simple shape drawn using rasterisation",
-  "sites": [
-    "https://github.com/humble-barnacle001/qt-raster-lines"
-  ],
-  "sources": []
-}
+{"name":"rasterdraw","description":"Simple shape drawn using rasterisation","sites":["https://github.com/humble-barnacle001/qt-raster-lines"],"sources":[]}

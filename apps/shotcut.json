@@ -1,10 +1,1 @@
-{
-  "name": "shotcut",
-  "description": "Shotcut - A powerful Video Editor.\n  \n <img src=\"https://www.shotcut.org/assets/img/screenshots/proxy_editing.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://www.shotcut.org"
-  ],
-  "sources": [
-    "https://github.com/mltframework/shotcut"
-  ]
-}
+{"name":"shotcut","description":"Shotcut - A powerful Video Editor.\n  \n <img src=\"https://www.shotcut.org/assets/img/screenshots/proxy_editing.png\" alt=\"Screenshot\">","sites":["https://www.shotcut.org"],"sources":["https://github.com/mltframework/shotcut"]}

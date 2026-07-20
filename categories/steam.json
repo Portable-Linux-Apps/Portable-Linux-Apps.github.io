@@ -1,130 +1,18 @@
 [
-  {
-    "icon": "archisteamfarm.png",
-    "name": "archisteamfarm",
-    "description": "C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.",
-    "app_page": "apps/archisteamfarm.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/archisteamfarm",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/archisteamfarm"
-  },
-  {
-    "icon": "boilr.png",
-    "name": "boilr",
-    "description": "Synchronize games from other platforms into your Steam library.",
-    "app_page": "apps/boilr.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/boilr",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/boilr"
-  },
-  {
-    "icon": "droidcam.png",
-    "name": "droidcam",
-    "description": "A DroidCam AppImage for the Steam Deck/SteamOS 3.0.",
-    "app_page": "apps/droidcam.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/droidcam",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/droidcam"
-  },
-  {
-    "icon": "moondeck-buddy.png",
-    "name": "moondeck-buddy",
-    "description": "A server-side part of the MoonDeck plugin for the SteamDeck.",
-    "app_page": "apps/moondeck-buddy.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moondeck-buddy",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moondeck-buddy"
-  },
-  {
-    "icon": "protonup-qt.png",
-    "name": "protonup-qt",
-    "description": "Manage Proton-GE/Luxtorpeda for Steam/Wine-GE for Lutris.",
-    "app_page": "apps/protonup-qt.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/protonup-qt",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/protonup-qt"
-  },
-  {
-    "icon": "samira.png",
-    "name": "samira",
-    "description": "Steam achievement manager for Linux written with Tauri and Rust.",
-    "app_page": "apps/samira.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/samira",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/samira"
-  },
-  {
-    "icon": "samrewritten.png",
-    "name": "samrewritten",
-    "description": "Steam Achievement Manager For Linux. Rewritten in C++.",
-    "app_page": "apps/samrewritten.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/samrewritten",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/samrewritten"
-  },
-  {
-    "icon": "sc-controller.png",
-    "name": "sc-controller",
-    "description": "User-mode driver and GTK3 based GUI for Steam Controller.",
-    "app_page": "apps/sc-controller.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sc-controller",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sc-controller"
-  },
-  {
-    "icon": "sfp.png",
-    "name": "sfp",
-    "description": "This utility is designed to allow you to apply skins to the modern Steam client.",
-    "app_page": "apps/sfp.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sfp",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sfp"
-  },
-  {
-    "icon": "steam.png",
-    "name": "steam",
-    "description": "Unofficial. The ultimate destination for playing, discussing, and creating games.",
-    "app_page": "apps/steam.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steam",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steam"
-  },
-  {
-    "icon": "steam-rom-manager.png",
-    "name": "steam-rom-manager",
-    "description": "An app for managing ROMs in Steam.",
-    "app_page": "apps/steam-rom-manager.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steam-rom-manager",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steam-rom-manager"
-  },
-  {
-    "icon": "steam-tui.png",
-    "name": "steam-tui",
-    "description": "Rust TUI client for steamcmd.",
-    "app_page": "apps/steam-tui.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steam-tui",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steam-tui"
-  },
-  {
-    "icon": "steamcad.png",
-    "name": "steamcad",
-    "description": "2D CAD especially designed to draw steam locomotives.",
-    "app_page": "apps/steamcad.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steamcad",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steamcad"
-  },
-  {
-    "icon": "steamdepotdownloadergui.png",
-    "name": "steamdepotdownloadergui",
-    "description": "Easily download older versions of games from Steam.",
-    "app_page": "apps/steamdepotdownloadergui.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steamdepotdownloadergui",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steamdepotdownloadergui"
-  },
-  {
-    "icon": "vapour.png",
-    "name": "vapour",
-    "description": "An alternative open source Steam client.",
-    "app_page": "apps/vapour.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vapour",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vapour"
-  },
-  {
-    "icon": "wlx-overlay-s.png",
-    "name": "wlx-overlay-s",
-    "description": "Access your Wayland/X11 desktop from Monado/WiVRn/SteamVR.",
-    "app_page": "apps/wlx-overlay-s.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wlx-overlay-s",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wlx-overlay-s"
-  }
+{"name":"archisteamfarm","description":"C# application with primary purpose of farming Steam cards from multiple accounts simultaneously."},
+{"name":"boilr","description":"Synchronize games from other platforms into your Steam library."},
+{"name":"droidcam","description":"A DroidCam AppImage for the Steam Deck/SteamOS 3.0."},
+{"name":"moondeck-buddy","description":"A server-side part of the MoonDeck plugin for the SteamDeck."},
+{"name":"protonup-qt","description":"Manage Proton-GE/Luxtorpeda for Steam/Wine-GE for Lutris."},
+{"name":"samira","description":"Steam achievement manager for Linux written with Tauri and Rust."},
+{"name":"samrewritten","description":"Steam Achievement Manager For Linux. Rewritten in C++."},
+{"name":"sc-controller","description":"User-mode driver and GTK3 based GUI for Steam Controller."},
+{"name":"sfp","description":"This utility is designed to allow you to apply skins to the modern Steam client."},
+{"name":"steamcad","description":"2D CAD especially designed to draw steam locomotives."},
+{"name":"steamdepotdownloadergui","description":"Easily download older versions of games from Steam."},
+{"name":"steam-rom-manager","description":"An app for managing ROMs in Steam."},
+{"name":"steam-tui","description":"Rust TUI client for steamcmd."},
+{"name":"steam","description":"Unofficial. The ultimate destination for playing, discussing, and creating games."},
+{"name":"vapour","description":"An alternative open source Steam client."},
+{"name":"wlx-overlay-s","description":"Access your Wayland/X11 desktop from Monado/WiVRn/SteamVR."}
 ]

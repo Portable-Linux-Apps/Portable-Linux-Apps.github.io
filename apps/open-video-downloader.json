@@ -1,8 +1,1 @@
-{
-  "name": "open-video-downloader",
-  "description": "A cross-platform GUI for youtube-dl made in Electron and node.js",
-  "sites": [
-    "https://github.com/StefanLobbenmeier/youtube-dl-gui"
-  ],
-  "sources": []
-}
+{"name":"open-video-downloader","description":"A cross-platform GUI for youtube-dl made in Electron and node.js","sites":["https://github.com/StefanLobbenmeier/youtube-dl-gui"],"sources":[]}

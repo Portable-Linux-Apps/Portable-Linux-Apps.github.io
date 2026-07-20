@@ -1,8 +1,1 @@
-{
-  "name": "genesis",
-  "description": "Open source blockchain platform.",
-  "sites": [
-    "https://github.com/GenesisKernel/genesis-front"
-  ],
-  "sources": []
-}
+{"name":"genesis","description":"Open source blockchain platform.","sites":["https://github.com/GenesisKernel/genesis-front"],"sources":[]}

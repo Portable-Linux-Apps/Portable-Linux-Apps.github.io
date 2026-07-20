@@ -1,8 +1,1 @@
-{
-  "name": "boostchanger",
-  "description": "With this app you can control CPU turbo boost and the settings of the  cpu speed in order to consuming less battery voltage on Linux.",
-  "sites": [
-    "https://github.com/nbebaw/boostchanger"
-  ],
-  "sources": []
-}
+{"name":"boostchanger","description":"With this app you can control CPU turbo boost and the settings of the  cpu speed in order to consuming less battery voltage on Linux.","sites":["https://github.com/nbebaw/boostchanger"],"sources":[]}

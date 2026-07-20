@@ -1,8 +1,1 @@
-{
-  "name": "torrenttools",
-  "description": "A commandline tool for creating, inspecting and modifying  bittorrent metafiles.",
-  "sites": [
-    "https://github.com/fbdtemme/torrenttools"
-  ],
-  "sources": []
-}
+{"name":"torrenttools","description":"A commandline tool for creating, inspecting and modifying  bittorrent metafiles.","sites":["https://github.com/fbdtemme/torrenttools"],"sources":[]}

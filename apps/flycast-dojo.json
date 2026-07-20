@@ -1,8 +1,1 @@
-{
-  "name": "flycast-dojo",
-  "description": "A fork of Flycast, a multiplatform Sega Dreamcast, Naomi and Atomiswave emulator. Intended for netplay and quality of life improvements for training & online tournament play",
-  "sites": [
-    "https://github.com/blueminder/flycast-dojo"
-  ],
-  "sources": []
-}
+{"name":"flycast-dojo","description":"A fork of Flycast, a multiplatform Sega Dreamcast, Naomi and Atomiswave emulator. Intended for netplay and quality of life improvements for training & online tournament play","sites":["https://github.com/blueminder/flycast-dojo"],"sources":[]}

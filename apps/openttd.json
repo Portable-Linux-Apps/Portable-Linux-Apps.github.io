@@ -1,8 +1,1 @@
-{
-  "name": "openttd",
-  "description": "Unofficial, an open source simulation game based upon Transport Tycoon Deluxe.",
-  "sites": [
-    "https://github.com/pkgforge-dev/OpenTTD-AppImage"
-  ],
-  "sources": []
-}
+{"name":"openttd","description":"Unofficial, an open source simulation game based upon Transport Tycoon Deluxe.","sites":["https://github.com/pkgforge-dev/OpenTTD-AppImage"],"sources":[]}

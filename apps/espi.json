@@ -1,8 +1,1 @@
-{
-  "name": "espi",
-  "description": "Software recreation of the SP-1200 drum machine",
-  "sites": [
-    "https://low-hiss.com/"
-  ],
-  "sources": []
-}
+{"name":"espi","description":"Software recreation of the SP-1200 drum machine","sites":["https://low-hiss.com/"],"sources":[]}

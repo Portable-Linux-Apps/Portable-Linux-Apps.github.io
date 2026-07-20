@@ -1,8 +1,1 @@
-{
-  "name": "supertag",
-  "description": "A tag-based filesystem written in Rust.",
-  "sites": [
-    "https://github.com/amoffat/supertag"
-  ],
-  "sources": []
-}
+{"name":"supertag","description":"A tag-based filesystem written in Rust.","sites":["https://github.com/amoffat/supertag"],"sources":[]}

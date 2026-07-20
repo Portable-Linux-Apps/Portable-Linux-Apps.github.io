@@ -1,8 +1,1 @@
-{
-  "name": "vokoscreenng",
-  "description": "Unofficial,  a powerful screencast creator.",
-  "sites": [
-    "https://github.com/pkgforge-dev/vokoscreenNG-AppImage"
-  ],
-  "sources": []
-}
+{"name":"vokoscreenng","description":"Unofficial,  a powerful screencast creator.","sites":["https://github.com/pkgforge-dev/vokoscreenNG-AppImage"],"sources":[]}

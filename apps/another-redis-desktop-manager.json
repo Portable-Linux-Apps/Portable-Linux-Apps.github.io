@@ -1,8 +1,1 @@
-{
-  "name": "another-redis-desktop-manager",
-  "description": "A faster, better and more stable redis desktop manager.",
-  "sites": [
-    "https://github.com/qishibo/AnotherRedisDesktopManager"
-  ],
-  "sources": []
-}
+{"name":"another-redis-desktop-manager","description":"A faster, better and more stable redis desktop manager.","sites":["https://github.com/qishibo/AnotherRedisDesktopManager"],"sources":[]}

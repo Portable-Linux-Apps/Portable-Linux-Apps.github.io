@@ -1,8 +1,1 @@
-{
-  "name": "ngrev",
-  "description": "Reverse Engineering for Angular",
-  "sites": [
-    "https://github.com/mgechev/ngrev"
-  ],
-  "sources": []
-}
+{"name":"ngrev","description":"Reverse Engineering for Angular","sites":["https://github.com/mgechev/ngrev"],"sources":[]}

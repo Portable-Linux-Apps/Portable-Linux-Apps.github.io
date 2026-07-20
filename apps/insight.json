@@ -1,8 +1,1 @@
-{
-  "name": "insight",
-  "description": "The GUI front-end of GDB with Tcl/Tk.",
-  "sites": [
-    "https://github.com/antony-jr/insight"
-  ],
-  "sources": []
-}
+{"name":"insight","description":"The GUI front-end of GDB with Tcl/Tk.","sites":["https://github.com/antony-jr/insight"],"sources":[]}

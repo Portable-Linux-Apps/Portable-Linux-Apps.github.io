@@ -1,8 +1,1 @@
-{
-  "name": "pokeclicker",
-  "description": "PokéClicker with quality of life changes.",
-  "sites": [
-    "https://github.com/wheat32/pokeclicker"
-  ],
-  "sources": []
-}
+{"name":"pokeclicker","description":"Pok\u00e9Clicker with quality of life changes.","sites":["https://github.com/wheat32/pokeclicker"],"sources":[]}

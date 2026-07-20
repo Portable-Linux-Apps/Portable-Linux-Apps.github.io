@@ -1,8 +1,1 @@
-{
-  "name": "zen-browser",
-  "description": "Experience tranquillity while browsing the web without people tracking you!",
-  "sites": [
-    "https://github.com/zen-browser/desktop"
-  ],
-  "sources": []
-}
+{"name":"zen-browser","description":"Experience tranquillity while browsing the web without people tracking you!","sites":["https://github.com/zen-browser/desktop"],"sources":[]}

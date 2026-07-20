@@ -1,8 +1,1 @@
-{
-  "name": "pot-desktop",
-  "description": "A cross-platform software for text translation and recognition.",
-  "sites": [
-    "https://github.com/pot-app/pot-desktop"
-  ],
-  "sources": []
-}
+{"name":"pot-desktop","description":"A cross-platform software for text translation and recognition.","sites":["https://github.com/pot-app/pot-desktop"],"sources":[]}

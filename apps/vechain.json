@@ -1,8 +1,1 @@
-{
-  "name": "vechain",
-  "description": "A browser that empowers DApps on VeChain",
-  "sites": [
-    "https://github.com/vechain/thor-sync.electron"
-  ],
-  "sources": []
-}
+{"name":"vechain","description":"A browser that empowers DApps on VeChain","sites":["https://github.com/vechain/thor-sync.electron"],"sources":[]}

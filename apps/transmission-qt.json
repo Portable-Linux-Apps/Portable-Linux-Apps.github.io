@@ -1,8 +1,1 @@
-{
-  "name": "transmission-qt",
-  "description": "Unofficial, Fast, easy, and free BitTorrent client, Qt GUI.",
-  "sites": [
-    "https://github.com/pkgforge-dev/transmission-qt-AppImage"
-  ],
-  "sources": []
-}
+{"name":"transmission-qt","description":"Unofficial, Fast, easy, and free BitTorrent client, Qt GUI.","sites":["https://github.com/pkgforge-dev/transmission-qt-AppImage"],"sources":[]}

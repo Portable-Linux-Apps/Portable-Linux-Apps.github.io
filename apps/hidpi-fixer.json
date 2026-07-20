@@ -1,8 +1,1 @@
-{
-  "name": "hidpi-fixer",
-  "description": "Qt app that automates fractional scaling configuration on X11 desktops",
-  "sites": [
-    "https://github.com/alex-spataru/HiDPI-Fixer"
-  ],
-  "sources": []
-}
+{"name":"hidpi-fixer","description":"Qt app that automates fractional scaling configuration on X11 desktops","sites":["https://github.com/alex-spataru/HiDPI-Fixer"],"sources":[]}

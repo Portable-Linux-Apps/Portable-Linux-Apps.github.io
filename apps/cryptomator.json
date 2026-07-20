@@ -1,8 +1,1 @@
-{
-  "name": "cryptomator",
-  "description": "Cloud Storage Encryption Utility",
-  "sites": [
-    "https://github.com/cryptomator/cryptomator"
-  ],
-  "sources": []
-}
+{"name":"cryptomator","description":"Cloud Storage Encryption Utility","sites":["https://github.com/cryptomator/cryptomator"],"sources":[]}

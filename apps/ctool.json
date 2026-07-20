@@ -1,8 +1,1 @@
-{
-  "name": "ctool",
-  "description": "Common Tools for Program Development.",
-  "sites": [
-    "https://ctool.dev/"
-  ],
-  "sources": []
-}
+{"name":"ctool","description":"Common Tools for Program Development.","sites":["https://ctool.dev/"],"sources":[]}

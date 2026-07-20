@@ -1,8 +1,1 @@
-{
-  "name": "wireshark",
-  "description": "Wireshark unofficial AppImage, by ryuuzaki42.",
-  "sites": [
-    "https://github.com/ryuuzaki42/Wireshark_AppImage"
-  ],
-  "sources": []
-}
+{"name":"wireshark","description":"Wireshark unofficial AppImage, by ryuuzaki42.","sites":["https://github.com/ryuuzaki42/Wireshark_AppImage"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "lba2-classic-community",
-  "description": "Unofficial, a community fork for evolving and modernizing LBA2 source port.",
-  "sites": [
-    "https://github.com/pkgforge-dev/lba2-classic-community-AppImage"
-  ],
-  "sources": []
-}
+{"name":"lba2-classic-community","description":"Unofficial, a community fork for evolving and modernizing LBA2 source port.","sites":["https://github.com/pkgforge-dev/lba2-classic-community-AppImage"],"sources":[]}

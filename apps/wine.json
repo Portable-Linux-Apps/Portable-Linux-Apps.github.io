@@ -1,8 +1,1 @@
-{
-  "name": "wine",
-  "description": "WINE - Compatibility layer to run MS Windows apps and games on GNU/Linux.\n \n This script allows you to download one of the many versions available from the mmtrt/WINE_AppImage repository, on Github.",
-  "sites": [
-    "https://github.com/mmtrt/WINE_AppImage"
-  ],
-  "sources": []
-}
+{"name":"wine","description":"WINE - Compatibility layer to run MS Windows apps and games on GNU/Linux.\n \n This script allows you to download one of the many versions available from the mmtrt/WINE_AppImage repository, on Github.","sites":["https://github.com/mmtrt/WINE_AppImage"],"sources":[]}

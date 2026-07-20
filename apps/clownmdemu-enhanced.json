@@ -1,8 +1,1 @@
-{
-  "name": "clownmdemu-enhanced",
-  "description": "Unofficial, reference standalone frontend for clownmdemu.",
-  "sites": [
-    "https://github.com/pkgforge-dev/ClownMDEmu-AppImage-Enhanced"
-  ],
-  "sources": []
-}
+{"name":"clownmdemu-enhanced","description":"Unofficial, reference standalone frontend for clownmdemu.","sites":["https://github.com/pkgforge-dev/ClownMDEmu-AppImage-Enhanced"],"sources":[]}

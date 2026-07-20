@@ -1,8 +1,1 @@
-{
-  "name": "etichetta",
-  "description": "A YOLO annotator, for human beings.",
-  "sites": [
-    "https://github.com/trikko/etichetta"
-  ],
-  "sources": []
-}
+{"name":"etichetta","description":"A YOLO annotator, for human beings.","sites":["https://github.com/trikko/etichetta"],"sources":[]}

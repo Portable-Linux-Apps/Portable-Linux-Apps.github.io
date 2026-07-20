@@ -1,8 +1,1 @@
-{
-  "name": "cosmic-comics",
-  "description": "Web Server based Comics / Manga Collectionner & viewer.",
-  "sites": [
-    "https://github.com/Nytuo/CosmicComics"
-  ],
-  "sources": []
-}
+{"name":"cosmic-comics","description":"Web Server based Comics / Manga Collectionner & viewer.","sites":["https://github.com/Nytuo/CosmicComics"],"sources":[]}

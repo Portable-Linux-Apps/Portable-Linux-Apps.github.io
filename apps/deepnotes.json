@@ -1,8 +1,1 @@
-{
-  "name": "deepnotes",
-  "description": "End-to-end encrypted visual note-taking tool with deep page navigation.",
-  "sites": [
-    "https://github.com/DeepNotesApp/DeepNotes"
-  ],
-  "sources": []
-}
+{"name":"deepnotes","description":"End-to-end encrypted visual note-taking tool with deep page navigation.","sites":["https://github.com/DeepNotesApp/DeepNotes"],"sources":[]}

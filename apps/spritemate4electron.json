@@ -1,8 +1,1 @@
-{
-  "name": "spritemate4electron",
-  "description": "A simple \"Electron-wrapper\" for Esshahn's awesome Spritemate-webapp.",
-  "sites": [
-    "https://github.com/4ch1m/spritemate4electron"
-  ],
-  "sources": []
-}
+{"name":"spritemate4electron","description":"A simple \"Electron-wrapper\" for Esshahn's awesome Spritemate-webapp.","sites":["https://github.com/4ch1m/spritemate4electron"],"sources":[]}

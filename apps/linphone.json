@@ -1,8 +1,1 @@
-{
-  "name": "linphone",
-  "description": "A libre SIP client",
-  "sites": [
-    "https://www.linphone.org/"
-  ],
-  "sources": []
-}
+{"name":"linphone","description":"A libre SIP client","sites":["https://www.linphone.org/"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "bitshares",
-  "description": "Advanced wallet interface for the BitShares financial blockchain.",
-  "sites": [
-    "https://github.com/bitshares/bitshares-ui"
-  ],
-  "sources": []
-}
+{"name":"bitshares","description":"Advanced wallet interface for the BitShares financial blockchain.","sites":["https://github.com/bitshares/bitshares-ui"],"sources":[]}

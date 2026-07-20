@@ -1,8 +1,1 @@
-{
-  "name": "hammer",
-  "description": "A simple tool for building stories.",
-  "sites": [
-    "https://github.com/Wavesonics/hammer-editor"
-  ],
-  "sources": []
-}
+{"name":"hammer","description":"A simple tool for building stories.","sites":["https://github.com/Wavesonics/hammer-editor"],"sources":[]}

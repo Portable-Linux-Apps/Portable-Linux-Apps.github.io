@@ -1,8 +1,1 @@
-{
-  "name": "darktable",
-  "description": "Darktable is an open source photography workflow  application and raw developer.",
-  "sites": [
-    "https://github.com/darktable-org/darktable"
-  ],
-  "sources": []
-}
+{"name":"darktable","description":"Darktable is an open source photography workflow  application and raw developer.","sites":["https://github.com/darktable-org/darktable"],"sources":[]}

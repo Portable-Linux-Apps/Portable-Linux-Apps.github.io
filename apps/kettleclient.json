@@ -1,8 +1,1 @@
-{
-  "name": "kettleclient",
-  "description": "Client for Kettle REST service.",
-  "sites": [
-    "https://github.com/Arquanite/KettleClient"
-  ],
-  "sources": []
-}
+{"name":"kettleclient","description":"Client for Kettle REST service.","sites":["https://github.com/Arquanite/KettleClient"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "batch-explorer",
-  "description": "A client tool to help create, debug and monitor Azure Batch Applications.",
-  "sites": [
-    "https://azure.github.io/BatchExplorer/"
-  ],
-  "sources": []
-}
+{"name":"batch-explorer","description":"A client tool to help create, debug and monitor Azure Batch Applications.","sites":["https://azure.github.io/BatchExplorer/"],"sources":[]}

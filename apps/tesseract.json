@@ -1,8 +1,1 @@
-{
-  "name": "tesseract",
-  "description": "Tesseract Open Source OCR Engine AppImage.",
-  "sites": [
-    "https://github.com/AlexanderP/tesseract-appimage"
-  ],
-  "sources": []
-}
+{"name":"tesseract","description":"Tesseract Open Source OCR Engine AppImage.","sites":["https://github.com/AlexanderP/tesseract-appimage"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "talktype",
-  "description": "Linux speech to text app.",
-  "sites": [
-    "https://github.com/ronb1964/TalkType"
-  ],
-  "sources": []
-}
+{"name":"talktype","description":"Linux speech to text app.","sites":["https://github.com/ronb1964/TalkType"],"sources":[]}

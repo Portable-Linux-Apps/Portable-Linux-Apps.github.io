@@ -1,8 +1,1 @@
-{
-  "name": "altrady",
-  "description": "Altrady Crypto Trading Terminal.",
-  "sites": [
-    "https://www.altrady.com"
-  ],
-  "sources": []
-}
+{"name":"altrady","description":"Altrady Crypto Trading Terminal.","sites":["https://www.altrady.com"],"sources":[]}

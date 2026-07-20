@@ -1,8 +1,1 @@
-{
-  "name": "zfxtop",
-  "description": "[WIP] fetch top for gen Z with X written by bubbletea enjoyer.",
-  "sites": [
-    "https://github.com/ssleert/zfxtop"
-  ],
-  "sources": []
-}
+{"name":"zfxtop","description":"[WIP] fetch top for gen Z with X written by bubbletea enjoyer.","sites":["https://github.com/ssleert/zfxtop"],"sources":[]}

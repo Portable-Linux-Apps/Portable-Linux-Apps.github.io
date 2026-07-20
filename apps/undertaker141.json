@@ -1,8 +1,1 @@
-{
-  "name": "undertaker141",
-  "description": "A free and open-source game-center for linux. Pre-configured Wine and Native Games for Linux.",
-  "sites": [
-    "https://github.com/AbdelrhmanNile/UnderTaker141"
-  ],
-  "sources": []
-}
+{"name":"undertaker141","description":"A free and open-source game-center for linux. Pre-configured Wine and Native Games for Linux.","sites":["https://github.com/AbdelrhmanNile/UnderTaker141"],"sources":[]}

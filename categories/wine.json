@@ -1,114 +1,15 @@
 [
-  {
-    "icon": "bottles.png",
-    "name": "bottles",
-    "description": "Unofficial. Manage wine prefixes and run Windows software & games in a new way.",
-    "app_page": "apps/bottles.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bottles",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bottles"
-  },
-  {
-    "icon": "conty-wine.png",
-    "name": "conty-wine",
-    "description": "Easy to use unprivileged and portable Arch Linux container.",
-    "app_page": "apps/conty-wine.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/conty-wine",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/conty-wine"
-  },
-  {
-    "icon": "foobar2000.png",
-    "name": "foobar2000",
-    "description": "Unofficial, an advanced freeware audio player for Windows, includes WINE.",
-    "app_page": "apps/foobar2000.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/foobar2000",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/foobar2000"
-  },
-  {
-    "icon": "lutris.png",
-    "name": "lutris",
-    "description": "Unofficial. Install and play video games from all eras and from most gaming systems, by leveraging and combining existing emulators, WINE included.",
-    "app_page": "apps/lutris.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lutris",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lutris"
-  },
-  {
-    "icon": "notepad++.png",
-    "name": "notepad++",
-    "description": "Unofficial Appimage of Notepad++, with WINE prefix.",
-    "app_page": "apps/notepad++.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/notepad++",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/notepad++"
-  },
-  {
-    "icon": "protonup-qt.png",
-    "name": "protonup-qt",
-    "description": "Manage Proton-GE/Luxtorpeda for Steam/Wine-GE for Lutris.",
-    "app_page": "apps/protonup-qt.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/protonup-qt",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/protonup-qt"
-  },
-  {
-    "icon": "undertaker141.png",
-    "name": "undertaker141",
-    "description": "A free and open-source game-center for linux. Pre-configured Wine and Native Games for Linux.",
-    "app_page": "apps/undertaker141.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/undertaker141",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/undertaker141"
-  },
-  {
-    "icon": "visipics.png",
-    "name": "visipics",
-    "description": "Windows software to find and remove duplicate pictures. Unofficial AppImage built using \"wine32-deploy\" and powered by \"wine\".",
-    "app_page": "apps/visipics.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/visipics",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/visipics"
-  },
-  {
-    "icon": "wine.png",
-    "name": "wine",
-    "description": "Unofficial. Run Windows programs, select a version from mmtrt/WINE_AppImage.",
-    "app_page": "apps/wine.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine"
-  },
-  {
-    "icon": "wine-devel.png",
-    "name": "wine-devel",
-    "description": "Unofficial. Compatibility layer to run x86_64 Windows programs, Dev Edition.",
-    "app_page": "apps/wine-devel.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-devel",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-devel"
-  },
-  {
-    "icon": "wine-stable.png",
-    "name": "wine-stable",
-    "description": "Unofficial. Compatibility layer to run x86_64 Windows programs, Stable.",
-    "app_page": "apps/wine-stable.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-stable",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-stable"
-  },
-  {
-    "icon": "wine-staging.png",
-    "name": "wine-staging",
-    "description": "Unofficial. Compatibility layer to run x86_64 Windows programs, Staging.",
-    "app_page": "apps/wine-staging.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-staging",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-staging"
-  },
-  {
-    "icon": "wine-staging-ge-proton.png",
-    "name": "wine-staging-ge-proton",
-    "description": "Unofficial. Run x86_64 Windows programs, Staging GE Proton.",
-    "app_page": "apps/wine-staging-ge-proton.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-staging-ge-proton",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-staging-ge-proton"
-  },
-  {
-    "icon": "wine32-deploy.png",
-    "name": "wine32-deploy",
-    "description": "Tool for creating AppImages for 32-bit Microsoft Windows apps.",
-    "app_page": "apps/wine32-deploy.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine32-deploy",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine32-deploy"
-  }
+{"name":"bottles","description":"Unofficial. Manage wine prefixes and run Windows software & games in a new way."},
+{"name":"foobar2000","description":"Unofficial, an advanced freeware audio player for Windows, includes WINE."},
+{"name":"lutris","description":"Unofficial. Install and play video games from all eras and from most gaming systems, by leveraging and combining existing emulators, WINE included."},
+{"name":"notepad++","description":"Unofficial Appimage of Notepad++, with WINE prefix."},
+{"name":"protonup-qt","description":"Manage Proton-GE/Luxtorpeda for Steam/Wine-GE for Lutris."},
+{"name":"undertaker141","description":"A free and open-source game-center for linux. Pre-configured Wine and Native Games for Linux."},
+{"name":"visipics","description":"Windows software to find and remove duplicate pictures. Unofficial AppImage built using \"wine32-deploy\" and powered by \"wine\"."},
+{"name":"wine32-deploy","description":"Tool for creating AppImages for 32-bit Microsoft Windows apps."},
+{"name":"wine-devel","description":"Unofficial. Compatibility layer to run x86_64 Windows programs, Dev Edition."},
+{"name":"wine-stable","description":"Unofficial. Compatibility layer to run x86_64 Windows programs, Stable."},
+{"name":"wine-staging-ge-proton","description":"Unofficial. Run x86_64 Windows programs, Staging GE Proton."},
+{"name":"wine-staging","description":"Unofficial. Compatibility layer to run x86_64 Windows programs, Staging."},
+{"name":"wine","description":"Unofficial. Run Windows programs, select a version from mmtrt/WINE_AppImage."}
 ]

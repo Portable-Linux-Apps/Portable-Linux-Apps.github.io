@@ -1,642 +1,82 @@
 [
-  {
-    "icon": "ark.png",
-    "name": "ark",
-    "description": "Unofficial. Archiving tool for .zip/.tar/.rar and more. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/ark.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ark",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ark"
-  },
-  {
-    "icon": "bomber.png",
-    "name": "bomber",
-    "description": "Unofficial. Arcade spaceship game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/bomber.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bomber",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bomber"
-  },
-  {
-    "icon": "bovo.png",
-    "name": "bovo",
-    "description": "Unofficial. Five in a row game from. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/bovo.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bovo",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bovo"
-  },
-  {
-    "icon": "calligra.png",
-    "name": "calligra",
-    "description": "Calligra Suite is an office and graphic art suite by KDE. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases.",
-    "app_page": "apps/calligra.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/calligra",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/calligra"
-  },
-  {
-    "icon": "falkon.png",
-    "name": "falkon",
-    "description": "Unofficial. A fast Qt web browser from KDE.",
-    "app_page": "apps/falkon.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/falkon",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/falkon"
-  },
-  {
-    "icon": "filelight.png",
-    "name": "filelight",
-    "description": "Unofficial. View disk usage information, by KDE.",
-    "app_page": "apps/filelight.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filelight",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filelight"
-  },
-  {
-    "icon": "francis.png",
-    "name": "francis",
-    "description": "Pomodoro technique, get more productive. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/francis.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/francis",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/francis"
-  },
-  {
-    "icon": "granatier.png",
-    "name": "granatier",
-    "description": "Bomberman clone. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/granatier.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/granatier",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/granatier"
-  },
-  {
-    "icon": "gwenview.png",
-    "name": "gwenview",
-    "description": "Unofficial. Fast and easy to use image viewer by KDE. ideal for displaying a collection of images.",
-    "app_page": "apps/gwenview.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gwenview",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gwenview"
-  },
-  {
-    "icon": "isoimagewriter.png",
-    "name": "isoimagewriter",
-    "description": "Write an ISO Image to a USB Disk. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/isoimagewriter.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/isoimagewriter",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/isoimagewriter"
-  },
-  {
-    "icon": "kajongg.png",
-    "name": "kajongg",
-    "description": "Unofficial, An ancient Chinese board game for 4 players. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kajongg.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kajongg",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kajongg"
-  },
-  {
-    "icon": "kalm.png",
-    "name": "kalm",
-    "description": "Unofficial, Teach you different breathing techniques. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/kalm.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kalm",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kalm"
-  },
-  {
-    "icon": "kapman.png",
-    "name": "kapman",
-    "description": "Pac-Man clone. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kapman.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kapman",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kapman"
-  },
-  {
-    "icon": "kate.png",
-    "name": "kate",
-    "description": "Unofficial, A multi-document editor part of KDE. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/kate.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kate",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kate"
-  },
-  {
-    "icon": "katomic.png",
-    "name": "katomic",
-    "description": "Edu. game based around molecular geometry. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/katomic.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/katomic",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/katomic"
-  },
-  {
-    "icon": "kbackup.png",
-    "name": "kbackup",
-    "description": "Back up your data. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/kbackup.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kbackup",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kbackup"
-  },
-  {
-    "icon": "kblackbox.png",
-    "name": "kblackbox",
-    "description": "Unofficial, A game of hide and seek. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kblackbox.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kblackbox",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kblackbox"
-  },
-  {
-    "icon": "kblocks.png",
-    "name": "kblocks",
-    "description": "Unofficial, Classic Tetris / falling blocks game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kblocks.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kblocks",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kblocks"
-  },
-  {
-    "icon": "kbounce.png",
-    "name": "kbounce",
-    "description": "Unofficial, Fill the field game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kbounce.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kbounce",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kbounce"
-  },
-  {
-    "icon": "kbreakout.png",
-    "name": "kbreakout",
-    "description": "Unofficial, Destroy bricks without losing the ball. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kbreakout.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kbreakout",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kbreakout"
-  },
-  {
-    "icon": "kcalc.png",
-    "name": "kcalc",
-    "description": "Unofficial, Scientific Calculator. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/kcalc.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kcalc",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kcalc"
-  },
-  {
-    "icon": "kcharselect.png",
-    "name": "kcharselect",
-    "description": "Unofficial, Character Selector. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/kcharselect.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kcharselect",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kcharselect"
-  },
-  {
-    "icon": "kclock.png",
-    "name": "kclock",
-    "description": "Unofficial, A universal clock application. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/kclock.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kclock",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kclock"
-  },
-  {
-    "icon": "kdebugsettings.png",
-    "name": "kdebugsettings",
-    "description": "Unofficial, Edits displayed QLoggingCategory. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/kdebugsettings.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdebugsettings",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdebugsettings"
-  },
-  {
-    "icon": "kdeconnect.png",
-    "name": "kdeconnect",
-    "description": "Unofficial, A project that enables all your Android devices to communicate with each other.",
-    "app_page": "apps/kdeconnect.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdeconnect",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdeconnect"
-  },
-  {
-    "icon": "kdegames.png",
-    "name": "kdegames",
-    "description": "Unofficial, Full & updatable KDE Games suite, metapackage.",
-    "app_page": "apps/kdegames.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdegames",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdegames"
-  },
-  {
-    "icon": "kdenlive.png",
-    "name": "kdenlive",
-    "description": "A powerful Video Editor provided by KDE.",
-    "app_page": "apps/kdenlive.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdenlive",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdenlive"
-  },
-  {
-    "icon": "kdenlive-daily.png",
-    "name": "kdenlive-daily",
-    "description": "A powerful Video Editor provided by KDE (daily builds).",
-    "app_page": "apps/kdenlive-daily.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdenlive-daily",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdenlive-daily"
-  },
-  {
-    "icon": "kdenlive-enhanced.png",
-    "name": "kdenlive-enhanced",
-    "description": "Unofficial AppImage of Kdenlive Video Editor which is able to work on any linux distro.",
-    "app_page": "apps/kdenlive-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdenlive-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdenlive-enhanced"
-  },
-  {
-    "icon": "kdeutils.png",
-    "name": "kdeutils",
-    "description": "Unofficial, Full & updatable KDE Utils suite, metapackage.",
-    "app_page": "apps/kdeutils.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdeutils",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdeutils"
-  },
-  {
-    "icon": "kdf.png",
-    "name": "kdf",
-    "description": "Unofficial, view Disk Usage. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/kdf.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdf",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdf"
-  },
-  {
-    "icon": "kdialog.png",
-    "name": "kdialog",
-    "description": "Unofficial, a dialog utility. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/kdialog.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdialog",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdialog"
-  },
-  {
-    "icon": "kdiamond.png",
-    "name": "kdiamond",
-    "description": "Unofficial, Diamond game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kdiamond.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdiamond",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdiamond"
-  },
-  {
-    "icon": "keditbookmarks.png",
-    "name": "keditbookmarks",
-    "description": "Unofficial, Bookmarks editor. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/keditbookmarks.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keditbookmarks",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keditbookmarks"
-  },
-  {
-    "icon": "keysmith.png",
-    "name": "keysmith",
-    "description": "Generates tokens for your two-factor logins. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/keysmith.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keysmith",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keysmith"
-  },
-  {
-    "icon": "kfind.png",
-    "name": "kfind",
-    "description": "A search tool. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/kfind.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kfind",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kfind"
-  },
-  {
-    "icon": "kfourinline.png",
-    "name": "kfourinline",
-    "description": "Unofficial, 4 in row game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kfourinline.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kfourinline",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kfourinline"
-  },
-  {
-    "icon": "kgoldrunner.png",
-    "name": "kgoldrunner",
-    "description": "Unofficial, A game with a runner and gold. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kgoldrunner.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kgoldrunner",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kgoldrunner"
-  },
-  {
-    "icon": "kgpg.png",
-    "name": "kgpg",
-    "description": "A GnuPG frontend. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/kgpg.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kgpg",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kgpg"
-  },
-  {
-    "icon": "kigo.png",
-    "name": "kigo",
-    "description": "Unofficial, Go strategic board game for two players. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kigo.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kigo",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kigo"
-  },
-  {
-    "icon": "killbots.png",
-    "name": "killbots",
-    "description": "Unofficial, Port of the classic console game Robots. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/killbots.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/killbots",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/killbots"
-  },
-  {
-    "icon": "kiriki.png",
-    "name": "kiriki",
-    "description": "A dice game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kiriki.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kiriki",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kiriki"
-  },
-  {
-    "icon": "kjumpingcube.png",
-    "name": "kjumpingcube",
-    "description": "A game of dices on a board. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kjumpingcube.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kjumpingcube",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kjumpingcube"
-  },
-  {
-    "icon": "klickety.png",
-    "name": "klickety",
-    "description": "Color matching like SameGame. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/klickety.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/klickety",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/klickety"
-  },
-  {
-    "icon": "klines.png",
-    "name": "klines",
-    "description": "Inspired by well known game of Color Lines. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/klines.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/klines",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/klines"
-  },
-  {
-    "icon": "kmahjongg.png",
-    "name": "kmahjongg",
-    "description": "Unofficial, Mahjongg game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kmahjongg.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kmahjongg",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kmahjongg"
-  },
-  {
-    "icon": "kmines.png",
-    "name": "kmines",
-    "description": "Unofficial, Classic mine game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kmines.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kmines",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kmines"
-  },
-  {
-    "icon": "kmymoney.png",
-    "name": "kmymoney",
-    "description": "KMyMoney is a cross-platform personal finance manager build on KDE frameworks technologies for your desktop and notebook environment.",
-    "app_page": "apps/kmymoney.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kmymoney",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kmymoney"
-  },
-  {
-    "icon": "knavalbattle.png",
-    "name": "knavalbattle",
-    "description": "Unofficial, Battle Ship game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/knavalbattle.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/knavalbattle",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/knavalbattle"
-  },
-  {
-    "icon": "knetwalk.png",
-    "name": "knetwalk",
-    "description": "Unofficial, Net constructing game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/knetwalk.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/knetwalk",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/knetwalk"
-  },
-  {
-    "icon": "knights.png",
-    "name": "knights",
-    "description": "Unofficial, Chess interface for the KDE Platform. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/knights.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/knights",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/knights"
-  },
-  {
-    "icon": "kolf.png",
-    "name": "kolf",
-    "description": "Unofficial, Mini Golf game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kolf.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kolf",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kolf"
-  },
-  {
-    "icon": "kollision.png",
-    "name": "kollision",
-    "description": "Unofficial, Dodge red balls in the field. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kollision.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kollision",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kollision"
-  },
-  {
-    "icon": "kongress.png",
-    "name": "kongress",
-    "description": "Unofficial, A companion application for conferences. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/kongress.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kongress",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kongress"
-  },
-  {
-    "icon": "konquest.png",
-    "name": "konquest",
-    "description": "Game of planets. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/konquest.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/konquest",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/konquest"
-  },
-  {
-    "icon": "kpat.png",
-    "name": "kpat",
-    "description": "Unofficial, Klondike, Spider, Free Cell and other Solitaire. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kpat.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kpat",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kpat"
-  },
-  {
-    "icon": "krecorder.png",
-    "name": "krecorder",
-    "description": "Unofficial, An audio recording application. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/krecorder.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/krecorder",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/krecorder"
-  },
-  {
-    "icon": "kreversi.png",
-    "name": "kreversi",
-    "description": "Reversi game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kreversi.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kreversi",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kreversi"
-  },
-  {
-    "icon": "kshisen.png",
-    "name": "kshisen",
-    "description": "A game similar to Mahjongg. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kshisen.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kshisen",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kshisen"
-  },
-  {
-    "icon": "ksirk.png",
-    "name": "ksirk",
-    "description": "A strategy board game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/ksirk.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ksirk",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ksirk"
-  },
-  {
-    "icon": "ksnakeduel.png",
-    "name": "ksnakeduel",
-    "description": "A snake race game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/ksnakeduel.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ksnakeduel",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ksnakeduel"
-  },
-  {
-    "icon": "kspaceduel.png",
-    "name": "kspaceduel",
-    "description": "Unofficial, Battleship with satellites in the space. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kspaceduel.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kspaceduel",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kspaceduel"
-  },
-  {
-    "icon": "ksquares.png",
-    "name": "ksquares",
-    "description": "Unofficial, Win with most number of completed squares. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/ksquares.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ksquares",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ksquares"
-  },
-  {
-    "icon": "ksudoku.png",
-    "name": "ksudoku",
-    "description": "Unofficial, Sudoku game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/ksudoku.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ksudoku",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ksudoku"
-  },
-  {
-    "icon": "kteatime.png",
-    "name": "kteatime",
-    "description": "Unofficial, A handy timer for steeping tea. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/kteatime.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kteatime",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kteatime"
-  },
-  {
-    "icon": "ktimer.png",
-    "name": "ktimer",
-    "description": "Unofficial, Countdown Launcher. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/ktimer.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ktimer",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ktimer"
-  },
-  {
-    "icon": "ktrip.png",
-    "name": "ktrip",
-    "description": "Unofficial, KTrip helps you navigate in public transport. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/ktrip.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ktrip",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ktrip"
-  },
-  {
-    "icon": "ktuberling.png",
-    "name": "ktuberling",
-    "description": "Unofficial, Simple Mr. Potato game for children. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/ktuberling.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ktuberling",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ktuberling"
-  },
-  {
-    "icon": "kubrick.png",
-    "name": "kubrick",
-    "description": "Unofficial, A logic game based on Rubik's Cube. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kubrick.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kubrick",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kubrick"
-  },
-  {
-    "icon": "kwave.png",
-    "name": "kwave",
-    "description": "A sound & audio editor designed for the KDE Desktop Environment.",
-    "app_page": "apps/kwave.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kwave",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kwave"
-  },
-  {
-    "icon": "kweather.png",
-    "name": "kweather",
-    "description": "A convergent weather application. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/kweather.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kweather",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kweather"
-  },
-  {
-    "icon": "kwrite.png",
-    "name": "kwrite",
-    "description": "Unofficial, KWrite is a text editor by KDE. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/kwrite.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kwrite",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kwrite"
-  },
-  {
-    "icon": "lskat.png",
-    "name": "lskat",
-    "description": "Unofficial, Fun and engaging card game for two players. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/lskat.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lskat",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lskat"
-  },
-  {
-    "icon": "palapeli.png",
-    "name": "palapeli",
-    "description": "Jigsaw puzzle game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/palapeli.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/palapeli",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/palapeli"
-  },
-  {
-    "icon": "picmi.png",
-    "name": "picmi",
-    "description": "Single player logic-based puzzle game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/picmi.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picmi",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picmi"
-  },
-  {
-    "icon": "skanpage.png",
-    "name": "skanpage",
-    "description": "A simple scanning application. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/skanpage.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/skanpage",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/skanpage"
-  },
-  {
-    "icon": "subtitle-composer.png",
-    "name": "subtitle-composer",
-    "description": "KF5/Qt Video Subtitle Editor for KDE.",
-    "app_page": "apps/subtitle-composer.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/subtitle-composer",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/subtitle-composer"
-  },
-  {
-    "icon": "sweeper.png",
-    "name": "sweeper",
-    "description": "Unofficial. System Cleaner. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/sweeper.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sweeper",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sweeper"
-  },
-  {
-    "icon": "telly-skout.png",
-    "name": "telly-skout",
-    "description": "A convergent Kirigami TV guide. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/telly-skout.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/telly-skout",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/telly-skout"
-  },
-  {
-    "icon": "xapkdetector.png",
-    "name": "xapkdetector",
-    "description": "APK/DEX detector that shows an information about build tools, libraries and protection of APK/DEX files.",
-    "app_page": "apps/xapkdetector.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xapkdetector",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xapkdetector"
-  }
+{"name":"ark","description":"Archiving tool for .zip/.tar/.rar and more. This is part of \"kdeutils\"."},
+{"name":"bomber","description":"Arcade spaceship game. This is part of \"kdegames\"."},
+{"name":"bovo","description":"Five in a row game from. This is part of \"kdegames\"."},
+{"name":"calligra","description":"Calligra Suite is an office and graphic art suite by KDE. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases."},
+{"name":"falkon","description":"Unofficial. A fast Qt web browser from KDE."},
+{"name":"filelight","description":"Unofficial. View disk usage information, by KDE."},
+{"name":"francis","description":"Pomodoro technique, get more productive. This is part of \"kdeutils\"."},
+{"name":"granatier","description":"Bomberman clone. This is part of \"kdegames\"."},
+{"name":"gwenview","description":"Unofficial. Fast and easy to use image viewer by KDE. ideal for displaying a collection of images."},
+{"name":"isoimagewriter","description":"Write an ISO Image to a USB Disk. This is part of \"kdeutils\"."},
+{"name":"kajongg","description":"An ancient Chinese board game for 4 players. This is part of \"kdegames\"."},
+{"name":"kalm","description":"Teach you different breathing techniques. This is part of \"kdeutils\"."},
+{"name":"kapman","description":"Pac-Man clone. This is part of \"kdegames\"."},
+{"name":"kate","description":"A multi-document editor part of KDE. This is part of \"kdeutils\"."},
+{"name":"katomic","description":"Edu. game based around molecular geometry. This is part of \"kdegames\"."},
+{"name":"kbackup","description":"Back up your data. This is part of \"kdeutils\"."},
+{"name":"kblackbox","description":"A game of hide and seek. This is part of \"kdegames\"."},
+{"name":"kblocks","description":"Classic Tetris / falling blocks game. This is part of \"kdegames\"."},
+{"name":"kbounce","description":"Fill the field game. This is part of \"kdegames\"."},
+{"name":"kbreakout","description":"Destroy bricks without losing the ball. This is part of \"kdegames\"."},
+{"name":"kcalc","description":"Scientific Calculator. This is part of \"kdeutils\"."},
+{"name":"kcharselect","description":"Character Selector. This is part of \"kdeutils\"."},
+{"name":"kclock","description":"A universal clock application. This is part of \"kdeutils\"."},
+{"name":"kdebugsettings","description":"Edits displayed QLoggingCategory. This is part of \"kdeutils\"."},
+{"name":"kdeconnect","description":"Unofficial, A project that enables all your Android devices to communicate with each other."},
+{"name":"kdegames","description":"Unofficial, Full & updatable KDE Games suite, metapackage."},
+{"name":"kdenlive","description":"A powerful Video Editor provided by KDE."},
+{"name":"kdenlive-daily","description":"A powerful Video Editor provided by KDE (daily builds)."},
+{"name":"kdenlive-enhanced","description":"Unofficial AppImage of Kdenlive Video Editor which is able to work on any linux distro."},
+{"name":"kdeutils","description":"Unofficial, Full & updatable KDE Utils suite, metapackage."},
+{"name":"kdf","description":"view Disk Usage. This is part of \"kdeutils\"."},
+{"name":"kdialog","description":"a dialog utility. This is part of \"kdeutils\"."},
+{"name":"kdiamond","description":"Diamond game. This is part of \"kdegames\"."},
+{"name":"keditbookmarks","description":"Bookmarks editor. This is part of \"kdeutils\"."},
+{"name":"keysmith","description":"Generates tokens for your two-factor logins. This is part of \"kdeutils\"."},
+{"name":"kfind","description":"A search tool. This is part of \"kdeutils\"."},
+{"name":"kfourinline","description":"4 in row game. This is part of \"kdegames\"."},
+{"name":"kgoldrunner","description":"A game with a runner and gold. This is part of \"kdegames\"."},
+{"name":"kgpg","description":"A GnuPG frontend. This is part of \"kdeutils\"."},
+{"name":"kigo","description":"Go strategic board game for two players. This is part of \"kdegames\"."},
+{"name":"killbots","description":"Port of the classic console game Robots. This is part of \"kdegames\"."},
+{"name":"kiriki","description":"A dice game. This is part of \"kdegames\"."},
+{"name":"kjumpingcube","description":"A game of dices on a board. This is part of \"kdegames\"."},
+{"name":"klickety","description":"Color matching like SameGame. This is part of \"kdegames\"."},
+{"name":"klines","description":"Inspired by well known game of Color Lines. This is part of \"kdegames\"."},
+{"name":"kmahjongg","description":"Mahjongg game. This is part of \"kdegames\"."},
+{"name":"kmines","description":"Classic mine game. This is part of \"kdegames\"."},
+{"name":"kmymoney","description":"KMyMoney is a cross-platform personal finance manager build on KDE frameworks technologies for your desktop and notebook environment."},
+{"name":"knavalbattle","description":"Battle Ship game. This is part of \"kdegames\"."},
+{"name":"knetwalk","description":"Net constructing game. This is part of \"kdegames\"."},
+{"name":"knights","description":"Unofficial, KDE's chess game frontend."},
+{"name":"kolf","description":"Mini Golf game. This is part of \"kdegames\"."},
+{"name":"kollision","description":"Dodge red balls in the field. This is part of \"kdegames\"."},
+{"name":"kongress","description":"A companion application for conferences. This is part of \"kdeutils\"."},
+{"name":"konquest","description":"Game of planets. This is part of \"kdegames\"."},
+{"name":"kpat","description":"Klondike, Spider, Free Cell and other Solitaire. This is part of \"kdegames\"."},
+{"name":"krecorder","description":"An audio recording application. This is part of \"kdeutils\"."},
+{"name":"kreversi","description":"Reversi game. This is part of \"kdegames\"."},
+{"name":"kshisen","description":"A game similar to Mahjongg. This is part of \"kdegames\"."},
+{"name":"ksirk","description":"A strategy board game. This is part of \"kdegames\"."},
+{"name":"ksnakeduel","description":"A snake race game. This is part of \"kdegames\"."},
+{"name":"kspaceduel","description":"Battleship with satellites in the space. This is part of \"kdegames\"."},
+{"name":"ksquares","description":"Win with most number of completed squares. This is part of \"kdegames\"."},
+{"name":"ksudoku","description":"Sudoku game. This is part of \"kdegames\"."},
+{"name":"kteatime","description":"A handy timer for steeping tea. This is part of \"kdeutils\"."},
+{"name":"ktimer","description":"Countdown Launcher. This is part of \"kdeutils\"."},
+{"name":"ktrip","description":"KTrip helps you navigate in public transport. This is part of \"kdeutils\"."},
+{"name":"ktuberling","description":"Simple Mr. Potato game for children. This is part of \"kdegames\"."},
+{"name":"kubrick","description":"A logic game based on Rubik's Cube. This is part of \"kdegames\"."},
+{"name":"kwave","description":"A sound & audio editor designed for the KDE Desktop Environment."},
+{"name":"kweather","description":"A convergent weather application. This is part of \"kdeutils\"."},
+{"name":"kwrite","description":"KWrite is a text editor by KDE. This is part of \"kdeutils\"."},
+{"name":"lskat","description":"Fun and engaging card game for two players. This is part of \"kdegames\"."},
+{"name":"palapeli","description":"Jigsaw puzzle game. This is part of \"kdegames\"."},
+{"name":"picmi","description":"Single player logic-based puzzle game. This is part of \"kdegames\"."},
+{"name":"skanpage","description":"A simple scanning application. This is part of \"kdeutils\"."},
+{"name":"subtitle-composer","description":"KF5/Qt Video Subtitle Editor for KDE."},
+{"name":"sweeper","description":"System Cleaner. This is part of \"kdeutils\"."},
+{"name":"telly-skout","description":"A convergent Kirigami TV guide. This is part of \"kdeutils\"."},
+{"name":"xapkdetector","description":"APK/DEX detector that shows an information about build tools, libraries and protection of APK/DEX files."}
 ]

@@ -1,8 +1,1 @@
-{
-  "name": "slippi",
-  "description": "Slippi Launcher program for browsing and playing replays.",
-  "sites": [
-    "https://github.com/project-slippi/slippi-desktop-app"
-  ],
-  "sources": []
-}
+{"name":"slippi","description":"Slippi Launcher program for browsing and playing replays.","sites":["https://github.com/project-slippi/slippi-desktop-app"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "clementineremote",
-  "description": "Remote for Clementine Music Player",
-  "sites": [
-    "https://github.com/mbruel/ClementineRemote"
-  ],
-  "sources": []
-}
+{"name":"clementineremote","description":"Remote for Clementine Music Player","sites":["https://github.com/mbruel/ClementineRemote"],"sources":[]}

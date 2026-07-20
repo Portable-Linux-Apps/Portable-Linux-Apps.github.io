@@ -1,8 +1,1 @@
-{
-  "name": "wkp",
-  "description": "A CLI tool designed to fetch Wikipedia excerpts written in Rust.",
-  "sites": [
-    "https://github.com/Idontknow13/wkp"
-  ],
-  "sources": []
-}
+{"name":"wkp","description":"A CLI tool designed to fetch Wikipedia excerpts written in Rust.","sites":["https://github.com/Idontknow13/wkp"],"sources":[]}

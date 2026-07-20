@@ -1,8 +1,1 @@
-{
-  "name": "rmw",
-  "description": "A safe-remove utility for the command line.",
-  "sites": [
-    "https://theimpossibleastronaut.github.io/rmw-website"
-  ],
-  "sources": []
-}
+{"name":"rmw","description":"A safe-remove utility for the command line.","sites":["https://theimpossibleastronaut.github.io/rmw-website"],"sources":[]}

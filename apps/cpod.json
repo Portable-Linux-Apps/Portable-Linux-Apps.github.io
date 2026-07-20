@@ -1,8 +1,1 @@
-{
-  "name": "cpod",
-  "description": "A simple, beautiful podcast app.",
-  "sites": [
-    "https://github.com/z-------------/CPod"
-  ],
-  "sources": []
-}
+{"name":"cpod","description":"A simple, beautiful podcast app.","sites":["https://github.com/z-------------/CPod"],"sources":[]}

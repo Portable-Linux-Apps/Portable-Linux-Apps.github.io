@@ -1,8 +1,1 @@
-{
-  "name": "orcaslicer",
-  "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig,  Creality, etc.).\n \n This is the latest Stable release.",
-  "sites": [
-    "https://github.com/OrcaSlicer/OrcaSlicer"
-  ],
-  "sources": []
-}
+{"name":"orcaslicer","description":"G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig,  Creality, etc.).\n \n This is the latest Stable release.","sites":["https://github.com/OrcaSlicer/OrcaSlicer"],"sources":[]}

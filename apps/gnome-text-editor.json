@@ -1,8 +1,1 @@
-{
-  "name": "gnome-text-editor",
-  "description": "Unofficial AppImage of the Gnome's Text Editor application.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Gnome-Text-Editor-AppImage"
-  ],
-  "sources": []
-}
+{"name":"gnome-text-editor","description":"Unofficial AppImage of the Gnome's Text Editor application.","sites":["https://github.com/pkgforge-dev/Gnome-Text-Editor-AppImage"],"sources":[]}

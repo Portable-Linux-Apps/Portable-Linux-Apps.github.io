@@ -1,8 +1,1 @@
-{
-  "name": "sozi",
-  "description": "A \"zooming\" presentation editor",
-  "sites": [
-    "https://github.com/sozi-projects/Sozi"
-  ],
-  "sources": []
-}
+{"name":"sozi","description":"A \"zooming\" presentation editor","sites":["https://github.com/sozi-projects/Sozi"],"sources":[]}

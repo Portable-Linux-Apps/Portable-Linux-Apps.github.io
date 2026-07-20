@@ -1,8 +1,1 @@
-{
-  "name": "helium",
-  "description": "Private, fast, and honest Chromium-based web browser made for people.",
-  "sites": [
-    "https://github.com/imputnet/helium-linux"
-  ],
-  "sources": []
-}
+{"name":"helium","description":"Private, fast, and honest Chromium-based web browser made for people.","sites":["https://github.com/imputnet/helium-linux"],"sources":[]}

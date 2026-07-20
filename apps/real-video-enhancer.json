@@ -1,8 +1,1 @@
-{
-  "name": "real-video-enhancer",
-  "description": "Interpolate and Upscale easily on Linux/MacOS/Windows.",
-  "sites": [
-    "https://github.com/TNTwise/REAL-Video-Enhancer"
-  ],
-  "sources": []
-}
+{"name":"real-video-enhancer","description":"Interpolate and Upscale easily on Linux/MacOS/Windows.","sites":["https://github.com/TNTwise/REAL-Video-Enhancer"],"sources":[]}

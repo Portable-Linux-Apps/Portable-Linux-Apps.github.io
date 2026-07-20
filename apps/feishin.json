@@ -1,8 +1,1 @@
-{
-  "name": "feishin",
-  "description": "Sonixd Rewrite, a desktop music player.",
-  "sites": [
-    "https://github.com/jeffvli/feishin"
-  ],
-  "sources": []
-}
+{"name":"feishin","description":"Sonixd Rewrite, a desktop music player.","sites":["https://github.com/jeffvli/feishin"],"sources":[]}

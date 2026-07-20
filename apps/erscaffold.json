@@ -1,8 +1,1 @@
-{
-  "name": "erscaffold",
-  "description": "code generator for websites",
-  "sites": [
-    "https://github.com/fxdave/ERScaffold"
-  ],
-  "sources": []
-}
+{"name":"erscaffold","description":"code generator for websites","sites":["https://github.com/fxdave/ERScaffold"],"sources":[]}

@@ -1,522 +1,65 @@
 [
-  {
-    "icon": "actual.png",
-    "name": "actual",
-    "description": "A super fast privacy-focused app for managing your finances.",
-    "app_page": "apps/actual.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/actual",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/actual"
-  },
-  {
-    "icon": "alephium-wallet.png",
-    "name": "alephium-wallet",
-    "description": "The official Alephium wallet for desktop.",
-    "app_page": "apps/alephium-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alephium-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alephium-wallet"
-  },
-  {
-    "icon": "altitude.png",
-    "name": "altitude",
-    "description": "The Altitude wallet by Linda Project Inc.",
-    "app_page": "apps/altitude.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/altitude",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/altitude"
-  },
-  {
-    "icon": "anchor.png",
-    "name": "anchor",
-    "description": "An EOSIO Light Wallet with simple and advanced tools.",
-    "app_page": "apps/anchor.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/anchor",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/anchor"
-  },
-  {
-    "icon": "animecoin.png",
-    "name": "animecoin",
-    "description": "Animecoin is a free open source peer-to-peer electronic cash system that is completely decentralized, without the need for a central server or trusted parties. Users hold the crypto keys to their own money and transact directly with each other, with the help of a P2P network to check for double-spending.",
-    "app_page": "apps/animecoin.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/animecoin",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/animecoin"
-  },
-  {
-    "icon": "aphelion-wallet.png",
-    "name": "aphelion-wallet",
-    "description": "Aphelion desktop wallet application built with Electron.",
-    "app_page": "apps/aphelion-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aphelion-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aphelion-wallet"
-  },
-  {
-    "icon": "ark.desktop.wallet.png",
-    "name": "ark.desktop.wallet",
-    "description": "Ark Ecosystem Desktop Wallet.",
-    "app_page": "apps/ark.desktop.wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ark.desktop.wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ark.desktop.wallet"
-  },
-  {
-    "icon": "asgardex.png",
-    "name": "asgardex",
-    "description": "Thorchain wallet desktop app.",
-    "app_page": "apps/asgardex.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/asgardex",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/asgardex"
-  },
-  {
-    "icon": "atomicwallet.png",
-    "name": "atomicwallet",
-    "description": "Atomic vue-electron.",
-    "app_page": "apps/atomicwallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/atomicwallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/atomicwallet"
-  },
-  {
-    "icon": "axe-electrum.png",
-    "name": "axe-electrum",
-    "description": "Axe Electrum Wallet.",
-    "app_page": "apps/axe-electrum.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/axe-electrum",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/axe-electrum"
-  },
-  {
-    "icon": "beam-wallet.png",
-    "name": "beam-wallet",
-    "description": "Beam Desktop Wallet.",
-    "app_page": "apps/beam-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beam-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beam-wallet"
-  },
-  {
-    "icon": "bitbox-wallet.png",
-    "name": "bitbox-wallet",
-    "description": "Cryptocurrency hardware wallet desktop app.",
-    "app_page": "apps/bitbox-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bitbox-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bitbox-wallet"
-  },
-  {
-    "icon": "bitshares.png",
-    "name": "bitshares",
-    "description": "Advanced wallet interface for the BitShares financial blockchain.",
-    "app_page": "apps/bitshares.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bitshares",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bitshares"
-  },
-  {
-    "icon": "blockstream-green.png",
-    "name": "blockstream-green",
-    "description": "Bitcoin wallet compatible with Blockstream Jade.",
-    "app_page": "apps/blockstream-green.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/blockstream-green",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/blockstream-green"
-  },
-  {
-    "icon": "cake-wallet.png",
-    "name": "cake-wallet",
-    "description": "Easily and safely store, send, receive, and exchange your cryptocurrency.",
-    "app_page": "apps/cake-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cake-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cake-wallet"
-  },
-  {
-    "icon": "cashonize.png",
-    "name": "cashonize",
-    "description": "A cross-platform Bitcoin Cash Wallet.",
-    "app_page": "apps/cashonize.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cashonize",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cashonize"
-  },
-  {
-    "icon": "chain-desktop-wallet.png",
-    "name": "chain-desktop-wallet",
-    "description": "Crypto.com DeFi Desktop Wallet.",
-    "app_page": "apps/chain-desktop-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chain-desktop-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chain-desktop-wallet"
-  },
-  {
-    "icon": "concordium-desktop-wallet.png",
-    "name": "concordium-desktop-wallet",
-    "description": "The official Concordium Dektop Wallet.",
-    "app_page": "apps/concordium-desktop-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/concordium-desktop-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/concordium-desktop-wallet"
-  },
-  {
-    "icon": "cro-chain-desktop-bin.png",
-    "name": "cro-chain-desktop-bin",
-    "description": "Crypto.com DeFi Desktop Wallet, AppImage version.",
-    "app_page": "apps/cro-chain-desktop-bin.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cro-chain-desktop-bin",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cro-chain-desktop-bin"
-  },
-  {
-    "icon": "dbet-wallet.png",
-    "name": "dbet-wallet",
-    "description": "DBET Wallet.",
-    "app_page": "apps/dbet-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dbet-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dbet-wallet"
-  },
-  {
-    "icon": "defichain-app.png",
-    "name": "defichain-app",
-    "description": "DefiChain Wallet AppImage.",
-    "app_page": "apps/defichain-app.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/defichain-app",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/defichain-app"
-  },
-  {
-    "icon": "electrumsvp.png",
-    "name": "electrumsvp",
-    "description": "Bitcoin BSV wallet, fork of ElectrumSV.",
-    "app_page": "apps/electrumsvp.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electrumsvp",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electrumsvp"
-  },
-  {
-    "icon": "elphyre-walletshell.png",
-    "name": "elphyre-walletshell",
-    "description": "Elphyrecoin GUI Wallet.",
-    "app_page": "apps/elphyre-walletshell.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elphyre-walletshell",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elphyre-walletshell"
-  },
-  {
-    "icon": "eqonomize.png",
-    "name": "eqonomize",
-    "description": "Manage your personal finances.",
-    "app_page": "apps/eqonomize.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eqonomize",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eqonomize"
-  },
-  {
-    "icon": "eximchain-wallet.png",
-    "name": "eximchain-wallet",
-    "description": "Eximchain Wallet web and electron app.",
-    "app_page": "apps/eximchain-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eximchain-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eximchain-wallet"
-  },
-  {
-    "icon": "exodus.png",
-    "name": "exodus",
-    "description": "Send, receive & exchange cryptocurrency. Bitcoin wallet.",
-    "app_page": "apps/exodus.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/exodus",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/exodus"
-  },
-  {
-    "icon": "fat-wallet.png",
-    "name": "fat-wallet",
-    "description": "Wallet for FAT tokens.",
-    "app_page": "apps/fat-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fat-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fat-wallet"
-  },
-  {
-    "icon": "feather-wallet.png",
-    "name": "feather-wallet",
-    "description": "Monero wallet.",
-    "app_page": "apps/feather-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/feather-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/feather-wallet"
-  },
-  {
-    "icon": "firefly-desktop.png",
-    "name": "firefly-desktop",
-    "description": "The official IOTA and Shimmer wallet.",
-    "app_page": "apps/firefly-desktop.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firefly-desktop",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firefly-desktop"
-  },
-  {
-    "icon": "frame-eth-dev.png",
-    "name": "frame-eth-dev",
-    "description": "A privacy focused Ethereum wallet.",
-    "app_page": "apps/frame-eth-dev.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/frame-eth-dev",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/frame-eth-dev"
-  },
-  {
-    "icon": "grinplusplus.png",
-    "name": "grinplusplus",
-    "description": "A C++ Grin Node & Wallet.",
-    "app_page": "apps/grinplusplus.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/grinplusplus",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/grinplusplus"
-  },
-  {
-    "icon": "guarda.png",
-    "name": "guarda",
-    "description": "A secure, easy-to-use open source multi-platform cryptocurrency wallet.",
-    "app_page": "apps/guarda.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/guarda",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/guarda"
-  },
-  {
-    "icon": "keepkey-desktop.png",
-    "name": "keepkey-desktop",
-    "description": "An all-in-one suite for using your KeepKey hardware wallet.",
-    "app_page": "apps/keepkey-desktop.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keepkey-desktop",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keepkey-desktop"
-  },
-  {
-    "icon": "keibo-moneytracker-x86-64.png",
-    "name": "keibo-moneytracker-x86-64",
-    "description": "Track your income and expenses easily.",
-    "app_page": "apps/keibo-moneytracker-x86-64.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keibo-moneytracker-x86-64",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keibo-moneytracker-x86-64"
-  },
-  {
-    "icon": "kmymoney.png",
-    "name": "kmymoney",
-    "description": "KMyMoney is a cross-platform personal finance manager build on KDE frameworks technologies for your desktop and notebook environment.",
-    "app_page": "apps/kmymoney.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kmymoney",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kmymoney"
-  },
-  {
-    "icon": "lbry-desktop.png",
-    "name": "lbry-desktop",
-    "description": "A browser and wallet for LBRY.",
-    "app_page": "apps/lbry-desktop.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lbry-desktop",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lbry-desktop"
-  },
-  {
-    "icon": "ledger-live-desktop.png",
-    "name": "ledger-live-desktop",
-    "description": "Ledger Wallet crypto app. Secure your crypto assets such as Bitcoin, Ethereum, XRP, Monero, and more. Give yourself peace of mind by knowing that your cryptocurrencies are safe.",
-    "app_page": "apps/ledger-live-desktop.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ledger-live-desktop",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ledger-live-desktop"
-  },
-  {
-    "icon": "lescovex.png",
-    "name": "lescovex",
-    "description": "Lescovex decentralized exchange, wallet and contract issuer.",
-    "app_page": "apps/lescovex.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lescovex",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lescovex"
-  },
-  {
-    "icon": "lightning.png",
-    "name": "lightning",
-    "description": "Lightning Wallet Application.",
-    "app_page": "apps/lightning.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lightning",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lightning"
-  },
-  {
-    "icon": "lightning-peach-wallet.png",
-    "name": "lightning-peach-wallet",
-    "description": "Wallet for lightning network",
-    "app_page": "apps/lightning-peach-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lightning-peach-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lightning-peach-wallet"
-  },
-  {
-    "icon": "mdl.png",
-    "name": "mdl",
-    "description": "MDL wallet.",
-    "app_page": "apps/mdl.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mdl",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mdl"
-  },
-  {
-    "icon": "mytonwallet.png",
-    "name": "mytonwallet",
-    "description": "Feature-rich web wallet and browser extension for TON Network.",
-    "app_page": "apps/mytonwallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mytonwallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mytonwallet"
-  },
-  {
-    "icon": "nanovault.png",
-    "name": "nanovault",
-    "description": "Wallet for interacting with Nano.",
-    "app_page": "apps/nanovault.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nanovault",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nanovault"
-  },
-  {
-    "icon": "neon.png",
-    "name": "neon",
-    "description": "Light wallet for NEO blockchain.",
-    "app_page": "apps/neon.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neon",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neon"
-  },
-  {
-    "icon": "nexus-wallet.png",
-    "name": "nexus-wallet",
-    "description": "Official interface layers of the Nexus Software Stack.",
-    "app_page": "apps/nexus-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nexus-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nexus-wallet"
-  },
-  {
-    "icon": "niffler.png",
-    "name": "niffler",
-    "description": "A grin gui wallet.",
-    "app_page": "apps/niffler.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/niffler",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/niffler"
-  },
-  {
-    "icon": "nix-bucks.png",
-    "name": "nix-bucks",
-    "description": "A money tracker. Your income and expenses at your control. Finance.",
-    "app_page": "apps/nix-bucks.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nix-bucks",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nix-bucks"
-  },
-  {
-    "icon": "nunchuk.png",
-    "name": "nunchuk",
-    "description": "Desktop bitcoin wallet with multisig, hardware, nfc and air-gapped key support.",
-    "app_page": "apps/nunchuk.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nunchuk",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nunchuk"
-  },
-  {
-    "icon": "nym-wallet.png",
-    "name": "nym-wallet",
-    "description": "Use the Nym network and take advantage of it.",
-    "app_page": "apps/nym-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nym-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nym-wallet"
-  },
-  {
-    "icon": "onekey-wallet.png",
-    "name": "onekey-wallet",
-    "description": "Open source crypto wallet.",
-    "app_page": "apps/onekey-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/onekey-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/onekey-wallet"
-  },
-  {
-    "icon": "owallet.png",
-    "name": "owallet",
-    "description": "A comprehensive Ontology desktop wallet.",
-    "app_page": "apps/owallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/owallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/owallet"
-  },
-  {
-    "icon": "oxen-gui-wallet.png",
-    "name": "oxen-gui-wallet",
-    "description": "Oxen electron GUI wallet.",
-    "app_page": "apps/oxen-gui-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/oxen-gui-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/oxen-gui-wallet"
-  },
-  {
-    "icon": "parallelcoin.png",
-    "name": "parallelcoin",
-    "description": "Parallelcoin qt wallet appimage binary.",
-    "app_page": "apps/parallelcoin.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/parallelcoin",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/parallelcoin"
-  },
-  {
-    "icon": "parity-fether.png",
-    "name": "parity-fether",
-    "description": "Fether Wallet.",
-    "app_page": "apps/parity-fether.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/parity-fether",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/parity-fether"
-  },
-  {
-    "icon": "radix-wallet.png",
-    "name": "radix-wallet",
-    "description": "Radix DLT desktop wallet.",
-    "app_page": "apps/radix-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/radix-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/radix-wallet"
-  },
-  {
-    "icon": "ryowallet.png",
-    "name": "ryowallet",
-    "description": "Modern GUI interface for Ryo Currency.",
-    "app_page": "apps/ryowallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ryowallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ryowallet"
-  },
-  {
-    "icon": "sheikah.png",
-    "name": "sheikah",
-    "description": "A Witnet compatible desktop wallet.",
-    "app_page": "apps/sheikah.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sheikah",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sheikah"
-  },
-  {
-    "icon": "simpleos.png",
-    "name": "simpleos",
-    "description": "EOS Blockchain Interface & Wallet.",
-    "app_page": "apps/simpleos.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/simpleos",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/simpleos"
-  },
-  {
-    "icon": "solarwallet.png",
-    "name": "solarwallet",
-    "description": "Stellar wallet. Secure and user-friendly.",
-    "app_page": "apps/solarwallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/solarwallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/solarwallet"
-  },
-  {
-    "icon": "spark-wallet.png",
-    "name": "spark-wallet",
-    "description": "A wallet GUI for c-lightning, accessible over web/mobile/pc.",
-    "app_page": "apps/spark-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spark-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spark-wallet"
-  },
-  {
-    "icon": "stack-wallet.png",
-    "name": "stack-wallet",
-    "description": "Stack Wallet, a multicoin, cryptocurrency wallet.",
-    "app_page": "apps/stack-wallet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stack-wallet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stack-wallet"
-  },
-  {
-    "icon": "trinity-desktop.png",
-    "name": "trinity-desktop",
-    "description": "Desktop wallet for IOTA.",
-    "app_page": "apps/trinity-desktop.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trinity-desktop",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trinity-desktop"
-  },
-  {
-    "icon": "verto.png",
-    "name": "verto",
-    "description": "A multi-currency crypto wallet with support for EOS & VTX.",
-    "app_page": "apps/verto.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/verto",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/verto"
-  },
-  {
-    "icon": "wallettech.png",
-    "name": "wallettech",
-    "description": "BytechCoin GUI Wallet.",
-    "app_page": "apps/wallettech.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wallettech",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wallettech"
-  },
-  {
-    "icon": "whirlpool-gui.png",
-    "name": "whirlpool-gui",
-    "description": "Desktop GUI for Whirlpool by Samourai-Wallet.",
-    "app_page": "apps/whirlpool-gui.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whirlpool-gui",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whirlpool-gui"
-  }
+{"name":"actual","description":"A super fast privacy-focused app for managing your finances."},
+{"name":"alephium-wallet","description":"The official Alephium wallet for desktop."},
+{"name":"altitude","description":"The Altitude wallet by Linda Project Inc."},
+{"name":"anchor","description":"An EOSIO Light Wallet with simple and advanced tools."},
+{"name":"animecoin","description":"Animecoin is a free open source peer-to-peer electronic cash system that is completely decentralized, without the need for a central server or trusted parties. Users hold the crypto keys to their own money and transact directly with each other, with the help of a P2P network to check for double-spending."},
+{"name":"aphelion-wallet","description":"Aphelion desktop wallet application built with Electron."},
+{"name":"ark.desktop.wallet","description":"Ark Ecosystem Desktop Wallet."},
+{"name":"asgardex","description":"Thorchain wallet desktop app."},
+{"name":"atomicwallet","description":"Atomic vue-electron."},
+{"name":"axe-electrum","description":"Axe Electrum Wallet."},
+{"name":"bitbox-wallet","description":"Cryptocurrency hardware wallet desktop app."},
+{"name":"bitshares","description":"Advanced wallet interface for the BitShares financial blockchain."},
+{"name":"blockstream-green","description":"Bitcoin wallet compatible with Blockstream Jade."},
+{"name":"cake-wallet","description":"Easily and safely store, send, receive, and exchange your cryptocurrency."},
+{"name":"cashonize","description":"A cross-platform Bitcoin Cash Wallet."},
+{"name":"chain-desktop-wallet","description":"Crypto.com DeFi Desktop Wallet."},
+{"name":"concordium-desktop-wallet","description":"The official Concordium Dektop Wallet."},
+{"name":"cro-chain-desktop-bin","description":"Crypto.com DeFi Desktop Wallet, AppImage version."},
+{"name":"dbet-wallet","description":"DBET Wallet."},
+{"name":"defichain-app","description":"DefiChain Wallet AppImage."},
+{"name":"electrumsvp","description":"Bitcoin BSV wallet, fork of ElectrumSV."},
+{"name":"elphyre-walletshell","description":"Elphyrecoin GUI Wallet."},
+{"name":"eqonomize","description":"Manage your personal finances."},
+{"name":"eximchain-wallet","description":"Eximchain Wallet web and electron app."},
+{"name":"exodus","description":"Send, receive & exchange cryptocurrency. Bitcoin wallet."},
+{"name":"fat-wallet","description":"Wallet for FAT tokens."},
+{"name":"firefly-desktop","description":"The official IOTA and Shimmer wallet."},
+{"name":"frame-eth-dev","description":"A privacy focused Ethereum wallet."},
+{"name":"grinplusplus","description":"A C++ Grin Node & Wallet."},
+{"name":"guarda","description":"A secure, easy-to-use open source multi-platform cryptocurrency wallet."},
+{"name":"keepkey-desktop","description":"An all-in-one suite for using your KeepKey hardware wallet."},
+{"name":"keibo-moneytracker-x86-64","description":"Track your income and expenses easily."},
+{"name":"kmymoney","description":"KMyMoney is a cross-platform personal finance manager build on KDE frameworks technologies for your desktop and notebook environment."},
+{"name":"lbry-desktop","description":"A browser and wallet for LBRY."},
+{"name":"ledger-live-desktop","description":"Ledger Wallet crypto app. Secure your crypto assets such as Bitcoin, Ethereum, XRP, Monero, and more. Give yourself peace of mind by knowing that your cryptocurrencies are safe."},
+{"name":"lescovex","description":"Lescovex decentralized exchange, wallet and contract issuer."},
+{"name":"lightning","description":"Lightning Wallet Application."},
+{"name":"lightning-peach-wallet","description":"Wallet for lightning network"},
+{"name":"mdl","description":"MDL wallet."},
+{"name":"mytonwallet","description":"Feature-rich web wallet and browser extension for TON Network."},
+{"name":"nanovault","description":"Wallet for interacting with Nano."},
+{"name":"neon","description":"Light wallet for NEO blockchain."},
+{"name":"nexus-wallet","description":"Official interface layers of the Nexus Software Stack."},
+{"name":"niffler","description":"A grin gui wallet."},
+{"name":"nix-bucks","description":"A money tracker. Your income and expenses at your control. Finance."},
+{"name":"nunchuk","description":"Desktop bitcoin wallet with multisig, hardware, nfc and air-gapped key support."},
+{"name":"nym-wallet","description":"Use the Nym network and take advantage of it."},
+{"name":"onekey-wallet","description":"Open source crypto wallet."},
+{"name":"owallet","description":"A comprehensive Ontology desktop wallet."},
+{"name":"oxen-gui-wallet","description":"Oxen electron GUI wallet."},
+{"name":"parallelcoin","description":"Parallelcoin qt wallet appimage binary."},
+{"name":"parity-fether","description":"Fether Wallet."},
+{"name":"radix-wallet","description":"Radix DLT desktop wallet."},
+{"name":"ryowallet","description":"Modern GUI interface for Ryo Currency."},
+{"name":"sheikah","description":"A Witnet compatible desktop wallet."},
+{"name":"simpleos","description":"EOS Blockchain Interface & Wallet."},
+{"name":"solarwallet","description":"Stellar wallet. Secure and user-friendly."},
+{"name":"spark-wallet","description":"A wallet GUI for c-lightning, accessible over web/mobile/pc."},
+{"name":"stack-wallet","description":"Stack Wallet, a multicoin, cryptocurrency wallet."},
+{"name":"trinity-desktop","description":"Desktop wallet for IOTA."},
+{"name":"verto","description":"A multi-currency crypto wallet with support for EOS & VTX."},
+{"name":"wallettech","description":"BytechCoin GUI Wallet."},
+{"name":"whirlpool-gui","description":"Desktop GUI for Whirlpool by Samourai-Wallet."}
 ]

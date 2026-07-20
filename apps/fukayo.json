@@ -1,8 +1,1 @@
-{
-  "name": "fukayo",
-  "description": "Manga reader.",
-  "sites": [
-    "https://github.com/JiPaix/Fukayo"
-  ],
-  "sources": []
-}
+{"name":"fukayo","description":"Manga reader.","sites":["https://github.com/JiPaix/Fukayo"],"sources":[]}

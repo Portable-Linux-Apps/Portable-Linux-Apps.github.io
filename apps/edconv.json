@@ -1,8 +1,1 @@
-{
-  "name": "edconv",
-  "description": "A user-friendly FFmpeg GUI.",
-  "sites": [
-    "https://github.com/edneyosf/Edconv"
-  ],
-  "sources": []
-}
+{"name":"edconv","description":"A user-friendly FFmpeg GUI.","sites":["https://github.com/edneyosf/Edconv"],"sources":[]}

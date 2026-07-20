@@ -1,8 +1,1 @@
-{
-  "name": "wives",
-  "description": "A beautiful, modern & feature-rich Terminal Emulator",
-  "sites": [
-    "https://github.com/KRTirtho/wives"
-  ],
-  "sources": []
-}
+{"name":"wives","description":"A beautiful, modern & feature-rich Terminal Emulator","sites":["https://github.com/KRTirtho/wives"],"sources":[]}

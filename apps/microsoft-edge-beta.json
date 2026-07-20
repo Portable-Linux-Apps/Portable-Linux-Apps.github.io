@@ -1,10 +1,1 @@
-{
-  "name": "microsoft-edge-beta",
-  "description": "Microsoft Edge (Beta Edition) A browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.",
-  "sites": [
-    "https://www.microsoft.com"
-  ],
-  "sources": [
-    "https://packages.microsoft.com"
-  ]
-}
+{"name":"microsoft-edge-beta","description":"Microsoft Edge (Beta Edition) A browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.","sites":["https://www.microsoft.com"],"sources":["https://packages.microsoft.com"]}

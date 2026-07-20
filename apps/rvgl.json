@@ -1,8 +1,1 @@
-{
-  "name": "rvgl",
-  "description": "Unofficial, a cross-platform rewrite/port of Re-Volt.",
-  "sites": [
-    "https://github.com/pkgforge-dev/RVGL-AppImage"
-  ],
-  "sources": []
-}
+{"name":"rvgl","description":"Unofficial, a cross-platform rewrite/port of Re-Volt.","sites":["https://github.com/pkgforge-dev/RVGL-AppImage"],"sources":[]}

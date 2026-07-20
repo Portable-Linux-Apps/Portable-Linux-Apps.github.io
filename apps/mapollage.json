@@ -1,8 +1,1 @@
-{
-  "name": "mapollage",
-  "description": "Mapollage is a photo kml generator for Google Earth.",
-  "sites": [
-    "https://github.com/trixon/mapollage"
-  ],
-  "sources": []
-}
+{"name":"mapollage","description":"Mapollage is a photo kml generator for Google Earth.","sites":["https://github.com/trixon/mapollage"],"sources":[]}

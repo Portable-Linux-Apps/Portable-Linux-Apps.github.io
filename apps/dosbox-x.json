@@ -1,8 +1,1 @@
-{
-  "name": "dosbox-x",
-  "description": "Unofficial, DOSBox-X is a cross-platform DOS emulator for running many MS-DOS games.",
-  "sites": [
-    "https://github.com/pkgforge-dev/DOSBox-X-AppImage"
-  ],
-  "sources": []
-}
+{"name":"dosbox-x","description":"Unofficial, DOSBox-X is a cross-platform DOS emulator for running many MS-DOS games.","sites":["https://github.com/pkgforge-dev/DOSBox-X-AppImage"],"sources":[]}

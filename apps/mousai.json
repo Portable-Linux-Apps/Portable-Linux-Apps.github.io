@@ -1,8 +1,1 @@
-{
-  "name": "mousai",
-  "description": "Unofficial. Application for identifying songs using libre utilities.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Mousai-AppImage"
-  ],
-  "sources": []
-}
+{"name":"mousai","description":"Unofficial. Application for identifying songs using libre utilities.","sites":["https://github.com/pkgforge-dev/Mousai-AppImage"],"sources":[]}

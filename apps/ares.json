@@ -1,8 +1,1 @@
-{
-  "name": "ares",
-  "description": "AppImage for the ares emulator",
-  "sites": [
-    "https://github.com/bmsuseluda/ares-emu-appimage"
-  ],
-  "sources": []
-}
+{"name":"ares","description":"AppImage for the ares emulator","sites":["https://github.com/bmsuseluda/ares-emu-appimage"],"sources":[]}

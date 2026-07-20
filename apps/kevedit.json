@@ -1,8 +1,1 @@
-{
-  "name": "kevedit",
-  "description": "ZZT Editor",
-  "sites": [
-    "https://github.com/cknave/kevedit"
-  ],
-  "sources": []
-}
+{"name":"kevedit","description":"ZZT Editor","sites":["https://github.com/cknave/kevedit"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "sound-space-plus",
-  "description": "Unofficial AppImage of sound-space-plus, Rhythm-based aim game.",
-  "sites": [
-    "https://github.com/pkgforge-dev/sound-space-plus-AppImage"
-  ],
-  "sources": []
-}
+{"name":"sound-space-plus","description":"Unofficial AppImage of sound-space-plus, Rhythm-based aim game.","sites":["https://github.com/pkgforge-dev/sound-space-plus-AppImage"],"sources":[]}

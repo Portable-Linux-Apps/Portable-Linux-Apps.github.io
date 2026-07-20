@@ -1,8 +1,1 @@
-{
-  "name": "antares",
-  "description": "Antares is an SQL client based on Electron.js and Vue.js that aims to become a useful tool, especially for developers. Our target is to support as many databases as possible, and all major operating systems, including the ARM versions.\n \n <img src=\"https://raw.githubusercontent.com/Fabio286/antares/master/docs/gh-logo.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://github.com/antares-sql/antares"
-  ],
-  "sources": []
-}
+{"name":"antares","description":"Antares is an SQL client based on Electron.js and Vue.js that aims to become a useful tool, especially for developers. Our target is to support as many databases as possible, and all major operating systems, including the ARM versions.\n \n <img src=\"https://raw.githubusercontent.com/Fabio286/antares/master/docs/gh-logo.png\" alt=\"Screenshot\">","sites":["https://github.com/antares-sql/antares"],"sources":[]}

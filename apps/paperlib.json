@@ -1,8 +1,1 @@
-{
-  "name": "paperlib",
-  "description": "An open-source academic paper management tool.",
-  "sites": [
-    "https://github.com/Future-Scholars/paperlib"
-  ],
-  "sources": []
-}
+{"name":"paperlib","description":"An open-source academic paper management tool.","sites":["https://github.com/Future-Scholars/paperlib"],"sources":[]}

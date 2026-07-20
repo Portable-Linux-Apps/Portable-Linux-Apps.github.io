@@ -1,8 +1,1 @@
-{
-  "name": "opencomic",
-  "description": "Comic and Manga reader, written with Node.js and using Electron",
-  "sites": [
-    "https://github.com/ollm/OpenComic"
-  ],
-  "sources": []
-}
+{"name":"opencomic","description":"Comic and Manga reader, written with Node.js and using Electron","sites":["https://github.com/ollm/OpenComic"],"sources":[]}

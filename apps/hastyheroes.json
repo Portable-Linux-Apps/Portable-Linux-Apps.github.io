@@ -1,8 +1,1 @@
-{
-  "name": "hastyheroes",
-  "description": "An endless 2D jumping game, select a avatar and start playing",
-  "sites": [
-    "https://github.com/Aveek-Saha/HastyHeroes"
-  ],
-  "sources": []
-}
+{"name":"hastyheroes","description":"An endless 2D jumping game, select a avatar and start playing","sites":["https://github.com/Aveek-Saha/HastyHeroes"],"sources":[]}

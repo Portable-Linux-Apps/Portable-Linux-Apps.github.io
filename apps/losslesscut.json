@@ -1,8 +1,1 @@
-{
-  "name": "losslesscut",
-  "description": "The swiss army knife of lossless video/audio editing",
-  "sites": [
-    "https://github.com/mifi/lossless-cut"
-  ],
-  "sources": []
-}
+{"name":"losslesscut","description":"The swiss army knife of lossless video/audio editing","sites":["https://github.com/mifi/lossless-cut"],"sources":[]}

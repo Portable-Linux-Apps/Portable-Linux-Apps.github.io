@@ -1,8 +1,1 @@
-{
-  "name": "simitone",
-  "description": "Unofficial, re-implementation of The Sims 1, based off of FreeSO.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Simitone-AppImage"
-  ],
-  "sources": []
-}
+{"name":"simitone","description":"Unofficial, re-implementation of The Sims 1, based off of FreeSO.","sites":["https://github.com/pkgforge-dev/Simitone-AppImage"],"sources":[]}

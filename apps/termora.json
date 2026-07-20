@@ -1,8 +1,1 @@
-{
-  "name": "termora",
-  "description": "A terminal emulator and SSH client.",
-  "sites": [
-    "https://github.com/TermoraDev/termora"
-  ],
-  "sources": []
-}
+{"name":"termora","description":"A terminal emulator and SSH client.","sites":["https://github.com/TermoraDev/termora"],"sources":[]}

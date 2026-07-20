@@ -1,8 +1,1 @@
-{
-  "name": "hexoeditor",
-  "description": "This is markdown editor for Hexo built with Electron.",
-  "sites": [
-    "https://github.com/zhuzhuyule/HexoEditor"
-  ],
-  "sources": []
-}
+{"name":"hexoeditor","description":"This is markdown editor for Hexo built with Electron.","sites":["https://github.com/zhuzhuyule/HexoEditor"],"sources":[]}

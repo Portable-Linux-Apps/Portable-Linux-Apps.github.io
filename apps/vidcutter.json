@@ -1,8 +1,1 @@
-{
-  "name": "vidcutter",
-  "description": "VidCutter - the simplest + fastest video cutter & joiner.",
-  "sites": [
-    "https://github.com/ozmartian/vidcutter"
-  ],
-  "sources": []
-}
+{"name":"vidcutter","description":"VidCutter - the simplest + fastest video cutter & joiner.","sites":["https://github.com/ozmartian/vidcutter"],"sources":[]}

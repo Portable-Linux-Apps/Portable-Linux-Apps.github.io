@@ -1,8 +1,1 @@
-{
-  "name": "chimeradesk-kvm",
-  "description": "Simple, fast and flexible DIY Remote Desktop software.\n \n For a version without the KVM support, see \"chimeradesk\".\n \n <img src=\"https://raw.githubusercontent.com/morrolinux/ChimeraDesk/main/media/ChimeraDesk_demo.gif\" alt=\"GIF\">",
-  "sites": [
-    "https://github.com/morrolinux/ChimeraDesk"
-  ],
-  "sources": []
-}
+{"name":"chimeradesk-kvm","description":"Simple, fast and flexible DIY Remote Desktop software.\n \n For a version without the KVM support, see \"chimeradesk\".\n \n <img src=\"https://raw.githubusercontent.com/morrolinux/ChimeraDesk/main/media/ChimeraDesk_demo.gif\" alt=\"GIF\">","sites":["https://github.com/morrolinux/ChimeraDesk"],"sources":[]}

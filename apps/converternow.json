@@ -1,8 +1,1 @@
-{
-  "name": "converternow",
-  "description": "The Unit Converter app: easy, immediate and multi-platform",
-  "sites": [
-    "https://github.com/ferraridamiano/ConverterNOW"
-  ],
-  "sources": []
-}
+{"name":"converternow","description":"The Unit Converter app: easy, immediate and multi-platform","sites":["https://github.com/ferraridamiano/ConverterNOW"],"sources":[]}

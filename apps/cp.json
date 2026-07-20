@@ -1,8 +1,1 @@
-{
-  "name": "cp",
-  "description": "Copy files and directories. This is part of \"am-utils\" suite.",
-  "sites": [
-    "https://github.com/ivan-hc/am-utils"
-  ],
-  "sources": []
-}
+{"name":"cp","description":"Copy files and directories. This is part of \"am-utils\" suite.","sites":["https://github.com/ivan-hc/am-utils"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "beatsaber-mod-manager",
-  "description": "Yet another mod installer for Beat Saber, heavily inspired by ModAssistant.",
-  "sites": [
-    "https://github.com/affederaffe/BeatSaberModManager"
-  ],
-  "sources": []
-}
+{"name":"beatsaber-mod-manager","description":"Yet another mod installer for Beat Saber, heavily inspired by ModAssistant.","sites":["https://github.com/affederaffe/BeatSaberModManager"],"sources":[]}

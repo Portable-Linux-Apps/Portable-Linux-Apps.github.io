@@ -1,8 +1,1 @@
-{
-  "name": "hugor",
-  "description": "A cross-platform, multimedia interpreter for Hugo adventure games.",
-  "sites": [
-    "https://github.com/realnc/hugor"
-  ],
-  "sources": []
-}
+{"name":"hugor","description":"A cross-platform, multimedia interpreter for Hugo adventure games.","sites":["https://github.com/realnc/hugor"],"sources":[]}

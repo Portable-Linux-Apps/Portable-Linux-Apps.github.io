@@ -1,8 +1,1 @@
-{
-  "name": "eplee",
-  "description": "Sweet, simple epub reader.",
-  "sites": [
-    "https://github.com/Janglee123/eplee"
-  ],
-  "sources": []
-}
+{"name":"eplee","description":"Sweet, simple epub reader.","sites":["https://github.com/Janglee123/eplee"],"sources":[]}

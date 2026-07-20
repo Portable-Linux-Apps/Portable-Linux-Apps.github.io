@@ -1,8 +1,1 @@
-{
-  "name": "subsurface",
-  "description": "This is the official upstream of the Subsurface divelog program.",
-  "sites": [
-    "https://github.com/subsurface/subsurface"
-  ],
-  "sources": []
-}
+{"name":"subsurface","description":"This is the official upstream of the Subsurface divelog program.","sites":["https://github.com/subsurface/subsurface"],"sources":[]}

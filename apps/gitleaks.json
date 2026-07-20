@@ -1,8 +1,1 @@
-{
-  "name": "gitleaks",
-  "description": "Protect and discover secrets using Gitleaks 🔑",
-  "sites": [
-    "https://github.com/gitleaks/gitleaks"
-  ],
-  "sources": []
-}
+{"name":"gitleaks","description":"Protect and discover secrets using Gitleaks \ud83d\udd11","sites":["https://github.com/gitleaks/gitleaks"],"sources":[]}

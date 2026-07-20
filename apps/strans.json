@@ -1,8 +1,1 @@
-{
-  "name": "strans",
-  "description": "Performs string manipulation tasks by learning from the provided example(s), instead of having to program them out explicitly.",
-  "sites": [
-    "https://github.com/Inventitech/strans"
-  ],
-  "sources": []
-}
+{"name":"strans","description":"Performs string manipulation tasks by learning from the provided example(s), instead of having to program them out explicitly.","sites":["https://github.com/Inventitech/strans"],"sources":[]}

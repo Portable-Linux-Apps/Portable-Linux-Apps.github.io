@@ -1,8 +1,1 @@
-{
-  "name": "journalv",
-  "description": "Journaling app for your days and dreams.",
-  "sites": [
-    "https://github.com/ahme-dev/journalv"
-  ],
-  "sources": []
-}
+{"name":"journalv","description":"Journaling app for your days and dreams.","sites":["https://github.com/ahme-dev/journalv"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "mockoon",
-  "description": "Mock servers in seconds",
-  "sites": [
-    "https://github.com/mockoon/mockoon"
-  ],
-  "sources": []
-}
+{"name":"mockoon","description":"Mock servers in seconds","sites":["https://github.com/mockoon/mockoon"],"sources":[]}

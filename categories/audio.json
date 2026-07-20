@@ -1,1362 +1,172 @@
 [
-  {
-    "icon": "432hz-player.png",
-    "name": "432hz-player",
-    "description": "Because most music is recorded in 440hz, Audio Player.",
-    "app_page": "apps/432hz-player.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/432hz-player",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/432hz-player"
-  },
-  {
-    "icon": "amarok.png",
-    "name": "amarok",
-    "description": "Unofficial, powerful music player that lets you rediscover your music.",
-    "app_page": "apps/amarok.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amarok",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amarok"
-  },
-  {
-    "icon": "amplitude-soundboard.png",
-    "name": "amplitude-soundboard",
-    "description": "A sleek, cross-platform soundboard, available.",
-    "app_page": "apps/amplitude-soundboard.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amplitude-soundboard",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amplitude-soundboard"
-  },
-  {
-    "icon": "amusiz.png",
-    "name": "amusiz",
-    "description": "Unofficial and unpretentious Amazon Music client.",
-    "app_page": "apps/amusiz.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amusiz",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amusiz"
-  },
-  {
-    "icon": "anavis.png",
-    "name": "anavis",
-    "description": "Tool to visualize musical form.",
-    "app_page": "apps/anavis.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/anavis",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/anavis"
-  },
-  {
-    "icon": "anklang.png",
-    "name": "anklang",
-    "description": "MIDI and Audio Synthesizer and Composer.",
-    "app_page": "apps/anklang.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/anklang",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/anklang"
-  },
-  {
-    "icon": "antra.png",
-    "name": "antra",
-    "description": "A desktop music library builder. Resolves Spotify / Apple Music / Amazon Music URLs \u2192 get lossless audio \u2192 auto-tags, transcodes, and organizes. No subscriptions. No compromises.",
-    "app_page": "apps/antra.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/antra",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/antra"
-  },
-  {
-    "icon": "arcdlp.png",
-    "name": "arcdlp",
-    "description": "Open-source desktop video downloader powered by yt-dlp and electron. Download videos and audio from YouTube, Vimeo, Twitter, and thousands of sites.",
-    "app_page": "apps/arcdlp.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/arcdlp",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/arcdlp"
-  },
-  {
-    "icon": "astrofox.png",
-    "name": "astrofox",
-    "description": "Audio reactive motion graphics program.",
-    "app_page": "apps/astrofox.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/astrofox",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/astrofox"
-  },
-  {
-    "icon": "asunder.png",
-    "name": "asunder",
-    "description": "Unofficial. Audio CD ripper and encoder, WAV, MP3, OGG, FLAC, Opus, AAC....",
-    "app_page": "apps/asunder.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/asunder",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/asunder"
-  },
-  {
-    "icon": "audacious.png",
-    "name": "audacious",
-    "description": "Unofficial. An open source audio and music player, descendant of XMMS.",
-    "app_page": "apps/audacious.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audacious",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audacious"
-  },
-  {
-    "icon": "audacity.png",
-    "name": "audacity",
-    "description": "Multiplatform Audio Editor.",
-    "app_page": "apps/audacity.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audacity",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audacity"
-  },
-  {
-    "icon": "audacity-enhanced.png",
-    "name": "audacity-enhanced",
-    "description": "Unofficial, multiplatform Audio Editor.",
-    "app_page": "apps/audacity-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audacity-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audacity-enhanced"
-  },
-  {
-    "icon": "audapolis.png",
-    "name": "audapolis",
-    "description": "An editor for spoken-word audio with automatic transcription.",
-    "app_page": "apps/audapolis.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audapolis",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audapolis"
-  },
-  {
-    "icon": "audio-sharing.png",
-    "name": "audio-sharing",
-    "description": "Unofficial. Share audio from the desktop on local network using RTSP protocol.",
-    "app_page": "apps/audio-sharing.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audio-sharing",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audio-sharing"
-  },
-  {
-    "icon": "audiomoth-configuration-app.png",
-    "name": "audiomoth-configuration-app",
-    "description": "An Electron-based application capable of configuring the functionality of the AudioMoth recording device and setting the onboard clock.",
-    "app_page": "apps/audiomoth-configuration-app.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audiomoth-configuration-app",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audiomoth-configuration-app"
-  },
-  {
-    "icon": "audiomoth-flash-app.png",
-    "name": "audiomoth-flash-app",
-    "description": "An Electron-based application designed to flash the AudioMoth recording device with new firmware.",
-    "app_page": "apps/audiomoth-flash-app.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audiomoth-flash-app",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audiomoth-flash-app"
-  },
-  {
-    "icon": "audiomoth-gps-sync-app.png",
-    "name": "audiomoth-gps-sync-app",
-    "description": "An Electron-based application to generate WAV files synchronised with GPS time from the files generated by the AudioMoth-GPS-Sync firmware.",
-    "app_page": "apps/audiomoth-gps-sync-app.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audiomoth-gps-sync-app",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audiomoth-gps-sync-app"
-  },
-  {
-    "icon": "audiomoth-live-app.png",
-    "name": "audiomoth-live-app",
-    "description": "An Electron-based application for recording and analysing live audio from high sample rate microphones, including the AudioMoth USB Microphone.",
-    "app_page": "apps/audiomoth-live-app.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audiomoth-live-app",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audiomoth-live-app"
-  },
-  {
-    "icon": "audiomoth-time-app.png",
-    "name": "audiomoth-time-app",
-    "description": "An Electron-based application capable of setting the on-board clock of the AudioMoth recording device.",
-    "app_page": "apps/audiomoth-time-app.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audiomoth-time-app",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audiomoth-time-app"
-  },
-  {
-    "icon": "audiomoth-usb-microphone-app.png",
-    "name": "audiomoth-usb-microphone-app",
-    "description": "An Electron-based application capable of configuring the functionality of the AudioMoth-USB-Microphone firmware.",
-    "app_page": "apps/audiomoth-usb-microphone-app.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audiomoth-usb-microphone-app",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audiomoth-usb-microphone-app"
-  },
-  {
-    "icon": "audiorelay.png",
-    "name": "audiorelay",
-    "description": "Stream audio between your devices. Turn your phone into a microphone or speakers for PC.",
-    "app_page": "apps/audiorelay.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audiorelay",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audiorelay"
-  },
-  {
-    "icon": "auryo.png",
-    "name": "auryo",
-    "description": "An audio/music desktop client for SoundCloud.",
-    "app_page": "apps/auryo.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/auryo",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/auryo"
-  },
-  {
-    "icon": "blob-dl.png",
-    "name": "blob-dl",
-    "description": "Blob-dl is a yt-dlp CLI interface used to download video and audio files from YouTube.",
-    "app_page": "apps/blob-dl.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/blob-dl",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/blob-dl"
-  },
-  {
-    "icon": "bloomee.png",
-    "name": "bloomee",
-    "description": "Music app designed to bring you ad-free tunes from various sources.",
-    "app_page": "apps/bloomee.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bloomee",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bloomee"
-  },
-  {
-    "icon": "bodacious.png",
-    "name": "bodacious",
-    "description": "A bodacious music player.",
-    "app_page": "apps/bodacious.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bodacious",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bodacious"
-  },
-  {
-    "icon": "cadmus.png",
-    "name": "cadmus",
-    "description": "Pulse Audio real-time noise suppression plugin.",
-    "app_page": "apps/cadmus.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cadmus",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cadmus"
-  },
-  {
-    "icon": "castersoundboard.png",
-    "name": "castersoundboard",
-    "description": "Soundboard for hot-keying and playing back sounds.",
-    "app_page": "apps/castersoundboard.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/castersoundboard",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/castersoundboard"
-  },
-  {
-    "icon": "cinelerra.png",
-    "name": "cinelerra",
-    "description": "CINELERRA-GG is a software program NLE, Non-Linear Editor, that provides a way to edit, record, and play audio or video media. It can also be used to transcode media from one format to another or to correct and retouch photos.",
-    "app_page": "apps/cinelerra.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cinelerra",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cinelerra"
-  },
-  {
-    "icon": "classipod.png",
-    "name": "classipod",
-    "description": "A local music player app designed to capture the nostalgic essence of the iconic iPod Classic.",
-    "app_page": "apps/classipod.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/classipod",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/classipod"
-  },
-  {
-    "icon": "clementine.png",
-    "name": "clementine",
-    "description": "Unofficial AppImage of the Clementine music player.",
-    "app_page": "apps/clementine.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clementine",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clementine"
-  },
-  {
-    "icon": "clementineremote.png",
-    "name": "clementineremote",
-    "description": "Remote for Clementine Music Player.",
-    "app_page": "apps/clementineremote.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clementineremote",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clementineremote"
-  },
-  {
-    "icon": "code-radio.png",
-    "name": "code-radio",
-    "description": "A command line music radio client for coderadio.freecodecamp.org, written in Rust.",
-    "app_page": "apps/code-radio.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/code-radio",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/code-radio"
-  },
-  {
-    "icon": "converter432hz.png",
-    "name": "converter432hz",
-    "description": "Converts and re-encodes music to 432hz.",
-    "app_page": "apps/converter432hz.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/converter432hz",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/converter432hz"
-  },
-  {
-    "icon": "deadbeef.png",
-    "name": "deadbeef",
-    "description": "Unofficial AppImage of the DeaDBeeF music player (Stable version).",
-    "app_page": "apps/deadbeef.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deadbeef",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deadbeef"
-  },
-  {
-    "icon": "deadbeef-nightly.png",
-    "name": "deadbeef-nightly",
-    "description": "Unofficial AppImage of the DeaDBeeF music player (Nightly version).",
-    "app_page": "apps/deadbeef-nightly.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deadbeef-nightly",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deadbeef-nightly"
-  },
-  {
-    "icon": "deezer.png",
-    "name": "deezer",
-    "description": "A linux port of Deezer, allows downloading your songs, music.",
-    "app_page": "apps/deezer.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deezer",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deezer"
-  },
-  {
-    "icon": "diffuse.png",
-    "name": "diffuse",
-    "description": "Music player, connects to your cloud/distributed storage.",
-    "app_page": "apps/diffuse.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/diffuse",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/diffuse"
-  },
-  {
-    "icon": "dopamine-preview.png",
-    "name": "dopamine-preview",
-    "description": "The audio player that keeps it simple.",
-    "app_page": "apps/dopamine-preview.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dopamine-preview",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dopamine-preview"
-  },
-  {
-    "icon": "downline.png",
-    "name": "downline",
-    "description": "A cross-platform video and audio downloader.",
-    "app_page": "apps/downline.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/downline",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/downline"
-  },
-  {
-    "icon": "duskplayer.png",
-    "name": "duskplayer",
-    "description": "A minimal music player built on electron.",
-    "app_page": "apps/duskplayer.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/duskplayer",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/duskplayer"
-  },
-  {
-    "icon": "electronwmd.png",
-    "name": "electronwmd",
-    "description": "Upload music to NetMD MiniDisc devices.",
-    "app_page": "apps/electronwmd.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electronwmd",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electronwmd"
-  },
-  {
-    "icon": "feishin.png",
-    "name": "feishin",
-    "description": "Sonixd Rewrite, a desktop music player.",
-    "app_page": "apps/feishin.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/feishin",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/feishin"
-  },
-  {
-    "icon": "ffmpeg.png",
-    "name": "ffmpeg",
-    "description": "Unofficial, A complete, cross-platform solution to record, convert and stream audio and video.",
-    "app_page": "apps/ffmpeg.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffmpeg",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffmpeg"
-  },
-  {
-    "icon": "firetail.png",
-    "name": "firetail",
-    "description": "An open source music player.",
-    "app_page": "apps/firetail.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firetail",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firetail"
-  },
-  {
-    "icon": "flacon.png",
-    "name": "flacon",
-    "description": "Audio File Encoder. Extracts audio tracks from audio CDs.",
-    "app_page": "apps/flacon.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flacon",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flacon"
-  },
-  {
-    "icon": "flb.png",
-    "name": "flb",
-    "description": "A beautiful Feature Rich Music Player and Downloader,cross platform.",
-    "app_page": "apps/flb.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flb",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flb"
-  },
-  {
-    "icon": "flippy-qualitative-testbench.png",
-    "name": "flippy-qualitative-testbench",
-    "description": "Music sheet reader.",
-    "app_page": "apps/flippy-qualitative-testbench.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flippy-qualitative-testbench",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flippy-qualitative-testbench"
-  },
-  {
-    "icon": "focusatwill.png",
-    "name": "focusatwill",
-    "description": "Combines neuroscience and music to boost productivity.",
-    "app_page": "apps/focusatwill.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/focusatwill",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/focusatwill"
-  },
-  {
-    "icon": "foobar2000.png",
-    "name": "foobar2000",
-    "description": "Unofficial, an advanced freeware audio player for Windows, includes WINE.",
-    "app_page": "apps/foobar2000.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/foobar2000",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/foobar2000"
-  },
-  {
-    "icon": "fooyin.png",
-    "name": "fooyin",
-    "description": "Unofficial, a customisable music player.",
-    "app_page": "apps/fooyin.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fooyin",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fooyin"
-  },
-  {
-    "icon": "freac.png",
-    "name": "freac",
-    "description": "fre:ac, free audio converter and CD ripper for various encoders.",
-    "app_page": "apps/freac.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freac",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freac"
-  },
-  {
-    "icon": "friture.png",
-    "name": "friture",
-    "description": "Real-time audio visualizations, spectrum, spectrogram, etc..",
-    "app_page": "apps/friture.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/friture",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/friture"
-  },
-  {
-    "icon": "gapless.png",
-    "name": "gapless",
-    "description": "Unofficial. Simple music player with blur and gapless playback.",
-    "app_page": "apps/gapless.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gapless",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gapless"
-  },
-  {
-    "icon": "giada.png",
-    "name": "giada",
-    "description": "Hardcore audio music production tool and drum machine for DJs.",
-    "app_page": "apps/giada.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/giada",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/giada"
-  },
-  {
-    "icon": "gsequencer.png",
-    "name": "gsequencer",
-    "description": "Tree based audio processing engine.",
-    "app_page": "apps/gsequencer.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gsequencer",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gsequencer"
-  },
-  {
-    "icon": "harmonoid.png",
-    "name": "harmonoid",
-    "description": "Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.",
-    "app_page": "apps/harmonoid.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/harmonoid",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/harmonoid"
-  },
-  {
-    "icon": "helio.png",
-    "name": "helio",
-    "description": "One music sequencer for all major platforms, desktop and mobile.",
-    "app_page": "apps/helio.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helio",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helio"
-  },
-  {
-    "icon": "hydrogen-music.png",
-    "name": "hydrogen-music",
-    "description": "The advanced drum machine.",
-    "app_page": "apps/hydrogen-music.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hydrogen-music",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hydrogen-music"
-  },
-  {
-    "icon": "impact.png",
-    "name": "impact",
-    "description": "Music Management and Playback.",
-    "app_page": "apps/impact.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/impact",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/impact"
-  },
-  {
-    "icon": "jellyamp.png",
-    "name": "jellyamp",
-    "description": "A client for listening to music from a Jellyfin server.",
-    "app_page": "apps/jellyamp.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jellyamp",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jellyamp"
-  },
-  {
-    "icon": "kid3.png",
-    "name": "kid3",
-    "description": "Unofficial, efficient audio tagger that supports a large variety of file formats.",
-    "app_page": "apps/kid3.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kid3",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kid3"
-  },
-  {
-    "icon": "kiku.png",
-    "name": "kiku",
-    "description": "Play music from youtube on desktop. Supports local api, invidious and piped as source.",
-    "app_page": "apps/kiku.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kiku",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kiku"
-  },
-  {
-    "icon": "krecorder.png",
-    "name": "krecorder",
-    "description": "Unofficial, An audio recording application. This script installs the full \"kdeutils\" suite.",
-    "app_page": "apps/krecorder.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/krecorder",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/krecorder"
-  },
-  {
-    "icon": "kwave.png",
-    "name": "kwave",
-    "description": "A sound & audio editor designed for the KDE Desktop Environment.",
-    "app_page": "apps/kwave.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kwave",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kwave"
-  },
-  {
-    "icon": "libation.png",
-    "name": "libation",
-    "description": "Unofficial, application for downloading and managing your Audible audiobooks.",
-    "app_page": "apps/libation.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/libation",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/libation"
-  },
-  {
-    "icon": "listen1-desktop.png",
-    "name": "listen1-desktop",
-    "description": "One for all free music in China.",
-    "app_page": "apps/listen1-desktop.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/listen1-desktop",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/listen1-desktop"
-  },
-  {
-    "icon": "lmms.png",
-    "name": "lmms",
-    "description": "FL Studio\u00ae alternative that allows you to produce music with the PC.",
-    "app_page": "apps/lmms.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lmms",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lmms"
-  },
-  {
-    "icon": "losslesscut.png",
-    "name": "losslesscut",
-    "description": "The swiss army knife of lossless video/audio editing.",
-    "app_page": "apps/losslesscut.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/losslesscut",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/losslesscut"
-  },
-  {
-    "icon": "lovelive.png",
-    "name": "lovelive",
-    "description": "A LoveLiver Music Player.",
-    "app_page": "apps/lovelive.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lovelive",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lovelive"
-  },
-  {
-    "icon": "lx-music-desktop.png",
-    "name": "lx-music-desktop",
-    "description": "\u4e00\u4e2a\u57fa\u4e8eelectron\u7684\u97f3\u4e50\u8f6f\u4ef6.",
-    "app_page": "apps/lx-music-desktop.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lx-music-desktop",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lx-music-desktop"
-  },
-  {
-    "icon": "mcpodcast.png",
-    "name": "mcpodcast",
-    "description": "Electron app for tasks around Podcast mp3 files.",
-    "app_page": "apps/mcpodcast.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mcpodcast",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mcpodcast"
-  },
-  {
-    "icon": "mechtype.png",
-    "name": "mechtype",
-    "description": "A lightweight app designed to elevate your typing experience by allowing you to enjoy custom soundtracks with every keystroke.",
-    "app_page": "apps/mechtype.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mechtype",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mechtype"
-  },
-  {
-    "icon": "mechvibes.png",
-    "name": "mechvibes",
-    "description": "Play mechanical keyboard sounds as you type.",
-    "app_page": "apps/mechvibes.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mechvibes",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mechvibes"
-  },
-  {
-    "icon": "media-downloader.png",
-    "name": "media-downloader",
-    "description": "Cross-platform audio/video downloader.",
-    "app_page": "apps/media-downloader.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/media-downloader",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/media-downloader"
-  },
-  {
-    "icon": "mellowplayer.png",
-    "name": "mellowplayer",
-    "description": "Cloud music integration for your desktop.",
-    "app_page": "apps/mellowplayer.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mellowplayer",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mellowplayer"
-  },
-  {
-    "icon": "melodie.png",
-    "name": "melodie",
-    "description": "Simple-as-pie music player.",
-    "app_page": "apps/melodie.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/melodie",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/melodie"
-  },
-  {
-    "icon": "milkytracker.png",
-    "name": "milkytracker",
-    "description": "An FT2 compatible music tracker.",
-    "app_page": "apps/milkytracker.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/milkytracker",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/milkytracker"
-  },
-  {
-    "icon": "mlv-app.png",
-    "name": "mlv-app",
-    "description": "All in one MLV processing app, audio/video.",
-    "app_page": "apps/mlv-app.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mlv-app",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mlv-app"
-  },
-  {
-    "icon": "modv.png",
-    "name": "modv",
-    "description": "Modular audio visualisation powered by JavaScript.",
-    "app_page": "apps/modv.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/modv",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/modv"
-  },
-  {
-    "icon": "moosync.png",
-    "name": "moosync",
-    "description": "Music player capable of playing local audio or from Youtube/Spotify.",
-    "app_page": "apps/moosync.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moosync",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moosync"
-  },
-  {
-    "icon": "mp3-tagger.png",
-    "name": "mp3-tagger",
-    "description": "An Electron app to edit metadata of mp3 files.",
-    "app_page": "apps/mp3-tagger.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mp3-tagger",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mp3-tagger"
-  },
-  {
-    "icon": "mp4grep.png",
-    "name": "mp4grep",
-    "description": "CLI for transcribing and searching audio/video files.",
-    "app_page": "apps/mp4grep.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mp4grep",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mp4grep"
-  },
-  {
-    "icon": "muffon.png",
-    "name": "muffon",
-    "description": "Music streaming browser,retrieves audio, video and metadata.",
-    "app_page": "apps/muffon.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/muffon",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/muffon"
-  },
-  {
-    "icon": "muse.png",
-    "name": "muse",
-    "description": "A digital audio workstation with support for both Audio and MIDI.",
-    "app_page": "apps/muse.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/muse",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/muse"
-  },
-  {
-    "icon": "museeks.png",
-    "name": "museeks",
-    "description": "A simple, clean and cross-platform music player.",
-    "app_page": "apps/museeks.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/museeks",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/museeks"
-  },
-  {
-    "icon": "musescore.png",
-    "name": "musescore",
-    "description": "An open source and free music notation software.",
-    "app_page": "apps/musescore.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/musescore",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/musescore"
-  },
-  {
-    "icon": "music-assistant.png",
-    "name": "music-assistant",
-    "description": "The desktop companion app for Music Assistant.",
-    "app_page": "apps/music-assistant.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/music-assistant",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/music-assistant"
-  },
-  {
-    "icon": "music-blocks.png",
-    "name": "music-blocks",
-    "description": ".Exploring Math, Music, and Programming.",
-    "app_page": "apps/music-blocks.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/music-blocks",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/music-blocks"
-  },
-  {
-    "icon": "music-kitten.png",
-    "name": "music-kitten",
-    "description": "Use your own soundtrack in Counter-Strike.",
-    "app_page": "apps/music-kitten.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/music-kitten",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/music-kitten"
-  },
-  {
-    "icon": "music-player.png",
-    "name": "music-player",
-    "description": "Desktop Electron app for playing and downloading music.",
-    "app_page": "apps/music-player.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/music-player",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/music-player"
-  },
-  {
-    "icon": "music-quiz.png",
-    "name": "music-quiz",
-    "description": "Jepardy like game, guess as many songs as possible.",
-    "app_page": "apps/music-quiz.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/music-quiz",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/music-quiz"
-  },
-  {
-    "icon": "musicalypse.png",
-    "name": "musicalypse",
-    "description": "Audio/Music player and server built with Web technologies.",
-    "app_page": "apps/musicalypse.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/musicalypse",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/musicalypse"
-  },
-  {
-    "icon": "nautune.png",
-    "name": "nautune",
-    "description": "Poseidon's Music Player for Jellyfin.",
-    "app_page": "apps/nautune.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nautune",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nautune"
-  },
-  {
-    "icon": "nootka.png",
-    "name": "nootka",
-    "description": "Application for learning musical score notation.",
-    "app_page": "apps/nootka.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nootka",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nootka"
-  },
-  {
-    "icon": "nora.png",
-    "name": "nora",
-    "description": "An elegant music player built using Electron and React.",
-    "app_page": "apps/nora.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nora",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nora"
-  },
-  {
-    "icon": "nuclear.png",
-    "name": "nuclear",
-    "description": "Streaming music player that finds free music for you.",
-    "app_page": "apps/nuclear.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nuclear",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nuclear"
-  },
-  {
-    "icon": "ocenaudio.png",
-    "name": "ocenaudio",
-    "description": "Unofficial. Multiplatform Audio Editor.",
-    "app_page": "apps/ocenaudio.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ocenaudio",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ocenaudio"
-  },
-  {
-    "icon": "onionmediax.png",
-    "name": "onionmediax",
-    "description": "OnionMedia X. Convert and download videos and music quickly and easily.",
-    "app_page": "apps/onionmediax.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/onionmediax",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/onionmediax"
-  },
-  {
-    "icon": "onthespot.png",
-    "name": "onthespot",
-    "description": "A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More.",
-    "app_page": "apps/onthespot.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/onthespot",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/onthespot"
-  },
-  {
-    "icon": "opal.png",
-    "name": "opal",
-    "description": "Plays relaxing music in the background.",
-    "app_page": "apps/opal.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opal",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opal"
-  },
-  {
-    "icon": "openaudible.png",
-    "name": "openaudible",
-    "description": "Download and manage your Audible audiobooks.",
-    "app_page": "apps/openaudible.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openaudible",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openaudible"
-  },
-  {
-    "icon": "openstream-music.png",
-    "name": "openstream-music",
-    "description": "The OpenStream Music source.",
-    "app_page": "apps/openstream-music.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openstream-music",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openstream-music"
-  },
-  {
-    "icon": "ossia-score.png",
-    "name": "ossia-score",
-    "description": "Sequencer for audio-visual artists for interactive shows.",
-    "app_page": "apps/ossia-score.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ossia-score",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ossia-score"
-  },
-  {
-    "icon": "pano-scrobbler.png",
-    "name": "pano-scrobbler",
-    "description": "Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other compatible services.",
-    "app_page": "apps/pano-scrobbler.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pano-scrobbler",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pano-scrobbler"
-  },
-  {
-    "icon": "parabolic.png",
-    "name": "parabolic",
-    "description": "Unofficial, Download web video and audio.",
-    "app_page": "apps/parabolic.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/parabolic",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/parabolic"
-  },
-  {
-    "icon": "pathephone.png",
-    "name": "pathephone",
-    "description": "Distributed audio player.",
-    "app_page": "apps/pathephone.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pathephone",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pathephone"
-  },
-  {
-    "icon": "pavucontrol-qt.png",
-    "name": "pavucontrol-qt",
-    "description": "Qt port of pavucontrol Pulseaudio mixer, unofficial AppImage.",
-    "app_page": "apps/pavucontrol-qt.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pavucontrol-qt",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pavucontrol-qt"
-  },
-  {
-    "icon": "pear-desktop.png",
-    "name": "pear-desktop",
-    "description": "An extension for music player.",
-    "app_page": "apps/pear-desktop.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pear-desktop",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pear-desktop"
-  },
-  {
-    "icon": "pelusica.png",
-    "name": "pelusica",
-    "description": "Action game, control the blue dot with your keyboard/create music.",
-    "app_page": "apps/pelusica.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pelusica",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pelusica"
-  },
-  {
-    "icon": "picard-daily.png",
-    "name": "picard-daily",
-    "description": "Inofficial daily development builds for MusicBrainz Picard.",
-    "app_page": "apps/picard-daily.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picard-daily",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picard-daily"
-  },
-  {
-    "icon": "playbox.png",
-    "name": "playbox",
-    "description": "An audio playback system for the live production industry.",
-    "app_page": "apps/playbox.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playbox",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playbox"
-  },
-  {
-    "icon": "playme.png",
-    "name": "playme",
-    "description": "Elegant YouTube Music desktop app.",
-    "app_page": "apps/playme.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playme",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playme"
-  },
-  {
-    "icon": "plexamp.png",
-    "name": "plexamp",
-    "description": "The best little audio player on the planet.",
-    "app_page": "apps/plexamp.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/plexamp",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/plexamp"
-  },
-  {
-    "icon": "powerliminals-player.png",
-    "name": "powerliminals-player",
-    "description": "Powerliminal audios in the background, Audio player.",
-    "app_page": "apps/powerliminals-player.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/powerliminals-player",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/powerliminals-player"
-  },
-  {
-    "icon": "puddletag.png",
-    "name": "puddletag",
-    "description": "Unofficial, Powerful, simple, audio tag editor for GNU/Linux.",
-    "app_page": "apps/puddletag.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/puddletag",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/puddletag"
-  },
-  {
-    "icon": "punes.png",
-    "name": "punes",
-    "description": "Qt-based Nintendo Entertaiment System emulator and NSF/NSF2/NSFe Music Player.",
-    "app_page": "apps/punes.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/punes",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/punes"
-  },
-  {
-    "icon": "qmidictl.png",
-    "name": "qmidictl",
-    "description": "MIDI Remote Controller via UDP/IP Multicast.",
-    "app_page": "apps/qmidictl.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmidictl",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmidictl"
-  },
-  {
-    "icon": "qmidinet.png",
-    "name": "qmidinet",
-    "description": "MIDI Network Gateway via UDP/IP Multicast.",
-    "app_page": "apps/qmidinet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmidinet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmidinet"
-  },
-  {
-    "icon": "qmplay2.png",
-    "name": "qmplay2",
-    "description": "Video and audio player whit support of most formats and codecs.",
-    "app_page": "apps/qmplay2.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmplay2",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmplay2"
-  },
-  {
-    "icon": "qmplay2-enhanced.png",
-    "name": "qmplay2-enhanced",
-    "description": "Unofficial, a video and audio player which can play most formats and codecs.",
-    "app_page": "apps/qmplay2-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmplay2-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmplay2-enhanced"
-  },
-  {
-    "icon": "qt-dab.png",
-    "name": "qt-dab",
-    "description": "Listening to terrestrial Digital Audio Broadcasting.",
-    "app_page": "apps/qt-dab.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qt-dab",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qt-dab"
-  },
-  {
-    "icon": "reaper.png",
-    "name": "reaper",
-    "description": "A complete digital audio production app, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.",
-    "app_page": "apps/reaper.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/reaper",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/reaper"
-  },
-  {
-    "icon": "reco.png",
-    "name": "reco",
-    "description": "Unofficial, An audio recorder focused on being concise and simple to use",
-    "app_page": "apps/reco.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/reco",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/reco"
-  },
-  {
-    "icon": "rendertune.png",
-    "name": "rendertune",
-    "description": "Electron app that uses ffmpeg to combine audio.+image files into video files.",
-    "app_page": "apps/rendertune.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rendertune",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rendertune"
-  },
-  {
-    "icon": "rhythmbox.png",
-    "name": "rhythmbox",
-    "description": "The popular Audio Player Rhythmbox.",
-    "app_page": "apps/rhythmbox.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rhythmbox",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rhythmbox"
-  },
-  {
-    "icon": "saucedacity.png",
-    "name": "saucedacity",
-    "description": "Audio editor based on Audacity focusing on general improvements.",
-    "app_page": "apps/saucedacity.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/saucedacity",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/saucedacity"
-  },
-  {
-    "icon": "sayonara.png",
-    "name": "sayonara",
-    "description": "Music player and music library admininstration.",
-    "app_page": "apps/sayonara.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sayonara",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sayonara"
-  },
-  {
-    "icon": "sayonara-player-enhanced.png",
-    "name": "sayonara-player-enhanced",
-    "description": "Unofficial, a small, clear and fast audio player.",
-    "app_page": "apps/sayonara-player-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sayonara-player-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sayonara-player-enhanced"
-  },
-  {
-    "icon": "sharp-tune.png",
-    "name": "sharp-tune",
-    "description": "Music player build upon the node using the electron.",
-    "app_page": "apps/sharp-tune.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sharp-tune",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sharp-tune"
-  },
-  {
-    "icon": "smf-dsp.png",
-    "name": "smf-dsp",
-    "description": "Standard MIDI file player.",
-    "app_page": "apps/smf-dsp.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smf-dsp",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smf-dsp"
-  },
-  {
-    "icon": "smplayer.png",
-    "name": "smplayer",
-    "description": "Media Player with built-in codecs for all audio and video formats.",
-    "app_page": "apps/smplayer.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smplayer",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smplayer"
-  },
-  {
-    "icon": "sonicvisualiser.png",
-    "name": "sonicvisualiser",
-    "description": "Viewing and analysing the contents of music audio files.",
-    "app_page": "apps/sonicvisualiser.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonicvisualiser",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonicvisualiser"
-  },
-  {
-    "icon": "sonixd.png",
-    "name": "sonixd",
-    "description": "A full-featured Subsonic/Jellyfin compatible desktop music player.",
-    "app_page": "apps/sonixd.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonixd",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonixd"
-  },
-  {
-    "icon": "sonusmix.png",
-    "name": "sonusmix",
-    "description": "Next-gen Pipewire audio routing tool.",
-    "app_page": "apps/sonusmix.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sonusmix",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sonusmix"
-  },
-  {
-    "icon": "sound-space-plus.png",
-    "name": "sound-space-plus",
-    "description": "Unofficial AppImage of sound-space-plus, Rhythm-based aim game.",
-    "app_page": "apps/sound-space-plus.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sound-space-plus",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sound-space-plus"
-  },
-  {
-    "icon": "soundcloud-rpc.png",
-    "name": "soundcloud-rpc",
-    "description": "A SoundCloud client with Discord Rich Presence and AdBlock.",
-    "app_page": "apps/soundcloud-rpc.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soundcloud-rpc",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soundcloud-rpc"
-  },
-  {
-    "icon": "splayer.png",
-    "name": "splayer",
-    "description": "A simple music player that supports word-by-word lyrics, song downloads, comment section display, music cloud storage and playlist management, music spectrum analysis, and basic mobile adaptation. NetEase Cloud Music.",
-    "app_page": "apps/splayer.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/splayer",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/splayer"
-  },
-  {
-    "icon": "spmp.png",
-    "name": "spmp",
-    "description": "A YouTube Music client with a focus on customisation of colours and song metadata.",
-    "app_page": "apps/spmp.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spmp",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spmp"
-  },
-  {
-    "icon": "spotify.png",
-    "name": "spotify",
-    "description": "Unofficial. A proprietary music streaming service.",
-    "app_page": "apps/spotify.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify"
-  },
-  {
-    "icon": "spotify-candidate.png",
-    "name": "spotify-candidate",
-    "description": "Unofficial. A proprietary music streaming service.",
-    "app_page": "apps/spotify-candidate.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify-candidate",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify-candidate"
-  },
-  {
-    "icon": "spotify-edge.png",
-    "name": "spotify-edge",
-    "description": "Unofficial. A proprietary music streaming service.",
-    "app_page": "apps/spotify-edge.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify-edge",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify-edge"
-  },
-  {
-    "icon": "strawberry.png",
-    "name": "strawberry",
-    "description": "Unofficial AppImage of the strawberry music player.",
-    "app_page": "apps/strawberry.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/strawberry",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/strawberry"
-  },
-  {
-    "icon": "supersonic.png",
-    "name": "supersonic",
-    "description": "A lightweight and full-featured cross-platform desktop client for self-hosted music servers.",
-    "app_page": "apps/supersonic.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supersonic",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supersonic"
-  },
-  {
-    "icon": "tagger.png",
-    "name": "tagger",
-    "description": "Unofficial. Simple audio tagger with support for various audio formats.",
-    "app_page": "apps/tagger.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tagger",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tagger"
-  },
-  {
-    "icon": "tauon.png",
-    "name": "tauon",
-    "description": "Unofficial, a music player for the desktop.",
-    "app_page": "apps/tauon.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tauon",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tauon"
-  },
-  {
-    "icon": "tenacity.png",
-    "name": "tenacity",
-    "description": "An easy-to-use, cross-platform multi-track audio editor/recorder.",
-    "app_page": "apps/tenacity.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tenacity",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tenacity"
-  },
-  {
-    "icon": "trackaudio.png",
-    "name": "trackaudio",
-    "description": "A next generation Audio-For-VATSIM ATC Client.",
-    "app_page": "apps/trackaudio.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trackaudio",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trackaudio"
-  },
-  {
-    "icon": "tunepack.png",
-    "name": "tunepack",
-    "description": "Finding and download HQ audio files.",
-    "app_page": "apps/tunepack.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tunepack",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tunepack"
-  },
-  {
-    "icon": "ultragrid.png",
-    "name": "ultragrid",
-    "description": "UltraGrid low-latency audio/video network transmission system.",
-    "app_page": "apps/ultragrid.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ultragrid",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ultragrid"
-  },
-  {
-    "icon": "varia.png",
-    "name": "varia",
-    "description": "Unofficial. Aria2-based advanced download manager with support for downloading files, torrents, video and audio + support for Chromium and Firefox extension.",
-    "app_page": "apps/varia.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/varia",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/varia"
-  },
-  {
-    "icon": "vgmtrans.png",
-    "name": "vgmtrans",
-    "description": "A tool to convert proprietary, sequenced videogame music.",
-    "app_page": "apps/vgmtrans.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vgmtrans",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vgmtrans"
-  },
-  {
-    "icon": "vitomu.png",
-    "name": "vitomu",
-    "description": "Easy to use video to audio converter.",
-    "app_page": "apps/vitomu.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vitomu",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vitomu"
-  },
-  {
-    "icon": "vk-music-fs.png",
-    "name": "vk-music-fs",
-    "description": "Listen to the music from VK.",
-    "app_page": "apps/vk-music-fs.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vk-music-fs",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vk-music-fs"
-  },
-  {
-    "icon": "vlc.png",
-    "name": "vlc",
-    "description": "Unofficial. Free and Open Source Video & Media player for Audio, streaming and more.",
-    "app_page": "apps/vlc.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vlc",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vlc"
-  },
-  {
-    "icon": "wooting-analog-midi.png",
-    "name": "wooting-analog-midi",
-    "description": "Virtual MIDI device for, Wooting analog keyboards.",
-    "app_page": "apps/wooting-analog-midi.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wooting-analog-midi",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wooting-analog-midi"
-  },
-  {
-    "icon": "wora.png",
-    "name": "wora",
-    "description": "A beautiful player for audiophiles.",
-    "app_page": "apps/wora.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wora",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wora"
-  },
-  {
-    "icon": "yangdownloader.png",
-    "name": "yangdownloader",
-    "description": "Downloads best-quality audio and video from YouTube.",
-    "app_page": "apps/yangdownloader.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yangdownloader",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yangdownloader"
-  },
-  {
-    "icon": "yesplaymusic.png",
-    "name": "yesplaymusic",
-    "description": "A third party music player for Netease Music.",
-    "app_page": "apps/yesplaymusic.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yesplaymusic",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yesplaymusic"
-  },
-  {
-    "icon": "ym-desktop.png",
-    "name": "ym-desktop",
-    "description": "The YouTube music desktop app.",
-    "app_page": "apps/ym-desktop.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ym-desktop",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ym-desktop"
-  },
-  {
-    "icon": "youtube-download.png",
-    "name": "youtube-download",
-    "description": "GUI and CLI for downloading YouTube video/audio.",
-    "app_page": "apps/youtube-download.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtube-download",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtube-download"
-  },
-  {
-    "icon": "youtube-downloader.png",
-    "name": "youtube-downloader",
-    "description": "Download video/audio from youtube (and instagram) videos.",
-    "app_page": "apps/youtube-downloader.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtube-downloader",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtube-downloader"
-  },
-  {
-    "icon": "youtube-music.png",
-    "name": "youtube-music",
-    "description": "Unofficial. Amazing electron wrapper for YouTube Music featuring plugins.",
-    "app_page": "apps/youtube-music.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtube-music",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtube-music"
-  },
-  {
-    "icon": "youtubeanddownloader.png",
-    "name": "youtubeanddownloader",
-    "description": "An app to use youtube and download videos as mp3s or mp4s.",
-    "app_page": "apps/youtubeanddownloader.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtubeanddownloader",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtubeanddownloader"
-  },
-  {
-    "icon": "yt-dlp.png",
-    "name": "yt-dlp",
-    "description": "A feature-rich command-line audio/video downloader.",
-    "app_page": "apps/yt-dlp.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yt-dlp",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yt-dlp"
-  },
-  {
-    "icon": "ytdownloader.png",
-    "name": "ytdownloader",
-    "description": "App for downloading Videos and Audios from hundreds of sites.",
-    "app_page": "apps/ytdownloader.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ytdownloader",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ytdownloader"
-  },
-  {
-    "icon": "ytermusic.png",
-    "name": "ytermusic",
-    "description": "An in terminal youtube music client with focus on privacy, simplicity and performance.",
-    "app_page": "apps/ytermusic.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ytermusic",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ytermusic"
-  },
-  {
-    "icon": "ytmdesktop.png",
-    "name": "ytmdesktop",
-    "description": "A Desktop App for YouTube Music.",
-    "app_page": "apps/ytmdesktop.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ytmdesktop",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ytmdesktop"
-  },
-  {
-    "icon": "ytmdesktop2.png",
-    "name": "ytmdesktop2",
-    "description": "Unofficial Youtube Music Desktop App, with LastFM support.",
-    "app_page": "apps/ytmdesktop2.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ytmdesktop2",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ytmdesktop2"
-  },
-  {
-    "icon": "ytsage.png",
-    "name": "ytsage",
-    "description": "Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponsorBlock, and view video metadata. Built with yt-dlp for reliable performance.",
-    "app_page": "apps/ytsage.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ytsage",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ytsage"
-  }
+{"name":"432hz-player","description":"Because most music is recorded in 440hz, Audio Player."},
+{"name":"acestep-cpp-ui","description":"AceStep-cpp UI, 100% local and free Suno alternative powered by acestep-cpp. Native C++ bundle for local AI music generation with 0% python."},
+{"name":"amarok","description":"Unofficial, powerful music player that lets you rediscover your music."},
+{"name":"amplitude-soundboard","description":"A sleek, cross-platform soundboard, available."},
+{"name":"amusiz","description":"Unofficial and unpretentious Amazon Music client."},
+{"name":"anavis","description":"Tool to visualize musical form."},
+{"name":"antra","description":"A desktop music library builder. Resolves Spotify / Apple Music / Amazon Music URLs → get lossless audio → auto-tags, transcodes, and organizes. No subscriptions. No compromises."},
+{"name":"arcdlp","description":"Open-source desktop video downloader powered by yt-dlp and electron. Download videos and audio from YouTube, Vimeo, Twitter, and thousands of sites."},
+{"name":"astrofox","description":"Audio reactive motion graphics program."},
+{"name":"asunder","description":"Unofficial. Audio CD ripper and encoder, WAV, MP3, OGG, FLAC, Opus, AAC...."},
+{"name":"audacious","description":"Unofficial. An open source audio and music player, descendant of XMMS."},
+{"name":"audacity-enhanced","description":"Unofficial, multiplatform Audio Editor."},
+{"name":"audacity","description":"Multiplatform Audio Editor."},
+{"name":"audapolis","description":"An editor for spoken-word audio with automatic transcription."},
+{"name":"audiomoth-configuration-app","description":"An Electron-based application capable of configuring the functionality of the AudioMoth recording device and setting the onboard clock."},
+{"name":"audiomoth-flash-app","description":"An Electron-based application designed to flash the AudioMoth recording device with new firmware."},
+{"name":"audiomoth-gps-sync-app","description":"An Electron-based application to generate WAV files synchronised with GPS time from the files generated by the AudioMoth-GPS-Sync firmware."},
+{"name":"audiomoth-live-app","description":"An Electron-based application for recording and analysing live audio from high sample rate microphones, including the AudioMoth USB Microphone."},
+{"name":"audiomoth-time-app","description":"An Electron-based application capable of setting the on-board clock of the AudioMoth recording device."},
+{"name":"audiomoth-usb-microphone-app","description":"An Electron-based application capable of configuring the functionality of the AudioMoth-USB-Microphone firmware."},
+{"name":"audiorelay","description":"Stream audio between your devices. Turn your phone into a microphone or speakers for PC."},
+{"name":"audio-sharing","description":"Unofficial. Share audio from the desktop on local network using RTSP protocol."},
+{"name":"auryo","description":"An audio/music desktop client for SoundCloud."},
+{"name":"blob-dl","description":"Blob-dl is a yt-dlp CLI interface used to download video and audio files from YouTube."},
+{"name":"bloomee","description":"Music app designed to bring you ad-free tunes from various sources."},
+{"name":"bodacious","description":"A bodacious music player."},
+{"name":"cadmus","description":"Pulse Audio real-time noise suppression plugin."},
+{"name":"castersoundboard","description":"Soundboard for hot-keying and playing back sounds."},
+{"name":"cinelerra","description":"CINELERRA-GG is a software program NLE, Non-Linear Editor, that provides a way to edit, record, and play audio or video media. It can also be used to transcode media from one format to another or to correct and retouch photos."},
+{"name":"classipod","description":"A local music player app designed to capture the nostalgic essence of the iconic iPod Classic."},
+{"name":"clementineremote","description":"Remote for Clementine Music Player."},
+{"name":"clementine","description":"Unofficial AppImage of the Clementine music player."},
+{"name":"code-radio","description":"A command line music radio client for coderadio.freecodecamp.org, written in Rust."},
+{"name":"converter432hz","description":"Converts and re-encodes music to 432hz."},
+{"name":"deadbeef-nightly","description":"Unofficial AppImage of the DeaDBeeF music player (Nightly version)."},
+{"name":"deadbeef","description":"Unofficial AppImage of the DeaDBeeF music player (Stable version)."},
+{"name":"deezer","description":"A linux port of Deezer, allows downloading your songs, music."},
+{"name":"diffuse","description":"Music player, connects to your cloud/distributed storage."},
+{"name":"dopamine-preview","description":"The audio player that keeps it simple."},
+{"name":"downline","description":"A cross-platform video and audio downloader."},
+{"name":"duskplayer","description":"A minimal music player built on electron."},
+{"name":"electronwmd","description":"Upload music to NetMD MiniDisc devices."},
+{"name":"feishin","description":"Sonixd Rewrite, a desktop music player."},
+{"name":"ffmpeg","description":"Unofficial, A complete, cross-platform solution to record, convert and stream audio and video."},
+{"name":"firetail","description":"An open source music player."},
+{"name":"flacon","description":"Audio File Encoder. Extracts audio tracks from audio CDs."},
+{"name":"flb","description":"A beautiful Feature Rich Music Player and Downloader,cross platform."},
+{"name":"flippy-qualitative-testbench","description":"Music sheet reader."},
+{"name":"focusatwill","description":"Combines neuroscience and music to boost productivity."},
+{"name":"foobar2000","description":"Unofficial, an advanced freeware audio player for Windows, includes WINE."},
+{"name":"fooyin","description":"Unofficial, a customisable music player."},
+{"name":"freac","description":"fre:ac, free audio converter and CD ripper for various encoders."},
+{"name":"friture","description":"Real-time audio visualizations, spectrum, spectrogram, etc.."},
+{"name":"gapless","description":"Unofficial. Simple music player with blur and gapless playback."},
+{"name":"giada","description":"Hardcore audio music production tool and drum machine for DJs."},
+{"name":"gsequencer","description":"Tree based audio processing engine."},
+{"name":"harmonoid","description":"Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more."},
+{"name":"helio","description":"One music sequencer for all major platforms, desktop and mobile."},
+{"name":"hydrogen-music","description":"The advanced drum machine."},
+{"name":"impact","description":"Music Management and Playback."},
+{"name":"jellyamp","description":"A client for listening to music from a Jellyfin server."},
+{"name":"kid3","description":"Unofficial, efficient audio tagger that supports a large variety of file formats."},
+{"name":"kiku","description":"Play music from youtube on desktop. Supports local api, invidious and piped as source."},
+{"name":"krecorder","description":"An audio recording application. This is part of \"kdeutils\"."},
+{"name":"kwave","description":"A sound & audio editor designed for the KDE Desktop Environment."},
+{"name":"libation","description":"Unofficial, application for downloading and managing your Audible audiobooks."},
+{"name":"listen1-desktop","description":"One for all free music in China."},
+{"name":"lmms","description":"FL Studio® alternative that allows you to produce music with the PC."},
+{"name":"losslesscut","description":"The swiss army knife of lossless video/audio editing."},
+{"name":"lovelive","description":"A LoveLiver Music Player."},
+{"name":"lx-music-desktop","description":"一个基于electron的音乐软件."},
+{"name":"mcpodcast","description":"Electron app for tasks around Podcast mp3 files."},
+{"name":"media-downloader","description":"Cross-platform audio/video downloader."},
+{"name":"mellowplayer","description":"Cloud music integration for your desktop."},
+{"name":"melodie","description":"Simple-as-pie music player."},
+{"name":"milkytracker","description":"An FT2 compatible music tracker."},
+{"name":"mkvtoolnix","description":"Matroska files creator and tools."},
+{"name":"mlv-app","description":"All in one MLV processing app, audio/video."},
+{"name":"modv","description":"Modular audio visualisation powered by JavaScript."},
+{"name":"moosync","description":"Music player capable of playing local audio or from Youtube/Spotify."},
+{"name":"mp3-tagger","description":"An Electron app to edit metadata of mp3 files."},
+{"name":"mp4grep","description":"CLI for transcribing and searching audio/video files."},
+{"name":"muffon","description":"Music streaming browser,retrieves audio, video and metadata."},
+{"name":"muse","description":"A digital audio workstation with support for both Audio and MIDI."},
+{"name":"museeks","description":"A simple, clean and cross-platform music player."},
+{"name":"musescore","description":"An open source and free music notation software."},
+{"name":"musicalypse","description":"Audio/Music player and server built with Web technologies."},
+{"name":"music-assistant","description":"The desktop companion app for Music Assistant."},
+{"name":"music-blocks","description":".Exploring Math, Music, and Programming."},
+{"name":"music-kitten","description":"Use your own soundtrack in Counter-Strike."},
+{"name":"music-player","description":"Desktop Electron app for playing and downloading music."},
+{"name":"music-quiz","description":"Jepardy like game, guess as many songs as possible."},
+{"name":"nautune","description":"Poseidon's Music Player for Jellyfin."},
+{"name":"nootka","description":"Application for learning musical score notation."},
+{"name":"nora","description":"An elegant music player built using Electron and React."},
+{"name":"nuclear","description":"Streaming music player that finds free music for you."},
+{"name":"ocenaudio","description":"Unofficial. Multiplatform Audio Editor."},
+{"name":"onionmediax","description":"OnionMedia X. Convert and download videos and music quickly and easily."},
+{"name":"onthespot","description":"A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More."},
+{"name":"opal","description":"Plays relaxing music in the background."},
+{"name":"openaudible","description":"Download and manage your Audible audiobooks."},
+{"name":"openstream-music","description":"The OpenStream Music source."},
+{"name":"ossia-score","description":"Sequencer for audio-visual artists for interactive shows."},
+{"name":"pano-scrobbler","description":"Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other compatible services."},
+{"name":"parabolic","description":"Unofficial, Download web video and audio."},
+{"name":"pathephone","description":"Distributed audio player."},
+{"name":"pavucontrol-qt","description":"Qt port of pavucontrol Pulseaudio mixer, unofficial AppImage."},
+{"name":"pear-desktop","description":"An extension for music player."},
+{"name":"pelusica","description":"Action game, control the blue dot with your keyboard/create music."},
+{"name":"picard-daily","description":"Inofficial daily development builds for MusicBrainz Picard."},
+{"name":"playbox","description":"An audio playback system for the live production industry."},
+{"name":"playme","description":"Elegant YouTube Music desktop app."},
+{"name":"plexamp","description":"The best little audio player on the planet."},
+{"name":"powerliminals-player","description":"Powerliminal audios in the background, Audio player."},
+{"name":"puddletag","description":"Unofficial, Powerful, simple, audio tag editor for GNU/Linux."},
+{"name":"punes","description":"Qt-based Nintendo Entertaiment System emulator and NSF/NSF2/NSFe Music Player."},
+{"name":"qmidictl","description":"MIDI Remote Controller via UDP/IP Multicast."},
+{"name":"qmidinet","description":"MIDI Network Gateway via UDP/IP Multicast."},
+{"name":"qmplay2-enhanced","description":"Unofficial, a video and audio player which can play most formats and codecs."},
+{"name":"qmplay2","description":"Video and audio player whit support of most formats and codecs."},
+{"name":"qt-dab","description":"Listening to terrestrial Digital Audio Broadcasting."},
+{"name":"reaper","description":"A complete digital audio production app, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset."},
+{"name":"reco","description":"Unofficial, An audio recorder focused on being concise and simple to use"},
+{"name":"rendertune","description":"Electron app that uses ffmpeg to combine audio.+image files into video files."},
+{"name":"rhythmbox","description":"The popular Audio Player Rhythmbox."},
+{"name":"saucedacity","description":"Audio editor based on Audacity focusing on general improvements."},
+{"name":"sayonara","description":"Music player and music library admininstration."},
+{"name":"sayonara-player-enhanced","description":"Unofficial, a small, clear and fast audio player."},
+{"name":"sharp-tune","description":"Music player build upon the node using the electron."},
+{"name":"smf-dsp","description":"Standard MIDI file player."},
+{"name":"smplayer","description":"Media Player with built-in codecs for all audio and video formats."},
+{"name":"sonicvisualiser","description":"Viewing and analysing the contents of music audio files."},
+{"name":"sonixd","description":"A full-featured Subsonic/Jellyfin compatible desktop music player."},
+{"name":"sonusmix","description":"Next-gen Pipewire audio routing tool."},
+{"name":"splayer","description":"A simple music player that supports word-by-word lyrics, song downloads, comment section display, music cloud storage and playlist management, music spectrum analysis, and basic mobile adaptation. NetEase Cloud Music."},
+{"name":"spmp","description":"A YouTube Music client with a focus on customisation of colours and song metadata."},
+{"name":"spotify-candidate","description":"Unofficial. A proprietary music streaming service."},
+{"name":"spotify-edge","description":"Unofficial. A proprietary music streaming service."},
+{"name":"spotify","description":"Unofficial. A proprietary music streaming service."},
+{"name":"strawberry","description":"Unofficial AppImage of the strawberry music player."},
+{"name":"supersonic","description":"A lightweight and full-featured cross-platform desktop client for self-hosted music servers."},
+{"name":"tag-editor","description":"Tag Editor, supports MP4, ID3, Vorbis, Opus, FLAC and Matroska."},
+{"name":"tagger","description":"Unofficial. Simple audio tagger with support for various audio formats."},
+{"name":"tauon","description":"Unofficial, a music player for the desktop."},
+{"name":"tenacity","description":"An easy-to-use, cross-platform multi-track audio editor/recorder."},
+{"name":"trackaudio","description":"A next generation Audio-For-VATSIM ATC Client."},
+{"name":"tunepack","description":"Finding and download HQ audio files."},
+{"name":"ultragrid","description":"UltraGrid low-latency audio/video network transmission system."},
+{"name":"varia","description":"Unofficial. Aria2-based advanced download manager with support for downloading files, torrents, video and audio + support for Chromium and Firefox extension."},
+{"name":"vgmtrans","description":"A tool to convert proprietary, sequenced videogame music."},
+{"name":"vitomu","description":"Easy to use video to audio converter."},
+{"name":"vk-music-fs","description":"Listen to the music from VK."},
+{"name":"vlc","description":"Unofficial. Free and Open Source Video & Media player for Audio, streaming and more."},
+{"name":"wooting-analog-midi","description":"Virtual MIDI device for, Wooting analog keyboards."},
+{"name":"wora","description":"A beautiful player for audiophiles."},
+{"name":"yandex-music","description":"Personal recommendations, mixes for any occasion and the latest musical releases."},
+{"name":"yangdownloader","description":"Downloads best-quality audio and video from YouTube."},
+{"name":"yesplaymusic","description":"A third party music player for Netease Music."},
+{"name":"ym-desktop","description":"The YouTube music desktop app."},
+{"name":"youplaytx","description":"A full-screen, dual-pane YouTube audio player for the terminal."},
+{"name":"youtubeanddownloader","description":"An app to use youtube and download videos as mp3s or mp4s."},
+{"name":"youtube-downloader","description":"Download video/audio from youtube (and instagram) videos."},
+{"name":"youtube-download","description":"GUI and CLI for downloading YouTube video/audio."},
+{"name":"youtube-music","description":"Unofficial. Amazing electron wrapper for YouTube Music featuring plugins."},
+{"name":"yt-dlp","description":"A feature-rich command-line audio/video downloader."},
+{"name":"ytdownloader","description":"App for downloading Videos and Audios from hundreds of sites."},
+{"name":"ytermusic","description":"An in terminal youtube music client with focus on privacy, simplicity and performance."},
+{"name":"ytmdesktop2","description":"Unofficial Youtube Music Desktop App, with LastFM support."},
+{"name":"ytmdesktop","description":"A Desktop App for YouTube Music."},
+{"name":"ytsage","description":"Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponsorBlock, and view video metadata. Built with yt-dlp for reliable performance."}
 ]

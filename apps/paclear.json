@@ -1,8 +1,1 @@
-{
-  "name": "paclear",
-  "description": "👾paclear is a clear command with PAC-MAN animation👾",
-  "sites": [
-    "https://github.com/orangekame3/paclear"
-  ],
-  "sources": []
-}
+{"name":"paclear","description":"\ud83d\udc7epaclear is a clear command with PAC-MAN animation\ud83d\udc7e","sites":["https://github.com/orangekame3/paclear"],"sources":[]}

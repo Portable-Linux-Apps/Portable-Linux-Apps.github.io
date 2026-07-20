@@ -1,8 +1,1 @@
-{
-  "name": "utilso",
-  "description": "Regex Tester, JWT Verify, Image Converter, Format JSON, Decode base64,  Code Beautify and more.Work completely offline.",
-  "sites": [
-    "https://utilso.com"
-  ],
-  "sources": []
-}
+{"name":"utilso","description":"Regex Tester, JWT Verify, Image Converter, Format JSON, Decode base64,  Code Beautify and more.Work completely offline.","sites":["https://utilso.com"],"sources":[]}

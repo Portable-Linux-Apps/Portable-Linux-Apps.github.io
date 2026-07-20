@@ -1,8 +1,1 @@
-{
-  "name": "zsync2",
-  "description": "zsync2 is a rewrite of the advanced file download/sync tool zsync.",
-  "sites": [
-    "https://github.com/AppImage/zsync2"
-  ],
-  "sources": []
-}
+{"name":"zsync2","description":"zsync2 is a rewrite of the advanced file download/sync tool zsync.","sites":["https://github.com/AppImage/zsync2"],"sources":[]}

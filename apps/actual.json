@@ -1,8 +1,1 @@
-{
-  "name": "actual",
-  "description": "Actual is a super fast privacy-focused app for managing your finances.",
-  "sites": [
-    "https://actualbudget.com/"
-  ],
-  "sources": []
-}
+{"name":"actual","description":"Actual is a super fast privacy-focused app for managing your finances.","sites":["https://actualbudget.com/"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "duskplayer",
-  "description": "A minimal music player built on electron.",
-  "sites": [
-    "https://github.com/Aveek-Saha/DuskPlayer"
-  ],
-  "sources": []
-}
+{"name":"duskplayer","description":"A minimal music player built on electron.","sites":["https://github.com/Aveek-Saha/DuskPlayer"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "novelwriter",
-  "description": "novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.9+) and Qt 5 (5.15) for cross-platform support.",
-  "sites": [
-    "https://github.com/vkbo/novelwriter"
-  ],
-  "sources": []
-}
+{"name":"novelwriter","description":"novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.9+) and Qt 5 (5.15) for cross-platform support.","sites":["https://github.com/vkbo/novelwriter"],"sources":[]}

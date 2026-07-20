@@ -1,8 +1,1 @@
-{
-  "name": "firecamp",
-  "description": "Developer-first OpenSource API DevTool, Postman/Insomnia alternative.",
-  "sites": [
-    "https://github.com/firecamp-dev/firecamp"
-  ],
-  "sources": []
-}
+{"name":"firecamp","description":"Developer-first OpenSource API DevTool, Postman/Insomnia alternative.","sites":["https://github.com/firecamp-dev/firecamp"],"sources":[]}

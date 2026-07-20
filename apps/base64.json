@@ -1,8 +1,1 @@
-{
-  "name": "base64",
-  "description": "Base64 encode/decode data and print to standard. This is part of \"am-utils\" suite.",
-  "sites": [
-    "https://github.com/ivan-hc/am-utils"
-  ],
-  "sources": []
-}
+{"name":"base64","description":"Base64 encode/decode data and print to standard. This is part of \"am-utils\" suite.","sites":["https://github.com/ivan-hc/am-utils"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "ireader",
-  "description": "Privacy-focused, open source novel reader app.",
-  "sites": [
-    "https://github.com/IReaderorg/IReader"
-  ],
-  "sources": []
-}
+{"name":"ireader","description":"Privacy-focused, open source novel reader app.","sites":["https://github.com/IReaderorg/IReader"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "xpipe",
-  "description": "Your entire server infrastructure at your fingertips. Manage all your servers from your local desktop. No remote setup required.",
-  "sites": [
-    "https://xpipe.io"
-  ],
-  "sources": []
-}
+{"name":"xpipe","description":"Your entire server infrastructure at your fingertips. Manage all your servers from your local desktop. No remote setup required.","sites":["https://xpipe.io"],"sources":[]}

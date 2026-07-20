@@ -1,8 +1,1 @@
-{
-  "name": "nnn",
-  "description": "n³ The unorthodox terminal file manager",
-  "sites": [
-    "https://github.com/jarun/nnn"
-  ],
-  "sources": []
-}
+{"name":"nnn","description":"n\u00b3 The unorthodox terminal file manager","sites":["https://github.com/jarun/nnn"],"sources":[]}

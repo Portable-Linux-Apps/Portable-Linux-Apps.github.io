@@ -1,10 +1,1 @@
-{
-  "name": "bomber",
-  "description": "Bomber is a game where you fly a spaceship and attempt to bomb the buildings below you. Each pass the spaceship makes, it gets lower and lower. If you've not destroyed a building in your path, you will crash into it. \n \n This game is part of the KDE Games suite.\n \n USAGE (from the command line):\n \n           kdegames -h (shows the list of games)\n           kdegames $GAME (launches the selected game)\n           \n <img src=\"https://cdn.kde.org/screenshots/bomber/bomber.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://apps.kde.org"
-  ],
-  "sources": [
-    "https://github.com/ivan-hc/KDE-games-suite-appimage"
-  ]
-}
+{"name":"bomber","description":"Bomber is a game where you fly a spaceship and attempt to bomb the buildings below you. Each pass the spaceship makes, it gets lower and lower. If you've not destroyed a building in your path, you will crash into it. \n \n This game is part of the KDE Games suite.\n \n USAGE (from the command line):\n \n           kdegames -h (shows the list of games)\n           kdegames $GAME (launches the selected game)\n           \n <img src=\"https://cdn.kde.org/screenshots/bomber/bomber.png\" alt=\"Screenshot\">","sites":["https://apps.kde.org"],"sources":["https://github.com/ivan-hc/KDE-games-suite-appimage"]}

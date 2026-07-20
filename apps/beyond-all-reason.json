@@ -1,8 +1,1 @@
-{
-  "name": "beyond-all-reason",
-  "description": "3D Real-Time Strategy Redefined. The Total Annihilation Inspired RTS you've been waiting for.\n \n Explore the Scale and Realism:\n - All units and projectiles are simulated in real-time. \n - The game offers fully simulated projectile ballistics,  explosion physics and terrain deformation.\n - Enjoy an immersive RTS experience, whether you are  commanding individual units, or armies of thousands.\n - Take control as you engage in an epic struggle for  domination!",
-  "sites": [
-    "https://www.beyondallreason.info"
-  ],
-  "sources": []
-}
+{"name":"beyond-all-reason","description":"3D Real-Time Strategy Redefined. The Total Annihilation Inspired RTS you've been waiting for.\n \n Explore the Scale and Realism:\n - All units and projectiles are simulated in real-time. \n - The game offers fully simulated projectile ballistics,  explosion physics and terrain deformation.\n - Enjoy an immersive RTS experience, whether you are  commanding individual units, or armies of thousands.\n - Take control as you engage in an epic struggle for  domination!","sites":["https://www.beyondallreason.info"],"sources":[]}

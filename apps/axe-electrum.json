@@ -1,8 +1,1 @@
-{
-  "name": "axe-electrum",
-  "description": "Axe Electrum Wallet",
-  "sites": [
-    "https://github.com/AXErunners/electrum-axe"
-  ],
-  "sources": []
-}
+{"name":"axe-electrum","description":"Axe Electrum Wallet","sites":["https://github.com/AXErunners/electrum-axe"],"sources":[]}

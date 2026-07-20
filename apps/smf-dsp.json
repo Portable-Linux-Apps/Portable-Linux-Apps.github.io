@@ -1,8 +1,1 @@
-{
-  "name": "smf-dsp",
-  "description": "Standard MIDI file player",
-  "sites": [
-    "https://github.com/jpcima/smf-dsp"
-  ],
-  "sources": []
-}
+{"name":"smf-dsp","description":"Standard MIDI file player","sites":["https://github.com/jpcima/smf-dsp"],"sources":[]}

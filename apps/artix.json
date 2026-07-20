@@ -1,8 +1,1 @@
-{
-  "name": "artix",
-  "description": "One app. All your favorite Artix games.",
-  "sites": [
-    "https://www.artix.com"
-  ],
-  "sources": []
-}
+{"name":"artix","description":"One app. All your favorite Artix games.","sites":["https://www.artix.com"],"sources":[]}

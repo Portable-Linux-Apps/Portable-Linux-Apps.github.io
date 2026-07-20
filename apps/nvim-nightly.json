@@ -1,8 +1,1 @@
-{
-  "name": "nvim-nightly",
-  "description": "Vim-fork focused on extensibility and usability.\n \n This is the most recent development build.",
-  "sites": [
-    "https://github.com/neovim/neovim"
-  ],
-  "sources": []
-}
+{"name":"nvim-nightly","description":"Vim-fork focused on extensibility and usability.\n \n This is the most recent development build.","sites":["https://github.com/neovim/neovim"],"sources":[]}

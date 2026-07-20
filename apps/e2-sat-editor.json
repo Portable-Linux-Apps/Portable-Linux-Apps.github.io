@@ -1,8 +1,1 @@
-{
-  "name": "e2-sat-editor",
-  "description": "Satellite channel lists editor with tabbed nav 📡 for Enigma2, Neutrino, \n Lamedb, dreambox lists.",
-  "sites": [
-    "https://github.com/ctlcltd/e2-sat-editor"
-  ],
-  "sources": []
-}
+{"name":"e2-sat-editor","description":"Satellite channel lists editor with tabbed nav \ud83d\udce1 for Enigma2, Neutrino, \n Lamedb, dreambox lists.","sites":["https://github.com/ctlcltd/e2-sat-editor"],"sources":[]}

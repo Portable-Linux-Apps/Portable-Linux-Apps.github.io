@@ -1,8 +1,1 @@
-{
-  "name": "consoleworkbench",
-  "description": "Console workbench",
-  "sites": [
-    "https://github.com/easyops-cn/console-workbench"
-  ],
-  "sources": []
-}
+{"name":"consoleworkbench","description":"Console workbench","sites":["https://github.com/easyops-cn/console-workbench"],"sources":[]}

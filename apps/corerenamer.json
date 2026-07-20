@@ -1,8 +1,1 @@
-{
-  "name": "corerenamer",
-  "description": "A batch file renamer for CuboCore Application Suite.",
-  "sites": [
-    "https://gitlab.com/cubocore"
-  ],
-  "sources": []
-}
+{"name":"corerenamer","description":"A batch file renamer for CuboCore Application Suite.","sites":["https://gitlab.com/cubocore"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "audiomoth-configuration-app",
-  "description": "An Electron-based application capable of configuring the functionality of the AudioMoth recording device and setting the onboard clock.",
-  "sites": [
-    "https://github.com/OpenAcousticDevices/AudioMoth-Configuration-App"
-  ],
-  "sources": []
-}
+{"name":"audiomoth-configuration-app","description":"An Electron-based application capable of configuring the functionality of the AudioMoth recording device and setting the onboard clock.","sites":["https://github.com/OpenAcousticDevices/AudioMoth-Configuration-App"],"sources":[]}

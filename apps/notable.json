@@ -1,8 +1,1 @@
-{
-  "name": "notable",
-  "description": "The Markdown-based note-taking app that doesn't suck.",
-  "sites": [
-    "https://github.com/notable/notable"
-  ],
-  "sources": []
-}
+{"name":"notable","description":"The Markdown-based note-taking app that doesn't suck.","sites":["https://github.com/notable/notable"],"sources":[]}

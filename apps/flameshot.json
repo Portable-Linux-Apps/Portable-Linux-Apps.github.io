@@ -1,8 +1,1 @@
-{
-  "name": "flameshot",
-  "description": "Flameshot is a free and open-source, cross-platform  tool to take screenshots with many built-in features to save you time.\n \n <img src=\"https://flameshot.org/img/flameshot-hero.jpg\" alt=\"Screenshot\">",
-  "sites": [
-    "https://flameshot.org"
-  ],
-  "sources": []
-}
+{"name":"flameshot","description":"Flameshot is a free and open-source, cross-platform  tool to take screenshots with many built-in features to save you time.\n \n <img src=\"https://flameshot.org/img/flameshot-hero.jpg\" alt=\"Screenshot\">","sites":["https://flameshot.org"],"sources":[]}

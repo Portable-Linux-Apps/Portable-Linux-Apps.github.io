@@ -1,8 +1,1 @@
-{
-  "name": "foobillardpp",
-  "description": "Unofficial, an OpenGL Billard Game based on foobillard 3.0a with patches and new features.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Foobillardpp-AppImage"
-  ],
-  "sources": []
-}
+{"name":"foobillardpp","description":"Unofficial, an OpenGL Billard Game based on foobillard 3.0a with patches and new features.","sites":["https://github.com/pkgforge-dev/Foobillardpp-AppImage"],"sources":[]}

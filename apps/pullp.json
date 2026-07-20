@@ -1,8 +1,1 @@
-{
-  "name": "pullp",
-  "description": "Pull request monitoring app for Github",
-  "sites": [
-    "https://github.com/rkclark/pullp"
-  ],
-  "sources": []
-}
+{"name":"pullp","description":"Pull request monitoring app for Github","sites":["https://github.com/rkclark/pullp"],"sources":[]}

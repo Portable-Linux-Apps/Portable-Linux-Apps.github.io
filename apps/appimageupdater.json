@@ -1,8 +1,1 @@
-{
-  "name": "appimageupdater",
-  "description": "AppImage Updater for Humans built with QML/C++ with Qt5  :heart:.",
-  "sites": [
-    "https://github.com/antony-jr/AppImageUpdater"
-  ],
-  "sources": []
-}
+{"name":"appimageupdater","description":"AppImage Updater for Humans built with QML/C++ with Qt5  :heart:.","sites":["https://github.com/antony-jr/AppImageUpdater"],"sources":[]}

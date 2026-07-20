@@ -1,8 +1,1 @@
-{
-  "name": "mkdir",
-  "description": "Make directories. This is part of \"am-utils\" suite.",
-  "sites": [
-    "https://github.com/ivan-hc/am-utils"
-  ],
-  "sources": []
-}
+{"name":"mkdir","description":"Make directories. This is part of \"am-utils\" suite.","sites":["https://github.com/ivan-hc/am-utils"],"sources":[]}

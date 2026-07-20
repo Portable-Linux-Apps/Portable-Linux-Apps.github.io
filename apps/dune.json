@@ -1,8 +1,1 @@
-{
-  "name": "dune",
-  "description": "A shell🐚 by the beach🏖️!",
-  "sites": [
-    "https://github.com/adam-mcdaniel/dune"
-  ],
-  "sources": []
-}
+{"name":"dune","description":"A shell\ud83d\udc1a by the beach\ud83c\udfd6\ufe0f!","sites":["https://github.com/adam-mcdaniel/dune"],"sources":[]}

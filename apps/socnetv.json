@@ -1,8 +1,1 @@
-{
-  "name": "socnetv",
-  "description": "Social Network Analysis and Visualization software",
-  "sites": [
-    "https://github.com/socnetv/app"
-  ],
-  "sources": []
-}
+{"name":"socnetv","description":"Social Network Analysis and Visualization software","sites":["https://github.com/socnetv/app"],"sources":[]}

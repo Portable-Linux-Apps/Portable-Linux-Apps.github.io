@@ -1,8 +1,1 @@
-{
-  "name": "yaya",
-  "description": "Yet Another Yahtzee-esque Application.",
-  "sites": [
-    "https://github.com/trixon/yaya"
-  ],
-  "sources": []
-}
+{"name":"yaya","description":"Yet Another Yahtzee-esque Application.","sites":["https://github.com/trixon/yaya"],"sources":[]}

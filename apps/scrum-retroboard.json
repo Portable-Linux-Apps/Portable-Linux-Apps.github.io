@@ -1,8 +1,1 @@
-{
-  "name": "scrum-retroboard",
-  "description": "Electron application based on React, React Router, Webpack, React Hot Loader",
-  "sites": [
-    "https://github.com/stefanDeveloper/scrum-retroboard"
-  ],
-  "sources": []
-}
+{"name":"scrum-retroboard","description":"Electron application based on React, React Router, Webpack, React Hot Loader","sites":["https://github.com/stefanDeveloper/scrum-retroboard"],"sources":[]}

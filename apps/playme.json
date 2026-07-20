@@ -1,8 +1,1 @@
-{
-  "name": "playme",
-  "description": "Elegant YouTube Music desktop app",
-  "sites": [
-    "https://github.com/filipuic/playme"
-  ],
-  "sources": []
-}
+{"name":"playme","description":"Elegant YouTube Music desktop app","sites":["https://github.com/filipuic/playme"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "node",
-  "description": "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.",
-  "sites": [
-    "https://nodejs.org"
-  ],
-  "sources": []
-}
+{"name":"node","description":"Node.js\u00ae is a JavaScript runtime built on Chrome's V8 JavaScript engine.","sites":["https://nodejs.org"],"sources":[]}

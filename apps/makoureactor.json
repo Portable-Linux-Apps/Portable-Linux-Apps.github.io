@@ -1,8 +1,1 @@
-{
-  "name": "makoureactor",
-  "description": "Can edit field from Final Fantasy VII (PS & PC)",
-  "sites": [
-    "https://github.com/myst6re/makoureactor"
-  ],
-  "sources": []
-}
+{"name":"makoureactor","description":"Can edit field from Final Fantasy VII (PS & PC)","sites":["https://github.com/myst6re/makoureactor"],"sources":[]}

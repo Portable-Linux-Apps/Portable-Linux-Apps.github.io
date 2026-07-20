@@ -1,8 +1,1 @@
-{
-  "name": "archiveweb.page",
-  "description": "A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!",
-  "sites": [
-    "https://github.com/webrecorder/archiveweb.page"
-  ],
-  "sources": []
-}
+{"name":"archiveweb.page","description":"A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!","sites":["https://github.com/webrecorder/archiveweb.page"],"sources":[]}

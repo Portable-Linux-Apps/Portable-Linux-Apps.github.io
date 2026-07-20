@@ -1,8 +1,1 @@
-{
-  "name": "schildi-revenge",
-  "description": "Matrix client for desktop written in Kotlin and using the Matrix Rust SDK.",
-  "sites": [
-    "https://github.com/SchildiChat/schildi-revenge"
-  ],
-  "sources": []
-}
+{"name":"schildi-revenge","description":"Matrix client for desktop written in Kotlin and using the Matrix Rust SDK.","sites":["https://github.com/SchildiChat/schildi-revenge"],"sources":[]}

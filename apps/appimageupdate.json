@@ -1,8 +1,1 @@
-{
-  "name": "appimageupdate",
-  "description": "A Rust implementation of AppImageUpdate, a tool for updating AppImages using efficient delta updates using zsync.",
-  "sites": [
-    "https://github.com/pkgforge-dev/AppImageUpdate"
-  ],
-  "sources": []
-}
+{"name":"appimageupdate","description":"A Rust implementation of AppImageUpdate, a tool for updating AppImages using efficient delta updates using zsync.","sites":["https://github.com/pkgforge-dev/AppImageUpdate"],"sources":[]}

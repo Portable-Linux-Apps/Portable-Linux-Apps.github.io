@@ -1,8 +1,1 @@
-{
-  "name": "mutool",
-  "description": "All purpose tool for dealing with PDF files",
-  "sites": [
-    "https://github.com/m59peacemaker/mupdf-appimage"
-  ],
-  "sources": []
-}
+{"name":"mutool","description":"All purpose tool for dealing with PDF files","sites":["https://github.com/m59peacemaker/mupdf-appimage"],"sources":[]}

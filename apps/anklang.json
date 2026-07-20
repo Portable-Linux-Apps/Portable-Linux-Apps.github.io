@@ -1,8 +1,1 @@
-{
-  "name": "anklang",
-  "description": "MIDI and Audio Synthesizer and Composer.",
-  "sites": [
-    "https://github.com/tim-janik/anklang"
-  ],
-  "sources": []
-}
+{"name":"anklang","description":"MIDI and Audio Synthesizer and Composer.","sites":["https://github.com/tim-janik/anklang"],"sources":[]}

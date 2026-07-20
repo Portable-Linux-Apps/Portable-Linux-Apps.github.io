@@ -1,8 +1,1 @@
-{
-  "name": "vivifyscrum",
-  "description": "VivifyScrum - Agile Tool for Professionals",
-  "sites": [
-    "https://github.com/Vivify-Ideas/vivifyscrum2-electron"
-  ],
-  "sources": []
-}
+{"name":"vivifyscrum","description":"VivifyScrum - Agile Tool for Professionals","sites":["https://github.com/Vivify-Ideas/vivifyscrum2-electron"],"sources":[]}

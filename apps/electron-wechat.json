@@ -1,8 +1,1 @@
-{
-  "name": "electron-wechat",
-  "description": "Wechat desktop application",
-  "sites": [
-    "https://github.com/eNkru/electron-wechat"
-  ],
-  "sources": []
-}
+{"name":"electron-wechat","description":"Wechat desktop application","sites":["https://github.com/eNkru/electron-wechat"],"sources":[]}

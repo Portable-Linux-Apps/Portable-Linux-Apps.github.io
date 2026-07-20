@@ -1,8 +1,1 @@
-{
-  "name": "deadbeef",
-  "description": "Unofficial AppImage of the DeaDBeeF music player (Stable version).",
-  "sites": [
-    "https://github.com/pkgforge-dev/DeaDBeeF-AppImage"
-  ],
-  "sources": []
-}
+{"name":"deadbeef","description":"Unofficial AppImage of the DeaDBeeF music player (Stable version).","sites":["https://github.com/pkgforge-dev/DeaDBeeF-AppImage"],"sources":[]}

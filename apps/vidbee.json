@@ -1,8 +1,1 @@
-{
-  "name": "vidbee",
-  "description": "Download videos from almost any website worldwide.",
-  "sites": [
-    "https://github.com/nexmoe/VidBee"
-  ],
-  "sources": []
-}
+{"name":"vidbee","description":"Download videos from almost any website worldwide.","sites":["https://github.com/nexmoe/VidBee"],"sources":[]}

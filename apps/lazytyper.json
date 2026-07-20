@@ -1,8 +1,1 @@
-{
-  "name": "lazytyper",
-  "description": "LazyTyper desktop client (repackaged from the official AppImage, including built-in dependencies).",
-  "sites": [
-    "https://github.com/oldcai/LazyTyper-releases"
-  ],
-  "sources": []
-}
+{"name":"lazytyper","description":"LazyTyper desktop client (repackaged from the official AppImage, including built-in dependencies).","sites":["https://github.com/oldcai/LazyTyper-releases"],"sources":[]}

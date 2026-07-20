@@ -1,8 +1,1 @@
-{
-  "name": "quamodbusclient",
-  "description": "Modbus to OPC UA Gateway",
-  "sites": [
-    "https://github.com/juangburgos/QUaModbusClient"
-  ],
-  "sources": []
-}
+{"name":"quamodbusclient","description":"Modbus to OPC UA Gateway","sites":["https://github.com/juangburgos/QUaModbusClient"],"sources":[]}

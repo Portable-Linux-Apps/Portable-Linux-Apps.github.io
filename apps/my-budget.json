@@ -1,8 +1,1 @@
-{
-  "name": "my-budget",
-  "description": "Free, open source offline cross-platform budgeting solution built with Electron.",
-  "sites": [
-    "https://github.com/reZach/my-budget"
-  ],
-  "sources": []
-}
+{"name":"my-budget","description":"Free, open source offline cross-platform budgeting solution built with Electron.","sites":["https://github.com/reZach/my-budget"],"sources":[]}

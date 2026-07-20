@@ -1,8 +1,1 @@
-{
-  "name": "pocketcasts-electron",
-  "description": "Pocket Casts wrapper with mapped media keys",
-  "sites": [
-    "https://github.com/davegallant/pocketcasts-electron"
-  ],
-  "sources": []
-}
+{"name":"pocketcasts-electron","description":"Pocket Casts wrapper with mapped media keys","sites":["https://github.com/davegallant/pocketcasts-electron"],"sources":[]}

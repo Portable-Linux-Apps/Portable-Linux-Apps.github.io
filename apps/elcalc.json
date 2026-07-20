@@ -1,8 +1,1 @@
-{
-  "name": "elcalc",
-  "description": "Cross-Platform calculator built with Electron!",
-  "sites": [
-    "https://github.com/elcalc/elcalc"
-  ],
-  "sources": []
-}
+{"name":"elcalc","description":"Cross-Platform calculator built with Electron!","sites":["https://github.com/elcalc/elcalc"],"sources":[]}

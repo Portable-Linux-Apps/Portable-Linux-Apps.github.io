@@ -1,8 +1,1 @@
-{
-  "name": "domterm",
-  "description": "DOM/JavaScript-based terminal-emulator/console",
-  "sites": [
-    "https://github.com/PerBothner/DomTerm"
-  ],
-  "sources": []
-}
+{"name":"domterm","description":"DOM/JavaScript-based terminal-emulator/console","sites":["https://github.com/PerBothner/DomTerm"],"sources":[]}

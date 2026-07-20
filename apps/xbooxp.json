@@ -1,8 +1,1 @@
-{
-  "name": "xbooxp",
-  "description": "A nifty software to upload homebrew apps into your Game Boy Advance (GBA) using an xboo cable.",
-  "sites": [
-    "https://github.com/vishnu350/xbooxp"
-  ],
-  "sources": []
-}
+{"name":"xbooxp","description":"A nifty software to upload homebrew apps into your Game Boy Advance (GBA) using an xboo cable.","sites":["https://github.com/vishnu350/xbooxp"],"sources":[]}

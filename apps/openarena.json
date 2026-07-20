@@ -1,8 +1,1 @@
-{
-  "name": "openarena",
-  "description": "A violent, sexy, multiplayer first person shooter based on the ioquake3 engine\n \n <img src=\"http://www.openarena.ws/e107_images/custom/085-16.jpg\" alt=\"Screenshot\">",
-  "sites": [
-    "http://openarena.ws/"
-  ],
-  "sources": []
-}
+{"name":"openarena","description":"A violent, sexy, multiplayer first person shooter based on the ioquake3 engine\n \n <img src=\"http://www.openarena.ws/e107_images/custom/085-16.jpg\" alt=\"Screenshot\">","sites":["http://openarena.ws/"],"sources":[]}

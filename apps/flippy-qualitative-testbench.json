@@ -1,8 +1,1 @@
-{
-  "name": "flippy-qualitative-testbench",
-  "description": "Score-follower qualitative testbench. Displays the timestamp output by a score-follower as a cursor on the score.",
-  "sites": [
-    "https://github.com/flippy-fyp/flippy-qualitative-testbench"
-  ],
-  "sources": []
-}
+{"name":"flippy-qualitative-testbench","description":"Score-follower qualitative testbench. Displays the timestamp output by a score-follower as a cursor on the score.","sites":["https://github.com/flippy-fyp/flippy-qualitative-testbench"],"sources":[]}

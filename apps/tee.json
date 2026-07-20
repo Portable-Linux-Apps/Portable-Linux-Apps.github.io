@@ -1,8 +1,1 @@
-{
-  "name": "tee",
-  "description": "Read from standard input and write to standard output and. This is part of \"am-utils\" suite.",
-  "sites": [
-    "https://github.com/ivan-hc/am-utils"
-  ],
-  "sources": []
-}
+{"name":"tee","description":"Read from standard input and write to standard output and. This is part of \"am-utils\" suite.","sites":["https://github.com/ivan-hc/am-utils"],"sources":[]}

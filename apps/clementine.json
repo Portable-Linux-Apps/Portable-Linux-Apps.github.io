@@ -1,8 +1,1 @@
-{
-  "name": "clementine",
-  "description": "Unofficial AppImage of the Clementine music player.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Clementine-AppImage"
-  ],
-  "sources": []
-}
+{"name":"clementine","description":"Unofficial AppImage of the Clementine music player.","sites":["https://github.com/pkgforge-dev/Clementine-AppImage"],"sources":[]}

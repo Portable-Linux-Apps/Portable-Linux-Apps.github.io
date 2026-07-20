@@ -1,2530 +1,602 @@
 [
-  {
-    "icon": "7z.png",
-    "name": "7z",
-    "description": "Archiver with a high compression ratio. This is part of \"am-utils\" suite.",
-    "app_page": "apps/7z.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/7z",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/7z"
-  },
-  {
-    "icon": "adb.png",
-    "name": "adb",
-    "description": "Android Debug Bridge, a command line utility to handle Android devices. This script installs the full \"platform-tools\" suite.",
-    "app_page": "apps/adb.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/adb",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/adb"
-  },
-  {
-    "icon": "afetch.png",
-    "name": "afetch",
-    "description": "A CLI system information tool written in Rust.",
-    "app_page": "apps/afetch.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/afetch",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/afetch"
-  },
-  {
-    "icon": "aichat.png",
-    "name": "aichat",
-    "description": "AIO AI CLI tool integrating 20+ AI platforms, including OpenAI.",
-    "app_page": "apps/aichat.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aichat",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aichat"
-  },
-  {
-    "icon": "aim.png",
-    "name": "aim",
-    "description": "A command line download/upload tool with resume.",
-    "app_page": "apps/aim.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aim",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aim"
-  },
-  {
-    "icon": "alacritty.png",
-    "name": "alacritty",
-    "description": "Unofficial. A modern terminal emulator that comes with sensible defaults, but allows for extensive configuration.",
-    "app_page": "apps/alacritty.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alacritty",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alacritty"
-  },
-  {
-    "icon": "alien-tec-ui.png",
-    "name": "alien-tec-ui",
-    "description": "Alien-Tec Tron Matrix Like Shell Terminal User Interface.",
-    "app_page": "apps/alien-tec-ui.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alien-tec-ui",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alien-tec-ui"
-  },
-  {
-    "icon": "altrady.png",
-    "name": "altrady",
-    "description": "Altrady Crypto Trading Terminal.",
-    "app_page": "apps/altrady.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/altrady",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/altrady"
-  },
-  {
-    "icon": "amfora.png",
-    "name": "amfora",
-    "description": "A fancy terminal browser for the Gemini protocol.",
-    "app_page": "apps/amfora.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amfora",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amfora"
-  },
-  {
-    "icon": "android-tools.png",
-    "name": "android-tools",
-    "description": "Unofficial AppImage for the Android Platform tools, adb, fastboot, etc.",
-    "app_page": "apps/android-tools.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/android-tools",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/android-tools"
-  },
-  {
-    "icon": "ani-cli.png",
-    "name": "ani-cli",
-    "description": "A cli tool to browse and play anime.",
-    "app_page": "apps/ani-cli.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ani-cli",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ani-cli"
-  },
-  {
-    "icon": "appimagelauncher.png",
-    "name": "appimagelauncher",
-    "description": "CLI helper for running and integrating AppImages.",
-    "app_page": "apps/appimagelauncher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/appimagelauncher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/appimagelauncher"
-  },
-  {
-    "icon": "appimg.png",
-    "name": "appimg",
-    "description": "Appimg is a lightweight command-line tool that helps you manage AppImage files on Linux.",
-    "app_page": "apps/appimg.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/appimg",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/appimg"
-  },
-  {
-    "icon": "aptly.png",
-    "name": "aptly",
-    "description": "Debian repository management CLI tool.",
-    "app_page": "apps/aptly.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aptly",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aptly"
-  },
-  {
-    "icon": "ar.png",
-    "name": "ar",
-    "description": "Create, modify, and extract from .deb archives. This is part of \"am-utils\" suite.",
-    "app_page": "apps/ar.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ar",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ar"
-  },
-  {
-    "icon": "atuin.png",
-    "name": "atuin",
-    "description": "Magical shell history.",
-    "app_page": "apps/atuin.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/atuin",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/atuin"
-  },
-  {
-    "icon": "azaharplus-pkg-extractor.png",
-    "name": "azaharplus-pkg-extractor",
-    "description": "Standalone PKG extractor CLI based on code that used to be in ShadPS4 PlayStation 4 emulator written in C++.",
-    "app_page": "apps/azaharplus-pkg-extractor.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/azaharplus-pkg-extractor",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/azaharplus-pkg-extractor"
-  },
-  {
-    "icon": "bandwhich.png",
-    "name": "bandwhich",
-    "description": "Terminal bandwidth utilization tool.",
-    "app_page": "apps/bandwhich.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bandwhich",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bandwhich"
-  },
-  {
-    "icon": "base64.png",
-    "name": "base64",
-    "description": "Base64 encode/decode data and print to standard. This is part of \"am-utils\" suite.",
-    "app_page": "apps/base64.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/base64",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/base64"
-  },
-  {
-    "icon": "basename.png",
-    "name": "basename",
-    "description": "Strip directory and suffix from filenames. This is part of \"am-utils\" suite.",
-    "app_page": "apps/basename.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/basename",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/basename"
-  },
-  {
-    "icon": "bat-extras.png",
-    "name": "bat-extras",
-    "description": "Bash scripts that integrate bat with various command line tools.",
-    "app_page": "apps/bat-extras.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bat-extras",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bat-extras"
-  },
-  {
-    "icon": "bench-cli.png",
-    "name": "bench-cli",
-    "description": "CLI tool to benchmark commands, written in `Fortran`.",
-    "app_page": "apps/bench-cli.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bench-cli",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bench-cli"
-  },
-  {
-    "icon": "bettersis.png",
-    "name": "bettersis",
-    "description": "Modern shell for SIS.",
-    "app_page": "apps/bettersis.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bettersis",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bettersis"
-  },
-  {
-    "icon": "binclock.png",
-    "name": "binclock",
-    "description": "Binary clock in terminal.",
-    "app_page": "apps/binclock.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/binclock",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/binclock"
-  },
-  {
-    "icon": "bk.png",
-    "name": "bk",
-    "description": "Terminal Epub reader.",
-    "app_page": "apps/bk.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bk",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bk"
-  },
-  {
-    "icon": "blimp.png",
-    "name": "blimp",
-    "description": "Customizable terminal UI for monitoring weather information, application status, network latency, and more.",
-    "app_page": "apps/blimp.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/blimp",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/blimp"
-  },
-  {
-    "icon": "blob-dl.png",
-    "name": "blob-dl",
-    "description": "Blob-dl is a yt-dlp CLI interface used to download video and audio files from YouTube.",
-    "app_page": "apps/blob-dl.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/blob-dl",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/blob-dl"
-  },
-  {
-    "icon": "blobdrop.png",
-    "name": "blobdrop",
-    "description": "Drag and drop files directly out of the terminal.",
-    "app_page": "apps/blobdrop.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/blobdrop",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/blobdrop"
-  },
-  {
-    "icon": "btop.png",
-    "name": "btop",
-    "description": "A command line utility to monitor system resources, like Htop.",
-    "app_page": "apps/btop.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/btop",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/btop"
-  },
-  {
-    "icon": "bzip2.png",
-    "name": "bzip2",
-    "description": "A high-quality data compression program. This is part of \"am-utils\" suite.",
-    "app_page": "apps/bzip2.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bzip2",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bzip2"
-  },
-  {
-    "icon": "carbonyl.png",
-    "name": "carbonyl",
-    "description": "Chromium running inside your terminal.",
-    "app_page": "apps/carbonyl.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/carbonyl",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/carbonyl"
-  },
-  {
-    "icon": "cat.png",
-    "name": "cat",
-    "description": "Concatenate files and print on the standard output. This is part of \"am-utils\" suite.",
-    "app_page": "apps/cat.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cat",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cat"
-  },
-  {
-    "icon": "cbird.png",
-    "name": "cbird",
-    "description": "Command-line program for Content-Based Image Retrieval of images and videos. Includes tools for general search and de-duplication.",
-    "app_page": "apps/cbird.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cbird",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cbird"
-  },
-  {
-    "icon": "celoterminal-bin.png",
-    "name": "celoterminal-bin",
-    "description": "Celo Terminal, AppImage version.",
-    "app_page": "apps/celoterminal-bin.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/celoterminal-bin",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/celoterminal-bin"
-  },
-  {
-    "icon": "cheat.png",
-    "name": "cheat",
-    "description": "Create and view interactive cheatsheets on the command-line.",
-    "app_page": "apps/cheat.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cheat",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cheat"
-  },
-  {
-    "icon": "chess-tui.png",
-    "name": "chess-tui",
-    "description": "Play chess from your terminal.",
-    "app_page": "apps/chess-tui.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chess-tui",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chess-tui"
-  },
-  {
-    "icon": "chmod.png",
-    "name": "chmod",
-    "description": "Change file mode bits. This is part of \"am-utils\" suite.",
-    "app_page": "apps/chmod.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chmod",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chmod"
-  },
-  {
-    "icon": "chown.png",
-    "name": "chown",
-    "description": "Change file owner and group. This is part of \"am-utils\" suite.",
-    "app_page": "apps/chown.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chown",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chown"
-  },
-  {
-    "icon": "chroot.png",
-    "name": "chroot",
-    "description": "Run command or interactive shell with special root. This is part of \"am-utils\" suite.",
-    "app_page": "apps/chroot.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chroot",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chroot"
-  },
-  {
-    "icon": "cicada.png",
-    "name": "cicada",
-    "description": "An old-school bash-like Unix shell written in Rust.",
-    "app_page": "apps/cicada.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cicada",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cicada"
-  },
-  {
-    "icon": "clear.png",
-    "name": "clear",
-    "description": "Clear the terminal screen. This is part of \"am-utils\" suite.",
-    "app_page": "apps/clear.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clear",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clear"
-  },
-  {
-    "icon": "clifm.png",
-    "name": "clifm",
-    "description": "The shell-like, command line terminal file manager simple, fast, extensible, and lightweight as hell.",
-    "app_page": "apps/clifm.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clifm",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clifm"
-  },
-  {
-    "icon": "code-radio.png",
-    "name": "code-radio",
-    "description": "A command line music radio client for coderadio.freecodecamp.org, written in Rust.",
-    "app_page": "apps/code-radio.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/code-radio",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/code-radio"
-  },
-  {
-    "icon": "colorstatic-bash.png",
-    "name": "colorstatic-bash",
-    "description": "CLI to generate a random colorful \"Static\"/\"Matrix\".",
-    "app_page": "apps/colorstatic-bash.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/colorstatic-bash",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/colorstatic-bash"
-  },
-  {
-    "icon": "column.png",
-    "name": "column",
-    "description": "Columnate lists. This is part of \"am-utils\" suite.",
-    "app_page": "apps/column.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/column",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/column"
-  },
-  {
-    "icon": "contour.png",
-    "name": "contour",
-    "description": "Modern C++ Terminal Emulator.",
-    "app_page": "apps/contour.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/contour",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/contour"
-  },
-  {
-    "icon": "cool-retro-term.png",
-    "name": "cool-retro-term",
-    "description": "Use the command line the old way.",
-    "app_page": "apps/cool-retro-term.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cool-retro-term",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cool-retro-term"
-  },
-  {
-    "icon": "coreterminal.png",
-    "name": "coreterminal",
-    "description": "A terminal emulator for C Suite.",
-    "app_page": "apps/coreterminal.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/coreterminal",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/coreterminal"
-  },
-  {
-    "icon": "cp.png",
-    "name": "cp",
-    "description": "Copy files and directories. This is part of \"am-utils\" suite.",
-    "app_page": "apps/cp.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cp",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cp"
-  },
-  {
-    "icon": "crabfetch.png",
-    "name": "crabfetch",
-    "description": "Extremely fast, featureful and customizable command-line fetcher.",
-    "app_page": "apps/crabfetch.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crabfetch",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crabfetch"
-  },
-  {
-    "icon": "crawl-ncurses.png",
-    "name": "crawl-ncurses",
-    "description": "open-source, single-player, role-playing roguelike game of exploration and treasure-hunting - ncurses version (terminal)",
-    "app_page": "apps/crawl-ncurses.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crawl-ncurses",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crawl-ncurses"
-  },
-  {
-    "icon": "curl.png",
-    "name": "curl",
-    "description": "Command line tool and library for transferring data with URLs. This is part of \"am-utils\" suite.",
-    "app_page": "apps/curl.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/curl",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/curl"
-  },
-  {
-    "icon": "cursor-cli.png",
-    "name": "cursor-cli",
-    "description": "Unofficial, AI-assisted development CLI tool.",
-    "app_page": "apps/cursor-cli.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cursor-cli",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cursor-cli"
-  },
-  {
-    "icon": "cut.png",
-    "name": "cut",
-    "description": "From each line of files. This is part of \"am-utils\" suite.",
-    "app_page": "apps/cut.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cut",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cut"
-  },
-  {
-    "icon": "cutechess.png",
-    "name": "cutechess",
-    "description": "Cute Chess is a GUI, a CLI and a library for playing chess.",
-    "app_page": "apps/cutechess.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cutechess",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cutechess"
-  },
-  {
-    "icon": "dd.png",
-    "name": "dd",
-    "description": "Convert and copy a file. This is part of \"am-utils\" suite.",
-    "app_page": "apps/dd.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dd",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dd"
-  },
-  {
-    "icon": "devclean.png",
-    "name": "devclean",
-    "description": "A CLI and Desktop GUI app to clean dev dependencies (node_modules, cache) and more.",
-    "app_page": "apps/devclean.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/devclean",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/devclean"
-  },
-  {
-    "icon": "didder.png",
-    "name": "didder",
-    "description": "An extensive, fast, and accurate command-line image dithering tool.",
-    "app_page": "apps/didder.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/didder",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/didder"
-  },
-  {
-    "icon": "diff.png",
-    "name": "diff",
-    "description": "Compare files line by line. This is part of \"am-utils\" suite.",
-    "app_page": "apps/diff.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/diff",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/diff"
-  },
-  {
-    "icon": "dirname.png",
-    "name": "dirname",
-    "description": "Strip last component from file name. This is part of \"am-utils\" suite.",
-    "app_page": "apps/dirname.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dirname",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dirname"
-  },
-  {
-    "icon": "diskonaut.png",
-    "name": "diskonaut",
-    "description": "Terminal disk space navigator.",
-    "app_page": "apps/diskonaut.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/diskonaut",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/diskonaut"
-  },
-  {
-    "icon": "doggo.png",
-    "name": "doggo",
-    "description": "Command-line DNS Client for Humans. Written in Golang",
-    "app_page": "apps/doggo.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/doggo",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/doggo"
-  },
-  {
-    "icon": "domterm.png",
-    "name": "domterm",
-    "description": "DOM/JavaScript-based terminal-emulator/console.",
-    "app_page": "apps/domterm.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/domterm",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/domterm"
-  },
-  {
-    "icon": "dra.png",
-    "name": "dra",
-    "description": "A command line tool to download release assets from GitHub.",
-    "app_page": "apps/dra.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dra",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dra"
-  },
-  {
-    "icon": "dragdrop.png",
-    "name": "dragdrop",
-    "description": "Small drag-and-drop file source for the command line.",
-    "app_page": "apps/dragdrop.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dragdrop",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dragdrop"
-  },
-  {
-    "icon": "draw.png",
-    "name": "draw",
-    "description": "Draw in your terminal.",
-    "app_page": "apps/draw.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/draw",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/draw"
-  },
-  {
-    "icon": "dstask.png",
-    "name": "dstask",
-    "description": "Git powered terminal-based todo/note manager, markdown note page per task.",
-    "app_page": "apps/dstask.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dstask",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dstask"
-  },
-  {
-    "icon": "dtmate.png",
-    "name": "dtmate",
-    "description": "CLI to compute difference between date, time or duration.",
-    "app_page": "apps/dtmate.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dtmate",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dtmate"
-  },
-  {
-    "icon": "du.png",
-    "name": "du",
-    "description": "Estimate file space usage. This is part of \"am-utils\" suite.",
-    "app_page": "apps/du.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/du",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/du"
-  },
-  {
-    "icon": "dune.png",
-    "name": "dune",
-    "description": "A shell by the beach.",
-    "app_page": "apps/dune.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dune",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dune"
-  },
-  {
-    "icon": "echo.png",
-    "name": "echo",
-    "description": "Display a line of text. This is part of \"am-utils\" suite.",
-    "app_page": "apps/echo.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/echo",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/echo"
-  },
-  {
-    "icon": "edex-ui.png",
-    "name": "edex-ui",
-    "description": "A cross-platform, customizable science fiction terminal emulator.",
-    "app_page": "apps/edex-ui.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/edex-ui",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/edex-ui"
-  },
-  {
-    "icon": "effer.png",
-    "name": "effer",
-    "description": "Encrypted CLI Notepad written in Rust",
-    "app_page": "apps/effer.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/effer",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/effer"
-  },
-  {
-    "icon": "elvish.png",
-    "name": "elvish",
-    "description": "Powerful modern shell scripting.",
-    "app_page": "apps/elvish.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elvish",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elvish"
-  },
-  {
-    "icon": "extension-manager.png",
-    "name": "extension-manager",
-    "description": "A native tool for browsing, installing, and managing GNOME Shell Extensions.",
-    "app_page": "apps/extension-manager.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/extension-manager",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/extension-manager"
-  },
-  {
-    "icon": "extraterm.png",
-    "name": "extraterm",
-    "description": "The swiss army chainsaw of terminal emulators.",
-    "app_page": "apps/extraterm.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/extraterm",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/extraterm"
-  },
-  {
-    "icon": "fakedata.png",
-    "name": "fakedata",
-    "description": "CLI utility for fake data generation.",
-    "app_page": "apps/fakedata.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fakedata",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fakedata"
-  },
-  {
-    "icon": "fastboot.png",
-    "name": "fastboot",
-    "description": "Tool to flash Android devices. This script installs the full \"platform-tools\" suite.",
-    "app_page": "apps/fastboot.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fastboot",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fastboot"
-  },
-  {
-    "icon": "fdroidcl.png",
-    "name": "fdroidcl",
-    "description": "A command-line F-Droid desktop client.",
-    "app_page": "apps/fdroidcl.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fdroidcl",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fdroidcl"
-  },
-  {
-    "icon": "ffsend.png",
-    "name": "ffsend",
-    "description": "Easily and securely share files from the command line. A fully featured Firefox Send client.",
-    "app_page": "apps/ffsend.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffsend",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffsend"
-  },
-  {
-    "icon": "file.png",
-    "name": "file",
-    "description": "Determine the type of a file from its contents. This is part of \"am-utils\" suite.",
-    "app_page": "apps/file.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/file",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/file"
-  },
-  {
-    "icon": "filen-cli.png",
-    "name": "filen-cli",
-    "description": "Filen CLI for Windows, macOS and Linux",
-    "app_page": "apps/filen-cli.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filen-cli",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filen-cli"
-  },
-  {
-    "icon": "fish.png",
-    "name": "fish",
-    "description": "The user-friendly command line shell.",
-    "app_page": "apps/fish.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fish",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fish"
-  },
-  {
-    "icon": "fishterm.png",
-    "name": "fishterm",
-    "description": "A open-soruce Terminal remote access.",
-    "app_page": "apps/fishterm.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fishterm",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fishterm"
-  },
-  {
-    "icon": "flyctl.png",
-    "name": "flyctl",
-    "description": "Command line tools for fly.io services.",
-    "app_page": "apps/flyctl.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flyctl",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flyctl"
-  },
-  {
-    "icon": "fman.png",
-    "name": "fman",
-    "description": "TUI CLI File Manager.",
-    "app_page": "apps/fman.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fman",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fman"
-  },
-  {
-    "icon": "focus.png",
-    "name": "focus",
-    "description": "A fully featured productivity timer for the command line, based on the Pomodoro Technique.",
-    "app_page": "apps/focus.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/focus",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/focus"
-  },
-  {
-    "icon": "fold.png",
-    "name": "fold",
-    "description": "Wrap each input line to fit in specified width. This is part of \"am-utils\" suite.",
-    "app_page": "apps/fold.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fold",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fold"
-  },
-  {
-    "icon": "foot.png",
-    "name": "foot",
-    "description": "Unofficial, A fast, lightweight and minimalistic Wayland terminal emulator (This AppImage can work on x11 as well).",
-    "app_page": "apps/foot.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/foot",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/foot"
-  },
-  {
-    "icon": "freeze.png",
-    "name": "freeze",
-    "description": "Generate images of code and terminal output.",
-    "app_page": "apps/freeze.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freeze",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freeze"
-  },
-  {
-    "icon": "fresh.png",
-    "name": "fresh",
-    "description": "easy, powerful and fast.",
-    "app_page": "apps/fresh.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fresh",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fresh"
-  },
-  {
-    "icon": "funterm.png",
-    "name": "funterm",
-    "description": "A Linux Terminal Emulator.",
-    "app_page": "apps/funterm.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/funterm",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/funterm"
-  },
-  {
-    "icon": "fx.png",
-    "name": "fx",
-    "description": "Terminal JSON viewer & processor.",
-    "app_page": "apps/fx.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fx",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fx"
-  },
-  {
-    "icon": "fzf.png",
-    "name": "fzf",
-    "description": "A command-line fuzzy finder.",
-    "app_page": "apps/fzf.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fzf",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fzf"
-  },
-  {
-    "icon": "gallery-dl.png",
-    "name": "gallery-dl",
-    "description": "Command-line program to download image galleries and collections.",
-    "app_page": "apps/gallery-dl.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gallery-dl",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gallery-dl"
-  },
-  {
-    "icon": "gawk.png",
-    "name": "gawk",
-    "description": "GNU version of awk. This is part of \"am-utils\" suite.",
-    "app_page": "apps/gawk.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gawk",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gawk"
-  },
-  {
-    "icon": "gemget.png",
-    "name": "gemget",
-    "description": "Command line downloader for the Gemini protocol.",
-    "app_page": "apps/gemget.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gemget",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gemget"
-  },
-  {
-    "icon": "gert.png",
-    "name": "gert",
-    "description": "A command line tool to download media from Reddit.",
-    "app_page": "apps/gert.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gert",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gert"
-  },
-  {
-    "icon": "gh.png",
-    "name": "gh",
-    "description": "GitHub\u2019s official command line tool.",
-    "app_page": "apps/gh.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gh",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gh"
-  },
-  {
-    "icon": "gh-eco.png",
-    "name": "gh-eco",
-    "description": "gh cli extension to explore the ecosystem.",
-    "app_page": "apps/gh-eco.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gh-eco",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gh-eco"
-  },
-  {
-    "icon": "ghdl.png",
-    "name": "ghdl",
-    "description": "A much more convenient way to download GitHub release binaries on the command line.",
-    "app_page": "apps/ghdl.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ghdl",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ghdl"
-  },
-  {
-    "icon": "ghostty.png",
-    "name": "ghostty",
-    "description": "Unofficial, \ud83d\udc7b \u2699\ufe0f AppImage for Ghostty Terminal Emulator (Stable)",
-    "app_page": "apps/ghostty.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ghostty",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ghostty"
-  },
-  {
-    "icon": "ghostty-glfw.png",
-    "name": "ghostty-glfw",
-    "description": "Unofficial, \ud83d\udc7b \u2699\ufe0f AppImage for Ghostty Terminal Emulator (glfw version)",
-    "app_page": "apps/ghostty-glfw.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ghostty-glfw",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ghostty-glfw"
-  },
-  {
-    "icon": "ghostty-glfw-nightly.png",
-    "name": "ghostty-glfw-nightly",
-    "description": "Unofficial, \ud83d\udc7b \u2699\ufe0f AppImage for Ghostty Terminal Emulator (Tip, Nightly) (glfw version)",
-    "app_page": "apps/ghostty-glfw-nightly.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ghostty-glfw-nightly",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ghostty-glfw-nightly"
-  },
-  {
-    "icon": "ghostty-nightly.png",
-    "name": "ghostty-nightly",
-    "description": "Unofficial, \ud83d\udc7b \u2699\ufe0f AppImage for Ghostty Terminal Emulator (Tip, Nightly)",
-    "app_page": "apps/ghostty-nightly.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ghostty-nightly",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ghostty-nightly"
-  },
-  {
-    "icon": "gitui.png",
-    "name": "gitui",
-    "description": "Blazing fast terminal-ui for git written in rust.",
-    "app_page": "apps/gitui.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gitui",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gitui"
-  },
-  {
-    "icon": "glab.png",
-    "name": "glab",
-    "description": "A GitLab CLI tool bringing GitLab to your command line.",
-    "app_page": "apps/glab.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/glab",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/glab"
-  },
-  {
-    "icon": "go-pd.png",
-    "name": "go-pd",
-    "description": "A free easy to use pixeldrain.com go client pkg and CLI upload tool.",
-    "app_page": "apps/go-pd.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/go-pd",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/go-pd"
-  },
-  {
-    "icon": "go-spotify-cli.png",
-    "name": "go-spotify-cli",
-    "description": "Control Spotify with CLI commands.",
-    "app_page": "apps/go-spotify-cli.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/go-spotify-cli",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/go-spotify-cli"
-  },
-  {
-    "icon": "goodls.png",
-    "name": "goodls",
-    "description": "This is a CLI tool to download shared files and folders from Google Drive.",
-    "app_page": "apps/goodls.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/goodls",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/goodls"
-  },
-  {
-    "icon": "gooseberry.png",
-    "name": "gooseberry",
-    "description": "A command line utility to generate a knowledge base from Hypothesis annotations.",
-    "app_page": "apps/gooseberry.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gooseberry",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gooseberry"
-  },
-  {
-    "icon": "got.png",
-    "name": "got",
-    "description": "Simple golang package and CLI tool to download large files faster than cURL and Wget!",
-    "app_page": "apps/got.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/got",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/got"
-  },
-  {
-    "icon": "gotimer.png",
-    "name": "gotimer",
-    "description": "A simple terminal based digital timer for Pomodoro.",
-    "app_page": "apps/gotimer.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gotimer",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gotimer"
-  },
-  {
-    "icon": "goto.png",
-    "name": "goto",
-    "description": "A simple terminal SSH manager that lists favorite SSH servers.",
-    "app_page": "apps/goto.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/goto",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/goto"
-  },
-  {
-    "icon": "grep.png",
-    "name": "grep",
-    "description": "A string search utility. This is part of \"am-utils\" suite.",
-    "app_page": "apps/grep.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/grep",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/grep"
-  },
-  {
-    "icon": "gum.png",
-    "name": "gum",
-    "description": "A tool for glamorous shell scripts.",
-    "app_page": "apps/gum.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gum",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gum"
-  },
-  {
-    "icon": "hascard.png",
-    "name": "hascard",
-    "description": "Flashcard TUI CLI with markdown cards.",
-    "app_page": "apps/hascard.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hascard",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hascard"
-  },
-  {
-    "icon": "hctl.png",
-    "name": "hctl",
-    "description": "A tool to control your Home Assistant devices from the command-line.",
-    "app_page": "apps/hctl.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hctl",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hctl"
-  },
-  {
-    "icon": "head.png",
-    "name": "head",
-    "description": "Output the first part of files. This is part of \"am-utils\" suite.",
-    "app_page": "apps/head.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/head",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/head"
-  },
-  {
-    "icon": "hide.me.png",
-    "name": "hide.me",
-    "description": "Hide.me CLI VPN client for Linux.",
-    "app_page": "apps/hide.me.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hide.me",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hide.me"
-  },
-  {
-    "icon": "hilbish.png",
-    "name": "hilbish",
-    "description": "The Moon-powered shell! A comfy and extensible shell for Lua fans!",
-    "app_page": "apps/hilbish.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hilbish",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hilbish"
-  },
-  {
-    "icon": "himalaya.png",
-    "name": "himalaya",
-    "description": "CLI to manage emails.",
-    "app_page": "apps/himalaya.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/himalaya",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/himalaya"
-  },
-  {
-    "icon": "htop.png",
-    "name": "htop",
-    "description": "Unofficial, CLI utility to monitor system resources.",
-    "app_page": "apps/htop.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/htop",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/htop"
-  },
-  {
-    "icon": "hyper.png",
-    "name": "hyper",
-    "description": "A terminal built on web technologies.",
-    "app_page": "apps/hyper.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyper",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyper"
-  },
-  {
-    "icon": "hyperfine.png",
-    "name": "hyperfine",
-    "description": "A command-line benchmarking tool.",
-    "app_page": "apps/hyperfine.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperfine",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperfine"
-  },
-  {
-    "icon": "id.png",
-    "name": "id",
-    "description": "Print real and effective user and group IDs. This is part of \"am-utils\" suite.",
-    "app_page": "apps/id.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/id",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/id"
-  },
-  {
-    "icon": "imagemagick-clang.png",
-    "name": "imagemagick-clang",
-    "description": "CLI to create, edit, compose, or convert digital images.",
-    "app_page": "apps/imagemagick-clang.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/imagemagick-clang",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/imagemagick-clang"
-  },
-  {
-    "icon": "imagemagick-gcc.png",
-    "name": "imagemagick-gcc",
-    "description": "CLI to create, edit, compose, or convert digital images.",
-    "app_page": "apps/imagemagick-gcc.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/imagemagick-gcc",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/imagemagick-gcc"
-  },
-  {
-    "icon": "imgcat.png",
-    "name": "imgcat",
-    "description": "Display images and gifs in your terminal.",
-    "app_page": "apps/imgcat.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/imgcat",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/imgcat"
-  },
-  {
-    "icon": "inxi.png",
-    "name": "inxi",
-    "description": "A full featured CLI system information tool.",
-    "app_page": "apps/inxi.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/inxi",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/inxi"
-  },
-  {
-    "icon": "jless.png",
-    "name": "jless",
-    "description": "CLI JSON viewer designed for reading, exploring, and searching.",
-    "app_page": "apps/jless.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jless",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jless"
-  },
-  {
-    "icon": "jottem.png",
-    "name": "jottem",
-    "description": "A lean, low friction terminal app for managing markdown notes.",
-    "app_page": "apps/jottem.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jottem",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jottem"
-  },
-  {
-    "icon": "jq.png",
-    "name": "jq",
-    "description": "Command-line JSON processor.",
-    "app_page": "apps/jq.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jq",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jq"
-  },
-  {
-    "icon": "kalc.png",
-    "name": "kalc",
-    "description": "Complex numbers, 2d/3d graphing, arbitrary precision cli calculator.",
-    "app_page": "apps/kalc.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kalc",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kalc"
-  },
-  {
-    "icon": "kboard.png",
-    "name": "kboard",
-    "description": "Terminal game to practice keyboard typing.",
-    "app_page": "apps/kboard.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kboard",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kboard"
-  },
-  {
-    "icon": "kill.png",
-    "name": "kill",
-    "description": "Terminate a process. This is part of \"am-utils\" suite.",
-    "app_page": "apps/kill.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kill",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kill"
-  },
-  {
-    "icon": "killall.png",
-    "name": "killall",
-    "description": "Kill processes by name. This is part of \"am-utils\" suite.",
-    "app_page": "apps/killall.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/killall",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/killall"
-  },
-  {
-    "icon": "kitty.png",
-    "name": "kitty",
-    "description": "Cross-platform, fast, feature-rich, GPU based terminal (also provides \"kitten\" CLI utility).",
-    "app_page": "apps/kitty.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kitty",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kitty"
-  },
-  {
-    "icon": "kure.png",
-    "name": "kure",
-    "description": "CLI password manager with sessions.",
-    "app_page": "apps/kure.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kure",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kure"
-  },
-  {
-    "icon": "lazygit.png",
-    "name": "lazygit",
-    "description": "Simple terminal UI for git commands.",
-    "app_page": "apps/lazygit.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lazygit",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lazygit"
-  },
-  {
-    "icon": "less.png",
-    "name": "less",
-    "description": "A terminal based program for viewing text files. This is part of \"am-utils\" suite.",
-    "app_page": "apps/less.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/less",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/less"
-  },
-  {
-    "icon": "lexido.png",
-    "name": "lexido",
-    "description": "A terminal assistant, powered by Generative AI.",
-    "app_page": "apps/lexido.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lexido",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lexido"
-  },
-  {
-    "icon": "lf.png",
-    "name": "lf",
-    "description": "lf, as in \"list files\" is a terminal file manager written in Go.",
-    "app_page": "apps/lf.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lf",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lf"
-  },
-  {
-    "icon": "litime.png",
-    "name": "litime",
-    "description": "A terminal literature clock telling time with quotes from literature.",
-    "app_page": "apps/litime.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/litime",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/litime"
-  },
-  {
-    "icon": "ln.png",
-    "name": "ln",
-    "description": "Make links between files. This is part of \"am-utils\" suite.",
-    "app_page": "apps/ln.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ln",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ln"
-  },
-  {
-    "icon": "ls.png",
-    "name": "ls",
-    "description": "List directory contents. This is part of \"am-utils\" suite.",
-    "app_page": "apps/ls.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ls",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ls"
-  },
-  {
-    "icon": "luna.png",
-    "name": "luna",
-    "description": "Manage npm dependencies through a modern UI.",
-    "app_page": "apps/luna.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/luna",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/luna"
-  },
-  {
-    "icon": "manga-tui.png",
-    "name": "manga-tui",
-    "description": "Terminal-based manga reader and downloader with image support.",
-    "app_page": "apps/manga-tui.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/manga-tui",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/manga-tui"
-  },
-  {
-    "icon": "mangadesk.png",
-    "name": "mangadesk",
-    "description": "Terminal client for MangaDex.",
-    "app_page": "apps/mangadesk.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangadesk",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangadesk"
-  },
-  {
-    "icon": "mangal.png",
-    "name": "mangal",
-    "description": "Most advanced, yet simple CLI manga downloader in the universe!",
-    "app_page": "apps/mangal.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangal",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangal"
-  },
-  {
-    "icon": "mawk.png",
-    "name": "mawk",
-    "description": "And text processing language. This is part of \"am-utils\" suite.",
-    "app_page": "apps/mawk.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mawk",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mawk"
-  },
-  {
-    "icon": "mcfly.png",
-    "name": "mcfly",
-    "description": "Fly through your shell history. Great Scott!",
-    "app_page": "apps/mcfly.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mcfly",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mcfly"
-  },
-  {
-    "icon": "md5sum.png",
-    "name": "md5sum",
-    "description": "Compute and check MD5 message digest. This is part of \"am-utils\" suite.",
-    "app_page": "apps/md5sum.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/md5sum",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/md5sum"
-  },
-  {
-    "icon": "mdcat.png",
-    "name": "mdcat",
-    "description": "Command line, \"cat\" for markdown.",
-    "app_page": "apps/mdcat.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mdcat",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mdcat"
-  },
-  {
-    "icon": "mednafen.png",
-    "name": "mednafen",
-    "description": "Unofficial AppImage. Mednafen is a portable, utilizing OpenGL and SDL, argument(command-line)-driven multi-system emulator.",
-    "app_page": "apps/mednafen.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mednafen",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mednafen"
-  },
-  {
-    "icon": "menyoki.png",
-    "name": "menyoki",
-    "description": "Screen{shot,cast} and perform ImageOps on the command line.",
-    "app_page": "apps/menyoki.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/menyoki",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/menyoki"
-  },
-  {
-    "icon": "mkdir.png",
-    "name": "mkdir",
-    "description": "Make directories. This is part of \"am-utils\" suite.",
-    "app_page": "apps/mkdir.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mkdir",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mkdir"
-  },
-  {
-    "icon": "more.png",
-    "name": "more",
-    "description": "Display the contents of a file in a terminal. This is part of \"am-utils\" suite.",
-    "app_page": "apps/more.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/more",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/more"
-  },
-  {
-    "icon": "mount.png",
-    "name": "mount",
-    "description": "Mount a filesystem. This is part of \"am-utils\" suite.",
-    "app_page": "apps/mount.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mount",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mount"
-  },
-  {
-    "icon": "mp4grep.png",
-    "name": "mp4grep",
-    "description": "CLI for transcribing and searching audio/video files.",
-    "app_page": "apps/mp4grep.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mp4grep",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mp4grep"
-  },
-  {
-    "icon": "mv.png",
-    "name": "mv",
-    "description": "Move (rename) files. This is part of \"am-utils\" suite.",
-    "app_page": "apps/mv.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mv",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mv"
-  },
-  {
-    "icon": "nap.png",
-    "name": "nap",
-    "description": "Code spippets in your terminal.",
-    "app_page": "apps/nap.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nap",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nap"
-  },
-  {
-    "icon": "navi.png",
-    "name": "navi",
-    "description": "An interactive cheatsheet tool for the command-line.",
-    "app_page": "apps/navi.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/navi",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/navi"
-  },
-  {
-    "icon": "nazuna.png",
-    "name": "nazuna",
-    "description": "Download Twitter videos using your terminal!",
-    "app_page": "apps/nazuna.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nazuna",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nazuna"
-  },
-  {
-    "icon": "nnn.png",
-    "name": "nnn",
-    "description": "n\u00b3 The unorthodox terminal file manager",
-    "app_page": "apps/nnn.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nnn",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nnn"
-  },
-  {
-    "icon": "noter.png",
-    "name": "noter",
-    "description": "Simple serial terminal application.",
-    "app_page": "apps/noter.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/noter",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/noter"
-  },
-  {
-    "icon": "notify-send.png",
-    "name": "notify-send",
-    "description": "A program to send desktop notifications. This is part of \"am-utils\" suite.",
-    "app_page": "apps/notify-send.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/notify-send",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/notify-send"
-  },
-  {
-    "icon": "npm.png",
-    "name": "npm",
-    "description": "Package manager for Node.js. This script installs the full \"node\" suite.",
-    "app_page": "apps/npm.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/npm",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/npm"
-  },
-  {
-    "icon": "nxshell.png",
-    "name": "nxshell",
-    "description": "An easy to use new terminal.",
-    "app_page": "apps/nxshell.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nxshell",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nxshell"
-  },
-  {
-    "icon": "obsidian-cli.png",
-    "name": "obsidian-cli",
-    "description": "Interact with Obsidian in the terminal. Open, search, create, update, move and delete notes!",
-    "app_page": "apps/obsidian-cli.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/obsidian-cli",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/obsidian-cli"
-  },
-  {
-    "icon": "omekasy.png",
-    "name": "omekasy",
-    "description": "Command line application that converts alphanumeric characters to various styles \ud835\ude8d\ud835\ude8e\ud835\ude8f\ud835\ude92\ud835\ude97\ud835\ude8e\ud835\ude8d \ud835\ude92\ud835\ude97 \ud835\ude84\ud835\ude97\ud835\ude92\ud835\ude8c\ud835\ude98\ud835\ude8d\ud835\ude8e.",
-    "app_page": "apps/omekasy.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/omekasy",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/omekasy"
-  },
-  {
-    "icon": "onefetch.png",
-    "name": "onefetch",
-    "description": "Command-line Git information tool.",
-    "app_page": "apps/onefetch.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/onefetch",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/onefetch"
-  },
-  {
-    "icon": "open-webui.png",
-    "name": "open-webui",
-    "description": "Your AI, right on your desktop. Open WebUI as a native app. Run models locally or connect to any server. No Docker, no terminal, no setup. Download, launch, chat.",
-    "app_page": "apps/open-webui.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/open-webui",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/open-webui"
-  },
-  {
-    "icon": "openapi-tui.png",
-    "name": "openapi-tui",
-    "description": "Terminal UI to list, browse and run APIs defined with openapi.",
-    "app_page": "apps/openapi-tui.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openapi-tui",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openapi-tui"
-  },
-  {
-    "icon": "paket.png",
-    "name": "paket",
-    "description": "A simple and fast package manager for the Fish shell written in Rust.",
-    "app_page": "apps/paket.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/paket",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/paket"
-  },
-  {
-    "icon": "paper.png",
-    "name": "paper",
-    "description": "A CLI Tool to set a random wallpaper from Unsplash.com.",
-    "app_page": "apps/paper.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/paper",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/paper"
-  },
-  {
-    "icon": "pastel.png",
-    "name": "pastel",
-    "description": "A command-line tool to generate, analyze, convert and manipulate colors.",
-    "app_page": "apps/pastel.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pastel",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pastel"
-  },
-  {
-    "icon": "pay-respects.png",
-    "name": "pay-respects",
-    "description": "Terminal command correction, alternative to thefuck written in Rust.",
-    "app_page": "apps/pay-respects.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pay-respects",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pay-respects"
-  },
-  {
-    "icon": "pboy.png",
-    "name": "pboy",
-    "description": "A small .pdf management tool with a command-line UI.",
-    "app_page": "apps/pboy.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pboy",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pboy"
-  },
-  {
-    "icon": "pdf-diff.png",
-    "name": "pdf-diff",
-    "description": "A CLI tool for visualizing differences between two pdf files.",
-    "app_page": "apps/pdf-diff.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pdf-diff",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pdf-diff"
-  },
-  {
-    "icon": "peep.png",
-    "name": "peep",
-    "description": "The CLI text viewer tool that works like less command on small pane within the terminal window.",
-    "app_page": "apps/peep.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/peep",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/peep"
-  },
-  {
-    "icon": "pet.png",
-    "name": "pet",
-    "description": "Simple command-line snippet manager.",
-    "app_page": "apps/pet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pet"
-  },
-  {
-    "icon": "pget.png",
-    "name": "pget",
-    "description": "The fastest, resumable file download CLI client.",
-    "app_page": "apps/pget.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pget",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pget"
-  },
-  {
-    "icon": "pixfetch.png",
-    "name": "pixfetch",
-    "description": "Another CLI fetch program with pixelized images written in Rust.",
-    "app_page": "apps/pixfetch.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pixfetch",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pixfetch"
-  },
-  {
-    "icon": "platform-tools.png",
-    "name": "platform-tools",
-    "description": "Official Suite of command line utilities to manage Android devices.",
-    "app_page": "apps/platform-tools.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/platform-tools",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/platform-tools"
-  },
-  {
-    "icon": "playerctl.png",
-    "name": "playerctl",
-    "description": "Unofficial, MPRIS media player command-line controller.",
-    "app_page": "apps/playerctl.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playerctl",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playerctl"
-  },
-  {
-    "icon": "plotly-orca.png",
-    "name": "plotly-orca",
-    "description": "CLI generating static images of interactive charts.",
-    "app_page": "apps/plotly-orca.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/plotly-orca",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/plotly-orca"
-  },
-  {
-    "icon": "podman-desktop-companion.png",
-    "name": "podman-desktop-companion",
-    "description": "Podman command line interface.",
-    "app_page": "apps/podman-desktop-companion.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/podman-desktop-companion",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/podman-desktop-companion"
-  },
-  {
-    "icon": "pokego.png",
-    "name": "pokego",
-    "description": "Command-line tool that lets you display Pok\u00e9mon sprites in color directly in your terminal.",
-    "app_page": "apps/pokego.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pokego",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pokego"
-  },
-  {
-    "icon": "pokete.png",
-    "name": "pokete",
-    "description": "A terminal based Pokemon like game.",
-    "app_page": "apps/pokete.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pokete",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pokete"
-  },
-  {
-    "icon": "pop.png",
-    "name": "pop",
-    "description": "Send emails from your terminal.",
-    "app_page": "apps/pop.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pop",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pop"
-  },
-  {
-    "icon": "printf.png",
-    "name": "printf",
-    "description": "Format and print data. This is part of \"am-utils\" suite.",
-    "app_page": "apps/printf.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/printf",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/printf"
-  },
-  {
-    "icon": "procspin.png",
-    "name": "procspin",
-    "description": "CLI to create a process/progress animation with text.",
-    "app_page": "apps/procspin.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/procspin",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/procspin"
-  },
-  {
-    "icon": "qpdf.png",
-    "name": "qpdf",
-    "description": "CLI tool to perform content-preserving transformations on PDF files.",
-    "app_page": "apps/qpdf.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qpdf",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qpdf"
-  },
-  {
-    "icon": "qrscan.png",
-    "name": "qrscan",
-    "description": "Scan a QR code in the terminal using the system camera or an image.",
-    "app_page": "apps/qrscan.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qrscan",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qrscan"
-  },
-  {
-    "icon": "qterminal.png",
-    "name": "qterminal",
-    "description": "Unofficial. A lightweight Qt terminal emulator based on QTermWidget.",
-    "app_page": "apps/qterminal.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qterminal",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qterminal"
-  },
-  {
-    "icon": "raspberry-pi-imager-cli.png",
-    "name": "raspberry-pi-imager-cli",
-    "description": "The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices. CLI edition.",
-    "app_page": "apps/raspberry-pi-imager-cli.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/raspberry-pi-imager-cli",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/raspberry-pi-imager-cli"
-  },
-  {
-    "icon": "rclone.png",
-    "name": "rclone",
-    "description": "\"rsync for cloud storage\", CLI that supports Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files.",
-    "app_page": "apps/rclone.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rclone",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rclone"
-  },
-  {
-    "icon": "readlink.png",
-    "name": "readlink",
-    "description": "Print resolved symbolic links or canonical file. This is part of \"am-utils\" suite.",
-    "app_page": "apps/readlink.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/readlink",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/readlink"
-  },
-  {
-    "icon": "realpath.png",
-    "name": "realpath",
-    "description": "Print the resolved path. This is part of \"am-utils\" suite.",
-    "app_page": "apps/realpath.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/realpath",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/realpath"
-  },
-  {
-    "icon": "rev.png",
-    "name": "rev",
-    "description": "No description available. This is part of \"am-utils\" suite.",
-    "app_page": "apps/rev.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rev",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rev"
-  },
-  {
-    "icon": "rimage.png",
-    "name": "rimage",
-    "description": "This is CLI tool inspired by squoosh.",
-    "app_page": "apps/rimage.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rimage",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rimage"
-  },
-  {
-    "icon": "rm.png",
-    "name": "rm",
-    "description": "Remove files or directories. This is part of \"am-utils\" suite.",
-    "app_page": "apps/rm.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rm",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rm"
-  },
-  {
-    "icon": "rmw.png",
-    "name": "rmw",
-    "description": "A safe-remove utility for the command line.",
-    "app_page": "apps/rmw.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rmw",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rmw"
-  },
-  {
-    "icon": "rocketfetch.png",
-    "name": "rocketfetch",
-    "description": "A WIP command line system information tool written with multithreading in rust for performance with toml file configuration.",
-    "app_page": "apps/rocketfetch.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rocketfetch",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rocketfetch"
-  },
-  {
-    "icon": "rucola.png",
-    "name": "rucola",
-    "description": "Terminal-based markdown note manager.",
-    "app_page": "apps/rucola.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rucola",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rucola"
-  },
-  {
-    "icon": "rustdict.png",
-    "name": "rustdict",
-    "description": "A dictionary CLI tool in Rust inspired by BetaPictoris's dict.",
-    "app_page": "apps/rustdict.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rustdict",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rustdict"
-  },
-  {
-    "icon": "s.png",
-    "name": "s",
-    "description": "Open a web search in your terminal.",
-    "app_page": "apps/s.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/s",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/s"
-  },
-  {
-    "icon": "simdock.png",
-    "name": "simdock",
-    "description": "Small dock with pseudo-transparency and good window handling.",
-    "app_page": "apps/simdock.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/simdock",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/simdock"
-  },
-  {
-    "icon": "simdsp.png",
-    "name": "simdsp",
-    "description": "DSP Simulator.",
-    "app_page": "apps/simdsp.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/simdsp",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/simdsp"
-  },
-  {
-    "icon": "school-sections.png",
-    "name": "school-sections",
-    "description": "This project was generated with Angular CLI v1.7.4.",
-    "app_page": "apps/school-sections.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/school-sections",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/school-sections"
-  },
-  {
-    "icon": "seafile-cli.png",
-    "name": "seafile-cli",
-    "description": "Seafile CLI version. Beyond just syncing and sharing files, it lets you add custom file properties and organize your files in different views. With AI-powered automation for generating properties, Seafile offers a smarter, more efficient way to manage your files.",
-    "app_page": "apps/seafile-cli.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/seafile-cli",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/seafile-cli"
-  },
-  {
-    "icon": "sed.png",
-    "name": "sed",
-    "description": "GNU stream editor for filtering and transforming text. This is part of \"am-utils\" suite.",
-    "app_page": "apps/sed.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sed",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sed"
-  },
-  {
-    "icon": "sh.png",
-    "name": "sh",
-    "description": "GNU Bourne-Again Shell, the de facto standard shell on Linux. This is part of \"am-utils\" suite.",
-    "app_page": "apps/sh.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sh",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sh"
-  },
-  {
-    "icon": "sha1sum.png",
-    "name": "sha1sum",
-    "description": "Compute and check SHA1 message digest. This is part of \"am-utils\" suite.",
-    "app_page": "apps/sha1sum.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sha1sum",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sha1sum"
-  },
-  {
-    "icon": "sha256sum.png",
-    "name": "sha256sum",
-    "description": "Compute and check SHA256 message digest. This is part of \"am-utils\" suite.",
-    "app_page": "apps/sha256sum.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sha256sum",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sha256sum"
-  },
-  {
-    "icon": "sha512sum.png",
-    "name": "sha512sum",
-    "description": "Compute and check SHA512 message digest. This is part of \"am-utils\" suite.",
-    "app_page": "apps/sha512sum.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sha512sum",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sha512sum"
-  },
-  {
-    "icon": "shellcheck.png",
-    "name": "shellcheck",
-    "description": "ShellCheck, a static analysis tool for shell scripts.",
-    "app_page": "apps/shellcheck.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shellcheck",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shellcheck"
-  },
-  {
-    "icon": "shellharden.png",
-    "name": "shellharden",
-    "description": "The corrective bash syntax highlighter.",
-    "app_page": "apps/shellharden.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shellharden",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shellharden"
-  },
-  {
-    "icon": "sidenote.png",
-    "name": "sidenote",
-    "description": "A CLI tool that helps to manage plain text notes per working directory.",
-    "app_page": "apps/sidenote.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sidenote",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sidenote"
-  },
-  {
-    "icon": "simplechroot.png",
-    "name": "simplechroot",
-    "description": "Simple command line chroot with ease.",
-    "app_page": "apps/simplechroot.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/simplechroot",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/simplechroot"
-  },
-  {
-    "icon": "sleep.png",
-    "name": "sleep",
-    "description": "Delay for a specified amount of time. This is part of \"am-utils\" suite.",
-    "app_page": "apps/sleep.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sleep",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sleep"
-  },
-  {
-    "icon": "soft-serve.png",
-    "name": "soft-serve",
-    "description": "The mighty, self-hostable Git server for the command line.",
-    "app_page": "apps/soft-serve.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soft-serve",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soft-serve"
-  },
-  {
-    "icon": "sort.png",
-    "name": "sort",
-    "description": "Sort lines of text files. This is part of \"am-utils\" suite.",
-    "app_page": "apps/sort.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sort",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sort"
-  },
-  {
-    "icon": "spm.png",
-    "name": "spm",
-    "description": "A simple CLI package manager written in bash mainly for AppImages.",
-    "app_page": "apps/spm.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spm",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spm"
-  },
-  {
-    "icon": "spotifetch.png",
-    "name": "spotifetch",
-    "description": "A simple and beautiful CLI fetch tool for spotify, now rusty.",
-    "app_page": "apps/spotifetch.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotifetch",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotifetch"
-  },
-  {
-    "icon": "spotify-dl.png",
-    "name": "spotify-dl",
-    "description": "A command-line utility to download songs and playlists directly from Spotify's servers.",
-    "app_page": "apps/spotify-dl.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify-dl",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify-dl"
-  },
-  {
-    "icon": "spotify-player.png",
-    "name": "spotify-player",
-    "description": "A Spotify player in the terminal with full feature parity.",
-    "app_page": "apps/spotify-player.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify-player",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify-player"
-  },
-  {
-    "icon": "spotify-tui.png",
-    "name": "spotify-tui",
-    "description": "Spotify for the terminal written in Rust.",
-    "app_page": "apps/spotify-tui.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spotify-tui",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spotify-tui"
-  },
-  {
-    "icon": "sptlrx.png",
-    "name": "sptlrx",
-    "description": "Synchronized lyrics in your terminal.",
-    "app_page": "apps/sptlrx.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sptlrx",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sptlrx"
-  },
-  {
-    "icon": "strace.png",
-    "name": "strace",
-    "description": "Trace system calls and signals. This is part of \"am-utils\" suite.",
-    "app_page": "apps/strace.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/strace",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/strace"
-  },
-  {
-    "icon": "strans.png",
-    "name": "strans",
-    "description": "A powerful command-line utility.",
-    "app_page": "apps/strans.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/strans",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/strans"
-  },
-  {
-    "icon": "streamlink.png",
-    "name": "streamlink",
-    "description": "Command-line which pipes video streams from various services.",
-    "app_page": "apps/streamlink.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/streamlink",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/streamlink"
-  },
-  {
-    "icon": "strings.png",
-    "name": "strings",
-    "description": "Strings is another bad static string library, written in C. This is part of \"am-utils\" suite.",
-    "app_page": "apps/strings.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/strings",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/strings"
-  },
-  {
-    "icon": "strip.png",
-    "name": "strip",
-    "description": "And other data from object files. This is part of \"am-utils\" suite.",
-    "app_page": "apps/strip.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/strip",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/strip"
-  },
-  {
-    "icon": "superfile.png",
-    "name": "superfile",
-    "description": "Pretty fancy and modern terminal file manager.",
-    "app_page": "apps/superfile.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/superfile",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/superfile"
-  },
-  {
-    "icon": "swapoff.png",
-    "name": "swapoff",
-    "description": "Enable/disable devices and files for paging and. This is part of \"am-utils\" suite.",
-    "app_page": "apps/swapoff.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swapoff",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swapoff"
-  },
-  {
-    "icon": "swapon.png",
-    "name": "swapon",
-    "description": "Enable/disable devices and files for paging and. This is part of \"am-utils\" suite.",
-    "app_page": "apps/swapon.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swapon",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swapon"
-  },
-  {
-    "icon": "swish.png",
-    "name": "swish",
-    "description": "Command Line Interface for Swisstransfer Infomaniak's free service.",
-    "app_page": "apps/swish.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swish",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swish"
-  },
-  {
-    "icon": "switchcraft.png",
-    "name": "switchcraft",
-    "description": "Switchcraft watches GNOME's light/dark preference and runs your shell commands when the theme changes.",
-    "app_page": "apps/switchcraft.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/switchcraft",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/switchcraft"
-  },
-  {
-    "icon": "switchshuttle.png",
-    "name": "switchshuttle",
-    "description": "Run predefined commands in various terminal applications.",
-    "app_page": "apps/switchshuttle.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/switchshuttle",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/switchshuttle"
-  },
-  {
-    "icon": "sysz.png",
-    "name": "sysz",
-    "description": "An fzf terminal UI for systemctl.",
-    "app_page": "apps/sysz.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sysz",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sysz"
-  },
-  {
-    "icon": "tabby.png",
-    "name": "tabby",
-    "description": "A terminal for a more modern age",
-    "app_page": "apps/tabby.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tabby",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tabby"
-  },
-  {
-    "icon": "tail.png",
-    "name": "tail",
-    "description": "Output the last part of files. This is part of \"am-utils\" suite.",
-    "app_page": "apps/tail.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tail",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tail"
-  },
-  {
-    "icon": "tar.png",
-    "name": "tar",
-    "description": "Utility used to store, backup, and transport files. This is part of \"am-utils\" suite.",
-    "app_page": "apps/tar.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tar",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tar"
-  },
-  {
-    "icon": "taskell.png",
-    "name": "taskell",
-    "description": "Command-line Kanban board/task manager with support for Trello boards and GitHub projects.",
-    "app_page": "apps/taskell.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskell",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskell"
-  },
-  {
-    "icon": "tb.png",
-    "name": "tb",
-    "description": "Tasks, boards & notes for the command-line habitat.",
-    "app_page": "apps/tb.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tb",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tb"
-  },
-  {
-    "icon": "tee.png",
-    "name": "tee",
-    "description": "Read from standard input and write to standard output and. This is part of \"am-utils\" suite.",
-    "app_page": "apps/tee.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tee",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tee"
-  },
-  {
-    "icon": "tere.png",
-    "name": "tere",
-    "description": "Terminal file explorer.",
-    "app_page": "apps/tere.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tere",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tere"
-  },
-  {
-    "icon": "terminalos-sim.png",
-    "name": "terminalos-sim",
-    "description": "A terminalOS simulator.",
-    "app_page": "apps/terminalos-sim.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/terminalos-sim",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/terminalos-sim"
-  },
-  {
-    "icon": "termora.png",
-    "name": "termora",
-    "description": "A terminal emulator and SSH client.",
-    "app_page": "apps/termora.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/termora",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/termora"
-  },
-  {
-    "icon": "termshot.png",
-    "name": "termshot",
-    "description": "Creates screenshots based on terminal command output.",
-    "app_page": "apps/termshot.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/termshot",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/termshot"
-  },
-  {
-    "icon": "tess.png",
-    "name": "tess",
-    "description": "A hackable, simple, rapid and beautiful terminal.",
-    "app_page": "apps/tess.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tess",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tess"
-  },
-  {
-    "icon": "test.png",
-    "name": "test",
-    "description": "Check file types and compare values. This is part of \"am-utils\" suite.",
-    "app_page": "apps/test.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/test",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/test"
-  },
-  {
-    "icon": "textnote.png",
-    "name": "textnote",
-    "description": "Simple tool for creating and organizing daily notes on the command line.",
-    "app_page": "apps/textnote.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/textnote",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/textnote"
-  },
-  {
-    "icon": "tgpt.png",
-    "name": "tgpt",
-    "description": "AI Chatbots in terminal without needing API keys.",
-    "app_page": "apps/tgpt.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tgpt",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tgpt"
-  },
-  {
-    "icon": "the-way.png",
-    "name": "the-way",
-    "description": "A code snippets manager for your terminal.",
-    "app_page": "apps/the-way.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/the-way",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/the-way"
-  },
-  {
-    "icon": "ticker.png",
-    "name": "ticker",
-    "description": "Terminal stock ticker with live updates and position tracking.",
-    "app_page": "apps/ticker.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ticker",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ticker"
-  },
-  {
-    "icon": "tlock.png",
-    "name": "tlock",
-    "description": "Two-Factor Authentication Tokens Manager in Terminal.",
-    "app_page": "apps/tlock.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tlock",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tlock"
-  },
-  {
-    "icon": "tmon.png",
-    "name": "tmon",
-    "description": "A simple CLI tool for monitoring/reporting CPU temperatures.",
-    "app_page": "apps/tmon.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tmon",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tmon"
-  },
-  {
-    "icon": "tod.png",
-    "name": "tod",
-    "description": "An unofficial Todoist command line client written in Rust.",
-    "app_page": "apps/tod.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tod",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tod"
-  },
-  {
-    "icon": "todo-bash.png",
-    "name": "todo-bash",
-    "description": "Todo list for the Bash command line.",
-    "app_page": "apps/todo-bash.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/todo-bash",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/todo-bash"
-  },
-  {
-    "icon": "top.png",
-    "name": "top",
-    "description": "Display Linux processes. This is part of \"am-utils\" suite.",
-    "app_page": "apps/top.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/top",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/top"
-  },
-  {
-    "icon": "torrenttools.png",
-    "name": "torrenttools",
-    "description": "Cli tool to inspect/create/edit BitTorrent metafiles.",
-    "app_page": "apps/torrenttools.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/torrenttools",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/torrenttools"
-  },
-  {
-    "icon": "toru.png",
-    "name": "toru",
-    "description": "Bittorrent streaming CLI tool. Stream anime torrents real-time.",
-    "app_page": "apps/toru.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/toru",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/toru"
-  },
-  {
-    "icon": "touch.png",
-    "name": "touch",
-    "description": "Change file timestamps. This is part of \"am-utils\" suite.",
-    "app_page": "apps/touch.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/touch",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/touch"
-  },
-  {
-    "icon": "tput.png",
-    "name": "tput",
-    "description": "tput  - initialize a terminal, exercise its capabilities, or query terminfo database. This is part of \"am-utils\" suite.",
-    "app_page": "apps/tput.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tput",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tput"
-  },
-  {
-    "icon": "tr.png",
-    "name": "tr",
-    "description": "Translate or delete characters. This is part of \"am-utils\" suite.",
-    "app_page": "apps/tr.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tr",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tr"
-  },
-  {
-    "icon": "trans.png",
-    "name": "trans",
-    "description": "CLI translator using Google/Bing/Yandex Translate, etc...",
-    "app_page": "apps/trans.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trans",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trans"
-  },
-  {
-    "icon": "transformer.png",
-    "name": "transformer",
-    "description": "A command-line utility for splitting large files into chunks/pieces and merging them back together.",
-    "app_page": "apps/transformer.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/transformer",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/transformer"
-  },
-  {
-    "icon": "tty.png",
-    "name": "tty",
-    "description": "Print the file name of the terminal connected to standard. This is part of \"am-utils\" suite.",
-    "app_page": "apps/tty.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tty",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tty"
-  },
-  {
-    "icon": "ttyper.png",
-    "name": "ttyper",
-    "description": "Terminal-based typing test.",
-    "app_page": "apps/ttyper.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ttyper",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ttyper"
-  },
-  {
-    "icon": "tuxplorer.png",
-    "name": "tuxplorer",
-    "description": "Tuxplorer is a terminal based file explorer.",
-    "app_page": "apps/tuxplorer.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tuxplorer",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tuxplorer"
-  },
-  {
-    "icon": "typioca.png",
-    "name": "typioca",
-    "description": "Cozy typing speed tester in terminal.",
-    "app_page": "apps/typioca.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/typioca",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/typioca"
-  },
-  {
-    "icon": "umount.png",
-    "name": "umount",
-    "description": "Unmount filesystems. This is part of \"am-utils\" suite.",
-    "app_page": "apps/umount.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/umount",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/umount"
-  },
-  {
-    "icon": "uname.png",
-    "name": "uname",
-    "description": "Print system information. This is part of \"am-utils\" suite.",
-    "app_page": "apps/uname.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uname",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uname"
-  },
-  {
-    "icon": "uncompress.png",
-    "name": "uncompress",
-    "description": "Zcat - compress and expand data. This is part of \"am-utils\" suite.",
-    "app_page": "apps/uncompress.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uncompress",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uncompress"
-  },
-  {
-    "icon": "uniq.png",
-    "name": "uniq",
-    "description": "Report or omit repeated lines. This is part of \"am-utils\" suite.",
-    "app_page": "apps/uniq.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uniq",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uniq"
-  },
-  {
-    "icon": "unshare.png",
-    "name": "unshare",
-    "description": "Run program in new namespaces. This is part of \"am-utils\" suite.",
-    "app_page": "apps/unshare.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unshare",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unshare"
-  },
-  {
-    "icon": "unxz.png",
-    "name": "unxz",
-    "description": "Xzcat, lzma, unlzma, lzcat - Compress or decompress .xz. This is part of \"am-utils\" suite.",
-    "app_page": "apps/unxz.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unxz",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unxz"
-  },
-  {
-    "icon": "unzip.png",
-    "name": "unzip",
-    "description": "For extracting and viewing files in .zip archives. This is part of \"am-utils\" suite.",
-    "app_page": "apps/unzip.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unzip",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unzip"
-  },
-  {
-    "icon": "uptime.png",
-    "name": "uptime",
-    "description": "Tell how long the system has been running.. This is part of \"am-utils\" suite.",
-    "app_page": "apps/uptime.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uptime",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uptime"
-  },
-  {
-    "icon": "vhs.png",
-    "name": "vhs",
-    "description": "Your CLI home video recorder.",
-    "app_page": "apps/vhs.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vhs",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vhs"
-  },
-  {
-    "icon": "vicut.png",
-    "name": "vicut",
-    "description": "A Vim-based, scriptable, headless text editor for the command line.",
-    "app_page": "apps/vicut.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vicut",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vicut"
-  },
-  {
-    "icon": "viddy.png",
-    "name": "viddy",
-    "description": "A modern watch command line utility. Time machine and pager etc.",
-    "app_page": "apps/viddy.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viddy",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viddy"
-  },
-  {
-    "icon": "vimeo-dl.png",
-    "name": "vimeo-dl",
-    "description": "A cli tool to download private videos on vimeo. Written in golang.",
-    "app_page": "apps/vimeo-dl.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vimeo-dl",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vimeo-dl"
-  },
-  {
-    "icon": "viu.png",
-    "name": "viu",
-    "description": "Terminal image viewer with native support for iTerm and Kitty.",
-    "app_page": "apps/viu.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viu",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viu"
-  },
-  {
-    "icon": "vt.png",
-    "name": "vt",
-    "description": "VirusTotal Command Line Interface.",
-    "app_page": "apps/vt.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vt",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vt"
-  },
-  {
-    "icon": "walk.png",
-    "name": "walk",
-    "description": "Terminal file manager.",
-    "app_page": "apps/walk.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/walk",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/walk"
-  },
-  {
-    "icon": "warp-terminal.png",
-    "name": "warp-terminal",
-    "description": "Terminal reimagined with AI and collaborative tools.",
-    "app_page": "apps/warp-terminal.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/warp-terminal",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/warp-terminal"
-  },
-  {
-    "icon": "watch.png",
-    "name": "watch",
-    "description": "Watches for changes in a directory tree and reruns a command in an acme win or just on the terminal. This is part of \"am-utils\" suite.",
-    "app_page": "apps/watch.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/watch",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/watch"
-  },
-  {
-    "icon": "wc.png",
-    "name": "wc",
-    "description": "Print newline, word, and byte counts for each file. This is part of \"am-utils\" suite.",
-    "app_page": "apps/wc.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wc",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wc"
-  },
-  {
-    "icon": "wethr.png",
-    "name": "wethr",
-    "description": "Command line weather tool.",
-    "app_page": "apps/wethr.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wethr",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wethr"
-  },
-  {
-    "icon": "wezterm.png",
-    "name": "wezterm",
-    "description": "A GPU-accelerated terminal emulator and multiplexer.",
-    "app_page": "apps/wezterm.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wezterm",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wezterm"
-  },
-  {
-    "icon": "wezterm-nightly.png",
-    "name": "wezterm-nightly",
-    "description": "A GPU-accelerated terminal emulator and multiplexer.",
-    "app_page": "apps/wezterm-nightly.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wezterm-nightly",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wezterm-nightly"
-  },
-  {
-    "icon": "wget.png",
-    "name": "wget",
-    "description": "Network utility to retrieve files from the web. This is part of \"am-utils\" suite.",
-    "app_page": "apps/wget.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wget",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wget"
-  },
-  {
-    "icon": "wives.png",
-    "name": "wives",
-    "description": "A beautiful, modern & feature-rich Terminal Emulator.",
-    "app_page": "apps/wives.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wives",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wives"
-  },
-  {
-    "icon": "wkp.png",
-    "name": "wkp",
-    "description": "A CLI tool designed to fetch Wikipedia excerpts written in Rust.",
-    "app_page": "apps/wkp.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wkp",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wkp"
-  },
-  {
-    "icon": "wtfutil.png",
-    "name": "wtfutil",
-    "description": "The personal information dashboard for your terminal.",
-    "app_page": "apps/wtfutil.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wtfutil",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wtfutil"
-  },
-  {
-    "icon": "wthrr.png",
-    "name": "wthrr",
-    "description": "Weather companion for the terminal.",
-    "app_page": "apps/wthrr.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wthrr",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wthrr"
-  },
-  {
-    "icon": "xargs.png",
-    "name": "xargs",
-    "description": "Build and execute command lines from standard input. This is part of \"am-utils\" suite.",
-    "app_page": "apps/xargs.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xargs",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xargs"
-  },
-  {
-    "icon": "xxh.png",
-    "name": "xxh",
-    "description": "Bring your favorite shell wherever you go through the ssh.",
-    "app_page": "apps/xxh.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xxh",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xxh"
-  },
-  {
-    "icon": "xz.png",
-    "name": "xz",
-    "description": "Library and command line tools for XZ and LZMA compressed files. This is part of \"am-utils\" suite.",
-    "app_page": "apps/xz.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xz",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xz"
-  },
-  {
-    "icon": "xzcat.png",
-    "name": "xzcat",
-    "description": "Xzcat, lzma, unlzma, lzcat - Compress or decompress .xz. This is part of \"am-utils\" suite.",
-    "app_page": "apps/xzcat.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xzcat",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xzcat"
-  },
-  {
-    "icon": "yaf.png",
-    "name": "yaf",
-    "description": "Yet another system CLI fetch that is minimal and customizable.",
-    "app_page": "apps/yaf.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yaf",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yaf"
-  },
-  {
-    "icon": "yazi.png",
-    "name": "yazi",
-    "description": "Blazing fast terminal file manager written in Rust.",
-    "app_page": "apps/yazi.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yazi",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yazi"
-  },
-  {
-    "icon": "yes.png",
-    "name": "yes",
-    "description": "Output a string repeatedly until killed. This is part of \"am-utils\" suite.",
-    "app_page": "apps/yes.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yes",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yes"
-  },
-  {
-    "icon": "youtube-download.png",
-    "name": "youtube-download",
-    "description": "GUI and CLI for downloading YouTube video/audio.",
-    "app_page": "apps/youtube-download.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtube-download",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtube-download"
-  },
-  {
-    "icon": "youtube-tui.png",
-    "name": "youtube-tui",
-    "description": "An aesthetically pleasing YouTube TUI CLI written in Rust.",
-    "app_page": "apps/youtube-tui.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtube-tui",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtube-tui"
-  },
-  {
-    "icon": "yt-dlp.png",
-    "name": "yt-dlp",
-    "description": "A feature-rich command-line audio/video downloader.",
-    "app_page": "apps/yt-dlp.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yt-dlp",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yt-dlp"
-  },
-  {
-    "icon": "ytermusic.png",
-    "name": "ytermusic",
-    "description": "An in terminal youtube music client with focus on privacy, simplicity and performance.",
-    "app_page": "apps/ytermusic.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ytermusic",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ytermusic"
-  },
-  {
-    "icon": "zap.png",
-    "name": "zap",
-    "description": "Delightful command line AppImage package manager for appimage.github.io.",
-    "app_page": "apps/zap.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zap",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zap"
-  },
-  {
-    "icon": "zcat.png",
-    "name": "zcat",
-    "description": "Zcat - compress or expand files. This is part of \"am-utils\" suite.",
-    "app_page": "apps/zcat.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zcat",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zcat"
-  },
-  {
-    "icon": "zellij.png",
-    "name": "zellij",
-    "description": "A terminal workspace with batteries included.",
-    "app_page": "apps/zellij.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zellij",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zellij"
-  },
-  {
-    "icon": "zenity.png",
-    "name": "zenity",
-    "description": "Unofficial, A CLI utility that creates dialog boxes, GTK3 version.",
-    "app_page": "apps/zenity.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zenity",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zenity"
-  },
-  {
-    "icon": "zsync.png",
-    "name": "zsync",
-    "description": "Partial/differential file download client over HTTP. This is part of \"am-utils\" suite.",
-    "app_page": "apps/zsync.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zsync",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zsync"
-  }
+{"name":"7z","description":"Archiver with a high compression ratio. This is part of \"am-utils\" suite."},
+{"name":"7zip","description":"7-Zip is a file archiver with a high compression ratio."},
+{"name":"adb","description":"Command-line tool for communicating with Android devices or emulators. This is part of \"platform-tools\"."},
+{"name":"addr2line","description":"Or symbol+offset into file names and. This is part of \"am-utils\" suite."},
+{"name":"advanced-rest-client","description":"Advanced REST Client and API console, by Mulesoft."},
+{"name":"afetch","description":"A CLI system information tool written in Rust."},
+{"name":"aichat","description":"AIO AI CLI tool integrating 20+ AI platforms, including OpenAI."},
+{"name":"aim","description":"A command line download/upload tool with resume."},
+{"name":"aisap","description":"Tool to make sandboxing AppImages easy through bwrap/bubblewrap."},
+{"name":"alacritty","description":"Unofficial. A modern terminal emulator that comes with sensible defaults, but allows for extensive configuration."},
+{"name":"albafetch","description":"CLI, faster neofetch alternative, written in C. Still improving."},
+{"name":"alien-tec-ui","description":"Alien-Tec Tron Matrix Like Shell Terminal User Interface."},
+{"name":"alpine-flatimage","description":"A hybrid of Flatpak sandboxing with AppImage portability."},
+{"name":"alr2appimage","description":"Tool for building an AppImage from an Alire crate."},
+{"name":"amfora","description":"A fancy terminal browser for the Gemini protocol."},
+{"name":"android-tools","description":"Unofficial AppImage for the Android Platform tools, adb, fastboot, etc."},
+{"name":"ani-cli","description":"A cli tool to browse and play anime."},
+{"name":"antidot","description":"Cleans up your $HOME from those pesky dotfiles."},
+{"name":"appimage-builder","description":"GNU/Linux packaging solution using the AppImage format."},
+{"name":"appimagecraft","description":"Powerful build script generator with a focus on AppImages."},
+{"name":"appimagelauncher","description":"CLI helper for running and integrating AppImages."},
+{"name":"appimagelint","description":"Check AppImages for compatibility, best practices etc."},
+{"name":"appimagen","description":"A script that generates a custom AppImage from a PPA."},
+{"name":"appimagetool","description":"Tool to generate an AppImage from an existing AppDir."},
+{"name":"appimageupdate","description":"A Rust implementation of AppImageUpdate, a tool for updating AppImages using efficient delta updates using zsync."},
+{"name":"appimageupdatetool","description":"Tool to update an AppImage using embedded information."},
+{"name":"appimg","description":"Appimg is a lightweight command-line tool that helps you manage AppImage files on Linux."},
+{"name":"appinstall","description":"AppImage Installer, a tool integrate AppImages to a linux desktop environment."},
+{"name":"aptly","description":"Debian repository management CLI tool."},
+{"name":"arch-deployer","description":"A script to bulk download an Arch Linux package with all its dependencies to be converted in AppImage."},
+{"name":"arch-flatimage","description":"A hybrid of Flatpak sandboxing with AppImage portability."},
+{"name":"arch","description":"Hardware name (same as uname -m). This is part of \"am-utils\" suite."},
+{"name":"archimage-cli","description":"Build AppImage packages using JuNest, Arch Linux."},
+{"name":"archimede","description":"Unobtrusive directory information fetcher."},
+{"name":"ar","description":"Create, modify, and extract from .deb archives. This is part of \"am-utils\" suite."},
+{"name":"aretext","description":"Minimalist text editor with vim-compatible key bindings."},
+{"name":"as","description":"GNU assembler.. This is part of \"am-utils\" suite."},
+{"name":"atuin","description":"Magical shell history."},
+{"name":"azaharplus-pkg-extractor","description":"Standalone PKG extractor CLI based on code that used to be in ShadPS4 PlayStation 4 emulator written in C++."},
+{"name":"b2sum","description":"Check BLAKE2 message digest. This is part of \"am-utils\" suite."},
+{"name":"bandwhich","description":"Terminal bandwidth utilization tool."},
+{"name":"base32","description":"Base32 encode/decode data and print to standard. This is part of \"am-utils\" suite."},
+{"name":"base64","description":"Base64 encode/decode data and print to standard. This is part of \"am-utils\" suite."},
+{"name":"basename","description":"Strip directory and suffix from filenames. This is part of \"am-utils\" suite."},
+{"name":"basenc","description":"Encode and decode with multiple base encodings.. This is part of \"am-utils\" suite."},
+{"name":"bat","description":"A \"cat\" clone with wings."},
+{"name":"bat-extras","description":"Bash scripts that integrate bat with various command line tools."},
+{"name":"battop","description":"CLI, interactive batteries viewer."},
+{"name":"beatconnect-client","description":"Beatconnect power for osu irc."},
+{"name":"beatmapexporter","description":"osu!lazer beatmap exporter utility. Allowing mass export of beatmaps from the new osu!lazer file storage back into .osz files."},
+{"name":"beatsaber-mod-manager","description":"Yet another mod installer for Beat Saber, heavily inspired by ModAssistant."},
+{"name":"bemoji","description":"Emoji picker for bemenu/wofi/rofi/dmenu, remembers your favorites."},
+{"name":"bench-cli","description":"CLI tool to benchmark commands, written in `Fortran`."},
+{"name":"binclock","description":"Binary clock in terminal."},
+{"name":"bin","description":"Effortless binary manager."},
+{"name":"binfinder","description":"Find binary files not installed through package manager."},
+{"name":"bk","description":"Terminal Epub reader."},
+{"name":"blimp","description":"Customizable terminal UI for monitoring weather information, application status, network latency, and more."},
+{"name":"blob-dl","description":"Blob-dl is a yt-dlp CLI interface used to download video and audio files from YouTube."},
+{"name":"bluetuith","description":"A TUI bluetooth manager for Linux."},
+{"name":"bottom","description":"Yet another cross-platform graphical process/system monitor."},
+{"name":"boxxy","description":"Put bad Linux applications in a box with only their files."},
+{"name":"brutespray","description":"Bruteforcing from various scanner output. Automatically attempts default creds on found services."},
+{"name":"btop","description":"A command line utility to monitor system resources, like Htop."},
+{"name":"bunnyfetch","description":"A small and fast tool for getting info about your system."},
+{"name":"busybox","description":"AppImage of BusyBox, a tool that combines stripped-down versions of many common UNIX utilities into a single, small executable."},
+{"name":"bzip2","description":"A high-quality data compression program. This is part of \"am-utils\" suite."},
+{"name":"carbonyl","description":"Chromium running inside your terminal."},
+{"name":"cask","description":"A universal, distributed binary file manager."},
+{"name":"cat","description":"Concatenate files and print on the standard output. This is part of \"am-utils\" suite."},
+{"name":"cbird","description":"Command-line program for Content-Based Image Retrieval of images and videos. Includes tools for general search and de-duplication."},
+{"name":"c++filt","description":"And Java symbols. This is part of \"am-utils\" suite."},
+{"name":"chcon","description":"Security context. This is part of \"am-utils\" suite."},
+{"name":"cheat","description":"Create and view interactive cheatsheets on the command-line."},
+{"name":"checkra1n","description":"Jailbreak for iPhone 5s through iPhone X, iOS 12.0 and up"},
+{"name":"chess-tui","description":"Play chess from your terminal."},
+{"name":"chgrp","description":"Change group ownership. This is part of \"am-utils\" suite."},
+{"name":"chmod","description":"Change file mode bits. This is part of \"am-utils\" suite."},
+{"name":"chown","description":"Change file owner and group. This is part of \"am-utils\" suite."},
+{"name":"chroot","description":"Run command or interactive shell with special root. This is part of \"am-utils\" suite."},
+{"name":"cicada","description":"An old-school bash-like Unix shell written in Rust."},
+{"name":"cksum","description":"Compute and verify file checksums. This is part of \"am-utils\" suite."},
+{"name":"clear","description":"Clear the terminal screen. This is part of \"am-utils\" suite."},
+{"name":"clifm","description":"The shell-like, command line terminal file manager simple, fast, extensible, and lightweight as hell."},
+{"name":"clipse","description":"Configurable TUI clipboard manager for Unix."},
+{"name":"codebook-lsp","description":"Codebook, code-aware spell checker with language server implementation."},
+{"name":"code-radio","description":"A command line music radio client for coderadio.freecodecamp.org, written in Rust."},
+{"name":"colcrt","description":"Output for CRT previewing. This is part of \"am-utils\" suite."},
+{"name":"col","description":"Line feeds from input. This is part of \"am-utils\" suite."},
+{"name":"colorstatic-bash","description":"CLI to generate a random colorful \"Static\"/\"Matrix\"."},
+{"name":"colrm","description":"From a file. This is part of \"am-utils\" suite."},
+{"name":"column","description":"Columnate lists. This is part of \"am-utils\" suite."},
+{"name":"comics-downloader","description":"Tool to download comics and manga in pdf/epub/cbr/cbz from a website."},
+{"name":"comm","description":"Compare two sorted files line by line. This is part of \"am-utils\" suite."},
+{"name":"contour","description":"Modern C++ Terminal Emulator."},
+{"name":"conty","description":"Easy to use unprivileged and portable Arch Linux container."},
+{"name":"cool-retro-term","description":"Use the command line the old way."},
+{"name":"coreterminal","description":"A terminal emulator for C Suite."},
+{"name":"cowitness","description":"A powerful web app testing tool that enhances the accuracy and efficiency of your testing efforts."},
+{"name":"cp","description":"Copy files and directories. This is part of \"am-utils\" suite."},
+{"name":"cpufetch","description":"Simple yet fancy CPU architecture fetching tool."},
+{"name":"crabfetch","description":"Extremely fast, featureful and customizable command-line fetcher."},
+{"name":"croc","description":"Easily and securely send things from one computer to another."},
+{"name":"crock","description":"Crock is rock clock."},
+{"name":"csplit","description":"File into sections determined by context. This is part of \"am-utils\" suite."},
+{"name":"ctop","description":"Top-like interface for container metrics."},
+{"name":"curl","description":"Command line tool and library for transferring data with URLs. This is part of \"am-utils\" suite."},
+{"name":"curlie","description":"The power of curl, the ease of use of httpie."},
+{"name":"cursor-cli","description":"Unofficial, AI-assisted development CLI tool."},
+{"name":"cutechess","description":"Cute Chess is a GUI, a CLI and a library for playing chess."},
+{"name":"cut","description":"From each line of files. This is part of \"am-utils\" suite."},
+{"name":"date","description":"A header-only library which builds upon <chrono>. This is part of \"am-utils\" suite."},
+{"name":"dbee","description":"Fast & Minimalistic Database Browser."},
+{"name":"dbin","description":"Poor man's package manager. About 3000 statically linked binaries in the repos!"},
+{"name":"dd","description":"Convert and copy a file. This is part of \"am-utils\" suite."},
+{"name":"deb2appimage","description":"Build AppImages from deb packages on any distro."},
+{"name":"deeplx","description":"DeepL Free API, No TOKEN required."},
+{"name":"delta","description":"A syntax-highlighting pager for git, diff, grep, and blame output."},
+{"name":"devclean","description":"A CLI and Desktop GUI app to clean dev dependencies (node_modules, cache) and more."},
+{"name":"devtoys","description":"A Swiss Army knife for developers."},
+{"name":"df","description":"Report file system space usage. This is part of \"am-utils\" suite."},
+{"name":"didder","description":"An extensive, fast, and accurate command-line image dithering tool."},
+{"name":"diff","description":"Compare files line by line. This is part of \"am-utils\" suite."},
+{"name":"dircolors","description":"For ls. This is part of \"am-utils\" suite."},
+{"name":"dir","description":"List directory contents. This is part of \"am-utils\" suite."},
+{"name":"dirname","description":"Strip last component from file name. This is part of \"am-utils\" suite."},
+{"name":"discord-bot-client","description":"A patched version of discord, with bot login & Vencord support."},
+{"name":"diskonaut","description":"Terminal disk space navigator."},
+{"name":"doggo","description":"Command-line DNS Client for Humans. Written in Golang"},
+{"name":"dooit","description":"An awesome TUI todo manager."},
+{"name":"dra","description":"A command line tool to download release assets from GitHub."},
+{"name":"dragdrop","description":"Small drag-and-drop file source for the command line."},
+{"name":"draw","description":"Draw in your terminal."},
+{"name":"dstask","description":"Git powered terminal-based todo/note manager, markdown note page per task."},
+{"name":"dtmate","description":"CLI to compute difference between date, time or duration."},
+{"name":"dua","description":"View disk space usage and delete unwanted data, fast."},
+{"name":"du","description":"Estimate file space usage. This is part of \"am-utils\" suite."},
+{"name":"duf","description":"Disk Usage/Free Utility, a better 'df' alternative."},
+{"name":"dune","description":"A shell by the beach."},
+{"name":"dust","description":"A more intuitive version of du in rust."},
+{"name":"dysk","description":"A linux utility to get information on filesystems, like df but better."},
+{"name":"echo","description":"Display a line of text. This is part of \"am-utils\" suite."},
+{"name":"edex-ui","description":"A cross-platform, customizable science fiction terminal emulator."},
+{"name":"eget","description":"Easily install prebuilt binaries from GitHub."},
+{"name":"elfedit","description":"Header and program property of ELF files. This is part of \"am-utils\" suite."},
+{"name":"elvish","description":"Powerful modern shell scripting."},
+{"name":"env","description":"Run a program in a modified environment. This is part of \"am-utils\" suite."},
+{"name":"etc1tool","description":"Utility for compressing and decompressing ETC1 texture files. This is part of \"platform-tools\"."},
+{"name":"expand","description":"Convert tabs to spaces. This is part of \"am-utils\" suite."},
+{"name":"expr","description":"Evaluate expressions. This is part of \"am-utils\" suite."},
+{"name":"extraterm","description":"The swiss army chainsaw of terminal emulators."},
+{"name":"eza","description":"A modern, maintained replacement for ls."},
+{"name":"factor","description":"A general purpose, dynamically typed, stack-based programming language.. This is part of \"am-utils\" suite."},
+{"name":"fakedata","description":"CLI utility for fake data generation."},
+{"name":"false","description":"Do nothing, unsuccessfully. This is part of \"am-utils\" suite."},
+{"name":"fastboot","description":"Android bootloader tool for flashing, unlocking, and managing firmware. This is part of \"platform-tools\"."},
+{"name":"fastcompmgr","description":"A fast compositor for X11."},
+{"name":"fastfetch","description":"Like neofetch, but much faster because written mostly in C."},
+{"name":"fcp","description":"CLI, a significantly faster alternative to the classic Unix cp(1) command, copying large files and directories in a fraction of the time."},
+{"name":"fd","description":"A simple, fast and user-friendly alternative to 'find'."},
+{"name":"fdroidcl","description":"A command-line F-Droid desktop client."},
+{"name":"fetchit","description":"A system fetch tool for Linux, written in Rust."},
+{"name":"ffsend","description":"Easily and securely share files from the command line. A fully featured Firefox Send client."},
+{"name":"file","description":"Determine the type of a file from its contents. This is part of \"am-utils\" suite."},
+{"name":"filen-cli","description":"Filen CLI for Windows, macOS and Linux"},
+{"name":"find","description":"Files in a directory hierarchy. This is part of \"am-utils\" suite."},
+{"name":"fishterm","description":"A open-soruce Terminal remote access."},
+{"name":"fish","description":"The user-friendly command line shell."},
+{"name":"fixit","description":"A utility to fix mistakes in your commands."},
+{"name":"flyctl","description":"Command line tools for fly.io services."},
+{"name":"fman","description":"TUI CLI File Manager."},
+{"name":"fmt","description":"Text formatter. This is part of \"am-utils\" suite."},
+{"name":"focus","description":"A fully featured productivity timer for the command line, based on the Pomodoro Technique."},
+{"name":"fold","description":"Wrap each input line to fit in specified width. This is part of \"am-utils\" suite."},
+{"name":"foot","description":"Unofficial, A fast, lightweight and minimalistic Wayland terminal emulator (This AppImage can work on x11 as well)."},
+{"name":"freefilesync","description":"folder comparison and synchronization software."},
+{"name":"freeze","description":"Generate images of code and terminal output."},
+{"name":"freshfetch","description":"An alternative to Neofetch in Rust with a focus on customization."},
+{"name":"fx","description":"Terminal JSON viewer & processor."},
+{"name":"fzf","description":"A command-line fuzzy finder."},
+{"name":"gallery-dl","description":"Command-line program to download image galleries and collections from several image hosting sites."},
+{"name":"gallery-dl-nightly","description":"Command-line program to download image galleries and collections from several image hosting sites, nightly build."},
+{"name":"gawk","description":"GNU version of awk. This is part of \"am-utils\" suite."},
+{"name":"gemget","description":"Command line downloader for the Gemini protocol."},
+{"name":"genact","description":"A nonsense activity generator."},
+{"name":"gert","description":"A command line tool to download media from Reddit."},
+{"name":"ghdl","description":"A much more convenient way to download GitHub release binaries on the command line."},
+{"name":"gh-eco","description":"gh cli extension to explore the ecosystem."},
+{"name":"gh","description":"GitHub’s official command line tool."},
+{"name":"ghostty-glfw-nightly","description":"Unofficial, 👻 ⚙️ AppImage for Ghostty Terminal Emulator (Tip, Nightly) (glfw version)"},
+{"name":"ghostty-glfw","description":"Unofficial, 👻 ⚙️ AppImage for Ghostty Terminal Emulator (glfw version)"},
+{"name":"ghostty-nightly","description":"Unofficial, 👻 ⚙️ AppImage for Ghostty Terminal Emulator (Tip, Nightly)"},
+{"name":"ghostty","description":"Unofficial, 👻 ⚙️ AppImage for Ghostty Terminal Emulator (Stable)"},
+{"name":"ghrel","description":"Download and verify GitHub release."},
+{"name":"gickup","description":"Backup your Git repositories with ease."},
+{"name":"git-cliff","description":"A highly customizable Changelog Generator that follows Conventional Commit specifications."},
+{"name":"git-credential-oauth","description":"A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth."},
+{"name":"gitleaks","description":"Protect and discover secrets using Gitleaks."},
+{"name":"gitql","description":"A git query language."},
+{"name":"git-side","description":"A Git subcommand that versions files and directories that should not live in the main repository, using a per-project bare repository invisible to Git."},
+{"name":"gitui","description":"Blazing fast terminal-ui for git written in rust."},
+{"name":"glab","description":"A GitLab CLI tool bringing GitLab to your command line."},
+{"name":"glow","description":"Render markdown on the CLI, with pizzazz!"},
+{"name":"gncdu","description":"Implements NCurses Disk Usage(ncdu) with golang."},
+{"name":"goanime","description":"A TUI tool to browse, stream, and download anime in English and Portuguese."},
+{"name":"gobuster","description":"A high-performance directory/file, DNS and virtual host brute-forcing tool written in Go. It's designed to be fast, reliable, and easy to use for security professionals and penetration testers."},
+{"name":"gojq","description":"Pure Go implementation of jq."},
+{"name":"gokey","description":"A simple vaultless password manager in Go."},
+{"name":"goodls","description":"This is a CLI tool to download shared files and folders from Google Drive."},
+{"name":"gooseberry","description":"A command line utility to generate a knowledge base from Hypothesis annotations."},
+{"name":"gopass","description":"The slightly more awesome standard unix password manager for teams."},
+{"name":"go-pd","description":"A free easy to use pixeldrain.com go client pkg and CLI upload tool."},
+{"name":"go-spotify-cli","description":"Control Spotify with CLI commands."},
+{"name":"gost-shred","description":"GOST R 50739-95 Data Sanitization Method (2 passes)."},
+{"name":"gotimer","description":"A simple terminal based digital timer for Pomodoro."},
+{"name":"goto","description":"A simple terminal SSH manager that lists favorite SSH servers."},
+{"name":"got","description":"Simple golang package and CLI tool to download large files faster than cURL and Wget!"},
+{"name":"gp-archive","description":"Archive profiling experiment data. This is part of \"am-utils\" suite."},
+{"name":"gp-collect-app","description":"Collect application performance profiling data. This is part of \"am-utils\" suite."},
+{"name":"gp-display-html","description":"Generate HTML reports from profiling data. This is part of \"am-utils\" suite."},
+{"name":"gp-display-src","description":"Display source code annotated with profiling data. This is part of \"am-utils\" suite."},
+{"name":"gp-display-text","description":"Display profiling data in plain text format. This is part of \"am-utils\" suite."},
+{"name":"gpg-tui","description":"CLI, manage your GnuPG keys with ease!"},
+{"name":"gping","description":"Ping, but with a graph."},
+{"name":"gprof","description":"Graph profile data. This is part of \"am-utils\" suite."},
+{"name":"gprofng-archive","description":"Experiment data. This is part of \"am-utils\" suite."},
+{"name":"gprofng-collect-app","description":"Data for the target. This is part of \"am-utils\" suite."},
+{"name":"gprofng-display-html","description":"HTML based directory structure. This is part of \"am-utils\" suite."},
+{"name":"gprofng-display-src","description":"Code and optionally. This is part of \"am-utils\" suite."},
+{"name":"gprofng-display-text","description":"Performance data in plain text. This is part of \"am-utils\" suite."},
+{"name":"gprofng","description":"Generation GNU application profiling tool. This is part of \"am-utils\" suite."},
+{"name":"gprofng-gmon","description":"Display or convert GNU gmon profiling data. This is part of \"am-utils\" suite."},
+{"name":"grep","description":"A string search utility. This is part of \"am-utils\" suite."},
+{"name":"gron.awk","description":"True JSON parser in pure Awk. fast with Gawk/Mawk/GoAWK."},
+{"name":"gron","description":"Make JSON greppable! Transform JSON into discrete assignments to grep."},
+{"name":"groups","description":"Print the groups a user is in. This is part of \"am-utils\" suite."},
+{"name":"gum","description":"A tool for glamorous shell scripts."},
+{"name":"handlr","description":"fork of the original handlr, with support for regular expressions."},
+{"name":"hascard","description":"Flashcard TUI CLI with markdown cards."},
+{"name":"hctl","description":"A tool to control your Home Assistant devices from the command-line."},
+{"name":"hd","description":"Small hex dumper utility (with optional HexII output). This is part of \"am-utils\" suite."},
+{"name":"head","description":"Output the first part of files. This is part of \"am-utils\" suite."},
+{"name":"hexdump","description":"Display file contents in hexadecimal format. This is part of \"am-utils\" suite."},
+{"name":"hide.me","description":"Hide.me CLI VPN client for Linux."},
+{"name":"hilbish","description":"The Moon-powered shell! A comfy and extensible shell for Lua fans!"},
+{"name":"himalaya","description":"CLI to manage emails."},
+{"name":"hostid","description":"Print the numeric identifier for the current host. This is part of \"am-utils\" suite."},
+{"name":"hprof-conv","description":"Converts Android HPROF heap dumps to standard Java HPROF format. This is part of \"platform-tools\"."},
+{"name":"htop","description":"Unofficial, CLI utility to monitor system resources."},
+{"name":"humanlog","description":"Logs for humans to read."},
+{"name":"hyper","description":"A terminal built on web technologies."},
+{"name":"hyperfine","description":"A command-line benchmarking tool."},
+{"name":"i3-auto-layout","description":"Automatic, optimal tiling for i3wm. Fork of dead version."},
+{"name":"i3lock-color","description":"The world's most popular non-default computer lockscreen."},
+{"name":"i3","description":"Unofficial, A tiling window manager for X11."},
+{"name":"id","description":"Print real and effective user and group IDs. This is part of \"am-utils\" suite."},
+{"name":"imagemagick-clang","description":"CLI to create, edit, compose, or convert digital images."},
+{"name":"imagemagick-gcc","description":"CLI to create, edit, compose, or convert digital images."},
+{"name":"imgcat","description":"Display images and gifs in your terminal."},
+{"name":"install","description":"Copy files and set attributes. This is part of \"am-utils\" suite."},
+{"name":"inxi","description":"A full featured CLI system information tool."},
+{"name":"jgenesis-cli","description":"Sega Genesis, Sega CD, SNES, Master System, Game Gear emulator (CLI)."},
+{"name":"jless","description":"CLI JSON viewer designed for reading, exploring, and searching."},
+{"name":"jnv","description":"Interactive JSON filter using jq."},
+{"name":"join","description":"Of two files on a common field. This is part of \"am-utils\" suite."},
+{"name":"jottem","description":"A lean, low friction terminal app for managing markdown notes."},
+{"name":"jq","description":"Command-line JSON processor."},
+{"name":"jqp","description":"A TUI playground to experiment with jq."},
+{"name":"junest","description":"Arch Linux based distro that runs rootless on any other Linux distro."},
+{"name":"kalc","description":"Complex numbers, 2d/3d graphing, arbitrary precision cli calculator."},
+{"name":"kalker","description":"Scientific calculator with math syntax for user-defined variables."},
+{"name":"kboard","description":"Terminal game to practice keyboard typing."},
+{"name":"kibi","description":"A text editor in ≤1024 lines of code, written in Rust."},
+{"name":"killall","description":"Kill processes by name. This is part of \"am-utils\" suite."},
+{"name":"kill","description":"Terminate a process. This is part of \"am-utils\" suite."},
+{"name":"kimitzu-client","description":"Kimitzu Client."},
+{"name":"kindling-cli","description":"Kindle toolkit for dictionaries, books, comics."},
+{"name":"kitty","description":"Cross-platform, fast, feature-rich, GPU based terminal (also provides \"kitten\" CLI utility)."},
+{"name":"kmonad","description":"An advanced keyboard manager."},
+{"name":"kmon","description":"Linux Kernel Manager and Activity Monitor."},
+{"name":"koboldcpp","description":"Simple 1-file way to run GGML and GGUF models with KoboldAI's UI."},
+{"name":"kondo","description":"Cleans dependencies and build artifacts from your projects."},
+{"name":"kure","description":"CLI password manager with sessions."},
+{"name":"lan-mouse","description":"Mouse & keyboard sharing via LAN."},
+{"name":"lazygit","description":"Simple terminal UI for git commands."},
+{"name":"ld.bfd","description":"The GNU linker with BFD libraries. This is part of \"am-utils\" suite."},
+{"name":"ld","description":"Standalone Linker Compiler. This is part of \"am-utils\" suite."},
+{"name":"less","description":"A terminal based program for viewing text files. This is part of \"am-utils\" suite."},
+{"name":"lexido","description":"A terminal assistant, powered by Generative AI."},
+{"name":"lf","description":"lf, as in \"list files\" is a terminal file manager written in Go."},
+{"name":"link","description":"Call the link function to create a link to a file. This is part of \"am-utils\" suite."},
+{"name":"linuxdeploy","description":"AppDir creation and maintenance tool. Featuring flexible plugin system."},
+{"name":"linuxdeployqt","description":"Convert a linux program to an AppDir or an AppImage."},
+{"name":"litime","description":"A terminal literature clock telling time with quotes from literature."},
+{"name":"ln","description":"Make links between files. This is part of \"am-utils\" suite."},
+{"name":"lobe-chat","description":"LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application."},
+{"name":"lockbook-cli","description":"The private, polished note-taking platform, CLI."},
+{"name":"logname","description":"Print user's login name. This is part of \"am-utils\" suite."},
+{"name":"look","description":"Beginning with a given string. This is part of \"am-utils\" suite."},
+{"name":"lovesay","description":"Cowsay, but full of love and now a little rusty."},
+{"name":"lowfi","description":"An extremely simple lofi player. CLI."},
+{"name":"lsd","description":"The next gen ls command."},
+{"name":"ls","description":"List directory contents. This is part of \"am-utils\" suite."},
+{"name":"lunar-client","description":"Free Minecraft Client, a modpack for all versions of Minecraft."},
+{"name":"macchina","description":"A system information frontend with an emphasis on performance."},
+{"name":"make_f2fs_casefold","description":"Creates F2FS filesystems with case-insensitive filename support. This is part of \"platform-tools\"."},
+{"name":"make_f2fs","description":"Creates F2FS filesystems optimized for flash storage. This is part of \"platform-tools\"."},
+{"name":"mangadesk","description":"Terminal client for MangaDex."},
+{"name":"mangal","description":"Most advanced, yet simple CLI manga downloader in the universe!"},
+{"name":"manga-tui","description":"Terminal-based manga reader and downloader with image support."},
+{"name":"matm","description":"Watch anime, movies, tv shows and read manga from comfort of the cli."},
+{"name":"mawk","description":"And text processing language. This is part of \"am-utils\" suite."},
+{"name":"mcfly","description":"Fly through your shell history. Great Scott!"},
+{"name":"md5sum","description":"Compute and check MD5 message digest. This is part of \"am-utils\" suite."},
+{"name":"mdcat","description":"Command line, \"cat\" for markdown."},
+{"name":"mednafen","description":"Unofficial AppImage. Mednafen is a portable, utilizing OpenGL and SDL, argument(command-line)-driven multi-system emulator."},
+{"name":"menyoki","description":"Screen{shot,cast} and perform ImageOps on the command line."},
+{"name":"mkdir","description":"Make directories. This is part of \"am-utils\" suite."},
+{"name":"mke2fs","description":"Creates ext2/ext3/ext4 Linux filesystems. This is part of \"platform-tools\"."},
+{"name":"mkfifo","description":"Make FIFOs (named pipes). This is part of \"am-utils\" suite."},
+{"name":"mk","description":"Interactive Task Runner for Makefile."},
+{"name":"mknod","description":"Make block or character special files. This is part of \"am-utils\" suite."},
+{"name":"mktemp","description":"Create a temporary file or directory. This is part of \"am-utils\" suite."},
+{"name":"more","description":"Display the contents of a file in a terminal. This is part of \"am-utils\" suite."},
+{"name":"mount","description":"Mount a filesystem. This is part of \"am-utils\" suite."},
+{"name":"mp4grep","description":"CLI for transcribing and searching audio/video files."},
+{"name":"multimc","description":"A Minecraft launcher."},
+{"name":"mv","description":"Move (rename) files. This is part of \"am-utils\" suite."},
+{"name":"nami","description":"A clean and tidy decentralized package manager."},
+{"name":"nap","description":"Code spippets in your terminal."},
+{"name":"navi","description":"An interactive cheatsheet tool for the command-line."},
+{"name":"nazuna","description":"Download Twitter videos using your terminal!"},
+{"name":"neko","description":"Neko is a cross-platform cursor-chasing cat."},
+{"name":"nerdfetch","description":"A POSIX *nix fetch script using Nerdfonts."},
+{"name":"nice","description":"Run a program with modified scheduling priority. This is part of \"am-utils\" suite."},
+{"name":"nitch","description":"Incredibly fast system fetch written in nim."},
+{"name":"nix-portable","description":"Use nix on any linux system, rootless and configuration free."},
+{"name":"nl","description":"Number lines of files. This is part of \"am-utils\" suite."},
+{"name":"nm","description":"From object files. This is part of \"am-utils\" suite."},
+{"name":"nnn","description":"n³ The unorthodox terminal file manager"},
+{"name":"node","description":"This is the official suite of Node.js tools, also known as \"NodeJS\", a JavaScript runtime built on Chrome's V8 JavaScript engine."},
+{"name":"nohup","description":"Run a command immune to hangups, with output to a. This is part of \"am-utils\" suite."},
+{"name":"noter","description":"Simple serial terminal application."},
+{"name":"notify-send","description":"A program to send desktop notifications. This is part of \"am-utils\" suite."},
+{"name":"npm","description":"Package manager for Node.js dependencies and modules. This is part of \"node\"."},
+{"name":"nproc","description":"Print the number of processing units available. This is part of \"am-utils\" suite."},
+{"name":"npx","description":"Runs commands from npm packages without manual installation. This is part of \"node\"."},
+{"name":"nu","description":"A new type of shell."},
+{"name":"numfmt","description":"From/to human-readable strings. This is part of \"am-utils\" suite."},
+{"name":"nyaa","description":"A nyaa.si tui tool for browsing and downloading torrents."},
+{"name":"nyan","description":"CLI, colored \"cat\" command."},
+{"name":"objcopy","description":"Translate object files. This is part of \"am-utils\" suite."},
+{"name":"objdump","description":"From object files. This is part of \"am-utils\" suite."},
+{"name":"obsidian-cli","description":"Interact with Obsidian in the terminal. Open, search, create, update, move and delete notes!"},
+{"name":"od","description":"Dump files in octal and other formats. This is part of \"am-utils\" suite."},
+{"name":"oh","description":"A new Unix shell."},
+{"name":"ollama","description":"Get up and running with Llama 3, Mistral, Gemma, and other LLMs."},
+{"name":"omekasy","description":"Command line application that converts alphanumeric characters to various styles 𝚍𝚎𝚏𝚒𝚗𝚎𝚍 𝚒𝚗 𝚄𝚗𝚒𝚌𝚘𝚍𝚎."},
+{"name":"onefetch","description":"Command-line Git information tool."},
+{"name":"openapi-tui","description":"Terminal UI to list, browse and run APIs defined with openapi."},
+{"name":"opencode-cli","description":"Unofficial AppImage of the opencode CLI utility. The open source coding agent."},
+{"name":"opencode","description":"The open source coding agent."},
+{"name":"oras","description":"OCI registry client managing content like artifacts, images, packages."},
+{"name":"ots","description":"Share end-to-end encrypted secrets with others via a one-time URL."},
+{"name":"outline-client","description":"Lean on the Cordova and Electron frameworks."},
+{"name":"paclear","description":"CLI, paclear is a clear command with PAC-MAN animation."},
+{"name":"paket","description":"A simple and fast package manager for the Fish shell written in Rust."},
+{"name":"paper","description":"A CLI Tool to set a random wallpaper from Unsplash.com."},
+{"name":"pastel","description":"A command-line tool to generate, analyze, convert and manipulate colors."},
+{"name":"paste","description":"Merge lines of files. This is part of \"am-utils\" suite."},
+{"name":"pathchk","description":"File names are valid or portable. This is part of \"am-utils\" suite."},
+{"name":"pay-respects","description":"Terminal command correction, alternative to thefuck written in Rust."},
+{"name":"pboy","description":"A small .pdf management tool with a command-line UI."},
+{"name":"pdf-diff","description":"A CLI tool for visualizing differences between two pdf files."},
+{"name":"peep","description":"The CLI text viewer tool that works like less command on small pane within the terminal window."},
+{"name":"pet","description":"Simple command-line snippet manager."},
+{"name":"pfetch-rs","description":"A rewrite of the pfetch system information tool in Rust."},
+{"name":"pget","description":"The fastest, resumable file download CLI client."},
+{"name":"pho","description":"The AppImage Manager that Linux always deserved."},
+{"name":"picterm","description":"CLI, TUI image viewer."},
+{"name":"pingu","description":"CLI, ping command but with pingu."},
+{"name":"pinky","description":"Lightweight finger. This is part of \"am-utils\" suite."},
+{"name":"pipes-rs","description":"An over-engineered rewrite of pipes.sh in Rust. CLI."},
+{"name":"pixfetch","description":"Another CLI fetch program with pixelized images written in Rust."},
+{"name":"pkg2appimage","description":"Utility to convert .yml recipes to AppDir, see appimagetool."},
+{"name":"platform-tools","description":"Official Suite of command line utilities to manage Android devices."},
+{"name":"playerctl","description":"Unofficial, MPRIS media player command-line controller."},
+{"name":"plotly-orca","description":"CLI generating static images of interactive charts."},
+{"name":"png2svg","description":"CLI, convert small PNG images to SVG Tiny 1.2."},
+{"name":"podman-desktop-companion","description":"Podman command line interface."},
+{"name":"podman","description":"Free & open source tool to manage containers, pods, and images."},
+{"name":"pokeget-rs","description":"A better rust version of pokeget. CLI."},
+{"name":"pokego","description":"Command-line tool that lets you display Pokémon sprites in color directly in your terminal."},
+{"name":"pokete","description":"A terminal based Pokemon like game."},
+{"name":"polar","description":"One-click Bitcoin Lightning networks for local app development."},
+{"name":"pop","description":"Send emails from your terminal."},
+{"name":"portable2appimage","description":"Convert standalone, self-contained portable apps into AppImage packages."},
+{"name":"pr","description":"Files for printing. This is part of \"am-utils\" suite."},
+{"name":"printenv","description":"Print all or part of environment. This is part of \"am-utils\" suite."},
+{"name":"printf","description":"Format and print data. This is part of \"am-utils\" suite."},
+{"name":"procs","description":"A modern replacement for ps written in Rust."},
+{"name":"procspin","description":"CLI to create a process/progress animation with text."},
+{"name":"ptx","description":"Permuted index of file contents. This is part of \"am-utils\" suite."},
+{"name":"pwd","description":"Print name of current/working directory. This is part of \"am-utils\" suite."},
+{"name":"qpdf","description":"CLI tool to perform content-preserving transformations on PDF files."},
+{"name":"qrscan","description":"Scan a QR code in the terminal using the system camera or an image."},
+{"name":"qterminal","description":"Unofficial. A lightweight Qt terminal emulator based on QTermWidget."},
+{"name":"quarto-cli","description":"Scientific and technical publishing system built on Pandoc."},
+{"name":"ranlib","description":"Index to an archive. This is part of \"am-utils\" suite."},
+{"name":"raspberry-pi-imager-cli","description":"The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices. CLI edition."},
+{"name":"rbw","description":"Unofficial Bitwarden password manager cli."},
+{"name":"rclip","description":"AI-Powered Semantic Photo Search for the Command Line."},
+{"name":"rclone","description":"\"rsync for cloud storage\", CLI that supports Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files."},
+{"name":"readelf","description":"About ELF files. This is part of \"am-utils\" suite."},
+{"name":"readlink","description":"Print resolved symbolic links or canonical file. This is part of \"am-utils\" suite."},
+{"name":"realpath","description":"Print the resolved path. This is part of \"am-utils\" suite."},
+{"name":"rebos","description":"Rebos is a tool that aims at mimicking what NixOS does (repeatability), for any Linux distribution."},
+{"name":"revealgo","description":"Markdown driven presentation tool written in Go!"},
+{"name":"rev","description":"Reverse lines characterwise. This is part of \"am-utils\" suite."},
+{"name":"rimage","description":"This is CLI tool inspired by squoosh."},
+{"name":"ripgrep-all","description":"A ripgrep version to also search in documents and archives."},
+{"name":"ripgrep","description":"Search directories for regex pattern while respecting gitignore."},
+{"name":"rmdir","description":"Remove empty directories. This is part of \"am-utils\" suite."},
+{"name":"rm","description":"Remove files or directories. This is part of \"am-utils\" suite."},
+{"name":"rmw","description":"A safe-remove utility for the command line."},
+{"name":"rocketfetch","description":"A WIP command line system information tool written with multithreading in rust for performance with toml file configuration."},
+{"name":"rrip","description":"Bulk image downloader for reddit."},
+{"name":"rucola","description":"Terminal-based markdown note manager."},
+{"name":"runcon","description":"With specified security context. This is part of \"am-utils\" suite."},
+{"name":"rustdict","description":"A dictionary CLI tool in Rust inspired by BetaPictoris's dict."},
+{"name":"rustypaste","description":"A minimal file upload/pastebin service."},
+{"name":"sas","description":"Tool to sandbox AppImages with bubblewrap easily."},
+{"name":"school-sections","description":"This project was generated with Angular CLI v1.7.4."},
+{"name":"scummvm","description":"Unofficial, A 'virtual machine' for several classic graphical point-and-click adventure games"},
+{"name":"sd","description":"Intuitive find & replace CLI, sed alternative."},
+{"name":"seafile-cli","description":"Seafile CLI version. Beyond just syncing and sharing files, it lets you add custom file properties and organize your files in different views. With AI-powered automation for generating properties, Seafile offers a smarter, more efficient way to manage your files."},
+{"name":"sed","description":"GNU stream editor for filtering and transforming text. This is part of \"am-utils\" suite."},
+{"name":"senpa-io-client","description":"Official Client for Senpa.io"},
+{"name":"seq","description":"Print a sequence of numbers. This is part of \"am-utils\" suite."},
+{"name":"sfbrename-cli","description":"Bulk file renamer."},
+{"name":"sha1sum","description":"Compute and check SHA1 message digest. This is part of \"am-utils\" suite."},
+{"name":"sha224sum","description":"Check SHA224 message digest. This is part of \"am-utils\" suite."},
+{"name":"sha256sum","description":"Compute and check SHA256 message digest. This is part of \"am-utils\" suite."},
+{"name":"sha384sum","description":"Check SHA384 message digest. This is part of \"am-utils\" suite."},
+{"name":"sha512sum","description":"Compute and check SHA512 message digest. This is part of \"am-utils\" suite."},
+{"name":"shellcheck","description":"ShellCheck, a static analysis tool for shell scripts."},
+{"name":"shellharden","description":"The corrective bash syntax highlighter."},
+{"name":"sh","description":"GNU Bourne-Again Shell, the de facto standard shell on Linux. This is part of \"am-utils\" suite."},
+{"name":"shradiko","description":"Make Portable AppImages from Distro Packages."},
+{"name":"shred","description":"Overwrite a file to hide its contents, and optionally. This is part of \"am-utils\" suite."},
+{"name":"shuf","description":"Generate random permutations. This is part of \"am-utils\" suite."},
+{"name":"sidenote","description":"A CLI tool that helps to manage plain text notes per working directory."},
+{"name":"simplechroot","description":"Simple command line chroot with ease."},
+{"name":"size","description":"Sizes and total size of binary files. This is part of \"am-utils\" suite."},
+{"name":"sleep","description":"Delay for a specified amount of time. This is part of \"am-utils\" suite."},
+{"name":"smassh","description":"Smassh your Keyboard, TUI Edition."},
+{"name":"soar","description":"A fast, modern package manager for Static Binaries, Portable Formats, AppImage, AppBundle, FlatImage, Runimage & More."},
+{"name":"soft-serve","description":"The mighty, self-hostable Git server for the command line."},
+{"name":"s","description":"Open a web search in your terminal."},
+{"name":"sort","description":"Sort lines of text files. This is part of \"am-utils\" suite."},
+{"name":"split","description":"Divide a file into multiple smaller files. This is part of \"am-utils\" suite."},
+{"name":"spm","description":"A simple CLI package manager written in bash mainly for AppImages."},
+{"name":"spotifetch","description":"A simple and beautiful CLI fetch tool for spotify, now rusty."},
+{"name":"spotify-dl","description":"A command-line utility to download songs and playlists directly from Spotify's servers."},
+{"name":"spotify-player","description":"A Spotify player in the terminal with full feature parity."},
+{"name":"spotify-tui","description":"Spotify for the terminal written in Rust."},
+{"name":"sptlrx","description":"Synchronized lyrics in your terminal."},
+{"name":"sqlite3","description":"Command-line tool for managing SQLite databases. This is part of \"platform-tools\"."},
+{"name":"st+","description":"A beautiful, SIXEL-capable, lightweight terminal (~100KB) with just-enough essential features for rock-solid stability in daily usage. Features integration with nerd-fonts and Gogh color schemes."},
+{"name":"starship","description":"The minimal, blazing-fast, and infinitely customizable prompt for any shell."},
+{"name":"stat","description":"Display file or file system status. This is part of \"am-utils\" suite."},
+{"name":"stdbuf","description":"With modified buffering operations for its. This is part of \"am-utils\" suite."},
+{"name":"steam-tui","description":"Rust TUI client for steamcmd."},
+{"name":"stew","description":"An independent package manager for compiled binaries."},
+{"name":"strace","description":"Trace system calls and signals. This is part of \"am-utils\" suite."},
+{"name":"strans","description":"A powerful command-line utility."},
+{"name":"streamlink","description":"Command-line which pipes video streams from various services."},
+{"name":"strings","description":"Strings is another bad static string library, written in C. This is part of \"am-utils\" suite."},
+{"name":"strip","description":"And other data from object files. This is part of \"am-utils\" suite."},
+{"name":"stty","description":"Change and print terminal line settings. This is part of \"am-utils\" suite."},
+{"name":"st","description":"Unofficial AppImage of the suckless terminal st."},
+{"name":"sum","description":"Checksum and count the blocks in a file. This is part of \"am-utils\" suite."},
+{"name":"superfile","description":"Pretty fancy and modern terminal file manager."},
+{"name":"swapoff","description":"Enable/disable devices and files for paging and. This is part of \"am-utils\" suite."},
+{"name":"swapon","description":"Enable/disable devices and files for paging and. This is part of \"am-utils\" suite."},
+{"name":"swish","description":"Command Line Interface for Swisstransfer Infomaniak's free service."},
+{"name":"switchshuttle","description":"Run predefined commands in various terminal applications."},
+{"name":"sync","description":"Backup and synchronization service. This is part of \"am-utils\" suite."},
+{"name":"sysz","description":"An fzf terminal UI for systemctl."},
+{"name":"tabby","description":"A terminal for a more modern age"},
+{"name":"tac","description":"Concatenate and print files in reverse. This is part of \"am-utils\" suite."},
+{"name":"tachoparser","description":"Unofficial AppImage of tachoparser, CLI and GUI application for reading DDD tachograph cards."},
+{"name":"tail","description":"Output the last part of files. This is part of \"am-utils\" suite."},
+{"name":"tar","description":"Utility used to store, backup, and transport files. This is part of \"am-utils\" suite."},
+{"name":"taskell","description":"Command-line Kanban board/task manager with support for Trello boards and GitHub projects."},
+{"name":"tb","description":"Tasks, boards & notes for the command-line habitat."},
+{"name":"tdlib-rs","description":"Rust wrapper around the Telegram Database Library."},
+{"name":"tee","description":"Read from standard input and write to standard output and. This is part of \"am-utils\" suite."},
+{"name":"tere","description":"Terminal file explorer."},
+{"name":"termora","description":"A terminal emulator and SSH client."},
+{"name":"termshot","description":"Creates screenshots based on terminal command output."},
+{"name":"tess","description":"A hackable, simple, rapid and beautiful terminal."},
+{"name":"test","description":"Check file types and compare values. This is part of \"am-utils\" suite."},
+{"name":"testdisk","description":"TestDisk & PhotoRec, tools to recover lost partitions and files."},
+{"name":"textnote","description":"Simple tool for creating and organizing daily notes on the command line."},
+{"name":"tgpt","description":"AI Chatbots in terminal without needing API keys."},
+{"name":"the-way","description":"A code snippets manager for your terminal."},
+{"name":"thorium-client","description":"A locked-down electron kiosk for Thorium."},
+{"name":"ticker","description":"Terminal stock ticker with live updates and position tracking."},
+{"name":"timeout","description":"Run a command with a time limit. This is part of \"am-utils\" suite."},
+{"name":"tlock","description":"Two-Factor Authentication Tokens Manager in Terminal."},
+{"name":"tmon","description":"A simple CLI tool for monitoring/reporting CPU temperatures."},
+{"name":"tod","description":"An unofficial Todoist command line client written in Rust."},
+{"name":"todo-bash","description":"Todo list for the Bash command line."},
+{"name":"toipe","description":"yet another typing test, but crab flavoured."},
+{"name":"top","description":"Display Linux processes. This is part of \"am-utils\" suite."},
+{"name":"topgrade","description":"Upgrade all the things, this is the universal upgrade manager."},
+{"name":"torrenttools","description":"Cli tool to inspect/create/edit BitTorrent metafiles."},
+{"name":"toru","description":"Bittorrent streaming CLI tool. Stream anime torrents real-time."},
+{"name":"touch","description":"Change file timestamps. This is part of \"am-utils\" suite."},
+{"name":"tput","description":"tput  - initialize a terminal, exercise its capabilities, or query terminfo database. This is part of \"am-utils\" suite."},
+{"name":"trans","description":"CLI translator using Google/Bing/Yandex Translate, etc..."},
+{"name":"transformer","description":"A command-line utility for splitting large files into chunks/pieces and merging them back together."},
+{"name":"tr","description":"Translate or delete characters. This is part of \"am-utils\" suite."},
+{"name":"true","description":"Do nothing, successfully. This is part of \"am-utils\" suite."},
+{"name":"truncate","description":"Shrink or extend the size of a file to the specified. This is part of \"am-utils\" suite."},
+{"name":"tsort","description":"Perform a topological sort. This is part of \"am-utils\" suite."},
+{"name":"tssh","description":"trzsz-ssh is an alternative to ssh client, offers additional features."},
+{"name":"ttyper","description":"Terminal-based typing test."},
+{"name":"tty","description":"Print the file name of the terminal connected to standard. This is part of \"am-utils\" suite."},
+{"name":"tuxplorer","description":"Tuxplorer is a terminal based file explorer."},
+{"name":"typioca","description":"Cozy typing speed tester in terminal."},
+{"name":"ul","description":"Translate underline sequences for terminals. This is part of \"am-utils\" suite."},
+{"name":"umount","description":"Unmount filesystems. This is part of \"am-utils\" suite."},
+{"name":"uname","description":"Print system information. This is part of \"am-utils\" suite."},
+{"name":"uncompress","description":"Zcat - compress and expand data. This is part of \"am-utils\" suite."},
+{"name":"unexpand","description":"Convert spaces to tabs. This is part of \"am-utils\" suite."},
+{"name":"uniq","description":"Report or omit repeated lines. This is part of \"am-utils\" suite."},
+{"name":"unlink","description":"Call the unlink function to remove the specified file. This is part of \"am-utils\" suite."},
+{"name":"unshare","description":"Run program in new namespaces. This is part of \"am-utils\" suite."},
+{"name":"unveil","description":"Unveil Rs is a tool to create presentations from markdown inspired by reveal.js, mdbook and zola."},
+{"name":"unxz","description":"Xzcat, lzma, unlzma, lzcat - Compress or decompress .xz. This is part of \"am-utils\" suite."},
+{"name":"unzip","description":"For extracting and viewing files in .zip archives. This is part of \"am-utils\" suite."},
+{"name":"upgit","description":"CLI, another upload hub that supports clipboard. It works well with Typora, Snipaste, VSCode."},
+{"name":"uptime","description":"Tell how long the system has been running.. This is part of \"am-utils\" suite."},
+{"name":"users","description":"Print the user names of users currently logged in to the. This is part of \"am-utils\" suite."},
+{"name":"uv","description":"An extremely fast Python package and project manager, written in Rust."},
+{"name":"uwufetch","description":"A meme system info tool for Linux, based on nyan/uwu trend."},
+{"name":"vdir","description":"List directory contents. This is part of \"am-utils\" suite."},
+{"name":"vegeta","description":"HTTP load testing tool and library. It's over 9000!"},
+{"name":"vhs","description":"Your CLI home video recorder."},
+{"name":"vicut","description":"A Vim-based, scriptable, headless text editor for the command line."},
+{"name":"viddy","description":"A modern watch command line utility. Time machine and pager etc."},
+{"name":"vimeo-dl","description":"A cli tool to download private videos on vimeo. Written in golang."},
+{"name":"viu","description":"Terminal image viewer with native support for iTerm and Kitty."},
+{"name":"vtm","description":"Text-based desktop environment."},
+{"name":"vt","description":"VirusTotal Command Line Interface."},
+{"name":"w2vgrep","description":"semantic-grep for words with similar meaning to the query."},
+{"name":"walk","description":"Terminal file manager."},
+{"name":"warp-terminal","description":"Terminal reimagined with AI and collaborative tools."},
+{"name":"watch","description":"Watches for changes in a directory tree and reruns a command in an acme win or just on the terminal. This is part of \"am-utils\" suite."},
+{"name":"wc","description":"Print newline, word, and byte counts for each file. This is part of \"am-utils\" suite."},
+{"name":"wethr","description":"Command line weather tool."},
+{"name":"wezterm","description":"A GPU-accelerated terminal emulator and multiplexer."},
+{"name":"wezterm-nightly","description":"A GPU-accelerated terminal emulator and multiplexer."},
+{"name":"wget","description":"Network utility to retrieve files from the web. This is part of \"am-utils\" suite."},
+{"name":"whoami","description":"Print effective user name. This is part of \"am-utils\" suite."},
+{"name":"who","description":"Show who is logged on. This is part of \"am-utils\" suite."},
+{"name":"win11-clipboard-history","description":"A beautiful, Windows 11-style Clipboard History Manager for Linux."},
+{"name":"wine32-deploy","description":"Tool for creating AppImages for 32-bit Microsoft Windows apps."},
+{"name":"wine","description":"Unofficial. Run Windows programs, select a version from mmtrt/WINE_AppImage."},
+{"name":"wives","description":"A beautiful, modern & feature-rich Terminal Emulator."},
+{"name":"wkp","description":"A CLI tool designed to fetch Wikipedia excerpts written in Rust."},
+{"name":"wtfutil","description":"The personal information dashboard for your terminal."},
+{"name":"xargs","description":"Build and execute command lines from standard input. This is part of \"am-utils\" suite."},
+{"name":"xbooxp","description":"A nifty software to upload homebrew apps into your Game Boy Advance (GBA) using an xboo cable."},
+{"name":"xdg-ninja","description":"Script that checks your $HOME for unwanted files and directories."},
+{"name":"x-pixiv","description":"CLI, pixiv downloader."},
+{"name":"xzcat","description":"Xzcat, lzma, unlzma, lzcat - Compress or decompress .xz. This is part of \"am-utils\" suite."},
+{"name":"xz","description":"Library and command line tools for XZ and LZMA compressed files. This is part of \"am-utils\" suite."},
+{"name":"yaf","description":"Yet another system CLI fetch that is minimal and customizable."},
+{"name":"yazi","description":"Blazing fast terminal file manager written in Rust."},
+{"name":"yes","description":"Output a string repeatedly until killed. This is part of \"am-utils\" suite."},
+{"name":"youtube-download","description":"GUI and CLI for downloading YouTube video/audio."},
+{"name":"youtube-tui","description":"An aesthetically pleasing YouTube TUI CLI written in Rust."},
+{"name":"ytarchive","description":"Garbage Youtube livestream downloader CLI."},
+{"name":"yt-dlp","description":"A feature-rich command-line audio/video downloader."},
+{"name":"ytermusic","description":"An in terminal youtube music client with focus on privacy, simplicity and performance."},
+{"name":"yup","description":"Arch Linux AUR Helper with ncurses functionality and better searching and sorting."},
+{"name":"zap","description":"Delightful command line AppImage package manager for appimage.github.io."},
+{"name":"zcat","description":"Zcat - compress or expand files. This is part of \"am-utils\" suite."},
+{"name":"zellij","description":"A terminal workspace with batteries included."},
+{"name":"zenity","description":"Unofficial, A CLI utility that creates dialog boxes, GTK3 version."},
+{"name":"zfind","description":"Search files, even inside tar/zip/7z/rar using a SQL-WHERE filter."},
+{"name":"zfxtop","description":"[WIP] fetch top for gen Z with X written by bubbletea enjoyer."},
+{"name":"zk","description":"A plain text note-taking assistant"},
+{"name":"zoxide","description":"A smarter cd command. Supports all major shells."},
+{"name":"zramen","description":"Manage zram swap space."},
+{"name":"zsync2","description":"A rewrite of the advanced file download/sync tool zsync."},
+{"name":"zsync","description":"Partial/differential file download client over HTTP. This is part of \"am-utils\" suite."}
 ]

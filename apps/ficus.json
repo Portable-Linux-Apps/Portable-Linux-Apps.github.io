@@ -1,8 +1,1 @@
-{
-  "name": "ficus",
-  "description": "A software for editing and managing markdown documents, developed by the gg=G team.",
-  "sites": [
-    "https://ficus.world/"
-  ],
-  "sources": []
-}
+{"name":"ficus","description":"A software for editing and managing markdown documents, developed by the gg=G team.","sites":["https://ficus.world/"],"sources":[]}

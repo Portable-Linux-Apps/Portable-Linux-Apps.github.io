@@ -1,8 +1,1 @@
-{
-  "name": "deb2appimage",
-  "description": "Build AppImages from deb packages on any distro with simple json configuration.",
-  "sites": [
-    "https://github.com/simoniz0r/deb2appimage"
-  ],
-  "sources": []
-}
+{"name":"deb2appimage","description":"Build AppImages from deb packages on any distro with simple json configuration.","sites":["https://github.com/simoniz0r/deb2appimage"],"sources":[]}

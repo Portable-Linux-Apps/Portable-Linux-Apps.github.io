@@ -1,8 +1,1 @@
-{
-  "name": "diskonaut",
-  "description": "Terminal disk space navigator 🔭",
-  "sites": [
-    "https://github.com/imsnif/diskonaut"
-  ],
-  "sources": []
-}
+{"name":"diskonaut","description":"Terminal disk space navigator \ud83d\udd2d","sites":["https://github.com/imsnif/diskonaut"],"sources":[]}

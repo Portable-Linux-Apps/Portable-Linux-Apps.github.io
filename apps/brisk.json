@@ -1,8 +1,1 @@
-{
-  "name": "brisk",
-  "description": "Ultra-fast, moden download manager for desktop.",
-  "sites": [
-    "https://github.com/AminBhst/brisk"
-  ],
-  "sources": []
-}
+{"name":"brisk","description":"Ultra-fast, moden download manager for desktop.","sites":["https://github.com/AminBhst/brisk"],"sources":[]}

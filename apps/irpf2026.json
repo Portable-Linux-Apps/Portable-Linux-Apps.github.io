@@ -1,8 +1,1 @@
-{
-  "name": "irpf2026",
-  "description": "Appimage não oficial do IRPF2026.",
-  "sites": [
-    "https://github.com/pkgforge-dev/IRPF2026-AppImage"
-  ],
-  "sources": []
-}
+{"name":"irpf2026","description":"Appimage n\u00e3o oficial do IRPF2026.","sites":["https://github.com/pkgforge-dev/IRPF2026-AppImage"],"sources":[]}

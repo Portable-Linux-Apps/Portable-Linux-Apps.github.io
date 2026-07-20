@@ -1,8 +1,1 @@
-{
-  "name": "swaglyrics",
-  "description": "SwagLyrics AppImage (unofficial)",
-  "sites": [
-    "https://github.com/srevinsaju/swaglyrics-appimage"
-  ],
-  "sources": []
-}
+{"name":"swaglyrics","description":"SwagLyrics AppImage (unofficial)","sites":["https://github.com/srevinsaju/swaglyrics-appimage"],"sources":[]}

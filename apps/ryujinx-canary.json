@@ -1,8 +1,1 @@
-{
-  "name": "ryujinx-canary",
-  "description": "An open-source Nintendo Switch emulator, originally created by gdkchan, written in C# (Canary builds).",
-  "sites": [
-    "https://ryujinx.app/"
-  ],
-  "sources": []
-}
+{"name":"ryujinx-canary","description":"An open-source Nintendo Switch emulator, originally created by gdkchan, written in C# (Canary builds).","sites":["https://ryujinx.app/"],"sources":[]}

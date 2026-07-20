@@ -1,8 +1,1 @@
-{
-  "name": "wthrr",
-  "description": "🌞 🦀 🌙 Weather companion for the terminal. Rust app.",
-  "sites": [
-    "https://github.com/ttytm/wthrr-the-weathercrab"
-  ],
-  "sources": []
-}
+{"name":"wthrr","description":"\ud83c\udf1e \ud83e\udd80 \ud83c\udf19 Weather companion for the terminal. Rust app.","sites":["https://github.com/ttytm/wthrr-the-weathercrab"],"sources":[]}

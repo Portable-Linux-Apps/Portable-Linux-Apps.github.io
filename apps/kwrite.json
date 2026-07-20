@@ -1,10 +1,1 @@
-{
-  "name": "kwrite",
-  "description": "KWrite is a text editor by KDE, based on the Kate's editor component.\n\n This tool is part of the KDE Utils Suite.\n\n <img src=\"https://cdn.kde.org/screenshots/kwrite/kwrite.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://apps.kde.org"
-  ],
-  "sources": [
-    "https://github.com/ivan-hc/KDE-utils-appimage"
-  ]
-}
+{"name":"kwrite","description":"KWrite is a text editor by KDE, based on the Kate's editor component.\n\n This tool is part of the KDE Utils Suite.\n\n <img src=\"https://cdn.kde.org/screenshots/kwrite/kwrite.png\" alt=\"Screenshot\">","sites":["https://apps.kde.org"],"sources":["https://github.com/ivan-hc/KDE-utils-appimage"]}

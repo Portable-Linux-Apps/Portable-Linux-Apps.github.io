@@ -1,8 +1,1 @@
-{
-  "name": "nuclear",
-  "description": "Streaming music player that finds free music for you",
-  "sites": [
-    "https://github.com/nukeop/nuclear"
-  ],
-  "sources": []
-}
+{"name":"nuclear","description":"Streaming music player that finds free music for you","sites":["https://github.com/nukeop/nuclear"],"sources":[]}

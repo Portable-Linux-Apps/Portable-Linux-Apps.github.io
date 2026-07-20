@@ -1,8 +1,1 @@
-{
-  "name": "beam-wallet",
-  "description": "Beam Desktop Wallet.",
-  "sites": [
-    "https://beam.mw/"
-  ],
-  "sources": []
-}
+{"name":"beam-wallet","description":"Beam Desktop Wallet.","sites":["https://beam.mw/"],"sources":[]}

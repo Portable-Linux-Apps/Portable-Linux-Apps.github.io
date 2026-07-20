@@ -1,8 +1,1 @@
-{
-  "name": "emoji-keyboard",
-  "description": "Virtual keyboard-like emoji palette for Linux - AppImage version",
-  "sites": [
-    "https://github.com/OzymandiasTheGreat/emoji-keyboard"
-  ],
-  "sources": []
-}
+{"name":"emoji-keyboard","description":"Virtual keyboard-like emoji palette for Linux - AppImage version","sites":["https://github.com/OzymandiasTheGreat/emoji-keyboard"],"sources":[]}

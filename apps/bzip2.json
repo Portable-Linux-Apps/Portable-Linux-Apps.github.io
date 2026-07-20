@@ -1,8 +1,1 @@
-{
-  "name": "bzip2",
-  "description": "A high-quality data compression program. This is part of \"am-utils\" suite.",
-  "sites": [
-    "https://github.com/ivan-hc/am-utils"
-  ],
-  "sources": []
-}
+{"name":"bzip2","description":"A high-quality data compression program. This is part of \"am-utils\" suite.","sites":["https://github.com/ivan-hc/am-utils"],"sources":[]}

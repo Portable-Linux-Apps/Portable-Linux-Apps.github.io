@@ -1,8 +1,1 @@
-{
-  "name": "endless-sky",
-  "description": "Endless Sky - Space exploration and combat game.",
-  "sites": [
-    "https://endless-sky.github.io"
-  ],
-  "sources": []
-}
+{"name":"endless-sky","description":"Endless Sky - Space exploration and combat game.","sites":["https://endless-sky.github.io"],"sources":[]}

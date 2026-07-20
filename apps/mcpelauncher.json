@@ -1,8 +1,1 @@
-{
-  "name": "mcpelauncher",
-  "description": "This project allows you to launch Minecraft: Bedrock Edition (as in the edition w/o the Edition suffix, previously known as Minecraft: Pocket Edition). The launcher supports Linux and OS X.\n\n Only for Github Actions, the hacked linux-packaging-scripts of minecraft-linux (endless tweaked).",
-  "sites": [
-    "https://github.com/minecraft-linux/appimage-builder"
-  ],
-  "sources": []
-}
+{"name":"mcpelauncher","description":"This project allows you to launch Minecraft: Bedrock Edition (as in the edition w/o the Edition suffix, previously known as Minecraft: Pocket Edition). The launcher supports Linux and OS X.\n\n Only for Github Actions, the hacked linux-packaging-scripts of minecraft-linux (endless tweaked).","sites":["https://github.com/minecraft-linux/appimage-builder"],"sources":[]}

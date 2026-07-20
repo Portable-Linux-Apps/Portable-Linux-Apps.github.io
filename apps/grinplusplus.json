@@ -1,8 +1,1 @@
-{
-  "name": "grinplusplus",
-  "description": "Grin++ is a C++ Grin Node & Wallet For Windows, Mac OS X, & Linux",
-  "sites": [
-    "https://github.com/GrinPlusPlus/GrinPlusPlus"
-  ],
-  "sources": []
-}
+{"name":"grinplusplus","description":"Grin++ is a C++ Grin Node & Wallet For Windows, Mac OS X, & Linux","sites":["https://github.com/GrinPlusPlus/GrinPlusPlus"],"sources":[]}

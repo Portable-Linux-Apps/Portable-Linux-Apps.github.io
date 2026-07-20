@@ -1,8 +1,1 @@
-{
-  "name": "nepaliunicode",
-  "description": "An Unicode Converter app with support for Windows, OS X and GNU/Linux.",
-  "sites": [
-    "https://github.com/nirooj56/nepaliunicode"
-  ],
-  "sources": []
-}
+{"name":"nepaliunicode","description":"An Unicode Converter app with support for Windows, OS X and GNU/Linux.","sites":["https://github.com/nirooj56/nepaliunicode"],"sources":[]}

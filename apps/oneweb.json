@@ -1,8 +1,1 @@
-{
-  "name": "oneweb",
-  "description": "OneWeb - free, private and secure web browser! POLSKA GUROM.",
-  "sites": [
-    "https://github.com/OneDevelopmentPL/oneweb"
-  ],
-  "sources": []
-}
+{"name":"oneweb","description":"OneWeb - free, private and secure web browser! POLSKA GUROM.","sites":["https://github.com/OneDevelopmentPL/oneweb"],"sources":[]}

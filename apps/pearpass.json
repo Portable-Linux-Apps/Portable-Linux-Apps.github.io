@@ -1,8 +1,1 @@
-{
-  "name": "pearpass",
-  "description": "An open-source, privacy-first password manager with peer-to-peer syncing and end-to-end encryption.",
-  "sites": [
-    "https://github.com/tetherto/pearpass-app-desktop"
-  ],
-  "sources": []
-}
+{"name":"pearpass","description":"An open-source, privacy-first password manager with peer-to-peer syncing and end-to-end encryption.","sites":["https://github.com/tetherto/pearpass-app-desktop"],"sources":[]}

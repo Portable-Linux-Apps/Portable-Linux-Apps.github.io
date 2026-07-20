@@ -1,8 +1,1 @@
-{
-  "name": "corestuff",
-  "description": "An activity viewer for CuboCore Application Suite.",
-  "sites": [
-    "https://gitlab.com/cubocore"
-  ],
-  "sources": []
-}
+{"name":"corestuff","description":"An activity viewer for CuboCore Application Suite.","sites":["https://gitlab.com/cubocore"],"sources":[]}

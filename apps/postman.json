@@ -1,8 +1,1 @@
-{
-  "name": "postman",
-  "description": "API platform for building and using APIs (AppImage version).",
-  "sites": [
-    "https://github.com/showcheap/postman-appimage"
-  ],
-  "sources": []
-}
+{"name":"postman","description":"API platform for building and using APIs (AppImage version).","sites":["https://github.com/showcheap/postman-appimage"],"sources":[]}

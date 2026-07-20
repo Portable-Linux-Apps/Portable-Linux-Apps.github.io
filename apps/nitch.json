@@ -1,8 +1,1 @@
-{
-  "name": "nitch",
-  "description": "Nitch - incredibly fast system fetch written in nim.",
-  "sites": [
-    "https://github.com/ssleert/nitch"
-  ],
-  "sources": []
-}
+{"name":"nitch","description":"Nitch - incredibly fast system fetch written in nim.","sites":["https://github.com/ssleert/nitch"],"sources":[]}

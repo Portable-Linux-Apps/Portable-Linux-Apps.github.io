@@ -1,8 +1,1 @@
-{
-  "name": "dedop-studio",
-  "description": "DeDop Studio",
-  "sites": [
-    "https://github.com/DeDop/dedop-studio"
-  ],
-  "sources": []
-}
+{"name":"dedop-studio","description":"DeDop Studio","sites":["https://github.com/DeDop/dedop-studio"],"sources":[]}

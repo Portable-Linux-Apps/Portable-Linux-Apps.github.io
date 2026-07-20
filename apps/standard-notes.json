@@ -1,8 +1,1 @@
-{
-  "name": "standard-notes",
-  "description": "A simple and private place for your notes, thoughts, and life’s work.",
-  "sites": [
-    "https://github.com/standardnotes/app"
-  ],
-  "sources": []
-}
+{"name":"standard-notes","description":"A simple and private place for your notes, thoughts, and life\u2019s work.","sites":["https://github.com/standardnotes/app"],"sources":[]}

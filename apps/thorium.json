@@ -1,8 +1,1 @@
-{
-  "name": "thorium",
-  "description": "Thorium - Chromium fork for linux named after radioactive element No. 90.\n \n <img src=\"https://www.imaginelinux.com/wp-content/uploads/2023/03/thorium-interface.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://github.com/Alex313031/Thorium"
-  ],
-  "sources": []
-}
+{"name":"thorium","description":"Thorium - Chromium fork for linux named after radioactive element No. 90.\n \n <img src=\"https://www.imaginelinux.com/wp-content/uploads/2023/03/thorium-interface.png\" alt=\"Screenshot\">","sites":["https://github.com/Alex313031/Thorium"],"sources":[]}

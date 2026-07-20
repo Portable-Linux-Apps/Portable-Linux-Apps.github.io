@@ -1,8 +1,1 @@
-{
-  "name": "woocommerce-pos",
-  "description": "Electron Desktop App for WooCommerce POS",
-  "sites": [
-    "https://github.com/wcpos/electron"
-  ],
-  "sources": []
-}
+{"name":"woocommerce-pos","description":"Electron Desktop App for WooCommerce POS","sites":["https://github.com/wcpos/electron"],"sources":[]}

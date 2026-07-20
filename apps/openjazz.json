@@ -1,8 +1,1 @@
-{
-  "name": "openjazz",
-  "description": "A free, open-source version of the classic Jazz Jackrabbit™ games.",
-  "sites": [
-    "https://github.com/pkgforge-dev/OpenJazz-AppImage"
-  ],
-  "sources": []
-}
+{"name":"openjazz","description":"A free, open-source version of the classic Jazz Jackrabbit\u2122 games.","sites":["https://github.com/pkgforge-dev/OpenJazz-AppImage"],"sources":[]}

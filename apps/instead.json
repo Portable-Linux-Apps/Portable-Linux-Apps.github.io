@@ -1,8 +1,1 @@
-{
-  "name": "instead",
-  "description": "Simple Text Adventures Interpreter",
-  "sites": [
-    "https://github.com/instead-hub/instead"
-  ],
-  "sources": []
-}
+{"name":"instead","description":"Simple Text Adventures Interpreter","sites":["https://github.com/instead-hub/instead"],"sources":[]}

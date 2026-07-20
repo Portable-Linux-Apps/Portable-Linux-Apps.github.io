@@ -1,8 +1,1 @@
-{
-  "name": "rock.so",
-  "description": "Messaging + Tasks.",
-  "sites": [
-    "https://www.rock.so/"
-  ],
-  "sources": []
-}
+{"name":"rock.so","description":"Messaging + Tasks.","sites":["https://www.rock.so/"],"sources":[]}

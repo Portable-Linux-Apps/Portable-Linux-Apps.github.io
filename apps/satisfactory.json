@@ -1,8 +1,1 @@
-{
-  "name": "satisfactory",
-  "description": "Satisfactory Mod Manager (appimage).",
-  "sites": [
-    "https://github.com/satisfactorymodding/SatisfactoryModManager"
-  ],
-  "sources": []
-}
+{"name":"satisfactory","description":"Satisfactory Mod Manager (appimage).","sites":["https://github.com/satisfactorymodding/SatisfactoryModManager"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "hilbish",
-  "description": "🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨",
-  "sites": [
-    "https://github.com/Rosettea/Hilbish"
-  ],
-  "sources": []
-}
+{"name":"hilbish","description":"\ud83c\udf13 The Moon-powered shell! A comfy and extensible shell for Lua fans! \ud83c\udf3a \u2728","sites":["https://github.com/Rosettea/Hilbish"],"sources":[]}

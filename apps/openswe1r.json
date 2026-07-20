@@ -1,8 +1,1 @@
-{
-  "name": "openswe1r",
-  "description": "Unofficial, an open-source port of the 1999 game Star Wars Episode 1: Racer.",
-  "sites": [
-    "https://github.com/pkgforge-dev/OpenSWE1R-AppImage"
-  ],
-  "sources": []
-}
+{"name":"openswe1r","description":"Unofficial, an open-source port of the 1999 game Star Wars Episode 1: Racer.","sites":["https://github.com/pkgforge-dev/OpenSWE1R-AppImage"],"sources":[]}

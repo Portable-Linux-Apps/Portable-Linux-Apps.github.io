@@ -1,8 +1,1 @@
-{
-  "name": "zotero",
-  "description": "Zotero is a free, easy-to-use tool to help you collect,  organize, cite, and share your research sources.",
-  "sites": [
-    "https://www.zotero.org"
-  ],
-  "sources": []
-}
+{"name":"zotero","description":"Zotero is a free, easy-to-use tool to help you collect,  organize, cite, and share your research sources.","sites":["https://www.zotero.org"],"sources":[]}

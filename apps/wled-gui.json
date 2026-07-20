@@ -1,8 +1,1 @@
-{
-  "name": "wled-gui",
-  "description": "Cross-platform desktop app for WLED.",
-  "sites": [
-    "https://github.com/w00000dy/WLED-GUI"
-  ],
-  "sources": []
-}
+{"name":"wled-gui","description":"Cross-platform desktop app for WLED.","sites":["https://github.com/w00000dy/WLED-GUI"],"sources":[]}

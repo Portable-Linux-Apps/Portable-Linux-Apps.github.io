@@ -1,10 +1,1 @@
-{
-  "name": "olive",
-  "description": "Olive is a free non-linear video editor for Windows, macOS, and Linux.\n \n <img src=\"https://www.olivevideoeditor.org/img/020-1.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://www.olivevideoeditor.org"
-  ],
-  "sources": [
-    "https://github.com/olive-editor/olive"
-  ]
-}
+{"name":"olive","description":"Olive is a free non-linear video editor for Windows, macOS, and Linux.\n \n <img src=\"https://www.olivevideoeditor.org/img/020-1.png\" alt=\"Screenshot\">","sites":["https://www.olivevideoeditor.org"],"sources":["https://github.com/olive-editor/olive"]}

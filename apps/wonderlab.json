@@ -1,8 +1,1 @@
-{
-  "name": "wonderlab",
-  "description": "A new generation Minecraft launcher.",
-  "sites": [
-    "https://github.com/Lunova-Studio/WonderLab.Override"
-  ],
-  "sources": []
-}
+{"name":"wonderlab","description":"A new generation Minecraft launcher.","sites":["https://github.com/Lunova-Studio/WonderLab.Override"],"sources":[]}

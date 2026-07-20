@@ -1,8 +1,1 @@
-{
-  "name": "virt-manager",
-  "description": "Unofficial AppImage of virt-manager, interface for managing virtual machines.",
-  "sites": [
-    "https://github.com/pkgforge-dev/virt-manager-AppImage"
-  ],
-  "sources": []
-}
+{"name":"virt-manager","description":"Unofficial AppImage of virt-manager, interface for managing virtual machines.","sites":["https://github.com/pkgforge-dev/virt-manager-AppImage"],"sources":[]}

@@ -1,10 +1,1 @@
-{
-  "name": "kgpg",
-  "description": "Kgpg manages cryptographic keys for the GNU Privacy Guard, and can encrypt, decrypt, sign, and verify files. It features a  simple editor for applying cryptography to short pieces of text, and can also quickly apply cryptography to the contents of the clipboard. \n\n This tool is part of the KDE Utils Suite.\n \n <img src=\"https://cdn.kde.org/screenshots/kgpg/kgpg.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://apps.kde.org"
-  ],
-  "sources": [
-    "https://github.com/ivan-hc/KDE-utils-appimage"
-  ]
-}
+{"name":"kgpg","description":"Kgpg manages cryptographic keys for the GNU Privacy Guard, and can encrypt, decrypt, sign, and verify files. It features a  simple editor for applying cryptography to short pieces of text, and can also quickly apply cryptography to the contents of the clipboard. \n\n This tool is part of the KDE Utils Suite.\n \n <img src=\"https://cdn.kde.org/screenshots/kgpg/kgpg.png\" alt=\"Screenshot\">","sites":["https://apps.kde.org"],"sources":["https://github.com/ivan-hc/KDE-utils-appimage"]}

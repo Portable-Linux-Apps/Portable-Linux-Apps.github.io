@@ -1,8 +1,1 @@
-{
-  "name": "alt-sendme",
-  "description": "Share files and directories anywhere - Local or Global",
-  "sites": [
-    "https://github.com/tonyantony300/alt-sendme"
-  ],
-  "sources": []
-}
+{"name":"alt-sendme","description":"Share files and directories anywhere - Local or Global","sites":["https://github.com/tonyantony300/alt-sendme"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "haruna",
-  "description": "Unofficial, an open source media player built with Qt/QML and libmpv.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Haruna-AppImage"
-  ],
-  "sources": []
-}
+{"name":"haruna","description":"Unofficial, an open source media player built with Qt/QML and libmpv.","sites":["https://github.com/pkgforge-dev/Haruna-AppImage"],"sources":[]}

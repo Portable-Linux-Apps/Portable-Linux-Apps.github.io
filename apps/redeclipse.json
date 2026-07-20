@@ -1,10 +1,1 @@
-{
-  "name": "redeclipse",
-  "description": "Red Eclipse is a fun-filled new take on the first person arena shooter, featuring parkour, impulse boosts, and other tricks.\n \n This release comes from the Master branch (Continuous build).\n \n <img src=\"https://user-images.githubusercontent.com/88724353/236651892-531d209c-20d0-4b12-ab65-56c6bd788763.png\" alt=\"Red_Eclipse_screenshot_(Elara_1 4 1)\">",
-  "sites": [
-    "https://www.redeclipse.net"
-  ],
-  "sources": [
-    "https://github.com/redeclipse/deploy"
-  ]
-}
+{"name":"redeclipse","description":"Red Eclipse is a fun-filled new take on the first person arena shooter, featuring parkour, impulse boosts, and other tricks.\n \n This release comes from the Master branch (Continuous build).\n \n <img src=\"https://user-images.githubusercontent.com/88724353/236651892-531d209c-20d0-4b12-ab65-56c6bd788763.png\" alt=\"Red_Eclipse_screenshot_(Elara_1 4 1)\">","sites":["https://www.redeclipse.net"],"sources":["https://github.com/redeclipse/deploy"]}

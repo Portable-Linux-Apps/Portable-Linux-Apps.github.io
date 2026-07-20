@@ -1,8 +1,1 @@
-{
-  "name": "lescovex",
-  "description": "Lescovex decentralized exchange, wallet and contract issuer",
-  "sites": [
-    "https://github.com/Lescovex/LSCX"
-  ],
-  "sources": []
-}
+{"name":"lescovex","description":"Lescovex decentralized exchange, wallet and contract issuer","sites":["https://github.com/Lescovex/LSCX"],"sources":[]}

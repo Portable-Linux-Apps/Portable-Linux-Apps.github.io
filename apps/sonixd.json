@@ -1,8 +1,1 @@
-{
-  "name": "sonixd",
-  "description": "A full-featured Subsonic/Jellyfin compatible desktop \n music player.",
-  "sites": [
-    "https://github.com/jeffvli/sonixd"
-  ],
-  "sources": []
-}
+{"name":"sonixd","description":"A full-featured Subsonic/Jellyfin compatible desktop \n music player.","sites":["https://github.com/jeffvli/sonixd"],"sources":[]}

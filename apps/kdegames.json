@@ -1,10 +1,1 @@
-{
-  "name": "kdegames",
-  "description": "This is the full and updatable KDE Games suite from JuNest (Jailed User Nest), a lightweight Arch Linux based distribution that allows the creation of  disposable and partially isolated GNU/Linux environments within any generic  GNU/Linux host OS and without requiring root privileges to install packages.\n \n This scripts includes icons and launchers for the games supported.",
-  "sites": [
-    "https://apps.kde.org"
-  ],
-  "sources": [
-    "https://archlinux.org/packages/extra/any/kde-games-meta"
-  ]
-}
+{"name":"kdegames","description":"This is the full and updatable KDE Games suite from JuNest (Jailed User Nest), a lightweight Arch Linux based distribution that allows the creation of  disposable and partially isolated GNU/Linux environments within any generic  GNU/Linux host OS and without requiring root privileges to install packages.\n \n This scripts includes icons and launchers for the games supported.","sites":["https://apps.kde.org"],"sources":["https://archlinux.org/packages/extra/any/kde-games-meta"]}

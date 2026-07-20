@@ -1,8 +1,1 @@
-{
-  "name": "pageedit",
-  "description": "EPub XHTML Visual Editor.",
-  "sites": [
-    "https://github.com/Sigil-Ebook/PageEdit"
-  ],
-  "sources": []
-}
+{"name":"pageedit","description":"EPub XHTML Visual Editor.","sites":["https://github.com/Sigil-Ebook/PageEdit"],"sources":[]}

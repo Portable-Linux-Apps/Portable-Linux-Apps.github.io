@@ -1,8 +1,1 @@
-{
-  "name": "quickgui",
-  "description": "An elegant virtual machine manager for the desktop",
-  "sites": [
-    "https://github.com/quickemu-project/quickgui"
-  ],
-  "sources": []
-}
+{"name":"quickgui","description":"An elegant virtual machine manager for the desktop","sites":["https://github.com/quickemu-project/quickgui"],"sources":[]}

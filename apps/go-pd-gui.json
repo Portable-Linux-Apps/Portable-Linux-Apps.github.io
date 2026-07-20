@@ -1,8 +1,1 @@
-{
-  "name": "go-pd-gui",
-  "description": "DRAINY is a free easy to use cross plattform upload tool for pixeldrain.com.",
-  "sites": [
-    "https://github.com/ManuelReschke/go-pd-gui"
-  ],
-  "sources": []
-}
+{"name":"go-pd-gui","description":"DRAINY is a free easy to use cross plattform upload tool for pixeldrain.com.","sites":["https://github.com/ManuelReschke/go-pd-gui"],"sources":[]}

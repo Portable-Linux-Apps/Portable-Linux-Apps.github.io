@@ -1,8 +1,1 @@
-{
-  "name": "biying",
-  "description": "Biying Wallpaper for Linux",
-  "sites": [
-    "https://github.com/iovxw/biying"
-  ],
-  "sources": []
-}
+{"name":"biying","description":"Biying Wallpaper for Linux","sites":["https://github.com/iovxw/biying"],"sources":[]}

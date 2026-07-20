@@ -1,8 +1,1 @@
-{
-  "name": "tagger",
-  "description": "Unofficial. Simple audio tagger with support for various audio formats.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Tagger-AppImage"
-  ],
-  "sources": []
-}
+{"name":"tagger","description":"Unofficial. Simple audio tagger with support for various audio formats.","sites":["https://github.com/pkgforge-dev/Tagger-AppImage"],"sources":[]}

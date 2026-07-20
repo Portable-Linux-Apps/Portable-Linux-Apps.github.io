@@ -1,8 +1,1 @@
-{
-  "name": "overte",
-  "description": "Overte open source virtual worlds platform.",
-  "sites": [
-    "https://github.com/overte-org/overte"
-  ],
-  "sources": []
-}
+{"name":"overte","description":"Overte open source virtual worlds platform.","sites":["https://github.com/overte-org/overte"],"sources":[]}

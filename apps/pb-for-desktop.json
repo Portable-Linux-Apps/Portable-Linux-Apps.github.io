@@ -1,8 +1,1 @@
-{
-  "name": "pb-for-desktop",
-  "description": "Pushbullet Desktop app for macOS, Windows and Linux.",
-  "sites": [
-    "https://github.com/sidneys/pb-for-desktop"
-  ],
-  "sources": []
-}
+{"name":"pb-for-desktop","description":"Pushbullet Desktop app for macOS, Windows and Linux.","sites":["https://github.com/sidneys/pb-for-desktop"],"sources":[]}

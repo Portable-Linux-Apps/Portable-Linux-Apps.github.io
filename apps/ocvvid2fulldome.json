@@ -1,8 +1,1 @@
-{
-  "name": "ocvvid2fulldome",
-  "description": "Take flat videos, distort them to fit fulldome masters (180 degree fisheye projection)",
-  "sites": [
-    "https://github.com/hn-88/OCVvid2fulldome"
-  ],
-  "sources": []
-}
+{"name":"ocvvid2fulldome","description":"Take flat videos, distort them to fit fulldome masters (180 degree fisheye projection)","sites":["https://github.com/hn-88/OCVvid2fulldome"],"sources":[]}

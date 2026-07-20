@@ -1,8 +1,1 @@
-{
-  "name": "electrum",
-  "description": "Lightweight Bitcoin Client",
-  "sites": [
-    "https://electrum.org"
-  ],
-  "sources": []
-}
+{"name":"electrum","description":"Lightweight Bitcoin Client","sites":["https://electrum.org"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "my-jira",
-  "description": "A lite jira desktop",
-  "sites": [
-    "https://github.com/dhso/my-jira"
-  ],
-  "sources": []
-}
+{"name":"my-jira","description":"A lite jira desktop","sites":["https://github.com/dhso/my-jira"],"sources":[]}

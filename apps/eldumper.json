@@ -1,8 +1,1 @@
-{
-  "name": "eldumper",
-  "description": "A GB Cartridge Dumper",
-  "sites": [
-    "https://github.com/rodri042/el-dumper"
-  ],
-  "sources": []
-}
+{"name":"eldumper","description":"A GB Cartridge Dumper","sites":["https://github.com/rodri042/el-dumper"],"sources":[]}

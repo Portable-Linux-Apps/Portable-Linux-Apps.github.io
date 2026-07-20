@@ -1,8 +1,1 @@
-{
-  "name": "marvin",
-  "description": "Open Source record and playback test automation for the web.",
-  "sites": [
-    "https://rolandbernard.github.io/marvin/"
-  ],
-  "sources": []
-}
+{"name":"marvin","description":"Open Source record and playback test automation for the web.","sites":["https://rolandbernard.github.io/marvin/"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "cro-chain-desktop-bin",
-  "description": "Crypto.com DeFi Desktop Wallet (AppImage version)",
-  "sites": [
-    "https://github.com/crypto-com/chain-desktop-wallet"
-  ],
-  "sources": []
-}
+{"name":"cro-chain-desktop-bin","description":"Crypto.com DeFi Desktop Wallet (AppImage version)","sites":["https://github.com/crypto-com/chain-desktop-wallet"],"sources":[]}

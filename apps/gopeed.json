@@ -1,8 +1,1 @@
-{
-  "name": "gopeed",
-  "description": "A modern download manager that supports all platforms.\n \n Built with Golang and Flutter.",
-  "sites": [
-    "https://github.com/GopeedLab/gopeed"
-  ],
-  "sources": []
-}
+{"name":"gopeed","description":"A modern download manager that supports all platforms.\n \n Built with Golang and Flutter.","sites":["https://github.com/GopeedLab/gopeed"],"sources":[]}

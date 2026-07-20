@@ -1,8 +1,1 @@
-{
-  "name": "fspy",
-  "description": "An open source, cross platform app for still image camera matching",
-  "sites": [
-    "https://github.com/stuffmatic/fSpy"
-  ],
-  "sources": []
-}
+{"name":"fspy","description":"An open source, cross platform app for still image camera matching","sites":["https://github.com/stuffmatic/fSpy"],"sources":[]}

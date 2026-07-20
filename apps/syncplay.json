@@ -1,8 +1,1 @@
-{
-  "name": "syncplay",
-  "description": "Synchronize video playback over network",
-  "sites": [
-    "https://github.com/Syncplay/syncplay"
-  ],
-  "sources": []
-}
+{"name":"syncplay","description":"Synchronize video playback over network","sites":["https://github.com/Syncplay/syncplay"],"sources":[]}

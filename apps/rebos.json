@@ -1,8 +1,1 @@
-{
-  "name": "rebos",
-  "description": "Rebos is a tool that aims at mimicking what NixOS does (repeatability), for any Linux distribution.",
-  "sites": [
-    "https://gitlab.com/Oglo12/rebos"
-  ],
-  "sources": []
-}
+{"name":"rebos","description":"Rebos is a tool that aims at mimicking what NixOS does (repeatability), for any Linux distribution.","sites":["https://gitlab.com/Oglo12/rebos"],"sources":[]}

@@ -1,10 +1,1 @@
-{
-  "name": "simplescreenrecorder",
-  "description": "SimpleScreenRecorder is a screen recorder for Linux. Despite the name,  this program is actually quite complex. It's 'simple' in the sense that  it's easier to use than ffmpeg/avconv or VLC.\n \n This is the unofficial AppImage.",
-  "sites": [
-    "https://www.maartenbaert.be/simplescreenrecorder"
-  ],
-  "sources": [
-    "https://github.com/ivan-hc/SimpleScreenRecorder-appimage"
-  ]
-}
+{"name":"simplescreenrecorder","description":"SimpleScreenRecorder is a screen recorder for Linux. Despite the name,  this program is actually quite complex. It's 'simple' in the sense that  it's easier to use than ffmpeg/avconv or VLC.\n \n This is the unofficial AppImage.","sites":["https://www.maartenbaert.be/simplescreenrecorder"],"sources":["https://github.com/ivan-hc/SimpleScreenRecorder-appimage"]}

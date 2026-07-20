@@ -1,8 +1,1 @@
-{
-  "name": "bananas",
-  "description": "Bananas, Cross-Platform screen sharing made simple.",
-  "sites": [
-    "https://github.com/mistweaverco/bananas"
-  ],
-  "sources": []
-}
+{"name":"bananas","description":"Bananas, Cross-Platform screen sharing made simple.","sites":["https://github.com/mistweaverco/bananas"],"sources":[]}

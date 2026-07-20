@@ -1,8 +1,1 @@
-{
-  "name": "symphonium",
-  "description": "A tool to help when learning to play the piano",
-  "sites": [
-    "https://github.com/ttdm/Symphonium"
-  ],
-  "sources": []
-}
+{"name":"symphonium","description":"A tool to help when learning to play the piano","sites":["https://github.com/ttdm/Symphonium"],"sources":[]}

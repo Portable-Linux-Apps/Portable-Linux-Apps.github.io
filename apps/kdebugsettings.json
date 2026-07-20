@@ -1,10 +1,1 @@
-{
-  "name": "kdebugsettings",
-  "description": "KDebugSettings edits which QLoggingCategory are displayed.\n \n QLoggingCategory prints messages on the console for applications and you  can define which applications display messages for information, warning or critical errors to help debugging Qt applications.\n\n This tool is part of the KDE Utils Suite.\n\n <img src=\"https://cdn.kde.org/screenshots/kdebugsettings/kdebugsettings.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://apps.kde.org"
-  ],
-  "sources": [
-    "https://github.com/ivan-hc/KDE-utils-appimage"
-  ]
-}
+{"name":"kdebugsettings","description":"KDebugSettings edits which QLoggingCategory are displayed.\n \n QLoggingCategory prints messages on the console for applications and you  can define which applications display messages for information, warning or critical errors to help debugging Qt applications.\n\n This tool is part of the KDE Utils Suite.\n\n <img src=\"https://cdn.kde.org/screenshots/kdebugsettings/kdebugsettings.png\" alt=\"Screenshot\">","sites":["https://apps.kde.org"],"sources":["https://github.com/ivan-hc/KDE-utils-appimage"]}

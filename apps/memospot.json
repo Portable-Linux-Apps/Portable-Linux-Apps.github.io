@@ -1,8 +1,1 @@
-{
-  "name": "memospot",
-  "description": "Memospot is a self-contained desktop version of Memos -a privacy-first, lightweight note-taking service.",
-  "sites": [
-    "https://github.com/memospot/memospot"
-  ],
-  "sources": []
-}
+{"name":"memospot","description":"Memospot is a self-contained desktop version of Memos -a privacy-first, lightweight note-taking service.","sites":["https://github.com/memospot/memospot"],"sources":[]}

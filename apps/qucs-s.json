@@ -1,8 +1,1 @@
-{
-  "name": "qucs-s",
-  "description": "An Universal GUI for Circuit Simulators",
-  "sites": [
-    "https://github.com/ra3xdh/qucs_s"
-  ],
-  "sources": []
-}
+{"name":"qucs-s","description":"An Universal GUI for Circuit Simulators","sites":["https://github.com/ra3xdh/qucs_s"],"sources":[]}

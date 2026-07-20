@@ -1,8 +1,1 @@
-{
-  "name": "openclaw",
-  "description": "Reimplementation of Captain Claw (1997) platformer.",
-  "sites": [
-    "https://github.com/pkgforge-dev/OpenClaw-AppImage"
-  ],
-  "sources": []
-}
+{"name":"openclaw","description":"Reimplementation of Captain Claw (1997) platformer.","sites":["https://github.com/pkgforge-dev/OpenClaw-AppImage"],"sources":[]}

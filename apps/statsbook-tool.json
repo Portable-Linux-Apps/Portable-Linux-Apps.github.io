@@ -1,8 +1,1 @@
-{
-  "name": "statsbook-tool",
-  "description": "A tool for error checking WFTDA Statsbooks",
-  "sites": [
-    "https://github.com/AdamSmasherDerby/Statsbook-Tool"
-  ],
-  "sources": []
-}
+{"name":"statsbook-tool","description":"A tool for error checking WFTDA Statsbooks","sites":["https://github.com/AdamSmasherDerby/Statsbook-Tool"],"sources":[]}

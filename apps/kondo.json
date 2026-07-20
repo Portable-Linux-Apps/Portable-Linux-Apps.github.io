@@ -1,8 +1,1 @@
-{
-  "name": "kondo",
-  "description": "Cleans dependencies and build artifacts from your projects.",
-  "sites": [
-    "https://github.com/tbillington/kondo"
-  ],
-  "sources": []
-}
+{"name":"kondo","description":"Cleans dependencies and build artifacts from your projects.","sites":["https://github.com/tbillington/kondo"],"sources":[]}

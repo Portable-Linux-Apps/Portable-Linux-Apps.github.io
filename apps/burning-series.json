@@ -1,8 +1,1 @@
-{
-  "name": "burning-series",
-  "description": "Watch any series from Burning Series using this app.\n \n This is an unofficial Burning Series App.",
-  "sites": [
-    "https://github.com/DATL4G/BurningSeries-Android"
-  ],
-  "sources": []
-}
+{"name":"burning-series","description":"Watch any series from Burning Series using this app.\n \n This is an unofficial Burning Series App.","sites":["https://github.com/DATL4G/BurningSeries-Android"],"sources":[]}

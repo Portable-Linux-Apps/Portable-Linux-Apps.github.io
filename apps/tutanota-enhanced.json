@@ -1,8 +1,1 @@
-{
-  "name": "tutanota-enhanced",
-  "description": "Unofficial AppImage for Tutanota, an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Tutanota-Desktop-AppImage"
-  ],
-  "sources": []
-}
+{"name":"tutanota-enhanced","description":"Unofficial AppImage for Tutanota, an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.","sites":["https://github.com/pkgforge-dev/Tutanota-Desktop-AppImage"],"sources":[]}

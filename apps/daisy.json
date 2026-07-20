@@ -1,8 +1,1 @@
-{
-  "name": "daisy",
-  "description": "A beautiful, easy-to-use, ad-free manga and light novel client that supports both. (Anime Home).",
-  "sites": [
-    "https://github.com/niuhuan/daisy"
-  ],
-  "sources": []
-}
+{"name":"daisy","description":"A beautiful, easy-to-use, ad-free manga and light novel client that supports both. (Anime Home).","sites":["https://github.com/niuhuan/daisy"],"sources":[]}

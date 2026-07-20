@@ -1,8 +1,1 @@
-{
-  "name": "urbanterror",
-  "description": "A team-based tactical shooter based on the Quake 3 Engine.\n \n <img src=\"https://media.tenor.com/sj1RVz4T7wwAAAAC/urban-terror.gif\" alt=\"GIF\">",
-  "sites": [
-    "http://www.urbanterror.info"
-  ],
-  "sources": []
-}
+{"name":"urbanterror","description":"A team-based tactical shooter based on the Quake 3 Engine.\n \n <img src=\"https://media.tenor.com/sj1RVz4T7wwAAAAC/urban-terror.gif\" alt=\"GIF\">","sites":["http://www.urbanterror.info"],"sources":[]}

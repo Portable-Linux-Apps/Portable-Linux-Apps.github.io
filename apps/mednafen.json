@@ -1,8 +1,1 @@
-{
-  "name": "mednafen",
-  "description": "Unofficial AppImage. Mednafen is a portable, utilizing OpenGL and SDL, argument(command-line)-driven multi-system emulator.",
-  "sites": [
-    "https://github.com/pkgforge-dev/mednafen-appimage"
-  ],
-  "sources": []
-}
+{"name":"mednafen","description":"Unofficial AppImage. Mednafen is a portable, utilizing OpenGL and SDL, argument(command-line)-driven multi-system emulator.","sites":["https://github.com/pkgforge-dev/mednafen-appimage"],"sources":[]}

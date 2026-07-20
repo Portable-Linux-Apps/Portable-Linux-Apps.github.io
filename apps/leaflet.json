@@ -1,8 +1,1 @@
-{
-  "name": "leaflet",
-  "description": "POSP official notes application, written in flutter, beautiful, fast and secure.",
-  "sites": [
-    "https://github.com/PotatoProject/Leaflet"
-  ],
-  "sources": []
-}
+{"name":"leaflet","description":"POSP official notes application, written in flutter, beautiful, fast and secure.","sites":["https://github.com/PotatoProject/Leaflet"],"sources":[]}

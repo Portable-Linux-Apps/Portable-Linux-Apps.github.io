@@ -1,8 +1,1 @@
-{
-  "name": "notesnook",
-  "description": "A simple & easy to use private note-taking app that encrypts  everything on the client side.",
-  "sites": [
-    "https://github.com/streetwriters/notesnook"
-  ],
-  "sources": []
-}
+{"name":"notesnook","description":"A simple & easy to use private note-taking app that encrypts  everything on the client side.","sites":["https://github.com/streetwriters/notesnook"],"sources":[]}

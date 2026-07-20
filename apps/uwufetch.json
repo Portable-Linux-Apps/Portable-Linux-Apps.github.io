@@ -1,8 +1,1 @@
-{
-  "name": "uwufetch",
-  "description": "A meme system info tool for Linux, based on nyan/uwu  trend on r/linuxmasterrace.",
-  "sites": [
-    "https://github.com/ad-oliviero/uwufetch"
-  ],
-  "sources": []
-}
+{"name":"uwufetch","description":"A meme system info tool for Linux, based on nyan/uwu  trend on r/linuxmasterrace.","sites":["https://github.com/ad-oliviero/uwufetch"],"sources":[]}

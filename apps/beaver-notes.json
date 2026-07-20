@@ -1,8 +1,1 @@
-{
-  "name": "beaver-notes",
-  "description": "Build your knowledge one log at a time",
-  "sites": [
-    "https://github.com/Beaver-Notes/Beaver-Notes"
-  ],
-  "sources": []
-}
+{"name":"beaver-notes","description":"Build your knowledge one log at a time","sites":["https://github.com/Beaver-Notes/Beaver-Notes"],"sources":[]}

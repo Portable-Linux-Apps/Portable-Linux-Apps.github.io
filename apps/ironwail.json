@@ -1,8 +1,1 @@
-{
-  "name": "ironwail",
-  "description": "High-performance QuakeSpasm fork QuakeSpasm. A modern, cross-platform Quake game engine based on FitzQuake.",
-  "sites": [
-    "https://github.com/andrei-drexler/ironwail"
-  ],
-  "sources": []
-}
+{"name":"ironwail","description":"High-performance QuakeSpasm fork QuakeSpasm. A modern, cross-platform Quake game engine based on FitzQuake.","sites":["https://github.com/andrei-drexler/ironwail"],"sources":[]}

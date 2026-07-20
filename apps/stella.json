@@ -1,8 +1,1 @@
-{
-  "name": "stella",
-  "description": "Unofficial, A multi-platform Atari 2600 Emulator.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Stella-AppImage"
-  ],
-  "sources": []
-}
+{"name":"stella","description":"Unofficial, A multi-platform Atari 2600 Emulator.","sites":["https://github.com/pkgforge-dev/Stella-AppImage"],"sources":[]}

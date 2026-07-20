@@ -1,8 +1,1 @@
-{
-  "name": "mangadesk",
-  "description": "Terminal client for MangaDex 📖",
-  "sites": [
-    "https://github.com/darylhjd/mangadesk"
-  ],
-  "sources": []
-}
+{"name":"mangadesk","description":"Terminal client for MangaDex \ud83d\udcd6","sites":["https://github.com/darylhjd/mangadesk"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "bilibilivideodownload",
-  "description": "Bilibili video downloader.",
-  "sites": [
-    "https://github.com/blogwy/BilibiliVideoDownload"
-  ],
-  "sources": []
-}
+{"name":"bilibilivideodownload","description":"Bilibili video downloader.","sites":["https://github.com/blogwy/BilibiliVideoDownload"],"sources":[]}

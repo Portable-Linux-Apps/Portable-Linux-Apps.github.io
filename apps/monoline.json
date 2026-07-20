@@ -1,8 +1,1 @@
-{
-  "name": "monoline",
-  "description": "Your personal micro journal.",
-  "sites": [
-    "https://monoline.io/"
-  ],
-  "sources": []
-}
+{"name":"monoline","description":"Your personal micro journal.","sites":["https://monoline.io/"],"sources":[]}

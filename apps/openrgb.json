@@ -1,8 +1,1 @@
-{
-  "name": "openrgb",
-  "description": "Open source RGB lighting control that doesn't depend on manufacturer software.",
-  "sites": [
-    "https://openrgb.org/"
-  ],
-  "sources": []
-}
+{"name":"openrgb","description":"Open source RGB lighting control that doesn't depend on manufacturer software.","sites":["https://openrgb.org/"],"sources":[]}

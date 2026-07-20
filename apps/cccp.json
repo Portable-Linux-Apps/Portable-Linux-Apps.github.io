@@ -1,8 +1,1 @@
-{
-  "name": "cccp",
-  "description": "Cortex Command - Open Source under GNU AGPL v3\n \n A community-driven effort to continue the development of Cortex Command.",
-  "sites": [
-    "https://github.com/cortex-command-community/Cortex-Command-Community-Project"
-  ],
-  "sources": []
-}
+{"name":"cccp","description":"Cortex Command - Open Source under GNU AGPL v3\n \n A community-driven effort to continue the development of Cortex Command.","sites":["https://github.com/cortex-command-community/Cortex-Command-Community-Project"],"sources":[]}

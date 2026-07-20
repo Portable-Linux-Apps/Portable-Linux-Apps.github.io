@@ -1,8 +1,1 @@
-{
-  "name": "deeptags",
-  "description": "DeepTags is a markdown notes manager with support for nested tags.",
-  "sites": [
-    "https://github.com/SZinedine/DeepTags"
-  ],
-  "sources": []
-}
+{"name":"deeptags","description":"DeepTags is a markdown notes manager with support for nested tags.","sites":["https://github.com/SZinedine/DeepTags"],"sources":[]}

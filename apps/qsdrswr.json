@@ -1,8 +1,1 @@
-{
-  "name": "qsdrswr",
-  "description": "Qt SWR analyser using an SDR and soapy_power.",
-  "sites": [
-    "https://github.com/PTDreamer/qSdrSwr"
-  ],
-  "sources": []
-}
+{"name":"qsdrswr","description":"Qt SWR analyser using an SDR and soapy_power.","sites":["https://github.com/PTDreamer/qSdrSwr"],"sources":[]}

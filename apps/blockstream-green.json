@@ -1,8 +1,1 @@
-{
-  "name": "blockstream-green",
-  "description": "Blockstream Green is a non-custodial Bitcoin wallet, compatible with  Blockstream Jade hardware wallet",
-  "sites": [
-    "https://blockstream.com/green/"
-  ],
-  "sources": []
-}
+{"name":"blockstream-green","description":"Blockstream Green is a non-custodial Bitcoin wallet, compatible with  Blockstream Jade hardware wallet","sites":["https://blockstream.com/green/"],"sources":[]}

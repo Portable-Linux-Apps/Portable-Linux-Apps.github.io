@@ -1,8 +1,1 @@
-{
-  "name": "qawl",
-  "description": "Read the Holy Qur’ān whenever, wherever, however you like.",
-  "sites": [
-    "https://github.com/mr-islam/qawl"
-  ],
-  "sources": []
-}
+{"name":"qawl","description":"Read the Holy Qur\u2019\u0101n whenever, wherever, however you like.","sites":["https://github.com/mr-islam/qawl"],"sources":[]}

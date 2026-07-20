@@ -1,8 +1,1 @@
-{
-  "name": "landrop",
-  "description": "LANDrop is a cross-platform tool that you can use to conveniently  transfer photos, videos, and other types of files to other devices  on the same local network.",
-  "sites": [
-    "https://landrop.app"
-  ],
-  "sources": []
-}
+{"name":"landrop","description":"LANDrop is a cross-platform tool that you can use to conveniently  transfer photos, videos, and other types of files to other devices  on the same local network.","sites":["https://landrop.app"],"sources":[]}

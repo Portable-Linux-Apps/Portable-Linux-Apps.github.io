@@ -1,8 +1,1 @@
-{
-  "name": "dl-desktop",
-  "description": "Desktop client for the Duolingo language learning application",
-  "sites": [
-    "https://github.com/hmlendea/dl-desktop"
-  ],
-  "sources": []
-}
+{"name":"dl-desktop","description":"Desktop client for the Duolingo language learning application","sites":["https://github.com/hmlendea/dl-desktop"],"sources":[]}

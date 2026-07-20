@@ -1,8 +1,1 @@
-{
-  "name": "bat-extras",
-  "description": "Bash scripts that integrate bat with various command line tools.",
-  "sites": [
-    "https://github.com/eth-p/bat-extras"
-  ],
-  "sources": []
-}
+{"name":"bat-extras","description":"Bash scripts that integrate bat with various command line tools.","sites":["https://github.com/eth-p/bat-extras"],"sources":[]}

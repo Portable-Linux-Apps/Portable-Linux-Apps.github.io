@@ -1,8 +1,1 @@
-{
-  "name": "polkakey",
-  "description": "A secure and simple way to generate a Polkadot/Kusama/Edgeware address",
-  "sites": [
-    "https://github.com/w3finance/PolkaKey"
-  ],
-  "sources": []
-}
+{"name":"polkakey","description":"A secure and simple way to generate a Polkadot/Kusama/Edgeware address","sites":["https://github.com/w3finance/PolkaKey"],"sources":[]}

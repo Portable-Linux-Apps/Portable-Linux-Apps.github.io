@@ -1,8 +1,1 @@
-{
-  "name": "spacebar",
-  "description": "Open source, themeable and extendable discord-compatible native Spacebar client",
-  "sites": [
-    "https://github.com/spacebarchat/client"
-  ],
-  "sources": []
-}
+{"name":"spacebar","description":"Open source, themeable and extendable discord-compatible native Spacebar client","sites":["https://github.com/spacebarchat/client"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "sigma-file-manager",
-  "description": "A free, open-source, quickly evolving, modern file manager  (explorer / finder) app for Windows and Linux.",
-  "sites": [
-    "https://github.com/aleksey-hoffman/sigma-file-manager"
-  ],
-  "sources": []
-}
+{"name":"sigma-file-manager","description":"A free, open-source, quickly evolving, modern file manager  (explorer / finder) app for Windows and Linux.","sites":["https://github.com/aleksey-hoffman/sigma-file-manager"],"sources":[]}

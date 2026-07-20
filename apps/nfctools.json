@@ -1,8 +1,1 @@
-{
-  "name": "nfctools",
-  "description": "A library which allows userspace application access to NFC devices.",
-  "sites": [
-    "https://github.com/nfc-tools/libnfc"
-  ],
-  "sources": []
-}
+{"name":"nfctools","description":"A library which allows userspace application access to NFC devices.","sites":["https://github.com/nfc-tools/libnfc"],"sources":[]}

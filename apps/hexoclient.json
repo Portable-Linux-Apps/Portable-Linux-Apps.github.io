@@ -1,8 +1,1 @@
-{
-  "name": "hexoclient",
-  "description": "hexo-client: A cross-platform hexo client, build on electron.",
-  "sites": [
-    "https://github.com/gaoyoubo/hexo-client"
-  ],
-  "sources": []
-}
+{"name":"hexoclient","description":"hexo-client: A cross-platform hexo client, build on electron.","sites":["https://github.com/gaoyoubo/hexo-client"],"sources":[]}

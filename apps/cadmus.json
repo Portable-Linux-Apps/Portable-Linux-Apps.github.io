@@ -1,8 +1,1 @@
-{
-  "name": "cadmus",
-  "description": "A GUI frontend for @werman's Pulse Audio real-time noise  suppression plugin",
-  "sites": [
-    "https://github.com/josh-richardson/cadmus/"
-  ],
-  "sources": []
-}
+{"name":"cadmus","description":"A GUI frontend for @werman's Pulse Audio real-time noise  suppression plugin","sites":["https://github.com/josh-richardson/cadmus/"],"sources":[]}

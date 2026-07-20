@@ -1,8 +1,1 @@
-{
-  "name": "ksnip",
-  "description": "ksnip, the cross-platform screenshot and annotation tool.",
-  "sites": [
-    "https://github.com/DamirPorobic/ksnip"
-  ],
-  "sources": []
-}
+{"name":"ksnip","description":"ksnip, the cross-platform screenshot and annotation tool.","sites":["https://github.com/DamirPorobic/ksnip"],"sources":[]}

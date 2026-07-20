@@ -1,8 +1,1 @@
-{
-  "name": "termshot",
-  "description": "Creates screenshots based on terminal command output",
-  "sites": [
-    "https://github.com/homeport/termshot"
-  ],
-  "sources": []
-}
+{"name":"termshot","description":"Creates screenshots based on terminal command output","sites":["https://github.com/homeport/termshot"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "arma3-unix-launcher",
-  "description": "ArmA 3 Launcher for Linux and Mac.",
-  "sites": [
-    "https://github.com/muttleyxd/arma3-unix-launcher"
-  ],
-  "sources": []
-}
+{"name":"arma3-unix-launcher","description":"ArmA 3 Launcher for Linux and Mac.","sites":["https://github.com/muttleyxd/arma3-unix-launcher"],"sources":[]}

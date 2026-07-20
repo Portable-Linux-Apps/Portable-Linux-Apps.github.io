@@ -1,8 +1,1 @@
-{
-  "name": "test",
-  "description": "Check file types and compare values. This is part of \"am-utils\" suite.",
-  "sites": [
-    "https://github.com/ivan-hc/am-utils"
-  ],
-  "sources": []
-}
+{"name":"test","description":"Check file types and compare values. This is part of \"am-utils\" suite.","sites":["https://github.com/ivan-hc/am-utils"],"sources":[]}

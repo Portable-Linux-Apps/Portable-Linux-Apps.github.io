@@ -1,8 +1,1 @@
-{
-  "name": "flightcore",
-  "description": "A Northstar installer, updater, and mod-manager.",
-  "sites": [
-    "https://github.com/R2NorthstarTools/FlightCore"
-  ],
-  "sources": []
-}
+{"name":"flightcore","description":"A Northstar installer, updater, and mod-manager.","sites":["https://github.com/R2NorthstarTools/FlightCore"],"sources":[]}

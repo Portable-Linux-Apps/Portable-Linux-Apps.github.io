@@ -1,8 +1,1 @@
-{
-  "name": "leocad",
-  "description": "Create virtual LEGO models",
-  "sites": [
-    "https://github.com/leozide/leocad"
-  ],
-  "sources": []
-}
+{"name":"leocad","description":"Create virtual LEGO models","sites":["https://github.com/leozide/leocad"],"sources":[]}

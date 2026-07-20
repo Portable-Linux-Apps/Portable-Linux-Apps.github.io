@@ -1,8 +1,1 @@
-{
-  "name": "antimicrox",
-  "description": "Use a gamepad to control a variety of programs",
-  "sites": [
-    "https://github.com/AntiMicroX/antimicrox"
-  ],
-  "sources": []
-}
+{"name":"antimicrox","description":"Use a gamepad to control a variety of programs","sites":["https://github.com/AntiMicroX/antimicrox"],"sources":[]}

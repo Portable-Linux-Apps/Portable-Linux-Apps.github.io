@@ -1,8 +1,1 @@
-{
-  "name": "bscanfftwebcam",
-  "description": "FDOCT tool",
-  "sites": [
-    "https://github.com/hn-88/FDOCT"
-  ],
-  "sources": []
-}
+{"name":"bscanfftwebcam","description":"FDOCT tool","sites":["https://github.com/hn-88/FDOCT"],"sources":[]}

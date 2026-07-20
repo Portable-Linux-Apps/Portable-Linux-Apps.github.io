@@ -1,98 +1,19 @@
 [
-  {
-    "icon": "extension-manager.png",
-    "name": "extension-manager",
-    "description": "A native tool for browsing, installing, and managing GNOME Shell Extensions.",
-    "app_page": "apps/extension-manager.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/extension-manager",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/extension-manager"
-  },
-  {
-    "icon": "gdm-settings.png",
-    "name": "gdm-settings",
-    "description": "A settings app for GNOME's Login Manager, GDM.",
-    "app_page": "apps/gdm-settings.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gdm-settings",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gdm-settings"
-  },
-  {
-    "icon": "gedit.png",
-    "name": "gedit",
-    "description": "Unofficial. The popular GNOME text editor Gedit.",
-    "app_page": "apps/gedit.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gedit",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gedit"
-  },
-  {
-    "icon": "gnome-boxes.png",
-    "name": "gnome-boxes",
-    "description": "Unofficial, A simple GNOME application to access virtual machines.",
-    "app_page": "apps/gnome-boxes.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-boxes",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-boxes"
-  },
-  {
-    "icon": "gnome-calculator.png",
-    "name": "gnome-calculator",
-    "description": "Unofficial, Perform arithmetic, scientific or financial calculations.",
-    "app_page": "apps/gnome-calculator.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-calculator",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-calculator"
-  },
-  {
-    "icon": "gnome-pomodoro.png",
-    "name": "gnome-pomodoro",
-    "description": "A productivity tool designed to help you manage your time effectively using the Pomodoro Technique.",
-    "app_page": "apps/gnome-pomodoro.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-pomodoro",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-pomodoro"
-  },
-  {
-    "icon": "gnome-system-monitor.png",
-    "name": "gnome-system-monitor",
-    "description": "Unofficial. View current processes and monitor system state.",
-    "app_page": "apps/gnome-system-monitor.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-system-monitor",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-system-monitor"
-  },
-  {
-    "icon": "gnome-text-editor.png",
-    "name": "gnome-text-editor",
-    "description": "Unofficial AppImage of the Gnome's Text Editor application.",
-    "app_page": "apps/gnome-text-editor.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-text-editor",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-text-editor"
-  },
-  {
-    "icon": "gnome-tweaks.png",
-    "name": "gnome-tweaks",
-    "description": "Unofficial, Experimental AppImage port of advanced GNOME 3 settings GUI.",
-    "app_page": "apps/gnome-tweaks.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-tweaks",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-tweaks"
-  },
-  {
-    "icon": "loginized.png",
-    "name": "loginized",
-    "description": "Loginized Gnome GDM Login Theme Manager.",
-    "app_page": "apps/loginized.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/loginized",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/loginized"
-  },
-  {
-    "icon": "shotwell.png",
-    "name": "shotwell",
-    "description": "Unofficial, a digital photo organizer designed for the GNOME desktop environment.",
-    "app_page": "apps/shotwell.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shotwell",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shotwell"
-  },
-  {
-    "icon": "switchcraft.png",
-    "name": "switchcraft",
-    "description": "Switchcraft watches GNOME's light/dark preference and runs your shell commands when the theme changes.",
-    "app_page": "apps/switchcraft.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/switchcraft",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/switchcraft"
-  }
+{"name":"baobab","description":"A graphical directory tree analyzer for the GNOME desktop environment, to keep your disk usage and available space under control."},
+{"name":"eog","description":"Eye of Gnome is an image viewing and cataloging program."},
+{"name":"extension-manager","description":"A native tool for browsing, installing, and managing GNOME Shell Extensions."},
+{"name":"file-roller","description":"File Roller is an archive manager for the GNOME desktop environment. Create and modify archives."},
+{"name":"gdm-settings","description":"A settings app for GNOME's Login Manager, GDM."},
+{"name":"gedit","description":"An easy-to-use general-purpose text editor for the GNOME desktop environment."},
+{"name":"gnome-boxes","description":"Unofficial, A simple GNOME application to access virtual machines."},
+{"name":"gnome-calculator","description":"Unofficial, Perform arithmetic, scientific or financial calculations."},
+{"name":"gnome-pomodoro","description":"A productivity tool designed to help you manage your time effectively using the Pomodoro Technique."},
+{"name":"gnome-system-monitor","description":"System Monitor is a process viewer and system monitor with an attractive, easy-to-use interface for the GNOME desktop environment."},
+{"name":"gnome-text-editor","description":"Unofficial AppImage of the Gnome's Text Editor application."},
+{"name":"gnome-tweaks","description":"Unofficial, Experimental AppImage port of advanced GNOME 3 settings GUI."},
+{"name":"gnome-web","description":"Unofficial AppImage of Gnome Web aka Epiphany.."},
+{"name":"loginized","description":"Loginized Gnome GDM Login Theme Manager."},
+{"name":"shotwell","description":"Unofficial, a digital photo organizer designed for the GNOME desktop environment."},
+{"name":"simple-scan","description":"Make a digital copy of your photos and documents. Simple scanning utility for the GNOME desktop environment."},
+{"name":"switchcraft","description":"Switchcraft watches GNOME's light/dark preference and runs your shell commands when the theme changes."}
 ]

@@ -1,8 +1,1 @@
-{
-  "name": "qtox",
-  "description": "Qt 5 based Tox instant messenger for secure communication.",
-  "sites": [
-    "https://github.com/qTox/qTox-nightly-releases"
-  ],
-  "sources": []
-}
+{"name":"qtox","description":"Qt 5 based Tox instant messenger for secure communication.","sites":["https://github.com/qTox/qTox-nightly-releases"],"sources":[]}

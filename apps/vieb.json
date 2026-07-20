@@ -1,8 +1,1 @@
-{
-  "name": "vieb",
-  "description": "Vim Inspired Electron Browser",
-  "sites": [
-    "https://github.com/Jelmerro/Vieb"
-  ],
-  "sources": []
-}
+{"name":"vieb","description":"Vim Inspired Electron Browser","sites":["https://github.com/Jelmerro/Vieb"],"sources":[]}

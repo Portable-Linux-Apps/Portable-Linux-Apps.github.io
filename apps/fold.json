@@ -1,8 +1,1 @@
-{
-  "name": "fold",
-  "description": "Wrap each input line to fit in specified width. This is part of \"am-utils\" suite.",
-  "sites": [
-    "https://github.com/ivan-hc/am-utils"
-  ],
-  "sources": []
-}
+{"name":"fold","description":"Wrap each input line to fit in specified width. This is part of \"am-utils\" suite.","sites":["https://github.com/ivan-hc/am-utils"],"sources":[]}

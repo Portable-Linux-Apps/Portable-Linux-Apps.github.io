@@ -1,8 +1,1 @@
-{
-  "name": "deskreen",
-  "description": "Turns any device with a web browser into a secondary screen for \n your computer.",
-  "sites": [
-    "https://deskreen.com/"
-  ],
-  "sources": []
-}
+{"name":"deskreen","description":"Turns any device with a web browser into a secondary screen for \n your computer.","sites":["https://deskreen.com/"],"sources":[]}

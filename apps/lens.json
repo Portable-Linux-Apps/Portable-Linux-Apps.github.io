@@ -1,8 +1,1 @@
-{
-  "name": "lens",
-  "description": "App you need to take control of your Kubernetes clusters.",
-  "sites": [
-    "https://k8slens.dev"
-  ],
-  "sources": []
-}
+{"name":"lens","description":"App you need to take control of your Kubernetes clusters.","sites":["https://k8slens.dev"],"sources":[]}

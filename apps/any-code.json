@@ -1,8 +1,1 @@
-{
-  "name": "any-code",
-  "description": "Any Code is a professional desktop application tailored for AI-driven code development workflows, supporting three major AI engines: Claude Code CLI, OpenAI Codex, and Google Gemini CLI.",
-  "sites": [
-    "https://github.com/anyme123/Any-code"
-  ],
-  "sources": []
-}
+{"name":"any-code","description":"Any Code is a professional desktop application tailored for AI-driven code development workflows, supporting three major AI engines: Claude Code CLI, OpenAI Codex, and Google Gemini CLI.","sites":["https://github.com/anyme123/Any-code"],"sources":[]}

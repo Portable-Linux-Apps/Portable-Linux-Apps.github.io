@@ -1,8 +1,1 @@
-{
-  "name": "rawtherapee",
-  "description": "An advanced raw photo development program",
-  "sites": [
-    "https://www.rawtherapee.com"
-  ],
-  "sources": []
-}
+{"name":"rawtherapee","description":"An advanced raw photo development program","sites":["https://www.rawtherapee.com"],"sources":[]}

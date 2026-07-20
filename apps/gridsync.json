@@ -1,8 +1,1 @@
-{
-  "name": "gridsync",
-  "description": "Synchronize local directories with Tahoe-LAFS storage grids",
-  "sites": [
-    "https://github.com/gridsync/gridsync"
-  ],
-  "sources": []
-}
+{"name":"gridsync","description":"Synchronize local directories with Tahoe-LAFS storage grids","sites":["https://github.com/gridsync/gridsync"],"sources":[]}

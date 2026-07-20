@@ -1,8 +1,1 @@
-{
-  "name": "2ship",
-  "description": "2 Ship 2 Harkinian",
-  "sites": [
-    "https://github.com/HarbourMasters/2ship2harkinian"
-  ],
-  "sources": []
-}
+{"name":"2ship","description":"2 Ship 2 Harkinian","sites":["https://github.com/HarbourMasters/2ship2harkinian"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "photoname",
-  "description": "Rename photo image files based on EXIF shoot date.",
-  "sites": [
-    "https://github.com/dino-/photoname"
-  ],
-  "sources": []
-}
+{"name":"photoname","description":"Rename photo image files based on EXIF shoot date.","sites":["https://github.com/dino-/photoname"],"sources":[]}

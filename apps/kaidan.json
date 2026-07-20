@@ -1,10 +1,1 @@
-{
-  "name": "kaidan",
-  "description": "A QtQuick Jabber client",
-  "sites": [
-    ": https://kaidan.im"
-  ],
-  "sources": [
-    "https://github.com/KaidanIM/Kaidan"
-  ]
-}
+{"name":"kaidan","description":"A QtQuick Jabber client","sites":[": https://kaidan.im"],"sources":["https://github.com/KaidanIM/Kaidan"]}

@@ -1,8 +1,1 @@
-{
-  "name": "gpg-tui",
-  "description": "Manage your GnuPG keys with ease! 🔐",
-  "sites": [
-    "https://github.com/orhun/gpg-tui"
-  ],
-  "sources": []
-}
+{"name":"gpg-tui","description":"Manage your GnuPG keys with ease! \ud83d\udd10","sites":["https://github.com/orhun/gpg-tui"],"sources":[]}

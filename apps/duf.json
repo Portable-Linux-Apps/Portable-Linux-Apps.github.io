@@ -1,8 +1,1 @@
-{
-  "name": "duf",
-  "description": "Disk Usage/Free Utility - a better 'df' alternative.\n \n <img src=\"https://raw.githubusercontent.com/muesli/duf/master/duf.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://github.com/muesli/duf"
-  ],
-  "sources": []
-}
+{"name":"duf","description":"Disk Usage/Free Utility - a better 'df' alternative.\n \n <img src=\"https://raw.githubusercontent.com/muesli/duf/master/duf.png\" alt=\"Screenshot\">","sites":["https://github.com/muesli/duf"],"sources":[]}

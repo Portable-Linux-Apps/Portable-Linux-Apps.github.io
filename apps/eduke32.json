@@ -1,8 +1,1 @@
-{
-  "name": "eduke32",
-  "description": "An advanced Duke Nukem 3D source port.",
-  "sites": [
-    "https://github.com/pkgforge-dev/EDuke32-AppImage"
-  ],
-  "sources": []
-}
+{"name":"eduke32","description":"An advanced Duke Nukem 3D source port.","sites":["https://github.com/pkgforge-dev/EDuke32-AppImage"],"sources":[]}

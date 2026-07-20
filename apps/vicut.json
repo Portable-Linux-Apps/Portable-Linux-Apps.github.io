@@ -1,8 +1,1 @@
-{
-  "name": "vicut",
-  "description": "A Vim-based, scriptable, headless text editor for the command line.",
-  "sites": [
-    "https://github.com/km-clay/vicut"
-  ],
-  "sources": []
-}
+{"name":"vicut","description":"A Vim-based, scriptable, headless text editor for the command line.","sites":["https://github.com/km-clay/vicut"],"sources":[]}

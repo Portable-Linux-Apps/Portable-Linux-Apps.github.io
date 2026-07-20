@@ -1,8 +1,1 @@
-{
-  "name": "joaldesktop",
-  "description": "Electron application boilerplate based on React, React Router, Webpack.",
-  "sites": [
-    "https://github.com/anthonyraymond/joal-desktop"
-  ],
-  "sources": []
-}
+{"name":"joaldesktop","description":"Electron application boilerplate based on React, React Router, Webpack.","sites":["https://github.com/anthonyraymond/joal-desktop"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "vt",
-  "description": "VirusTotal Command Line Interface",
-  "sites": [
-    "https://github.com/VirusTotal/vt-cli"
-  ],
-  "sources": []
-}
+{"name":"vt","description":"VirusTotal Command Line Interface","sites":["https://github.com/VirusTotal/vt-cli"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "astrofox",
-  "description": "Audio reactive motion graphics program",
-  "sites": [
-    "https://appimage.github.io/Astrofox/"
-  ],
-  "sources": []
-}
+{"name":"astrofox","description":"Audio reactive motion graphics program","sites":["https://appimage.github.io/Astrofox/"],"sources":[]}

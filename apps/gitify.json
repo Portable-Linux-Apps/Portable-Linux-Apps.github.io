@@ -1,8 +1,1 @@
-{
-  "name": "gitify",
-  "description": "GitHub notifications on your menu bar. Available on macOS, \n Windows and Linux.",
-  "sites": [
-    "https://www.gitify.io/"
-  ],
-  "sources": []
-}
+{"name":"gitify","description":"GitHub notifications on your menu bar. Available on macOS, \n Windows and Linux.","sites":["https://www.gitify.io/"],"sources":[]}

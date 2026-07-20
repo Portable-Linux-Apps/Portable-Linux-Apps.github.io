@@ -1,8 +1,1 @@
-{
-  "name": "chezmoi",
-  "description": "Manage your dotfiles across multiple diverse machines, securely.",
-  "sites": [
-    "https://github.com/twpayne/chezmoi"
-  ],
-  "sources": []
-}
+{"name":"chezmoi","description":"Manage your dotfiles across multiple diverse machines, securely.","sites":["https://github.com/twpayne/chezmoi"],"sources":[]}

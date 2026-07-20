@@ -1,8 +1,1 @@
-{
-  "name": "file",
-  "description": "Determine the type of a file from its contents. This is part of \"am-utils\" suite.",
-  "sites": [
-    "https://github.com/ivan-hc/am-utils"
-  ],
-  "sources": []
-}
+{"name":"file","description":"Determine the type of a file from its contents. This is part of \"am-utils\" suite.","sites":["https://github.com/ivan-hc/am-utils"],"sources":[]}

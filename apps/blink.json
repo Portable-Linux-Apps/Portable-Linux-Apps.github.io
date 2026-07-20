@@ -1,8 +1,1 @@
-{
-  "name": "blink",
-  "description": "GUI of live indexed grep for source code. Fuzzy suggestion in auto  complete. Files locator, search and replace. Index management for multiple projects.",
-  "sites": [
-    "https://github.com/ychclone/blink"
-  ],
-  "sources": []
-}
+{"name":"blink","description":"GUI of live indexed grep for source code. Fuzzy suggestion in auto  complete. Files locator, search and replace. Index management for multiple projects.","sites":["https://github.com/ychclone/blink"],"sources":[]}

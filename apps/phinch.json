@@ -1,8 +1,1 @@
-{
-  "name": "phinch",
-  "description": "Phinch is an open-source framework for visualizing biological data",
-  "sites": [
-    "https://github.com/PhinchApp/Phinch"
-  ],
-  "sources": []
-}
+{"name":"phinch","description":"Phinch is an open-source framework for visualizing biological data","sites":["https://github.com/PhinchApp/Phinch"],"sources":[]}

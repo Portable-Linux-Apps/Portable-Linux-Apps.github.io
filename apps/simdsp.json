@@ -1,8 +1,1 @@
-{
-  "name": "simdsp",
-  "description": "DSP Simulator",
-  "sites": [
-    "https://github.com/lmcapacho/SimDSP"
-  ],
-  "sources": []
-}
+{"name":"simdsp","description":"DSP Simulator","sites":["https://github.com/lmcapacho/SimDSP"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "ntsc-rs",
-  "description": "Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).",
-  "sites": [
-    "https://github.com/valadaptive/ntsc-rs"
-  ],
-  "sources": []
-}
+{"name":"ntsc-rs","description":"Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).","sites":["https://github.com/valadaptive/ntsc-rs"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "nyaa",
-  "description": "A nyaa.si tui tool for browsing and downloading torrents.",
-  "sites": [
-    "https://github.com/Beastwick18/nyaa"
-  ],
-  "sources": []
-}
+{"name":"nyaa","description":"A nyaa.si tui tool for browsing and downloading torrents.","sites":["https://github.com/Beastwick18/nyaa"],"sources":[]}

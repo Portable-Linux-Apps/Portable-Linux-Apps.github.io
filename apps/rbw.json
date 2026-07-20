@@ -1,8 +1,1 @@
-{
-  "name": "rbw",
-  "description": "unofficial bitwarden cli",
-  "sites": [
-    "https://github.com/doy/rbw"
-  ],
-  "sources": []
-}
+{"name":"rbw","description":"unofficial bitwarden cli","sites":["https://github.com/doy/rbw"],"sources":[]}

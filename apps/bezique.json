@@ -1,8 +1,1 @@
-{
-  "name": "bezique",
-  "description": "Plays bezique against the AI",
-  "sites": [
-    "https://github.com/Sriep/Bezique"
-  ],
-  "sources": []
-}
+{"name":"bezique","description":"Plays bezique against the AI","sites":["https://github.com/Sriep/Bezique"],"sources":[]}

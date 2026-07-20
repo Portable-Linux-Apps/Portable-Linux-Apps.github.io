@@ -1,8 +1,1 @@
-{
-  "name": "vigad",
-  "description": "Extract live-data from your screen.",
-  "sites": [
-    "https://vigad.wordpress.com/"
-  ],
-  "sources": []
-}
+{"name":"vigad","description":"Extract live-data from your screen.","sites":["https://vigad.wordpress.com/"],"sources":[]}

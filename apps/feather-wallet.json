@@ -1,8 +1,1 @@
-{
-  "name": "feather-wallet",
-  "description": "Monero wallet for Linux, Tails, Windows and macOS.",
-  "sites": [
-    "https://featherwallet.org/"
-  ],
-  "sources": []
-}
+{"name":"feather-wallet","description":"Monero wallet for Linux, Tails, Windows and macOS.","sites":["https://featherwallet.org/"],"sources":[]}

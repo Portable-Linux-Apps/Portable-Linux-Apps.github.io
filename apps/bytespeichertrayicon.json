@@ -1,8 +1,1 @@
-{
-  "name": "bytespeichertrayicon",
-  "description": "Bytespeicher Status App",
-  "sites": [
-    "https://github.com/Bytespeicher/BytespeicherTrayIcon"
-  ],
-  "sources": []
-}
+{"name":"bytespeichertrayicon","description":"Bytespeicher Status App","sites":["https://github.com/Bytespeicher/BytespeicherTrayIcon"],"sources":[]}

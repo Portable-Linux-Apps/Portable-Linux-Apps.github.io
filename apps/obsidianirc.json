@@ -1,8 +1,1 @@
-{
-  "name": "obsidianirc",
-  "description": "Modern IRC Client for the web, desktop and mobile.",
-  "sites": [
-    "https://github.com/ObsidianIRC/ObsidianIRC"
-  ],
-  "sources": []
-}
+{"name":"obsidianirc","description":"Modern IRC Client for the web, desktop and mobile.","sites":["https://github.com/ObsidianIRC/ObsidianIRC"],"sources":[]}

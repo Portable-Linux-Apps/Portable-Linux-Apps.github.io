@@ -1,8 +1,1 @@
-{
-  "name": "collaboraoffice",
-  "description": "Unofficial, a collaborative online office suite based on LibreOffice technology.",
-  "sites": [
-    "https://github.com/pkgforge-dev/CollaboraOffice-AppImage"
-  ],
-  "sources": []
-}
+{"name":"collaboraoffice","description":"Unofficial, a collaborative online office suite based on LibreOffice technology.","sites":["https://github.com/pkgforge-dev/CollaboraOffice-AppImage"],"sources":[]}

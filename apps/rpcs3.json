@@ -1,8 +1,1 @@
-{
-  "name": "rpcs3",
-  "description": "An open-source PlayStation 3 emulator/debugger written in C++.",
-  "sites": [
-    "https://github.com/RPCS3/rpcs3-binaries-linux"
-  ],
-  "sources": []
-}
+{"name":"rpcs3","description":"An open-source PlayStation 3 emulator/debugger written in C++.","sites":["https://github.com/RPCS3/rpcs3-binaries-linux"],"sources":[]}

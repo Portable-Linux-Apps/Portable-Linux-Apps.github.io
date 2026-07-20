@@ -1,8 +1,1 @@
-{
-  "name": "gitui",
-  "description": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
-  "sites": [
-    "https://github.com/extrawurst/gitui"
-  ],
-  "sources": []
-}
+{"name":"gitui","description":"Blazing \ud83d\udca5 fast terminal-ui for git written in rust \ud83e\udd80","sites":["https://github.com/extrawurst/gitui"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "deployer",
-  "description": "Cross-platform application to deploy your applications through Jenkins.",
-  "sites": [
-    "https://github.com/ziishaned/deployer"
-  ],
-  "sources": []
-}
+{"name":"deployer","description":"Cross-platform application to deploy your applications through Jenkins.","sites":["https://github.com/ziishaned/deployer"],"sources":[]}

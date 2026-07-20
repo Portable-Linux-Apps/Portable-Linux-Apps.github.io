@@ -1,8 +1,1 @@
-{
-  "name": "mycroft-ai",
-  "description": "Qt5 Frontend for Mycroft Ai",
-  "sites": [
-    "https://github.com/AIIX/Mycroft-Ai-QtApplication"
-  ],
-  "sources": []
-}
+{"name":"mycroft-ai","description":"Qt5 Frontend for Mycroft Ai","sites":["https://github.com/AIIX/Mycroft-Ai-QtApplication"],"sources":[]}

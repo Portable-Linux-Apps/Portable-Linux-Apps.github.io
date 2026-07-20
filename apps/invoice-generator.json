@@ -1,8 +1,1 @@
-{
-  "name": "invoice-generator",
-  "description": "Invoice Generator in Electron",
-  "sites": [
-    "https://github.com/bhavyaagg/Invoice-Generator-Electron"
-  ],
-  "sources": []
-}
+{"name":"invoice-generator","description":"Invoice Generator in Electron","sites":["https://github.com/bhavyaagg/Invoice-Generator-Electron"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "webcord",
-  "description": "A Discord and Fosscord electron-based client implemented  without Discord API.",
-  "sites": [
-    "https://github.com/SpacingBat3/WebCord"
-  ],
-  "sources": []
-}
+{"name":"webcord","description":"A Discord and Fosscord electron-based client implemented  without Discord API.","sites":["https://github.com/SpacingBat3/WebCord"],"sources":[]}

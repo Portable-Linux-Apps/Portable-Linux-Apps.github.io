@@ -1,8 +1,1 @@
-{
-  "name": "onyx",
-  "description": "Decentralized messaging application based on PSS",
-  "sites": [
-    "https://github.com/MainframeHQ/onyx"
-  ],
-  "sources": []
-}
+{"name":"onyx","description":"Decentralized messaging application based on PSS","sites":["https://github.com/MainframeHQ/onyx"],"sources":[]}

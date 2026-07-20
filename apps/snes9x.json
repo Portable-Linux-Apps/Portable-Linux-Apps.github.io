@@ -1,8 +1,1 @@
-{
-  "name": "snes9x",
-  "description": "Snes9x - Portable Super Nintendo Entertainment System (TM) emulator",
-  "sites": [
-    "https://github.com/snes9xgit/snes9x"
-  ],
-  "sources": []
-}
+{"name":"snes9x","description":"Snes9x - Portable Super Nintendo Entertainment System (TM) emulator","sites":["https://github.com/snes9xgit/snes9x"],"sources":[]}

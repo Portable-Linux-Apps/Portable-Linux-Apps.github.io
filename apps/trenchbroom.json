@@ -1,8 +1,1 @@
-{
-  "name": "trenchbroom",
-  "description": "TrenchBroom is a modern cross-platform level editor for Quake-engine based games.",
-  "sites": [
-    "https://github.com/kduske/TrenchBroom"
-  ],
-  "sources": []
-}
+{"name":"trenchbroom","description":"TrenchBroom is a modern cross-platform level editor for Quake-engine based games.","sites":["https://github.com/kduske/TrenchBroom"],"sources":[]}

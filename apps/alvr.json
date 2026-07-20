@@ -1,8 +1,1 @@
-{
-  "name": "alvr",
-  "description": "Alvr AppImage for linux - Stream VR games from your PC to your  headset via Wi-Fi",
-  "sites": [
-    "https://github.com/elpinguinoopensource/alvr-appimage"
-  ],
-  "sources": []
-}
+{"name":"alvr","description":"Alvr AppImage for linux - Stream VR games from your PC to your  headset via Wi-Fi","sites":["https://github.com/elpinguinoopensource/alvr-appimage"],"sources":[]}

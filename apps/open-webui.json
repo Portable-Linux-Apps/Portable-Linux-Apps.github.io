@@ -1,8 +1,1 @@
-{
-  "name": "open-webui",
-  "description": "Your AI, right on your desktop. Open WebUI as a native app. Run models locally or connect to any server. No Docker, no terminal, no setup. Download, launch, chat.",
-  "sites": [
-    "https://github.com/open-webui/desktop"
-  ],
-  "sources": []
-}
+{"name":"open-webui","description":"Your AI, right on your desktop. Open WebUI as a native app. Run models locally or connect to any server. No Docker, no terminal, no setup. Download, launch, chat.","sites":["https://github.com/open-webui/desktop"],"sources":[]}

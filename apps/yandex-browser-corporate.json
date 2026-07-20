@@ -1,8 +1,1 @@
-{
-  "name": "yandex-browser-corporate",
-  "description": "Unofficial Yandex Browser AppImage built from the official .deb packages.\n \n This is the Corporate build.",
-  "sites": [
-    "https://github.com/ivan-hc/Yandex-Browser-appimage"
-  ],
-  "sources": []
-}
+{"name":"yandex-browser-corporate","description":"Unofficial Yandex Browser AppImage built from the official .deb packages.\n \n This is the Corporate build.","sites":["https://github.com/ivan-hc/Yandex-Browser-appimage"],"sources":[]}

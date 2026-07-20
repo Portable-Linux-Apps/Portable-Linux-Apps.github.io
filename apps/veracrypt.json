@@ -1,8 +1,1 @@
-{
-  "name": "veracrypt",
-  "description": "VeraCrypt is a free open source disk encryption software.",
-  "sites": [
-    "https://veracrypt.io"
-  ],
-  "sources": []
-}
+{"name":"veracrypt","description":"VeraCrypt is a free open source disk encryption software.","sites":["https://veracrypt.io"],"sources":[]}

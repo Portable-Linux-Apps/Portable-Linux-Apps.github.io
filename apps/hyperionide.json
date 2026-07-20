@@ -1,8 +1,1 @@
-{
-  "name": "hyperionide",
-  "description": "Hyperion IDE for JIRA",
-  "sites": [
-    "https://github.com/HyperionScripting/HyperionIDE"
-  ],
-  "sources": []
-}
+{"name":"hyperionide","description":"Hyperion IDE for JIRA","sites":["https://github.com/HyperionScripting/HyperionIDE"],"sources":[]}

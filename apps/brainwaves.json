@@ -1,8 +1,1 @@
-{
-  "name": "brainwaves",
-  "description": "EEG Desktop Application",
-  "sites": [
-    "https://github.com/makebrainwaves/BrainWaves"
-  ],
-  "sources": []
-}
+{"name":"brainwaves","description":"EEG Desktop Application","sites":["https://github.com/makebrainwaves/BrainWaves"],"sources":[]}

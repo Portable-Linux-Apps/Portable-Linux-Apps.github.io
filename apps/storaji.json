@@ -1,8 +1,1 @@
-{
-  "name": "storaji",
-  "description": "The Light/Responsive Inventory Management System.",
-  "sites": [
-    "https://github.com/IndomaximTechID/storaji"
-  ],
-  "sources": []
-}
+{"name":"storaji","description":"The Light/Responsive Inventory Management System.","sites":["https://github.com/IndomaximTechID/storaji"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "ollama",
-  "description": "Get up and running with Llama 3, Mistral, Gemma, and  other large language models.",
-  "sites": [
-    "https://github.com/ollama/ollama"
-  ],
-  "sources": []
-}
+{"name":"ollama","description":"Get up and running with Llama 3, Mistral, Gemma, and  other large language models.","sites":["https://github.com/ollama/ollama"],"sources":[]}

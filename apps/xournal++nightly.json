@@ -1,10 +1,1 @@
-{
-  "name": "xournal++nightly",
-  "description": "Xournal++ is a handwriting notetaking software with PDF annotation  support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu,  Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from  devices such as Wacom Tablets. \n \n This is the nightly build and could be unstable.\n \n For the stable release install \"xournal++\" instead. \n \n <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/ea/Xournal.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://xournalpp.github.io"
-  ],
-  "sources": [
-    "https://github.com/xournalpp/xournalpp"
-  ]
-}
+{"name":"xournal++nightly","description":"Xournal++ is a handwriting notetaking software with PDF annotation  support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu,  Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from  devices such as Wacom Tablets. \n \n This is the nightly build and could be unstable.\n \n For the stable release install \"xournal++\" instead. \n \n <img src=\"https://upload.wikimedia.org/wikipedia/commons/e/ea/Xournal.png\" alt=\"Screenshot\">","sites":["https://xournalpp.github.io"],"sources":["https://github.com/xournalpp/xournalpp"]}

@@ -1,8 +1,1 @@
-{
-  "name": "tasks-org",
-  "description": "Private, ad-free task lists. Optional sync with Google Tasks, CalDAV or EteSync.",
-  "sites": [
-    "https://github.com/tasks/tasks"
-  ],
-  "sources": []
-}
+{"name":"tasks-org","description":"Private, ad-free task lists. Optional sync with Google Tasks, CalDAV or EteSync.","sites":["https://github.com/tasks/tasks"],"sources":[]}

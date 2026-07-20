@@ -1,8 +1,1 @@
-{
-  "name": "authy",
-  "description": "Authy unofficial AppImage, by ryuuzaki42.",
-  "sites": [
-    "https://github.com/ryuuzaki42/Authy_AppImage"
-  ],
-  "sources": []
-}
+{"name":"authy","description":"Authy unofficial AppImage, by ryuuzaki42.","sites":["https://github.com/ryuuzaki42/Authy_AppImage"],"sources":[]}

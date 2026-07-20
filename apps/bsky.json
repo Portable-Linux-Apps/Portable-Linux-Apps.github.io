@@ -1,8 +1,1 @@
-{
-  "name": "bsky",
-  "description": "A desktop app of bsky.app.",
-  "sites": [
-    "https://github.com/oxmc/bsky-desktop"
-  ],
-  "sources": []
-}
+{"name":"bsky","description":"A desktop app of bsky.app.","sites":["https://github.com/oxmc/bsky-desktop"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "abaddon",
-  "description": "Unofficial, an alternative Discord client with voice support made with C++ and GTK 3.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Abaddon-AppImage"
-  ],
-  "sources": []
-}
+{"name":"abaddon","description":"Unofficial, an alternative Discord client with voice support made with C++ and GTK 3.","sites":["https://github.com/pkgforge-dev/Abaddon-AppImage"],"sources":[]}

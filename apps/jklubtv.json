@@ -1,8 +1,1 @@
-{
-  "name": "jklubtv",
-  "description": "Chess Round Robin Tournament Manager",
-  "sites": [
-    "https://github.com/mars7105/Chess-Round-Robin-Manager"
-  ],
-  "sources": []
-}
+{"name":"jklubtv","description":"Chess Round Robin Tournament Manager","sites":["https://github.com/mars7105/Chess-Round-Robin-Manager"],"sources":[]}

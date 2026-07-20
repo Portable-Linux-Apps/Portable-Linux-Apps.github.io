@@ -1,8 +1,1 @@
-{
-  "name": "youtubeanddownloader",
-  "description": "An app to use youtube and download videos as mp3s or mp4s",
-  "sites": [
-    "https://github.com/claudemods/YoutubeAndDownloader"
-  ],
-  "sources": []
-}
+{"name":"youtubeanddownloader","description":"An app to use youtube and download videos as mp3s or mp4s","sites":["https://github.com/claudemods/YoutubeAndDownloader"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "ryowallet",
-  "description": "Modern GUI interface for Ryo Currency",
-  "sites": [
-    "https://github.com/ryo-currency/ryo-wallet"
-  ],
-  "sources": []
-}
+{"name":"ryowallet","description":"Modern GUI interface for Ryo Currency","sites":["https://github.com/ryo-currency/ryo-wallet"],"sources":[]}

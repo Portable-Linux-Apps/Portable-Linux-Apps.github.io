@@ -1,8 +1,1 @@
-{
-  "name": "xdg-ninja",
-  "description": "A shell script which checks your $HOME for unwanted files and directories.",
-  "sites": [
-    "https://github.com/b3nj5m1n/xdg-ninja"
-  ],
-  "sources": []
-}
+{"name":"xdg-ninja","description":"A shell script which checks your $HOME for unwanted files and directories.","sites":["https://github.com/b3nj5m1n/xdg-ninja"],"sources":[]}

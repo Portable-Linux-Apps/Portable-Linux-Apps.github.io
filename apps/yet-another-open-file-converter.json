@@ -1,8 +1,1 @@
-{
-  "name": "yet-another-open-file-converter",
-  "description": "Simple Open Source Video and Image Conventer.",
-  "sites": [
-    "https://github.com/cenullum/Yet-Another-Open-File-Converter"
-  ],
-  "sources": []
-}
+{"name":"yet-another-open-file-converter","description":"Simple Open Source Video and Image Conventer.","sites":["https://github.com/cenullum/Yet-Another-Open-File-Converter"],"sources":[]}

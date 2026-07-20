@@ -1,10 +1,1 @@
-{
-  "name": "sweeper",
-  "description": "Sweeper can quickly remove temporary information, such as web page cookies, browser history, or the list of  recently-opened documents. It helps provide additional  privacy on a system shared between multiple users. \n\n This tool is part of the KDE Utils Suite.\n \n <img src=\"https://cdn.kde.org/screenshots/sweeper/sweeper.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://apps.kde.org"
-  ],
-  "sources": [
-    "https://github.com/ivan-hc/KDE-utils-appimage"
-  ]
-}
+{"name":"sweeper","description":"Sweeper can quickly remove temporary information, such as web page cookies, browser history, or the list of  recently-opened documents. It helps provide additional  privacy on a system shared between multiple users. \n\n This tool is part of the KDE Utils Suite.\n \n <img src=\"https://cdn.kde.org/screenshots/sweeper/sweeper.png\" alt=\"Screenshot\">","sites":["https://apps.kde.org"],"sources":["https://github.com/ivan-hc/KDE-utils-appimage"]}

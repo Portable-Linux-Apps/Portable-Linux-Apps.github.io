@@ -1,8 +1,1 @@
-{
-  "name": "godot-appimage",
-  "description": "Unofficial, Advanced cross-platform 2D and 3D game engine",
-  "sites": [
-    "https://github.com/pkgforge-dev/Godot-AppImage"
-  ],
-  "sources": []
-}
+{"name":"godot-appimage","description":"Unofficial, Advanced cross-platform 2D and 3D game engine","sites":["https://github.com/pkgforge-dev/Godot-AppImage"],"sources":[]}

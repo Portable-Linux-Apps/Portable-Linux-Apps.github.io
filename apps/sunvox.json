@@ -1,8 +1,1 @@
-{
-  "name": "sunvox",
-  "description": "Unofficial. Small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).",
-  "sites": [
-    "https://github.com/ivan-hc/sunvox-appimage"
-  ],
-  "sources": []
-}
+{"name":"sunvox","description":"Unofficial. Small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).","sites":["https://github.com/ivan-hc/sunvox-appimage"],"sources":[]}

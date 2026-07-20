@@ -1,8 +1,1 @@
-{
-  "name": "himalaya",
-  "description": "CLI to manage emails",
-  "sites": [
-    "https://github.com/pimalaya/himalaya"
-  ],
-  "sources": []
-}
+{"name":"himalaya","description":"CLI to manage emails","sites":["https://github.com/pimalaya/himalaya"],"sources":[]}

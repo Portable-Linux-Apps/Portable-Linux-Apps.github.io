@@ -1,8 +1,1 @@
-{
-  "name": "mullvad-browser",
-  "description": "Tor-based Web Browser. A free and open society is a society where people have the right to privacy. That’s why we fight for a free internet.\n\n This is the portable official version converted to an AppImage by our team, \"Portable Linux Apps\" , no additional changes have been made.",
-  "sites": [
-    "https://mullvad.net"
-  ],
-  "sources": []
-}
+{"name":"mullvad-browser","description":"Tor-based Web Browser. A free and open society is a society where people have the right to privacy. That\u2019s why we fight for a free internet.\n\n This is the portable official version converted to an AppImage by our team, \"Portable Linux Apps\" , no additional changes have been made.","sites":["https://mullvad.net"],"sources":[]}

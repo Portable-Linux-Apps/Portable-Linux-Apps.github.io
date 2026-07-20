@@ -1,8 +1,1 @@
-{
-  "name": "pdf-tricks",
-  "description": "Unofficial, a simple, efficient application for small manipulations in PDF files.",
-  "sites": [
-    "https://github.com/pkgforge-dev/PDF-Tricks-AppImage"
-  ],
-  "sources": []
-}
+{"name":"pdf-tricks","description":"Unofficial, a simple, efficient application for small manipulations in PDF files.","sites":["https://github.com/pkgforge-dev/PDF-Tricks-AppImage"],"sources":[]}

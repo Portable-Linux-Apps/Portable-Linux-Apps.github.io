@@ -1,8 +1,1 @@
-{
-  "name": "vpaint",
-  "description": "Vector-Based Animation Editor",
-  "sites": [
-    "https://github.com/dalboris/vpaint"
-  ],
-  "sources": []
-}
+{"name":"vpaint","description":"Vector-Based Animation Editor","sites":["https://github.com/dalboris/vpaint"],"sources":[]}

@@ -1,10 +1,1 @@
-{
-  "name": "zoom",
-  "description": "Zoom, Video Conferencing and Web Conferencing Service.\n \n This is the Unofficial AppImage.\n  \n <img src=\"https://appimage.github.io/database/Zoom/screenshot.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://zoom.us"
-  ],
-  "sources": [
-    "https://github.com/probonopd/Zoom.AppImage"
-  ]
-}
+{"name":"zoom","description":"Zoom, Video Conferencing and Web Conferencing Service.\n \n This is the Unofficial AppImage.\n  \n <img src=\"https://appimage.github.io/database/Zoom/screenshot.png\" alt=\"Screenshot\">","sites":["https://zoom.us"],"sources":["https://github.com/probonopd/Zoom.AppImage"]}

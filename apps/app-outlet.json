@@ -1,8 +1,1 @@
-{
-  "name": "app-outlet",
-  "description": "App Outlet is a Universal application store. It easily allows  you to search and download applications that runs on most Linux  distributions. It currently supports AppImages, Flatpaks and  Snaps packages.\n \n <img src=\"https://raw.githubusercontent.com/AppOutlet/AppOutlet/main/screenshot/screenshots.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://appoutlet.github.io"
-  ],
-  "sources": []
-}
+{"name":"app-outlet","description":"App Outlet is a Universal application store. It easily allows  you to search and download applications that runs on most Linux  distributions. It currently supports AppImages, Flatpaks and  Snaps packages.\n \n <img src=\"https://raw.githubusercontent.com/AppOutlet/AppOutlet/main/screenshot/screenshots.png\" alt=\"Screenshot\">","sites":["https://appoutlet.github.io"],"sources":[]}

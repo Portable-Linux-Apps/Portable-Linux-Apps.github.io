@@ -1,8 +1,1 @@
-{
-  "name": "uncompress",
-  "description": "Zcat - compress and expand data. This is part of \"am-utils\" suite.",
-  "sites": [
-    "https://github.com/ivan-hc/am-utils"
-  ],
-  "sources": []
-}
+{"name":"uncompress","description":"Zcat - compress and expand data. This is part of \"am-utils\" suite.","sites":["https://github.com/ivan-hc/am-utils"],"sources":[]}

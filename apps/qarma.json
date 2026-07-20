@@ -1,8 +1,1 @@
-{
-  "name": "qarma",
-  "description": "Unofficial, Qarma is a tool to create dialog boxes, based on Qt. It's a clone of Zenity.",
-  "sites": [
-    "https://github.com/pkgforge-dev/qarma-AppImage"
-  ],
-  "sources": []
-}
+{"name":"qarma","description":"Unofficial, Qarma is a tool to create dialog boxes, based on Qt. It's a clone of Zenity.","sites":["https://github.com/pkgforge-dev/qarma-AppImage"],"sources":[]}

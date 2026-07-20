@@ -1,8 +1,1 @@
-{
-  "name": "silverkey",
-  "description": "The best Qt Application Ever",
-  "sites": [
-    "https://github.com/metacoma/silverkey"
-  ],
-  "sources": []
-}
+{"name":"silverkey","description":"The best Qt Application Ever","sites":["https://github.com/metacoma/silverkey"],"sources":[]}

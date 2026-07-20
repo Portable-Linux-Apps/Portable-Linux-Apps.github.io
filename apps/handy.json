@@ -1,8 +1,1 @@
-{
-  "name": "handy",
-  "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-  "sites": [
-    "https://github.com/cjpais/Handy"
-  ],
-  "sources": []
-}
+{"name":"handy","description":"A free, open source, and extensible speech-to-text application that works completely offline.","sites":["https://github.com/cjpais/Handy"],"sources":[]}

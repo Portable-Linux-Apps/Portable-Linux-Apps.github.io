@@ -1,8 +1,1 @@
-{
-  "name": "moyu",
-  "description": "基于 Vue 和 Electron 的在线协同api接口管理工具。接口文档管理工具、接口工具、接口文档、api文档、api工具、快乐摸鱼",
-  "sites": [
-    "https://online.jobtool.cn/"
-  ],
-  "sources": []
-}
+{"name":"moyu","description":"\u57fa\u4e8e Vue \u548c Electron \u7684\u5728\u7ebf\u534f\u540capi\u63a5\u53e3\u7ba1\u7406\u5de5\u5177\u3002\u63a5\u53e3\u6587\u6863\u7ba1\u7406\u5de5\u5177\u3001\u63a5\u53e3\u5de5\u5177\u3001\u63a5\u53e3\u6587\u6863\u3001api\u6587\u6863\u3001api\u5de5\u5177\u3001\u5feb\u4e50\u6478\u9c7c","sites":["https://online.jobtool.cn/"],"sources":[]}

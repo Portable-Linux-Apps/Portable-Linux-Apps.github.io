@@ -1,8 +1,1 @@
-{
-  "name": "filebrowser",
-  "description": "Web File Browser.",
-  "sites": [
-    "https://github.com/filebrowser/filebrowser"
-  ],
-  "sources": []
-}
+{"name":"filebrowser","description":"Web File Browser.","sites":["https://github.com/filebrowser/filebrowser"],"sources":[]}

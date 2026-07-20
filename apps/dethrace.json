@@ -1,8 +1,1 @@
-{
-  "name": "dethrace",
-  "description": "Reverse engineering the 1997 game \"Carmageddon\".",
-  "sites": [
-    "https://github.com/pkgforge-dev/dethrace-AppImage"
-  ],
-  "sources": []
-}
+{"name":"dethrace","description":"Reverse engineering the 1997 game \"Carmageddon\".","sites":["https://github.com/pkgforge-dev/dethrace-AppImage"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "sblauncher",
-  "description": "Minecraft Launcher.",
-  "sites": [
-    "https://github.com/SamboyCoding/SamboyLauncher-JS"
-  ],
-  "sources": []
-}
+{"name":"sblauncher","description":"Minecraft Launcher.","sites":["https://github.com/SamboyCoding/SamboyLauncher-JS"],"sources":[]}

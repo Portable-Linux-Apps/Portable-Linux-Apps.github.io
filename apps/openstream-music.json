@@ -1,8 +1,1 @@
-{
-  "name": "openstream-music",
-  "description": "The OpenStream Music source.",
-  "sites": [
-    "https://github.com/openstreamorg/openstreammusic"
-  ],
-  "sources": []
-}
+{"name":"openstream-music","description":"The OpenStream Music source.","sites":["https://github.com/openstreamorg/openstreammusic"],"sources":[]}

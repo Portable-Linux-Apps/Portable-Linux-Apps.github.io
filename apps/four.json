@@ -1,8 +1,1 @@
-{
-  "name": "four",
-  "description": "Electron App to access All4/Channel4 (UK)",
-  "sites": [
-    "https://github.com/FYDesktop/FOUR"
-  ],
-  "sources": []
-}
+{"name":"four","description":"Electron App to access All4/Channel4 (UK)","sites":["https://github.com/FYDesktop/FOUR"],"sources":[]}

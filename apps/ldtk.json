@@ -1,8 +1,1 @@
-{
-  "name": "ldtk",
-  "description": "Modern and efficient 2D level editor with a strong focus on user-friendliness",
-  "sites": [
-    "https://ldtk.io/"
-  ],
-  "sources": []
-}
+{"name":"ldtk","description":"Modern and efficient 2D level editor with a strong focus on user-friendliness","sites":["https://ldtk.io/"],"sources":[]}

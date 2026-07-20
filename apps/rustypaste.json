@@ -1,8 +1,1 @@
-{
-  "name": "rustypaste",
-  "description": "A minimal file upload/pastebin service.",
-  "sites": [
-    "https://github.com/orhun/rustypaste"
-  ],
-  "sources": []
-}
+{"name":"rustypaste","description":"A minimal file upload/pastebin service.","sites":["https://github.com/orhun/rustypaste"],"sources":[]}

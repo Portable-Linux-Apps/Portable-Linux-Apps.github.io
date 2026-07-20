@@ -1,8 +1,1 @@
-{
-  "name": "tev",
-  "description": "High dynamic range (HDR) image viewer for people who care about colors.",
-  "sites": [
-    "https://github.com/tom94/tev"
-  ],
-  "sources": []
-}
+{"name":"tev","description":"High dynamic range (HDR) image viewer for people who care about colors.","sites":["https://github.com/tom94/tev"],"sources":[]}

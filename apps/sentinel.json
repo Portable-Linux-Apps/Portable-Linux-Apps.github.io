@@ -1,8 +1,1 @@
-{
-  "name": "sentinel",
-  "description": "An open-source decentralized VPN network application",
-  "sites": [
-    "https://github.com/sentinel-official/desktop-client"
-  ],
-  "sources": []
-}
+{"name":"sentinel","description":"An open-source decentralized VPN network application","sites":["https://github.com/sentinel-official/desktop-client"],"sources":[]}

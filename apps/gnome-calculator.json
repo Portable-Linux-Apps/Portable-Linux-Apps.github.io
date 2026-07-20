@@ -1,8 +1,1 @@
-{
-  "name": "gnome-calculator",
-  "description": "Perform arithmetic, scientific or financial calculations.\n \n <img src=\"https://upload.wikimedia.org/wikipedia/commons/8/81/GNOME_Calculator_40_%28released_in_2021-03%29.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://github.com/pkgforge-dev/Gnome-Calculator-Appimage"
-  ],
-  "sources": []
-}
+{"name":"gnome-calculator","description":"Perform arithmetic, scientific or financial calculations.\n \n <img src=\"https://upload.wikimedia.org/wikipedia/commons/8/81/GNOME_Calculator_40_%28released_in_2021-03%29.png\" alt=\"Screenshot\">","sites":["https://github.com/pkgforge-dev/Gnome-Calculator-Appimage"],"sources":[]}

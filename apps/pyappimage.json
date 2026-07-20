@@ -1,8 +1,1 @@
-{
-  "name": "pyappimage",
-  "description": "Python app generated using PyAppImage",
-  "sites": [
-    "https://github.com/srevinsaju/pyappimage"
-  ],
-  "sources": []
-}
+{"name":"pyappimage","description":"Python app generated using PyAppImage","sites":["https://github.com/srevinsaju/pyappimage"],"sources":[]}

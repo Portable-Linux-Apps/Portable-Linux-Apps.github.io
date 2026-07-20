@@ -1,8 +1,1 @@
-{
-  "name": "iris-enhanced",
-  "description": "Unofficial, Sony PlayStation 2 emulator.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Iris-AppImage-Enhanced"
-  ],
-  "sources": []
-}
+{"name":"iris-enhanced","description":"Unofficial, Sony PlayStation 2 emulator.","sites":["https://github.com/pkgforge-dev/Iris-AppImage-Enhanced"],"sources":[]}

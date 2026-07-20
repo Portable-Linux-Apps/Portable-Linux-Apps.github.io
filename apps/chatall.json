@@ -1,8 +1,1 @@
-{
-  "name": "chatall",
-  "description": "Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna,  Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the  best answers.",
-  "sites": [
-    "http://chatall.ai/"
-  ],
-  "sources": []
-}
+{"name":"chatall","description":"Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna,  Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the  best answers.","sites":["http://chatall.ai/"],"sources":[]}

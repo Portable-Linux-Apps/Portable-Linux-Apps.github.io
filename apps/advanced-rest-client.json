@@ -1,8 +1,1 @@
-{
-  "name": "advanced-rest-client",
-  "description": "Advanced REST Client and API console (by Mulesoft)",
-  "sites": [
-    "https://github.com/advanced-rest-client/arc-electron"
-  ],
-  "sources": []
-}
+{"name":"advanced-rest-client","description":"Advanced REST Client and API console (by Mulesoft)","sites":["https://github.com/advanced-rest-client/arc-electron"],"sources":[]}

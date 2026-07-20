@@ -1,8 +1,1 @@
-{
-  "name": "notekit",
-  "description": "A GTK3 hierarchical markdown notetaking application with tablet support.",
-  "sites": [
-    "https://github.com/blackhole89/notekit"
-  ],
-  "sources": []
-}
+{"name":"notekit","description":"A GTK3 hierarchical markdown notetaking application with tablet support.","sites":["https://github.com/blackhole89/notekit"],"sources":[]}

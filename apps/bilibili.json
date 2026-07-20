@@ -1,8 +1,1 @@
-{
-  "name": "bilibili",
-  "description": "Bilibili official desktop client.\n \n 基于哔哩哔哩官方客户端移植的Linux版本,支持漫游",
-  "sites": [
-    "https://github.com/msojocs/bilibili-linux"
-  ],
-  "sources": []
-}
+{"name":"bilibili","description":"Bilibili official desktop client.\n \n \u57fa\u4e8e\u54d4\u54e9\u54d4\u54e9\u5b98\u65b9\u5ba2\u6237\u7aef\u79fb\u690d\u7684Linux\u7248\u672c,\u652f\u6301\u6f2b\u6e38","sites":["https://github.com/msojocs/bilibili-linux"],"sources":[]}

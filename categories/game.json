@@ -1,2970 +1,373 @@
 [
-  {
-    "icon": "0ad.png",
-    "name": "0ad",
-    "description": "FOSS historical Real Time Strategy, RTS game of ancient warfare.",
-    "app_page": "apps/0ad.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/0ad",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/0ad"
-  },
-  {
-    "icon": "0ad-prerelease.png",
-    "name": "0ad-prerelease",
-    "description": "FOSS historical Real Time Strategy, RTS game of ancient warfare (Pre-release).",
-    "app_page": "apps/0ad-prerelease.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/0ad-prerelease",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/0ad-prerelease"
-  },
-  {
-    "icon": "2ship.png",
-    "name": "2ship",
-    "description": "2 Ship 2 Harkinian game.",
-    "app_page": "apps/2ship.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/2ship",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/2ship"
-  },
-  {
-    "icon": "3d-puzzles.png",
-    "name": "3d-puzzles",
-    "description": "3D-Puzzles are Rubik, Dogic and Dogic12.",
-    "app_page": "apps/3d-puzzles.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/3d-puzzles",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/3d-puzzles"
-  },
-  {
-    "icon": "aaaaxy.png",
-    "name": "aaaaxy",
-    "description": "A nonlinear puzzle platformer, game.",
-    "app_page": "apps/aaaaxy.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aaaaxy",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aaaaxy"
-  },
-  {
-    "icon": "adobe-flash-player.png",
-    "name": "adobe-flash-player",
-    "description": "Unofficial port. Adobe Flash is a mostly discontinued multimedia software platform used for production of animations, rich internet applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Over 67 billion devices use adobe flash player!",
-    "app_page": "apps/adobe-flash-player.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/adobe-flash-player",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/adobe-flash-player"
-  },
-  {
-    "icon": "aisleriot.png",
-    "name": "aisleriot",
-    "description": "Unofficial. A card game featuring over 80 different solitaire-type card games.",
-    "app_page": "apps/aisleriot.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aisleriot",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aisleriot"
-  },
-  {
-    "icon": "akhenaten.png",
-    "name": "akhenaten",
-    "description": "Unofficial, open-source engine for Pharaoh (+Cleopatra) city-building game.",
-    "app_page": "apps/akhenaten.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/akhenaten",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/akhenaten"
-  },
-  {
-    "icon": "alvr.png",
-    "name": "alvr",
-    "description": "Stream VR games from your PC to your headset via Wi-Fi.",
-    "app_page": "apps/alvr.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alvr",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alvr"
-  },
-  {
-    "icon": "antimicrox.png",
-    "name": "antimicrox",
-    "description": "Use a gamepad to control a variety of programs.",
-    "app_page": "apps/antimicrox.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/antimicrox",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/antimicrox"
-  },
-  {
-    "icon": "arcade-manager.png",
-    "name": "arcade-manager",
-    "description": "Manage your rom collection, Games/Retropie & Recalbox.",
-    "app_page": "apps/arcade-manager.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/arcade-manager",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/arcade-manager"
-  },
-  {
-    "icon": "archipelago.png",
-    "name": "archipelago",
-    "description": "Archipelago Multi-Game Randomizer and Server.",
-    "app_page": "apps/archipelago.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/archipelago",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/archipelago"
-  },
-  {
-    "icon": "archisteamfarm.png",
-    "name": "archisteamfarm",
-    "description": "C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.",
-    "app_page": "apps/archisteamfarm.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/archisteamfarm",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/archisteamfarm"
-  },
-  {
-    "icon": "arena-tracker.png",
-    "name": "arena-tracker",
-    "description": "Deck Tracker for Hearthstone game with arena in focus.",
-    "app_page": "apps/arena-tracker.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/arena-tracker",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/arena-tracker"
-  },
-  {
-    "icon": "arma3-unix-launcher.png",
-    "name": "arma3-unix-launcher",
-    "description": "ArmA 3 Unix Launcher, game.",
-    "app_page": "apps/arma3-unix-launcher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/arma3-unix-launcher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/arma3-unix-launcher"
-  },
-  {
-    "icon": "armagetronad.png",
-    "name": "armagetronad",
-    "description": "Multiplayer game in 3d that emulates the movie \"Tron\".",
-    "app_page": "apps/armagetronad.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/armagetronad",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/armagetronad"
-  },
-  {
-    "icon": "artix.png",
-    "name": "artix",
-    "description": "One app. All your favorite Artix games.",
-    "app_page": "apps/artix.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/artix",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/artix"
-  },
-  {
-    "icon": "augustus.png",
-    "name": "augustus",
-    "description": "An open source re-implementation of the game Caesar III.",
-    "app_page": "apps/augustus.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/augustus",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/augustus"
-  },
-  {
-    "icon": "augustus-enhanced.png",
-    "name": "augustus-enhanced",
-    "description": "Unofficial, a fork of the Julius project that intends to incorporate gameplay changes.",
-    "app_page": "apps/augustus-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/augustus-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/augustus-enhanced"
-  },
-  {
-    "icon": "azaharplus-pkg-extractor.png",
-    "name": "azaharplus-pkg-extractor",
-    "description": "Standalone PKG extractor CLI based on code that used to be in ShadPS4 PlayStation 4 emulator written in C++.",
-    "app_page": "apps/azaharplus-pkg-extractor.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/azaharplus-pkg-extractor",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/azaharplus-pkg-extractor"
-  },
-  {
-    "icon": "badlion.png",
-    "name": "badlion",
-    "description": "Most Complete All-In-One Mod Library for Minecraft with 100+ Mods.",
-    "app_page": "apps/badlion.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/badlion",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/badlion"
-  },
-  {
-    "icon": "berserkerquake2.png",
-    "name": "berserkerquake2",
-    "description": "Berserker@Quake2 game engine, ported to SDL2 library.",
-    "app_page": "apps/berserkerquake2.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/berserkerquake2",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/berserkerquake2"
-  },
-  {
-    "icon": "beyond-all-reason.png",
-    "name": "beyond-all-reason",
-    "description": "3D Real-Time Strategy Total Annihilation Inspired, game.",
-    "app_page": "apps/beyond-all-reason.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beyond-all-reason",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beyond-all-reason"
-  },
-  {
-    "icon": "bezique.png",
-    "name": "bezique",
-    "description": "Plays bezique game against the AI.",
-    "app_page": "apps/bezique.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bezique",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bezique"
-  },
-  {
-    "icon": "billard-gl.png",
-    "name": "billard-gl",
-    "description": "Unofficial. 3D billiards game, play a game of 8-ball or 9-ball.",
-    "app_page": "apps/billard-gl.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/billard-gl",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/billard-gl"
-  },
-  {
-    "icon": "biplanes-revival.png",
-    "name": "biplanes-revival",
-    "description": "An old cellphone arcade recreated for PC.",
-    "app_page": "apps/biplanes-revival.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/biplanes-revival",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/biplanes-revival"
-  },
-  {
-    "icon": "black-chocobo.png",
-    "name": "black-chocobo",
-    "description": "FF7 Save Game Editor.",
-    "app_page": "apps/black-chocobo.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/black-chocobo",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/black-chocobo"
-  },
-  {
-    "icon": "blockbench.png",
-    "name": "blockbench",
-    "description": "Editor for boxy models and pixel art textures like Minecraft.",
-    "app_page": "apps/blockbench.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/blockbench",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/blockbench"
-  },
-  {
-    "icon": "boardgamestar.png",
-    "name": "boardgamestar",
-    "description": "A platform for playing digital boardgames.",
-    "app_page": "apps/boardgamestar.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/boardgamestar",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/boardgamestar"
-  },
-  {
-    "icon": "boilr.png",
-    "name": "boilr",
-    "description": "Synchronize games from other platforms into your Steam library.",
-    "app_page": "apps/boilr.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/boilr",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/boilr"
-  },
-  {
-    "icon": "bomber.png",
-    "name": "bomber",
-    "description": "Unofficial. Arcade spaceship game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/bomber.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bomber",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bomber"
-  },
-  {
-    "icon": "bottles.png",
-    "name": "bottles",
-    "description": "Unofficial. Manage wine prefixes and run Windows software & games in a new way.",
-    "app_page": "apps/bottles.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bottles",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bottles"
-  },
-  {
-    "icon": "bovo.png",
-    "name": "bovo",
-    "description": "Unofficial. Five in a row game from. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/bovo.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bovo",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bovo"
-  },
-  {
-    "icon": "bugdom.png",
-    "name": "bugdom",
-    "description": "Pangea Software's Bugdom game.",
-    "app_page": "apps/bugdom.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bugdom",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bugdom"
-  },
-  {
-    "icon": "c-evo.png",
-    "name": "c-evo",
-    "description": "C-evo is an empire building game based on Civilization II, but with a different focus. It aims to be a pure game with all players playing to win.",
-    "app_page": "apps/c-evo.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/c-evo",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/c-evo"
-  },
-  {
-    "icon": "cartridges.png",
-    "name": "cartridges",
-    "description": "Unofficial. Game launcher, which helps you visualize your game collection and easily launch games.",
-    "app_page": "apps/cartridges.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cartridges",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cartridges"
-  },
-  {
-    "icon": "casterr.png",
-    "name": "casterr",
-    "description": "Screen recorder, easing recording and clipping in-game.",
-    "app_page": "apps/casterr.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/casterr",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/casterr"
-  },
-  {
-    "icon": "cavoke.png",
-    "name": "cavoke",
-    "description": "Platform to create/host multiplayer turn-based board games.",
-    "app_page": "apps/cavoke.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cavoke",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cavoke"
-  },
-  {
-    "icon": "cdogs-sdl.png",
-    "name": "cdogs-sdl",
-    "description": "Unofficial, classic overhead run-and-gun game.",
-    "app_page": "apps/cdogs-sdl.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cdogs-sdl",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cdogs-sdl"
-  },
-  {
-    "icon": "celeste64.png",
-    "name": "celeste64",
-    "description": "A game made by the Celeste developers.",
-    "app_page": "apps/celeste64.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/celeste64",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/celeste64"
-  },
-  {
-    "icon": "cemu.png",
-    "name": "cemu",
-    "description": "A Nintendo Wii U emulator that is able to run most Wii U games.",
-    "app_page": "apps/cemu.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cemu",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cemu"
-  },
-  {
-    "icon": "cemu-enhanced.png",
-    "name": "cemu-enhanced",
-    "description": "Unofficial AppImage of Cemu, Nintendo Wii U emulator that is able to run most Wii U games, which is able to work on any linux distro.",
-    "app_page": "apps/cemu-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cemu-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cemu-enhanced"
-  },
-  {
-    "icon": "cheatbreaker.png",
-    "name": "cheatbreaker",
-    "description": "The free FPS boosting modpack for Minecraft 1.7 & 1.8.",
-    "app_page": "apps/cheatbreaker.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cheatbreaker",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cheatbreaker"
-  },
-  {
-    "icon": "chess-tui.png",
-    "name": "chess-tui",
-    "description": "Play chess from your terminal.",
-    "app_page": "apps/chess-tui.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chess-tui",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chess-tui"
-  },
-  {
-    "icon": "chessmd.png",
-    "name": "chessmd",
-    "description": "Open source chess training software. Play against bots, analyze with engines, explore chess openings, and more.",
-    "app_page": "apps/chessmd.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chessmd",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chessmd"
-  },
-  {
-    "icon": "chromium-bsu.png",
-    "name": "chromium-bsu",
-    "description": "Unofficial. Fast paced arcade style scrolling space shooter, game.",
-    "app_page": "apps/chromium-bsu.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-bsu",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-bsu"
-  },
-  {
-    "icon": "classicube.png",
-    "name": "classicube",
-    "description": "Unofficial, Custom Minecraft Classic / ClassiCube client written in C from scratch",
-    "app_page": "apps/classicube.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/classicube",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/classicube"
-  },
-  {
-    "icon": "cncra2yr.png",
-    "name": "cncra2yr",
-    "description": "C&C Red Alert 2, a real-time strategy game by Westwood Pacific.",
-    "app_page": "apps/cncra2yr.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cncra2yr",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cncra2yr"
-  },
-  {
-    "icon": "coal-launcher.png",
-    "name": "coal-launcher",
-    "description": "A client to view and play games from the AB Coal website.",
-    "app_page": "apps/coal-launcher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/coal-launcher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/coal-launcher"
-  },
-  {
-    "icon": "conty-wine.png",
-    "name": "conty-wine",
-    "description": "Easy to use unprivileged and portable Arch Linux container.",
-    "app_page": "apps/conty-wine.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/conty-wine",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/conty-wine"
-  },
-  {
-    "icon": "crawl-ncurses.png",
-    "name": "crawl-ncurses",
-    "description": "open-source, single-player, role-playing roguelike game of exploration and treasure-hunting - ncurses version (terminal)",
-    "app_page": "apps/crawl-ncurses.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crawl-ncurses",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crawl-ncurses"
-  },
-  {
-    "icon": "crawl-tiles.png",
-    "name": "crawl-tiles",
-    "description": "open-source, single-player, role-playing roguelike game of exploration and treasure-hunting - graphical version (SDL)",
-    "app_page": "apps/crawl-tiles.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crawl-tiles",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crawl-tiles"
-  },
-  {
-    "icon": "crg-data-tool.png",
-    "name": "crg-data-tool",
-    "description": "A tool for working with Games Data files from CRG.",
-    "app_page": "apps/crg-data-tool.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crg-data-tool",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crg-data-tool"
-  },
-  {
-    "icon": "crispy-doom.png",
-    "name": "crispy-doom",
-    "description": "Unofficial, a limit-removing enhanced-resolution Doom source port based on Chocolate Doom.",
-    "app_page": "apps/crispy-doom.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crispy-doom",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crispy-doom"
-  },
-  {
-    "icon": "cromagrally.png",
-    "name": "cromagrally",
-    "description": "The wildest racing game since man invented the wheel!",
-    "app_page": "apps/cromagrally.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cromagrally",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cromagrally"
-  },
-  {
-    "icon": "cromagrally-enhanced.png",
-    "name": "cromagrally-enhanced",
-    "description": "Unofficial, the wildest racing game since man invented the wheel!",
-    "app_page": "apps/cromagrally-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cromagrally-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cromagrally-enhanced"
-  },
-  {
-    "icon": "cuberite.png",
-    "name": "cuberite",
-    "description": "Unofficial, a lightweight, fast and extensible game server for Minecraft.",
-    "app_page": "apps/cuberite.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cuberite",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cuberite"
-  },
-  {
-    "icon": "curseforge.png",
-    "name": "curseforge",
-    "description": "Discover endless mods for your favorite games, or forge your own and share them with millions.",
-    "app_page": "apps/curseforge.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/curseforge",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/curseforge"
-  },
-  {
-    "icon": "cutechess.png",
-    "name": "cutechess",
-    "description": "Cute Chess is a GUI, a CLI and a library for playing chess.",
-    "app_page": "apps/cutechess.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cutechess",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cutechess"
-  },
-  {
-    "icon": "deadgame-2048.png",
-    "name": "deadgame-2048",
-    "description": "GUI tool available for ALL platforms.",
-    "app_page": "apps/deadgame-2048.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deadgame-2048",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deadgame-2048"
-  },
-  {
-    "icon": "dealers-choice.png",
-    "name": "dealers-choice",
-    "description": "A cross-platform, networked multiplayer poker game supporting draw, stud, and community-card variants, including Texas.",
-    "app_page": "apps/dealers-choice.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dealers-choice",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dealers-choice"
-  },
-  {
-    "icon": "deerportal.png",
-    "name": "deerportal",
-    "description": "Full of the diamonds board game.",
-    "app_page": "apps/deerportal.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deerportal",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deerportal"
-  },
-  {
-    "icon": "defold.png",
-    "name": "defold",
-    "description": "Unofficial, Defold is a completely free to use game engine for development of games.",
-    "app_page": "apps/defold.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/defold",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/defold"
-  },
-  {
-    "icon": "dethrace.png",
-    "name": "dethrace",
-    "description": "Unofficial, reverse engineering the 1997 game \"Carmageddon\".",
-    "app_page": "apps/dethrace.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dethrace",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dethrace"
-  },
-  {
-    "icon": "dhewm3.png",
-    "name": "dhewm3",
-    "description": "Unofficial, doom 3 GPL source port.",
-    "app_page": "apps/dhewm3.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dhewm3",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dhewm3"
-  },
-  {
-    "icon": "dinosaurplanetrecompiled.png",
-    "name": "dinosaurplanetrecompiled",
-    "description": "A static recompilation/native port of the game Dinosaur Planet.",
-    "app_page": "apps/dinosaurplanetrecompiled.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dinosaurplanetrecompiled",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dinosaurplanetrecompiled"
-  },
-  {
-    "icon": "discord.png",
-    "name": "discord",
-    "description": "Unofficial. All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.",
-    "app_page": "apps/discord.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/discord",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/discord"
-  },
-  {
-    "icon": "dolphin-emu.png",
-    "name": "dolphin-emu",
-    "description": "Unofficial, GameCube/Nintento Wii emulator with improvements.",
-    "app_page": "apps/dolphin-emu.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dolphin-emu",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dolphin-emu"
-  },
-  {
-    "icon": "doom64exultra.png",
-    "name": "doom64exultra",
-    "description": "Unofficial, A fork of DOOM64EX+ with new stuff and fixes.",
-    "app_page": "apps/doom64exultra.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/doom64exultra",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/doom64exultra"
-  },
-  {
-    "icon": "dosbox-x.png",
-    "name": "dosbox-x",
-    "description": "Unofficial, DOSBox-X is a cross-platform DOS emulator for running many MS-DOS games.",
-    "app_page": "apps/dosbox-x.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dosbox-x",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dosbox-x"
-  },
-  {
-    "icon": "dr-robotniks-ring-racers.png",
-    "name": "dr-robotniks-ring-racers",
-    "description": "Unofficial, kart racing video game originally based on SRB2Kart.",
-    "app_page": "apps/dr-robotniks-ring-racers.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dr-robotniks-ring-racers",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dr-robotniks-ring-racers"
-  },
-  {
-    "icon": "droidcam.png",
-    "name": "droidcam",
-    "description": "A DroidCam AppImage for the Steam Deck/SteamOS 3.0.",
-    "app_page": "apps/droidcam.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/droidcam",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/droidcam"
-  },
-  {
-    "icon": "dsda-doom.png",
-    "name": "dsda-doom",
-    "description": "This is a successor of prboom+ with extra tooling for demo recording and playback, with a focus on speedrunning and quality of life.",
-    "app_page": "apps/dsda-doom.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dsda-doom",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dsda-doom"
-  },
-  {
-    "icon": "duckstation.png",
-    "name": "duckstation",
-    "description": "PlayStation 1, aka PSX games Emulator.",
-    "app_page": "apps/duckstation.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/duckstation",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/duckstation"
-  },
-  {
-    "icon": "duckstation-gpl-enhanced.png",
-    "name": "duckstation-gpl-enhanced",
-    "description": "Unofficial, fast PlayStation 1 emulator when it was still using GPLv3.",
-    "app_page": "apps/duckstation-gpl-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/duckstation-gpl-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/duckstation-gpl-enhanced"
-  },
-  {
-    "icon": "duelyst.png",
-    "name": "duelyst",
-    "description": "A digital collectible card game and turn-based strategy hybrid.",
-    "app_page": "apps/duelyst.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/duelyst",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/duelyst"
-  },
-  {
-    "icon": "dusklight.png",
-    "name": "dusklight",
-    "description": "Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.",
-    "app_page": "apps/dusklight.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dusklight",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dusklight"
-  },
-  {
-    "icon": "dust3d.png",
-    "name": "dust3d",
-    "description": "3D modeling software for games, 3D printing, and so on.",
-    "app_page": "apps/dust3d.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dust3d",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dust3d"
-  },
-  {
-    "icon": "dwarffortress.png",
-    "name": "dwarffortress",
-    "description": "A Dwarf Fortress game. Build a fortress and try to help your dwarves survive against a deeply generated world.",
-    "app_page": "apps/dwarffortress.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dwarffortress",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dwarffortress"
-  },
-  {
-    "icon": "eden.png",
-    "name": "eden",
-    "description": "An experimental open-source emulator for Nintendo Switch (yuzu fork).",
-    "app_page": "apps/eden.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eden",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eden"
-  },
-  {
-    "icon": "eden-nightly.png",
-    "name": "eden-nightly",
-    "description": "An experimental open-source emulator for Nintendo Switch (yuzu fork, nightly builds).",
-    "app_page": "apps/eden-nightly.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eden-nightly",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eden-nightly"
-  },
-  {
-    "icon": "eksplode.re.png",
-    "name": "eksplode.re",
-    "description": "Bomberman game made with Godot under BSD3.",
-    "app_page": "apps/eksplode.re.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eksplode.re",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eksplode.re"
-  },
-  {
-    "icon": "en-croissant.png",
-    "name": "en-croissant",
-    "description": "The Ultimate Chess Toolkit.",
-    "app_page": "apps/en-croissant.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/en-croissant",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/en-croissant"
-  },
-  {
-    "icon": "endless-sky.png",
-    "name": "endless-sky",
-    "description": "Space exploration and combat game.",
-    "app_page": "apps/endless-sky.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/endless-sky",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/endless-sky"
-  },
-  {
-    "icon": "eternal-lands.png",
-    "name": "eternal-lands",
-    "description": "3D fantasy multiplayer online role playing game.",
-    "app_page": "apps/eternal-lands.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eternal-lands",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eternal-lands"
-  },
-  {
-    "icon": "eternalmodmanager.png",
-    "name": "eternalmodmanager",
-    "description": "A cross platform mod manager for DOOM Eternal.",
-    "app_page": "apps/eternalmodmanager.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eternalmodmanager",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eternalmodmanager"
-  },
-  {
-    "icon": "exsplode.re.png",
-    "name": "exsplode.re",
-    "description": "A Bomberman game made with Godot under BSD3.",
-    "app_page": "apps/exsplode.re.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/exsplode.re",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/exsplode.re"
-  },
-  {
-    "icon": "extremetuxracer.png",
-    "name": "extremetuxracer",
-    "description": "Unofficial. 3D racing game with Tux, the Linux penguin.",
-    "app_page": "apps/extremetuxracer.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/extremetuxracer",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/extremetuxracer"
-  },
-  {
-    "icon": "fafarunner.png",
-    "name": "fafarunner",
-    "description": "A game developed using flutter and flame.",
-    "app_page": "apps/fafarunner.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fafarunner",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fafarunner"
-  },
-  {
-    "icon": "farmhand.png",
-    "name": "farmhand",
-    "description": "A resource management game that puts a farm in your hand.",
-    "app_page": "apps/farmhand.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/farmhand",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/farmhand"
-  },
-  {
-    "icon": "flare.png",
-    "name": "flare",
-    "description": "Fantasy action RPG game using the FLARE engine.",
-    "app_page": "apps/flare.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flare",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flare"
-  },
-  {
-    "icon": "flashpoint.png",
-    "name": "flashpoint",
-    "description": "Flashpoint Archive is a community effort to preserve games and animations from the web.",
-    "app_page": "apps/flashpoint.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flashpoint",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flashpoint"
-  },
-  {
-    "icon": "flycast-dojo.png",
-    "name": "flycast-dojo",
-    "description": "Flycast fork, multiplatform Sega Dreamcast, Naomi and Atomiswave emulator for netplay, training & online tournament gameplay.",
-    "app_page": "apps/flycast-dojo.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flycast-dojo",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flycast-dojo"
-  },
-  {
-    "icon": "foobar2000.png",
-    "name": "foobar2000",
-    "description": "Unofficial, an advanced freeware audio player for Windows, includes WINE.",
-    "app_page": "apps/foobar2000.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/foobar2000",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/foobar2000"
-  },
-  {
-    "icon": "foobillardpp.png",
-    "name": "foobillardpp",
-    "description": "Unofficial, an OpenGL Billard Game based on foobillard 3.0a with patches and new features.",
-    "app_page": "apps/foobillardpp.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/foobillardpp",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/foobillardpp"
-  },
-  {
-    "icon": "freetexturepacker.png",
-    "name": "freetexturepacker",
-    "description": "Creates sprite sheets for you game or site, graphics.",
-    "app_page": "apps/freetexturepacker.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freetexturepacker",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freetexturepacker"
-  },
-  {
-    "icon": "funkin.png",
-    "name": "funkin",
-    "description": "A rhythm game made with HaxeFlixel",
-    "app_page": "apps/funkin.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/funkin",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/funkin"
-  },
-  {
-    "icon": "funkin-legacy.png",
-    "name": "funkin-legacy",
-    "description": "Legacy GLibC Linux support for Friday Night Funkin. A rhythm game made with HaxeFlixel.",
-    "app_page": "apps/funkin-legacy.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/funkin-legacy",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/funkin-legacy"
-  },
-  {
-    "icon": "gameconqueror.png",
-    "name": "gameconqueror",
-    "description": "Unofficial. Memory scanner designed to isolate the adress of an arbitrary variable in an executing process (gtk GUI).",
-    "app_page": "apps/gameconqueror.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gameconqueror",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gameconqueror"
-  },
-  {
-    "icon": "gamehub.png",
-    "name": "gamehub",
-    "description": "Unified library for all your games from different platforms.",
-    "app_page": "apps/gamehub.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gamehub",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gamehub"
-  },
-  {
-    "icon": "gameimage.png",
-    "name": "gameimage",
-    "description": "Pack a runner/emulator/game and it's configs in a single AppImage.",
-    "app_page": "apps/gameimage.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gameimage",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gameimage"
-  },
-  {
-    "icon": "gdevelop.png",
-    "name": "gdevelop",
-    "description": "Cross-platform game engine designed to be used by everyone.",
-    "app_page": "apps/gdevelop.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gdevelop",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gdevelop"
-  },
-  {
-    "icon": "gdlauncher.png",
-    "name": "gdlauncher",
-    "description": "Simple, yet powerful Minecraft custom launcher.",
-    "app_page": "apps/gdlauncher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gdlauncher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gdlauncher"
-  },
-  {
-    "icon": "gearboy.png",
-    "name": "gearboy",
-    "description": "Unofficial, Game Boy / Gameboy Color emulator.",
-    "app_page": "apps/gearboy.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gearboy",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gearboy"
-  },
-  {
-    "icon": "gearsystem.png",
-    "name": "gearsystem",
-    "description": "Unofficial, Sega Master System / Game Gear / SG-1000 emulator.",
-    "app_page": "apps/gearsystem.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gearsystem",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gearsystem"
-  },
-  {
-    "icon": "geforcenow-electron.png",
-    "name": "geforcenow-electron",
-    "description": "Desktop client for Nvidia GeForce NOW game streaming.",
-    "app_page": "apps/geforcenow-electron.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/geforcenow-electron",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/geforcenow-electron"
-  },
-  {
-    "icon": "gm-companion.png",
-    "name": "gm-companion",
-    "description": "A tool for rpg gamemasters.",
-    "app_page": "apps/gm-companion.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gm-companion",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gm-companion"
-  },
-  {
-    "icon": "gnu-freedink.png",
-    "name": "gnu-freedink",
-    "description": "Unofficial, a portable and enhanced version of the Dink Smallwood game engine.",
-    "app_page": "apps/gnu-freedink.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnu-freedink",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnu-freedink"
-  },
-  {
-    "icon": "godot.png",
-    "name": "godot",
-    "description": "Multi-platform 2D and 3D game engine with a feature-rich editor.",
-    "app_page": "apps/godot.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/godot",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/godot"
-  },
-  {
-    "icon": "godot-appimage.png",
-    "name": "godot-appimage",
-    "description": "Unofficial, Advanced cross-platform 2D and 3D game engine",
-    "app_page": "apps/godot-appimage.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/godot-appimage",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/godot-appimage"
-  },
-  {
-    "icon": "granatier.png",
-    "name": "granatier",
-    "description": "Bomberman clone. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/granatier.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/granatier",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/granatier"
-  },
-  {
-    "icon": "greenlight.png",
-    "name": "greenlight",
-    "description": "Client for xCloud and Xbox home streaming made in Typescript.",
-    "app_page": "apps/greenlight.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/greenlight",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/greenlight"
-  },
-  {
-    "icon": "hades-emu.png",
-    "name": "hades-emu",
-    "description": "A Nintendo Game Boy Advance Emulator.",
-    "app_page": "apps/hades-emu.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hades-emu",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hades-emu"
-  },
-  {
-    "icon": "hastyheroes.png",
-    "name": "hastyheroes",
-    "description": "An endless 2D jumping game.",
-    "app_page": "apps/hastyheroes.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hastyheroes",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hastyheroes"
-  },
-  {
-    "icon": "helion.png",
-    "name": "helion",
-    "description": "A modern fast paced Doom FPS engine.",
-    "app_page": "apps/helion.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helion",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helion"
-  },
-  {
-    "icon": "helioslauncher.png",
-    "name": "helioslauncher",
-    "description": "Custom launcher for modded minecraft written in Electron.",
-    "app_page": "apps/helioslauncher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helioslauncher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helioslauncher"
-  },
-  {
-    "icon": "heroic-games-launcher.png",
-    "name": "heroic-games-launcher",
-    "description": "A Native GOG and Epic Games Launcher for Linux.",
-    "app_page": "apps/heroic-games-launcher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/heroic-games-launcher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/heroic-games-launcher"
-  },
-  {
-    "icon": "highlite.png",
-    "name": "highlite",
-    "description": "A RuneLite-esque Client for the game High Spell.",
-    "app_page": "apps/highlite.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/highlite",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/highlite"
-  },
-  {
-    "icon": "hmcl.png",
-    "name": "hmcl",
-    "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular.",
-    "app_page": "apps/hmcl.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hmcl",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hmcl"
-  },
-  {
-    "icon": "hugor.png",
-    "name": "hugor",
-    "description": "A cross-platform, multimedia interpreter for Hugo adventure games.",
-    "app_page": "apps/hugor.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hugor",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hugor"
-  },
-  {
-    "icon": "hydra.png",
-    "name": "hydra",
-    "description": "Game launcher with its own embedded bittorrent client.",
-    "app_page": "apps/hydra.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hydra",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hydra"
-  },
-  {
-    "icon": "icestudio.png",
-    "name": "icestudio",
-    "description": "A real gamechanger in the world of Open Source FPGAs.",
-    "app_page": "apps/icestudio.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/icestudio",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/icestudio"
-  },
-  {
-    "icon": "instead.png",
-    "name": "instead",
-    "description": "Simple Text Adventures Interpreter.",
-    "app_page": "apps/instead.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/instead",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/instead"
-  },
-  {
-    "icon": "international-doom.png",
-    "name": "international-doom",
-    "description": "Small, functional and simple source ports, created with help, efforts and bits of code from people around the world.",
-    "app_page": "apps/international-doom.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/international-doom",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/international-doom"
-  },
-  {
-    "icon": "ipuissance-4d.png",
-    "name": "ipuissance-4d",
-    "description": "Connect Four video game with a 3-Dimentional rendering.",
-    "app_page": "apps/ipuissance-4d.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ipuissance-4d",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ipuissance-4d"
-  },
-  {
-    "icon": "iqpuzzle.png",
-    "name": "iqpuzzle",
-    "description": "A challenging pentomino puzzle.",
-    "app_page": "apps/iqpuzzle.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/iqpuzzle",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/iqpuzzle"
-  },
-  {
-    "icon": "iris.png",
-    "name": "iris",
-    "description": "Sony PlayStation 2 games emulator for Windows, Linux and macOS.",
-    "app_page": "apps/iris.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/iris",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/iris"
-  },
-  {
-    "icon": "iris-enhanced.png",
-    "name": "iris-enhanced",
-    "description": "Unofficial, Sony PlayStation 2 emulator.",
-    "app_page": "apps/iris-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/iris-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/iris-enhanced"
-  },
-  {
-    "icon": "ironwail.png",
-    "name": "ironwail",
-    "description": "High-performance QuakeSpasm fork QuakeSpasm. A modern, cross-platform Quake game engine based on FitzQuake.",
-    "app_page": "apps/ironwail.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ironwail",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ironwail"
-  },
-  {
-    "icon": "itgmania.png",
-    "name": "itgmania",
-    "description": "Unofficial, a fork of StepMania 5.1, an advanced cross-platform rhythm game for home and arcade use.",
-    "app_page": "apps/itgmania.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/itgmania",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/itgmania"
-  },
-  {
-    "icon": "jdminecraftlauncher.png",
-    "name": "jdminecraftlauncher",
-    "description": "Unofficial classic styled Minecraft Launcher.",
-    "app_page": "apps/jdminecraftlauncher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jdminecraftlauncher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jdminecraftlauncher"
-  },
-  {
-    "icon": "jdnbtexplorer.png",
-    "name": "jdnbtexplorer",
-    "description": "A Editor for Minecraft NBT files.",
-    "app_page": "apps/jdnbtexplorer.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jdnbtexplorer",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jdnbtexplorer"
-  },
-  {
-    "icon": "jgenesis.png",
-    "name": "jgenesis",
-    "description": "Sega Genesis, Sega CD, SNES, Master System, Game Gear emulator (GUI).",
-    "app_page": "apps/jgenesis.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jgenesis",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jgenesis"
-  },
-  {
-    "icon": "jgenesis-cli.png",
-    "name": "jgenesis-cli",
-    "description": "Sega Genesis, Sega CD, SNES, Master System, Game Gear emulator (CLI).",
-    "app_page": "apps/jgenesis-cli.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jgenesis-cli",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jgenesis-cli"
-  },
-  {
-    "icon": "jklubtv.png",
-    "name": "jklubtv",
-    "description": "Chess Round Robin Tournament Manager.",
-    "app_page": "apps/jklubtv.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jklubtv",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jklubtv"
-  },
-  {
-    "icon": "joy2droidx.png",
-    "name": "joy2droidx",
-    "description": "Turn Android phones into virtual Xbox 360 controller.",
-    "app_page": "apps/joy2droidx.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/joy2droidx",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/joy2droidx"
-  },
-  {
-    "icon": "julius.png",
-    "name": "julius",
-    "description": "An open source re-implementation of the Caesar III game.",
-    "app_page": "apps/julius.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/julius",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/julius"
-  },
-  {
-    "icon": "kajongg.png",
-    "name": "kajongg",
-    "description": "Unofficial, An ancient Chinese board game for 4 players. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kajongg.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kajongg",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kajongg"
-  },
-  {
-    "icon": "kapman.png",
-    "name": "kapman",
-    "description": "Pac-Man clone. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kapman.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kapman",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kapman"
-  },
-  {
-    "icon": "katomic.png",
-    "name": "katomic",
-    "description": "Edu. game based around molecular geometry. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/katomic.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/katomic",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/katomic"
-  },
-  {
-    "icon": "kblackbox.png",
-    "name": "kblackbox",
-    "description": "Unofficial, A game of hide and seek. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kblackbox.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kblackbox",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kblackbox"
-  },
-  {
-    "icon": "kblocks.png",
-    "name": "kblocks",
-    "description": "Unofficial, Classic Tetris / falling blocks game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kblocks.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kblocks",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kblocks"
-  },
-  {
-    "icon": "kboard.png",
-    "name": "kboard",
-    "description": "Terminal game to practice keyboard typing.",
-    "app_page": "apps/kboard.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kboard",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kboard"
-  },
-  {
-    "icon": "kbounce.png",
-    "name": "kbounce",
-    "description": "Unofficial, Fill the field game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kbounce.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kbounce",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kbounce"
-  },
-  {
-    "icon": "kbreakout.png",
-    "name": "kbreakout",
-    "description": "Unofficial, Destroy bricks without losing the ball. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kbreakout.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kbreakout",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kbreakout"
-  },
-  {
-    "icon": "kdegames.png",
-    "name": "kdegames",
-    "description": "Unofficial, Full & updatable KDE Games suite, metapackage.",
-    "app_page": "apps/kdegames.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdegames",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdegames"
-  },
-  {
-    "icon": "kdiamond.png",
-    "name": "kdiamond",
-    "description": "Unofficial, Diamond game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kdiamond.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdiamond",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdiamond"
-  },
-  {
-    "icon": "kfourinline.png",
-    "name": "kfourinline",
-    "description": "Unofficial, 4 in row game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kfourinline.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kfourinline",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kfourinline"
-  },
-  {
-    "icon": "kgoldrunner.png",
-    "name": "kgoldrunner",
-    "description": "Unofficial, A game with a runner and gold. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kgoldrunner.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kgoldrunner",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kgoldrunner"
-  },
-  {
-    "icon": "kigo.png",
-    "name": "kigo",
-    "description": "Unofficial, Go strategic board game for two players. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kigo.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kigo",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kigo"
-  },
-  {
-    "icon": "killbots.png",
-    "name": "killbots",
-    "description": "Unofficial, Port of the classic console game Robots. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/killbots.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/killbots",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/killbots"
-  },
-  {
-    "icon": "kiriki.png",
-    "name": "kiriki",
-    "description": "A dice game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kiriki.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kiriki",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kiriki"
-  },
-  {
-    "icon": "kjumpingcube.png",
-    "name": "kjumpingcube",
-    "description": "A game of dices on a board. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kjumpingcube.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kjumpingcube",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kjumpingcube"
-  },
-  {
-    "icon": "klickety.png",
-    "name": "klickety",
-    "description": "Color matching like SameGame. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/klickety.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/klickety",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/klickety"
-  },
-  {
-    "icon": "klines.png",
-    "name": "klines",
-    "description": "Inspired by well known game of Color Lines. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/klines.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/klines",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/klines"
-  },
-  {
-    "icon": "kmahjongg.png",
-    "name": "kmahjongg",
-    "description": "Unofficial, Mahjongg game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kmahjongg.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kmahjongg",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kmahjongg"
-  },
-  {
-    "icon": "kmines.png",
-    "name": "kmines",
-    "description": "Unofficial, Classic mine game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kmines.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kmines",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kmines"
-  },
-  {
-    "icon": "knavalbattle.png",
-    "name": "knavalbattle",
-    "description": "Unofficial, Battle Ship game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/knavalbattle.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/knavalbattle",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/knavalbattle"
-  },
-  {
-    "icon": "knetwalk.png",
-    "name": "knetwalk",
-    "description": "Unofficial, Net constructing game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/knetwalk.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/knetwalk",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/knetwalk"
-  },
-  {
-    "icon": "knights.png",
-    "name": "knights",
-    "description": "Unofficial, Chess interface for the KDE Platform. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/knights.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/knights",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/knights"
-  },
-  {
-    "icon": "kolf.png",
-    "name": "kolf",
-    "description": "Unofficial, Mini Golf game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kolf.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kolf",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kolf"
-  },
-  {
-    "icon": "kollision.png",
-    "name": "kollision",
-    "description": "Unofficial, Dodge red balls in the field. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kollision.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kollision",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kollision"
-  },
-  {
-    "icon": "konquest.png",
-    "name": "konquest",
-    "description": "Game of planets. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/konquest.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/konquest",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/konquest"
-  },
-  {
-    "icon": "kpat.png",
-    "name": "kpat",
-    "description": "Unofficial, Klondike, Spider, Free Cell and other Solitaire. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kpat.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kpat",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kpat"
-  },
-  {
-    "icon": "kreversi.png",
-    "name": "kreversi",
-    "description": "Reversi game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kreversi.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kreversi",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kreversi"
-  },
-  {
-    "icon": "krunker.png",
-    "name": "krunker",
-    "description": "Krunker (.io) is a fast-paced first-person shooter game with pixel graphics.",
-    "app_page": "apps/krunker.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/krunker",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/krunker"
-  },
-  {
-    "icon": "kshisen.png",
-    "name": "kshisen",
-    "description": "A game similar to Mahjongg. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kshisen.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kshisen",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kshisen"
-  },
-  {
-    "icon": "ksirk.png",
-    "name": "ksirk",
-    "description": "A strategy board game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/ksirk.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ksirk",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ksirk"
-  },
-  {
-    "icon": "ksnakeduel.png",
-    "name": "ksnakeduel",
-    "description": "A snake race game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/ksnakeduel.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ksnakeduel",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ksnakeduel"
-  },
-  {
-    "icon": "kspaceduel.png",
-    "name": "kspaceduel",
-    "description": "Unofficial, Battleship with satellites in the space. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kspaceduel.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kspaceduel",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kspaceduel"
-  },
-  {
-    "icon": "ksquares.png",
-    "name": "ksquares",
-    "description": "Unofficial, Win with most number of completed squares. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/ksquares.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ksquares",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ksquares"
-  },
-  {
-    "icon": "ksudoku.png",
-    "name": "ksudoku",
-    "description": "Unofficial, Sudoku game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/ksudoku.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ksudoku",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ksudoku"
-  },
-  {
-    "icon": "ktuberling.png",
-    "name": "ktuberling",
-    "description": "Unofficial, Simple Mr. Potato game for children. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/ktuberling.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ktuberling",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ktuberling"
-  },
-  {
-    "icon": "kubrick.png",
-    "name": "kubrick",
-    "description": "Unofficial, A logic game based on Rubik's Cube. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/kubrick.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kubrick",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kubrick"
-  },
-  {
-    "icon": "lambda-lantern.png",
-    "name": "lambda-lantern",
-    "description": "A 3D game about functional programming patterns.",
-    "app_page": "apps/lambda-lantern.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lambda-lantern",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lambda-lantern"
-  },
-  {
-    "icon": "legendary-kingdoms.png",
-    "name": "legendary-kingdoms",
-    "description": "Implementation of Legendary Kingdoms Gamebooks in C++.",
-    "app_page": "apps/legendary-kingdoms.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/legendary-kingdoms",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/legendary-kingdoms"
-  },
-  {
-    "icon": "liground.png",
-    "name": "liground",
-    "description": "A mordern Chess Variant Analysis GUI, game.",
-    "app_page": "apps/liground.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/liground",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/liground"
-  },
-  {
-    "icon": "linedancer.png",
-    "name": "linedancer",
-    "description": "Arcade game and entry for Ludum Dare 35.",
-    "app_page": "apps/linedancer.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/linedancer",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/linedancer"
-  },
-  {
-    "icon": "linuxtoys.png",
-    "name": "linuxtoys",
-    "description": "Unofficial, a user-friendly collection of tools to make your life on Linux easier than ever. Useful scripts for gamers, developers and enthusiasts.",
-    "app_page": "apps/linuxtoys.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/linuxtoys",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/linuxtoys"
-  },
-  {
-    "icon": "liquidlauncher.png",
-    "name": "liquidlauncher",
-    "description": "The official Minecraft launcher for LiquidBounce.",
-    "app_page": "apps/liquidlauncher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/liquidlauncher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/liquidlauncher"
-  },
-  {
-    "icon": "love.png",
-    "name": "love",
-    "description": "The unquestionably awesome 2D game engine.",
-    "app_page": "apps/love.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/love",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/love"
-  },
-  {
-    "icon": "lskat.png",
-    "name": "lskat",
-    "description": "Unofficial, Fun and engaging card game for two players. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/lskat.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lskat",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lskat"
-  },
-  {
-    "icon": "lunar-client.png",
-    "name": "lunar-client",
-    "description": "Free Minecraft Client, a modpack for all versions of Minecraft.",
-    "app_page": "apps/lunar-client.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lunar-client",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lunar-client"
-  },
-  {
-    "icon": "lutris.png",
-    "name": "lutris",
-    "description": "Unofficial. Install and play video games from all eras and from most gaming systems, by leveraging and combining existing emulators, WINE included.",
-    "app_page": "apps/lutris.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lutris",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lutris"
-  },
-  {
-    "icon": "lutris-gamepad-ui.png",
-    "name": "lutris-gamepad-ui",
-    "description": "A simple, TV-friendly, gamepad-navigable frontend for the Lutris game launcher on Linux.",
-    "app_page": "apps/lutris-gamepad-ui.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lutris-gamepad-ui",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lutris-gamepad-ui"
-  },
-  {
-    "icon": "m.png",
-    "name": "m",
-    "description": "Data oriented programming language for game developers.",
-    "app_page": "apps/m.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/m",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/m"
-  },
-  {
-    "icon": "mangbandclient.png",
-    "name": "mangbandclient",
-    "description": "A free online multi-player realtime roguelike game.",
-    "app_page": "apps/mangbandclient.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangbandclient",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangbandclient"
-  },
-  {
-    "icon": "maniadrive.png",
-    "name": "maniadrive",
-    "description": "Unofficial, an open-source clone of the popular racing game TrackMania.",
-    "app_page": "apps/maniadrive.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/maniadrive",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/maniadrive"
-  },
-  {
-    "icon": "mcpelauncher.png",
-    "name": "mcpelauncher",
-    "description": "The main repo for the Linux Bedrock edition Minecraft launcher.",
-    "app_page": "apps/mcpelauncher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mcpelauncher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mcpelauncher"
-  },
-  {
-    "icon": "megaglest.png",
-    "name": "megaglest",
-    "description": "MegaGlest real-time strategy game engine (cross-platform, 3-d).",
-    "app_page": "apps/megaglest.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/megaglest",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/megaglest"
-  },
-  {
-    "icon": "meganimus.png",
-    "name": "meganimus",
-    "description": "A launcher for native and emulator games.",
-    "app_page": "apps/meganimus.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/meganimus",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/meganimus"
-  },
-  {
-    "icon": "mgba.png",
-    "name": "mgba",
-    "description": "Game Boy Advance Emulator.",
-    "app_page": "apps/mgba.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mgba",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mgba"
-  },
-  {
-    "icon": "mgba-enhanced.png",
-    "name": "mgba-enhanced",
-    "description": "Unofficial, Game Boy Advance Emulator.",
-    "app_page": "apps/mgba-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mgba-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mgba-enhanced"
-  },
-  {
-    "icon": "mine-craft.io.png",
-    "name": "mine-craft.io",
-    "description": "Minecraft and even more!",
-    "app_page": "apps/mine-craft.io.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mine-craft.io",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mine-craft.io"
-  },
-  {
-    "icon": "minecraft-launcher.png",
-    "name": "minecraft-launcher",
-    "description": "Game downloader and launcher for Minecraft.",
-    "app_page": "apps/minecraft-launcher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/minecraft-launcher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/minecraft-launcher"
-  },
-  {
-    "icon": "minififa.png",
-    "name": "minififa",
-    "description": "OpenGL-powered third-person football, soccer game.",
-    "app_page": "apps/minififa.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/minififa",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/minififa"
-  },
-  {
-    "icon": "mki3dgame.png",
-    "name": "mki3dgame",
-    "description": "A game of searching, in 3D stages.",
-    "app_page": "apps/mki3dgame.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mki3dgame",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mki3dgame"
-  },
-  {
-    "icon": "mmapper.png",
-    "name": "mmapper",
-    "description": "Graphical MUD client for the game MUME.",
-    "app_page": "apps/mmapper.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mmapper",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mmapper"
-  },
-  {
-    "icon": "moon-lander.png",
-    "name": "moon-lander",
-    "description": "Moon Lander is a 2D game of gravity.  Land your ship on the lading pad.",
-    "app_page": "apps/moon-lander.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moon-lander",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moon-lander"
-  },
-  {
-    "icon": "moondeck-buddy.png",
-    "name": "moondeck-buddy",
-    "description": "A server-side part of the MoonDeck plugin for the SteamDeck.",
-    "app_page": "apps/moondeck-buddy.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moondeck-buddy",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moondeck-buddy"
-  },
-  {
-    "icon": "moonlight.png",
-    "name": "moonlight",
-    "description": "Stream games from your NVIDIA GameStream-enabled PC.",
-    "app_page": "apps/moonlight.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moonlight",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moonlight"
-  },
-  {
-    "icon": "mudlet.png",
-    "name": "mudlet",
-    "description": "Mudlet is a platform for gaming and enhancing game-play primarily with MUDs.",
-    "app_page": "apps/mudlet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mudlet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mudlet"
-  },
-  {
-    "icon": "multimc.png",
-    "name": "multimc",
-    "description": "A Minecraft launcher.",
-    "app_page": "apps/multimc.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/multimc",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/multimc"
-  },
-  {
-    "icon": "music-quiz.png",
-    "name": "music-quiz",
-    "description": "Jepardy like game, guess as many songs as possible.",
-    "app_page": "apps/music-quiz.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/music-quiz",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/music-quiz"
-  },
-  {
-    "icon": "naev.png",
-    "name": "naev",
-    "description": "A 2d action/rpg space game that combines elements from the action.",
-    "app_page": "apps/naev.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/naev",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/naev"
-  },
-  {
-    "icon": "nanosaur.png",
-    "name": "nanosaur",
-    "description": "Pangea Software\u2019s game, adventure of a cybernetic dinosaur.",
-    "app_page": "apps/nanosaur.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nanosaur",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nanosaur"
-  },
-  {
-    "icon": "naruto-arena.png",
-    "name": "naruto-arena",
-    "description": "Naruto-based online multiplayer strategy game.",
-    "app_page": "apps/naruto-arena.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/naruto-arena",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/naruto-arena"
-  },
-  {
-    "icon": "netpanzer.png",
-    "name": "netpanzer",
-    "description": "Online multiplayer tactical warfare game for fast action combat.",
-    "app_page": "apps/netpanzer.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/netpanzer",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/netpanzer"
-  },
-  {
-    "icon": "newton-adventure.png",
-    "name": "newton-adventure",
-    "description": "A 2D game with a twist, player can rotate gravity at 360\u00b0.",
-    "app_page": "apps/newton-adventure.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/newton-adventure",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/newton-adventure"
-  },
-  {
-    "icon": "nexus-mods.png",
-    "name": "nexus-mods",
-    "description": "A mod installer, creator and manager for all your popular games.",
-    "app_page": "apps/nexus-mods.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nexus-mods",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nexus-mods"
-  },
-  {
-    "icon": "notepad++.png",
-    "name": "notepad++",
-    "description": "Unofficial Appimage of Notepad++, with WINE prefix.",
-    "app_page": "apps/notepad++.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/notepad++",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/notepad++"
-  },
-  {
-    "icon": "nugget-doom.png",
-    "name": "nugget-doom",
-    "description": "Nugget Doom is a Doom game source port forked from Woof! with additional features.",
-    "app_page": "apps/nugget-doom.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nugget-doom",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nugget-doom"
-  },
-  {
-    "icon": "nugget-doom-enhanced.png",
-    "name": "nugget-doom-enhanced",
-    "description": "Unofficial, a Doom source port forked from Woof! with additional features.",
-    "app_page": "apps/nugget-doom-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nugget-doom-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nugget-doom-enhanced"
-  },
-  {
-    "icon": "nychess.png",
-    "name": "nychess",
-    "description": "A python Chess Engine and AI.",
-    "app_page": "apps/nychess.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nychess",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nychess"
-  },
-  {
-    "icon": "nyrna.png",
-    "name": "nyrna",
-    "description": "Suspend games and applications.",
-    "app_page": "apps/nyrna.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nyrna",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nyrna"
-  },
-  {
-    "icon": "obliqoro.png",
-    "name": "obliqoro",
-    "description": "A cross-platform tauri gui where Oblique Strategies meets Pomodoro.",
-    "app_page": "apps/obliqoro.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/obliqoro",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/obliqoro"
-  },
-  {
-    "icon": "odamex.png",
-    "name": "odamex",
-    "description": "Unofficial, Online Multiplayer Doom port with a strong focus on the original gameplay while providing a breadth of enhancements.",
-    "app_page": "apps/odamex.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/odamex",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/odamex"
-  },
-  {
-    "icon": "openarena.png",
-    "name": "openarena",
-    "description": "Violent & sexy, multiplayer first person shooter game, ioquake3.",
-    "app_page": "apps/openarena.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openarena",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openarena"
-  },
-  {
-    "icon": "openblok.png",
-    "name": "openblok",
-    "description": "A customizable falling block puzzle game like tetris.",
-    "app_page": "apps/openblok.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openblok",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openblok"
-  },
-  {
-    "icon": "openhv.png",
-    "name": "openhv",
-    "description": "A mod for OpenRA based on the Hard Vacuum, game.",
-    "app_page": "apps/openhv.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openhv",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openhv"
-  },
-  {
-    "icon": "openjazz.png",
-    "name": "openjazz",
-    "description": "Unofficial, open-source version of the classic Jazz Jackrabbit\u2122 games.",
-    "app_page": "apps/openjazz.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openjazz",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openjazz"
-  },
-  {
-    "icon": "openmw.png",
-    "name": "openmw",
-    "description": "OpenMW is an open-source open-world RPG game engine that supports playing Morrowind.",
-    "app_page": "apps/openmw.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openmw",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openmw"
-  },
-  {
-    "icon": "openop2.png",
-    "name": "openop2",
-    "description": "Re-implementation of the game Outpost 2, using the OpenRA engine.",
-    "app_page": "apps/openop2.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openop2",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openop2"
-  },
-  {
-    "icon": "openra-dune.png",
-    "name": "openra-dune",
-    "description": "Real-time strategy game engine, MOD Dune 2000.",
-    "app_page": "apps/openra-dune.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openra-dune",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openra-dune"
-  },
-  {
-    "icon": "openra-red-alert.png",
-    "name": "openra-red-alert",
-    "description": "Real-time strategy game engine, MOD Red Alert.",
-    "app_page": "apps/openra-red-alert.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openra-red-alert",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openra-red-alert"
-  },
-  {
-    "icon": "openra-tiberian-dawn.png",
-    "name": "openra-tiberian-dawn",
-    "description": "Real-time strategy game engine penGL, MOD TD.",
-    "app_page": "apps/openra-tiberian-dawn.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openra-tiberian-dawn",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openra-tiberian-dawn"
-  },
-  {
-    "icon": "openramodsdk.png",
-    "name": "openramodsdk",
-    "description": "Dev Kit for building your own games using the OpenRA engine.",
-    "app_page": "apps/openramodsdk.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openramodsdk",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openramodsdk"
-  },
-  {
-    "icon": "openrct2.png",
-    "name": "openrct2",
-    "description": "Re-implementation of RollerCoaster Tycoon 2 (RCT2), expanding the game with new features.",
-    "app_page": "apps/openrct2.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openrct2",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openrct2"
-  },
-  {
-    "icon": "openrct2-enhanced.png",
-    "name": "openrct2-enhanced",
-    "description": "Unofficial, Re-implementation of RollerCoaster Tycoon 2 (RCT2), expanding the game with new features.",
-    "app_page": "apps/openrct2-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openrct2-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openrct2-enhanced"
-  },
-  {
-    "icon": "openswe1r.png",
-    "name": "openswe1r",
-    "description": "Racer.",
-    "app_page": "apps/openswe1r.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openswe1r",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openswe1r"
-  },
-  {
-    "icon": "openttd.png",
-    "name": "openttd",
-    "description": "Unofficial, an open source simulation game based upon Transport Tycoon Deluxe.",
-    "app_page": "apps/openttd.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openttd",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openttd"
-  },
-  {
-    "icon": "openxcom-extended.png",
-    "name": "openxcom-extended",
-    "description": "OXCE, extended version of openXcom provide better mod support, QoL improvements, new game mechanics, improved and new GUIs.",
-    "app_page": "apps/openxcom-extended.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openxcom-extended",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openxcom-extended"
-  },
-  {
-    "icon": "osu.png",
-    "name": "osu",
-    "description": "A free-to-win rhythm game. Rhythm is just a click away!",
-    "app_page": "apps/osu.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/osu",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/osu"
-  },
-  {
-    "icon": "ottomatic.png",
-    "name": "ottomatic",
-    "description": "Pangea Software\u2019s Otto Matic, a game of robots.",
-    "app_page": "apps/ottomatic.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ottomatic",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ottomatic"
-  },
-  {
-    "icon": "overbind.png",
-    "name": "overbind",
-    "description": "A utility that allows binding keyboard buttons to virtual Xbox360 controller joystick outputs.",
-    "app_page": "apps/overbind.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/overbind",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/overbind"
-  },
-  {
-    "icon": "packsquash.png",
-    "name": "packsquash",
-    "description": "A Minecraft Java Edition resource and data pack optimizer.",
-    "app_page": "apps/packsquash.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/packsquash",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/packsquash"
-  },
-  {
-    "icon": "palapeli.png",
-    "name": "palapeli",
-    "description": "Jigsaw puzzle game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/palapeli.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/palapeli",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/palapeli"
-  },
-  {
-    "icon": "pandoralauncher.png",
-    "name": "pandoralauncher",
-    "description": "Pandora is a modern Minecraft launcher that balances ease-of-use with powerful instance management features.",
-    "app_page": "apps/pandoralauncher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pandoralauncher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pandoralauncher"
-  },
-  {
-    "icon": "pandoralaunchercrack.png",
-    "name": "pandoralaunchercrack",
-    "description": "Customized version of Pandora, a modern Minecraft launcher that balances ease-of-use with powerful instance management features.",
-    "app_page": "apps/pandoralaunchercrack.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pandoralaunchercrack",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pandoralaunchercrack"
-  },
-  {
-    "icon": "parsec-linux.png",
-    "name": "parsec-linux",
-    "description": "Parsec game streaming client.",
-    "app_page": "apps/parsec-linux.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/parsec-linux",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/parsec-linux"
-  },
-  {
-    "icon": "pcsx-redux-enhanced.png",
-    "name": "pcsx-redux-enhanced",
-    "description": "Unofficial, modern fork of the pcsxr PlayStation 1 emulator focused on reverse engineering and homebrew development.",
-    "app_page": "apps/pcsx-redux-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pcsx-redux-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pcsx-redux-enhanced"
-  },
-  {
-    "icon": "pcsx2.png",
-    "name": "pcsx2",
-    "description": "PCSX2 is a free and open-source PlayStation 2 (PS2) emulator, using a combination of MIPS CPU Interpreters, Recompilers and a Virtual Machine which manages hardware states and PS2 system memory. This allows you to play PS2 games on your PC, with many additional features and benefits.",
-    "app_page": "apps/pcsx2.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pcsx2",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pcsx2"
-  },
-  {
-    "icon": "pcsx2-nightly.png",
-    "name": "pcsx2-nightly",
-    "description": "PCSX2 is a free and open-source PlayStation 2 (PS2) emulator, using a combination of MIPS CPU Interpreters, Recompilers and a Virtual Machine which manages hardware states and PS2 system memory. This allows you to play PS2 games on your PC, with many additional features and benefits. This is the nightly version.",
-    "app_page": "apps/pcsx2-nightly.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pcsx2-nightly",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pcsx2-nightly"
-  },
-  {
-    "icon": "pelusica.png",
-    "name": "pelusica",
-    "description": "Action game, control the blue dot with your keyboard/create music.",
-    "app_page": "apps/pelusica.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pelusica",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pelusica"
-  },
-  {
-    "icon": "picmi.png",
-    "name": "picmi",
-    "description": "Single player logic-based puzzle game. This script installs the full \"kdegames\" suite.",
-    "app_page": "apps/picmi.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picmi",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picmi"
-  },
-  {
-    "icon": "pigs-n-cows.png",
-    "name": "pigs-n-cows",
-    "description": "A relaxing game for children and adults alike.",
-    "app_page": "apps/pigs-n-cows.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pigs-n-cows",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pigs-n-cows"
-  },
-  {
-    "icon": "pince.png",
-    "name": "pince",
-    "description": "Reverse engineering tool for linux games.",
-    "app_page": "apps/pince.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pince",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pince"
-  },
-  {
-    "icon": "planes.png",
-    "name": "planes",
-    "description": "Variant of battleships game.",
-    "app_page": "apps/planes.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/planes",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/planes"
-  },
-  {
-    "icon": "planet-blupi.png",
-    "name": "planet-blupi",
-    "description": "A delirious spell-binding game.",
-    "app_page": "apps/planet-blupi.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/planet-blupi",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/planet-blupi"
-  },
-  {
-    "icon": "play.png",
-    "name": "play",
-    "description": "Play! is a PlayStation2 games emulator.",
-    "app_page": "apps/play.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/play",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/play"
-  },
-  {
-    "icon": "play-2048.png",
-    "name": "play-2048",
-    "description": "Another implementation of the 2048 game.",
-    "app_page": "apps/play-2048.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/play-2048",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/play-2048"
-  },
-  {
-    "icon": "play-enhanced.png",
-    "name": "play-enhanced",
-    "description": "Unofficial, a PlayStation2 emulator.",
-    "app_page": "apps/play-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/play-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/play-enhanced"
-  },
-  {
-    "icon": "playback.png",
-    "name": "playback",
-    "description": "Play and manage your cartridges and replay your childhood games.",
-    "app_page": "apps/playback.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playback",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playback"
-  },
-  {
-    "icon": "playit.png",
-    "name": "playit",
-    "description": "Want to run an online game server? playit.gg is a global proxy that allows anyone to host a server without port forwarding.",
-    "app_page": "apps/playit.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playit",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playit"
-  },
-  {
-    "icon": "pokete.png",
-    "name": "pokete",
-    "description": "A terminal based Pokemon like game.",
-    "app_page": "apps/pokete.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pokete",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pokete"
-  },
-  {
-    "icon": "prey2006.png",
-    "name": "prey2006",
-    "description": "Unofficial, Prey 2006 SDK integrated with Doom 3 GPL release.",
-    "app_page": "apps/prey2006.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/prey2006",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/prey2006"
-  },
-  {
-    "icon": "prime-world-editor.png",
-    "name": "prime-world-editor",
-    "description": "Edit world assets from games by Retro Studios.",
-    "app_page": "apps/prime-world-editor.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/prime-world-editor",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/prime-world-editor"
-  },
-  {
-    "icon": "principia.png",
-    "name": "principia",
-    "description": "Open source physics-based sandbox game.",
-    "app_page": "apps/principia.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/principia",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/principia"
-  },
-  {
-    "icon": "prismlauncher.png",
-    "name": "prismlauncher",
-    "description": "Launcher for Minecraft, manage multiple installations.",
-    "app_page": "apps/prismlauncher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/prismlauncher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/prismlauncher"
-  },
-  {
-    "icon": "prismlauncher-enhanced.png",
-    "name": "prismlauncher-enhanced",
-    "description": "Unofficial, a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC).",
-    "app_page": "apps/prismlauncher-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/prismlauncher-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/prismlauncher-enhanced"
-  },
-  {
-    "icon": "prismlauncher-qt5.png",
-    "name": "prismlauncher-qt5",
-    "description": "Launcher for Minecraft, manage multiple installations (Qt5 version).",
-    "app_page": "apps/prismlauncher-qt5.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/prismlauncher-qt5",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/prismlauncher-qt5"
-  },
-  {
-    "icon": "protonup-qt.png",
-    "name": "protonup-qt",
-    "description": "Manage Proton-GE/Luxtorpeda for Steam/Wine-GE for Lutris.",
-    "app_page": "apps/protonup-qt.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/protonup-qt",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/protonup-qt"
-  },
-  {
-    "icon": "psydoom.png",
-    "name": "psydoom",
-    "description": "A backport of PSX Doom to PC.",
-    "app_page": "apps/psydoom.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/psydoom",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/psydoom"
-  },
-  {
-    "icon": "punes.png",
-    "name": "punes",
-    "description": "Qt-based Nintendo Entertaiment System emulator and NSF/NSF2/NSFe Music Player.",
-    "app_page": "apps/punes.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/punes",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/punes"
-  },
-  {
-    "icon": "qtads.png",
-    "name": "qtads",
-    "description": "A cross-platform, multimedia interpreter for TADS adventure games.",
-    "app_page": "apps/qtads.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qtads",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qtads"
-  },
-  {
-    "icon": "quantumlauncher-enhanced.png",
-    "name": "quantumlauncher-enhanced",
-    "description": "Unofficial, a simple, powerful Minecraft launcher.",
-    "app_page": "apps/quantumlauncher-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/quantumlauncher-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/quantumlauncher-enhanced"
-  },
-  {
-    "icon": "r2modman.png",
-    "name": "r2modman",
-    "description": "Mod manager for several Unity games using Thunderstore.",
-    "app_page": "apps/r2modman.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/r2modman",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/r2modman"
-  },
-  {
-    "icon": "rare.png",
-    "name": "rare",
-    "description": "GUI for legendary. An Epic Games Launcher open source alternative.",
-    "app_page": "apps/rare.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rare",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rare"
-  },
-  {
-    "icon": "rbdoom-3.png",
-    "name": "rbdoom-3",
-    "description": "Doom 3 BFG Edition source port with updated DX12/Vulkan renderer.",
-    "app_page": "apps/rbdoom-3.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rbdoom-3",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rbdoom-3"
-  },
-  {
-    "icon": "redeclipse.png",
-    "name": "redeclipse",
-    "description": "A great first person 3D arena shooter with online support, game.",
-    "app_page": "apps/redeclipse.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/redeclipse",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/redeclipse"
-  },
-  {
-    "icon": "rednukem.png",
-    "name": "rednukem",
-    "description": "Unofficial, a port of serveral BUILD Engine games based on EDuke32.",
-    "app_page": "apps/rednukem.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rednukem",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rednukem"
-  },
-  {
-    "icon": "redriver2.png",
-    "name": "redriver2",
-    "description": "Unofficial, Driver 2 Playstation game reverse engineering effort.",
-    "app_page": "apps/redriver2.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/redriver2",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/redriver2"
-  },
-  {
-    "icon": "retroarch.png",
-    "name": "retroarch",
-    "description": "RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications.",
-    "app_page": "apps/retroarch.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retroarch",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retroarch"
-  },
-  {
-    "icon": "retroarch-nightly.png",
-    "name": "retroarch-nightly",
-    "description": "RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications.",
-    "app_page": "apps/retroarch-nightly.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retroarch-nightly",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retroarch-nightly"
-  },
-  {
-    "icon": "retroarch-qt.png",
-    "name": "retroarch-qt",
-    "description": "RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications.",
-    "app_page": "apps/retroarch-qt.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retroarch-qt",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retroarch-qt"
-  },
-  {
-    "icon": "retroarch-qt-nightly.png",
-    "name": "retroarch-qt-nightly",
-    "description": "RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications.",
-    "app_page": "apps/retroarch-qt-nightly.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retroarch-qt-nightly",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retroarch-qt-nightly"
-  },
-  {
-    "icon": "retrom.png",
-    "name": "retrom",
-    "description": "A centralized game library/collection management service with a focus on emulation.",
-    "app_page": "apps/retrom.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retrom",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retrom"
-  },
-  {
-    "icon": "rigelengine.png",
-    "name": "rigelengine",
-    "description": "Unofficial, modern re-implementation of DOS game Duke Nukem II.",
-    "app_page": "apps/rigelengine.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rigelengine",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rigelengine"
-  },
-  {
-    "icon": "rocksndiamonds.png",
-    "name": "rocksndiamonds",
-    "description": "Unofficial, an open source arcade style game of Boulder Dash, Emerald Mine, and Sokoban.",
-    "app_page": "apps/rocksndiamonds.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rocksndiamonds",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rocksndiamonds"
-  },
-  {
-    "icon": "roller.png",
-    "name": "roller",
-    "description": "Unofficial, reverse engineering the 1995 game Whiplash/Fatal Racing.",
-    "app_page": "apps/roller.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/roller",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/roller"
-  },
-  {
-    "icon": "rpcs3.png",
-    "name": "rpcs3",
-    "description": "An open-source PlayStation 3 emulator/debugger written in C++.",
-    "app_page": "apps/rpcs3.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rpcs3",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rpcs3"
-  },
-  {
-    "icon": "ryujinx.png",
-    "name": "ryujinx",
-    "description": "An open-source Nintendo Switch emulator, originally created by gdkchan, written in C#.",
-    "app_page": "apps/ryujinx.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ryujinx",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ryujinx"
-  },
-  {
-    "icon": "ryujinx-canary.png",
-    "name": "ryujinx-canary",
-    "description": "An open-source Nintendo Switch emulator, originally created by gdkchan, written in C# (Canary builds).",
-    "app_page": "apps/ryujinx-canary.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ryujinx-canary",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ryujinx-canary"
-  },
-  {
-    "icon": "sabaki.png",
-    "name": "sabaki",
-    "description": "Modern, elegant, cross-platform Go/Baduk/Weiqi game board.",
-    "app_page": "apps/sabaki.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sabaki",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sabaki"
-  },
-  {
-    "icon": "samira.png",
-    "name": "samira",
-    "description": "Steam achievement manager for Linux written with Tauri and Rust.",
-    "app_page": "apps/samira.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/samira",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/samira"
-  },
-  {
-    "icon": "samrewritten.png",
-    "name": "samrewritten",
-    "description": "Steam Achievement Manager For Linux. Rewritten in C++.",
-    "app_page": "apps/samrewritten.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/samrewritten",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/samrewritten"
-  },
-  {
-    "icon": "sanicball.png",
-    "name": "sanicball",
-    "description": "Unofficial, an extraordinarily fast racing game.",
-    "app_page": "apps/sanicball.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sanicball",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sanicball"
-  },
-  {
-    "icon": "sblauncher.png",
-    "name": "sblauncher",
-    "description": "Minecraft Launcher.",
-    "app_page": "apps/sblauncher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sblauncher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sblauncher"
-  },
-  {
-    "icon": "sc-controller.png",
-    "name": "sc-controller",
-    "description": "User-mode driver and GTK3 based GUI for Steam Controller.",
-    "app_page": "apps/sc-controller.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sc-controller",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sc-controller"
-  },
-  {
-    "icon": "scavengers.png",
-    "name": "scavengers",
-    "description": "Unity Roguelike tutorial, game.",
-    "app_page": "apps/scavengers.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/scavengers",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/scavengers"
-  },
-  {
-    "icon": "scummvm.png",
-    "name": "scummvm",
-    "description": "Unofficial, A 'virtual machine' for several classic graphical point-and-click adventure games",
-    "app_page": "apps/scummvm.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/scummvm",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/scummvm"
-  },
-  {
-    "icon": "serioussamtfe.png",
-    "name": "serioussamtfe",
-    "description": "Game engine for Serious Sam Classic, TFE.",
-    "app_page": "apps/serioussamtfe.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/serioussamtfe",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/serioussamtfe"
-  },
-  {
-    "icon": "serioussamtfe-vk.png",
-    "name": "serioussamtfe-vk",
-    "description": "Game engine for Serious Sam Classic, Vulkan support, TFE.",
-    "app_page": "apps/serioussamtfe-vk.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/serioussamtfe-vk",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/serioussamtfe-vk"
-  },
-  {
-    "icon": "serioussamtse.png",
-    "name": "serioussamtse",
-    "description": "Game engine for Serious Sam Classic, TSE.",
-    "app_page": "apps/serioussamtse.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/serioussamtse",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/serioussamtse"
-  },
-  {
-    "icon": "serioussamtse-vk.png",
-    "name": "serioussamtse-vk",
-    "description": "Game engine for Serious Sam Classic, Vulkan support, TSE.",
-    "app_page": "apps/serioussamtse-vk.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/serioussamtse-vk",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/serioussamtse-vk"
-  },
-  {
-    "icon": "sfp.png",
-    "name": "sfp",
-    "description": "This utility is designed to allow you to apply skins to the modern Steam client.",
-    "app_page": "apps/sfp.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sfp",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sfp"
-  },
-  {
-    "icon": "shadps4.png",
-    "name": "shadps4",
-    "description": "An early PlayStation 4 emulator written in C++.",
-    "app_page": "apps/shadps4.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shadps4",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shadps4"
-  },
-  {
-    "icon": "shadps4-qtlauncher.png",
-    "name": "shadps4-qtlauncher",
-    "description": "The official Qt launcher for shadps4 PlayStation 4 emulator.",
-    "app_page": "apps/shadps4-qtlauncher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shadps4-qtlauncher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shadps4-qtlauncher"
-  },
-  {
-    "icon": "skyemu.png",
-    "name": "skyemu",
-    "description": "Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator.",
-    "app_page": "apps/skyemu.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/skyemu",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/skyemu"
-  },
-  {
-    "icon": "snake-js.png",
-    "name": "snake-js",
-    "description": "Canvas/JavaScript based Snake Game with support for controllers.",
-    "app_page": "apps/snake-js.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snake-js",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snake-js"
-  },
-  {
-    "icon": "snes9x.png",
-    "name": "snes9x",
-    "description": "Snes9x - Portable Super Nintendo Entertainment System TM emulator.",
-    "app_page": "apps/snes9x.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snes9x",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snes9x"
-  },
-  {
-    "icon": "snes9x-enhanced.png",
-    "name": "snes9x-enhanced",
-    "description": "Unofficial, Snes9x - Portable Super Nintendo Entertainment System TM emulator.",
-    "app_page": "apps/snes9x-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snes9x-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snes9x-enhanced"
-  },
-  {
-    "icon": "soul-arena.png",
-    "name": "soul-arena",
-    "description": "Bleach-based online multiplayer strategy game.",
-    "app_page": "apps/soul-arena.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soul-arena",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soul-arena"
-  },
-  {
-    "icon": "sound-space-plus.png",
-    "name": "sound-space-plus",
-    "description": "Unofficial AppImage of sound-space-plus, Rhythm-based aim game.",
-    "app_page": "apps/sound-space-plus.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sound-space-plus",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sound-space-plus"
-  },
-  {
-    "icon": "spacecadet.png",
-    "name": "spacecadet",
-    "description": "Unofficial. Reverse engineered port of 3D Pinball for Windows XP Space Cadet.",
-    "app_page": "apps/spacecadet.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spacecadet",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spacecadet"
-  },
-  {
-    "icon": "spacewars.png",
-    "name": "spacewars",
-    "description": "A re-imagining of the classic game Spacewar using Amethyst engine.",
-    "app_page": "apps/spacewars.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spacewars",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spacewars"
-  },
-  {
-    "icon": "spaghettikart.png",
-    "name": "spaghettikart",
-    "description": "Unofficial Mario Kart 64 PC game Port.",
-    "app_page": "apps/spaghettikart.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spaghettikart",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spaghettikart"
-  },
-  {
-    "icon": "spaghettikart-enhanced.png",
-    "name": "spaghettikart-enhanced",
-    "description": "Unofficial, Mario Kart 64 PC game Port.",
-    "app_page": "apps/spaghettikart-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spaghettikart-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spaghettikart-enhanced"
-  },
-  {
-    "icon": "speed-dreams.png",
-    "name": "speed-dreams",
-    "description": "A Torcs fork, 3d motorsport simulation and race cars game.",
-    "app_page": "apps/speed-dreams.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speed-dreams",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speed-dreams"
-  },
-  {
-    "icon": "spicy-launcher.png",
-    "name": "spicy-launcher",
-    "description": "Cross-platform launcher for Spicy Lobster games.",
-    "app_page": "apps/spicy-launcher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spicy-launcher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spicy-launcher"
-  },
-  {
-    "icon": "srb2.png",
-    "name": "srb2",
-    "description": "Unofficial, a 3D Sonic the Hedgehog fangame based on a modified version of Doom Legacy.",
-    "app_page": "apps/srb2.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/srb2",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/srb2"
-  },
-  {
-    "icon": "srb2k.png",
-    "name": "srb2k",
-    "description": "AppImage Package for Sonic Robo Blast 2 Kart, game.",
-    "app_page": "apps/srb2k.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/srb2k",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/srb2k"
-  },
-  {
-    "icon": "stackandconquer.png",
-    "name": "stackandconquer",
-    "description": "A challenging tower conquest board game \"Mixtour\" inspired.",
-    "app_page": "apps/stackandconquer.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stackandconquer",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stackandconquer"
-  },
-  {
-    "icon": "steam.png",
-    "name": "steam",
-    "description": "Unofficial. The ultimate destination for playing, discussing, and creating games.",
-    "app_page": "apps/steam.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steam",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steam"
-  },
-  {
-    "icon": "steam-rom-manager.png",
-    "name": "steam-rom-manager",
-    "description": "An app for managing ROMs in Steam.",
-    "app_page": "apps/steam-rom-manager.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steam-rom-manager",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steam-rom-manager"
-  },
-  {
-    "icon": "steam-tui.png",
-    "name": "steam-tui",
-    "description": "Rust TUI client for steamcmd.",
-    "app_page": "apps/steam-tui.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steam-tui",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steam-tui"
-  },
-  {
-    "icon": "steamcad.png",
-    "name": "steamcad",
-    "description": "2D CAD especially designed to draw steam locomotives.",
-    "app_page": "apps/steamcad.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steamcad",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steamcad"
-  },
-  {
-    "icon": "steamdepotdownloadergui.png",
-    "name": "steamdepotdownloadergui",
-    "description": "Easily download older versions of games from Steam.",
-    "app_page": "apps/steamdepotdownloadergui.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steamdepotdownloadergui",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steamdepotdownloadergui"
-  },
-  {
-    "icon": "stunt-car-remake.png",
-    "name": "stunt-car-remake",
-    "description": "Remake of the old game Stunt Car Racer.",
-    "app_page": "apps/stunt-car-remake.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stunt-car-remake",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stunt-car-remake"
-  },
-  {
-    "icon": "sunshine.png",
-    "name": "sunshine",
-    "description": "Sunshine is a Gamestream host for Moonlight.",
-    "app_page": "apps/sunshine.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sunshine",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sunshine"
-  },
-  {
-    "icon": "supermariowar.png",
-    "name": "supermariowar",
-    "description": "Unofficial, a fan-made multiplayer Super Mario Bros. style deathmatch game.",
-    "app_page": "apps/supermariowar.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supermariowar",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supermariowar"
-  },
-  {
-    "icon": "supermodel.png",
-    "name": "supermodel",
-    "description": "Unofficial, Sega Model 3 arcade emulator.",
-    "app_page": "apps/supermodel.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supermodel",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supermodel"
-  },
-  {
-    "icon": "supertux.png",
-    "name": "supertux",
-    "description": "Classic 2D jump'n run sidescroller game inspired to Super Mario.",
-    "app_page": "apps/supertux.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supertux",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supertux"
-  },
-  {
-    "icon": "supertuxkart.png",
-    "name": "supertuxkart",
-    "description": "Free kart racing game focused on Fun!",
-    "app_page": "apps/supertuxkart.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supertuxkart",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supertuxkart"
-  },
-  {
-    "icon": "supertuxkart-dev.png",
-    "name": "supertuxkart-dev",
-    "description": "Free kart racing game focused on Fun! Pre-release.",
-    "app_page": "apps/supertuxkart-dev.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supertuxkart-dev",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supertuxkart-dev"
-  },
-  {
-    "icon": "swc-minecraft-launcher.png",
-    "name": "swc-minecraft-launcher",
-    "description": "SWC Minecraft Launcher.",
-    "app_page": "apps/swc-minecraft-launcher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swc-minecraft-launcher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swc-minecraft-launcher"
-  },
-  {
-    "icon": "synthein.png",
-    "name": "synthein",
-    "description": "A space ship building and combat game.",
-    "app_page": "apps/synthein.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/synthein",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/synthein"
-  },
-  {
-    "icon": "taisei-project.png",
-    "name": "taisei-project",
-    "description": "Unofficial, A free and open-source Touhou Project fangame.",
-    "app_page": "apps/taisei-project.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taisei-project",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taisei-project"
-  },
-  {
-    "icon": "thlink.png",
-    "name": "thlink",
-    "description": "Touhou Project Game Netplay Tool.",
-    "app_page": "apps/thlink.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thlink",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thlink"
-  },
-  {
-    "icon": "torcs.png",
-    "name": "torcs",
-    "description": "The 3D Open Racing Car Game and Simulator.",
-    "app_page": "apps/torcs.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/torcs",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/torcs"
-  },
-  {
-    "icon": "trenchbroom.png",
-    "name": "trenchbroom",
-    "description": "A modern, cross-platform level editor for Quake engine based games.",
-    "app_page": "apps/trenchbroom.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trenchbroom",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trenchbroom"
-  },
-  {
-    "icon": "tuxfootball.png",
-    "name": "tuxfootball",
-    "description": "Unofficial, is a great 2D football game for Windows and Linux.",
-    "app_page": "apps/tuxfootball.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tuxfootball",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tuxfootball"
-  },
-  {
-    "icon": "tuxpuck.png",
-    "name": "tuxpuck",
-    "description": "Unofficial, hockey-like table game.",
-    "app_page": "apps/tuxpuck.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tuxpuck",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tuxpuck"
-  },
-  {
-    "icon": "undertaker141.png",
-    "name": "undertaker141",
-    "description": "A free and open-source game-center for linux. Pre-configured Wine and Native Games for Linux.",
-    "app_page": "apps/undertaker141.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/undertaker141",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/undertaker141"
-  },
-  {
-    "icon": "urbanterror.png",
-    "name": "urbanterror",
-    "description": "A team-based tactical game shooter based on the Quake 3 Engine.",
-    "app_page": "apps/urbanterror.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/urbanterror",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/urbanterror"
-  },
-  {
-    "icon": "uzdoom.png",
-    "name": "uzdoom",
-    "description": "UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities.",
-    "app_page": "apps/uzdoom.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uzdoom",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uzdoom"
-  },
-  {
-    "icon": "vapour.png",
-    "name": "vapour",
-    "description": "An alternative open source Steam client.",
-    "app_page": "apps/vapour.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vapour",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vapour"
-  },
-  {
-    "icon": "vgmtrans.png",
-    "name": "vgmtrans",
-    "description": "A tool to convert proprietary, sequenced videogame music.",
-    "app_page": "apps/vgmtrans.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vgmtrans",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vgmtrans"
-  },
-  {
-    "icon": "visipics.png",
-    "name": "visipics",
-    "description": "Windows software to find and remove duplicate pictures. Unofficial AppImage built using \"wine32-deploy\" and powered by \"wine\".",
-    "app_page": "apps/visipics.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/visipics",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/visipics"
-  },
-  {
-    "icon": "vita3k.png",
-    "name": "vita3k",
-    "description": "Experimental PlayStation Vita emulator.",
-    "app_page": "apps/vita3k.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vita3k",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vita3k"
-  },
-  {
-    "icon": "vkquake.png",
-    "name": "vkquake",
-    "description": "Vulkan Quake game port based on QuakeSpasm.",
-    "app_page": "apps/vkquake.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vkquake",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vkquake"
-  },
-  {
-    "icon": "westeroscraftlauncher.png",
-    "name": "westeroscraftlauncher",
-    "description": "Custom launcher for modded Minecraft, game.",
-    "app_page": "apps/westeroscraftlauncher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/westeroscraftlauncher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/westeroscraftlauncher"
-  },
-  {
-    "icon": "wick-editor.png",
-    "name": "wick-editor",
-    "description": "A free and open-source tool for creating games, animations and everything in-between!",
-    "app_page": "apps/wick-editor.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wick-editor",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wick-editor"
-  },
-  {
-    "icon": "widelands.png",
-    "name": "widelands",
-    "description": "Real-time strategy game with singleplayer campaigns.",
-    "app_page": "apps/widelands.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/widelands",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/widelands"
-  },
-  {
-    "icon": "wiiu-downloader.png",
-    "name": "wiiu-downloader",
-    "description": "Allows to download encrypted wiiu files from nintendo's official servers.",
-    "app_page": "apps/wiiu-downloader.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wiiu-downloader",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wiiu-downloader"
-  },
-  {
-    "icon": "wikilynx.png",
-    "name": "wikilynx",
-    "description": "A simple game browser made using Qt C++ for playing wikipedia speed-runs the right way.",
-    "app_page": "apps/wikilynx.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wikilynx",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wikilynx"
-  },
-  {
-    "icon": "wine.png",
-    "name": "wine",
-    "description": "Unofficial. Run Windows programs, select a version from mmtrt/WINE_AppImage.",
-    "app_page": "apps/wine.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine"
-  },
-  {
-    "icon": "wine-devel.png",
-    "name": "wine-devel",
-    "description": "Unofficial. Compatibility layer to run x86_64 Windows programs, Dev Edition.",
-    "app_page": "apps/wine-devel.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-devel",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-devel"
-  },
-  {
-    "icon": "wine-stable.png",
-    "name": "wine-stable",
-    "description": "Unofficial. Compatibility layer to run x86_64 Windows programs, Stable.",
-    "app_page": "apps/wine-stable.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-stable",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-stable"
-  },
-  {
-    "icon": "wine-staging.png",
-    "name": "wine-staging",
-    "description": "Unofficial. Compatibility layer to run x86_64 Windows programs, Staging.",
-    "app_page": "apps/wine-staging.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-staging",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-staging"
-  },
-  {
-    "icon": "wine-staging-ge-proton.png",
-    "name": "wine-staging-ge-proton",
-    "description": "Unofficial. Run x86_64 Windows programs, Staging GE Proton.",
-    "app_page": "apps/wine-staging-ge-proton.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-staging-ge-proton",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-staging-ge-proton"
-  },
-  {
-    "icon": "wine32-deploy.png",
-    "name": "wine32-deploy",
-    "description": "Tool for creating AppImages for 32-bit Microsoft Windows apps.",
-    "app_page": "apps/wine32-deploy.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine32-deploy",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine32-deploy"
-  },
-  {
-    "icon": "wipeout-rewrite.png",
-    "name": "wipeout-rewrite",
-    "description": "Unofficial, re-implementation of the 1995 PSX game wipEout.",
-    "app_page": "apps/wipeout-rewrite.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wipeout-rewrite",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wipeout-rewrite"
-  },
-  {
-    "icon": "wlx-overlay-s.png",
-    "name": "wlx-overlay-s",
-    "description": "Access your Wayland/X11 desktop from Monado/WiVRn/SteamVR.",
-    "app_page": "apps/wlx-overlay-s.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wlx-overlay-s",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wlx-overlay-s"
-  },
-  {
-    "icon": "wonderlab.png",
-    "name": "wonderlab",
-    "description": "A new generation Minecraft launcher.",
-    "app_page": "apps/wonderlab.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wonderlab",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wonderlab"
-  },
-  {
-    "icon": "woof-doom.png",
-    "name": "woof-doom",
-    "description": "Woof! is a continuation of the Boom/MBF bloodline of Doom source ports.",
-    "app_page": "apps/woof-doom.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/woof-doom",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/woof-doom"
-  },
-  {
-    "icon": "x-minecraft-launcher.png",
-    "name": "x-minecraft-launcher",
-    "description": "An Open Source Minecraft Launcher with Modern UX.",
-    "app_page": "apps/x-minecraft-launcher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/x-minecraft-launcher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/x-minecraft-launcher"
-  },
-  {
-    "icon": "xash3d-fwgs.png",
-    "name": "xash3d-fwgs",
-    "description": "A game engine aimed to provide compatibility with Half-Life Engine and extend it.",
-    "app_page": "apps/xash3d-fwgs.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xash3d-fwgs",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xash3d-fwgs"
-  },
-  {
-    "icon": "xash3d-fwgs-enhanced.png",
-    "name": "xash3d-fwgs-enhanced",
-    "description": "Unofficial, a game engine aimed to provide compatibility with Half-Life Engine and extend it.",
-    "app_page": "apps/xash3d-fwgs-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xash3d-fwgs-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xash3d-fwgs-enhanced"
-  },
-  {
-    "icon": "xbooxp.png",
-    "name": "xbooxp",
-    "description": "A nifty software to upload homebrew apps into your Game Boy Advance (GBA) using an xboo cable.",
-    "app_page": "apps/xbooxp.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xbooxp",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xbooxp"
-  },
-  {
-    "icon": "xemu.png",
-    "name": "xemu",
-    "description": "Original Xbox Emulator.",
-    "app_page": "apps/xemu.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xemu",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xemu"
-  },
-  {
-    "icon": "xemu-enhanced.png",
-    "name": "xemu-enhanced",
-    "description": "Unofficial, original Xbox Emulator for Windows, macOS, and Linux (Active Development).",
-    "app_page": "apps/xemu-enhanced.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xemu-enhanced",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xemu-enhanced"
-  },
-  {
-    "icon": "xenia-canary.png",
-    "name": "xenia-canary",
-    "description": "Unofficial AppImage of xenia-canary Xbox360 emulator.",
-    "app_page": "apps/xenia-canary.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xenia-canary",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xenia-canary"
-  },
-  {
-    "icon": "xenia-edge.png",
-    "name": "xenia-edge",
-    "description": "Xbox 360 Emulator Research Project, fork of the Xenia emulator, with the aim of quicker iteration and improvements to Vulkan backend.",
-    "app_page": "apps/xenia-edge.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xenia-edge",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xenia-edge"
-  },
-  {
-    "icon": "xmoto.png",
-    "name": "xmoto",
-    "description": "A challenging 2D motocross platform game, where physics play an important role.",
-    "app_page": "apps/xmoto.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xmoto",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xmoto"
-  },
-  {
-    "icon": "yam.png",
-    "name": "yam",
-    "description": "Unofficial Game Updater for the F95Zone platform.",
-    "app_page": "apps/yam.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yam",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yam"
-  },
-  {
-    "icon": "yamata-launcher.png",
-    "name": "yamata-launcher",
-    "description": "A multi-platform game launcher designed to unify game catalogs, downloads, and libraries from multiple ecosystems into a single, extensible application.",
-    "app_page": "apps/yamata-launcher.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yamata-launcher",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yamata-launcher"
-  },
-  {
-    "icon": "zelda64-recompiled.png",
-    "name": "zelda64-recompiled",
-    "description": "Unofficial, a native port of the N64 Legend of Zelda games, statically recompiled.",
-    "app_page": "apps/zelda64-recompiled.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zelda64-recompiled",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zelda64-recompiled"
-  },
-  {
-    "icon": "znax.png",
-    "name": "znax",
-    "description": "Znax is a cross platform puzzle / arcade game using SDL2 libraries.",
-    "app_page": "apps/znax.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/znax",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/znax"
-  },
-  {
-    "icon": "zod-engine.png",
-    "name": "zod-engine",
-    "description": "Unofficial, an open source remake of the 1996 game Z by the Bitmap Brothers.",
-    "app_page": "apps/zod-engine.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zod-engine",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zod-engine"
-  },
-  {
-    "icon": "zsnes.png",
-    "name": "zsnes",
-    "description": "Unofficial, a Super Nintendo emulator.",
-    "app_page": "apps/zsnes.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zsnes",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zsnes"
-  }
+{"name":"0ad","description":"FOSS historical Real Time Strategy, RTS game of ancient warfare."},
+{"name":"0ad-prerelease","description":"FOSS historical Real Time Strategy, RTS game of ancient warfare (Pre-release)."},
+{"name":"3d-puzzles","description":"3D-Puzzles are Rubik, Dogic and Dogic12."},
+{"name":"aaaaxy","description":"A nonlinear puzzle platformer, game."},
+{"name":"adobe-flash-player","description":"Unofficial port. Adobe Flash is a mostly discontinued multimedia software platform used for production of animations, rich internet applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Over 67 billion devices use adobe flash player!"},
+{"name":"aisleriot","description":"Unofficial. A card game featuring over 80 different solitaire-type card games."},
+{"name":"akhenaten","description":"Unofficial, open-source engine for Pharaoh (+Cleopatra) city-building game."},
+{"name":"alvr","description":"Stream VR games from your PC to your headset via Wi-Fi."},
+{"name":"amethyst-mod-manager","description":"A Linux native mod manager for a variety of games."},
+{"name":"antimicrox","description":"Use a gamepad to control a variety of programs."},
+{"name":"arcade-manager","description":"Manage your rom collection, Games/Retropie & Recalbox."},
+{"name":"archipelago","description":"Archipelago Multi-Game Randomizer and Server."},
+{"name":"archisteamfarm","description":"C# application with primary purpose of farming Steam cards from multiple accounts simultaneously."},
+{"name":"arena-tracker","description":"Deck Tracker for Hearthstone game with arena in focus."},
+{"name":"arma3-unix-launcher","description":"ArmA 3 Unix Launcher, game."},
+{"name":"armagetronad","description":"Multiplayer game in 3d that emulates the movie \"Tron\"."},
+{"name":"artix","description":"One app. All your favorite Artix games."},
+{"name":"augustus","description":"An open source re-implementation of the game Caesar III."},
+{"name":"augustus-enhanced","description":"Unofficial, a fork of the Julius project that intends to incorporate gameplay changes."},
+{"name":"azaharplus-pkg-extractor","description":"Standalone PKG extractor CLI based on code that used to be in ShadPS4 PlayStation 4 emulator written in C++."},
+{"name":"badlion","description":"Most Complete All-In-One Mod Library for Minecraft with 100+ Mods."},
+{"name":"berserkerquake2","description":"Berserker@Quake2 game engine, ported to SDL2 library."},
+{"name":"beyond-all-reason","description":"3D Real-Time Strategy Total Annihilation Inspired, game."},
+{"name":"bezique","description":"Plays bezique game against the AI."},
+{"name":"billard-gl","description":"Unofficial. 3D billiards game, play a game of 8-ball or 9-ball."},
+{"name":"biplanes-revival","description":"An old cellphone arcade recreated for PC."},
+{"name":"black-chocobo","description":"FF7 Save Game Editor."},
+{"name":"blockbench","description":"Editor for boxy models and pixel art textures like Minecraft."},
+{"name":"boardgamestar","description":"A platform for playing digital boardgames."},
+{"name":"boilr","description":"Synchronize games from other platforms into your Steam library."},
+{"name":"bomber","description":"Arcade spaceship game. This is part of \"kdegames\"."},
+{"name":"bottles","description":"Unofficial. Manage wine prefixes and run Windows software & games in a new way."},
+{"name":"bovo","description":"Five in a row game from. This is part of \"kdegames\"."},
+{"name":"bugdom","description":"Pangea Software's Bugdom game."},
+{"name":"cartridges","description":"Unofficial. Game launcher, which helps you visualize your game collection and easily launch games."},
+{"name":"casterr","description":"Screen recorder, easing recording and clipping in-game."},
+{"name":"cavoke","description":"Platform to create/host multiplayer turn-based board games."},
+{"name":"cdogs-sdl","description":"Unofficial, classic overhead run-and-gun game."},
+{"name":"celeste64","description":"A game made by the Celeste developers."},
+{"name":"cemu","description":"A Nintendo Wii U emulator that is able to run most Wii U games."},
+{"name":"cemu-enhanced","description":"Unofficial AppImage of Cemu, Nintendo Wii U emulator that is able to run most Wii U games, which is able to work on any linux distro."},
+{"name":"c-evo","description":"C-evo is an empire building game based on Civilization II, but with a different focus. It aims to be a pure game with all players playing to win."},
+{"name":"cheatbreaker","description":"The free FPS boosting modpack for Minecraft 1.7 & 1.8."},
+{"name":"chessmd","description":"Open source chess training software. Play against bots, analyze with engines, explore chess openings, and more."},
+{"name":"chess-tui","description":"Play chess from your terminal."},
+{"name":"chromium-bsu","description":"Unofficial. Fast paced arcade style scrolling space shooter, game."},
+{"name":"classicube","description":"Unofficial, Custom Minecraft Classic / ClassiCube client written in C from scratch"},
+{"name":"cncra2yr","description":"C&C Red Alert 2, a real-time strategy game by Westwood Pacific."},
+{"name":"coal-launcher","description":"A client to view and play games from the AB Coal website."},
+{"name":"crawl-ncurses","description":"open-source, single-player, role-playing roguelike game of exploration and treasure-hunting - ncurses version (terminal)"},
+{"name":"crawl-tiles","description":"open-source, single-player, role-playing roguelike game of exploration and treasure-hunting - graphical version (SDL)"},
+{"name":"crg-data-tool","description":"A tool for working with Games Data files from CRG."},
+{"name":"crispy-doom","description":"Unofficial, a limit-removing enhanced-resolution Doom source port based on Chocolate Doom."},
+{"name":"cromagrally-enhanced","description":"Unofficial, the wildest racing game since man invented the wheel!"},
+{"name":"cromagrally","description":"The wildest racing game since man invented the wheel!"},
+{"name":"cuberite","description":"Unofficial, a lightweight, fast and extensible game server for Minecraft."},
+{"name":"curseforge","description":"Discover endless mods for your favorite games, or forge your own and share them with millions."},
+{"name":"cutechess","description":"Cute Chess is a GUI, a CLI and a library for playing chess."},
+{"name":"deadgame-2048","description":"GUI tool available for ALL platforms."},
+{"name":"dealers-choice","description":"A cross-platform, networked multiplayer poker game supporting draw, stud, and community-card variants, including Texas."},
+{"name":"deerportal","description":"Full of the diamonds board game."},
+{"name":"defold","description":"Unofficial, Defold is a completely free to use game engine for development of games."},
+{"name":"dethrace","description":"Unofficial, reverse engineering the 1997 game \"Carmageddon\"."},
+{"name":"dhewm3","description":"Unofficial, doom 3 GPL source port."},
+{"name":"dinosaurplanetrecompiled","description":"A static recompilation/native port of the game Dinosaur Planet."},
+{"name":"discord","description":"Unofficial. All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone."},
+{"name":"dolphin-emu","description":"Unofficial, GameCube/Nintento Wii emulator with improvements."},
+{"name":"doom64exultra","description":"Unofficial, A fork of DOOM64EX+ with new stuff and fixes."},
+{"name":"dosbox-x","description":"Unofficial, DOSBox-X is a cross-platform DOS emulator for running many MS-DOS games."},
+{"name":"droidcam","description":"A DroidCam AppImage for the Steam Deck/SteamOS 3.0."},
+{"name":"dr-robotniks-ring-racers","description":"Unofficial, kart racing video game originally based on SRB2Kart."},
+{"name":"dsda-doom","description":"This is a successor of prboom+ with extra tooling for demo recording and playback, with a focus on speedrunning and quality of life."},
+{"name":"duckstation-gpl-enhanced","description":"Unofficial, fast PlayStation 1 emulator when it was still using GPLv3."},
+{"name":"duckstation","description":"PlayStation 1, aka PSX games Emulator."},
+{"name":"dusklight","description":"Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements."},
+{"name":"dust3d","description":"3D modeling software for games, 3D printing, and so on."},
+{"name":"dwarffortress","description":"A Dwarf Fortress game. Build a fortress and try to help your dwarves survive against a deeply generated world."},
+{"name":"eden","description":"An experimental open-source emulator for Nintendo Switch (yuzu fork)."},
+{"name":"eden-nightly","description":"An experimental open-source emulator for Nintendo Switch (yuzu fork, nightly builds)."},
+{"name":"eksplode.re","description":"Bomberman game made with Godot under BSD3."},
+{"name":"en-croissant","description":"The Ultimate Chess Toolkit."},
+{"name":"endless-sky","description":"Space exploration and combat game."},
+{"name":"eternal-lands","description":"3D fantasy multiplayer online role playing game."},
+{"name":"eternalmodmanager","description":"A cross platform mod manager for DOOM Eternal."},
+{"name":"exsplode.re","description":"A Bomberman game made with Godot under BSD3."},
+{"name":"extremetuxracer","description":"Unofficial. 3D racing game with Tux, the Linux penguin."},
+{"name":"fafarunner","description":"A game developed using flutter and flame."},
+{"name":"farmhand","description":"A resource management game that puts a farm in your hand."},
+{"name":"flare","description":"Fantasy action RPG game using the FLARE engine."},
+{"name":"flashpoint","description":"Flashpoint Archive is a community effort to preserve games and animations from the web."},
+{"name":"flycast-dojo","description":"Flycast fork, multiplatform Sega Dreamcast, Naomi and Atomiswave emulator for netplay, training & online tournament gameplay."},
+{"name":"foobar2000","description":"Unofficial, an advanced freeware audio player for Windows, includes WINE."},
+{"name":"foobillardpp","description":"Unofficial, an OpenGL Billard Game based on foobillard 3.0a with patches and new features."},
+{"name":"freetexturepacker","description":"Creates sprite sheets for you game or site, graphics."},
+{"name":"funkin","description":"A rhythm game made with HaxeFlixel"},
+{"name":"funkin-legacy","description":"Legacy GLibC Linux support for Friday Night Funkin. A rhythm game made with HaxeFlixel."},
+{"name":"gameconqueror","description":"Unofficial. Memory scanner designed to isolate the adress of an arbitrary variable in an executing process (gtk GUI)."},
+{"name":"gamehub","description":"Unified library for all your games from different platforms."},
+{"name":"gameimage","description":"Pack a runner/emulator/game and it's configs in a single AppImage."},
+{"name":"gamescope","description":"Unofficial AppImage of gamescope."},
+{"name":"gdevelop","description":"Cross-platform game engine designed to be used by everyone."},
+{"name":"gdlauncher","description":"Simple, yet powerful Minecraft custom launcher."},
+{"name":"gearboy","description":"Unofficial, Game Boy / Gameboy Color emulator."},
+{"name":"gearsystem","description":"Unofficial, Sega Master System / Game Gear / SG-1000 emulator."},
+{"name":"geforcenow-electron","description":"Desktop client for Nvidia GeForce NOW game streaming."},
+{"name":"gm-companion","description":"A tool for rpg gamemasters."},
+{"name":"gnu-freedink","description":"Unofficial, a portable and enhanced version of the Dink Smallwood game engine."},
+{"name":"godot","description":"Multi-platform 2D and 3D game engine with a feature-rich editor."},
+{"name":"granatier","description":"Bomberman clone. This is part of \"kdegames\"."},
+{"name":"greenlight","description":"Client for xCloud and Xbox home streaming made in Typescript."},
+{"name":"hades-emu","description":"A Nintendo Game Boy Advance Emulator."},
+{"name":"hastyheroes","description":"An endless 2D jumping game."},
+{"name":"helion","description":"A modern fast paced Doom FPS engine."},
+{"name":"helioslauncher","description":"Custom launcher for modded minecraft written in Electron."},
+{"name":"heroic-games-launcher","description":"A Native GOG and Epic Games Launcher for Linux."},
+{"name":"highlite","description":"A RuneLite-esque Client for the game High Spell."},
+{"name":"hmcl","description":"A Minecraft Launcher which is multi-functional, cross-platform and popular."},
+{"name":"hugor","description":"A cross-platform, multimedia interpreter for Hugo adventure games."},
+{"name":"hydra","description":"Game launcher with its own embedded bittorrent client."},
+{"name":"icestudio","description":"A real gamechanger in the world of Open Source FPGAs."},
+{"name":"instead","description":"Simple Text Adventures Interpreter."},
+{"name":"international-doom","description":"Small, functional and simple source ports, created with help, efforts and bits of code from people around the world."},
+{"name":"iqpuzzle","description":"A challenging pentomino puzzle."},
+{"name":"iris-enhanced","description":"Unofficial, Sony PlayStation 2 emulator."},
+{"name":"iris","description":"Sony PlayStation 2 games emulator for Windows, Linux and macOS."},
+{"name":"ironwail","description":"High-performance QuakeSpasm fork QuakeSpasm. A modern, cross-platform Quake game engine based on FitzQuake."},
+{"name":"itch.io","description":"A simple way to find and share indie games online for free."},
+{"name":"itgmania","description":"Unofficial, a fork of StepMania 5.1, an advanced cross-platform rhythm game for home and arcade use."},
+{"name":"jdminecraftlauncher","description":"Unofficial classic styled Minecraft Launcher."},
+{"name":"jdnbtexplorer","description":"A Editor for Minecraft NBT files."},
+{"name":"jgenesis-cli","description":"Sega Genesis, Sega CD, SNES, Master System, Game Gear emulator (CLI)."},
+{"name":"jgenesis","description":"Sega Genesis, Sega CD, SNES, Master System, Game Gear emulator (GUI)."},
+{"name":"jklubtv","description":"Chess Round Robin Tournament Manager."},
+{"name":"joy2droidx","description":"Turn Android phones into virtual Xbox 360 controller."},
+{"name":"julius","description":"An open source re-implementation of the Caesar III game."},
+{"name":"kajongg","description":"An ancient Chinese board game for 4 players. This is part of \"kdegames\"."},
+{"name":"kapman","description":"Pac-Man clone. This is part of \"kdegames\"."},
+{"name":"katomic","description":"Edu. game based around molecular geometry. This is part of \"kdegames\"."},
+{"name":"kblackbox","description":"A game of hide and seek. This is part of \"kdegames\"."},
+{"name":"kblocks","description":"Classic Tetris / falling blocks game. This is part of \"kdegames\"."},
+{"name":"kboard","description":"Terminal game to practice keyboard typing."},
+{"name":"kbounce","description":"Fill the field game. This is part of \"kdegames\"."},
+{"name":"kbreakout","description":"Destroy bricks without losing the ball. This is part of \"kdegames\"."},
+{"name":"kdegames","description":"Unofficial, Full & updatable KDE Games suite, metapackage."},
+{"name":"kdiamond","description":"Diamond game. This is part of \"kdegames\"."},
+{"name":"kfourinline","description":"4 in row game. This is part of \"kdegames\"."},
+{"name":"kgoldrunner","description":"A game with a runner and gold. This is part of \"kdegames\"."},
+{"name":"kigo","description":"Go strategic board game for two players. This is part of \"kdegames\"."},
+{"name":"killbots","description":"Port of the classic console game Robots. This is part of \"kdegames\"."},
+{"name":"kiriki","description":"A dice game. This is part of \"kdegames\"."},
+{"name":"kjumpingcube","description":"A game of dices on a board. This is part of \"kdegames\"."},
+{"name":"klickety","description":"Color matching like SameGame. This is part of \"kdegames\"."},
+{"name":"klines","description":"Inspired by well known game of Color Lines. This is part of \"kdegames\"."},
+{"name":"kmahjongg","description":"Mahjongg game. This is part of \"kdegames\"."},
+{"name":"kmines","description":"Classic mine game. This is part of \"kdegames\"."},
+{"name":"knavalbattle","description":"Battle Ship game. This is part of \"kdegames\"."},
+{"name":"knetwalk","description":"Net constructing game. This is part of \"kdegames\"."},
+{"name":"knights","description":"Unofficial, KDE's chess game frontend."},
+{"name":"kolf","description":"Mini Golf game. This is part of \"kdegames\"."},
+{"name":"kollision","description":"Dodge red balls in the field. This is part of \"kdegames\"."},
+{"name":"konquest","description":"Game of planets. This is part of \"kdegames\"."},
+{"name":"kpat","description":"Klondike, Spider, Free Cell and other Solitaire. This is part of \"kdegames\"."},
+{"name":"kreversi","description":"Reversi game. This is part of \"kdegames\"."},
+{"name":"krunker","description":"Krunker (.io) is a fast-paced first-person shooter game with pixel graphics."},
+{"name":"kshisen","description":"A game similar to Mahjongg. This is part of \"kdegames\"."},
+{"name":"ksirk","description":"A strategy board game. This is part of \"kdegames\"."},
+{"name":"ksnakeduel","description":"A snake race game. This is part of \"kdegames\"."},
+{"name":"kspaceduel","description":"Battleship with satellites in the space. This is part of \"kdegames\"."},
+{"name":"ksquares","description":"Win with most number of completed squares. This is part of \"kdegames\"."},
+{"name":"ksudoku","description":"Sudoku game. This is part of \"kdegames\"."},
+{"name":"ktuberling","description":"Simple Mr. Potato game for children. This is part of \"kdegames\"."},
+{"name":"kubrick","description":"A logic game based on Rubik's Cube. This is part of \"kdegames\"."},
+{"name":"lambda-lantern","description":"A 3D game about functional programming patterns."},
+{"name":"legendary-kingdoms","description":"Implementation of Legendary Kingdoms Gamebooks in C++."},
+{"name":"liground","description":"A mordern Chess Variant Analysis GUI, game."},
+{"name":"linedancer","description":"Arcade game and entry for Ludum Dare 35."},
+{"name":"linuxtoys","description":"Unofficial, a user-friendly collection of tools to make your life on Linux easier than ever. Useful scripts for gamers, developers and enthusiasts."},
+{"name":"liquidlauncher","description":"The official Minecraft launcher for LiquidBounce."},
+{"name":"love","description":"The unquestionably awesome 2D game engine."},
+{"name":"lskat","description":"Fun and engaging card game for two players. This is part of \"kdegames\"."},
+{"name":"lunar-client","description":"Free Minecraft Client, a modpack for all versions of Minecraft."},
+{"name":"lutris-gamepad-ui","description":"A simple, TV-friendly, gamepad-navigable frontend for the Lutris game launcher on Linux."},
+{"name":"lutris","description":"Unofficial. Install and play video games from all eras and from most gaming systems, by leveraging and combining existing emulators, WINE included."},
+{"name":"mangbandclient","description":"A free online multi-player realtime roguelike game."},
+{"name":"maniadrive","description":"Unofficial, an open-source clone of the popular racing game TrackMania."},
+{"name":"mcpelauncher","description":"The main repo for the Linux Bedrock edition Minecraft launcher."},
+{"name":"m","description":"Data oriented programming language for game developers."},
+{"name":"megaglest","description":"MegaGlest real-time strategy game engine (cross-platform, 3-d)."},
+{"name":"meganimus","description":"A launcher for native and emulator games."},
+{"name":"mgba-enhanced","description":"Unofficial, Game Boy Advance Emulator."},
+{"name":"mgba","description":"Game Boy Advance Emulator."},
+{"name":"mine-craft.io","description":"Minecraft and even more!"},
+{"name":"minecraft-launcher","description":"Game downloader and launcher for Minecraft."},
+{"name":"minififa","description":"OpenGL-powered third-person football, soccer game."},
+{"name":"mki3dgame","description":"A game of searching, in 3D stages."},
+{"name":"mmapper","description":"Graphical MUD client for the game MUME."},
+{"name":"moondeck-buddy","description":"A server-side part of the MoonDeck plugin for the SteamDeck."},
+{"name":"moon-lander","description":"Moon Lander is a 2D game of gravity.  Land your ship on the lading pad."},
+{"name":"moonlight","description":"Stream games from your NVIDIA GameStream-enabled PC."},
+{"name":"mudlet","description":"Mudlet is a platform for gaming and enhancing game-play primarily with MUDs."},
+{"name":"multimc","description":"A Minecraft launcher."},
+{"name":"music-quiz","description":"Jepardy like game, guess as many songs as possible."},
+{"name":"naev","description":"A 2d action/rpg space game that combines elements from the action."},
+{"name":"nanosaur","description":"Pangea Software’s game, adventure of a cybernetic dinosaur."},
+{"name":"naruto-arena","description":"Naruto-based online multiplayer strategy game."},
+{"name":"netpanzer","description":"Online multiplayer tactical warfare game for fast action combat."},
+{"name":"newton-adventure","description":"A 2D game with a twist, player can rotate gravity at 360°."},
+{"name":"nexus-mods","description":"A mod installer, creator and manager for all your popular games."},
+{"name":"notepad++","description":"Unofficial Appimage of Notepad++, with WINE prefix."},
+{"name":"nugget-doom-enhanced","description":"Unofficial, a Doom source port forked from Woof! with additional features."},
+{"name":"nugget-doom","description":"Nugget Doom is a Doom game source port forked from Woof! with additional features."},
+{"name":"nychess","description":"A python Chess Engine and AI."},
+{"name":"nyrna","description":"Suspend games and applications."},
+{"name":"obliqoro","description":"A cross-platform tauri gui where Oblique Strategies meets Pomodoro."},
+{"name":"odamex","description":"Unofficial, Online Multiplayer Doom port with a strong focus on the original gameplay while providing a breadth of enhancements."},
+{"name":"omikuji","description":"Qt/QML based game launcher for Linux."},
+{"name":"openarena","description":"Violent & sexy, multiplayer first person shooter game, ioquake3."},
+{"name":"openblok","description":"A customizable falling block puzzle game like tetris."},
+{"name":"openhv","description":"A mod for OpenRA based on the Hard Vacuum, game."},
+{"name":"openjazz","description":"Unofficial, open-source version of the classic Jazz Jackrabbit™ games."},
+{"name":"openmw","description":"OpenMW is an open-source open-world RPG game engine that supports playing Morrowind."},
+{"name":"openop2","description":"Re-implementation of the game Outpost 2, using the OpenRA engine."},
+{"name":"openra-dune","description":"Real-time strategy game engine, MOD Dune 2000."},
+{"name":"openra-enhanced","description":"Unofficial AppImage of OpenRA containing all 3 game modes."},
+{"name":"openramodsdk","description":"Dev Kit for building your own games using the OpenRA engine."},
+{"name":"openra-red-alert","description":"Real-time strategy game engine, MOD Red Alert."},
+{"name":"openra-tiberian-dawn","description":"Real-time strategy game engine penGL, MOD TD."},
+{"name":"openrct2-enhanced","description":"Unofficial, Re-implementation of RollerCoaster Tycoon 2 (RCT2), expanding the game with new features."},
+{"name":"openrct2","description":"Re-implementation of RollerCoaster Tycoon 2 (RCT2), expanding the game with new features."},
+{"name":"openswe1r","description":"Racer."},
+{"name":"openttd","description":"Unofficial, an open source simulation game based upon Transport Tycoon Deluxe."},
+{"name":"openxcom-extended","description":"OXCE, extended version of openXcom provide better mod support, QoL improvements, new game mechanics, improved and new GUIs."},
+{"name":"osu","description":"A free-to-win rhythm game. Rhythm is just a click away!"},
+{"name":"ottomatic","description":"Pangea Software’s Otto Matic, a game of robots."},
+{"name":"overbind","description":"A utility that allows binding keyboard buttons to virtual Xbox360 controller joystick outputs."},
+{"name":"packsquash","description":"A Minecraft Java Edition resource and data pack optimizer."},
+{"name":"palapeli","description":"Jigsaw puzzle game. This is part of \"kdegames\"."},
+{"name":"pandoralaunchercrack","description":"Customized version of Pandora, a modern Minecraft launcher that balances ease-of-use with powerful instance management features."},
+{"name":"pandoralauncher","description":"Pandora is a modern Minecraft launcher that balances ease-of-use with powerful instance management features."},
+{"name":"parsec-linux","description":"Parsec game streaming client."},
+{"name":"pcsx2-nightly","description":"PCSX2 is a free and open-source PlayStation 2 (PS2) emulator, using a combination of MIPS CPU Interpreters, Recompilers and a Virtual Machine which manages hardware states and PS2 system memory. This allows you to play PS2 games on your PC, with many additional features and benefits. This is the nightly version."},
+{"name":"pcsx2","description":"PCSX2 is a free and open-source PlayStation 2 (PS2) emulator, using a combination of MIPS CPU Interpreters, Recompilers and a Virtual Machine which manages hardware states and PS2 system memory. This allows you to play PS2 games on your PC, with many additional features and benefits."},
+{"name":"pcsx-redux-enhanced","description":"Unofficial, modern fork of the pcsxr PlayStation 1 emulator focused on reverse engineering and homebrew development."},
+{"name":"pelusica","description":"Action game, control the blue dot with your keyboard/create music."},
+{"name":"picmi","description":"Single player logic-based puzzle game. This is part of \"kdegames\"."},
+{"name":"pigs-n-cows","description":"A relaxing game for children and adults alike."},
+{"name":"pince","description":"Reverse engineering tool for linux games."},
+{"name":"planes","description":"Variant of battleships game."},
+{"name":"planet-blupi","description":"A delirious spell-binding game."},
+{"name":"play-2048","description":"Another implementation of the 2048 game."},
+{"name":"playback","description":"Play and manage your cartridges and replay your childhood games."},
+{"name":"play-enhanced","description":"Unofficial, a PlayStation2 emulator."},
+{"name":"playit","description":"Want to run an online game server? playit.gg is a global proxy that allows anyone to host a server without port forwarding."},
+{"name":"play","description":"Play! is a PlayStation2 games emulator."},
+{"name":"pokete","description":"A terminal based Pokemon like game."},
+{"name":"prey2006","description":"Unofficial, Prey 2006 SDK integrated with Doom 3 GPL release."},
+{"name":"prime-world-editor","description":"Edit world assets from games by Retro Studios."},
+{"name":"principia","description":"Open source physics-based sandbox game."},
+{"name":"prismlauncher-enhanced","description":"Unofficial, a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)."},
+{"name":"prismlauncher","description":"Launcher for Minecraft, manage multiple installations."},
+{"name":"prismlauncher-qt5","description":"Launcher for Minecraft, manage multiple installations (Qt5 version)."},
+{"name":"protonup-qt","description":"Manage Proton-GE/Luxtorpeda for Steam/Wine-GE for Lutris."},
+{"name":"psydoom","description":"A backport of PSX Doom to PC."},
+{"name":"punes","description":"Qt-based Nintendo Entertaiment System emulator and NSF/NSF2/NSFe Music Player."},
+{"name":"qtads","description":"A cross-platform, multimedia interpreter for TADS adventure games."},
+{"name":"quantumlauncher-enhanced","description":"Unofficial, a simple, powerful Minecraft launcher."},
+{"name":"r2modman","description":"Mod manager for several Unity games using Thunderstore."},
+{"name":"rare","description":"GUI for legendary. An Epic Games Launcher open source alternative."},
+{"name":"rbdoom-3","description":"Doom 3 BFG Edition source port with updated DX12/Vulkan renderer."},
+{"name":"redeclipse","description":"A great first person 3D arena shooter with online support, game."},
+{"name":"rednukem","description":"Unofficial, a port of serveral BUILD Engine games based on EDuke32."},
+{"name":"redriver2","description":"Unofficial, Driver 2 Playstation game reverse engineering effort."},
+{"name":"retroarch-nightly","description":"RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications."},
+{"name":"retroarch-qt-nightly","description":"RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications."},
+{"name":"retroarch-qt","description":"RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications."},
+{"name":"retroarch","description":"RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications."},
+{"name":"retrom","description":"A centralized game library/collection management service with a focus on emulation."},
+{"name":"rigelengine","description":"Unofficial, modern re-implementation of DOS game Duke Nukem II."},
+{"name":"rocksndiamonds","description":"Unofficial, an open source arcade style game of Boulder Dash, Emerald Mine, and Sokoban."},
+{"name":"roller","description":"Unofficial, reverse engineering the 1995 game Whiplash/Fatal Racing."},
+{"name":"rpcs3","description":"An open-source PlayStation 3 emulator/debugger written in C++."},
+{"name":"ryujinx","description":"An open-source Nintendo Switch emulator, originally created by gdkchan, written in C#."},
+{"name":"ryujinx-canary","description":"An open-source Nintendo Switch emulator, originally created by gdkchan, written in C# (Canary builds)."},
+{"name":"sabaki","description":"Modern, elegant, cross-platform Go/Baduk/Weiqi game board."},
+{"name":"samira","description":"Steam achievement manager for Linux written with Tauri and Rust."},
+{"name":"samrewritten","description":"Steam Achievement Manager For Linux. Rewritten in C++."},
+{"name":"sanicball","description":"Unofficial, an extraordinarily fast racing game."},
+{"name":"sblauncher","description":"Minecraft Launcher."},
+{"name":"scavengers","description":"Unity Roguelike tutorial, game."},
+{"name":"sc-controller","description":"User-mode driver and GTK3 based GUI for Steam Controller."},
+{"name":"scummvm","description":"Unofficial, A 'virtual machine' for several classic graphical point-and-click adventure games"},
+{"name":"serioussamtfe","description":"Game engine for Serious Sam Classic, TFE."},
+{"name":"serioussamtfe-vk","description":"Game engine for Serious Sam Classic, Vulkan support, TFE."},
+{"name":"serioussamtse","description":"Game engine for Serious Sam Classic, TSE."},
+{"name":"serioussamtse-vk","description":"Game engine for Serious Sam Classic, Vulkan support, TSE."},
+{"name":"sfp","description":"This utility is designed to allow you to apply skins to the modern Steam client."},
+{"name":"shadps4","description":"An early PlayStation 4 emulator written in C++."},
+{"name":"shadps4-qtlauncher","description":"The official Qt launcher for shadps4 PlayStation 4 emulator."},
+{"name":"skyemu","description":"Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator."},
+{"name":"snake-js","description":"Canvas/JavaScript based Snake Game with support for controllers."},
+{"name":"snes9x-enhanced","description":"Unofficial, Snes9x - Portable Super Nintendo Entertainment System TM emulator."},
+{"name":"snes9x","description":"Snes9x - Portable Super Nintendo Entertainment System TM emulator."},
+{"name":"snowboardkids2-recomp","description":"Unofficial AppImage of game Snowboard Kids 2 Recompilation."},
+{"name":"soul-arena","description":"Bleach-based online multiplayer strategy game."},
+{"name":"sound-space-plus","description":"Unofficial AppImage of sound-space-plus, Rhythm-based aim game."},
+{"name":"spacecadet","description":"Unofficial. Reverse engineered port of 3D Pinball for Windows XP Space Cadet."},
+{"name":"spacewars","description":"A re-imagining of the classic game Spacewar using Amethyst engine."},
+{"name":"spaghettikart-enhanced","description":"Unofficial, Mario Kart 64 PC game Port."},
+{"name":"speed-dreams","description":"A Torcs fork, 3d motorsport simulation and race cars game."},
+{"name":"spicy-launcher","description":"Cross-platform launcher for Spicy Lobster games."},
+{"name":"srb2k","description":"AppImage Package for Sonic Robo Blast 2 Kart, game."},
+{"name":"srb2","description":"Unofficial, a 3D Sonic the Hedgehog fangame based on a modified version of Doom Legacy."},
+{"name":"stackandconquer","description":"A challenging tower conquest board game \"Mixtour\" inspired."},
+{"name":"steamcad","description":"2D CAD especially designed to draw steam locomotives."},
+{"name":"steamdepotdownloadergui","description":"Easily download older versions of games from Steam."},
+{"name":"steam-rom-manager","description":"An app for managing ROMs in Steam."},
+{"name":"steam-tui","description":"Rust TUI client for steamcmd."},
+{"name":"steam","description":"Unofficial. The ultimate destination for playing, discussing, and creating games."},
+{"name":"stunt-car-remake","description":"Remake of the old game Stunt Car Racer."},
+{"name":"sunshine","description":"Sunshine is a Gamestream host for Moonlight."},
+{"name":"supermariowar","description":"Unofficial, a fan-made multiplayer Super Mario Bros. style deathmatch game."},
+{"name":"supermodel","description":"Unofficial, Sega Model 3 arcade emulator."},
+{"name":"supertux","description":"Classic 2D jump'n run sidescroller game inspired to Super Mario."},
+{"name":"supertuxkart-dev","description":"Free kart racing game focused on Fun! Pre-release."},
+{"name":"supertuxkart","description":"Free kart racing game focused on Fun!"},
+{"name":"swc-minecraft-launcher","description":"SWC Minecraft Launcher."},
+{"name":"synthein","description":"A space ship building and combat game."},
+{"name":"taisei-project","description":"Unofficial, A free and open-source Touhou Project fangame."},
+{"name":"thlink","description":"Touhou Project Game Netplay Tool."},
+{"name":"torcs","description":"The 3D Open Racing Car Game and Simulator."},
+{"name":"trenchbroom","description":"A modern, cross-platform level editor for Quake engine based games."},
+{"name":"tuxfootball","description":"Unofficial, is a great 2D football game for Windows and Linux."},
+{"name":"tuxpuck","description":"Unofficial, hockey-like table game."},
+{"name":"undertaker141","description":"A free and open-source game-center for linux. Pre-configured Wine and Native Games for Linux."},
+{"name":"urbanterror","description":"A team-based tactical game shooter based on the Quake 3 Engine."},
+{"name":"uzdoom","description":"UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities."},
+{"name":"vapour","description":"An alternative open source Steam client."},
+{"name":"vgmtrans","description":"A tool to convert proprietary, sequenced videogame music."},
+{"name":"visipics","description":"Windows software to find and remove duplicate pictures. Unofficial AppImage built using \"wine32-deploy\" and powered by \"wine\"."},
+{"name":"vita3k","description":"Experimental PlayStation Vita emulator."},
+{"name":"vkquake","description":"Vulkan Quake game port based on QuakeSpasm."},
+{"name":"westeroscraftlauncher","description":"Custom launcher for modded Minecraft, game."},
+{"name":"wick-editor","description":"A free and open-source tool for creating games, animations and everything in-between!"},
+{"name":"widelands","description":"Real-time strategy game with singleplayer campaigns."},
+{"name":"wiiu-downloader","description":"Allows to download encrypted wiiu files from nintendo's official servers."},
+{"name":"wikilynx","description":"A simple game browser made using Qt C++ for playing wikipedia speed-runs the right way."},
+{"name":"wine32-deploy","description":"Tool for creating AppImages for 32-bit Microsoft Windows apps."},
+{"name":"wine-devel","description":"Unofficial. Compatibility layer to run x86_64 Windows programs, Dev Edition."},
+{"name":"wine-stable","description":"Unofficial. Compatibility layer to run x86_64 Windows programs, Stable."},
+{"name":"wine-staging-ge-proton","description":"Unofficial. Run x86_64 Windows programs, Staging GE Proton."},
+{"name":"wine-staging","description":"Unofficial. Compatibility layer to run x86_64 Windows programs, Staging."},
+{"name":"wine","description":"Unofficial. Run Windows programs, select a version from mmtrt/WINE_AppImage."},
+{"name":"wipeout-rewrite","description":"Unofficial, re-implementation of the 1995 PSX game wipEout."},
+{"name":"wlx-overlay-s","description":"Access your Wayland/X11 desktop from Monado/WiVRn/SteamVR."},
+{"name":"wonderlab","description":"A new generation Minecraft launcher."},
+{"name":"woof-doom","description":"Woof! is a continuation of the Boom/MBF bloodline of Doom source ports."},
+{"name":"xash3d-fwgs","description":"A game engine aimed to provide compatibility with Half-Life Engine and extend it."},
+{"name":"xash3d-fwgs-enhanced","description":"Unofficial, a game engine aimed to provide compatibility with Half-Life Engine and extend it."},
+{"name":"xbooxp","description":"A nifty software to upload homebrew apps into your Game Boy Advance (GBA) using an xboo cable."},
+{"name":"xemu-enhanced","description":"Unofficial, original Xbox Emulator for Windows, macOS, and Linux (Active Development)."},
+{"name":"xemu","description":"Original Xbox Emulator."},
+{"name":"xenia-canary","description":"Unofficial AppImage of xenia-canary Xbox360 emulator."},
+{"name":"xenia-edge","description":"Xbox 360 Emulator Research Project, fork of the Xenia emulator, with the aim of quicker iteration and improvements to Vulkan backend."},
+{"name":"x-minecraft-launcher","description":"An Open Source Minecraft Launcher with Modern UX."},
+{"name":"xmoto","description":"A challenging 2D motocross platform game, where physics play an important role."},
+{"name":"yamata-launcher","description":"A multi-platform game launcher designed to unify game catalogs, downloads, and libraries from multiple ecosystems into a single, extensible application."},
+{"name":"yam","description":"Unofficial Game Updater for the F95Zone platform."},
+{"name":"zelda64-recompiled","description":"Unofficial, a native port of the N64 Legend of Zelda games, statically recompiled."},
+{"name":"znax","description":"Znax is a cross platform puzzle / arcade game using SDL2 libraries."},
+{"name":"zod-engine","description":"Unofficial, an open source remake of the 1996 game Z by the Bitmap Brothers."},
+{"name":"zsnes","description":"Unofficial, a Super Nintendo emulator."}
 ]

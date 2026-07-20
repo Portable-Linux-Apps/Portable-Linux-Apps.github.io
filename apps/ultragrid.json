@@ -1,8 +1,1 @@
-{
-  "name": "ultragrid",
-  "description": "UltraGrid low-latency audio and video network transmission system",
-  "sites": [
-    "https://github.com/CESNET/UltraGrid"
-  ],
-  "sources": []
-}
+{"name":"ultragrid","description":"UltraGrid low-latency audio and video network transmission system","sites":["https://github.com/CESNET/UltraGrid"],"sources":[]}

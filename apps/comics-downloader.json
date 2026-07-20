@@ -1,8 +1,1 @@
-{
-  "name": "comics-downloader",
-  "description": "tool to download comics and manga in pdf/epub/cbr/cbz from a website",
-  "sites": [
-    "https://github.com/Girbons/comics-downloader"
-  ],
-  "sources": []
-}
+{"name":"comics-downloader","description":"tool to download comics and manga in pdf/epub/cbr/cbz from a website","sites":["https://github.com/Girbons/comics-downloader"],"sources":[]}

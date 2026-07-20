@@ -1,8 +1,1 @@
-{
-  "name": "thunderbird",
-  "description": "Thunderbird is an mail client suitable for free distribution, using the XUL user interface language, with supports for different mail accounts, no matter of the used protocol like POP(s) or IMAP(s), has an integrated learning Spam filter, and offers easy organization of mails with tagging and virtual folders. Also, more features can be added by installing extensions.\n Thunderbird also includes an integrated calendar for handling events, events invitations and tasks in multiple calendars. It supports local  calendars, CalDAV and plain ics files on CardDAV and WebDAV.\n  \n This is the Stable release.\n \n This script provides both the official portable build with automatic updates and the AppImage.\n \n <img src=\"https://media.imgcdn.org/repo/2023/03/mozilla-thunderbird/Mozilla-Thunderbird-free-download.jpg\" alt=\"Screenshot\">",
-  "sites": [
-    "https://www.thunderbird.net"
-  ],
-  "sources": []
-}
+{"name":"thunderbird","description":"Thunderbird is an mail client suitable for free distribution, using the XUL user interface language, with supports for different mail accounts, no matter of the used protocol like POP(s) or IMAP(s), has an integrated learning Spam filter, and offers easy organization of mails with tagging and virtual folders. Also, more features can be added by installing extensions.\n Thunderbird also includes an integrated calendar for handling events, events invitations and tasks in multiple calendars. It supports local  calendars, CalDAV and plain ics files on CardDAV and WebDAV.\n  \n This is the Stable release.\n \n This script provides both the official portable build with automatic updates and the AppImage.\n \n <img src=\"https://media.imgcdn.org/repo/2023/03/mozilla-thunderbird/Mozilla-Thunderbird-free-download.jpg\" alt=\"Screenshot\">","sites":["https://www.thunderbird.net"],"sources":[]}

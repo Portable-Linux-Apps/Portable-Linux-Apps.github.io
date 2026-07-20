@@ -1,8 +1,1 @@
-{
-  "name": "jdtextedit",
-  "description": "jdTextEdit is a powerful texteditor with a lot of features.",
-  "sites": [
-    "https://sourceforge.net/projects/jdtextedit"
-  ],
-  "sources": []
-}
+{"name":"jdtextedit","description":"jdTextEdit is a powerful texteditor with a lot of features.","sites":["https://sourceforge.net/projects/jdtextedit"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "kadium",
-  "description": "App for staying ontop of YouTube channels' uploads",
-  "sites": [
-    "https://github.com/probablykasper/kadium"
-  ],
-  "sources": []
-}
+{"name":"kadium","description":"App for staying ontop of YouTube channels' uploads","sites":["https://github.com/probablykasper/kadium"],"sources":[]}

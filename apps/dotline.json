@@ -1,8 +1,1 @@
-{
-  "name": "dotline",
-  "description": "A modern crosshair overlay app.",
-  "sites": [
-    "https://github.com/thedogecraft/dotline"
-  ],
-  "sources": []
-}
+{"name":"dotline","description":"A modern crosshair overlay app.","sites":["https://github.com/thedogecraft/dotline"],"sources":[]}

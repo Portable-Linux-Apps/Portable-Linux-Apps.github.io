@@ -1,8 +1,1 @@
-{
-  "name": "ehdev-shell",
-  "description": "An electron based developing tool for feds.",
-  "sites": [
-    "https://github.com/EHDFE/ehdev-shell"
-  ],
-  "sources": []
-}
+{"name":"ehdev-shell","description":"An electron based developing tool for feds.","sites":["https://github.com/EHDFE/ehdev-shell"],"sources":[]}

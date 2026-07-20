@@ -1,8 +1,1 @@
-{
-  "name": "qimgv",
-  "description": "Unofficial, Image viewer. Fast, easy to use. Optional video support.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Qimgv-AppImage"
-  ],
-  "sources": []
-}
+{"name":"qimgv","description":"Unofficial, Image viewer. Fast, easy to use. Optional video support.","sites":["https://github.com/pkgforge-dev/Qimgv-AppImage"],"sources":[]}

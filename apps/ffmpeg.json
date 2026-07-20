@@ -1,8 +1,1 @@
-{
-  "name": "ffmpeg",
-  "description": "Unofficial, A complete, cross-platform solution to record, convert and stream audio and video.",
-  "sites": [
-    "https://github.com/pkgforge-dev/FFmpeg-AppImage"
-  ],
-  "sources": []
-}
+{"name":"ffmpeg","description":"Unofficial, A complete, cross-platform solution to record, convert and stream audio and video.","sites":["https://github.com/pkgforge-dev/FFmpeg-AppImage"],"sources":[]}

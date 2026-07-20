@@ -1,8 +1,1 @@
-{
-  "name": "mediathekview",
-  "description": "Das Programm MediathekView durchsucht die Online-Mediatheken verschiedener Sender",
-  "sites": [
-    "https://github.com/mediathekview/MediathekView"
-  ],
-  "sources": []
-}
+{"name":"mediathekview","description":"Das Programm MediathekView durchsucht die Online-Mediatheken verschiedener Sender","sites":["https://github.com/mediathekview/MediathekView"],"sources":[]}

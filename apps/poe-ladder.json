@@ -1,8 +1,1 @@
-{
-  "name": "poe-ladder",
-  "description": "Path of Exile ladder viewer",
-  "sites": [
-    "https://github.com/darteil/POELadder"
-  ],
-  "sources": []
-}
+{"name":"poe-ladder","description":"Path of Exile ladder viewer","sites":["https://github.com/darteil/POELadder"],"sources":[]}

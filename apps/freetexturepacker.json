@@ -1,8 +1,1 @@
-{
-  "name": "freetexturepacker",
-  "description": "Free texture packer",
-  "sites": [
-    "https://github.com/odrick/free-tex-packer"
-  ],
-  "sources": []
-}
+{"name":"freetexturepacker","description":"Free texture packer","sites":["https://github.com/odrick/free-tex-packer"],"sources":[]}

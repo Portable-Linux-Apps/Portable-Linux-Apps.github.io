@@ -1,8 +1,1 @@
-{
-  "name": "km-recplayer",
-  "description": "Recorder and player of keyboard and mouse input (HID)",
-  "sites": [
-    "https://github.com/volatilflerovium/keyboard_and_mouse_input_recorder_and_player"
-  ],
-  "sources": []
-}
+{"name":"km-recplayer","description":"Recorder and player of keyboard and mouse input (HID)","sites":["https://github.com/volatilflerovium/keyboard_and_mouse_input_recorder_and_player"],"sources":[]}

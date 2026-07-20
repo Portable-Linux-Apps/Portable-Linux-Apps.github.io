@@ -1,8 +1,1 @@
-{
-  "name": "bts-ce-lite",
-  "description": "BTS-CE-Lite is a telecommunication network management application",
-  "sites": [
-    "https://www.bodastage.org/bts-ce-lite/."
-  ],
-  "sources": []
-}
+{"name":"bts-ce-lite","description":"BTS-CE-Lite is a telecommunication network management application","sites":["https://www.bodastage.org/bts-ce-lite/."],"sources":[]}

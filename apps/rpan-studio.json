@@ -1,8 +1,1 @@
-{
-  "name": "rpan-studio",
-  "description": "OBS Studio with RPAN integration",
-  "sites": [
-    "https://github.com/reddit/rpan-studio"
-  ],
-  "sources": []
-}
+{"name":"rpan-studio","description":"OBS Studio with RPAN integration","sites":["https://github.com/reddit/rpan-studio"],"sources":[]}

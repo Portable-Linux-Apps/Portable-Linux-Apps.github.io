@@ -1,8 +1,1 @@
-{
-  "name": "pince",
-  "description": "Reverse engineering tool for linux games",
-  "sites": [
-    "https://github.com/korcankaraokcu/PINCE"
-  ],
-  "sources": []
-}
+{"name":"pince","description":"Reverse engineering tool for linux games","sites":["https://github.com/korcankaraokcu/PINCE"],"sources":[]}

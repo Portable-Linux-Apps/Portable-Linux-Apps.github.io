@@ -1,8 +1,1 @@
-{
-  "name": "cryplicity",
-  "description": "Electron application boilerplate based on React, React Router, Webpack,",
-  "sites": [
-    "https://github.com/Kthulu120/mangle"
-  ],
-  "sources": []
-}
+{"name":"cryplicity","description":"Electron application boilerplate based on React, React Router, Webpack,","sites":["https://github.com/Kthulu120/mangle"],"sources":[]}

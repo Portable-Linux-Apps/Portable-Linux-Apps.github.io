@@ -1,8 +1,1 @@
-{
-  "name": "linuxdeploy",
-  "description": "AppDir creation and maintenance tool. Featuring flexible plugin system.",
-  "sites": [
-    "https://github.com/linuxdeploy/linuxdeploy"
-  ],
-  "sources": []
-}
+{"name":"linuxdeploy","description":"AppDir creation and maintenance tool. Featuring flexible plugin system.","sites":["https://github.com/linuxdeploy/linuxdeploy"],"sources":[]}

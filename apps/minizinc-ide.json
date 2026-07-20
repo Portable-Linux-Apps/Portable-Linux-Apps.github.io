@@ -1,8 +1,1 @@
-{
-  "name": "minizinc-ide",
-  "description": "MiniZinc is a free and open-source constraint modeling language",
-  "sites": [
-    "https://github.com/MiniZinc/MiniZincIDE"
-  ],
-  "sources": []
-}
+{"name":"minizinc-ide","description":"MiniZinc is a free and open-source constraint modeling language","sites":["https://github.com/MiniZinc/MiniZincIDE"],"sources":[]}

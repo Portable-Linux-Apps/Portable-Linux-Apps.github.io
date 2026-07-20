@@ -1,8 +1,1 @@
-{
-  "name": "dexter-dev-env",
-  "description": "Dexter Development Environment",
-  "sites": [
-    "https://github.com/cfry/dde"
-  ],
-  "sources": []
-}
+{"name":"dexter-dev-env","description":"Dexter Development Environment","sites":["https://github.com/cfry/dde"],"sources":[]}

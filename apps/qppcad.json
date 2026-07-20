@@ -1,8 +1,1 @@
-{
-  "name": "qppcad",
-  "description": "Molecule and crystal editor written in c++",
-  "sites": [
-    "https://github.com/nvpopov/qppcad"
-  ],
-  "sources": []
-}
+{"name":"qppcad","description":"Molecule and crystal editor written in c++","sites":["https://github.com/nvpopov/qppcad"],"sources":[]}

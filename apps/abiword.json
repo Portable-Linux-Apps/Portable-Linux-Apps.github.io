@@ -1,8 +1,1 @@
-{
-  "name": "abiword",
-  "description": "Abiword is a light and free word processing software that will not make you  regret the more expensive suite of programs from famous brands.\n \n This is the unofficial AppImage built on top of JuNest, the lightweight  Arch Linux based distro that runs on top of any other Linux distro.\n \n <img src=\"http://abiworditalia.altervista.org/immagini/abiword_linux.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://github.com/ivan-hc/Abiword-appimage"
-  ],
-  "sources": []
-}
+{"name":"abiword","description":"Abiword is a light and free word processing software that will not make you  regret the more expensive suite of programs from famous brands.\n \n This is the unofficial AppImage built on top of JuNest, the lightweight  Arch Linux based distro that runs on top of any other Linux distro.\n \n <img src=\"http://abiworditalia.altervista.org/immagini/abiword_linux.png\" alt=\"Screenshot\">","sites":["https://github.com/ivan-hc/Abiword-appimage"],"sources":[]}

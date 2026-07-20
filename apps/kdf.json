@@ -1,10 +1,1 @@
-{
-  "name": "kdf",
-  "description": "KDiskFree displays information about hard disks and other storage devices, including the amount of free space available. It can also mount and unmount storage devices and view them in the file manager.\n\n This tool is part of the KDE Utils Suite.\n \n <img src=\"https://cdn.kde.org/screenshots/kdf/kdf.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://apps.kde.org"
-  ],
-  "sources": [
-    "https://github.com/ivan-hc/KDE-utils-appimage"
-  ]
-}
+{"name":"kdf","description":"KDiskFree displays information about hard disks and other storage devices, including the amount of free space available. It can also mount and unmount storage devices and view them in the file manager.\n\n This tool is part of the KDE Utils Suite.\n \n <img src=\"https://cdn.kde.org/screenshots/kdf/kdf.png\" alt=\"Screenshot\">","sites":["https://apps.kde.org"],"sources":["https://github.com/ivan-hc/KDE-utils-appimage"]}

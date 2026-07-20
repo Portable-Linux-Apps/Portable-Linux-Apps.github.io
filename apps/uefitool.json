@@ -1,8 +1,1 @@
-{
-  "name": "uefitool",
-  "description": "UEFI firmware image viewer and editor.",
-  "sites": [
-    "https://github.com/pkgforge-dev/UEFITool-AppImage"
-  ],
-  "sources": []
-}
+{"name":"uefitool","description":"UEFI firmware image viewer and editor.","sites":["https://github.com/pkgforge-dev/UEFITool-AppImage"],"sources":[]}

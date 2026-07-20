@@ -1,8 +1,1 @@
-{
-  "name": "awakened-poe-trade",
-  "description": "Path of Exile trading app for price checking.",
-  "sites": [
-    "https://snosme.github.io/awakened-poe-trade/download"
-  ],
-  "sources": []
-}
+{"name":"awakened-poe-trade","description":"Path of Exile trading app for price checking.","sites":["https://snosme.github.io/awakened-poe-trade/download"],"sources":[]}

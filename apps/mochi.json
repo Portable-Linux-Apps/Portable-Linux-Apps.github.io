@@ -1,8 +1,1 @@
-{
-  "name": "mochi",
-  "description": "A simple markdown-powered SRS app.",
-  "sites": [
-    "https://mochi.cards/"
-  ],
-  "sources": []
-}
+{"name":"mochi","description":"A simple markdown-powered SRS app.","sites":["https://mochi.cards/"],"sources":[]}

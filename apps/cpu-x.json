@@ -1,8 +1,1 @@
-{
-  "name": "cpu-x",
-  "description": "CPU-X is a Free software that gathers information on CPU, motherboard and more.",
-  "sites": [
-    "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X"
-  ],
-  "sources": []
-}
+{"name":"cpu-x","description":"CPU-X is a Free software that gathers information on CPU, motherboard and more.","sites":["https://github.com/TheTumultuousUnicornOfDarkness/CPU-X"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "simplex-chat",
-  "description": "SimpleX - the first messaging platform operating without user identifiers  of any kind. 100% private by design! iOS and Android apps are released!",
-  "sites": [
-    "https://github.com/simplex-chat/simplex-chat"
-  ],
-  "sources": []
-}
+{"name":"simplex-chat","description":"SimpleX - the first messaging platform operating without user identifiers  of any kind. 100% private by design! iOS and Android apps are released!","sites":["https://github.com/simplex-chat/simplex-chat"],"sources":[]}

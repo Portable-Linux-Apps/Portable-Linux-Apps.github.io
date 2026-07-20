@@ -1,8 +1,1 @@
-{
-  "name": "aidm",
-  "description": "AppImage Desktop Maker",
-  "sites": [
-    "https://github.com/Alexsussa/AIDM"
-  ],
-  "sources": []
-}
+{"name":"aidm","description":"AppImage Desktop Maker","sites":["https://github.com/Alexsussa/AIDM"],"sources":[]}

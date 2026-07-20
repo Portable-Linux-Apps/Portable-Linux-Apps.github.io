@@ -1,8 +1,1 @@
-{
-  "name": "seanime",
-  "description": "Open-source media server with a web interface and desktop app for anime and manga.",
-  "sites": [
-    "https://github.com/5rahim/seanime"
-  ],
-  "sources": []
-}
+{"name":"seanime","description":"Open-source media server with a web interface and desktop app for anime and manga.","sites":["https://github.com/5rahim/seanime"],"sources":[]}

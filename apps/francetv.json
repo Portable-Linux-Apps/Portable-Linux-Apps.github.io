@@ -1,8 +1,1 @@
-{
-  "name": "francetv",
-  "description": "The france.tv site in an application.",
-  "sites": [
-    "https://github.com/Paullux/FranceTV"
-  ],
-  "sources": []
-}
+{"name":"francetv","description":"The france.tv site in an application.","sites":["https://github.com/Paullux/FranceTV"],"sources":[]}

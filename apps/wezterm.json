@@ -1,10 +1,1 @@
-{
-  "name": "wezterm",
-  "description": "Ez's Terminal is a GPU-accelerated cross-platform terminal  emulator and multiplexer written by @wez and implemented  in Rust.",
-  "sites": [
-    "https://wezfurlong.org/wezterm"
-  ],
-  "sources": [
-    "https://github.com/wez/wezterm"
-  ]
-}
+{"name":"wezterm","description":"Ez's Terminal is a GPU-accelerated cross-platform terminal  emulator and multiplexer written by @wez and implemented  in Rust.","sites":["https://wezfurlong.org/wezterm"],"sources":["https://github.com/wez/wezterm"]}

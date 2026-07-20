@@ -1,8 +1,1 @@
-{
-  "name": "airspaces",
-  "description": "An online map for your X-Plane flight sessions",
-  "sites": [
-    "https://github.com/foucdeg/x-plane-map-electron"
-  ],
-  "sources": []
-}
+{"name":"airspaces","description":"An online map for your X-Plane flight sessions","sites":["https://github.com/foucdeg/x-plane-map-electron"],"sources":[]}

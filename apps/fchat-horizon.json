@@ -1,8 +1,1 @@
-{
-  "name": "fchat-horizon",
-  "description": "The Best F-Chat 3.0 Client, No exceptions!.",
-  "sites": [
-    "https://github.com/Fchat-Horizon/Horizon"
-  ],
-  "sources": []
-}
+{"name":"fchat-horizon","description":"The Best F-Chat 3.0 Client, No exceptions!.","sites":["https://github.com/Fchat-Horizon/Horizon"],"sources":[]}

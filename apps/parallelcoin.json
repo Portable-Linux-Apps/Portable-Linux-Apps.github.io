@@ -1,8 +1,1 @@
-{
-  "name": "parallelcoin",
-  "description": "Parallelcoin qt wallet appimage binary",
-  "sites": [
-    "https://github.com/parallelcointeam/parallelcoin"
-  ],
-  "sources": []
-}
+{"name":"parallelcoin","description":"Parallelcoin qt wallet appimage binary","sites":["https://github.com/parallelcointeam/parallelcoin"],"sources":[]}

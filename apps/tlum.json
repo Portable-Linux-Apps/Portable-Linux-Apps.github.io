@@ -1,8 +1,1 @@
-{
-  "name": "tlum",
-  "description": "Tlum - open-source cross-platform language learning application leverages the power of natural language processing to pinpoint pronunciation gaps and enhance articulation, machine learning to boost vocabulary proficiency.",
-  "sites": [
-    "https://github.com/lyskouski/app-language"
-  ],
-  "sources": []
-}
+{"name":"tlum","description":"Tlum - open-source cross-platform language learning application leverages the power of natural language processing to pinpoint pronunciation gaps and enhance articulation, machine learning to boost vocabulary proficiency.","sites":["https://github.com/lyskouski/app-language"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "beatconnect-client",
-  "description": "Beatconnect power for osu irc",
-  "sites": [
-    "https://github.com/yadPe/beatconnect_client"
-  ],
-  "sources": []
-}
+{"name":"beatconnect-client","description":"Beatconnect power for osu irc","sites":["https://github.com/yadPe/beatconnect_client"],"sources":[]}

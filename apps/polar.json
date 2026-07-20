@@ -1,8 +1,1 @@
-{
-  "name": "polar",
-  "description": "One-click Bitcoin Lightning networks for local app  development & amp testing.",
-  "sites": [
-    "https://lightningpolar.com/"
-  ],
-  "sources": []
-}
+{"name":"polar","description":"One-click Bitcoin Lightning networks for local app  development & amp testing.","sites":["https://lightningpolar.com/"],"sources":[]}

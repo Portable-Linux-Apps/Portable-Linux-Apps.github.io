@@ -1,8 +1,1 @@
-{
-  "name": "visual-lvm",
-  "description": "Visual LVM the remote gui lvm manager for all linux platform.",
-  "sites": [
-    "https://github.com/welees/visual-lvm"
-  ],
-  "sources": []
-}
+{"name":"visual-lvm","description":"Visual LVM the remote gui lvm manager for all linux platform.","sites":["https://github.com/welees/visual-lvm"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "ciaa-suite",
-  "description": "Makefile based IDE for embedded systems",
-  "sites": [
-    "https://github.com/martinribelotta/embedded-ide-builder"
-  ],
-  "sources": []
-}
+{"name":"ciaa-suite","description":"Makefile based IDE for embedded systems","sites":["https://github.com/martinribelotta/embedded-ide-builder"],"sources":[]}

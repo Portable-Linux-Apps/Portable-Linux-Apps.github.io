@@ -1,8 +1,1 @@
-{
-  "name": "celeste64",
-  "description": "A game made by the Celeste developers in a week(ish, closer to 2)",
-  "sites": [
-    "https://github.com/ExOK/Celeste64"
-  ],
-  "sources": []
-}
+{"name":"celeste64","description":"A game made by the Celeste developers in a week(ish, closer to 2)","sites":["https://github.com/ExOK/Celeste64"],"sources":[]}

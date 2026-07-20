@@ -1,8 +1,1 @@
-{
-  "name": "moolticute",
-  "description": "Mooltipass crossplatform daemon/tools",
-  "sites": [
-    "https://github.com/mooltipass/moolticute"
-  ],
-  "sources": []
-}
+{"name":"moolticute","description":"Mooltipass crossplatform daemon/tools","sites":["https://github.com/mooltipass/moolticute"],"sources":[]}

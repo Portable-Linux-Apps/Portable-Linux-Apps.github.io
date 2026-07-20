@@ -1,8 +1,1 @@
-{
-  "name": "sha256sum",
-  "description": "Compute and check SHA256 message digest. This is part of \"am-utils\" suite.",
-  "sites": [
-    "https://github.com/ivan-hc/am-utils"
-  ],
-  "sources": []
-}
+{"name":"sha256sum","description":"Compute and check SHA256 message digest. This is part of \"am-utils\" suite.","sites":["https://github.com/ivan-hc/am-utils"],"sources":[]}

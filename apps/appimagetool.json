@@ -1,8 +1,1 @@
-{
-  "name": "appimagetool",
-  "description": "Appimagetool is used to generate an AppImage from an existing AppDir.",
-  "sites": [
-    "https://github.com/AppImage/appimagetool"
-  ],
-  "sources": []
-}
+{"name":"appimagetool","description":"Appimagetool is used to generate an AppImage from an existing AppDir.","sites":["https://github.com/AppImage/appimagetool"],"sources":[]}

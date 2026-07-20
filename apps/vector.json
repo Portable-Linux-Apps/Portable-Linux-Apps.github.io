@@ -1,8 +1,1 @@
-{
-  "name": "vector",
-  "description": "Vector is a decentralized communication platform built on the Nostr Protocol.",
-  "sites": [
-    "https://github.com/VectorPrivacy/Vector"
-  ],
-  "sources": []
-}
+{"name":"vector","description":"Vector is a decentralized communication platform built on the Nostr Protocol.","sites":["https://github.com/VectorPrivacy/Vector"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "escrcpy",
-  "description": "📱 Graphical Scrcpy to display and control Android, devices powered by Electron.\n \n 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。",
-  "sites": [
-    "https://github.com/viarotel-org/escrcpy"
-  ],
-  "sources": []
-}
+{"name":"escrcpy","description":"\ud83d\udcf1 Graphical Scrcpy to display and control Android, devices powered by Electron.\n \n \u4f7f\u7528\u56fe\u5f62\u5316\u7684 Scrcpy \u663e\u793a\u548c\u63a7\u5236\u60a8\u7684 Android \u8bbe\u5907\uff0c\u7531 Electron \u9a71\u52a8\u3002","sites":["https://github.com/viarotel-org/escrcpy"],"sources":[]}

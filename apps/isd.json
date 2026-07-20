@@ -1,8 +1,1 @@
-{
-  "name": "isd",
-  "description": "Isd (interactive systemd) – a better way to work with systemd units.",
-  "sites": [
-    "https://github.com/kainctl/isd"
-  ],
-  "sources": []
-}
+{"name":"isd","description":"Isd (interactive systemd) \u2013 a better way to work with systemd units.","sites":["https://github.com/kainctl/isd"],"sources":[]}

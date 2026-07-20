@@ -1,8 +1,1 @@
-{
-  "name": "wxmaxima",
-  "description": "wxMaxima is a document based interface for the computer  algebra system Maxima.",
-  "sites": [
-    "https://github.com/wxMaxima-developers/docker-wxmaxima"
-  ],
-  "sources": []
-}
+{"name":"wxmaxima","description":"wxMaxima is a document based interface for the computer  algebra system Maxima.","sites":["https://github.com/wxMaxima-developers/docker-wxmaxima"],"sources":[]}

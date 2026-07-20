@@ -1,8 +1,1 @@
-{
-  "name": "nudelta",
-  "description": "Open source NuPhy Console alternative.",
-  "sites": [
-    "https://github.com/donn/nudelta"
-  ],
-  "sources": []
-}
+{"name":"nudelta","description":"Open source NuPhy Console alternative.","sites":["https://github.com/donn/nudelta"],"sources":[]}

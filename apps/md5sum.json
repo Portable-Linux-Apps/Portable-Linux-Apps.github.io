@@ -1,8 +1,1 @@
-{
-  "name": "md5sum",
-  "description": "Compute and check MD5 message digest. This is part of \"am-utils\" suite.",
-  "sites": [
-    "https://github.com/ivan-hc/am-utils"
-  ],
-  "sources": []
-}
+{"name":"md5sum","description":"Compute and check MD5 message digest. This is part of \"am-utils\" suite.","sites":["https://github.com/ivan-hc/am-utils"],"sources":[]}

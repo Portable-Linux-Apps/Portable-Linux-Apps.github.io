@@ -1,8 +1,1 @@
-{
-  "name": "no-fwl",
-  "description": "NoFWL Desktop Application.",
-  "sites": [
-    "https://github.com/lencx/nofwl"
-  ],
-  "sources": []
-}
+{"name":"no-fwl","description":"NoFWL Desktop Application.","sites":["https://github.com/lencx/nofwl"],"sources":[]}

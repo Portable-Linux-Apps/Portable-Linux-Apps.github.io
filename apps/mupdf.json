@@ -1,8 +1,1 @@
-{
-  "name": "mupdf",
-  "description": "Lightweight PDF, XPS, and E-book viewer",
-  "sites": [
-    "https://github.com/m59peacemaker/mupdf-appimage"
-  ],
-  "sources": []
-}
+{"name":"mupdf","description":"Lightweight PDF, XPS, and E-book viewer","sites":["https://github.com/m59peacemaker/mupdf-appimage"],"sources":[]}

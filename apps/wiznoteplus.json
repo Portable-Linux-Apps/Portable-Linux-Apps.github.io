@@ -1,8 +1,1 @@
-{
-  "name": "wiznoteplus",
-  "description": "支持插件的第三方为知笔记客户端，插件安装方式请参见官网",
-  "sites": [
-    "https://github.com/altairwei/WizNotePlus"
-  ],
-  "sources": []
-}
+{"name":"wiznoteplus","description":"\u652f\u6301\u63d2\u4ef6\u7684\u7b2c\u4e09\u65b9\u4e3a\u77e5\u7b14\u8bb0\u5ba2\u6237\u7aef\uff0c\u63d2\u4ef6\u5b89\u88c5\u65b9\u5f0f\u8bf7\u53c2\u89c1\u5b98\u7f51","sites":["https://github.com/altairwei/WizNotePlus"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "ecode",
-  "description": "Lightweight multi-platform code editor designed for modern hardware with  a focus on responsiveness and performance.",
-  "sites": [
-    "https://github.com/SpartanJ/ecode"
-  ],
-  "sources": []
-}
+{"name":"ecode","description":"Lightweight multi-platform code editor designed for modern hardware with  a focus on responsiveness and performance.","sites":["https://github.com/SpartanJ/ecode"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "awakened-poe-trade-enhanced",
-  "description": "Unofficial AppImage of Awakened POE Trade with some fixes and wider OS support.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Awakened-POE-Trade-AppImage-Enhanced"
-  ],
-  "sources": []
-}
+{"name":"awakened-poe-trade-enhanced","description":"Unofficial AppImage of Awakened POE Trade with some fixes and wider OS support.","sites":["https://github.com/pkgforge-dev/Awakened-POE-Trade-AppImage-Enhanced"],"sources":[]}

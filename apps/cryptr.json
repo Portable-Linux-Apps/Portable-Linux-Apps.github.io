@@ -1,8 +1,1 @@
-{
-  "name": "cryptr",
-  "description": "A GUI for Vault",
-  "sites": [
-    "https://github.com/adobe/cryptr"
-  ],
-  "sources": []
-}
+{"name":"cryptr","description":"A GUI for Vault","sites":["https://github.com/adobe/cryptr"],"sources":[]}

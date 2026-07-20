@@ -1,8 +1,1 @@
-{
-  "name": "darkplaces",
-  "description": "The DarkPlaces Quake engine, created by LadyHavoc.",
-  "sites": [
-    "https://github.com/pkgforge-dev/DarkPlaces-AppImage"
-  ],
-  "sources": []
-}
+{"name":"darkplaces","description":"The DarkPlaces Quake engine, created by LadyHavoc.","sites":["https://github.com/pkgforge-dev/DarkPlaces-AppImage"],"sources":[]}

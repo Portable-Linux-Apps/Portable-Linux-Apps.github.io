@@ -1,8 +1,1 @@
-{
-  "name": "coreimage",
-  "description": "An image viewer for CuboCore Application Suite.",
-  "sites": [
-    "https://gitlab.com/cubocore"
-  ],
-  "sources": []
-}
+{"name":"coreimage","description":"An image viewer for CuboCore Application Suite.","sites":["https://gitlab.com/cubocore"],"sources":[]}

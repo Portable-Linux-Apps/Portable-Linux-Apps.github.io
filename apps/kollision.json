@@ -1,10 +1,1 @@
-{
-  "name": "kollision",
-  "description": "Use your mouse to dodge red balls in the field. Be careful as the ball  increase in number and vary in speeds.\n \n This game is part of the KDE Games suite.\n \n USAGE (from the command line):\n \n           kdegames -h (shows the list of games)\n           kdegames $GAME (launches the selected game)\n           \n <img src=\"https://cdn.kde.org/screenshots/kollision/kollision.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://apps.kde.org"
-  ],
-  "sources": [
-    "https://github.com/ivan-hc/KDE-games-suite-appimage"
-  ]
-}
+{"name":"kollision","description":"Use your mouse to dodge red balls in the field. Be careful as the ball  increase in number and vary in speeds.\n \n This game is part of the KDE Games suite.\n \n USAGE (from the command line):\n \n           kdegames -h (shows the list of games)\n           kdegames $GAME (launches the selected game)\n           \n <img src=\"https://cdn.kde.org/screenshots/kollision/kollision.png\" alt=\"Screenshot\">","sites":["https://apps.kde.org"],"sources":["https://github.com/ivan-hc/KDE-games-suite-appimage"]}

@@ -1,8 +1,1 @@
-{
-  "name": "goland",
-  "description": "Capable and Ergonomic Go IDE.",
-  "sites": [
-    "https://www.jetbrains.com"
-  ],
-  "sources": []
-}
+{"name":"goland","description":"Capable and Ergonomic Go IDE.","sites":["https://www.jetbrains.com"],"sources":[]}

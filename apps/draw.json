@@ -1,8 +1,1 @@
-{
-  "name": "draw",
-  "description": "Draw in your terminal",
-  "sites": [
-    "https://github.com/maaslalani/draw"
-  ],
-  "sources": []
-}
+{"name":"draw","description":"Draw in your terminal","sites":["https://github.com/maaslalani/draw"],"sources":[]}

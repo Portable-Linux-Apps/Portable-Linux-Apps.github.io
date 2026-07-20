@@ -1,8 +1,1 @@
-{
-  "name": "fcp",
-  "description": "A significantly faster alternative to the classic Unix cp(1) command, copying large files and directories in a fraction of the time.",
-  "sites": [
-    "https://github.com/Svetlitski/fcp"
-  ],
-  "sources": []
-}
+{"name":"fcp","description":"A significantly faster alternative to the classic Unix cp(1) command, copying large files and directories in a fraction of the time.","sites":["https://github.com/Svetlitski/fcp"],"sources":[]}

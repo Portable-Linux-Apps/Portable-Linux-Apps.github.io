@@ -1,8 +1,1 @@
-{
-  "name": "aurora",
-  "description": "A utility to control RGB keyboard back-light and charging threshold for Asus TUF-gaming laptops.",
-  "sites": [
-    "https://github.com/legacyO7/Aurora"
-  ],
-  "sources": []
-}
+{"name":"aurora","description":"A utility to control RGB keyboard back-light and charging threshold for Asus TUF-gaming laptops.","sites":["https://github.com/legacyO7/Aurora"],"sources":[]}

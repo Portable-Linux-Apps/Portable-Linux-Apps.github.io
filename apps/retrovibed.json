@@ -1,8 +1,1 @@
-{
-  "name": "retrovibed",
-  "description": "Personal Digital Archive and Media Player with at cost cloud storage backend.",
-  "sites": [
-    "https://github.com/retrovibed/retrovibed"
-  ],
-  "sources": []
-}
+{"name":"retrovibed","description":"Personal Digital Archive and Media Player with at cost cloud storage backend.","sites":["https://github.com/retrovibed/retrovibed"],"sources":[]}

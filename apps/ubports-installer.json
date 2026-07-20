@@ -1,8 +1,1 @@
-{
-  "name": "ubports-installer",
-  "description": "A simple tool to install Ubuntu Touch on UBports devices.",
-  "sites": [
-    "https://github.com/ubports/ubports-installer"
-  ],
-  "sources": []
-}
+{"name":"ubports-installer","description":"A simple tool to install Ubuntu Touch on UBports devices.","sites":["https://github.com/ubports/ubports-installer"],"sources":[]}

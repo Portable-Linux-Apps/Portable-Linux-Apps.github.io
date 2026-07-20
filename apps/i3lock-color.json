@@ -1,8 +1,1 @@
-{
-  "name": "i3lock-color",
-  "description": "The world's most popular non-default computer lockscreen.\n\n <img src=\"https://raw.githubusercontent.com/Raymo111/i3lock-color/master/examples/screenshot.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://github.com/Raymo111/i3lock-color"
-  ],
-  "sources": []
-}
+{"name":"i3lock-color","description":"The world's most popular non-default computer lockscreen.\n\n <img src=\"https://raw.githubusercontent.com/Raymo111/i3lock-color/master/examples/screenshot.png\" alt=\"Screenshot\">","sites":["https://github.com/Raymo111/i3lock-color"],"sources":[]}

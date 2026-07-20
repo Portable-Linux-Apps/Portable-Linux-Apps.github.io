@@ -1,8 +1,1 @@
-{
-  "name": "laigter",
-  "description": "Tool to generate normal, specular, occlussion and parallax maps for 2D",
-  "sites": [
-    "https://github.com/azagaya/laigter"
-  ],
-  "sources": []
-}
+{"name":"laigter","description":"Tool to generate normal, specular, occlussion and parallax maps for 2D","sites":["https://github.com/azagaya/laigter"],"sources":[]}

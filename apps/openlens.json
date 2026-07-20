@@ -1,8 +1,1 @@
-{
-  "name": "openlens",
-  "description": "OpenLens Binary Build Repository.",
-  "sites": [
-    "https://github.com/MuhammedKalkan/OpenLens"
-  ],
-  "sources": []
-}
+{"name":"openlens","description":"OpenLens Binary Build Repository.","sites":["https://github.com/MuhammedKalkan/OpenLens"],"sources":[]}

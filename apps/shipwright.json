@@ -1,8 +1,1 @@
-{
-  "name": "shipwright",
-  "description": "Ship of Harkinian.",
-  "sites": [
-    "https://github.com/HarbourMasters/Shipwright"
-  ],
-  "sources": []
-}
+{"name":"shipwright","description":"Ship of Harkinian.","sites":["https://github.com/HarbourMasters/Shipwright"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "blizzard-4",
-  "description": "Emulator & toolchain for the Blizzard 4 16-bit computer.",
-  "sites": [
-    "https://github.com/danielfspencer/blizzard-4"
-  ],
-  "sources": []
-}
+{"name":"blizzard-4","description":"Emulator & toolchain for the Blizzard 4 16-bit computer.","sites":["https://github.com/danielfspencer/blizzard-4"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "lmstudio",
-  "description": "An easy to use desktop app for experimenting with local and open-source Large Language Models (LLMs).",
-  "sites": [
-    "https://lmstudio.ai"
-  ],
-  "sources": []
-}
+{"name":"lmstudio","description":"An easy to use desktop app for experimenting with local and open-source Large Language Models (LLMs).","sites":["https://lmstudio.ai"],"sources":[]}

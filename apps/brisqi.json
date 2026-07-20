@@ -1,10 +1,1 @@
-{
-  "name": "brisqi",
-  "description": "Offline-first personal Kanban app. Elegantly designed & passionately built.\n \n Keeping you productive anywhere — whether online or off the grid.",
-  "sites": [
-    "https://brisqi.com"
-  ],
-  "sources": [
-    "https://github.com/Brisqi/releases"
-  ]
-}
+{"name":"brisqi","description":"Offline-first personal Kanban app. Elegantly designed & passionately built.\n \n Keeping you productive anywhere \u2014 whether online or off the grid.","sites":["https://brisqi.com"],"sources":["https://github.com/Brisqi/releases"]}

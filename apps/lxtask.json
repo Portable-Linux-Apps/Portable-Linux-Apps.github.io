@@ -1,10 +1,1 @@
-{
-  "name": "lxtask",
-  "description": "LXTask - lightweight and desktop-independent task manager derived from xfce4-taskmanager with all dependencies on Xfce removed, new  features, and some improvement of the user interface.   LXTask is based on GTK+ toolkit. It allows monitoring and  controlling of running processes.",
-  "sites": [
-    "https://www.lxde.org"
-  ],
-  "sources": [
-    "https://github.com/ivan-hc/lxtask-appimage"
-  ]
-}
+{"name":"lxtask","description":"LXTask - lightweight and desktop-independent task manager derived from xfce4-taskmanager with all dependencies on Xfce removed, new  features, and some improvement of the user interface.   LXTask is based on GTK+ toolkit. It allows monitoring and  controlling of running processes.","sites":["https://www.lxde.org"],"sources":["https://github.com/ivan-hc/lxtask-appimage"]}

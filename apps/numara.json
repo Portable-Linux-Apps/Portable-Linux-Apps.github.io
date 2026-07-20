@@ -1,8 +1,1 @@
-{
-  "name": "numara",
-  "description": "Simple notepad calculator built on Electron, powered by Math.js",
-  "sites": [
-    "https://github.com/bornova/numara-calculator"
-  ],
-  "sources": []
-}
+{"name":"numara","description":"Simple notepad calculator built on Electron, powered by Math.js","sites":["https://github.com/bornova/numara-calculator"],"sources":[]}

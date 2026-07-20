@@ -1,8 +1,1 @@
-{
-  "name": "gerbil",
-  "description": "A desktop app for running Large Language Models locally.",
-  "sites": [
-    "https://github.com/lone-cloud/gerbil"
-  ],
-  "sources": []
-}
+{"name":"gerbil","description":"A desktop app for running Large Language Models locally.","sites":["https://github.com/lone-cloud/gerbil"],"sources":[]}

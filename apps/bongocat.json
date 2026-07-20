@@ -1,8 +1,1 @@
-{
-  "name": "bongocat",
-  "description": "BongoCat 是一个可爱的互动桌面宠物应用，让你的桌面充满乐趣！",
-  "sites": [
-    "https://github.com/ayangweb/BongoCat"
-  ],
-  "sources": []
-}
+{"name":"bongocat","description":"BongoCat \u662f\u4e00\u4e2a\u53ef\u7231\u7684\u4e92\u52a8\u684c\u9762\u5ba0\u7269\u5e94\u7528\uff0c\u8ba9\u4f60\u7684\u684c\u9762\u5145\u6ee1\u4e50\u8da3\uff01","sites":["https://github.com/ayangweb/BongoCat"],"sources":[]}

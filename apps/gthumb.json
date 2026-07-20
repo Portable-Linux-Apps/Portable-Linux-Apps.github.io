@@ -1,8 +1,1 @@
-{
-  "name": "gthumb",
-  "description": "Unofficial, image viewer and browser.",
-  "sites": [
-    "https://github.com/pkgforge-dev/gThumb-AppImage"
-  ],
-  "sources": []
-}
+{"name":"gthumb","description":"Unofficial, image viewer and browser.","sites":["https://github.com/pkgforge-dev/gThumb-AppImage"],"sources":[]}

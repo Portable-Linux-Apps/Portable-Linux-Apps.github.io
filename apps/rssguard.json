@@ -1,8 +1,1 @@
-{
-  "name": "rssguard",
-  "description": "RSS Guard is simple feed reader which supports RSS/ATOM/JSON and many web-based feed services.",
-  "sites": [
-    "https://github.com/martinrotter/rssguard"
-  ],
-  "sources": []
-}
+{"name":"rssguard","description":"RSS Guard is simple feed reader which supports RSS/ATOM/JSON and many web-based feed services.","sites":["https://github.com/martinrotter/rssguard"],"sources":[]}

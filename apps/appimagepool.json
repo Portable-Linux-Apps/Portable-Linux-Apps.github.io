@@ -1,8 +1,1 @@
-{
-  "name": "appimagepool",
-  "description": "A simple, modern AppImageHub Client, powered by flutter.",
-  "sites": [
-    "https://github.com/prateekmedia/appimagepool"
-  ],
-  "sources": []
-}
+{"name":"appimagepool","description":"A simple, modern AppImageHub Client, powered by flutter.","sites":["https://github.com/prateekmedia/appimagepool"],"sources":[]}

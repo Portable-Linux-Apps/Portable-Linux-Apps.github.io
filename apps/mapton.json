@@ -1,8 +1,1 @@
-{
-  "name": "mapton",
-  "description": "Some kind of map application",
-  "sites": [
-    "https://github.com/trixon/mapton"
-  ],
-  "sources": []
-}
+{"name":"mapton","description":"Some kind of map application","sites":["https://github.com/trixon/mapton"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "piclist",
-  "description": "a cloud storage platform management and file upload tool based  on PicGo, which has been deeply redeveloped.\n \n 一款云储存/图床管理和文件上传客户端工具,基于PicGo深度二次开发.",
-  "sites": [
-    "https://piclist.cn/"
-  ],
-  "sources": []
-}
+{"name":"piclist","description":"a cloud storage platform management and file upload tool based  on PicGo, which has been deeply redeveloped.\n \n \u4e00\u6b3e\u4e91\u50a8\u5b58/\u56fe\u5e8a\u7ba1\u7406\u548c\u6587\u4ef6\u4e0a\u4f20\u5ba2\u6237\u7aef\u5de5\u5177,\u57fa\u4e8ePicGo\u6df1\u5ea6\u4e8c\u6b21\u5f00\u53d1.","sites":["https://piclist.cn/"],"sources":[]}

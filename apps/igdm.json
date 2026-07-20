@@ -1,8 +1,1 @@
-{
-  "name": "igdm",
-  "description": "Desktop application for Instagram DMs",
-  "sites": [
-    "https://github.com/ifedapoolarewaju/igdm"
-  ],
-  "sources": []
-}
+{"name":"igdm","description":"Desktop application for Instagram DMs","sites":["https://github.com/ifedapoolarewaju/igdm"],"sources":[]}

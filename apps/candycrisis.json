@@ -1,8 +1,1 @@
-{
-  "name": "candycrisis",
-  "description": "Candy Crisis source port for modern operating systems.",
-  "sites": [
-    "https://github.com/jorio/CandyCrisis"
-  ],
-  "sources": []
-}
+{"name":"candycrisis","description":"Candy Crisis source port for modern operating systems.","sites":["https://github.com/jorio/CandyCrisis"],"sources":[]}

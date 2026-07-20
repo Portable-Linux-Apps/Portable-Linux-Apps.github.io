@@ -1,8 +1,1 @@
-{
-  "name": "mp4grep",
-  "description": "mp4grep is a CLI for transcribing and searching audio/video files.",
-  "sites": [
-    "https://github.com/o-oconnell/mp4grep"
-  ],
-  "sources": []
-}
+{"name":"mp4grep","description":"mp4grep is a CLI for transcribing and searching audio/video files.","sites":["https://github.com/o-oconnell/mp4grep"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "bearly",
-  "description": "The world's best AI at your fingertips.\n\n Read, write, and learn faster with the world best AI accessible with a hotkey  directly on your desktop. Available for Mac, Windows & Linux.",
-  "sites": [
-    "https://github.com/bearlyai/releases"
-  ],
-  "sources": []
-}
+{"name":"bearly","description":"The world's best AI at your fingertips.\n\n Read, write, and learn faster with the world best AI accessible with a hotkey  directly on your desktop. Available for Mac, Windows & Linux.","sites":["https://github.com/bearlyai/releases"],"sources":[]}

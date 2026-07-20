@@ -1,8 +1,1 @@
-{
-  "name": "gltf-insight",
-  "description": "C++11 based glTF 2.0 data insight tool.",
-  "sites": [
-    "https://github.com/lighttransport/gltf-insight"
-  ],
-  "sources": []
-}
+{"name":"gltf-insight","description":"C++11 based glTF 2.0 data insight tool.","sites":["https://github.com/lighttransport/gltf-insight"],"sources":[]}

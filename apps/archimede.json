@@ -1,8 +1,1 @@
-{
-  "name": "archimede",
-  "description": "💡 Unobtrusive directory information fetcher.",
-  "sites": [
-    "https://github.com/gennaro-tedesco/archimede"
-  ],
-  "sources": []
-}
+{"name":"archimede","description":"\ud83d\udca1 Unobtrusive directory information fetcher.","sites":["https://github.com/gennaro-tedesco/archimede"],"sources":[]}

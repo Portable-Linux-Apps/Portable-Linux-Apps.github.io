@@ -1,8 +1,1 @@
-{
-  "name": "yaka",
-  "description": "No fuss todo-list manager with full keyboard navigation",
-  "sites": [
-    "https://github.com/jyannick/yaka"
-  ],
-  "sources": []
-}
+{"name":"yaka","description":"No fuss todo-list manager with full keyboard navigation","sites":["https://github.com/jyannick/yaka"],"sources":[]}

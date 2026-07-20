@@ -1,8 +1,1 @@
-{
-  "name": "fdroidcl",
-  "description": "A command-line F-Droid desktop client.",
-  "sites": [
-    "https://github.com/Hoverth/fdroidcl"
-  ],
-  "sources": []
-}
+{"name":"fdroidcl","description":"A command-line F-Droid desktop client.","sites":["https://github.com/Hoverth/fdroidcl"],"sources":[]}

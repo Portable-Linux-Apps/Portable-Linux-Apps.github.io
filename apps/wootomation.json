@@ -1,8 +1,1 @@
-{
-  "name": "wootomation",
-  "description": "The official Wooting Macros software.",
-  "sites": [
-    "https://github.com/WootingKb/wooting-macros"
-  ],
-  "sources": []
-}
+{"name":"wootomation","description":"The official Wooting Macros software.","sites":["https://github.com/WootingKb/wooting-macros"],"sources":[]}

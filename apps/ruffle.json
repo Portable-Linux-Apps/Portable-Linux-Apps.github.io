@@ -1,8 +1,1 @@
-{
-  "name": "ruffle",
-  "description": "A Flash Player emulator written in Rust.\n\n This is the portable official version converted to an AppImage by our team, \"Portable Linux Apps\" , no additional changes have been made.",
-  "sites": [
-    "https://github.com/ruffle-rs/ruffle"
-  ],
-  "sources": []
-}
+{"name":"ruffle","description":"A Flash Player emulator written in Rust.\n\n This is the portable official version converted to an AppImage by our team, \"Portable Linux Apps\" , no additional changes have been made.","sites":["https://github.com/ruffle-rs/ruffle"],"sources":[]}

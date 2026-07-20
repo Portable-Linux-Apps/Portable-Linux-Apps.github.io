@@ -1,8 +1,1 @@
-{
-  "name": "crawl-tiles",
-  "description": "Dungeon Crawl Stone Soup: open-source, single-player, role-playing roguelike game of exploration and treasure-hunting - graphical version (SDL)",
-  "sites": [
-    "https://github.com/crawl/crawl"
-  ],
-  "sources": []
-}
+{"name":"crawl-tiles","description":"Dungeon Crawl Stone Soup: open-source, single-player, role-playing roguelike game of exploration and treasure-hunting - graphical version (SDL)","sites":["https://github.com/crawl/crawl"],"sources":[]}

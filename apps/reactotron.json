@@ -1,8 +1,1 @@
-{
-  "name": "reactotron",
-  "description": "Reactotron desktop mode engage!",
-  "sites": [
-    "https://github.com/infinitered/reactotron"
-  ],
-  "sources": []
-}
+{"name":"reactotron","description":"Reactotron desktop mode engage!","sites":["https://github.com/infinitered/reactotron"],"sources":[]}

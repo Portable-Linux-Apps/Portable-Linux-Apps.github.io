@@ -1,8 +1,1 @@
-{
-  "name": "gnome-boxes",
-  "description": "A simple GNOME application to access virtual machines.\n \n This is the Unofficial AppImage built on top of \"JuNest\" (Arch Linux).",
-  "sites": [
-    "https://github.com/ivan-hc/Boxes-appimage"
-  ],
-  "sources": []
-}
+{"name":"gnome-boxes","description":"A simple GNOME application to access virtual machines.\n \n This is the Unofficial AppImage built on top of \"JuNest\" (Arch Linux).","sites":["https://github.com/ivan-hc/Boxes-appimage"],"sources":[]}

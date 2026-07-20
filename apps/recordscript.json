@@ -1,8 +1,1 @@
-{
-  "name": "recordscript",
-  "description": "Cross-platform screen recorder, transcript, subtitle. Built with Tauri & Whisper-rs (rust port of whisper.cpp)",
-  "sites": [
-    "https://github.com/Recordscript/recordscript"
-  ],
-  "sources": []
-}
+{"name":"recordscript","description":"Cross-platform screen recorder, transcript, subtitle. Built with Tauri & Whisper-rs (rust port of whisper.cpp)","sites":["https://github.com/Recordscript/recordscript"],"sources":[]}

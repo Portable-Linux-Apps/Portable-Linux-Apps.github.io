@@ -1,10 +1,1 @@
-{
-  "name": "isoimagewriter",
-  "description": "Write an ISO Image to a USB Disk.\n\n This tool is part of the KDE Utils Suite.\n\n <img src=\"https://cdn.kde.org/screenshots/isoimagewriter/isoimagewriter2.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://apps.kde.org"
-  ],
-  "sources": [
-    "https://github.com/ivan-hc/KDE-utils-appimage"
-  ]
-}
+{"name":"isoimagewriter","description":"Write an ISO Image to a USB Disk.\n\n This tool is part of the KDE Utils Suite.\n\n <img src=\"https://cdn.kde.org/screenshots/isoimagewriter/isoimagewriter2.png\" alt=\"Screenshot\">","sites":["https://apps.kde.org"],"sources":["https://github.com/ivan-hc/KDE-utils-appimage"]}

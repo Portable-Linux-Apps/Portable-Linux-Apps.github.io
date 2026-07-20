@@ -1,8 +1,1 @@
-{
-  "name": "sanicball",
-  "description": "An extraordinarily fast racing game.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Sanicball-AppImage"
-  ],
-  "sources": []
-}
+{"name":"sanicball","description":"An extraordinarily fast racing game.","sites":["https://github.com/pkgforge-dev/Sanicball-AppImage"],"sources":[]}

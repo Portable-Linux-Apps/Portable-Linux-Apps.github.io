@@ -1,8 +1,1 @@
-{
-  "name": "birds-kitchen",
-  "description": "recipe manager",
-  "sites": [
-    "https://github.com/fredserva/birdskitchen"
-  ],
-  "sources": []
-}
+{"name":"birds-kitchen","description":"recipe manager","sites":["https://github.com/fredserva/birdskitchen"],"sources":[]}

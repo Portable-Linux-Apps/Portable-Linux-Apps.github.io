@@ -1,8 +1,1 @@
-{
-  "name": "redis-gui",
-  "description": "Modern graphical user interface to peek into redis database (unofficial).",
-  "sites": [
-    "https://github.com/ekvedaras/redis-gui"
-  ],
-  "sources": []
-}
+{"name":"redis-gui","description":"Modern graphical user interface to peek into redis database (unofficial).","sites":["https://github.com/ekvedaras/redis-gui"],"sources":[]}

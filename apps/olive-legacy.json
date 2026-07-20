@@ -1,10 +1,1 @@
-{
-  "name": "olive-legacy",
-  "description": "Olive is a free non-linear video editor for Windows, macOS, and Linux.\n \n Release version: Olive 0.1\n  \n <img src=\"https://upload.wikimedia.org/wikipedia/commons/2/23/Olive_video_editor_Alpha_0.1.0_2019-10_1e3cf533-fr.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://olivevideoeditor.org"
-  ],
-  "sources": [
-    "https://github.com/olive-editor/olive"
-  ]
-}
+{"name":"olive-legacy","description":"Olive is a free non-linear video editor for Windows, macOS, and Linux.\n \n Release version: Olive 0.1\n  \n <img src=\"https://upload.wikimedia.org/wikipedia/commons/2/23/Olive_video_editor_Alpha_0.1.0_2019-10_1e3cf533-fr.png\" alt=\"Screenshot\">","sites":["https://olivevideoeditor.org"],"sources":["https://github.com/olive-editor/olive"]}

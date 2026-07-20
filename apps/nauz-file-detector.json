@@ -1,8 +1,1 @@
-{
-  "name": "nauz-file-detector",
-  "description": "Nauz File Detector is a portable linker/compiler/packer identifier utility.",
-  "sites": [
-    "https://github.com/horsicq/Nauz-File-Detector"
-  ],
-  "sources": []
-}
+{"name":"nauz-file-detector","description":"Nauz File Detector is a portable linker/compiler/packer identifier utility.","sites":["https://github.com/horsicq/Nauz-File-Detector"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "carpenters",
-  "description": "Digital preservation ingest utility",
-  "sites": [
-    "https://github.com/uhlibraries-digital/carpenters"
-  ],
-  "sources": []
-}
+{"name":"carpenters","description":"Digital preservation ingest utility","sites":["https://github.com/uhlibraries-digital/carpenters"],"sources":[]}

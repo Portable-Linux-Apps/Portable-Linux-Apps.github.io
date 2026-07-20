@@ -1,8 +1,1 @@
-{
-  "name": "patchwork",
-  "description": "A decentralized messaging and sharing app built on top of Secure Scuttlebutt",
-  "sites": [
-    "https://github.com/ssbc/patchwork"
-  ],
-  "sources": []
-}
+{"name":"patchwork","description":"A decentralized messaging and sharing app built on top of Secure Scuttlebutt","sites":["https://github.com/ssbc/patchwork"],"sources":[]}

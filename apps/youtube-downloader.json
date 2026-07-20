@@ -1,8 +1,1 @@
-{
-  "name": "youtube-downloader",
-  "description": "A simple cross platform desktop application that downloads video/audio from youtube (and instagram) videos. Works on Mac, Windows, and Linux! This app was built with Electron, Node/Typescript, and React",
-  "sites": [
-    "https://github.com/AnthonyGress/Youtube-Downloader"
-  ],
-  "sources": []
-}
+{"name":"youtube-downloader","description":"A simple cross platform desktop application that downloads video/audio from youtube (and instagram) videos. Works on Mac, Windows, and Linux! This app was built with Electron, Node/Typescript, and React","sites":["https://github.com/AnthonyGress/Youtube-Downloader"],"sources":[]}

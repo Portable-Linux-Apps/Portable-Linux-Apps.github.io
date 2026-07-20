@@ -1,8 +1,1 @@
-{
-  "name": "ghostty-glfw",
-  "description": "Unofficial AppImage(s) of Ghostty terminal emulator 👻\n \n This is the glfw version that don't uses GTK4 and libadwaita and is much faster, better and smaller as result.",
-  "sites": [
-    "https://github.com/pkgforge-dev/ghostty-appimage"
-  ],
-  "sources": []
-}
+{"name":"ghostty-glfw","description":"Unofficial AppImage(s) of Ghostty terminal emulator \ud83d\udc7b\n \n This is the glfw version that don't uses GTK4 and libadwaita and is much faster, better and smaller as result.","sites":["https://github.com/pkgforge-dev/ghostty-appimage"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "sheikah",
-  "description": "A Witnet compatible desktop wallet and data requests development environment.",
-  "sites": [
-    "https://github.com/witnet/sheikah"
-  ],
-  "sources": []
-}
+{"name":"sheikah","description":"A Witnet compatible desktop wallet and data requests development environment.","sites":["https://github.com/witnet/sheikah"],"sources":[]}

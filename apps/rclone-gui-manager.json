@@ -1,8 +1,1 @@
-{
-  "name": "rclone-gui-manager",
-  "description": "A simple, modern graphical user interface for managing rclone remotes for Linux.",
-  "sites": [
-    "https://github.com/madroots/rclone-gui-manager"
-  ],
-  "sources": []
-}
+{"name":"rclone-gui-manager","description":"A simple, modern graphical user interface for managing rclone remotes for Linux.","sites":["https://github.com/madroots/rclone-gui-manager"],"sources":[]}

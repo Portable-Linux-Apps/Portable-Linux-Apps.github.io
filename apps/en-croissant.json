@@ -1,8 +1,1 @@
-{
-  "name": "en-croissant",
-  "description": "The Ultimate Chess Toolkit.",
-  "sites": [
-    "https://github.com/franciscoBSalgueiro/en-croissant"
-  ],
-  "sources": []
-}
+{"name":"en-croissant","description":"The Ultimate Chess Toolkit.","sites":["https://github.com/franciscoBSalgueiro/en-croissant"],"sources":[]}

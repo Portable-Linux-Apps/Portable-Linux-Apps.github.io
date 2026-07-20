@@ -1,8 +1,1 @@
-{
-  "name": "qtjsondiff",
-  "description": "Some kind of json diff widget that consists of two json viewer widgets with highlighting of jsons.",
-  "sites": [
-    "https://github.com/coozoo/qtjsondiff"
-  ],
-  "sources": []
-}
+{"name":"qtjsondiff","description":"Some kind of json diff widget that consists of two json viewer widgets with highlighting of jsons.","sites":["https://github.com/coozoo/qtjsondiff"],"sources":[]}

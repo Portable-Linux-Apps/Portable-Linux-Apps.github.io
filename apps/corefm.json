@@ -1,8 +1,1 @@
-{
-  "name": "corefm",
-  "description": "A lightweight file-manager for C Suite.",
-  "sites": [
-    "https://gitlab.com/cubocore"
-  ],
-  "sources": []
-}
+{"name":"corefm","description":"A lightweight file-manager for C Suite.","sites":["https://gitlab.com/cubocore"],"sources":[]}

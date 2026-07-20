@@ -1,8 +1,1 @@
-{
-  "name": "lexido",
-  "description": "A terminal assistant, powered by Generative AI.",
-  "sites": [
-    "https://github.com/micr0-dev/lexido"
-  ],
-  "sources": []
-}
+{"name":"lexido","description":"A terminal assistant, powered by Generative AI.","sites":["https://github.com/micr0-dev/lexido"],"sources":[]}

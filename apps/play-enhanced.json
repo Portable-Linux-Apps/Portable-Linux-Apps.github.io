@@ -1,8 +1,1 @@
-{
-  "name": "play-enhanced",
-  "description": "Unofficial, a PlayStation2 emulator.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Play-AppImage-Enhanced"
-  ],
-  "sources": []
-}
+{"name":"play-enhanced","description":"Unofficial, a PlayStation2 emulator.","sites":["https://github.com/pkgforge-dev/Play-AppImage-Enhanced"],"sources":[]}

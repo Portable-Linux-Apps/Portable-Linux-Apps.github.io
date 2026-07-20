@@ -1,8 +1,1 @@
-{
-  "name": "strawberry",
-  "description": "Unofficial AppImage of the strawberry music player",
-  "sites": [
-    "https://github.com/Samueru-sama/strawberry-AppImage"
-  ],
-  "sources": []
-}
+{"name":"strawberry","description":"Unofficial AppImage of the strawberry music player","sites":["https://github.com/Samueru-sama/strawberry-AppImage"],"sources":[]}

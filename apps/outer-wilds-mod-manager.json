@@ -1,8 +1,1 @@
-{
-  "name": "outer-wilds-mod-manager",
-  "description": "The mod manager for the Outer Wilds Mod Loader",
-  "sites": [
-    "https://github.com/Bwc9876/ow-mod-man"
-  ],
-  "sources": []
-}
+{"name":"outer-wilds-mod-manager","description":"The mod manager for the Outer Wilds Mod Loader","sites":["https://github.com/Bwc9876/ow-mod-man"],"sources":[]}

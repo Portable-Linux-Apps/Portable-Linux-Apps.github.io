@@ -1,8 +1,1 @@
-{
-  "name": "okteta",
-  "description": "Unofficial. Hex editor for viewing and editing the raw data of files.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Okteta-AppImage"
-  ],
-  "sources": []
-}
+{"name":"okteta","description":"Unofficial. Hex editor for viewing and editing the raw data of files.","sites":["https://github.com/pkgforge-dev/Okteta-AppImage"],"sources":[]}

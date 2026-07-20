@@ -1,8 +1,1 @@
-{
-  "name": "epsxe",
-  "description": "Unofficial, enhanced PSX emulator.",
-  "sites": [
-    "https://github.com/pkgforge-dev/ePSXe-AppImage"
-  ],
-  "sources": []
-}
+{"name":"epsxe","description":"Unofficial, enhanced PSX emulator.","sites":["https://github.com/pkgforge-dev/ePSXe-AppImage"],"sources":[]}

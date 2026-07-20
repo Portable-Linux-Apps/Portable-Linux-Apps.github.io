@@ -1,8 +1,1 @@
-{
-  "name": "qr-code-generator",
-  "description": "Create custom QR Codes. You can save them as PNG image. You can change the size of the image.",
-  "sites": [
-    "https://github.com/studioLaCosaNostra/qr-code-generator-desktop"
-  ],
-  "sources": []
-}
+{"name":"qr-code-generator","description":"Create custom QR Codes. You can save them as PNG image. You can change the size of the image.","sites":["https://github.com/studioLaCosaNostra/qr-code-generator-desktop"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "ecency-surfer",
-  "description": "Immutable, decentralized, uncensored, rewarding communities built,  owned and operated by its users.",
-  "sites": [
-    "https://ecency.com/"
-  ],
-  "sources": []
-}
+{"name":"ecency-surfer","description":"Immutable, decentralized, uncensored, rewarding communities built,  owned and operated by its users.","sites":["https://ecency.com/"],"sources":[]}

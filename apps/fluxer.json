@@ -1,8 +1,1 @@
-{
-  "name": "fluxer",
-  "description": "A free and open source instant messaging and VoIP platform built for friends, groups, and communities.",
-  "sites": [
-    "https://fluxer.app"
-  ],
-  "sources": []
-}
+{"name":"fluxer","description":"A free and open source instant messaging and VoIP platform built for friends, groups, and communities.","sites":["https://fluxer.app"],"sources":[]}

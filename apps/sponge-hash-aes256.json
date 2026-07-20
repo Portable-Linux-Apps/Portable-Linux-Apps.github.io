@@ -1,8 +1,1 @@
-{
-  "name": "sponge-hash-aes256",
-  "description": "A sponge-based secure hash function that uses AES-256 as its internal PRF.",
-  "sites": [
-    "https://github.com/lordmulder/sponge-hash-aes256"
-  ],
-  "sources": []
-}
+{"name":"sponge-hash-aes256","description":"A sponge-based secure hash function that uses AES-256 as its internal PRF.","sites":["https://github.com/lordmulder/sponge-hash-aes256"],"sources":[]}

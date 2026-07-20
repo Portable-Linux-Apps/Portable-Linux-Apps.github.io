@@ -1,8 +1,1 @@
-{
-  "name": "kitupiikki",
-  "description": "Bookkeeping software for small organizations",
-  "sites": [
-    "https://github.com/artoh/kitupiikki"
-  ],
-  "sources": []
-}
+{"name":"kitupiikki","description":"Bookkeeping software for small organizations","sites":["https://github.com/artoh/kitupiikki"],"sources":[]}

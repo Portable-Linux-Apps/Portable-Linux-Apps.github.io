@@ -1,8 +1,1 @@
-{
-  "name": "hp-15c-simulator",
-  "description": "Unofficial, a simulator for the HP-15C programmable scientific RPN calculator.",
-  "sites": [
-    "https://github.com/pkgforge-dev/HP-15C-Simulator-AppImage"
-  ],
-  "sources": []
-}
+{"name":"hp-15c-simulator","description":"Unofficial, a simulator for the HP-15C programmable scientific RPN calculator.","sites":["https://github.com/pkgforge-dev/HP-15C-Simulator-AppImage"],"sources":[]}

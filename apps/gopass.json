@@ -1,8 +1,1 @@
-{
-  "name": "gopass",
-  "description": "The slightly more awesome standard unix password manager for teams",
-  "sites": [
-    "https://github.com/gopasspw/gopass"
-  ],
-  "sources": []
-}
+{"name":"gopass","description":"The slightly more awesome standard unix password manager for teams","sites":["https://github.com/gopasspw/gopass"],"sources":[]}

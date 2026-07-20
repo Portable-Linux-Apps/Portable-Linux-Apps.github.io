@@ -1,8 +1,1 @@
-{
-  "name": "spotify-player",
-  "description": "A Spotify player in the terminal with full feature parity.",
-  "sites": [
-    "https://github.com/aome510/spotify-player"
-  ],
-  "sources": []
-}
+{"name":"spotify-player","description":"A Spotify player in the terminal with full feature parity.","sites":["https://github.com/aome510/spotify-player"],"sources":[]}

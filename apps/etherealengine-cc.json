@@ -1,8 +1,1 @@
-{
-  "name": "etherealengine-cc",
-  "description": "One stop solution for all your Metaverse needs. A desktop app for  managing Ethereal Engine cluster.",
-  "sites": [
-    "https://etherealengine.org/"
-  ],
-  "sources": []
-}
+{"name":"etherealengine-cc","description":"One stop solution for all your Metaverse needs. A desktop app for  managing Ethereal Engine cluster.","sites":["https://etherealengine.org/"],"sources":[]}

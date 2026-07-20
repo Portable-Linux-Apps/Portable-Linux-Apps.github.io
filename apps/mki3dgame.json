@@ -1,8 +1,1 @@
-{
-  "name": "mki3dgame",
-  "description": "A game of searching (in 3D stages).",
-  "sites": [
-    "https://github.com/mki1967/mki3dgame"
-  ],
-  "sources": []
-}
+{"name":"mki3dgame","description":"A game of searching (in 3D stages).","sites":["https://github.com/mki1967/mki3dgame"],"sources":[]}

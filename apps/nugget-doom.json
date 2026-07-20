@@ -1,8 +1,1 @@
-{
-  "name": "nugget-doom",
-  "description": "Nugget Doom is a Doom game source port forked from Woof! with additional features.",
-  "sites": [
-    "https://github.com/mralaux/nugget-doom"
-  ],
-  "sources": []
-}
+{"name":"nugget-doom","description":"Nugget Doom is a Doom game source port forked from Woof! with additional features.","sites":["https://github.com/mralaux/nugget-doom"],"sources":[]}

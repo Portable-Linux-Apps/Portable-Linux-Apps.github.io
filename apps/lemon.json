@@ -1,8 +1,1 @@
-{
-  "name": "lemon",
-  "description": "A tiny judging environment for OI contest based on Project_LemonPlus",
-  "sites": [
-    "https://github.com/iotang/Project_LemonLime"
-  ],
-  "sources": []
-}
+{"name":"lemon","description":"A tiny judging environment for OI contest based on Project_LemonPlus","sites":["https://github.com/iotang/Project_LemonLime"],"sources":[]}

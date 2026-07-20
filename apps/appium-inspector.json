@@ -1,8 +1,1 @@
-{
-  "name": "appium-inspector",
-  "description": "A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server",
-  "sites": [
-    "https://github.com/appium/appium-inspector"
-  ],
-  "sources": []
-}
+{"name":"appium-inspector","description":"A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server","sites":["https://github.com/appium/appium-inspector"],"sources":[]}

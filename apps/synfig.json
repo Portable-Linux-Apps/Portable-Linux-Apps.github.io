@@ -1,8 +1,1 @@
-{
-  "name": "synfig",
-  "description": "Synfig Studio animation software. This is the unofficial AppImage.",
-  "sites": [
-    "https://github.com/synfig/synfig"
-  ],
-  "sources": []
-}
+{"name":"synfig","description":"Synfig Studio animation software. This is the unofficial AppImage.","sites":["https://github.com/synfig/synfig"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "trans",
-  "description": "Command-line translator using Google Translate, Bing Translator,  Yandex.Translate, etc.",
-  "sites": [
-    "https://github.com/soimort/translate-shell"
-  ],
-  "sources": []
-}
+{"name":"trans","description":"Command-line translator using Google Translate, Bing Translator,  Yandex.Translate, etc.","sites":["https://github.com/soimort/translate-shell"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "dragdrop",
-  "description": "Small drag-and-drop file source for the command line.\n \n <img src=\"https://github.com/fernzi/dragdrop/blob/master/doc/screenshots/source.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://github.com/fernzi/dragdrop"
-  ],
-  "sources": []
-}
+{"name":"dragdrop","description":"Small drag-and-drop file source for the command line.\n \n <img src=\"https://github.com/fernzi/dragdrop/blob/master/doc/screenshots/source.png\" alt=\"Screenshot\">","sites":["https://github.com/fernzi/dragdrop"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "ludo",
-  "description": "Ludo is a work in progress libretro frontend written in go.",
-  "sites": [
-    "https://github.com/lucasmz1/Ludo-AppImage"
-  ],
-  "sources": []
-}
+{"name":"ludo","description":"Ludo is a work in progress libretro frontend written in go.","sites":["https://github.com/lucasmz1/Ludo-AppImage"],"sources":[]}

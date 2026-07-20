@@ -1,8 +1,1 @@
-{
-  "name": "bridge",
-  "description": "The perfect Bridge between Megascans and your favorite tools.",
-  "sites": [
-    "https://quixel.com/bridge"
-  ],
-  "sources": []
-}
+{"name":"bridge","description":"The perfect Bridge between Megascans and your favorite tools.","sites":["https://quixel.com/bridge"],"sources":[]}

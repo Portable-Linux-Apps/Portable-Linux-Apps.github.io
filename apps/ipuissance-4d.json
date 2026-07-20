@@ -1,8 +1,1 @@
-{
-  "name": "ipuissance-4d",
-  "description": "Connect Four video game with a 3-Dimentional rendering.",
-  "sites": [
-    "https://ipuissance4d.beroux.com"
-  ],
-  "sources": []
-}
+{"name":"ipuissance-4d","description":"Connect Four video game with a 3-Dimentional rendering.","sites":["https://ipuissance4d.beroux.com"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "jgenesis-cli",
-  "description": "Sega Genesis, Sega CD, SNES, Master System, Game Gear emulator (CLI).",
-  "sites": [
-    "https://github.com/jsgroth/jgenesis"
-  ],
-  "sources": []
-}
+{"name":"jgenesis-cli","description":"Sega Genesis, Sega CD, SNES, Master System, Game Gear emulator (CLI).","sites":["https://github.com/jsgroth/jgenesis"],"sources":[]}

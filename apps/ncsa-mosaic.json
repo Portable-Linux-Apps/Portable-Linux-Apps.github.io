@@ -1,8 +1,1 @@
-{
-  "name": "ncsa-mosaic",
-  "description": "One of the first graphical web browsers.",
-  "sites": [
-    "https://github.com/AppImage/NCSA-Mosaic-AppImage"
-  ],
-  "sources": []
-}
+{"name":"ncsa-mosaic","description":"One of the first graphical web browsers.","sites":["https://github.com/AppImage/NCSA-Mosaic-AppImage"],"sources":[]}

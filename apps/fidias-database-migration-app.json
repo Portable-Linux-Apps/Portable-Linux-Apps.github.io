@@ -1,8 +1,1 @@
-{
-  "name": "fidias-database-migration-app",
-  "description": "Desktop app to migrate databases based on SQL files",
-  "sites": [
-    "https://github.com/open-fidias/db-migration-app"
-  ],
-  "sources": []
-}
+{"name":"fidias-database-migration-app","description":"Desktop app to migrate databases based on SQL files","sites":["https://github.com/open-fidias/db-migration-app"],"sources":[]}

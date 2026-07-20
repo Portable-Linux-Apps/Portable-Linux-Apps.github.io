@@ -1,10 +1,1 @@
-{
-  "name": "ktuberling",
-  "description": "KTuberling a simple constructor game suitable for children and adults alike. \n The idea of the game is based around a once popular doll making concept.\n \n This game is part of the KDE Games suite.\n \n USAGE (from the command line):\n \n           kdegames -h (shows the list of games)\n           kdegames $GAME (launches the selected game)\n           \n <img src=\"https://cdn.kde.org/screenshots/ktuberling/ktuberling.png\" alt=\"Screenshot\">",
-  "sites": [
-    "https://apps.kde.org"
-  ],
-  "sources": [
-    "https://github.com/ivan-hc/KDE-games-suite-appimage"
-  ]
-}
+{"name":"ktuberling","description":"KTuberling a simple constructor game suitable for children and adults alike. \n The idea of the game is based around a once popular doll making concept.\n \n This game is part of the KDE Games suite.\n \n USAGE (from the command line):\n \n           kdegames -h (shows the list of games)\n           kdegames $GAME (launches the selected game)\n           \n <img src=\"https://cdn.kde.org/screenshots/ktuberling/ktuberling.png\" alt=\"Screenshot\">","sites":["https://apps.kde.org"],"sources":["https://github.com/ivan-hc/KDE-games-suite-appimage"]}

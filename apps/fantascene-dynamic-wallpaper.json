@@ -1,10 +1,1 @@
-{
-  "name": "fantascene-dynamic-wallpaper",
-  "description": "Dynamic wallpaper software for Linux.",
-  "sites": [
-    "https://github.com/dependon/fantascene-dynamic-wallpaper"
-  ],
-  "sources": [
-    "https://sourceforge.net/projects/fantascene-dynamic-wallpaper"
-  ]
-}
+{"name":"fantascene-dynamic-wallpaper","description":"Dynamic wallpaper software for Linux.","sites":["https://github.com/dependon/fantascene-dynamic-wallpaper"],"sources":["https://sourceforge.net/projects/fantascene-dynamic-wallpaper"]}

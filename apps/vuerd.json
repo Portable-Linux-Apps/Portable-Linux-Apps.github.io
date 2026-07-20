@@ -1,8 +1,1 @@
-{
-  "name": "vuerd",
-  "description": "A desktop ERD app.",
-  "sites": [
-    "https://github.com/dineug/vuerd-electron"
-  ],
-  "sources": []
-}
+{"name":"vuerd","description":"A desktop ERD app.","sites":["https://github.com/dineug/vuerd-electron"],"sources":[]}

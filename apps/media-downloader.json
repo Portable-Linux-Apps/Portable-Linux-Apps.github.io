@@ -1,8 +1,1 @@
-{
-  "name": "media-downloader",
-  "description": "Cross-platform audio/video downloader",
-  "sites": [
-    "https://github.com/gaeljacquin/media-downloader"
-  ],
-  "sources": []
-}
+{"name":"media-downloader","description":"Cross-platform audio/video downloader","sites":["https://github.com/gaeljacquin/media-downloader"],"sources":[]}

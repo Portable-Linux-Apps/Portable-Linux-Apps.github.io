@@ -1,8 +1,1 @@
-{
-  "name": "rimage",
-  "description": "This is CLI tool inspired by squoosh!",
-  "sites": [
-    "https://github.com/SalOne22/rimage"
-  ],
-  "sources": []
-}
+{"name":"rimage","description":"This is CLI tool inspired by squoosh!","sites":["https://github.com/SalOne22/rimage"],"sources":[]}

@@ -1,10 +1,1 @@
-{
-  "name": "kdeutils",
-  "description": "This metapackage includes general-purpose utilities  provided with the official release of KDE:\n \n - ark\n - filelight\n - francis\n - isoimagewriter\n - kalm\n - kate\n - kbackup\n - kcalc\n - kcharselect\n - kclock\n - kdebugsettings\n - kdf\n - kdialog\n - keditbookmarks\n - keysmith\n - kfind\n - kgpg\n - kongress\n - krecorder\n - kteatime\n - ktimer\n - ktrip\n - kweather\n - kwrite\n - skanpage\n - sweeper\n - telly-skout",
-  "sites": [
-    "https://apps.kde.org"
-  ],
-  "sources": [
-    "https://github.com/ivan-hc/KDE-utils-appimage"
-  ]
-}
+{"name":"kdeutils","description":"This metapackage includes general-purpose utilities  provided with the official release of KDE:\n \n - ark\n - filelight\n - francis\n - isoimagewriter\n - kalm\n - kate\n - kbackup\n - kcalc\n - kcharselect\n - kclock\n - kdebugsettings\n - kdf\n - kdialog\n - keditbookmarks\n - keysmith\n - kfind\n - kgpg\n - kongress\n - krecorder\n - kteatime\n - ktimer\n - ktrip\n - kweather\n - kwrite\n - skanpage\n - sweeper\n - telly-skout","sites":["https://apps.kde.org"],"sources":["https://github.com/ivan-hc/KDE-utils-appimage"]}

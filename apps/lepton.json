@@ -1,8 +1,1 @@
-{
-  "name": "lepton",
-  "description": "Democratizing Code Snippets Management (macOS/Win/Linux)",
-  "sites": [
-    "https://github.com/hackjutsu/Lepton"
-  ],
-  "sources": []
-}
+{"name":"lepton","description":"Democratizing Code Snippets Management (macOS/Win/Linux)","sites":["https://github.com/hackjutsu/Lepton"],"sources":[]}

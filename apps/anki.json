@@ -1,8 +1,1 @@
-{
-  "name": "anki",
-  "description": "Anki's shared backend and web components, and the Qt frontend.\n\n This is the unofficial AppImage.",
-  "sites": [
-    "https://github.com/ankitects/anki"
-  ],
-  "sources": []
-}
+{"name":"anki","description":"Anki's shared backend and web components, and the Qt frontend.\n\n This is the unofficial AppImage.","sites":["https://github.com/ankitects/anki"],"sources":[]}

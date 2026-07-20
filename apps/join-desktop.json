@@ -1,8 +1,1 @@
-{
-  "name": "join-desktop",
-  "description": "A companion app for the Join website",
-  "sites": [
-    "https://github.com/joaomgcd/JoinDesktop"
-  ],
-  "sources": []
-}
+{"name":"join-desktop","description":"A companion app for the Join website","sites":["https://github.com/joaomgcd/JoinDesktop"],"sources":[]}

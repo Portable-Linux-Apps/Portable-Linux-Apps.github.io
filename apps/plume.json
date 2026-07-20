@@ -1,8 +1,1 @@
-{
-  "name": "plume",
-  "description": "Write beautifully. Effortlessly. A note-taking app written in Qt C++ and QML.",
-  "sites": [
-    "https://github.com/nuttyartist/plume-public"
-  ],
-  "sources": []
-}
+{"name":"plume","description":"Write beautifully. Effortlessly. A note-taking app written in Qt C++ and QML.","sites":["https://github.com/nuttyartist/plume-public"],"sources":[]}

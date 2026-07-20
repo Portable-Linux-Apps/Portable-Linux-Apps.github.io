@@ -1,8 +1,1 @@
-{
-  "name": "plover",
-  "description": "Stenographic input and translation",
-  "sites": [
-    "https://github.com/openstenoproject/plover"
-  ],
-  "sources": []
-}
+{"name":"plover","description":"Stenographic input and translation","sites":["https://github.com/openstenoproject/plover"],"sources":[]}

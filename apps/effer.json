@@ -1,8 +1,1 @@
-{
-  "name": "effer",
-  "description": "Encrypted CLI Notepad written in Rust",
-  "sites": [
-    "https://github.com/Merkoba/Effer"
-  ],
-  "sources": []
-}
+{"name":"effer","description":"Encrypted CLI Notepad written in Rust","sites":["https://github.com/Merkoba/Effer"],"sources":[]}

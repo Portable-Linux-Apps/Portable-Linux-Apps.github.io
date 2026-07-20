@@ -1,8 +1,1 @@
-{
-  "name": "animeko",
-  "description": "A one-stop platform for finding, following, and watching anime, featuring danmaku (bullet comments) and cloud-based collection synchronization (Bangumi), offline caching, BitTorrent, and cloud-based danmaku filtering.",
-  "sites": [
-    "https://github.com/open-ani/animeko"
-  ],
-  "sources": []
-}
+{"name":"animeko","description":"A one-stop platform for finding, following, and watching anime, featuring danmaku (bullet comments) and cloud-based collection synchronization (Bangumi), offline caching, BitTorrent, and cloud-based danmaku filtering.","sites":["https://github.com/open-ani/animeko"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "tuxplorer",
-  "description": "Tuxplorer is a terminal based file explorer.",
-  "sites": [
-    "https://github.com/Pand3ru/Tuxplorer"
-  ],
-  "sources": []
-}
+{"name":"tuxplorer","description":"Tuxplorer is a terminal based file explorer.","sites":["https://github.com/Pand3ru/Tuxplorer"],"sources":[]}

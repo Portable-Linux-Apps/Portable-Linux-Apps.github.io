@@ -1,8 +1,1 @@
-{
-  "name": "listen1-desktop",
-  "description": "One for all free music in China",
-  "sites": [
-    "https://listen1.github.io/listen1"
-  ],
-  "sources": []
-}
+{"name":"listen1-desktop","description":"One for all free music in China","sites":["https://listen1.github.io/listen1"],"sources":[]}

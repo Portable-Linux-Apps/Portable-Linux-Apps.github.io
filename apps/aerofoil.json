@@ -1,8 +1,1 @@
-{
-  "name": "aerofoil",
-  "description": "Multiplatform port of Glider PRO.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Aerofoil-AppImage"
-  ],
-  "sources": []
-}
+{"name":"aerofoil","description":"Multiplatform port of Glider PRO.","sites":["https://github.com/pkgforge-dev/Aerofoil-AppImage"],"sources":[]}

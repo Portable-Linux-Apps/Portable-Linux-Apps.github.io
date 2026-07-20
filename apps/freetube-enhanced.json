@@ -1,8 +1,1 @@
-{
-  "name": "freetube-enhanced",
-  "description": "Unofficial, An Open Source YouTube app for privacy.",
-  "sites": [
-    "https://github.com/pkgforge-dev/FreeTube-Appimage-Enhanced"
-  ],
-  "sources": []
-}
+{"name":"freetube-enhanced","description":"Unofficial, An Open Source YouTube app for privacy.","sites":["https://github.com/pkgforge-dev/FreeTube-Appimage-Enhanced"],"sources":[]}

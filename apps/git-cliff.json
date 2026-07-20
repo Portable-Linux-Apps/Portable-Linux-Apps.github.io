@@ -1,8 +1,1 @@
-{
-  "name": "git-cliff",
-  "description": "A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️",
-  "sites": [
-    "https://github.com/orhun/git-cliff"
-  ],
-  "sources": []
-}
+{"name":"git-cliff","description":"A highly customizable Changelog Generator that follows Conventional Commit specifications \u26f0\ufe0f","sites":["https://github.com/orhun/git-cliff"],"sources":[]}

@@ -1,10 +1,1 @@
-{
-  "name": "anytype",
-  "description": "The everything app for those who celebrate trust & autonomy. Imagine an app where you can do everything.\n \n <img src=\"https://anytype.io/assets/usecases/Recipe%20book.jpg\" alt=\"pic1\"> <img src=\"https://anytype.io/assets/usecases/Vault.jpg\" alt=\"pic2\"> <img src=\"https://anytype.io/assets/usecases/Knowledge%20base.jpg\" alt=\"pic3\">",
-  "sites": [
-    "https://anytype.io"
-  ],
-  "sources": [
-    "https://github.com/anyproto/anytype-ts"
-  ]
-}
+{"name":"anytype","description":"The everything app for those who celebrate trust & autonomy. Imagine an app where you can do everything.\n \n <img src=\"https://anytype.io/assets/usecases/Recipe%20book.jpg\" alt=\"pic1\"> <img src=\"https://anytype.io/assets/usecases/Vault.jpg\" alt=\"pic2\"> <img src=\"https://anytype.io/assets/usecases/Knowledge%20base.jpg\" alt=\"pic3\">","sites":["https://anytype.io"],"sources":["https://github.com/anyproto/anytype-ts"]}

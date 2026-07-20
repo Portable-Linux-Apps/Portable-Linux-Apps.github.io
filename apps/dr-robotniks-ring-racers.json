@@ -1,8 +1,1 @@
-{
-  "name": "dr-robotniks-ring-racers",
-  "description": "Kart racing video game originally based on SRB2Kart.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Dr-Robotniks-Ring-Racers-AppImage"
-  ],
-  "sources": []
-}
+{"name":"dr-robotniks-ring-racers","description":"Kart racing video game originally based on SRB2Kart.","sites":["https://github.com/pkgforge-dev/Dr-Robotniks-Ring-Racers-AppImage"],"sources":[]}

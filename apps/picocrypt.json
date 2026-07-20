@@ -1,8 +1,1 @@
-{
-  "name": "picocrypt",
-  "description": "A very small, very simple, yet very secure encryption tool.",
-  "sites": [
-    "https://github.com/HACKERALERT/Picocrypt"
-  ],
-  "sources": []
-}
+{"name":"picocrypt","description":"A very small, very simple, yet very secure encryption tool.","sites":["https://github.com/HACKERALERT/Picocrypt"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "qaterialhotreload",
-  "description": "Qml HotReload software.",
-  "sites": [
-    "https://github.com/OlivierLDff/QaterialHotReload"
-  ],
-  "sources": []
-}
+{"name":"qaterialhotreload","description":"Qml HotReload software.","sites":["https://github.com/OlivierLDff/QaterialHotReload"],"sources":[]}

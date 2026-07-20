@@ -1,8 +1,1 @@
-{
-  "name": "sharemyhost",
-  "description": "One click to share your files in your local network.",
-  "sites": [
-    "https://github.com/antony-jr/ShareMyHost"
-  ],
-  "sources": []
-}
+{"name":"sharemyhost","description":"One click to share your files in your local network.","sites":["https://github.com/antony-jr/ShareMyHost"],"sources":[]}

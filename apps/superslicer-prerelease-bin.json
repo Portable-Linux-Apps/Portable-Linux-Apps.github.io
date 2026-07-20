@@ -1,8 +1,1 @@
-{
-  "name": "superslicer-prerelease-bin",
-  "description": "G-code generator for 3D printers (Creality, RepRap, Makerbot, Ultimaker etc.).",
-  "sites": [
-    "https://github.com/supermerill/SuperSlicer"
-  ],
-  "sources": []
-}
+{"name":"superslicer-prerelease-bin","description":"G-code generator for 3D printers (Creality, RepRap, Makerbot, Ultimaker etc.).","sites":["https://github.com/supermerill/SuperSlicer"],"sources":[]}

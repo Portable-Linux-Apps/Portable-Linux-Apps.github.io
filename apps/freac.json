@@ -1,8 +1,1 @@
-{
-  "name": "freac",
-  "description": "fre:ac is a free audio converter and CD ripper with support for various popular formats and encoders.",
-  "sites": [
-    "https://www.freac.org"
-  ],
-  "sources": []
-}
+{"name":"freac","description":"fre:ac is a free audio converter and CD ripper with support for various popular formats and encoders.","sites":["https://www.freac.org"],"sources":[]}

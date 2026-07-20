@@ -1,8 +1,1 @@
-{
-  "name": "timenaut",
-  "description": "Desktop time tracking application that does not invade your privacy",
-  "sites": [
-    "https://timenaut.app/"
-  ],
-  "sources": []
-}
+{"name":"timenaut","description":"Desktop time tracking application that does not invade your privacy","sites":["https://timenaut.app/"],"sources":[]}

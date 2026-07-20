@@ -1,8 +1,1 @@
-{
-  "name": "oh-mymd",
-  "description": "A markdown editor,support cloud sync.",
-  "sites": [
-    "https://www.ohmymd.app/"
-  ],
-  "sources": []
-}
+{"name":"oh-mymd","description":"A markdown editor,support cloud sync.","sites":["https://www.ohmymd.app/"],"sources":[]}

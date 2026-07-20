@@ -1,8 +1,1 @@
-{
-  "name": "popsicle",
-  "description": "Multiple USB File Flasher",
-  "sites": [
-    "https://github.com/pop-os/popsicle"
-  ],
-  "sources": []
-}
+{"name":"popsicle","description":"Multiple USB File Flasher","sites":["https://github.com/pop-os/popsicle"],"sources":[]}

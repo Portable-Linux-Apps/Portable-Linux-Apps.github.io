@@ -1,8 +1,1 @@
-{
-  "name": "root",
-  "description": "Voice, video, and chat plus powerful apps that help your community organize, grow, and thrive. An alternative to Discord.",
-  "sites": [
-    "https://www.rootapp.com"
-  ],
-  "sources": []
-}
+{"name":"root","description":"Voice, video, and chat plus powerful apps that help your community organize, grow, and thrive. An alternative to Discord.","sites":["https://www.rootapp.com"],"sources":[]}

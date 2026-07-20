@@ -1,8 +1,1 @@
-{
-  "name": "kure",
-  "description": "CLI password manager with sessions",
-  "sites": [
-    "https://github.com/GGP1/kure"
-  ],
-  "sources": []
-}
+{"name":"kure","description":"CLI password manager with sessions","sites":["https://github.com/GGP1/kure"],"sources":[]}

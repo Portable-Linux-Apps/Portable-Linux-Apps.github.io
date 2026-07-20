@@ -1,8 +1,1 @@
-{
-  "name": "dolphin-emu-nightly",
-  "description": "Unofficial nightly AppImage of the Dolphin emulator.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Dolphin-emu-AppImage"
-  ],
-  "sources": []
-}
+{"name":"dolphin-emu-nightly","description":"Unofficial nightly AppImage of the Dolphin emulator.","sites":["https://github.com/pkgforge-dev/Dolphin-emu-AppImage"],"sources":[]}

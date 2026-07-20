@@ -1,8 +1,1 @@
-{
-  "name": "lightning-peach-wallet",
-  "description": "LightningPeach wallet",
-  "sites": [
-    "https://github.com/LightningPeach/lightning-peach-wallet"
-  ],
-  "sources": []
-}
+{"name":"lightning-peach-wallet","description":"LightningPeach wallet","sites":["https://github.com/LightningPeach/lightning-peach-wallet"],"sources":[]}

@@ -1,10 +1,1 @@
-{
-  "name": "godot",
-  "description": "Multi-platform 2D and 3D game engine with a feature-rich editor",
-  "sites": [
-    "https://godotengine.org/"
-  ],
-  "sources": [
-    "https://github.com/godotengine/godot"
-  ]
-}
+{"name":"godot","description":"Multi-platform 2D and 3D game engine with a feature-rich editor","sites":["https://godotengine.org/"],"sources":["https://github.com/godotengine/godot"]}

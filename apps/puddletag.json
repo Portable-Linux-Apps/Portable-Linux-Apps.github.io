@@ -1,8 +1,1 @@
-{
-  "name": "puddletag",
-  "description": "Unofficial AppImage of puddletag.",
-  "sites": [
-    "https://github.com/pkgforge-dev/puddletag-AppImage"
-  ],
-  "sources": []
-}
+{"name":"puddletag","description":"Unofficial AppImage of puddletag.","sites":["https://github.com/pkgforge-dev/puddletag-AppImage"],"sources":[]}

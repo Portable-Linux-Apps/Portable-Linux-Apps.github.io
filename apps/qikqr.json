@@ -1,8 +1,1 @@
-{
-  "name": "qikqr",
-  "description": "Minimal desktop app to create QR codes.",
-  "sites": [
-    "https://github.com/deep5050/qikQR"
-  ],
-  "sources": []
-}
+{"name":"qikqr","description":"Minimal desktop app to create QR codes.","sites":["https://github.com/deep5050/qikQR"],"sources":[]}

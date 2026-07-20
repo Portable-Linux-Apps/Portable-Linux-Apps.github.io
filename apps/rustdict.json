@@ -1,8 +1,1 @@
-{
-  "name": "rustdict",
-  "description": "A dictionary CLI tool written in Rust inspired by BetaPictoris' dict  as well as Matthew Hartman's Word Lookup tool.",
-  "sites": [
-    "https://github.com/Idontknow13/rustdict"
-  ],
-  "sources": []
-}
+{"name":"rustdict","description":"A dictionary CLI tool written in Rust inspired by BetaPictoris' dict  as well as Matthew Hartman's Word Lookup tool.","sites":["https://github.com/Idontknow13/rustdict"],"sources":[]}

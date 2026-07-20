@@ -1,8 +1,1 @@
-{
-  "name": "webamp",
-  "description": "Desktop version of Winamp 2.9 reimplementation in HTML5 and JS",
-  "sites": [
-    "https://github.com/durasj/webamp-desktop"
-  ],
-  "sources": []
-}
+{"name":"webamp","description":"Desktop version of Winamp 2.9 reimplementation in HTML5 and JS","sites":["https://github.com/durasj/webamp-desktop"],"sources":[]}

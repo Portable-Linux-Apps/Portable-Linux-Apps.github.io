@@ -1,8 +1,1 @@
-{
-  "name": "p2p-chat",
-  "description": "P2P LAN chatting and file sharing tool.",
-  "sites": [
-    "https://github.com/dgeibi/p2p-chat"
-  ],
-  "sources": []
-}
+{"name":"p2p-chat","description":"P2P LAN chatting and file sharing tool.","sites":["https://github.com/dgeibi/p2p-chat"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "panwriter",
-  "description": "Markdown editor with pandoc integration and paginated preview",
-  "sites": [
-    "https://github.com/mb21/panwriter"
-  ],
-  "sources": []
-}
+{"name":"panwriter","description":"Markdown editor with pandoc integration and paginated preview","sites":["https://github.com/mb21/panwriter"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "fluffychat",
-  "description": "The cutest instant messenger in the matrix.",
-  "sites": [
-    "https://github.com/krille-chan/fluffychat"
-  ],
-  "sources": []
-}
+{"name":"fluffychat","description":"The cutest instant messenger in the matrix.","sites":["https://github.com/krille-chan/fluffychat"],"sources":[]}

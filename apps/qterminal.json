@@ -1,8 +1,1 @@
-{
-  "name": "qterminal",
-  "description": "Unofficial. A lightweight Qt terminal emulator based on QTermWidget.",
-  "sites": [
-    "https://github.com/pkgforge-dev/QTerminal-AppImage"
-  ],
-  "sources": []
-}
+{"name":"qterminal","description":"Unofficial. A lightweight Qt terminal emulator based on QTermWidget.","sites":["https://github.com/pkgforge-dev/QTerminal-AppImage"],"sources":[]}

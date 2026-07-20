@@ -1,8 +1,1 @@
-{
-  "name": "goanime",
-  "description": "A TUI tool to browse, stream, and download anime in English and Portuguese.",
-  "sites": [
-    "https://github.com/alvarorichard/GoAnime"
-  ],
-  "sources": []
-}
+{"name":"goanime","description":"A TUI tool to browse, stream, and download anime in English and Portuguese.","sites":["https://github.com/alvarorichard/GoAnime"],"sources":[]}

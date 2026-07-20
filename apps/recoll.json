@@ -1,8 +1,1 @@
-{
-  "name": "recoll",
-  "description": "Full-text search for your desktop.",
-  "sites": [
-    "https://www.recoll.org"
-  ],
-  "sources": []
-}
+{"name":"recoll","description":"Full-text search for your desktop.","sites":["https://www.recoll.org"],"sources":[]}

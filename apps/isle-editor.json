@@ -1,8 +1,1 @@
-{
-  "name": "isle-editor",
-  "description": "Editor for Integrated Statistics Learning Environment (ISLE) lessons.",
-  "sites": [
-    "https://github.com/isle-project/isle-editor"
-  ],
-  "sources": []
-}
+{"name":"isle-editor","description":"Editor for Integrated Statistics Learning Environment (ISLE) lessons.","sites":["https://github.com/isle-project/isle-editor"],"sources":[]}

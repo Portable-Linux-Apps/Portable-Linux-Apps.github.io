@@ -1,8 +1,1 @@
-{
-  "name": "jexiftoolgui",
-  "description": "jExifToolGUI is a multi-platform java/Swing graphical  frontend for the excellent command-line ExifTool  application by Phil Harvey.",
-  "sites": [
-    "https://github.com/hvdwolf/jExifToolGUI"
-  ],
-  "sources": []
-}
+{"name":"jexiftoolgui","description":"jExifToolGUI is a multi-platform java/Swing graphical  frontend for the excellent command-line ExifTool  application by Phil Harvey.","sites":["https://github.com/hvdwolf/jExifToolGUI"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "go-spotify-cli",
-  "description": "Control Spotify with CLI commands",
-  "sites": [
-    "https://github.com/Envoy49/go-spotify-cli"
-  ],
-  "sources": []
-}
+{"name":"go-spotify-cli","description":"Control Spotify with CLI commands","sites":["https://github.com/Envoy49/go-spotify-cli"],"sources":[]}

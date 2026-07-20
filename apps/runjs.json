@@ -1,8 +1,1 @@
-{
-  "name": "runjs",
-  "description": "A JavaScript playground for macOS, Windows and Linux. Write code  with instant feedback and access to Node.js and browser APIs.",
-  "sites": [
-    "https://runjs.app"
-  ],
-  "sources": []
-}
+{"name":"runjs","description":"A JavaScript playground for macOS, Windows and Linux. Write code  with instant feedback and access to Node.js and browser APIs.","sites":["https://runjs.app"],"sources":[]}

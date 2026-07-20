@@ -1,8 +1,1 @@
-{
-  "name": "neko-project-ii-kai",
-  "description": "Unofficial, a PC-9801 series emulator.",
-  "sites": [
-    "https://github.com/pkgforge-dev/Neko-Project-II-Kai-AppImage"
-  ],
-  "sources": []
-}
+{"name":"neko-project-ii-kai","description":"Unofficial, a PC-9801 series emulator.","sites":["https://github.com/pkgforge-dev/Neko-Project-II-Kai-AppImage"],"sources":[]}

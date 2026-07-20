@@ -1,8 +1,1 @@
-{
-  "name": "extraterm",
-  "description": "The swiss army chainsaw of terminal emulators",
-  "sites": [
-    "https://github.com/sedwards2009/extraterm"
-  ],
-  "sources": []
-}
+{"name":"extraterm","description":"The swiss army chainsaw of terminal emulators","sites":["https://github.com/sedwards2009/extraterm"],"sources":[]}

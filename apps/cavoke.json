@@ -1,8 +1,1 @@
-{
-  "name": "cavoke",
-  "description": "Cavoke: A Platform for creating and hosting multiplayer  turn-based board games.",
-  "sites": [
-    "https://github.com/cavoke-project/cavoke"
-  ],
-  "sources": []
-}
+{"name":"cavoke","description":"Cavoke: A Platform for creating and hosting multiplayer  turn-based board games.","sites":["https://github.com/cavoke-project/cavoke"],"sources":[]}

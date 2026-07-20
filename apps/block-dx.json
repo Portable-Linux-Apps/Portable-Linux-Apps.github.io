@@ -1,8 +1,1 @@
-{
-  "name": "block-dx",
-  "description": "Block DX - P2P Decentralized exchange powered by\n Blocknet's XBridge Protocol",
-  "sites": [
-    "https://blockdx.com/"
-  ],
-  "sources": []
-}
+{"name":"block-dx","description":"Block DX - P2P Decentralized exchange powered by\n Blocknet's XBridge Protocol","sites":["https://blockdx.com/"],"sources":[]}

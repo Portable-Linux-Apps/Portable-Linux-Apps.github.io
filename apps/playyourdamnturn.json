@@ -1,8 +1,1 @@
-{
-  "name": "playyourdamnturn",
-  "description": "Desktop Client to assist with playing your damn turns.",
-  "sites": [
-    "https://github.com/pydt/client"
-  ],
-  "sources": []
-}
+{"name":"playyourdamnturn","description":"Desktop Client to assist with playing your damn turns.","sites":["https://github.com/pydt/client"],"sources":[]}

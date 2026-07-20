@@ -1,8 +1,1 @@
-{
-  "name": "ffwa-youtube",
-  "description": "WebApp & Firefox Profile for YouTube.",
-  "sites": [
-    "https://www.youtube.com"
-  ],
-  "sources": []
-}
+{"name":"ffwa-youtube","description":"WebApp & Firefox Profile for YouTube.","sites":["https://www.youtube.com"],"sources":[]}

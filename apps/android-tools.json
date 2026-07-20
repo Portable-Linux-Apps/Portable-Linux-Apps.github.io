@@ -1,8 +1,1 @@
-{
-  "name": "android-tools",
-  "description": "Unofficial AppImage of Android Platform Tools (adb, fastboot, etc).",
-  "sites": [
-    "https://github.com/Samueru-sama/android-tools-AppImage"
-  ],
-  "sources": []
-}
+{"name":"android-tools","description":"Unofficial AppImage of Android Platform Tools (adb, fastboot, etc).","sites":["https://github.com/Samueru-sama/android-tools-AppImage"],"sources":[]}

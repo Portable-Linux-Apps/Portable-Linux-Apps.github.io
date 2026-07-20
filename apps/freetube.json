@@ -1,10 +1,1 @@
-{
-  "name": "freetube",
-  "description": "An Open Source YouTube app for privacy\n\n<img src=\"https://raw.githubusercontent.com/FreeTubeApp/FreeTubeApp.io/master/src/images/FreeTube2.png\" alt=\"Watching a video\">",
-  "sites": [
-    "https://freetubeapp.io"
-  ],
-  "sources": [
-    "https://github.com/FreeTubeApp/FreeTube"
-  ]
-}
+{"name":"freetube","description":"An Open Source YouTube app for privacy\n\n<img src=\"https://raw.githubusercontent.com/FreeTubeApp/FreeTubeApp.io/master/src/images/FreeTube2.png\" alt=\"Watching a video\">","sites":["https://freetubeapp.io"],"sources":["https://github.com/FreeTubeApp/FreeTube"]}

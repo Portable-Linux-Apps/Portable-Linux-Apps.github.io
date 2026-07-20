@@ -1,498 +1,78 @@
 [
-  {
-    "icon": "adobe-flash-player.png",
-    "name": "adobe-flash-player",
-    "description": "Unofficial port. Adobe Flash is a mostly discontinued multimedia software platform used for production of animations, rich internet applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Over 67 billion devices use adobe flash player!",
-    "app_page": "apps/adobe-flash-player.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/adobe-flash-player",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/adobe-flash-player"
-  },
-  {
-    "icon": "agregore.png",
-    "name": "agregore",
-    "description": "A minimal browser for the distributed web, Desktop version.",
-    "app_page": "apps/agregore.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/agregore",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/agregore"
-  },
-  {
-    "icon": "archiveweb.page.png",
-    "name": "archiveweb.page",
-    "description": "A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers.",
-    "app_page": "apps/archiveweb.page.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/archiveweb.page",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/archiveweb.page"
-  },
-  {
-    "icon": "brave.png",
-    "name": "brave",
-    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"stable\" release.",
-    "app_page": "apps/brave.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave"
-  },
-  {
-    "icon": "brave-beta.png",
-    "name": "brave-beta",
-    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"beta\" release.",
-    "app_page": "apps/brave-beta.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-beta",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-beta"
-  },
-  {
-    "icon": "brave-nightly.png",
-    "name": "brave-nightly",
-    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"nightly\" release.",
-    "app_page": "apps/brave-nightly.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-nightly",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-nightly"
-  },
-  {
-    "icon": "browservice.png",
-    "name": "browservice",
-    "description": "Browse the modern web on historical browsers.",
-    "app_page": "apps/browservice.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/browservice",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/browservice"
-  },
-  {
-    "icon": "catalyst.png",
-    "name": "catalyst",
-    "description": "Catalyst web browser.",
-    "app_page": "apps/catalyst.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/catalyst",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/catalyst"
-  },
-  {
-    "icon": "chromium.png",
-    "name": "chromium",
-    "description": "Unofficial. FOSS Web Browser, base of Google Chrome, Edge and Brave, stable.",
-    "app_page": "apps/chromium.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium"
-  },
-  {
-    "icon": "chromium-beta.png",
-    "name": "chromium-beta",
-    "description": "Unofficial. FOSS Web Browser, base of Google Chrome, beta edition.",
-    "app_page": "apps/chromium-beta.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-beta",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-beta"
-  },
-  {
-    "icon": "chromium-edge.png",
-    "name": "chromium-edge",
-    "description": "Unofficial. FOSS Web Browser, base of Google Chrome, edge edition.",
-    "app_page": "apps/chromium-edge.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-edge",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-edge"
-  },
-  {
-    "icon": "chromium-rc.png",
-    "name": "chromium-rc",
-    "description": "Unofficial. FOSS Web Browser, base of Google Chrome, release candidate.",
-    "app_page": "apps/chromium-rc.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-rc",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-rc"
-  },
-  {
-    "icon": "cromite.png",
-    "name": "cromite",
-    "description": "Unofficial AppImage of the Cromite web browser.",
-    "app_page": "apps/cromite.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cromite",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cromite"
-  },
-  {
-    "icon": "deskreen.png",
-    "name": "deskreen",
-    "description": "Turns any device with a web browser into a secondary screen.",
-    "app_page": "apps/deskreen.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deskreen",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deskreen"
-  },
-  {
-    "icon": "dezor.png",
-    "name": "dezor",
-    "description": "The web browser including VPN and Adblocker.",
-    "app_page": "apps/dezor.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dezor",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dezor"
-  },
-  {
-    "icon": "elzabrowser.png",
-    "name": "elzabrowser",
-    "description": "Elza incognito web browser.",
-    "app_page": "apps/elzabrowser.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elzabrowser",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elzabrowser"
-  },
-  {
-    "icon": "falkon.png",
-    "name": "falkon",
-    "description": "Unofficial. A fast Qt web browser from KDE.",
-    "app_page": "apps/falkon.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/falkon",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/falkon"
-  },
-  {
-    "icon": "fifo.png",
-    "name": "fifo",
-    "description": "A modern web browser, built on top of modern web technologies.",
-    "app_page": "apps/fifo.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fifo",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fifo"
-  },
-  {
-    "icon": "filebrowser.png",
-    "name": "filebrowser",
-    "description": "Web File Browser.",
-    "app_page": "apps/filebrowser.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filebrowser",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filebrowser"
-  },
-  {
-    "icon": "filebrowser-quantum.png",
-    "name": "filebrowser-quantum",
-    "description": "Web File Browser.",
-    "app_page": "apps/filebrowser-quantum.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filebrowser-quantum",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filebrowser-quantum"
-  },
-  {
-    "icon": "firedragon.png",
-    "name": "firedragon",
-    "description": "A web browser based on Floorp (the Vivaldi of Firefox's) with many opiniated settings by default.",
-    "app_page": "apps/firedragon.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firedragon",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firedragon"
-  },
-  {
-    "icon": "firefox.png",
-    "name": "firefox",
-    "description": "Fast, powerful and extensible Web Browser, Stable.",
-    "app_page": "apps/firefox.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firefox",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firefox"
-  },
-  {
-    "icon": "firefox-beta.png",
-    "name": "firefox-beta",
-    "description": "Fast, powerful and extensible Web Browser, Beta Edition.",
-    "app_page": "apps/firefox-beta.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firefox-beta",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firefox-beta"
-  },
-  {
-    "icon": "firefox-devedition.png",
-    "name": "firefox-devedition",
-    "description": "Fast, powerful and extensible Web Browser, Developer Edition.",
-    "app_page": "apps/firefox-devedition.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firefox-devedition",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firefox-devedition"
-  },
-  {
-    "icon": "firefox-esr.png",
-    "name": "firefox-esr",
-    "description": "Fast, powerful and extensible Web Browser, ESR Edition.",
-    "app_page": "apps/firefox-esr.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firefox-esr",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firefox-esr"
-  },
-  {
-    "icon": "firefox-nightly.png",
-    "name": "firefox-nightly",
-    "description": "Fast, powerful and extensible Web Browser, Nightly Edition.",
-    "app_page": "apps/firefox-nightly.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firefox-nightly",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firefox-nightly"
-  },
-  {
-    "icon": "floorp.png",
-    "name": "floorp",
-    "description": "Floorp Web Browser, the most Advanced and Fastest Firefox derivative.",
-    "app_page": "apps/floorp.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/floorp",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/floorp"
-  },
-  {
-    "icon": "godmode.png",
-    "name": "godmode",
-    "description": "AI Chat Browser fast, full webapp access to ChatGPT/Claude/Bard/Bing/Llama2.",
-    "app_page": "apps/godmode.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/godmode",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/godmode"
-  },
-  {
-    "icon": "google-chrome.png",
-    "name": "google-chrome",
-    "description": "Unofficial, Web Browser, Stable version.",
-    "app_page": "apps/google-chrome.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/google-chrome",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/google-chrome"
-  },
-  {
-    "icon": "google-chrome-beta.png",
-    "name": "google-chrome-beta",
-    "description": "Unofficial, Web Browser, Beta version.",
-    "app_page": "apps/google-chrome-beta.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/google-chrome-beta",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/google-chrome-beta"
-  },
-  {
-    "icon": "google-chrome-dev.png",
-    "name": "google-chrome-dev",
-    "description": "Unofficial, Web Browser, Unstable version.",
-    "app_page": "apps/google-chrome-dev.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/google-chrome-dev",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/google-chrome-dev"
-  },
-  {
-    "icon": "helium.png",
-    "name": "helium",
-    "description": "The Chromium-based web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise.",
-    "app_page": "apps/helium.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helium",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helium"
-  },
-  {
-    "icon": "icecat.png",
-    "name": "icecat",
-    "description": "GNU IceCat is the GNU version of the Firefox web browser.",
-    "app_page": "apps/icecat.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/icecat",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/icecat"
-  },
-  {
-    "icon": "ladybird.png",
-    "name": "ladybird",
-    "description": "A truly independent web browser, using a novel engine based on web standards.",
-    "app_page": "apps/ladybird.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ladybird",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ladybird"
-  },
-  {
-    "icon": "librewolf.png",
-    "name": "librewolf",
-    "description": "Firefox-based Web Browser focused on privacy, security, freedom.",
-    "app_page": "apps/librewolf.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/librewolf",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/librewolf"
-  },
-  {
-    "icon": "mercury.png",
-    "name": "mercury",
-    "description": "Firefox fork with compiler optimizations and patches from Librewolf.",
-    "app_page": "apps/mercury.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mercury",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mercury"
-  },
-  {
-    "icon": "microsoft-edge.png",
-    "name": "microsoft-edge",
-    "description": "Web Browser provided by Microsoft, Stable Edition.",
-    "app_page": "apps/microsoft-edge.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/microsoft-edge",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/microsoft-edge"
-  },
-  {
-    "icon": "microsoft-edge-beta.png",
-    "name": "microsoft-edge-beta",
-    "description": "Web Browser provided by Microsoft, Beta Edition.",
-    "app_page": "apps/microsoft-edge-beta.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/microsoft-edge-beta",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/microsoft-edge-beta"
-  },
-  {
-    "icon": "microsoft-edge-dev.png",
-    "name": "microsoft-edge-dev",
-    "description": "Web Browser provided by Microsoft, Developer Edition.",
-    "app_page": "apps/microsoft-edge-dev.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/microsoft-edge-dev",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/microsoft-edge-dev"
-  },
-  {
-    "icon": "midori.png",
-    "name": "midori",
-    "description": "Surf lightly, quickly and safely with Midori Web Browser.",
-    "app_page": "apps/midori.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/midori",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/midori"
-  },
-  {
-    "icon": "mullvad-browser.png",
-    "name": "mullvad-browser",
-    "description": "A Tor-based Web Browser.",
-    "app_page": "apps/mullvad-browser.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mullvad-browser",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mullvad-browser"
-  },
-  {
-    "icon": "ncsa-mosaic.png",
-    "name": "ncsa-mosaic",
-    "description": "One of the first graphical web browsers.",
-    "app_page": "apps/ncsa-mosaic.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ncsa-mosaic",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ncsa-mosaic"
-  },
-  {
-    "icon": "oneweb.png",
-    "name": "oneweb",
-    "description": "OneWeb - free, private and secure web browser! POLSKA GUROM.",
-    "app_page": "apps/oneweb.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/oneweb",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/oneweb"
-  },
-  {
-    "icon": "opera.png",
-    "name": "opera",
-    "description": "Unofficial. Fast and secure web browser, Stable version.",
-    "app_page": "apps/opera.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opera",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opera"
-  },
-  {
-    "icon": "opera-beta.png",
-    "name": "opera-beta",
-    "description": "Unofficial. Fast and secure web browser, Beta version.",
-    "app_page": "apps/opera-beta.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opera-beta",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opera-beta"
-  },
-  {
-    "icon": "opera-dev.png",
-    "name": "opera-dev",
-    "description": "Unofficial. Fast and secure web browser, Developer version.",
-    "app_page": "apps/opera-dev.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opera-dev",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opera-dev"
-  },
-  {
-    "icon": "palemoon.png",
-    "name": "palemoon",
-    "description": "Web browser, a Firefox fork with a classic UI and modern APIs.",
-    "app_page": "apps/palemoon.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/palemoon",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/palemoon"
-  },
-  {
-    "icon": "polypane.png",
-    "name": "polypane",
-    "description": "Browser for web developers.",
-    "app_page": "apps/polypane.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/polypane",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/polypane"
-  },
-  {
-    "icon": "promethium.png",
-    "name": "promethium",
-    "description": "Extensible and innovative web browser with built-in AdBlock.",
-    "app_page": "apps/promethium.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/promethium",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/promethium"
-  },
-  {
-    "icon": "responsively.png",
-    "name": "responsively",
-    "description": "A browser for developing responsive web apps.",
-    "app_page": "apps/responsively.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/responsively",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/responsively"
-  },
-  {
-    "icon": "servo.png",
-    "name": "servo",
-    "description": "Unofficial AppImage builds of the Servo web browser engine.",
-    "app_page": "apps/servo.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/servo",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/servo"
-  },
-  {
-    "icon": "theweb.png",
-    "name": "theweb",
-    "description": "Web Browser.",
-    "app_page": "apps/theweb.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/theweb",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/theweb"
-  },
-  {
-    "icon": "thorium.png",
-    "name": "thorium",
-    "description": "Web Browser, a Chromium fork including Widevine and FFmpeg support.",
-    "app_page": "apps/thorium.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thorium",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thorium"
-  },
-  {
-    "icon": "tor-browser.png",
-    "name": "tor-browser",
-    "description": "Privacy-oriented Web Browser for sites blocked in your country.",
-    "app_page": "apps/tor-browser.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tor-browser",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tor-browser"
-  },
-  {
-    "icon": "tor-browser-alpha.png",
-    "name": "tor-browser-alpha",
-    "description": "Privacy-oriented Web Browser for sites blocked in your country.",
-    "app_page": "apps/tor-browser-alpha.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tor-browser-alpha",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tor-browser-alpha"
-  },
-  {
-    "icon": "ungoogled-chromium.png",
-    "name": "ungoogled-chromium",
-    "description": "Chromium Web Browser without Google services.",
-    "app_page": "apps/ungoogled-chromium.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ungoogled-chromium",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ungoogled-chromium"
-  },
-  {
-    "icon": "viper-browser.png",
-    "name": "viper-browser",
-    "description": "Fast and lightweight Qt web browser.",
-    "app_page": "apps/viper-browser.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viper-browser",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viper-browser"
-  },
-  {
-    "icon": "vivaldi-snapshot.png",
-    "name": "vivaldi-snapshot",
-    "description": "Unofficial. Advanced Web Browser, Testing Version.",
-    "app_page": "apps/vivaldi-snapshot.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vivaldi-snapshot",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vivaldi-snapshot"
-  },
-  {
-    "icon": "vivaldi-stable.png",
-    "name": "vivaldi-stable",
-    "description": "Unofficial. Advanced Web Browser, Stable Version.",
-    "app_page": "apps/vivaldi-stable.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vivaldi-stable",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vivaldi-stable"
-  },
-  {
-    "icon": "waterfox.png",
-    "name": "waterfox",
-    "description": "A privacy-focused web browser engineered to give you speed, control, and peace of mind on the internet.",
-    "app_page": "apps/waterfox.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/waterfox",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/waterfox"
-  },
-  {
-    "icon": "wexond.png",
-    "name": "wexond",
-    "description": "Extensible, fast and innovative web browser with material UI.",
-    "app_page": "apps/wexond.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wexond",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wexond"
-  },
-  {
-    "icon": "zen-browser.png",
-    "name": "zen-browser",
-    "description": "Experience tranquillity while browsing the web without tracking.",
-    "app_page": "apps/zen-browser.md",
-    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zen-browser",
-    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zen-browser"
-  }
+{"name":"agregore","description":"A minimal browser for the distributed web, Desktop version."},
+{"name":"archiveweb.page","description":"A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers."},
+{"name":"basilisk2","description":"Classic Macintosh emulator BasiliskII."},
+{"name":"basiliskii-enhanced","description":"Unofficial, classic Macintosh emulator BasiliskII."},
+{"name":"brave-beta","description":"Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"beta\" release."},
+{"name":"brave-nightly","description":"Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"nightly\" release."},
+{"name":"brave-origin","description":"Unofficial, stripped down version of Brave Browser with no extra features."},
+{"name":"brave","description":"Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"stable\" release."},
+{"name":"browservice","description":"Browse the modern web on historical browsers."},
+{"name":"brs-emu-app","description":"BrightScript Emulator, runs on browsers and Electron apps."},
+{"name":"carbonyl","description":"Chromium running inside your terminal."},
+{"name":"catalyst","description":"Catalyst web browser."},
+{"name":"chromium-beta","description":"Unofficial. FOSS Web Browser, base of Google Chrome, beta edition."},
+{"name":"chromium-bsu","description":"Unofficial. Fast paced arcade style scrolling space shooter, game."},
+{"name":"chromium-edge","description":"Unofficial. FOSS Web Browser, base of Google Chrome, edge edition."},
+{"name":"chromium-rc","description":"Unofficial. FOSS Web Browser, base of Google Chrome, release candidate."},
+{"name":"chromium","description":"Unofficial. FOSS Web Browser, base of Google Chrome, Edge and Brave, stable."},
+{"name":"cromite","description":"Unofficial AppImage of the Cromite web browser."},
+{"name":"deskreen","description":"Turns any device with a web browser into a secondary screen."},
+{"name":"dezor","description":"The web browser including VPN and Adblocker."},
+{"name":"elzabrowser","description":"Elza incognito web browser."},
+{"name":"falkon","description":"Unofficial. A fast Qt web browser from KDE."},
+{"name":"fifo","description":"A modern web browser, built on top of modern web technologies."},
+{"name":"filebrowser-quantum","description":"Web File Browser."},
+{"name":"filebrowser","description":"Web File Browser."},
+{"name":"firedragon","description":"A web browser based on Floorp (the Vivaldi of Firefox's) with many opiniated settings by default."},
+{"name":"firefox-beta","description":"Fast, powerful and extensible Web Browser, Beta Edition."},
+{"name":"firefox-devedition","description":"Fast, powerful and extensible Web Browser, Developer Edition."},
+{"name":"firefox-esr","description":"Fast, powerful and extensible Web Browser, ESR Edition."},
+{"name":"firefox","description":"Fast, powerful and extensible Web Browser, Stable."},
+{"name":"firefox-nightly","description":"Fast, powerful and extensible Web Browser, Nightly Edition."},
+{"name":"floorp","description":"Floorp Web Browser, the most Advanced and Fastest Firefox derivative."},
+{"name":"godmode","description":"AI Chat Browser fast, full webapp access to ChatGPT/Claude/Bard/Bing/Llama2."},
+{"name":"google-chrome-beta","description":"Unofficial, Web Browser, Beta version."},
+{"name":"google-chrome-dev","description":"Unofficial, Web Browser, Unstable version."},
+{"name":"google-chrome","description":"Unofficial, Web Browser, Stable version."},
+{"name":"helium","description":"The Chromium-based web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise."},
+{"name":"icecat","description":"GNU IceCat is the GNU version of the Firefox web browser."},
+{"name":"kiwix","description":"An offline reader for Web content, primarily designed to make Wikipedia available offline. It reads archives in the ZIM file format, a highly compressed open format with additional metadata."},
+{"name":"ladybird","description":"A truly independent web browser, using a novel engine based on web standards."},
+{"name":"librewolf","description":"Firefox-based Web Browser focused on privacy, security, freedom."},
+{"name":"mercury","description":"Firefox fork with compiler optimizations and patches from Librewolf."},
+{"name":"microsoft-edge-beta","description":"Web Browser provided by Microsoft, Beta Edition."},
+{"name":"microsoft-edge-dev","description":"Web Browser provided by Microsoft, Developer Edition."},
+{"name":"microsoft-edge","description":"Web Browser provided by Microsoft, Stable Edition."},
+{"name":"midori","description":"Surf lightly, quickly and safely with Midori Web Browser."},
+{"name":"mullvad-browser","description":"A Tor-based Web Browser."},
+{"name":"mytonwallet","description":"Feature-rich web wallet and browser extension for TON Network."},
+{"name":"ncsa-mosaic","description":"One of the first graphical web browsers."},
+{"name":"oneweb","description":"OneWeb - free, private and secure web browser! POLSKA GUROM."},
+{"name":"open-ai-translator","description":"Browser extension for translation based on ChatGPT API."},
+{"name":"opera-beta","description":"Unofficial. Fast and secure web browser, Beta version."},
+{"name":"opera-dev","description":"Unofficial. Fast and secure web browser, Developer version."},
+{"name":"opera","description":"Unofficial. Fast and secure web browser, Stable version."},
+{"name":"palemoon-legacy","description":"Unofficial. Pale Moon is a fully-independent web browser built on its own maintained platform and rendering engine (Goanna), focusing on user customization. This is the GTK2 implementation."},
+{"name":"palemoon","description":"Unofficial. Pale Moon is a fully-independent web browser built on its own maintained platform and rendering engine (Goanna), focusing on user customization."},
+{"name":"polypane","description":"Browser for web developers."},
+{"name":"programmer-browser","description":"A fast-searching and space-saving browser specially designed for programmers."},
+{"name":"promethium","description":"Extensible and innovative web browser with built-in AdBlock."},
+{"name":"responsively","description":"A browser for developing responsive web apps."},
+{"name":"servo","description":"Unofficial AppImage builds of the Servo web browser engine."},
+{"name":"theweb","description":"Web Browser."},
+{"name":"thorium","description":"Web Browser, a Chromium fork including Widevine and FFmpeg support."},
+{"name":"tor-browser-alpha","description":"Privacy-oriented Web Browser for sites blocked in your country."},
+{"name":"tor-browser","description":"Privacy-oriented Web Browser for sites blocked in your country."},
+{"name":"ungoogled-chromium","description":"Chromium Web Browser without Google services."},
+{"name":"varia","description":"Unofficial. Aria2-based advanced download manager with support for downloading files, torrents, video and audio + support for Chromium and Firefox extension."},
+{"name":"viper-browser","description":"Fast and lightweight Qt web browser."},
+{"name":"vivaldi-snapshot","description":"Unofficial. Advanced Web Browser, Testing Version."},
+{"name":"vivaldi-stable","description":"Unofficial. Advanced Web Browser, Stable Version."},
+{"name":"waterfox","description":"A privacy-focused web browser engineered to give you speed, control, and peace of mind on the internet."},
+{"name":"wexond","description":"Extensible, fast and innovative web browser with material UI."},
+{"name":"yandex-browser-beta","description":"Unofficial Yandex Browser AppImage, Beta."},
+{"name":"yandex-browser-corporate","description":"Unofficial Yandex Browser AppImage, Corporate."},
+{"name":"yandex-browser","description":"Unofficial Yandex Browser AppImage, Stable."},
+{"name":"zen-browser","description":"Experience tranquillity while browsing the web without tracking."}
 ]

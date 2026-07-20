@@ -1,8 +1,1 @@
-{
-  "name": "win11-clipboard-history",
-  "description": "A beautiful, Windows 11-style Clipboard History Manager for Linux.",
-  "sites": [
-    "https://github.com/gustavosett/Windows-11-Clipboard-History-For-Linux"
-  ],
-  "sources": []
-}
+{"name":"win11-clipboard-history","description":"A beautiful, Windows 11-style Clipboard History Manager for Linux.","sites":["https://github.com/gustavosett/Windows-11-Clipboard-History-For-Linux"],"sources":[]}

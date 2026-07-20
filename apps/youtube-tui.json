@@ -1,8 +1,1 @@
-{
-  "name": "youtube-tui",
-  "description": "An aesthetically pleasing YouTube TUI written in Rust",
-  "sites": [
-    "https://github.com/Siriusmart/youtube-tui"
-  ],
-  "sources": []
-}
+{"name":"youtube-tui","description":"An aesthetically pleasing YouTube TUI written in Rust","sites":["https://github.com/Siriusmart/youtube-tui"],"sources":[]}

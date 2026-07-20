@@ -1,8 +1,1 @@
-{
-  "name": "ossia-score",
-  "description": "ossia score is a sequencer for audio-visual artists, designed to create interactive shows.",
-  "sites": [
-    "https://github.com/OSSIA/score"
-  ],
-  "sources": []
-}
+{"name":"ossia-score","description":"ossia score is a sequencer for audio-visual artists, designed to create interactive shows.","sites":["https://github.com/OSSIA/score"],"sources":[]}

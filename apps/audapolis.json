@@ -1,8 +1,1 @@
-{
-  "name": "audapolis",
-  "description": "An editor for spoken-word audio with automatic transcription.",
-  "sites": [
-    "https://github.com/bugbakery/audapolis"
-  ],
-  "sources": []
-}
+{"name":"audapolis","description":"An editor for spoken-word audio with automatic transcription.","sites":["https://github.com/bugbakery/audapolis"],"sources":[]}

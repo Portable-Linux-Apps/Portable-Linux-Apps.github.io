@@ -1,8 +1,1 @@
-{
-  "name": "thlink",
-  "description": "Touhou Project Game Netplay Tool 支持非想天则和凭依华观战的 通用的东方联机器",
-  "sites": [
-    "https://github.com/weilinfox/youmu-thlink"
-  ],
-  "sources": []
-}
+{"name":"thlink","description":"Touhou Project Game Netplay Tool \u652f\u6301\u975e\u60f3\u5929\u5219\u548c\u51ed\u4f9d\u534e\u89c2\u6218\u7684 \u901a\u7528\u7684\u4e1c\u65b9\u8054\u673a\u5668","sites":["https://github.com/weilinfox/youmu-thlink"],"sources":[]}

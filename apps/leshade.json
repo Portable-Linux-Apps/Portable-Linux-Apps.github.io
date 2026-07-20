@@ -1,8 +1,1 @@
-{
-  "name": "leshade",
-  "description": "An unofficial Reshade Installer for Linux.",
-  "sites": [
-    "https://github.com/Ishidawg/LeShade"
-  ],
-  "sources": []
-}
+{"name":"leshade","description":"An unofficial Reshade Installer for Linux.","sites":["https://github.com/Ishidawg/LeShade"],"sources":[]}

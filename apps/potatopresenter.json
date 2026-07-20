@@ -1,8 +1,1 @@
-{
-  "name": "potatopresenter",
-  "description": "Tool to create presentation slides that can be exported as PDF.",
-  "sites": [
-    "https://github.com/thgier/PotatoPresenter"
-  ],
-  "sources": []
-}
+{"name":"potatopresenter","description":"Tool to create presentation slides that can be exported as PDF.","sites":["https://github.com/thgier/PotatoPresenter"],"sources":[]}

@@ -1,8 +1,1 @@
-{
-  "name": "matm",
-  "description": "Watch anime, movies, tv shows and read manga from comfort of the cli",
-  "sites": [
-    "https://github.com/crolbar/matm"
-  ],
-  "sources": []
-}
+{"name":"matm","description":"Watch anime, movies, tv shows and read manga from comfort of the cli","sites":["https://github.com/crolbar/matm"],"sources":[]}

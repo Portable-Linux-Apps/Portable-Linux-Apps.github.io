@@ -1,8 +1,1 @@
-{
-  "name": "snake-js",
-  "description": "Canvas/JavaScript based Snake Game with support for controllers. (SNES/PS/XBOX)",
-  "sites": [
-    "https://github.com/aenany/snake.js"
-  ],
-  "sources": []
-}
+{"name":"snake-js","description":"Canvas/JavaScript based Snake Game with support for controllers. (SNES/PS/XBOX)","sites":["https://github.com/aenany/snake.js"],"sources":[]}

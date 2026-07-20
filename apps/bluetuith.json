@@ -1,8 +1,1 @@
-{
-  "name": "bluetuith",
-  "description": "A TUI bluetooth manager for Linux.",
-  "sites": [
-    "https://github.com/darkhz/bluetuith"
-  ],
-  "sources": []
-}
+{"name":"bluetuith","description":"A TUI bluetooth manager for Linux.","sites":["https://github.com/darkhz/bluetuith"],"sources":[]}

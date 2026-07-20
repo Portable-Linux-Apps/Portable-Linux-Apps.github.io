@@ -1,8 +1,1 @@
-{
-  "name": "media-dupes",
-  "description": "A minimal content duplicator for common media services like youtube",
-  "sites": [
-    "https://github.com/yafp/media-dupes"
-  ],
-  "sources": []
-}
+{"name":"media-dupes","description":"A minimal content duplicator for common media services like youtube","sites":["https://github.com/yafp/media-dupes"],"sources":[]}
