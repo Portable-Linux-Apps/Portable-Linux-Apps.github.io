@@ -7,7 +7,7 @@ filepath = sys.argv[1]
 with open(filepath) as f:
     content = f.read()
 
-data = {"name": "", "description": "", "sites": [], "sources": [], "screenshots": []}
+data = {"name": "", "description": "", "buttons":[], "sites": [], "sources": [], "screenshots": []}
 desc_lines = []
 
 for line in content.splitlines():
@@ -20,6 +20,8 @@ for line in content.splitlines():
         data["sources"] = ls[8:].strip().split()
     elif ls.startswith("SCREENSHOTS:"):
         data["screenshots"] = ls[13:].strip().split()
+    elif ls.startswith("BUTTONS:"):
+        data["buttons"] = ls[8:].strip().split()
     else:
         desc_lines.append(line)
 

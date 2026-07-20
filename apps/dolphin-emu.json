@@ -1,1 +1,1 @@
-{"name":"dolphin-emu","description":"Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.","sites":["https://dolphin-emu.org/"],"sources":["https://github.com/dolphin-emu/dolphin"]}
+{"name":"dolphin-emu","description":"Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.","sites":["https://dolphin-emu.org/"],"sources":["https://github.com/dolphin-emu/dolphin","https://github.com/pkgforge-dev/Dolphin-emu-AppImage"],"buttons":[]}

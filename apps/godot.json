@@ -1,1 +1,1 @@
-{"name":"godot","description":"Multi-platform 2D and 3D game engine with a feature-rich editor","sites":["https://godotengine.org/"],"sources":["https://github.com/godotengine/godot"]}
+{"name":"godot","description":"Multi-platform 2D and 3D game engine with a feature-rich editor\n\n This script provides both the official portable build and the unofficial AppImage.","sites":["https://github.com/godotengine/godot"],"sources":["https://github.com/pkgforge-dev/Godot-AppImage"],"buttons":[]}

@@ -1,1 +1,1 @@
-{"name":"signal","description":"Unofficial AppImage package for Signal.\n\n Say \"hello\" to a different messaging experience. An unexpected focus on privacy, combined with all of the features you expect.","sites":["https://signal.org"],"sources":[]}
+{"name":"signal","description":"Unofficial AppImage package for Signal.\n\n Say \"hello\" to a different messaging experience. An unexpected focus on privacy, combined with all of the features you expect.","sites":["https://signal.org"],"sources":["https://github.com/karo-solutions/Signal-Desktop-AppImage"],"buttons":[]}
