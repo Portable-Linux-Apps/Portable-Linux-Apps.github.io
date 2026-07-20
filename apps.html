@@ -3,16 +3,16 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GAME - PORTABLE LINUX APPS</title>
-  <meta name="description" content="GAME - Portable Linux Apps category page.">
+  <title>APPLICATIONS - PORTABLE LINUX APPS</title>
+  <meta name="description" content="APPLICATIONS - Portable Linux Apps full app list.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://portable-linux-apps.github.io/game.html">
+  <meta property="og:url" content="https://portable-linux-apps.github.io/apps.html">
   <meta property="og:image" content="https://portable-linux-apps.github.io/pla.png">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="GAME - PORTABLE LINUX APPS">
+  <meta name="twitter:title" content="APPLICATIONS - PORTABLE LINUX APPS">
   <meta name="twitter:image" content="https://portable-linux-apps.github.io/pla.png">
-  <meta name="twitter:description" content="GAME - Portable Linux Apps category page.">
-  <link rel="canonical" href="https://portable-linux-apps.github.io/game.html">
+  <meta name="twitter:description" content="APPLICATIONS - Portable Linux Apps full app list.">
+  <link rel="canonical" href="https://portable-linux-apps.github.io/apps.html">
   <link rel="icon" href="favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="style.css">
 </head>
@@ -27,12 +27,12 @@
 </nav>
 
 <section>
-  <h1>GAME</h1>
+  <h1>APPLICATIONS</h1>
   <p class="category-meta" id="category-meta"></p>
-    <div class="search-box">
+  <div class="search-box">
     <input type="search" id="search-input" placeholder="Filter apps by name or keyword..." autocomplete="off">
   </div>
-  <div id="app-list" data-category="game"></div>
+  <div id="app-list"></div>
 </section>
 
 <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
@@ -40,7 +40,7 @@
 <script>
 var allApps = [];
 
-fetch('categories/game.json')
+fetch('apps.json')
   .then(function(r) { return r.json() })
   .then(function(data) {
     allApps = data;
@@ -56,7 +56,7 @@ function renderApps(list) {
   for (var i = 0; i < list.length; i++) {
     var app = list[i];
     html += '<div class="app-item">';
-    html += '<img loading="lazy" src="icons/' + app.name + ".png" + '" width="48" height="48" alt="" class="app-icon">';
+    html += '<img loading="lazy" src="icons/' + app.name + '.png" width="48" height="48" alt="" class="app-icon">';
     html += '<div class="app-body">';
     html += '<a href="app.html?name=' + encodeURIComponent(app.name) + '" class="app-name"><strong>' + app.name + '</strong></a>';
     html += '<p class="app-desc">' + app.description + '</p>';

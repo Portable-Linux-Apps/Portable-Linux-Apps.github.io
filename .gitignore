@@ -4,9 +4,6 @@ _site/
 .jekyll-metadata/
 .sass-cache/
 
-# Gemfile dependencies
-Gemfile.lock
-
 # Bundler files
 .bundle/
 
