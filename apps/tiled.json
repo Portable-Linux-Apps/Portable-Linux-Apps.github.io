@@ -1,0 +1,8 @@
+{
+  "name": "tiled",
+  "description": "Tile map editor",
+  "sites": [
+    "https://github.com/bjorn/tiled"
+  ],
+  "sources": []
+}

@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FAQ - PORTABLE LINUX APPS</title>
+  <meta name="description" content="Frequently asked questions about Portable Linux Apps, the AM package manager, and the AppImage catalog.">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="apps.html">Apps</a>
+  <a href="faq.html">FAQ</a>
+  <a href="wiki.html">Wiki</a>
+  <a href="https://github.com/ivan-hc/AM">AM on GitHub</a>
+</nav>
+
+<section>
+  <h1>FAQ</h1>
+  <hr class="section-divider">
+
+  <div class="faq-page">
+
+  <details>
+  <summary><h2>What are the portable linux apps?</h2></summary>
+  <p><em>Portable Linux Apps are standalone applications for GNU/Linux that can (theoretically) run everywhere, also on a USB stick. These applications can be AppImage packages (see <a href="https://appimage.org/">appimage.org</a>) or standalone archives (for example Firefox, Thunderbird...).</em></p>
+  </details>
+
+  <details>
+  <summary><h2>How is this site different from other sites that list AppImage packages?</h2></summary>
+  <p><em>This catalog aims to survey and list all the AppImages and autonomous programs, and aims to provide a centralized point where you can document yourself on individual apps and where you can easily reach the URLs to the sources, both through the pages dedicated to each app and by reading the "installation scripts".</em></p>
+  <p><em>Yeah, each app has its own installation script, PKGBUILD style, but with an alternative package manager named "<a href="https://github.com/ivan-hc/AM">AM</a>", which works like the more classic APT, PacMan/YAY, DNF... and which can therefore place them in specific paths of the filesystem , like any program, and allows updates via a system of scripts called "AM-updater". If an app can't update itself, the dedicated "AM-updater" script will use an application-specific method to always update your favorite apps to the latest version. FOR REAL!</em></p>
+  <p><em>This catalog is open source. You can edit its pages, update them and see the sources clearly, as a "wiki".</em></p>
+
+  <h3>About other catalogs</h3>
+  <p><em>While I recognize the role they have had so far in supporting the diffusion of AppImage as a packaging format, through the years, as a former user, I would like to underline what led me to open an alternative catalogue:</em></p>
+  <ul>
+    <li><em>"<a href="https://appimage.github.io/">appimage.github.io</a>" serves more than anything else to catalog the AppImages based on validation processes based on Github Actions (i.e. that the package is compatible with old versions of Ubuntu LTS). From the developer's point of view it's fine, but <strong>from the point of view of the user who searches for AppImage packages without going into the depths of the internet, it's totally useless</strong>. As a catalog it is limited to showing only that an app exists or has existed in the past, without worrying about <strong>obsolete packages that no longer exist, but still listed only "to make up the numbers"</strong>. Many pages have no buttons to the sources and all pages have no additional information on individual apps, <strong>each page is simply a copy/paste message</strong> that says that the app "is available as an AppImage which means one app = one file..." etcetera etcetera.</em></li>
+    <li><em>"<a href="https://www.appimagehub.com/">appimagehub.com</a>" hosts applications not always provided by the original developer, just check the profile of whoever uploaded the application and how many "products" they uploaded. Some admit that they are not the developers, despite having a donation button available, effectively <strong>leading them to earning on work of others</strong>, and are often greedy enough to not include the real source! These profiles use random hosting services for these applications, and Pling's APIs does not allow you to clearly verify the origin of any package that is downloaded. There is no control over this, and the only validity check of a "product" is the feedback of the users who use it, and which in any case is <strong>not sufficient either to guarantee the safety of an app, nor to do justice to the real owner of that package, who was in fact "robbed" of its work</strong>.</em></li>
+  </ul>
+  <p><em>Furthermore, <strong>none of them track updates consistently</strong>.</em></p>
+  <p><em>From the aforementioned defects I understood what a catalog of portable applications should NOT do to be reliable.</em></p>
+  </details>
+
+  <details>
+  <summary><h2>How can I improve the pages on this site?</h2></summary>
+  <p><em>All pages are simple Markdown files. If you have a <a href="https://github.com">Github</a> profile, just click on "<strong>Improve this page</strong>" at the bottom of the page you are interested in:</em></p>
+  <ul>
+    <li><em>for each app you can add additional URLs (also for donations), information, screenshots, tables and annotations related to bugs, always respecting the layout (note that the same pages are what you see in the terminal using "AM"/"AppMan" through the <code>-a</code> option);</em></li>
+    <li><em>icons must be 128x128 PNG files (they could be used by "AM"/"AppMan" during installation, in case an icon is not found);</em></li>
+    <li><em>the application lists instead are automatically generated by the developer of this site through <a href="https://github.com/ivan-hc/AM/blob/main/tools/am2pla-site">this script</a>. Any changes to the lists and descriptions must be made to <a href="https://github.com/ivan-hc/AM/blob/main/programs/x86_64-apps">this file</a>, which is the general list of apps managed by "AM"/"AppMan". The script will create the <a href="apps.html">Applications</a> page first and then it will create and update the categories.</em></li>
+  </ul>
+  <p><em>For any suggestions, open an <a href="https://github.com/ivan-hc/AM/issues">issue</a> at https://github.com/ivan-hc/AM or a <a href="https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls">pull request</a> at https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io</em></p>
+  </details>
+
+  <details>
+  <summary><h2>Is there a centralized repository for AppImage packages?</h2></summary>
+  <p><em>Depends on what you mean by "<strong>centralized package repository</strong>", if you mean a repository that stores them all like Debian-based distributions do with DEB packages, no, there are thousands of packages, and they are usually distributed to remote sites and difficult to find.</em></p>
+  <p><em>If instead you mean an AUR-style repo with scripts that easily find all AppImages, <strong>you're in the right place!</strong></em></p>
+  <p><em>This catalog and its CLI, "<a href="https://github.com/ivan-hc/AM">AM</a>", make it easy for you to find, install, integrate and update all AppImage packages!</em></p>
+  <p><em>This catalog is just the frontend for an ever growing database that aims to extend not only to x86_64 architecture apps listed here, but also to all others, from the modern ARM64/aarch64 to oldest i686, as an universal solution for all AppImages and portable programs for GNU/Linux!</em></p>
+  </details>
+
+  <p><a href="index.html">&larr; Back to home</a></p>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-links">
+    <a href="https://ko-fi.com/IvanAlexHC">ko-fi.com</a>
+    <a href="https://paypal.me/IvanAlexHC">PayPal.me</a>
+    <a href="https://github.com/ivan-hc/AM">AM on GitHub</a>
+  </div>
+  <p>&copy; 2020-present Ivan Alessandro Sala aka 'Ivan-HC' &mdash; I'm here just for fun!</p>
+</footer>
+
+</body>
+</html>

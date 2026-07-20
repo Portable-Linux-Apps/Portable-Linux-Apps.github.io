@@ -1,0 +1,8 @@
+{
+  "name": "pixelhopper",
+  "description": "Animated GIF player for Linux (X11) and eventually macOS and Windows",
+  "sites": [
+    "https://github.com/tomas/pixelhopper"
+  ],
+  "sources": []
+}

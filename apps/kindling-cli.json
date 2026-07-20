@@ -1,0 +1,8 @@
+{
+  "name": "kindling-cli",
+  "description": "Kindle toolkit for dictionaries, books, comics.",
+  "sites": [
+    "https://github.com/ciscoriordan/kindling"
+  ],
+  "sources": []
+}

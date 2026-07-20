@@ -1,0 +1,8 @@
+{
+  "name": "xde",
+  "description": "XDE, the Expo Development Environment.",
+  "sites": [
+    "https://github.com/expo/xde"
+  ],
+  "sources": []
+}

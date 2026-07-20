@@ -1,0 +1,8 @@
+{
+  "name": "revealgo",
+  "description": "Markdown driven presentation tool written in Go!",
+  "sites": [
+    "https://github.com/yusukebe/revealgo"
+  ],
+  "sources": []
+}

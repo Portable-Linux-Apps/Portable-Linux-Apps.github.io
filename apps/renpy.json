@@ -1,0 +1,8 @@
+{
+  "name": "renpy",
+  "description": "Unofficial, visual novel engine Ren'Py.",
+  "sites": [
+    "https://github.com/pkgforge-dev/RenPy-AppImage"
+  ],
+  "sources": []
+}

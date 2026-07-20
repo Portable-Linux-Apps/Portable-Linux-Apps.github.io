@@ -1,0 +1,8 @@
+{
+  "name": "vk-desktop",
+  "description": "Cross-platform client VKontakte. Кроссплатформенный клиент ВКонтакте.",
+  "sites": [
+    "https://github.com/danyadev/vk-desktop"
+  ],
+  "sources": []
+}

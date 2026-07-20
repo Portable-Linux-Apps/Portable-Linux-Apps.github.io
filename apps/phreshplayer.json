@@ -1,0 +1,8 @@
+{
+  "name": "phreshplayer",
+  "description": "Electron based media player app.",
+  "sites": [
+    "https://github.com/Phreshhh/PhreshPlayer"
+  ],
+  "sources": []
+}

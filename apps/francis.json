@@ -1,0 +1,10 @@
+{
+  "name": "francis",
+  "description": "Francis uses the well-known pomodoro technique to help you get more productive.\n\n This tool is part of the KDE Utils Suite.\n\n <img src=\"https://cdn.kde.org/screenshots/francis/main.png\" alt=\"Screenshot\">",
+  "sites": [
+    "https://apps.kde.org"
+  ],
+  "sources": [
+    "https://github.com/ivan-hc/KDE-utils-appimage"
+  ]
+}

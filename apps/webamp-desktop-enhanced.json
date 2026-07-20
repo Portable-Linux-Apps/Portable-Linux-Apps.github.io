@@ -1,0 +1,8 @@
+{
+  "name": "webamp-desktop-enhanced",
+  "description": "Unofficial, experimental cross-platform desktop version of Winamp 2.9 reimplementation in electron.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Webamp-Desktop-AppImage-Enhanced"
+  ],
+  "sources": []
+}

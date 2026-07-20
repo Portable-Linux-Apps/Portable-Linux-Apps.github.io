@@ -1,0 +1,8 @@
+{
+  "name": "chatterino2",
+  "description": "Second installment of the Twitch chat client series\n release appimage",
+  "sites": [
+    "https://chatterino.com"
+  ],
+  "sources": []
+}

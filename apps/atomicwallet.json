@@ -1,0 +1,8 @@
+{
+  "name": "atomicwallet",
+  "description": "atomic vue-electron",
+  "sites": [
+    "https://atomicwallet.io/"
+  ],
+  "sources": []
+}

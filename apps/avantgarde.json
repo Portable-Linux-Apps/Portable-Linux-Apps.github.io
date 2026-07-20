@@ -1,0 +1,8 @@
+{
+  "name": "avantgarde",
+  "description": "Avalonia XAML Preview for Linux and Windows.",
+  "sites": [
+    "https://github.com/kuiperzone/AvantGarde"
+  ],
+  "sources": []
+}

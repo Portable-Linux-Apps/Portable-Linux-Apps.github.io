@@ -1,0 +1,8 @@
+{
+  "name": "bbg",
+  "description": "A static blog generator based on Electron Technology.",
+  "sites": [
+    "https://bbg.nekomoe.xyz/"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "keypunch",
+  "description": "Unofficial, keyboard writing speed test application.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Keypunch-AppImage"
+  ],
+  "sources": []
+}

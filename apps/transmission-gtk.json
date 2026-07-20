@@ -1,0 +1,8 @@
+{
+  "name": "transmission-gtk",
+  "description": "Fast, easy, and free BitTorrent client (GTK+ GUI).\n \n <img src=\"https://upload.wikimedia.org/wikipedia/commons/2/2d/Transmission_2.94_on_Fedora_32.png\" alt=\"Screenshot\">",
+  "sites": [
+    "https://github.com/ivan-hc/Transmission-gtk-appimage"
+  ],
+  "sources": []
+}

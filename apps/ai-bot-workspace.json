@@ -1,0 +1,8 @@
+{
+  "name": "ai-bot-workspace",
+  "description": "An Electron application which includes testing workspaces for some Riddles.io",
+  "sites": [
+    "https://github.com/jmerle/ai-bot-workspace"
+  ],
+  "sources": []
+}

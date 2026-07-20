@@ -1,0 +1,8 @@
+{
+  "name": "obliqoro",
+  "description": "A cross-platform tauri gui where Oblique Strategies meets Pomodoro",
+  "sites": [
+    "https://github.com/mrjackwills/obliqoro"
+  ],
+  "sources": []
+}

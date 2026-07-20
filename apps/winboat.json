@@ -1,0 +1,8 @@
+{
+  "name": "winboat",
+  "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration.",
+  "sites": [
+    "https://github.com/TibixDev/winboat"
+  ],
+  "sources": []
+}

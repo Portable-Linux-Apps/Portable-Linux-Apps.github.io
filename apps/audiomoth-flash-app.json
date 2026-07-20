@@ -1,0 +1,8 @@
+{
+  "name": "audiomoth-flash-app",
+  "description": "An Electron-based application designed to flash the AudioMoth recording device with new firmware.",
+  "sites": [
+    "https://github.com/OpenAcousticDevices/AudioMoth-Flash-App"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "qdriverstation",
+  "description": "Open-source alternative to the FRC Driver Station",
+  "sites": [
+    "https://github.com/FRC-Utilities/QDriverStation"
+  ],
+  "sources": []
+}

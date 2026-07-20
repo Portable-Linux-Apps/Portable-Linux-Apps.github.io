@@ -1,0 +1,930 @@
+[
+  {
+    "icon": "abaddon.png",
+    "name": "abaddon",
+    "description": "Unofficial, an alternative Discord client with voice support made with C++ and GTK 3.",
+    "app_page": "apps/abaddon.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/abaddon",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/abaddon"
+  },
+  {
+    "icon": "aichat.png",
+    "name": "aichat",
+    "description": "AIO AI CLI tool integrating 20+ AI platforms, including OpenAI.",
+    "app_page": "apps/aichat.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aichat",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aichat"
+  },
+  {
+    "icon": "altus.png",
+    "name": "altus",
+    "description": "Client for WhatsApp Web with themes & multiple account support.",
+    "app_page": "apps/altus.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/altus",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/altus"
+  },
+  {
+    "icon": "armcord.png",
+    "name": "armcord",
+    "description": "Custom client designed to enhance your Discord experience.",
+    "app_page": "apps/armcord.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/armcord",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/armcord"
+  },
+  {
+    "icon": "bastyon.png",
+    "name": "bastyon",
+    "description": "Decentralized social network based on the blockchain.",
+    "app_page": "apps/bastyon.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bastyon",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bastyon"
+  },
+  {
+    "icon": "bchat-desktop.png",
+    "name": "bchat-desktop",
+    "description": "About A decentralized cionfidential messaging app that runs on Beldex network.",
+    "app_page": "apps/bchat-desktop.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bchat-desktop",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bchat-desktop"
+  },
+  {
+    "icon": "beeper.png",
+    "name": "beeper",
+    "description": "All your chats in one app.",
+    "app_page": "apps/beeper.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beeper",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beeper"
+  },
+  {
+    "icon": "betterbird.png",
+    "name": "betterbird",
+    "description": "Unofficial, Betterbird is a fine-tuned version of Mozilla Thunderbird, a free and open-source email client.",
+    "app_page": "apps/betterbird.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/betterbird",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/betterbird"
+  },
+  {
+    "icon": "bettercrewlink.png",
+    "name": "bettercrewlink",
+    "description": "Free, open, Among Us proximity voice chat.",
+    "app_page": "apps/bettercrewlink.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bettercrewlink",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bettercrewlink"
+  },
+  {
+    "icon": "bili-liveluckdraw.png",
+    "name": "bili-liveluckdraw",
+    "description": "A Bilibili live stream lottery tool that draws winners based on keywords retrieved from the chat comments. It is built using Electron + React + Vite.",
+    "app_page": "apps/bili-liveluckdraw.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bili-liveluckdraw",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bili-liveluckdraw"
+  },
+  {
+    "icon": "binglite.png",
+    "name": "binglite",
+    "description": "A lightweight new Bing (AI chat) desktop application based on Tauri.",
+    "app_page": "apps/binglite.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/binglite",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/binglite"
+  },
+  {
+    "icon": "botclient.png",
+    "name": "botclient",
+    "description": "A discord botclient built with Electron and React.",
+    "app_page": "apps/botclient.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/botclient",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/botclient"
+  },
+  {
+    "icon": "botframework-emulator.png",
+    "name": "botframework-emulator",
+    "description": "Test and debug chat bots built with Bot Framework SDK.",
+    "app_page": "apps/botframework-emulator.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/botframework-emulator",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/botframework-emulator"
+  },
+  {
+    "icon": "bts-ce-lite.png",
+    "name": "bts-ce-lite",
+    "description": "Telecommunication network management application.",
+    "app_page": "apps/bts-ce-lite.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bts-ce-lite",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bts-ce-lite"
+  },
+  {
+    "icon": "caprine.png",
+    "name": "caprine",
+    "description": "Unofficial, elegant privacy focused Facebook Messenger app.",
+    "app_page": "apps/caprine.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/caprine",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/caprine"
+  },
+  {
+    "icon": "chat-gpt.png",
+    "name": "chat-gpt",
+    "description": "Unofficial. ChatGPT Desktop Application.",
+    "app_page": "apps/chat-gpt.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chat-gpt",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chat-gpt"
+  },
+  {
+    "icon": "chatall.png",
+    "name": "chatall",
+    "description": "Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca and more.",
+    "app_page": "apps/chatall.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatall",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatall"
+  },
+  {
+    "icon": "chatbox.png",
+    "name": "chatbox",
+    "description": "Chatbox is a desktop app for GPT-4 / GPT-3.5, OpenAI API.",
+    "app_page": "apps/chatbox.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatbox",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatbox"
+  },
+  {
+    "icon": "chatgpt-next-web.png",
+    "name": "chatgpt-next-web",
+    "description": "A cross-platform ChatGPT/Gemini UI.",
+    "app_page": "apps/chatgpt-next-web.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatgpt-next-web",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatgpt-next-web"
+  },
+  {
+    "icon": "chatpad-ai.png",
+    "name": "chatpad-ai",
+    "description": "Not just another ChatGPT user-interface.",
+    "app_page": "apps/chatpad-ai.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatpad-ai",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatpad-ai"
+  },
+  {
+    "icon": "chatterino2.png",
+    "name": "chatterino2",
+    "description": "Second installment of the Twitch chat client.",
+    "app_page": "apps/chatterino2.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatterino2",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatterino2"
+  },
+  {
+    "icon": "chatterino2-nightly.png",
+    "name": "chatterino2-nightly",
+    "description": "Second installment of the Twitch chat client.",
+    "app_page": "apps/chatterino2-nightly.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatterino2-nightly",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatterino2-nightly"
+  },
+  {
+    "icon": "circle-z.png",
+    "name": "circle-z",
+    "description": "A chat client for online math courses.",
+    "app_page": "apps/circle-z.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/circle-z",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/circle-z"
+  },
+  {
+    "icon": "datcord.png",
+    "name": "datcord",
+    "description": "Discord client.",
+    "app_page": "apps/datcord.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/datcord",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/datcord"
+  },
+  {
+    "icon": "deltachat-desktop.png",
+    "name": "deltachat-desktop",
+    "description": "Desktop Application for delta.chat.",
+    "app_page": "apps/deltachat-desktop.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deltachat-desktop",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deltachat-desktop"
+  },
+  {
+    "icon": "deskthing.png",
+    "name": "deskthing",
+    "description": "The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, just not The Car Thing anymore.",
+    "app_page": "apps/deskthing.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deskthing",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deskthing"
+  },
+  {
+    "icon": "dinox.png",
+    "name": "dinox",
+    "description": "DinoX - Modern XMPP Chat Client with Video Calls, Voice Messages & OMEMO Encryption.",
+    "app_page": "apps/dinox.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dinox",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dinox"
+  },
+  {
+    "icon": "discord.png",
+    "name": "discord",
+    "description": "Unofficial. All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.",
+    "app_page": "apps/discord.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/discord",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/discord"
+  },
+  {
+    "icon": "discord-bot-client.png",
+    "name": "discord-bot-client",
+    "description": "A patched version of discord, with bot login & Vencord support.",
+    "app_page": "apps/discord-bot-client.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/discord-bot-client",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/discord-bot-client"
+  },
+  {
+    "icon": "discord-qt.png",
+    "name": "discord-qt",
+    "description": "Unofficial. Discord client powered by Node.JS and Qt Widgets.",
+    "app_page": "apps/discord-qt.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/discord-qt",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/discord-qt"
+  },
+  {
+    "icon": "dissent.png",
+    "name": "dissent",
+    "description": "Tiny native Discord app.",
+    "app_page": "apps/dissent.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dissent",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dissent"
+  },
+  {
+    "icon": "dorion.png",
+    "name": "dorion",
+    "description": "Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!",
+    "app_page": "apps/dorion.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dorion",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dorion"
+  },
+  {
+    "icon": "dwyco-phoo.png",
+    "name": "dwyco-phoo",
+    "description": "Dwyco Phoo Chat and Video Calling.",
+    "app_page": "apps/dwyco-phoo.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dwyco-phoo",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dwyco-phoo"
+  },
+  {
+    "icon": "eaglemode.png",
+    "name": "eaglemode",
+    "description": "Zoomable user interface with plugin applications.",
+    "app_page": "apps/eaglemode.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eaglemode",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eaglemode"
+  },
+  {
+    "icon": "electron-wechat.png",
+    "name": "electron-wechat",
+    "description": "Wechat desktop application.",
+    "app_page": "apps/electron-wechat.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electron-wechat",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electron-wechat"
+  },
+  {
+    "icon": "elk.png",
+    "name": "elk",
+    "description": "Native version of Elk, a nimble Mastodon web.",
+    "app_page": "apps/elk.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elk",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elk"
+  },
+  {
+    "icon": "equibop.png",
+    "name": "equibop",
+    "description": "Equibop is a custom Discord App aiming to give you better performance and improve linux support.",
+    "app_page": "apps/equibop.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/equibop",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/equibop"
+  },
+  {
+    "icon": "fchat-horizon.png",
+    "name": "fchat-horizon",
+    "description": "The Best F-Chat 3.0 Client, No exceptions!.",
+    "app_page": "apps/fchat-horizon.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fchat-horizon",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fchat-horizon"
+  },
+  {
+    "icon": "ffwa-facebook.png",
+    "name": "ffwa-facebook",
+    "description": "WebApp & Firefox Profile for Facebook.",
+    "app_page": "apps/ffwa-facebook.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-facebook",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-facebook"
+  },
+  {
+    "icon": "ffwa-whatsapp.png",
+    "name": "ffwa-whatsapp",
+    "description": "WebApp & Firefox Profile for WhatsApp.",
+    "app_page": "apps/ffwa-whatsapp.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-whatsapp",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-whatsapp"
+  },
+  {
+    "icon": "fluffychat.png",
+    "name": "fluffychat",
+    "description": "The cutest instant messenger in the matrix.",
+    "app_page": "apps/fluffychat.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fluffychat",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fluffychat"
+  },
+  {
+    "icon": "fluxer.png",
+    "name": "fluxer",
+    "description": "A free and open source instant messaging and VoIP platform built for friends, groups, and communities.",
+    "app_page": "apps/fluxer.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fluxer",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fluxer"
+  },
+  {
+    "icon": "franz.png",
+    "name": "franz",
+    "description": "Messaging app for WhatsApp, Slack, Telegram, HipChat and much more.",
+    "app_page": "apps/franz.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/franz",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/franz"
+  },
+  {
+    "icon": "godmode.png",
+    "name": "godmode",
+    "description": "AI Chat Browser fast, full webapp access to ChatGPT/Claude/Bard/Bing/Llama2.",
+    "app_page": "apps/godmode.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/godmode",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/godmode"
+  },
+  {
+    "icon": "goofcord.png",
+    "name": "goofcord",
+    "description": "Take control of your Discord experience with GoofCord.",
+    "app_page": "apps/goofcord.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/goofcord",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/goofcord"
+  },
+  {
+    "icon": "hamsket.png",
+    "name": "hamsket",
+    "description": "Free and Open Source messaging and emailing app.",
+    "app_page": "apps/hamsket.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hamsket",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hamsket"
+  },
+  {
+    "icon": "hermesmessenger.png",
+    "name": "hermesmessenger",
+    "description": "Desktop client version for Hermes Messenger.",
+    "app_page": "apps/hermesmessenger.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hermesmessenger",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hermesmessenger"
+  },
+  {
+    "icon": "himalaya.png",
+    "name": "himalaya",
+    "description": "CLI to manage emails.",
+    "app_page": "apps/himalaya.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/himalaya",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/himalaya"
+  },
+  {
+    "icon": "hyperspace.png",
+    "name": "hyperspace",
+    "description": "A fluffy client for Mastodon in React.",
+    "app_page": "apps/hyperspace.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperspace",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperspace"
+  },
+  {
+    "icon": "jan.png",
+    "name": "jan",
+    "description": "FOSS Alternative to ChatGPT that runs 100% offline on your computer.",
+    "app_page": "apps/jan.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jan",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jan"
+  },
+  {
+    "icon": "jfcord.png",
+    "name": "jfcord",
+    "description": "An Jellyfin rich presence client for Discord.",
+    "app_page": "apps/jfcord.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jfcord",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jfcord"
+  },
+  {
+    "icon": "kongress.png",
+    "name": "kongress",
+    "description": "Unofficial, A companion application for conferences. This script installs the full \"kdeutils\" suite.",
+    "app_page": "apps/kongress.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kongress",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kongress"
+  },
+  {
+    "icon": "legcord.png",
+    "name": "legcord",
+    "description": "Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
+    "app_page": "apps/legcord.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/legcord",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/legcord"
+  },
+  {
+    "icon": "lobe-chat.png",
+    "name": "lobe-chat",
+    "description": "LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.",
+    "app_page": "apps/lobe-chat.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lobe-chat",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lobe-chat"
+  },
+  {
+    "icon": "mages.png",
+    "name": "mages",
+    "description": "Multiplatform Matrix chat client (experimental CMP+rust app).",
+    "app_page": "apps/mages.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mages",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mages"
+  },
+  {
+    "icon": "mbcord.png",
+    "name": "mbcord",
+    "description": "An Emby/Jellyfin rich presence client for Discord.",
+    "app_page": "apps/mbcord.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mbcord",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mbcord"
+  },
+  {
+    "icon": "mirage.png",
+    "name": "mirage",
+    "description": "Matrix chat client for encrypted and decentralized communication.",
+    "app_page": "apps/mirage.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mirage",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mirage"
+  },
+  {
+    "icon": "one-gpt.png",
+    "name": "one-gpt",
+    "description": "Aggregate ChatGPT official version, Wenxin Yiyan, Poe, chatchat.",
+    "app_page": "apps/one-gpt.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/one-gpt",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/one-gpt"
+  },
+  {
+    "icon": "open-ai-translator.png",
+    "name": "open-ai-translator",
+    "description": "Browser extension for translation based on ChatGPT API.",
+    "app_page": "apps/open-ai-translator.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/open-ai-translator",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/open-ai-translator"
+  },
+  {
+    "icon": "open-webui.png",
+    "name": "open-webui",
+    "description": "Your AI, right on your desktop. Open WebUI as a native app. Run models locally or connect to any server. No Docker, no terminal, no setup. Download, launch, chat.",
+    "app_page": "apps/open-webui.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/open-webui",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/open-webui"
+  },
+  {
+    "icon": "overlayed.png",
+    "name": "overlayed",
+    "description": "A modern, open-source, and free voice chat overlay for Discord.",
+    "app_page": "apps/overlayed.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/overlayed",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/overlayed"
+  },
+  {
+    "icon": "p2p-chat.png",
+    "name": "p2p-chat",
+    "description": "P2P LAN chatting and file sharing tool.",
+    "app_page": "apps/p2p-chat.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/p2p-chat",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/p2p-chat"
+  },
+  {
+    "icon": "pop.png",
+    "name": "pop",
+    "description": "Send emails from your terminal.",
+    "app_page": "apps/pop.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pop",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pop"
+  },
+  {
+    "icon": "qortal-ui.png",
+    "name": "qortal-ui",
+    "description": "Decentralize the world, data storage, communications.",
+    "app_page": "apps/qortal-ui.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qortal-ui",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qortal-ui"
+  },
+  {
+    "icon": "qtox.png",
+    "name": "qtox",
+    "description": "Qt 5 based Tox instant messenger for secure communication.",
+    "app_page": "apps/qtox.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qtox",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qtox"
+  },
+  {
+    "icon": "quiet.png",
+    "name": "quiet",
+    "description": "A private, p2p alternative to Slack and Discord built on Tor & IPFS",
+    "app_page": "apps/quiet.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/quiet",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/quiet"
+  },
+  {
+    "icon": "rambox.png",
+    "name": "rambox",
+    "description": "Free and Open Source messaging and emailing app.",
+    "app_page": "apps/rambox.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rambox",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rambox"
+  },
+  {
+    "icon": "ripcord.png",
+    "name": "ripcord",
+    "description": "Chat client for group-centric services like Slack and Discord.",
+    "app_page": "apps/ripcord.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ripcord",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ripcord"
+  },
+  {
+    "icon": "robrix.png",
+    "name": "robrix",
+    "description": "A multi-platform Matrix chat client written in Rust, using the Makepad UI toolkit and the Robius app dev framework.",
+    "app_page": "apps/robrix.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/robrix",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/robrix"
+  },
+  {
+    "icon": "root.png",
+    "name": "root",
+    "description": "Voice, video, and chat plus powerful apps that help your community organize, grow, and thrive. An alternative to Discord.",
+    "app_page": "apps/root.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/root",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/root"
+  },
+  {
+    "icon": "screenarc.png",
+    "name": "screenarc",
+    "description": "ScreenArc \u2013 Cross-platform screen recorder & editor with automatic cinematic zooms, mouse tracking, and effortless video creation.",
+    "app_page": "apps/screenarc.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/screenarc",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/screenarc"
+  },
+  {
+    "icon": "sengi.png",
+    "name": "sengi",
+    "description": "A multi-account desktop client for Mastodon and Pleroma.",
+    "app_page": "apps/sengi.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sengi",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sengi"
+  },
+  {
+    "icon": "session-desktop.png",
+    "name": "session-desktop",
+    "description": "Onion routing based messenger.",
+    "app_page": "apps/session-desktop.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/session-desktop",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/session-desktop"
+  },
+  {
+    "icon": "signal.png",
+    "name": "signal",
+    "description": "Unofficial AppImage package for Signal (communication).",
+    "app_page": "apps/signal.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/signal",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/signal"
+  },
+  {
+    "icon": "simplex-chat.png",
+    "name": "simplex-chat",
+    "description": "First messaging platform operating without user identifiers.",
+    "app_page": "apps/simplex-chat.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/simplex-chat",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/simplex-chat"
+  },
+  {
+    "icon": "skype.png",
+    "name": "skype",
+    "description": "Unofficial. VoIP-based videoconferencing, voice calls and instant messaging app.",
+    "app_page": "apps/skype.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/skype",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/skype"
+  },
+  {
+    "icon": "snapshot-slider.png",
+    "name": "snapshot-slider",
+    "description": "Present/print/email Snapshots of modern mathematics.",
+    "app_page": "apps/snapshot-slider.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snapshot-slider",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snapshot-slider"
+  },
+  {
+    "icon": "socnetv.png",
+    "name": "socnetv",
+    "description": "Social Network Analysis and Visualization software.",
+    "app_page": "apps/socnetv.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/socnetv",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/socnetv"
+  },
+  {
+    "icon": "soundcloud-rpc.png",
+    "name": "soundcloud-rpc",
+    "description": "A SoundCloud client with Discord Rich Presence and AdBlock.",
+    "app_page": "apps/soundcloud-rpc.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/soundcloud-rpc",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/soundcloud-rpc"
+  },
+  {
+    "icon": "sozi.png",
+    "name": "sozi",
+    "description": "A \"zooming\" presentation editor.",
+    "app_page": "apps/sozi.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sozi",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sozi"
+  },
+  {
+    "icon": "spacebar.png",
+    "name": "spacebar",
+    "description": "Themeable and extendable discord-compatible native Spacebar client.",
+    "app_page": "apps/spacebar.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spacebar",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spacebar"
+  },
+  {
+    "icon": "spacebar-debug.png",
+    "name": "spacebar-debug",
+    "description": "Extendable discord-compatible native Spacebar client, debug.",
+    "app_page": "apps/spacebar-debug.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spacebar-debug",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spacebar-debug"
+  },
+  {
+    "icon": "speek.png",
+    "name": "speek",
+    "description": "Privacy focused messenger.",
+    "app_page": "apps/speek.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speek",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speek"
+  },
+  {
+    "icon": "steem-messenger.png",
+    "name": "steem-messenger",
+    "description": "Messer for Steem.",
+    "app_page": "apps/steem-messenger.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steem-messenger",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steem-messenger"
+  },
+  {
+    "icon": "sup.png",
+    "name": "sup",
+    "description": "A Slack client with WhatsApp like UI.",
+    "app_page": "apps/sup.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sup",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sup"
+  },
+  {
+    "icon": "tc.png",
+    "name": "tc",
+    "description": "A desktop chat client for Twitch.",
+    "app_page": "apps/tc.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tc",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tc"
+  },
+  {
+    "icon": "teams.png",
+    "name": "teams",
+    "description": "Unofficial, Business communication platform developed by Microsoft.",
+    "app_page": "apps/teams.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/teams",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/teams"
+  },
+  {
+    "icon": "teamviewer.png",
+    "name": "teamviewer",
+    "description": "Deliver remote IT support to your customers and colleagues, anytime, anywhere. Communication, network.",
+    "app_page": "apps/teamviewer.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/teamviewer",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/teamviewer"
+  },
+  {
+    "icon": "tgpt.png",
+    "name": "tgpt",
+    "description": "AI Chatbots in terminal without needing API keys.",
+    "app_page": "apps/tgpt.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tgpt",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tgpt"
+  },
+  {
+    "icon": "thedesk.png",
+    "name": "thedesk",
+    "description": "Mastodon Client for PC.",
+    "app_page": "apps/thedesk.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thedesk",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thedesk"
+  },
+  {
+    "icon": "thunderbird.png",
+    "name": "thunderbird",
+    "description": "Free and open source eMail client, Stable.",
+    "app_page": "apps/thunderbird.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thunderbird",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thunderbird"
+  },
+  {
+    "icon": "thunderbird-beta.png",
+    "name": "thunderbird-beta",
+    "description": "Free and open source eMail client, Beta Edition.",
+    "app_page": "apps/thunderbird-beta.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thunderbird-beta",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thunderbird-beta"
+  },
+  {
+    "icon": "thunderbird-nightly.png",
+    "name": "thunderbird-nightly",
+    "description": "Free and open source eMail client, Nightly Edition.",
+    "app_page": "apps/thunderbird-nightly.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thunderbird-nightly",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thunderbird-nightly"
+  },
+  {
+    "icon": "tokodon.png",
+    "name": "tokodon",
+    "description": "Unofficial, a modern client for Mastodon and other decentralized servers that implement its API (such as Pixelfed).",
+    "app_page": "apps/tokodon.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tokodon",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tokodon"
+  },
+  {
+    "icon": "tutanota.png",
+    "name": "tutanota",
+    "description": "Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.",
+    "app_page": "apps/tutanota.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tutanota",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tutanota"
+  },
+  {
+    "icon": "tutanota-enhanced.png",
+    "name": "tutanota-enhanced",
+    "description": "Unofficial AppImage for Tutanota, an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.",
+    "app_page": "apps/tutanota-enhanced.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tutanota-enhanced",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tutanota-enhanced"
+  },
+  {
+    "icon": "vector.png",
+    "name": "vector",
+    "description": "Vector is a decentralized communication platform built on the Nostr Protocol.",
+    "app_page": "apps/vector.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vector",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vector"
+  },
+  {
+    "icon": "vesktop.png",
+    "name": "vesktop",
+    "description": "Vesktop gives you the performance of web Discord.",
+    "app_page": "apps/vesktop.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vesktop",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vesktop"
+  },
+  {
+    "icon": "viber.png",
+    "name": "viber",
+    "description": "Proprietary cross-platform IM and VoIP software.",
+    "app_page": "apps/viber.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viber",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viber"
+  },
+  {
+    "icon": "viber-enhanced.png",
+    "name": "viber-enhanced",
+    "description": "Unofficial. Enhanced AppImage of proprietary cross-platform IM and VoIP software.",
+    "app_page": "apps/viber-enhanced.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viber-enhanced",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viber-enhanced"
+  },
+  {
+    "icon": "vrcx.png",
+    "name": "vrcx",
+    "description": "Friendship management tool for VRChat.",
+    "app_page": "apps/vrcx.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vrcx",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vrcx"
+  },
+  {
+    "icon": "walc.png",
+    "name": "walc",
+    "description": "WhatsApp Linux Client, Unofficial.",
+    "app_page": "apps/walc.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/walc",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/walc"
+  },
+  {
+    "icon": "wasistlos.png",
+    "name": "wasistlos",
+    "description": "Unofficial, WhatsApp Linux Client, formerly known as \"whatsapp-for-linux\".",
+    "app_page": "apps/wasistlos.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wasistlos",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wasistlos"
+  },
+  {
+    "icon": "wazo-desktop.png",
+    "name": "wazo-desktop",
+    "description": "Wazo desktop client for wazo VOIP server.",
+    "app_page": "apps/wazo-desktop.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wazo-desktop",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wazo-desktop"
+  },
+  {
+    "icon": "webcord.png",
+    "name": "webcord",
+    "description": "A Discord and Fosscord client implemented without Discord API.",
+    "app_page": "apps/webcord.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/webcord",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/webcord"
+  },
+  {
+    "icon": "webcord-enhanced.png",
+    "name": "webcord-enhanced",
+    "description": "Unofficial, A Discord and Fosscord client implemented without Discord API.",
+    "app_page": "apps/webcord-enhanced.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/webcord-enhanced",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/webcord-enhanced"
+  },
+  {
+    "icon": "wewechat.png",
+    "name": "wewechat",
+    "description": "Unofficial WeChat client built with React, MobX and Electron.",
+    "app_page": "apps/wewechat.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wewechat",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wewechat"
+  },
+  {
+    "icon": "whalebird.png",
+    "name": "whalebird",
+    "description": "An Electron based Mastodon client.",
+    "app_page": "apps/whalebird.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whalebird",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whalebird"
+  },
+  {
+    "icon": "whatsdesk.png",
+    "name": "whatsdesk",
+    "description": "Unofficial, An unofficial client of WhatsApp.",
+    "app_page": "apps/whatsdesk.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whatsdesk",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whatsdesk"
+  },
+  {
+    "icon": "whatsie.png",
+    "name": "whatsie",
+    "description": "Unofficial, feature rich WhatsApp web client based on Qt WebEngine.",
+    "app_page": "apps/whatsie.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whatsie",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whatsie"
+  },
+  {
+    "icon": "whatstron.png",
+    "name": "whatstron",
+    "description": "Unofficial WhatsApp desktop client for Linux.",
+    "app_page": "apps/whatstron.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whatstron",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whatstron"
+  },
+  {
+    "icon": "xchat.png",
+    "name": "xchat",
+    "description": "Chat with other people using Internet Relay Chat.",
+    "app_page": "apps/xchat.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xchat",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xchat"
+  },
+  {
+    "icon": "xgetter.png",
+    "name": "xgetter",
+    "description": "Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Bilibili, Douyin and more.",
+    "app_page": "apps/xgetter.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xgetter",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xgetter"
+  },
+  {
+    "icon": "zapzap.png",
+    "name": "zapzap",
+    "description": "WhatsApp desktop application written in Pyqt6 + PyQt6-WebEngine.",
+    "app_page": "apps/zapzap.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zapzap",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zapzap"
+  },
+  {
+    "icon": "zapzap-enhanced.png",
+    "name": "zapzap-enhanced",
+    "description": "Unofficial AppImage of ZapZap WhatsApp client.",
+    "app_page": "apps/zapzap-enhanced.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zapzap-enhanced",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zapzap-enhanced"
+  },
+  {
+    "icon": "zoom.png",
+    "name": "zoom",
+    "description": "Unofficial. Video Conferencing and Web Conferencing Service.",
+    "app_page": "apps/zoom.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zoom",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zoom"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "name": "lightning",
+  "description": "Lightning Wallet Application",
+  "sites": [
+    "https://github.com/lightninglabs/lightning-app"
+  ],
+  "sources": []
+}

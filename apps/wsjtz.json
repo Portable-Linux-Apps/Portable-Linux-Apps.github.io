@@ -1,0 +1,8 @@
+{
+  "name": "wsjtz",
+  "description": "AppImage of WSJT-Z – fork of WSJT-X with automation features.",
+  "sites": [
+    "https://github.com/SP5D/wsjtz-AppImage"
+  ],
+  "sources": []
+}

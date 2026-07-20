@@ -1,0 +1,8 @@
+{
+  "name": "spotify-tui",
+  "description": "Spotify for the terminal written in Rust.",
+  "sites": [
+    "https://github.com/Rigellute/spotify-tui"
+  ],
+  "sources": []
+}

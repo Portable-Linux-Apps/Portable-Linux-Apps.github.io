@@ -1,0 +1,8 @@
+{
+  "name": "betterbird",
+  "description": "Unofficial, Betterbird is a fine-tuned version of Mozilla Thunderbird, a free and open-source email client.",
+  "sites": [
+    "https://github.com/ivan-hc/Betterbird-appimage"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "lofi",
+  "description": "🎵🔉 A mini Spotify player with WebGL visualizations.",
+  "sites": [
+    "https://github.com/dvx/lofi"
+  ],
+  "sources": []
+}

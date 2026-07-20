@@ -1,0 +1,8 @@
+{
+  "name": "vrcft-avalonia",
+  "description": "Cross-platform VRCFaceTracking made with Avalonia.",
+  "sites": [
+    "https://github.com/dfgHiatus/VRCFaceTracking.Avalonia"
+  ],
+  "sources": []
+}

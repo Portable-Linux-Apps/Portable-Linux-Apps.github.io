@@ -1,0 +1,8 @@
+{
+  "name": "raptor",
+  "description": "Unofficial, reversed-engineered source port from Raptor Call Of The Shadows.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Raptor-AppImage"
+  ],
+  "sources": []
+}

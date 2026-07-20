@@ -1,0 +1,8 @@
+{
+  "name": "acestream",
+  "description": "Створення бінарника AppImage з AceStream Media",
+  "sites": [
+    "https://github.com/bro2020/acestream-appimage"
+  ],
+  "sources": []
+}

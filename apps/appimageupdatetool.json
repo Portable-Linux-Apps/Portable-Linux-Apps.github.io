@@ -1,0 +1,6 @@
+{
+  "name": "appimageupdatetool",
+  "description": "AppImageUpdate lets you update AppImages using information embedded in the AppImage itself, if provided by the developer of the AppImage.\n\n This script allows you to choose between the improved fork and the official AppImage. The fork is provided by the Pkgforge community, with GH rate-limit-bypass & misc QOL changes.",
+  "sites": [],
+  "sources": []
+}

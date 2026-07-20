@@ -1,0 +1,8 @@
+{
+  "name": "groot",
+  "description": "Groot is a Graphical Editor, written in C++ and Qt, to create BehaviorTrees.",
+  "sites": [
+    "https://github.com/BehaviorTree/Groot"
+  ],
+  "sources": []
+}

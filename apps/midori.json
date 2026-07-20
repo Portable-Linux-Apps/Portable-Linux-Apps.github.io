@@ -1,0 +1,10 @@
+{
+  "name": "midori",
+  "description": "Surf lightly, quickly and safely with Midori Web Browser.\n \n Midori initially uses the Gecko/Firefox code under the Floorp Browser project. Both Midori and Floorp projects are collaborating to improve and offer an exceptional user experience, with significant differences. Later, as updates are released, the original code will be differentiated. But both projects will continue to collaborate.",
+  "sites": [
+    "https://astian.org"
+  ],
+  "sources": [
+    "https://github.com/goastian/midori-desktop"
+  ]
+}

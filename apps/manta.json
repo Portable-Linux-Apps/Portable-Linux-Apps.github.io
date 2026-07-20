@@ -1,0 +1,10 @@
+{
+  "name": "manta",
+  "description": "Flexible invoicing desktop app with beautiful & customizable templates.",
+  "sites": [
+    "https://getmanta.app/"
+  ],
+  "sources": [
+    "https://github.com/hql287/Manta"
+  ]
+}

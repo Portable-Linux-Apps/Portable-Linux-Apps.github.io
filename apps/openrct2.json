@@ -1,0 +1,8 @@
+{
+  "name": "openrct2",
+  "description": "OpenRCT2 is an open-source re-implementation of RollerCoaster Tycoon 2 (RCT2), expanding the game with new features, fixing bugs and raising game limits. The gameplay revolves around building and maintaining an amusement park containing attractions, shops and facilities. The player must try to make a profit and maintain a good park reputation whilst keeping the guests happy.",
+  "sites": [
+    "https://openrct2.org"
+  ],
+  "sources": []
+}

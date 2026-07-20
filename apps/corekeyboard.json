@@ -1,0 +1,8 @@
+{
+  "name": "corekeyboard",
+  "description": "A x11 based virtual keyboard for C Suite.",
+  "sites": [
+    "https://gitlab.com/cubocore"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "jdmrpackinstaller",
+  "description": "Install Modrinth modpacks.",
+  "sites": [
+    "https://sourceforge.net/projects/jdmrpackinstaller/"
+  ],
+  "sources": []
+}

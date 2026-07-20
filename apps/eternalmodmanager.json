@@ -1,0 +1,8 @@
+{
+  "name": "eternalmodmanager",
+  "description": "A cross platform mod manager for DOOM Eternal.",
+  "sites": [
+    "https://github.com/PowerBall253/EternalModManager-Avalonia"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "macchina",
+  "description": "A system information frontend with an emphasis on performance.",
+  "sites": [
+    "https://github.com/Macchina-CLI/macchina"
+  ],
+  "sources": []
+}

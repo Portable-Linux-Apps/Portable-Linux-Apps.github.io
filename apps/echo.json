@@ -1,0 +1,8 @@
+{
+  "name": "echo",
+  "description": "Display a line of text. This is part of \"am-utils\" suite.",
+  "sites": [
+    "https://github.com/ivan-hc/am-utils"
+  ],
+  "sources": []
+}

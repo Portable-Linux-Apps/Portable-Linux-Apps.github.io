@@ -1,0 +1,8 @@
+{
+  "name": "dezor",
+  "description": "The web browser including VPN and Adblocker.",
+  "sites": [
+    "https://dezor.net"
+  ],
+  "sources": []
+}

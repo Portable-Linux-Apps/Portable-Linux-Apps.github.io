@@ -1,0 +1,8 @@
+{
+  "name": "eximchain-wallet",
+  "description": "Eximchain Wallet web and electron app",
+  "sites": [
+    "https://github.com/Eximchain/EximchainWallet"
+  ],
+  "sources": []
+}

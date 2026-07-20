@@ -1,0 +1,8 @@
+{
+  "name": "wget",
+  "description": "Network utility to retrieve files from the web. This is part of \"am-utils\" suite.",
+  "sites": [
+    "https://github.com/ivan-hc/am-utils"
+  ],
+  "sources": []
+}

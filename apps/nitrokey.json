@@ -1,0 +1,8 @@
+{
+  "name": "nitrokey",
+  "description": "Manage your Nitrokey devices",
+  "sites": [
+    "https://github.com/Nitrokey/nitrokey-app"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "dinosaurplanetrecompiled",
+  "description": "A static recompilation/native port of the game Dinosaur Planet.",
+  "sites": [
+    "https://github.com/DinosaurPlanetRecomp/dino-recomp"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "gpgfrontend",
+  "description": "A Cross-Platform OpenPGP Frontend Software",
+  "sites": [
+    "https://github.com/saturneric/GpgFrontend"
+  ],
+  "sources": []
+}

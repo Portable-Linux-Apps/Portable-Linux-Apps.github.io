@@ -1,0 +1,8 @@
+{
+  "name": "gwenview",
+  "description": "Unofficial. Fast and easy to use image viewer by KDE. ideal for displaying a collection of images.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Gwenview-AppImage"
+  ],
+  "sources": []
+}

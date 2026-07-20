@@ -1,0 +1,10 @@
+{
+  "name": "iagoncloudapp",
+  "description": "Iagon Cloud Application for Distributed Storage and Processing.",
+  "sites": [
+    "https://iagon.com"
+  ],
+  "sources": [
+    "https://github.com/Iagonorg/Iagon-storage-node"
+  ]
+}

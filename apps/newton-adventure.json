@@ -1,0 +1,8 @@
+{
+  "name": "newton-adventure",
+  "description": "A 2D platformer with a twist, the player can rotate gravity at 360°.",
+  "sites": [
+    "https://play.devnewton.fr"
+  ],
+  "sources": []
+}

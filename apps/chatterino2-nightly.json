@@ -1,0 +1,8 @@
+{
+  "name": "chatterino2-nightly",
+  "description": "Second installment of the Twitch chat client series nightly appimage",
+  "sites": [
+    "https://chatterino.com"
+  ],
+  "sources": []
+}

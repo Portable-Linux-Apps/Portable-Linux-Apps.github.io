@@ -1,0 +1,8 @@
+{
+  "name": "hermesmessenger",
+  "description": "Desktop client version of the Hermes Messenger",
+  "sites": [
+    "https://github.com/HermesMessenger/HermesDesktop"
+  ],
+  "sources": []
+}

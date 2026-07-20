@@ -1,0 +1,8 @@
+{
+  "name": "xchat",
+  "description": "Chat with other people using Internet Relay Chat",
+  "sites": [
+    "https://github.com/probonopd/XChat"
+  ],
+  "sources": []
+}

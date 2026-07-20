@@ -1,0 +1,8 @@
+{
+  "name": "gpu-screen-recorder",
+  "description": "Unofficial AppImage of GPU Screen Recorder [Maintainer=@Samueru-sama]",
+  "sites": [
+    "https://github.com/pkgforge-dev/gpu-screen-recorder-AppImage"
+  ],
+  "sources": []
+}

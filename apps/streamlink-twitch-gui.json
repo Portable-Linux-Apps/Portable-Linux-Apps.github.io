@@ -1,0 +1,8 @@
+{
+  "name": "streamlink-twitch-gui",
+  "description": "A multi platform Twitch.tv browser for Streamlink.",
+  "sites": [
+    "https://github.com/streamlink/streamlink-twitch-gui"
+  ],
+  "sources": []
+}

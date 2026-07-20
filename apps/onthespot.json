@@ -1,0 +1,8 @@
+{
+  "name": "onthespot",
+  "description": "A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More.",
+  "sites": [
+    "https://github.com/justin025/onthespot"
+  ],
+  "sources": []
+}

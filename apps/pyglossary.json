@@ -1,0 +1,8 @@
+{
+  "name": "pyglossary",
+  "description": "Unofficial, A tool for converting dictionary files aka glossaries.",
+  "sites": [
+    "https://github.com/pkgforge-dev/PyGlossary-AppImage"
+  ],
+  "sources": []
+}

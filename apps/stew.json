@@ -1,0 +1,8 @@
+{
+  "name": "stew",
+  "description": "🥘 An independent package manager for compiled binaries.",
+  "sites": [
+    "https://github.com/marwanhawari/stew"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "firework",
+  "description": "Easiest access to web sites and applications! Firework turns web applications and sites into desktop applications.\n \n Instant loading time, pinned to taskbar, easy to switch between.",
+  "sites": [
+    "https://firework.cloud"
+  ],
+  "sources": []
+}

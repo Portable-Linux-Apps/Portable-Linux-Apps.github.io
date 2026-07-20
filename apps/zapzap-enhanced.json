@@ -1,0 +1,8 @@
+{
+  "name": "zapzap-enhanced",
+  "description": "Unofficial AppImage of ZapZap WhatsApp client.",
+  "sites": [
+    "https://github.com/pkgforge-dev/ZapZap-AppImage-Enhanced"
+  ],
+  "sources": []
+}

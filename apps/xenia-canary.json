@@ -1,0 +1,8 @@
+{
+  "name": "xenia-canary",
+  "description": "Unofficial AppImage of xenia-canary Xbox360 emulator.",
+  "sites": [
+    "https://github.com/pkgforge-dev/xenia-canary-AppImage"
+  ],
+  "sources": []
+}

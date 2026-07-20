@@ -1,0 +1,8 @@
+{
+  "name": "opentrons",
+  "description": "Opentrons desktop application",
+  "sites": [
+    "https://github.com/Opentrons/opentrons"
+  ],
+  "sources": []
+}

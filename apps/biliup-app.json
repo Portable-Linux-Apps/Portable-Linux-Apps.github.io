@@ -1,0 +1,8 @@
+{
+  "name": "biliup-app",
+  "description": "Bilibili uploader, supports Windows, Linux, macOS.",
+  "sites": [
+    "https://github.com/ForgQi/biliup-app"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "beeper",
+  "description": "All your chats in one app",
+  "sites": [
+    "https://beeper.com/"
+  ],
+  "sources": []
+}

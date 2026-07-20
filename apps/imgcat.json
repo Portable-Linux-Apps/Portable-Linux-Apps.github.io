@@ -1,0 +1,8 @@
+{
+  "name": "imgcat",
+  "description": "Display images and gifs in your terminal.",
+  "sites": [
+    "https://github.com/danielgatis/imgcat"
+  ],
+  "sources": []
+}

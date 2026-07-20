@@ -1,0 +1,8 @@
+{
+  "name": "koboldcpp",
+  "description": "A simple one-file way to run various GGML and GGUF models with KoboldAI's UI.",
+  "sites": [
+    "https://github.com/LostRuins/koboldcpp"
+  ],
+  "sources": []
+}

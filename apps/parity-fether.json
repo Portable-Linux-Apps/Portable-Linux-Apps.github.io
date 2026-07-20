@@ -1,0 +1,8 @@
+{
+  "name": "parity-fether",
+  "description": "Fether Wallet",
+  "sites": [
+    "https://github.com/paritytech/fether"
+  ],
+  "sources": []
+}

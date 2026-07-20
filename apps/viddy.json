@@ -1,0 +1,8 @@
+{
+  "name": "viddy",
+  "description": "👀 A modern watch command. Time machine and pager etc.",
+  "sites": [
+    "https://github.com/sachaos/viddy"
+  ],
+  "sources": []
+}

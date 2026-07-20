@@ -1,0 +1,8 @@
+{
+  "name": "firefox-esr",
+  "description": "Firefox is a powerful, extensible web browser with support for modern web application technologies.\n \n This is the Extended Support Release.\n \n This script provides both the official portable build with automatic updates and the AppImage.\n \n <img src=\"https://user-images.githubusercontent.com/88724353/235563850-61d359ff-53ac-43a6-ab1d-33297dc4df73.jpg\" alt=\"Screenshot\">",
+  "sites": [
+    "https://www.firefox.com"
+  ],
+  "sources": []
+}

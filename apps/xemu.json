@@ -1,0 +1,8 @@
+{
+  "name": "xemu",
+  "description": "Original Xbox Emulator for Windows, macOS, and Linux (Active Development).",
+  "sites": [
+    "https://github.com/xemu-project/xemu"
+  ],
+  "sources": []
+}

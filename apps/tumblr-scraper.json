@@ -1,0 +1,8 @@
+{
+  "name": "tumblr-scraper",
+  "description": "a utility to scrape a Tumblr profile for user uploadede posts",
+  "sites": [
+    "https://github.com/lluisrojass/tumblr-scraper"
+  ],
+  "sources": []
+}

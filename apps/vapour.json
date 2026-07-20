@@ -1,0 +1,8 @@
+{
+  "name": "vapour",
+  "description": "An alternative open source Steam client.",
+  "sites": [
+    "https://github.com/Daniel-Griffiths/vapour"
+  ],
+  "sources": []
+}

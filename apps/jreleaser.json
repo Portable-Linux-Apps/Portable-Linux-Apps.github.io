@@ -1,0 +1,8 @@
+{
+  "name": "jreleaser",
+  "description": "The quick and effortless way to release your project!",
+  "sites": [
+    "https://github.com/jreleaser/jreleaser-appimage"
+  ],
+  "sources": []
+}

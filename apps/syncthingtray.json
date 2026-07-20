@@ -1,0 +1,8 @@
+{
+  "name": "syncthingtray",
+  "description": "Tray application and Dolphin/Plasma integration for Syncthing.",
+  "sites": [
+    "https://github.com/Martchus/syncthingtray"
+  ],
+  "sources": []
+}

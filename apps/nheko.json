@@ -1,0 +1,8 @@
+{
+  "name": "nheko",
+  "description": "Desktop client for Matrix",
+  "sites": [
+    "https://github.com/Nheko-Reborn/nheko"
+  ],
+  "sources": []
+}

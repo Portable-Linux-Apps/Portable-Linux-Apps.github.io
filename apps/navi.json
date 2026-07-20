@@ -1,0 +1,8 @@
+{
+  "name": "navi",
+  "description": "An interactive cheatsheet tool for the command-line",
+  "sites": [
+    "https://github.com/denisidoro/navi"
+  ],
+  "sources": []
+}

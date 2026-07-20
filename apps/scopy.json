@@ -1,0 +1,8 @@
+{
+  "name": "scopy",
+  "description": "A software oscilloscope and signal analysis toolset.",
+  "sites": [
+    "https://github.com/analogdevicesinc/scopy"
+  ],
+  "sources": []
+}

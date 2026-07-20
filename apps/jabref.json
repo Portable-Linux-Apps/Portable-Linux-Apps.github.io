@@ -1,0 +1,8 @@
+{
+  "name": "jabref",
+  "description": "Graphical Java application for managing BibTeX and biblatex (.bib) databases",
+  "sites": [
+    "https://github.com/JabRef/jabref"
+  ],
+  "sources": []
+}

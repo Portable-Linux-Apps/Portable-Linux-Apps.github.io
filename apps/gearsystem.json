@@ -1,0 +1,8 @@
+{
+  "name": "gearsystem",
+  "description": "Sega Master System / Game Gear / SG-1000 Emulator.",
+  "sites": [
+    "https://github.com/drhelius/Gearsystem"
+  ],
+  "sources": []
+}

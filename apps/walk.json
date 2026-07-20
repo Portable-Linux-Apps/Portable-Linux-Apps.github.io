@@ -1,0 +1,8 @@
+{
+  "name": "walk",
+  "description": "Terminal file manager",
+  "sites": [
+    "https://github.com/antonmedv/walk"
+  ],
+  "sources": []
+}

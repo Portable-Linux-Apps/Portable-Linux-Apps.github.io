@@ -1,0 +1,8 @@
+{
+  "name": "houdoku",
+  "description": "Manga reader and library manager for the desktop.",
+  "sites": [
+    "https://houdoku.org/"
+  ],
+  "sources": []
+}

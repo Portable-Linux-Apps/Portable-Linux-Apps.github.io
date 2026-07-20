@@ -1,0 +1,8 @@
+{
+  "name": "fpm",
+  "description": "Faster Project Plus on Linux.",
+  "sites": [
+    "https://github.com/jlambert360/FPM-AppImage"
+  ],
+  "sources": []
+}

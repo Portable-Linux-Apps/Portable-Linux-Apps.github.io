@@ -1,0 +1,8 @@
+{
+  "name": "switchhosts",
+  "description": "Switch hosts quickly!",
+  "sites": [
+    "https://github.com/oldj/SwitchHosts"
+  ],
+  "sources": []
+}

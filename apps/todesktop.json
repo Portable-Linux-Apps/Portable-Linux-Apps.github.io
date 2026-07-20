@@ -1,0 +1,8 @@
+{
+  "name": "todesktop",
+  "description": "Take your web app codebase and transform it into a cross platform desktop app with native functionality.",
+  "sites": [
+    "https://www.todesktop.com"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "fflogs-uploader",
+  "description": "FFLogs Uploader appimage",
+  "sites": [
+    "https://github.com/RPGLogs/Uploaders-fflogs/"
+  ],
+  "sources": []
+}

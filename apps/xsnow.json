@@ -1,0 +1,8 @@
+{
+  "name": "xsnow",
+  "description": "Unofficial, let it snow on your desktop.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Xsnow-AppImage"
+  ],
+  "sources": []
+}

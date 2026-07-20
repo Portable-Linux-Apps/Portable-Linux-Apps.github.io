@@ -1,0 +1,8 @@
+{
+  "name": "dbgate-premium",
+  "description": "Opensource database administration tool (premium version)",
+  "sites": [
+    "https://github.com/dbgate/dbgate"
+  ],
+  "sources": []
+}

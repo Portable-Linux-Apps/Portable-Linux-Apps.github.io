@@ -1,0 +1,8 @@
+{
+  "name": "htop",
+  "description": "AppImage of htop.",
+  "sites": [
+    "https://github.com/Samueru-sama/htop-AppImage"
+  ],
+  "sources": []
+}

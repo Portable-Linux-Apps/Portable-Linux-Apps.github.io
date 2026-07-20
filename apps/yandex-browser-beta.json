@@ -1,0 +1,8 @@
+{
+  "name": "yandex-browser-beta",
+  "description": "Unofficial Yandex Browser AppImage built from the official .deb packages.\n \n This is the Beta build.",
+  "sites": [
+    "https://github.com/ivan-hc/Yandex-Browser-appimage"
+  ],
+  "sources": []
+}

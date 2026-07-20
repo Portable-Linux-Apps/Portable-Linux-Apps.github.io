@@ -1,0 +1,8 @@
+{
+  "name": "kubeman",
+  "description": "The Hero that Kubernetes deserves (kubernetes management GUI)",
+  "sites": [
+    "https://github.com/walmartlabs/kubeman"
+  ],
+  "sources": []
+}

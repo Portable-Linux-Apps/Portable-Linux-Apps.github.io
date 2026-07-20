@@ -1,0 +1,8 @@
+{
+  "name": "kicad",
+  "description": "Electronic Design Automation suite",
+  "sites": [
+    "https://github.com/CyberCircuits/kicad-appimage"
+  ],
+  "sources": []
+}

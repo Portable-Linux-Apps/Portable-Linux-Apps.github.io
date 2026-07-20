@@ -1,0 +1,8 @@
+{
+  "name": "dbin",
+  "description": "📦 Poor man's package manager. +2930 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system",
+  "sites": [
+    "https://github.com/xplshn/dbin"
+  ],
+  "sources": []
+}

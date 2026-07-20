@@ -1,0 +1,8 @@
+{
+  "name": "libation",
+  "description": "Unofficial, application for downloading and managing your Audible audiobooks.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Libation-AppImage"
+  ],
+  "sources": []
+}

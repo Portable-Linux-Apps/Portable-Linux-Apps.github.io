@@ -1,0 +1,8 @@
+{
+  "name": "cordlauncher",
+  "description": "Cord launcher based on Electron and Wep Application",
+  "sites": [
+    "https://github.com/ProtocolONE/cord.launcher"
+  ],
+  "sources": []
+}

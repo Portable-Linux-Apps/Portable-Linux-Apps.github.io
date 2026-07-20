@@ -1,0 +1,8 @@
+{
+  "name": "brickstore",
+  "description": "An offline BrickLink inventory management tool.",
+  "sites": [
+    "https://github.com/rgriebl/brickstore"
+  ],
+  "sources": []
+}

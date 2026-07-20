@@ -1,0 +1,8 @@
+{
+  "name": "vikunja",
+  "description": "The open-source, self-hostable to-do app.",
+  "sites": [
+    "https://vikunja.io/"
+  ],
+  "sources": []
+}

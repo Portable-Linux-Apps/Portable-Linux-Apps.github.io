@@ -1,0 +1,8 @@
+{
+  "name": "mages",
+  "description": "Multiplatform Matrix chat client (experimental CMP+rust app).",
+  "sites": [
+    "https://github.com/mlm-games/mages"
+  ],
+  "sources": []
+}

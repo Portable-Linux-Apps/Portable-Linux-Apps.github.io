@@ -1,0 +1,8 @@
+{
+  "name": "crg-data-tool",
+  "description": "A tool for working with Games Data files from CRG",
+  "sites": [
+    "https://github.com/AdamSmasherDerby/CRG-To-Statsbook"
+  ],
+  "sources": []
+}

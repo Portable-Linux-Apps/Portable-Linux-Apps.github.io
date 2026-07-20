@@ -1,0 +1,8 @@
+{
+  "name": "nault-bin",
+  "description": "Official Nault AppImage client",
+  "sites": [
+    "https://github.com/Nault/Nault"
+  ],
+  "sources": []
+}

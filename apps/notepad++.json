@@ -1,0 +1,8 @@
+{
+  "name": "notepad++",
+  "description": "Unofficial Appimage of Notepad++ (with WINE prefix).",
+  "sites": [
+    "https://github.com/mmtrt/notepad-plus-plus_AppImage"
+  ],
+  "sources": []
+}

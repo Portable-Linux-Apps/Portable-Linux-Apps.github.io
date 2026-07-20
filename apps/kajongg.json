@@ -1,0 +1,10 @@
+{
+  "name": "kajongg",
+  "description": "Kajongg is the ancient Chinese board game for 4 players. Kajongg can be used\n in two different ways: Scoring a manual game where you play as always and \n use Kajongg for the computation of scores and for bookkeeping. Or you can \n use Kajongg to play against any combination of other human players or \n computer players.\n \n This game is part of the KDE Games suite.\n \n USAGE (from the command line):\n \n           kdegames -h (shows the list of games)\n           kdegames $GAME (launches the selected game)\n           \n <img src=\"https://cdn.kde.org/screenshots/kajongg/kajongg.png\" alt=\"Screenshot\">",
+  "sites": [
+    "https://apps.kde.org"
+  ],
+  "sources": [
+    "https://github.com/ivan-hc/KDE-games-suite-appimage"
+  ]
+}

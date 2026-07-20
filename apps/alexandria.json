@@ -1,0 +1,8 @@
+{
+  "name": "alexandria",
+  "description": "A minimalistic cross-platform eBook reader built with Tauri,  Epub.js and Typescript.",
+  "sites": [
+    "https://github.com/btpf/Alexandria"
+  ],
+  "sources": []
+}

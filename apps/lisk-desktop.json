@@ -1,0 +1,8 @@
+{
+  "name": "lisk-desktop",
+  "description": "Lisk graphical user interface for desktop.",
+  "sites": [
+    "https://lisk.com/wallet"
+  ],
+  "sources": []
+}

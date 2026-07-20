@@ -1,0 +1,8 @@
+{
+  "name": "implay",
+  "description": "A Cross-Platform Desktop Media Player, built on top of mpv and ImGui.",
+  "sites": [
+    "https://github.com/tsl0922/ImPlay"
+  ],
+  "sources": []
+}

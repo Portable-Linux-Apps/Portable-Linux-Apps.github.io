@@ -1,0 +1,8 @@
+{
+  "name": "eza",
+  "description": "A modern, maintained replacement for ls.",
+  "sites": [
+    "https://github.com/eza-community/eza"
+  ],
+  "sources": []
+}

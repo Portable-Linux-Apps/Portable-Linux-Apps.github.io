@@ -1,0 +1,8 @@
+{
+  "name": "ghdl",
+  "description": "A much more convenient way to download GitHub release binaries on the command line, works on Win & Unix-like systems",
+  "sites": [
+    "https://github.com/beetcb/ghdl"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "rhb",
+  "description": "Rapid HTML Builder/Prototyper, built with\n Electron and Grapesjs",
+  "sites": [
+    "https://github.com/NicolaOrritos/rhb"
+  ],
+  "sources": []
+}

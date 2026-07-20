@@ -1,0 +1,8 @@
+{
+  "name": "owallet",
+  "description": "OWallet is a comprehensive Ontology desktop wallet",
+  "sites": [
+    "https://github.com/ontio/OWallet"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "coolercontrol",
+  "description": "A program to monitor and control your cooling devices.",
+  "sites": [
+    "https://gitlab.com/coolercontrol/coolercontrol"
+  ],
+  "sources": []
+}

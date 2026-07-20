@@ -1,0 +1,8 @@
+{
+  "name": "painel-web",
+  "description": "Novo SGA panel",
+  "sites": [
+    "https://github.com/novosga/painel-web"
+  ],
+  "sources": []
+}

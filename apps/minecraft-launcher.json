@@ -1,0 +1,8 @@
+{
+  "name": "minecraft-launcher",
+  "description": "Minecraft Launcher is the game downloader and launcher for Minecraft.",
+  "sites": [
+    "https://www.minecraft.net"
+  ],
+  "sources": []
+}

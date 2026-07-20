@@ -1,0 +1,8 @@
+{
+  "name": "squirrel-disk",
+  "description": "Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀",
+  "sites": [
+    "https://github.com/adileo/squirreldisk"
+  ],
+  "sources": []
+}

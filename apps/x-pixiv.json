@@ -1,0 +1,8 @@
+{
+  "name": "x-pixiv",
+  "description": "pixiv downloader",
+  "sites": [
+    "https://github.com/xiaoxigua-1/XPixiv"
+  ],
+  "sources": []
+}

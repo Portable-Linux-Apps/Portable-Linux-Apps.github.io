@@ -1,0 +1,8 @@
+{
+  "name": "dnzhrecomp",
+  "description": "Unofficial, a native port of Duke Nukem Zero Hour, statically recompiled.",
+  "sites": [
+    "https://github.com/pkgforge-dev/DNZHRecomp-AppImage"
+  ],
+  "sources": []
+}

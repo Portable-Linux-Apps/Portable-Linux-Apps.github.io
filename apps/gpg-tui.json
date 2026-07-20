@@ -1,0 +1,8 @@
+{
+  "name": "gpg-tui",
+  "description": "Manage your GnuPG keys with ease! 🔐",
+  "sites": [
+    "https://github.com/orhun/gpg-tui"
+  ],
+  "sources": []
+}

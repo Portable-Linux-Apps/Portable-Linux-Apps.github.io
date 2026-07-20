@@ -1,0 +1,8 @@
+{
+  "name": "roborock-control-center",
+  "description": "Control Your Xiaomi Vacuum",
+  "sites": [
+    "https://github.com/LazyT/rrcc"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "gifcurry",
+  "description": "Gifcurry - The open-source, Haskell-built video editor for GIF makers.",
+  "sites": [
+    "https://github.com/lettier/gifcurry"
+  ],
+  "sources": []
+}

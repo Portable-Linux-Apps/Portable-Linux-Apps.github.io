@@ -1,0 +1,8 @@
+{
+  "name": "nami",
+  "description": "A clean and tidy decentralized package manager.",
+  "sites": [
+    "https://github.com/txthinking/nami"
+  ],
+  "sources": []
+}

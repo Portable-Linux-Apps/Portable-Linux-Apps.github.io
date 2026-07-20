@@ -1,0 +1,8 @@
+{
+  "name": "viper-browser",
+  "description": "Fast and lightweight Qt web browser",
+  "sites": [
+    "https://github.com/LeFroid/Viper-Browser"
+  ],
+  "sources": []
+}

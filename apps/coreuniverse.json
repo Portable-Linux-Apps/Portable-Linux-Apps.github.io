@@ -1,0 +1,8 @@
+{
+  "name": "coreuniverse",
+  "description": "Shows releated information of apps from CuboCore Application Suite.",
+  "sites": [
+    "https://gitlab.com/cubocore"
+  ],
+  "sources": []
+}

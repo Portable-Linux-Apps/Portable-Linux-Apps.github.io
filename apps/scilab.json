@@ -1,0 +1,8 @@
+{
+  "name": "scilab",
+  "description": "Scientific software package for numerical computations",
+  "sites": [
+    "https://github.com/davidcl/Scilab.AppDir"
+  ],
+  "sources": []
+}

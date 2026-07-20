@@ -1,0 +1,8 @@
+{
+  "name": "nvtop",
+  "description": "GPUs process monitoring for AMD, Intel and NVIDIA",
+  "sites": [
+    "https://github.com/Syllo/nvtop"
+  ],
+  "sources": []
+}

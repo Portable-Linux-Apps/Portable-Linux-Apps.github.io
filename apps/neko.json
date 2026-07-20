@@ -1,0 +1,8 @@
+{
+  "name": "neko",
+  "description": "Neko is a cross-platform cursor-chasing cat. This is the reimplementation write in Go.",
+  "sites": [
+    "https://github.com/crgimenes/neko"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "qradiolink",
+  "description": "Multimode SDR transceiver for GNU radio.",
+  "sites": [
+    "http://qradiolink.org/"
+  ],
+  "sources": []
+}

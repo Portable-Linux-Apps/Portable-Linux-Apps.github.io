@@ -1,0 +1,8 @@
+{
+  "name": "basename",
+  "description": "Strip directory and suffix from filenames. This is part of \"am-utils\" suite.",
+  "sites": [
+    "https://github.com/ivan-hc/am-utils"
+  ],
+  "sources": []
+}

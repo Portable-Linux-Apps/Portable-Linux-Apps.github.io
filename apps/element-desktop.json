@@ -1,0 +1,8 @@
+{
+  "name": "element-desktop",
+  "description": "Unofficial, glossy Matrix collaboration client for desktop.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Element-Desktop-AppImage"
+  ],
+  "sources": []
+}

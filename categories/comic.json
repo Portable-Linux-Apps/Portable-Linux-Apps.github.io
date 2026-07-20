@@ -1,0 +1,346 @@
+[
+  {
+    "icon": "akuse.png",
+    "name": "akuse",
+    "description": "Simple and easy to use anime streaming desktop app without ads.",
+    "app_page": "apps/akuse.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/akuse",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/akuse"
+  },
+  {
+    "icon": "alexandria.png",
+    "name": "alexandria",
+    "description": "eBook reader built with Tauri, Epub.js, and Typescript.",
+    "app_page": "apps/alexandria.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/alexandria",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/alexandria"
+  },
+  {
+    "icon": "ani-cli.png",
+    "name": "ani-cli",
+    "description": "A cli tool to browse and play anime.",
+    "app_page": "apps/ani-cli.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ani-cli",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ani-cli"
+  },
+  {
+    "icon": "animecoin.png",
+    "name": "animecoin",
+    "description": "Animecoin is a free open source peer-to-peer electronic cash system that is completely decentralized, without the need for a central server or trusted parties. Users hold the crypto keys to their own money and transact directly with each other, with the help of a P2P network to check for double-spending.",
+    "app_page": "apps/animecoin.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/animecoin",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/animecoin"
+  },
+  {
+    "icon": "animeko.png",
+    "name": "animeko",
+    "description": "A one-stop platform for finding, following, and watching anime, featuring danmaku (bullet comments) and cloud-based collection synchronization (Bangumi), offline caching, BitTorrent, and cloud-based danmaku filtering.",
+    "app_page": "apps/animeko.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/animeko",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/animeko"
+  },
+  {
+    "icon": "animos.png",
+    "name": "animos",
+    "description": "Anime-streaming desktop application without any ads.",
+    "app_page": "apps/animos.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/animos",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/animos"
+  },
+  {
+    "icon": "aniship.png",
+    "name": "aniship",
+    "description": "Allows for easy viewing of anime on PCs and laptops.",
+    "app_page": "apps/aniship.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aniship",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aniship"
+  },
+  {
+    "icon": "baijimangaviewer.png",
+    "name": "baijimangaviewer",
+    "description": "Manga viewer that uses Material Design.",
+    "app_page": "apps/baijimangaviewer.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/baijimangaviewer",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/baijimangaviewer"
+  },
+  {
+    "icon": "bk.png",
+    "name": "bk",
+    "description": "Terminal Epub reader.",
+    "app_page": "apps/bk.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bk",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bk"
+  },
+  {
+    "icon": "cbetar2.png",
+    "name": "cbetar2",
+    "description": "ePub viewer supporting fetching and displaying HTML as ePub.",
+    "app_page": "apps/cbetar2.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cbetar2",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cbetar2"
+  },
+  {
+    "icon": "comic-book-reader.png",
+    "name": "comic-book-reader",
+    "description": "Reader and converter for cbz, cbr, epub and pdf files.",
+    "app_page": "apps/comic-book-reader.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/comic-book-reader",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/comic-book-reader"
+  },
+  {
+    "icon": "comic-reader.png",
+    "name": "comic-reader",
+    "description": "Electron based comic reader.",
+    "app_page": "apps/comic-reader.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/comic-reader",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/comic-reader"
+  },
+  {
+    "icon": "comics-downloader.png",
+    "name": "comics-downloader",
+    "description": "Tool to download comics and manga in pdf/epub/cbr/cbz from a website.",
+    "app_page": "apps/comics-downloader.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/comics-downloader",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/comics-downloader"
+  },
+  {
+    "icon": "comictagger.png",
+    "name": "comictagger",
+    "description": "A multi-platform app for writing metadata to digital comics.",
+    "app_page": "apps/comictagger.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/comictagger",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/comictagger"
+  },
+  {
+    "icon": "cosmic-comics.png",
+    "name": "cosmic-comics",
+    "description": "Web Server based Comics / Manga Collectionner & viewer.",
+    "app_page": "apps/cosmic-comics.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cosmic-comics",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cosmic-comics"
+  },
+  {
+    "icon": "daisy.png",
+    "name": "daisy",
+    "description": "A beautiful, easy-to-use, ad-free manga and light novel client that supports both. (Anime Home).",
+    "app_page": "apps/daisy.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/daisy",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/daisy"
+  },
+  {
+    "icon": "eplee.png",
+    "name": "eplee",
+    "description": "Sweet, simple epub reader.",
+    "app_page": "apps/eplee.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eplee",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eplee"
+  },
+  {
+    "icon": "fukayo.png",
+    "name": "fukayo",
+    "description": "Manga reader.",
+    "app_page": "apps/fukayo.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fukayo",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fukayo"
+  },
+  {
+    "icon": "goanime.png",
+    "name": "goanime",
+    "description": "A TUI tool to browse, stream, and download anime in English and Portuguese.",
+    "app_page": "apps/goanime.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/goanime",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/goanime"
+  },
+  {
+    "icon": "houdoku.png",
+    "name": "houdoku",
+    "description": "Manga reader and library manager for the desktop.",
+    "app_page": "apps/houdoku.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/houdoku",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/houdoku"
+  },
+  {
+    "icon": "kcc.png",
+    "name": "kcc",
+    "description": "KCC (Kindle Comic Converter) is a comic and manga converter for ebook readers.",
+    "app_page": "apps/kcc.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kcc",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kcc"
+  },
+  {
+    "icon": "kindling-cli.png",
+    "name": "kindling-cli",
+    "description": "Kindle toolkit for dictionaries, books, comics.",
+    "app_page": "apps/kindling-cli.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kindling-cli",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kindling-cli"
+  },
+  {
+    "icon": "koreader.png",
+    "name": "koreader",
+    "description": "A document viewer for E Ink devices. Supported fileformats include EPUB, PDF, DjVu, XPS, CBT, CBZ, FB2, PDB, TXT, HTML, RTF, CHM, DOC, MOBI and ZIP files. It\u2019s available for Kindle, Kobo, PocketBook, Android and desktop Linux.",
+    "app_page": "apps/koreader.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/koreader",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/koreader"
+  },
+  {
+    "icon": "koreader-nightly.png",
+    "name": "koreader-nightly",
+    "description": "A document viewer for E Ink devices. Supported fileformats include EPUB, PDF, DjVu, XPS, CBT, CBZ, FB2, PDB, TXT, HTML, RTF, CHM, DOC, MOBI and ZIP files. It\u2019s available for Kindle, Kobo, PocketBook, Android and desktop Linux. Nightly build.",
+    "app_page": "apps/koreader-nightly.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/koreader-nightly",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/koreader-nightly"
+  },
+  {
+    "icon": "manga-tui.png",
+    "name": "manga-tui",
+    "description": "Terminal-based manga reader and downloader with image support.",
+    "app_page": "apps/manga-tui.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/manga-tui",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/manga-tui"
+  },
+  {
+    "icon": "mangadesk.png",
+    "name": "mangadesk",
+    "description": "Terminal client for MangaDex.",
+    "app_page": "apps/mangadesk.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangadesk",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangadesk"
+  },
+  {
+    "icon": "mangal.png",
+    "name": "mangal",
+    "description": "Most advanced, yet simple CLI manga downloader in the universe!",
+    "app_page": "apps/mangal.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangal",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangal"
+  },
+  {
+    "icon": "mangayomi.png",
+    "name": "mangayomi",
+    "description": "Free and open source application for reading manga, novels, and watching animes available.",
+    "app_page": "apps/mangayomi.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangayomi",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangayomi"
+  },
+  {
+    "icon": "matm.png",
+    "name": "matm",
+    "description": "Watch anime, movies, tv shows and read manga from comfort of the cli.",
+    "app_page": "apps/matm.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/matm",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/matm"
+  },
+  {
+    "icon": "migu.png",
+    "name": "migu",
+    "description": "Stream anime torrents, real-time with no waiting for downloads.",
+    "app_page": "apps/migu.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/migu",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/migu"
+  },
+  {
+    "icon": "oneanime.png",
+    "name": "oneanime",
+    "description": "A clean, ad-free anime viewing app. A third-party client for Anime1 with subtitles and a Material You-compliant interface.",
+    "app_page": "apps/oneanime.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/oneanime",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/oneanime"
+  },
+  {
+    "icon": "opencomic.png",
+    "name": "opencomic",
+    "description": "Comic and Manga reader, written with Node.js and using Electron.",
+    "app_page": "apps/opencomic.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opencomic",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opencomic"
+  },
+  {
+    "icon": "owte.png",
+    "name": "owte",
+    "description": "Anime girl dancing on your screen.",
+    "app_page": "apps/owte.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/owte",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/owte"
+  },
+  {
+    "icon": "pageedit.png",
+    "name": "pageedit",
+    "description": "EPub XHTML Visual Editor.",
+    "app_page": "apps/pageedit.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pageedit",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pageedit"
+  },
+  {
+    "icon": "picacg-qt.png",
+    "name": "picacg-qt",
+    "description": "PicACG Comic PC Client For Linux.",
+    "app_page": "apps/picacg-qt.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picacg-qt",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picacg-qt"
+  },
+  {
+    "icon": "pikapika.png",
+    "name": "pikapika",
+    "description": "A comic browser.",
+    "app_page": "apps/pikapika.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pikapika",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pikapika"
+  },
+  {
+    "icon": "seanime.png",
+    "name": "seanime",
+    "description": "Open-source media server with a web interface and desktop app for anime and manga.",
+    "app_page": "apps/seanime.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/seanime",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/seanime"
+  },
+  {
+    "icon": "shiru.png",
+    "name": "shiru",
+    "description": "A personal anime library manager for watching and tracking your collection in real time. Lightweight, powerful, and paws-itively fast. No waiting required.",
+    "app_page": "apps/shiru.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shiru",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shiru"
+  },
+  {
+    "icon": "sigil.png",
+    "name": "sigil",
+    "description": "Sigil is a multi-platform EPUB ebook editor.",
+    "app_page": "apps/sigil.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sigil",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sigil"
+  },
+  {
+    "icon": "special-eureka.png",
+    "name": "special-eureka",
+    "description": "A desktop mangareader built in Tauri and React",
+    "app_page": "apps/special-eureka.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/special-eureka",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/special-eureka"
+  },
+  {
+    "icon": "toru.png",
+    "name": "toru",
+    "description": "Bittorrent streaming CLI tool. Stream anime torrents real-time.",
+    "app_page": "apps/toru.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/toru",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/toru"
+  },
+  {
+    "icon": "unyo.png",
+    "name": "unyo",
+    "description": "Anime streaming and Manga reader desktop app without ads.",
+    "app_page": "apps/unyo.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unyo",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unyo"
+  },
+  {
+    "icon": "window-pet.png",
+    "name": "window-pet",
+    "description": "Pet overlay app that lets you have adorable companion such as pets, anime characters on your screen.",
+    "app_page": "apps/window-pet.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/window-pet",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/window-pet"
+  }
+]

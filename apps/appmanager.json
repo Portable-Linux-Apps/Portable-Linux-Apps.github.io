@@ -1,0 +1,8 @@
+{
+  "name": "appmanager",
+  "description": "MacOS style AppImage installer and management application.",
+  "sites": [
+    "https://github.com/kem-a/AppManager"
+  ],
+  "sources": []
+}

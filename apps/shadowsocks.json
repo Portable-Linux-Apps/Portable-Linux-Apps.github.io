@@ -1,0 +1,8 @@
+{
+  "name": "shadowsocks",
+  "description": "Shadowsocks GUI client",
+  "sites": [
+    "https://github.com/shadowsocks/shadowsocks-qt5"
+  ],
+  "sources": []
+}

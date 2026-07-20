@@ -1,0 +1,8 @@
+{
+  "name": "nychess",
+  "description": "A python Chess Engine and AI.",
+  "sites": [
+    "https://github.com/nnisarggada/NyChess"
+  ],
+  "sources": []
+}

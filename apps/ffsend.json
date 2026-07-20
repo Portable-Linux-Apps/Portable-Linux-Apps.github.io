@@ -1,0 +1,8 @@
+{
+  "name": "ffsend",
+  "description": "Easily and securely share files from the command line. A fully featured Firefox Send client.",
+  "sites": [
+    "https://github.com/timvisee/ffsend"
+  ],
+  "sources": []
+}

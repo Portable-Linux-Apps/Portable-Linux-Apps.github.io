@@ -1,0 +1,8 @@
+{
+  "name": "special-eureka",
+  "description": "A desktop mangareader built in Tauri and React",
+  "sites": [
+    "https://github.com/tonymushah/special-eureka"
+  ],
+  "sources": []
+}

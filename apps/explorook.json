@@ -1,0 +1,8 @@
+{
+  "name": "explorook",
+  "description": "Rookout’s site addon to support local files and folders",
+  "sites": [
+    "https://github.com/Rookout/explorook"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "antidot",
+  "description": "Cleans up your $HOME from those pesky dotfiles",
+  "sites": [
+    "https://github.com/doron-cohen/antidot"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "simplechroot",
+  "description": "Chroot with ease featuring:\n\n - Setup a chroot and chroot in in a single command\n - The ability to reinstall grub easily",
+  "sites": [
+    "https://github.com/BobyMCbobs/simplechroot"
+  ],
+  "sources": []
+}

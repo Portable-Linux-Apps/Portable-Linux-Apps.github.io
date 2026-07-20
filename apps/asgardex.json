@@ -1,0 +1,8 @@
+{
+  "name": "asgardex",
+  "description": "Thorchain wallet desktop app",
+  "sites": [
+    "https://github.com/thorchain/asgardex-electron"
+  ],
+  "sources": []
+}

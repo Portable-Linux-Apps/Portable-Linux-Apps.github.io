@@ -1,0 +1,8 @@
+{
+  "name": "getthermal",
+  "description": "Cross-platform Thermal Camera Viewer",
+  "sites": [
+    "https://github.com/groupgets/GetThermal"
+  ],
+  "sources": []
+}

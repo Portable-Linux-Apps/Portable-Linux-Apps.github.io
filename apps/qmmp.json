@@ -1,0 +1,8 @@
+{
+  "name": "qmmp",
+  "description": "Unofficial, Qt-based multimedia player.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Qmmp-AppImage"
+  ],
+  "sources": []
+}

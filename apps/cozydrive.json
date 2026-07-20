@@ -1,0 +1,8 @@
+{
+  "name": "cozydrive",
+  "description": "File Synchronisation for Cozy on Desktop and Laptop.",
+  "sites": [
+    "https://cozy-labs.github.io/cozy-desktop/"
+  ],
+  "sources": []
+}

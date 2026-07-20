@@ -1,0 +1,8 @@
+{
+  "name": "wireframesketcher",
+  "description": "WireframeSketcher is a wireframing tool that helps designers, developers and product managers quickly create wireframes, mockups and prototypes for desktop, web and mobile applications. It’s a desktop app and a plug-in for any Eclipse IDE.",
+  "sites": [
+    "https://wireframesketcher.com"
+  ],
+  "sources": []
+}

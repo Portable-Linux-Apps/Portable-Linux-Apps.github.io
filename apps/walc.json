@@ -1,0 +1,8 @@
+{
+  "name": "walc",
+  "description": "WALC - WhatsApp Linux Client (unofficial)\n \n <img src=\"https://dashboard.snapcraft.io/site_media/appmedia/2020/03/WALC-Preview.png\" alt=\"Screenshot\">",
+  "sites": [
+    "https://github.com/WAClient/WALC"
+  ],
+  "sources": []
+}

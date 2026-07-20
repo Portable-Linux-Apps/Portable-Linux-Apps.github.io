@@ -1,0 +1,10 @@
+{
+  "name": "asunder",
+  "description": "Asunder is a graphical Audio CD ripper and encoder for Linux. You can use it to save tracks from an  Audio CD as any of WAV, MP3, WavPack, Musepack and Monkey's Audio files.\n\n This is the unofficial AppImage.\n \n <img src=\"https://screenshots.debian.net/shrine/screenshot/simage/large-9997c700ffc1e25341d721d77de0aae2.png\" alt=\"Screenshot\">",
+  "sites": [
+    "http://littlesvr.ca/asunder"
+  ],
+  "sources": [
+    "https://github.com/ivan-hc/asunder-appimage"
+  ]
+}

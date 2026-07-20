@@ -1,0 +1,8 @@
+{
+  "name": "muwire",
+  "description": "MuWire file sharing client for I2P",
+  "sites": [
+    "https://github.com/zlatinb/muwire"
+  ],
+  "sources": []
+}

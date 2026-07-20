@@ -1,0 +1,8 @@
+{
+  "name": "streamdock",
+  "description": "Streaming service viewer.",
+  "sites": [
+    "https://github.com/jtvberg/StreamDock"
+  ],
+  "sources": []
+}

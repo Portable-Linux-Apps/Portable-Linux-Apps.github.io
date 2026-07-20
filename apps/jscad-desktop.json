@@ -1,0 +1,8 @@
+{
+  "name": "jscad-desktop",
+  "description": "jscad desktop application",
+  "sites": [
+    "https://github.com/jscad/jscad-desktop"
+  ],
+  "sources": []
+}

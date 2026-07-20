@@ -1,0 +1,8 @@
+{
+  "name": "triagem-touch",
+  "description": "Novo SGA triage client",
+  "sites": [
+    "https://github.com/novosga/triagem-touch"
+  ],
+  "sources": []
+}

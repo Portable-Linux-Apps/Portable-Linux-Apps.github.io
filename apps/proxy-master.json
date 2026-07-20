@@ -1,0 +1,8 @@
+{
+  "name": "proxy-master",
+  "description": "Set and reset your proxy settings EVERYWHERE.",
+  "sites": [
+    "https://github.com/Ma5t3rful/proxy-master"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "gitleaks",
+  "description": "Protect and discover secrets using Gitleaks 🔑",
+  "sites": [
+    "https://github.com/gitleaks/gitleaks"
+  ],
+  "sources": []
+}

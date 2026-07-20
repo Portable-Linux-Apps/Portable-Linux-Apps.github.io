@@ -1,0 +1,8 @@
+{
+  "name": "nanokvm-usb",
+  "description": "Finger-sized 4K USB KVM for Server/SBCs.",
+  "sites": [
+    "https://github.com/sipeed/NanoKVM-USB"
+  ],
+  "sources": []
+}

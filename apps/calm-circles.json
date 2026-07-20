@@ -1,0 +1,8 @@
+{
+  "name": "calm-circles",
+  "description": "Calm down and draw something, in Lisp.\n \n <img src=\"https://github.com/VitoVan/calm/blob/main/docs/images/linux-appimage.png\" alt=\"Screenshot\">",
+  "sites": [
+    "https://github.com/VitoVan/calm"
+  ],
+  "sources": []
+}

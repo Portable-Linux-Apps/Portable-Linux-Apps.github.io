@@ -1,0 +1,8 @@
+{
+  "name": "calm-meditator",
+  "description": "Calm down and draw something, in Lisp.\n \n <img src=\"https://github.com/VitoVan/calm/blob/1.2.0/docs/examples/meditator/canvas.png\" alt=\"Screenshot\">",
+  "sites": [
+    "https://github.com/VitoVan/calm"
+  ],
+  "sources": []
+}

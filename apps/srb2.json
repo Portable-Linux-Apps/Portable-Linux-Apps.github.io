@@ -1,0 +1,8 @@
+{
+  "name": "srb2",
+  "description": "Unofficial, a 3D Sonic the Hedgehog fangame based on a modified version of Doom Legacy.",
+  "sites": [
+    "https://github.com/pkgforge-dev/SRB2-AppImage"
+  ],
+  "sources": []
+}

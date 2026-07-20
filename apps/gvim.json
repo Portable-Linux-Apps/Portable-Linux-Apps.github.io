@@ -1,0 +1,8 @@
+{
+  "name": "gvim",
+  "description": "Edit text files",
+  "sites": [
+    "https://github.com/vim/vim-appimage"
+  ],
+  "sources": []
+}

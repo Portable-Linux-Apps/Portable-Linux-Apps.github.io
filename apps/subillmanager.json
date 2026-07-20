@@ -1,0 +1,8 @@
+{
+  "name": "subillmanager",
+  "description": "A simple Flutter app to manage electricity bill.",
+  "sites": [
+    "https://github.com/prateekmedia/subillmanager"
+  ],
+  "sources": []
+}

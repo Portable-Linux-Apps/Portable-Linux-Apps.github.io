@@ -1,0 +1,8 @@
+{
+  "name": "ghrel",
+  "description": "Download and verify GitHub release",
+  "sites": [
+    "https://github.com/jreisinger/ghrel"
+  ],
+  "sources": []
+}

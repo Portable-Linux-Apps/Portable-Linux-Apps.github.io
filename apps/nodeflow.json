@@ -1,0 +1,8 @@
+{
+  "name": "nodeflow",
+  "description": "An Editor for creating simple or complex OCR workflows.",
+  "sites": [
+    "https://github.com/maxnth/NodeFlow"
+  ],
+  "sources": []
+}

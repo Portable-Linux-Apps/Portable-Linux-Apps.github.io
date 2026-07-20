@@ -1,0 +1,8 @@
+{
+  "name": "apiflow",
+  "description": "A modern API workspace that works both online and offlinecombining API documentation, testing, mock, and AI-powered automation in one lightweight tool.",
+  "sites": [
+    "https://github.com/trueleaf/apiflow"
+  ],
+  "sources": []
+}

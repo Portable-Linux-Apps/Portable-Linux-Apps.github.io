@@ -1,0 +1,8 @@
+{
+  "name": "quiet",
+  "description": "A private, p2p alternative to Slack and Discord built on Tor & IPFS.",
+  "sites": [
+    "https://github.com/TryQuiet/quiet"
+  ],
+  "sources": []
+}

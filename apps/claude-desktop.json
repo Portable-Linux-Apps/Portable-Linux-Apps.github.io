@@ -1,0 +1,8 @@
+{
+  "name": "claude-desktop",
+  "description": "Claude Desktop for Debian-based Linux distributions.",
+  "sites": [
+    "https://github.com/aaddrick/claude-desktop-debian"
+  ],
+  "sources": []
+}

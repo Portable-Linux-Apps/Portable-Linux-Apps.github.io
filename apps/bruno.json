@@ -1,0 +1,8 @@
+{
+  "name": "bruno",
+  "description": "The latest stable AppImage of Bruno, an Opensource API Collection  Collaboration Suite",
+  "sites": [
+    "https://github.com/usebruno/bruno"
+  ],
+  "sources": []
+}

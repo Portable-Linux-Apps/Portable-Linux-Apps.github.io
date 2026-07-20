@@ -1,0 +1,8 @@
+{
+  "name": "exportoo",
+  "description": "Read and search your exports",
+  "sites": [
+    "https://github.com/NiklasMerz/exportoo"
+  ],
+  "sources": []
+}

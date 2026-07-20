@@ -1,0 +1,8 @@
+{
+  "name": "printerclient",
+  "description": "A printer client.",
+  "sites": [
+    "https://github.com/DevTeamSCH/printer-client"
+  ],
+  "sources": []
+}

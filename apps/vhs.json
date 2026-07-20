@@ -1,0 +1,8 @@
+{
+  "name": "vhs",
+  "description": "Your CLI home video recorder.",
+  "sites": [
+    "https://github.com/charmbracelet/vhs"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "wethr",
+  "description": "🌤️ Command line weather tool.",
+  "sites": [
+    "https://github.com/risoflora/wethr"
+  ],
+  "sources": []
+}

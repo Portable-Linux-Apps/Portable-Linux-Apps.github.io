@@ -1,0 +1,10 @@
+{
+  "name": "kiriki",
+  "description": "Earn the most score points by rolling 5 dice up to three times in a single  turn.\n \n This game is part of the KDE Games suite.\n \n USAGE (from the command line):\n \n           kdegames -h (shows the list of games)\n           kdegames $GAME (launches the selected game)\n           \n <img src=\"https://kde.org/images/screenshots/kiriki.png\" alt=\"Screenshot\">",
+  "sites": [
+    "https://apps.kde.org"
+  ],
+  "sources": [
+    "https://github.com/ivan-hc/KDE-games-suite-appimage"
+  ]
+}

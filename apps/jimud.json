@@ -1,0 +1,8 @@
+{
+  "name": "jimud",
+  "description": "MUD client for ShadowMUD.com, based on webclient.",
+  "sites": [
+    "http://www.shadowmud.com/"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "pcloud",
+  "description": "pCloud Drive Client, cloud service, built using electron and node.js.",
+  "sites": [
+    "https://www.pcloud.com"
+  ],
+  "sources": []
+}

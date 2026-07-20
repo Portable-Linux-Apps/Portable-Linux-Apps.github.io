@@ -1,0 +1,8 @@
+{
+  "name": "newsflash",
+  "description": "Unofficial. RSS reader with support for local and web RSS feed.",
+  "sites": [
+    "https://github.com/pkgforge-dev/NewsFlash-AppImage"
+  ],
+  "sources": []
+}

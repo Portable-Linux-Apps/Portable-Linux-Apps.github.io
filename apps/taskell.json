@@ -1,0 +1,8 @@
+{
+  "name": "taskell",
+  "description": "Command-line Kanban board/task manager with support for Trello boards and GitHub projects",
+  "sites": [
+    "https://github.com/smallhadroncollider/taskell"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "uyou",
+  "description": "This is a todo list with electron",
+  "sites": [
+    "https://github.com/tonylu110/uyou-todo-electron"
+  ],
+  "sources": []
+}

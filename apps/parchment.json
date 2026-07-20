@@ -1,0 +1,8 @@
+{
+  "name": "parchment",
+  "description": "A minimal minimal text editor written using web technologies for Windows, Linux and MacOS",
+  "sites": [
+    "https://github.com/tywil04/parchment"
+  ],
+  "sources": []
+}

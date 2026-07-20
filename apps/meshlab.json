@@ -1,0 +1,8 @@
+{
+  "name": "meshlab",
+  "description": "Processor and editor of large 3D triangular meshes",
+  "sites": [
+    "https://www.meshlab.net/"
+  ],
+  "sources": []
+}

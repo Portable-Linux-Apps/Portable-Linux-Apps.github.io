@@ -1,0 +1,8 @@
+{
+  "name": "poedit",
+  "description": "Powerful and intuitive translation editor.\n \n This is the unofficial AppImage.\n\n <img src=\"https://github.com/user-attachments/assets/5c736054-b1b1-43d2-8807-11e863e616ce\" alt=\"Screenshot\">",
+  "sites": [
+    "https://poedit.net/"
+  ],
+  "sources": []
+}

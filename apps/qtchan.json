@@ -1,0 +1,8 @@
+{
+  "name": "qtchan",
+  "description": "4chan browser in qt5",
+  "sites": [
+    "https://github.com/siavash119/qtchan"
+  ],
+  "sources": []
+}

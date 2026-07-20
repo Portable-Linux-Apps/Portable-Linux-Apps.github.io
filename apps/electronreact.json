@@ -1,0 +1,8 @@
+{
+  "name": "electronreact",
+  "description": "Desktop application using Electron and React.",
+  "sites": [
+    "https://github.com/ito-rui/electron-react-desktop-app"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "muffon",
+  "description": "Music streaming browser,retrieves audio, video and metadata from  various Internet sources.",
+  "sites": [
+    "https://muffon.netlify.app/"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "wewechat",
+  "description": "weweChat is an Unofficial WeChat client built with  React, MobX and Electron.",
+  "sites": [
+    "https://github.com/trazyn/weweChat"
+  ],
+  "sources": []
+}

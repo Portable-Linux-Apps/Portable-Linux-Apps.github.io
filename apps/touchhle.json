@@ -1,0 +1,8 @@
+{
+  "name": "touchhle",
+  "description": "Unofficial, High-level emulator for iPhone OS apps.",
+  "sites": [
+    "https://github.com/pkgforge-dev/TouchHLE-AppImage"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "picard-daily",
+  "description": "Inofficial daily development builds for MusicBrainz Picard",
+  "sites": [
+    "https://github.com/phw/picard-daily"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "warteschlangensimulator",
+  "description": "A free, platform independent, discrete-event, stochastic simulator which allows to model queueing systems in form of flowcharts.",
+  "sites": [
+    "https://github.com/A-Herzog/Warteschlangensimulator"
+  ],
+  "sources": []
+}

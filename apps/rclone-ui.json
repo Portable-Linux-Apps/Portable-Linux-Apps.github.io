@@ -1,0 +1,8 @@
+{
+  "name": "rclone-ui",
+  "description": "The cross-platform desktop GUI for rclone & S3.",
+  "sites": [
+    "https://github.com/rclone-ui/rclone-ui"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "love",
+  "description": "The unquestionably awesome 2D game engine",
+  "sites": [
+    "https://github.com/love2d/love"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "feedseries",
+  "description": "Follow your series enthusiast news (french).",
+  "sites": [
+    "https://github.com/matthieuy/feedseries"
+  ],
+  "sources": []
+}

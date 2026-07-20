@@ -1,0 +1,8 @@
+{
+  "name": "gams-studio",
+  "description": "GAMS Studio is the official development environment of the General Algebraic Modeling System (GAMS).",
+  "sites": [
+    "https://github.com/GAMS-dev/studio"
+  ],
+  "sources": []
+}

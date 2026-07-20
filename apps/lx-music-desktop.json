@@ -1,0 +1,8 @@
+{
+  "name": "lx-music-desktop",
+  "description": "一个基于electron的音乐软件",
+  "sites": [
+    "https://github.com/lyswhut/lx-music-desktop"
+  ],
+  "sources": []
+}

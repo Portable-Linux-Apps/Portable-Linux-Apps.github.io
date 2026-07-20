@@ -1,0 +1,8 @@
+{
+  "name": "bitbox-wallet",
+  "description": "BitBox cryptocurrency hardware wallet desktop app with Bitcoin, Segwit,  Bech32 and native Litecoin support in an AppImage.",
+  "sites": [
+    "https://bitbox.swiss/app/"
+  ],
+  "sources": []
+}

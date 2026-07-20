@@ -1,0 +1,8 @@
+{
+  "name": "stockstalk",
+  "description": "Your stocks on your desktop",
+  "sites": [
+    "https://github.com/sagivo/StockStalk"
+  ],
+  "sources": []
+}

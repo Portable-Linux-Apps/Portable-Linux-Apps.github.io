@@ -1,0 +1,8 @@
+{
+  "name": "ots",
+  "description": "🔐 Share end-to-end encrypted secrets with others via a one-time URL",
+  "sites": [
+    "https://github.com/sniptt-official/ots"
+  ],
+  "sources": []
+}

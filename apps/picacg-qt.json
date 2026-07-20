@@ -1,0 +1,8 @@
+{
+  "name": "picacg-qt",
+  "description": "PicACG Comic PC Client For Linux",
+  "sites": [
+    "https://github.com/tonquer/picacg-qt"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "wishdemo",
+  "description": "A μ Tcl/Tk distribution statically linked to put in an AppImage",
+  "sites": [
+    "https://github.com/julien-montmartin/statcl"
+  ],
+  "sources": []
+}

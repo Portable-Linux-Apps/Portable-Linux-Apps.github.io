@@ -1,0 +1,8 @@
+{
+  "name": "lorien",
+  "description": "Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.\n\n This is the portable official version converted to an AppImage by our team, \"Portable Linux Apps\" , no additional changes have been made.",
+  "sites": [
+    "https://github.com/mbrlabs/Lorien"
+  ],
+  "sources": []
+}

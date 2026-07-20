@@ -1,0 +1,8 @@
+{
+  "name": "mqttx",
+  "description": "Powerful cross-platform MQTT 5.0 Desktop, CLI, and WebSocket client tools.",
+  "sites": [
+    "https://mqttx.app/"
+  ],
+  "sources": []
+}

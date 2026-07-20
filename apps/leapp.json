@@ -1,0 +1,8 @@
+{
+  "name": "leapp",
+  "description": "The DevTool to access your cloud.",
+  "sites": [
+    "https://www.leapp.cloud"
+  ],
+  "sources": []
+}

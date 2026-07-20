@@ -1,0 +1,8 @@
+{
+  "name": "bookmarks-manager",
+  "description": "Edit bookmarks, check url.",
+  "sites": [
+    "https://github.com/Hunlongyu/bookmarks-manager"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "clownmdemu",
+  "description": "Reference standalone frontend for clownmdemu.",
+  "sites": [
+    "https://github.com/Clownacy/clownmdemu-frontend"
+  ],
+  "sources": []
+}

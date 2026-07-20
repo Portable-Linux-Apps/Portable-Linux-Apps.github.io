@@ -1,0 +1,8 @@
+{
+  "name": "steam-tui",
+  "description": "Rust TUI client for steamcmd.",
+  "sites": [
+    "https://github.com/dmadisetti/steam-tui"
+  ],
+  "sources": []
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kate",
+  "description": "Kate is a multi-document, multi-view text editor by KDE.\n \n It features stuff like codefolding, syntaxhighlighting, dynamic word wrap, an embedded console, an extensive plugin interface and some preliminary  scripting support.\n\n This tool is part of the KDE Utils Suite.\n\n <img src=\"https://cdn.kde.org/screenshots/kate/kate-windows-dark2.png\" alt=\"Screenshot\">",
+  "sites": [
+    "https://apps.kde.org"
+  ],
+  "sources": [
+    "https://github.com/ivan-hc/KDE-utils-appimage"
+  ]
+}

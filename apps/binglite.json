@@ -1,0 +1,8 @@
+{
+  "name": "binglite",
+  "description": "A lightweight new Bing (AI chat) desktop application based on Tauri.",
+  "sites": [
+    "https://github.com/I-Info/BingLite"
+  ],
+  "sources": []
+}

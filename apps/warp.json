@@ -1,0 +1,8 @@
+{
+  "name": "warp",
+  "description": "Unofficial. Fast and secure file transfer through internet or local network exchanging a word-based code.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Warp-AppImage"
+  ],
+  "sources": []
+}

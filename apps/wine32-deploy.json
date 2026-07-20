@@ -1,0 +1,8 @@
+{
+  "name": "wine32-deploy",
+  "description": "Wine32-deploy is a tool for creating AppImages for 32-bit Microsoft Windows® applications.",
+  "sites": [],
+  "sources": [
+    "https://github.com/sudo-give-me-coffee/wine32-deploy"
+  ]
+}

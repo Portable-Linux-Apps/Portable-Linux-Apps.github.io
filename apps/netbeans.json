@@ -1,0 +1,8 @@
+{
+  "name": "netbeans",
+  "description": "Apache NetBeans installers",
+  "sites": [
+    "https://github.com/codelerity/netbeans-installers"
+  ],
+  "sources": []
+}

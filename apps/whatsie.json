@@ -1,0 +1,8 @@
+{
+  "name": "whatsie",
+  "description": "Unofficial, feature rich WhatsApp web client based on Qt WebEngine.",
+  "sites": [
+    "https://github.com/pkgforge-dev/WhatSie-AppImage"
+  ],
+  "sources": []
+}

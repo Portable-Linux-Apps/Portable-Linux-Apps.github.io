@@ -1,0 +1,8 @@
+{
+  "name": "imgbrd-grabber",
+  "description": "Very customizable imageboard/booru downloader with powerful  filenaming features.",
+  "sites": [
+    "https://github.com/Bionus/imgbrd-grabber"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "pointless",
+  "description": "An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️",
+  "sites": [
+    "https://github.com/kkoomen/pointless"
+  ],
+  "sources": []
+}

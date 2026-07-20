@@ -1,0 +1,8 @@
+{
+  "name": "nanovault",
+  "description": "Wallet for interacting with Nano",
+  "sites": [
+    "https://github.com/cronoh/nanovault"
+  ],
+  "sources": []
+}

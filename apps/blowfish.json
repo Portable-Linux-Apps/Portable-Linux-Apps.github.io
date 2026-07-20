@@ -1,0 +1,10 @@
+{
+  "name": "blowfish",
+  "description": "Desktop app to retrieve and display your total Ocean Token balances.",
+  "sites": [
+    "https://getblow.fish"
+  ],
+  "sources": [
+    "https://github.com/kremalicious/blowfish"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "foxfolio",
+  "description": "Cryptocurrency portfolio management application which automatically retrieves",
+  "sites": [
+    "https://github.com/foxfolio/foxfolio-desktop"
+  ],
+  "sources": []
+}

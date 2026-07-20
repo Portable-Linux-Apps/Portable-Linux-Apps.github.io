@@ -1,0 +1,8 @@
+{
+  "name": "artisan",
+  "description": "Visualizes the coffee roasting process",
+  "sites": [
+    "https://github.com/artisan-roaster-scope/artisan"
+  ],
+  "sources": []
+}

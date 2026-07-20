@@ -1,0 +1,8 @@
+{
+  "name": "hw-probe",
+  "description": "Probe for hardware and upload result to the Linux hardware database",
+  "sites": [
+    "https://github.com/linuxhw/hw-probe"
+  ],
+  "sources": []
+}

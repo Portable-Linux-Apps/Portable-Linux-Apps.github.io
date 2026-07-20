@@ -1,0 +1,8 @@
+{
+  "name": "opentyrian2000",
+  "description": "An open-source port of the DOS shoot-em-up Tyrian.",
+  "sites": [
+    "https://github.com/pkgforge-dev/OpenTyrian2000-AppImage"
+  ],
+  "sources": []
+}

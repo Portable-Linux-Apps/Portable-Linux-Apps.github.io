@@ -1,0 +1,8 @@
+{
+  "name": "stellarium",
+  "description": "Stellarium is a free GPL software which renders realistic skies in real time with OpenGL.",
+  "sites": [
+    "https://stellarium.org"
+  ],
+  "sources": []
+}

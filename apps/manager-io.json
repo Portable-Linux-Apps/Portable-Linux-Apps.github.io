@@ -1,0 +1,10 @@
+{
+  "name": "manager-io",
+  "description": "Free Accounting Software for Linux.",
+  "sites": [
+    "https://www.manager.io"
+  ],
+  "sources": [
+    "https://github.com/Manager-io/Manager"
+  ]
+}

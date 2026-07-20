@@ -1,0 +1,8 @@
+{
+  "name": "rrip",
+  "description": "Bulk image downloader for reddit.",
+  "sites": [
+    "https://github.com/mahesh-hegde/rrip"
+  ],
+  "sources": []
+}

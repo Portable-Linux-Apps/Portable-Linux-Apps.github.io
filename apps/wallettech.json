@@ -1,0 +1,8 @@
+{
+  "name": "wallettech",
+  "description": "BytechCoin GUI Wallet",
+  "sites": [
+    "https://github.com/bytechcoin/bytech-wallet-electron"
+  ],
+  "sources": []
+}

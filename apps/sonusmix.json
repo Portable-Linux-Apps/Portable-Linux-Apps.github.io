@@ -1,0 +1,8 @@
+{
+  "name": "sonusmix",
+  "description": "Next-gen Pipewire audio routing tool.\n \n <img src=\"https://codeberg.org/sonusmix/sonusmix/media/branch/main/assets/readme/sonusmix2.png\" alt=\"Screenshot\">",
+  "sites": [
+    "https://codeberg.org/sonusmix/sonusmix"
+  ],
+  "sources": []
+}

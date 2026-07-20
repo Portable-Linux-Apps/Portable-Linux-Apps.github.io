@@ -1,0 +1,8 @@
+{
+  "name": "onnx2daq",
+  "description": "DNNLibrary is a wrapper of NNAPI (\"DNNLibrary\" is for \"daquexian's NNAPI library).",
+  "sites": [
+    "https://github.com/JDAI-CV/DNNLibrary"
+  ],
+  "sources": []
+}

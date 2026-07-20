@@ -1,0 +1,8 @@
+{
+  "name": "duckstation",
+  "description": "DuckStation - PlayStation 1, aka PSX Emulator.",
+  "sites": [
+    "https://www.duckstation.org"
+  ],
+  "sources": []
+}

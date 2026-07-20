@@ -1,0 +1,8 @@
+{
+  "name": "qdiskinfo",
+  "description": "QDiskInfo is a frontend for smartctl (part of the smartmontools package). It provides a user experience similar to CrystalDiskInfo. It shows the SMART (Self-Monitoring, Analysis, and Reporting Technology) data of modern hard disk drives.",
+  "sites": [
+    "https://github.com/edisionnano/QDiskInfo"
+  ],
+  "sources": []
+}

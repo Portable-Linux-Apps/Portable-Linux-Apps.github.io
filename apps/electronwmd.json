@@ -1,0 +1,8 @@
+{
+  "name": "electronwmd",
+  "description": "Upload music to NetMD MiniDisc devices",
+  "sites": [
+    "https://web.minidisc.wiki/"
+  ],
+  "sources": []
+}

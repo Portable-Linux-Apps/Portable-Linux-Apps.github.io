@@ -1,0 +1,8 @@
+{
+  "name": "pingu",
+  "description": "🐧ping command but with pingu",
+  "sites": [
+    "https://github.com/sheepla/pingu"
+  ],
+  "sources": []
+}

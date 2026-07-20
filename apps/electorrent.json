@@ -1,0 +1,8 @@
+{
+  "name": "electorrent",
+  "description": "A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge.",
+  "sites": [
+    "https://github.com/Tympanix/Electorrent"
+  ],
+  "sources": []
+}

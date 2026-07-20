@@ -1,0 +1,8 @@
+{
+  "name": "switchcraft",
+  "description": "Switchcraft watches GNOME's light/dark preference and runs your shell commands when the theme changes.",
+  "sites": [
+    "https://github.com/kem-a/switchcraft"
+  ],
+  "sources": []
+}

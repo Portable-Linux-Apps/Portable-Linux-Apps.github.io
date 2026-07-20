@@ -1,0 +1,8 @@
+{
+  "name": "dstask",
+  "description": "Git powered terminal-based todo/note manager\n \n Markdown note page per task. Single binary!",
+  "sites": [
+    "https://github.com/naggie/dstask"
+  ],
+  "sources": []
+}

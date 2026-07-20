@@ -1,0 +1,8 @@
+{
+  "name": "motrix",
+  "description": "A full-featured download manager",
+  "sites": [
+    "https://github.com/agalwood/Motrix"
+  ],
+  "sources": []
+}

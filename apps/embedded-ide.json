@@ -1,0 +1,8 @@
+{
+  "name": "embedded-ide",
+  "description": "Makefile based IDE for embedded systems",
+  "sites": [
+    "https://github.com/martinribelotta/embedded-ide"
+  ],
+  "sources": []
+}

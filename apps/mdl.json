@@ -1,0 +1,8 @@
+{
+  "name": "mdl",
+  "description": "MDL wallet",
+  "sites": [
+    "https://github.com/MDLlife/MDL"
+  ],
+  "sources": []
+}

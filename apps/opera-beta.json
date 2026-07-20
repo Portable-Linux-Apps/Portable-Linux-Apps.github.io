@@ -1,0 +1,10 @@
+{
+  "name": "opera-beta",
+  "description": "Opera - Fast and secure web browser (Beta version).\n\n This is the Unofficial AppImage built from the official deb/snap package.\n\n <img src=\"https://www-static-blogs.operacdn.com/news/wp-content/uploads/sites/2/2016/05/full-page-screenshot-joxi-addon.jpg\" alt=\"Screenshot\">",
+  "sites": [
+    "https://www.opera.com"
+  ],
+  "sources": [
+    "https://github.com/ivan-hc/Opera-appimage"
+  ]
+}

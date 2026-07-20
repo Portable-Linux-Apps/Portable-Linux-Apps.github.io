@@ -1,0 +1,8 @@
+{
+  "name": "revolt",
+  "description": "Revolt Desktop App",
+  "sites": [
+    "https://github.com/revoltchat/desktop"
+  ],
+  "sources": []
+}

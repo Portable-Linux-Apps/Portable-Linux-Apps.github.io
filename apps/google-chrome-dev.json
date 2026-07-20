@@ -1,0 +1,8 @@
+{
+  "name": "google-chrome-dev",
+  "description": "Google Chrome - The most popular Web Browser, provided by Google LLC.\n \n This is the Unstable version.",
+  "sites": [
+    "https://www.google.com/chrome/dev/"
+  ],
+  "sources": []
+}

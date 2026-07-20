@@ -1,0 +1,8 @@
+{
+  "name": "scrcpy",
+  "description": "Display and control your Android device.\n \n An unofficial AppImage for the open source android screen mirroring  software scrcpy. Continuous Integration to create preconfigured  AppImages of scrcpy.",
+  "sites": [
+    "https://github.com/pkgforge-dev/scrcpy-AppImage"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "gnome-pomodoro",
+  "description": "Gnome Pomodoro is a productivity tool designed to help you manage your time effectively using the Pomodoro Technique.\n \n This Unofficial AppImage allows you to run Gnome Pomodoro on any Linux distribution without the need for installation.",
+  "sites": [
+    "https://github.com/pkgforge-dev/gnome-pomodoro-appimage"
+  ],
+  "sources": []
+}

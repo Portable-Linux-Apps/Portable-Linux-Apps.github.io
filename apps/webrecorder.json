@@ -1,0 +1,8 @@
+{
+  "name": "webrecorder",
+  "description": "The Webrecorder Desktop App is a complete packaging of Webrecorder  hosted service as an Electron application, with an integrated Chromium  browser.",
+  "sites": [
+    "https://github.com/webrecorder/webrecorder-desktop"
+  ],
+  "sources": []
+}

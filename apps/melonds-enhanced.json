@@ -1,0 +1,8 @@
+{
+  "name": "melonds-enhanced",
+  "description": "Unofficial, AppImage of melonDS which is able to work on any linux distro.",
+  "sites": [
+    "https://github.com/pkgforge-dev/melonDS-AppImage-Enhanced"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "texmacs",
+  "description": "Free scientific text editor, inspired by TeX and GNU Emacs.  WYSIWYG editor and CAS-interface.",
+  "sites": [
+    "http://www.texmacs.org/"
+  ],
+  "sources": []
+}

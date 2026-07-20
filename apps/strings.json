@@ -1,0 +1,8 @@
+{
+  "name": "strings",
+  "description": "Strings is another bad static string library, written in C. This is part of \"am-utils\" suite.",
+  "sites": [
+    "https://github.com/ivan-hc/am-utils"
+  ],
+  "sources": []
+}

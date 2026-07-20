@@ -1,0 +1,8 @@
+{
+  "name": "streamcapture2",
+  "description": "Download video streams.",
+  "sites": [
+    "https://gitlab.com/posktomten/streamcapture2"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "toru",
+  "description": "Bittorrent streaming CLI tool. Stream anime torrents,  real-time with no waiting for downloads.",
+  "sites": [
+    "https://github.com/sweetbbak/toru"
+  ],
+  "sources": []
+}

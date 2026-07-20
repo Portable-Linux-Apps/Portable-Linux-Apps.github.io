@@ -1,0 +1,8 @@
+{
+  "name": "wox",
+  "description": "A cross-platform launcher that simply works.",
+  "sites": [
+    "https://github.com/Wox-launcher/Wox"
+  ],
+  "sources": []
+}

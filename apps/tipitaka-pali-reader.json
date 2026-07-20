@@ -1,0 +1,8 @@
+{
+  "name": "tipitaka-pali-reader",
+  "description": "A Pali Reading app made in Flutter.",
+  "sites": [
+    "https://github.com/bksubhuti/tipitaka-pali-reader"
+  ],
+  "sources": []
+}

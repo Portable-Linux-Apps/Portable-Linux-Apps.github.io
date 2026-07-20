@@ -1,0 +1,8 @@
+{
+  "name": "kalker",
+  "description": "Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals.",
+  "sites": [
+    "https://github.com/PaddiM8/kalker"
+  ],
+  "sources": []
+}

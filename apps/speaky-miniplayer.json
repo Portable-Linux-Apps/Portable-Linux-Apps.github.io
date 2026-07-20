@@ -1,0 +1,8 @@
+{
+  "name": "speaky-miniplayer",
+  "description": "A miniplayer with a synthetic radio speaker for online streaming radio",
+  "sites": [
+    "https://github.com/fjrd84/speaky-miniplayer"
+  ],
+  "sources": []
+}

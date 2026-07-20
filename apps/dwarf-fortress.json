@@ -1,0 +1,8 @@
+{
+  "name": "dwarf-fortress",
+  "description": "The AppImage of lnp-forge built LinuxDwarfPack.",
+  "sites": [
+    "https://github.com/McArcady/lnp-forge"
+  ],
+  "sources": []
+}

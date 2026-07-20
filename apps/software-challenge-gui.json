@@ -1,0 +1,8 @@
+{
+  "name": "software-challenge-gui",
+  "description": "GUI für die Software-Challenge",
+  "sites": [
+    "https://github.com/CAU-Kiel-Tech-Inf/socha-gui"
+  ],
+  "sources": []
+}

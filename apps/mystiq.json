@@ -1,0 +1,8 @@
+{
+  "name": "mystiq",
+  "description": "Qt5/C++ FFmpeg Media Converter",
+  "sites": [
+    "https://github.com/swl-x/MystiQ"
+  ],
+  "sources": []
+}

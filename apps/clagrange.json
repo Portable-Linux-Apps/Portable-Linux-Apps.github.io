@@ -1,0 +1,8 @@
+{
+  "name": "clagrange",
+  "description": "Lagrange is a cross-platform client for browsing Geminispace (CLI Version).",
+  "sites": [
+    "https://github.com/skyjake/lagrange"
+  ],
+  "sources": []
+}

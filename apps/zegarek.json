@@ -1,0 +1,8 @@
+{
+  "name": "zegarek",
+  "description": "A simple clock with millisecond resolution",
+  "sites": [
+    "https://github.com/konradmb/zegarek"
+  ],
+  "sources": []
+}

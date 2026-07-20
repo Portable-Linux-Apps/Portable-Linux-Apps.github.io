@@ -1,0 +1,8 @@
+{
+  "name": "ioquake3",
+  "description": "Unofficial, the de-facto OSS Quake 3 distribution.",
+  "sites": [
+    "https://github.com/pkgforge-dev/ioquake3-AppImage"
+  ],
+  "sources": []
+}

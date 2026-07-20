@@ -1,0 +1,8 @@
+{
+  "name": "gping",
+  "description": "Ping, but with a graph.",
+  "sites": [
+    "https://github.com/orf/gping"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "yazi",
+  "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+  "sites": [
+    "https://github.com/sxyazi/yazi"
+  ],
+  "sources": []
+}

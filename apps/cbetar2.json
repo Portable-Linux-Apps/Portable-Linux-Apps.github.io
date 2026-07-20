@@ -1,0 +1,8 @@
+{
+  "name": "cbetar2",
+  "description": "A frontend + backend ePub viewer supporting fetching and displaying  HTML as ePub. This (unofficial) app is also a Buddhist text viewer  using CBETA backend API or offline DB.",
+  "sites": [
+    "https://github.com/MrMYHuang/cbetar2"
+  ],
+  "sources": []
+}

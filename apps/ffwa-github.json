@@ -1,0 +1,8 @@
+{
+  "name": "ffwa-github",
+  "description": "WebApp & Firefox Profile for GitHub.",
+  "sites": [
+    "https://github.com"
+  ],
+  "sources": []
+}

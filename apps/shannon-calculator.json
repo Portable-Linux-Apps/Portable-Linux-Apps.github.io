@@ -1,0 +1,8 @@
+{
+  "name": "shannon-calculator",
+  "description": "Calculates Shannon self-information content of a message text or file byte",
+  "sites": [
+    "https://github.com/kuiperzone/Shannon-Calculator"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "kibi",
+  "description": "A text editor in ≤1024 lines of code, written in Rust",
+  "sites": [
+    "https://github.com/ilai-deutel/kibi"
+  ],
+  "sources": []
+}

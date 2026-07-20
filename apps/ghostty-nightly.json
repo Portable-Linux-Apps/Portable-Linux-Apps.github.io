@@ -1,0 +1,8 @@
+{
+  "name": "ghostty-nightly",
+  "description": "Unofficial AppImage(s) of Ghostty terminal emulator 👻",
+  "sites": [
+    "https://github.com/pkgforge-dev/ghostty-appimage"
+  ],
+  "sources": []
+}

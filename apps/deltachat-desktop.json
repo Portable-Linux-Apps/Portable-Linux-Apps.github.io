@@ -1,0 +1,8 @@
+{
+  "name": "deltachat-desktop",
+  "description": "Desktop Application for delta.chat",
+  "sites": [
+    "https://github.com/deltachat/deltachat-desktop"
+  ],
+  "sources": []
+}

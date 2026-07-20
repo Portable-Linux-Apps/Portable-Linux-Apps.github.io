@@ -1,0 +1,8 @@
+{
+  "name": "polybar",
+  "description": "Unofficial AppImage of polybar. A fast easy-to-use status bar.",
+  "sites": [
+    "https://github.com/Samueru-sama/polybar-AppImage"
+  ],
+  "sources": []
+}

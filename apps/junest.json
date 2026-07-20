@@ -1,0 +1,10 @@
+{
+  "name": "junest",
+  "description": "JuNest (Jailed User Nest) is a lightweight Arch Linux based distribution that allows the creation of disposable and partially isolated GNU/Linux environments within any generic GNU/Linux host OS and without requiring root privileges to install packages.\n \n JuNest is built around pacman, the Arch Linux package manager, which allows access to a wide range of packages from the Arch Linux repositories.\n \n The main advantages of using JuNest include:\n\n - Install packages without root privileges.\n - Create partially isolated environments in which you can install packages without risking mishaps on production systems.\n - Access a wider range of packages, particularly on GNU/Linux distros with comparatively limited repositories (such as CentOS and Red Hat).\n - Run on a different architecture from the host OS via QEMU.\n - Available for x86_64 and arm architectures but you can build your own image from scratch too!\n - All Arch Linux lovers can enjoy their favourite distro everywhere!",
+  "sites": [
+    "https://github.com/fsquillace/junest"
+  ],
+  "sources": [
+    "https://github.com/fsquillace/junest"
+  ]
+}

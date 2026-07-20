@@ -1,0 +1,8 @@
+{
+  "name": "surrealist",
+  "description": "Surrealist is the ultimate way to visually manage your SurrealDB database",
+  "sites": [
+    "https://github.com/surrealdb/surrealist"
+  ],
+  "sources": []
+}

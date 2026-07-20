@@ -1,0 +1,8 @@
+{
+  "name": "ffwa-gmail",
+  "description": "WebApp & Firefox Profile for Gmail.",
+  "sites": [
+    "https://mail.google.com"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "firefly-desktop",
+  "description": "The official IOTA and Shimmer wallet.",
+  "sites": [
+    "https://firefly.iota.org/"
+  ],
+  "sources": []
+}

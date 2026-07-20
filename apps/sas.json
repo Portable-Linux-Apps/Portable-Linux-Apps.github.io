@@ -1,0 +1,8 @@
+{
+  "name": "sas",
+  "description": "Tool to sandbox AppImages with bubblewrap easily.",
+  "sites": [
+    "https://github.com/Samueru-sama/simple-appimage-sandbox"
+  ],
+  "sources": []
+}

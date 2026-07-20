@@ -1,0 +1,8 @@
+{
+  "name": "marktext",
+  "description": "A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+  "sites": [
+    "https://github.com/marktext/marktext"
+  ],
+  "sources": []
+}

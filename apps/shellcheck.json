@@ -1,0 +1,8 @@
+{
+  "name": "shellcheck",
+  "description": "ShellCheck, a static analysis tool for shell scripts",
+  "sites": [
+    "https://github.com/koalaman/shellcheck"
+  ],
+  "sources": []
+}

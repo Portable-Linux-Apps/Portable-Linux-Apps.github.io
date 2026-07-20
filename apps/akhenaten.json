@@ -1,0 +1,8 @@
+{
+  "name": "akhenaten",
+  "description": "Unofficial, open-source engine for Pharaoh (+Cleopatra) city-building game.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Akhenaten-AppImage"
+  ],
+  "sources": []
+}

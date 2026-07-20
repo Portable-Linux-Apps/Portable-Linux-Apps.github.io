@@ -1,0 +1,8 @@
+{
+  "name": "mgba",
+  "description": "Game Boy Advance Emulator.",
+  "sites": [
+    "https://github.com/mgba-emu/mgba"
+  ],
+  "sources": []
+}

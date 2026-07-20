@@ -1,0 +1,8 @@
+{
+  "name": "concordium-desktop-wallet",
+  "description": "The latest stable AppImage of the official Concordium Dektop Wallet",
+  "sites": [
+    "https://www.concordium.com/wallet"
+  ],
+  "sources": []
+}

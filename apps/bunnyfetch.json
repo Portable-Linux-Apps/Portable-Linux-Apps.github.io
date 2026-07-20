@@ -1,0 +1,8 @@
+{
+  "name": "bunnyfetch",
+  "description": "Tiny system info fetch utility.",
+  "sites": [
+    "https://github.com/Rosettea/bunnyfetch"
+  ],
+  "sources": []
+}

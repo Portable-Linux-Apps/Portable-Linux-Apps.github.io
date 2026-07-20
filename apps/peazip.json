@@ -1,0 +1,8 @@
+{
+  "name": "peazip",
+  "description": "PeaZip Appimage for linux 64bits",
+  "sites": [
+    "https://github.com/ferion11/PeaZip_Appimage"
+  ],
+  "sources": []
+}

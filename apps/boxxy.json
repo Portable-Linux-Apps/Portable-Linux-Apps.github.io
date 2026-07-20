@@ -1,0 +1,8 @@
+{
+  "name": "boxxy",
+  "description": "boxxy puts bad Linux applications in a box with only their files.",
+  "sites": [
+    "https://github.com/queer/boxxy"
+  ],
+  "sources": []
+}

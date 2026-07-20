@@ -1,0 +1,8 @@
+{
+  "name": "weatherdump",
+  "description": "A WeatherDump desktop GUI.",
+  "sites": [
+    "https://github.com/luigifcruz/weatherdump-desktop"
+  ],
+  "sources": []
+}

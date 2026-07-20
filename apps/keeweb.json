@@ -1,0 +1,8 @@
+{
+  "name": "keeweb",
+  "description": "Free cross-platform password manager compatible with KeePass",
+  "sites": [
+    "https://github.com/keeweb/keeweb"
+  ],
+  "sources": []
+}

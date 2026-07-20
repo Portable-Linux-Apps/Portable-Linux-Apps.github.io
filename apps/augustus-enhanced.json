@@ -1,0 +1,8 @@
+{
+  "name": "augustus-enhanced",
+  "description": "Unofficial, a fork of the Julius project that intends to incorporate gameplay changes.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Augustus-AppImage-Enhanced"
+  ],
+  "sources": []
+}

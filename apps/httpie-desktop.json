@@ -1,0 +1,8 @@
+{
+  "name": "httpie-desktop",
+  "description": "HTTPie for Desktop (AppImage)",
+  "sites": [
+    "https://httpie.io/product"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "gedit",
+  "description": "ArchImage of the popular GNOME text editor Gedit.",
+  "sites": [
+    "https://github.com/ivan-hc/Gedit-appimage"
+  ],
+  "sources": []
+}

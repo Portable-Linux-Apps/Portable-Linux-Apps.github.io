@@ -1,0 +1,8 @@
+{
+  "name": "gcap2026",
+  "description": "Appimage não oficial do GCAP2026, declare seus ganhos de capital (Ano-calendário 2026).",
+  "sites": [
+    "https://github.com/pkgforge-dev/GCAP2026-AppImage"
+  ],
+  "sources": []
+}

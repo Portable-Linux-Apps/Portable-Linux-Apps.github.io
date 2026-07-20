@@ -1,0 +1,8 @@
+{
+  "name": "dbet-wallet",
+  "description": "DBET Wallet",
+  "sites": [
+    "https://github.com/decent-bet/platform-wallet"
+  ],
+  "sources": []
+}

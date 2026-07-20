@@ -1,0 +1,8 @@
+{
+  "name": "gojq",
+  "description": "Pure Go implementation of jq",
+  "sites": [
+    "https://github.com/itchyny/gojq"
+  ],
+  "sources": []
+}

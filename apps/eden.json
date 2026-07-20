@@ -1,0 +1,8 @@
+{
+  "name": "eden",
+  "description": "An experimental open-source emulator for Nintendo Switch (yuzu fork).",
+  "sites": [
+    "https://git.eden-emu.dev"
+  ],
+  "sources": []
+}

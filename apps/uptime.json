@@ -1,0 +1,8 @@
+{
+  "name": "uptime",
+  "description": "Tell how long the system has been running.. This is part of \"am-utils\" suite.",
+  "sites": [
+    "https://github.com/ivan-hc/am-utils"
+  ],
+  "sources": []
+}

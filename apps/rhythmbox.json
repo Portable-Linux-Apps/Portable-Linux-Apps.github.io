@@ -1,0 +1,8 @@
+{
+  "name": "rhythmbox",
+  "description": "ArchImage for the Audio Player Rhythmbox.",
+  "sites": [
+    "https://github.com/ivan-hc/Rhythmbox-appimage"
+  ],
+  "sources": []
+}

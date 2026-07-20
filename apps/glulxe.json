@@ -1,0 +1,8 @@
+{
+  "name": "glulxe",
+  "description": "AppImage of the glulxe interactive fiction interpreter",
+  "sites": [
+    "https://github.com/dino-/glulxe-appimage-build"
+  ],
+  "sources": []
+}

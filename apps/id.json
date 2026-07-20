@@ -1,0 +1,8 @@
+{
+  "name": "id",
+  "description": "Print real and effective user and group IDs. This is part of \"am-utils\" suite.",
+  "sites": [
+    "https://github.com/ivan-hc/am-utils"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "streamon",
+  "description": "Create streaming links to instagram live",
+  "sites": [
+    "https://github.com/haxzie/instagram-live-streamer"
+  ],
+  "sources": []
+}

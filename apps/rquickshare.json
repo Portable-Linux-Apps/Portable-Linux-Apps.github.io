@@ -1,0 +1,8 @@
+{
+  "name": "rquickshare",
+  "description": "Rust implementation of NearbyShare/QuickShare from Android for Linux.\n \n <img src=\"https://raw.githubusercontent.com/Martichou/rquickshare/master/.github/demo.png\" alt=\"Screenshot\">",
+  "sites": [
+    "https://github.com/Martichou/rquickshare"
+  ],
+  "sources": []
+}

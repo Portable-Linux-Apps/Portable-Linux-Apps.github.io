@@ -1,0 +1,8 @@
+{
+  "name": "bitwarden",
+  "description": "Bitwarden client apps (web, browser extension, desktop, and cli).",
+  "sites": [
+    "https://github.com/bitwarden/clients"
+  ],
+  "sources": []
+}

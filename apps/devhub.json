@@ -1,0 +1,8 @@
+{
+  "name": "devhub",
+  "description": "TweetDeck for GitHub",
+  "sites": [
+    "https://github.com/devhubapp/devhub"
+  ],
+  "sources": []
+}

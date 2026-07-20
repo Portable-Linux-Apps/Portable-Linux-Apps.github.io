@@ -1,0 +1,8 @@
+{
+  "name": "zmninja",
+  "description": "High performance, cross platform ionic app  for Home/Commerical Security Surveillance  using ZoneMinder.",
+  "sites": [
+    "https://zmninja.zoneminder.com/"
+  ],
+  "sources": []
+}

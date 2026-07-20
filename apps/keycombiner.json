@@ -1,0 +1,8 @@
+{
+  "name": "keycombiner",
+  "description": "Learn exactly the keyboard shortcuts you need.\n \n Create your own shortcut collections by importing from a large public database of shortcuts (VSCode, Vim, IntelliJ, Gmail, Notion, Excel, etc.) and master them using interactive practice sessions, advanced statistics, and spaced repetition methods. Need to cheat? KeyCombiner's instant lookup let's you look up shortcuts without leaving your current app.",
+  "sites": [
+    "https://keycombiner.com"
+  ],
+  "sources": []
+}

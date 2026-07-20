@@ -1,0 +1,8 @@
+{
+  "name": "electrumsvp",
+  "description": "Bitcoin BSV wallet, fork of ElectrumSV.",
+  "sites": [
+    "https://github.com/TruthMachine/ElectrumSVP"
+  ],
+  "sources": []
+}

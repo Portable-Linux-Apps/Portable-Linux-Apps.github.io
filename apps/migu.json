@@ -1,0 +1,8 @@
+{
+  "name": "migu",
+  "description": "Stream anime torrents, real-time with no waiting for downloads",
+  "sites": [
+    "https://github.com/NoCrypt/migu"
+  ],
+  "sources": []
+}

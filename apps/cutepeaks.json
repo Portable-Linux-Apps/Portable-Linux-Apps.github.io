@@ -1,0 +1,8 @@
+{
+  "name": "cutepeaks",
+  "description": "A simple sanger trace file viewer",
+  "sites": [
+    "https://github.com/labsquare/CutePeaks"
+  ],
+  "sources": []
+}

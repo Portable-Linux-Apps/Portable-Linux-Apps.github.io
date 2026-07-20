@@ -1,0 +1,8 @@
+{
+  "name": "soapy-sdr",
+  "description": "I/Q recorder and processor using SoapySDR as backend",
+  "sites": [
+    "https://github.com/mryndzionek/composable-sdr"
+  ],
+  "sources": []
+}

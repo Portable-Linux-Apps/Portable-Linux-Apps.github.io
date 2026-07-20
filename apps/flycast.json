@@ -1,0 +1,8 @@
+{
+  "name": "flycast",
+  "description": "A multiplatform Sega Dreamcast, Naomi, Naomi 2 andAtomiswave emulator.",
+  "sites": [
+    "https://github.com/flyinghead/flycast"
+  ],
+  "sources": []
+}

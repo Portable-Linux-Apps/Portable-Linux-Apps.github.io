@@ -1,0 +1,8 @@
+{
+  "name": "koishi-desktop",
+  "description": "Launch Koishi from your desktop.",
+  "sites": [
+    "https://koishi.chat/manual/starter/"
+  ],
+  "sources": []
+}

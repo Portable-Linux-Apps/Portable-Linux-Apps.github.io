@@ -1,0 +1,8 @@
+{
+  "name": "simdock",
+  "description": "Small dock with pseudo-transparency and good window handling.",
+  "sites": [
+    "https://github.com/onli/simdock"
+  ],
+  "sources": []
+}

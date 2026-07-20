@@ -1,0 +1,8 @@
+{
+  "name": "fman",
+  "description": "TUI File Manager",
+  "sites": [
+    "https://github.com/nore-dev/fman"
+  ],
+  "sources": []
+}

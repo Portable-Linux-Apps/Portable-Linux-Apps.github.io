@@ -1,0 +1,8 @@
+{
+  "name": "gemget",
+  "description": "Command line downloader for the Gemini protocol.",
+  "sites": [
+    "https://github.com/makew0rld/gemget"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "goodls",
+  "description": "This is a CLI tool to download shared files and folders from Google Drive.",
+  "sites": [
+    "https://github.com/tanaikech/goodls"
+  ],
+  "sources": []
+}

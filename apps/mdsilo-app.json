@@ -1,0 +1,8 @@
+{
+  "name": "mdsilo-app",
+  "description": "Lightweight Knowledge Base and Feed Reader.",
+  "sites": [
+    "https://github.com/mdSilo/mdSilo-app"
+  ],
+  "sources": []
+}

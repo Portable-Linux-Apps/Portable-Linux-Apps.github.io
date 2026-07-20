@@ -1,0 +1,8 @@
+{
+  "name": "corearchiver",
+  "description": "Archive manager for CuboCore Application Suite.",
+  "sites": [
+    "https://gitlab.com/cubocore"
+  ],
+  "sources": []
+}

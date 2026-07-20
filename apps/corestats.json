@@ -1,0 +1,8 @@
+{
+  "name": "corestats",
+  "description": "A system resource viewer from the CoreApps family.",
+  "sites": [
+    "https://gitlab.com/cubocore"
+  ],
+  "sources": []
+}

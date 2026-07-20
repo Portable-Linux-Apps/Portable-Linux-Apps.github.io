@@ -1,0 +1,8 @@
+{
+  "name": "ambermoon.net",
+  "description": "Ambermoon rewrite in C#",
+  "sites": [
+    "https://github.com/Pyrdacor/Ambermoon.net"
+  ],
+  "sources": []
+}

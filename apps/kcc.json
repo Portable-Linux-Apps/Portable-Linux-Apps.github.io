@@ -1,0 +1,8 @@
+{
+  "name": "kcc",
+  "description": "KCC (Kindle Comic Converter) is a comic and manga converter for ebook readers.",
+  "sites": [
+    "https://github.com/ciromattia/kcc"
+  ],
+  "sources": []
+}

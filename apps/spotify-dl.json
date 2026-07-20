@@ -1,0 +1,8 @@
+{
+  "name": "spotify-dl",
+  "description": "A command-line utility to download songs and playlists directly from Spotify's servers",
+  "sites": [
+    "https://github.com/GuillemCastro/spotify-dl"
+  ],
+  "sources": []
+}

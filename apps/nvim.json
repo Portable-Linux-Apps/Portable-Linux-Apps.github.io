@@ -1,0 +1,8 @@
+{
+  "name": "nvim",
+  "description": "Vim-fork focused on extensibility and usability.",
+  "sites": [
+    "https://github.com/neovim/neovim"
+  ],
+  "sources": []
+}

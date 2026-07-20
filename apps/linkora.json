@@ -1,0 +1,8 @@
+{
+  "name": "linkora",
+  "description": "Link organizer for Android and desktop with self-hosted sync.",
+  "sites": [
+    "https://github.com/LinkoraApp/Linkora"
+  ],
+  "sources": []
+}

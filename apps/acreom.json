@@ -1,0 +1,8 @@
+{
+  "name": "acreom",
+  "description": "Acreom desktop app releases",
+  "sites": [
+    "https://github.com/Acreom/releases"
+  ],
+  "sources": []
+}

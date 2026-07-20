@@ -1,0 +1,8 @@
+{
+  "name": "ipfs-desktop",
+  "description": "An unobtrusive and user-friendly desktop application for IPFS on Linux.",
+  "sites": [
+    "https://github.com/ipfs/ipfs-desktop"
+  ],
+  "sources": []
+}

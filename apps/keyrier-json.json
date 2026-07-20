@@ -1,0 +1,8 @@
+{
+  "name": "keyrier-json",
+  "description": "SQL queries on JSON & CSV.",
+  "sites": [
+    "https://github.com/magoo-magoo/keyrier-json"
+  ],
+  "sources": []
+}

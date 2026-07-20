@@ -1,0 +1,8 @@
+{
+  "name": "gickup",
+  "description": "Backup your Git repositories with ease.",
+  "sites": [
+    "https://github.com/cooperspencer/gickup"
+  ],
+  "sources": []
+}

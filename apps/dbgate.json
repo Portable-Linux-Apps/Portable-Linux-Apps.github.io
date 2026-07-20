@@ -1,0 +1,8 @@
+{
+  "name": "dbgate",
+  "description": "Opensource database administration tool",
+  "sites": [
+    "https://github.com/dbgate/dbgate"
+  ],
+  "sources": []
+}

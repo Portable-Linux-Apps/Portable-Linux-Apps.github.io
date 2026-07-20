@@ -1,0 +1,8 @@
+{
+  "name": "paper",
+  "description": "A CLI Tool to set a random wallpaper from Unsplash.com",
+  "sites": [
+    "https://github.com/anupam-git/paper"
+  ],
+  "sources": []
+}

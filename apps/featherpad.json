@@ -1,0 +1,8 @@
+{
+  "name": "featherpad",
+  "description": "Unofficial. A lightweight Qt plain-text editor.",
+  "sites": [
+    "https://github.com/pkgforge-dev/FeatherPad-AppImage"
+  ],
+  "sources": []
+}

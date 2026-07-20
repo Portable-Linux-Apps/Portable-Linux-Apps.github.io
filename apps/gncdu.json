@@ -1,0 +1,8 @@
+{
+  "name": "gncdu",
+  "description": "Implements NCurses Disk Usage(ncdu) with golang",
+  "sites": [
+    "https://github.com/bastengao/gncdu"
+  ],
+  "sources": []
+}

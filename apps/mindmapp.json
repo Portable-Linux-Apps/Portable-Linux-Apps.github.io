@@ -1,0 +1,8 @@
+{
+  "name": "mindmapp",
+  "description": "Electron application to draw mind maps",
+  "sites": [
+    "https://github.com/Mindmapp/mindmapp"
+  ],
+  "sources": []
+}

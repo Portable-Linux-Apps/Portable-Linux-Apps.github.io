@@ -1,0 +1,8 @@
+{
+  "name": "sup",
+  "description": "A Slack client with WhatsApp like UI",
+  "sites": [
+    "https://github.com/arnnis/Sup"
+  ],
+  "sources": []
+}

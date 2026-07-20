@@ -1,0 +1,8 @@
+{
+  "name": "zmk-studio",
+  "description": "ZMK Firmware. Modern, open source keyboard firmware.",
+  "sites": [
+    "https://github.com/zmkfirmware/zmk-studio"
+  ],
+  "sources": []
+}

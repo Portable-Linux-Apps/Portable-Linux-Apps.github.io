@@ -1,0 +1,8 @@
+{
+  "name": "snowball",
+  "description": "Find and filter literature, fast.",
+  "sites": [
+    "https://github.com/shaunabanana/snowball"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "irpf2025",
+  "description": "Appimage não oficial do IRPF2025, declare seu imposto de renda (Ano-calendário 2024).",
+  "sites": [
+    "https://github.com/pkgforge-dev/IRPF2025-AppImage"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "kcov",
+  "description": "An AppImage of Kcov code coverage tool.",
+  "sites": [
+    "https://github.com/julien-montmartin/kcov-appimage"
+  ],
+  "sources": []
+}

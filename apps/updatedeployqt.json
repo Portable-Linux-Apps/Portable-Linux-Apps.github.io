@@ -1,0 +1,8 @@
+{
+  "name": "updatedeployqt",
+  "description": "A simple and powerful tool to deploy auto update for qt applications with a single command. Programming Language Independent.",
+  "sites": [
+    "https://github.com/antony-jr/updatedeployqt"
+  ],
+  "sources": []
+}

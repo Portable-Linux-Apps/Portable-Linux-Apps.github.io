@@ -1,0 +1,8 @@
+{
+  "name": "ntfydesktop",
+  "description": "A desktop client for ntfy. Allows you to subscribe to topics from any ntfy server and recieve notifications natively on the desktop.",
+  "sites": [
+    "https://github.com/emmaexe/ntfyDesktop"
+  ],
+  "sources": []
+}

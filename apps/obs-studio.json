@@ -1,0 +1,8 @@
+{
+  "name": "obs-studio",
+  "description": "OBS Studio is a free and open source software for video recording and live  streaming.\n \n High performance real time video/audio capturing and mixing. Create scenes  made up of multiple sources including window captures, images, text, browser  windows, webcams, capture cards and more.\n \n This script lets you choose between:\n - the unofficial AppImage that also works on musl systems\n - the Archimage (AppImage based on JuNest, Arch Linux) which includes libcef and therefore browser support\n - the same Archimage without libcef, and therefore about 100 MB smaller\n\n These are all unofficial builds. And they all work on older distributions too.",
+  "sites": [
+    "https://obsproject.com"
+  ],
+  "sources": []
+}

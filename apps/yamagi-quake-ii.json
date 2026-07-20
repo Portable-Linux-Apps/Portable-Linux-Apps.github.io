@@ -1,0 +1,8 @@
+{
+  "name": "yamagi-quake-ii",
+  "description": "Unofficial, an enhanced client for id Software's Quake II.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Yamagi-Quake-II-AppImage"
+  ],
+  "sources": []
+}

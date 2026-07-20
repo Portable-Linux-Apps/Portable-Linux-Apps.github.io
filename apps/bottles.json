@@ -1,0 +1,10 @@
+{
+  "name": "bottles",
+  "description": "Bottles - Profile manager for WINE to easily install Windows apps.\n \n Easily manage wine prefixes in a new way. Run Windows software and games on Linux.\n \n This is the Unofficial AppImage built using \"Conty\" (see \"conty\").",
+  "sites": [
+    "https://usebottles.com"
+  ],
+  "sources": [
+    "https://github.com/bottlesdevs/Bottles"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "skype",
+  "description": "Skype is a proprietary telecommunications application that specializes  in providing VoIP-based videotelephony, videoconferencing and voice  calls.\n \n It also has instant messaging, file transfer, debit-based calls to  landline and mobile telephones (over traditional telephone  networks),  and other features. Skype is available on  various desktop, mobile and  video game console platforms, and is operated by Skype Technologies, a  division of Microsoft.\n \n This is the Unofficial AppImage built from the official Snap package.",
+  "sites": [
+    "https://www.skype.com"
+  ],
+  "sources": [
+    "https://github.com/ivan-hc/Skype-appimage"
+  ]
+}

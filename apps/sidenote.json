@@ -1,0 +1,8 @@
+{
+  "name": "sidenote",
+  "description": "A CLI tool that helps to manage plain text notes per working directory",
+  "sites": [
+    "https://github.com/ryot4/sidenote"
+  ],
+  "sources": []
+}

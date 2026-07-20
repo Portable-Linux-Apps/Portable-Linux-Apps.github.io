@@ -1,0 +1,8 @@
+{
+  "name": "cudatext",
+  "description": "A cross-platform text editor, written in Object Pascal.",
+  "sites": [
+    "https://cudatext.github.io"
+  ],
+  "sources": []
+}

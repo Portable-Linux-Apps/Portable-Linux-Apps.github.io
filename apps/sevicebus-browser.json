@@ -1,0 +1,8 @@
+{
+  "name": "sevicebus-browser",
+  "description": "A cross platform tool to manage your Azure Service Bus instances.",
+  "sites": [
+    "https://github.com/mligtenberg/ServicebusBrowser"
+  ],
+  "sources": []
+}

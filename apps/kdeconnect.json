@@ -1,0 +1,8 @@
+{
+  "name": "kdeconnect",
+  "description": "Unofficial AppImage of kdeconnect. A project that enables all your devices to communicate with each other.",
+  "sites": [
+    "https://github.com/pkgforge-dev/kdeconnect-AppImage"
+  ],
+  "sources": []
+}

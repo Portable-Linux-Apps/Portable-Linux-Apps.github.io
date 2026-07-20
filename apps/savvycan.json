@@ -1,0 +1,8 @@
+{
+  "name": "savvycan",
+  "description": "Facilitates reverse engineering of canbus captures",
+  "sites": [
+    "https://github.com/collin80/SavvyCAN"
+  ],
+  "sources": []
+}

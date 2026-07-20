@@ -1,0 +1,8 @@
+{
+  "name": "tmux",
+  "description": "Tmux AppImage build via Docker.",
+  "sites": [
+    "https://github.com/nelsonenzo/tmux-appimage"
+  ],
+  "sources": []
+}

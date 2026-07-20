@@ -1,0 +1,8 @@
+{
+  "name": "spyglass",
+  "description": "A personal search engine:  Create a searchable library from your personal documents, interests, and more!",
+  "sites": [
+    "https://github.com/spyglass-search/spyglass"
+  ],
+  "sources": []
+}

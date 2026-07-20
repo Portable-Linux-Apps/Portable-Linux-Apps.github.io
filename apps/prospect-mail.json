@@ -1,0 +1,8 @@
+{
+  "name": "prospect-mail",
+  "description": "An Outlook mail desktop client powered by Electron.",
+  "sites": [
+    "https://github.com/julian-alarcon/prospect-mail"
+  ],
+  "sources": []
+}

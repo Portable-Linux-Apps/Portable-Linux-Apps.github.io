@@ -1,0 +1,8 @@
+{
+  "name": "copytranslator",
+  "description": "Foreign language reading and translation assistant based on  copy and translate.",
+  "sites": [
+    "https://copytranslator.github.io"
+  ],
+  "sources": []
+}

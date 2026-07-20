@@ -1,0 +1,8 @@
+{
+  "name": "freecad-weekly",
+  "description": "Official developmet build of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+  "sites": [
+    "https://github.com/FreeCAD/FreeCAD"
+  ],
+  "sources": []
+}

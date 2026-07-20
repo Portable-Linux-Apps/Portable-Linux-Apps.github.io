@@ -1,0 +1,8 @@
+{
+  "name": "nugget-doom-enhanced",
+  "description": "Unofficial, a Doom source port forked from Woof! with additional features.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Nugget-Doom-AppImage-Enhanced"
+  ],
+  "sources": []
+}

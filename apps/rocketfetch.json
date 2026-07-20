@@ -1,0 +1,8 @@
+{
+  "name": "rocketfetch",
+  "description": "A WIP command line system information tool written with multithreading in rust for performance with toml file configuration.",
+  "sites": [
+    "https://github.com/devanlooches/rocketfetch"
+  ],
+  "sources": []
+}

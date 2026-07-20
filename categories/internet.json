@@ -1,0 +1,1594 @@
+[
+  {
+    "icon": "adobe-flash-player.png",
+    "name": "adobe-flash-player",
+    "description": "Unofficial port. Adobe Flash is a mostly discontinued multimedia software platform used for production of animations, rich internet applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Over 67 billion devices use adobe flash player!",
+    "app_page": "apps/adobe-flash-player.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/adobe-flash-player",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/adobe-flash-player"
+  },
+  {
+    "icon": "aichat.png",
+    "name": "aichat",
+    "description": "AIO AI CLI tool integrating 20+ AI platforms, including OpenAI.",
+    "app_page": "apps/aichat.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aichat",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aichat"
+  },
+  {
+    "icon": "altus.png",
+    "name": "altus",
+    "description": "Client for WhatsApp Web with themes & multiple account support.",
+    "app_page": "apps/altus.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/altus",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/altus"
+  },
+  {
+    "icon": "animecoin.png",
+    "name": "animecoin",
+    "description": "Animecoin is a free open source peer-to-peer electronic cash system that is completely decentralized, without the need for a central server or trusted parties. Users hold the crypto keys to their own money and transact directly with each other, with the help of a P2P network to check for double-spending.",
+    "app_page": "apps/animecoin.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/animecoin",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/animecoin"
+  },
+  {
+    "icon": "animeko.png",
+    "name": "animeko",
+    "description": "A one-stop platform for finding, following, and watching anime, featuring danmaku (bullet comments) and cloud-based collection synchronization (Bangumi), offline caching, BitTorrent, and cloud-based danmaku filtering.",
+    "app_page": "apps/animeko.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/animeko",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/animeko"
+  },
+  {
+    "icon": "ant-downloader.png",
+    "name": "ant-downloader",
+    "description": "BitTorrent Client developed by golang, angular, electron.",
+    "app_page": "apps/ant-downloader.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ant-downloader",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ant-downloader"
+  },
+  {
+    "icon": "arcdlp.png",
+    "name": "arcdlp",
+    "description": "Open-source desktop video downloader powered by yt-dlp and electron. Download videos and audio from YouTube, Vimeo, Twitter, and thousands of sites.",
+    "app_page": "apps/arcdlp.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/arcdlp",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/arcdlp"
+  },
+  {
+    "icon": "archiveweb.page.png",
+    "name": "archiveweb.page",
+    "description": "A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers.",
+    "app_page": "apps/archiveweb.page.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/archiveweb.page",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/archiveweb.page"
+  },
+  {
+    "icon": "bchat-desktop.png",
+    "name": "bchat-desktop",
+    "description": "About A decentralized cionfidential messaging app that runs on Beldex network.",
+    "app_page": "apps/bchat-desktop.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bchat-desktop",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bchat-desktop"
+  },
+  {
+    "icon": "beeper.png",
+    "name": "beeper",
+    "description": "All your chats in one app.",
+    "app_page": "apps/beeper.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/beeper",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/beeper"
+  },
+  {
+    "icon": "betterbird.png",
+    "name": "betterbird",
+    "description": "Unofficial, Betterbird is a fine-tuned version of Mozilla Thunderbird, a free and open-source email client.",
+    "app_page": "apps/betterbird.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/betterbird",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/betterbird"
+  },
+  {
+    "icon": "bettercrewlink.png",
+    "name": "bettercrewlink",
+    "description": "Free, open, Among Us proximity voice chat.",
+    "app_page": "apps/bettercrewlink.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bettercrewlink",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bettercrewlink"
+  },
+  {
+    "icon": "bili-liveluckdraw.png",
+    "name": "bili-liveluckdraw",
+    "description": "A Bilibili live stream lottery tool that draws winners based on keywords retrieved from the chat comments. It is built using Electron + React + Vite.",
+    "app_page": "apps/bili-liveluckdraw.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bili-liveluckdraw",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bili-liveluckdraw"
+  },
+  {
+    "icon": "binglite.png",
+    "name": "binglite",
+    "description": "A lightweight new Bing (AI chat) desktop application based on Tauri.",
+    "app_page": "apps/binglite.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/binglite",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/binglite"
+  },
+  {
+    "icon": "blob-dl.png",
+    "name": "blob-dl",
+    "description": "Blob-dl is a yt-dlp CLI interface used to download video and audio files from YouTube.",
+    "app_page": "apps/blob-dl.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/blob-dl",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/blob-dl"
+  },
+  {
+    "icon": "botframework-emulator.png",
+    "name": "botframework-emulator",
+    "description": "Test and debug chat bots built with Bot Framework SDK.",
+    "app_page": "apps/botframework-emulator.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/botframework-emulator",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/botframework-emulator"
+  },
+  {
+    "icon": "brave.png",
+    "name": "brave",
+    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"stable\" release.",
+    "app_page": "apps/brave.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave"
+  },
+  {
+    "icon": "brave-beta.png",
+    "name": "brave-beta",
+    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"beta\" release.",
+    "app_page": "apps/brave-beta.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-beta",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-beta"
+  },
+  {
+    "icon": "brave-nightly.png",
+    "name": "brave-nightly",
+    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"nightly\" release.",
+    "app_page": "apps/brave-nightly.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave-nightly",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave-nightly"
+  },
+  {
+    "icon": "cabal-desktop.png",
+    "name": "cabal-desktop",
+    "description": "Cabal p2p offline-first desktop application.",
+    "app_page": "apps/cabal-desktop.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cabal-desktop",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cabal-desktop"
+  },
+  {
+    "icon": "catalyst.png",
+    "name": "catalyst",
+    "description": "Catalyst web browser.",
+    "app_page": "apps/catalyst.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/catalyst",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/catalyst"
+  },
+  {
+    "icon": "chat-gpt.png",
+    "name": "chat-gpt",
+    "description": "Unofficial. ChatGPT Desktop Application.",
+    "app_page": "apps/chat-gpt.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chat-gpt",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chat-gpt"
+  },
+  {
+    "icon": "chatall.png",
+    "name": "chatall",
+    "description": "Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca and more.",
+    "app_page": "apps/chatall.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatall",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatall"
+  },
+  {
+    "icon": "chatbox.png",
+    "name": "chatbox",
+    "description": "Chatbox is a desktop app for GPT-4 / GPT-3.5, OpenAI API.",
+    "app_page": "apps/chatbox.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatbox",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatbox"
+  },
+  {
+    "icon": "chatgpt-next-web.png",
+    "name": "chatgpt-next-web",
+    "description": "A cross-platform ChatGPT/Gemini UI.",
+    "app_page": "apps/chatgpt-next-web.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatgpt-next-web",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatgpt-next-web"
+  },
+  {
+    "icon": "chatpad-ai.png",
+    "name": "chatpad-ai",
+    "description": "Not just another ChatGPT user-interface.",
+    "app_page": "apps/chatpad-ai.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatpad-ai",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatpad-ai"
+  },
+  {
+    "icon": "chatterino2.png",
+    "name": "chatterino2",
+    "description": "Second installment of the Twitch chat client.",
+    "app_page": "apps/chatterino2.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatterino2",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatterino2"
+  },
+  {
+    "icon": "chatterino2-nightly.png",
+    "name": "chatterino2-nightly",
+    "description": "Second installment of the Twitch chat client.",
+    "app_page": "apps/chatterino2-nightly.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatterino2-nightly",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatterino2-nightly"
+  },
+  {
+    "icon": "chromium.png",
+    "name": "chromium",
+    "description": "Unofficial. FOSS Web Browser, base of Google Chrome, Edge and Brave, stable.",
+    "app_page": "apps/chromium.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium"
+  },
+  {
+    "icon": "chromium-beta.png",
+    "name": "chromium-beta",
+    "description": "Unofficial. FOSS Web Browser, base of Google Chrome, beta edition.",
+    "app_page": "apps/chromium-beta.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-beta",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-beta"
+  },
+  {
+    "icon": "chromium-edge.png",
+    "name": "chromium-edge",
+    "description": "Unofficial. FOSS Web Browser, base of Google Chrome, edge edition.",
+    "app_page": "apps/chromium-edge.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-edge",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-edge"
+  },
+  {
+    "icon": "chromium-rc.png",
+    "name": "chromium-rc",
+    "description": "Unofficial. FOSS Web Browser, base of Google Chrome, release candidate.",
+    "app_page": "apps/chromium-rc.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chromium-rc",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chromium-rc"
+  },
+  {
+    "icon": "circle-z.png",
+    "name": "circle-z",
+    "description": "A chat client for online math courses.",
+    "app_page": "apps/circle-z.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/circle-z",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/circle-z"
+  },
+  {
+    "icon": "cromite.png",
+    "name": "cromite",
+    "description": "Unofficial AppImage of the Cromite web browser.",
+    "app_page": "apps/cromite.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cromite",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cromite"
+  },
+  {
+    "icon": "deltachat-desktop.png",
+    "name": "deltachat-desktop",
+    "description": "Desktop Application for delta.chat.",
+    "app_page": "apps/deltachat-desktop.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deltachat-desktop",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deltachat-desktop"
+  },
+  {
+    "icon": "deskreen.png",
+    "name": "deskreen",
+    "description": "Turns any device with a web browser into a secondary screen.",
+    "app_page": "apps/deskreen.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deskreen",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deskreen"
+  },
+  {
+    "icon": "dezor.png",
+    "name": "dezor",
+    "description": "The web browser including VPN and Adblocker.",
+    "app_page": "apps/dezor.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dezor",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dezor"
+  },
+  {
+    "icon": "dinox.png",
+    "name": "dinox",
+    "description": "DinoX - Modern XMPP Chat Client with Video Calls, Voice Messages & OMEMO Encryption.",
+    "app_page": "apps/dinox.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dinox",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dinox"
+  },
+  {
+    "icon": "discord.png",
+    "name": "discord",
+    "description": "Unofficial. All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.",
+    "app_page": "apps/discord.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/discord",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/discord"
+  },
+  {
+    "icon": "dwyco-phoo.png",
+    "name": "dwyco-phoo",
+    "description": "Dwyco Phoo Chat and Video Calling.",
+    "app_page": "apps/dwyco-phoo.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dwyco-phoo",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dwyco-phoo"
+  },
+  {
+    "icon": "electorrent.png",
+    "name": "electorrent",
+    "description": "A remote control Torrent client.",
+    "app_page": "apps/electorrent.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electorrent",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electorrent"
+  },
+  {
+    "icon": "electron-wechat.png",
+    "name": "electron-wechat",
+    "description": "Wechat desktop application.",
+    "app_page": "apps/electron-wechat.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electron-wechat",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electron-wechat"
+  },
+  {
+    "icon": "elk.png",
+    "name": "elk",
+    "description": "Native version of Elk, a nimble Mastodon web.",
+    "app_page": "apps/elk.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elk",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elk"
+  },
+  {
+    "icon": "elzabrowser.png",
+    "name": "elzabrowser",
+    "description": "Elza incognito web browser.",
+    "app_page": "apps/elzabrowser.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elzabrowser",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elzabrowser"
+  },
+  {
+    "icon": "falkon.png",
+    "name": "falkon",
+    "description": "Unofficial. A fast Qt web browser from KDE.",
+    "app_page": "apps/falkon.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/falkon",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/falkon"
+  },
+  {
+    "icon": "fchat-horizon.png",
+    "name": "fchat-horizon",
+    "description": "The Best F-Chat 3.0 Client, No exceptions!.",
+    "app_page": "apps/fchat-horizon.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fchat-horizon",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fchat-horizon"
+  },
+  {
+    "icon": "ff-password-exporter.png",
+    "name": "ff-password-exporter",
+    "description": "Export your saved passwords from Firefox.",
+    "app_page": "apps/ff-password-exporter.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ff-password-exporter",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ff-password-exporter"
+  },
+  {
+    "icon": "ffsend.png",
+    "name": "ffsend",
+    "description": "Easily and securely share files from the command line. A fully featured Firefox Send client.",
+    "app_page": "apps/ffsend.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffsend",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffsend"
+  },
+  {
+    "icon": "ffwa-facebook.png",
+    "name": "ffwa-facebook",
+    "description": "WebApp & Firefox Profile for Facebook.",
+    "app_page": "apps/ffwa-facebook.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-facebook",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-facebook"
+  },
+  {
+    "icon": "ffwa-github.png",
+    "name": "ffwa-github",
+    "description": "WebApp & Firefox Profile for GitHub.",
+    "app_page": "apps/ffwa-github.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-github",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-github"
+  },
+  {
+    "icon": "ffwa-gmail.png",
+    "name": "ffwa-gmail",
+    "description": "WebApp & Firefox Profile for Gmail.",
+    "app_page": "apps/ffwa-gmail.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-gmail",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-gmail"
+  },
+  {
+    "icon": "ffwa-netflix.png",
+    "name": "ffwa-netflix",
+    "description": "WebApp & Firefox Profile for Netflix.",
+    "app_page": "apps/ffwa-netflix.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-netflix",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-netflix"
+  },
+  {
+    "icon": "ffwa-reddit.png",
+    "name": "ffwa-reddit",
+    "description": "WebApp & Firefox Profile for Reddit.",
+    "app_page": "apps/ffwa-reddit.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-reddit",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-reddit"
+  },
+  {
+    "icon": "ffwa-twitter.png",
+    "name": "ffwa-twitter",
+    "description": "WebApp & Firefox Profile for Twitter.",
+    "app_page": "apps/ffwa-twitter.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-twitter",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-twitter"
+  },
+  {
+    "icon": "ffwa-whatsapp.png",
+    "name": "ffwa-whatsapp",
+    "description": "WebApp & Firefox Profile for WhatsApp.",
+    "app_page": "apps/ffwa-whatsapp.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-whatsapp",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-whatsapp"
+  },
+  {
+    "icon": "ffwa-wikipedia.png",
+    "name": "ffwa-wikipedia",
+    "description": "WebApp & Firefox Profile for Wikipedia.",
+    "app_page": "apps/ffwa-wikipedia.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-wikipedia",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-wikipedia"
+  },
+  {
+    "icon": "ffwa-youtube.png",
+    "name": "ffwa-youtube",
+    "description": "WebApp & Firefox Profile for YouTube.",
+    "app_page": "apps/ffwa-youtube.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffwa-youtube",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffwa-youtube"
+  },
+  {
+    "icon": "fifo.png",
+    "name": "fifo",
+    "description": "A modern web browser, built on top of modern web technologies.",
+    "app_page": "apps/fifo.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fifo",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fifo"
+  },
+  {
+    "icon": "firedragon.png",
+    "name": "firedragon",
+    "description": "A web browser based on Floorp (the Vivaldi of Firefox's) with many opiniated settings by default.",
+    "app_page": "apps/firedragon.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firedragon",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firedragon"
+  },
+  {
+    "icon": "firefox.png",
+    "name": "firefox",
+    "description": "Fast, powerful and extensible Web Browser, Stable.",
+    "app_page": "apps/firefox.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firefox",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firefox"
+  },
+  {
+    "icon": "firefox-beta.png",
+    "name": "firefox-beta",
+    "description": "Fast, powerful and extensible Web Browser, Beta Edition.",
+    "app_page": "apps/firefox-beta.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firefox-beta",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firefox-beta"
+  },
+  {
+    "icon": "firefox-devedition.png",
+    "name": "firefox-devedition",
+    "description": "Fast, powerful and extensible Web Browser, Developer Edition.",
+    "app_page": "apps/firefox-devedition.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firefox-devedition",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firefox-devedition"
+  },
+  {
+    "icon": "firefox-esr.png",
+    "name": "firefox-esr",
+    "description": "Fast, powerful and extensible Web Browser, ESR Edition.",
+    "app_page": "apps/firefox-esr.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firefox-esr",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firefox-esr"
+  },
+  {
+    "icon": "firefox-nightly.png",
+    "name": "firefox-nightly",
+    "description": "Fast, powerful and extensible Web Browser, Nightly Edition.",
+    "app_page": "apps/firefox-nightly.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firefox-nightly",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firefox-nightly"
+  },
+  {
+    "icon": "floorp.png",
+    "name": "floorp",
+    "description": "Floorp Web Browser, the most Advanced and Fastest Firefox derivative.",
+    "app_page": "apps/floorp.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/floorp",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/floorp"
+  },
+  {
+    "icon": "fluffychat.png",
+    "name": "fluffychat",
+    "description": "The cutest instant messenger in the matrix.",
+    "app_page": "apps/fluffychat.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fluffychat",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fluffychat"
+  },
+  {
+    "icon": "forkgram.png",
+    "name": "forkgram",
+    "description": "Fork of Telegram Desktop messaging app.",
+    "app_page": "apps/forkgram.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/forkgram",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/forkgram"
+  },
+  {
+    "icon": "fraidycat.png",
+    "name": "fraidycat",
+    "description": "Follow blogs, wikis, YouTube, Twitter, Reddit, Instagram and more.",
+    "app_page": "apps/fraidycat.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fraidycat",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fraidycat"
+  },
+  {
+    "icon": "franz.png",
+    "name": "franz",
+    "description": "Messaging app for WhatsApp, Slack, Telegram, HipChat and much more.",
+    "app_page": "apps/franz.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/franz",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/franz"
+  },
+  {
+    "icon": "freetube.png",
+    "name": "freetube",
+    "description": "An Open Source YouTube app for privacy.",
+    "app_page": "apps/freetube.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freetube",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freetube"
+  },
+  {
+    "icon": "freetube-enhanced.png",
+    "name": "freetube-enhanced",
+    "description": "Unofficial, An Open Source YouTube app for privacy.",
+    "app_page": "apps/freetube-enhanced.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/freetube-enhanced",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/freetube-enhanced"
+  },
+  {
+    "icon": "gharmonize.png",
+    "name": "gharmonize",
+    "description": "A cross-platform media conversion app with a built-in YouTube downloader and Spotify downloader, powered by yt-dlp and ffmpeg \u2014 now featuring FPS adaptation support for AC3, EAC3, and AAC codecs.",
+    "app_page": "apps/gharmonize.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gharmonize",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gharmonize"
+  },
+  {
+    "icon": "godmode.png",
+    "name": "godmode",
+    "description": "AI Chat Browser fast, full webapp access to ChatGPT/Claude/Bard/Bing/Llama2.",
+    "app_page": "apps/godmode.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/godmode",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/godmode"
+  },
+  {
+    "icon": "google-chrome.png",
+    "name": "google-chrome",
+    "description": "Unofficial, Web Browser, Stable version.",
+    "app_page": "apps/google-chrome.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/google-chrome",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/google-chrome"
+  },
+  {
+    "icon": "google-chrome-beta.png",
+    "name": "google-chrome-beta",
+    "description": "Unofficial, Web Browser, Beta version.",
+    "app_page": "apps/google-chrome-beta.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/google-chrome-beta",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/google-chrome-beta"
+  },
+  {
+    "icon": "google-chrome-dev.png",
+    "name": "google-chrome-dev",
+    "description": "Unofficial, Web Browser, Unstable version.",
+    "app_page": "apps/google-chrome-dev.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/google-chrome-dev",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/google-chrome-dev"
+  },
+  {
+    "icon": "hamsket.png",
+    "name": "hamsket",
+    "description": "Free and Open Source messaging and emailing app.",
+    "app_page": "apps/hamsket.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hamsket",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hamsket"
+  },
+  {
+    "icon": "haveno-reto.png",
+    "name": "haveno-reto",
+    "description": "Decentralized P2P exchange built on Monero and Tor.",
+    "app_page": "apps/haveno-reto.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/haveno-reto",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/haveno-reto"
+  },
+  {
+    "icon": "helium.png",
+    "name": "helium",
+    "description": "The Chromium-based web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise.",
+    "app_page": "apps/helium.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/helium",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/helium"
+  },
+  {
+    "icon": "himalaya.png",
+    "name": "himalaya",
+    "description": "CLI to manage emails.",
+    "app_page": "apps/himalaya.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/himalaya",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/himalaya"
+  },
+  {
+    "icon": "hydra.png",
+    "name": "hydra",
+    "description": "Game launcher with its own embedded bittorrent client.",
+    "app_page": "apps/hydra.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hydra",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hydra"
+  },
+  {
+    "icon": "hyperspace.png",
+    "name": "hyperspace",
+    "description": "A fluffy client for Mastodon in React.",
+    "app_page": "apps/hyperspace.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperspace",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperspace"
+  },
+  {
+    "icon": "icecat.png",
+    "name": "icecat",
+    "description": "GNU IceCat is the GNU version of the Firefox web browser.",
+    "app_page": "apps/icecat.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/icecat",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/icecat"
+  },
+  {
+    "icon": "jan.png",
+    "name": "jan",
+    "description": "FOSS Alternative to ChatGPT that runs 100% offline on your computer.",
+    "app_page": "apps/jan.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jan",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jan"
+  },
+  {
+    "icon": "kadium.png",
+    "name": "kadium",
+    "description": "App for staying ontop of YouTube channels' uploads.",
+    "app_page": "apps/kadium.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kadium",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kadium"
+  },
+  {
+    "icon": "kiku.png",
+    "name": "kiku",
+    "description": "Play music from youtube on desktop. Supports local api, invidious and piped as source.",
+    "app_page": "apps/kiku.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kiku",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kiku"
+  },
+  {
+    "icon": "ladybird.png",
+    "name": "ladybird",
+    "description": "A truly independent web browser, using a novel engine based on web standards.",
+    "app_page": "apps/ladybird.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ladybird",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ladybird"
+  },
+  {
+    "icon": "librewolf.png",
+    "name": "librewolf",
+    "description": "Firefox-based Web Browser focused on privacy, security, freedom.",
+    "app_page": "apps/librewolf.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/librewolf",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/librewolf"
+  },
+  {
+    "icon": "lobe-chat.png",
+    "name": "lobe-chat",
+    "description": "LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.",
+    "app_page": "apps/lobe-chat.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lobe-chat",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lobe-chat"
+  },
+  {
+    "icon": "mages.png",
+    "name": "mages",
+    "description": "Multiplatform Matrix chat client (experimental CMP+rust app).",
+    "app_page": "apps/mages.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mages",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mages"
+  },
+  {
+    "icon": "media-dupes.png",
+    "name": "media-dupes",
+    "description": "Content duplicator for common media services like YouTube.",
+    "app_page": "apps/media-dupes.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/media-dupes",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/media-dupes"
+  },
+  {
+    "icon": "mercury.png",
+    "name": "mercury",
+    "description": "Firefox fork with compiler optimizations and patches from Librewolf.",
+    "app_page": "apps/mercury.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mercury",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mercury"
+  },
+  {
+    "icon": "microsoft-edge.png",
+    "name": "microsoft-edge",
+    "description": "Web Browser provided by Microsoft, Stable Edition.",
+    "app_page": "apps/microsoft-edge.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/microsoft-edge",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/microsoft-edge"
+  },
+  {
+    "icon": "microsoft-edge-beta.png",
+    "name": "microsoft-edge-beta",
+    "description": "Web Browser provided by Microsoft, Beta Edition.",
+    "app_page": "apps/microsoft-edge-beta.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/microsoft-edge-beta",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/microsoft-edge-beta"
+  },
+  {
+    "icon": "microsoft-edge-dev.png",
+    "name": "microsoft-edge-dev",
+    "description": "Web Browser provided by Microsoft, Developer Edition.",
+    "app_page": "apps/microsoft-edge-dev.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/microsoft-edge-dev",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/microsoft-edge-dev"
+  },
+  {
+    "icon": "midori.png",
+    "name": "midori",
+    "description": "Surf lightly, quickly and safely with Midori Web Browser.",
+    "app_page": "apps/midori.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/midori",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/midori"
+  },
+  {
+    "icon": "migu.png",
+    "name": "migu",
+    "description": "Stream anime torrents, real-time with no waiting for downloads.",
+    "app_page": "apps/migu.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/migu",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/migu"
+  },
+  {
+    "icon": "mirage.png",
+    "name": "mirage",
+    "description": "Matrix chat client for encrypted and decentralized communication.",
+    "app_page": "apps/mirage.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mirage",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mirage"
+  },
+  {
+    "icon": "moonplayer.png",
+    "name": "moonplayer",
+    "description": "AIO video player to play Youtube, Bilibili... and local videos.",
+    "app_page": "apps/moonplayer.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moonplayer",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moonplayer"
+  },
+  {
+    "icon": "moose.png",
+    "name": "moose",
+    "description": "An application to stream, cast and download torrents.",
+    "app_page": "apps/moose.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moose",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moose"
+  },
+  {
+    "icon": "moosync.png",
+    "name": "moosync",
+    "description": "Music player capable of playing local audio or from Youtube/Spotify.",
+    "app_page": "apps/moosync.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moosync",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moosync"
+  },
+  {
+    "icon": "mullvad-browser.png",
+    "name": "mullvad-browser",
+    "description": "A Tor-based Web Browser.",
+    "app_page": "apps/mullvad-browser.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mullvad-browser",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mullvad-browser"
+  },
+  {
+    "icon": "n3h.png",
+    "name": "n3h",
+    "description": "Nodejs implementation of holochain networking / p2p backend process.",
+    "app_page": "apps/n3h.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/n3h",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/n3h"
+  },
+  {
+    "icon": "ncsa-mosaic.png",
+    "name": "ncsa-mosaic",
+    "description": "One of the first graphical web browsers.",
+    "app_page": "apps/ncsa-mosaic.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ncsa-mosaic",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ncsa-mosaic"
+  },
+  {
+    "icon": "node.png",
+    "name": "node",
+    "description": "This is the official suite of Node.js tools, also known as \"NodeJS\", a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+    "app_page": "apps/node.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/node",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/node"
+  },
+  {
+    "icon": "nyaa.png",
+    "name": "nyaa",
+    "description": "A nyaa.si tui tool for browsing and downloading torrents.",
+    "app_page": "apps/nyaa.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nyaa",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nyaa"
+  },
+  {
+    "icon": "oblivion-desktop.png",
+    "name": "oblivion-desktop",
+    "description": "Unofficial Warp Client, Oblivion provides a secure, optimised internet access.",
+    "app_page": "apps/oblivion-desktop.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/oblivion-desktop",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/oblivion-desktop"
+  },
+  {
+    "icon": "one-gpt.png",
+    "name": "one-gpt",
+    "description": "Aggregate ChatGPT official version, Wenxin Yiyan, Poe, chatchat.",
+    "app_page": "apps/one-gpt.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/one-gpt",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/one-gpt"
+  },
+  {
+    "icon": "oneweb.png",
+    "name": "oneweb",
+    "description": "OneWeb - free, private and secure web browser! POLSKA GUROM.",
+    "app_page": "apps/oneweb.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/oneweb",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/oneweb"
+  },
+  {
+    "icon": "open-ai-translator.png",
+    "name": "open-ai-translator",
+    "description": "Browser extension for translation based on ChatGPT API.",
+    "app_page": "apps/open-ai-translator.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/open-ai-translator",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/open-ai-translator"
+  },
+  {
+    "icon": "open-video-downloader.png",
+    "name": "open-video-downloader",
+    "description": "A cross-platform GUI for youtube-dl made in Electron.",
+    "app_page": "apps/open-video-downloader.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/open-video-downloader",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/open-video-downloader"
+  },
+  {
+    "icon": "open-webui.png",
+    "name": "open-webui",
+    "description": "Your AI, right on your desktop. Open WebUI as a native app. Run models locally or connect to any server. No Docker, no terminal, no setup. Download, launch, chat.",
+    "app_page": "apps/open-webui.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/open-webui",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/open-webui"
+  },
+  {
+    "icon": "opera.png",
+    "name": "opera",
+    "description": "Unofficial. Fast and secure web browser, Stable version.",
+    "app_page": "apps/opera.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opera",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opera"
+  },
+  {
+    "icon": "opera-beta.png",
+    "name": "opera-beta",
+    "description": "Unofficial. Fast and secure web browser, Beta version.",
+    "app_page": "apps/opera-beta.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opera-beta",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opera-beta"
+  },
+  {
+    "icon": "opera-dev.png",
+    "name": "opera-dev",
+    "description": "Unofficial. Fast and secure web browser, Developer version.",
+    "app_page": "apps/opera-dev.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opera-dev",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opera-dev"
+  },
+  {
+    "icon": "overlayed.png",
+    "name": "overlayed",
+    "description": "A modern, open-source, and free voice chat overlay for Discord.",
+    "app_page": "apps/overlayed.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/overlayed",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/overlayed"
+  },
+  {
+    "icon": "p2p-chat.png",
+    "name": "p2p-chat",
+    "description": "P2P LAN chatting and file sharing tool.",
+    "app_page": "apps/p2p-chat.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/p2p-chat",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/p2p-chat"
+  },
+  {
+    "icon": "p2pderivatives.png",
+    "name": "p2pderivatives",
+    "description": "Enables users to enter into Discreet Log Contracts.",
+    "app_page": "apps/p2pderivatives.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/p2pderivatives",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/p2pderivatives"
+  },
+  {
+    "icon": "palemoon.png",
+    "name": "palemoon",
+    "description": "Web browser, a Firefox fork with a classic UI and modern APIs.",
+    "app_page": "apps/palemoon.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/palemoon",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/palemoon"
+  },
+  {
+    "icon": "playme.png",
+    "name": "playme",
+    "description": "Elegant YouTube Music desktop app.",
+    "app_page": "apps/playme.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playme",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playme"
+  },
+  {
+    "icon": "pop.png",
+    "name": "pop",
+    "description": "Send emails from your terminal.",
+    "app_page": "apps/pop.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pop",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pop"
+  },
+  {
+    "icon": "promethium.png",
+    "name": "promethium",
+    "description": "Extensible and innovative web browser with built-in AdBlock.",
+    "app_page": "apps/promethium.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/promethium",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/promethium"
+  },
+  {
+    "icon": "qbittorrent.png",
+    "name": "qbittorrent",
+    "description": "A powerful QT-based Bittorrent Client, official AppImage.",
+    "app_page": "apps/qbittorrent.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qbittorrent",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qbittorrent"
+  },
+  {
+    "icon": "qbittorrent-enhanced.png",
+    "name": "qbittorrent-enhanced",
+    "description": "Unofficial qBittorrent Enhanced, based on qBittorrent.",
+    "app_page": "apps/qbittorrent-enhanced.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qbittorrent-enhanced",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qbittorrent-enhanced"
+  },
+  {
+    "icon": "quiet.png",
+    "name": "quiet",
+    "description": "A private, p2p alternative to Slack and Discord built on Tor & IPFS",
+    "app_page": "apps/quiet.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/quiet",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/quiet"
+  },
+  {
+    "icon": "rambox.png",
+    "name": "rambox",
+    "description": "Free and Open Source messaging and emailing app.",
+    "app_page": "apps/rambox.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rambox",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rambox"
+  },
+  {
+    "icon": "rats-search.png",
+    "name": "rats-search",
+    "description": "P2P BitTorrent search engine.",
+    "app_page": "apps/rats-search.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rats-search",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rats-search"
+  },
+  {
+    "icon": "ripcord.png",
+    "name": "ripcord",
+    "description": "Chat client for group-centric services like Slack and Discord.",
+    "app_page": "apps/ripcord.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ripcord",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ripcord"
+  },
+  {
+    "icon": "robrix.png",
+    "name": "robrix",
+    "description": "A multi-platform Matrix chat client written in Rust, using the Makepad UI toolkit and the Robius app dev framework.",
+    "app_page": "apps/robrix.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/robrix",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/robrix"
+  },
+  {
+    "icon": "root.png",
+    "name": "root",
+    "description": "Voice, video, and chat plus powerful apps that help your community organize, grow, and thrive. An alternative to Discord.",
+    "app_page": "apps/root.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/root",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/root"
+  },
+  {
+    "icon": "sengi.png",
+    "name": "sengi",
+    "description": "A multi-account desktop client for Mastodon and Pleroma.",
+    "app_page": "apps/sengi.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sengi",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sengi"
+  },
+  {
+    "icon": "servo.png",
+    "name": "servo",
+    "description": "Unofficial AppImage builds of the Servo web browser engine.",
+    "app_page": "apps/servo.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/servo",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/servo"
+  },
+  {
+    "icon": "simplex-chat.png",
+    "name": "simplex-chat",
+    "description": "First messaging platform operating without user identifiers.",
+    "app_page": "apps/simplex-chat.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/simplex-chat",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/simplex-chat"
+  },
+  {
+    "icon": "skype.png",
+    "name": "skype",
+    "description": "Unofficial. VoIP-based videoconferencing, voice calls and instant messaging app.",
+    "app_page": "apps/skype.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/skype",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/skype"
+  },
+  {
+    "icon": "snapshot-slider.png",
+    "name": "snapshot-slider",
+    "description": "Present/print/email Snapshots of modern mathematics.",
+    "app_page": "apps/snapshot-slider.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/snapshot-slider",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/snapshot-slider"
+  },
+  {
+    "icon": "sniffnet.png",
+    "name": "sniffnet",
+    "description": "Sniffnet is a network monitoring tool to help you easily keep track of your Internet traffic. Whether you want to gather statistics, you\u2019re curious to see who you are exchanging data with, or you need to inspect more in depth what's going on in your network, this app will get you covered.",
+    "app_page": "apps/sniffnet.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sniffnet",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sniffnet"
+  },
+  {
+    "icon": "spmp.png",
+    "name": "spmp",
+    "description": "A YouTube Music client with a focus on customisation of colours and song metadata.",
+    "app_page": "apps/spmp.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spmp",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spmp"
+  },
+  {
+    "icon": "sup.png",
+    "name": "sup",
+    "description": "A Slack client with WhatsApp like UI.",
+    "app_page": "apps/sup.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sup",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sup"
+  },
+  {
+    "icon": "tc.png",
+    "name": "tc",
+    "description": "A desktop chat client for Twitch.",
+    "app_page": "apps/tc.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tc",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tc"
+  },
+  {
+    "icon": "tdlib-rs.png",
+    "name": "tdlib-rs",
+    "description": "Rust wrapper around the Telegram Database Library.",
+    "app_page": "apps/tdlib-rs.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tdlib-rs",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tdlib-rs"
+  },
+  {
+    "icon": "teledrive.png",
+    "name": "teledrive",
+    "description": "Automatically backup Telegram Saved Messages.",
+    "app_page": "apps/teledrive.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/teledrive",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/teledrive"
+  },
+  {
+    "icon": "telegram.png",
+    "name": "telegram",
+    "description": "Official desktop version of Telegram messaging app.",
+    "app_page": "apps/telegram.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/telegram",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/telegram"
+  },
+  {
+    "icon": "tgpt.png",
+    "name": "tgpt",
+    "description": "AI Chatbots in terminal without needing API keys.",
+    "app_page": "apps/tgpt.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tgpt",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tgpt"
+  },
+  {
+    "icon": "thedesk.png",
+    "name": "thedesk",
+    "description": "Mastodon Client for PC.",
+    "app_page": "apps/thedesk.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thedesk",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thedesk"
+  },
+  {
+    "icon": "theweb.png",
+    "name": "theweb",
+    "description": "Web Browser.",
+    "app_page": "apps/theweb.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/theweb",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/theweb"
+  },
+  {
+    "icon": "thorium.png",
+    "name": "thorium",
+    "description": "Web Browser, a Chromium fork including Widevine and FFmpeg support.",
+    "app_page": "apps/thorium.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thorium",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thorium"
+  },
+  {
+    "icon": "thunderbird.png",
+    "name": "thunderbird",
+    "description": "Free and open source eMail client, Stable.",
+    "app_page": "apps/thunderbird.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thunderbird",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thunderbird"
+  },
+  {
+    "icon": "thunderbird-beta.png",
+    "name": "thunderbird-beta",
+    "description": "Free and open source eMail client, Beta Edition.",
+    "app_page": "apps/thunderbird-beta.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thunderbird-beta",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thunderbird-beta"
+  },
+  {
+    "icon": "thunderbird-nightly.png",
+    "name": "thunderbird-nightly",
+    "description": "Free and open source eMail client, Nightly Edition.",
+    "app_page": "apps/thunderbird-nightly.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/thunderbird-nightly",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/thunderbird-nightly"
+  },
+  {
+    "icon": "tixati.png",
+    "name": "tixati",
+    "description": "A New and Powerful P2P System 100% Free, Simple and Easy to Use Bittorrent Client.",
+    "app_page": "apps/tixati.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tixati",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tixati"
+  },
+  {
+    "icon": "tokodon.png",
+    "name": "tokodon",
+    "description": "Unofficial, a modern client for Mastodon and other decentralized servers that implement its API (such as Pixelfed).",
+    "app_page": "apps/tokodon.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tokodon",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tokodon"
+  },
+  {
+    "icon": "tor-browser.png",
+    "name": "tor-browser",
+    "description": "Privacy-oriented Web Browser for sites blocked in your country.",
+    "app_page": "apps/tor-browser.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tor-browser",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tor-browser"
+  },
+  {
+    "icon": "tor-browser-alpha.png",
+    "name": "tor-browser-alpha",
+    "description": "Privacy-oriented Web Browser for sites blocked in your country.",
+    "app_page": "apps/tor-browser-alpha.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tor-browser-alpha",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tor-browser-alpha"
+  },
+  {
+    "icon": "torrents_digger.png",
+    "name": "torrents_digger",
+    "description": "Torrents Digger searches already available torrents from internet.",
+    "app_page": "apps/torrents_digger.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/torrents_digger",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/torrents_digger"
+  },
+  {
+    "icon": "torrenttools.png",
+    "name": "torrenttools",
+    "description": "Cli tool to inspect/create/edit BitTorrent metafiles.",
+    "app_page": "apps/torrenttools.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/torrenttools",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/torrenttools"
+  },
+  {
+    "icon": "toru.png",
+    "name": "toru",
+    "description": "Bittorrent streaming CLI tool. Stream anime torrents real-time.",
+    "app_page": "apps/toru.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/toru",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/toru"
+  },
+  {
+    "icon": "transmission-gtk.png",
+    "name": "transmission-gtk",
+    "description": "Unofficial. Fast, easy, and free BitTorrent client, GTK+ GUI.",
+    "app_page": "apps/transmission-gtk.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/transmission-gtk",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/transmission-gtk"
+  },
+  {
+    "icon": "transmission-qt.png",
+    "name": "transmission-qt",
+    "description": "Unofficial, Fast, easy, and free BitTorrent client, Qt GUI.",
+    "app_page": "apps/transmission-qt.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/transmission-qt",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/transmission-qt"
+  },
+  {
+    "icon": "trgui-ng.png",
+    "name": "trgui-ng",
+    "description": "Remote GUI for Transmission torrent daemon.",
+    "app_page": "apps/trgui-ng.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trgui-ng",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trgui-ng"
+  },
+  {
+    "icon": "tutanota.png",
+    "name": "tutanota",
+    "description": "Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.",
+    "app_page": "apps/tutanota.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tutanota",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tutanota"
+  },
+  {
+    "icon": "tutanota-enhanced.png",
+    "name": "tutanota-enhanced",
+    "description": "Unofficial AppImage for Tutanota, an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.",
+    "app_page": "apps/tutanota-enhanced.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tutanota-enhanced",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tutanota-enhanced"
+  },
+  {
+    "icon": "ungoogled-chromium.png",
+    "name": "ungoogled-chromium",
+    "description": "Chromium Web Browser without Google services.",
+    "app_page": "apps/ungoogled-chromium.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ungoogled-chromium",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ungoogled-chromium"
+  },
+  {
+    "icon": "varia.png",
+    "name": "varia",
+    "description": "Unofficial. Aria2-based advanced download manager with support for downloading files, torrents, video and audio + support for Chromium and Firefox extension.",
+    "app_page": "apps/varia.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/varia",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/varia"
+  },
+  {
+    "icon": "viper-browser.png",
+    "name": "viper-browser",
+    "description": "Fast and lightweight Qt web browser.",
+    "app_page": "apps/viper-browser.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viper-browser",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viper-browser"
+  },
+  {
+    "icon": "vivaldi-snapshot.png",
+    "name": "vivaldi-snapshot",
+    "description": "Unofficial. Advanced Web Browser, Testing Version.",
+    "app_page": "apps/vivaldi-snapshot.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vivaldi-snapshot",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vivaldi-snapshot"
+  },
+  {
+    "icon": "vivaldi-stable.png",
+    "name": "vivaldi-stable",
+    "description": "Unofficial. Advanced Web Browser, Stable Version.",
+    "app_page": "apps/vivaldi-stable.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vivaldi-stable",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vivaldi-stable"
+  },
+  {
+    "icon": "vrcx.png",
+    "name": "vrcx",
+    "description": "Friendship management tool for VRChat.",
+    "app_page": "apps/vrcx.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vrcx",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vrcx"
+  },
+  {
+    "icon": "walc.png",
+    "name": "walc",
+    "description": "WhatsApp Linux Client, Unofficial.",
+    "app_page": "apps/walc.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/walc",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/walc"
+  },
+  {
+    "icon": "warp.png",
+    "name": "warp",
+    "description": "Unofficial. Fast and secure file transfer through internet or local network exchanging a word-based code.",
+    "app_page": "apps/warp.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/warp",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/warp"
+  },
+  {
+    "icon": "wasistlos.png",
+    "name": "wasistlos",
+    "description": "Unofficial, WhatsApp Linux Client, formerly known as \"whatsapp-for-linux\".",
+    "app_page": "apps/wasistlos.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wasistlos",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wasistlos"
+  },
+  {
+    "icon": "waterfox.png",
+    "name": "waterfox",
+    "description": "A privacy-focused web browser engineered to give you speed, control, and peace of mind on the internet.",
+    "app_page": "apps/waterfox.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/waterfox",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/waterfox"
+  },
+  {
+    "icon": "wewechat.png",
+    "name": "wewechat",
+    "description": "Unofficial WeChat client built with React, MobX and Electron.",
+    "app_page": "apps/wewechat.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wewechat",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wewechat"
+  },
+  {
+    "icon": "wexond.png",
+    "name": "wexond",
+    "description": "Extensible, fast and innovative web browser with material UI.",
+    "app_page": "apps/wexond.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wexond",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wexond"
+  },
+  {
+    "icon": "whalebird.png",
+    "name": "whalebird",
+    "description": "An Electron based Mastodon client.",
+    "app_page": "apps/whalebird.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whalebird",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whalebird"
+  },
+  {
+    "icon": "whatsdesk.png",
+    "name": "whatsdesk",
+    "description": "Unofficial, An unofficial client of WhatsApp.",
+    "app_page": "apps/whatsdesk.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whatsdesk",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whatsdesk"
+  },
+  {
+    "icon": "whatsie.png",
+    "name": "whatsie",
+    "description": "Unofficial, feature rich WhatsApp web client based on Qt WebEngine.",
+    "app_page": "apps/whatsie.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whatsie",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whatsie"
+  },
+  {
+    "icon": "whatstron.png",
+    "name": "whatstron",
+    "description": "Unofficial WhatsApp desktop client for Linux.",
+    "app_page": "apps/whatstron.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whatstron",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whatstron"
+  },
+  {
+    "icon": "wyrmhole.png",
+    "name": "wyrmhole",
+    "description": "A cross-platform GUI wrapper for the p2p magic-wormhole.rs library.",
+    "app_page": "apps/wyrmhole.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wyrmhole",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wyrmhole"
+  },
+  {
+    "icon": "xchat.png",
+    "name": "xchat",
+    "description": "Chat with other people using Internet Relay Chat.",
+    "app_page": "apps/xchat.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xchat",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xchat"
+  },
+  {
+    "icon": "xgetter.png",
+    "name": "xgetter",
+    "description": "Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Bilibili, Douyin and more.",
+    "app_page": "apps/xgetter.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xgetter",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xgetter"
+  },
+  {
+    "icon": "xtuber.png",
+    "name": "xtuber",
+    "description": "Simple YouTube Downloader.",
+    "app_page": "apps/xtuber.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xtuber",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xtuber"
+  },
+  {
+    "icon": "yangdownloader.png",
+    "name": "yangdownloader",
+    "description": "Downloads best-quality audio and video from YouTube.",
+    "app_page": "apps/yangdownloader.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yangdownloader",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yangdownloader"
+  },
+  {
+    "icon": "ym-desktop.png",
+    "name": "ym-desktop",
+    "description": "The YouTube music desktop app.",
+    "app_page": "apps/ym-desktop.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ym-desktop",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ym-desktop"
+  },
+  {
+    "icon": "youtube-download.png",
+    "name": "youtube-download",
+    "description": "GUI and CLI for downloading YouTube video/audio.",
+    "app_page": "apps/youtube-download.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtube-download",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtube-download"
+  },
+  {
+    "icon": "youtube-downloader.png",
+    "name": "youtube-downloader",
+    "description": "Download video/audio from youtube (and instagram) videos.",
+    "app_page": "apps/youtube-downloader.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtube-downloader",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtube-downloader"
+  },
+  {
+    "icon": "youtube-music.png",
+    "name": "youtube-music",
+    "description": "Unofficial. Amazing electron wrapper for YouTube Music featuring plugins.",
+    "app_page": "apps/youtube-music.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtube-music",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtube-music"
+  },
+  {
+    "icon": "youtube-tui.png",
+    "name": "youtube-tui",
+    "description": "An aesthetically pleasing YouTube TUI CLI written in Rust.",
+    "app_page": "apps/youtube-tui.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtube-tui",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtube-tui"
+  },
+  {
+    "icon": "youtubeanddownloader.png",
+    "name": "youtubeanddownloader",
+    "description": "An app to use youtube and download videos as mp3s or mp4s.",
+    "app_page": "apps/youtubeanddownloader.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtubeanddownloader",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtubeanddownloader"
+  },
+  {
+    "icon": "youtubesearchfilter.png",
+    "name": "youtubesearchfilter",
+    "description": "YouTube searches with/without a pre-filter from CLI.",
+    "app_page": "apps/youtubesearchfilter.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtubesearchfilter",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtubesearchfilter"
+  },
+  {
+    "icon": "yt-dlandcut.png",
+    "name": "yt-dlandcut",
+    "description": "Download and cut Youtube videos by providing url and time range.",
+    "app_page": "apps/yt-dlandcut.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yt-dlandcut",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yt-dlandcut"
+  },
+  {
+    "icon": "yt-dlg.png",
+    "name": "yt-dlg",
+    "description": "A front-end GUI of the popular youtube-dl written in wxPython.",
+    "app_page": "apps/yt-dlg.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yt-dlg",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yt-dlg"
+  },
+  {
+    "icon": "ytarchive.png",
+    "name": "ytarchive",
+    "description": "Garbage Youtube livestream downloader CLI.",
+    "app_page": "apps/ytarchive.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ytarchive",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ytarchive"
+  },
+  {
+    "icon": "ytermusic.png",
+    "name": "ytermusic",
+    "description": "An in terminal youtube music client with focus on privacy, simplicity and performance.",
+    "app_page": "apps/ytermusic.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ytermusic",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ytermusic"
+  },
+  {
+    "icon": "ytmdesktop.png",
+    "name": "ytmdesktop",
+    "description": "A Desktop App for YouTube Music.",
+    "app_page": "apps/ytmdesktop.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ytmdesktop",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ytmdesktop"
+  },
+  {
+    "icon": "ytmdesktop2.png",
+    "name": "ytmdesktop2",
+    "description": "Unofficial Youtube Music Desktop App, with LastFM support.",
+    "app_page": "apps/ytmdesktop2.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ytmdesktop2",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ytmdesktop2"
+  },
+  {
+    "icon": "yts-streaming.png",
+    "name": "yts-streaming",
+    "description": "Stream or play yts and torrent movies.",
+    "app_page": "apps/yts-streaming.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yts-streaming",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yts-streaming"
+  },
+  {
+    "icon": "ytsage.png",
+    "name": "ytsage",
+    "description": "Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponsorBlock, and view video metadata. Built with yt-dlp for reliable performance.",
+    "app_page": "apps/ytsage.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ytsage",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ytsage"
+  },
+  {
+    "icon": "zapzap.png",
+    "name": "zapzap",
+    "description": "WhatsApp desktop application written in Pyqt6 + PyQt6-WebEngine.",
+    "app_page": "apps/zapzap.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zapzap",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zapzap"
+  },
+  {
+    "icon": "zapzap-enhanced.png",
+    "name": "zapzap-enhanced",
+    "description": "Unofficial AppImage of ZapZap WhatsApp client.",
+    "app_page": "apps/zapzap-enhanced.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zapzap-enhanced",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zapzap-enhanced"
+  }
+]

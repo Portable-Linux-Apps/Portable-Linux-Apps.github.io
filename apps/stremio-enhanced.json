@@ -1,0 +1,8 @@
+{
+  "name": "stremio-enhanced",
+  "description": "Electron-based Stremio client with support for plugins and themes. This is a community project and is not affiliated with Stremio in any way.",
+  "sites": [
+    "https://github.com/REVENGE977/stremio-enhanced"
+  ],
+  "sources": []
+}

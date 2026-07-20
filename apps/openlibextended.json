@@ -1,0 +1,8 @@
+{
+  "name": "openlibextended",
+  "description": "An Open source app to download and read books from shadow library (Anna’s Archive).",
+  "sites": [
+    "https://github.com/warreth/OpenlibExtended"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "silex-desktop",
+  "description": "This is the official Silex desktop version.",
+  "sites": [
+    "https://github.com/silexlabs/silex-desktop"
+  ],
+  "sources": []
+}

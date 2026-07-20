@@ -1,0 +1,8 @@
+{
+  "name": "mycrypto",
+  "description": "MyCrypto web and electron app",
+  "sites": [
+    "https://github.com/MyCryptoHQ/MyCrypto"
+  ],
+  "sources": []
+}

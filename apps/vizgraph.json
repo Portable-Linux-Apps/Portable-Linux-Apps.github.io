@@ -1,0 +1,8 @@
+{
+  "name": "vizgraph",
+  "description": "A simple tool for Using Graphviz.",
+  "sites": [
+    "https://github.com/jcf94/vizgraph"
+  ],
+  "sources": []
+}

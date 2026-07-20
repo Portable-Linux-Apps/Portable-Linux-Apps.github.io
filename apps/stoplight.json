@@ -1,0 +1,8 @@
+{
+  "name": "stoplight",
+  "description": "The kickass API platform.",
+  "sites": [
+    "https://github.com/stoplightio/desktop"
+  ],
+  "sources": []
+}

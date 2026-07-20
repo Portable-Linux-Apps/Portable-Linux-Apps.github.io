@@ -1,0 +1,8 @@
+{
+  "name": "pop",
+  "description": "Send emails from your terminal 📬",
+  "sites": [
+    "https://github.com/charmbracelet/pop"
+  ],
+  "sources": []
+}

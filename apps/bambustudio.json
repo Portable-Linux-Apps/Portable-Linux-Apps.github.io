@@ -1,0 +1,8 @@
+{
+  "name": "bambustudio",
+  "description": "PC Software for BambuLab's 3D printers",
+  "sites": [
+    "https://github.com/bambulab/BambuStudio"
+  ],
+  "sources": []
+}

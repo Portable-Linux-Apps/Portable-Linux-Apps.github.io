@@ -1,0 +1,8 @@
+{
+  "name": "qt-dab",
+  "description": "Software for listening to terrestrial Digital Audio Broadcasting",
+  "sites": [
+    "https://github.com/JvanKatwijk/qt-dab"
+  ],
+  "sources": []
+}

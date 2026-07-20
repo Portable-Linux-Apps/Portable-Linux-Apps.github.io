@@ -1,0 +1,8 @@
+{
+  "name": "helioslauncher",
+  "description": "Custom launcher for modded minecraft written in Electron and Node.js",
+  "sites": [
+    "https://github.com/dscalzi/HeliosLauncher"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "dunst",
+  "description": "Unofficial AppImage of dunst, lightweight and customizable notification daemon.",
+  "sites": [
+    "https://github.com/Samueru-sama/dunst-AppImage"
+  ],
+  "sources": []
+}

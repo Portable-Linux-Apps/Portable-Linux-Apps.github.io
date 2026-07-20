@@ -1,0 +1,8 @@
+{
+  "name": "servo",
+  "description": "Unofficial AppImage builds of the Servo web browser engine.",
+  "sites": [
+    "https://github.com/pkgforge-dev/servo-AppImage"
+  ],
+  "sources": []
+}

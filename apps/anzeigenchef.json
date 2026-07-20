@@ -1,0 +1,8 @@
+{
+  "name": "anzeigenchef",
+  "description": "AdsChef manages your classified ads",
+  "sites": [
+    "https://anzeigenchef.roundcubes.de"
+  ],
+  "sources": []
+}

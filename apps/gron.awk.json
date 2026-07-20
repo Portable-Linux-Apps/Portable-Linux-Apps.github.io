@@ -1,0 +1,8 @@
+{
+  "name": "gron.awk",
+  "description": "True JSON parser in pure Awk. Fast with Gawk/Mawk/GoAWK.",
+  "sites": [
+    "https://github.com/xonixx/gron.awk"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "sciqlop",
+  "description": "SciQLop is an ergonomic and efficient application to browse and label in situ plasma measurements from multi-mission satellite data.",
+  "sites": [
+    "https://github.com/SciQLop/SciQLop"
+  ],
+  "sources": []
+}

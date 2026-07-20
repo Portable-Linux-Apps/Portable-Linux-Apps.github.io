@@ -1,0 +1,8 @@
+{
+  "name": "ark.desktop.wallet",
+  "description": "Ark Ecosystem Desktop Wallet",
+  "sites": [
+    "https://github.com/ArkEcosystem/desktop-wallet"
+  ],
+  "sources": []
+}

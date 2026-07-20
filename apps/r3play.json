@@ -1,0 +1,8 @@
+{
+  "name": "r3play",
+  "description": "High-value third-party Netease cloud player (chinese).\n \n 高颜值的第三方网易云播放器，支持 Windows/macOS/Linux.原名YesPlayMusic.",
+  "sites": [
+    "https://music.qier222.com/"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "dbeaver-ce",
+  "description": "DBeaver Community is a free cross-platform database tool for developers, database administrators, analysts, and everyone working with data. It supports all popular SQL databases like MySQL, MariaDB, PostgreSQL, SQLite, Apache Family, and more.\n \n This is the Unofficial AppImage.",
+  "sites": [
+    "https://github.com/valicm/dbeaver-ce-appimage"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "spacewars",
+  "description": "A re-imagining of the classic game Spacewar! in Rust using the Amethyst game engine.",
+  "sites": [
+    "https://github.com/spotzero/spacewars"
+  ],
+  "sources": []
+}

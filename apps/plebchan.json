@@ -1,0 +1,8 @@
+{
+  "name": "plebchan",
+  "description": "A GUI for plebbit similar to 4chan.",
+  "sites": [
+    "https://github.com/plebbit/5chan"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "vcmi",
+  "description": "Unofficial AppImage of vcmi open-source engine for Heroes of Might and Magic III",
+  "sites": [
+    "https://github.com/pkgforge-dev/vcmi-AppImage"
+  ],
+  "sources": []
+}

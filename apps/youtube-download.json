@@ -1,0 +1,8 @@
+{
+  "name": "youtube-download",
+  "description": "GUI and CLI for downloading YouTube video/audio.",
+  "sites": [
+    "https://github.com/YouTubeDownload/YouTubeDownload"
+  ],
+  "sources": []
+}

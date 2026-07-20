@@ -1,0 +1,8 @@
+{
+  "name": "pokemmo",
+  "description": "Unofficial, MMO based on the Pokémon Universe.",
+  "sites": [
+    "https://github.com/pkgforge-dev/PokeMMO-AppImage"
+  ],
+  "sources": []
+}

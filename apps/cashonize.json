@@ -1,0 +1,8 @@
+{
+  "name": "cashonize",
+  "description": "Cashonize: A cross-platform Bitcoin Cash Wallet.",
+  "sites": [
+    "https://github.com/cashonize/cashonize-wallet"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "librewolf",
+  "description": "LibreWolf Web Browser is a fork of Firefox, focused on privacy, security and freedom.",
+  "sites": [
+    "https://librewolf.net"
+  ],
+  "sources": []
+}

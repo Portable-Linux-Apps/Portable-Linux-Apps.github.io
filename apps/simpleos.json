@@ -1,0 +1,8 @@
+{
+  "name": "simpleos",
+  "description": "EOS Blockchain Interface & Wallet",
+  "sites": [
+    "https://github.com/eosrio/simpleos"
+  ],
+  "sources": []
+}

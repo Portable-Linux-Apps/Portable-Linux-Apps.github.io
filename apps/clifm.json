@@ -1,0 +1,8 @@
+{
+  "name": "clifm",
+  "description": "The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.",
+  "sites": [
+    "https://github.com/leo-arch/clifm"
+  ],
+  "sources": []
+}

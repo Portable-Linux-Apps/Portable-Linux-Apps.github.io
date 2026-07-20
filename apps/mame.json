@@ -1,0 +1,8 @@
+{
+  "name": "mame",
+  "description": "Unofficial AppImage of MAME emulator.",
+  "sites": [
+    "https://github.com/pkgforge-dev/MAME-AppImage"
+  ],
+  "sources": []
+}

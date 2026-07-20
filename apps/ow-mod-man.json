@@ -1,0 +1,8 @@
+{
+  "name": "ow-mod-man",
+  "description": "The mod manager for the Outer Wilds Mod Loader",
+  "sites": [
+    "https://github.com/ow-mods/ow-mod-man"
+  ],
+  "sources": []
+}

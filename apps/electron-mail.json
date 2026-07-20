@@ -1,0 +1,8 @@
+{
+  "name": "electron-mail",
+  "description": "Unofficial ProtonMail Desktop App.",
+  "sites": [
+    "https://github.com/vladimiry/ElectronMail"
+  ],
+  "sources": []
+}

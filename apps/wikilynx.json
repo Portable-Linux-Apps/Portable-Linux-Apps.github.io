@@ -1,0 +1,8 @@
+{
+  "name": "wikilynx",
+  "description": "A simple game browser made using Qt C++ for playing wikipedia speed-runs the right way",
+  "sites": [
+    "https://github.com/flamboyantpenguin/wikilynx"
+  ],
+  "sources": []
+}

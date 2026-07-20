@@ -1,0 +1,8 @@
+{
+  "name": "xelfviewer",
+  "description": "ELF file viewer/editor for Windows, Linux and MacOS.",
+  "sites": [
+    "https://github.com/horsicq/XELFViewer"
+  ],
+  "sources": []
+}

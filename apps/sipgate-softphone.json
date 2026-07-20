@@ -1,0 +1,8 @@
+{
+  "name": "sipgate-softphone",
+  "description": "The sipgate softphone is developed directly by sipgate.",
+  "sites": [
+    "https://www.sipgate.de/funktionen/softphone"
+  ],
+  "sources": []
+}

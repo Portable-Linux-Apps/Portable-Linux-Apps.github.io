@@ -1,0 +1,8 @@
+{
+  "name": "gh",
+  "description": "GitHub’s official command line tool",
+  "sites": [
+    "https://github.com/cli/cli"
+  ],
+  "sources": []
+}

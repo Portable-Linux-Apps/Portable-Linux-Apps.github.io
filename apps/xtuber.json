@@ -1,0 +1,8 @@
+{
+  "name": "xtuber",
+  "description": "Simple YouTube Downloader. Native apps for Windows, MacOS, Linux",
+  "sites": [
+    "https://github.com/chientrm/xtuber"
+  ],
+  "sources": []
+}

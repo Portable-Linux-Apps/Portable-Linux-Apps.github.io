@@ -1,0 +1,8 @@
+{
+  "name": "mqtt-explorer",
+  "description": "Explore your message queues",
+  "sites": [
+    "https://github.com/thomasnordquist/MQTT-Explorer"
+  ],
+  "sources": []
+}

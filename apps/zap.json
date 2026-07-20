@@ -1,0 +1,10 @@
+{
+  "name": "zap",
+  "description": "\"ZAP\" is one of the most popular and delightful AppImage package managers. All AppImages from the AppImage Catalog and AppImage Catalog v2 can be  installed using zap with their registered name.",
+  "sites": [
+    "https://zap.srev.in"
+  ],
+  "sources": [
+    "https://github.com/srevinsaju/zap"
+  ]
+}

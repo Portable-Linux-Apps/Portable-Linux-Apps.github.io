@@ -1,0 +1,8 @@
+{
+  "name": "drally",
+  "description": "Unofficial, a port of Death Rally (1996).",
+  "sites": [
+    "https://github.com/pkgforge-dev/dRally-AppImage"
+  ],
+  "sources": []
+}

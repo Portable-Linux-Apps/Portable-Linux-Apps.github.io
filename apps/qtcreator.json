@@ -1,0 +1,8 @@
+{
+  "name": "qtcreator",
+  "description": "Unofficial, lightweight, cross-platform integrated development environment.",
+  "sites": [
+    "https://github.com/pkgforge-dev/QtCreator-AppImage"
+  ],
+  "sources": []
+}

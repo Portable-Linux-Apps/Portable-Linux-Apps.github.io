@@ -1,0 +1,8 @@
+{
+  "name": "syncthing",
+  "description": "Open Source Continuous File Synchronization.",
+  "sites": [
+    "https://github.com/syncthing/syncthing"
+  ],
+  "sources": []
+}

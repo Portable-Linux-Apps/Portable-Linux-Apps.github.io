@@ -1,0 +1,8 @@
+{
+  "name": "aim",
+  "description": "🎯 A command line download/upload tool with resume.",
+  "sites": [
+    "https://github.com/mihaigalos/aim"
+  ],
+  "sources": []
+}

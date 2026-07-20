@@ -1,0 +1,10 @@
+{
+  "name": "reqable",
+  "description": "Advanced API Debugging Proxy and REST Client.",
+  "sites": [
+    "https://reqable.com"
+  ],
+  "sources": [
+    "https://github.com/reqable/reqable-app"
+  ]
+}

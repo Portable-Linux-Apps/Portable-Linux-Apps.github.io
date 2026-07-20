@@ -1,0 +1,8 @@
+{
+  "name": "retroshare",
+  "description": "Securely share files with your friends",
+  "sites": [
+    "https://github.com/RetroShare/RetroShare"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "dua",
+  "description": "View disk space usage and delete unwanted data, fast.",
+  "sites": [
+    "https://github.com/Byron/dua-cli"
+  ],
+  "sources": []
+}

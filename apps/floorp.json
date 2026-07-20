@@ -1,0 +1,8 @@
+{
+  "name": "floorp",
+  "description": "The source code of version 10 or later of Floorp Browser, the most  Advanced and Fastest Firefox derivative 🦊\n\n This is the portable official version converted to an AppImage by our team, \"Portable Linux Apps\" , no additional changes have been made.",
+  "sites": [
+    "https://github.com/Floorp-Projects/Floorp"
+  ],
+  "sources": []
+}

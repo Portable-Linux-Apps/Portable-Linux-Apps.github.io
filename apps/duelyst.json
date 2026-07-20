@@ -1,0 +1,8 @@
+{
+  "name": "duelyst",
+  "description": "Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.",
+  "sites": [
+    "https://github.com/open-duelyst/duelyst"
+  ],
+  "sources": []
+}

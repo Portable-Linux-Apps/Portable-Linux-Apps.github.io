@@ -1,0 +1,8 @@
+{
+  "name": "kiibohd-configurator",
+  "description": "Configuration utility for Input Club keyboards",
+  "sites": [
+    "https://github.com/kiibohd/configurator"
+  ],
+  "sources": []
+}

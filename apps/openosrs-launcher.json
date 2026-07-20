@@ -1,0 +1,8 @@
+{
+  "name": "openosrs-launcher",
+  "description": "Open-source client for Old School RuneScape with more functionality  and less restrictions. AppImage Launcher.",
+  "sites": [
+    "https://github.com/open-osrs/launcher"
+  ],
+  "sources": []
+}

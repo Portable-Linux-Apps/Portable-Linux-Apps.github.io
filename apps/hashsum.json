@@ -1,0 +1,8 @@
+{
+  "name": "hashsum",
+  "description": "A universal tool for finding file duplicates and modified files.",
+  "sites": [
+    "https://gitlab.com/posktomten/hashsum"
+  ],
+  "sources": []
+}

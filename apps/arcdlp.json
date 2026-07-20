@@ -1,0 +1,8 @@
+{
+  "name": "arcdlp",
+  "description": "Open-source desktop video downloader powered by yt-dlp and electron. Download videos and audio from YouTube, Vimeo, Twitter, and thousands of sites.",
+  "sites": [
+    "https://github.com/archisvaze/arcdlp"
+  ],
+  "sources": []
+}

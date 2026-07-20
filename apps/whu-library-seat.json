@@ -1,0 +1,8 @@
+{
+  "name": "whu-library-seat",
+  "description": "Wuhan University Library Assistant - Desktop (for Jinan University, etc.) 武汉大学图书馆抢座软件",
+  "sites": [
+    "https://github.com/CS-Tao/whu-library-seat"
+  ],
+  "sources": []
+}

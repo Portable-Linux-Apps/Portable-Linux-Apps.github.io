@@ -1,0 +1,8 @@
+{
+  "name": "woof-doom",
+  "description": "Woof! is a continuation of the Boom/MBF bloodline of Doom source ports.",
+  "sites": [
+    "https://github.com/fabiangreffrath/woof"
+  ],
+  "sources": []
+}

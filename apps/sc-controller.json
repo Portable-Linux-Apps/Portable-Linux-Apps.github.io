@@ -1,0 +1,8 @@
+{
+  "name": "sc-controller",
+  "description": "User-mode driver and GTK3 based GUI for Steam Controller",
+  "sites": [
+    "https://github.com/kozec/sc-controller"
+  ],
+  "sources": []
+}

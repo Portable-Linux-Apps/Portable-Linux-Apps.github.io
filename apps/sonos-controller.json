@@ -1,0 +1,8 @@
+{
+  "name": "sonos-controller",
+  "description": "An Electron based linux app for controlling your sonos system.",
+  "sites": [
+    "https://github.com/pascalopitz/unoffical-sonos-controller-for-linux"
+  ],
+  "sources": []
+}

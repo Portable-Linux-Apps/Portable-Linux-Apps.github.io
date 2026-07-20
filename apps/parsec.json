@@ -1,0 +1,8 @@
+{
+  "name": "parsec",
+  "description": "Open source Dropbox-like file sharing with full client encryption!",
+  "sites": [
+    "https://github.com/Scille/parsec-cloud"
+  ],
+  "sources": []
+}

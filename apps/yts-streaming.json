@@ -1,0 +1,8 @@
+{
+  "name": "yts-streaming",
+  "description": "An electronJS based desktop app to stream or play yts and torrent  movies in desktop without downloading.",
+  "sites": [
+    "https://github.com/iambpn/YTS-Streaming"
+  ],
+  "sources": []
+}

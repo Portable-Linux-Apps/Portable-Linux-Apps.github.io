@@ -1,0 +1,8 @@
+{
+  "name": "identity",
+  "description": "Unofficial. Compare images and videos with one another to check for differences.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Identity-AppImage"
+  ],
+  "sources": []
+}

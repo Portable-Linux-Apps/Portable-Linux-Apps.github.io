@@ -1,0 +1,8 @@
+{
+  "name": "kando",
+  "description": "Kando is a cross-platform pie menu for your desktop.\n \n It offers an unconventional, fast, highly efficient, and fun way of  interacting with your computer! You can use Kando to launch applications,  simulate keyboard shortcuts, open files, and much more.\n \n Kando is designed to be used with mouse, stylus, or touch input.\n \n If you have both hands at your keyboard most of the time, Kando is maybe  not the right tool for you.\n \n <img src=\"https://raw.githubusercontent.com/kando-menu/kando/main/docs/img/kando.gif\" alt=\"GIF\">",
+  "sites": [
+    "https://github.com/kando-menu/kando"
+  ],
+  "sources": []
+}

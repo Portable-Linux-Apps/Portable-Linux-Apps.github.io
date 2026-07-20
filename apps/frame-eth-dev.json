@@ -1,0 +1,8 @@
+{
+  "name": "frame-eth-dev",
+  "description": "A privacy focused Ethereum wallet",
+  "sites": [
+    "https://frame.sh/"
+  ],
+  "sources": []
+}

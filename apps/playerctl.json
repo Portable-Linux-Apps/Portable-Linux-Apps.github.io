@@ -1,0 +1,8 @@
+{
+  "name": "playerctl",
+  "description": "MPRIS media player command-line controller, unofficial AppImage.",
+  "sites": [
+    "https://github.com/Samueru-sama/playerctl-AppImage"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "wipeout-rewrite",
+  "description": "Re-implementation of the 1995 PSX game wipEout.",
+  "sites": [
+    "https://github.com/pkgforge-dev/wipEout-Rewrite-AppImage"
+  ],
+  "sources": []
+}

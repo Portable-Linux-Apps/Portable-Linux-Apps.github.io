@@ -1,0 +1,8 @@
+{
+  "name": "exifcleaner",
+  "description": "Cross-platform desktop GUI app to clean image metadata",
+  "sites": [
+    "https://github.com/szTheory/exifcleaner"
+  ],
+  "sources": []
+}

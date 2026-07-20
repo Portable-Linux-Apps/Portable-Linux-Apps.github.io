@@ -1,0 +1,8 @@
+{
+  "name": "parabolic",
+  "description": "Unofficial, Download web video and audio.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Parabolic-AppImage"
+  ],
+  "sources": []
+}

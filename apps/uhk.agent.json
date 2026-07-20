@@ -1,0 +1,8 @@
+{
+  "name": "uhk.agent",
+  "description": "Agent is the configuration application of the Ultimate Hacking Keyboard.",
+  "sites": [
+    "https://github.com/UltimateHackingKeyboard/agent"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "5ire",
+  "description": "5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers.",
+  "sites": [
+    "https://github.com/nanbingxyz/5ire"
+  ],
+  "sources": []
+}

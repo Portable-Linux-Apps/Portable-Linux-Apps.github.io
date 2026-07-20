@@ -1,0 +1,8 @@
+{
+  "name": "nmeasimulator",
+  "description": "NMEA sentence generator utility that can broadcast via TCP, Web Socket",
+  "sites": [
+    "https://github.com/panaaj/nmeasimulator"
+  ],
+  "sources": []
+}

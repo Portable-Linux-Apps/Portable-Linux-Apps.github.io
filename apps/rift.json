@@ -1,0 +1,8 @@
+{
+  "name": "rift",
+  "description": "All your EVE Online intel in one place.",
+  "sites": [
+    "https://riftforeve.online"
+  ],
+  "sources": []
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sabaki",
+  "description": "Sabaki is a modern, elegant, cross-platform Go/Baduk/Weiqi board and SGF editor for a more civilized age.",
+  "sites": [
+    "https://sabaki.yichuanshen.de"
+  ],
+  "sources": [
+    "https://github.com/SabakiHQ/Sabaki"
+  ]
+}

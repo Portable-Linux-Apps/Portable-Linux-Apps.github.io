@@ -1,0 +1,8 @@
+{
+  "name": "downline",
+  "description": "A cross-platform video and audio downloader for YouTube, Vimeo, Dailymotion...",
+  "sites": [
+    "https://github.com/stefnotch/downline"
+  ],
+  "sources": []
+}

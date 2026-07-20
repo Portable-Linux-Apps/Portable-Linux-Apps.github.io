@@ -1,0 +1,8 @@
+{
+  "name": "sdlpal",
+  "description": "SDL-based reimplementation of the classic Chinese-language RPG known as PAL.",
+  "sites": [
+    "https://github.com/sdlpal/sdlpal"
+  ],
+  "sources": []
+}

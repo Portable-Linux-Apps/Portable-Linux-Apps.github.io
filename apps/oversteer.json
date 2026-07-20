@@ -1,0 +1,8 @@
+{
+  "name": "oversteer",
+  "description": "Unofficial, Steering Wheel Manager for Linux.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Oversteer-AppImage"
+  ],
+  "sources": []
+}

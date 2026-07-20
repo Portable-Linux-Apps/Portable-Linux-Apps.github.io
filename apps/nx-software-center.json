@@ -1,0 +1,8 @@
+{
+  "name": "nx-software-center",
+  "description": "NX Software Center. A GUI to install and manage AppImages.\n\n From Nitrux OS.",
+  "sites": [
+    "https://github.com/Nitrux/nx-software-center"
+  ],
+  "sources": []
+}

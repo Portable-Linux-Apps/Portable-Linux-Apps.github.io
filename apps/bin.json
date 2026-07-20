@@ -1,0 +1,8 @@
+{
+  "name": "bin",
+  "description": "Effortless binary manager",
+  "sites": [
+    "https://github.com/marcosnils/bin"
+  ],
+  "sources": []
+}

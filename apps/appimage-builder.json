@@ -1,0 +1,8 @@
+{
+  "name": "appimage-builder",
+  "description": "GNU/Linux packaging solution using the AppImage format",
+  "sites": [
+    "https://github.com/AppImageCrafters/appimage-builder"
+  ],
+  "sources": []
+}

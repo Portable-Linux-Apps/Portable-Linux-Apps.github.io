@@ -1,0 +1,8 @@
+{
+  "name": "rclone-browser",
+  "description": "Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.",
+  "sites": [
+    "https://github.com/kapitainsky/RcloneBrowser"
+  ],
+  "sources": []
+}

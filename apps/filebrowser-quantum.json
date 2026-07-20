@@ -1,0 +1,8 @@
+{
+  "name": "filebrowser-quantum",
+  "description": "Web File Browser.",
+  "sites": [
+    "https://github.com/gtsteffaniak/filebrowser"
+  ],
+  "sources": []
+}

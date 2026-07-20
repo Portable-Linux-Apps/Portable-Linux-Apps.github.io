@@ -1,0 +1,8 @@
+{
+  "name": "keepassxc",
+  "description": "KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.",
+  "sites": [
+    "https://github.com/keepassxreboot/keepassxc"
+  ],
+  "sources": []
+}

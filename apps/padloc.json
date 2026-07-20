@@ -1,0 +1,8 @@
+{
+  "name": "padloc",
+  "description": "Electron Wrapper for Padloc app",
+  "sites": [
+    "https://github.com/padloc/padloc"
+  ],
+  "sources": []
+}

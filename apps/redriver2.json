@@ -1,0 +1,8 @@
+{
+  "name": "redriver2",
+  "description": "Unofficial, Driver 2 Playstation game reverse engineering effort.",
+  "sites": [
+    "https://github.com/pkgforge-dev/REDRIVER2-AppImage"
+  ],
+  "sources": []
+}

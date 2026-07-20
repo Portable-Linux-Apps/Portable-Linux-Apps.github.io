@@ -1,0 +1,8 @@
+{
+  "name": "easytag",
+  "description": "Unofficial AppImage of EasyTAG tag editor.",
+  "sites": [
+    "https://github.com/pkgforge-dev/EasyTAG-AppImage"
+  ],
+  "sources": []
+}

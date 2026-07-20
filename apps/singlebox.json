@@ -1,0 +1,8 @@
+{
+  "name": "singlebox",
+  "description": "AppView template for WebCatalog",
+  "sites": [
+    "https://singlebox.app"
+  ],
+  "sources": []
+}

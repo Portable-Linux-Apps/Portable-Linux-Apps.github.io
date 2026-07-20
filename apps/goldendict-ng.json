@@ -1,0 +1,8 @@
+{
+  "name": "goldendict-ng",
+  "description": "Unofficial, an advanced dictionary lookup program, supporting many formats.",
+  "sites": [
+    "https://github.com/pkgforge-dev/GoldenDict-ng-AppImage"
+  ],
+  "sources": []
+}

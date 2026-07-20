@@ -1,0 +1,8 @@
+{
+  "name": "zoxide",
+  "description": "A smarter cd command. Supports all major shells.",
+  "sites": [
+    "https://github.com/ajeetdsouza/zoxide"
+  ],
+  "sources": []
+}

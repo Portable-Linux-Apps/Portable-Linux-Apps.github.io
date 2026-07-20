@@ -1,0 +1,8 @@
+{
+  "name": "mangoverlay",
+  "description": "mangohud configuration tool",
+  "sites": [
+    "https://github.com/loissascha/MangOverlay"
+  ],
+  "sources": []
+}

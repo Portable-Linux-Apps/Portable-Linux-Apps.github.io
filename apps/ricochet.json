@@ -1,0 +1,8 @@
+{
+  "name": "ricochet",
+  "description": "Anonymous peer-to-peer instant messaging",
+  "sites": [
+    "https://github.com/blueprint-freespeech/ricochet-refresh"
+  ],
+  "sources": []
+}

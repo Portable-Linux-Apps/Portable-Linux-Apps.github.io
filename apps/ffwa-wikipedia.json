@@ -1,0 +1,8 @@
+{
+  "name": "ffwa-wikipedia",
+  "description": "WebApp & Firefox Profile for Wikipedia.",
+  "sites": [
+    "https://www.wikipedia.org"
+  ],
+  "sources": []
+}

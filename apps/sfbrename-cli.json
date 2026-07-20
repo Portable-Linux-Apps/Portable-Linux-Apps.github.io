@@ -1,0 +1,8 @@
+{
+  "name": "sfbrename-cli",
+  "description": "Bulk file renamer.",
+  "sites": [
+    "https://github.com/karwler/sfbrename"
+  ],
+  "sources": []
+}

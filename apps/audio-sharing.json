@@ -1,0 +1,8 @@
+{
+  "name": "audio-sharing",
+  "description": "Unofficial. Share audio from the desktop on local network using RTSP protocol.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Audio-Sharing-AppImage"
+  ],
+  "sources": []
+}

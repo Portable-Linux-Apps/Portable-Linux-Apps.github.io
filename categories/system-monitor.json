@@ -1,0 +1,90 @@
+[
+  {
+    "icon": "bottom.png",
+    "name": "bottom",
+    "description": "Yet another cross-platform graphical process/system monitor.",
+    "app_page": "apps/bottom.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bottom",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bottom"
+  },
+  {
+    "icon": "btop.png",
+    "name": "btop",
+    "description": "A command line utility to monitor system resources, like Htop.",
+    "app_page": "apps/btop.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/btop",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/btop"
+  },
+  {
+    "icon": "conky.png",
+    "name": "conky",
+    "description": "Light-weight system monitor for X.",
+    "app_page": "apps/conky.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/conky",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/conky"
+  },
+  {
+    "icon": "corestats.png",
+    "name": "corestats",
+    "description": "A system resource viewer from the CoreApps family.",
+    "app_page": "apps/corestats.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/corestats",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/corestats"
+  },
+  {
+    "icon": "coretime.png",
+    "name": "coretime",
+    "description": "A time related task manager for CuboCore Application Suite.",
+    "app_page": "apps/coretime.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/coretime",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/coretime"
+  },
+  {
+    "icon": "gnome-system-monitor.png",
+    "name": "gnome-system-monitor",
+    "description": "Unofficial. View current processes and monitor system state.",
+    "app_page": "apps/gnome-system-monitor.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-system-monitor",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-system-monitor"
+  },
+  {
+    "icon": "htop.png",
+    "name": "htop",
+    "description": "Unofficial, CLI utility to monitor system resources.",
+    "app_page": "apps/htop.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/htop",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/htop"
+  },
+  {
+    "icon": "lxtask.png",
+    "name": "lxtask",
+    "description": "Unofficial. A lightweight and desktop-independent task manager.",
+    "app_page": "apps/lxtask.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lxtask",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lxtask"
+  },
+  {
+    "icon": "mate-system-monitor.png",
+    "name": "mate-system-monitor",
+    "description": "Unofficial, Process viewer and system resource monitor, from MATE.",
+    "app_page": "apps/mate-system-monitor.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mate-system-monitor",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mate-system-monitor"
+  },
+  {
+    "icon": "system-monitoring-center.png",
+    "name": "system-monitoring-center",
+    "description": "Unofficial. Multi-featured system monitor.",
+    "app_page": "apps/system-monitoring-center.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/system-monitoring-center",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/system-monitoring-center"
+  },
+  {
+    "icon": "taskell.png",
+    "name": "taskell",
+    "description": "Command-line Kanban board/task manager with support for Trello boards and GitHub projects.",
+    "app_page": "apps/taskell.md",
+    "installer_blob": "https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskell",
+    "installer_raw": "https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskell"
+  }
+]

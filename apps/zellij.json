@@ -1,0 +1,8 @@
+{
+  "name": "zellij",
+  "description": "A terminal workspace with batteries included.",
+  "sites": [
+    "https://github.com/zellij-org/zellij"
+  ],
+  "sources": []
+}

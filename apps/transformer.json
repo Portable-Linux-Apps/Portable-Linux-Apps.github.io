@@ -1,0 +1,8 @@
+{
+  "name": "transformer",
+  "description": "A command-line utility for splitting large files into chunks/pieces and merging them back together.",
+  "sites": [
+    "https://gitlab.com/ForTheCommunity/Transformer"
+  ],
+  "sources": []
+}

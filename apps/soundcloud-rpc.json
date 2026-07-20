@@ -1,0 +1,8 @@
+{
+  "name": "soundcloud-rpc",
+  "description": "A SoundCloud client with Discord Rich Presence, Dark Mode, and AdBlock support.",
+  "sites": [
+    "https://github.com/richardhbtz/soundcloud-rpc"
+  ],
+  "sources": []
+}

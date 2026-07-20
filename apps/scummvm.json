@@ -1,0 +1,8 @@
+{
+  "name": "scummvm",
+  "description": "Unofficial, A 'virtual machine' for several classic graphical point-and-click adventure games",
+  "sites": [
+    "https://github.com/pkgforge-dev/ScummVM-AppImage"
+  ],
+  "sources": []
+}

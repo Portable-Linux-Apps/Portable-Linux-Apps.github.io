@@ -1,0 +1,8 @@
+{
+  "name": "pingviewer",
+  "description": "ping viewer interface",
+  "sites": [
+    "https://github.com/bluerobotics/ping-viewer"
+  ],
+  "sources": []
+}

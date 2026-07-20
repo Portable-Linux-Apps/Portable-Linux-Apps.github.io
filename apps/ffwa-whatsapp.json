@@ -1,0 +1,8 @@
+{
+  "name": "ffwa-whatsapp",
+  "description": "WebApp & Firefox Profile for WhatsApp.\n \n <img src=\"https://img.tuttoandroid.net/wp-content/uploads/2019/05/WhatsApp-Web.jpg\" alt=\"Screenshot\">",
+  "sites": [
+    "https://web.whatsapp.com"
+  ],
+  "sources": []
+}

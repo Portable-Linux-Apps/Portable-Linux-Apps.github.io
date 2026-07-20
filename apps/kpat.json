@@ -1,0 +1,10 @@
+{
+  "name": "kpat",
+  "description": "A relaxing solitaire game. Arrange the cards in a certain order, either by  the same color or alternating colors, in the shortest time possible.\n \n This game is part of the KDE Games suite.\n \n USAGE (from the command line):\n \n           kdegames -h (shows the list of games)\n           kdegames $GAME (launches the selected game)\n           \n <img src=\"https://cdn.kde.org/screenshots/kpatience/kpatience.png\" alt=\"Screenshot\">",
+  "sites": [
+    "https://apps.kde.org"
+  ],
+  "sources": [
+    "https://github.com/ivan-hc/KDE-games-suite-appimage"
+  ]
+}

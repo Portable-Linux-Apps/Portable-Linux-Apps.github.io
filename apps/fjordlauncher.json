@@ -1,0 +1,8 @@
+{
+  "name": "fjordlauncher",
+  "description": "Prism Launcher fork with support for alternative auth servers.",
+  "sites": [
+    "https://github.com/unmojang/FjordLauncher"
+  ],
+  "sources": []
+}

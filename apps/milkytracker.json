@@ -1,0 +1,8 @@
+{
+  "name": "milkytracker",
+  "description": "An FT2 compatible music tracker",
+  "sites": [
+    "https://github.com/milkytracker/MilkyTracker"
+  ],
+  "sources": []
+}

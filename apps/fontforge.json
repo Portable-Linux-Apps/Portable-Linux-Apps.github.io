@@ -1,0 +1,8 @@
+{
+  "name": "fontforge",
+  "description": "Free (libre) font editor for Windows, Mac OS X and GNU+Linux.",
+  "sites": [
+    "https://github.com/fontforge/fontforge"
+  ],
+  "sources": []
+}

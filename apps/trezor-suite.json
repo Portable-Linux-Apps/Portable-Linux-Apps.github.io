@@ -1,0 +1,8 @@
+{
+  "name": "trezor-suite",
+  "description": "Trezor Suite desktop application",
+  "sites": [
+    "https://github.com/trezor/trezor-suite"
+  ],
+  "sources": []
+}

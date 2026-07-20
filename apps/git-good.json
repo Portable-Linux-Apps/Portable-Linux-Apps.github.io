@@ -1,0 +1,8 @@
+{
+  "name": "git-good",
+  "description": "Just a simple git client using electron and nodegit, focus on lightweight  and performance.",
+  "sites": [
+    "https://github.com/weedz/git-good"
+  ],
+  "sources": []
+}

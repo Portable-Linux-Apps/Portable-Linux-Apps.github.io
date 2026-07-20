@@ -1,0 +1,8 @@
+{
+  "name": "inxi",
+  "description": "A full featured CLI system information tool.",
+  "sites": [
+    "https://smxi.org"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "vita3k",
+  "description": "Experimental PlayStation Vita emulator",
+  "sites": [
+    "https://github.com/Vita3K/Vita3K"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "pulseview",
+  "description": "PulseView (sometimes abbreviated as \"PV\") is a Qt based logic analyzer, oscilloscope and MSO GUI for sigrok.",
+  "sites": [
+    "https://github.com/sigrokproject/pulseview"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "simplenote-electron",
+  "description": "Simplenote for Web, Windows, and Linux",
+  "sites": [
+    "https://github.com/Automattic/simplenote-electron"
+  ],
+  "sources": []
+}

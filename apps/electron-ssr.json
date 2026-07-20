@@ -1,0 +1,8 @@
+{
+  "name": "electron-ssr",
+  "description": "Install electron-ssr from appimage.",
+  "sites": [
+    "https://github.com/shadowsocksrr/electron-ssr"
+  ],
+  "sources": []
+}

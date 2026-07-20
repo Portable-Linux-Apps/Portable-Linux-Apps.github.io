@@ -1,0 +1,8 @@
+{
+  "name": "twetter",
+  "description": "Client for the pubsub app",
+  "sites": [
+    "https://github.com/NiewidzialnyCzlowiek/pubsub-webapp"
+  ],
+  "sources": []
+}

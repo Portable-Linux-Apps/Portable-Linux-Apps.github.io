@@ -1,0 +1,8 @@
+{
+  "name": "jumble",
+  "description": "A user-friendly Nostr client for exploring relay feeds.",
+  "sites": [
+    "https://github.com/CodyTseng/jumble"
+  ],
+  "sources": []
+}

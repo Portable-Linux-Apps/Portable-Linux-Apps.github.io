@@ -1,0 +1,8 @@
+{
+  "name": "gitlight",
+  "description": "🐙 GitHub & GitLab notifications on your desktop",
+  "sites": [
+    "https://github.com/colinlienard/gitlight"
+  ],
+  "sources": []
+}

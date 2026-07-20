@@ -1,0 +1,8 @@
+{
+  "name": "foobar2000",
+  "description": "foobar2000 is an advanced freeware audio player for the Windows platform.\n\n This version has its own builtin WINE version to run on GNU/Linux.",
+  "sites": [
+    "https://github.com/mmtrt/foobar2000_AppImage"
+  ],
+  "sources": []
+}

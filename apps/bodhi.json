@@ -1,0 +1,8 @@
+{
+  "name": "bodhi",
+  "description": "Bodhi Prediction Market app",
+  "sites": [
+    "https://github.com/bodhiproject/bodhi-app"
+  ],
+  "sources": []
+}

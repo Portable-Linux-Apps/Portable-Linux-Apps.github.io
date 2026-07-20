@@ -1,0 +1,8 @@
+{
+  "name": "codebook-lsp",
+  "description": "Codebook, code-aware spell checker with language server implementation.",
+  "sites": [
+    "https://github.com/blopker/codebook"
+  ],
+  "sources": []
+}

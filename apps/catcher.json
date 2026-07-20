@@ -1,0 +1,8 @@
+{
+  "name": "catcher",
+  "description": "CATcher is a software application used for peer-testing of software projects.",
+  "sites": [
+    "https://github.com/testathor/CATcher"
+  ],
+  "sources": []
+}

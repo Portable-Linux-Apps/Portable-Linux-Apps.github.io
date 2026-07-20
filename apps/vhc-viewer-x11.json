@@ -1,0 +1,8 @@
+{
+  "name": "vhc-viewer-x11",
+  "description": "Vulkan Hardware Capability Viewer",
+  "sites": [
+    "https://vulkan.gpuinfo.org"
+  ],
+  "sources": []
+}

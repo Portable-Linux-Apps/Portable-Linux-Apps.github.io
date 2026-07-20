@@ -1,0 +1,8 @@
+{
+  "name": "httptoolkit",
+  "description": "HTTP Toolkit is an open-source tool for debugging, testing and building with HTTP.",
+  "sites": [
+    "https://github.com/httptoolkit/httptoolkit-desktop"
+  ],
+  "sources": []
+}

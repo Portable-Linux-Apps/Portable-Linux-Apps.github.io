@@ -1,0 +1,8 @@
+{
+  "name": "fifo",
+  "description": "A modern web browser, built on top of modern web technologies  such as Electron and React that is meant to be secure.",
+  "sites": [
+    "https://fifo.snaildos.com/"
+  ],
+  "sources": []
+}

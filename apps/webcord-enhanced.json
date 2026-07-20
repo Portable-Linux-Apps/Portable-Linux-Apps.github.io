@@ -1,0 +1,8 @@
+{
+  "name": "webcord-enhanced",
+  "description": "Unofficial, A Discord and Fosscord client implemented without Discord API.",
+  "sites": [
+    "https://github.com/pkgforge-dev/WebCord-AppImage-Enhanced"
+  ],
+  "sources": []
+}

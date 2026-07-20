@@ -1,0 +1,8 @@
+{
+  "name": "gnatstudio",
+  "description": "GNAT Studio is a powerful and lightweight IDE for Ada and SPARK.",
+  "sites": [
+    "https://github.com/AdaCore/gnatstudio"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "tmon",
+  "description": "Temperature Monitor, a simple CLI tool for monitoring/reporting CPU temperatures.",
+  "sites": [
+    "https://github.com/gmagno/tmon"
+  ],
+  "sources": []
+}

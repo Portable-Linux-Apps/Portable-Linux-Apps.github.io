@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>App - PORTABLE LINUX APPS</title>
+  <meta name="description" content="Application details page.">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="style.css">
+  <style>
+  .app-detail-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 2rem 1.5rem;
+    max-width: var(--max-width);
+    margin: 0 auto;
+  }
+  .app-detail-header img {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+  }
+  .app-detail-header div {
+    flex: 1;
+  }
+  .app-detail-header h1 {
+    font-size: 1.75rem;
+    font-weight: 800;
+    margin-bottom: 0.25rem;
+  }
+  .app-detail-header .app-meta {
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+  }
+  .app-detail-header .app-meta a {
+    color: var(--color-accent);
+  }
+  .app-body-content {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 1.5rem 2.5rem;
+    line-height: 1.7;
+    font-size: 0.9375rem;
+    color: var(--color-text-muted);
+  }
+  .app-body-content p {
+    margin-bottom: 0.75rem;
+  }
+  .app-body-content img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1rem auto;
+  }
+  .app-body-content table {
+    border-collapse: collapse;
+    margin: 1rem auto;
+  }
+  .app-body-content table td {
+    padding: 4px;
+    text-align: center;
+  }
+  .app-body-content table img {
+    margin: 0;
+  }
+  .app-links-section {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 1.5rem 2.5rem;
+  }
+  .app-links-section h2 {
+    font-size: 1.125rem;
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+  }
+  .app-links-section ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .app-links-section li a {
+    display: inline-block;
+    padding: 0.375rem 0.75rem;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    font-size: 0.8125rem;
+    font-weight: 500;
+    transition: border-color 0.15s, background 0.15s;
+  }
+  .app-links-section li a:hover {
+    border-color: var(--color-accent);
+    background: var(--color-surface);
+    text-decoration: none;
+  }
+  #back-link {
+    display: inline-block;
+    margin: 1rem 1.5rem 0;
+    max-width: var(--max-width);
+    width: calc(100% - 3rem);
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+  }
+  #back-link:hover {
+    color: var(--color-accent);
+  }
+  .error-box {
+    text-align: center;
+    padding: 4rem 1.5rem;
+    color: var(--color-text-muted);
+  }
+  .error-box h2 {
+    color: var(--color-text);
+    margin-bottom: 0.5rem;
+  }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="apps.html">Apps</a>
+  <a href="faq.html">FAQ</a>
+  <a href="wiki.html">Wiki</a>
+  <a href="https://github.com/ivan-hc/AM">AM on GitHub</a>
+</nav>
+
+<a href="javascript:history.back()" id="back-link">&larr; Back</a>
+
+<div id="app-root"></div>
+
+<a href="#" id="back-to-top" title="Back to top">&uarr;</a>
+
+<script>
+(function() {
+  var params = new URLSearchParams(window.location.search);
+  var name = params.get('name');
+  var root = document.getElementById('app-root');
+
+  if (!name) {
+    root.innerHTML = '<div class="error-box"><h2>No app specified</h2><p>Use <code>?name=appname</code> in the URL.</p></div>';
+    return;
+  }
+
+  fetch('apps/' + encodeURIComponent(name) + '.json')
+    .then(function(r) {
+      if (!r.ok) throw new Error('Not found');
+      return r.json();
+    })
+    .then(function(app) {
+      var html = '';
+
+      // Header with icon, name, sites
+      var iconUrl = 'icons/' + encodeURIComponent(name) + '.png';
+      html += '<div class="app-detail-header">';
+      html += '<img src="' + iconUrl + '" alt="" onerror="this.style.display=\'none\'">';
+      html += '<div>';
+      html += '<h1>' + escapeHtml(app.name || name) + '</h1>';
+      html += '<div class="app-meta"></div>';
+      html += '</div>';
+      html += '</div>';
+
+      // Description
+      html += '<div class="app-body-content">';
+      if (app.description) {
+        var desc = app.description;
+        desc = desc.replace(/\n/g, '<br>');
+        html += desc;
+      }
+      html += '</div>';
+
+      // Sites
+      if (app.sites && app.sites.length) {
+        html += '<div class="app-links-section"><h2>Sites</h2><ul>';
+        for (var i = 0; i < app.sites.length; i++) {
+          html += '<li><a href="' + app.sites[i] + '" target="_blank" rel="noopener">' + app.sites[i] + '</a></li>';
+        }
+        html += '</ul></div>';
+      }
+
+      // Sources
+      if (app.sources && app.sources.length) {
+        html += '<div class="app-links-section"><h2>Sources</h2><ul>';
+        for (var i = 0; i < app.sources.length; i++) {
+          html += '<li><a href="' + app.sources[i] + '" target="_blank" rel="noopener">' + app.sources[i] + '</a></li>';
+        }
+        html += '</ul></div>';
+      }
+
+      root.innerHTML = html;
+
+      // Update page title
+      document.title = (app.name || name).toUpperCase() + ' - PORTABLE LINUX APPS';
+    })
+    .catch(function(err) {
+      root.innerHTML = '<div class="error-box"><h2>App not found</h2><p>Could not load data for <strong>' + escapeHtml(name) + '</strong>.</p></div>';
+    });
+
+  function escapeHtml(s) {
+    var div = document.createElement('div');
+    div.appendChild(document.createTextNode(s));
+    return div.innerHTML;
+  }
+})();
+
+var btt = document.getElementById('back-to-top');
+window.addEventListener('scroll', function() {
+  btt.classList.toggle('btt-visible', window.scrollY > 300);
+});
+</script>
+
+<footer>
+  <div class="footer-links">
+    <a href="https://ko-fi.com/IvanAlexHC">ko-fi.com</a>
+    <a href="https://paypal.me/IvanAlexHC">PayPal.me</a>
+    <a href="https://github.com/ivan-hc/AM">AM on GitHub</a>
+  </div>
+  <p>&copy; 2020-present Ivan Alessandro Sala aka 'Ivan-HC' &mdash; I'm here just for fun!</p>
+</footer>
+
+</body>
+</html>

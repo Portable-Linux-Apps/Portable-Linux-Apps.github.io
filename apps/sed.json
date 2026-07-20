@@ -1,0 +1,8 @@
+{
+  "name": "sed",
+  "description": "GNU stream editor for filtering and transforming text. This is part of \"am-utils\" suite.",
+  "sites": [
+    "https://github.com/ivan-hc/am-utils"
+  ],
+  "sources": []
+}

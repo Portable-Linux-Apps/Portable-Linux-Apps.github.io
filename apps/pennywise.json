@@ -1,0 +1,8 @@
+{
+  "name": "pennywise",
+  "description": "Cross-platform application to open any website or media in a floating window",
+  "sites": [
+    "https://github.com/kamranahmedse/pennywise"
+  ],
+  "sources": []
+}

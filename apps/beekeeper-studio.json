@@ -1,0 +1,8 @@
+{
+  "name": "beekeeper-studio",
+  "description": "An easy-to use SQL query editor and database UI for Mac, Windows, and Linux",
+  "sites": [
+    "https://github.com/beekeeper-studio/beekeeper-studio"
+  ],
+  "sources": []
+}

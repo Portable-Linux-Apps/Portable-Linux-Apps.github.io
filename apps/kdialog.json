@@ -1,0 +1,10 @@
+{
+  "name": "kdialog",
+  "description": "Shell scripting with KDE dialogs. Create simple scripts for your users to use.\n\n This tool is part of the KDE Utils Suite.",
+  "sites": [
+    "https://apps.kde.org"
+  ],
+  "sources": [
+    "https://github.com/ivan-hc/KDE-utils-appimage"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "roller",
+  "description": "Reverse engineering the 1995 game Whiplash/Fatal Racing.",
+  "sites": [
+    "https://github.com/pkgforge-dev/ROLLER-AppImage"
+  ],
+  "sources": []
+}

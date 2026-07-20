@@ -1,0 +1,8 @@
+{
+  "name": "qgroundcontrol",
+  "description": "Ground control for unmanned vehicles.",
+  "sites": [
+    "https://github.com/mavlink/qgroundcontrol"
+  ],
+  "sources": []
+}

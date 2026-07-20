@@ -1,0 +1,8 @@
+{
+  "name": "gapless",
+  "description": "Unofficial. Simple music player with blur and gapless playback.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Gapless-AppImage"
+  ],
+  "sources": []
+}

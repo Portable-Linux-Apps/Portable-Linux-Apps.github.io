@@ -1,0 +1,8 @@
+{
+  "name": "poi",
+  "description": "Scalable KanColle browser and tool.",
+  "sites": [
+    "https://poi.moe/"
+  ],
+  "sources": []
+}

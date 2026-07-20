@@ -1,0 +1,8 @@
+{
+  "name": "gnu-freedink",
+  "description": "Unofficial, a portable and enhanced version of the Dink Smallwood game engine.",
+  "sites": [
+    "https://github.com/pkgforge-dev/GNU-FreeDink-AppImage"
+  ],
+  "sources": []
+}

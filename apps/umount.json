@@ -1,0 +1,8 @@
+{
+  "name": "umount",
+  "description": "Unmount filesystems. This is part of \"am-utils\" suite.",
+  "sites": [
+    "https://github.com/ivan-hc/am-utils"
+  ],
+  "sources": []
+}

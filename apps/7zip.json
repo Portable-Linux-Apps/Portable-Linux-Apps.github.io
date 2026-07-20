@@ -1,0 +1,8 @@
+{
+  "name": "7zip",
+  "description": "7-Zip is a file archiver with a high compression ratio.\n\n This package includes the commands \"7zip\" and \"7zips\".\n\n For \"7z\", see the version available in the \"Toolpacks\" database instead.",
+  "sites": [
+    "https://www.7-zip.org"
+  ],
+  "sources": []
+}

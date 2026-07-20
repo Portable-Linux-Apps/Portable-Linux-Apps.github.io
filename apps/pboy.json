@@ -1,0 +1,8 @@
+{
+  "name": "pboy",
+  "description": "A small .pdf management tool with a command-line UI",
+  "sites": [
+    "https://github.com/2mol/pboy"
+  ],
+  "sources": []
+}

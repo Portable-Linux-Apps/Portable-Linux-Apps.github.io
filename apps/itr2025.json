@@ -1,0 +1,8 @@
+{
+  "name": "itr2025",
+  "description": "Appimage não oficial do ITR2025, declare seu imposto dos seus imóveis rurais (Ano-calendário 2025).",
+  "sites": [
+    "https://github.com/pkgforge-dev/ITR2025-AppImage"
+  ],
+  "sources": []
+}

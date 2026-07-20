@@ -1,0 +1,8 @@
+{
+  "name": "quicktwitch",
+  "description": "electron-react-redux-boilerplate",
+  "sites": [
+    "https://github.com/mhmiles/QuickTwitch"
+  ],
+  "sources": []
+}

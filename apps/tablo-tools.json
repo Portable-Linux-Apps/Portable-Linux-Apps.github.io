@@ -1,0 +1,8 @@
+{
+  "name": "tablo-tools",
+  "description": "Tools to Bulk Delete and Export from your Tablo DVR",
+  "sites": [
+    "https://github.com/jessedp/tablo-tools-electron"
+  ],
+  "sources": []
+}

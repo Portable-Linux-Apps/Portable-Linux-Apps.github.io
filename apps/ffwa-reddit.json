@@ -1,0 +1,8 @@
+{
+  "name": "ffwa-reddit",
+  "description": "WebApp & Firefox Profile for Reddit.",
+  "sites": [
+    "https://www.reddit.com"
+  ],
+  "sources": []
+}

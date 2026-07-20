@@ -1,0 +1,8 @@
+{
+  "name": "tonuino-toolbox",
+  "description": "SD card manager for your Tonuino",
+  "sites": [
+    "https://github.com/raph-ael/tonuino-toolbox"
+  ],
+  "sources": []
+}

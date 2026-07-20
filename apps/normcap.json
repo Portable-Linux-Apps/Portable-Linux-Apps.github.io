@@ -1,0 +1,8 @@
+{
+  "name": "normcap",
+  "description": "OCR powered screen-capture tool to capture information instead of images. For Linux, macOS and Windows.\n \n <img src=\"https://raw.githubusercontent.com/dynobo/normcap/main/assets/normcap.gif\" alt=\"GIF\">",
+  "sites": [
+    "https://dynobo.github.io/normcap"
+  ],
+  "sources": []
+}

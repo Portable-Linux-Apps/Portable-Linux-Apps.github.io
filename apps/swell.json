@@ -1,0 +1,8 @@
+{
+  "name": "swell",
+  "description": "Swell, testing for streaming APIs, right at your desktop.",
+  "sites": [
+    "https://github.com/open-source-labs/Swell"
+  ],
+  "sources": []
+}

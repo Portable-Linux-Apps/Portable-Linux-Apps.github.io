@@ -1,0 +1,8 @@
+{
+  "name": "quarto-cli",
+  "description": "Open-source scientific and technical publishing system built on Pandoc.",
+  "sites": [
+    "https://github.com/quarto-dev/quarto-cli"
+  ],
+  "sources": []
+}

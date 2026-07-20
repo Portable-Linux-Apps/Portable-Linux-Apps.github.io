@@ -1,0 +1,8 @@
+{
+  "name": "reor",
+  "description": "AI note-taking app that runs models locally.",
+  "sites": [
+    "https://github.com/reorproject/reor"
+  ],
+  "sources": []
+}

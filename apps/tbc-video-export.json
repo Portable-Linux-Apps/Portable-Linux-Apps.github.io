@@ -1,0 +1,8 @@
+{
+  "name": "tbc-video-export",
+  "description": "Tool for exporting S-Video and CVBS-type TBCs to video files.",
+  "sites": [
+    "https://github.com/JuniorIsAJitterbug/tbc-video-export"
+  ],
+  "sources": []
+}

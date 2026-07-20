@@ -1,0 +1,8 @@
+{
+  "name": "dhammapada",
+  "description": "A simple Dhammapada verse viewer for the Linux desktop.",
+  "sites": [
+    "https://github.com/miroku-devel/dhammapada"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "xiphos",
+  "description": "Unofficial, a Bible study tool using GTK.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Xiphos-AppImage"
+  ],
+  "sources": []
+}

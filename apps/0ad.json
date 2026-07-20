@@ -1,0 +1,8 @@
+{
+  "name": "0ad",
+  "description": "0 A.D. (pronounced “zero-ey-dee”) is a free, open-source, historical Real Time Strategy (RTS) game currently under development by Wildfire Games, a global group of volunteer game developers. As the leader of an ancient civilization, you must gather the resources you need to  raise a military force and dominate your enemies.\n \n This is the official AppImage.\n \n<img src=\"https://github.com/user-attachments/assets/5a91001d-5c56-46e7-a33e-843fcf268248\" alt=\"Screenshot\">",
+  "sites": [
+    "https://play0ad.com"
+  ],
+  "sources": []
+}

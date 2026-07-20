@@ -1,0 +1,8 @@
+{
+  "name": "axolotl",
+  "description": "A Signal compatible cross plattform client written in Go and Vuejs.",
+  "sites": [
+    "https://github.com/nanu-c/axolotl"
+  ],
+  "sources": []
+}

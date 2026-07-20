@@ -1,0 +1,8 @@
+{
+  "name": "taradino",
+  "description": "Unofficial, SDL2 port of Rise of the Triad.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Taradino-AppImage"
+  ],
+  "sources": []
+}

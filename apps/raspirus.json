@@ -1,0 +1,8 @@
+{
+  "name": "raspirus",
+  "description": "A user- and resources-friendly signatures-based malware scanner.",
+  "sites": [
+    "https://github.com/Raspirus/Raspirus"
+  ],
+  "sources": []
+}

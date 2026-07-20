@@ -1,0 +1,8 @@
+{
+  "name": "shotwell",
+  "description": "Unofficial, a digital photo organizer designed for the GNOME desktop environment.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Shotwell-AppImage"
+  ],
+  "sources": []
+}

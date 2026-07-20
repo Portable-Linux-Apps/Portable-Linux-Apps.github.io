@@ -1,0 +1,8 @@
+{
+  "name": "bench-cli",
+  "description": "CLI tool to benchmark commands, written in `Fortran`.",
+  "sites": [
+    "https://github.com/Lateralus138/bench-cli"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "kanon",
+  "description": "Maturita GPJP, designed specifically for use with kanon web app.",
+  "sites": [
+    "https://github.com/gpjp-hades/kanon-app"
+  ],
+  "sources": []
+}

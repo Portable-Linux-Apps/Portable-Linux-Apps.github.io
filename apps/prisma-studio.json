@@ -1,0 +1,8 @@
+{
+  "name": "prisma-studio",
+  "description": "The easiest way to explore and manipulate your data in all  of your Prisma projects.",
+  "sites": [
+    "https://www.prisma.io/studio"
+  ],
+  "sources": []
+}

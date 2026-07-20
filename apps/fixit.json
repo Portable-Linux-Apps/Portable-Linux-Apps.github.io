@@ -1,0 +1,8 @@
+{
+  "name": "fixit",
+  "description": "A utility to fix mistakes in your commands.",
+  "sites": [
+    "https://github.com/eugene-babichenko/fixit"
+  ],
+  "sources": []
+}

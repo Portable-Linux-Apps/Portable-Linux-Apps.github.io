@@ -1,0 +1,8 @@
+{
+  "name": "tb",
+  "description": "Tasks, boards & notes for the command-line habitat",
+  "sites": [
+    "https://github.com/araaha/tb.go"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "sengi",
+  "description": "A multi-account desktop client for Mastodon and Pleroma",
+  "sites": [
+    "https://github.com/NicolasConstant/sengi"
+  ],
+  "sources": []
+}

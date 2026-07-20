@@ -1,0 +1,8 @@
+{
+  "name": "pycharm",
+  "description": "PyCharm-community-edition in AppImage",
+  "sites": [
+    "https://github.com/ryuuzaki42/PyCharm-community-edition_AppImage"
+  ],
+  "sources": []
+}

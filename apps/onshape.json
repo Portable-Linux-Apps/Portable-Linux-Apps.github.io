@@ -1,0 +1,8 @@
+{
+  "name": "onshape",
+  "description": "Onshape desktop app (web application shell)",
+  "sites": [
+    "https://github.com/develar/onshape-desktop-shell"
+  ],
+  "sources": []
+}

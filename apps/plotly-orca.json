@@ -1,0 +1,8 @@
+{
+  "name": "plotly-orca",
+  "description": "Command line application for generating static images  of interactive plotly charts",
+  "sites": [
+    "https://github.com/plotly/orca"
+  ],
+  "sources": []
+}

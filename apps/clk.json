@@ -1,0 +1,8 @@
+{
+  "name": "clk",
+  "description": "Unofficial, a latency hating emulator for 8 and 16 bit platforms.",
+  "sites": [
+    "https://github.com/pkgforge-dev/CLK-AppImage"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "sd",
+  "description": "Intuitive find & replace CLI (sed alternative)",
+  "sites": [
+    "https://github.com/chmln/sd"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "furnace",
+  "description": "A multi-system chiptune tracker compatible with DefleMask modules.",
+  "sites": [
+    "https://github.com/tildearrow/furnace"
+  ],
+  "sources": []
+}

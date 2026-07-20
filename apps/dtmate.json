@@ -1,0 +1,8 @@
+{
+  "name": "dtmate",
+  "description": "Golang package and CLI to compute the difference between date,  time or duration.",
+  "sites": [
+    "https://github.com/jftuga/DateTimeMate"
+  ],
+  "sources": []
+}

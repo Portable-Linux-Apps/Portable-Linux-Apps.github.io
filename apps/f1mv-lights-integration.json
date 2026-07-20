@@ -1,0 +1,8 @@
+{
+  "name": "f1mv-lights-integration",
+  "description": "The best way to connect your smart home lights to MultiViewer.",
+  "sites": [
+    "https://f1mvli.jstt.me/"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "catapult",
+  "description": "A cross-platform launcher for Cataclysm: DDA and BN",
+  "sites": [
+    "https://github.com/qrrk/Catapult"
+  ],
+  "sources": []
+}

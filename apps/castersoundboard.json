@@ -1,0 +1,8 @@
+{
+  "name": "castersoundboard",
+  "description": "A soundboard for hot-keying and playing back sounds (for podcasting).",
+  "sites": [
+    "https://github.com/covarianttensor/CasterSoundboard"
+  ],
+  "sources": []
+}

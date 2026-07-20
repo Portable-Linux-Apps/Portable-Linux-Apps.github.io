@@ -1,0 +1,8 @@
+{
+  "name": "audiorelay",
+  "description": "Stream audio between your devices. Turn your phone into a microphone or speakers for PC.",
+  "sites": [
+    "https://audiorelay.net"
+  ],
+  "sources": []
+}

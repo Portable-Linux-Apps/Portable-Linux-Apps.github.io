@@ -1,0 +1,8 @@
+{
+  "name": "fdm",
+  "description": "Free Download Manager, multiplatform powerful modern download accelerator and organizer.\n\n This AppImage is built on-the-fly from the official .deb package.",
+  "sites": [
+    "https://www.freedownloadmanager.org"
+  ],
+  "sources": []
+}

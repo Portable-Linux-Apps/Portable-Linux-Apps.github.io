@@ -1,0 +1,8 @@
+{
+  "name": "webdesktop",
+  "description": "WebDesktop make apps with just a text editor and nodejs.",
+  "sites": [
+    "https://github.com/Webdeskme/wdOS"
+  ],
+  "sources": []
+}

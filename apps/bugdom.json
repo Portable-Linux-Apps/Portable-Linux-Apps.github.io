@@ -1,0 +1,10 @@
+{
+  "name": "bugdom",
+  "description": "This is Pangea Software's Bugdom updated to run on modern operating systems.",
+  "sites": [
+    "https://pangeasoft.net/bug/"
+  ],
+  "sources": [
+    "https://github.com/jorio/Bugdom"
+  ]
+}

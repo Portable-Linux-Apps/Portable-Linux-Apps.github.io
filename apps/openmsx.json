@@ -1,0 +1,8 @@
+{
+  "name": "openmsx",
+  "description": "Unofficial, the MSX emulator that aims for perfection.",
+  "sites": [
+    "https://github.com/pkgforge-dev/openMSX-AppImage"
+  ],
+  "sources": []
+}

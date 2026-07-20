@@ -1,0 +1,8 @@
+{
+  "name": "youtube-music",
+  "description": "YouTube Music AppImage is an Electron wrapper around YouTube Music featuring:\n\n    - Native look & feel, aims at keeping the original interface\n    - Framework for custom plugins: change YouTube Music to your needs (style, content, features), enable/disable plugins in one click",
+  "sites": [],
+  "sources": [
+    "https://github.com/th-ch/youtube-music"
+  ]
+}

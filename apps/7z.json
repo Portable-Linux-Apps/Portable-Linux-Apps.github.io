@@ -1,0 +1,8 @@
+{
+  "name": "7z",
+  "description": "Archiver with a high compression ratio. This is part of \"am-utils\" suite.",
+  "sites": [
+    "https://github.com/ivan-hc/am-utils"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "quaternion",
+  "description": "A Qt5-based IM client for Matrix",
+  "sites": [
+    "https://github.com/quotient-im/Quaternion"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "lazygit",
+  "description": "Simple terminal UI for git commands",
+  "sites": [
+    "https://github.com/jesseduffield/lazygit"
+  ],
+  "sources": []
+}

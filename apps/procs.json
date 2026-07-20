@@ -1,0 +1,8 @@
+{
+  "name": "procs",
+  "description": "A modern replacement for ps written in Rust.",
+  "sites": [
+    "https://github.com/dalance/procs"
+  ],
+  "sources": []
+}

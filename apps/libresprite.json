@@ -1,0 +1,8 @@
+{
+  "name": "libresprite",
+  "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
+  "sites": [
+    "https://github.com/LibreSprite/LibreSprite"
+  ],
+  "sources": []
+}

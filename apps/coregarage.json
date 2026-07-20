@@ -1,0 +1,8 @@
+{
+  "name": "coregarage",
+  "description": "A setting manager for CuboCore Application Suite.",
+  "sites": [
+    "https://gitlab.com/cubocore"
+  ],
+  "sources": []
+}

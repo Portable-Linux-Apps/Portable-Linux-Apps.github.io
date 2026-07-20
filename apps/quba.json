@@ -1,0 +1,8 @@
+{
+  "name": "quba",
+  "description": "A viewer for electronic invoices.",
+  "sites": [
+    "https://github.com/ZUGFeRD/quba-viewer"
+  ],
+  "sources": []
+}

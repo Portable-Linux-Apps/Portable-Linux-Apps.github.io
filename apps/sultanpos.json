@@ -1,0 +1,8 @@
+{
+  "name": "sultanpos",
+  "description": "Simple POS for minimarket",
+  "sites": [
+    "https://github.com/apinprastya/sultan"
+  ],
+  "sources": []
+}

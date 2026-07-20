@@ -1,0 +1,8 @@
+{
+  "name": "qv2ray",
+  "description": "Cross-platform v2ray GUI Client in Qt.",
+  "sites": [
+    "https://github.com/lhy0403/Qv2ray"
+  ],
+  "sources": []
+}

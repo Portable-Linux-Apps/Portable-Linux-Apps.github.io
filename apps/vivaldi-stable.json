@@ -1,0 +1,8 @@
+{
+  "name": "vivaldi-stable",
+  "description": "Vivaldi is an advanced chromium-based web browser made with the power user in mind.\n\n This is the unofficial AppImage.\n \n <img src=\"https://vivaldi.com/wp-content/uploads/vivaldi_og.png\" alt=\"Screenshot\">",
+  "sites": [
+    "https://vivaldi.com"
+  ],
+  "sources": []
+}

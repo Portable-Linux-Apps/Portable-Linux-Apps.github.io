@@ -1,0 +1,8 @@
+{
+  "name": "shellharden",
+  "description": "The corrective bash syntax highlighter",
+  "sites": [
+    "https://github.com/anordal/shellharden"
+  ],
+  "sources": []
+}

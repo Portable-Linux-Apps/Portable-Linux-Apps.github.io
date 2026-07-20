@@ -1,0 +1,8 @@
+{
+  "name": "moose",
+  "description": "An application to stream, cast and download torrents.",
+  "sites": [
+    "https://moose.riteshkr.com/"
+  ],
+  "sources": []
+}

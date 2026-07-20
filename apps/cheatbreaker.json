@@ -1,0 +1,10 @@
+{
+  "name": "cheatbreaker",
+  "description": "The free FPS boosting modpack for Minecraft 1.7 & 1.8.",
+  "sites": [
+    "https://cheatbreaker.net"
+  ],
+  "sources": [
+    "https://github.com/CheatBreakerNet/Launcher"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "uv",
+  "description": "An extremely fast Python package and project manager, written in Rust.",
+  "sites": [
+    "https://github.com/astral-sh/uv"
+  ],
+  "sources": []
+}

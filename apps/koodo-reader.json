@@ -1,0 +1,8 @@
+{
+  "name": "koodo-reader",
+  "description": "A modern ebook manager and reader with sync and backup  capacities for Windows, macOS, Linux and Web.",
+  "sites": [
+    "https://github.com/troyeguo/koodo-reader"
+  ],
+  "sources": []
+}

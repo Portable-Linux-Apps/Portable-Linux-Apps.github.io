@@ -1,0 +1,8 @@
+{
+  "name": "memocast",
+  "description": "Yet another elegant Wiz Note Client, which was built with Quasar  UI Framework and based on Electron.",
+  "sites": [
+    "https://tanknee.github.io/Memocast"
+  ],
+  "sources": []
+}

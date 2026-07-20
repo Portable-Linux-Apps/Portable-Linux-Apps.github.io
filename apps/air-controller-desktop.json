@@ -1,0 +1,8 @@
+{
+  "name": "air-controller-desktop",
+  "description": "A new handy and powerful Android phone assistant,powered by Flutter.",
+  "sites": [
+    "http://ac.yhdm360.cn/"
+  ],
+  "sources": []
+}

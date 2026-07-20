@@ -1,0 +1,8 @@
+{
+  "name": "wootility",
+  "description": "Utility for configuring Wooting keyboards (binary AppImage version)",
+  "sites": [
+    "https://wooting.io/wootility"
+  ],
+  "sources": []
+}

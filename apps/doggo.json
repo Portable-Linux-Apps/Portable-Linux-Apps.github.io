@@ -1,0 +1,8 @@
+{
+  "name": "doggo",
+  "description": "Command-line DNS Client for Humans. Written in Golang.",
+  "sites": [
+    "https://github.com/mr-karan/doggo"
+  ],
+  "sources": []
+}

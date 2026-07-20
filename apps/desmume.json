@@ -1,0 +1,8 @@
+{
+  "name": "desmume",
+  "description": "Unofficial AppImage of the DeSmuME emulator. [Maintainer=@Samueru-sama]",
+  "sites": [
+    "https://github.com/pkgforge-dev/DeSmuME-AppImage"
+  ],
+  "sources": []
+}

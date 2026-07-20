@@ -1,0 +1,8 @@
+{
+  "name": "go-pd",
+  "description": "A free easy to use pixeldrain.com go client pkg and CLI upload tool.",
+  "sites": [
+    "https://github.com/ManuelReschke/go-pd"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "seedit",
+  "description": "A GUI for plebbit similar to old.reddit.",
+  "sites": [
+    "https://github.com/plebbit/seedit"
+  ],
+  "sources": []
+}

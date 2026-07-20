@@ -1,0 +1,8 @@
+{
+  "name": "aphelion-wallet",
+  "description": "The Aphelion desktop wallet application built with Electron.",
+  "sites": [
+    "https://github.com/aphtoken/aph-wallet-gui"
+  ],
+  "sources": []
+}

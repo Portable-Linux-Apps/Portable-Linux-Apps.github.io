@@ -1,0 +1,10 @@
+{
+  "name": "kfind",
+  "description": "KFind can be used as a standalone search tool, launched by KRunner or from  your menu. It is also integrated into Konqueror as \"Find File\" in the  \"Tools\" menu. It allows you to find files by name, type or content.\n\n This tool is part of the KDE Utils Suite.\n\n <img src=\"https://kde.org/images/screenshots/kfind.png\" alt=\"Screenshot\">",
+  "sites": [
+    "https://apps.kde.org"
+  ],
+  "sources": [
+    "https://github.com/ivan-hc/KDE-utils-appimage"
+  ]
+}

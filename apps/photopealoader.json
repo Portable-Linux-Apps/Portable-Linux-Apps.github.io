@@ -1,0 +1,8 @@
+{
+  "name": "photopealoader",
+  "description": "Photopea desktop app that loads local files and plugins",
+  "sites": [
+    "https://github.com/yikuansun/photopealoader"
+  ],
+  "sources": []
+}

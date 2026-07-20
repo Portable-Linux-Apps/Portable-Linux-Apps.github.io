@@ -1,0 +1,8 @@
+{
+  "name": "etlegacy",
+  "description": "Unofficial, an open source project based on the code of Wolfenstein: Enemy Territory.",
+  "sites": [
+    "https://github.com/pkgforge-dev/ETLegacy-AppImage"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "boilr",
+  "description": "Synchronize games from other platforms into your Steam library.",
+  "sites": [
+    "https://github.com/PhilipK/BoilR"
+  ],
+  "sources": []
+}

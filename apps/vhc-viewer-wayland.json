@@ -1,0 +1,8 @@
+{
+  "name": "vhc-viewer-wayland",
+  "description": "Vulkan Hardware Capability Viewer",
+  "sites": [
+    "https://vulkan.gpuinfo.org"
+  ],
+  "sources": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "gpupad",
+  "description": "A flexible GLSL shader editor and IDE.",
+  "sites": [
+    "https://github.com/houmain/gpupad"
+  ],
+  "sources": []
+}

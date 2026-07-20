@@ -1,0 +1,8 @@
+{
+  "name": "librepcb",
+  "description": "Design Schematics and PCBs",
+  "sites": [
+    "https://librepcb.org"
+  ],
+  "sources": []
+}

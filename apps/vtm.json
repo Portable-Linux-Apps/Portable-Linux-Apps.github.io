@@ -1,0 +1,8 @@
+{
+  "name": "vtm",
+  "description": "Text-based desktop environment",
+  "sites": [
+    "https://github.com/directvt/vtm"
+  ],
+  "sources": []
+}

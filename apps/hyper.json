@@ -1,0 +1,8 @@
+{
+  "name": "hyper",
+  "description": "A terminal built on web technologies",
+  "sites": [
+    "https://github.com/vercel/hyper"
+  ],
+  "sources": []
+}

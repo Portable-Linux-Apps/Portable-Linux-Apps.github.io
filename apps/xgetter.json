@@ -1,0 +1,8 @@
+{
+  "name": "xgetter",
+  "description": "Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Bilibili, Douyin and more",
+  "sites": [
+    "https://github.com/xgetter-team/xgetter"
+  ],
+  "sources": []
+}

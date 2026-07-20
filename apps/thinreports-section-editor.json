@@ -1,0 +1,8 @@
+{
+  "name": "thinreports-section-editor",
+  "description": "A template editor for Thinreports to edit Section Format templates.",
+  "sites": [
+    "https://github.com/thinreports/thinreports-section-editor/"
+  ],
+  "sources": []
+}

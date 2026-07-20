@@ -1,0 +1,8 @@
+{
+  "name": "torzu",
+  "description": "Unofficial AppImage of Torzu, with optimized builds for modern cpus.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Torzu-AppImage"
+  ],
+  "sources": []
+}

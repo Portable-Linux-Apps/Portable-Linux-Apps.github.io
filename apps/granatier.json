@@ -1,0 +1,10 @@
+{
+  "name": "granatier",
+  "description": "Granatier is a clone of the classic Bomberman game, inspired by the work of  the Clanbomber clone.\n \n This game is part of the KDE Games suite.\n \n USAGE (from the command line):\n \n           kdegames -h (shows the list of games)\n           kdegames $GAME (launches the selected game)\n           \n <img src=\"https://cdn.kde.org/screenshots/granatier/granatier.png\" alt=\"Screenshot\">",
+  "sites": [
+    "https://apps.kde.org"
+  ],
+  "sources": [
+    "https://github.com/ivan-hc/KDE-games-suite-appimage"
+  ]
+}

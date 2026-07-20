@@ -1,0 +1,8 @@
+{
+  "name": "gooboxfileshare",
+  "description": "Goobox File Share App",
+  "sites": [
+    "https://github.com/GooBox/file-share-desktop"
+  ],
+  "sources": []
+}

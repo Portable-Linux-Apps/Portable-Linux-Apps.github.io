@@ -1,0 +1,8 @@
+{
+  "name": "monit",
+  "description": "展示各种信息的桌面小组件",
+  "sites": [
+    "https://monit.fzf404.art/"
+  ],
+  "sources": []
+}

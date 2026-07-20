@@ -1,0 +1,8 @@
+{
+  "name": "gooseberry",
+  "description": "A command line utility to generate a knowledge base from Hypothesis annotations",
+  "sites": [
+    "https://github.com/out-of-cheese-error/gooseberry"
+  ],
+  "sources": []
+}

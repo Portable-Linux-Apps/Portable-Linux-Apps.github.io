@@ -1,0 +1,8 @@
+{
+  "name": "fishterm",
+  "description": "A open-soruce Terminal remote access.\n \n Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla",
+  "sites": [
+    "https://github.com/kuronekouwu/FishTerm"
+  ],
+  "sources": []
+}

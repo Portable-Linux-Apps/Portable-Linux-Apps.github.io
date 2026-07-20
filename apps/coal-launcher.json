@@ -1,0 +1,8 @@
+{
+  "name": "coal-launcher",
+  "description": "A client to view and play games from the AB Coal website.",
+  "sites": [
+    "https://bobuxstation.github.io/Coal-Web/launcher.html"
+  ],
+  "sources": []
+}

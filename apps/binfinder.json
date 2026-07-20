@@ -1,0 +1,8 @@
+{
+  "name": "binfinder",
+  "description": "Find binary files not installed through package manager",
+  "sites": [
+    "https://github.com/aquasecurity/binfinder"
+  ],
+  "sources": []
+}

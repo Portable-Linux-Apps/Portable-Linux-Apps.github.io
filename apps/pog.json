@@ -1,0 +1,8 @@
+{
+  "name": "pog",
+  "description": "A Kmk firmware flashing and configuration tool.",
+  "sites": [
+    "https://github.com/JanLunge/pog"
+  ],
+  "sources": []
+}

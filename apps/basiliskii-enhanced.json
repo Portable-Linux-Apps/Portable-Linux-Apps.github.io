@@ -1,0 +1,8 @@
+{
+  "name": "basiliskii-enhanced",
+  "description": "Unofficial, classic Macintosh emulator BasiliskII.",
+  "sites": [
+    "https://github.com/pkgforge-dev/BasiliskII-AppImage-Enhanced"
+  ],
+  "sources": []
+}

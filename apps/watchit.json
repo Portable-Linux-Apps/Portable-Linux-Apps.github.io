@@ -1,0 +1,8 @@
+{
+  "name": "watchit",
+  "description": "Open movies everywhere",
+  "sites": [
+    "https://github.com/ZorrillosDev/watchit-app"
+  ],
+  "sources": []
+}

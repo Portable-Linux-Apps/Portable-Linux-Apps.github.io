@@ -1,0 +1,8 @@
+{
+  "name": "zapzap",
+  "description": "WhatsApp desktop application written in Pyqt6 + PyQt6-WebEngine.",
+  "sites": [
+    "https://github.com/rafatosta/zapzap"
+  ],
+  "sources": []
+}

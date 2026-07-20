@@ -1,0 +1,8 @@
+{
+  "name": "mate-system-monitor",
+  "description": "Process viewer and system resource monitor, from the MATE Desktop Environment.\n \n <img src=\"https://wiki.mate-desktop.org/img/applications/mate-system-monitor-window.png\" alt=\"Screenshot\">",
+  "sites": [
+    "https://github.com/ivan-hc/MATE-system-monitor-appimage"
+  ],
+  "sources": []
+}

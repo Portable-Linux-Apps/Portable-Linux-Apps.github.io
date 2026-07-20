@@ -1,0 +1,8 @@
+{
+  "name": "linuxwallpaper",
+  "description": "Bing wallpaper of the day.",
+  "sites": [
+    "https://github.com/backspec3/LinuxBingWallpaper"
+  ],
+  "sources": []
+}

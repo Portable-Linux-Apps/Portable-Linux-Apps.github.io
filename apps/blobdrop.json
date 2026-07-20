@@ -1,0 +1,8 @@
+{
+  "name": "blobdrop",
+  "description": "Drag and drop files directly out of the terminal.",
+  "sites": [
+    "https://github.com/vimpostor/blobdrop"
+  ],
+  "sources": []
+}

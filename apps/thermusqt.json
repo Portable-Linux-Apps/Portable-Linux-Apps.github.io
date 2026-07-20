@@ -1,0 +1,8 @@
+{
+  "name": "thermusqt",
+  "description": "A tool to calculate the particle composition of the final hadronic state",
+  "sites": [
+    "https://github.com/yschutz/ThermusQt"
+  ],
+  "sources": []
+}

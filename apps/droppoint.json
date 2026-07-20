@@ -1,0 +1,8 @@
+{
+  "name": "droppoint",
+  "description": "Make drag-and-drop easier using DropPoint. Drag content without having  to open side-by-side windows.",
+  "sites": [
+    "https://droppoint.netlify.app/"
+  ],
+  "sources": []
+}

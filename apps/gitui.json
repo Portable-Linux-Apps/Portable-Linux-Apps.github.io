@@ -1,0 +1,8 @@
+{
+  "name": "gitui",
+  "description": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
+  "sites": [
+    "https://github.com/extrawurst/gitui"
+  ],
+  "sources": []
+}

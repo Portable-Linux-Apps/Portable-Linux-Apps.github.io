@@ -1,0 +1,8 @@
+{
+  "name": "passphraser",
+  "description": "Phrase-based password generator that can use your own list of words available on Windows, macOS, and Linux",
+  "sites": [
+    "https://github.com/zevlee/passphraser"
+  ],
+  "sources": []
+}

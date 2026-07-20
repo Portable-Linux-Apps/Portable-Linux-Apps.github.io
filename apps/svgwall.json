@@ -1,0 +1,8 @@
+{
+  "name": "svgwall",
+  "description": "SVG Wallpaper Utility for Xorg",
+  "sites": [
+    "https://github.com/grimpirate/SVGWall"
+  ],
+  "sources": []
+}

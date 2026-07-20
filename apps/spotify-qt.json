@@ -1,0 +1,8 @@
+{
+  "name": "spotify-qt",
+  "description": "Lightweight Spotify client using Qt",
+  "sites": [
+    "https://github.com/kraxarn/spotify-qt"
+  ],
+  "sources": []
+}

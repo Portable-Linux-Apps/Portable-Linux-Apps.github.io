@@ -1,0 +1,8 @@
+{
+  "name": "electrumfair",
+  "description": "Lightweight FairCoin Client",
+  "sites": [
+    "https://github.com/faircoin/electrumfair"
+  ],
+  "sources": []
+}

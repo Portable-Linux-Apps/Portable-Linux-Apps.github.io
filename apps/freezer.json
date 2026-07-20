@@ -1,0 +1,10 @@
+{
+  "name": "freezer",
+  "description": "An unofficial client for Deezer (AppImage version)",
+  "sites": [
+    "https://files.freezer.life"
+  ],
+  "sources": [
+    "https://github.com/eNV25/freezer-releases"
+  ]
+}

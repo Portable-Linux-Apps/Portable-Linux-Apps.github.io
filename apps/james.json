@@ -1,0 +1,8 @@
+{
+  "name": "james",
+  "description": "HTTP/HTTPS proxy built in Electron and React",
+  "sites": [
+    "https://github.com/james-proxy/james"
+  ],
+  "sources": []
+}

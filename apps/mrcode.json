@@ -1,0 +1,8 @@
+{
+  "name": "mrcode",
+  "description": "An opinionated editor based on VSCodium / VSCode",
+  "sites": [
+    "https://github.com/zokugun/MrCode"
+  ],
+  "sources": []
+}

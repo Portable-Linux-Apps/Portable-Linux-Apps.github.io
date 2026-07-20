@@ -1,0 +1,8 @@
+{
+  "name": "xemu-enhanced",
+  "description": "Unofficial, original Xbox Emulator for Windows, macOS, and Linux (Active Development).",
+  "sites": [
+    "https://github.com/pkgforge-dev/xemu-AppImage-Enhanced"
+  ],
+  "sources": []
+}

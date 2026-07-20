@@ -1,0 +1,8 @@
+{
+  "name": "yup",
+  "description": "Arch Linux AUR Helper with ncurses functionality and better searching and sorting.",
+  "sites": [
+    "https://github.com/ericm/yup"
+  ],
+  "sources": []
+}

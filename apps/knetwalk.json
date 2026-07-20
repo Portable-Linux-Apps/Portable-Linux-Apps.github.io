@@ -1,0 +1,10 @@
+{
+  "name": "knetwalk",
+  "description": "Construct a network by connecting all terminals to the server with wires by rotating these elements around. Use as few rotations as possible. \n \n This game is part of the KDE Games suite.\n \n USAGE (from the command line):\n \n           kdegames -h (shows the list of games)\n           kdegames $GAME (launches the selected game)\n           \n <img src=\"https://cdn.kde.org/screenshots/knetwalk/knetwalk.png\" alt=\"Screenshot\">",
+  "sites": [
+    "https://apps.kde.org"
+  ],
+  "sources": [
+    "https://github.com/ivan-hc/KDE-games-suite-appimage"
+  ]
+}

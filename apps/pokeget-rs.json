@@ -1,0 +1,8 @@
+{
+  "name": "pokeget-rs",
+  "description": "A better rust version of pokeget.",
+  "sites": [
+    "https://github.com/talwat/pokeget-rs"
+  ],
+  "sources": []
+}

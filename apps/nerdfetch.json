@@ -1,0 +1,8 @@
+{
+  "name": "nerdfetch",
+  "description": "A POSIX *nix fetch script using Nerdfonts.",
+  "sites": [
+    "https://github.com/ThatOneCalculator/NerdFetch"
+  ],
+  "sources": []
+}

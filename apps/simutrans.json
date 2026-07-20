@@ -1,0 +1,8 @@
+{
+  "name": "simutrans",
+  "description": "Unofficial, a freeware and open-source transportation simulator.",
+  "sites": [
+    "https://github.com/pkgforge-dev/Simutrans-AppImage"
+  ],
+  "sources": []
+}
