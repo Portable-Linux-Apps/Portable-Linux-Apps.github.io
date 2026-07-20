@@ -6,10 +6,10 @@
 {"name":"protonup-qt","description":"Manage Proton-GE/Luxtorpeda for Steam/Wine-GE for Lutris."},
 {"name":"undertaker141","description":"A free and open-source game-center for linux. Pre-configured Wine and Native Games for Linux."},
 {"name":"visipics","description":"Windows software to find and remove duplicate pictures. Unofficial AppImage built using \"wine32-deploy\" and powered by \"wine\"."},
-{"name":"wine32-deploy","description":"Tool for creating AppImages for 32-bit Microsoft Windows apps."},
+{"name":"wine","description":"Unofficial. Run Windows programs, select a version from mmtrt/WINE_AppImage."},
 {"name":"wine-devel","description":"Unofficial. Compatibility layer to run x86_64 Windows programs, Dev Edition."},
 {"name":"wine-stable","description":"Unofficial. Compatibility layer to run x86_64 Windows programs, Stable."},
-{"name":"wine-staging-ge-proton","description":"Unofficial. Run x86_64 Windows programs, Staging GE Proton."},
 {"name":"wine-staging","description":"Unofficial. Compatibility layer to run x86_64 Windows programs, Staging."},
-{"name":"wine","description":"Unofficial. Run Windows programs, select a version from mmtrt/WINE_AppImage."}
+{"name":"wine-staging-ge-proton","description":"Unofficial. Run x86_64 Windows programs, Staging GE Proton."},
+{"name":"wine32-deploy","description":"Tool for creating AppImages for 32-bit Microsoft Windows apps."}
 ]

@@ -8,11 +8,11 @@
 {"name":"samrewritten","description":"Steam Achievement Manager For Linux. Rewritten in C++."},
 {"name":"sc-controller","description":"User-mode driver and GTK3 based GUI for Steam Controller."},
 {"name":"sfp","description":"This utility is designed to allow you to apply skins to the modern Steam client."},
-{"name":"steamcad","description":"2D CAD especially designed to draw steam locomotives."},
-{"name":"steamdepotdownloadergui","description":"Easily download older versions of games from Steam."},
+{"name":"steam","description":"Unofficial. The ultimate destination for playing, discussing, and creating games."},
 {"name":"steam-rom-manager","description":"An app for managing ROMs in Steam."},
 {"name":"steam-tui","description":"Rust TUI client for steamcmd."},
-{"name":"steam","description":"Unofficial. The ultimate destination for playing, discussing, and creating games."},
+{"name":"steamcad","description":"2D CAD especially designed to draw steam locomotives."},
+{"name":"steamdepotdownloadergui","description":"Easily download older versions of games from Steam."},
 {"name":"vapour","description":"An alternative open source Steam client."},
 {"name":"wlx-overlay-s","description":"Access your Wayland/X11 desktop from Monado/WiVRn/SteamVR."}
 ]
