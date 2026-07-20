@@ -6,7 +6,7 @@
  front end and a reusable Rust conversion core for FFmpeg argument generation,
  source probing, compatibility validation, task control, and progress parsing.
 
-![Screenshot](https://raw.githubusercontent.com/66HEX/frame/main/preview.png)
+![Screenshot](https://raw.githubusercontent.com/66HEX/frame/master/preview.png)
 
  SITE: https://www.framegui.app
 
