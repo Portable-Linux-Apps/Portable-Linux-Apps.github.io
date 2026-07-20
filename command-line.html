@@ -34,14 +34,14 @@ fetch('categories/command-line.json')
     for (var i = 0; i < data.length; i++) {
       var app = data[i];
       html += '<div class="app-item">';
-      html += '<img loading="lazy" src="icons/' + app.icon + '" width="48" height="48" alt="" class="app-icon">';
+      html += '<img loading="lazy" src="icons/' + app.name + ".png" + '" width="48" height="48" alt="" class="app-icon">';
       html += '<div class="app-body">';
       html += '<a href="app.html?name=' + encodeURIComponent(app.name) + '" class="app-name"><strong>' + app.name + '</strong></a>';
       html += '<p class="app-desc">' + app.description + '</p>';
       html += '</div>';
       html += '<div class="app-links">';
-      html += '<a href="' + app.installer_blob + '" class="install-link">blob</a>';
-      html += '<a href="' + app.installer_raw + '" class="install-link">raw</a>';
+      html += '<a href="' + 'https://github.com/ivan-hc/AM/blob/main/programs/x86_64/' + app.name + '" class="install-link">blob</a>';
+      html += '<a href="' + 'https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/' + app.name + '" class="install-link">raw</a>';
       html += '</div>';
       html += '</div>';
     }
