@@ -121,25 +121,33 @@
       // Gallery carousel
       if (app.screenshots && app.screenshots.length > 1) {
         var galIdx = 0;
+        var galBusy = false;
         var galImg = document.getElementById('gal-img');
         var galPrev = document.getElementById('gal-prev');
         var galNext = document.getElementById('gal-next');
         var galDots = document.getElementById('gal-dots');
         var shots = app.screenshots;
 
+        // Preload every screenshot up front so later swaps come from
+        // the browser cache instead of waiting on the network.
+        for (var p = 0; p < shots.length; p++) {
+          var pre = new Image();
+          pre.src = shots[p];
+        }
+
         for (var i = 0; i < shots.length; i++) {
           var dot = document.createElement('button');
           dot.className = 'gallery-dot' + (i === 0 ? ' active' : '');
           dot.setAttribute('aria-label', 'Screenshot ' + (i + 1));
           (function(idx) {
-            dot.addEventListener('click', function() { showGal(idx); });
+            dot.addEventListener('click', function() {
+              if (idx !== galIdx) showGal(idx, idx > galIdx ? 'next' : 'prev');
+            });
           })(i);
           galDots.appendChild(dot);
         }
 
-        function showGal(idx) {
-          galIdx = idx;
-          galImg.src = shots[idx];
+        function updateControls(idx) {
           galPrev.disabled = idx === 0;
           galNext.disabled = idx === shots.length - 1;
           var dots = galDots.children;
@@ -148,15 +156,44 @@
           }
         }
 
+        function showGal(idx, dir) {
+          if (galBusy || idx === galIdx) return;
+          galBusy = true;
+          galIdx = idx;
+          updateControls(idx);
+
+          // Fade/slide the current image out first...
+          galImg.classList.add('gal-transition', dir === 'prev' ? 'gal-prev' : 'gal-next');
+
+          setTimeout(function() {
+            galImg.src = shots[idx];
+
+            function reveal() {
+              // Force a reflow so removing the class re-triggers the transition.
+              void galImg.offsetWidth;
+              galImg.classList.remove('gal-transition', 'gal-prev', 'gal-next');
+              galBusy = false;
+            }
+
+            // Thanks to preloading this is almost always already cached,
+            // so it resolves on the very next frame rather than stalling.
+            if (galImg.complete) {
+              requestAnimationFrame(reveal);
+            } else {
+              galImg.onload = reveal;
+            }
+          }, 160);
+        }
+
         galPrev.addEventListener('click', function() {
-          if (galIdx > 0) showGal(galIdx - 1);
+          if (galIdx > 0) showGal(galIdx - 1, 'prev');
         });
         galNext.addEventListener('click', function() {
-          if (galIdx < shots.length - 1) showGal(galIdx + 1);
+          if (galIdx < shots.length - 1) showGal(galIdx + 1, 'next');
         });
         document.addEventListener('keydown', function(e) {
-          if (e.key === 'ArrowLeft' && galIdx > 0) showGal(galIdx - 1);
-          if (e.key === 'ArrowRight' && galIdx < shots.length - 1) showGal(galIdx + 1);
+          if (e.key === 'ArrowLeft' && galIdx > 0) showGal(galIdx - 1, 'prev');
+          if (e.key === 'ArrowRight' && galIdx < shots.length - 1) showGal(galIdx + 1, 'next');
         });
       } else if (app.screenshots && app.screenshots.length === 1) {
         var p = document.getElementById('gal-prev');

@@ -114,6 +114,22 @@
   border: 1px solid var(--color-border);
   object-fit: contain;
   flex: 1;
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 0.16s ease, transform 0.16s ease;
+  will-change: opacity, transform;
+}
+
+.gallery-inner img.gal-transition {
+  opacity: 0;
+}
+
+.gallery-inner img.gal-transition.gal-next {
+  transform: translateX(10px);
+}
+
+.gallery-inner img.gal-transition.gal-prev {
+  transform: translateX(-10px);
 }
 
 .gallery-btn {
