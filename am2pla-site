@@ -77,4 +77,13 @@ for category in $CATEGORIES; do
 	rm -f "$arch-$category"
 done
 
+# Count apps for stats
+APPIMAGES_COUNT=$(sort -u stats-appimages | wc -l)
+PORTABLE_COUNT=$(echo "$PORTABLE" | wc -l)
+
+# Update stats in index.html
+if [ -f index.html ]; then
+  sed -i "s|<strong>[0-9]*</strong> unique apps &mdash; <strong>[0-9]*</strong> AppImage packages &mdash; <strong>[0-9]*</strong> standalone/portable programs &mdash; <strong>[0-9]*</strong> items|<strong>$APPS_NUMBER</strong> unique apps \&mdash; <strong>$APPIMAGES_COUNT</strong> AppImage packages \&mdash; <strong>$PORTABLE_COUNT</strong> standalone/portable programs \&mdash; <strong>$ITEMS_NUMBER</strong> items|" index.html
+fi
+
 rm -f "$arch"-apps stats-appimages stats-portable
