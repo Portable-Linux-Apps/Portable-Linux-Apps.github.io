@@ -10,3 +10,6 @@ _site/
 # System files
 .DS_Store  # macOS
 Thumbs.db  # Windows
+
+# Python cache
+__pycache__
