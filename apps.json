@@ -2905,6 +2905,7 @@
 {"name":"tess","description":"A hackable, simple, rapid and beautiful terminal."},
 {"name":"tesseract","description":"Tesseract Open Source OCR Engine AppImage."},
 {"name":"test","description":"Check file types and compare values. This is part of \"am-utils\" suite."},
+{"name":"testapp","description":"testapp"},
 {"name":"testdisk","description":"TestDisk & PhotoRec, tools to recover lost partitions and files."},
 {"name":"tetanes","description":"A cross-platform NES emulator written in Rust using wgpu."},
 {"name":"tev","description":"High dynamic range (HDR) image viewer for people who care about colors."},
