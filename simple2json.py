@@ -29,10 +29,8 @@ for f in os.listdir(apps_dir):
         continue
     with open(f"{apps_dir}/{f}", 'r') as file:
         lines = file.readlines()
-        file.close()
-        os.remove(f"{apps_dir}/{f}")
 
-    print(f);
+    print(f)
     data = {"name": "", "description": "", "screenshots": [], "sites": [], "sources": [], "buttons": []}
     desc_lines = []
 
@@ -57,8 +55,8 @@ for f in os.listdir(apps_dir):
 
     with open(f"{apps_dir}/{f}.json", 'w') as file:
         file.write(text)
-        file.close()
-        os.remove(f"{apps_dir}/{f}")
-        count += 1
+
+    os.remove(f"{apps_dir}/{f}")
+    count += 1
 
 print("Processed", count, "apps")
