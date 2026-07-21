@@ -6540,6 +6540,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "gitfourchette",
+    "description": "The comfortable Git UI for Linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/gitfourchette.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "githoard",
     "description": "Hoard git repositories with ease...",
     "icon": "https://portable-linux-apps.github.io/icons/githoard.png",
@@ -18024,6 +18030,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "tur-tauri",
+    "description": "A sleek, multi-engine download manager. Native Tauri frontend for tur-rs...",
+    "icon": "https://portable-linux-apps.github.io/icons/tur-tauri.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "tura",
     "description": "Tura is an open-source, local-first AI coding agent that works with existing AI subscriptions and coding tools...",
     "icon": "https://portable-linux-apps.github.io/icons/tura.png",
@@ -20175,6 +20187,12 @@
     "packageName": "zoom",
     "description": "Unofficial. Video Conferencing and Web Conferencing Service...",
     "icon": "https://portable-linux-apps.github.io/icons/zoom.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "zorite",
+    "description": "Local-first, Logseq-style daily journal. Rust + GPUI + SQLite, with a custom gpui-markdown renderer and PDF viewer, custom gpui-whiteboard, (clickable wiki-links, tags, slash menu)...",
+    "icon": "https://portable-linux-apps.github.io/icons/zorite.png",
     "arch": ["x86_64"]
   },
   {
