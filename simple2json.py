@@ -55,7 +55,7 @@ for f in os.listdir(apps_dir):
 
     text = json.dumps(data, separators=(',', ':'))
 
-    with open(f"{apps_dir}/{f.json}", 'w') as file:
+    with open(f"{apps_dir}/{f}.json", 'w') as file:
         file.write(text)
         file.close()
         os.remove(f"{apps_dir}/{f}")
