@@ -36,7 +36,7 @@ for f in os.listdir(apps_dir):
 
     data["name"] = lines[0].strip()[1:].strip()
 
-    for line in lines:
+    for line in lines[1:]:
         ls = line.strip()
         if ls.startswith("# SCREENSHOTS:"):
             data["screenshots"] = ls[15:].strip().split()
