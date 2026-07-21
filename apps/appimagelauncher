@@ -1,0 +1,5 @@
+# appimagelauncher
+AppImageLauncher is a helper application for Linux distributions  serving as a kind of "entry point" for running and integrating  AppImages. AppImageLauncher plays well with other applications managing  AppImages, for example app stores. However, it doesn't depend on  any of those, and can run completely standalone.
+
+ This script provides the command line version.
+# SITES: https://github.com/TheAssassin/AppImageLauncher

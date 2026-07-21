@@ -1,0 +1,3 @@
+# tetanes
+A cross-platform NES emulator written in Rust using wgpu.
+# SITES: https://github.com/lukexor/tetanes

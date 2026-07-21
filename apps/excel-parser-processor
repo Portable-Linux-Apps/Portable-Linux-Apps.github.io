@@ -1,0 +1,3 @@
+# excel-parser-processor
+Simply generates an array of items from the rows of an Excel file  and does the repetitive tedious operations step by step recursively  till every item of the array is processed.
+# SITES: https://github.com/btargac/excel-parser-processor

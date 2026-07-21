@@ -1,0 +1,64 @@
+#!/bin/env python3
+
+import os
+import json
+import sys
+
+apps_dir = "apps"
+
+def remove_whitespace_eol(s: str) -> str:
+    r = []
+    for line in s.splitlines():
+        r.append(line.rstrip())
+
+    return "\n".join(r)
+
+def github_actions() -> bool:
+    if "CI" in os.environ or os.environ.get("CI") is not None or "GITHUB_RUN_ID" in os.environ:
+        return True
+
+    return False
+
+if not github_actions():
+    print("Not running in Github Actions")
+    sys.exit(0)
+
+count = 0
+for f in os.listdir(apps_dir):
+    if "." in f:
+        continue
+    with open(f"{apps_dir}/{f}", 'r') as file:
+        lines = file.readlines()
+        file.close()
+        os.remove(f"{apps_dir}/{f}")
+
+    print(f);
+    data = {"name": "", "description": "", "screenshots": [], "sites": [], "sources": [], "buttons": []}
+    desc_lines = []
+
+    for line in lines:
+        ls = line.strip()
+        if ls.startswith("#"):
+            data["name"] = ls[1:].strip()
+        elif ls.startswith("# SCREENSHOTS:"):
+            data["screenshots"] = ls[15:].strip().split()
+        elif ls.startswith("# SITES:"):
+            data["sites"] = ls[8:].strip().split()
+        elif ls.startswith("# SOURCES:"):
+            data["sources"] = ls[10:].strip().split()
+        elif ls.startswith("# BUTTONS:"):
+            data["buttons"] = ls[10:].strip().split()
+        else:
+            desc_lines.append(line)
+
+        data["description"] = "\n".join(desc_lines).strip()
+
+    text = json.dumps(data, separators=(',', ':'))
+
+    with open(f"{apps_dir}/{f.json}", 'w') as file:
+        file.write(text)
+        file.close()
+        os.remove(f"{apps_dir}/{f}")
+        count += 1
+
+print("Processed", count, "apps")

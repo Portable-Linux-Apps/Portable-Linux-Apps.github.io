@@ -1,10 +1,10 @@
-# NAME
+# some app
+description of your app.
+only use bold, italic, underline, lists markdown here
+do not add links or images here
+use SOURCES field if you package someone else's app
 
- DESCRIPTION
-
- ![Screenshot](URL)
-
- SITE: URL
-
- | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
- | --- | --- |
+# SCREENSHOTS: https://someapp.io/1.png https://someapp.io/2.png
+# SITES: https://someapp.io
+# SOURCES: https://github.com/name/someapp-appimage
+# BUTTONS: Label_of_Button::https://discord.gg Donation_Link::https://someapp.io/donate

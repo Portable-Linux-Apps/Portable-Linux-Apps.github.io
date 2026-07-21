@@ -1,0 +1,3 @@
+# tput
+tput  - initialize a terminal, exercise its capabilities, or query terminfo database. This is part of "am-utils" suite.
+# SITES: https://github.com/ivan-hc/am-utils

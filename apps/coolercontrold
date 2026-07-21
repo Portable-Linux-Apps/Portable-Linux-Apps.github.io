@@ -1,0 +1,5 @@
+# coolercontrold
+Daemon for "coolercontrol", to monitor your cooling devices.
+
+ Required by "coolercontrol".
+# SITES: https://gitlab.com/coolercontrol

@@ -1,0 +1,3 @@
+# ncspot
+Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+# SITES: https://github.com/hrkfdn/ncspot

@@ -1,0 +1,12 @@
+# kgoldrunner
+Collect all the gold while avoiding pursuing enemies. Or dig holes to trap  and walk over them.
+
+ This game is part of the KDE Games suite.
+
+ USAGE (from the command line):
+
+           kdegames -h (shows the list of games)
+           kdegames $GAME (launches the selected game)
+# SCREENSHOTS: https://cdn.kde.org/screenshots/kgoldrunner/kgoldrunner.png
+# SITES: https://apps.kde.org
+# SOURCES: https://github.com/ivan-hc/KDE-games-suite-appimage

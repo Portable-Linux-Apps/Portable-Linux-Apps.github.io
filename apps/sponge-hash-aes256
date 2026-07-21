@@ -1,0 +1,3 @@
+# sponge-hash-aes256
+A sponge-based secure hash function that uses AES-256 as its internal PRF.
+# SITES: https://github.com/lordmulder/sponge-hash-aes256

@@ -1,1 +1,0 @@
-{"name":"kftray","description":"Kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding, multi-hop proxy routing through k8s clusters, stateful config via filesystem or git.","sites":["https://github.com/hcavarsan/kftray"],"sources":[],"buttons":[]}

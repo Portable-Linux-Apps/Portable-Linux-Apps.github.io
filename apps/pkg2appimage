@@ -1,0 +1,3 @@
+# pkg2appimage
+Utility to convert .yml recipes to AppDir (see appimagetool).
+# SITES: https://github.com/AppImage/pkg2appimage

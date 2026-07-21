@@ -1,0 +1,4 @@
+# wine32-deploy
+Wine32-deploy is a tool for creating AppImages for 32-bit Microsoft Windows® applications.
+# SITES:
+# SOURCES: https://github.com/sudo-give-me-coffee/wine32-deploy

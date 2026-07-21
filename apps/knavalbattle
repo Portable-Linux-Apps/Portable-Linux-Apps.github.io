@@ -1,0 +1,12 @@
+# knavalbattle
+Battle Ship game for KDE workspaces. Players try to sink each other's ships  without knowing where they are.
+
+ This game is part of the KDE Games suite.
+
+ USAGE (from the command line):
+
+           kdegames -h (shows the list of games)
+           kdegames $GAME (launches the selected game)
+# SCREENSHOTS: https://cdn.kde.org/screenshots/knavalbattle/knavalbattle.png
+# SITES: https://apps.kde.org
+# SOURCES: https://github.com/ivan-hc/KDE-games-suite-appimage

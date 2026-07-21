@@ -67,9 +67,7 @@
       // Description
       html += '<div class="app-body-content">';
       if (app.description) {
-        var desc = app.description;
-        desc = desc.replace(/\n/g, '<br>');
-        html += desc;
+        html += markdownToHtml(app.description);
       }
       html += '</div>';
 
@@ -91,7 +89,7 @@
         html += '<div class="app-links-section"><h2>Links</h2><ul class="button-list">';
         for (var i = 0; i < app.buttons.length; i++) {
           var parts = app.buttons[i].split('::');
-          var label = parts[0] || 'Link';
+          var label = parts[0].replaceAll('_', ' ') || 'Link';
           var url = parts[1] || '#';
           html += '<li><a href="' + url + '" class="app-button" target="_blank" rel="noopener">' + label + '</a></li>';
         }
@@ -213,6 +211,50 @@
     var div = document.createElement('div');
     div.appendChild(document.createTextNode(s));
     return div.innerHTML;
+  }
+
+  // Minimal markdown -> HTML for descriptions.
+  // Supports only: **bold**, *italic*, ++underline++, and - / * / 1. lists.
+  // Everything else is treated as plain text (and HTML-escaped first,
+  // so no other tags can sneak in through the JSON data).
+  function inlineMarkdown(s) {
+    s = s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+    s = s.replace(/__(.+?)__/g, '<strong>$1</strong>');
+    s = s.replace(/\+\+(.+?)\+\+/g, '<u>$1</u>');
+    s = s.replace(/\*(.+?)\*/g, '<em>$1</em>');
+    s = s.replace(/_(.+?)_/g, '<em>$1</em>');
+    return s;
+  }
+
+  function markdownToHtml(text) {
+    var lines = escapeHtml(text).split('\n');
+    var blocks = [];
+    var i = 0;
+
+    while (i < lines.length) {
+      var ulRe = /^\s*[-*]\s+(.*)$/;
+      var olRe = /^\s*\d+\.\s+(.*)$/;
+      var ulMatch = lines[i].match(ulRe);
+      var olMatch = !ulMatch && lines[i].match(olRe);
+
+      if (ulMatch || olMatch) {
+        var tag = ulMatch ? 'ul' : 'ol';
+        var re = ulMatch ? ulRe : olRe;
+        var items = [];
+        while (i < lines.length) {
+          var m = lines[i].match(re);
+          if (!m) break;
+          items.push('<li>' + inlineMarkdown(m[1]) + '</li>');
+          i++;
+        }
+        blocks.push('<' + tag + '>' + items.join('') + '</' + tag + '>');
+      } else {
+        blocks.push(inlineMarkdown(lines[i]));
+        i++;
+      }
+    }
+
+    return blocks.join('<br>');
   }
 })();
 

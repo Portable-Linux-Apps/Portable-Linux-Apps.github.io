@@ -64,6 +64,15 @@
   margin-bottom: 0.75rem;
 }
 
+.app-body-content ul,
+.app-body-content ol {
+  margin: 0 0 0.75rem 1.25rem;
+}
+
+.app-body-content li {
+  margin-bottom: 0.25rem;
+}
+
 .app-body-content img {
   max-width: 100%;
   height: auto;

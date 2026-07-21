@@ -1,0 +1,3 @@
+# basename
+Strip directory and suffix from filenames. This is part of "am-utils" suite.
+# SITES: https://github.com/ivan-hc/am-utils

@@ -34,7 +34,7 @@ jobs:
             for f in apps/*; do
               name=$(echo "$f" | sed 's:.*/::; s/\.\(md\|json\)$//')
               if ! echo "$AMD64_LIST" 2>/dev/null | grep -q "◆ $name :"; then
-                rm -f "apps/$name.md" "apps/$name.json"
+                rm -f "apps/$name.md" "apps/$name.json" "apps/$name"
                 echo "Removed apps/$name"
               fi
             done
@@ -73,8 +73,8 @@ jobs:
                   fi
 
                   ESC_DESC=$(echo "$DESCRIPTION" | sed 's/"/\\"/g')
-                  printf '{"name":"%s","description":"%s","sites":["%s"],"sources":["%s"],"screenshots":[]}\n' \
-                    "$a" "$ESC_DESC" "$SITE" "$SITE" > apps/"$a".json
+                  printf '# %s\n%s\n# SCREENSHOTS: %s\n# SITES: %s\n' \
+                    "$a" "$ESC_DESC" "/contribute_ss.png /contribute_ss.png" "$SITE" > apps/"$a".json
 
                   echo "Adding apps/$a.json"
                 fi

@@ -1,0 +1,9 @@
+# kate
+Kate is a multi-document, multi-view text editor by KDE.
+
+ It features stuff like codefolding, syntaxhighlighting, dynamic word wrap, an embedded console, an extensive plugin interface and some preliminary  scripting support.
+
+ This tool is part of the KDE Utils Suite.
+# SCREENSHOTS: https://cdn.kde.org/screenshots/kate/kate-windows-dark2.png
+# SITES: https://apps.kde.org
+# SOURCES: https://github.com/ivan-hc/KDE-utils-appimage

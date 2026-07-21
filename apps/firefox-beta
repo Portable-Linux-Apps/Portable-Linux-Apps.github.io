@@ -1,0 +1,9 @@
+# firefox-beta
+Firefox is a powerful, extensible web browser with support for modern web application technologies.
+
+ This is the Beta release.
+
+ This script provides both the official portable build with automatic updates and the AppImage.
+# SCREENSHOTS: https://user-images.githubusercontent.com/88724353/235563850-61d359ff-53ac-43a6-ab1d-33297dc4df73.jpg
+# SITES: https://www.firefox.com
+# SOURCES: https://github.com/ivan-hc/Firefox-appimage

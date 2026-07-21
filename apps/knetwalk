@@ -1,0 +1,12 @@
+# knetwalk
+Construct a network by connecting all terminals to the server with wires by rotating these elements around. Use as few rotations as possible.
+
+ This game is part of the KDE Games suite.
+
+ USAGE (from the command line):
+
+           kdegames -h (shows the list of games)
+           kdegames $GAME (launches the selected game)
+# SCREENSHOTS: https://cdn.kde.org/screenshots/knetwalk/knetwalk.png
+# SITES: https://apps.kde.org
+# SOURCES: https://github.com/ivan-hc/KDE-games-suite-appimage

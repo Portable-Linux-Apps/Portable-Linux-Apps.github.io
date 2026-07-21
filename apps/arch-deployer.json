@@ -1,1 +1,0 @@
-{"name":"arch-deployer","description":"A script to bulk download an Arch Linux package with all its dependencies to be converted in AppImage.","sites":["https://github.com/ivan-hc/Arch-Deployer"],"sources":[],"buttons":[]}

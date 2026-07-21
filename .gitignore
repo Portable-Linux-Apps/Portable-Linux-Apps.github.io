@@ -1,15 +1,11 @@
-# Jekyll
-_site/
-.jekyll-cache/
-.jekyll-metadata/
-.sass-cache/
-
-# Bundler files
-.bundle/
-
 # System files
 .DS_Store  # macOS
 Thumbs.db  # Windows
 
 # Python cache
 __pycache__
+
+# Kate backup
+*~
+
+test

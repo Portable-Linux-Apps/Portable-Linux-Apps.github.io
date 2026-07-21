@@ -1,0 +1,3 @@
+# dfdemo
+A thin Tcl/Tk GUI around the df POSIX command.
+# SITES: https://github.com/julien-montmartin/statcl-df-demo

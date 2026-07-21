@@ -1,0 +1,3 @@
+# bili-liveluckdraw
+A Bilibili live stream lottery tool that draws winners based on keywords retrieved from the chat comments. It is built using Electron + React + Vite.
+# SITES: https://github.com/grtsinry43/Bili-LiveLuckDraw

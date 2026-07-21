@@ -1,0 +1,3 @@
+# appimageupdate
+A Rust implementation of AppImageUpdate, a tool for updating AppImages using efficient delta updates using zsync.
+# SITES: https://github.com/pkgforge-dev/AppImageUpdate

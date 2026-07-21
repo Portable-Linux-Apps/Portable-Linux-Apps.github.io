@@ -1,0 +1,12 @@
+# kspaceduel
+Eliminate your opponents satellite while controlling your own satellite  revolving around a sun. Don't get too close or your will burn up.
+
+ This game is part of the KDE Games suite.
+
+ USAGE (from the command line):
+
+           kdegames -h (shows the list of games)
+           kdegames $GAME (launches the selected game)
+# SCREENSHOTS: https://cdn.kde.org/screenshots/kspaceduel/kspaceduel.png
+# SITES: https://apps.kde.org
+# SOURCES: https://github.com/ivan-hc/KDE-games-suite-appimage
