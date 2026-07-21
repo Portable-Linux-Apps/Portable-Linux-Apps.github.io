@@ -1639,7 +1639,7 @@
   },
   {
     "packageName": "bitcoin-safe",
-    "description": "A desktop software for managing your cold storage wallets. - andreasgriffin/bitcoin-safe...",
+    "description": "A desktop software for managing your cold storage wallets...",
     "icon": "https://portable-linux-apps.github.io/icons/bitcoin-safe.png",
     "arch": ["x86_64"]
   },
@@ -13707,6 +13707,12 @@
     "packageName": "printventory",
     "description": "The ultimate tool for managing your 3D printing collection with ease. Sort, tag, and track your models in one place...",
     "icon": "https://portable-linux-apps.github.io/icons/printventory.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "prism",
+    "description": "A beginner-friendly live media trigger and overlay tool built with Qt 6, FFmpeg, and OpenGL. Perfect for school events, small concerts, and sports—combining the simplicity of instant clip triggering with the power of live visual control. - CutWire-Studios/Prism..",
+    "icon": "https://portable-linux-apps.github.io/icons/prism.png",
     "arch": ["x86_64"]
   },
   {
