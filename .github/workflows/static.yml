@@ -22,17 +22,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Single deploy job since we're just deploying
-  build:
-    runs-on: ubuntu-latest
-    steps:
-       - name: Build
-         run: |
-           sudo apt install python3 -ys
-           python3 simple2json.py
-
-  deploy:
-    needs: build
+  build-and-deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -40,6 +30,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+
+      - name: Build App Files
+        run: |
+          python3 simple2json.py
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
