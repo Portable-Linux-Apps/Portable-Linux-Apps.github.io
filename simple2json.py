@@ -34,11 +34,11 @@ for f in os.listdir(apps_dir):
     data = {"name": "", "description": "", "screenshots": [], "sites": [], "sources": [], "buttons": []}
     desc_lines = []
 
+    data["name"] = lines[0].strip()[1:].strip()
+
     for line in lines:
         ls = line.strip()
-        if ls.startswith("#"):
-            data["name"] = ls[1:].strip()
-        elif ls.startswith("# SCREENSHOTS:"):
+        if ls.startswith("# SCREENSHOTS:"):
             data["screenshots"] = ls[15:].strip().split()
         elif ls.startswith("# SITES:"):
             data["sites"] = ls[8:].strip().split()
