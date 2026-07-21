@@ -232,24 +232,50 @@
     var i = 0;
 
     while (i < lines.length) {
-      var ulRe = /^\s*[-*]\s+(.*)$/;
-      var olRe = /^\s*\d+\.\s+(.*)$/;
-      var ulMatch = lines[i].match(ulRe);
-      var olMatch = !ulMatch && lines[i].match(olRe);
+      var line = lines[i];
+      var trimmed = line.trim();
+
+      // Skip completely empty lines – they should not produce <br>
+      if (trimmed === '') {
+        i++;
+        continue;
+      }
+
+      var ulRe = /^[-*]\s+(.*)$/;
+      var olRe = /^\d+\.\s+(.*)$/;
+      var ulMatch = line.match(ulRe);
+      var olMatch = !ulMatch && line.match(olRe);
 
       if (ulMatch || olMatch) {
         var tag = ulMatch ? 'ul' : 'ol';
         var re = ulMatch ? ulRe : olRe;
         var items = [];
+
+        // Collect all consecutive list items, skipping blank lines
         while (i < lines.length) {
-          var m = lines[i].match(re);
-          if (!m) break;
+          var currentLine = lines[i];
+          var trimmedCurrent = currentLine.trim();
+
+          // Skip blank lines inside the list – they do not break it
+          if (trimmedCurrent === '') {
+            i++;
+            continue;
+          }
+
+          var m = currentLine.match(re);
+          if (!m) break; // non-list, non-empty line ends the list
+
           items.push('<li>' + inlineMarkdown(m[1]) + '</li>');
           i++;
         }
-        blocks.push('<' + tag + '>' + items.join('') + '</' + tag + '>');
+
+        if (items.length) {
+          blocks.push('<' + tag + '>' + items.join('') + '</' + tag + '>');
+        }
+        // i is now positioned at the line that broke the list (or at end)
       } else {
-        blocks.push(inlineMarkdown(lines[i]));
+        // Normal text block
+        blocks.push(inlineMarkdown(line));
         i++;
       }
     }
