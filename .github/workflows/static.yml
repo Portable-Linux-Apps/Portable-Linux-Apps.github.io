@@ -33,7 +33,13 @@ jobs:
 
       - name: Build App Files
         run: |
-          python3 simple2json.py
+          python3 simple2json.py 2>&1 | tee build-log.txt
+
+      - name: Upload Build Log
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-log
+          path: build-log.txt
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

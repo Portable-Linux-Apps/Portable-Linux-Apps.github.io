@@ -6,57 +6,77 @@ import sys
 
 apps_dir = "apps"
 
-def remove_whitespace_eol(s: str) -> str:
-    r = []
-    for line in s.splitlines():
-        r.append(line.rstrip())
-
-    return "\n".join(r)
-
 def github_actions() -> bool:
     if "CI" in os.environ or os.environ.get("CI") is not None or "GITHUB_RUN_ID" in os.environ:
         return True
-
     return False
 
 if not github_actions():
     print("Not running in Github Actions")
     sys.exit(0)
 
+all_entries = os.listdir(apps_dir)
+print(f"Found {len(all_entries)} entries in {apps_dir}/")
+
 count = 0
-for f in os.listdir(apps_dir):
+skipped = []
+failed = []
+
+for f in all_entries:
+    full_path = f"{apps_dir}/{f}"
+
     if "." in f:
+        skipped.append((f, "contains a dot"))
         continue
-    with open(f"{apps_dir}/{f}", 'r') as file:
-        lines = file.readlines()
 
-    print(f)
-    data = {"name": "", "description": "", "screenshots": [], "sites": [], "sources": [], "buttons": []}
-    desc_lines = []
+    if not os.path.isfile(full_path):
+        skipped.append((f, "not a regular file (directory or symlink?)"))
+        continue
 
-    for line in lines:
-        ls = line.strip()
-        if ls.startswith("#"):
-            data["name"] = ls[1:].strip()
-        elif ls.startswith("# SCREENSHOTS:"):
-            data["screenshots"] = ls[15:].strip().split()
-        elif ls.startswith("# SITES:"):
-            data["sites"] = ls[8:].strip().split()
-        elif ls.startswith("# SOURCES:"):
-            data["sources"] = ls[10:].strip().split()
-        elif ls.startswith("# BUTTONS:"):
-            data["buttons"] = ls[10:].strip().split()
-        else:
-            desc_lines.append(line)
+    try:
+        with open(full_path, 'r') as file:
+            lines = file.readlines()
 
-        data["description"] = "\n".join(desc_lines).strip()
+        data = {"name": "", "description": "", "screenshots": [], "sites": [], "sources": [], "buttons": []}
+        desc_lines = []
 
-    text = json.dumps(data, separators=(',', ':'))
+        for line in lines:
+            ls = line.strip()
+            if ls.startswith("# SCREENSHOTS:"):
+                data["screenshots"] = ls[15:].strip().split()
+            elif ls.startswith("# SITES:"):
+                data["sites"] = ls[8:].strip().split()
+            elif ls.startswith("# SOURCES:"):
+                data["sources"] = ls[10:].strip().split()
+            elif ls.startswith("# BUTTONS:"):
+                data["buttons"] = ls[10:].strip().split()
+            elif ls.startswith("#"):
+                data["name"] = ls[1:].strip()
+            else:
+                desc_lines.append(line)
 
-    with open(f"{apps_dir}/{f}.json", 'w') as file:
-        file.write(text)
+            data["description"] = "\n".join(desc_lines).strip()
 
-    os.remove(f"{apps_dir}/{f}")
-    count += 1
+        text = json.dumps(data, separators=(',', ':'))
 
-print("Processed", count, "apps")
+        with open(f"{full_path}.json", 'w') as file:
+            file.write(text)
+
+        os.remove(full_path)
+        count += 1
+
+    except Exception as e:
+        failed.append((f, str(e)))
+
+print(f"Processed {count} apps")
+
+if skipped:
+    print(f"\nSkipped {len(skipped)} entries:")
+    for name, reason in skipped:
+        print(f"  - {name}: {reason}")
+
+if failed:
+    print(f"\nFAILED on {len(failed)} entries:")
+    for name, err in failed:
+        print(f"  - {name}: {err}")
+    sys.exit(1)
