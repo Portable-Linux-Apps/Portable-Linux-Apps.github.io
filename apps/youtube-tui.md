@@ -1,0 +1,8 @@
+# YOUTUBE-TUI
+
+ An aesthetically pleasing YouTube TUI written in Rust
+
+ SITE: https://github.com/Siriusmart/youtube-tui
+
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

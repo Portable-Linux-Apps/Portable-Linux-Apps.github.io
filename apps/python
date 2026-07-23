@@ -1,5 +1,0 @@
-# python
-AppImage distributions of Python, an interactive high-level object-oriented language.
-
- To install multiple versions, use the dedicated third-party database named "python" in "am-extras". See "am -h" or "appman -h".
-# SITES: https://github.com/niess/python-appimage

@@ -1,9 +1,0 @@
-# filelight
-Filelight allows you to understand your disk usage by graphically representing your filesystem as a set of concentric, segmented rings.
-
- It is like a pie-chart, but the segments nest, allowing you to see  both which directories take up all your space, and which directories  and files inside those directories are the real culprits.
-
- This is the unofficial AppImage
-# SCREENSHOTS: https://github.com/user-attachments/assets/3c3a3de2-acad-406b-b2f2-690c2c6afe70
-# SITES: https://apps.kde.org
-# SOURCES: https://github.com/pkgforge-dev/filelight-AppImage

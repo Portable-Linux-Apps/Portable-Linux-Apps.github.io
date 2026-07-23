@@ -1,6 +1,0 @@
-# ruffle
-A Flash Player emulator written in Rust.
-
- This is the portable official version converted to an AppImage by our team, "Portable Linux Apps" , no additional changes have been made.
-# SITES: https://github.com/ruffle-rs/ruffle
-# SOURCES: https://github.com/Portable-Linux-Apps/ruffle-AppImage

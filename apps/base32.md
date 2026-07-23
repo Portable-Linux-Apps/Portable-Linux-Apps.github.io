@@ -1,0 +1,8 @@
+# BASE32
+
+ Base32 encode/decode data and print to standard. This is part of "am-utils" suite.
+
+ SITE: https://github.com/ivan-hc/am-utils
+
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |

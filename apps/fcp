@@ -1,3 +1,0 @@
-# fcp
-A significantly faster alternative to the classic Unix cp(1) command, copying large files and directories in a fraction of the time.
-# SITES: https://github.com/Svetlitski/fcp

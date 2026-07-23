@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # This script generates JSON data files from AM application lists.
-# Outputs: apps.json (root master list), categories/*.json
+# Outputs: apps.json (root master list), categories/*.json (via gen_cats.py)
 
 AMREPO="https://raw.githubusercontent.com/ivan-hc/AM/main"
 arch="x86_64"
@@ -20,9 +20,6 @@ METAPACKAGES="kdegames kdeutils node platform-tools"
 APPS_NUMBER=$(grep -v "\"kdegames\"\|\"kdeutils\"\|\"node\"\|\"platform-tools\"" "$arch"-apps | grep -e "$" -c)
 ITEMS_NUMBER=$(grep "\"kdegames\"\|\"kdeutils\"\|\"node\"\|\"platform-tools\"" "$arch"-apps | grep -e "$" -c)
 
-CATEGORIES="ai am-utils android audio comic command-line communication disk education emulator file-manager finance game gnome graphic internet kde office password steam system-monitor video web-app web-browser wine"
-CATEGORIES="$(printf '%s\n' $CATEGORIES | sort | xargs)"
-
 echo "[" > apps.json
 for arg in $ARGS; do
 	case "$arg" in kdegames|kdeutils|node|platform-tools) continue;; esac
@@ -31,51 +28,6 @@ for arg in $ARGS; do
 done
 sed -i '$s/,$//' apps.json
 echo "]" >> apps.json
-
-mkdir -p categories
-
-for category in $CATEGORIES; do
-	case "$category" in
-		ai) grep -i "AI\|chatgpt\|openai\|gemini\|claude\|copilot\|perplexity\|meta\|grok\|anthropic\|huggingface\|mistral\|cohere\|together\|replicate\|cursor\|codeium\|tabnine\|replit\|windsurf\|midjourney\|firefly\|canva\|runway\|leonardo\|synthesia\|elevenlabs\|heygen\|zapier\|z.ai\|clickup\|grammarly\|ollama\|lmstudio\|openwebui\|salesforce\|watsonx" "$arch"-apps > "$arch-$category";;
-		am-utils) grep -i "\"$category\"" "$arch"-apps > "$arch-$category";;
-		android) grep -i "$category\|platform-tools" "$arch"-apps > "$arch-$category";;
-		audio) grep -i "$category\|matroska\|music\|midi\|mp3\|opus\|soundboard" "$arch"-apps > "$arch-$category";;
-		comic) grep -i "$category\|manga\|anime" "$arch"-apps > "$arch-$category";;
-		command-line)
-			grep -i "#itscliapp" stats-appimages > "$arch-$category"
-			grep -i "#itscliapp" stats-portable >> "$arch-$category"
-			grep -i -- "$category\|command line\| cli \|-cli\|terminal \|\"am-utils\"\|\"node\"\|\"platform-tools\"" "$arch"-apps >> "$arch-$category";;
-		communication) grep -i "$category\|voip\|messenger\|whatsapp\|mastodon\|skype\|chat client\|social network\|conferencing\|discord\|email\|telegram" "$arch"-apps > "$arch-$category";;
-		disk) grep -i "$category\|partition\|usb drive" "$arch"-apps > "$arch-$category";;
-		education) grep -i "$category\|productivity\|study\|dictionar\|math\| book \| books \| book-\|ebook\|e-book\|space simulator\|planetarium\|astronom\|university\|bible\|quran\|koran" "$arch"-apps | grep -vi "game\|manga\|anime" > "$arch-$category";;
-		emulator) grep -i "$category" "$arch"-apps | grep -vi "terminal emulator" > "$arch-$category";;
-		file-manager) grep -i "$category\|file manager\|file browse\|browse.*file\|file explore\|explore.*file" "$arch"-apps > "$arch-$category";;
-		finance) grep -i "$category\|wallet\|money" "$arch"-apps > "$arch-$category";;
-		game) grep -i "$category\|arcade\|steam\|wine\|strateg\|solitaire\|poker\|chess\|puzzle\|pinball\|adventure\|playstation\|xbox\|nintendo\|minecraft\|doom" "$arch"-apps > "$arch-$category";;
-		gnome) grep -i "$category" "$arch"-apps > "$arch-$category";;
-		graphic) grep -i "drawing\|jpg\|duplicated images\|gimp\|inkscape\|converseen\|visipics\|imagemagick\|photo\|svg\|png\|autocad\|blender\|3D modeling\|paint\|pixel\|wallpaper" "$arch"-apps > "$arch-$category";;
-		internet) grep -i "$category\|vpn\|torrent\|p2p" "$arch"-apps > "$arch-$category";;
-		kde) grep -i "$category" "$arch"-apps > "$arch-$category";;
-		office) grep -i "$category\|document\|pdf\|docx\|reader\|spreadsheet" "$arch"-apps | grep -vi "manga\|comic" > "$arch-$category";;
-		password) grep -i "$category" "$arch"-apps > "$arch-$category";;
-		steam) grep -i "$category" "$arch"-apps > "$arch-$category";;
-		system-monitor) grep -i "$category\|system monitor\|task manager\|system resource\|system resources\|linux processes" "$arch"-apps > "$arch-$category";;
-		video) grep -i "$category\|stream\|media player\|film\|movies\|netflix\|iptv" "$arch"-apps > "$arch-$category";;
-		web-app) grep -i "$category\|webapp\|web app" "$arch"-apps > "$arch-$category";;
-		web-browser) grep -i "$category\|web.*browser\|browser.*web\|google-chrome\|firefox.*browser\|firefox.*fork\|fork.*firefox\|safari\|microsoft-edge\|opera.*browser\|brave.*browser\|vivaldi.*browser\|arc.*browser\|tor.*browser\|chromium\|duckduckgo.*browser\|orion.*browser\|waterfox\|librewolf\|palemoon\|seamonkey\|maxthon\|yandex.*browser\|uc.*browser\|qq.*browser\|baidu.*browser\|kiwi\|puffin\|dolphin.*browser\|epic.*browser\|avast.*browser\|avg.*browser\|midori\|falkon\|konqueror\|gnome.*web.*browser\|floorp\|zen.*browser\|slimjet\|srware.*iron\|comodo.*dragon\|sleipnir\|lunascape\|otter.*browser\|basilisk\|icecat\|kmeleon\|k-melon\|netscape\|mosaic.*browser" "$arch"-apps | grep -vi "embedded web browser video player" > "$arch-$category";;
-		wine) grep -i "$category" "$arch"-apps > "$arch-$category";;
-	esac
-
-	LIST=$(sort -u "$arch-$category" | awk -v FS="(◆ | : )" '{print $2}' | uniq)
-	echo "[" > "categories/$category.json"
-	for arg in $LIST; do
-		description=$(grep "◆ $arg :" "$arch"-apps | sed 's/"/\\"/g; s/^.*: //')
-		printf '{"name":"%s","description":"%s"},\n' "$arg" "$description" >> "categories/$category.json"
-	done
-	sed -i '$s/,$//' "categories/$category.json"
-	echo "]" >> "categories/$category.json"
-	rm -f "$arch-$category"
-done
 
 # Count apps for stats
 APPIMAGES_COUNT=$(sort -u stats-appimages | wc -l)
