@@ -42,15 +42,15 @@ jobs:
           ./am2pla-site 2>&1 | tee -a build-log.txt
 
       - name: Upload Build Log
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: build-log
           path: build-log.txt
 
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           # Upload entire repository
           path: '.'
