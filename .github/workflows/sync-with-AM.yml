@@ -25,10 +25,9 @@ jobs:
         run: |
           AMD64_LIST=$(curl -Ls https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64-apps)
           if [ -n "$AMD64_LIST" ] && echo "$AMD64_LIST" 2>/dev/null | grep -q "^◆ "; then
-
+            rm -f apps/*.json apps/*.md
             for f in apps/*; do
               name=$(echo "$f" | sed 's:.*/::; s/\.\(md\|json\)$//')
-              rm -f "apps/$name.md" "apps/$name.json"
               if ! echo "$AMD64_LIST" 2>/dev/null | grep -q "◆ $name :"; then
                 rm -f "apps/$name"
                 echo "Removed apps/$name"
