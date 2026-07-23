@@ -160,14 +160,14 @@ def match_by_pattern(cat, pat, exclude):
     return matched
 
 def write_json(cat, matched):
-    with open(f"categories/{cat}", "w") as f:
+    with open(f"categories/{cat}.json", "w") as f:
         f.write("[\n")
         for i, app in enumerate(matched):
             if i > 0:
                 f.write(",\n")
             json.dump(app, f, indent=None, separators=(",", ":"), ensure_ascii=False)
         f.write("\n]\n")
-    print(f"categories/{cat}  ({len(matched)} apps)")
+    print(f"categories/{cat}.json  ({len(matched)} apps)")
 
 os.makedirs("categories", exist_ok=True)
 
@@ -300,7 +300,7 @@ CAT_PAGE_TEMPLATE = """<!doctype html>
     <div class="search-box">
     <input type="search" id="search-input" placeholder="Filter apps by name or keyword..." autocomplete="off">
   </div>
-  <div id="app-list" data-json="categories/$CAT_NAME"></div>
+  <div id="app-list" data-json="categories/$CAT_NAME.json"></div>
 </section>
 
 <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
@@ -346,7 +346,7 @@ for f in os.listdir("categories/"):
     if f.startswith("."):
         continue
 
-    cat_name = f #[:-5] # name without .json extension
+    cat_name = f[:-5] # name without .json extension
     cat_pretty = pretty_name(cat_name)
     print(cat_name, cat_pretty)
 
