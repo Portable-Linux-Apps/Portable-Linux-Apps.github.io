@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # This script generates JSON data files from AM application lists.
-# Outputs: apps.json (root master list), categories/*.json (via gen_cats.py)
+# Outputs: apps.json (root master list)
 
 AMREPO="https://raw.githubusercontent.com/ivan-hc/AM/main"
 arch="x86_64"
