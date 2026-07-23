@@ -21,11 +21,6 @@ jobs:
       - name: "Checkout source repository"
         uses: actions/checkout@v7
 
-      - name: "Update lists"
-        run: |
-          [ ! -x ./am2pla-site ] && chmod a+x ./am2pla-site
-          ./am2pla-site
-
       - name: "Remove unneeded pages/icons"
         run: |
           AMD64_LIST=$(curl -Ls https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64-apps)
@@ -87,7 +82,7 @@ jobs:
         run: |
           git config --global user.name "Portable-Linux-Apps"
           git config --global user.email "noreply@github.com"
-          git add 'apps/*.json' categories/ 'icons/*.png' '*.json' am2pla-site
+          git add 'apps/' 'icons/*.png'
           if ! git diff-index --cached --quiet HEAD; then
             git commit -m "Sync files from source repository"
             git push origin

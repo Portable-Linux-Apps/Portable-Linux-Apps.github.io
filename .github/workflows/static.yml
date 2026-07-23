@@ -33,9 +33,13 @@ jobs:
 
       - name: Build App Files
         run: |
-          python3 simple2json.py 2>&1 | tee build-log.txt
-          python3 gen_cats.py 2>&1 | tee -a build-log.txt
-          python3 gen_cat_pages.py 2>&1 | tee -a build-log.txt
+          [ ! -x ./simple2json ] && chmod a+x ./simple2json
+          ./simple2json 2>&1 | tee build-log.txt
+
+          echo "json conversion done" | tee -a build-log.txt
+
+          [ ! -x ./am2pla-site ] && chmod a+x ./am2pla-site
+          ./am2pla-site 2>&1 | tee -a build-log.txt
 
       - name: Upload Build Log
         uses: actions/upload-artifact@v4
