@@ -1,0 +1,12 @@
+# RECORDLY
+
+ Create polished demo videos without editing skills. Mac/Windows/Linux.
+
+![Screenshot](https://private-user-images.githubusercontent.com/131426131/587479415-3692bd8f-7b8d-4a93-b696-d17c828487ea.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ4OTA4ODMsIm5iZiI6MTc4NDg5MDU4MywicGF0aCI6Ii8xMzE0MjYxMzEvNTg3NDc5NDE1LTM2OTJiZDhmLTdiOGQtNGE5My1iNjk2LWQxN2M4Mjg0ODdlYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcyNFQxMDU2MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05OWEyMWZlOTJmN2M0YTk3MmZlZGRiYzc2NGUxN2VhYjU3MzRhYjA1MTNmYTZhZjJhNjBjMDMyMDVlYzM3ODhhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.dOyM9wsbn-NZ60lnAkh5Gb_9W4SkVDwLUeD5oQwyWbM)
+
+![Screenshot](https://camo.githubusercontent.com/61e76a8e51561fd5bebf2b26702e7e646d70289b4316d4d7b81dc8662c464c9e/68747470733a2f2f692e706f7374696d672e63632f3843725174474a662f53637265656e73686f742d323032362d30342d33302d61742d352d31312d35322d706d2e706e67)
+
+ SITE: https://recordly.dev
+
+ | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
+ | --- | --- |
