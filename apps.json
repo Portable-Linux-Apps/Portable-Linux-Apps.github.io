@@ -9852,6 +9852,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "lumi-ai",
+    "description": "A friendly, human-like AI chatbot powered by Gemini...",
+    "icon": "https://portable-linux-apps.github.io/icons/lumi-ai.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "luna",
     "description": "Manage npm dependencies through a modern UI...",
     "icon": "https://portable-linux-apps.github.io/icons/luna.png",
