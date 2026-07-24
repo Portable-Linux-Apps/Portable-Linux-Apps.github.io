@@ -2220,12 +2220,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "calm",
-    "description": "Calm down and draw something, in Lisp...",
-    "icon": "https://portable-linux-apps.github.io/icons/calm.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "calm-circles",
     "description": "Calm down and draw something, in Lisp...",
     "icon": "https://portable-linux-apps.github.io/icons/calm-circles.png",
