@@ -2220,6 +2220,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "calm",
+    "description": "Calm down and draw something, in Lisp...",
+    "icon": "https://portable-linux-apps.github.io/icons/calm.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "calm-circles",
     "description": "Calm down and draw something, in Lisp...",
     "icon": "https://portable-linux-apps.github.io/icons/calm-circles.png",
@@ -9168,6 +9174,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "kudu",
+    "description": "Free, open-source system cleaner & security scanner for Windows, macOS, and Linux. Reclaim disk space. Remove malware. Take back your privacy. All in one app...",
+    "icon": "https://portable-linux-apps.github.io/icons/kudu.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "kunkun",
     "description": "An open source, cross-platform, extensible app launcher...",
     "icon": "https://portable-linux-apps.github.io/icons/kunkun.png",
@@ -11866,6 +11878,12 @@
     "description": "An offline English dictionary app for desktop...",
     "icon": "https://portable-linux-apps.github.io/icons/odicto.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "offline-translator",
+    "description": "Qt based app for text and image translation completely offline using on-device Firefox translation models...",
+    "icon": "https://portable-linux-apps.github.io/icons/offline-translator.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "oh",
@@ -14613,6 +14631,12 @@
     "packageName": "record-compare",
     "description": "Record Compare...",
     "icon": "https://portable-linux-apps.github.io/icons/record-compare.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "recordly",
+    "description": "Create polished demo videos without editing skills. Mac/Windows/Linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/recordly.png",
     "arch": ["x86_64"]
   },
   {
