@@ -31,8 +31,9 @@ for line in apps_raw.splitlines():
         desc = m.group(2).strip()
         apps_info[name] = desc
 
+apps_list = sorted([{"name": n, "description": d} for n, d in apps_info.items()], key=lambda x: x["name"].lower())
 with open("apps.json", 'w') as f:
-    json.dump(apps_info, f, indent=None, separators=(",", ":"), ensure_ascii=False)
+    json.dump(apps_list, f, indent=None, separators=(",", ":"), ensure_ascii=False)
 
 def parse_stats(text):
     names = set()
