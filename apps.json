@@ -12612,6 +12612,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "paintfe",
+    "description": "A fast, lightweight raster image editor for Windows. Features layers, blend modes, GPU-accelerated filters, gradients, mesh warp, brushes, selection tools, adjustments, animated GIF/APNG support, and a built-in Rhai scripting engine. Single portable executable, no install required...",
+    "icon": "https://portable-linux-apps.github.io/icons/paintfe.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "paket",
     "description": "A simple and fast package manager for the Fish shell written in Rust...",
     "icon": "https://portable-linux-apps.github.io/icons/paket.png",
@@ -19071,6 +19077,12 @@
     "packageName": "webrecorder",
     "description": "A complete packaging of Webrecorder hosted service in Electron...",
     "icon": "https://portable-linux-apps.github.io/icons/webrecorder.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "wechat",
+    "description": "WeChat is an instant messaging, social media app developed by Tecent...",
+    "icon": "https://portable-linux-apps.github.io/icons/wechat.png",
     "arch": ["x86_64"]
   },
   {
