@@ -4,7 +4,7 @@
 
  To checkout all the cool features, installation instructions, configuration settings and much more, head on over to neovide.dev.
  
- ![image](https://raw.githubusercontent.com/neovide/neovide/main/website/docs/assets/BasicScreenCap.png)
+ ![Screenshot](https://raw.githubusercontent.com/neovide/neovide/main/website/docs/assets/BasicScreenCap.png)
 
  SITE: https://neovide.dev
  

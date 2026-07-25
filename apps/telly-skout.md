@@ -6,7 +6,7 @@
 
  This tool is part of the KDE Utils Suite.
 
- ![image](https://cdn.kde.org/screenshots/telly-skout/sort-favorites.png)
+ ![Screenshot](https://cdn.kde.org/screenshots/telly-skout/sort-favorites.png)
 
  SITE: https://apps.kde.org
 

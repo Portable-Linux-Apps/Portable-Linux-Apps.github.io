@@ -4,7 +4,7 @@
 
  This is the portable official version converted to an AppImage by our team, "Portable Linux Apps" , no additional changes have been made.
  
- ![image](https://i.imgur.com/HHPG3Re.jpeg)
+ ![Screenshot](https://i.imgur.com/HHPG3Re.jpeg)
 
  SITE: https://www.waterfox.net
 

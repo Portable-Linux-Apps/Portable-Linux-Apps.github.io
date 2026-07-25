@@ -2,7 +2,7 @@
 
  Xplorer, a customizable, modern file manager.
  
- ![picture](https://raw.githubusercontent.com/kimlimjustin/xplorer/master/docs/static/img/docs/themed-xplorer.webp)
+ ![Screenshot](https://raw.githubusercontent.com/kimlimjustin/xplorer/master/docs/static/img/docs/themed-xplorer.webp)
 
  SITE: https://xplorer.space/
  

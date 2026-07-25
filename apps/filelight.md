@@ -6,7 +6,7 @@
 
  This is the unofficial AppImage
 
- <img width="730" height="574" alt="Istantanea_2025-11-24_02-04-17" src="https://github.com/user-attachments/assets/3c3a3de2-acad-406b-b2f2-690c2c6afe70" />
+![Screenshot](https://github.com/user-attachments/assets/3c3a3de2-acad-406b-b2f2-690c2c6afe70)
 
  SITE: https://apps.kde.org
 

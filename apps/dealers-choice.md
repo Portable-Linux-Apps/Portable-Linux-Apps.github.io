@@ -1,8 +1,8 @@
 # DEALERS-CHOICE
 
- Multiplayer Stud and Draw Poker
+ Multiplayer Poker with Draw, Stud, Texas Hold’em and Omaha
 
- ![Image](https://github.com/user-attachments/assets/86fe4f45-6a93-4cfd-86b6-c6bc457261f0)
+ ![Image](https://raw.githubusercontent.com/Dealer-s-Choice/dealer-s-choice.github.io/90401753ad83fe66372ad3b3a73fb478a43260fb/screenshots/dealers_choice_v0.0.14_omaha.png)
 
  SITE: https://dealer-s-choice.github.io/
 

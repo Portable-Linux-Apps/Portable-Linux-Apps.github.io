@@ -6,6 +6,6 @@
  
  SITE: https://www.maartenbaert.be/simplescreenrecorder
 
- SOURCE: https://github.com/ivan-hc/Database-of-pkg2appimaged-packages
+ SOURCE: https://github.com/ivan-hc/SimpleScreenRecorder-appimage
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

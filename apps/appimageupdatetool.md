@@ -4,7 +4,7 @@
 
  This script allows you to choose between the improved fork and the official AppImage. The fork is provided by the Pkgforge community, with GH rate-limit-bypass & misc QOL changes.
 
- ENANCED FORK: https://github.com/pkgforge-dev/AppImageUpdate
+ ENANCED FORK: https://github.com/pkgforge-dev/AppImageUpdate-Enhanced-Edition
  
  OFFICIAL APPIMAGES: https://github.com/AppImage/AppImageUpdate
 

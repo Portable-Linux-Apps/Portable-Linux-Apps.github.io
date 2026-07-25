@@ -17,7 +17,7 @@
 
  SITE: https://visipics.info
 
- UNOFFICIAL APPIMAGE: https://github.com/ivan-hc/Database-of-pkg2appimaged-packages
+ UNOFFICIAL APPIMAGE: https://github.com/ivan-hc/visipics-appimage
 
  BASED ON: https://github.com/sudo-give-me-coffee/wine32-deploy
 

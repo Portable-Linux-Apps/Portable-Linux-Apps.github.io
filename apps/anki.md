@@ -6,7 +6,7 @@
 
  SITE: https://github.com/ankitects/anki
 
- APPIMAGE: https://github.com/ivan-hc/anki-appimage
+ APPIMAGE: https://github.com/pkgforge-dev/anki-AppImage
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

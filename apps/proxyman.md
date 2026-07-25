@@ -9,7 +9,7 @@
  - SSL Proxying List, No Caching, Compose & Repeat, Repeat;
  - Debugging Tools: Map Local, Breakpoint, Diff, etc.
  
- ![image](https://user-images.githubusercontent.com/5878421/193379597-83a23bf3-2b4d-44bb-b3d8-000cefbbffdb.jpg)
+ ![Screenshot](https://user-images.githubusercontent.com/5878421/193379597-83a23bf3-2b4d-44bb-b3d8-000cefbbffdb.jpg)
 
  SITE: https://proxyman.io
  

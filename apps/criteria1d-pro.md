@@ -6,7 +6,7 @@
  
  CRITERIA1D_PRO is a graphical interface to manage a Criteria-1D project,  modify the crop parameters, test the model and the main outputs: leaf area  index, evaporation and transpiration, root depth and root density, soil  moisture and irrigation water needs.
  
- ![image](https://github.com/ARPA-SIMC/CRITERIA1D/raw/master/DOC/img/cropEditor.png)
+ ![Screenshot](https://github.com/ARPA-SIMC/CRITERIA1D/raw/master/DOC/img/cropEditor.png)
 
  SITE: https://github.com/ARPA-SIMC/CRITERIA1D
 

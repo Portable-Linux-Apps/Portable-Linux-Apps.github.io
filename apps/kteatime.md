@@ -4,7 +4,7 @@
 
  This tool is part of the KDE Utils Suite.
 
- ![image](https://cdn.kde.org/screenshots/kteatime/kteatime.png)
+ ![Screenshot](https://cdn.kde.org/screenshots/kteatime/kteatime.png)
 
  SITE: https://apps.kde.org
 

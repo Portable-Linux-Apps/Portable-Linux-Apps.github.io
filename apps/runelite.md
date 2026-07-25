@@ -2,7 +2,7 @@
  
  RuneLite is a free, open source OldSchool RuneScape client.
  
- ![screenshot](https://oldschool.runescape.wiki/images/thumb/RuneLite_HD.png/1280px-RuneLite_HD.png)
+ ![Screenshot](https://oldschool.runescape.wiki/images/thumb/RuneLite_HD.png/1280px-RuneLite_HD.png)
  
  SITE: https://runelite.net/
  

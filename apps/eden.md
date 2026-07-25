@@ -1,8 +1,8 @@
 # EDEN
 
- Eden is an experimental open-source emulator for the Nintendo Switch, built with performance and stability in mind.
+ An experimental open-source emulator for Nintendo Switch (yuzu fork).
 
- SITE: https://github.com/eden-emulator/Releases
+ SITE: https://git.eden-emu.dev
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

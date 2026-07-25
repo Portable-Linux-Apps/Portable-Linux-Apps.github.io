@@ -2,7 +2,7 @@
 
  Next-gen Pipewire audio routing tool.
  
- ![image](https://codeberg.org/sonusmix/sonusmix/media/branch/main/assets/readme/sonusmix2.png)
+ ![Screenshot](https://codeberg.org/sonusmix/sonusmix/media/branch/main/assets/readme/sonusmix2.png)
 
  SITE: https://codeberg.org/sonusmix/sonusmix
 

@@ -4,7 +4,7 @@
  
  This is the unofficial AppImage.
 
- ![Istantanea_2025-06-03_04-31-23](https://github.com/user-attachments/assets/5c736054-b1b1-43d2-8807-11e863e616ce)
+ ![Screenshot](https://github.com/user-attachments/assets/5c736054-b1b1-43d2-8807-11e863e616ce)
 
  SITE: https://poedit.net/
  

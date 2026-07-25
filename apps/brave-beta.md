@@ -4,13 +4,15 @@
  
  Brave Beta is an early preview for new versions of Brave.
  
- This is the official "beta" release.
+ This is the unofficial AppImage built on top of the official "beta" release.
  
  ![Screenshot](https://upload.wikimedia.org/wikipedia/commons/8/83/Brave_Browser_Welcome_Page.png)
  
  SITE: https://brave.com
  
- OFFICIAL RELEASE: https://github.com/brave/brave-browser
+ SOURCE: https://github.com/brave/brave-browser
+ 
+ APPIMAGE: https://github.com/ivan-hc/Brave-appimage
  
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |

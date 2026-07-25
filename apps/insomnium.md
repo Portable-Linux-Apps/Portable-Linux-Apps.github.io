@@ -4,7 +4,7 @@
  
  This is a fork of Kong/insomnia
 
- ![image](https://raw.githubusercontent.com/ArchGPT/insomnium/main/screenshots/v0.1.png)
+ ![Screenshot](https://raw.githubusercontent.com/ArchGPT/insomnium/main/screenshots/v0.1.png)
  
  SITE: https://github.com/ArchGPT/insomnium
 

@@ -4,7 +4,7 @@
 
  This tool is part of the KDE Utils Suite.
 
- ![image](https://kde.org/images/screenshots/kfind.png)
+ ![Screenshot](https://kde.org/images/screenshots/kfind.png)
 
  SITE: https://apps.kde.org
 

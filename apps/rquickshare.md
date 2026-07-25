@@ -2,7 +2,7 @@
 
  Rust implementation of NearbyShare/QuickShare from Android for Linux.
  
- ![image](https://raw.githubusercontent.com/Martichou/rquickshare/master/.github/demo.png)
+ ![Screenshot](https://raw.githubusercontent.com/Martichou/rquickshare/master/.github/demo.png)
 
  SITE: https://github.com/Martichou/rquickshare
 

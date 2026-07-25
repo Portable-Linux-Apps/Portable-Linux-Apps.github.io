@@ -8,19 +8,104 @@
 
 --------
 
-#### *This site lists **2657** unique apps (**2250** Appimage packages and **407** standalone/portable programs), plus **78** items.*
+#### *This site lists **3313** unique apps (**2735** Appimage packages and **578** standalone/portable programs), plus **75** items.*
 
 *From here you can download them, install them, update them (for real), get more information about the sources and their developers... and if you want, you can contribute yourself by adding the missing information, because this site is **open source**!*
 
 --------
 
-| *[Go to the applications list](https://portable-linux-apps.github.io/apps.html)* | *[Install "AM", the package manager](https://github.com/ivan-hc/AM)* | *[Wiki view (experimental)](https://portable-linux-apps.github.io/PortableLinuxApps.html)* |
-| - | - | - |
-| [<img loading="lazy" src="https://github.com/user-attachments/assets/f55d4242-bd5f-4195-946c-e01c6fe5e264" width="320" height="192">](https://portable-linux-apps.github.io/apps.html) | [<img loading="lazy" src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/sample.png" width="320" height="192">](https://github.com/ivan-hc/AM) | [<img loading="lazy" src="https://github.com/user-attachments/assets/ce8f9b0a-d02f-4cfb-8b04-2145864e6afd" width="320" height="192">](https://portable-linux-apps.github.io/PortableLinuxApps.html) |
+| *[Go to the applications list](https://portable-linux-apps.github.io/apps.html)* | *[Install "AM", the package manager](https://github.com/ivan-hc/AM)* |
+| - | - |
+| [<img loading="lazy" src="https://github.com/user-attachments/assets/1ca475a3-5ccd-47c0-80b7-bab757f3f58c" width="512" height="256">](https://portable-linux-apps.github.io/apps.html) | [<img loading="lazy" src="https://raw.githubusercontent.com/ivan-hc/AM/main/sample/sample.png" width="512" height="256">](https://github.com/ivan-hc/AM) |
+
+<div id="home-search" style="margin: 1.5em auto; max-width: 640px; text-align: left;">
+  <label for="home-search-input" style="font-weight: bold; display: block; margin-bottom: 0.25em; text-align: center;">Search applications</label>
+  <input type="search" id="home-search-input" placeholder="Start typing an app name or keyword..." autocomplete="off"
+    style="width: 100%; padding: 0.6em 0.85em; font-size: 1em; border: 1px solid #999; border-radius: 4px; box-sizing: border-box;">
+  <select id="home-search-arch" aria-label="Filter by architecture"
+    style="margin-top: 0.5em; padding: 0.5em; font-size: 1em; border: 1px solid #999; border-radius: 4px;">
+    <option value="">Any architecture</option>
+    <option value="x86_64">x86_64</option>
+    <option value="aarch64">aarch64</option>
+    <option value="i686">i686</option>
+  </select>
+  <div id="home-search-status" style="margin-top: 0.5em; font-style: italic; color: #666; text-align: center;">Loading app database&hellip;</div>
+  <ul id="home-search-results" style="list-style: none; padding: 0; margin: 0.5em 0 0;"></ul>
+  <div id="home-search-more" style="margin-top: 0.5em; text-align: center;"></div>
+</div>
+
 
 #### *Categories*
 
-***[AppImages](appimages.md)*** 		 - ***[android](android.md)*** - ***[audio](audio.md)*** - ***[comic](comic.md)*** - ***[command-line](command-line.md)*** - ***[communication](communication.md)*** - ***[disk](disk.md)*** - ***[education](education.md)*** - ***[file-manager](file-manager.md)*** - ***[finance](finance.md)*** - ***[game](game.md)*** - ***[gnome](gnome.md)*** - ***[graphic](graphic.md)*** - ***[internet](internet.md)*** - ***[kde](kde.md)*** - ***[office](office.md)*** - ***[password](password.md)*** - ***[steam](steam.md)*** - ***[system-monitor](system-monitor.md)*** - ***[video](video.md)*** - ***[web-app](web-app.md)*** - ***[web-browser](web-browser.md)*** - ***[wine](wine.md)***
+<div class="cat-grid">
+  <a class="cat-pill" href="appimages.html">AppImages</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="ai.html">ai</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="am-utils.html">am-utils</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="android.html">android</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="appimage-on-the-fly.html">appimage-on-the-fly</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="audio.html">audio</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="comic.html">comic</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="command-line.html">command-line</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="communication.html">communication</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="disk.html">disk</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="education.html">education</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="emulator.html">emulator</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="file-manager.html">file-manager</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="finance.html">finance</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="game.html">game</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="gnome.html">gnome</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="graphic.html">graphic</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="internet.html">internet</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="kde.html">kde</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="metapackages.html">metapackages</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="office.html">office</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="password.html">password</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="portable.html">Portable</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="portable-cli.html">portable-cli</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="portable-desktop.html">portable-desktop</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="steam.html">steam</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="system-monitor.html">system-monitor</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="video.html">video</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="virtual-machine.html">virtual-machine</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="wallet.html">wallet</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="web-app.html">web-app</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="web-browser.html">web-browser</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="wine.html">wine</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="youtube.html">youtube</a>
+</div>
 
 --------
 
@@ -46,7 +131,7 @@
 --------
 
 ### What are the portable linux apps?
-*Portable Linux Apps are standalone applications for GNU/Linux that can (theoretically) run everywhere, also on a USB stick. These applications can be AppImage packages (see [appimage.org](https://appimage.org/)) or standalone archives (for example Firefox, Thunderbird...).*
+*Portable Linux Apps are standalone applications for GNU/Linux that can (theoretically) run everywhere, also on a USB stick. These applications can be AppImage packages (see [appimage.org](https://appimage.org/)) or standalone archives.*
 
 --------
 
@@ -108,35 +193,34 @@
 # How to install AM
 
 *To install "AM" you must first install the "core" dependencies from your package manager:*
-- *"`coreutils`" (contains "`cat`", "`chmod`", "`chown`"...);*
-- *"`curl`", to check URLs;*
-- *"`grep`", to check files;*
-- *"`sed`", to edit/adapt installed files;*
-- *"`wget`" to download all programs and update "AM" itself.*
-- *"`sudo`" or "`doas`", for installing and removing programs at the system level.*
 
-<details>
-  <summary>Additionally, you may need these optional dependencies, click here.</summary>
+| command | motivation | pre-installed? |
+| - | - | - |
+| `coreutils` | it's a suite of core commands | YES, on almost all distributions |
+| `curl` | network utility needed to read online text like lists, URLs and versions | not in all distibutions |
+| `grep` | a string search utility | YES, on many distributions |
+| `sed` | stream editor for filtering and transforming text | YES, in almost all distributions |
 
-- *"`binutils`", contains a series of basic commands, including "`ar`" which extracts .deb packages;*
-- *"`less`", to read the ever-longer lists;*
-- *"`unzip`", to extract .zip packages;*
-- *"`tar`", to extract .tar* packages;*
-- *"`torsocks`", to connect to the TOR network;*
-- *"`zsync`", required by very few programs.*
+*NOTE, if you install "AM" (system) and not "AppMan" (local), **you need `sudo` or `doas` for root privileges**.*
 
-</details>
-
+*Other "optional" programs (needed by the apps themselves) may be notified if they are missing while you are using AM or AppMan, but their absence would not prevent you from using AM/AppMan itself.*
 
 ### Quick installation
 
 *Copy/paste the following one line command to download and run the "[AM-INSTALLER](https://github.com/ivan-hc/AM/blob/main/AM-INSTALLER)" script*
+
+*Using `wget`*
 ```
 wget -q https://raw.githubusercontent.com/ivan-hc/AM/main/AM-INSTALLER && chmod a+x ./AM-INSTALLER && ./AM-INSTALLER
 ```
+*or using `curl`*
+```
+curl -s -Lo ./AM-INSTALLER https://raw.githubusercontent.com/ivan-hc/AM/main/AM-INSTALLER && chmod a+x ./AM-INSTALLER && ./AM-INSTALLER && rm ./AM-INSTALLER
+```
+
 *...below, the screenshot of what will appear.*
 
-| ![AM-INSTALLER](https://github.com/user-attachments/assets/7bb170da-5b17-4d36-8d86-679d477debf5) |
+| <img width="747" height="600" alt="installer" src="https://raw.githubusercontent.com/ivan-hc/AM/refs/heads/main/sample/am-installer.png" /> |
 | - |
 
 *Type "1" to install "AM", "2" to install "[AppMan](#what-is-appman)". Any other key will abort the installation.*
@@ -209,13 +293,11 @@ wget -q https://raw.githubusercontent.com/ivan-hc/AM/main/AM-INSTALLER && chmod 
 
 *"AM" installs, removes, updates and manages only standalone programs, ie those programs that can be run from a single directory in which they are contained.*
 
-*1. **PORTABLE PROGRAMS** from official sources (see Firefox, Thunderbird, NodeJS, Platform Tools...), extracted from official .deb/tar/zip packages.*
+*1. **PORTABLE PROGRAMS** from official sources (see NodeJS, Platform Tools...), extracted from official .deb/tar/zip packages.*
 
 *2. **APPIMAGES**, from both official and unofficial sources (I also create unofficial AppImages), or compiled on-the-fly with [pkg2appimage](https://github.com/AppImage/pkg2appimage) and [appimagetool](https://github.com/AppImage/AppImageKit), like an AUR helper, from official archives.*
 
-*3. **FIREFOX PROFILES** to run as webapps, the ones with suffix "ffwa-" in the apps list.*
-
-*4. **THIRD-PARTY LIBRARIES** if they are missing in your repositories.*
+*3. **THIRD-PARTY LIBRARIES** if they are missing in your repositories.*
 
 *The database aims to be a reference point where you can download all the AppImage packages scattered around the web, otherwise unobtainable, as you would expect from any package manager, through specific installation scripts for each application, as happens with the AUR PKGBUILDs, on Arch Linux. You can see all of them [here](https://github.com/ivan-hc/AM/tree/main/programs), divided by architecture.*
 
@@ -299,7 +381,6 @@ am -i --user topgrade
   - [Option Zero: "AppImages"](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#option-zero-appimages)
   - [Option One: "build AppImages on-the-fly"](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#option-one-build-appimages-on-the-fly)
   - [Option Two: "Archives and other programs"](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#option-two-archives-and-other-programs)
-  - [Option Three: "Firefox profiles"](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#option-three-firefox-profiles)
   - [How an installation script works](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#how-an-installation-script-works)
   - [How to test an installation script](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#how-to-test-an-installation-script)
   - [How to submit a Pull Request](https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/template.md#how-to-submit-a-pull-request)
@@ -312,6 +393,7 @@ am -i --user topgrade
 - [An application does not work, is old and unsupported](https://github.com/ivan-hc/AM/blob/main/docs/troubleshooting.md#an-application-does-not-work-is-old-and-unsupported)
 - [Cannot download or update an application](https://github.com/ivan-hc/AM/blob/main/docs/troubleshooting.md#cannot-download-or-update-an-application)
 - [Cannot mount and run AppImages](https://github.com/ivan-hc/AM/blob/main/docs/troubleshooting.md#cannot-mount-and-run-appimages)
+- [Checksum does not match or missing verified status](https://github.com/ivan-hc/AM/blob/main/docs/troubleshooting.md#checksum-does-not-match-or-missing-verified-status)
 - [Failed to open squashfs image](https://github.com/ivan-hc/AM/blob/main/docs/troubleshooting.md#failed-to-open-squashfs-image)
 - [Spyware, malware and dangerous software](https://github.com/ivan-hc/AM/blob/main/docs/troubleshooting.md#spyware-malware-and-dangerous-software)
 - [Stop AppImage prompt to create its own launcher, desktop integration and doubled launchers](https://github.com/ivan-hc/AM/blob/main/docs/troubleshooting.md#stop-appimage-prompt-to-create-its-own-launcher-desktop-integration-and-doubled-launchers)
@@ -328,14 +410,16 @@ am -i --user topgrade
 # Related projects
 #### Side Projects
 - *[amcheck](https://github.com/ivan-hc/amcheck), checks the validity of scripts in this database and monitors the availability of AppImages*
-- *[am-extras](https://github.com/ivan-hc/am-extras), lists applications from third-party databases (not present in this catalog, but still installable via "AM")*
-- *[repology-versions](https://github.com/ivan-hc/repology-versions), lists "unfindable" versions if upstream doesn't provide easy-to-intercept references*
+- *[am-extras](https://github.com/ivan-hc/am-extras), lists applications from third-party databases*
+- *[am-gui](https://github.com/Shikakiben/AM-GUI), a graphical Front for AM, by @Shikakiben*
+- *[vappman](https://github.com/joedefen/vappman), a visual (curses) TUI interface to AppMan, by @joedefen*
 
 #### My other projects
 - *[AppImaGen](https://github.com/ivan-hc/AppImaGen), easily create AppImages from Ubuntu PPAs or Debian using pkg2appimage and appimagetool*
 - *[ArchImage](https://github.com/ivan-hc/ArchImage), create AppImages for all distributions using Arch Linux packages. Powered by JuNest*
 - *[Firefox for Linux scripts](https://github.com/ivan-hc/Firefox-for-Linux-scripts), easily install the official releases of Firefox for Linux*
 - *[My AppImage packages](https://github.com/ivan-hc#my-appimage-packages) the complete list of packages managed by me and available in this database*
+- *[portable2appimage](https://github.com/ivan-hc/portable2appimage), convert standalone, self-contained portable apps into AppImage packages*
 - *[Snap2AppImage](https://github.com/ivan-hc/Snap2AppImage), try to convert Snap packages to AppImages*
 
 ------------------------------------------------------------------------
@@ -352,4 +436,5 @@ am -i --user topgrade
 | - | - | - | - |
 
 ------------------------------------------------------------------------
+
 

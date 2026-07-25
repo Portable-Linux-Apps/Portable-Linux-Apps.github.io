@@ -2,7 +2,7 @@
 
  Disk Usage/Free Utility - a better 'df' alternative.
  
- ![image](https://raw.githubusercontent.com/muesli/duf/master/duf.png)
+ ![Screenshot](https://raw.githubusercontent.com/muesli/duf/master/duf.png)
 
  SITE: https://github.com/muesli/duf
 

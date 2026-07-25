@@ -2,7 +2,7 @@
 
  A team-based tactical shooter based on the Quake 3 Engine.
  
- ![](https://media.tenor.com/sj1RVz4T7wwAAAAC/urban-terror.gif)
+ ![GIF](https://media.tenor.com/sj1RVz4T7wwAAAAC/urban-terror.gif)
 
  SITE: http://www.urbanterror.info
 

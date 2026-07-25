@@ -6,7 +6,7 @@
  
  HEAT1D is a graphical interface for testing the soilFluxex3D library in a  1D domain. Users can set fixed or variable atmospheric boundary conditions  and soil parameters. Output graph results include soil temperature, soil  water content, heat fluxes (diffusive and latent), liquid (isothermal and  thermal) and vapor (isothermal and thermal) water fluxes.
  
- ![image](https://github.com/ARPA-SIMC/CRITERIA1D/raw/master/DOC/img/heat1D.png)
+ ![Screenshot](https://github.com/ARPA-SIMC/CRITERIA1D/raw/master/DOC/img/heat1D.png)
 
  SITE: https://github.com/ARPA-SIMC/CRITERIA1D
 

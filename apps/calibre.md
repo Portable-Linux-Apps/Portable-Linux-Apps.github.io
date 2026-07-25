@@ -4,12 +4,6 @@
 
  This is the unofficial AppImage built from the official portable package.
  
- ![2024-01-20_01-54](https://github.com/nazdridoy/Portable-Linux-Apps.github.io/assets/45564804/cf633ad3-3a81-4e58-a215-80b66c1610d6)
-
-
- ![2024-01-20_01-52](https://github.com/nazdridoy/Portable-Linux-Apps.github.io/assets/45564804/6322ee73-9ba0-4204-92cd-8ce739180e6e)
-
- 
  SITE: https://calibre-ebook.com/
 
  SOURCE: https://github.com/kovidgoyal/calibre

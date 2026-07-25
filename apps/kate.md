@@ -6,7 +6,7 @@
 
  This tool is part of the KDE Utils Suite.
 
- ![image](https://cdn.kde.org/screenshots/kate/kate-windows-dark2.png)
+ ![Screenshot](https://cdn.kde.org/screenshots/kate/kate-windows-dark2.png)
  
  SITE: https://apps.kde.org
 

@@ -6,7 +6,7 @@
 
  This is the unofficial Archimage built on top of JuNest.
  
- ![screenshot](https://media.inkscape.org/media/resources/file/Inkscape_SS_01.png)
+ ![Screenshot](https://media.inkscape.org/media/resources/file/Inkscape_SS_01.png)
  
  SITE: https://inkscape.org
 

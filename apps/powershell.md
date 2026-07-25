@@ -4,7 +4,7 @@
  
  This is the Unofficial AppImage built on top of the official build.
  
- SITE/SOURCE: https://github.com/PowerShell/PowerShell
+ SITE: https://github.com/PowerShell/PowerShell
 
  UNOFFICIAL APPIMAGE: https://github.com/ivan-hc/PowerShell-appimage
 

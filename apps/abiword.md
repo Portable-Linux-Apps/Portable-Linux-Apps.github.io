@@ -4,7 +4,7 @@
  
  This is the unofficial AppImage built on top of JuNest, the lightweight  Arch Linux based distro that runs on top of any other Linux distro.
  
- ![screenshot](http://abiworditalia.altervista.org/immagini/abiword_linux.png)
+ ![Screenshot](http://abiworditalia.altervista.org/immagini/abiword_linux.png)
 
  SITE: https://github.com/ivan-hc/Abiword-appimage
 

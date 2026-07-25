@@ -13,7 +13,7 @@
  It includes 32-bit libraries, gamescope, gamemode and mangohud.
  
  It can also install Nvidia drivers locally, if needed.
- | ![Istantanea_2024-07-27_04-03-01](https://github.com/user-attachments/assets/b16aaf5d-5e3e-4e6d-b335-5b5c9324ccfa) | ![Istantanea_2024-07-27_04-02-04](https://github.com/user-attachments/assets/49bb58f5-dd3a-432a-9437-026f6b6169cf) | ![Istantanea_2024-07-27_04-00-13](https://github.com/user-attachments/assets/844b7709-34ab-412d-9515-5e8ebe8bf03c) |
+ | ![Screenshot](https://github.com/user-attachments/assets/b16aaf5d-5e3e-4e6d-b335-5b5c9324ccfa) | ![Screenshot](https://github.com/user-attachments/assets/49bb58f5-dd3a-432a-9437-026f6b6169cf) | ![Screenshot](https://github.com/user-attachments/assets/844b7709-34ab-412d-9515-5e8ebe8bf03c) |
  | - | - | - |
 
  SITE: https://store.steampowered.com

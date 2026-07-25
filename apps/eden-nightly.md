@@ -1,10 +1,8 @@
 # EDEN-NIGHTLY
 
- Eden is an experimental open-source emulator for the Nintendo Switch, built with performance and stability in mind.
+ An experimental open-source emulator for Nintendo Switch (yuzu fork, nightly builds).
 
- This is the unofficial nightly build.
-
- SITE: https://github.com/pflyly/eden-nightly
+ SITE: https://git.eden-emu.dev
 
  | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
  | --- | --- |
