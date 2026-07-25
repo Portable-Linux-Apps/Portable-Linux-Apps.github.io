@@ -18822,6 +18822,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "vocalinux",
+    "description": "Free, open-source, 100% offline voice dictation for Linux. Speak and type anywhere via whisper.cpp, Whisper & VOSK engines, GPU-accelerated, works on X11 + Wayland!...",
+    "icon": "https://portable-linux-apps.github.io/icons/vocalinux.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "voicevox",
     "description": "Offical Frontend for the free VOICEVOX TTS Engine...",
     "icon": "https://portable-linux-apps.github.io/icons/voicevox.png",
