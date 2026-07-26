@@ -4686,12 +4686,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "electron-wechat",
-    "description": "Wechat desktop application...",
-    "icon": "https://portable-linux-apps.github.io/icons/electron-wechat.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "electron-xiami",
     "description": "Xiami Electron desktop application...",
     "icon": "https://portable-linux-apps.github.io/icons/electron-xiami.png",
@@ -10404,6 +10398,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "meron",
+    "description": "Mail app that sparks joy. Fast/secure email client with chat and kanban view...",
+    "icon": "https://portable-linux-apps.github.io/icons/meron.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "mesa",
     "description": "Experimental AppImage that lets you use the latest MESA with any binary on your system...",
     "icon": "https://portable-linux-apps.github.io/icons/mesa.png",
@@ -11229,6 +11229,12 @@
     "packageName": "neovide",
     "description": "No Nonsense Neovim Client in Rust..",
     "icon": "https://portable-linux-apps.github.io/icons/neovide.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "neovide-nightly",
+    "description": "No Nonsense Neovim Client in Rust, the most recent development build...",
+    "icon": "https://portable-linux-apps.github.io/icons/neovide-nightly.png",
     "arch": ["x86_64"]
   },
   {
@@ -19101,12 +19107,6 @@
     "packageName": "wethr",
     "description": "Command line weather tool...",
     "icon": "https://portable-linux-apps.github.io/icons/wethr.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "wewechat",
-    "description": "Unofficial WeChat client built with React, MobX and Electron...",
-    "icon": "https://portable-linux-apps.github.io/icons/wewechat.png",
     "arch": ["x86_64"]
   },
   {
