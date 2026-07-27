@@ -2586,6 +2586,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "chiri",
+    "description": "Cross-platform CalDAV task management app...",
+    "icon": "https://portable-linux-apps.github.io/icons/chiri.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "chmod",
     "description": "Change file mode bits. This is part of \"am-utils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/chmod.png",
@@ -6552,12 +6558,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "github-store",
-    "description": "A free, open-source app store for GitHub releases. Browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop...",
-    "icon": "https://portable-linux-apps.github.io/icons/github-store.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "gitify",
     "description": "GitHub notifications on your menu bar...",
     "icon": "https://portable-linux-apps.github.io/icons/gitify.png",
@@ -6837,19 +6837,19 @@
     "packageName": "google-chrome",
     "description": "Unofficial, Web Browser, Stable version...",
     "icon": "https://portable-linux-apps.github.io/icons/google-chrome.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "google-chrome-beta",
     "description": "Unofficial, Web Browser, Beta version...",
     "icon": "https://portable-linux-apps.github.io/icons/google-chrome-beta.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "google-chrome-dev",
     "description": "Unofficial, Web Browser, Unstable version...",
     "icon": "https://portable-linux-apps.github.io/icons/google-chrome-dev.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "google-docs",
@@ -8973,6 +8973,12 @@
     "packageName": "kolourpaint",
     "description": "Unofficial AppImage of KolourPaint...",
     "icon": "https://portable-linux-apps.github.io/icons/kolourpaint.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "komi-store",
+    "description": "Komi Store is a cross-platform app store for GitHub releases, designed to simplify discovering and installing open-source software...",
+    "icon": "https://portable-linux-apps.github.io/icons/komi-store.png",
     "arch": ["x86_64"]
   },
   {
@@ -17802,6 +17808,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "tolaria",
+    "description": "Desktop app to manage markdown knowledge bases...",
+    "icon": "https://portable-linux-apps.github.io/icons/tolaria.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "tomatox",
     "description": "An online free VIP video analysis player, in chinese...",
     "icon": "https://portable-linux-apps.github.io/icons/tomatox.png",
@@ -19659,6 +19671,12 @@
     "packageName": "xl-converter",
     "description": "Powerful image converter with support for multithreading...",
     "icon": "https://portable-linux-apps.github.io/icons/xl-converter.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "xl-view",
+    "description": "A minimalist HDR image viewer optimized for large images...",
+    "icon": "https://portable-linux-apps.github.io/icons/xl-view.png",
     "arch": ["x86_64"]
   },
   {
