@@ -1638,6 +1638,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "bitcoin-safe",
+    "description": "A desktop software for managing your cold storage wallets...",
+    "icon": "https://portable-linux-apps.github.io/icons/bitcoin-safe.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "bitshares",
     "description": "Advanced wallet interface for the BitShares financial blockchain...",
     "icon": "https://portable-linux-apps.github.io/icons/bitshares.png",
@@ -2578,6 +2584,12 @@
     "description": "Simple, fast and flexible DIY Remote Desktop software...",
     "icon": "https://portable-linux-apps.github.io/icons/chimeradesk-kvm.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "chiri",
+    "description": "Cross-platform CalDAV task management app...",
+    "icon": "https://portable-linux-apps.github.io/icons/chiri.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "chmod",
@@ -4680,12 +4692,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "electron-wechat",
-    "description": "Wechat desktop application...",
-    "icon": "https://portable-linux-apps.github.io/icons/electron-wechat.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "electron-xiami",
     "description": "Xiami Electron desktop application...",
     "icon": "https://portable-linux-apps.github.io/icons/electron-xiami.png",
@@ -6534,6 +6540,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "gitfourchette",
+    "description": "The comfortable Git UI for Linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/gitfourchette.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "githoard",
     "description": "Hoard git repositories with ease...",
     "icon": "https://portable-linux-apps.github.io/icons/githoard.png",
@@ -6544,12 +6556,6 @@
     "description": "Electron-based GitHub Desktop fork with advanced functionality and Bitbucket, GitLab integration...",
     "icon": "https://portable-linux-apps.github.io/icons/github-desktop-plus.png",
     "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "github-store",
-    "description": "A free, open-source app store for GitHub releases. Browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop...",
-    "icon": "https://portable-linux-apps.github.io/icons/github-store.png",
-    "arch": ["x86_64"]
   },
   {
     "packageName": "gitify",
@@ -6831,19 +6837,19 @@
     "packageName": "google-chrome",
     "description": "Unofficial, Web Browser, Stable version...",
     "icon": "https://portable-linux-apps.github.io/icons/google-chrome.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "google-chrome-beta",
     "description": "Unofficial, Web Browser, Beta version...",
     "icon": "https://portable-linux-apps.github.io/icons/google-chrome-beta.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "google-chrome-dev",
     "description": "Unofficial, Web Browser, Unstable version...",
     "icon": "https://portable-linux-apps.github.io/icons/google-chrome-dev.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "google-docs",
@@ -8970,6 +8976,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "komi-store",
+    "description": "Komi Store is a cross-platform app store for GitHub releases, designed to simplify discovering and installing open-source software...",
+    "icon": "https://portable-linux-apps.github.io/icons/komi-store.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "kondo",
     "description": "Cleans dependencies and build artifacts from your projects...",
     "icon": "https://portable-linux-apps.github.io/icons/kondo.png",
@@ -9153,6 +9165,12 @@
     "packageName": "kubrick",
     "description": "A logic game based on Rubik's Cube. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kubrick.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "kudu",
+    "description": "Free, open-source system cleaner & security scanner for Windows, macOS, and Linux. Reclaim disk space. Remove malware. Take back your privacy. All in one app...",
+    "icon": "https://portable-linux-apps.github.io/icons/kudu.png",
     "arch": ["x86_64"]
   },
   {
@@ -9834,6 +9852,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "lumi-ai",
+    "description": "A friendly, human-like AI chatbot powered by Gemini...",
+    "icon": "https://portable-linux-apps.github.io/icons/lumi-ai.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "luna",
     "description": "Manage npm dependencies through a modern UI...",
     "icon": "https://portable-linux-apps.github.io/icons/luna.png",
@@ -10377,6 +10401,12 @@
     "packageName": "mercury",
     "description": "Firefox fork with compiler optimizations and patches from Librewolf...",
     "icon": "https://portable-linux-apps.github.io/icons/mercury.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "meron",
+    "description": "Mail app that sparks joy. Fast/secure email client with chat and kanban view...",
+    "icon": "https://portable-linux-apps.github.io/icons/meron.png",
     "arch": ["x86_64"]
   },
   {
@@ -11208,6 +11238,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "neovide-nightly",
+    "description": "No Nonsense Neovim Client in Rust, the most recent development build...",
+    "icon": "https://portable-linux-apps.github.io/icons/neovide-nightly.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "nepaliunicode",
     "description": "An Unicode Converter app...",
     "icon": "https://portable-linux-apps.github.io/icons/nepaliunicode.png",
@@ -11854,6 +11890,12 @@
     "description": "An offline English dictionary app for desktop...",
     "icon": "https://portable-linux-apps.github.io/icons/odicto.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "offline-translator",
+    "description": "Qt based app for text and image translation completely offline using on-device Firefox translation models...",
+    "icon": "https://portable-linux-apps.github.io/icons/offline-translator.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "oh",
@@ -12579,6 +12621,12 @@
     "packageName": "painel-web",
     "description": "Novo SGA panel...",
     "icon": "https://portable-linux-apps.github.io/icons/painel-web.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "paintfe",
+    "description": "A fast, lightweight raster image editor for Windows. Features layers, blend modes, GPU-accelerated filters, gradients, mesh warp, brushes, selection tools, adjustments, animated GIF/APNG support, and a built-in Rhai scripting engine. Single portable executable, no install required...",
+    "icon": "https://portable-linux-apps.github.io/icons/paintfe.png",
     "arch": ["x86_64"]
   },
   {
@@ -13704,6 +13752,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "prism",
+    "description": "A beginner-friendly live media trigger and overlay tool built with Qt 6, FFmpeg, and OpenGL. Perfect for school events, small concerts, and sports—combining the simplicity of instant clip triggering with the power of live visual control. ..",
+    "icon": "https://portable-linux-apps.github.io/icons/prism.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "prisma-studio",
     "description": "The easiest way to explore and manipulate your data...",
     "icon": "https://portable-linux-apps.github.io/icons/prisma-studio.png",
@@ -14595,6 +14649,12 @@
     "packageName": "record-compare",
     "description": "Record Compare...",
     "icon": "https://portable-linux-apps.github.io/icons/record-compare.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "recordly",
+    "description": "Create polished demo videos without editing skills. Mac/Windows/Linux...",
+    "icon": "https://portable-linux-apps.github.io/icons/recordly.png",
     "arch": ["x86_64"]
   },
   {
@@ -17748,6 +17808,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "tolaria",
+    "description": "Desktop app to manage markdown knowledge bases...",
+    "icon": "https://portable-linux-apps.github.io/icons/tolaria.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "tomatox",
     "description": "An online free VIP video analysis player, in chinese...",
     "icon": "https://portable-linux-apps.github.io/icons/tomatox.png",
@@ -18009,6 +18075,12 @@
     "packageName": "tunepack",
     "description": "Finding and download HQ audio files...",
     "icon": "https://portable-linux-apps.github.io/icons/tunepack.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "tur-tauri",
+    "description": "A sleek, multi-engine download manager. Native Tauri frontend for tur-rs...",
+    "icon": "https://portable-linux-apps.github.io/icons/tur-tauri.png",
     "arch": ["x86_64"]
   },
   {
@@ -18774,6 +18846,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "vocalinux",
+    "description": "Free, open-source, 100% offline voice dictation for Linux. Speak and type anywhere via whisper.cpp, Whisper & VOSK engines, GPU-accelerated, works on X11 + Wayland!...",
+    "icon": "https://portable-linux-apps.github.io/icons/vocalinux.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "voicevox",
     "description": "Offical Frontend for the free VOICEVOX TTS Engine...",
     "icon": "https://portable-linux-apps.github.io/icons/voicevox.png",
@@ -19020,6 +19098,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "wechat",
+    "description": "WeChat is an instant messaging, social media app developed by Tecent...",
+    "icon": "https://portable-linux-apps.github.io/icons/wechat.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "weektodo",
     "description": "WeekToDo is a Free and Open Source Weekly Planner...",
     "icon": "https://portable-linux-apps.github.io/icons/weektodo.png",
@@ -19035,12 +19119,6 @@
     "packageName": "wethr",
     "description": "Command line weather tool...",
     "icon": "https://portable-linux-apps.github.io/icons/wethr.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "wewechat",
-    "description": "Unofficial WeChat client built with React, MobX and Electron...",
-    "icon": "https://portable-linux-apps.github.io/icons/wewechat.png",
     "arch": ["x86_64"]
   },
   {
@@ -19071,6 +19149,12 @@
     "packageName": "whalebird",
     "description": "An Electron based Mastodon client...",
     "icon": "https://portable-linux-apps.github.io/icons/whalebird.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "whatly",
+    "description": "Unofficial, feature-rich WhatsApp web client based on Qt WebEngine. A maintained fork of Whatsie with multi-account support, tray integration and messaging automation...",
+    "icon": "https://portable-linux-apps.github.io/icons/whatly.png",
     "arch": ["x86_64"]
   },
   {
@@ -19590,6 +19674,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "xl-view",
+    "description": "A minimalist HDR image viewer optimized for large images...",
+    "icon": "https://portable-linux-apps.github.io/icons/xl-view.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "xlights",
     "description": "A sequencer for Lights and sequences manager...",
     "icon": "https://portable-linux-apps.github.io/icons/xlights.png",
@@ -20082,6 +20172,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "zennotes",
+    "description": "Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration...",
+    "icon": "https://portable-linux-apps.github.io/icons/zennotes.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "zenroomstudio",
     "description": "Extensible IDE which targets multiple dev platforms...",
     "icon": "https://portable-linux-apps.github.io/icons/zenroomstudio.png",
@@ -20157,6 +20253,12 @@
     "packageName": "zoom",
     "description": "Unofficial. Video Conferencing and Web Conferencing Service...",
     "icon": "https://portable-linux-apps.github.io/icons/zoom.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "zorite",
+    "description": "Local-first, Logseq-style daily journal. Rust + GPUI + SQLite, with a custom gpui-markdown renderer and PDF viewer, custom gpui-whiteboard, (clickable wiki-links, tags, slash menu)...",
+    "icon": "https://portable-linux-apps.github.io/icons/zorite.png",
     "arch": ["x86_64"]
   },
   {

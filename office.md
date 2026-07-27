@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **79** programs and **1** items for this category.
+#### Here are listed **80** programs and **1** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -180,6 +180,7 @@
 | <img loading="lazy" src="icons/xournalpp.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***xournalpp***](apps/xournalpp.md) | *Unofficial. Handwriting notetaking software with PDF annotation support. Written in C++ with GTK3.*..[ *read more* ](apps/xournalpp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xournalpp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xournalpp) |
 | <img loading="lazy" src="icons/xtomarkdown.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***xtomarkdown***](apps/xtomarkdown.md) | *A cross-platform GUI application for converting documents to Markdown.*..[ *read more* ](apps/xtomarkdown.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xtomarkdown) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xtomarkdown) |
 | <img loading="lazy" src="icons/yana.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***yana***](apps/yana.md) | *Note-taking app with nested documents, text search/editor, code...*..[ *read more* ](apps/yana.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yana) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yana) |
+| <img loading="lazy" src="icons/zorite.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***zorite***](apps/zorite.md) | *Local-first, Logseq-style daily journal. Rust + GPUI + SQLite, with a custom gpui-markdown renderer and PDF viewer, custom gpui-whiteboard, (clickable wiki-links, tags, slash menu).*..[ *read more* ](apps/zorite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zorite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zorite) |
 
 
 ---
