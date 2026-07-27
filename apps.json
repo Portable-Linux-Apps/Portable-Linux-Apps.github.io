@@ -19140,6 +19140,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "whatly",
+    "description": "Unofficial, feature-rich WhatsApp web client based on Qt WebEngine. A maintained fork of Whatsie with multi-account support, tray integration and messaging automation...",
+    "icon": "https://portable-linux-apps.github.io/icons/whatly.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "whatsdesk",
     "description": "Unofficial, An unofficial client of WhatsApp...",
     "icon": "https://portable-linux-apps.github.io/icons/whatsdesk.png",
