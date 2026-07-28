@@ -14118,6 +14118,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "qmapshack",
+    "description": "QMapShack is a free, open-source desktop application for planning and analysing GPS tracks, routes, and waypoints. It supports vector, raster, and online maps, digital elevation models, and multiple routing engines...",
+    "icon": "https://portable-linux-apps.github.io/icons/qmapshack.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "qmasterpassword",
     "description": "A password manager based on Qt...",
     "icon": "https://portable-linux-apps.github.io/icons/qmasterpassword.png",
