@@ -6360,6 +6360,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "geolibre",
+    "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data...",
+    "icon": "https://portable-linux-apps.github.io/icons/geolibre.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "geometrize",
     "description": "Images to shapes converter, graphics...",
     "icon": "https://portable-linux-apps.github.io/icons/geometrize.png",
@@ -13566,6 +13572,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "polymc",
+    "description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)...",
+    "icon": "https://portable-linux-apps.github.io/icons/polymc.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "polypane",
     "description": "Browser for web developers...",
     "icon": "https://portable-linux-apps.github.io/icons/polypane.png",
@@ -19456,6 +19468,12 @@
     "description": "A notetaking tool...",
     "icon": "https://portable-linux-apps.github.io/icons/workflowy.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "world-monitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface...",
+    "icon": "https://portable-linux-apps.github.io/icons/world-monitor.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "wournal",
