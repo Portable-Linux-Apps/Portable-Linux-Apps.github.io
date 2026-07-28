@@ -5730,6 +5730,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "fluxdown",
+    "description": "Rust based blazing fast download manager with support for HTTP/FTP/BitTorrent magnetic links and HLS/DASH streaming, intelligent multithreading acceleration and seamless integration with the browser...",
+    "icon": "https://portable-linux-apps.github.io/icons/fluxdown.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "fluxer",
     "description": "A free and open source instant messaging and VoIP platform built for friends, groups, and communities...",
     "icon": "https://portable-linux-apps.github.io/icons/fluxer.png",
