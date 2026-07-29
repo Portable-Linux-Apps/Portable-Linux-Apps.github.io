@@ -13087,9 +13087,9 @@
   },
   {
     "packageName": "photogimp",
-    "description": "A patched version of GIMP for Adobe Photoshop users...",
+    "description": "Unofficial AppImage of GIMP that also includes PhotoGIMP. A patched version of GIMP for Adobe Photoshop users...",
     "icon": "https://portable-linux-apps.github.io/icons/photogimp.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "photon",
