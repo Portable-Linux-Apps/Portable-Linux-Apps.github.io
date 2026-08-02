@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **77** programs for this category.
+#### Here are listed **78** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -102,6 +102,7 @@
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/agregore.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***agregore***](apps/agregore.md) | *A minimal browser for the distributed web, Desktop version.*..[ *read more* ](apps/agregore.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/agregore) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/agregore) |
 | <img loading="lazy" src="icons/archiveweb.page.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***archiveweb.page***](apps/archiveweb.page.md) | *A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers.*..[ *read more* ](apps/archiveweb.page.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/archiveweb.page) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/archiveweb.page) |
+| <img loading="lazy" src="icons/bah-browser.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***bah-browser***](apps/bah-browser.md) | *Open-source AI browser agent — type plain-language commands and Bah operates the web for you. Works with cloud AI (DeepSeek, Mistral, NVIDIA) or local Ollama models.*..[ *read more* ](apps/bah-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bah-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bah-browser) |
 | <img loading="lazy" src="icons/basilisk2.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***basilisk2***](apps/basilisk2.md) | *Classic Macintosh emulator BasiliskII.*..[ *read more* ](apps/basilisk2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/basilisk2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/basilisk2) |
 | <img loading="lazy" src="icons/basiliskii-enhanced.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***basiliskii-enhanced***](apps/basiliskii-enhanced.md) | *Unofficial, classic Macintosh emulator BasiliskII.*..[ *read more* ](apps/basiliskii-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/basiliskii-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/basiliskii-enhanced) |
 | <img loading="lazy" src="icons/brave.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***brave***](apps/brave.md) | *Unofficial, a privacy oriented Web Browser based on Chromium, this is the "stable" release.*..[ *read more* ](apps/brave.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brave) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brave) |
