@@ -11088,6 +11088,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "myhondaplus-desktop",
+    "description": "Unofficial, desktop GUI for Honda Connect Europe (My Honda+) to monitor and control your vehicle...",
+    "icon": "https://portable-linux-apps.github.io/icons/myhondaplus-desktop.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "mypaint",
     "description": "Simple drawing and painting program, graphics...",
     "icon": "https://portable-linux-apps.github.io/icons/mypaint.png",
