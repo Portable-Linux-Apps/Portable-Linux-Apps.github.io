@@ -396,6 +396,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "amber",
+    "description": "Amber Video Editor — free open-source non-linear video editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/amber.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "ambermoon.net",
     "description": "Ambermoon rewrite in C#...",
     "icon": "https://portable-linux-apps.github.io/icons/ambermoon.net.png",
