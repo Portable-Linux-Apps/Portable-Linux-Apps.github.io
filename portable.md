@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **578** portable programs NOT in AppImage format.
+#### Here are listed **579** portable programs NOT in AppImage format.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -396,6 +396,7 @@
 | <img loading="lazy" src="icons/lowfi.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***lowfi***](apps/lowfi.md) | *An extremely simple lofi player. CLI.*..[ *read more* ](apps/lowfi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lowfi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lowfi) |
 | <img loading="lazy" src="icons/ls.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***ls***](apps/ls.md) | *List directory contents. This is part of "am-utils" suite.*..[ *read more* ](apps/ls.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ls) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ls) |
 | <img loading="lazy" src="icons/lsd.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***lsd***](apps/lsd.md) | *The next gen ls command.*..[ *read more* ](apps/lsd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lsd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lsd) |
+| <img loading="lazy" src="icons/ludusavi.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***ludusavi***](apps/ludusavi.md) | *Backup tool for PC game saves.*..[ *read more* ](apps/ludusavi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ludusavi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ludusavi) |
 | <img loading="lazy" src="icons/macchina.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***macchina***](apps/macchina.md) | *A system information frontend with an emphasis on performance.*..[ *read more* ](apps/macchina.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/macchina) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/macchina) |
 | <img loading="lazy" src="icons/manga-tui.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***manga-tui***](apps/manga-tui.md) | *Terminal-based manga reader and downloader with image support.*..[ *read more* ](apps/manga-tui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/manga-tui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/manga-tui) |
 | <img loading="lazy" src="icons/mangadesk.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mangadesk***](apps/mangadesk.md) | *Terminal client for MangaDex.*..[ *read more* ](apps/mangadesk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mangadesk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mangadesk) |

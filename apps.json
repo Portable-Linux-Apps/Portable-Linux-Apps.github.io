@@ -9876,6 +9876,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "ludusavi",
+    "description": "Backup tool for PC game saves...",
+    "icon": "https://portable-linux-apps.github.io/icons/ludusavi.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "lumi",
     "description": "A tool to create and display interactive content with H5P...",
     "icon": "https://portable-linux-apps.github.io/icons/lumi.png",
