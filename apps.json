@@ -6354,6 +6354,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "gemini-cli-desktop",
+    "description": "Web desktop UI for Gemini CLI Qwen Code. Manage projects, switch between tools, search across past conversations, and manage MCP servers, all from one multilingual interface, locally or remotely...",
+    "icon": "https://portable-linux-apps.github.io/icons/gemini-cli-desktop.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "gemrb",
     "description": "GemRB is a portable open-source implementation of Bioware's Infinity Engine...",
     "icon": "https://portable-linux-apps.github.io/icons/gemrb.png",
