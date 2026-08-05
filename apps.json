@@ -13308,6 +13308,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "pinta-gtk3",
+    "description": "Unofficial, Simple GTK Paint Program clone of Paint.Net 3.0 (GTK3 Version)...",
+    "icon": "https://portable-linux-apps.github.io/icons/pinta-gtk3.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "pipes-rs",
     "description": "An over-engineered rewrite of pipes.sh in Rust. CLI...",
     "icon": "https://portable-linux-apps.github.io/icons/pipes-rs.png",
@@ -13813,7 +13819,7 @@
   },
   {
     "packageName": "prism",
-    "description": "A beginner-friendly live media trigger and overlay tool built with Qt 6, FFmpeg, and OpenGL. Perfect for school events, small concerts, and sports—combining the simplicity of instant clip triggering with the power of live visual control. ..",
+    "description": "A beginner-friendly live media trigger and overlay tool built with Qt 6, FFmpeg, and OpenGL. Perfect for school events, small concerts, and sports—combining the simplicity of instant clip triggering with the power of live visual control...",
     "icon": "https://portable-linux-apps.github.io/icons/prism.png",
     "arch": ["x86_64"]
   },
