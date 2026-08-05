@@ -7944,12 +7944,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "insomnium",
-    "description": "A local API testing tool privacy-focused, fork of Kong/insomnia...",
-    "icon": "https://portable-linux-apps.github.io/icons/insomnium.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "install",
     "description": "Copy files and set attributes. This is part of \"am-utils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/install.png",
