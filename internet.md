@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **42** programs for this category.
+#### Here are listed **43** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -100,6 +100,7 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
+| <img loading="lazy" src="icons/3nity-media.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***3nity-media***](apps/3nity-media.md) | *Cross-platform media player built with Lazarus/Free Pascal and libmpv. Features playlist management, internet radio, equalizer, visualizations, stream recording, and 100 language translations.*..[ *read more* ](apps/3nity-media.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/3nity-media) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/3nity-media) |
 | <img loading="lazy" src="icons/adobe-flash-player.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***adobe-flash-player***](apps/adobe-flash-player.md) | *Unofficial port. Adobe Flash is a mostly discontinued multimedia software platform used for production of animations, rich internet applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Over 67 billion devices use adobe flash player!*..[ *read more* ](apps/adobe-flash-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/adobe-flash-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/adobe-flash-player) |
 | <img loading="lazy" src="icons/altersend.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***altersend***](apps/altersend.md) | *Send files directly between devices over the internet - no cloud, no servers, no size limits.*..[ *read more* ](apps/altersend.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/altersend) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/altersend) |
 | <img loading="lazy" src="icons/amule.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***amule***](apps/amule.md) | *All-platform P2P client based on eMule. aMule is a free, GPL-licensed peer-to-peer file-sharing client for the eD2k and Kademlia networks.*..[ *read more* ](apps/amule.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amule) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amule) |

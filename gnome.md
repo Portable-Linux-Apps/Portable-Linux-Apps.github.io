@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **17** programs for this category.
+#### Here are listed **18** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -116,6 +116,7 @@
 | <img loading="lazy" src="icons/loginized.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***loginized***](apps/loginized.md) | *Loginized Gnome GDM Login Theme Manager.*..[ *read more* ](apps/loginized.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/loginized) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/loginized) |
 | <img loading="lazy" src="icons/shotwell.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***shotwell***](apps/shotwell.md) | *Unofficial, a digital photo organizer designed for the GNOME desktop environment.*..[ *read more* ](apps/shotwell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shotwell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shotwell) |
 | <img loading="lazy" src="icons/simple-scan.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***simple-scan***](apps/simple-scan.md) | *Make a digital copy of your photos and documents. Simple scanning utility for the GNOME desktop environment.*..[ *read more* ](apps/simple-scan.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/simple-scan) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/simple-scan) |
+| <img loading="lazy" src="icons/stickynotescanvas.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***stickynotescanvas***](apps/stickynotescanvas.md) | *A sticky notes app for Linux (yes, for Linux too!) and macOS that doesn't look like it escaped from a 2006 GNOME panel.*..[ *read more* ](apps/stickynotescanvas.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stickynotescanvas) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stickynotescanvas) |
 | <img loading="lazy" src="icons/switchcraft.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***switchcraft***](apps/switchcraft.md) | *Switchcraft watches GNOME's light/dark preference and runs your shell commands when the theme changes.*..[ *read more* ](apps/switchcraft.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/switchcraft) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/switchcraft) |
 
 
