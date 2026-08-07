@@ -2754,6 +2754,18 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "citron-nightly",
+    "description": "The switch fell off https://citron-neo.org/...",
+    "icon": "https://portable-linux-apps.github.io/icons/citron-nightly.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "citron-nightly-v3",
+    "description": "The switch fell off https://citron-neo.org/...",
+    "icon": "https://portable-linux-apps.github.io/icons/citron-nightly-v3.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "city-hub",
     "description": "Hub into everything on City Chain/Smart City Platform...",
     "icon": "https://portable-linux-apps.github.io/icons/city-hub.png",
