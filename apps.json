@@ -5034,6 +5034,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "er-save-manager",
+    "description": "Elden Ring Save Manager - A comprehensive save file editor, backup manager, and corruption fixer for Elden Ring with an intuitive GUI, community Browsers, ItemGib and much more...",
+    "icon": "https://portable-linux-apps.github.io/icons/er-save-manager.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "era",
     "description": "ERA is your note-taking tool...",
     "icon": "https://portable-linux-apps.github.io/icons/era.png",

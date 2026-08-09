@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **80** programs for this category.
+#### Here are listed **81** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -123,6 +123,7 @@
 | <img loading="lazy" src="icons/deskreen.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***deskreen***](apps/deskreen.md) | *Turns any device with a web browser into a secondary screen.*..[ *read more* ](apps/deskreen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/deskreen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/deskreen) |
 | <img loading="lazy" src="icons/dezor.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***dezor***](apps/dezor.md) | *The web browser including VPN and Adblocker.*..[ *read more* ](apps/dezor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dezor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dezor) |
 | <img loading="lazy" src="icons/elzabrowser.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***elzabrowser***](apps/elzabrowser.md) | *Elza incognito web browser.*..[ *read more* ](apps/elzabrowser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elzabrowser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elzabrowser) |
+| <img loading="lazy" src="icons/er-save-manager.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***er-save-manager***](apps/er-save-manager.md) | *Elden Ring Save Manager - A comprehensive save file editor, backup manager, and corruption fixer for Elden Ring with an intuitive GUI, community Browsers, ItemGib and much more.*..[ *read more* ](apps/er-save-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/er-save-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/er-save-manager) |
 | <img loading="lazy" src="icons/falkon.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***falkon***](apps/falkon.md) | *Unofficial. A fast Qt web browser from KDE.*..[ *read more* ](apps/falkon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/falkon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/falkon) |
 | <img loading="lazy" src="icons/fifo.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***fifo***](apps/fifo.md) | *A modern web browser, built on top of modern web technologies.*..[ *read more* ](apps/fifo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fifo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fifo) |
 | <img loading="lazy" src="icons/filebrowser.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***filebrowser***](apps/filebrowser.md) | *Web File Browser.*..[ *read more* ](apps/filebrowser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/filebrowser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/filebrowser) |
