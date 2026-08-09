@@ -4968,6 +4968,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "ente-ensu-stripped",
+    "description": "Ente Ensu release with the GPU/Display Libraries stripped out for compatibility...",
+    "icon": "https://portable-linux-apps.github.io/icons/ente-ensu-stripped.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "ente-photos",
     "description": "Binary releases of the Ente Photos desktop app...",
     "icon": "https://portable-linux-apps.github.io/icons/ente-photos.png",
