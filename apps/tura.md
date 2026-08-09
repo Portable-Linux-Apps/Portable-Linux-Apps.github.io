@@ -1,6 +1,6 @@
 # TURA
 
- Tura is an open-source, local-first AI coding agent that works with existing AI subscriptions and coding tools.
+ Build agent that uses 80% less token and delivers better results.
 
  SITE: https://github.com/tura-ai/tura
 
