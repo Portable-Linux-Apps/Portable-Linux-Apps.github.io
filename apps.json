@@ -19416,6 +19416,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "waveterm",
+    "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows...",
+    "icon": "https://portable-linux-apps.github.io/icons/waveterm.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "waydroid-helper",
     "description": "App that provides a user-friendly way to configure Waydroid and install extensions, including Magisk and ARM translation (android)...",
     "icon": "https://portable-linux-apps.github.io/icons/waydroid-helper.png",

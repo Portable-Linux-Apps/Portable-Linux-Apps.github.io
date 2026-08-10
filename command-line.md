@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **903** programs and **10** items for this category.
+#### Here are listed **904** programs and **10** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -663,6 +663,7 @@
 | <img loading="lazy" src="icons/walk.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***walk***](apps/walk.md) | *Terminal file manager.*..[ *read more* ](apps/walk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/walk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/walk) |
 | <img loading="lazy" src="icons/warp-terminal.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***warp-terminal***](apps/warp-terminal.md) | *Terminal reimagined with AI and collaborative tools.*..[ *read more* ](apps/warp-terminal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/warp-terminal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/warp-terminal) |
 | <img loading="lazy" src="icons/watch.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***watch***](apps/watch.md) | *Watches for changes in a directory tree and reruns a command in an acme win or just on the terminal. This is part of "am-utils" suite.*..[ *read more* ](apps/watch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/watch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/watch) |
+| <img loading="lazy" src="icons/waveterm.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***waveterm***](apps/waveterm.md) | *An open-source, AI-integrated, cross-platform terminal for seamless workflows.*..[ *read more* ](apps/waveterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/waveterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/waveterm) |
 | <img loading="lazy" src="icons/wc.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***wc***](apps/wc.md) | *Print newline, word, and byte counts for each file. This is part of "am-utils" suite.*..[ *read more* ](apps/wc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wc) |
 | <img loading="lazy" src="icons/wethr.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***wethr***](apps/wethr.md) | *Command line weather tool.*..[ *read more* ](apps/wethr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wethr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wethr) |
 | <img loading="lazy" src="icons/wezterm.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***wezterm***](apps/wezterm.md) | *A GPU-accelerated terminal emulator and multiplexer.*..[ *read more* ](apps/wezterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wezterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wezterm) |
