@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **902** programs and **10** items for this category.
+#### Here are listed **903** programs and **10** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -534,6 +534,7 @@
 | <img loading="lazy" src="icons/rustypaste.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***rustypaste***](apps/rustypaste.md) | *A minimal file upload/pastebin service.*..[ *read more* ](apps/rustypaste.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rustypaste) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rustypaste) |
 | <img loading="lazy" src="icons/s.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***s***](apps/s.md) | *Open a web search in your terminal.*..[ *read more* ](apps/s.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/s) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/s) |
 | <img loading="lazy" src="icons/sas.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***sas***](apps/sas.md) | *Tool to sandbox AppImages with bubblewrap easily.*..[ *read more* ](apps/sas.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sas) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sas) |
+| <img loading="lazy" src="icons/sc4pac-gui.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***sc4pac-gui***](apps/sc4pac-gui.md) | *Mod Manager for SimCity 4. Graphical UI for the package manager sc4pac. Requires Java and Mono to run!*..[ *read more* ](apps/sc4pac-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sc4pac-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sc4pac-gui) |
 | <img loading="lazy" src="icons/school-sections.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***school-sections***](apps/school-sections.md) | *This project was generated with Angular CLI v1.7.4.*..[ *read more* ](apps/school-sections.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/school-sections) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/school-sections) |
 | <img loading="lazy" src="icons/scummvm.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***scummvm***](apps/scummvm.md) | *Unofficial, A 'virtual machine' for several classic graphical point-and-click adventure games*..[ *read more* ](apps/scummvm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/scummvm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/scummvm) |
 | <img loading="lazy" src="icons/sd.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***sd***](apps/sd.md) | *Intuitive find & replace CLI, sed alternative.*..[ *read more* ](apps/sd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sd) |

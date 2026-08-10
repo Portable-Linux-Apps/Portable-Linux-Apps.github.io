@@ -14160,6 +14160,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "protonplus",
+    "description": "A modern compatibility tools manager...",
+    "icon": "https://portable-linux-apps.github.io/icons/protonplus.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "protontricks",
     "description": "Unofficial AppImage of Protontricks...",
     "icon": "https://portable-linux-apps.github.io/icons/protontricks.png",
@@ -15633,6 +15639,12 @@
     "packageName": "sc-controller",
     "description": "User-mode driver and GTK3 based GUI for Steam Controller...",
     "icon": "https://portable-linux-apps.github.io/icons/sc-controller.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "sc4pac-gui",
+    "description": "Mod Manager for SimCity 4. Graphical UI for the package manager sc4pac. Requires Java and Mono to run!..",
+    "icon": "https://portable-linux-apps.github.io/icons/sc4pac-gui.png",
     "arch": ["x86_64"]
   },
   {
