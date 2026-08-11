@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **99** programs for this category.
+#### Here are listed **98** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -100,7 +100,6 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
-| <img loading="lazy" src="icons/4kwall.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***4kwall***](apps/4kwall.md) | *Browse, search, download, organize and automatically rotate millions of beautiful HD, 4K & 8K wallpapers.*..[ *read more* ](apps/4kwall.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/4kwall) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/4kwall) |
 | <img loading="lazy" src="icons/affinity.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***affinity***](apps/affinity.md) | *Affinity is a suite of professional graphic design, photo editing, and desktop publishing software. It's a common alternative to software from the Adobe Suite such as for Adobe Photoshop, Adobe Illustrator, Adobe InDesign.*..[ *read more* ](apps/affinity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/affinity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/affinity) |
 | <img loading="lazy" src="icons/ansel.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***ansel***](apps/ansel.md) | *An open-source photo-editing software for digital artists, designed to help you achieve your own interpretation of raw digital photographs.*..[ *read more* ](apps/ansel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ansel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ansel) |
 | <img loading="lazy" src="icons/aphototoollibre.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***aphototoollibre***](apps/aphototoollibre.md) | *Photo editing app for GNU/Linux.*..[ *read more* ](apps/aphototoollibre.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aphototoollibre) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aphototoollibre) |

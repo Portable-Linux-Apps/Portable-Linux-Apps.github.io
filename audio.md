@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **177** programs and **1** items for this category.
+#### Here are listed **176** programs and **1** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -101,7 +101,6 @@
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/432hz-player.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***432hz-player***](apps/432hz-player.md) | *Because most music is recorded in 440hz, Audio Player.*..[ *read more* ](apps/432hz-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/432hz-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/432hz-player) |
-| <img loading="lazy" src="icons/4ktube.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***4ktube***](apps/4ktube.md) | *4KTUBE is a fast, powerful, and user-friendly application designed to Download YouTube Videos, Playlists, and Music in high-definition (HD, 4K, 8K) effortlessly.*..[ *read more* ](apps/4ktube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/4ktube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/4ktube) |
 | <img loading="lazy" src="icons/acestep-cpp-ui.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***acestep-cpp-ui***](apps/acestep-cpp-ui.md) | *AceStep-cpp UI, 100% local and free Suno alternative powered by acestep-cpp. Native C++ bundle for local AI music generation with 0% python.*..[ *read more* ](apps/acestep-cpp-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/acestep-cpp-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/acestep-cpp-ui) |
 | <img loading="lazy" src="icons/amarok.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***amarok***](apps/amarok.md) | *Unofficial, powerful music player that lets you rediscover your music.*..[ *read more* ](apps/amarok.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amarok) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amarok) |
 | <img loading="lazy" src="icons/amplitude-soundboard.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***amplitude-soundboard***](apps/amplitude-soundboard.md) | *A sleek, cross-platform soundboard, available.*..[ *read more* ](apps/amplitude-soundboard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amplitude-soundboard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amplitude-soundboard) |

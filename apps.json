@@ -36,18 +36,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "4ktube",
-    "description": "4KTUBE is a fast, powerful, and user-friendly application designed to Download YouTube Videos, Playlists, and Music in high-definition (HD, 4K, 8K) effortlessly...",
-    "icon": "https://portable-linux-apps.github.io/icons/4ktube.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "4kwall",
-    "description": "Browse, search, download, organize and automatically rotate millions of beautiful HD, 4K & 8K wallpapers...",
-    "icon": "https://portable-linux-apps.github.io/icons/4kwall.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "5ire",
     "description": "5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers...",
     "icon": "https://portable-linux-apps.github.io/icons/5ire.png",

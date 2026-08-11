@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **170** programs for this category.
+#### Here are listed **169** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -101,7 +101,6 @@
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/3nity-media.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***3nity-media***](apps/3nity-media.md) | *Cross-platform media player built with Lazarus/Free Pascal and libmpv. Features playlist management, internet radio, equalizer, visualizations, stream recording, and 100 language translations.*..[ *read more* ](apps/3nity-media.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/3nity-media) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/3nity-media) |
-| <img loading="lazy" src="icons/4ktube.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***4ktube***](apps/4ktube.md) | *4KTUBE is a fast, powerful, and user-friendly application designed to Download YouTube Videos, Playlists, and Music in high-definition (HD, 4K, 8K) effortlessly.*..[ *read more* ](apps/4ktube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/4ktube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/4ktube) |
 | <img loading="lazy" src="icons/acestream.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***acestream***](apps/acestream.md) | *Створення бінарника AppImage з AceStream Media.*..[ *read more* ](apps/acestream.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/acestream) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/acestream) |
 | <img loading="lazy" src="icons/adobe-flash-player.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***adobe-flash-player***](apps/adobe-flash-player.md) | *Unofficial port. Adobe Flash is a mostly discontinued multimedia software platform used for production of animations, rich internet applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Over 67 billion devices use adobe flash player!*..[ *read more* ](apps/adobe-flash-player.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/adobe-flash-player) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/adobe-flash-player) |
 | <img loading="lazy" src="icons/akuse.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***akuse***](apps/akuse.md) | *Simple and easy to use anime streaming desktop app without ads.*..[ *read more* ](apps/akuse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/akuse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/akuse) |

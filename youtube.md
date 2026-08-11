@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **34** programs for this category.
+#### Here are listed **33** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -100,7 +100,6 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
-| <img loading="lazy" src="icons/4ktube.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***4ktube***](apps/4ktube.md) | *4KTUBE is a fast, powerful, and user-friendly application designed to Download YouTube Videos, Playlists, and Music in high-definition (HD, 4K, 8K) effortlessly.*..[ *read more* ](apps/4ktube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/4ktube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/4ktube) |
 | <img loading="lazy" src="icons/arcdlp.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***arcdlp***](apps/arcdlp.md) | *Open-source desktop video downloader powered by yt-dlp and electron. Download videos and audio from YouTube, Vimeo, Twitter, and thousands of sites.*..[ *read more* ](apps/arcdlp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/arcdlp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/arcdlp) |
 | <img loading="lazy" src="icons/blob-dl.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***blob-dl***](apps/blob-dl.md) | *Blob-dl is a yt-dlp CLI interface used to download video and audio files from YouTube.*..[ *read more* ](apps/blob-dl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/blob-dl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/blob-dl) |
 | <img loading="lazy" src="icons/fraidycat.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***fraidycat***](apps/fraidycat.md) | *Follow blogs, wikis, YouTube, Twitter, Reddit, Instagram and more.*..[ *read more* ](apps/fraidycat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fraidycat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fraidycat) |
