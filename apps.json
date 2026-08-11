@@ -9780,6 +9780,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "linux-command-library",
+    "description": "Linux basics, tips and formatted man pages...",
+    "icon": "https://portable-linux-apps.github.io/icons/linux-command-library.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "linux-intel-undervolt-gui",
     "description": "Undervolting GUI for Intel Linux Systems...",
     "icon": "https://portable-linux-apps.github.io/icons/linux-intel-undervolt-gui.png",
@@ -14163,7 +14169,7 @@
     "packageName": "protonplus",
     "description": "A modern compatibility tools manager...",
     "icon": "https://portable-linux-apps.github.io/icons/protonplus.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "protontricks",
