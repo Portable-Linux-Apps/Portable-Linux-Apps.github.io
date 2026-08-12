@@ -12396,6 +12396,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "opencadstudio",
+    "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering...",
+    "icon": "https://portable-linux-apps.github.io/icons/opencadstudio.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "openclaw",
     "description": "Unofficial, reimplementation of Captain Claw (1997) platformer...",
     "icon": "https://portable-linux-apps.github.io/icons/openclaw.png",
