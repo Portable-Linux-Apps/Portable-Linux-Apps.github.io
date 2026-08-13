@@ -12906,6 +12906,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "panconvert",
+    "description": "GUI Wrapper for Pandoc...",
+    "icon": "https://portable-linux-apps.github.io/icons/panconvert.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "pandoralauncher",
     "description": "Pandora is a modern Minecraft launcher that balances ease-of-use with powerful instance management features...",
     "icon": "https://portable-linux-apps.github.io/icons/pandoralauncher.png",
