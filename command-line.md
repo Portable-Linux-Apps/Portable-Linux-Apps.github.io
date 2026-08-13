@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **904** programs and **10** items for this category.
+#### Here are listed **905** programs and **10** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -468,6 +468,7 @@
 | <img loading="lazy" src="icons/outline-client.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***outline-client***](apps/outline-client.md) | *Lean on the Cordova and Electron frameworks.*..[ *read more* ](apps/outline-client.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/outline-client) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/outline-client) |
 | <img loading="lazy" src="icons/paclear.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***paclear***](apps/paclear.md) | *CLI, paclear is a clear command with PAC-MAN animation.*..[ *read more* ](apps/paclear.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/paclear) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/paclear) |
 | <img loading="lazy" src="icons/paket.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***paket***](apps/paket.md) | *A simple and fast package manager for the Fish shell written in Rust.*..[ *read more* ](apps/paket.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/paket) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/paket) |
+| <img loading="lazy" src="icons/pandoc.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***pandoc***](apps/pandoc.md) | *Universal markup converter.*..[ *read more* ](apps/pandoc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pandoc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pandoc) |
 | <img loading="lazy" src="icons/paper.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***paper***](apps/paper.md) | *A CLI Tool to set a random wallpaper from Unsplash.com.*..[ *read more* ](apps/paper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/paper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/paper) |
 | <img loading="lazy" src="icons/paste.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***paste***](apps/paste.md) | *Merge lines of files. This is part of "am-utils" suite.*..[ *read more* ](apps/paste.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/paste) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/paste) |
 | <img loading="lazy" src="icons/pastel.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***pastel***](apps/pastel.md) | *A command-line tool to generate, analyze, convert and manipulate colors.*..[ *read more* ](apps/pastel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pastel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pastel) |
