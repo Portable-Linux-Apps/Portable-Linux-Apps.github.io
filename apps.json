@@ -13590,6 +13590,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "pkhex",
+    "description": "Unofficial release of PKHeX, the Pokemon Save File Editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/pkhex.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "plagpatrol",
     "description": "Detecting documents tampered to bypass plagiarism detectors...",
     "icon": "https://portable-linux-apps.github.io/icons/plagpatrol.png",
