@@ -1938,6 +1938,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "boris",
+    "description": "Behavioral Observation Research Interactive Software...",
+    "icon": "https://portable-linux-apps.github.io/icons/boris.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "botclient",
     "description": "A discord botclient built with Electron and React...",
     "icon": "https://portable-linux-apps.github.io/icons/botclient.png",
@@ -17607,6 +17613,12 @@
     "packageName": "t.viewer",
     "description": "Cross Platform Tizen Log Viewer...",
     "icon": "https://portable-linux-apps.github.io/icons/t.viewer.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "t3-code",
+    "description": "T3 Code is a minimal GUI for coding agents...",
+    "icon": "https://portable-linux-apps.github.io/icons/t3-code.png",
     "arch": ["x86_64"]
   },
   {
