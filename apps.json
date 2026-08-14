@@ -8658,12 +8658,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "kardi",
-    "description": "Application for taking notes with capabilities to view all content from any device while keeping all data accessible by you only...",
-    "icon": "https://portable-linux-apps.github.io/icons/kardi.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "kate",
     "description": "A multi-document editor part of KDE. This is part of \"kdeutils\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kate.png",
