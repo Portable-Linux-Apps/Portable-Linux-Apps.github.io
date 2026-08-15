@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **492** command line utilities: static and dynamic ELF binaries, or simple scripts.
+#### Here are listed **493** command line utilities: static and dynamic ELF binaries, or simple scripts.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -400,6 +400,7 @@
 | <img loading="lazy" src="icons/opencode.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***opencode***](apps/opencode.md) | *The open source coding agent.*..[ *read more* ](apps/opencode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/opencode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/opencode) |
 | <img loading="lazy" src="icons/oras.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***oras***](apps/oras.md) | *OCI registry client managing content like artifacts, images, packages.*..[ *read more* ](apps/oras.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/oras) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/oras) |
 | <img loading="lazy" src="icons/ots.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***ots***](apps/ots.md) | *Share end-to-end encrypted secrets with others via a one-time URL.*..[ *read more* ](apps/ots.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ots) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ots) |
+| <img loading="lazy" src="icons/oxish-session.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***oxish-session***](apps/oxish-session.md) | *Modern and minimal SSH server written in Rust.*..[ *read more* ](apps/oxish-session.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/oxish-session) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/oxish-session) |
 | <img loading="lazy" src="icons/paclear.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***paclear***](apps/paclear.md) | *CLI, paclear is a clear command with PAC-MAN animation.*..[ *read more* ](apps/paclear.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/paclear) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/paclear) |
 | <img loading="lazy" src="icons/paket.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***paket***](apps/paket.md) | *A simple and fast package manager for the Fish shell written in Rust.*..[ *read more* ](apps/paket.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/paket) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/paket) |
 | <img loading="lazy" src="icons/pandoc.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***pandoc***](apps/pandoc.md) | *Universal markup converter.*..[ *read more* ](apps/pandoc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pandoc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pandoc) |

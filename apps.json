@@ -12822,6 +12822,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "oxish-session",
+    "description": "Modern and minimal SSH server written in Rust...",
+    "icon": "https://portable-linux-apps.github.io/icons/oxish-session.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "p2p-chat",
     "description": "P2P LAN chatting and file sharing tool...",
     "icon": "https://portable-linux-apps.github.io/icons/p2p-chat.png",
