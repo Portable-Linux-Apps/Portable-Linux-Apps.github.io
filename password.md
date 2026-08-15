@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **18** programs for this category.
+#### Here are listed **19** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -114,6 +114,7 @@
 | <img loading="lazy" src="icons/passky.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***passky***](apps/passky.md) | *Simple and secure password manager.*..[ *read more* ](apps/passky.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/passky) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/passky) |
 | <img loading="lazy" src="icons/passphraser.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***passphraser***](apps/passphraser.md) | *Phrase-based password generator that can use your own list of words.*..[ *read more* ](apps/passphraser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/passphraser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/passphraser) |
 | <img loading="lazy" src="icons/pearpass.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***pearpass***](apps/pearpass.md) | *An open-source, privacy-first password manager with peer-to-peer syncing and end-to-end encryption.*..[ *read more* ](apps/pearpass.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pearpass) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pearpass) |
+| <img loading="lazy" src="icons/privacynotes.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***privacynotes***](apps/privacynotes.md) | *no email, no password, no account to leak.*..[ *read more* ](apps/privacynotes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/privacynotes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/privacynotes) |
 | <img loading="lazy" src="icons/qmasterpassword.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***qmasterpassword***](apps/qmasterpassword.md) | *A password manager based on Qt.*..[ *read more* ](apps/qmasterpassword.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmasterpassword) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmasterpassword) |
 | <img loading="lazy" src="icons/rbw.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***rbw***](apps/rbw.md) | *Unofficial Bitwarden password manager cli.*..[ *read more* ](apps/rbw.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rbw) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rbw) |
 | <img loading="lazy" src="icons/secrets.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***secrets***](apps/secrets.md) | *Unofficial AppImage of the Secrets keepass and 2FA password manager.*..[ *read more* ](apps/secrets.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/secrets) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/secrets) |

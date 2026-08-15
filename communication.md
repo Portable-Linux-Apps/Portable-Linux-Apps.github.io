@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **87** programs for this category.
+#### Here are listed **88** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -138,6 +138,7 @@
 | <img loading="lazy" src="icons/mirage.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mirage***](apps/mirage.md) | *Matrix chat client for encrypted and decentralized communication.*..[ *read more* ](apps/mirage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mirage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mirage) |
 | <img loading="lazy" src="icons/overlayed.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***overlayed***](apps/overlayed.md) | *A modern, open-source, and free voice chat overlay for Discord.*..[ *read more* ](apps/overlayed.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/overlayed) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/overlayed) |
 | <img loading="lazy" src="icons/pop.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***pop***](apps/pop.md) | *Send emails from your terminal.*..[ *read more* ](apps/pop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pop) |
+| <img loading="lazy" src="icons/privacynotes.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***privacynotes***](apps/privacynotes.md) | *no email, no password, no account to leak.*..[ *read more* ](apps/privacynotes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/privacynotes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/privacynotes) |
 | <img loading="lazy" src="icons/qortal-ui.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***qortal-ui***](apps/qortal-ui.md) | *Decentralize the world, data storage, communications.*..[ *read more* ](apps/qortal-ui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qortal-ui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qortal-ui) |
 | <img loading="lazy" src="icons/qtox.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***qtox***](apps/qtox.md) | *Qt 5 based Tox instant messenger for secure communication.*..[ *read more* ](apps/qtox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qtox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qtox) |
 | <img loading="lazy" src="icons/quiet.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***quiet***](apps/quiet.md) | *A private, p2p alternative to Slack and Discord built on Tor & IPFS*..[ *read more* ](apps/quiet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/quiet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/quiet) |

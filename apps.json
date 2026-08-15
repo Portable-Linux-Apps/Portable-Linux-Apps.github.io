@@ -14106,6 +14106,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "privacynotes",
+    "description": "no email, no password, no account to leak...",
+    "icon": "https://portable-linux-apps.github.io/icons/privacynotes.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "privaxy",
     "description": "The next generation tracker and ads/advertisement blocker...",
     "icon": "https://portable-linux-apps.github.io/icons/privaxy.png",
