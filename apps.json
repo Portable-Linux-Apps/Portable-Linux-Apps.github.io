@@ -6900,6 +6900,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "go2tv",
+    "description": "Cast media files to Smart TVs and Chromecast devices...",
+    "icon": "https://portable-linux-apps.github.io/icons/go2tv.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "goanime",
     "description": "A TUI tool to browse, stream, and download anime in English and Portuguese...",
     "icon": "https://portable-linux-apps.github.io/icons/goanime.png",
@@ -12450,6 +12456,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "openhuman",
+    "description": "Your personal AI super intelligence - a brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher...",
+    "icon": "https://portable-linux-apps.github.io/icons/openhuman.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "openhv",
     "description": "A mod for OpenRA based on the Hard Vacuum, game...",
     "icon": "https://portable-linux-apps.github.io/icons/openhv.png",
@@ -13564,6 +13576,12 @@
     "description": "An over-engineered rewrite of pipes.sh in Rust. CLI...",
     "icon": "https://portable-linux-apps.github.io/icons/pipes-rs.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "pixeldrain-cli",
+    "description": "A simple command-line client for uploading files and directories to Pixeldrain...",
+    "icon": "https://portable-linux-apps.github.io/icons/pixeldrain-cli.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "pixelhopper",
