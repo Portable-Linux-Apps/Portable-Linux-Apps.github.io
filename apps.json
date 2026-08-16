@@ -3744,6 +3744,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "dashbeam",
+    "description": "Peer-to-peer encrypted files and folders transfer tool to anywhere in the world - any format, no accounts, no restrictions...",
+    "icon": "https://portable-linux-apps.github.io/icons/dashbeam.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "dashy-app",
     "description": "Dashboard creation application...",
     "icon": "https://portable-linux-apps.github.io/icons/dashy-app.png",
@@ -10335,6 +10341,12 @@
     "packageName": "marvin",
     "description": "Open Source record and playback test automation for the web...",
     "icon": "https://portable-linux-apps.github.io/icons/marvin.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "master-pdf-editor",
+    "description": "Master PDF Editor is the optimal solution for editing PDF files in Linux. It enables you to create, edit, view, encrypt, sign and print interactive PDF documents...",
+    "icon": "https://portable-linux-apps.github.io/icons/master-pdf-editor.png",
     "arch": ["x86_64"]
   },
   {
