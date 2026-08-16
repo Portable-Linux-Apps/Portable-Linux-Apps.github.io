@@ -10650,6 +10650,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "metaclean",
+    "description": "Offline desktop app for removing sensitive metadata from files...",
+    "icon": "https://portable-linux-apps.github.io/icons/metaclean.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "mgba",
     "description": "Game Boy Advance Emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/mgba.png",
