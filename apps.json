@@ -10338,12 +10338,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "master-pdf-editor",
-    "description": "Master PDF Editor allows you to create, edit, preview, encrypt, sign and print PDF documents...",
-    "icon": "https://portable-linux-apps.github.io/icons/master-pdf-editor.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "masterkey",
     "description": "Unofficial AppImage of Master Key...",
     "icon": "https://portable-linux-apps.github.io/icons/masterkey.png",
