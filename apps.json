@@ -19326,6 +19326,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "voyager",
+    "description": "A beautiful app for Lemmy and Piefed...",
+    "icon": "https://portable-linux-apps.github.io/icons/voyager.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "vpaint",
     "description": "Experimental vector graphics and 2D animation editor...",
     "icon": "https://portable-linux-apps.github.io/icons/vpaint.png",
