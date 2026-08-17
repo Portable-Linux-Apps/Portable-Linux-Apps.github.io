@@ -717,7 +717,7 @@
     "packageName": "appimagelauncher",
     "description": "CLI helper for running and integrating AppImages...",
     "icon": "https://portable-linux-apps.github.io/icons/appimagelauncher.png",
-    "arch": ["x86_64","i686"]
+    "arch": ["x86_64"]
   },
   {
     "packageName": "appimagelint",
@@ -741,7 +741,7 @@
     "packageName": "appimagetool",
     "description": "Tool to generate an AppImage from an existing AppDir...",
     "icon": "https://portable-linux-apps.github.io/icons/appimagetool.png",
-    "arch": ["x86_64","aarch64","i686"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "appimageupdate",
@@ -759,7 +759,7 @@
     "packageName": "appimageupdatetool",
     "description": "Tool to update an AppImage using embedded information...",
     "icon": "https://portable-linux-apps.github.io/icons/appimageupdatetool.png",
-    "arch": ["x86_64","aarch64","i686"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "appimg",
@@ -945,7 +945,7 @@
     "packageName": "armagetronad",
     "description": "Multiplayer game in 3d that emulates the movie \"Tron\"...",
     "icon": "https://portable-linux-apps.github.io/icons/armagetronad.png",
-    "arch": ["x86_64","i686"]
+    "arch": ["x86_64"]
   },
   {
     "packageName": "armcord",
@@ -2169,7 +2169,7 @@
     "packageName": "busybox",
     "description": "AppImage of BusyBox, a tool that combines stripped-down versions of many common UNIX utilities into a single, small executable...",
     "icon": "https://portable-linux-apps.github.io/icons/busybox.png",
-    "arch": ["x86_64","aarch64","i686"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "buttercup",
@@ -2667,7 +2667,7 @@
     "packageName": "chromium",
     "description": "Unofficial. FOSS Web Browser, base of Google Chrome, Edge and Brave, stable...",
     "icon": "https://portable-linux-apps.github.io/icons/chromium.png",
-    "arch": ["x86_64","i686"]
+    "arch": ["x86_64"]
   },
   {
     "packageName": "chromium-beta",
@@ -5685,7 +5685,7 @@
     "packageName": "firefox-esr",
     "description": "Fast, powerful and extensible Web Browser, ESR Edition...",
     "icon": "https://portable-linux-apps.github.io/icons/firefox-esr.png",
-    "arch": ["x86_64","aarch64","i686"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "firefox-nightly",
@@ -5829,7 +5829,7 @@
     "packageName": "flow",
     "description": "a programmer's text editor...",
     "icon": "https://portable-linux-apps.github.io/icons/flow.png",
-    "arch": ["x86_64","aarch64","i686"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "flow-browser",
@@ -6639,7 +6639,7 @@
     "packageName": "gimp",
     "description": "GNU Image Manipulation Program, cross-platform image and photo editor. Multiple-choices...",
     "icon": "https://portable-linux-apps.github.io/icons/gimp.png",
-    "arch": ["x86_64","i686"]
+    "arch": ["x86_64"]
   },
   {
     "packageName": "gimp-git",
@@ -13947,7 +13947,7 @@
     "packageName": "portable2appimage",
     "description": "Convert standalone, self-contained portable apps into AppImage packages...",
     "icon": "https://portable-linux-apps.github.io/icons/portable2appimage.png",
-    "arch": ["x86_64","aarch64","i686"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "positron",
@@ -15147,25 +15147,25 @@
     "packageName": "retroarch",
     "description": "RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications...",
     "icon": "https://portable-linux-apps.github.io/icons/retroarch.png",
-    "arch": ["x86_64","i686"]
+    "arch": ["x86_64"]
   },
   {
     "packageName": "retroarch-nightly",
     "description": "RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications...",
     "icon": "https://portable-linux-apps.github.io/icons/retroarch-nightly.png",
-    "arch": ["x86_64","i686"]
+    "arch": ["x86_64"]
   },
   {
     "packageName": "retroarch-qt",
     "description": "RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications...",
     "icon": "https://portable-linux-apps.github.io/icons/retroarch-qt.png",
-    "arch": ["x86_64","i686"]
+    "arch": ["x86_64"]
   },
   {
     "packageName": "retroarch-qt-nightly",
     "description": "RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications...",
     "icon": "https://portable-linux-apps.github.io/icons/retroarch-qt-nightly.png",
-    "arch": ["x86_64","i686"]
+    "arch": ["x86_64"]
   },
   {
     "packageName": "retrom",
@@ -17439,13 +17439,13 @@
     "packageName": "supertuxkart",
     "description": "Free kart racing game focused on Fun!..",
     "icon": "https://portable-linux-apps.github.io/icons/supertuxkart.png",
-    "arch": ["x86_64","aarch64","i686"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "supertuxkart-dev",
     "description": "Free kart racing game focused on Fun! Pre-release...",
     "icon": "https://portable-linux-apps.github.io/icons/supertuxkart-dev.png",
-    "arch": ["x86_64","aarch64","i686"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "surrealist",
@@ -18279,7 +18279,7 @@
     "packageName": "tor-browser",
     "description": "Privacy-oriented Web Browser for sites blocked in your country...",
     "icon": "https://portable-linux-apps.github.io/icons/tor-browser.png",
-    "arch": ["x86_64","i686"]
+    "arch": ["x86_64"]
   },
   {
     "packageName": "tor-browser-alpha",
@@ -18861,7 +18861,7 @@
     "packageName": "uv",
     "description": "An extremely fast Python package and project manager, written in Rust...",
     "icon": "https://portable-linux-apps.github.io/icons/uv.png",
-    "arch": ["x86_64","aarch64","i686"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "uwufetch",
@@ -18951,7 +18951,7 @@
     "packageName": "ventoy",
     "description": "Tool to create bootable USB drive for ISO/WIM/IMG/VHDx/EFI files...",
     "icon": "https://portable-linux-apps.github.io/icons/ventoy.png",
-    "arch": ["x86_64","aarch64","i686"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "veracrypt",
@@ -19275,7 +19275,7 @@
     "packageName": "vlc",
     "description": "Unofficial. Free and Open Source Video & Media player for Audio, streaming and more...",
     "icon": "https://portable-linux-apps.github.io/icons/vlc.png",
-    "arch": ["x86_64","i686"]
+    "arch": ["x86_64"]
   },
   {
     "packageName": "vlc-git",
@@ -19707,7 +19707,7 @@
     "packageName": "wikilynx",
     "description": "A simple game browser made using Qt C++ for playing wikipedia speed-runs the right way...",
     "icon": "https://portable-linux-apps.github.io/icons/wikilynx.png",
-    "arch": ["x86_64","aarch64","i686"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "win11-clipboard-history",
