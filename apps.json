@@ -12367,9 +12367,9 @@
   },
   {
     "packageName": "open-video-downloader",
-    "description": "A cross-platform GUI for youtube-dl made in Electron...",
+    "description": "Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript...",
     "icon": "https://portable-linux-apps.github.io/icons/open-video-downloader.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "open-webui",
