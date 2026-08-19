@@ -6828,12 +6828,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "gmail-desktop",
-    "description": "Unofficial. Nifty Gmail desktop app...",
-    "icon": "https://portable-linux-apps.github.io/icons/gmail-desktop.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "gnatstudio",
     "description": "GNAT Studio is a powerful and lightweight IDE for Ada and SPARK...",
     "icon": "https://portable-linux-apps.github.io/icons/gnatstudio.png",
@@ -7449,12 +7443,6 @@
     "packageName": "hammer",
     "description": "A simple tool for building stories...",
     "icon": "https://portable-linux-apps.github.io/icons/hammer.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "hamsket",
-    "description": "Free and Open Source messaging and emailing app...",
-    "icon": "https://portable-linux-apps.github.io/icons/hamsket.png",
     "arch": ["x86_64"]
   },
   {
@@ -10636,6 +10624,12 @@
     "description": "Mail app that sparks joy. Fast/secure email client with chat and kanban view...",
     "icon": "https://portable-linux-apps.github.io/icons/meron.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "meru",
+    "description": "Unofficial Gmail desktop app...",
+    "icon": "https://portable-linux-apps.github.io/icons/meru.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "mesa",
@@ -14223,12 +14217,6 @@
     "packageName": "protoman",
     "description": "A Postman-like API client for protobuf-based messages...",
     "icon": "https://portable-linux-apps.github.io/icons/protoman.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "protonmail-desktop",
-    "description": "Unofficial Electron wrapper for ProtonMail...",
-    "icon": "https://portable-linux-apps.github.io/icons/protonmail-desktop.png",
     "arch": ["x86_64"]
   },
   {

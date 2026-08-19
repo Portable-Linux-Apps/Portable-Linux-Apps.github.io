@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **88** programs for this category.
+#### Here are listed **87** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -126,7 +126,6 @@
 | <img loading="lazy" src="icons/forkgram.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***forkgram***](apps/forkgram.md) | *Fork of Telegram Desktop messaging app.*..[ *read more* ](apps/forkgram.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/forkgram) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/forkgram) |
 | <img loading="lazy" src="icons/franz.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***franz***](apps/franz.md) | *Messaging app for WhatsApp, Slack, Telegram, HipChat and much more.*..[ *read more* ](apps/franz.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/franz) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/franz) |
 | <img loading="lazy" src="icons/goofcord.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***goofcord***](apps/goofcord.md) | *Take control of your Discord experience with GoofCord.*..[ *read more* ](apps/goofcord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/goofcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/goofcord) |
-| <img loading="lazy" src="icons/hamsket.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***hamsket***](apps/hamsket.md) | *Free and Open Source messaging and emailing app.*..[ *read more* ](apps/hamsket.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hamsket) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hamsket) |
 | <img loading="lazy" src="icons/hermesmessenger.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***hermesmessenger***](apps/hermesmessenger.md) | *Desktop client version for Hermes Messenger.*..[ *read more* ](apps/hermesmessenger.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hermesmessenger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hermesmessenger) |
 | <img loading="lazy" src="icons/himalaya.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***himalaya***](apps/himalaya.md) | *CLI to manage emails.*..[ *read more* ](apps/himalaya.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/himalaya) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/himalaya) |
 | <img loading="lazy" src="icons/hyperspace.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***hyperspace***](apps/hyperspace.md) | *A fluffy client for Mastodon in React.*..[ *read more* ](apps/hyperspace.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hyperspace) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hyperspace) |
