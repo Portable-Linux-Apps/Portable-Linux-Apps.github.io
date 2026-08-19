@@ -11766,6 +11766,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "nomacs-dev",
+    "description": "Nomacs is a free, open source image viewer, which supports multiple platforms. This is the more recent development build...",
+    "icon": "https://portable-linux-apps.github.io/icons/nomacs-dev.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "nootka",
     "description": "Application for learning musical score notation...",
     "icon": "https://portable-linux-apps.github.io/icons/nootka.png",
