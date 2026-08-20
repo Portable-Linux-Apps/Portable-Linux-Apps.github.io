@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **33** programs for this category.
+#### Here are listed **34** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -129,6 +129,7 @@
 | <img loading="lazy" src="icons/owte.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***owte***](apps/owte.md) | *Anime girl dancing on your screen.*..[ *read more* ](apps/owte.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/owte) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/owte) |
 | <img loading="lazy" src="icons/picacg-qt.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***picacg-qt***](apps/picacg-qt.md) | *PicACG Comic PC Client For Linux.*..[ *read more* ](apps/picacg-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picacg-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picacg-qt) |
 | <img loading="lazy" src="icons/pikapika.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***pikapika***](apps/pikapika.md) | *A comic browser.*..[ *read more* ](apps/pikapika.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pikapika) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pikapika) |
+| <img loading="lazy" src="icons/retromind.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***retromind***](apps/retromind.md) | *Portable media manager for organizing and launching your media library for games, movies, books, comics and more.*..[ *read more* ](apps/retromind.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/retromind) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/retromind) |
 | <img loading="lazy" src="icons/seanime.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***seanime***](apps/seanime.md) | *Open-source media server with a web interface and desktop app for anime and manga.*..[ *read more* ](apps/seanime.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/seanime) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/seanime) |
 | <img loading="lazy" src="icons/toru.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***toru***](apps/toru.md) | *Bittorrent streaming CLI tool. Stream anime torrents real-time.*..[ *read more* ](apps/toru.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/toru) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/toru) |
 | <img loading="lazy" src="icons/unyo.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***unyo***](apps/unyo.md) | *Anime streaming and Manga reader desktop app without ads.*..[ *read more* ](apps/unyo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unyo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unyo) |

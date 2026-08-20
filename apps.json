@@ -3720,6 +3720,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "dabri",
+    "description": "Minimalist, privacy-first, offline Speech-to-Text (STT) application...",
+    "icon": "https://portable-linux-apps.github.io/icons/dabri.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "daggerfall-unity",
     "description": "Unofficial, open source recreation of Daggerfall in the Unity engine...",
     "icon": "https://portable-linux-apps.github.io/icons/daggerfall-unity.png",
@@ -5481,6 +5487,12 @@
     "packageName": "ferrix",
     "description": "Fast, modern, cross-platform download manager built with Rust and Tauri, supports resumable downloads, clean UI, and blazing performance...",
     "icon": "https://portable-linux-apps.github.io/icons/ferrix.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "ferrumpix",
+    "description": "Multi-platform desktop photo management and editing application...",
+    "icon": "https://portable-linux-apps.github.io/icons/ferrumpix.png",
     "arch": ["x86_64"]
   },
   {
@@ -15183,6 +15195,12 @@
     "packageName": "retrom",
     "description": "A centralized game library/collection management service with a focus on emulation...",
     "icon": "https://portable-linux-apps.github.io/icons/retrom.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "retromind",
+    "description": "Portable media manager for organizing and launching your media library for games, movies, books, comics and more...",
+    "icon": "https://portable-linux-apps.github.io/icons/retromind.png",
     "arch": ["x86_64"]
   },
   {
