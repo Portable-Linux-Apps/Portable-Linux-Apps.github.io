@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **583** portable programs NOT in AppImage format.
+#### Here are listed **584** portable programs NOT in AppImage format.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -521,6 +521,7 @@
 | <img loading="lazy" src="icons/rmdir.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***rmdir***](apps/rmdir.md) | *Remove empty directories. This is part of "am-utils" suite.*..[ *read more* ](apps/rmdir.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rmdir) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rmdir) |
 | <img loading="lazy" src="icons/rocketfetch.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***rocketfetch***](apps/rocketfetch.md) | *A WIP command line system information tool written with multithreading in rust for performance with toml file configuration.*..[ *read more* ](apps/rocketfetch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rocketfetch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rocketfetch) |
 | <img loading="lazy" src="icons/rrip.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***rrip***](apps/rrip.md) | *Bulk image downloader for reddit.*..[ *read more* ](apps/rrip.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rrip) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rrip) |
+| <img loading="lazy" src="icons/rstudio.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***rstudio***](apps/rstudio.md) | *RStudio is an integrated development environment, IDE for R.*..[ *read more* ](apps/rstudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rstudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rstudio) |
 | <img loading="lazy" src="icons/rucola.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***rucola***](apps/rucola.md) | *Terminal-based markdown note manager.*..[ *read more* ](apps/rucola.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rucola) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rucola) |
 | <img loading="lazy" src="icons/runcon.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***runcon***](apps/runcon.md) | *With specified security context. This is part of "am-utils" suite.*..[ *read more* ](apps/runcon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/runcon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/runcon) |
 | <img loading="lazy" src="icons/rustdict.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***rustdict***](apps/rustdict.md) | *A dictionary CLI tool in Rust inspired by BetaPictoris's dict.*..[ *read more* ](apps/rustdict.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rustdict) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rustdict) |

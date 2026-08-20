@@ -1476,6 +1476,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "bedrockonlinux",
+    "description": "Run Minecraft Bedrock for Windows seamlessly on Linux - with real Xbox sign-in, Friends, servers and Realms...",
+    "icon": "https://portable-linux-apps.github.io/icons/bedrockonlinux.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "beekeeper-studio",
     "description": "SQL query editor and database UI...",
     "icon": "https://portable-linux-apps.github.io/icons/beekeeper-studio.png",
@@ -2877,7 +2883,7 @@
     "packageName": "cli-chess",
     "description": "A highly customizable way to play chess in your terminal. Supports playing online (via Lichess.org) and offline against the Fairy-Stockfish engine. All Lichess variants are supported...",
     "icon": "https://portable-linux-apps.github.io/icons/cli-chess.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "clifm",
@@ -4839,12 +4845,6 @@
     "packageName": "electrumsvp",
     "description": "Bitcoin BSV wallet, fork of ElectrumSV...",
     "icon": "https://portable-linux-apps.github.io/icons/electrumsvp.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "element",
-    "description": "A feature-rich client for Matrix.org...",
-    "icon": "https://portable-linux-apps.github.io/icons/element.png",
     "arch": ["x86_64"]
   },
   {
@@ -11826,6 +11826,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "notepadqq",
+    "description": "A simple, general-purpose editor designed by developers, for developers...",
+    "icon": "https://portable-linux-apps.github.io/icons/notepadqq.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "notepanda",
     "description": "A simple cross-platform notepad. Based on Qt and C++...",
     "icon": "https://portable-linux-apps.github.io/icons/notepanda.png",
@@ -12417,6 +12423,12 @@
     "packageName": "openbor",
     "description": "Ultimate 2D side scrolling engine for beat em ups, shooters.....",
     "icon": "https://portable-linux-apps.github.io/icons/openbor.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "openboxgl",
+    "description": "A modern, local-first game library and launcher for Linux. Organize and launch your collection with an open-source alternative to LaunchBox...",
+    "icon": "https://portable-linux-apps.github.io/icons/openboxgl.png",
     "arch": ["x86_64"]
   },
   {
@@ -15441,6 +15453,12 @@
     "packageName": "rssguard",
     "description": "Feed reader which supports RSS/ATOM/JSON, no-webengine version...",
     "icon": "https://portable-linux-apps.github.io/icons/rssguard.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "rstudio",
+    "description": "RStudio is an integrated development environment, IDE for R...",
+    "icon": "https://portable-linux-apps.github.io/icons/rstudio.png",
     "arch": ["x86_64"]
   },
   {
@@ -18778,6 +18796,12 @@
     "description": "Run program in new namespaces. This is part of \"am-utils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/unshare.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "unsloth-desktop",
+    "description": "Unsloth Desktop is a free, open-source app for running and training AI models on your own local hardware...",
+    "icon": "https://portable-linux-apps.github.io/icons/unsloth-desktop.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "unveil",
