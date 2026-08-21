@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **105** programs for this category.
+#### Here are listed **106** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -131,6 +131,7 @@
 | <img loading="lazy" src="icons/cursor.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***cursor***](apps/cursor.md) | *Built to make you extraordinarily productive, Cursor is the best way to code with AI.*..[ *read more* ](apps/cursor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cursor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cursor) |
 | <img loading="lazy" src="icons/cursor-cli.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***cursor-cli***](apps/cursor-cli.md) | *Unofficial, AI-assisted development CLI tool.*..[ *read more* ](apps/cursor-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cursor-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cursor-cli) |
 | <img loading="lazy" src="icons/drawpile.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***drawpile***](apps/drawpile.md) | *Drawing program to sketch on the same canvas simultaneously.*..[ *read more* ](apps/drawpile.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/drawpile) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/drawpile) |
+| <img loading="lazy" src="icons/ensu.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***ensu***](apps/ensu.md) | *Ensu is a private, offline AI chat app by Ente Labs that runs entirely on your device.*..[ *read more* ](apps/ensu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ensu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ensu) |
 | <img loading="lazy" src="icons/firefly-desktop.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***firefly-desktop***](apps/firefly-desktop.md) | *The official IOTA and Shimmer wallet.*..[ *read more* ](apps/firefly-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firefly-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firefly-desktop) |
 | <img loading="lazy" src="icons/folo.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***folo***](apps/folo.md) | *Folo is the AI Reader.*..[ *read more* ](apps/folo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/folo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/folo) |
 | <img loading="lazy" src="icons/gemalaya.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***gemalaya***](apps/gemalaya.md) | *A keyboard-driven Gemini browser written in QML.*..[ *read more* ](apps/gemalaya.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gemalaya) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gemalaya) |

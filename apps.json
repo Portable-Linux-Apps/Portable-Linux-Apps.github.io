@@ -4974,6 +4974,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "ensu",
+    "description": "Ensu is a private, offline AI chat app by Ente Labs that runs entirely on your device...",
+    "icon": "https://portable-linux-apps.github.io/icons/ensu.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "ente-auth",
     "description": "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos...",
     "icon": "https://portable-linux-apps.github.io/icons/ente-auth.png",
@@ -5466,6 +5472,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "feedflow",
+    "description": "Minimal, fast RSS reading without the clutter.It focuses on a clean timeline, flexible reading modes, and control over sync and storage...",
+    "icon": "https://portable-linux-apps.github.io/icons/feedflow.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "feedseries",
     "description": "Follow your series enthusiast news, in french...",
     "icon": "https://portable-linux-apps.github.io/icons/feedseries.png",
@@ -5865,6 +5877,12 @@
     "packageName": "fluent-reader",
     "description": "Modern desktop RSS reader...",
     "icon": "https://portable-linux-apps.github.io/icons/fluent-reader.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "fluentflame-reader",
+    "description": "Community fork of Fluent Reader with a maintained codebase and new features, built with Electron, React, and Fluent UI...",
+    "icon": "https://portable-linux-apps.github.io/icons/fluentflame-reader.png",
     "arch": ["x86_64"]
   },
   {
@@ -9063,6 +9081,12 @@
     "packageName": "kjumpingcube",
     "description": "A game of dices on a board. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/kjumpingcube.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "kkeditqt",
+    "description": "QT vesion of KKEdit, a deceptively simple text editor with syntax colouring...",
+    "icon": "https://portable-linux-apps.github.io/icons/kkeditqt.png",
     "arch": ["x86_64"]
   },
   {
@@ -17025,7 +17049,7 @@
     "packageName": "starship",
     "description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell...",
     "icon": "https://portable-linux-apps.github.io/icons/starship.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64","i686"]
   },
   {
     "packageName": "stash-electron",
