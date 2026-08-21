@@ -1,8 +1,14 @@
 # starship
 ===
-The minimal, blazing-fast, and infinitely customizable prompt for any shell.
+ The minimal, blazing-fast, and infinitely customizable prompt for any shell.
+
+- Fast: it's fast – _really really_ fast! 🚀
+- Customizable: configure every aspect of your prompt.
+- Universal: works on any shell, on any operating system.
+- Intelligent: shows relevant information at a glance.
+- Feature rich: support for all your favorite tools.
+- Easy: quick to install – start using it in minutes.
+
 ===
-# SCREENSHOTS: ../contribute_ss.webp
-# SITES: https://github.com/starship/starship
-# SOURCES: 
-# BUTTONS: 
+# SCREENSHOTS: https://raw.githubusercontent.com/starship/starship/main/media/demo.gif
+# SITES: https://starship.rs https://github.com/starship/starship
