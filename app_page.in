@@ -7,12 +7,12 @@
   <meta name="description" content="$APP_DESC">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://portable-linux-apps.github.io/app/$APP_NAME.html">
-  <meta property="og:image" content="https://kazam0180.github.io/pla-site-testing/icons/$APP_NAME.webp">
+  <meta property="og:image" content="https://portable-linux-apps.github.io/icons/$APP_NAME.webp">
   <meta property="og:image:width" content="128">
   <meta property="og:image:height" content="128">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="$APP_NAME - PORTABLE LINUX APPS">
-  <meta name="twitter:image" content="https://kazam0180.github.io/pla-site-testing/icons/$APP_NAME.webp">
+  <meta name="twitter:image" content="https://portable-linux-apps.github.io/icons/$APP_NAME.webp">
   <meta name="twitter:description" content="$APP_DESC">
   <link rel="canonical" href="https://portable-linux-apps.github.io/app/$APP_NAME.html">
   <link rel="icon" href="../favicon.ico" type="image/x-icon">

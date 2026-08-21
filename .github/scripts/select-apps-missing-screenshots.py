@@ -17,7 +17,7 @@ APPS_DIR = sys.argv[1] if len(sys.argv) > 1 else "apps"
 
 blacklist = set()
 
-with urlopen("https://kazam0180.github.io/pla-site-testing/categories/command-line.json") as resp:
+with urlopen("https://portable-linux-apps.github.io/categories/command-line.json") as resp:
     data = json.loads(resp.read())
     for k in data.keys():
         blacklist.add(k)

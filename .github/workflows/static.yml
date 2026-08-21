@@ -68,7 +68,7 @@ jobs:
 
           rm -f sitemap.xml
           [ ! -x ./gen_sitemap ] && chmod a+x ./gen_sitemap
-          ./gen_sitemap public https://kazam0180.github.io/pla-site-testing/ 2>&1 | tee -a build-log.txt
+          ./gen_sitemap public https://portable-linux-apps.github.io/ 2>&1 | tee -a build-log.txt
 
           if [ -d .cache/icons ]; then
             mkdir -p public/icons public/icons_48
