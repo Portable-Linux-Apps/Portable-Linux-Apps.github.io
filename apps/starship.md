@@ -9,12 +9,7 @@
 - Feature rich: support for all your favorite tools.
 - Easy: quick to install – start using it in minutes.
 
- <img
-  src="https://raw.githubusercontent.com/starship/starship/main/media/demo.gif"
-  alt="Starship with iTerm2 and the Snazzy theme"
-  width="50%"
-  align="center"
- />
+ <img src="https://raw.githubusercontent.com/starship/starship/main/media/demo.gif">
 
  SITE: https://starship.rs/
 
