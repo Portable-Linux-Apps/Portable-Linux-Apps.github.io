@@ -1,0 +1,127 @@
+# Simple workflow for deploying static content to GitHub Pages
+name: Deploy static content to Pages
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Cache converted icons
+        id: icon-cache
+        uses: actions/cache@v6
+        with:
+          path: .cache/icons
+          key: icons-${{ hashFiles('icons/**', 'no-icon.png', 'convert_icons') }}
+
+      - name: Cache screenshots
+        id: screenshots-cache
+        uses: actions/cache@v6
+        with:
+          path: .cache/screenshots
+          key: screenshots-${{ hashFiles('convert_screenshots') }}
+
+      - name: Build App Files
+        run: |
+          sudo apt install --no-install-recommends wget esbuild -y
+          wget -O pla-site-tool "$(curl -Ls https://api.github.com/repos/kazam0180/portable-apps/releases | sed 's/[()",{} ]/\n/g' | grep -oi "https.*pla-site-tool.*mage$" | head -1)"
+
+          if [ ! -d .cache/icons ]; then
+            wget -O magick "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-29/ImageMagick-7.1.2-29-gcc-x86_64.AppImage"
+            chmod a+x magick
+            ./magick --appimage-extract
+            ls squashfs-root
+            sudo cp -r squashfs-root/usr/* /usr/
+            sudo chmod a+x /usr/bin/magick
+            rm -rf magick squashfs-root
+          else
+            echo "icon cache hit, skipping ImageMagick download" | tee build-log.txt
+          fi
+
+          [ ! -x ./pla-site-tool ] && chmod a+x ./pla-site-tool
+          ./pla-site-tool 2>&1 | tee -a build-log.txt
+          test ${PIPESTATUS[0]} -eq 0 || { echo "pla-site-tool failed, aborting build" | tee -a build-log.txt; exit 1; }
+
+          rm -f sitemap.xml
+          [ ! -x ./gen_sitemap ] && chmod a+x ./gen_sitemap
+          ./gen_sitemap public https://kazam0180.github.io/pla-site-testing/ 2>&1 | tee -a build-log.txt
+
+          if [ -d .cache/icons ]; then
+            mkdir -p public/icons public/icons_48
+            cp -r .cache/icons/public/icons/. public/icons/
+            cp -r .cache/icons/public/icons_48/. public/icons_48/
+            cp .cache/icons/public/no-icon.webp public/no-icon.webp
+            cp .cache/icons/public/no-icon_48.webp public/no-icon_48.webp
+            echo "icons restored from cache" | tee -a build-log.txt
+          else
+            [ ! -x ./convert_icons ] && chmod a+x ./convert_icons
+            ./convert_icons public 2>&1 | tee -a build-log.txt
+            mkdir -p .cache/icons/public
+            cp -r public/icons .cache/icons/public/
+            cp -r public/icons_48 .cache/icons/public/
+            cp public/no-icon.webp .cache/icons/public/
+            cp public/no-icon_48.webp .cache/icons/public/
+          fi
+
+          if ! command -v magick >/dev/null 2>&1; then
+            wget -O magick "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-29/ImageMagick-7.1.2-29-gcc-x86_64.AppImage"
+            chmod a+x magick
+            ./magick --appimage-extract
+            sudo cp -r squashfs-root/usr/* /usr/
+            sudo chmod a+x /usr/bin/magick
+            rm -rf magick squashfs-root
+          fi
+
+          [ ! -x ./convert_screenshots ] && chmod a+x ./convert_screenshots
+          ./convert_screenshots public 2>&1 | tee -a build-log.txt
+
+          [ ! -x ./minify ] && chmod a+x ./minify
+          ./minify public 2>&1 | tee -a build-log.txt
+
+          cp -t public/ favicon.ico *.webp
+          cp -r assets/fonts public/assets/
+          cp -r casts public/
+          cp -r am-gui public/
+          cp -t public/ apps.html wiki.html sitemap.xml
+
+          echo "site generated" | tee -a build-log.txt
+
+      - name: Upload Build Log
+        uses: actions/upload-artifact@v6
+        with:
+          name: build-log
+          path: build-log.txt
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v6
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: 'public'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

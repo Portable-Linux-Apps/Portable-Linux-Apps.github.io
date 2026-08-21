@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>$APP_NAME - PORTABLE LINUX APPS</title>
+  <meta name="description" content="$APP_DESC">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://portable-linux-apps.github.io/app/$APP_NAME.html">
+  <meta property="og:image" content="https://kazam0180.github.io/pla-site-testing/icons/$APP_NAME.webp">
+  <meta property="og:image:width" content="128">
+  <meta property="og:image:height" content="128">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="$APP_NAME - PORTABLE LINUX APPS">
+  <meta name="twitter:image" content="https://kazam0180.github.io/pla-site-testing/icons/$APP_NAME.webp">
+  <meta name="twitter:description" content="$APP_DESC">
+  <link rel="canonical" href="https://portable-linux-apps.github.io/app/$APP_NAME.html">
+  <link rel="icon" href="../favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="stylesheet" href="../assets/css/app.css">
+  <link rel="preconnect" href="$APP_NAME.json">
+  <link rel="preconnect" href="assets/css/style.css">
+  <link rel="preconnect" href="assets/css/app.css">
+  <link rel="preconnect" href="assets/js/app_page.js">
+</head>
+<body>
+<a href="#main" class="skip-link">Skip to main content</a>
+
+<nav aria-label="Main navigation">
+  <a href="../index.html">Home</a>
+  <a href="../apps.html">Apps</a>
+  <a href="../index.html#faq">FAQ</a>
+  <a href="../wiki.html">Wiki</a>
+  <a href="https://github.com/ivan-hc/AM">AM on GitHub</a>
+</nav>
+<main>
+
+<a href="javascript:history.back()" id="back-link">&larr; Back</a>
+
+<div id="app-name" style="display: none;">$APP_NAME</div>
+<div id="app-root"></div>
+
+<a href="#" id="back-to-top" title="Back to top">&uarr;</a>
+
+<script src="../assets/js/app_page.js"></script>
+
+</main>
+<footer>
+  <div class="footer-links">
+    <a href="../index.html">Home</a>
+    <a href="../apps.html">Apps</a>
+    <a href="../index.html#faq">FAQ</a>
+    <a href="../wiki.html">Wiki</a>
+  </div>
+  <div class="footer-links">
+    <a href="https://ko-fi.com/IvanAlexHC">ko-fi.com</a>
+    <a href="https://paypal.me/IvanAlexHC">PayPal.me</a>
+    <a href="https://github.com/ivan-hc/AM">AM on GitHub</a>
+  </div>
+  <p>&copy; 2020-present Ivan Alessandro Sala aka 'Ivan-HC' &mdash; I'm here just for fun!</p>
+</footer>
+
+</body>
+</html>
