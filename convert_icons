@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+SITE_DIR="${1:?Usage: $0 <site_dir> [repo_dir]}"
+REPO_DIR="${2:-$PWD}"
+QUALITY="${WEBP_QUALITY:-100}"
+
+MAGICK=""
+for cmd in magick magick-im7.q16; do
+    if command -v "$cmd" >/dev/null 2>&1; then
+        MAGICK="$cmd"
+        break
+    fi
+done
+
+if [ -z "$MAGICK" ]; then
+    echo "Error: magick not found (install it with: sudo apt install imagemagick)" >&2
+    exit 1
+fi
+
+mkdir -p "$SITE_DIR/icons"
+
+count=0
+for png in "$REPO_DIR"/icons/*.png; do
+    [ -f "$png" ] || continue
+    $MAGICK -quality "$QUALITY" "$png" "$SITE_DIR/icons/$(basename "$png" .png).webp"
+    count=$((count + 1))
+done
+
+$MAGICK -quality "$QUALITY" "$REPO_DIR/no-icon.png" "$SITE_DIR/no-icon.webp"
+count=$((count + 1))
+
+echo "converted $count images to WebP in $SITE_DIR"
+
+echo "creating 48x48 icons for list display"
+
+mkdir -p "$SITE_DIR"/icons_48
+
+for img in "$SITE_DIR"/icons/*.webp; do
+    [ -f "$img" ] || continue
+    $MAGICK "$img" -resize 48x48 "$SITE_DIR/icons_48/$(basename "$img")"
+done
+
+$MAGICK "$SITE_DIR/no-icon.webp" -resize 48x48 "$SITE_DIR/no-icon_48.webp"

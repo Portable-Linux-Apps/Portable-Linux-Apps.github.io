@@ -1,0 +1,6 @@
+# zorite
+===
+ Local-first, Logseq-style daily journal. Rust + GPUI + SQLite, with a custom gpui-markdown renderer and PDF viewer, custom gpui-whiteboard, (clickable wiki-links, tags, slash menu).
+===
+# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
+# SITES: https://github.com/packetThrower/zorite

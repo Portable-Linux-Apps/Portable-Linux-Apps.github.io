@@ -1,0 +1,6 @@
+# paintfe
+===
+ A fast, lightweight raster image editor for Windows. Features layers, blend modes, GPU-accelerated filters, gradients, mesh warp, brushes, selection tools, adjustments, animated GIF/APNG support, and a built-in Rhai scripting engine. Single portable executable, no install required.
+===
+# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
+# SITES: https://github.com/kylejckson/PaintFE

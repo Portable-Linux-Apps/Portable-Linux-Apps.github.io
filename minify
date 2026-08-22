@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+SITE_DIR="${1:?Usage: $0 <site_dir> [repo_dir]}"
+REPO_DIR="${2:-$PWD}"
+
+mkdir -p "$SITE_DIR/assets/css" "$SITE_DIR/assets/js"
+
+for css in "$REPO_DIR"/assets/css/*.css; do
+    esbuild "$css" --minify --outfile="$SITE_DIR/assets/css/$(basename "$css")"
+done
+
+for js in "$REPO_DIR"/assets/js/*.js; do
+    esbuild "$js" --minify --outfile="$SITE_DIR/assets/js/$(basename "$js")"
+done

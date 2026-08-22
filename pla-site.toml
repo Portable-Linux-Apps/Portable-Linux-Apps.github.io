@@ -1,0 +1,185 @@
+am_repo = "https://raw.githubusercontent.com/ivan-hc/AM/main"
+archs = ["x86_64", "aarch64", "i686"]
+meta_pkgs = ["kdegames", "kdeutils", "node", "platform-tools"]
+out_dir = "public"
+
+[[categories]]
+name = "ai"
+
+[categories.pattern]
+include = 'chatgpt|openai|gemini|claude|copilot|perplexity| meta |grok|anthropic|huggingface|mistral|cohere|together|replicate|cursor|codeium|tabnine|replit|windsurf|midjourney|firefly|canva|runway|leonardo|synthesia|elevenlabs|heygen|zapier|z\.ai|clickup|grammarly|ollama|lmstudio|openwebui|salesforce|watsonx'
+exclude = "illus"
+
+[[categories]]
+name = "am-utils"
+
+[categories.pattern]
+include = '"am-utils"'
+
+[[categories]]
+name = "android"
+
+[categories.pattern]
+include = "android|platform-tools"
+
+[[categories]]
+name = "audio"
+
+[categories.pattern]
+include = "audio|matroska|music|midi|mp3|opus|soundboard"
+
+[[categories]]
+name = "comic"
+
+[categories.pattern]
+include = "comic|manga|anime"
+
+[[categories]]
+name = "command-line"
+
+[categories.pattern]
+include = 'command-line|command line| cli |-cli|terminal |"am-utils"|"node"|"platform-tools"'
+
+[[categories]]
+name = "communication"
+
+[categories.pattern]
+include = "communication|voip|messenger|whatsapp|mastodon|skype|chat client|social network|conferencing|discord|email|telegram"
+
+[[categories]]
+name = "disk"
+
+[categories.pattern]
+include = "disk|partition|usb drive"
+
+[[categories]]
+name = "education"
+
+[categories.pattern]
+include = "education|productivity|study|dictionar|math| book | books |book-|ebook|e-book|space simulator|planetarium|astronom|university|bible|quran|koran"
+exclude = "game|manga|anime"
+
+[[categories]]
+name = "emulator"
+
+[categories.pattern]
+include = "emulator"
+exclude = "terminal emulator"
+
+[[categories]]
+name = "file-manager"
+
+[categories.pattern]
+include = "file-manager|file manager|file browse|browse.*file|file explore|explore.*file"
+
+[[categories]]
+name = "finance"
+
+[categories.pattern]
+include = "finance|wallet|money"
+
+[[categories]]
+name = "game"
+
+[categories.pattern]
+include = "game|arcade|steam|wine|strateg|solitaire|poker|chess|puzzle|pinball|adventure|playstation|xbox|nintendo|minecraft|doom"
+
+[[categories]]
+name = "gnome"
+
+[categories.pattern]
+include = "gnome"
+
+[[categories]]
+name = "graphic"
+
+[categories.pattern]
+include = "drawing|jpg|duplicated images|gimp|inkscape|converseen|visipics|imagemagick|photo|svg|png|autocad|blender|3D modeling|paint|pixel|wallpaper"
+
+[[categories]]
+name = "internet"
+
+[categories.pattern]
+include = "internet|vpn|torrent|p2p"
+
+[[categories]]
+name = "kde"
+
+[categories.pattern]
+include = "kde"
+
+[[categories]]
+name = "office"
+
+[categories.pattern]
+include = "office|document|pdf|docx|reader|spreadsheet"
+exclude = "manga|comic"
+
+[[categories]]
+name = "password"
+
+[categories.pattern]
+include = "password"
+
+[[categories]]
+name = "steam"
+
+[categories.pattern]
+include = "steam"
+
+[[categories]]
+name = "system-monitor"
+
+[categories.pattern]
+include = "system-monitor|system monitor|task manager|system resource|system resources|linux processes"
+
+[[categories]]
+name = "video"
+
+[categories.pattern]
+include = "video|stream|media player|film|movies|netflix|iptv"
+
+[[categories]]
+name = "virtual-machine"
+
+[categories.pattern]
+include = "virtual-machine|virtual machine|virtualization|qemu"
+
+[[categories]]
+name = "wallet"
+
+[categories.pattern]
+include = "wallet"
+
+[[categories]]
+name = "web-app"
+
+[categories.pattern]
+include = "web-app|webapp|web app"
+
+[[categories]]
+name = "web-browser"
+
+[categories.pattern]
+include = "web-browser|web.*browser|browser.*web|google-chrome|firefox.*browser|firefox.*fork|fork.*firefox|safari|microsoft-edge|opera.*browser|brave.*browser|vivaldi.*browser|arc.*browser|tor.*browser|chromium|duckduckgo.*browser|orion.*browser|waterfox|librewolf|palemoon|seamonkey|maxthon|yandex.*browser|uc.*browser|qq.*browser|baidu.*browser|kiwi|puffin|dolphin.*browser|epic.*browser|avast.*browser|avg.*browser|midori|falkon|konqueror|gnome.*web.*browser|floorp|zen.*browser|slimjet|srware.*iron|comodo.*dragon|sleipnir|lunascape|otter.*browser|basilisk|icecat|kmeleon|k-melon|netscape|mosaic.*browser"
+exclude = "embedded web browser video player"
+
+[[categories]]
+name = "wine"
+
+[categories.pattern]
+include = "wine"
+
+[[categories]]
+name = "youtube"
+
+[categories.pattern]
+include = "youtube"
+
+[cat_comments]
+appimage-on-the-fly = 'Here are listed $COUNT AppImages (including $ITEM_COUNT metapackage items) built on the fly from the official portable builds, showing how easily portable apps can be converted to AppImages to gain isolated dotfiles, sandboxing via AM and AppMan, and reduced disk usage, serving as a proof of concept to encourage upstream developers to distribute them directly in such packaging format. Powered by <a href="https://github.com/ivan-hc/portable2appimage">portable2appimage</a>'
+appimages = 'Here are listed the $COUNT unique Appimages managed by <a href="https://github.com/ivan-hc/AM">AM</a> and <a href="https://github.com/ivan-hc/AppMan">AppMan</a>'
+metapackages = """Here are listed $SUITE_COUNT "metapackages" (along with their $ITEM_COUNT items), those few scripts that allow the use of many more programs with one installation. Find which metapackage corresponds to the program you're interested in from this list"""
+portable-desktop = 'Here are listed $COUNT desktop applications NOT in AppImage format. Launchers and icons are downloaded separately during the installation process (through <a href="https://github.com/ivan-hc/AM">AM</a> and <a href="https://github.com/ivan-hc/AppMan">AppMan</a>). Most of them already have all the necessary requirements to be easily exported into AppImage packages... or they are waiting to be moved to another category (see <a href="appimage-on-the-fly.html">AppImages on-the-fly</a>)'
+portable = "Here are listed $COUNT command line utilities: static and dynamic ELF binaries, or simple scripts"
+am-utils = 'Here are listed $COUNT static binaries built for <a href="https://github.com/ivan-hc/AM">AM</a> and <a href="https://github.com/ivan-hc/AppMan">AppMan</a> which can be used as a fallback in case the system does not have them'

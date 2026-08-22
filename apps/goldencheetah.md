@@ -1,8 +1,0 @@
-# GOLDENCHEETAH
- 
- Cycling Power Analysis Software.
- 
- SITE: https://github.com/GoldenCheetah/GoldenCheetah
-
- | [Applications](https://portable-linux-apps.github.io/apps.html) | [Home](https://portable-linux-apps.github.io)
- | --- | --- |
