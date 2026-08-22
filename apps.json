@@ -2832,6 +2832,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "classin",
+    "description": "Unofficial AppImage wrapper for ClassIn...",
+    "icon": "https://portable-linux-apps.github.io/icons/classin.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "classipod",
     "description": "A local music player app designed to capture the nostalgic essence of the iconic iPod Classic...",
     "icon": "https://portable-linux-apps.github.io/icons/classipod.png",
@@ -16732,6 +16738,12 @@
     "description": "A SoundCloud client with Discord Rich Presence and AdBlock...",
     "icon": "https://portable-linux-apps.github.io/icons/soundcloud-rpc.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "sourcegit",
+    "description": "Opensource Git GUI client...",
+    "icon": "https://portable-linux-apps.github.io/icons/sourcegit.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "sourcetrail",
