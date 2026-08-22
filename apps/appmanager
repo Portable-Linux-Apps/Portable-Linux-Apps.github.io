@@ -1,8 +1,10 @@
 # appmanager
 ===
-MacOS style AppImage installer and management application.
+**AppManager** is a GTK/Libadwaita developed desktop utility in **Vala** that makes installing and uninstalling AppImages on Linux desktop painless.
+It supports both SquashFS and DwarFS AppImage formats, features a seamless background **auto-update** process, and leverages **zsync** delta updates for efficient bandwidth usage.
+Double-click any `.AppImage` to open a macOS-style drag-and-drop window, just drag to install and AppManager will move the app, wire up desktop entries, and copy icons.
 ===
-# SCREENSHOTS: ../contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/appmanager/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/appmanager/2.webp
 # SITES: https://github.com/kem-a/AppManager
 # SOURCES: 
 # BUTTONS: 
