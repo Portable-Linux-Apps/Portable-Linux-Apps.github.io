@@ -7,6 +7,7 @@ function escapeHtml(s) {
 function renderApps(data) {
   var container = document.getElementById('app-list');
   var arch = document.getElementById('arch-select');
+  var arch_value = arch.value ? arch.value : 'x86_64'
   var html = '<div class="app-list">';
   for (var i = 0; i < data.length; i++) {
     var app = data[i];
@@ -19,8 +20,8 @@ function renderApps(data) {
     html += '<div class="app-links">';
     var suiteMatch = app.description && app.description.match(/This is part of "([^"]+)"/);
     var scriptName = suiteMatch ? suiteMatch[1] : app.name;
-    html += '<a href="https://github.com/ivan-hc/AM/blob/main/programs/' + encodeURIComponent(arch.value) + '/' + encodeURIComponent(scriptName) + '" class="install-link">blob</a>';
-    html += '<a href="https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/' + encodeURIComponent(scriptName) + '" class="install-link">raw</a>';
+    html += '<a href="https://github.com/ivan-hc/AM/blob/main/programs/' + encodeURIComponent(arch_value) + '/' + encodeURIComponent(scriptName) + '" class="install-link">blob</a>';
+    html += '<a href="https://raw.githubusercontent.com/ivan-hc/AM/main/programs/' + arch_value +'/' + encodeURIComponent(scriptName) + '" class="install-link">raw</a>';
     html += '</div>';
     html += '</div>';
   }
