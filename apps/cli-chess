@@ -3,4 +3,5 @@
  A highly customizable way to play chess in your terminal. Supports playing online (via Lichess.org) and offline against the Fairy-Stockfish engine. All Lichess variants are supported.
 ===
 # SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
-# SITES: https://github.com/trevorbayless/cli-chess https://github.com/trevorbayless/cli-chess
+# SITES: https://github.com/trevorbayless/cli-chess
+
