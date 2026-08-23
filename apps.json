@@ -20004,6 +20004,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "workrave",
+    "description": "A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). The program frequently alerts you to take micro-pauses, rest breaks and restricts you to your daily limit...",
+    "icon": "https://portable-linux-apps.github.io/icons/workrave.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "world-monitor",
     "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface...",
     "icon": "https://portable-linux-apps.github.io/icons/world-monitor.png",
