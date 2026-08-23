@@ -102,7 +102,7 @@ jobs:
           [ ! -x ./minify ] && chmod a+x ./minify
           ./minify public 2>&1 | tee -a build-log.txt
 
-          cp -t public/ favicon.ico *.webp
+          cp -t public/ favicon.ico *.webp *.jpg
           cp -r assets/fonts public/assets/
           cp -r casts public/
           cp -r am-gui public/
