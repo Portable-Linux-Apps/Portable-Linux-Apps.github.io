@@ -1,0 +1,8 @@
+# ripgrep
+===
+ripgrep recursively searches directories for a regex pattern while  respecting your gitignore.
+===
+# SCREENSHOTS: ../contribute_ss.webp
+# SITES: https://github.com/BurntSushi/ripgrep
+# SOURCES: 
+# BUTTONS: 

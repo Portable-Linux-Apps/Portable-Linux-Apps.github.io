@@ -1,15 +1,10 @@
-# Jekyll
-_site/
-.jekyll-cache/
-.jekyll-metadata/
-.sass-cache/
-
-# Gemfile dependencies
-Gemfile.lock
-
-# Bundler files
-.bundle/
 
 # System files
 .DS_Store  # macOS
 Thumbs.db  # Windows
+
+*~
+public
+
+.cache
+__pycache__

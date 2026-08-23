@@ -1,0 +1,8 @@
+# git-side
+===
+A Git subcommand that versions files and directories that should not live in the main repository, using a per-project bare repository invisible to Git.
+===
+# SCREENSHOTS: ../contribute_ss.webp
+# SITES: https://github.com/Solexma/git-side
+# SOURCES: 
+# BUTTONS: 

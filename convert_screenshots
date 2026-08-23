@@ -1,0 +1,303 @@
+#!/usr/bin/env python3
+
+import hashlib
+import json
+import os
+import re
+import shutil
+import subprocess
+import sys
+import threading
+import urllib.error
+import urllib.request
+from concurrent.futures import ThreadPoolExecutor
+from urllib.parse import urlparse
+
+SITE_DIR = sys.argv[1] if len(sys.argv) > 1 else os.environ.get("SITE_DIR")
+if not SITE_DIR:
+    print("Usage: convert_screenshots <site_dir> [repo_dir]", file=sys.stderr)
+    sys.exit(1)
+REPO_DIR = sys.argv[2] if len(sys.argv) > 2 else os.environ.get("REPO_DIR", ".")
+QUALITY = os.environ.get("WEBP_QUALITY", "100")
+
+APPS_DIR = os.path.join(REPO_DIR, "apps")
+CACHE_DIR = os.path.join(REPO_DIR, ".cache", "screenshots")
+DL_DIR = os.path.join(CACHE_DIR, "downloads")
+WEBP_DIR = os.path.join(CACHE_DIR, "webp")
+MANIFEST = os.path.join(CACHE_DIR, "manifest.json")
+OUT_DIR = os.path.join(SITE_DIR, "screenshots")
+
+MAX_BYTES = 64 * 1024 * 1024
+USER_AGENT = "Mozilla/5.0 (convert_screenshots; +https://portable-linux-apps.github.io)"
+EXTS = {".png": "png", ".jpg": "jpg", ".jpeg": "jpeg", ".gif": "gif", ".bmp": "bmp", ".webp": "webp"}
+
+
+def magick_cmd():
+    for cmd in ("magick", "magick-im7.q16"):
+        path = shutil.which(cmd)
+        if path:
+            return path
+    print("Error: magick not found (install it with: sudo apt install imagemagick)", file=sys.stderr)
+    sys.exit(1)
+
+
+MAGICK = magick_cmd()
+
+LOG_LOCK = threading.Lock()
+
+
+def log(msg):
+    with LOG_LOCK:
+        print(msg, file=sys.stderr, flush=True)
+
+
+def stable_key(url):
+    return hashlib.sha256(url.encode("utf-8")).hexdigest()[:16]
+
+
+def collect_urls():
+    urls = {}
+    for fname in sorted(os.listdir(APPS_DIR)):
+        if fname.startswith(".") or fname.endswith("~"):
+            continue
+        path = os.path.join(APPS_DIR, fname)
+        if not os.path.isfile(path):
+            continue
+        try:
+            with open(path, "r", errors="replace") as fh:
+                for line in fh:
+                    m = re.match(r"^#\s*SCREENSHOTS\s*:\s*(.+?)\s*$", line)
+                    if not m:
+                        continue
+                    for token in m.group(1).split():
+                        if not token.startswith(("http://", "https://")):
+                            continue
+                        path_only = token.split("?", 1)[0].split("#", 1)[0]
+                        if path_only.lower().endswith(".webp"):
+                            continue
+                        urls[token] = fname
+        except OSError as e:
+            print(f"warning: cannot read {path}: {e}")
+    return urls
+
+
+def ext_for(url):
+    path_only = url.split("?", 1)[0].split("#", 1)[0]
+    ext = os.path.splitext(urlparse(path_only).path)[1].lower()
+    ext = ext.split("?")[0]
+    if ext in EXTS and ext != ".webp":
+        return EXTS[ext]
+    return "img"
+
+
+def read_manifest():
+    if os.path.exists(MANIFEST):
+        try:
+            with open(MANIFEST, "r") as fh:
+                return json.load(fh)
+        except (OSError, ValueError):
+            pass
+    return {}
+
+
+def write_manifest(manifest):
+    os.makedirs(CACHE_DIR, exist_ok=True)
+    tmp = MANIFEST + ".tmp"
+    with open(tmp, "w") as fh:
+        json.dump(manifest, fh, indent=2, sort_keys=True)
+    os.rename(tmp, MANIFEST)
+
+
+def fetch(url, etag=None):
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    if etag:
+        req.add_header("If-None-Match", etag)
+    try:
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            if resp.status == 304:
+                return "unchanged", "", {}
+            headers = dict(resp.headers.items())
+            buf = bytearray()
+            while True:
+                chunk = resp.read(65536)
+                if not chunk:
+                    break
+                buf.extend(chunk)
+                if len(buf) > MAX_BYTES:
+                    return "error", "", {}
+            return "ok", bytes(buf), headers
+    except urllib.error.HTTPError as e:
+        if e.code == 304:
+            return "unchanged", "", {}
+        if e.code == 404:
+            return "missing", "", {}
+        return "error", "", {}
+    except OSError:
+        return "error", "", ""
+
+
+def is_image_body(body):
+    return (body[:8] == b"\x89PNG\r\n\x1a\n"
+            or body[:3] == b"\xff\xd8\xff"
+            or body[:6] in (b"GIF87a", b"GIF89a")
+            or (body[:4] == b"RIFF" and body[8:12] == b"WEBP"))
+
+
+def convert_to_webp(src_path, dst_path):
+    tmp = dst_path + ".tmp"
+    try:
+        os.makedirs(os.path.dirname(dst_path), exist_ok=True)
+        subprocess.run([MAGICK, "-quality", QUALITY, src_path, tmp],
+                       check=True, capture_output=True, timeout=120)
+        os.rename(tmp, dst_path)
+        return True
+    except (subprocess.CalledProcessError, subprocess.TimeoutExpired, OSError):
+        if os.path.exists(tmp):
+            os.unlink(tmp)
+        return False
+
+
+def process_url(url, app, manifest, stats):
+    log(f"[{app}] processing {url}")
+    key = stable_key(url)
+    entry = manifest.get(url)
+    dl_file = os.path.join(DL_DIR, f"{key}.{ext_for(url)}")
+    webp_file = os.path.join(WEBP_DIR, f"{key}.webp")
+
+    if entry and os.path.exists(webp_file):
+        if entry.get("etag"):
+            status, body, headers = fetch(url, etag=entry["etag"])
+            if status == "unchanged":
+                stats["unchanged"] += 1
+                return key
+            if status == "missing":
+                stats["missing"] += 1
+                manifest.pop(url, None)
+                return None
+            if status != "ok":
+                stats["changed"] += 1
+                manifest.pop(url, None)
+                return None
+            body = None
+        else:
+            stats["unchanged"] += 1
+            return key
+    else:
+        status, body, headers = fetch(url)
+        if status == "missing":
+            stats["missing"] += 1
+            return None
+        if status != "ok":
+            stats["failed"] += 1
+            return None
+        manifest.pop(url, None)
+        stats["downloaded"] += 1
+        if not is_image_body(body):
+            stats["failed"] += 1
+            return None
+
+    sha = hashlib.sha256(body if body is not None else b"").hexdigest()
+    if body is not None:
+        os.makedirs(DL_DIR, exist_ok=True)
+        tmp = dl_file + ".tmp"
+        with open(tmp, "wb") as fh:
+            fh.write(body)
+        os.rename(tmp, dl_file)
+
+    if body is not None and body[:12] == b"RIFF" and b"WEBP" in body[:16]:
+        shutil.copy2(dl_file, webp_file)
+    else:
+        if not convert_to_webp(dl_file, webp_file):
+            stats["failed"] += 1
+            return None
+        stats["converted"] += 1
+
+    manifest[url] = {
+        "file": os.path.basename(dl_file),
+        "webp": f"{key}.webp",
+        "sha256": sha,
+        "etag": headers.get("ETag", headers.get("etag")) if isinstance(headers, dict) else None,
+    }
+    return key
+
+
+def replace_in_file(path, mapping, rel_prefix):
+    try:
+        with open(path, "r", encoding="utf-8", errors="replace") as fh:
+            content = fh.read()
+    except OSError:
+        return 0
+    count = 0
+    for url, key in mapping.items():
+        new = f"{rel_prefix}screenshots/{key}.webp"
+        n = content.count(url)
+        if n:
+            content = content.replace(url, new)
+            count += n
+    if count:
+        tmp = path + ".tmp"
+        with open(tmp, "w", encoding="utf-8") as fh:
+            fh.write(content)
+        os.rename(tmp, path)
+    return count
+
+
+def main():
+    urls = collect_urls()
+    if not urls:
+        print("no screenshot URLs found in app files")
+        return
+
+    manifest = read_manifest()
+    if os.path.exists(MANIFEST):
+        log(f"cache: found ({len(manifest)} entries)")
+    else:
+        log("cache: not found (fresh run)")
+    stats = {"downloaded": 0, "converted": 0, "unchanged": 0,
+             "missing": 0, "failed": 0, "changed": 0}
+    results = {}
+
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        futures = {pool.submit(process_url, url, urls[url], manifest, stats): url for url in urls}
+        for fut in futures:
+            url = futures[fut]
+            key = fut.result()
+            if key:
+                results[url] = key
+
+    for url in list(manifest):
+        if url not in urls:
+            del manifest[url]
+
+    write_manifest(manifest)
+
+    if os.path.isdir(OUT_DIR):
+        shutil.rmtree(OUT_DIR)
+    os.makedirs(OUT_DIR, exist_ok=True)
+    os.makedirs(WEBP_DIR, exist_ok=True)
+    copied = 0
+    if os.path.isdir(WEBP_DIR):
+        for webp in os.listdir(WEBP_DIR):
+            if webp.endswith(".webp") and os.path.isfile(os.path.join(WEBP_DIR, webp)):
+                shutil.copy2(os.path.join(WEBP_DIR, webp), os.path.join(OUT_DIR, webp))
+                copied += 1
+
+    replaced_total = 0
+    for root, dirs, files in os.walk(SITE_DIR):
+        dirs[:] = [d for d in dirs if d not in (".cache",)]
+        for fname in files:
+            if not fname.endswith((".json", ".html")):
+                continue
+            rel = os.path.relpath(os.path.join(root, fname), SITE_DIR)
+            depth = rel.count(os.sep)
+            rel_prefix = "../" * depth
+            replaced_total += replace_in_file(os.path.join(root, fname), results, rel_prefix)
+
+    print(f"screenshots: {stats['downloaded']} downloaded, {stats['converted']} converted, "
+          f"{stats['unchanged']} unchanged (cache), {stats['missing']} not found, "
+          f"{stats['failed']} failed, {copied} webp in {OUT_DIR}, "
+          f"{replaced_total} URL references replaced")
+
+
+if __name__ == "__main__":
+    main()

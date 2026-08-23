@@ -1,0 +1,64 @@
+#!/usr/bin/env bash
+# generate_sitemap.sh — build a sitemap.xml from a directory of HTML files
+#
+# Usage:
+#   ./generate_sitemap.sh <site_dir> <base_url> [output_file]
+#
+# Example:
+#   ./generate_sitemap.sh public https://kazam.pages.dev sitemap.xml
+#
+# Assumes a static site build output dir (e.g. Zola's `public/`), where each
+# .html file maps 1:1 to a URL path. index.html files are mapped to their
+# parent directory URL.
+
+set -euo pipefail
+
+SITE_DIR="${1:?Usage: $0 <site_dir> <base_url> [output_file]}"
+BASE_URL="${2:?Usage: $0 <site_dir> <base_url> [output_file]}"
+OUTPUT="${3:-sitemap.xml}"
+
+# Strip trailing slash from base URL
+BASE_URL="${BASE_URL%/}"
+
+if [[ ! -d "$SITE_DIR" ]]; then
+    echo "Error: site directory '$SITE_DIR' not found" >&2
+    exit 1
+fi
+
+TMP_URLS="$(mktemp)"
+trap 'rm -f "$TMP_URLS"' EXIT
+
+# Find all html files, convert to URL paths
+find "$SITE_DIR" -type f -name "*.html" | while read -r file; do
+    rel_path="${file#"$SITE_DIR"/}"
+
+    # index.html -> directory URL (or root)
+    if [[ "$rel_path" == "index.html" ]]; then
+        url_path=""
+    elif [[ "$rel_path" == */index.html ]]; then
+        url_path="${rel_path%/index.html}/"
+    else
+        url_path="$rel_path"
+    fi
+
+    lastmod="$(date -u -r "$file" +"%Y-%m-%d")"
+    echo "${BASE_URL}/${url_path}|${lastmod}" >> "$TMP_URLS"
+done
+
+# Sort for stable output
+sort -u "$TMP_URLS" -o "$TMP_URLS"
+
+{
+    echo '<?xml version="1.0" encoding="UTF-8"?>'
+    echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+    while IFS="|" read -r url lastmod; do
+        echo "  <url>"
+        echo "    <loc>${url}</loc>"
+        echo "    <lastmod>${lastmod}</lastmod>"
+        echo "  </url>"
+    done < "$TMP_URLS"
+    echo '</urlset>'
+} > "$OUTPUT"
+
+count="$(wc -l < "$TMP_URLS")"
+echo "Wrote $count URLs to $OUTPUT"

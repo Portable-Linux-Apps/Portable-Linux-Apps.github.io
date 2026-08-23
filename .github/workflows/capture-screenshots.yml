@@ -1,0 +1,88 @@
+name: Capture missing screenshots
+
+on:
+  workflow_dispatch:
+    inputs:
+      max-apps:
+        description: Maximum number of apps to capture (one issue per app)
+        required: false
+        type: number
+        default: 10
+      delay:
+        description: Seconds to wait for each app window to open
+        required: false
+        type: number
+        default: 20
+      mention-author:
+        description: Look up the app author's GitHub handle and ask them about the screenshot
+        required: false
+        type: boolean
+        default: true
+      flathub-screenshots:
+        description: Fetch a Flathub screenshot to include in the issue for comparison
+        required: false
+        type: boolean
+        default: true
+
+# The default GITHUB_TOKEN writes issues here and uploads images to the
+# "screenshots-captured" release so the issues can embed them inline.
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: capture-screenshots
+  cancel-in-progress: false
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Install dependencies
+        run: |
+          # Azure repositories are flaky, remove them.
+          sudo rm -f /etc/apt/sources.list.d/{azure,microsoft}*
+          sudo apt-get update
+          sudo DEBIAN_FRONTEND=noninteractive apt-get install -y -q \
+            xvfb x11-xserver-utils x11-utils x11-apps xdotool imagemagick unzip p7zip-full \
+            xz-utils binutils file curl wget jq libfuse2 dbus dbus-x11 \
+            fonts-dejavu-core openbox \
+            libegl1 libgl1 libgl1-mesa-dri libopengl0 mesa-utils \
+            libdbus-glib-1-2 zenity \
+            libasound2t64 libportaudio2 libjack-jackd2-0 libsndfile1 libpulse0 \
+            libvulkan1 mesa-vulkan-drivers libgtk2.0-0t64 \
+            libxcb-icccm4 libxcb-image0 libxcb-keysyms1 libxcb-render-util0 \
+            libxcb-shape0 libxcb-xinerama0 libxcb-xkb1 libxcb-cursor0 \
+            libxkbcommon-x11-0
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+
+      - name: Allow unprivileged user namespaces
+        # Ubuntu 24.04 runners restrict unprivileged user namespace creation
+        # via AppArmor by default. Chromium/Electron's sandbox (and Gecko's,
+        # separately) relies on unshare(CLONE_NEWUSER/CLONE_NEWPID) for its
+        # own process isolation, so this alone is enough to break GPU/sandbox
+        # init for every Electron and Gecko app captured in this job -- not
+        # a per-app config issue. Runner is ephemeral, reverted on teardown.
+        run: sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
+
+      - name: Install AppMan (AM user-mode, no root)
+        run: |
+          mkdir -p "$HOME/.local/bin"
+          curl -fsSLo "$HOME/.local/bin/appman" \
+            https://raw.githubusercontent.com/ivan-hc/AM/main/APP-MANAGER
+          chmod a+x "$HOME/.local/bin/appman"
+          appman_location="$HOME/Applications" appman -v
+
+      - name: Capture screenshots and file issues
+        env:
+          REPO: ${{ github.repository }}
+          MAX_APPS: ${{ inputs.max-apps }}
+          DELAY: ${{ inputs.delay }}
+          MENTION_AUTHOR: ${{ inputs.mention-author && '1' || '0' }}
+          FLATHUB_SCREENSHOTS: ${{ inputs.flathub-screenshots && '1' || '0' }}
+          GH_TOKEN: ${{ github.token }}
+        run: bash .github/scripts/capture-app-screenshots.sh
