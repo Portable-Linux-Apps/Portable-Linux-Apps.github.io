@@ -29,7 +29,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       - name: Cache converted icons
         id: icon-cache
@@ -111,7 +111,7 @@ jobs:
           echo "site generated" | tee -a build-log.txt
 
       - name: Upload Build Log
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: build-log
           path: build-log.txt
