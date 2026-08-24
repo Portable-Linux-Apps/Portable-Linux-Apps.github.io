@@ -16,15 +16,21 @@
     .then(function(app) {
       var html = '';
 
+      const { archived = false, obsolete } = app;
+      var meta_parts = [];
+      if (archived) meta_parts.push('Archived');
+      if (obsolete != null) meta_parts.push(`Obsolete since ${obsolete}`);
+      const meta_info = meta_parts.join('; ');
+
       // Header with icon, name, sites
       var iconUrl = '../icons/' + encodeURIComponent(name) + '.webp';
       html += '<div class="app-detail-header">';
       html += '<img src="' + iconUrl + '" alt="" onerror="this.src=\'../no-icon.webp\'">';
       html += '<div class="app-title">';
       html += '<h1>' + escapeHtml(app.name || name) + '</h1>';
-      html += '<div class="app-meta"></div>';
+      html += '<div class="app-meta">' + meta_info + '</div>';
       html += '</div>';
-      var button_html = suite_name ? '<a class="install-btn" href="' + encodeURIComponent(suite_name.innerHTML) + '.html">Goto ' + escapeHtml(suite_name.innerHTML) + '</a>' : '<div class="install-group"><a class="install-btn" href="pla-install://' + encodeURIComponent(app.name || name) + '" title="If this button doesn&apos;t work, see FAQ #1">Install</a><a class="install-info" href="../index.html#faq-1">?</a></div>';
+      var button_html = suite_name ? '<a class="install-btn" href="' + encodeURIComponent(suite_name.innerHTML) + '.html">Goto ' + escapeHtml(suite_name.innerHTML) + '</a>' : '<div class="install-group"><a class="install-btn" href="pla-install://' + encodeURIComponent(app.name || name) + '" title="If this button doesn&apos;t work, see FAQ #1">Install</a><a class="install-info" href="../index.html#faq-1" title="How to install?">?</a></div>';
       html += button_html;
       html += '</div>';
 
