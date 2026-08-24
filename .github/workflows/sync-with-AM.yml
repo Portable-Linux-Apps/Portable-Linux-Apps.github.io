@@ -44,6 +44,7 @@ jobs:
             APPS=$(echo "$AMD64_LIST" 2>/dev/null | awk '{print $2}' | xargs)
             for a in $APPS; do
               if ! test -f apps/"$a"; then
+                echo "app $a needs to be added"
                 INSTALLATION_SCRIPT=$(curl -Ls https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/"$a")
                 if [ -n "$INSTALLATION_SCRIPT" ] && echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep -q "^APP=$a"; then
                   DESCRIPTION=$(echo "$AMD64_LIST" 2>/dev/null | grep "^◆ $a :" | sed "s/^◆ $a ://g")
