@@ -1,8 +1,10 @@
 # gedit
 ===
-ArchImage of the popular GNOME text editor Gedit.
+ An easy-to-use general-purpose text editor for the GNOME desktop environment.
+
+ This script can install the latest release (if any) and a legacy variant.
 ===
 # SCREENSHOTS: ../contribute_ss.webp
-# SITES: https://github.com/ivan-hc/Gedit-appimage
-# SOURCES: 
+# SITES: https://gedit-text-editor.org
+# SOURCES: https://github.com/ivan-hc/Gedit-appimage https://github.com/ivan-hc/GNOME3-appimages
 # BUTTONS: 

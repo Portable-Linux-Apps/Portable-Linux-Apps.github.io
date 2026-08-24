@@ -1,8 +1,9 @@
 # eog
 ===
  Eye of Gnome is an image viewing and cataloging program.
+
+ This script can install the latest release (if any) and a legacy variant.
 ===
 # SCREENSHOTS: ../contribute_ss.webp
-# SITES: https://github.com/REPLACETHIS
-# SOURCES: https://github.com/REPLACETHIS
-# BUTTONS: 
+# SITES: https://gitlab.gnome.org/GNOME/eog
+# SOURCES: https://github.com/ivan-hc/GNOME3-appimages

@@ -1,8 +1,10 @@
 # frame
 ===
-Fast FFmpeg GUI.
+ Frame is a native media conversion utility built in Rust. It provides a
+ desktop interface for FFmpeg operations, with granular control over video,
+ audio, image, subtitle, and metadata settings. The application uses a GPUI-CE
+ front end and a reusable Rust conversion core for FFmpeg argument generation,
+ source probing, compatibility validation, task control, and progress parsing.
 ===
-# SCREENSHOTS: ../contribute_ss.webp
-# SITES: https://github.com/66HEX/frame
-# SOURCES: 
-# BUTTONS: 
+# SCREENSHOTS: https://raw.githubusercontent.com/66HEX/frame/master/preview.png
+# SITES: https://github.com/66HEX/frame https://www.framegui.app

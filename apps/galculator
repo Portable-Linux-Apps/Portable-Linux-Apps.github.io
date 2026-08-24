@@ -1,8 +1,10 @@
 # galculator
 ===
-A GTK 2 / GTK 3 based scientific calculator.
+ A GTK 2 / GTK 3 based scientific calculator.
+
+ This script lets you choose between more variants.
 ===
-# SCREENSHOTS: ../contribute_ss.webp
+# SCREENSHOTS: https://github.com/galculator/galculator
 # SITES: https://github.com/pkgforge-dev/Galculator-AppImage
-# SOURCES: 
+# SOURCES: https://github.com/pkgforge-dev/Galculator-AppImage https://github.com/ivan-hc/GNOME3-appimages
 # BUTTONS: 

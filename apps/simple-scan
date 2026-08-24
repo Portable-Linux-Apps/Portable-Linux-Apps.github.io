@@ -1,8 +1,10 @@
 # simple-scan
 ===
  Make a digital copy of your photos and documents. Simple scanning utility for the GNOME desktop environment.
+
+ This script can install the latest release (if any) and a legacy variant.
 ===
 # SCREENSHOTS: ../contribute_ss.webp
-# SITES: https://github.com/REPLACETHIS
-# SOURCES: https://github.com/REPLACETHIS
+# SITES: https://apps.gnome.org/en/SimpleScan
+# SOURCES: https://github.com/ivan-hc/GNOME3-appimages
 # BUTTONS: 
