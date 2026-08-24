@@ -40,6 +40,7 @@
 <a href="javascript:history.back()" id="back-link">&larr; Back</a>
 
 <div id="app-name" style="display: none;">$APP_NAME</div>
+<div id="suite-name" style="display: none;">$SUITE_NAME</div>
 <div id="app-root"></div>
 
 <a href="#" id="back-to-top" title="Back to top">&uarr;</a>

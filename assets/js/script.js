@@ -20,8 +20,8 @@ function renderApps(data) {
     html += '<div class="app-links">';
     var suiteMatch = app.description && app.description.match(/This is part of "([^"]+)"/);
     var scriptName = suiteMatch ? suiteMatch[1] : app.name;
-    html += '<a href="https://github.com/ivan-hc/AM/blob/main/programs/' + encodeURIComponent(arch_value) + '/' + encodeURIComponent(scriptName) + '" class="install-link">blob</a>';
-    html += '<a href="https://raw.githubusercontent.com/ivan-hc/AM/main/programs/' + arch_value +'/' + encodeURIComponent(scriptName) + '" class="install-link">raw</a>';
+    html += '<a href="https://github.com/ivan-hc/AM/blob/main/programs/' + encodeURIComponent(arch_value) + '/' + encodeURIComponent(scriptName) + '" class="install-link install-blob" data-script="' + encodeURIComponent(scriptName) + '">blob</a>';
+    html += '<a href="https://raw.githubusercontent.com/ivan-hc/AM/main/programs/' + encodeURIComponent(arch_value) +'/' + encodeURIComponent(scriptName) + '" class="install-link install-raw" data-script="' + encodeURIComponent(scriptName) + '">raw</a>';
     html += '</div>';
     html += '</div>';
   }
@@ -84,6 +84,18 @@ document.addEventListener('DOMContentLoaded', function() {
         setTimeout(applyFilters, 0);
       }
 
+      function updateArchLinks(selectedArch) {
+        var a = selectedArch || 'x86_64';
+        var blobs = document.querySelectorAll('.install-blob');
+        var raws = document.querySelectorAll('.install-raw');
+        for (var m = 0; m < blobs.length; m++) {
+          blobs[m].href = 'https://github.com/ivan-hc/AM/blob/main/programs/' + encodeURIComponent(a) + '/' + blobs[m].getAttribute('data-script');
+        }
+        for (var n = 0; n < raws.length; n++) {
+          raws[n].href = 'https://raw.githubusercontent.com/ivan-hc/AM/main/programs/' + encodeURIComponent(a) + '/' + raws[n].getAttribute('data-script');
+        }
+      }
+
       function applyFilters() {
         var terms = input ? input.value.toLowerCase().split(/\s+/).filter(Boolean) : [];
         var selectedArch = arch ? arch.value : '';
@@ -109,7 +121,10 @@ document.addEventListener('DOMContentLoaded', function() {
       }
 
       if (arch) {
-        arch.addEventListener('change', applyFilters);
+        arch.addEventListener('change', function() {
+          updateArchLinks(arch.value);
+          applyFilters();
+        });
       }
 
       var btt = document.getElementById('back-to-top');

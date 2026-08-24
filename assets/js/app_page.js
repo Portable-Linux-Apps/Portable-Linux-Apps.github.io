@@ -1,9 +1,10 @@
 (function() {
   var name = document.getElementById('app-name').innerHTML;
+  var suite_name = document.getElementById('suite-name');
   var root = document.getElementById('app-root');
 
   if (!name) {
-    root.innerHTML = '<div class="error-box"><h2>No app specified</h2><p>Use <code>?name=appname</code> in the URL.</p></div>';
+    root.innerHTML = '<div class="error-box"><h2>No app specified</h2></div>';
     return;
   }
 
@@ -19,11 +20,12 @@
       var iconUrl = '../icons/' + encodeURIComponent(name) + '.webp';
       html += '<div class="app-detail-header">';
       html += '<img src="' + iconUrl + '" alt="" onerror="this.src=\'../no-icon.webp\'">';
-      html += '<div>';
+      html += '<div class="app-title">';
       html += '<h1>' + escapeHtml(app.name || name) + '</h1>';
       html += '<div class="app-meta"></div>';
       html += '</div>';
-      html += '<a class="install-btn" href="pla-install://' + encodeURIComponent(app.name || name) + '" title="If this button doesn&apos;t work, see FAQ">Install</a>';
+      var button_html = suite_name ? '<a class="install-btn" href="' + encodeURIComponent(suite_name.innerHTML) + '.html">Goto ' + escapeHtml(suite_name.innerHTML) + '</a>' : '<div class="install-group"><a class="install-btn" href="pla-install://' + encodeURIComponent(app.name || name) + '" title="If this button doesn&apos;t work, see FAQ #1">Install</a><a class="install-info" href="../index.html#faq-1">?</a></div>';
+      html += button_html;
       html += '</div>';
 
       // Description

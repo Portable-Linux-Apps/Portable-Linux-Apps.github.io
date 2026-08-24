@@ -15,7 +15,7 @@
   flex-shrink: 0;
 }
 
-.app-detail-header div {
+.app-detail-header .app-title {
   flex: 1 1 200px;
   min-width: 0;
 }
@@ -34,6 +34,37 @@
 
 .app-detail-header .app-meta a {
   color: var(--color-accent);
+}
+
+.install-group {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  gap: 0.06em;
+}
+
+.install-info {
+  flex-shrink: 0;
+  padding: .5rem;
+  background: var(--color-accent);
+  color: #fff;
+  font-size: .875rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 0 var(--radius) var(--radius) 0;
+  text-decoration: none;
+  transition: background .15s
+}
+
+.install-info:hover {
+  background: var(--color-accent-hover);
+  text-decoration: none;
+  color: #fff
+}
+
+.install-info:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px var(--color-border), 0 0 0 4px rgba(88, 166, 255, 0.4);
 }
 
 .install-btn {
