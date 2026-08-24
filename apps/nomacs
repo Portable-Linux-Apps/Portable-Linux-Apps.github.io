@@ -1,8 +1,9 @@
 # nomacs
 ===
 Unofficial, nomacs is a free, open source image viewer, which supports multiple platforms.
+ This script allows you to choose between the Official AppImage and the unofficial one.
 ===
 # SCREENSHOTS: ../contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Nomacs-AppImage
-# SOURCES: 
+# SITES: https://github.com/nomacs/nomacs
+# SOURCES: https://github.com/pkgforge-dev/Nomacs-AppImage
 # BUTTONS: 

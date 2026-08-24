@@ -1,8 +1,10 @@
 # file-roller
 ===
  File Roller is an archive manager for the GNOME desktop environment. Create and modify archives.
+
+ This script can install the latest release (if any) and a legacy variant.
 ===
 # SCREENSHOTS: ../contribute_ss.webp
-# SITES: https://github.com/REPLACETHIS
-# SOURCES: https://github.com/REPLACETHIS
+# SITES: https://gitlab.gnome.org/GNOME/file-roller
+# SOURCES: https://github.com/ivan-hc/GNOME3-appimages
 # BUTTONS: 

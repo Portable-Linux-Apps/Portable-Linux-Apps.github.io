@@ -1,8 +1,10 @@
 # gnome-system-monitor
 ===
-Unofficial. View current processes and monitor system state.
+ View current processes and monitor system state.
+
+ This script can install the latest release (if any) and a legacy variant.
 ===
-# SCREENSHOTS: ../contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Gnome-System-Monitor-AppImage
-# SOURCES: 
+# SCREENSHOTS: https://static.gnome.org/catalog/app-screenshot/org.gnome.SystemMonitor/Processes.png https://static.gnome.org/catalog/app-screenshot/org.gnome.SystemMonitor/Resources.png
+# SITES: https://apps.gnome.org/SystemMonitor
+# SOURCES: https://github.com/pkgforge-dev/Gnome-System-Monitor-AppImage https://github.com/ivan-hc/GNOME3-appimages
 # BUTTONS: 

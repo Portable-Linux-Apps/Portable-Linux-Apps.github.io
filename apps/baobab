@@ -1,8 +1,9 @@
 # baobab
 ===
  A graphical directory tree analyzer for the GNOME desktop environment, to keep your disk usage and available space under control.
+
+ This script can install the latest release (if any) and a legacy variant.
 ===
-# SCREENSHOTS: ../contribute_ss.webp
-# SITES: https://github.com/REPLACETHIS
-# SOURCES: https://github.com/REPLACETHIS
-# BUTTONS: 
+# SCREENSHOTS: https://static.gnome.org/catalog/app-screenshot/org.gnome.baobab/image-2_orig.png
+# SITES: https://apps.gnome.org/Baobab
+# SOURCES: https://github.com/ivan-hc/GNOME3-appimages

@@ -45,11 +45,11 @@ jobs:
             for a in $APPS; do
               if ! test -f apps/"$a"; then
                 INSTALLATION_SCRIPT=$(curl -Ls https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/"$a")
-                if [ -n "$INSTALLATION_SCRIPT" ] && echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep -q "^APP=$a"; then
+                if [ -n "$INSTALLATION_SCRIPT" ] && echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep -Eq "^APP=[\"']?$a[\"']?\$"; then
                   DESCRIPTION=$(echo "$AMD64_LIST" 2>/dev/null | grep "^◆ $a :" | sed "s/^◆ $a ://g")
 
                   if echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep -Eq "SITE[0-9]*="; then
-                    SITE_REFS=$(echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep -Eo 'SITE[0-9]*="[^"]*"' | sed -E 's/^SITE[0-9]*="//; s/"$//' | awk '!seen[$0]++')
+                    SITE_REFS=$(echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep -Eo "SITE[0-9]*=[\"'][^\"']*[\"']" | sed -E "s/^SITE[0-9]*=[\"']//; s/[\"']\$//" | awk '!seen[$0]++')
                     if [ -z "$SITE_REFS" ]; then
                       if echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep -q "^version=.*curl .*api.github.com"; then
                         SITE=$(echo "$INSTALLATION_SCRIPT" 2>/dev/null | grep "^version" | grep -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*" | head -1 | sed 's#//api.#//#g; s#/repos/#/#g; s#/releases.*##')

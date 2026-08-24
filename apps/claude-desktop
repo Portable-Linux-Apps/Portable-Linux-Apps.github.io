@@ -1,8 +1,9 @@
 # claude-desktop
 ===
-Claude Desktop for Debian-based Linux distributions.
+ Unofficial AppImages, Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.
+
+ This script lets you choose between two different implementations.
 ===
 # SCREENSHOTS: ../contribute_ss.webp
-# SITES: https://github.com/aaddrick/claude-desktop-debian
-# SOURCES: 
-# BUTTONS: 
+# SITES: https://claude.com
+# SOURCES: https://github.com/aaddrick/claude-desktop-debian https://github.com/patrickjaja/claude-desktop-bin
