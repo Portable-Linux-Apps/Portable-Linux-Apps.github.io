@@ -1,6 +1,14 @@
 # legacylauncher
 ===
- Unofficial AppImage for Legacy Launcher, a Minecraft launcher that is stable, fast and simple.
+This is an unofficial AppImage wrapper for Legacy Launcher (previously known as TL), that is built on top of [RunImage](https://github.com/VHSgunzo/runimage), the portable single-file Linux container in unprivileged user namespaces.
+
+Legacy Launcher is a Minecraft launcher that is stable, fast and simple. This includes the launcher's .jar file, and also, OpenJDK to run the launcher as well, **and it will also use the proprietary nvidia driver from the host**.
+
+This project is for demonstration and testing purposes ONLY, to promote this packaging format to [turikhay](https://github.com/turikhay). Consider this package as "experimental" or "testing". I also invite you to request him to release an official AppImage, and if he agrees, you can show this repository as a proof of concept.
+This project is licensed under the GPL-3.0-only license.
+
+Legacy Launcher is created by turikhay, and is in no way affiliated with Mojang Studios, nor should it be considered a project endorsed by Mojang Studios. This project is community-maintained and is not affiliated with, supported, or endorsed by turikhay or Mojang Studios. 
 ===
-# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
-# SITES: https://github.com/imngkhang/legacylauncher-appimage
+# SCREENSHOTS: https://raw.githubusercontent.com/imngkhang/legacylauncher-appimage/master/screenshots/1.png https://raw.githubusercontent.com/imngkhang/legacylauncher-appimage/master/screenshots/2.png https://raw.githubusercontent.com/imngkhang/legacylauncher-appimage/master/screenshots/3.png
+# SITES: https://llaun.ch
+# SOURCES: https://github.com/imngkhang/legacylauncher-appimage
