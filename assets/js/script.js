@@ -96,9 +96,25 @@ document.addEventListener('DOMContentLoaded', function() {
         }
       }
 
+      // Relevance rank: 0 exact name, 1 name starts with, 2 name contains, 3 description only.
+      var RANK_LABELS = ['Exact match', 'Name match', 'Name match', 'Description match'];
+
+      function matchRank(k, terms) {
+        var name = cache[k].name;
+        if (terms.length === 1 && name === terms[0]) return 0;
+        var nameHit = terms.every(function(t) { return name.indexOf(t) !== -1; });
+        if (!nameHit) return 3;
+        return name.indexOf(terms[0]) === 0 ? 1 : 2;
+      }
+
       function applyFilters() {
         var terms = input ? input.value.toLowerCase().split(/\s+/).filter(Boolean) : [];
         var selectedArch = arch ? arch.value : '';
+        var list = document.getElementById('app-list').querySelector('.app-list');
+        var matched = [];
+
+        var oldHeadings = list.querySelectorAll('.app-group-heading');
+        for (var h = 0; h < oldHeadings.length; h++) oldHeadings[h].remove();
 
         for (var k = 0; k < appNodes.length; k++) {
           var matchesSearch = !terms.length ||
@@ -108,7 +124,31 @@ document.addEventListener('DOMContentLoaded', function() {
             });
           var matchesArch = !selectedArch ||
             cache[k].archs.some(function(a) { return a === selectedArch; });
-          appNodes[k].style.display = (matchesSearch && matchesArch) ? '' : 'none';
+          var visible = matchesSearch && matchesArch;
+          appNodes[k].style.display = visible ? '' : 'none';
+          if (visible) matched.push({ index: k, rank: terms.length ? matchRank(k, terms) : 0 });
+        }
+
+        if (terms.length) {
+          matched.sort(function(a, b) {
+            return a.rank !== b.rank ? a.rank - b.rank : cache[a.index].name.localeCompare(cache[b.index].name);
+          });
+        }
+
+        var lastLabel = null;
+        for (var m = 0; m < matched.length; m++) {
+          var entry = matched[m];
+          if (terms.length) {
+            var label = RANK_LABELS[entry.rank];
+            if (label !== lastLabel) {
+              var heading = document.createElement('div');
+              heading.className = 'app-group-heading';
+              heading.textContent = label;
+              list.appendChild(heading);
+              lastLabel = label;
+            }
+          }
+          list.appendChild(appNodes[entry.index]);
         }
       }
 
