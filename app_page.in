@@ -37,7 +37,14 @@
 </nav>
 <main>
 
-<a href="javascript:history.back()" id="back-link">&larr; Back</a>
+<div class="page-header-links">
+  <a href="javascript:history.back()" id="back-link">&larr; Back</a>
+  <a href="https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/blob/main/apps/$APP_NAME" id="improve-link" title="Improve this page">
+    <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
+      <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25a1.75 1.75 0 0 1 .445-.758l8.61-8.61zm1.414 1.06a.25.25 0 0 0-.354 0L3.46 11.1a.25.25 0 0 0-.064.108l-.456 1.598 1.598-.457a.25.25 0 0 0 .108-.064l8.61-8.61a.25.25 0 0 0 0-.353L12.427 2.487zM3.25 3.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5z"/>
+    </svg>
+  </a>
+</div>
 
 <div id="app-name" style="display: none;">$APP_NAME</div>
 <div id="app-root"></div>
