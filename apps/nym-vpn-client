@@ -1,0 +1,6 @@
+# nym-vpn-client
+===
+ Cross-platform open source VPN client built in Rust, with mixnet anonymity and WireGuard speed. Protects metadata, not just IP addresses. Zero-knowledge payments for unlinkable online activities.
+===
+# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
+# SITES: https://github.com/nymtech/nym-vpn-client
