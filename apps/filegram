@@ -1,6 +1,8 @@
 # filegram
+
 ===
- Lightweight and fast utility for disk space analyzer with interactive tree map. Written in Rust.
+Lightweight and fast utility for disk space analyzer with interactive tree map. Written in Rust.
 ===
-# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
+
+# SCREENSHOTS: https://raw.githubusercontent.com/filegram/filegram-desktop/master/assets/app-mockup.svg
 # SITES: https://github.com/filegram/filegram-desktop

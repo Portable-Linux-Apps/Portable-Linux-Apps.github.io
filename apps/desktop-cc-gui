@@ -1,6 +1,8 @@
-# desktop-cc-gui
+# ccgui
+
 ===
- Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI.
+Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI.
 ===
-# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
-# SITES: https://github.com/zhukunpenglinyutong/desktop-cc-gui
+
+# SCREENSHOTS: https://raw.githubusercontent.com/zhukunpenglinyutong/desktop-cc-gui/main/docs/banner.png
+# SITES: https://www.mossx.ai/download

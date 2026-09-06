@@ -1,6 +1,8 @@
 # opendeck
+
 ===
- Linux software for the Stream Deck with support for original Elgato Stream Deck plugins.
+Linux software for the Stream Deck with support for original Elgato Stream Deck plugins.
 ===
-# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
+
+# SCREENSHOTS: https://raw.githubusercontent.com/nekename/OpenDeck/main/.github/readme/mainmenu.png https://raw.githubusercontent.com/nekename/OpenDeck/main/.github/readme/multiaction.png https://raw.githubusercontent.com/nekename/OpenDeck/main/.github/readme/plugins.png https://raw.githubusercontent.com/nekename/OpenDeck/main/.github/readme/profiles.png
 # SITES: https://github.com/nekename/OpenDeck

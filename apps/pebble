@@ -1,6 +1,8 @@
 # pebble
+
 ===
- A small yet beautiful email client.
+A small yet beautiful email client.
 ===
-# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
-# SITES: https://github.com/QingJ01/Pebble
+
+# SCREENSHOTS: https://raw.githubusercontent.com/QingJ01/Pebble/master/site/screenshots/dark.png https://raw.githubusercontent.com/QingJ01/Pebble/master/site/screenshots/inbox.png https://raw.githubusercontent.com/QingJ01/Pebble/master/site/screenshots/kanban.png https://raw.githubusercontent.com/QingJ01/Pebble/master/site/screenshots/settings.png
+# SITES: https://pebble.byebug.cn

@@ -1,6 +1,8 @@
 # meguri
+
 ===
- A local-first media library for your videos & photos — scan, browse, search, and play. No cloud, no account.
+A local-first media library for your videos & photos — scan, browse, search, and play. No cloud, no account.
 ===
-# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
-# SITES: https://github.com/zabuton-app/meguri
+
+# SCREENSHOTS: https://raw.githubusercontent.com/zabuton-app/meguri/main/docs/assets/demo.gif https://raw.githubusercontent.com/zabuton-app/meguri/main/docs/assets/discover.gif https://raw.githubusercontent.com/zabuton-app/meguri/main/docs/assets/theme-gruvbox-dark.png https://raw.githubusercontent.com/zabuton-app/meguri/main/docs/assets/view-list.png https://raw.githubusercontent.com/zabuton-app/meguri/main/docs/assets/view-table.png
+# SITES: https://zabuton-app.github.io/meguri/

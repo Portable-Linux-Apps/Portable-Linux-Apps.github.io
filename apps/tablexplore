@@ -1,6 +1,8 @@
 # tablexplore
+
 ===
- An application for data analysis and plotting built in Python using the PySide2/Qt toolkit.
+An application for data analysis and plotting built in Python using the PySide2/Qt toolkit.
 ===
-# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
+
+# SCREENSHOTS: https://raw.githubusercontent.com/dmnfarrell/tablexplore/master/img/scr1.png
 # SITES: https://github.com/dmnfarrell/tablexplore

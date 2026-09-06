@@ -1,6 +1,8 @@
-# node-pdf
+# nodepdf
+
 ===
- A lightweight, fast desktop PDF viewer built with Electron and React.
+A lightweight, fast desktop PDF viewer built with Electron and React.
 ===
-# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
+
+# SCREENSHOTS: https://raw.githubusercontent.com/remdph/node-pdf/main/screenshots/ss1.png https://raw.githubusercontent.com/remdph/node-pdf/main/screenshots/ss2.png https://raw.githubusercontent.com/remdph/node-pdf/main/screenshots/ss3.png https://raw.githubusercontent.com/remdph/node-pdf/main/screenshots/ss4.png
 # SITES: https://github.com/remdph/node-pdf

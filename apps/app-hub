@@ -1,6 +1,8 @@
-# app-hub
+# apphub
+
 ===
- AppHub is a Linux desktop application that simplifies the installation and management of .appImage packages.
+AppHub is a Linux desktop application that simplifies the installation and management of .appImage packages.
 ===
-# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
-# SITES: https://github.com/cosmic-utils/app-hub
+
+# SCREENSHOTS: https://raw.githubusercontent.com/cosmic-utils/app-hub/master/screenshots/install.png
+# SITES: https://github.com/francesco-gaglione/AppHub

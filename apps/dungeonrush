@@ -1,6 +1,8 @@
 # dungeonrush
+
 ===
- An opensource game inspired by Snake, written in pure C with SDL
+An opensource game inspired by Snake, written in pure C with SDL
 ===
-# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
-# SITES: https://github.com/Rapiz1/DungeonRush
+
+# SCREENSHOTS: https://raw.githubusercontent.com/yujqiao/DungeonRush/master/screenshot.gif
+# SITES: https://github.com/yujqiao/DungeonRush

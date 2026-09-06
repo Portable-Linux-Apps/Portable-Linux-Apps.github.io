@@ -1,8 +1,8 @@
-# open-video-downloader
+# open video downloader
+
 ===
-A cross-platform GUI for youtube-dl made in Electron and node.js
+A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 ===
-# SCREENSHOTS: ../contribute_ss.webp
-# SITES: https://github.com/StefanLobbenmeier/youtube-dl-gui
-# SOURCES: 
-# BUTTONS: 
+
+# SCREENSHOTS: https://Portable-Linux-Apps.github.io/contribute_ss.webp
+# SITES: https://jely2002.github.io/youtube-dl-gui/

@@ -1,6 +1,8 @@
 # lenspect
+
 ===
- A lightweight security threat scanner intended to make malware detection more accessible and efficient.
+A lightweight security threat scanner intended to make malware detection more accessible and efficient.
 ===
-# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
-# SITES: https://github.com/vmkspv/lenspect
+
+# SCREENSHOTS: https://raw.githubusercontent.com/vmkspv/lenspect/main/data/screenshots/preview.png
+# SITES: https://flathub.org/apps/details/io.github.vmkspv.lenspect

@@ -1,6 +1,8 @@
-# sysd-manager
+# sysd manager
+
 ===
- A user-friendly GUI to manage systemd units.
+A user-friendly GUI to manage systemd units.
 ===
-# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
+
+# SCREENSHOTS: https://raw.githubusercontent.com/plrigaux/sysd-manager/main/screenshots/journal_dark.png https://raw.githubusercontent.com/plrigaux/sysd-manager/main/screenshots/unit_file_dark.png https://raw.githubusercontent.com/plrigaux/sysd-manager/main/screenshots/unit_info.png https://raw.githubusercontent.com/plrigaux/sysd-manager/main/screenshots/unit_info_dark.png
 # SITES: https://github.com/plrigaux/sysd-manager

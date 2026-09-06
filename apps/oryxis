@@ -1,6 +1,8 @@
 # oryxis
+
 ===
- Rust SSH Client & Terminal Emulator with an encrypted vault, SFTP, port forwarding, cloud discovery, and P2P sync.
+Rust SSH Client & Terminal Emulator with an encrypted vault, SFTP, port forwarding, cloud discovery, and P2P sync.
 ===
-# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
+
+# SCREENSHOTS: https://raw.githubusercontent.com/wilsonglasser/oryxis/main/resources/screen_1.png https://raw.githubusercontent.com/wilsonglasser/oryxis/main/resources/screen_2.png https://raw.githubusercontent.com/wilsonglasser/oryxis/main/resources/screen_3.png https://raw.githubusercontent.com/wilsonglasser/oryxis/main/resources/screen_4.png
 # SITES: https://github.com/wilsonglasser/oryxis

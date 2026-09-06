@@ -1,6 +1,8 @@
 # zedis
+
 ===
- A blazing-fast, native Redis GUI built with Rust and GPUI.
+A blazing-fast, native Redis GUI built with Rust and GPUI.
 ===
-# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
-# SITES: https://github.com/vicanso/zedis
+
+# SCREENSHOTS: https://zedis.net/images/key-browser.png
+# SITES: https://zedis.net/

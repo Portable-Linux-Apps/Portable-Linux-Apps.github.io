@@ -1,6 +1,8 @@
 # markra
+
 ===
- A WYSIWYG Markdown editor with native AI. Fully open source. Free to use. Your data stays local.
+A WYSIWYG Markdown editor with native AI. Fully open source. Free to use. Your data stays local.
 ===
-# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
-# SITES: https://github.com/markrahq/markra
+
+# SCREENSHOTS: https://raw.githubusercontent.com/markrahq/markra/v2/assets/screenshots/ai-agent-panel.png https://raw.githubusercontent.com/markrahq/markra/v2/assets/screenshots/ai-edit-preview.png https://raw.githubusercontent.com/markrahq/markra/v2/assets/screenshots/ai-provider-settings.png https://raw.githubusercontent.com/markrahq/markra/v2/assets/screenshots/editor-workspace.png https://raw.githubusercontent.com/markrahq/markra/v2/assets/screenshots/inline-ai-command.png
+# SITES: https://markra.app

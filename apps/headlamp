@@ -1,6 +1,8 @@
 # headlamp
+
 ===
- A Kubernetes web UI that is fully-featured, user-friendly and extensible.
+A Kubernetes web UI that is fully-featured, user-friendly and extensible.
 ===
-# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
-# SITES: https://github.com/kubernetes-sigs/headlamp
+
+# SCREENSHOTS: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_chooser.png https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/home.png https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/resource_edition.png https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/workloads.png
+# SITES: https://headlamp.dev

@@ -1,6 +1,8 @@
 # hdrview
+
 ===
- A simple research-oriented image viewer with an emphasis on examining and comparing high-dynamic range (HDR) images.
+A simple research-oriented image viewer with an emphasis on examining and comparing high-dynamic range (HDR) images.
 ===
-# SCREENSHOTS: ../contribute_ss.webp ../contribute_ss.webp
-# SITES: https://github.com/wkjarosz/hdrview
+
+# SCREENSHOTS: https://raw.githubusercontent.com/wkjarosz/hdrview/master/resources/screenshot-command-palette.png https://raw.githubusercontent.com/wkjarosz/hdrview/master/resources/screenshot-dithered.png https://raw.githubusercontent.com/wkjarosz/hdrview/master/resources/screenshot-ipad.jpg https://raw.githubusercontent.com/wkjarosz/hdrview/master/resources/screenshot-mac.png https://raw.githubusercontent.com/wkjarosz/hdrview/master/resources/screenshot-zoomed.png
+# SITES: https://wkjarosz.github.io/hdrview/
