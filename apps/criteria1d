@@ -12,7 +12,7 @@ CRITERIA-1D is an agro-hydrological model that simulates one-dimensional water f
  
  Criteria1D API is a project of VAIMEE to integrate the model into the most diverse applications, such as in ZENTRA cloud.
 ===
-# SCREENSHOTS: ../contribute_ss.webp
+# SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/ARPA-SIMC/CRITERIA1D
 # SOURCES: 
 # BUTTONS: 

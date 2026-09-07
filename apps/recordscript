@@ -2,7 +2,7 @@
 ===
 Cross-platform screen recorder, transcript, subtitle. Built with Tauri & Whisper-rs (rust port of whisper.cpp)
 ===
-# SCREENSHOTS: ../contribute_ss.webp
+# SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/Recordscript/recordscript
 # SOURCES: 
 # BUTTONS: 

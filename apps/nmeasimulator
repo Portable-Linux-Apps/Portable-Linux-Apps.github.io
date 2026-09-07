@@ -2,7 +2,7 @@
 ===
 NMEA sentence generator utility that can broadcast via TCP, Web Socket
 ===
-# SCREENSHOTS: ../contribute_ss.webp
+# SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/panaaj/nmeasimulator
 # SOURCES: 
 # BUTTONS: 

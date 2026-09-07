@@ -23,9 +23,9 @@
       const meta_info = meta_parts.join('; ');
 
       // Header with icon, name, sites
-      var iconUrl = '../icons/' + encodeURIComponent(name) + '.webp';
+      var iconUrl = '../../icons/' + encodeURIComponent(name) + '.webp';
       html += '<div class="app-detail-header">';
-      html += '<img src="' + iconUrl + '" alt="" onerror="this.src=\'../no-icon.webp\'">';
+      html += '<img src="' + iconUrl + '" alt="" onerror="this.src=\'../../no-icon.webp\'">';
       html += '<div class="app-title">';
       html += '<h1>' + escapeHtml(app.name || name) + '</h1>';
       html += '<div class="app-meta">' + meta_info + '</div>';

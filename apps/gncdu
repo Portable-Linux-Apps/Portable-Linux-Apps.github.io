@@ -2,7 +2,7 @@
 ===
 Implements NCurses Disk Usage(ncdu) with golang
 ===
-# SCREENSHOTS: ../contribute_ss.webp
+# SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/bastengao/gncdu
 # SOURCES: 
 # BUTTONS: 

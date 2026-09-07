@@ -4,7 +4,7 @@ Calibre is an e-book manager. It can view, convert, edit and catalog  e-books in
 
  This is the unofficial AppImage built from the official portable package.
 ===
-# SCREENSHOTS: ../contribute_ss.webp
+# SCREENSHOTS: /contribute_ss.webp
 # SITES: https://calibre-ebook.com/
 # SOURCES: https://github.com/kovidgoyal/calibre https://github.com/ivan-hc/Calibre-appimage
 # BUTTONS: 

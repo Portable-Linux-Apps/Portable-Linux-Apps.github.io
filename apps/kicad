@@ -4,7 +4,7 @@
 
  SITE: 
 ===
-# SCREENSHOTS: ../contribute_ss.webp
+# SCREENSHOTS: /contribute_ss.webp
 # SITES: https://www.kicad.org
 # SOURCES: https://github.com/CyberCircuits/kicad-appimage
 # BUTTONS: Source_Mirror::https://github.com/KiCad/kicad-source-mirror

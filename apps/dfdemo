@@ -2,7 +2,7 @@
 ===
 A thin Tcl/Tk GUI around the df POSIX command.
 ===
-# SCREENSHOTS: ../contribute_ss.webp
+# SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/julien-montmartin/statcl-df-demo
 # SOURCES: 
 # BUTTONS: 

@@ -6,7 +6,7 @@ GNU IceCat is the GNU version of the Firefox browser.
 
  This is the portable official version converted to an AppImage by our team, "Portable Linux Apps" , no additional changes have been made.
 ===
-# SCREENSHOTS: ../contribute_ss.webp
+# SCREENSHOTS: /contribute_ss.webp
 # SITES: https://www.gnu.org/software/gnuzilla
 # SOURCES: https://icecatbrowser.org https://github.com/Portable-Linux-Apps/IceCat-AppImage
 # BUTTONS: 

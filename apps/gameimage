@@ -13,7 +13,7 @@ AppImage Game Packer.
  - Usability, get your game running with a double click on a fresh linux  install, no dependencies required.
  - Storage, Smaller file sizes than loose files, since appimage uses squashfs.
 ===
-# SCREENSHOTS: ../contribute_ss.webp
+# SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/ruanformigoni/gameimage
 # SOURCES: 
 # BUTTONS: 

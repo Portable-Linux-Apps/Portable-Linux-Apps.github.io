@@ -78,7 +78,7 @@ jobs:
 
                   ESC_DESC=$(echo "$DESCRIPTION" | sed 's/"/\\"/g')
                   printf '# %s\n===\n%s\n===\n# SCREENSHOTS: %s\n# SITES: %s\n' \
-                    "$a" "$ESC_DESC" "../contribute_ss.webp ../contribute_ss.webp" "$SITE" > apps/"$a"
+                    "$a" "$ESC_DESC" "/contribute_ss.webp /contribute_ss.webp" "$SITE" > apps/"$a"
 
                   echo "Adding apps/$a"
                 fi

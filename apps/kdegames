@@ -53,7 +53,7 @@
  Note, if you don't see one listed, there probably already is a standalone AppImage in this database. There are also packages (for example, "knights") that have their own AppImage, and these can be quite large overall due to the core KDE libraries they include. This metpackage exists precisely to avoid duplicating these libraries.
 
 ===
-# SCREENSHOTS: ../contribute_ss.webp
+# SCREENSHOTS: /contribute_ss.webp
 # SITES: https://apps.kde.org/categories/games
 # SOURCES: https://github.com/ivan-hc/KDE-games-suite-appimage
 # BUTTONS: 
