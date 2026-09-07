@@ -29,7 +29,7 @@ jobs:
       - name: Download pla-site-tool
         if: steps.changed.outputs.files != ''
         run: |
-          wget -O pla-site-tool "$(curl -Ls https://api.github.com/repos/kazam0180/portable-apps/releases | sed 's/[()",{} ]/\n/g' | grep -oi "https.*pla-site-tool.*mage$" | head -1)"
+          wget -q -O pla-site-tool "$(curl -Ls https://api.github.com/repos/kazam0180/portable-apps/releases | sed 's/[()",{} ]/\n/g' | grep -oi "https.*pla-site-tool.*mage$" | head -1)"
           chmod +x pla-site-tool
 
       - name: Validate files
@@ -40,7 +40,12 @@ jobs:
           while IFS= read -r file; do
             [ -z "$file" ] && continue
             echo "Validating: $file"
-            if ! ./pla-site-tool -i "$file" 2>&1; then
+            set +e
+            OUTPUT=$(./pla-site-tool -i "$file" 2>&1)
+            EXIT_CODE=$?
+            set -e
+            if [ $EXIT_CODE -ne 0 ]; then
+              echo "FAILED: $file"
               FAILED="${FAILED}${file}\n"
             else
               rm -f "${file}.json"
@@ -64,7 +69,6 @@ jobs:
             const failedFiles = `${{ steps.validate.outputs.failed }}`.trim().split('\n').filter(f => f);
             const body = `### App file validation failed\n\nThe following files could not be converted to JSON:\n\n${failedFiles.map(f => `- \`${f}\``).join('\n')}\n\nPlease check the file format against [\`apps/.template\`](apps/.template) and fix any syntax errors.`;
             
-            // Find and update existing comment or create new one
             const { data: comments } = await github.rest.issues.listComments({
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -88,3 +92,9 @@ jobs:
                 body,
               });
             }
+
+      - name: Fail if validation errors
+        if: steps.validate.outputs.has_failed == 'true'
+        run: |
+          echo "Validation failed for the files listed in the PR comment."
+          exit 1
