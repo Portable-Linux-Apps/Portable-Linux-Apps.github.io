@@ -31,8 +31,8 @@
   <a href="/$LANG/wiki.html">_("Wiki")</a>
   <a href="https://github.com/ivan-hc/AM">_("AM on GitHub")</a>
   <span class="lang-selector">
-    <a href="/en/apps.html" class="lang-link">English</a>
-    <a href="/it/apps.html" class="lang-link">Italiano</a>
+    <a href="/en/apps.html" class="lang-link" onclick="localStorage.setItem('preferredLang','en')">EN</a>
+    <a href="/it/apps.html" class="lang-link" onclick="localStorage.setItem('preferredLang','it')">IT</a>
   </span>
 </nav>
 <main>
