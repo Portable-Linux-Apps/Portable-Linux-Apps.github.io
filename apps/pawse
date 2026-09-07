@@ -1,0 +1,8 @@
+# pawse
+===
+A fast, native music player for your local library, built in Rust and GPUI, with a buttery-smooth, customizable 120+ fps interface, exclusive (bit-perfect) output, and a rich feature set.
+===
+# SCREENSHOTS: https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/album.webp https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/artists.webp https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/cover_view.webp https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/remote-desktop.webp https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/settings.webp
+# SITES: https://github.com/popovpsk/pawse
+# SOURCES: 
+# BUTTONS: 
