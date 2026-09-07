@@ -229,7 +229,7 @@ def replace_in_file(path, mapping, rel_prefix):
         return 0
     count = 0
     for url, key in mapping.items():
-        new = f"{rel_prefix}screenshots/{key}.webp"
+        new = f"/screenshots/{key}.webp"
         n = content.count(url)
         if n:
             content = content.replace(url, new)
@@ -288,10 +288,7 @@ def main():
         for fname in files:
             if not fname.endswith((".json", ".html")):
                 continue
-            rel = os.path.relpath(os.path.join(root, fname), SITE_DIR)
-            depth = rel.count(os.sep)
-            rel_prefix = "../" * depth
-            replaced_total += replace_in_file(os.path.join(root, fname), results, rel_prefix)
+            replaced_total += replace_in_file(os.path.join(root, fname), results)
 
     print(f"screenshots: {stats['downloaded']} downloaded, {stats['converted']} converted, "
           f"{stats['unchanged']} unchanged (cache), {stats['missing']} not found, "
