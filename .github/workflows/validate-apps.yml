@@ -1,0 +1,90 @@
+name: Validate app files
+
+on:
+  pull_request:
+    paths:
+      - 'apps/**'
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Get modified app files
+        id: changed
+        run: |
+          FILES=$(git diff --name-only --diff-filter=ACMR ${{ github.event.pull_request.base.sha }}...HEAD -- 'apps/*' | grep -v '\.template$' || true)
+          echo "files<<EOF" >> $GITHUB_OUTPUT
+          echo "$FILES" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Download pla-site-tool
+        if: steps.changed.outputs.files != ''
+        run: |
+          wget -O pla-site-tool "$(curl -Ls https://api.github.com/repos/kazam0180/portable-apps/releases | sed 's/[()",{} ]/\n/g' | grep -oi "https.*pla-site-tool.*mage$" | head -1)"
+          chmod +x pla-site-tool
+
+      - name: Validate files
+        if: steps.changed.outputs.files != ''
+        id: validate
+        run: |
+          FAILED=""
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            echo "Validating: $file"
+            if ! ./pla-site-tool -i "$file" 2>&1; then
+              FAILED="${FAILED}${file}\n"
+            else
+              rm -f "${file}.json"
+            fi
+          done <<< "${{ steps.changed.outputs.files }}"
+
+          if [ -n "$FAILED" ]; then
+            echo "failed<<EOF" >> $GITHUB_OUTPUT
+            echo -e "$FAILED" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+            echo "has_failed=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_failed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Comment on PR
+        if: steps.validate.outputs.has_failed == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const failedFiles = `${{ steps.validate.outputs.failed }}`.trim().split('\n').filter(f => f);
+            const body = `### App file validation failed\n\nThe following files could not be converted to JSON:\n\n${failedFiles.map(f => `- \`${f}\``).join('\n')}\n\nPlease check the file format against [\`apps/.template\`](apps/.template) and fix any syntax errors.`;
+            
+            // Find and update existing comment or create new one
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+            
+            const botComment = comments.find(c => c.user.type === 'Bot' && c.body.includes('App file validation failed'));
+            
+            if (botComment) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: botComment.id,
+                body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body,
+              });
+            }
