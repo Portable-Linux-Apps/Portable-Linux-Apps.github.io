@@ -6,7 +6,7 @@ Gnumeric is an open-source spreadsheet program. Gnumeric and its source  code ar
  
  This is the unofficial AppImage built on top of JuNest, the lightweight  Arch Linux based distro that runs on top of any other Linux distro.
 ===
-# SCREENSHOTS: ../contribute_ss.webp
+# SCREENSHOTS: /contribute_ss.webp
 # SITES: http://www.gnumeric.org
 # SOURCES: https://github.com/ivan-hc/Gnumeric-appimage
 # BUTTONS: 

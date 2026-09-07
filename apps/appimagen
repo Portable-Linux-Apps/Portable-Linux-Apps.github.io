@@ -4,7 +4,7 @@ A script that generates a custom AppImage from a PPA of your choice for the prev
  
  Powered by appimagetool, pkg2appimage and libunionpreload.
 ===
-# SCREENSHOTS: ../contribute_ss.webp
+# SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/ivan-hc/AppImaGen
 # SOURCES: 
 # BUTTONS: 

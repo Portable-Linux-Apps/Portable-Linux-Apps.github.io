@@ -18,7 +18,7 @@ Monitor your CPU, Memory, Disk, Network and GPU usage.
  - Uses GTK4 and Libadwaita
  - Written in Rust
 ===
-# SCREENSHOTS: ../contribute_ss.webp
+# SCREENSHOTS: /contribute_ss.webp
 # SITES: https://missioncenter.io
 # SOURCES: 
 # BUTTONS: 

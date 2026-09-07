@@ -7,7 +7,7 @@ AppImage SAndboxing Project (pronounced /eɪsæp/): a Go library  to help sandbo
  
  It currently has a basic re-implementaion of the go-appimage API, so modifying existing GoLang programs to include sandboxing  should be fairly painless.
 ===
-# SCREENSHOTS: ../contribute_ss.webp
+# SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/mgord9518/aisap
 # SOURCES: 
 # BUTTONS: 

@@ -8,7 +8,7 @@ WINE - Compatibility layer to run MS Windows apps and games on GNU/Linux.
  
  Proton GE is a Proton build with the latest versions of the vanilla version of the WINE. Additionally, it has FFmpeg and FAduio enabled by default, as well as all Proton patches applied, as well as VKD3D. Therefore, Proton GE can be considered as a "vitaminized" version of the basic design.
 ===
-# SCREENSHOTS: ../contribute_ss.webp
+# SCREENSHOTS: /contribute_ss.webp
 # SITES: https://www.winehq.org
 # SOURCES: https://github.com/mmtrt/WINE_AppImage
 # BUTTONS: 

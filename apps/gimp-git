@@ -8,7 +8,7 @@ GIMP (GNU Image Manipulation Program) is a cross-platform image editor.
  
  Every feature, even experimental, comes from source code, which may  cause instability.
 ===
-# SCREENSHOTS: ../contribute_ss.webp
+# SCREENSHOTS: /contribute_ss.webp
 # SITES: https://www.gimp.org
 # SOURCES: https://github.com/ivan-hc/GIMP-appimage
 # BUTTONS: 
