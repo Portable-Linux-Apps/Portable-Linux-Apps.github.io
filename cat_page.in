@@ -17,11 +17,11 @@
   <meta name="twitter:image" content="https://portable-linux-apps.github.io/pla.jpg">
   <meta name="twitter:description" content="$CAT_NAME_PRETTY - _("Portable Linux Apps category page.")">
   <link rel="canonical" href="https://portable-linux-apps.github.io/$LANG/$CAT_NAME.html">
-  <link rel="icon" href="favicon.ico" type="image/x-icon">
-  <link rel="stylesheet" href="/assets/css/style.css">
-  <link rel="preconnect" href="/$LANG/categories/$CAT_NAME.json">
-  <link rel="preconnect" href="/assets/js/script.js">
-  <link rel="preconnect" href="/assets/css/style.css">
+  <link rel="icon" href="../favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="preconnect" href="categories/$CAT_NAME.json">
+  <link rel="preconnect" href="../assets/js/script.js">
+  <link rel="preconnect" href="../assets/css/style.css">
 </head>
 <body>
 <a href="#main" class="skip-link">_("Skip to main content")</a>
@@ -32,6 +32,10 @@
   <a href="index.html#faq">_("FAQ")</a>
   <a href="wiki.html">_("Wiki")</a>
   <a href="https://github.com/ivan-hc/AM">_("AM on GitHub")</a>
+  <span class="lang-selector">
+    <a href="/en/$CAT_NAME.html" class="lang-link" onclick="localStorage.setItem('preferredLang','en')">EN</a>
+    <a href="/it/$CAT_NAME.html" class="lang-link" onclick="localStorage.setItem('preferredLang','it')">IT</a>
+  </span>
 </nav>
 <main>
 
@@ -91,9 +95,10 @@
     </ul>
   </section>
 
-  <p><strong><i>_("NOTE, Installer scripts (blob/raw) are provided for reading only: do not run them manually! Use "<a href="https://github.com/ivan-hc/AM">AM</a>" or "<a href="https://github.com/ivan-hc/AppMan">AppMan</a>" or any <a href="/$LANG/index.html#install">other tool</a> listed on home page instead.")</i> _("See <a href="/$LANG/index.html#faq-7">FAQ</a> for details")</strong></p>
+  <p><strong><i>_("NOTE, Installer scripts (blob/raw) are provided for reading only: do not run them manually! Use "<a href="https://github.com/ivan-hc/AM">AM</a>" or "<a href="https://github.com/ivan-hc/AppMan">AppMan</a>" or any <a href="index.html#install">other tool</a> listed on home page instead.")</i> _("See <a href="index.html#faq-7">FAQ</a> for details")</strong></p>
 
-  <div id="app-list" data-json="/$LANG/categories/$CAT_NAME.json"></div>
+  <div id="app-list" data-json="categories/$CAT_NAME.json"></div>
+  <div id="lang" style="display: none;">$LANG</div>
 </section>
 
 <a href="#" id="back-to-top" title="Back to top">&uarr;</a>

@@ -17,11 +17,11 @@
   <meta name="twitter:image" content="https://portable-linux-apps.github.io/pla.jpg">
   <meta name="twitter:description" content="The first AUR-inspired Software Center of all AppImage packages and portable applications for GNU/Linux.">
   <link rel="canonical" href="https://portable-linux-apps.github.io/$LANG/index.html">
-  <link rel="icon" href="favicon.ico" type="image/x-icon">
-  <link rel="stylesheet" href="/assets/css/style.css">
-  <link rel="stylesheet" href="/assets/css/index.css">
-  <link rel="stylesheet" href="/assets/css/faq.css">
-  <link rel="stylesheet" href="/assets/css/asciinema-player.css">
+  <link rel="icon" href="../favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="stylesheet" href="../assets/css/index.css">
+  <link rel="stylesheet" href="../assets/css/faq.css">
+  <link rel="stylesheet" href="../assets/css/asciinema-player.css">
 </head>
 <body>
 <a href="#main" class="skip-link">_("Skip to main content")</a>
@@ -32,6 +32,10 @@
   <a href="#faq">_("FAQ")</a>
   <a href="wiki.html">_("Wiki")</a>
   <a href="https://github.com/ivan-hc/AM">_("AM on GitHub")</a>
+  <span class="lang-selector">
+    <a href="/en/index.html" class="lang-link" onclick="localStorage.setItem('preferredLang','en')">EN</a>
+    <a href="/it/index.html" class="lang-link" onclick="localStorage.setItem('preferredLang','it')">IT</a>
+  </span>
 </nav>
 <main>
 
