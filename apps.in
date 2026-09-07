@@ -3,45 +3,45 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>APPLICATIONS - PORTABLE LINUX APPS</title>
-  <meta name="description" content="APPLICATIONS - Portable Linux Apps full app list.">
+  <title>_("APPLICATIONS - PORTABLE LINUX APPS")</title>
+  <meta name="description" content="_("APPLICATIONS - Portable Linux Apps full app list.")">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://portable-linux-apps.github.io/apps.html">
+  <meta property="og:url" content="https://portable-linux-apps.github.io/$LANG/apps.html">
   <meta property="og:image" content="https://portable-linux-apps.github.io/pla.jpg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="APPLICATIONS - PORTABLE LINUX APPS">
+  <meta name="twitter:title" content="_("APPLICATIONS - PORTABLE LINUX APPS")">
   <meta name="twitter:image" content="https://portable-linux-apps.github.io/pla.jpg">
-  <meta name="twitter:description" content="APPLICATIONS - Portable Linux Apps full app list.">
+  <meta name="twitter:description" content="_("APPLICATIONS - Portable Linux Apps full app list.")">
   <link rel="canonical" href="https://portable-linux-apps.github.io/apps.html">
   <link rel="icon" href="favicon.ico" type="image/x-icon">
-  <link rel="stylesheet" href="assets/css/style.css">
-  <link rel="preconnect" href="apps.json">
-  <link rel="preconnect" href="assets/js/script.js">
-  <link rel="preconnect" href="assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="preconnect" href="/$LANG/apps.json">
+  <link rel="preconnect" href="/assets/js/script.js">
+  <link rel="preconnect" href="/assets/css/style.css">
 </head>
 <body>
 <a href="#main" class="skip-link">Skip to main content</a>
 
 <nav aria-label="Main navigation">
-  <a href="index.html">Home</a>
-  <a href="apps.html">Apps</a>
-  <a href="index.html#faq">FAQ</a>
-  <a href="wiki.html">Wiki</a>
-  <a href="https://github.com/ivan-hc/AM">AM on GitHub</a>
+  <a href="/$LANG/index.html">_("Home")</a>
+  <a href="#">_("Apps")</a>
+  <a href="/$LANG/index.html#faq">_("FAQ")</a>
+  <a href="/$LANG/wiki.html">_("Wiki")</a>
+  <a href="https://github.com/ivan-hc/AM">_("AM on GitHub")</a>
 </nav>
 <main>
 
 <section>
-  <h1>APPLICATIONS</h1>
+  <h1>_("APPLICATIONS")</h1>
   <p class="category-meta" id="category-meta"></p>
   <div class="search-box">
-    <label for="search-input" class="visually-hidden">Search apps</label>
-    <input type="search" id="search-input" placeholder="Filter apps by name or keyword..." autocomplete="off">
-    <label for="arch-select" class="visually-hidden">Filter by architecture</label>
+    <label for="search-input" class="visually-hidden">_("Search apps")</label>
+    <input type="search" id="search-input" placeholder="_("Filter apps by name or keyword...")" autocomplete="off">
+    <label for="arch-select" class="visually-hidden">_("Filter by architecture")</label>
     <select name="arch" id="arch-select">
-      <option value="">All architectures</option>
+      <option value="">_("All architectures")</option>
       <option value="x86_64">x86_64</option>
       <option value="aarch64">aarch64</option>
       <option value="i686">i686</option>
@@ -50,7 +50,7 @@
   <hr class="section-divider">
 
   <section>
-    <h2>Categories</h2>
+    <h2>_("Categories")</h2>
     <ul class="categories-list">
       <li><a class="category-link" href="appimages.html">AppImages</a></li>
       <li><a class="category-link" href="appimage-on-the-fly.html">AppImage on the Fly</a></li>
@@ -89,28 +89,28 @@
     </ul>
   </section>
 
-  <p><strong><i>NOTE, Installer scripts (blob/raw) are provided for reading only: do not run them manually! Use "<a href="https://github.com/ivan-hc/AM">AM</a>" or "<a href="https://github.com/ivan-hc/AppMan">AppMan</a>" or any <a href="index.html#install">other tool</a> listed on home page instead.</i> See <a href="index.html#faq-7">FAQ</a> for details</strong></p>
+  <p><strong><i>_("NOTE, Installer scripts (blob/raw) are provided for reading only: do not run them manually! Use "<a href="https://github.com/ivan-hc/AM">AM</a>" or "<a href="https://github.com/ivan-hc/AppMan">AppMan</a>" or any <a href="/$LANG/index.html#install">other tool</a> listed on home page instead.")</i> _("See <a href="/$LANG/index.html#faq-7">FAQ</a> for details")</strong></p>
 
-  <div id="app-list" data-json="apps.json"></div>
+  <div id="app-list" data-json="/$LANG/apps.json"></div>
 </section>
 
 <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
-<script src="assets/js/script.js"></script>
+<script src="/assets/js/script.js"></script>
 
 </main>
 <footer>
   <div class="footer-links">
-    <a href="index.html">Home</a>
-    <a href="apps.html">Apps</a>
-    <a href="index.html#faq">FAQ</a>
-    <a href="wiki.html">Wiki</a>
+    <a href="/$LANG/index.html">_("Home")</a>
+    <a href="#">_("Apps")</a>
+    <a href="/$LANG/index.html#faq">_("FAQ")</a>
+    <a href="/$LANG/wiki.html">_("Wiki")</a>
   </div>
   <div class="footer-links">
     <a href="https://ko-fi.com/IvanAlexHC">ko-fi.com</a>
     <a href="https://paypal.me/IvanAlexHC">PayPal.me</a>
-    <a href="https://github.com/ivan-hc/AM">AM on GitHub</a>
+    <a href="https://github.com/ivan-hc/AM">_("AM on GitHub")</a>
   </div>
-  <p>&copy; 2020-present Ivan Alessandro Sala aka 'Ivan-HC' &mdash; I'm here just for fun!</p>
+  <p>&copy; _("2020-present Ivan Alessandro Sala aka 'Ivan-HC'") &mdash; _("I'm here just for fun!")</p>
 </footer>
 
 </body>

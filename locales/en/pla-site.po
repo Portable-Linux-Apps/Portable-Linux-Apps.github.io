@@ -1,0 +1,1066 @@
+# Translation template for pla-site-tool.
+# Copyright (C) 2020-present Ivan Alessandro Sala aka 'Ivan-HC'
+# This file is distributed under the same license as the pla-site-tool package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pla-site-tool 0.1.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: cat_page.in:116 app_page.in:70 metapkg_page.in:71 index.in:338 wiki.in:150
+msgid "2020-present Ivan Alessandro Sala aka 'Ivan-HC'"
+msgstr "2020-present Ivan Alessandro Sala aka 'Ivan-HC'"
+
+#: index.in:46
+msgid ""
+"<strong>$UNIQUE_COUNT</strong> unique apps (<strong>$APPIMAGE_COUNT</strong> "
+"AppImage packages + <strong>$PORTABLE_COUNT</strong> standalone/portable "
+"programs), including <strong>$SUITS_COUNT</strong> metapackages containing "
+"<strong>$ITEMS_COUNT</strong> items."
+msgstr ""
+"<strong>$UNIQUE_COUNT</strong> unique apps (<strong>$APPIMAGE_COUNT</strong> "
+"AppImage packages + <strong>$PORTABLE_COUNT</strong> standalone/portable "
+"programs), including <strong>$SUITS_COUNT</strong> metapackages containing "
+"<strong>$ITEMS_COUNT</strong> items."
+
+#: cat_page.in:35 cat_page.in:114 app_page.in:37 app_page.in:68
+#: metapkg_page.in:37 metapkg_page.in:69 index.in:35 index.in:131 index.in:336
+#: wiki.in:33 wiki.in:148
+msgid "AM on GitHub"
+msgstr "AM on GitHub"
+
+#: index.in:177
+msgid "AM-GUI on GitHub"
+msgstr "AM-GUI on GitHub"
+
+#: wiki.in:75
+msgid "About Aisap sandboxing"
+msgstr "About Aisap sandboxing"
+
+#: index.in:239
+msgid "About other catalogs"
+msgstr "About other catalogs"
+
+#: index.in:112
+msgid "About this project"
+msgstr "About this project"
+
+#: index.in:251
+msgid ""
+"All app data is stored in a markdown-ish format sourced from the <a "
+"href=\"https://github.com/ivan-hc/AM/blob/main/programs/x86_64-apps\">AM "
+"application list</a>. Each app has a corresponding file in the <code>apps/</"
+"code> folder with its description, sites, sources and screenshots, generated "
+"by the <a href=\"https://gitlab.com/kazam0180/pla-site-tool\"><code>pla-site-"
+"tool</code></a>."
+msgstr ""
+"All app data is stored in a markdown-ish format sourced from the <a "
+"href=\"https://github.com/ivan-hc/AM/blob/main/programs/x86_64-apps\">AM "
+"application list</a>. Each app has a corresponding file in the <code>apps/</"
+"code> folder with its description, sites, sources and screenshots, generated "
+"by the <a href=\"https://gitlab.com/kazam0180/pla-site-tool\"><code>pla-site-"
+"tool</code></a>."
+
+#: cat_page.in:47 index.in:56
+msgid "All architectures"
+msgstr "All architectures"
+
+#: index.in:63
+msgid "All categories"
+msgstr "All categories"
+
+#: wiki.in:44
+msgid "All the guides listed here are available at"
+msgstr "All the guides listed here are available at"
+
+#: wiki.in:99
+msgid "An application does not work, is old and unsupported"
+msgstr "An application does not work, is old and unsupported"
+
+#: index.in:191
+msgid "AppGallery on GitLab"
+msgstr "AppGallery on GitLab"
+
+#: wiki.in:66
+msgid "AppImages from external media"
+msgstr "AppImages from external media"
+
+#: cat_page.in:32 cat_page.in:107 app_page.in:34 app_page.in:61
+#: metapkg_page.in:34 metapkg_page.in:62 index.in:32 index.in:329 wiki.in:30
+#: wiki.in:141
+msgid "Apps"
+msgstr "Apps"
+
+#: wiki.in:92
+msgid "BSD, freeBSD and derivative systems: configuration and troubleshooting"
+msgstr "BSD, freeBSD and derivative systems: configuration and troubleshooting"
+
+#: app_page.in:42 metapkg_page.in:42
+msgid "Back"
+msgstr "Back"
+
+#: wiki.in:133
+msgid "Back to home"
+msgstr "Back to home"
+
+#: wiki.in:57
+msgid "Backup and restore installed apps using snapshots"
+msgstr "Backup and restore installed apps using snapshots"
+
+#: wiki.in:100
+msgid "Cannot download or update an application"
+msgstr "Cannot download or update an application"
+
+#: wiki.in:101
+msgid "Cannot mount and run AppImages"
+msgstr "Cannot mount and run AppImages"
+
+#: cat_page.in:56 index.in:70
+msgid "Categories"
+msgstr "Categories"
+
+#: wiki.in:60
+msgid "Change the destination path of installed programs"
+msgstr "Change the destination path of installed programs"
+
+#: index.in:302
+msgid "Check the <a href=\"wiki.html\">wiki</a> for guides and documentation."
+msgstr "Check the <a href=\"wiki.html\">wiki</a> for guides and documentation."
+
+#: wiki.in:102
+msgid "Checksum does not match or missing verified status"
+msgstr "Checksum does not match or missing verified status"
+
+#: wiki.in:59
+msgid ""
+"Clone a set of programs installed from other AM and AppMan configurations"
+msgstr ""
+"Clone a set of programs installed from other AM and AppMan configurations"
+
+#: wiki.in:61
+msgid "Convert Type2 AppImages requiring libfuse2 to New Generation AppImages"
+msgstr "Convert Type2 AppImages requiring libfuse2 to New Generation AppImages"
+
+#: index.in:288
+msgid ""
+"Copy the app's icon (should be of same name) to <code>icons</code> folder."
+msgstr ""
+"Copy the app's icon (should be of same name) to <code>icons</code> folder."
+
+#: index.in:264
+msgid "Create a text file like this:"
+msgstr "Create a text file like this:"
+
+#: wiki.in:81
+msgid "Create and test your own installation script"
+msgstr "Create and test your own installation script"
+
+#: index.in:294
+msgid ""
+"Depends on what you mean by \"<strong>centralized package repository</"
+"strong>\", if you mean a repository that stores them all like Debian-based "
+"distributions do with DEB packages, no, there are thousands of packages, and "
+"they are usually distributed to remote sites and difficult to find.</em></"
+"p>\n"
+"  <p><em>If instead you mean an AUR-style repo with scripts that easily find "
+"all AppImages, <strong>you're in the right place!</strong>"
+msgstr ""
+"Depends on what you mean by \"<strong>centralized package repository</"
+"strong>\", if you mean a repository that stores them all like Debian-based "
+"distributions do with DEB packages, no, there are thousands of packages, and "
+"they are usually distributed to remote sites and difficult to find.</em></"
+"p>\n"
+"  <p><em>If instead you mean an AUR-style repo with scripts that easily find "
+"all AppImages, <strong>you're in the right place!</strong>"
+
+#: wiki.in:79
+msgid "Downgrade an installed app to a previous version"
+msgstr "Downgrade an installed app to a previous version"
+
+#: index.in:121
+msgid ""
+"Every app on this site comes with its own installation script, PKGBUILD "
+"style, managed by the AM package manager. Pick the tool that fits you best:"
+msgstr ""
+"Every app on this site comes with its own installation script, PKGBUILD "
+"style, managed by the AM package manager. Pick the tool that fits you best:"
+
+#: index.in:280
+msgid "Explanation of the fields:"
+msgstr "Explanation of the fields:"
+
+#: wiki.in:43
+msgid "External links index"
+msgstr "External links index"
+
+#: cat_page.in:33 cat_page.in:108 app_page.in:35 app_page.in:62
+#: metapkg_page.in:35 metapkg_page.in:63 index.in:33 index.in:214 index.in:330
+#: wiki.in:31 wiki.in:142
+msgid "FAQ"
+msgstr "FAQ"
+
+#: wiki.in:103
+msgid "Failed to open squashfs image"
+msgstr "Failed to open squashfs image"
+
+#: cat_page.in:44
+msgid "Filter apps by name or keyword..."
+msgstr "Filter apps by name or keyword..."
+
+#: cat_page.in:45
+msgid "Filter by architecture"
+msgstr "Filter by architecture"
+
+#: index.in:61
+msgid "Filter by category"
+msgstr "Filter by category"
+
+#: wiki.in:127
+msgid "Firefox for Linux scripts"
+msgstr "Firefox for Linux scripts"
+
+#: index.in:256
+msgid ""
+"For any suggestions, open an <a href=\"https://github.com/ivan-hc/AM/"
+"issues\">issue</a> at https://github.com/ivan-hc/AM or a <a href=\"https://"
+"github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls\">pull "
+"request</a> at https://github.com/Portable-Linux-Apps/Portable-Linux-"
+"Apps.github.io"
+msgstr ""
+"For any suggestions, open an <a href=\"https://github.com/ivan-hc/AM/"
+"issues\">issue</a> at https://github.com/ivan-hc/AM or a <a href=\"https://"
+"github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls\">pull "
+"request</a> at https://github.com/Portable-Linux-Apps/Portable-Linux-"
+"Apps.github.io"
+
+#: index.in:47
+msgid ""
+"From here you can download them, install them, update them (for real), get "
+"more information about the sources and their developers... and if you want, "
+"you can contribute yourself by adding the missing information, because this "
+"site is <strong>open source</strong>!"
+msgstr ""
+"From here you can download them, install them, update them (for real), get "
+"more information about the sources and their developers... and if you want, "
+"you can contribute yourself by adding the missing information, because this "
+"site is <strong>open source</strong>!"
+
+#: index.in:246
+msgid ""
+"From the aforementioned defects I understood what a catalog of portable "
+"applications should NOT do to be reliable."
+msgstr ""
+"From the aforementioned defects I understood what a catalog of portable "
+"applications should NOT do to be reliable."
+
+#: index.in:245
+msgid "Furthermore, <strong>none of them track updates consistently</strong>."
+msgstr "Furthermore, <strong>none of them track updates consistently</strong>."
+
+#: wiki.in:8 wiki.in:11 wiki.in:19
+msgid ""
+"Guides, tutorials, external links, and related projects for Portable Linux "
+"Apps and the AM package manager."
+msgstr ""
+"Guides, tutorials, external links, and related projects for Portable Linux "
+"Apps and the AM package manager."
+
+#: cat_page.in:31 cat_page.in:106 app_page.in:33 app_page.in:60
+#: metapkg_page.in:33 metapkg_page.in:61 index.in:31 index.in:328 wiki.in:29
+#: wiki.in:140
+msgid "Home"
+msgstr "Home"
+
+#: wiki.in:86
+msgid "How an installation script works"
+msgstr "How an installation script works"
+
+#: index.in:260
+msgid "How can I add or improve info about an app on this site?"
+msgstr "How can I add or improve info about an app on this site?"
+
+#: index.in:250
+msgid "How can I improve the pages on this site?"
+msgstr "How can I improve the pages on this site?"
+
+#: index.in:219
+msgid "How do I make the install button work?"
+msgstr "How do I make the install button work?"
+
+#: index.in:234
+msgid ""
+"How is this site different from other sites that list AppImage packages?"
+msgstr ""
+"How is this site different from other sites that list AppImage packages?"
+
+#: wiki.in:64
+msgid "How to create a launcher for a local AppImage"
+msgstr "How to create a launcher for a local AppImage"
+
+#: wiki.in:73
+msgid "How to disable a sandbox"
+msgstr "How to disable a sandbox"
+
+#: wiki.in:72
+msgid "How to enable a sandbox"
+msgstr "How to enable a sandbox"
+
+#: wiki.in:65
+msgid "How to remove the orphan launchers"
+msgstr "How to remove the orphan launchers"
+
+#: wiki.in:88
+msgid "How to submit a Pull Request"
+msgstr "How to submit a Pull Request"
+
+#: wiki.in:87
+msgid "How to test an installation script"
+msgstr "How to test an installation script"
+
+#: wiki.in:78
+msgid "How to update or remove apps manually"
+msgstr "How to update or remove apps manually"
+
+#: wiki.in:80
+msgid "How to use multiple versions of the same application"
+msgstr "How to use multiple versions of the same application"
+
+#: index.in:301
+msgid "I need help with something"
+msgstr "I need help with something"
+
+#: cat_page.in:116 app_page.in:70 metapkg_page.in:71 index.in:338 wiki.in:150
+msgid "I'm here just for fun!"
+msgstr "I'm here just for fun!"
+
+#: index.in:317
+msgid ""
+"If you are here just to download apps manually, click on the program name "
+"and check the URL(s) on the application page. This site does not\n"
+"    provide direct links, for security reasons, but it does provide the "
+"exact sources and references where you can find them!"
+msgstr ""
+"If you are here just to download apps manually, click on the program name "
+"and check the URL(s) on the application page. This site does not\n"
+"    provide direct links, for security reasons, but it does provide the "
+"exact sources and references where you can find them!"
+
+#: index.in:303
+msgid ""
+"If you still need help, open an <a href=\"https://github.com/ivan-hc/AM/"
+"issues\">issue</a> on GitHub."
+msgstr ""
+"If you still need help, open an <a href=\"https://github.com/ivan-hc/AM/"
+"issues\">issue</a> on GitHub."
+
+#: index.in:261
+msgid ""
+"If you want to improve an app's page in this catalogue (i.e. add more "
+"detailed description, screenshots, sites, etc.), read on."
+msgstr ""
+"If you want to improve an app's page in this catalogue (i.e. add more "
+"detailed description, screenshots, sites, etc.), read on."
+
+#: app_page.in:43 metapkg_page.in:43
+msgid "Improve this page"
+msgstr "Improve this page"
+
+#: wiki.in:53
+msgid ""
+"Install AppImages not listed in this database but available in other github "
+"repos"
+msgstr ""
+"Install AppImages not listed in this database but available in other github "
+"repos"
+
+#: wiki.in:50
+msgid "Install and sandbox AppImages in one go"
+msgstr "Install and sandbox AppImages in one go"
+
+#: wiki.in:47
+msgid "Install applications"
+msgstr "Install applications"
+
+#: wiki.in:48
+msgid "Install only AppImages"
+msgstr "Install only AppImages"
+
+#: index.in:120
+msgid "Installing apps listed on this site"
+msgstr "Installing apps listed on this site"
+
+#: wiki.in:95
+msgid "Instructions for Linux Distro Maintainers"
+msgstr "Instructions for Linux Distro Maintainers"
+
+#: wiki.in:62
+msgid "Integrate local AppImages into the menu by dragging and dropping them"
+msgstr "Integrate local AppImages into the menu by dragging and dropping them"
+
+#: index.in:293
+msgid "Is there a centralized repository for AppImage packages?"
+msgstr "Is there a centralized repository for AppImage packages?"
+
+#: wiki.in:55
+msgid "List and query all the applications available on the database"
+msgstr "List and query all the applications available on the database"
+
+#: wiki.in:54
+msgid "List the installed applications"
+msgstr "List the installed applications"
+
+#: wiki.in:128
+msgid "My AppImage packages"
+msgstr "My AppImage packages"
+
+#: wiki.in:123
+msgid "My other projects"
+msgstr "My other projects"
+
+#: cat_page.in:95
+msgid ""
+"NOTE, Installer scripts (blob/raw) are provided for reading only: do not run "
+"them manually! Use \"<a href=\"https://github.com/ivan-hc/AM\">AM</a>\" or "
+"\"<a href=\"https://github.com/ivan-hc/AppMan\">AppMan</a>\" or any <a "
+"href=\"/$LANG/index.html#install\">other tool</a> listed on home page "
+"instead."
+msgstr ""
+
+#: index.in:309
+msgid ""
+"NOTE, the installer scripts in the &quot;INSTALLER&quot; column are intended "
+"for use via &quot;AM&quot;, and are therefore dedicated to a system-wide\n"
+"    installation of applications (in /opt), and all that &quot;AppMan&quot; "
+"does is convert those scripts for local installation, changing the paths.\n"
+"    <strong>They are listed here for reading purposes only</strong>!"
+msgstr ""
+"NOTE, the installer scripts in the &quot;INSTALLER&quot; column are intended "
+"for use via &quot;AM&quot;, and are therefore dedicated to a system-wide\n"
+"    installation of applications (in /opt), and all that &quot;AppMan&quot; "
+"does is convert those scripts for local installation, changing the paths.\n"
+"    <strong>They are listed here for reading purposes only</strong>!"
+
+#: wiki.in:84
+msgid "Option One: \"build AppImages on-the-fly\""
+msgstr "Option One: \"build AppImages on-the-fly\""
+
+#: wiki.in:85
+msgid "Option Two: \"Archives and other programs\""
+msgstr "Option Two: \"Archives and other programs\""
+
+#: wiki.in:83
+msgid "Option Zero: \"AppImages\""
+msgstr "Option Zero: \"AppImages\""
+
+#: cat_page.in:7 cat_page.in:10 cat_page.in:17 app_page.in:7 app_page.in:10
+#: app_page.in:17 metapkg_page.in:7 metapkg_page.in:10 metapkg_page.in:17
+msgid "PORTABLE LINUX APPS"
+msgstr "PORTABLE LINUX APPS"
+
+#: index.in:230
+msgid ""
+"Portable Linux Apps are standalone applications for GNU/Linux that can "
+"(theoretically) run everywhere, also on a USB stick. These applications can "
+"be AppImage packages (see <a href=\"https://appimage.org/\">appimage.org</"
+"a>) or standalone archives (for example Firefox, Thunderbird...)."
+msgstr ""
+"Portable Linux Apps are standalone applications for GNU/Linux that can "
+"(theoretically) run everywhere, also on a USB stick. These applications can "
+"be AppImage packages (see <a href=\"https://appimage.org/\">appimage.org</"
+"a>) or standalone archives (for example Firefox, Thunderbird...)."
+
+#: index.in:113
+msgid ""
+"Portable Linux Apps are standalone applications for GNU/Linux that can run "
+"everywhere, also on a USB stick. These can be AppImage packages or "
+"standalone archives. Each app has its own installation script, PKGBUILD "
+"style, managed by the <a href=\"https://github.com/ivan-hc/AM\">AM package "
+"manager</a>."
+msgstr ""
+"Portable Linux Apps are standalone applications for GNU/Linux that can run "
+"everywhere, also on a USB stick. These can be AppImage packages or "
+"standalone archives. Each app has its own installation script, PKGBUILD "
+"style, managed by the <a href=\"https://github.com/ivan-hc/AM\">AM package "
+"manager</a>."
+
+#: cat_page.in:8 cat_page.in:19
+msgid "Portable Linux Apps category page."
+msgstr "Portable Linux Apps category page."
+
+#: wiki.in:113
+msgid "Related projects"
+msgstr "Related projects"
+
+#: wiki.in:58
+msgid "Remove one or more applications"
+msgstr "Remove one or more applications"
+
+#: wiki.in:70
+msgid "Sandbox an AppImage"
+msgstr "Sandbox an AppImage"
+
+#: wiki.in:74
+msgid "Sandboxing example"
+msgstr "Sandboxing example"
+
+#: cat_page.in:43 index.in:52
+msgid "Search apps"
+msgstr "Search apps"
+
+#: index.in:53
+msgid "Search apps..."
+msgstr "Search apps..."
+
+#: cat_page.in:95
+msgid "See <a href=\"/$LANG/index.html#faq-7\">FAQ</a> for details"
+msgstr ""
+
+#: index.in:312
+msgid ""
+"Should you decide to run them manually, the only way to remove the "
+"application is to run the\n"
+"    command <code>sudo /opt/appname/remove</code>, where &quot;appname&quot; "
+"is the name of the application directory containing the &quot;remove&quot; "
+"script.\n"
+"    Likewise, you can also update applications by running the &quot;AM-"
+"updater&quot; script in the same directory."
+msgstr ""
+"Should you decide to run them manually, the only way to remove the "
+"application is to run the\n"
+"    command <code>sudo /opt/appname/remove</code>, where &quot;appname&quot; "
+"is the name of the application directory containing the &quot;remove&quot; "
+"script.\n"
+"    Likewise, you can also update applications by running the &quot;AM-"
+"updater&quot; script in the same directory."
+
+#: wiki.in:115
+msgid "Side Projects"
+msgstr "Side Projects"
+
+#: cat_page.in:28 app_page.in:30 metapkg_page.in:30 index.in:28
+msgid "Skip to main content"
+msgstr "Skip to main content"
+
+#: wiki.in:104
+msgid "Spyware, malware and dangerous software"
+msgstr "Spyware, malware and dangerous software"
+
+#: wiki.in:105
+msgid ""
+"Stop AppImage prompt to create its own launcher, desktop integration and "
+"doubled launchers"
+msgstr ""
+"Stop AppImage prompt to create its own launcher, desktop integration and "
+"doubled launchers"
+
+#: index.in:220
+msgid ""
+"The \"Install\" button on each app page uses the <code>pla-install://</code> "
+"protocol. You need a helper application to handle it. Currently, you have "
+"the following options:"
+msgstr ""
+"The \"Install\" button on each app page uses the <code>pla-install://</code> "
+"protocol. You need a helper application to handle it. Currently, you have "
+"the following options:"
+
+#: index.in:315
+msgid ""
+"The &quot;AM&quot; project allow the autonomy of installed apps, regardless "
+"of the presence of &quot;AM&quot; itself in the system. However, it is "
+"strongly\n"
+"    recommended to use &quot;AM&quot; and &quot;AppMan&quot; to take full "
+"advantage of all the benefits you could get from an application installed in "
+"this way."
+msgstr ""
+"The &quot;AM&quot; project allow the autonomy of installed apps, regardless "
+"of the presence of &quot;AM&quot; itself in the system. However, it is "
+"strongly\n"
+"    recommended to use &quot;AM&quot; and &quot;AppMan&quot; to take full "
+"advantage of all the benefits you could get from an application installed in "
+"this way."
+
+#: index.in:262
+msgid ""
+"The app files in <code>apps</code> folder are in a simple markdown-ish "
+"format, the description must be wrapped between the <code>===</code> lines."
+msgstr ""
+"The app files in <code>apps</code> folder are in a simple markdown-ish "
+"format, the description must be wrapped between the <code>===</code> lines."
+
+#: index.in:130
+msgid ""
+"The first AUR-inspired, feature-rich AppImage and portable apps manager. "
+"Install, update, remove and integrate all your apps from the command line "
+"&mdash; system-wide with AM, or fully portable with AppMan."
+msgstr ""
+"The first AUR-inspired, feature-rich AppImage and portable apps manager. "
+"Install, update, remove and integrate all your apps from the command line "
+"&mdash; system-wide with AM, or fully portable with AppMan."
+
+#: wiki.in:106
+msgid ""
+"The script points to \"releases\" instead of downloading the latest stable"
+msgstr ""
+"The script points to \"releases\" instead of downloading the latest stable"
+
+#: wiki.in:91
+msgid "Third-party databases for applications (NeoDB)"
+msgstr "Third-party databases for applications (NeoDB)"
+
+#: index.in:235
+msgid ""
+"This catalog aims to survey and list all the AppImages and autonomous "
+"programs, and aims to provide a centralized point where you can document "
+"yourself on individual apps and where you can easily reach the URLs to the "
+"sources, both through the pages dedicated to each app and by reading the "
+"\"installation scripts\"."
+msgstr ""
+"This catalog aims to survey and list all the AppImages and autonomous "
+"programs, and aims to provide a centralized point where you can document "
+"yourself on individual apps and where you can easily reach the URLs to the "
+"sources, both through the pages dedicated to each app and by reading the "
+"\"installation scripts\"."
+
+#: index.in:296
+msgid ""
+"This catalog and its CLI, \"<a href=\"https://github.com/ivan-hc/AM\">AM</"
+"a>\", make it easy for you to find, install, integrate and update all "
+"AppImage packages!"
+msgstr ""
+"This catalog and its CLI, \"<a href=\"https://github.com/ivan-hc/AM\">AM</"
+"a>\", make it easy for you to find, install, integrate and update all "
+"AppImage packages!"
+
+#: index.in:297
+msgid ""
+"This catalog is just the frontend for an ever growing database that aims to "
+"extend not only to x86_64 architecture apps listed here, but also to all "
+"others, from the modern ARM64/aarch64 to oldest i686, as an universal "
+"solution for all AppImages and portable programs for GNU/Linux!"
+msgstr ""
+"This catalog is just the frontend for an ever growing database that aims to "
+"extend not only to x86_64 architecture apps listed here, but also to all "
+"others, from the modern ARM64/aarch64 to oldest i686, as an universal "
+"solution for all AppImages and portable programs for GNU/Linux!"
+
+#: index.in:114
+msgid ""
+"This catalog is open source. You can contribute by editing the pages, adding "
+"missing information, or improving the database."
+msgstr ""
+"This catalog is open source. You can contribute by editing the pages, adding "
+"missing information, or improving the database."
+
+#: index.in:237
+msgid ""
+"This catalog is open source. You can edit its pages, update them and see the "
+"sources clearly, as a \"wiki\"."
+msgstr ""
+"This catalog is open source. You can edit its pages, update them and see the "
+"sources clearly, as a \"wiki\"."
+
+#: index.in:319
+msgid ""
+"Transparency and credibility are the focus of this catalog. Happy exploring!"
+msgstr ""
+"Transparency and credibility are the focus of this catalog. Happy exploring!"
+
+#: wiki.in:97
+msgid "Troubleshooting"
+msgstr "Troubleshooting"
+
+#: wiki.in:107
+msgid "Ubuntu mess"
+msgstr "Ubuntu mess"
+
+#: wiki.in:56
+msgid "Update all"
+msgstr "Update all"
+
+#: wiki.in:67
+msgid "Update scattered AppImages"
+msgstr "Update scattered AppImages"
+
+#: index.in:135 index.in:139 index.in:143 index.in:147 index.in:151
+#: index.in:155 index.in:159 index.in:163 index.in:167
+msgid "Watch AM demo"
+msgstr "Watch AM demo"
+
+#: index.in:40
+msgid ""
+"Welcome to the most complete database of all AppImage packages and portable "
+"applications for GNU/Linux."
+msgstr ""
+"Welcome to the most complete database of all AppImage packages and portable "
+"applications for GNU/Linux."
+
+#: index.in:229
+msgid "What are the portable linux apps?"
+msgstr "What are the portable linux apps?"
+
+#: index.in:240
+msgid ""
+"While I recognize the role they have had so far in supporting the diffusion "
+"of AppImage as a packaging format, through the years, as a former user, I "
+"would like to underline what led me to open an alternative catalogue:"
+msgstr ""
+"While I recognize the role they have had so far in supporting the diffusion "
+"of AppImage as a packaging format, through the years, as a former user, I "
+"would like to underline what led me to open an alternative catalogue:"
+
+#: index.in:308
+msgid "Why can't I run the install scripts standalone?"
+msgstr "Why can't I run the install scripts standalone?"
+
+#: cat_page.in:34 cat_page.in:109 app_page.in:36 app_page.in:63
+#: metapkg_page.in:36 metapkg_page.in:64 index.in:34 index.in:331 wiki.in:32
+#: wiki.in:38 wiki.in:143
+msgid "Wiki"
+msgstr "Wiki"
+
+#: wiki.in:7 wiki.in:10 wiki.in:17
+msgid "Wiki - PORTABLE LINUX APPS"
+msgstr "Wiki - PORTABLE LINUX APPS"
+
+#: wiki.in:108
+msgid "Wrong download link"
+msgstr "Wrong download link"
+
+#: index.in:236
+msgid ""
+"Yeah, each app has its own installation script, PKGBUILD style, but with an "
+"alternative package manager named \"<a href=\"https://github.com/ivan-hc/"
+"AM\">AM</a>\", which works like the more classic APT, PacMan/YAY, DNF... and "
+"which can therefore place them in specific paths of the filesystem , like "
+"any program, and allows updates via a system of scripts called \"AM-"
+"updater\". If an app can't update itself, the dedicated \"AM-updater\" "
+"script will use an application-specific method to always update your "
+"favorite apps to the latest version. FOR REAL!"
+msgstr ""
+"Yeah, each app has its own installation script, PKGBUILD style, but with an "
+"alternative package manager named \"<a href=\"https://github.com/ivan-hc/"
+"AM\">AM</a>\", which works like the more classic APT, PacMan/YAY, DNF... and "
+"which can therefore place them in specific paths of the filesystem , like "
+"any program, and allows updates via a system of scripts called \"AM-"
+"updater\". If an app can't update itself, the dedicated \"AM-updater\" "
+"script will use an application-specific method to always update your "
+"favorite apps to the latest version. FOR REAL!"
+
+#: index.in:304
+msgid ""
+"You can also join the <a href=\"https://discord.gg/uxvPepQUkY\">pkgforge "
+"Discord</a> to ask the community directly."
+msgstr ""
+"You can also join the <a href=\"https://discord.gg/uxvPepQUkY\">pkgforge "
+"Discord</a> to ask the community directly."
+
+#: index.in:176
+msgid ""
+"[Under development] A graphical interface for the AM package manager. "
+"Browse, install and update apps with a few clicks, no terminal required."
+msgstr ""
+"[Under development] A graphical interface for the AM package manager. "
+"Browse, install and update apps with a few clicks, no terminal required."
+
+#: index.in:190
+msgid "[Under development] GTK frontend for AM"
+msgstr "[Under development] GTK frontend for AM"
+
+#: wiki.in:119
+msgid "a graphical Front for AM, by @Shikakiben"
+msgstr "a graphical Front for AM, by @Shikakiben"
+
+#: index.in:282
+msgid "a space separated list of image URLs"
+msgstr "a space separated list of image URLs"
+
+#: wiki.in:120
+msgid "a visual (curses) TUI interface to AppMan, by @joedefen"
+msgstr "a visual (curses) TUI interface to AppMan, by @joedefen"
+
+#: index.in:253
+msgid ""
+"app icons must be 128x128 PNG files placed in the <code>icons/</code> "
+"folder, named after the app;"
+msgstr ""
+"app icons must be 128x128 PNG files placed in the <code>icons/</code> "
+"folder, named after the app;"
+
+#: wiki.in:117
+msgid ""
+"checks the validity of scripts in this database and monitors the "
+"availability of AppImages"
+msgstr ""
+"checks the validity of scripts in this database and monitors the "
+"availability of AppImages"
+
+#: wiki.in:129
+msgid "convert standalone, self-contained portable apps into AppImage packages"
+msgstr ""
+"convert standalone, self-contained portable apps into AppImage packages"
+
+#: wiki.in:126
+msgid ""
+"create AppImages for all distributions using Arch Linux packages. Powered by "
+"JuNest"
+msgstr ""
+"create AppImages for all distributions using Arch Linux packages. Powered by "
+"JuNest"
+
+#: index.in:159 index.in:160
+msgid "create and restore snapshots"
+msgstr "create and restore snapshots"
+
+#: wiki.in:125
+msgid ""
+"easily create AppImages from Ubuntu PPAs or Debian using pkg2appimage and "
+"appimagetool"
+msgstr ""
+"easily create AppImages from Ubuntu PPAs or Debian using pkg2appimage and "
+"appimagetool"
+
+#: wiki.in:127
+msgid "easily install the official releases of Firefox for Linux"
+msgstr "easily install the official releases of Firefox for Linux"
+
+#: index.in:167 index.in:168
+msgid "get rid of libfuse2"
+msgstr "get rid of libfuse2"
+
+#: index.in:243
+msgid ""
+"hosts applications not always provided by the original developer, just check "
+"the profile of whoever uploaded the application and how many \"products\" "
+"they uploaded. Some admit that they are not the developers, despite having a "
+"donation button available, effectively <strong>leading them to earning on "
+"work of others</strong>, and are often greedy enough to not include the real "
+"source! These profiles use random hosting services for these applications, "
+"and Pling's APIs does not allow you to clearly verify the origin of any "
+"package that is downloaded. There is no control over this, and the only "
+"validity check of a \"product\" is the feedback of the users who use it, and "
+"which in any case is <strong>not sufficient either to guarantee the safety "
+"of an app, nor to do justice to the real owner of that package, who was in "
+"fact \"robbed\" of its work</strong>."
+msgstr ""
+"hosts applications not always provided by the original developer, just check "
+"the profile of whoever uploaded the application and how many \"products\" "
+"they uploaded. Some admit that they are not the developers, despite having a "
+"donation button available, effectively <strong>leading them to earning on "
+"work of others</strong>, and are often greedy enough to not include the real "
+"source! These profiles use random hosting services for these applications, "
+"and Pling's APIs does not allow you to clearly verify the origin of any "
+"package that is downloaded. There is no control over this, and the only "
+"validity check of a \"product\" is the feedback of the users who use it, and "
+"which in any case is <strong>not sufficient either to guarantee the safety "
+"of an app, nor to do justice to the real owner of that package, who was in "
+"fact \"robbed\" of its work</strong>."
+
+#: index.in:284
+msgid "if you are packaging someone's else's app, link the git repo(s) here"
+msgstr "if you are packaging someone's else's app, link the git repo(s) here"
+
+#: index.in:143 index.in:144
+msgid "info about the apps"
+msgstr "info about the apps"
+
+#: index.in:147 index.in:148
+msgid "install applications"
+msgstr "install applications"
+
+#: index.in:139 index.in:140
+msgid "list available apps"
+msgstr "list available apps"
+
+#: wiki.in:118
+msgid "lists applications from third-party databases"
+msgstr "lists applications from third-party databases"
+
+#: index.in:151 index.in:152
+msgid "query lists using keywords"
+msgstr "query lists using keywords"
+
+#: index.in:135 index.in:136
+msgid "sandbox AppImages"
+msgstr "sandbox AppImages"
+
+#: index.in:242
+msgid ""
+"serves more than anything else to catalog the AppImages based on validation "
+"processes based on Github Actions (i.e. that the package is compatible with "
+"old versions of Ubuntu LTS). From the developer's point of view it's fine, "
+"but <strong>from the point of view of the user who searches for AppImage "
+"packages without going into the depths of the internet, it's totally "
+"useless</strong>. As a catalog it is limited to showing only that an app "
+"exists or has existed in the past, without worrying about <strong>obsolete "
+"packages that no longer exist, but still listed only \"to make up the "
+"numbers\"</strong>. Many pages have no buttons to the sources and all pages "
+"have no additional information on individual apps, <strong>each page is "
+"simply a copy/paste message</strong> that says that the app \"is available "
+"as an AppImage which means one app = one file...\" etcetera etcetera."
+msgstr ""
+"serves more than anything else to catalog the AppImages based on validation "
+"processes based on Github Actions (i.e. that the package is compatible with "
+"old versions of Ubuntu LTS). From the developer's point of view it's fine, "
+"but <strong>from the point of view of the user who searches for AppImage "
+"packages without going into the depths of the internet, it's totally "
+"useless</strong>. As a catalog it is limited to showing only that an app "
+"exists or has existed in the past, without worrying about <strong>obsolete "
+"packages that no longer exist, but still listed only \"to make up the "
+"numbers\"</strong>. Many pages have no buttons to the sources and all pages "
+"have no additional information on individual apps, <strong>each page is "
+"simply a copy/paste message</strong> that says that the app \"is available "
+"as an AppImage which means one app = one file...\" etcetera etcetera."
+
+#: index.in:155 index.in:156
+msgid "show the installed apps"
+msgstr "show the installed apps"
+
+#: index.in:285
+msgid ""
+"space separated button definitions in the form of  <code>Button_Title::URL</"
+"code>"
+msgstr ""
+"space separated button definitions in the form of  <code>Button_Title::URL</"
+"code>"
+
+#: index.in:283
+msgid "space separated site URLs that provide the AppImage"
+msgstr "space separated site URLs that provide the AppImage"
+
+#: index.in:254
+msgid ""
+"the application lists are automatically generated by <a href=\"https://"
+"gitlab.com/kazam0180/pla-site-tool\">this script</a>. Any changes to the "
+"lists and descriptions must be made to <a href=\"https://github.com/ivan-hc/"
+"AM/blob/main/programs/x86_64-apps\">this file</a>, which is the general list "
+"of apps managed by \"AM\"/\"AppMan\";"
+msgstr ""
+"the application lists are automatically generated by <a href=\"https://"
+"gitlab.com/kazam0180/pla-site-tool\">this script</a>. Any changes to the "
+"lists and descriptions must be made to <a href=\"https://github.com/ivan-hc/"
+"AM/blob/main/programs/x86_64-apps\">this file</a>, which is the general list "
+"of apps managed by \"AM\"/\"AppMan\";"
+
+#: wiki.in:128
+msgid ""
+"the complete list of packages managed by me and available in this database"
+msgstr ""
+"the complete list of packages managed by me and available in this database"
+
+#: index.in:42
+msgid "the first AUR-inspired AppImage Software Center!"
+msgstr "the first AUR-inspired AppImage Software Center!"
+
+#: wiki.in:130
+msgid "try to convert Snap packages to AppImages"
+msgstr "try to convert Snap packages to AppImages"
+
+#: index.in:163 index.in:164
+msgid "update everything"
+msgstr "update everything"
+
+#: pla-site.toml:[cat_comments.default]
+msgctxt "default_with_items"
+msgid ""
+"Here are listed $COUNT programs (including $ITEM_COUNT metapackage items) "
+"for this category"
+msgstr ""
+"Here are listed $COUNT programs (including $ITEM_COUNT metapackage items) "
+"for this category"
+
+#: pla-site.toml:[cat_comments.default]
+msgctxt "default_no_items"
+msgid "Here are listed $COUNT programs for this category"
+msgstr "Here are listed $COUNT programs for this category"
+
+#: pla-site.toml:[cat_comments.portable]
+msgctxt "portable"
+msgid ""
+"Here are listed $COUNT command line utilities: static and dynamic ELF "
+"binaries, or simple scripts"
+msgstr ""
+"Here are listed $COUNT command line utilities: static and dynamic ELF "
+"binaries, or simple scripts"
+
+#: pla-site.toml:[cat_comments.portable-desktop]
+msgctxt "portable-desktop"
+msgid ""
+"Here are listed $COUNT desktop applications NOT in AppImage format. "
+"Launchers and icons are downloaded separately during the installation "
+"process (through <a href=\"https://github.com/ivan-hc/AM\">AM</a> and <a "
+"href=\"https://github.com/ivan-hc/AppMan\">AppMan</a>). Most of them already "
+"have all the necessary requirements to be easily exported into AppImage "
+"packages... or they are waiting to be moved to another category (see <a "
+"href=\"appimage-on-the-fly.html\">AppImages on-the-fly</a>)"
+msgstr ""
+"Here are listed $COUNT desktop applications NOT in AppImage format. "
+"Launchers and icons are downloaded separately during the installation "
+"process (through <a href=\"https://github.com/ivan-hc/AM\">AM</a> and <a "
+"href=\"https://github.com/ivan-hc/AppMan\">AppMan</a>). Most of them already "
+"have all the necessary requirements to be easily exported into AppImage "
+"packages... or they are waiting to be moved to another category (see <a "
+"href=\"appimage-on-the-fly.html\">AppImages on-the-fly</a>)"
+
+#: pla-site.toml:[cat_comments.am-utils]
+msgctxt "am-utils"
+msgid ""
+"Here are listed $COUNT static binaries built for <a href=\"https://"
+"github.com/ivan-hc/AM\">AM</a> and <a href=\"https://github.com/ivan-hc/"
+"AppMan\">AppMan</a> which can be used as a fallback in case the system does "
+"not have them"
+msgstr ""
+"Here are listed $COUNT static binaries built for <a href=\"https://"
+"github.com/ivan-hc/AM\">AM</a> and <a href=\"https://github.com/ivan-hc/"
+"AppMan\">AppMan</a> which can be used as a fallback in case the system does "
+"not have them"
+
+#: pla-site.toml:[cat_comments.appimages]
+msgctxt "appimages"
+msgid ""
+"Here are listed the $COUNT unique Appimages managed by <a href=\"https://"
+"github.com/ivan-hc/AM\">AM</a> and <a href=\"https://github.com/ivan-hc/"
+"AppMan\">AppMan</a>"
+msgstr ""
+"Here are listed the $COUNT unique Appimages managed by <a href=\"https://"
+"github.com/ivan-hc/AM\">AM</a> and <a href=\"https://github.com/ivan-hc/"
+"AppMan\">AppMan</a>"
+
+#: pla-site.toml:[cat_comments.metapackages]
+msgctxt "metapackages"
+msgid ""
+"Here are listed $SUITE_COUNT \"metapackages\" (along with their $ITEM_COUNT "
+"items), those few scripts that allow the use of many more programs with one "
+"installation. Find which metapackage corresponds to the program you're "
+"interested in from this list"
+msgstr ""
+"Here are listed $SUITE_COUNT \"metapackages\" (along with their $ITEM_COUNT "
+"items), those few scripts that allow the use of many more programs with one "
+"installation. Find which metapackage corresponds to the program you're "
+"interested in from this list"
+
+#: pla-site.toml:[cat_comments.appimage-on-the-fly]
+msgctxt "appimage-on-the-fly"
+msgid ""
+"Here are listed $COUNT AppImages (including $ITEM_COUNT metapackage items) "
+"built on the fly from the official portable builds, showing how easily "
+"portable apps can be converted to AppImages to gain isolated dotfiles, "
+"sandboxing via AM and AppMan, and reduced disk usage, serving as a proof of "
+"concept to encourage upstream developers to distribute them directly in such "
+"packaging format. Powered by <a href=\"https://github.com/ivan-hc/"
+"portable2appimage\">portable2appimage</a>"
+msgstr ""
+"Here are listed $COUNT AppImages (including $ITEM_COUNT metapackage items) "
+"built on the fly from the official portable builds, showing how easily "
+"portable apps can be converted to AppImages to gain isolated dotfiles, "
+"sandboxing via AM and AppMan, and reduced disk usage, serving as a proof of "
+"concept to encourage upstream developers to distribute them directly in such "
+"packaging format. Powered by <a href=\"https://github.com/ivan-hc/"
+"portable2appimage\">portable2appimage</a>"

@@ -2,6 +2,7 @@ am_repo = "https://raw.githubusercontent.com/ivan-hc/AM/main"
 archs = ["x86_64", "aarch64", "i686"]
 meta_pkgs = ["kdegames", "kdeutils", "node", "platform-tools"]
 out_dir = "public"
+languages = ["en", "it"]
 
 [[categories]]
 name = "ai"

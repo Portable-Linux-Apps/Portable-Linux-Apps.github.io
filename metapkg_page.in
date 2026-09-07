@@ -3,43 +3,43 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>$APP_NAME - PORTABLE LINUX APPS</title>
+  <title>$APP_NAME - _("PORTABLE LINUX APPS")</title>
   <meta name="description" content="$APP_DESC">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="$APP_NAME - PORTABLE LINUX APPS">
+  <meta property="og:title" content="$APP_NAME - _("PORTABLE LINUX APPS")">
   <meta property="og:description" content="$APP_DESC">
-  <meta property="og:url" content="https://portable-linux-apps.github.io/app/$APP_NAME.html">
+  <meta property="og:url" content="https://portable-linux-apps.github.io/$LANG/app/$APP_NAME.html">
   <meta property="og:image" content="https://portable-linux-apps.github.io/icons/$APP_NAME.webp">
   <meta property="og:image:width" content="128">
   <meta property="og:image:height" content="128">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="$APP_NAME - PORTABLE LINUX APPS">
+  <meta name="twitter:title" content="$APP_NAME - _("PORTABLE LINUX APPS")">
   <meta name="twitter:image" content="https://portable-linux-apps.github.io/icons/$APP_NAME.webp">
   <meta name="twitter:description" content="$APP_DESC">
-  <link rel="canonical" href="https://portable-linux-apps.github.io/app/$APP_NAME.html">
+  <link rel="canonical" href="https://portable-linux-apps.github.io/$LANG/app/$APP_NAME.html">
   <link rel="icon" href="../favicon.ico" type="image/x-icon">
-  <link rel="stylesheet" href="../assets/css/style.css">
-  <link rel="stylesheet" href="../assets/css/app.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/app.css">
   <link rel="preconnect" href="$APP_NAME.json">
-  <link rel="preconnect" href="assets/css/style.css">
-  <link rel="preconnect" href="assets/css/app.css">
-  <link rel="preconnect" href="assets/js/app_page.js">
+  <link rel="preconnect" href="/assets/css/style.css">
+  <link rel="preconnect" href="/assets/css/app.css">
+  <link rel="preconnect" href="/assets/js/app_page.js">
 </head>
 <body>
-<a href="#main" class="skip-link">Skip to main content</a>
+<a href="#main" class="skip-link">_("Skip to main content")</a>
 
 <nav aria-label="Main navigation">
-  <a href="../index.html">Home</a>
-  <a href="../apps.html">Apps</a>
-  <a href="../index.html#faq">FAQ</a>
-  <a href="../wiki.html">Wiki</a>
-  <a href="https://github.com/ivan-hc/AM">AM on GitHub</a>
+  <a href="/$LANG/index.html">_("Home")</a>
+  <a href="/$LANG/apps.html">_("Apps")</a>
+  <a href="/$LANG/index.html#faq">_("FAQ")</a>
+  <a href="/$LANG/wiki.html">_("Wiki")</a>
+  <a href="https://github.com/ivan-hc/AM">_("AM on GitHub")</a>
 </nav>
 <main>
 
 <div class="page-header-links">
-  <a href="javascript:history.back()" id="back-link">&larr; Back</a>
-  <a href="https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/blob/main/apps/$APP_NAME" id="improve-link" title="Improve this page">
+  <a href="javascript:history.back()" id="back-link">&larr; _("Back")</a>
+  <a href="https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/blob/main/apps/$APP_NAME" id="improve-link" title="_("Improve this page")">
     <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
       <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25a1.75 1.75 0 0 1 .445-.758l8.61-8.61zm1.414 1.06a.25.25 0 0 0-.354 0L3.46 11.1a.25.25 0 0 0-.064.108l-.456 1.598 1.598-.457a.25.25 0 0 0 .108-.064l8.61-8.61a.25.25 0 0 0 0-.353L12.427 2.487zM3.25 3.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5z"/>
     </svg>
@@ -52,23 +52,24 @@
 
 <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
 
-<script src="../assets/js/app_page.js"></script>
+<script src="/assets/js/app_page.js"></script>
 
 </main>
 <footer>
   <div class="footer-links">
-    <a href="../index.html">Home</a>
-    <a href="../apps.html">Apps</a>
-    <a href="../index.html#faq">FAQ</a>
-    <a href="../wiki.html">Wiki</a>
+    <a href="/$LANG/index.html">_("Home")</a>
+    <a href="/$LANG/apps.html">_("Apps")</a>
+    <a href="/$LANG/index.html#faq">_("FAQ")</a>
+    <a href="/$LANG/wiki.html">_("Wiki")</a>
   </div>
   <div class="footer-links">
     <a href="https://ko-fi.com/IvanAlexHC">ko-fi.com</a>
     <a href="https://paypal.me/IvanAlexHC">PayPal.me</a>
-    <a href="https://github.com/ivan-hc/AM">AM on GitHub</a>
+    <a href="https://github.com/ivan-hc/AM">_("AM on GitHub")</a>
   </div>
-  <p>&copy; 2020-present Ivan Alessandro Sala aka 'Ivan-HC' &mdash; I'm here just for fun!</p>
+  <p>&copy; _("2020-present Ivan Alessandro Sala aka 'Ivan-HC'") &mdash; _("I'm here just for fun!")</p>
 </footer>
 
 </body>
 </html>
+

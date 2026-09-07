@@ -12,9 +12,9 @@ function renderApps(data) {
   for (var i = 0; i < data.length; i++) {
     var app = data[i];
     html += '<div class="app-item" data-index="' + i + '">';
-    html += '<img loading="lazy" src="icons_48/' + encodeURIComponent(app.name) + '.webp" width="48" height="48" onerror="this.src=\'no-icon_48.webp\'" alt="" class="app-icon">';
+    html += '<img loading="lazy" src="/icons_48/' + encodeURIComponent(app.name) + '.webp" width="48" height="48" onerror="this.src=\'/no-icon_48.webp\'" alt="" class="app-icon">';
     html += '<div class="app-body">';
-    html += '<a href="app/' + encodeURIComponent(app.name) + '.html" class="app-name"><strong>' + escapeHtml(app.name) + '</strong></a>';
+    html += '<a href="/app/' + encodeURIComponent(app.name) + '.html" class="app-name"><strong>' + escapeHtml(app.name) + '</strong></a>';
     html += '<p class="app-desc">' + escapeHtml(app.description) + '</p>';
     html += '</div>';
     html += '<div class="app-links">';

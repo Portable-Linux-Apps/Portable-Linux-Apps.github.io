@@ -58,12 +58,71 @@ only use **bold**, *italic*, ++underline++, lists markdown here
 
 The static pages those files are generated from can be edited freely:
 
-  - `index.html` — home page (hero, install carousel, categories, about, FAQ)
-  - `apps.html`, `wiki.html` — apps list and wiki
-  - `app_page.in`, `cat_page.in` — templates used to generate app pages and category pages
+  - `index.in` — home page template (hero, install carousel, categories, about, FAQ)
+  - `apps.in`, `wiki.in` — apps list and wiki templates
+  - `app_page.in`, `cat_page.in`, `metapkg_page.in` — templates used to generate app pages, category pages, and metapackage pages
   - `assets/css/`, `assets/js/` — styles and scripts
   - `pla-site.toml` — site configuration, including the regex patterns that assign apps to categories
   - `apps/.template` — the template shown to contributors
+
+### Translations
+
+The site supports multiple languages using gettext `.po` files. Translatable strings in templates are marked with `_("text")`.
+
+**Directory structure:**
+```
+locales/
+├── pla-site.pot          # Translation template (auto-generated)
+├── apps-list.pot         # App names and list descriptions
+├── descriptions.pot      # App page descriptions
+├── en/
+│   └── pla-site.po       # English translations (source language)
+├── it/
+│   └── pla-site.po       # Italian translations
+└── <lang>/
+    └── pla-site.po       # Other languages
+```
+
+**How to add a new language:**
+
+1. Create the directory structure: `mkdir -p locales/<lang>`
+2. Copy the template: `cp locales/pla-site.pot locales/<lang>/pla-site.po`
+3. Edit the `.po` file and fill in `msgstr` for each `msgid`
+4. Add the language code to `languages` in `pla-site.toml`:
+   ```toml
+   languages = ["en", "it", "<lang>"]
+   ```
+5. Build the site — output goes to `public/<lang>/`
+
+**Translation files:**
+- `locales/pla-site.pot` — auto-generated template with all translatable strings from the site templates
+- `locales/apps-list.pot` — app names and list descriptions (separate from site translations)
+- `locales/descriptions.pot` — app page descriptions (separate from site translations)
+
+**Notes:**
+- English (`en`) is the source language; its `.po` file has `msgstr` equal to `msgid`
+- Leave `msgstr ""` empty to use the original English text
+- HTML markup inside `_("...")` is preserved in translations
+- Template variables like `$CAT_NAME` are not translated — they're replaced at build time
+- Category names (AppImages, AI, Audio, etc.) are not translated — they're kept as-is across languages
+- **Important:** Always use straight quotes (`"`) in `.po` files, never curly/Unicode quotes (`"` `"`). Curly quotes will cause translations to silently fail (the entry won't be found). This commonly happens when copying text from web pages or word processors.
+
+**Updating translations:**
+
+1. Regenerate the `.pot` files: `./pla-site-tool --extract-pot --pla-dir .`
+2. Merge changes into each `.po` file, preserving existing translations:
+   ```sh
+   msgmerge --update locales/<lang>/pla-site.po locales/pla-site.pot
+   ```
+   This adds new untranslated entries, removes obsolete ones, and marks changed entries as fuzzy. Use `--no-fuzzy-matching` to skip fuzzy matching if you don't want it.
+3. Edit the `.po` file and translate new/changed `msgstr` entries
+4. Validate syntax: `msgfmt --check locales/<lang>/pla-site.po -o /dev/null`
+
+**Removing a language:**
+
+1. Delete the `.po` file: `rm locales/<lang>/pla-site.po`
+2. Remove the language code from `languages` in `pla-site.toml`
+3. The `public/<lang>/` output directory will no longer be generated
 
 ### Build locally
 
@@ -80,7 +139,35 @@ chmod +x pla-site-tool
 ./minify public           # requires esbuild
 ```
 
-Note: `public/` is the build output and is gitignored.
+Note: `public/` is the build output and is gitignored. The build generates per-language output directories (e.g., `public/en/`, `public/it/`) based on the `languages` setting in `pla-site.toml`.
+
+### Regenerate the translation template
+
+When you add or change translatable strings (`_("...")`) in the templates, regenerate the `.pot` files:
+
+```sh
+./pla-site-tool --extract-pot --pla-dir .
+```
+
+This scans all `.in` templates and writes:
+- `locales/pla-site.pot` — site UI strings (nav, footer, FAQ, category comments, etc.)
+- `locales/apps-list.pot` — app names and list descriptions
+- `locales/descriptions.pot` — app page descriptions
+
+Then merge the updated `.pot` into each language's `.po` file to pick up new/changed strings while preserving existing translations:
+
+```sh
+# For each language:
+msgmerge --update locales/<lang>/pla-site.po locales/pla-site.pot
+```
+
+This will:
+- Add new untranslated entries
+- Mark changed entries as fuzzy
+- Preserve all existing `msgstr` translations
+- Remove entries no longer in the `.pot` file
+
+After merging, edit the `.po` files to fill in translations for any new entries and review any fuzzy matches.
 
 ------------------------------------
 

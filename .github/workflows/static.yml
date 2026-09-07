@@ -112,7 +112,7 @@ jobs:
           cp -r assets/fonts public/assets/
           cp -r casts public/
           cp -r am-gui public/
-          cp -t public/ apps.html wiki.html sitemap.xml google*.html BingSiteAuth.xml
+          cp -t public/ sitemap.xml google*.html BingSiteAuth.xml
 
           echo "site generated" | tee -a build-log.txt
 
