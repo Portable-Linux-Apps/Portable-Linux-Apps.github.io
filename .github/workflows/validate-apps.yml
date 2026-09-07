@@ -68,7 +68,7 @@ jobs:
         with:
           script: |
             const failedFiles = `${{ steps.validate.outputs.failed }}`.trim().split('\n').filter(f => f);
-            const body = `### App file validation failed\n\nThe following files could not be converted to JSON:\n\n${failedFiles.map(f => `- \`${f}\``).join('\n')}\n\nPlease check the file format against [\`apps/.template\`](apps/.template) and fix any syntax errors.`;
+            const body = `### App file validation failed\n\nThe following files could not be converted to JSON:\n\n${failedFiles.map(f => `- \`${f}\``).join('\n')}\n\nPlease check the file format against [\`apps/.template\`](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/blob/main/apps/.template) and fix any syntax errors.`;
             
             const { data: comments } = await github.rest.issues.listComments({
               owner: context.repo.owner,
