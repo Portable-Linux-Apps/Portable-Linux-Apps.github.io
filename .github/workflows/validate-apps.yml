@@ -15,11 +15,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
 
       - name: Get modified app files
         id: changed
         run: |
-          FILES=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- 'apps/*' | grep -v '\.template$' || true)
+          FILES=$(git diff --name-only --diff-filter=ACMR ${{ github.event.pull_request.base.sha }}...HEAD -- 'apps/*' | grep -v '\.template$' || true)
           echo "files<<EOF" >> $GITHUB_OUTPUT
           echo "$FILES" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
