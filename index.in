@@ -27,7 +27,7 @@
 <a href="#main" class="skip-link">_("Skip to main content")</a>
 
 <nav aria-label="Main navigation">
-  <a href="index.html">_("Home")</a>
+  <a href="#">_("Home")</a>
   <a href="apps.html">_("Apps")</a>
   <a href="#faq">_("FAQ")</a>
   <a href="wiki.html">_("Wiki")</a>
@@ -49,6 +49,8 @@
   _("<strong>$UNIQUE_COUNT</strong> unique apps (<strong>$APPIMAGE_COUNT</strong> AppImage packages + <strong>$PORTABLE_COUNT</strong> standalone/portable programs), including <strong>$SUITS_COUNT</strong> metapackages containing <strong>$ITEMS_COUNT</strong> items.")
   <p><i>_("From here you can download them, install them, update them (for real), get more information about the sources and their developers... and if you want, you can contribute yourself by adding the missing information, because this site is <strong>open source</strong>!")</i></p>
 </div>
+
+<div id="lang" style="display: none;">$LANG</div>
 
 <div class="search-box home-search-box">
   <form id="home-search-form" onsubmit="handleHomeSearch(event)" class="home-search-form">
@@ -329,7 +331,7 @@ only use **bold**, *italic*, ++underline++, lists markdown here
 <footer>
   <div class="footer-links">
     <a href="#">_("Home")</a>
-    <a href="/apps.html">_("Apps")</a>
+    <a href="apps.html">_("Apps")</a>
     <a href="#faq">_("FAQ")</a>
     <a href="wiki.html">_("Wiki")</a>
   </div>
@@ -357,7 +359,7 @@ function handleHomeSearch(event) {
 
   // If category is selected, go to category page with search and arch params
   if (category) {
-    var url = '/' + category + '.html';
+    var url = category + '.html';
     var params = [];
     if (searchTerm) params.push('s=' + encodeURIComponent(searchTerm));
     if (arch) params.push('a=' + encodeURIComponent(arch));
@@ -365,7 +367,7 @@ function handleHomeSearch(event) {
     window.location.href = url;
   } else {
     // No category selected, go to apps.html with search and arch params
-    var url = '/apps.html';
+    var url = 'apps.html';
     var params = [];
     if (searchTerm) params.push('s=' + encodeURIComponent(searchTerm));
     if (arch) params.push('a=' + encodeURIComponent(arch));
