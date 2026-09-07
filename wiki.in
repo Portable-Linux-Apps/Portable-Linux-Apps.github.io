@@ -17,9 +17,9 @@
   <meta name="twitter:image" content="https://portable-linux-apps.github.io/pla.jpg">
   <meta name="twitter:description" content="_("Guides, tutorials, external links, and related projects for Portable Linux Apps and the AM package manager.")">
   <link rel="canonical" href="https://portable-linux-apps.github.io/wiki.html">
-  <link rel="icon" href="favicon.ico" type="image/x-icon">
-  <link rel="stylesheet" href="/assets/css/style.css">
-  <link rel="stylesheet" href="/assets/css/wiki.css">
+  <link rel="icon" href="../favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="stylesheet" href="../assets/css/wiki.css">
 </head>
 <body>
 <a href="#main" class="skip-link">Skip to main content</a>
@@ -30,6 +30,10 @@
   <a href="/$LANG/index.html#faq">_("FAQ")</a>
   <a href="#">_("Wiki")</a>
   <a href="https://github.com/ivan-hc/AM">_("AM on GitHub")</a>
+  <span class="lang-selector">
+    <a href="/en/wiki.html" class="lang-link">English</a>
+    <a href="/it/wiki.html" class="lang-link">Italiano</a>
+  </span>
 </nav>
 <main>
 

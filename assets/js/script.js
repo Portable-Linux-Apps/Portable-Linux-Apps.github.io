@@ -7,6 +7,8 @@ function escapeHtml(s) {
 function renderApps(data) {
   var container = document.getElementById('app-list');
   var arch = document.getElementById('arch-select');
+  var lang = document.getElementById('lang');
+  var lang_value = lang.innerHTML || 'en';
   var arch_value = arch.value ? arch.value : 'x86_64'
   var html = '<div class="app-list">';
   for (var i = 0; i < data.length; i++) {
@@ -14,7 +16,7 @@ function renderApps(data) {
     html += '<div class="app-item" data-index="' + i + '">';
     html += '<img loading="lazy" src="/icons_48/' + encodeURIComponent(app.name) + '.webp" width="48" height="48" onerror="this.src=\'/no-icon_48.webp\'" alt="" class="app-icon">';
     html += '<div class="app-body">';
-    html += '<a href="/app/' + encodeURIComponent(app.name) + '.html" class="app-name"><strong>' + escapeHtml(app.name) + '</strong></a>';
+    html += '<a href="/' + lang_value + '/app/' + encodeURIComponent(app.name) + '.html" class="app-name"><strong>' + escapeHtml(app.name) + '</strong></a>';
     html += '<p class="app-desc">' + escapeHtml(app.description) + '</p>';
     html += '</div>';
     html += '<div class="app-links">';
@@ -175,6 +177,6 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     })
     .catch(function(err) {
-      document.getElementById('app-list').innerHTML = '<p>Failed to load apps.</p>';
+      document.getElementById('app-list').innerHTML = '<p>Failed to load apps.</p>' + err;
     });
 });

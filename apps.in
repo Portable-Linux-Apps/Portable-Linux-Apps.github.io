@@ -16,10 +16,10 @@
   <meta name="twitter:description" content="_("APPLICATIONS - Portable Linux Apps full app list.")">
   <link rel="canonical" href="https://portable-linux-apps.github.io/apps.html">
   <link rel="icon" href="favicon.ico" type="image/x-icon">
-  <link rel="stylesheet" href="/assets/css/style.css">
-  <link rel="preconnect" href="/$LANG/apps.json">
-  <link rel="preconnect" href="/assets/js/script.js">
-  <link rel="preconnect" href="/assets/css/style.css">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="preconnect" href="apps.json">
+  <link rel="preconnect" href="../assets/js/script.js">
+  <link rel="preconnect" href="../assets/css/style.css">
 </head>
 <body>
 <a href="#main" class="skip-link">Skip to main content</a>
@@ -30,6 +30,10 @@
   <a href="/$LANG/index.html#faq">_("FAQ")</a>
   <a href="/$LANG/wiki.html">_("Wiki")</a>
   <a href="https://github.com/ivan-hc/AM">_("AM on GitHub")</a>
+  <span class="lang-selector">
+    <a href="/en/apps.html" class="lang-link">English</a>
+    <a href="/it/apps.html" class="lang-link">Italiano</a>
+  </span>
 </nav>
 <main>
 
@@ -91,7 +95,8 @@
 
   <p><strong><i>_("NOTE, Installer scripts (blob/raw) are provided for reading only: do not run them manually! Use "<a href="https://github.com/ivan-hc/AM">AM</a>" or "<a href="https://github.com/ivan-hc/AppMan">AppMan</a>" or any <a href="/$LANG/index.html#install">other tool</a> listed on home page instead.")</i> _("See <a href="/$LANG/index.html#faq-7">FAQ</a> for details")</strong></p>
 
-  <div id="app-list" data-json="/$LANG/apps.json"></div>
+  <div id="app-list" data-json="apps.json"></div>
+  <div id="lang" style="display: none;">$LANG</div>
 </section>
 
 <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
