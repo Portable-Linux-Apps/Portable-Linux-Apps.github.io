@@ -44,7 +44,8 @@ jobs:
             OUTPUT=$(./pla-site-tool -i "$file" 2>&1)
             EXIT_CODE=$?
             set -e
-            if [ $EXIT_CODE -ne 0 ]; then
+            echo "$OUTPUT"
+            if [ $EXIT_CODE -ne 0 ] || [ ! -s "${file}.json" ] || ! python3 -c "import json; json.load(open('${file}.json'))" 2>/dev/null; then
               echo "FAILED: $file"
               FAILED="${FAILED}${file}\n"
             else
