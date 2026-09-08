@@ -1,6 +1,12 @@
 # zcode
 ===
- ZCode is next-gen vibe coding for complex goals—with multiple agents and control from anywhere.
+ZCode is an Agentic Development Environment (ADE) built to bring GLM-5.3 into real coding workflows. It helps turn GLM-5.3's long-context, long-horizon, and agentic coding capabilities into a stable desktop experience for planning, coding, reviewing, and iterating across complex development tasks.
+
+With GLM-5.3's stable 1M context and long-horizon task capability, ZCode Agent can keep goals, files, terminal results, browser context, execution modes, and Git state in the same task. This allows complex development work to move from planning to implementation and verification without losing continuity.
+
+ZCode has been deeply tuned and specifically optimized around GLM-5.3, with a focus on the first-party ZCode Agent. Model, tools, and execution workflow are more tightly integrated, so complex development tasks can move from planning all the way to verification within a single context.
+
+With natural-language instructions, you can ask ZCode Agent to handle coding, debugging, testing, project preview, and change review. Through the desktop workspace, Remote, and Bot Channel, you can keep checking progress and adding instructions while long-running work continues.
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/zcode/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/zcode/2.webp
 # SITES: https://zcode.z.ai
