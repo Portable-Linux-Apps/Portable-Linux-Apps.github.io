@@ -72,9 +72,6 @@ The site supports multiple languages using gettext `.po` files. Translatable str
 **Directory structure:**
 ```
 locales/
-├── pla-site.pot          # Translation template (auto-generated)
-├── apps-list.pot         # App names and list descriptions
-├── descriptions.pot      # App page descriptions
 ├── en/
 │   └── pla-site.po       # English translations (source language)
 ├── it/
@@ -93,11 +90,6 @@ locales/
    languages = ["en", "it", "<lang>"]
    ```
 5. Build the site — output goes to `public/<lang>/`
-
-**Translation files:**
-- `locales/pla-site.pot` — auto-generated template with all translatable strings from the site templates
-- `locales/apps-list.pot` — app names and list descriptions (separate from site translations)
-- `locales/descriptions.pot` — app page descriptions (separate from site translations)
 
 **Notes:**
 - English (`en`) is the source language; its `.po` file has `msgstr` equal to `msgid`
@@ -149,10 +141,7 @@ When you add or change translatable strings (`_("...")`) in the templates, regen
 ./pla-site-tool --extract-pot --pla-dir .
 ```
 
-This scans all `.in` templates and writes:
-- `locales/pla-site.pot` — site UI strings (nav, footer, FAQ, category comments, etc.)
-- `locales/apps-list.pot` — app names and list descriptions
-- `locales/descriptions.pot` — app page descriptions
+This scans all `.in` templates and writes `locales/pla-site.pot`.
 
 Then merge the updated `.pot` into each language's `.po` file to pick up new/changed strings while preserving existing translations:
 
