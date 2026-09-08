@@ -1,0 +1,119 @@
+# Simple workflow for deploying static content to GitHub Pages
+name: Deploy site to Pages
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: main
+
+  workflow_run:
+    workflows: ["Keep this site sync with AM"]
+    types:
+      - completed
+    branches: main
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    container:
+      image: registry.gitlab.com/kazam0180/pla-site-tool
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Cache converted icons
+        id: icon-cache
+        uses: actions/cache@v6
+        with:
+          path: .cache/icons
+          key: icons-${{ hashFiles('icons/**', 'no-icon.png') }}
+
+      - name: Cache screenshots
+        id: screenshots-cache
+        uses: actions/cache@v6
+        with:
+          path: .cache/screenshots
+          key: screenshots-v1
+
+      - name: Build site
+        shell: bash
+        run: |
+          set -e
+
+          pla-site-tool > pla-site-tool.log 2>&1 &
+          PLA_PID=$!
+
+          imgtool -p . -o ./public convert-screenshots > screenshots.log 2>&1 &
+          SS_PID=$!
+
+          wait "$PLA_PID"; PLA_STATUS=$?
+          wait "$SS_PID"; SS_STATUS=$?
+
+          cat pla-site-tool.log screenshots.log | tee -a build-log.txt
+
+          [ $PLA_STATUS -eq 0 ] || { echo "pla-site-tool failed" | tee -a build-log.txt; exit 1; }
+          [ $SS_STATUS -eq 0 ] || { echo "imgtool convert-screenshots failed" | tee -a build-log.txt; exit 1; }
+
+          [ ! -x ./minify ] && chmod a+x ./minify
+          ./minify public 2>&1 | tee -a build-log.txt
+
+          cp -t public/ favicon.ico *.webp *.jpg
+          cp -r assets/fonts public/assets/
+          cp -r casts public/
+          cp -r am-gui public/
+          cp -t public/ google*.html BingSiteAuth.xml
+
+          echo "site generated" | tee -a build-log.txt
+
+      - name: Process icons
+        run: |
+          set -e
+          if [ -d .cache/icons ]; then
+            mkdir -p public/icons public/icons_48
+            cp -r .cache/icons/public/icons/. public/icons/
+            cp -r .cache/icons/public/icons_48/. public/icons_48/
+            cp .cache/icons/public/no-icon.webp public/no-icon.webp
+            cp .cache/icons/public/no-icon_48.webp public/no-icon_48.webp
+            echo "icons restored from cache" | tee -a build-log.txt
+          else
+            imgtool -p . -o ./public convert-icons 2>&1 | tee -a build-log.txt
+            mkdir -p .cache/icons/public
+            cp -r public/icons .cache/icons/public/
+            cp -r public/icons_48 .cache/icons/public/
+            cp public/no-icon.webp .cache/icons/public/
+            cp public/no-icon_48.webp .cache/icons/public/
+          fi
+
+      - name: Upload Build Log
+        uses: actions/upload-artifact@v7
+        with:
+          name: build-log
+          path: build-log.txt
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v6
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: 'public'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
