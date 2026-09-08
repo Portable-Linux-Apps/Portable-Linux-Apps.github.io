@@ -49,6 +49,7 @@
     <select name="arch" id="arch-select">
       <option value="">_("All architectures")</option>
     </select>
+    <span id="results-count" class="results-count"></span>
   </div>
   <hr class="section-divider">
 

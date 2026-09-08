@@ -15,7 +15,7 @@
   <meta name="twitter:image" content="https://portable-linux-apps.github.io/pla.jpg">
   <meta name="twitter:description" content="_("APPLICATIONS - Portable Linux Apps full app list.")">
   <link rel="canonical" href="https://portable-linux-apps.github.io/apps.html">
-  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="preconnect" href="/apps.json">
   <link rel="preconnect" href="/assets/js/script.js">
@@ -47,6 +47,7 @@
     <select name="arch" id="arch-select">
       <option value="">_("All architectures")</option>
     </select>
+    <span id="results-count" class="results-count"></span>
   </div>
   <hr class="section-divider">
 
