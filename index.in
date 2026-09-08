@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="$LANG">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,11 +17,11 @@
   <meta name="twitter:image" content="https://portable-linux-apps.github.io/pla.jpg">
   <meta name="twitter:description" content="The first AUR-inspired Software Center of all AppImage packages and portable applications for GNU/Linux.">
   <link rel="canonical" href="https://portable-linux-apps.github.io/$LANG/index.html">
-  <link rel="icon" href="../favicon.ico" type="image/x-icon">
-  <link rel="stylesheet" href="../assets/css/style.css">
-  <link rel="stylesheet" href="../assets/css/index.css">
-  <link rel="stylesheet" href="../assets/css/faq.css">
-  <link rel="stylesheet" href="../assets/css/asciinema-player.css">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/index.css">
+  <link rel="stylesheet" href="/assets/css/faq.css">
+  <link rel="stylesheet" href="/assets/css/asciinema-player.css">
 </head>
 <body>
 <a href="#main" class="skip-link">_("Skip to main content")</a>
@@ -59,9 +59,6 @@
     <label for="home-arch-select" class="visually-hidden">Filter by architecture</label>
     <select name="arch" id="home-arch-select">
       <option value="">_("All architectures")</option>
-      <option value="x86_64">x86_64</option>
-      <option value="aarch64">aarch64</option>
-      <option value="i686">i686</option>
     </select>
     <label for="home-cat-select" class="visually-hidden">_("Filter by category")</label>
     <select name="category" id="home-cat-select">
