@@ -131,6 +131,9 @@ document.addEventListener('DOMContentLoaded', function() {
           if (visible) matched.push({ index: k, rank: terms.length ? matchRank(k, terms) : 0 });
         }
 
+        var countEl = document.getElementById('results-count');
+        if (countEl) countEl.textContent = matched.length + ' results';
+
         if (terms.length) {
           matched.sort(function(a, b) {
             return a.rank !== b.rank ? a.rank - b.rank : cache[a.index].name.localeCompare(cache[b.index].name);

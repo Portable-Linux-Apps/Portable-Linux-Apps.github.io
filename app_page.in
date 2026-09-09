@@ -18,12 +18,12 @@
   <meta name="twitter:description" content="$APP_DESC">
   <link rel="canonical" href="https://portable-linux-apps.github.io/$LANG/app/$APP_NAME.html">
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
-  <link rel="stylesheet" href="../../assets/css/style.css">
-  <link rel="stylesheet" href="../../assets/css/app.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/app.css">
   <link rel="preconnect" href="/app/$APP_NAME.json">
-  <link rel="preconnect" href="../../assets/css/style.css">
-  <link rel="preconnect" href="../../assets/css/app.css">
-  <link rel="preconnect" href="../../assets/js/app_page.js">
+  <link rel="preconnect" href="/assets/css/style.css">
+  <link rel="preconnect" href="/assets/css/app.css">
+  <link rel="preconnect" href="/assets/js/app_page.js">
 </head>
 <body>
 <a href="#main" class="skip-link">_("Skip to main content")</a>

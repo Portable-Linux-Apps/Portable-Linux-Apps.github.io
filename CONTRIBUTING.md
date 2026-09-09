@@ -72,6 +72,7 @@ The site supports multiple languages using gettext `.po` files. Translatable str
 **Directory structure:**
 ```
 locales/
+├── pla-site.pot          # Translation template
 ├── en/
 │   └── pla-site.po       # English translations (source language)
 ├── it/
@@ -122,7 +123,7 @@ The [static.yml](.github/workflows/static.yml) workflow builds and deploys the s
 
 ```sh
 # download the generator
-wget -O pla-site-tool "https://github.com/kazam0180/portable-apps/releases/download/pla-site-tool-0.1.3/pla-site-tool_0.1.3-x86_64.AppImage"
+wget -O pla-site-tool "https://github.com/kazam0180/portable-apps/releases/download/pla-site-tool-0.2.3/pla-site-tool_0.2.3-x86_64.AppImage"
 chmod +x pla-site-tool
 
 ./pla-site-tool          # generates the site into public/

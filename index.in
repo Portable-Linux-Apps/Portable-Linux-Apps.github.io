@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="$LANG">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,11 +17,11 @@
   <meta name="twitter:image" content="https://portable-linux-apps.github.io/pla.jpg">
   <meta name="twitter:description" content="The first AUR-inspired Software Center of all AppImage packages and portable applications for GNU/Linux.">
   <link rel="canonical" href="https://portable-linux-apps.github.io/$LANG/index.html">
-  <link rel="icon" href="../favicon.ico" type="image/x-icon">
-  <link rel="stylesheet" href="../assets/css/style.css">
-  <link rel="stylesheet" href="../assets/css/index.css">
-  <link rel="stylesheet" href="../assets/css/faq.css">
-  <link rel="stylesheet" href="../assets/css/asciinema-player.css">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/index.css">
+  <link rel="stylesheet" href="/assets/css/faq.css">
+  <link rel="stylesheet" href="/assets/css/asciinema-player.css">
 </head>
 <body>
 <a href="#main" class="skip-link">_("Skip to main content")</a>
@@ -59,9 +59,6 @@
     <label for="home-arch-select" class="visually-hidden">Filter by architecture</label>
     <select name="arch" id="home-arch-select">
       <option value="">_("All architectures")</option>
-      <option value="x86_64">x86_64</option>
-      <option value="aarch64">aarch64</option>
-      <option value="i686">i686</option>
     </select>
     <label for="home-cat-select" class="visually-hidden">_("Filter by category")</label>
     <select name="category" id="home-cat-select">
@@ -71,7 +68,12 @@
   </form>
 </div>
 
-<section>
+<section id="search-results" style="display: none;">
+  <span id="results-count" class="results-count"></span>
+  <div id="app-list"></div>
+</section>
+
+<section id="categories-section">
   <h2>_("Categories")</h2>
   <ul class="categories-list">
     <li><a class="category-link" href="appimages.html">AppImages</a></li>
@@ -347,6 +349,142 @@ only use **bold**, *italic*, ++underline++, lists markdown here
 <script src="/assets/js/casts.js"></script>
 <script src="/assets/js/carousel.js"></script>
 <script>
+function escapeHtml(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+var homeAppCache = [];
+var homeAppNodes = [];
+
+function renderHomeApps(data) {
+  var container = document.getElementById('app-list');
+  var lang = document.getElementById('lang');
+  var lang_value = lang ? lang.innerHTML : 'en';
+  var arch = document.getElementById('home-arch-select');
+  var arch_value = arch && arch.value ? arch.value : 'x86_64';
+  var html = '<div class="app-list">';
+  for (var i = 0; i < data.length; i++) {
+    var app = data[i];
+    html += '<div class="app-item" data-index="' + i + '">';
+    html += '<img loading="lazy" src="/icons_48/' + encodeURIComponent(app.name) + '.webp" width="48" height="48" onerror="this.src=\'/no-icon_48.webp\'" alt="" class="app-icon">';
+    html += '<div class="app-body">';
+    html += '<a href="/' + lang_value + '/app/' + encodeURIComponent(app.name) + '.html" class="app-name"><strong>' + escapeHtml(app.name) + '</strong></a>';
+    html += '<p class="app-desc">' + escapeHtml(app.description) + '</p>';
+    html += '</div>';
+    html += '<div class="app-links">';
+    var suiteMatch = app.description && app.description.match(/This is part of "([^"]+)"/);
+    var scriptName = suiteMatch ? suiteMatch[1] : app.name;
+    html += '<a href="https://github.com/ivan-hc/AM/blob/main/programs/' + encodeURIComponent(arch_value) + '/' + encodeURIComponent(scriptName) + '" class="install-link install-blob" data-script="' + encodeURIComponent(scriptName) + '">blob</a>';
+    html += '<a href="https://raw.githubusercontent.com/ivan-hc/AM/main/programs/' + encodeURIComponent(arch_value) + '/' + encodeURIComponent(scriptName) + '" class="install-link install-raw" data-script="' + encodeURIComponent(scriptName) + '">raw</a>';
+    html += '</div>';
+    html += '</div>';
+  }
+  html += '</div>';
+  container.innerHTML = html;
+
+  homeAppNodes = [];
+  var items = container.querySelectorAll('.app-item');
+  for (var j = 0; j < items.length; j++) {
+    homeAppNodes.push(items[j]);
+  }
+}
+
+function filterHomeApps() {
+  var container = document.getElementById('app-list');
+  var list = container ? container.querySelector('.app-list') : null;
+  if (!list) return;
+  var input = document.getElementById('home-search-input');
+  var arch = document.getElementById('home-arch-select');
+  var terms = input ? input.value.toLowerCase().split(/\s+/).filter(Boolean) : [];
+  var selectedArch = arch ? arch.value : '';
+  var list = document.getElementById('app-list').querySelector('.app-list');
+  var matched = [];
+
+  var oldHeadings = list.querySelectorAll('.app-group-heading');
+  for (var h = 0; h < oldHeadings.length; h++) oldHeadings[h].remove();
+
+  for (var k = 0; k < homeAppNodes.length; k++) {
+    var matchesSearch = !terms.length ||
+      terms.every(function(t) {
+        return homeAppCache[k].name.indexOf(t) !== -1 ||
+               homeAppCache[k].desc.indexOf(t) !== -1;
+      });
+    var matchesArch = !selectedArch ||
+      homeAppCache[k].archs.some(function(a) { return a === selectedArch; });
+    var visible = matchesSearch && matchesArch;
+    homeAppNodes[k].style.display = visible ? '' : 'none';
+    if (visible) matched.push({ index: k, rank: terms.length ? matchRank(k, terms) : 0 });
+  }
+
+  var countEl = document.getElementById('results-count');
+  if (countEl) countEl.textContent = matched.length + ' results';
+
+  if (terms.length) {
+    matched.sort(function(a, b) {
+      return a.rank !== b.rank ? a.rank - b.rank : homeAppCache[a.index].name.localeCompare(homeAppCache[b.index].name);
+    });
+  }
+
+  var RANK_LABELS = ['Exact match', 'Name match', 'Name match', 'Description match'];
+  var lastLabel = null;
+  for (var m = 0; m < matched.length; m++) {
+    var entry = matched[m];
+    if (terms.length) {
+      var label = RANK_LABELS[entry.rank];
+      if (label !== lastLabel) {
+        var heading = document.createElement('div');
+        heading.className = 'app-group-heading';
+        heading.textContent = label;
+        list.appendChild(heading);
+        lastLabel = label;
+      }
+    }
+    list.appendChild(homeAppNodes[entry.index]);
+  }
+}
+
+function matchRank(k, terms) {
+  var name = homeAppCache[k].name;
+  if (terms.length === 1 && name === terms[0]) return 0;
+  var nameHit = terms.every(function(t) { return name.indexOf(t) !== -1; });
+  if (!nameHit) return 3;
+  return name.indexOf(terms[0]) === 0 ? 1 : 2;
+}
+
+function loadAndShowResults(jsonUrl, title) {
+  var resultsSection = document.getElementById('search-results');
+  var categoriesSection = document.getElementById('categories-section');
+
+  resultsSection.style.display = '';
+  categoriesSection.style.display = 'none';
+
+  fetch(jsonUrl)
+    .then(function(r) { return r.json() })
+    .then(function(data) {
+      var dataArray = [];
+      for (var key in data) {
+        if (data.hasOwnProperty(key)) {
+          dataArray.push({ name: key, description: data[key].description, archs: data[key].archs || [] });
+        }
+      }
+
+      homeAppCache = [];
+      for (var i = 0; i < dataArray.length; i++) {
+        homeAppCache.push({
+          name: dataArray[i].name.toLowerCase(),
+          desc: dataArray[i].description ? dataArray[i].description.toLowerCase() : '',
+          archs: dataArray[i].archs || []
+        });
+      }
+
+      renderHomeApps(dataArray);
+      filterHomeApps();
+    })
+    .catch(function(err) {
+      document.getElementById('app-list').innerHTML = '<p>Failed to load apps.</p>' + err;
+    });
+}
+
 function handleHomeSearch(event) {
   event.preventDefault();
   var input = document.getElementById('home-search-input');
@@ -357,24 +495,35 @@ function handleHomeSearch(event) {
   var arch = archSelect ? archSelect.value : '';
   var category = catSelect ? catSelect.value : '';
 
-  // If category is selected, go to category page with search and arch params
+  var jsonUrl;
+  var title;
   if (category) {
-    var url = category + '.html';
-    var params = [];
-    if (searchTerm) params.push('s=' + encodeURIComponent(searchTerm));
-    if (arch) params.push('a=' + encodeURIComponent(arch));
-    if (params.length > 0) url += '?' + params.join('&');
-    window.location.href = url;
+    jsonUrl = '/categories/' + category + '.json';
+    title = catSelect.options[catSelect.selectedIndex].text;
   } else {
-    // No category selected, go to apps.html with search and arch params
-    var url = 'apps.html';
-    var params = [];
-    if (searchTerm) params.push('s=' + encodeURIComponent(searchTerm));
-    if (arch) params.push('a=' + encodeURIComponent(arch));
-    if (params.length > 0) url += '?' + params.join('&');
-    window.location.href = url;
+    jsonUrl = '/apps.json';
+    title = 'Applications';
   }
+
+  loadAndShowResults(jsonUrl, title);
 }
+
+document.addEventListener('DOMContentLoaded', function() {
+  var input = document.getElementById('home-search-input');
+  var arch = document.getElementById('home-arch-select');
+
+  if (input) {
+    var timer;
+    input.addEventListener('input', function() {
+      clearTimeout(timer);
+      timer = setTimeout(filterHomeApps, 150);
+    });
+  }
+
+  if (arch) {
+    arch.addEventListener('change', filterHomeApps);
+  }
+});
 </script>
 
 </body>

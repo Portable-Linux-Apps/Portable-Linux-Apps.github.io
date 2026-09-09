@@ -1,8 +1,9 @@
 am_repo = "https://raw.githubusercontent.com/ivan-hc/AM/main"
-archs = ["x86_64", "aarch64", "i686"]
+site_url = "https://portable-linux-apps.github.io"
+archs = ["x86_64", "aarch64", "i686", "armv7l"]
 meta_pkgs = ["kdegames", "kdeutils", "node", "platform-tools"]
-out_dir = "public"
 languages = ["en", "it"]
+out_dir = "public"
 
 [[categories]]
 name = "ai"
@@ -178,9 +179,10 @@ name = "youtube"
 include = "youtube"
 
 [cat_comments]
-appimage-on-the-fly = 'Here are listed $COUNT AppImages (including $ITEM_COUNT metapackage items) built on the fly from the official portable builds, showing how easily portable apps can be converted to AppImages to gain isolated dotfiles, sandboxing via AM and AppMan, and reduced disk usage, serving as a proof of concept to encourage upstream developers to distribute them directly in such packaging format. Powered by <a href="https://github.com/ivan-hc/portable2appimage">portable2appimage</a>'
-appimages = 'Here are listed the $COUNT unique Appimages managed by <a href="https://github.com/ivan-hc/AM">AM</a> and <a href="https://github.com/ivan-hc/AppMan">AppMan</a>'
-metapackages = """Here are listed $SUITE_COUNT "metapackages" (along with their $ITEM_COUNT items), those few scripts that allow the use of many more programs with one installation. Find which metapackage corresponds to the program you're interested in from this list"""
-portable-desktop = 'Here are listed $COUNT desktop applications NOT in AppImage format. Launchers and icons are downloaded separately during the installation process (through <a href="https://github.com/ivan-hc/AM">AM</a> and <a href="https://github.com/ivan-hc/AppMan">AppMan</a>). Most of them already have all the necessary requirements to be easily exported into AppImage packages... or they are waiting to be moved to another category (see <a href="appimage-on-the-fly.html">AppImages on-the-fly</a>)'
-portable = "Here are listed $COUNT command line utilities: static and dynamic ELF binaries, or simple scripts"
 am-utils = 'Here are listed $COUNT static binaries built for <a href="https://github.com/ivan-hc/AM">AM</a> and <a href="https://github.com/ivan-hc/AppMan">AppMan</a> which can be used as a fallback in case the system does not have them'
+metapackages = """Here are listed $SUITE_COUNT "metapackages" (along with their $ITEM_COUNT items), those few scripts that allow the use of many more programs with one installation. Find which metapackage corresponds to the program you're interested in from this list"""
+portable-cli = "Here are listed $COUNT command line utilities: static and dynamic ELF binaries, or simple scripts"
+portable-desktop = 'Here are listed $COUNT desktop applications NOT in AppImage format. Launchers and icons are downloaded separately during the installation process (through <a href="https://github.com/ivan-hc/AM">AM</a> and <a href="https://github.com/ivan-hc/AppMan">AppMan</a>). Most of them already have all the necessary requirements to be easily exported into AppImage packages... or they are waiting to be moved to another category (see <a href="appimage-on-the-fly.html">AppImages on-the-fly</a>)'
+appimages = 'Here are listed the $COUNT unique Appimages managed by <a href="https://github.com/ivan-hc/AM">AM</a> and <a href="https://github.com/ivan-hc/AppMan">AppMan</a>'
+appimage-on-the-fly = 'Here are listed $COUNT AppImages (including $ITEM_COUNT metapackage items) built on the fly from the official portable builds, showing how easily portable apps can be converted to AppImages to gain isolated dotfiles, sandboxing via AM and AppMan, and reduced disk usage, serving as a proof of concept to encourage upstream developers to distribute them directly in such packaging format. Powered by <a href="https://github.com/ivan-hc/portable2appimage">portable2appimage</a>'
+portable = "Here are listed $COUNT portable programs NOT in AppImage format"

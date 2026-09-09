@@ -192,6 +192,14 @@ nav a:focus {
   background: var(--color-surface);
 }
 
+/* === Results Count === */
+.results-count {
+  color: var(--color-text-muted);
+  font-size: 0.875rem;
+  margin-left: 0.5rem;
+  white-space: nowrap;
+}
+
 @media (max-width: 640px) {
   .lang-selector {
     width: 100%;
