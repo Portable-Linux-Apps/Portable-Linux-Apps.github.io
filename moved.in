@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="This page has been moved, please update your bookmarks and references">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="/assets/css/moved.css">
+<title>Page Moved</title>
+</head>
+<body><main>
+<h1>This page has moved :)</h1>
+<h3>Please goto the <a href="$NEW_URL">new page</a> and update your bookmarks and references.</h3>
+</main></body>
+</html>
