@@ -25,7 +25,7 @@
       // Header with icon, name, sites
       var iconUrl = '../../icons/' + encodeURIComponent(name) + '.webp';
       html += '<div class="app-detail-header">';
-      html += '<img src="' + iconUrl + '" alt="" onerror="this.src=\'../../no-icon.webp\'">';
+      html += '<img src="' + iconUrl + '" alt="icon for ' + escapeHtml(app.name || name) + '" onerror="this.src=\'../../no-icon.webp\'">';
       html += '<div class="app-title">';
       html += '<h1>' + escapeHtml(app.name || name) + '</h1>';
       html += '<div class="app-meta">' + meta_info + '</div>';
@@ -47,7 +47,7 @@
         html += '<h2>Screenshots</h2>';
         html += '<div class="gallery-inner">';
         html += '<button class="gallery-btn" id="gal-prev" aria-label="Previous">&#10094;</button>';
-        html += '<img id="gal-img" fetchpriority="high" src="' + app.screenshots[0] + '" alt="Screenshot">';
+        html += '<img id="gal-img" fetchpriority="high" src="' + app.screenshots[0] + '" alt="screenshot 1 of ' + escapeHtml(app.name || name) + '">';
         html += '<button class="gallery-btn" id="gal-next" aria-label="Next">&#10095;</button>';
         html += '</div>';
         html += '<div class="gallery-dots" id="gal-dots"></div>';
@@ -135,6 +135,7 @@
 
           setTimeout(function() {
             galImg.src = shots[idx];
+            galImg.alt = 'screenshot ' + (idx + 1) + ' of ' + escapeHtml(app.name || name);
 
             function reveal() {
               // Force a reflow so removing the class re-triggers the transition.
