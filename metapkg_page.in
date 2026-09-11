@@ -53,7 +53,7 @@
 
 <div id="app-name" style="display: none;">$APP_NAME</div>
 <div id="suite-name" style="display: none;">$SUITE_NAME</div>
-<div id="app-root"></div>
+<div id="app-root"><h1>$APP_NAME</h1></div>
 
 <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
 
