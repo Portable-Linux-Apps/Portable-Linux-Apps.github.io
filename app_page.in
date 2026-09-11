@@ -24,6 +24,7 @@
   <link rel="preconnect" href="/assets/css/style.css">
   <link rel="preconnect" href="/assets/css/app.css">
   <link rel="preconnect" href="/assets/js/app_page.js">
+  <meta name="keywords" content="$KEYWORDS">
 </head>
 <body>
 <a href="#main" class="skip-link">_("Skip to main content")</a>
@@ -51,7 +52,7 @@
 </div>
 
 <div id="app-name" style="display: none;">$APP_NAME</div>
-<div id="app-root"></div>
+<div id="app-root"><h1>$APP_NAME</h1></div>
 
 <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
 
