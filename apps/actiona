@@ -1,8 +1,59 @@
 # actiona
 ===
 Actiona is an automation tool that allows you to execute many actions on your computer such as emulating mouse clicks, key presses, showing message boxes, editing text files, etc.
+It allows:
+
+1. Device emulation
+  - Write text
+  - Press a key
+  - Move the mouse cursor (point or path)
+  - Click somewhere on the screen
+  - Rotate the mouse wheel
+  - Wait for a key to be pressed
+
+2. System interaction
+  - Run a command (detached or not)
+  - Kill a process
+  - Display a notification
+  - Wait for a pixel color on the screen
+  - Restart/stop/lock the computer
+  - Open an URL
+  - Play a sound
+  - Find an image on the screen
+  - Use text to speech
+
+3. Windowing system interaction
+  - Display a message box
+  - Enter some data
+  - Wait for a window
+  - Close/move/resize/etc. a window
+
+4. Data manipulation
+  - Write/read a text file
+  - Write/read a binary file
+  - Write/read an INI file
+  - Write/read into the registry
+  - Write/read the clipboard
+  - Read an environment variable
+  - Copy a file
+  - Download a file
+  - Send an e-mail
+
+5. Internal/flow manipulation
+  - Pause the execution
+  - Run Javascript code
+  - Go to a line or label
+  - Run a loop
+  - Do nothing (more useful than you would think!)
+  - Stop the execution
+  - Set/read a variable
+  - Wait for a particular time/date
+  - Exit
+  - Wait for a variable
+  - Write into the app's console
+  - Begin/end/call a procedure
+
+Each action has parameters, and Javascript can be written in every field and will be run when the action is executed.
 ===
-# SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/Jmgr/actiona
-# SOURCES: 
-# BUTTONS: 
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/actiona/1.webp
+# SITES: https://github.com/Jmgr/actiona http://actiona.tools
