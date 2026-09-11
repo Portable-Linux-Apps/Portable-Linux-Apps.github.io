@@ -80,6 +80,7 @@ jobs:
           cp -r casts public/
           cp -r am-gui public/
           cp -t public/ google*.html BingSiteAuth.xml
+          echo -n "${{ secrets.INDEXNOW_KEY }}" > "public/${{ secrets.INDEXNOW_KEY }}.txt"
 
           echo "site generated" | tee -a build-log.txt
 
@@ -102,12 +103,6 @@ jobs:
             cp public/no-icon_48.webp .cache/icons/public/
           fi
 
-      - name: Upload Build Log
-        uses: actions/upload-artifact@v7
-        with:
-          name: build-log
-          path: build-log.txt
-
       - name: Setup Pages
         uses: actions/configure-pages@v6
       - name: Upload artifact
@@ -117,3 +112,53 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+
+      - name: Restore previous sitemap
+        uses: actions/cache/restore@v6
+        with:
+          path: .cache/sitemap-prev.xml
+          key: sitemap-prev-${{ github.run_id }}
+          restore-keys: |
+            sitemap-prev-
+
+      - name: Notify IndexNow
+        run: |
+          set -e
+
+          KEY=${{ secrets.INDEXNOW_KEY }}
+
+          grep -oP '(?<=<loc>)[^<]+' public/sitemap.xml | sort > /tmp/new.txt
+          if [ -f .cache/sitemap-prev.xml ]; then
+            grep -oP '(?<=<loc>)[^<]+' .cache/sitemap-prev.xml | sort > /tmp/old.txt
+          else
+            touch /tmp/old.txt
+          fi
+          comm -13 /tmp/old.txt /tmp/new.txt > /tmp/changed.txt
+
+          if [ -s /tmp/changed.txt ]; then
+            urls=$(awk '{printf "%s\"%s\"", sep, $0; sep=","}' /tmp/changed.txt)
+            curl -sS -X POST "https://api.indexnow.org/indexnow" \
+              -H "Content-Type: application/json; charset=utf-8" \
+              -d "{\"host\":\"portable-linux-apps.github.io\",\"key\":\"$KEY\",\"keyLocation\":\"https://portable-linux-apps.github.io/$KEY.txt\",\"urlList\":[$urls]}" \
+              | tee -a build-log.txt
+            echo "Submitted $(wc -l < /tmp/changed.txt) URL(s) to IndexNow" | tee -a build-log.txt
+          else
+            echo "No new/changed URLs to submit to IndexNow" | tee -a build-log.txt
+          fi
+
+          mkdir -p .cache
+          cp public/sitemap.xml .cache/sitemap-prev.xml
+
+      - name: Save current sitemap for next run
+        if: always()
+        uses: actions/cache/save@v6
+        with:
+          path: .cache/sitemap-prev.xml
+          key: sitemap-prev-${{ github.run_id }}
+
+      - name: Upload Build Log
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: build-log
+          path: build-log.txt
