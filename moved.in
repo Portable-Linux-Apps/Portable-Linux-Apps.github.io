@@ -6,6 +6,7 @@
 <meta name="description" content="This page has been moved, please update your bookmarks and references">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
+<link rel="canonical" href="$NEW_URL">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" href="/assets/css/moved.css">
 <title>Page Moved</title>
@@ -13,5 +14,5 @@
 <body><main>
 <h1>This page has moved :)</h1>
 <h3>Please goto the <a href="$NEW_URL">new page</a> and update your bookmarks and references.</h3>
-</main></body>
+</main><script>setTimeout(function(){window.location.href="$NEW_URL";},2000);</script></body>
 </html>
