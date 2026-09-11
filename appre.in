@@ -20,7 +20,6 @@
   <meta http-equiv="refresh" content="0; url=/en/app/$APP_NAME.html">
   <link rel="preconnect" href="/assets/css/style.css">
   <link rel="stylesheet" href="/assets/css/style.css">
-  <meta name="keywords" content="Portable, Linux, AppImage, AppImages">
 </head>
 <body>
   <p>If you are not redirected automatically, <a href="/en/app/$APP_NAME.html">click here</a>.</p>
