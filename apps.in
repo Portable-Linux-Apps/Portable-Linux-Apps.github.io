@@ -14,7 +14,7 @@
   <meta name="twitter:title" content="_("APPLICATIONS - PORTABLE LINUX APPS")">
   <meta name="twitter:image" content="https://portable-linux-apps.github.io/pla.jpg">
   <meta name="twitter:description" content="_("APPLICATIONS - Portable Linux Apps full app list.")">
-  <link rel="canonical" href="https://portable-linux-apps.github.io/apps.html">
+  <link rel="canonical" href="https://portable-linux-apps.github.io/$LANG/apps.html">
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="preconnect" href="/apps.json">

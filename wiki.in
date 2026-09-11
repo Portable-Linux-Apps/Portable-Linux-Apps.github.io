@@ -16,7 +16,7 @@
   <meta name="twitter:title" content="_("Wiki - PORTABLE LINUX APPS")">
   <meta name="twitter:image" content="https://portable-linux-apps.github.io/pla.jpg">
   <meta name="twitter:description" content="_("Guides, tutorials, external links, and related projects for Portable Linux Apps and the AM package manager.")">
-  <link rel="canonical" href="https://portable-linux-apps.github.io/wiki.html">
+  <link rel="canonical" href="https://portable-linux-apps.github.io/$LANG/wiki.html">
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="stylesheet" href="/assets/css/wiki.css">
