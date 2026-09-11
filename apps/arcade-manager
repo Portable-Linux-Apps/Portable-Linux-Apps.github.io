@@ -1,8 +1,19 @@
 # arcade-manager
 ===
-Arcade management tool to handle your MAME/FBA romsets
+ArcadeManager is a rom management tool that will work with any arcade emulator romset. It helps you filter your arcade rom collection (MAME/FBNeo) by removing unwanted, bad, and unplayable games.
+
+It also includes several selection of "best games", if you feel a bit lost among the several thousand games that full MAME romsets provide, and want a quick way to just keep the best ones.
+
+It also installs overlays/bezels, but only Retropie and Recalbox are currently supported.
+
+Features:
+- User-friendly, easy to use interface with included extensive help
+- Wizard with various pre-built lists of "best games"
+- Manage rom files: copy or cleanup a selection of roms
+- Checks and fixes a romset, and converts it to non-merged (other types are not supported)
+- Download and install an overlays pack (Retropie or Recalbox)
+- Manage games lists to use with the roms file management: merge and split files, convert DAT or INI files, and more
+
 ===
-# SCREENSHOTS: /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/arcade-manager/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/arcade-manager/2.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/arcade-manager/3.webp
 # SITES: https://github.com/cosmo0/arcade-manager
-# SOURCES: 
-# BUTTONS: 
