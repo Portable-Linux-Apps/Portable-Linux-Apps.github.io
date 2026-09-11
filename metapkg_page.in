@@ -24,6 +24,7 @@
   <link rel="preconnect" href="/assets/css/style.css">
   <link rel="preconnect" href="/assets/css/app.css">
   <link rel="preconnect" href="/assets/js/app_page.js">
+  <meta name="keywords" content="$KEYWORDS">
 </head>
 <body>
 <a href="#main" class="skip-link">_("Skip to main content")</a>
