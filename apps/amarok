@@ -1,6 +1,22 @@
 # amarok
 ===
-Unofficial, powerful music player that lets you rediscover your music.
+Amarok is a free, cross-platform, versatile, powerful and feature-rich music player and collection manager.
+
+Features:
+
+- Dynamic playlists matching different criteria
+
+- Collection managing with rating support
+
+- Support for basic iPod, MTP and UMS music player devices
+
+- Integrated Internet services: last.fm, Magnatune, Ampache and more.
+
+- Scripting support
+
+- Cover manager
+
+- Replay gain support
 ===
 # SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/amarok/1.webp
 # SITES: https://github.com/pkgforge-dev/Amarok-AppImage

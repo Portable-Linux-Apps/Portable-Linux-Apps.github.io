@@ -1,6 +1,15 @@
 # transmission-qt
 ===
-Unofficial, Fast, easy, and free BitTorrent client, Qt GUI.
+BitTorrent is a peer-to-peer file-sharing protocol that is commonly used to
+distribute large amounts of data between multiple users.
+
+Transmission is a BitTorrent client with an easy-to-use interface on top of a
+cross-platform backend.
+Native interfaces are available for macOS, Linux, and Windows, as well as command line binaries and
+a web GUI.
+
+Notable features of Transmission include support for Local Peer Discovery, encryption,
+DHT, µTP, PEX and Magnet links.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/transmission-qt-AppImage

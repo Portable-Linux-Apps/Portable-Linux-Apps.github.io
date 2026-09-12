@@ -1,6 +1,23 @@
 # dhewm3
 ===
-Doom 3 GPL source port.
+Dhewm 3 is a source port of the original Doom 3 (not Doom 3 BFG, for that you may
+want to try RBDoom3BFG). It's known to work on Windows, Linux, macOS, FreeBSD,
+OpenBSD and AROS, but it should work on (or be easily portable to) any system that
+supports OpenGL 1.4 with ARB shaders, SDL and OpenAL.
+
+Compared to the original version of Doom 3, Dhewm 3 has many bugfixes,
+supports EAX-like sound effects on all operating systems and hardware
+(via OpenAL Softs EFX support), has much better support for widescreen
+resolutions and has 64bit support.
+
+It only supports old Mods if they either don't require their own game
+DLL or have been ported to Dhewm 3 - see the Mods page for more information.
+
+Mod-binaries who are supported, are bundled with Dhewm 3. External data is still required.
+
+Note that while the Doom 3 source code has been released under GPL, you still need to
+legally own the game and provide Dhewm 3 the game data to play. See the How to Install
+section for more information.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/dhewm3-AppImage

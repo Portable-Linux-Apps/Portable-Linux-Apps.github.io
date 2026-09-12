@@ -1,6 +1,24 @@
 # vcmi
 ===
-Unofficial AppImage of vcmi open-source engine for Heroes of Might and Magic III
+VCMI is an open-source engine for Heroes of Might and Magic III with new possibilities. Years of intensive work resulted in an impressive amount of features. Among the current features are:
+
+- Complete gameplay mechanics
+
+- Almost all objects, abilities, spells and other content
+
+- Basic battle AI and adventure AI
+
+- Many GUI improvements: high resolutions, stack queue, creature window
+
+- Advanced and easy mod support - add new towns, creatures, heroes, artifacts and spells without limits or conflicts
+
+- Launcher for easy configuration - download mods from our server and install them immediately!
+
+- Random map generator that supports objects added by mods
+
+Note: In order to play the game using VCMI you need to own data files for Heroes of Might and Magic III: The Shadow of Death.
+
+If you want help, please check our forum, bug tracker or GitHub page.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/vcmi-AppImage

@@ -1,6 +1,16 @@
 # qtcreator
 ===
-Unofficial, lightweight, cross-platform integrated development environment.
+Qt Creator provides a cross-platform, complete integrated development
+environment (IDE) for application developers to create applications for
+multiple desktop and mobile device platforms, such as Android and iOS.
+
+Qt Creator enables a team of developers to share a project across different
+development platforms with a common tool for development and debugging.
+
+The main goal for Qt Creator is meeting the development needs of Qt
+developers who are looking for simplicity, usability, productivity,
+extendibility and openness, while aiming to lower the barrier of entry for
+newcomers to Qt.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/QtCreator-AppImage

@@ -1,6 +1,42 @@
 # system-monitoring-center
 ===
-Unofficial. Multi-featured system monitor.
+A multi-featured, low-resource system monitor that lets you easily track and manage CPU, RAM, disk, network, and GPU usage
+
+Features:
+
+- Detailed system performance and usage usage monitoring/managing features
+
+- Monitoring CPU, RAM, Disk, Network, GPU hardware/usage information
+
+- Monitoring and managing processes and services (systemd)
+
+- Monitoring users, sensors and general system information
+
+- Supports PolicyKit. No need to run the application with "sudo"
+
+- Hardware selection options (selecting CPU cores, disks, network cards, GPUs)
+
+- Plotting performance data of multiple devices at the same time
+
+- Interactive charts for querying performance data on any point
+
+- Option for showing processes as tree or list
+
+- Optimized for low CPU usage
+
+- Customization menus for almost all tabs
+
+- Supports ARM architecture
+
+- Free and open source
+
+Notes for Limitations:
+
+- GPU usage information availability depends on vendor/driver.
+
+- GPU load is not tracked if GPU tab is switched off (for lower CPU usage).
+
+- Virtual machines may not provide CPU min-max frequencies, sensors and RAM hardware information.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/system-monitoring-center-AppImage

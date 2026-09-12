@@ -1,6 +1,9 @@
 # rocksndiamonds
 ===
-Unofficial, an open source arcade style game of Boulder Dash, Emerald Mine, and Sokoban.
+Rocks 'n' Diamonds is a action puzzle game where you have to navigate a maze
+of dirt, rocks, enemies and quicksand, while collecting gems and making it
+safely to the exit.
+Be careful not to get crushed by falling rocks or killed by an enemy.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/RocksnDiamonds-AppImage

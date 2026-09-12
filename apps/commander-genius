@@ -1,6 +1,20 @@
 # commander-genius
 ===
-Unofficial, an open-source interpreter for the Commander Keen (1-6, Dreams) and Cosmos Cosmic series.
+Commander-Genius aka CloneKeenPlus is an engine which interprets
+Commander Keen 1-6, Dreams and Cosmos the Cosmic Adventure.
+
+But there is more: How about four player coop, VGA graphics, remastered music and
+many great mods to apply. There even exists the unoffical trilogy that was planned back then
+(Keen 7-9). Eventhough that trilogy was never released, it got picked up by fans.
+With an integrated CG game store you can download every free game with one click and
+start playing.
+
+For registered Keen games you need the game data of the games
+in order to play them. Check the Readme file for more information on that.
+Episode 2, 3, 5 and 6 are registered versions which can be
+purchased by 3D Realms, Apogee, GOG or bought by someone else.
+If you still have the old games of the registered version,
+then copy those into a reachable directory and give it a try.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Commander-Genius-AppImage

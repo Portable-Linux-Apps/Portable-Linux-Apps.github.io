@@ -1,6 +1,18 @@
 # tagger
 ===
-Unofficial. Simple audio tagger with support for various audio formats.
+— Support for many music file types (mp3, ogg, flac, wma, wav, and more)
+
+— Edit tags and album art of multiple files, even across subfolders, all at once
+
+— Edit unsynchronized and synchronized lyrics for a file (with LRC import and export support)
+
+— Convert filenames to tags and tags to filenames with ease
+
+— Lookup file information using MusicBrainz
+
+— Lookup lyric information using Music163 and Letras
+
+— Open, manage, and create playlists in many formats (m3u, pls, xspf, and more)
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Tagger-AppImage

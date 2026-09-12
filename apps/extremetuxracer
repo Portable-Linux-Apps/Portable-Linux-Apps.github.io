@@ -1,8 +1,11 @@
 # extremetuxracer
 ===
-Extreme Tux Racer, or etracer for short, is a simple OpenGL racing game featuring Tux, the Linux mascot. The object of  the game is to slide down a mountain covered in ice and snow as fast as possible, avoiding the trees and rocks that would slow you down.
+Extreme Tux Racer is a downhill racing game starring Tux, the Linux
+penguin.
 
- This is the unofficial AppImage.
+Tux must slide on his belly down snow and ice covered hills,
+collecting herring, and making it to the finish line before the
+time is up.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://sourceforge.net/projects/extremetuxracer

@@ -1,6 +1,51 @@
 # gpu-screen-recorder
 ===
-Unofficial AppImage of GPU Screen Recorder [Maintainer=@Samueru-sama]
+This is a screen recorder that has minimal impact on system performance by recording a monitor using the GPU only, similar to shadowplay on windows. This is the fastest screen recording tool for Linux. This screen recorder works on X11 and Wayland on AMD, Intel and NVIDIA.
+
+This screen recorder can be used for recording your desktop offline, for live streaming and for nvidia-like instant replay, where only the last few minutes are saved.
+
+GPU Screen Recorder is designed to support hardware video encoding with both old and new GPUs.
+
+Supported video codecs:
+
+- H264 (default)
+
+- HEVC (Optionally with HDR)
+
+- AV1 (Optionally with HDR)
+
+- VP8
+
+- VP9
+
+Supported audio codecs:
+
+- Opus (default)
+
+- AAC
+
+Supported image formats:
+
+- JPEG
+
+- PNG
+
+At the moment the program comes with two different UIs. A gtk based one and a new experimental ShadowPlay-like fullscreen overlay UI. The gtk based UI will be removed in the future.
+You can switch to the new UI by clicking on "Try out the new UI" and then after that is done press Left Alt+Z to open/close it.
+
+Videos are in variable framerate format by default. Use MPV to play such videos, otherwise you might experience stuttering in the video if you are using a buggy video player. Alternatively change framerate mode to constant framerate.
+
+For more information visit the GPU Screen Recorder homepage.
+
+If you use the new UI and also keyboard remapping software such as keyd then make sure you make the keyboard remapping software ignores "gsr-ui virtual keyboard" (dec0:5eba device id), otherwise you may be unable to use your keyboard.
+You can press (left) ctrl+shift+alt+esc to close gpu screen recorder and remove it from system startup if this happens.
+You should also change hotkeys option in gpu screen recorder to only grab virtual devices when using keyboard remapping software.
+
+GPU Screen Recorder can install files in $HOME/.local/share/gpu-screen-recorder. If you want to uninstall GPU Screen Recorder then you will have to remove this directory manually.
+
+If you tried out the new UI then an xdg autostart desktop entry was added to ~/.config/autostart/gpu-screen-recorder-ui.desktop.
+
+If you want to uninstall GPU Screen Recorder then you will have to remove that file and ~/.local/share/gnome-shell/extensions/gpu-screen-recorder@dec05eba.com/ as well (if you use GNOME).
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/gpu-screen-recorder-AppImage

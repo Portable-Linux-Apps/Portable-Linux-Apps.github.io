@@ -1,6 +1,13 @@
 # clapper
 ===
-Unofficial. A modern media player designed for simplicity and ease of use.
+Clapper is a modern media player designed for simplicity and ease of use.
+Powered by GStreamer and built for the GNOME desktop environment using
+GTK4 toolkit, it has a clean and stylish interface that lets you focus
+on enjoying your favorite videos.
+
+Clapper uses a playback queue where you can add multiple media files.
+Think of it like a playlist that you can build. You can easily reorder
+items or remove them from the queue with a simple drag and drop operation.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Clapper-AppImage

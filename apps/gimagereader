@@ -1,6 +1,20 @@
 # gimagereader
 ===
- Unofficial AppImage of gImageReader.
+gImageReader is a simple optical character recognition (OCR) application which acts as a frontend to the tesseract OCR engine. Features include:
+
+- Import PDF documents and images from disk, scanning devices, clipboard and screenshots
+
+- Process multiple images and documents in one go
+
+- Define, manually or automatically, the recognition area
+
+- Recognize and export as plain text or as hOCR documents
+
+- Recognize text next to images
+
+- Post-processing recognized text, including spell checking
+
+- Generate PDF/ODT documents from hOCR documents
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/gimagereader-appimage

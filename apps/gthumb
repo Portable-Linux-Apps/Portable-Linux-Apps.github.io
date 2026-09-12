@@ -1,6 +1,28 @@
 # gthumb
 ===
-Unofficial, image viewer and browser.
+gThumb is an image viewer, editor, browser and organizer.  It is designed
+to be well integrated with the GNOME 3 desktop.
+
+As an image viewer gThumb allows to view common image file formats
+such as BMP, JPEG, GIF (including the animations), PNG, TIFF, TGA and
+RAW images.
+It is also possible to view various metadata types embedded inside an
+image such as EXIF, IPTC and XMP.
+
+As an image editor gThumb allows to scale, rotate and crop the images;
+change the saturation, lightness, contrast as well as other color
+transformations.
+
+As an image browser gThumb shows the thumbnails of the images saved on
+your disk, allows to perform the common operations of a file manager such
+as copy, move and delete files and folders.
+Furthermore there is a series of image specific tools such as JPEG
+lossless transformations; image resize; format conversion; slideshow;
+setting an image as desktop background and several others.
+
+As an image organizer gThumb allows to add comments and other metadata to
+images; organize images in catalogs and catalogs in libraries; search
+for images and save the result as a catalog.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/gThumb-AppImage

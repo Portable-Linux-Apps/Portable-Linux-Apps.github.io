@@ -1,6 +1,8 @@
 # bibletime
 ===
-Unofficial, a Bible study application based on the Sword library and Qt toolkit.
+BibleTime is a free and open-source desktop program for Bible study.
+BibleTime may be used to study over 200 free Bible texts, commentaries,
+dictionaries and books, provided by Crosswire Bible Society via the SWORD library.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/BibleTime-AppImage

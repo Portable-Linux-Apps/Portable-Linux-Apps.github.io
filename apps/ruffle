@@ -1,8 +1,21 @@
 # ruffle
 ===
-A Flash Player emulator written in Rust.
+Ruffle is a Flash Player emulator written in Rust.
+Leveraging the safety guarantees of Rust, we can confidently avoid all
+the security pitfalls that Flash had a reputation for.
+Ruffle puts Flash back on the web, where it belongs!
 
- This is the portable official version converted to an AppImage by our team, "Portable Linux Apps" , no additional changes have been made.
+This application lets you run Flash content on your computer without a browser in-between,
+and take full advantage of your GPU and system resources to get those extra frames when playing intense games.
+
+Ruffle is an entirely open source project maintained by volunteers.
+We're all passionate about the preservation of internet history, and we were drawn to working on this
+project to help preserve the many websites and plethora of content that will no longer be accessible
+when users can no longer run the official Flash Player.
+If you would like to help support this project, we welcome all contributions of any kind –
+even if it's just playing some old games and seeing how well they run.
+
+This is the portable official version converted to an AppImage by the Portable Linux Apps team, with no additional changes made.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/ruffle-rs/ruffle

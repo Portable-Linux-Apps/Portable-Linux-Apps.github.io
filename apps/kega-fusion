@@ -1,6 +1,14 @@
 # kega-fusion
 ===
-Unofficial, an emulator of classic Sega consoles, including SMS/GG, Genesis/Megadrive and add-ons.
+Kega Fusion is an emulator for a number of different Sega 8 and 16-bit consoles.
+
+- Emulates the Sega SG-1000, SC-3000, Master System, and Game Gear
+
+- Emulates the Sega MegaDrive/Genesis and its accessories the Sega Mega-CD/Sega-CD and the Sega 32X
+
+- Emulates the Sega Pico
+
+This is an unofficial community AppImage packaging, not affiliated with or endorsed by Steve Snake or Carpe Ludum.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Kega-Fusion-AppImage

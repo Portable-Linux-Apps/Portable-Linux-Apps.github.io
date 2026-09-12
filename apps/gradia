@@ -1,6 +1,18 @@
 # gradia
 ===
-Unofficial, screenshot/picture editor and uploader.
+Gradia helps you get your screenshots ready for sharing, whether quickly with friends or colleagues, or professionally with the entire world.
+
+Key features:
+
+- Ten annotation modes, including text, arrow, and censor
+
+- Optional image and gradient backgrounds
+
+- Image settings like shadow, padding, and auto-balance
+
+- Quick upload flow to easily share images via services like Imgur
+
+- Convert code snippets into clean high-resolution images
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Gradia-AppImage
