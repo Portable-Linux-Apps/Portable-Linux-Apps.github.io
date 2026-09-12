@@ -1,6 +1,38 @@
 # foot
 ===
-Unofficial. Fast, lightweight, and minimalistic Wayland terminal emulator.
+- Fast
+
+- Lightweight, in dependencies, on-disk and in-memory
+
+- Wayland native
+
+- DE agnostic
+
+- Server/daemon mode
+
+- User configurable font fallback
+
+- On-the-fly font resize
+
+- On-the-fly DPI font size adjustment
+
+- Scrollback search
+
+- Keyboard driven URL detection
+
+- Color emoji support
+
+- IME (via text-input-v3)
+
+- Multi-seat
+
+- True Color (24bpp)
+
+- Styled and colored underlines
+
+- Synchronized Updates support
+
+- Sixel image support
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/foot-AppImage

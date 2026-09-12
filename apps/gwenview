@@ -1,6 +1,14 @@
 # gwenview
 ===
-Unofficial. Fast and easy to use image viewer by KDE. ideal for displaying a collection of images.
+Gwenview is a fast and easy to use image viewer by KDE, ideal for browsing and displaying a collection of images.
+
+Features:
+
+- Simple image editing: rotate, crop, resize, mirror, flip, reduce red eye, and adjust brightness, contrast, or gamma
+
+- Annotate and mark up images with arrows, shapes, text boxes, image stamps, and more
+
+- Basic file management actions such as copy, move, delete, and others
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Gwenview-AppImage

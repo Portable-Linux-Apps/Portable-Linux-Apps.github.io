@@ -1,10 +1,32 @@
 # webcamoid
 ===
-Webcamoid is a multi-platform camera capture app focused on providing all major features required by power users with a very simple and intuitive interface.
- 
- This is the unofficial AppImage.
- 
- The official executable binaries are available on the official website, upon donation.
+Webcamoid is a full featured and multiplatform camera suite.
+
+- Cross-platform (GNU/Linux, Mac, Windows)
+
+- Take pictures and record videos with the webcam
+
+- Manages multiple webcams
+
+- Written in C++ and Qt
+
+- Custom controls for each webcam
+
+- Add funny effects to the webcam
+
+- +60 effects available
+
+- Translated to many languages.
+
+- Use custom network and local files as capture devices
+
+- Capture from desktop
+
+- Many recording formats
+
+- Virtual camera support for feeding other programs
+
+This is an unofficial community AppImage. The official executable binaries are available on the official Webcamoid website, upon donation.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://webcamoid.github.io

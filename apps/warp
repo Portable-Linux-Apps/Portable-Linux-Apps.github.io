@@ -1,6 +1,24 @@
 # warp
 ===
-Unofficial. Fast and secure file transfer through internet or local network exchanging a word-based code.
+Warp allows you to securely send files to each other via the internet or local network by
+exchanging a word-based code.
+
+The best transfer method will be determined using the “Magic Wormhole” protocol which includes
+local network transfer if possible.
+
+Features
+
+- Send files between multiple devices
+
+- Every file transfer is encrypted
+
+- Directly transfer files on the local network if possible
+
+- An internet connection is required
+
+- QR Code support
+
+- Compatibility with the Magic Wormhole command line client and all other compatible apps
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Warp-AppImage

@@ -1,8 +1,10 @@
 # speedcrunch
 ===
-A high-precision scientific calculator featuring a fast, keyboard-driven user interface. It is free and open-source software, licensed under the GPL.
+SpeedCrunch is a fast, high-precision scientific calculator. It features a syntax-highlighted scrollable display and is designed to be fully used via keyboard.
 
- This is the unofficial AppImage.
+It includes many built-in maths functions and supports advanced features like user-defined functions, complex numbers, and unit conversions. This is combined with a simple yet powerful user interface featuring on-the-fly results preview, syntax highlighting, and autocompletion.
+
+SpeedCrunch is available for several platforms in a number of languages.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: http://speedcrunch.org

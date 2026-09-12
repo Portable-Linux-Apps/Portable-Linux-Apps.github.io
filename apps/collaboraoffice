@@ -1,6 +1,8 @@
 # collaboraoffice
 ===
-Unofficial, a collaborative online office suite based on LibreOffice technology.
+Collabora Office brings the familiar Collabora Online experience to your computer - so you can create, edit, and present with a beautiful, modern UI. Built on LibreOffice, it delivers excellent interoperability with ODF and Microsoft Office formats (DOCX/XLSX/PPTX), and exports to PDF with ease. Your documents stay on your device unless you choose to share them - privacy by design.
+
+This is an unofficial community AppImage packaging, not affiliated with or endorsed by Collabora Productivity.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/CollaboraOffice-AppImage

@@ -1,6 +1,22 @@
 # openmsx
 ===
-Unofficial, the MSX emulator that aims for perfection.
+openMSX is an emulator for the MSX home computer system. MSX was a standard
+for Z80-based home computers, and was a (largely) Japanese attempt to
+establish a single standard in home computing similar to VHS in video.
+
+The MSX standard was designed by ASCII Corporation in Japan, in cooperation
+with Microsoft Japan. The later of which provided the extended BASIC for
+the machine.
+
+In addition to emulating MSX, MSX2, MSX2+, MSX Turbo R and many of it's
+peripherals, openMSX also supports emulating the ColecoVision and
+Sega SG-1000 game consoles and the SpectraVideo SVI-318 and SVI-328
+home computer systems.
+
+Note: by default the openMSX emulator only ships with the C-BIOS open-source
+BIOS implementation. This BIOS is restricted to cartridge based MSX games. For
+a full MSX or SVI emulation it is necessary to provide your own MSX and/or SVI
+BIOS ROMs, which must be placed in the ~/.openMSX/share/systemroms directory.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/openMSX-AppImage

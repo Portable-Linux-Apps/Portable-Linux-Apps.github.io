@@ -1,6 +1,17 @@
 # elastic
 ===
-Unofficial. Visualize and design physics-based animation of objects.
+Elastic allows to design and export spring physics-based animations to use
+with libadwaita.
+
+Features:
+
+- Preview translation, rotation and scaling transformations.
+
+- See the animation curve and duration on a graph.
+
+- Drag a handle to see it return back with the spring physics.
+
+- Export C, JavaScript, Python, Vala or Rust code.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Elastic-AppImage

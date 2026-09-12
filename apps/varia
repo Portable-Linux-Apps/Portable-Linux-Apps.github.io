@@ -1,6 +1,26 @@
 # varia
 ===
-Unofficial. Aria2-based advanced download manager with support for downloading files, torrents, video and audio + support for Chromium and Firefox extension.
+Varia is better than your browser at downloading stuff.
+
+Supporting videos and torrents on top of just regular files, and with a variety of advanced features wrapped inside an easy to understand interface, Varia is both quite powerful and dead simple to use:
+
+-
+Download anything you want quickly - potentially faster than your browser, continue incomplete downloads even after reboots
+
+-
+Download video and audio (as well as whole playlists) from thousands of websites (anything supported by yt-dlp) including YouTube, TikTok, Twitter etc
+
+-
+Integrate with Firefox and Chrome (or any Chromium based browser like Brave or Opera) to redirect downloads
+
+-
+Schedule downloads with a powerful scheduler function allowing for custom timespans for each day of the week
+
+-
+Download from protected areas with basic auth and cookies.txt import support, as well as an option to automatically transfer your browser cookies through the extension
+
+-
+Control a remote aria2 instance running on any server through Remote Mode
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Varia-AppImage

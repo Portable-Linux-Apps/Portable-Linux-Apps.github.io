@@ -1,8 +1,18 @@
 # mpv
 ===
-MPV is a free (as in freedom) media player for the command line. It supports a  wide variety of media file formats, audio and video codecs and subtitle types.
- 
- This script lets you choose between the unofficials AppImage and Archimage.
+Mpv is a movie player based on MPlayer and mplayer2. It supports a wide variety
+of video file formats, audio and video codecs, and subtitle types. Special
+input URL types are available to read input from a variety of sources other
+than disk files. Depending on platform, a variety of different video and audio
+output methods are supported.
+
+Features:
+
+- Drag and drop playlist
+
+- Loading external configuration files
+
+This script lets you choose between the unofficial AppImage and Archimage.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://mpv.io/

@@ -1,6 +1,30 @@
 # tauon
 ===
-Unofficial, Tauon is a desktop music player designed for those who love their digital music collection. It’s built on the idea that a music player should be simple to use but deep in functionality. It combines a clean, modern interface with the power features you need to organize and enjoy your library.
+Tauon is a modern, comfortable and streamlined music player for the playback of your music collection.
+
+Packed with features while maintaining simplicity. Use drag and drop for easy file importing and playlist management. Groups albums by folder and allows you to manage your music with built-in functions such as file and folder renaming, cover art downloading and file deleting.
+
+Features:
+
+- Playback local audio files including MP3, FLAC and OGG
+
+- Add network tracks from Jellyfin, Airsonic and Plex servers
+
+- Gapless playback
+
+- Automatic CUE sheet detection
+
+- Lookup artists on Rate Your Music and Bandcamp
+
+- Support for last.fm and Listenbrainz
+
+- Import downloaded music archives in one click
+
+- Large album art and gallery layouts
+
+- Support for lyrics including synced lrc files and guitar chords
+
+- Multiple preset colour themes
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Tauon-AppImage

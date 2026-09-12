@@ -1,7 +1,42 @@
 # knights
 ===
-Knights aims to be the ultimate chess resource on your computer. It's designed to be both friendly to new chess players and functional for Grand Masters. At the moment you can play either against other human or against the machine using an engine like gnuchess.
+KNights is a chess game. As a player, your goal is to defeat your opponent by checkmating their king.
 
+Features:
+
+- Local play between two players on the same computer
+
+- Play against any computer program that supports the XBoard protocol
+
+- Play on the Free Internet Chess Server (FICS)
+
+- Watching two computer engines play against each other
+
+- Support for legal move checking
+
+- Markers for possible moves, opponent’s last move and sources of check
+
+- Board borders and site notations
+
+- Complete time control, with Plasma-styled clocks
+
+- Several themes, with the possibility of downloading new ones from within the program
+
+- Animated moves (configurable)
+
+- Views for playing on a chess server, including a seek graph, text console, and chat widget
+
+- Option to undo and redo moves
+
+- Graphic interface for making and receiving offers from remote players
+
+- Support for the UCI protocol (used by Stockfish, Chessbase, and many others)
+
+- Support for saving and loading Portable game notation (PGN) files
+
+- Speak opponent’s moves
+
+- Ability to control the program via a D-Bus interface
 ===
 # SCREENSHOTS: https://cdn.kde.org/screenshots/knights/knights.png
 # SITES: https://apps.kde.org/knights/

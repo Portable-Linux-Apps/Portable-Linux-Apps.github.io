@@ -1,6 +1,10 @@
 # newsflash
 ===
-Unofficial. RSS reader with support for local and web RSS feed.
+Newsflash is a program designed to complement an already existing web-based RSS reader account.
+
+It combines all the advantages of web based services like syncing across all your devices with everything you expect
+from a modern desktop program: Desktop notifications, fast search and filtering, tagging, handy keyboard shortcuts
+and having access to all your articles for as long as you like.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/NewsFlash-AppImage

@@ -1,6 +1,6 @@
 # spek
 ===
- Unofficial AppImage of Spek.
+Spek is an acoustic spectrum analyser written in C++. It uses FFmpeg libraries for audio decoding and wxWidgets for the GUI.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/spek-appimage

@@ -1,6 +1,17 @@
 # amiberry
 ===
-Unofficial, optimized Amiga emulator.
+Amiberry lets you experience the Commodore Amiga, a legendary home computer
+from the late 1980s and 1990s known for its groundbreaking graphics, sound,
+and gaming library.
+
+Emulate a wide range of Amiga models, from the classic A500 to the powerful
+A4000. Play thousands of games, run productivity software, or explore the
+demoscene — all with accurate hardware emulation and modern conveniences like
+save states, shader effects, and gamepad support.
+
+Features include a built-in game launcher for easy one-click play, customizable
+controls, support for multiple disk image formats, and a full-featured settings
+interface for fine-tuning every aspect of the emulated hardware.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Amiberry-AppImage

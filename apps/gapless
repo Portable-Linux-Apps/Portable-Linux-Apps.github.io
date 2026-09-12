@@ -1,6 +1,34 @@
 # gapless
 ===
-Unofficial. Simple music player with blur and gapless playback.
+Gapless (AKA: G4Music) is a light weight music player written in GTK4, focuses on large music collection.
+
+Features
+
+- Supports most music file types, Samba and any other remote protocols (depends on GIO and GStreamer).
+
+- Fast loading and parsing thousands of music files in very few seconds, monitor local changes.
+
+- Low memory usage for large music collection with album covers (embedded and external), no thumbnail caches to store.
+
+- Group and sorts by album/artist/title, shuffle list, full-text searching.
+
+- Fluent adaptive user interface for different screen (Desktop, Tablet, Mobile).
+
+- Gaussian blurred cover as background, follows GNOME light/dark mode.
+
+- Supports creating and editing playlists, drag cover to change order or add to another playlist.
+
+- Supports drag and drop with other apps.
+
+- Supports audio peaks visualizer.
+
+- Supports gapless playback.
+
+- Supports normalizing volume with ReplayGain.
+
+- Supports specified audio sink.
+
+- Supports MPRIS control.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Gapless-AppImage

@@ -1,6 +1,28 @@
 # vokoscreenng
 ===
-Unofficial,  a powerful screencast creator.
+vokoscreenNG is a powerful screencast creator in many languages to record the screen, an area or a window. Recording of audio from multiple sources is supported. With the built-in camera support, you can make your video more personal.
+
+X11:
+
+- Tools: Countdown, Snapshot, Systray, Magnifying glass, Timer, Showclick, Halo, Darkmode, Global keyboard shortcuts, Build-in Videoplayer, Camera
+
+- Format: mkv, gif, mp4
+
+- Video: H.264, gif
+
+- Audio: mp3, opus
+
+Wayland:
+
+- Tools: Systray, Audio, Countdown, Camera, Snapshot, Convert, Separated-audio-tracks, 100% translated into over 75 languages
+
+- Format: mkv
+
+- Video: H.264
+
+- Audio: mp3, opus
+
+- Convert: mp4, webm, gif
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/vokoscreenNG-AppImage

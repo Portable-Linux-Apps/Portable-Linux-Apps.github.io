@@ -1,6 +1,8 @@
 # bigpemu
 ===
- Unofficial AppImage of BigPEmu.
+An Atari Jaguar emulator, featuring compatibility with every title in the Jaguar's retail library
+
+This is an unofficial community AppImage packaging of BigPEmu, not affiliated with or supported by Rich Whitehouse.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/bigpemu-appimage

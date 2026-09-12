@@ -1,6 +1,35 @@
 # ptyxis
 ===
- Unofficial AppImage of Ptyxis terminal.
+Ptyxis is a terminal for GNOME that focuses on ease-of-use in a
+world of containers.
+
+Features:
+
+- Remembers current container when opening a new tab with support for podman, toolbox, distrobox, and more
+
+- Configurable keyboard shortcuts
+
+- Modern interface which integrates the palette with the window styling
+
+- User-installable color palettes
+
+- Support for preferences profiles with container integration
+
+- Integrated color palettes with light and dark support
+
+- Tabbed interface with tab overviews
+
+- Efficient foreground process tracking denoting sudo and SSH
+
+- Support for transparent terminal backgrounds
+
+- Separate process mode for terminal-based applications
+
+- Support for pinned tabs and saved sessions
+
+- Terminal tabs are run within separate cgroups
+
+- Terminal inspector to help when writing terminal-based applications
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/ptyxis-appimage
