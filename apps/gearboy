@@ -1,4 +1,4 @@
-# gearboy
+# Gearboy
 ===
 Gearboy is a cross-platform, open-source Game Boy and Game Boy Color emulator written in C++. Designed for high fidelity, it accurately reproduces the audio and video hardware of Nintendo's iconic handheld consoles.
 
