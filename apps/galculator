@@ -1,10 +1,15 @@
 # galculator
 ===
- A GTK 2 / GTK 3 based scientific calculator.
+galculator is a GTK-based scientific calculator that balances simplicity with advanced computational features. It provides an intuitive interface for basic calculations, mathematical formulas, and scientific computations.
 
- This script lets you choose between more variants.
+Features:
+- Supports Basic, Scientific, and Paper mathematical modes
+- Algebraic notation and Reverse Polish Notation (RPN) computation modes
+- Number base conversions between decimal, hexadecimal, octal, and binary
+- Trigonometric, hyperbolic, logarithmic, and statistical functions
+- User-defined constants and customizable interface display preferences
 ===
 # SCREENSHOTS: https://github.com/galculator/galculator
-# SITES: https://github.com/pkgforge-dev/Galculator-AppImage
+# SITES: https://github.com/galculator/galculator
 # SOURCES: https://github.com/pkgforge-dev/Galculator-AppImage https://github.com/ivan-hc/GNOME3-appimages
 # BUTTONS: 
