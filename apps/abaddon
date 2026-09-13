@@ -1,4 +1,4 @@
-# abaddon
+# Abaddon
 ===
 Abaddon is an alternative Discord client written in C++ and GTK 3 designed for high performance and low memory consumption. It provides a native, responsive chat experience without the heavy resource footprint associated with Electron-based applications.
 
