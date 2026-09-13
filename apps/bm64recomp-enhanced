@@ -1,4 +1,4 @@
-# bm64recomp-enhanced
+# BM64Recomp [anylinux]
 ===
 Bomberman 64 Recompiled is a native PC port of the 1997 Nintendo 64 action platformer Bomberman 64. Using static recompilation, the original game logic runs natively on modern hardware without the latency or graphical glitches of traditional emulators.
 
