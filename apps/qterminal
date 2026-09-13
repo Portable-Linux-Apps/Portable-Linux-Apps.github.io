@@ -1,8 +1,15 @@
 # qterminal
 ===
-Unofficial. A lightweight Qt terminal emulator based on QTermWidget.
+QTerminal is a lightweight, high-performance terminal emulator developed for the LXQt desktop environment. Based on the QTermWidget library, it offers rich customization while maintaining minimal resource usage.
+
+Features:
+- Split terminal views horizontally and vertically within the same window
+- Multi-tab document support with drag-and-drop tab organization
+- Customizable color schemes, font ligatures, and transparency effects
+- Search functionality with regular expression highlighting
+- Low memory footprint and fast startup times across all desktop environments
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/QTerminal-AppImage
-# SOURCES: 
+# SITES: https://github.com/lxqt/qterminal
+# SOURCES: https://github.com/pkgforge-dev/QTerminal-AppImage
 # BUTTONS: 
