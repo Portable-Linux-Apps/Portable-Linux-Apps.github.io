@@ -1,8 +1,15 @@
 # rsdkv3
 ===
-A Full Decompilation of Sonic CD (2011) & Retro Engine v3.
+RSDKv3 is a full, open-source standalone decompilation of Sonic CD (2011) and the Retro Engine v3. It brings the definitive remaster of Sonic CD natively to Linux with silky-smooth performance and native widescreen rendering.
+
+Features:
+- Native 60 FPS gameplay eliminating mobile and console emulation overhead
+- True widescreen display rendering with scalable menus and HUD elements
+- Play as Sonic, Tails, and Knuckles with their respective abilities
+- Includes both Original Japanese and US soundtrack arrangements
+- Modern gamepad support with remappable controls and rumble feedback
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/RSDKv3-AppImage
-# SOURCES: 
+# SITES: https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation
+# SOURCES: https://github.com/pkgforge-dev/RSDKv3-AppImage
 # BUTTONS: 
