@@ -1,4 +1,4 @@
-# openclaw
+# OpenClaw
 ===
 OpenClaw is a modern, open-source reimplementation of Captain Claw (1997), the beloved 2D pirate side-scrolling platformer created by Monolith Productions. It reconstructs the game engine in C++ and SDL2.
 
