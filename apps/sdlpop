@@ -1,4 +1,4 @@
-# sdlpop
+# SDLPoP
 ===
 SDLPoP is an open-source port of the original Prince of Persia (1989), based on the disassembly of the classic DOS release. Written in C using SDL, it provides a faithful recreation with modern quality-of-life enhancements.
 
