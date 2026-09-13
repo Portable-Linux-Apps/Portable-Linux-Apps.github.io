@@ -1,8 +1,15 @@
 # sanicball
 ===
-An extraordinarily fast racing game.
+Sanicball is a fast, physics-defying multiplayer arcade racing game satirizing the Sonic the Hedgehog franchise. Players take control of spherical characters navigating wildly twisting tracks at breakneck velocities.
+
+Features:
+- High-velocity racing mechanics with dramatic ramps, loop-the-loops, and air control
+- Multiple playable parody characters each with distinct speed and handling attributes
+- Online multiplayer racing lobbies and local split-screen multiplayer support
+- Energetic soundtrack featuring meme-inspired audio tracks
+- Built-in track selection with varying difficulty levels and terrain traps
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Sanicball-AppImage
-# SOURCES: 
+# SITES: https://github.com/BK-TN/Sanicball
+# SOURCES: https://github.com/pkgforge-dev/Sanicball-AppImage
 # BUTTONS: 

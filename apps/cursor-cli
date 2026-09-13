@@ -1,8 +1,15 @@
 # cursor-cli
 ===
-Unofficial, AI-assisted development CLI tool.
+Cursor CLI is the official command-line interface for the Cursor AI code editor ecosystem. It provides terminal-based developer tools to interact with Cursor's AI models, search codebases, and manage background coding sessions.
+
+Features:
+- Direct command-line interaction with advanced AI programming models
+- Fast repository indexing and codebase-wide semantic search capabilities
+- Seamless terminal workflows for asking questions and generating code diffs
+- Integration with local developer environments and CI/CD pipelines
+- Rapid access to project context and documentation summaries
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/cursor-cli-AppImage
-# SOURCES: 
+# SITES: https://cursor.com/cli
+# SOURCES: https://github.com/pkgforge-dev/cursor-cli-AppImage
 # BUTTONS: 

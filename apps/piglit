@@ -1,8 +1,15 @@
 # piglit
 ===
-Unofficial, a collection of automated tests for OpenGL, Vulkan, and OpenCL implementations.
+Piglit is an automated test suite designed for verifying OpenGL, OpenCL, and Vulkan driver implementations. Widely utilized in the development and quality assurance of Mesa graphics drivers, Piglit runs thousands of compliance and regression tests.
+
+Features:
+- Comprehensive automated testing for OpenGL core profiles, extensions, and shaders
+- Vulkan conformance and regression test integration
+- Generates detailed HTML, JSON, and text test reports with visual pass/fail summaries
+- Concurrent multi-process test runner for rapid GPU hardware evaluation
+- Indispensable tool for graphics driver developers and Linux hardware testers
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Piglit-AppImage
-# SOURCES: 
+# SITES: https://gitlab.freedesktop.org/mesa/piglit
+# SOURCES: https://github.com/pkgforge-dev/Piglit-AppImage
 # BUTTONS: 

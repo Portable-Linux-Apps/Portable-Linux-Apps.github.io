@@ -1,8 +1,15 @@
 # innoextract
 ===
-Unofficial, a tool to extract installers created by Inno Setup.
+innoextract is a tool designed to unpack installers created by Inno Setup under Linux without requiring Wine. It allows gamers and developers to unpack Windows game installers (such as GOG.com releases) directly to native folders.
+
+Features:
+- Extracts data files from Inno Setup installers from version 1.2 through the latest releases
+- Direct native Linux extraction without requiring Wine or Windows compatibility layers
+- Supports password-protected and multi-part split installer archives
+- Preserves original file timestamps and directory hierarchies
+- Filter and extract specific files or component groups with command-line switches
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/innoextract-AppImage
-# SOURCES: 
+# SITES: https://github.com/dscharrer/innoextract
+# SOURCES: https://github.com/pkgforge-dev/innoextract-AppImage
 # BUTTONS: 

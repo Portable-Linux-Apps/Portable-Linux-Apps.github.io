@@ -1,8 +1,15 @@
 # prey2006
 ===
-Unofficial, Prey 2006 SDK integrated with Doom 3 GPL release.
+Prey 2006 (Linux Port) is a native open-source source port of the acclaimed 2006 sci-fi first-person shooter Prey. Powered by the id Tech 4 engine (Doom 3 GPL), it allows playing Tommy's mind-bending alien abduction adventure natively on Linux.
+
+Features:
+- Native 64-bit Linux execution eliminating vintage wine and driver workarounds
+- Smooth performance with high-resolution widescreen and modern FOV support
+- Unique gravity-defying pathways, wall-walking mechanics, and seamless portal physics
+- High-fidelity positional audio with environmental reverb effects
+- Requires original Prey (2006) game assets to play
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Prey2006-AppImage
-# SOURCES: 
+# SITES: https://github.com/FriskTheFallenHuman/Prey2006
+# SOURCES: https://github.com/pkgforge-dev/Prey2006-AppImage
 # BUTTONS: 

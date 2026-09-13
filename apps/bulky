@@ -1,8 +1,15 @@
 # bulky
 ===
-Unofficial, an XApp used to rename multiple files and directories.
+Bulky is a simple and powerful bulk file and folder renaming utility developed for the XApps project by the Linux Mint team. It allows users to rename multiple files simultaneously using a variety of pattern matching and substitution rules.
+
+Features:
+- Find and replace text within filenames with regular expression support
+- Add prefixes, suffixes, or insert text at specific character positions
+- Modify text case including uppercase, lowercase, title case, and camel case
+- Sequential numbering with customizable starting points and step increments
+- Instant live preview of proposed name changes before applying them to disk
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Bulky-AppImage
-# SOURCES: 
+# SITES: https://github.com/linuxmint/bulky
+# SOURCES: https://github.com/pkgforge-dev/Bulky-AppImage
 # BUTTONS: 

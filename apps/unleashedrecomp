@@ -1,8 +1,15 @@
 # unleashedrecomp
 ===
-Unofficial AppImage of UnleashedRecomp (Sonic Unleashed port) [Maintainer=@Samueru-sama]
+UnleashedRecomp is an enhanced native PC port of the high-speed platformer Sonic Unleashed, created using static recompilation. It brings Sonic's daytime daytime boost stages and nighttime brawling natively to PC.
+
+Features:
+- Native execution delivering smooth 60+ FPS high-speed gameplay without emulation lag
+- True widescreen and 4K display rendering with modern aspect ratio scaling
+- Full gamepad controller support with responsive analog stick and trigger inputs
+- High-fidelity audio playback reproducing the orchestral soundtrack and sound effects
+- Support for community performance patches, visual enhancements, and mods
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/UnleashedRecomp-AppImage
-# SOURCES: 
+# SITES: https://github.com/hedge-dev/UnleashedRecomp
+# SOURCES: https://github.com/pkgforge-dev/UnleashedRecomp-AppImage
 # BUTTONS: 

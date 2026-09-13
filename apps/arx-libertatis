@@ -1,8 +1,15 @@
 # arx-libertatis
 ===
- Unofficial AppImage of Arx Libertatis.
+Arx Libertatis is a cross-platform, open-source port of Arx Fatalis, the 2002 first-person action role-playing game developed by Arkane Studios. Based on the officially released source code, Arx Libertatis modernizes the engine to run smoothly on contemporary hardware.
+
+Features:
+- Full widescreen display support with arbitrary resolution rendering
+- Modernized mouse-look controls, field of view adjustments, and UI scaling
+- Fixed game-breaking bugs and physics glitches present in the original release
+- Native audio output using OpenAL with environmental reverberation effects
+- Full compatibility with the original game data and community localized versions
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/arx-libertatis-appimage
+# SITES: https://github.com/arx/ArxLibertatis
 # SOURCES: https://github.com/pkgforge-dev/arx-libertatis-appimage
 # BUTTONS: 

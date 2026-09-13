@@ -1,8 +1,15 @@
 # ares-emu
 ===
- Unofficial AppImage of the ares emulator.
+ares is an open-source multi-system emulator with a primary focus on accuracy, preservation, and clean architectural design. Originally developed by Near as a continuation of higan, ares emulates dozens of classic video game consoles and handhelds with cycle-accurate precision.
+
+Features:
+- Cycle-accurate emulation for Nintendo 64, PlayStation, SNES, NES, and Game Boy
+- Support for Sega Genesis, Mega CD, 32X, Master System, and Game Gear
+- PC Engine / TurboGrafx-16, Neo Geo Pocket, WonderSwan, and arcade systems
+- Advanced video filtering, shaders, and low-latency audio processing
+- Robust controller configuration with modern gamepad and force feedback support
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/ares-emu-appimage
+# SITES: https://github.com/ares-emulator/ares
 # SOURCES: https://github.com/pkgforge-dev/ares-emu-appimage
 # BUTTONS: 

@@ -1,8 +1,17 @@
 # duckstation-gpl-enhanced
 ===
-Unofficial, fast PlayStation 1 emulator when it was still using GPLv3.
+DuckStation is a high-performance PlayStation 1 (PS1/PSX) console emulator focused on playability, speed, and accuracy. It offers extensive visual enhancements to run vintage 32-bit PlayStation titles in stunning high resolution.
+
+Features:
+- Internal resolution upscaling up to 4K and 8K with widescreen rendering
+- Texture filtering, true color rendering, and geometry precision correction (PGXP)
+- Software, OpenGL, and Vulkan hardware-accelerated rendering backends
+- Save states, fast-forwarding, rewind support, and cheat code integration
+- Comprehensive controller configuration supporting analog sticks and rumble
+
+This is an unofficial AnyLinux AppImage, which is able to work anywhere including glibc and musl. For more info: https://pkgforge-dev.github.io/Anylinux-AppImages/
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/DuckStation-GPL-AppImage-Enhanced
-# SOURCES: 
+# SITES: https://github.com/stenzek/duckstation
+# SOURCES: https://github.com/pkgforge-dev/DuckStation-GPL-AppImage-Enhanced
 # BUTTONS: 

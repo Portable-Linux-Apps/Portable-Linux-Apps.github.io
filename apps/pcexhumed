@@ -1,8 +1,15 @@
 # pcexhumed
 ===
-Port of the PC version of Exhumed based on EDuke32.
+PCExhumed is an accurate source port of the PC release of Exhumed (known in North America as PowerSlave), the 1996 Egyptian-themed first-person shooter. Based on the EDuke32 BUILD engine, it provides native 64-bit performance on Linux.
+
+Features:
+- Native execution on modern operating systems with high-resolution widescreen rendering
+- Smooth mouselook controls with customizable keybindings and crosshairs
+- Full support for original game data, CD audio soundtracks, and voiceovers
+- Enhanced dynamic lighting, particle effects, and uncapped framerate options
+- Restores cut features and fixes engine glitches present in the original DOS release
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/PCExhumed-AppImage
-# SOURCES: 
+# SITES: https://github.com/NBlood/NBlood
+# SOURCES: https://github.com/pkgforge-dev/PCExhumed-AppImage
 # BUTTONS: 

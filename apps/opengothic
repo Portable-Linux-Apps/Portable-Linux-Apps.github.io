@@ -1,8 +1,15 @@
 # opengothic
 ===
- Unofficial AppImage of OpenGothic.
+OpenGothic is an open-source reimplementation of the classic 2001 action-RPG Gothic 1 engine. Written in modern C++ with Vulkan rendering, it modernizes the living, breathing dark fantasy world of the Colony.
+
+Features:
+- Hardware-accelerated Vulkan rendering pipeline with dynamic lighting and shadows
+- Modern high-resolution and widescreen display support with adjustable FOV
+- Modernized combat controls, camera handling, and gamepad integration
+- Improved simulation stability and pathfinding for NPC routines
+- Requires original Gothic 1 game assets to play
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/opengothic-appimage
+# SITES: https://github.com/Try/OpenGothic
 # SOURCES: https://github.com/pkgforge-dev/opengothic-appimage
 # BUTTONS: 

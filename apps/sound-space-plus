@@ -1,8 +1,15 @@
 # sound-space-plus
 ===
-Unofficial AppImage of sound-space-plus, Rhythm-based aim game.
+Sound Space Plus is an open-source, rhythm-based aim precision game. Challenging players to hit targets to the beat of diverse music tracks, it tests both auditory rhythm and mouse cursor aim speed.
+
+Features:
+- Precision aim mechanics combining rhythm timing with 2D spatial targeting
+- Access to an extensive library of community-created beatmaps and songs
+- Customizable visual elements, cursor skins, particle effects, and note styles
+- Detailed performance analysis and timing accuracy breakdowns
+- Multiple game modifiers to customize challenge and gameplay speed
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/sound-space-plus-AppImage
-# SOURCES: 
+# SITES: https://github.com/David20122/sound-space-plus
+# SOURCES: https://github.com/pkgforge-dev/sound-space-plus-AppImage
 # BUTTONS: 

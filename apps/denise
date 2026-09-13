@@ -1,8 +1,15 @@
 # denise
 ===
- Unofficial AppImage of Denise.
+Denise is a cycle-accurate, open-source Commodore 64 and Amiga 500/1000/2000 emulator. Written in C++, it prioritizes emulation precision and clean audio-visual output to faithfully preserve vintage home computer experiences.
+
+Features:
+- Highly accurate MOS 6510 CPU, VIC-II, and SID chip emulation for Commodore 64
+- Motorola 68000 and OCS/ECS custom chipset emulation for classic Commodore Amiga
+- Support for D64, G64, T64, TAP, PRG, and ADF disk and tape image formats
+- Configurable CRT shaders simulating scanlines, phosphors, and RF/composite signals
+- Low audio and input latency with game controller and joystick remapping
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/denise-appimage
+# SITES: https://sourceforge.net/projects/deniseemu/
 # SOURCES: https://github.com/pkgforge-dev/denise-appimage
 # BUTTONS: 

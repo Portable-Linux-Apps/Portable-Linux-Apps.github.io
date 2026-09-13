@@ -1,8 +1,15 @@
 # starfox64recomp
 ===
-Unofficial, a native port of Starfox 64, statically recompiled.
+Star Fox 64 Recompiled is a native PC port of the classic 1997 Nintendo 64 space rail-shooter Star Fox 64 (Lylat Wars). Using static recompilation, Fox McCloud's Arwing battles run natively on modern PC hardware.
+
+Features:
+- Native execution delivering smooth 60 FPS space combat without emulation slowdown
+- True widescreen and high-resolution rendering with dynamic visual clarity
+- Dual-analog gamepad and flight stick support with modern rumble feedback
+- Preserves complete branching mission routes, iconic voice acting, and soundtrack
+- Support for community visual mods and audio enhancements
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Starfox64Recomp-AppImage
-# SOURCES: 
+# SITES: https://gitlab.com/sonicdcer/Starfox64Recomp
+# SOURCES: https://github.com/pkgforge-dev/Starfox64Recomp-AppImage
 # BUTTONS: 

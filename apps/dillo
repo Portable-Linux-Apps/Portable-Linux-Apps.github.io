@@ -1,8 +1,15 @@
 # dillo
 ===
- Unofficial AppImage of Dillo.
+Dillo is an ultra-fast, minimalist graphical web browser engineered for efficiency and low resource consumption. Built on FLTK, it loads web pages almost instantaneously and functions smoothly on low-end or vintage hardware.
+
+Features:
+- Extremely lightweight footprint consuming only a few megabytes of memory
+- Fast HTML rendering engine supporting CSS styling and web images
+- Integrated privacy features blocking third-party tracking cookies by default
+- Tabbed browsing interface with simple navigation and bookmark management
+- Written in clean C and C++ with virtually zero external library bloat
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/dillo-appimage
+# SITES: https://github.com/dillo-browser/dillo
 # SOURCES: https://github.com/pkgforge-dev/dillo-appimage
 # BUTTONS: 

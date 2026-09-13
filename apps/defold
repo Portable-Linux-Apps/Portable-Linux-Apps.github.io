@@ -1,8 +1,15 @@
 # defold
 ===
-Unofficial, Defold is a completely free to use game engine for development of games.
+Defold is a completely free, developer-friendly 2D and 3D game engine designed for cross-platform publishing. It features a lightweight, high-performance C++ runtime driven by Lua scripting, making it ideal for indie developers and game jams.
+
+Features:
+- Turnkey game development environment with scene editor, particle effects, and tilemaps
+- Fast Lua scripting with integrated code completion and debugging tools
+- Exceptionally small build output and ultra-fast compilation times
+- Comprehensive 2D physics powered by Box2D and 3D physics via Bullet
+- Cross-platform export targeting Linux, Windows, macOS, Android, iOS, and HTML5
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Defold-AppImage
-# SOURCES: 
+# SITES: https://github.com/defold/defold
+# SOURCES: https://github.com/pkgforge-dev/Defold-AppImage
 # BUTTONS: 

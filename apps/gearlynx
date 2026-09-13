@@ -1,8 +1,15 @@
 # gearlynx
 ===
-Unofficial, Atari Lynx emulator.
+Gearlynx is an open-source Atari Lynx handheld console emulator written in C++. It provides accurate emulation of the first color handheld video game console developed by Atari.
+
+Features:
+- Accurate emulation of the Mikey and Suzy custom processing chips
+- Hardware sprite scaling, distortion, and hardware collision simulation
+- Realistic 4-channel audio output reproducing Lynx sound synthesis
+- Save state management and configurable display orientation for vertical games
+- Gamepad and keyboard configuration with responsive input handling
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Gearlynx-AppImage
-# SOURCES: 
+# SITES: https://github.com/drhelius/Gearlynx
+# SOURCES: https://github.com/pkgforge-dev/Gearlynx-AppImage
 # BUTTONS: 

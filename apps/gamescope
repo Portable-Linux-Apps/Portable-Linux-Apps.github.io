@@ -1,8 +1,15 @@
 # gamescope
 ===
- Unofficial AppImage of gamescope.
+gamescope is Valve's micro-compositor designed to isolate games from the host desktop environment. Used extensively on SteamOS and the Steam Deck, it provides integer scaling, FidelityFX Super Resolution (FSR), and low-latency frame pacing.
+
+Features:
+- Sandboxes games into an isolated XWayland compositor instance
+- Advanced upscaling technologies including AMD FSR and integer scaling
+- Low-latency frame pacing, variable refresh rate (VRR), and frame rate capping
+- Seamless resolution handling preventing games from altering your desktop resolution
+- Wayland-native architecture with HDR color management support
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/gamescope-appimage
+# SITES: https://github.com/ValveSoftware/gamescope
 # SOURCES: https://github.com/pkgforge-dev/gamescope-appimage
 # BUTTONS: 

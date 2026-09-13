@@ -1,8 +1,15 @@
 # hp-15c-simulator
 ===
-Unofficial, a simulator for the HP-15C programmable scientific RPN calculator.
+HP-15C Simulator is a precise software simulation of the legendary Hewlett-Packard HP-15C advanced programmable scientific pocket calculator from the 1980s. It accurately emulates the hardware microcode, complex numbers, and matrix operations.
+
+Features:
+- Full simulation of the authentic HP-15C user interface and LCD display
+- Reverse Polish Notation (RPN) logic with stack manipulation
+- Advanced scientific functions including trigonometric, exponential, and hyperbolic operations
+- Matrix algebra support, complex number arithmetic, and numerical integration
+- Keystroke programming with persistent memory storage across sessions
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/HP-15C-Simulator-AppImage
-# SOURCES: 
+# SITES: https://hp-15c-simulator.de/download
+# SOURCES: https://github.com/pkgforge-dev/HP-15C-Simulator-AppImage
 # BUTTONS: 

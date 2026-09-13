@@ -1,8 +1,15 @@
 # perfect-dark
 ===
-Unofficial, work in progress port of n64decomp/perfect_dark to modern platforms.
+Perfect Dark (PC Port) is a native PC port of Rare's acclaimed 2000 Nintendo 64 first-person shooter Perfect Dark. Built from the decompilation of the original ROM, it brings Joanna Dark's sci-fi espionage adventure natively to PC.
+
+Features:
+- Native execution eliminating emulation latency and providing silky-smooth 60+ FPS gameplay
+- True widescreen, ultrawide, and high-resolution rendering
+- Modern first-person shooter controls supporting keyboard, mouse-look, and dual-analog gamepads
+- Enhanced visual fidelity with customizable field of view and texture filtering
+- Complete preservation of single-player missions, Combat Simulator multiplayer, and co-op modes
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Perfect-Dark-AppImage
-# SOURCES: 
+# SITES: https://github.com/fgsfdsfgs/perfect_dark
+# SOURCES: https://github.com/pkgforge-dev/Perfect-Dark-AppImage
 # BUTTONS: 

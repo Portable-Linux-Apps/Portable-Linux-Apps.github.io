@@ -1,8 +1,15 @@
 # mini-vmac
 ===
-A miniature Macintosh 68K emulator.
+Mini vMac is a miniature emulator for early Apple Macintosh computers based on the Motorola 68000 microcomputer architecture. It emulates classic black-and-white Mac models including the Mac Plus, Mac 128K, 512K, and SE.
+
+Features:
+- Accurate 68000 CPU emulation running original System 6 and System 7 operating systems
+- Faithful recreation of the vintage 512x342 monochrome Macintosh display
+- Support for classic Mac floppy disk images (.dsk, .image) with drag-and-drop loading
+- Emulation of classic Mac sound hardware, mouse, and keyboard
+- Lightweight, fast, and portable design with minimal system requirements
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Mini-vMac-AppImage
-# SOURCES: 
+# SITES: https://www.gryphel.com/c/minivmac/
+# SOURCES: https://github.com/pkgforge-dev/Mini-vMac-AppImage
 # BUTTONS: 

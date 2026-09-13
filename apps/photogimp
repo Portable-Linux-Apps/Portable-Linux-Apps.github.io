@@ -1,8 +1,15 @@
 # photogimp
 ===
-PhotoGIMP - A patched version of GIMP for Adobe Photoshop users.
+PhotoGIMP is a customized configuration patch for the GIMP image editor designed specifically for users transitioning from Adobe Photoshop. It reorganizes the interface, tool shortcuts, and panel layouts to match Photoshop workflows.
+
+Features:
+- Familiar Photoshop-style workspace layout with reorganized toolboxes and docks
+- Hundreds of Photoshop-matching keyboard shortcuts for common editing operations
+- Pre-installed curated collection of third-party plugins, Python filters, and brushes
+- Modern dark theme typography and clean iconography
+- Retains all underlying non-destructive editing and photo manipulation capabilities of GIMP
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/Diolinux/PhotoGIMP
-# SOURCES: https://github.com/sudo-give-me-coffee/PhotoMP
+# SOURCES: https://github.com/sudo-give-me-coffee/PhotoMP https://github.com/pkgforge-dev/GIMP-and-PhotoGIMP-AppImage
 # BUTTONS: 

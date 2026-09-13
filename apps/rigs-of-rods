@@ -1,8 +1,15 @@
 # rigs-of-rods
 ===
-Unofficial, an open source vehicle simulator based on soft-body physics.
+Rigs of Rods is an open-source vehicle simulator featuring an advanced soft-body physics engine. Unlike traditional rigid-body simulators, Rigs of Rods simulates the real-time deformation and stress of chassis, beams, and suspension components.
+
+Features:
+- Realistic soft-body physics simulating structural flex, crashes, and metal deformation
+- Diverse vehicle simulation including land vehicles, trucks, construction machinery, aircraft, and boats
+- Dynamic terrain interaction with mud, sand, water, and varying friction coefficients
+- Massive community catalog of downloadable vehicles, terrains, and scenario mods
+- Support for force-feedback steering wheels, joysticks, and modern game controllers
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Rigs-of-Rods-AppImage
-# SOURCES: 
+# SITES: https://github.com/RigsOfRods/rigs-of-rods
+# SOURCES: https://github.com/pkgforge-dev/Rigs-of-Rods-AppImage
 # BUTTONS: 

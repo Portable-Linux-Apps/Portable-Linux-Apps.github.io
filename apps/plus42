@@ -1,8 +1,15 @@
 # plus42
 ===
-Unofficial, an enhanced HP-42S calculator simulator.
+Plus42 is an advanced scientific programmable calculator based on Free42, extending the capabilities of the iconic HP-42S. Designed for scientists, mathematicians, and engineers, it adds formula evaluation, units conversions, and expanded memory.
+
+Features:
+- Complete HP-42S compatibility with Reverse Polish Notation (RPN) computation
+- Expanded multi-line LCD display with dynamic font sizing
+- Algebraic expression evaluation and numerical integration
+- Comprehensive unit conversion system covering scientific and engineering quantities
+- Matrix algebra, complex number arithmetic, and statistical distributions
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Plus42-AppImage
-# SOURCES: 
+# SITES: https://thomasokken.com/plus42
+# SOURCES: https://github.com/pkgforge-dev/Plus42-AppImage
 # BUTTONS: 

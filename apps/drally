@@ -1,8 +1,15 @@
 # drally
 ===
-Unofficial, a port of Death Rally (1996).
+dRally is an open-source source port of Death Rally (1996), the classic top-down vehicular combat and racing game developed by Remedy Entertainment. It allows fans to play the legendary action racer natively on modern operating systems.
+
+Features:
+- Native execution on modern operating systems with high-resolution scaling
+- Preserves all original tracks, weapons, underground black market, and rivalries
+- Supports smooth keyboard, gamepad, and custom controller input
+- High-fidelity audio playback reproducing the energetic soundtrack and explosive sound effects
+- Requires original Death Rally game data (including the free release)
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/dRally-AppImage
-# SOURCES: 
+# SITES: https://github.com/urxp/dRally
+# SOURCES: https://github.com/pkgforge-dev/dRally-AppImage
 # BUTTONS: 

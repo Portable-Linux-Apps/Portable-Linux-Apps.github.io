@@ -1,8 +1,15 @@
 # nitrogen
 ===
- Unofficial AppImage of Nitrogen.
+Nitrogen is a fast and lightweight wallpaper browser and desktop background setter for X11. Widely favored in lightweight desktop environments and window managers, it provides quick background configuration without desktop bloat.
+
+Features:
+- Fast thumbnail generation and image browsing across multiple wallpaper folders
+- Multiple wallpaper layout modes including Zoom, Centered, Tiled, Scaled, and Fill
+- Multi-monitor support with independent wallpaper assignment per display
+- Automatic restoration of desktop backgrounds on window manager startup via command line
+- Lightweight GTK interface consuming minimal system memory
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/nitrogen-appimage
+# SITES: https://github.com/l3ib/nitrogen
 # SOURCES: https://github.com/pkgforge-dev/nitrogen-appimage
 # BUTTONS: 

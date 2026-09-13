@@ -1,10 +1,15 @@
 # gnome-system-monitor
 ===
- View current processes and monitor system state.
+GNOME System Monitor is an essential system diagnostic utility for Linux desktops. It provides real-time information on active processes, resource utilization, and storage filesystems.
 
- This script can install the latest release (if any) and a legacy variant.
+Features:
+- Real-time CPU, memory, swap, and network bandwidth utilization graphs
+- Detailed process list with search, sorting, priority control, and termination options
+- Filesystem overview detailing disk usage, mount points, and partition capacities
+- Inspection of process memory maps, open files, and execution arguments
+- Responsive GTK user interface designed for clarity and ease of use
 ===
 # SCREENSHOTS: https://static.gnome.org/catalog/app-screenshot/org.gnome.SystemMonitor/Processes.png https://static.gnome.org/catalog/app-screenshot/org.gnome.SystemMonitor/Resources.png
-# SITES: https://apps.gnome.org/SystemMonitor
+# SITES: https://gitlab.gnome.org/GNOME/gnome-system-monitor https://apps.gnome.org/SystemMonitor
 # SOURCES: https://github.com/pkgforge-dev/Gnome-System-Monitor-AppImage https://github.com/ivan-hc/GNOME3-appimages
 # BUTTONS: 

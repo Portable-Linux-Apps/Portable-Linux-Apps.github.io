@@ -1,8 +1,15 @@
 # clk
 ===
-Unofficial, a latency hating emulator for 8 and 16 bit platforms.
+Clock Signal (CLK) is an open-source latency-focused emulator for classic 8-bit and 16-bit computer and console platforms. It emphasizes cycle-accurate audio-video synchronization and minimal input lag.
+
+Features:
+- Emulation for Amiga, Apple II, Atari ST, Commodore 64, MSX, ZX81, and ZX Spectrum
+- Console support for ColecoVision, Master System, and Game Gear
+- Sophisticated CRT display simulation with curvature, bloom, and scanlines
+- Real-time cycle-by-cycle hardware emulation minimizing processing latency
+- Clean modern interface with drag-and-drop disk and tape image loading
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/CLK-AppImage
-# SOURCES: 
+# SITES: https://github.com/TomHarte/CLK
+# SOURCES: https://github.com/pkgforge-dev/CLK-AppImage
 # BUTTONS: 

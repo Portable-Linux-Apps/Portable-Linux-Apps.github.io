@@ -1,8 +1,15 @@
 # openboardview
 ===
- Unofficial AppImage of Open Board Viewer.
+OpenBoardView is an open-source electronics schematic and printed circuit board (.brd / .cad) file viewer. Tailored for hardware repair technicians and electronics engineers, it visualizes board layouts and component pinouts.
+
+Features:
+- Supports major boardview formats including BRD, BDV, CAD, CST, GR, and FZ
+- Interactive searching for components, pins, nets, and test points
+- Pinout inspection with visual highlight of connected circuit nets
+- Mirror, rotate, flip, and zoom controls for matching physical boards
+- Lightweight, fast, and cross-platform architecture with minimal resource usage
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/openboardview-appimage
+# SITES: https://github.com/OpenBoardView/OpenBoardView
 # SOURCES: https://github.com/pkgforge-dev/openboardview-appimage
 # BUTTONS: 

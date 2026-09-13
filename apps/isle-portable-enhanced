@@ -1,8 +1,17 @@
 # isle-portable-enhanced
 ===
-Unofficial, a portable version of LEGO Island (1997).
+ISLE is an open-source modern source port of LEGO Island (1997), the beloved open-world adventure game. It restores compatibility with modern 64-bit operating systems, high-resolution screens, and modern audio hardware.
+
+Features:
+- Native execution on modern operating systems without legacy DirectX limitations
+- Widescreen and arbitrary resolution rendering with scalable user interfaces
+- Corrected physics timing and animation glitches caused by modern CPU clock speeds
+- Support for modern gamepads and remappable keyboard controls
+- Requires original LEGO Island game files to run
+
+This is an unofficial AnyLinux AppImage, which is able to work anywhere including glibc and musl. For more info: https://pkgforge-dev.github.io/Anylinux-AppImages/
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/isle-portable-AppImage-Enhanced
-# SOURCES: 
+# SITES: https://github.com/itsmattkc/isle
+# SOURCES: https://github.com/pkgforge-dev/isle-portable-AppImage-Enhanced
 # BUTTONS: 

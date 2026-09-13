@@ -1,8 +1,15 @@
 # catacombgl
 ===
-Unofficial, a source port with OpenGL graphics for Catacomb 3D (1991), The Catacomb Abyss (1992), The Catacomb Armageddon (1992) and The Catacomb Apocalypse (1993).
+CatacombGL is an open-source source port for the classic first-person fantasy action series by id Software and Softdisk: Catacomb 3-D, The Catacomb Abyss, The Catacomb Armageddon, and The Catacomb Apocalypse.
+
+Features:
+- Hardware-accelerated OpenGL rendering with high-resolution texture filtering
+- Modern mouse-look controls with customizable sensitivity and field of view
+- Widescreen and ultrawide display support with scalable interface elements
+- Restored and enhanced sound effects and music playback
+- Compatibility with original game data files from both floppy and CD releases
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/CatacombGL-AppImage
-# SOURCES: 
+# SITES: https://github.com/ArnoAnsems/CatacombGL
+# SOURCES: https://github.com/pkgforge-dev/CatacombGL-AppImage
 # BUTTONS: 

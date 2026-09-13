@@ -1,8 +1,15 @@
 # libation
 ===
-Unofficial, application for downloading and managing your Audible audiobooks.
+Libation is a free, open-source application designed to liberate your Audible audiobook library. It connects to your personal Audible account to back up, decrypt, and convert audiobooks to DRM-free formats.
+
+Features:
+- Automatically scans and imports your purchased Audible audiobook catalog
+- Decrypts and converts audiobooks to standard M4B or MP3 files
+- Retains chapters, high-resolution cover artwork, and rich ID3 metadata
+- Lossless audio conversion preserving original audio bitrate and sound quality
+- Built-in multi-account support across international Audible marketplaces
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Libation-AppImage
-# SOURCES: 
+# SITES: https://github.com/rmcrackan/Libation
+# SOURCES: https://github.com/pkgforge-dev/Libation-AppImage
 # BUTTONS: 

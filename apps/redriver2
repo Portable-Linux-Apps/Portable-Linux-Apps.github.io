@@ -1,8 +1,15 @@
 # redriver2
 ===
-Unofficial, Driver 2 Playstation game reverse engineering effort.
+REDRIVER2 is an open-source reverse-engineering effort and native PC port of Driver 2, the classic 2000 PlayStation action driving game by Reflections Interactive. It brings John Tanner's undercover crime saga natively to PC.
+
+Features:
+- Native PC execution delivering smooth 60 FPS gameplay without console stutter
+- High-resolution rendering with true widescreen aspect ratios and draw distance tweaks
+- Reconstructed physics engine matching original vehicle handling and car damage
+- Full modern gamepad support with analog steering, acceleration, and rumble
+- Play across all four iconic cities: Chicago, Havana, Las Vegas, and Rio de Janeiro
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/REDRIVER2-AppImage
-# SOURCES: 
+# SITES: https://github.com/OpenDriver2/REDRIVER2
+# SOURCES: https://github.com/pkgforge-dev/REDRIVER2-AppImage
 # BUTTONS: 

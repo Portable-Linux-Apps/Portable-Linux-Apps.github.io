@@ -1,8 +1,15 @@
 # epsxe
 ===
-Unofficial, enhanced PSX emulator.
+ePSXe is a classic PlayStation 1 (PSX/PS1) video game console emulator. Utilizing a modular plugin architecture, it provides compatibility with a vast library of Sony PlayStation titles.
+
+Features:
+- High compatibility rate with commercial PlayStation 1 game discs and image files
+- Modular plugin system for video, audio, and CD-ROM configuration
+- Hardware-accelerated 3D graphics enhancements and resolution upscaling
+- Support for digital and analog gamepads with force feedback vibration
+- Save state support and memory card management
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/ePSXe-AppImage
-# SOURCES: 
+# SITES: https://www.epsxe.com
+# SOURCES: https://github.com/pkgforge-dev/ePSXe-AppImage
 # BUTTONS: 

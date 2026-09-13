@@ -1,8 +1,15 @@
 # xclock
 ===
- Unofficial AppImage of xclock.
+xclock is the classic analog and digital clock display utility for the X Window System. As one of the earliest graphical utilities created for X11, it remains a reliable, lightweight desktop timekeeper.
+
+Features:
+- Classic analog clock face with hour, minute, and second hands
+- Optional digital time display mode with customizable date formatting
+- Configurable update intervals, chime tones, and display colors
+- Extremely lightweight with near-zero memory and CPU utilization
+- Compatible with all X11 window managers and desktop environments
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/xclock-appimage
+# SITES: https://gitlab.freedesktop.org/xorg/app/xclock
 # SOURCES: https://github.com/pkgforge-dev/xclock-appimage
 # BUTTONS: 

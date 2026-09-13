@@ -1,8 +1,15 @@
 # dreamm
 ===
- Unofficial AppImage of DREAMM.
+DREAMM is an emulator and preservation engine created by Aaron Giles dedicated to LucasArts graphic adventure and arcade games. It provides an authentic, plug-and-play experience for classic titles using the SCUMM engine, GrimE, and FM-Towns hardware.
+
+Features:
+- One-click launching of classic LucasArts adventures with zero configuration needed
+- Supports SCUMM engine titles, GrimE 3D adventures, and FM-Towns releases
+- Pixel-accurate graphics scaling with authentic CRT emulation options
+- Accurate sound synthesis and digital audio playback
+- Integrated game manager that organizes and preserves your classic collection
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/dreamm-appimage
+# SITES: https://dreamm.aarongiles.com/
 # SOURCES: https://github.com/pkgforge-dev/dreamm-appimage
 # BUTTONS: 

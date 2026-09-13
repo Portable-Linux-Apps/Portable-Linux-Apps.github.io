@@ -1,8 +1,15 @@
 # kdeconnect
 ===
-Unofficial AppImage of kdeconnect. A project that enables all your devices to communicate with each other.
+KDE Connect seamlessly integrates your Linux desktop with your smartphone and other computing devices. Built with secure encryption, it bridges communications across your local Wi-Fi network without relying on cloud services.
+
+Features:
+- Shared clipboard enabling instant copy-pasting between phone and PC
+- Synchronized phone notifications with direct inline replying from the desktop
+- Send and receive files, photos, and URLs instantly across paired devices
+- Use your smartphone touchscreen as a wireless mouse trackpad and keyboard
+- Media player remote control, SMS messaging, and phone battery level monitoring
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/kdeconnect-AppImage
-# SOURCES: 
+# SITES: https://invent.kde.org/network/kdeconnect-kde
+# SOURCES: https://github.com/pkgforge-dev/kdeconnect-AppImage
 # BUTTONS: 

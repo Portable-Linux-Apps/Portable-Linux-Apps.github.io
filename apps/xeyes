@@ -1,8 +1,15 @@
 # xeyes
 ===
-Unofficial, a "follow the mouse" X demo, using the X SHAPE extension.
+xeyes is the legendary X Window System demo program that renders a pair of animated eyes following the mouse cursor as it moves across the screen. First created in 1988, it remains a beloved Unix desktop classic.
+
+Features:
+- Animated eyes that track cursor position in real time across the entire desktop
+- Uses the X SHAPE extension to display transparent, non-rectangular window geometry
+- Configurable eye outline colors, pupil colors, and update intervals
+- Minimal system resource consumption
+- Nostalgic desktop companion and visual cursor locator for multi-monitor setups
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/xeyes-AppImage
-# SOURCES: 
+# SITES: https://gitlab.freedesktop.org/xorg/app/xeyes
+# SOURCES: https://github.com/pkgforge-dev/xeyes-AppImage
 # BUTTONS: 

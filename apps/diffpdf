@@ -1,8 +1,15 @@
 # diffpdf
 ===
- Unofficial AppImage of DiffPDF.
+DiffPDF is a specialized graphical utility used to compare two PDF files side by side. It highlights visual differences in page layout, graphics, and text, making it an essential tool for proofreaders, editors, and technical authors.
+
+Features:
+- Side-by-side visual comparison with clear highlighting of changes
+- Text mode to identify inserted, deleted, or altered words across pages
+- Appearance mode to detect font differences, spacing shifts, and graphic modifications
+- Synchronized page scrolling and zooming for fast visual navigation
+- Ability to generate and export comparison reports
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/diffpdf-appimage
+# SITES: https://gitlab.com/eang/diffpdf
 # SOURCES: https://github.com/pkgforge-dev/diffpdf-appimage
 # BUTTONS: 

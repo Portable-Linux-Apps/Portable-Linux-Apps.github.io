@@ -1,8 +1,15 @@
 # servo
 ===
-Unofficial AppImage builds of the Servo web browser engine.
+Servo is an open-source, independent web browser engine written in Rust. Designed for high concurrency, memory safety, and performance, Servo pioneers a parallel architecture for layout, styling, and rendering.
+
+Features:
+- Parallelized layout and CSS style computation utilizing multi-core processors
+- Memory-safe architecture written in Rust to minimize memory vulnerability exploits
+- Embeddable web view engine designed for desktop applications and embedded systems
+- WebGL and WebGPU hardware-accelerated graphics rendering
+- Active community development driving independent web engine standards
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/servo-AppImage
-# SOURCES: 
+# SITES: https://github.com/servo/servo
+# SOURCES: https://github.com/pkgforge-dev/servo-AppImage
 # BUTTONS: 

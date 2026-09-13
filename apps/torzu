@@ -1,8 +1,15 @@
 # torzu
 ===
-Unofficial AppImage of Torzu, with optimized builds for modern cpus.
+Torzu is an open-source Nintendo Switch emulator with targeted optimizations for modern x86_64 CPUs. Built to deliver fluid framerates, it enables playing Switch titles with high fidelity on PC hardware.
+
+Features:
+- Hardware-accelerated Vulkan and OpenGL graphics rendering pipelines
+- Resolution scaling up to 4K and 8K with anisotropic texture filtering
+- Broad support for modern game controllers with motion gyro aiming and rumble
+- Local wireless multiplayer and network session emulation
+- Optimized CPU instruction set builds (x86_64_v3) for modern processor architectures
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Torzu-AppImage
-# SOURCES: 
+# SOURCES: https://github.com/pkgforge-dev/Torzu-AppImage
 # BUTTONS: 

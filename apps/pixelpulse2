@@ -1,8 +1,15 @@
 # pixelpulse2
 ===
- Pixelpulse2 is a user interface for analog systems exploration.
+Pixelpulse2 is an open-source graphical user interface for hardware signal exploration and analysis. Built to interface with devices such as Analog Devices' ADALM1000, it functions as a multi-instrument oscilloscope, signal generator, and power supply monitor.
+
+Features:
+- Real-time multi-channel oscilloscope visualization and waveform capture
+- Integrated arbitrary signal and function generator controls
+- Voltage and current measurement modes for circuit diagnostics
+- Interactive zooming, panning, and cursor measurements across signal plots
+- Data logging and CSV export for hardware engineering and academic experimentation
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/pixelpulse2-appimage
+# SITES: https://github.com/analogdevicesinc/pixelpulse2
 # SOURCES: https://github.com/pkgforge-dev/pixelpulse2-appimage
 # BUTTONS: 

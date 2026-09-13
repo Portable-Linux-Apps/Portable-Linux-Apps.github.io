@@ -1,8 +1,15 @@
 # neko-project-ii-kai
 ===
-Unofficial, a PC-9801 series emulator.
+Neko Project II kai is an accurate open-source emulator for the NEC PC-9801 and PC-9821 series of Japanese personal computers. It enables playing vintage Japanese PC games and running retro PC-98 software natively.
+
+Features:
+- Emulation of x86 CPUs (from 80286 through Pentium) and PC-98 system architectures
+- Accurate sound synthesis supporting OPNA, OPN, OPL, and MIDI soundboards
+- Support for D88, FDI, HDX, and HDI floppy and hard disk image formats
+- Configurable display rendering supporting 15/24/31 kHz screen modes and scanlines
+- Gamepad and mouse integration for classic PC-98 adventure and shoot-em-up titles
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Neko-Project-II-Kai-AppImage
-# SOURCES: 
+# SITES: https://github.com/AZO234/NP2kai
+# SOURCES: https://github.com/pkgforge-dev/Neko-Project-II-Kai-AppImage
 # BUTTONS: 

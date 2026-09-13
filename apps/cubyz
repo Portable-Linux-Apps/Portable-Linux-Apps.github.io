@@ -1,8 +1,15 @@
 # cubyz
 ===
- Unofficial AppImage of Cubyz.
+Cubyz is an open-source voxel sandbox role-playing game featuring a procedurally generated world with near-infinite height and depth. Built with a custom Java and OpenGL engine, it emphasizes exploration, crafting, and adventure.
+
+Features:
+- Vast procedurally generated terrain with diverse biomes, caves, and structures
+- Dynamic weather, atmospheric lighting, and day-night environmental cycles
+- In-depth crafting system with realistic material blending and tool durability
+- Extensible modding support through an integrated addon architecture
+- Optimized multithreaded chunk generation delivering smooth world rendering
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/cubyz-appimage
-# SOURCES: https://github.com/pkgforge-dev/cubyz-appimage
+# SITES: https://github.com/PixelGuys/Cubyz
+# SOURCES: https://github.com/pkgforge-dev/cubyz-appimage https://github.com/pkgforge-dev/Cubyz-AppImage
 # BUTTONS: 

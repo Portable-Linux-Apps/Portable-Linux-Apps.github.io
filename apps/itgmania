@@ -1,8 +1,15 @@
 # itgmania
 ===
-Unofficial, a fork of StepMania 5.1, an advanced cross-platform rhythm game for home and arcade use.
+ITGmania is an open-source rhythm game engine forked from StepMania 5.1, tailored specifically for modern arcade and home dance gaming. It focuses on precision timing, low input latency, and custom theme support.
+
+Features:
+- Highly optimized input polling system delivering low latency on modern dance pads
+- Full support for In The Groove and Dance Dance Revolution simfiles, charts, and music
+- Modernized Linux audio backends including PipeWire, ALSA, and PulseAudio
+- Broad theme support with real-time score tracking, timing statistics, and modifiers
+- Robust USB dance pad profile saving and online leaderboard integrations
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/ITGmania-AppImage
-# SOURCES: 
+# SITES: https://github.com/itgmania/itgmania
+# SOURCES: https://github.com/pkgforge-dev/ITGmania-AppImage
 # BUTTONS: 
