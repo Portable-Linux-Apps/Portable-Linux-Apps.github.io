@@ -1,4 +1,4 @@
-# cromite
+# Cromite
 ===
 Cromite is a privacy-hardened, open-source web browser forked from Chromium, continuing the legacy of Bromite. It integrates built-in ad blocking, DNS-over-HTTPS, and security patches designed to defend against online tracking and fingerprinting.
 
