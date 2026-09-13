@@ -1,8 +1,15 @@
 # openloco
 ===
-Unofficial, an open source re-implementation of Chris Sawyer's Locomotion.
+OpenLoco is an open-source reimplementation of Chris Sawyer's Locomotion, the transport management simulation successor to Transport Tycoon. It reconstructs the original assembly code into modern, maintainable C++.
+
+Features:
+- Native execution on modern 64-bit systems with high-resolution support
+- Modern user interface enhancements, UI scaling, and multi-monitor compatibility
+- Full compatibility with original Locomotion scenarios, vehicles, and save games
+- Active bug fixing and performance optimizations over the original 2004 release
+- Requires original Chris Sawyer's Locomotion game assets to run
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/OpenLoco-AppImage
-# SOURCES: 
+# SITES: https://github.com/OpenLoco/OpenLoco
+# SOURCES: https://github.com/pkgforge-dev/OpenLoco-AppImage
 # BUTTONS: 
