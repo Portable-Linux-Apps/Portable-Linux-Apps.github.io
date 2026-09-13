@@ -1,4 +1,4 @@
-# cannonball
+# Cannonball
 ===
 Cannonball is an enhanced, open-source C++ engine rewrite of Yu Suzuki's classic 1986 arcade driving game OutRun. It loads the original arcade ROM data to deliver a faithful recreation with extensive modern enhancements.
 
