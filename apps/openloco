@@ -1,4 +1,4 @@
-# openloco
+# OpenLoco
 ===
 OpenLoco is an open-source reimplementation of Chris Sawyer's Locomotion, the transport management simulation successor to Transport Tycoon. It reconstructs the original assembly code into modern, maintainable C++.
 
