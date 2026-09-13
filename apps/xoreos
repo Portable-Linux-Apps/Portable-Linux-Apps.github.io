@@ -1,8 +1,15 @@
 # xoreos
 ===
-Unofficial, A reimplementation of BioWare's Aurora engine.
+xoreos is an open-source reimplementation of BioWare's Aurora engine and its successors. The goal is to provide a unified, native open-source engine to play classic Western RPGs on modern platforms.
+
+Features:
+- Supports Star Wars: Knights of the Old Republic I and II
+- Compatible with Neverwinter Nights, Jade Empire, and Dragon Age: Origins
+- Modernized OpenGL graphics rendering with high-resolution support
+- Native cross-platform execution eliminating legacy DirectX and OS compatibility issues
+- Requires original game installation data files to play
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/xoreos-AppImage
-# SOURCES: 
+# SITES: https://github.com/xoreos/xoreos
+# SOURCES: https://github.com/pkgforge-dev/xoreos-AppImage
 # BUTTONS: 
