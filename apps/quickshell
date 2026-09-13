@@ -1,4 +1,4 @@
-# quickshell
+# Quickshell
 ===
 Quickshell is a flexible framework for building custom desktop shells, status bars, notification daemons, and system widgets using QML and QtQuick. It gives users complete control over their desktop interface design.
 
