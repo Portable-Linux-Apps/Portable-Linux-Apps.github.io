@@ -1,8 +1,15 @@
 # ghostship
 ===
-Unofficial, Another definitive port of Super Mario 64.
+Ghostship is an enhanced native PC port of Super Mario 64, forked from the sm64ex project. Statically compiling the decompiled N64 source code into a native executable, it provides modern graphics and unlocked performance on PC.
+
+Features:
+- Native 60 FPS and uncapped framerate rendering without emulation lag
+- True widescreen and ultrawide support with customizable camera controls
+- Modern analog controller, keyboard, and mouse control schemes
+- Support for community texture packs, model replacements, and custom patches
+- Requires an authentic Super Mario 64 ROM for asset extraction
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Ghostship-AppImage-Enhanced
-# SOURCES: 
+# SITES: https://github.com/sm64pc/sm64ex
+# SOURCES: https://github.com/pkgforge-dev/Ghostship-AppImage-Enhanced
 # BUTTONS: 
