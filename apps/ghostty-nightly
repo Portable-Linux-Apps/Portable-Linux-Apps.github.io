@@ -1,4 +1,4 @@
-# ghostty-nightly
+# Ghostty (Nightly)
 ===
 Ghostty is a fast, feature-rich, cross-platform terminal emulator designed by Mitchell Hashimoto. Built from the ground up in Zig, it leverages GPU hardware acceleration to deliver ultra-low latency and rich terminal capabilities.
 
