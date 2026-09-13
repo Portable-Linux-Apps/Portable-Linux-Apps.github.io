@@ -1,8 +1,15 @@
 # antigravity-ide
 ===
- Unofficial AppImage of Google Antigravity IDE.
+Google Antigravity IDE is the dedicated integrated development environment designed around Google DeepMind's agentic AI coding assistant. It delivers an AI-native pair programming workspace that combines powerful code editing with autonomous agent-driven development workflows.
+
+Features:
+- Agent-first editor interface optimized for interactive collaboration with AI
+- Built-in multi-turn task planner, artifact review, and visual progress tracking
+- Deep workspace context awareness with real-time code indexing and diagnostics
+- Integrated terminal, diff reviewer, and automated change applicator
+- Extensible via custom skills, MCP tools, and personalized engineering rules
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/antigravity-ide-appimage
+# SITES: https://antigravity.google/download
 # SOURCES: https://github.com/pkgforge-dev/antigravity-ide-appimage
 # BUTTONS: 
