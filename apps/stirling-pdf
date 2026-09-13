@@ -1,8 +1,15 @@
 # stirling-pdf
 ===
-Unofficial. Powerful, open-source PDF editing platform.
+Stirling-PDF is a powerful, locally hosted multi-tool web application for performing all operations on PDF files. It provides a complete, privacy-focused alternative to proprietary online PDF editing suites.
+
+Features:
+- Merge, split, rotate, reorder, and extract pages across multiple PDF documents
+- Convert PDFs to and from Word, PowerPoint, images, HTML, and Markdown
+- OCR text recognition to make scanned documents searchable and editable
+- Redact sensitive information, add digital watermarks, and compress file sizes
+- Add, sign, and remove passwords and digital security certificates
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Stirling-PDF-AppImage
-# SOURCES: 
+# SITES: https://github.com/Stirling-Tools/Stirling-PDF
+# SOURCES: https://github.com/pkgforge-dev/Stirling-PDF-AppImage
 # BUTTONS: 
