@@ -1,4 +1,4 @@
-# dethrace
+# Dethrace
 ===
 dethrace is a reverse-engineered, open-source source port of Carmageddon (1997), the iconic vehicular combat and racing game. It reconstructs the original game logic to execute natively on modern operating systems without DOS emulation.
 
