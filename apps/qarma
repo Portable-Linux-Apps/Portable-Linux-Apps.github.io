@@ -1,4 +1,4 @@
-# qarma
+# Qarma
 ===
 Qarma is a Qt-based clone of the Zenity dialog tool. It enables shell scripts and terminal commands to easily display graphical dialog boxes (file selectors, text entries, progress bars, and alerts) that match your Qt desktop theme.
 
