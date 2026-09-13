@@ -1,8 +1,15 @@
 # deadbeef
 ===
-Unofficial AppImage of the DeaDBeeF music player (Stable version).
+DeaDBeeF is a modular, lightweight audio player designed for GNU/Linux and Unix-like systems. Built with speed and responsiveness in mind, it provides bit-perfect playback and plays virtually every known audio format without heavy desktop dependencies.
+
+Features:
+- Supports MP3, FLAC, OGG, WAV, ALAC, AAC, APE, WMA, tracker modules, and chiptunes
+- High-quality 18-band graphic equalizer and DSP plugin pipeline
+- Advanced metadata tag editing and title formatting support
+- Customizable user interface with tabbed playlists and customizable layout widgets
+- Gapless playback, ReplayGain volume normalization, and global hotkeys
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/DeaDBeeF-AppImage
-# SOURCES: 
+# SITES: https://github.com/DeaDBeeF-Player/deadbeef
+# SOURCES: https://github.com/pkgforge-dev/DeaDBeeF-AppImage
 # BUTTONS: 
