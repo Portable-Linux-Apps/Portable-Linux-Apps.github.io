@@ -1,8 +1,15 @@
 # taradino
 ===
-Unofficial, SDL2 port of Rise of the Triad.
+Taradino is an open-source modern source port of Rise of the Triad: Dark War (1994), Apogee Software's classic over-the-top first-person shooter. Built with SDL2, it brings high-flying missile combat natively to Linux.
+
+Features:
+- Native execution on modern 64-bit systems with high-resolution display rendering
+- Smooth mouselook controls, customizable key bindings, and gamepad support
+- All original playable characters with distinct speed and health characteristics
+- Ludicrous gibs, trampolines, dog mode, god mode, and explosive rocket weaponry
+- Restored digital audio and Roland Sound Canvas MIDI music playback
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Taradino-AppImage
-# SOURCES: 
+# SITES: https://github.com/fabiangreffrath/taradino
+# SOURCES: https://github.com/pkgforge-dev/Taradino-AppImage
 # BUTTONS: 
