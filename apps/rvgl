@@ -1,8 +1,15 @@
 # rvgl
 ===
-Unofficial, a cross-platform rewrite/port of Re-Volt.
+RVGL is a cross-platform, enhanced rewrite of the classic 1999 radio-controlled car racing game Re-Volt. Built with modern OpenGL and SDL2, it brings the miniature racing classic natively to modern Linux desktops.
+
+Features:
+- Native 64-bit Linux port with high-resolution widescreen and 4K support
+- Online multiplayer racing with peer-to-peer networking and online lobby browser
+- Uncapped framerates, enhanced particle effects, and dynamic lighting
+- Full support for community cars, custom tracks, and legacy Re-Volt mods
+- Modern gamepad support with analog steering, force feedback, and split-screen mode
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/RVGL-AppImage
-# SOURCES: 
+# SITES: https://rvgl.org/
+# SOURCES: https://github.com/pkgforge-dev/RVGL-AppImage
 # BUTTONS: 
