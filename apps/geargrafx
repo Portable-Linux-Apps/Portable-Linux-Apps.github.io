@@ -1,8 +1,15 @@
 # geargrafx
 ===
-PC Engine / TurboGrafx-16 emulator and debugger.
+Geargrafx is an open-source PC Engine and TurboGrafx-16 console emulator and debugger written in C++. It delivers accurate hardware emulation of the classic NEC 16-bit video game console.
+
+Features:
+- Precise HuC6280 CPU and HuC6270 video display controller emulation
+- High-fidelity HuC6260 PSG sound generator emulation
+- Supports HuCard ROM image files with automatic region detection
+- Built-in debugger, memory viewer, and disassembly tools for development
+- Customizable video filters, aspect ratio correction, and gamepad mapping
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/drhelius/Geargrafx
-# SOURCES: 
+# SOURCES: https://github.com/pkgforge-dev/Geargrafx-AppImage
 # BUTTONS: 
