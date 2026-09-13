@@ -1,8 +1,15 @@
 # xsnow
 ===
-Unofficial, let it snow on your desktop.
+Xsnow is a festive, animated desktop holiday toy for X11. It brings gently falling snowflakes, blowing snowdrifts, festive trees, and Santa flying in his reindeer-pulled sleigh to your desktop workspace.
+
+Features:
+- Gently falling snowflakes that accumulate as snowdrifts on top of open desktop windows
+- Flying Santa Claus in a sleigh pulled by reindeer across the screen
+- Festive evergreen trees, playful penguins, and customizable winter scenery
+- Configurable snow speed, snowflake count, wind velocity, and Santa flight frequency
+- Compatible with modern compositing managers and multiple monitor setups
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Xsnow-AppImage
-# SOURCES: 
+# SITES: https://sourceforge.net/projects/xsnow
+# SOURCES: https://github.com/pkgforge-dev/Xsnow-AppImage
 # BUTTONS: 
