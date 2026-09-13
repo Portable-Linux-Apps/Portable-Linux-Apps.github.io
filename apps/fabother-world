@@ -1,8 +1,15 @@
 # fabother-world
 ===
-Unofficial, an interpreter for Another World (Out of this world).
+Fabother World is an open-source bytecode interpreter for Another World (Out of This World), the revolutionary 1991 cinematic action-adventure game designed by Éric Chahi. It executes the original game bytecode on modern hardware.
+
+Features:
+- Faithful recreation of cinematic vector animations and gameplay scenes
+- Native cross-platform execution with smooth performance
+- Scalable high-resolution display rendering while preserving artistic integrity
+- Accurate digital sound and atmospheric musical score playback
+- Uses original game data files from DOS or Amiga editions
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Fabother-World-AppImage
-# SOURCES: 
+# SITES: https://github.com/fabiensanglard/Another-World-Bytecode-Interpreter
+# SOURCES: https://github.com/pkgforge-dev/Fabother-World-AppImage
 # BUTTONS: 
