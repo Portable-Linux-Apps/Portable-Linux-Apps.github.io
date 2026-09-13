@@ -1,8 +1,13 @@
 # uad-ng
 ===
-Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+Universal Android Debloater Next Generation (UAD-NG) is an open-source desktop tool to debloat non-rooted Android devices. Using ADB, it safely uninstalls or disables manufacturer and carrier bloatware to improve privacy and battery life.
 
- This script provides both the official portable build and the unofficial AppImage.
+Features:
+- Extensively documented debloat package list with safety ratings and descriptions
+- One-click disabling and re-enabling of carrier bloat, tracking daemons, and vendor apps
+- Multi-user and multi-profile support (Work profiles, Secure Folder)
+- Safe restoration and un-debloat functionality to restore original system state
+- Connects directly over USB or Wi-Fi ADB without needing root access on the device
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
