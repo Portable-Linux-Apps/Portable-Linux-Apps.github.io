@@ -1,10 +1,15 @@
 # gnome-pomodoro
 ===
-Gnome Pomodoro is a productivity tool designed to help you manage your time effectively using the Pomodoro Technique.
- 
- This Unofficial AppImage allows you to run Gnome Pomodoro on any Linux distribution without the need for installation.
+GNOME Pomodoro is a time management and productivity tool implementing the Pomodoro Technique. It helps maintain focus and prevent mental burnout by structuring work into timed intervals separated by short restorative breaks.
+
+Features:
+- Visual timer with customizable work intervals, short breaks, and long breaks
+- Desktop notifications and subtle screen dimming reminders during breaks
+- Detailed productivity statistics and daily work session history
+- Audio chimes and custom sound effects for interval transitions
+- Clean desktop interface integrating seamlessly with modern Linux environments
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/gnome-pomodoro-appimage
-# SOURCES: 
+# SITES: https://gnomepomodoro.org
+# SOURCES: https://github.com/pkgforge-dev/gnome-pomodoro-appimage
 # BUTTONS: 
