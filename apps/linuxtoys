@@ -1,8 +1,15 @@
 # linuxtoys
 ===
-Unofficial, a user-friendly collection of tools to make your life on Linux easier than ever. Useful scripts for gamers, developers and enthusiasts.
+LinuxToys is a collection of user-friendly performance tweaks, system configuration tools, and optimization scripts for Linux desktops. It simplifies common administration and gaming optimization tasks through an intuitive graphical menu.
+
+Features:
+- One-click performance tweaks for Linux gaming (gamemode, wine-staging, proton)
+- Kernel and scheduler tuning for reduced desktop latency and better responsiveness
+- Automated installation of popular gaming utilities, runtimes, and dependencies
+- Clean graphical interface with modular scripts for safe application and rollback
+- Helpful diagnostics and system hardware information readouts
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/linuxtoys-appimage
-# SOURCES: 
+# SITES: https://github.com/psygreg/linuxtoys
+# SOURCES: https://github.com/pkgforge-dev/linuxtoys-appimage
 # BUTTONS: 
