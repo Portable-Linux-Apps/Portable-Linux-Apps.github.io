@@ -1,8 +1,17 @@
 # soh-enhanced
 ===
-Unofficial, Ship of Harkinian.
+Ship of Harkinian is an enhanced native PC port of The Legend of Zelda: Ocarina of Time. Compiled natively from the decompilation of the N64 ROM, it offers extensive modern visual and gameplay enhancements.
+
+Features:
+- Smooth 60+ FPS gameplay with high-resolution and ultrawide display rendering
+- Free camera control with right analog stick and mouse-look options
+- Extensive quality-of-life enhancements including D-pad item equip and faster text
+- Integrated randomizer modes and custom modding support
+- Requires an authentic Ocarina of Time ROM for asset extraction
+
+This is an unofficial AnyLinux AppImage, which is able to work anywhere including glibc and musl. For more info: https://pkgforge-dev.github.io/Anylinux-AppImages/
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/soh-AppImage-Enhanced
-# SOURCES: 
+# SITES: https://github.com/HarbourMasters/Shipwright
+# SOURCES: https://github.com/pkgforge-dev/soh-AppImage-Enhanced
 # BUTTONS: 
