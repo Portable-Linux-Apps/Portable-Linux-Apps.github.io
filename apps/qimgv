@@ -9,7 +9,7 @@ Features:
 - Image manipulation tools including lossless rotation, cropping, and resizing
 - Integrated file management and custom shell command trigger scripts
 ===
-# SCREENSHOTS: /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/easymodo/qimgv/master/qimgv/distrib/screenshots/qimgv0.9_1.jpg https://raw.githubusercontent.com/easymodo/qimgv/master/qimgv/distrib/screenshots/qimgv0.9_2.jpg
 # SITES: https://github.com/easymodo/qimgv
 # SOURCES: https://github.com/pkgforge-dev/Qimgv-AppImage
 # BUTTONS: 

@@ -9,7 +9,7 @@ Features:
 - Search functionality with regular expression highlighting
 - Low memory footprint and fast startup times across all desktop environments
 ===
-# SCREENSHOTS: /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/lxqt/qterminal/master/qterminal.png
 # SITES: https://github.com/lxqt/qterminal
 # SOURCES: https://github.com/pkgforge-dev/QTerminal-AppImage
 # BUTTONS: 
