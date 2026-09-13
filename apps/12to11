@@ -1,8 +1,15 @@
 # 12to11
 ===
-Unofficial, tool for running Wayland applications on an X server.
+12to11 is a lightweight Wayland-to-X11 bridge that enables running Wayland applications on an X server. It acts as an in-process Wayland compositor translating Wayland client requests into standard X11 window operations, allowing modern Wayland-exclusive software to integrate seamlessly with traditional X11 window managers and desktop environments.
+
+Features:
+- Seamless execution of Wayland applications as regular top-level X11 windows
+- Broad Wayland protocol support including wl_compositor, wl_shm, and xdg_wm_base
+- Hardware-accelerated rendering through EGL and OpenGL ES 2.0
+- Pointer constraints, relative pointer motions, and multi-touch gestures
+- Compatible with lightweight window managers such as dwm, i3, and Openbox
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/12to11-AppImage
-# SOURCES: 
+# SITES: https://git.linuxping.win/12to11/12to11
+# SOURCES: https://github.com/pkgforge-dev/12to11-AppImage
 # BUTTONS: 
