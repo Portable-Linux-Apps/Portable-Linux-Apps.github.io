@@ -1,8 +1,15 @@
 # antigravity
 ===
-Google Antigravity IDE.
+Google Antigravity is an advanced agentic AI coding assistant designed by Google DeepMind. Built for pair programming and autonomous software engineering, Antigravity plans, explores codebases, writes and refactors code, runs commands, and performs complex multi-step workflows.
+
+Features:
+- Autonomous multi-agent coordination with specialized background subagents
+- In-depth codebase exploration, semantic search, and project comprehension
+- Automated test execution, debugging, and terminal command integration
+- Flexible extension system supporting custom skills, rules, hooks, and MCP servers
+- Seamless integration across command-line interfaces and development environments
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://antigravity.google
-# SOURCES: 
+# SITES: https://antigravity.google/download https://antigravity.google
+# SOURCES: https://github.com/pkgforge-dev/Antigravity-AppImage
 # BUTTONS: 
