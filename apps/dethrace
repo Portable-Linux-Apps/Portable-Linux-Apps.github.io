@@ -1,8 +1,15 @@
 # dethrace
 ===
-Reverse engineering the 1997 game "Carmageddon".
+dethrace is a reverse-engineered, open-source source port of Carmageddon (1997), the iconic vehicular combat and racing game. It reconstructs the original game logic to execute natively on modern operating systems without DOS emulation.
+
+Features:
+- Native execution on modern 64-bit systems with high framerates
+- High-resolution rendering with support for widescreen and modern display scaling
+- Full physics-driven vehicular collisions and destructible car geometry
+- Modern controller and steering wheel configuration alongside keyboard controls
+- Requires original Carmageddon game data files to run
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/dethrace-AppImage
-# SOURCES: 
+# SITES: https://github.com/Link4Electronics/dethrace
+# SOURCES: https://github.com/pkgforge-dev/dethrace-AppImage
 # BUTTONS: 
