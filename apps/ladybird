@@ -1,4 +1,4 @@
-# ladybird
+# Ladybird
 ===
 Ladybird is a truly independent, open-source web browser and rendering engine written from scratch in modern C++. Founded to break the browser engine duopoly, Ladybird implements web standards without relying on Chromium, WebKit, or Gecko.
 
