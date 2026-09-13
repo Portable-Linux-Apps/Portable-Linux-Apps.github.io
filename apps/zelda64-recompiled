@@ -1,8 +1,15 @@
 # zelda64-recompiled
 ===
-Unofficial, a native port of the N64 Legend of Zelda games, statically recompiled.
+Zelda 64 Recompiled is an enhanced native PC port of the classic Nintendo 64 adventure titles The Legend of Zelda: Ocarina of Time and The Legend of Zelda: Majora's Mask, created using static recompilation.
+
+Features:
+- Native execution without emulation overhead, delivering ultra-smooth 60+ FPS gameplay
+- True widescreen and ultrawide monitor rendering with scalable high-definition graphics
+- Modern camera controls with free-look right analog stick and mouse support
+- Instant load times, high-fidelity audio rendering, and reduced input latency
+- Modern controller configuration with analog stick sensitivity and customizable mapping
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Zelda64-Recompiled-AppImage
-# SOURCES: 
+# SITES: https://github.com/Zelda64Recomp/Zelda64Recomp
+# SOURCES: https://github.com/pkgforge-dev/Zelda64-Recompiled-AppImage
 # BUTTONS: 
