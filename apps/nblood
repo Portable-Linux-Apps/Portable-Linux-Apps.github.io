@@ -1,8 +1,15 @@
 # nblood
 ===
-Blood port based on EDuke32.
+NBlood is an accurate source port of Blood (1997), the legendary horror first-person shooter developed by Monolith Productions. Based on the EDuke32 BUILD engine, it brings Blood natively to modern Linux desktops.
+
+Features:
+- Native execution on modern 64-bit systems with high-resolution widescreen support
+- Modern mouse-look, uncapped framerates, and customizable keybindings
+- Full support for original Blood campaigns, Cryptic Passage, and community maps
+- Accurate weapon physics, voxel models, dynamic lighting, and gore mechanics
+- High-fidelity audio playback supporting original CD audio and MIDI soundtracks
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/NBlood-AppImage
-# SOURCES: 
+# SITES: https://github.com/nukeykt/NBlood
+# SOURCES: https://github.com/pkgforge-dev/NBlood-AppImage
 # BUTTONS: 
