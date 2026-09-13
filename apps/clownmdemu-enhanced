@@ -1,8 +1,17 @@
 # clownmdemu-enhanced
 ===
-Unofficial, reference standalone frontend for clownmdemu.
+clownmdemu-enhanced is a standalone frontend for clownmdemu, an accurate and modular Sega Mega Drive / Genesis emulator core. It provides a straightforward user interface for playing 16-bit Sega games with high fidelity.
+
+Features:
+- Accurate Motorola 68000 and Z80 CPU emulation with cycle-accurate timing
+- High-quality Yamaha YM2612 FM synthesis and SN76489 PSG sound reproduction
+- Support for Mega Drive / Genesis ROM formats and SRAM battery saves
+- Configurable video scaling, scanline filters, and fullscreen display modes
+- Gamepad and keyboard configuration with responsive input handling
+
+This is an unofficial AnyLinux AppImage, which is able to work anywhere including glibc and musl. For more info: https://pkgforge-dev.github.io/Anylinux-AppImages/
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/ClownMDEmu-AppImage-Enhanced
-# SOURCES: 
+# SITES: https://github.com/Clownacy/clownmdemu-frontend
+# SOURCES: https://github.com/pkgforge-dev/ClownMDEmu-AppImage-Enhanced
 # BUTTONS: 
