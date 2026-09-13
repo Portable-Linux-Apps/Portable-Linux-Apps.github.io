@@ -1,4 +1,4 @@
-# touchhle
+# touchHLE
 ===
 touchHLE is a high-level emulator (HLE) for early iPhone OS / iOS applications and games. Written in Rust, it allows classic touch-screen games from the iPhone's golden era (Super Monkey Ball, Flight Control) to run natively on PC.
 
