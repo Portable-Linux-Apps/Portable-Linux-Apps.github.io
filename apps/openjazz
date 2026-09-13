@@ -1,8 +1,15 @@
 # openjazz
 ===
-A free, open-source version of the classic Jazz Jackrabbit™ games.
+OpenJazz is a free, open-source game engine reimplementation of Jazz Jackrabbit, the fast-paced 1994 platformer by Epic MegaGames. It allows players to enjoy the high-speed adventures of the green hare on modern Linux.
+
+Features:
+- Native cross-platform execution with smooth 60 FPS side-scrolling action
+- Scalable high-resolution graphics and widescreen presentation
+- Full support for modern controllers, gamepads, and customizable keyboard layouts
+- Local split-screen multiplayer racing and battle modes
+- Compatible with shareware, floppy, and CD-ROM releases of Jazz Jackrabbit
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/OpenJazz-AppImage
-# SOURCES: 
+# SITES: https://github.com/AlisterT/openjazz
+# SOURCES: https://github.com/pkgforge-dev/OpenJazz-AppImage
 # BUTTONS: 
