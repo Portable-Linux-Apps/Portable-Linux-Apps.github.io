@@ -1,4 +1,4 @@
-# gamescope
+# Gamescope
 ===
 gamescope is Valve's micro-compositor designed to isolate games from the host desktop environment. Used extensively on SteamOS and the Steam Deck, it provides integer scaling, FidelityFX Super Resolution (FSR), and low-latency frame pacing.
 
