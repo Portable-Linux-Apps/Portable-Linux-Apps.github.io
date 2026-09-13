@@ -31,8 +31,12 @@ jobs:
       - name: Download pla-site-tool
         if: steps.changed.outputs.files != ''
         run: |
-          wget -q -O pla-site-tool "$(curl -Ls https://api.github.com/repos/kazam0180/portable-apps/releases | sed 's/[()",{} ]/\n/g' | grep -oi "https.*pla-site-tool.*mage$" | head -1)"
-          chmod +x pla-site-tool
+          wget -q -O pla-site-tool.AppImage "$(curl -Ls https://api.github.com/repos/kazam0180/portable-apps/releases | sed 's/[()",{} ]/\n/g' | grep -oi "https.*pla-site-tool.*mage$" | head -1)"
+          chmod +x pla-site-tool.AppImage
+          ./pla-site-tool.AppImage --appimage-extract
+          cp squashfs-root/shared/bin/pla-site-tool ./pla-site-tool 2>/dev/null || cp squashfs-root/AppRun ./pla-site-tool
+          chmod +x ./pla-site-tool
+          rm -rf pla-site-tool.AppImage squashfs-root
 
       - name: Validate files
         if: steps.changed.outputs.files != ''
