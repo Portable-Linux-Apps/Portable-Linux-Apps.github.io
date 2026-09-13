@@ -1,8 +1,15 @@
 # aerofoil
 ===
-Multiplatform port of Glider PRO.
+Aerofoil is a modern, cross-platform port of Glider PRO, the classic Macintosh paper airplane flight game originally developed by John Calhoun. It recreates the nostalgic physics and level mechanics while running natively on modern PC operating systems.
+
+Features:
+- Faithful recreation of original Glider PRO physics, flight dynamics, and obstacles
+- Cross-platform support for modern display resolutions and widescreen monitors
+- Full compatibility with classic Mac Glider PRO houses and custom level files
+- Customizable keyboard, mouse, and game controller input schemes
+- Enhanced audio playback and sound effect emulation
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Aerofoil-AppImage
-# SOURCES: 
+# SITES: https://github.com/elasota/Aerofoil
+# SOURCES: https://github.com/pkgforge-dev/Aerofoil-AppImage
 # BUTTONS: 
