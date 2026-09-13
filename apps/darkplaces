@@ -1,8 +1,15 @@
 # darkplaces
 ===
-The DarkPlaces Quake engine, created by LadyHavoc.
+DarkPlaces is an advanced, open-source Quake engine source port developed by Forest "LordHavoc" Hale. Renowned for its cutting-edge graphics technology, it introduces real-time dynamic per-pixel lighting, normal mapping, and advanced particle effects to classic Quake.
+
+Features:
+- Modern rendering pipeline featuring real-time dynamic shadows, bloom, and gloss maps
+- Support for high-resolution replacement textures and 3D character models
+- Enhanced networking and multiplayer protocol with improved client prediction
+- Extensive console configuration options and video settings
+- Compatible with classic Quake, Quake mission packs, and standalone total conversions
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/DarkPlaces-AppImage
-# SOURCES: 
+# SITES: https://github.com/DarkPlacesEngine/DarkPlaces
+# SOURCES: https://github.com/pkgforge-dev/DarkPlaces-AppImage
 # BUTTONS: 
