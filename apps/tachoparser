@@ -1,8 +1,15 @@
 # tachoparser
 ===
- Unofficial AppImage of tachoparser, CLI and GUI application for reading DDD tachograph cards.
+tachoparser is an open-source application designed to read, inspect, and analyze digital tachograph driver cards and vehicle unit (.DDD / .TGD / .V1B) data files for transport compliance.
+
+Features:
+- Parses digital driver card files (.DDD) and vehicle unit data according to EU regulations
+- Visualizes driving hours, rest breaks, daily work shifts, and weekly driving activity
+- Identifies potential driving time infringements and regulation compliance issues
+- Generates clear visual timelines and activity reports for transport managers
+- Works completely locally ensuring confidential driver data remains private
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/tachoparser-appimage
+# SITES: https://github.com/traconiq/tachoparser
 # SOURCES: https://github.com/pkgforge-dev/tachoparser-appimage
 # BUTTONS: 
