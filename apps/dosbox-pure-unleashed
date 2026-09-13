@@ -1,8 +1,15 @@
 # dosbox-pure-unleashed
 ===
- Unofficial AppImage of DOSBox Pure Unleashed.
+DOSBox Pure Unleashed is a standalone packaging of DOSBox Pure, a reimagined DOS emulator tailored specifically for gaming. It removes the friction of configuring vintage DOS games with automatic hardware setup, controller mapping, and ZIP launching.
+
+Features:
+- Directly load DOS games packaged inside ZIP or 7z archives without manual extraction
+- Automatic detection of sound cards, CPU cycles, and display configurations
+- Built-in game controller support with automatic key mapping and onscreen keyboard
+- Save state support and rewind functionality for vintage gameplay
+- Multiple CRT and video enhancement shaders for authentic vintage visuals
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/dosbox-pure-unleashed-appimage
+# SITES: https://github.com/schellingb/dosbox-pure
 # SOURCES: https://github.com/pkgforge-dev/dosbox-pure-unleashed-appimage
 # BUTTONS: 
