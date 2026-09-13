@@ -1,4 +1,4 @@
-# servo
+# Servo
 ===
 Servo is an open-source, independent web browser engine written in Rust. Designed for high concurrency, memory safety, and performance, Servo pioneers a parallel architecture for layout, styling, and rendering.
 
