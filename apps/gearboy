@@ -1,8 +1,15 @@
 # gearboy
 ===
-Game Boy / Gameboy Color emulator.
+Gearboy is a cross-platform, open-source Game Boy and Game Boy Color emulator written in C++. Designed for high fidelity, it accurately reproduces the audio and video hardware of Nintendo's iconic handheld consoles.
+
+Features:
+- Cycle-accurate Z80-like processor and memory bank controller (MBC) emulation
+- Accurate Game Boy Color dual-speed CPU and palette color rendering
+- High-quality audio synthesis recreating the original four-channel sound chip
+- Save states, battery-backed SRAM persistence, and Game Genie cheat codes
+- Gamepad controller support with customizable button layouts
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/drhelius/Gearboy
-# SOURCES: 
+# SOURCES: https://github.com/pkgforge-dev/Gearboy-AppImage
 # BUTTONS: 
