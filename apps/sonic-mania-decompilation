@@ -1,8 +1,15 @@
 # sonic-mania-decompilation
 ===
-A complete decompilation of Sonic Mania (2017).
+Sonic Mania Decompilation is a native PC port created from the byte-accurate decompilation of Sonic Mania (2017) and the Retro Engine v5. It runs natively on Linux with zero overhead and full mod support.
+
+Features:
+- Native Linux execution delivering responsive 60 FPS platforming action
+- Widescreen and ultrawide display support with scalable UI elements
+- Complete support for the Sonic Mania Plus expansion and Encore Mode
+- Rich modding ecosystem with integrated mod manager support
+- Modern gamepad and arcade fight-stick compatibility with rumble feedback
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Sonic-Mania-Decompilation-AppImage
-# SOURCES: 
+# SITES: https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation
+# SOURCES: https://github.com/pkgforge-dev/Sonic-Mania-Decompilation-AppImage
 # BUTTONS: 
