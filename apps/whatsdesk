@@ -1,8 +1,15 @@
 # whatsdesk
 ===
-Unofficial, An unofficial client of WhatsApp.
+WhatsDesk is an unofficial desktop client for WhatsApp Web tailored for Linux. It wraps the WhatsApp web service into a standalone desktop window with system integration.
+
+Features:
+- Native desktop notifications for incoming messages and phone calls
+- System tray integration with unread message badge count
+- Full support for sending text, voice messages, images, documents, and emojis
+- Spell checking and configurable zoom scaling for high-DPI displays
+- Secure sandboxed environment keeping messaging isolated from regular browsing tabs
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/WhatsDesk-AppImage
-# SOURCES: 
+# SITES: https://zerkc.gitlab.io/whatsdesk/
+# SOURCES: https://github.com/pkgforge-dev/WhatsDesk-AppImage
 # BUTTONS: 
