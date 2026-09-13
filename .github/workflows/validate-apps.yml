@@ -12,6 +12,8 @@ permissions:
 jobs:
   validate:
     runs-on: ubuntu-latest
+    container:
+      image: registry.gitlab.com/kazam0180/pla-site-tool
     steps:
       - name: Checkout
         uses: actions/checkout@v7
@@ -27,13 +29,7 @@ jobs:
           echo "files<<EOF" >> $GITHUB_OUTPUT
           echo "$FILES" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
-
-      - name: Download pla-site-tool
-        if: steps.changed.outputs.files != ''
-        run: |
-          wget -q -O pla-site-tool "$(curl -Ls https://api.github.com/repos/kazam0180/portable-apps/releases | sed 's/[()",{} ]/\n/g' | grep -oi "https.*pla-site-tool.*mage$" | head -1)"
-          chmod +x pla-site-tool
-
+          
       - name: Validate files
         if: steps.changed.outputs.files != ''
         id: validate
@@ -43,7 +39,7 @@ jobs:
             [ -z "$file" ] && continue
             echo "Validating: $file"
             set +e
-            OUTPUT=$(./pla-site-tool -i "$file" 2>&1)
+            OUTPUT=$(pla-site-tool -i "$file" 2>&1)
             EXIT_CODE=$?
             set -e
             echo "$OUTPUT"
