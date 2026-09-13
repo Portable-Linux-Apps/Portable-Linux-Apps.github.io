@@ -9,7 +9,7 @@ Features:
 - Clean graphical interface with modular scripts for safe application and rollback
 - Helpful diagnostics and system hardware information readouts
 ===
-# SCREENSHOTS: /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/psygreg/linuxtoys/master/src/screenshot-light.webp
 # SITES: https://github.com/psygreg/linuxtoys
 # SOURCES: https://github.com/pkgforge-dev/linuxtoys-appimage
 # BUTTONS: 
