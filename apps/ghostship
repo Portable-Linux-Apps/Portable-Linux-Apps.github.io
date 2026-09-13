@@ -1,4 +1,4 @@
-# ghostship
+# Ghostship
 ===
 Ghostship is an enhanced native PC port of Super Mario 64, forked from the sm64ex project. Statically compiling the decompiled N64 source code into a native executable, it provides modern graphics and unlocked performance on PC.
 
