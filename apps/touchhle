@@ -1,8 +1,15 @@
-# touchhle
+# touchHLE
 ===
-Unofficial, High-level emulator for iPhone OS apps.
+touchHLE is a high-level emulator (HLE) for early iPhone OS / iOS applications and games. Written in Rust, it allows classic touch-screen games from the iPhone's golden era (Super Monkey Ball, Flight Control) to run natively on PC.
+
+Features:
+- High-level emulation approach executing ARM binaries with high speed and low overhead
+- Modern mouse and gamepad controls simulating iPhone touchscreens and accelerometers
+- High-resolution rendering upscaling original mobile graphics to modern PC monitors
+- Clean audio playback replicating original sound effects and music
+- Compatible with classic 32-bit iPhone OS .ipa application packages
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/TouchHLE-AppImage
-# SOURCES: 
+# SITES: https://github.com/touchHLE/touchHLE
+# SOURCES: https://github.com/pkgforge-dev/TouchHLE-AppImage
 # BUTTONS: 

@@ -1,6 +1,74 @@
 # odamex
 ===
-Unofficial, Online Multiplayer Doom port with a strong focus on the original gameplay while providing a breadth of enhancements.
+Odamex is a multiplayer-oriented DOOM port with a focus on classic DOOM gameplay. Perfect for playing with friends or alone,
+Odamex is faithful to the original DOOM games. It has the ability to play back vanilla demos,
+while also providing an enhanced experience with modern quality-of-life features and expanded modding capabilities.
+
+Features include:
+
+General Improvements on the Original Games:
+
+- Can play many DOOM engine games, including Ultimate DOOM, DOOM II, Final DOOM, Freedoom, Chex Quest, Hacx, and REKKR
+
+- Supports many modern editing features, such as “limit removing”, Boom, MBF, MBF21, and ID24
+
+- Supports Hexen format and older ZDoom format maps
+
+- Uncapped framerate
+
+- High resolutions
+
+- Widescreen support up to 32:9 ratio (ultra widescreen)
+
+- 32-bit color renderer
+
+- Multiple ways to playback MIDI music, including an FM Synth emulator to rekindle those 1990s memories
+
+- Supports MOD and other tracker music, MP3, and OGG in custom wads
+
+- Quake-style console and key bindings
+
+- Crosshairs
+
+- Extended HUD
+
+- Mouselook, jumping, swimming, and flying
+
+- Walk over/under monsters and other things
+
+Unmatched Online Experience:
+
+- Support for up to 255 players at once
+
+- Top tier network code. Play with your friends on the other side of the world!
+
+- Unlagged - Odamex will compensate for poor network conditions
+
+- In-game wad downloading
+
+- On-the-fly wad loading (servers can run hundreds of wads without you disconnecting!)
+
+- Vote to change server settings such as fraglimit, timelimit, map, and more (must be enabled on server)
+
+- Custom player colors
+
+Exciting Multiplayer Gamemodes:
+
+- Cooperative & Survival
+
+- Deathmatch / Team Deathmatch
+
+- Last Man Standing / Team Last Man Standing
+
+- Capture the Flag
+
+- The Cacoward winning Horde mode
+
+- And more!
+
+Note: The included version of Timidity does NOT support soundfonts, only GUS patches.
+
+A copy of DOOM, DOOM II, Final DOOM, Freedoom, Hacx, REKKR, or Chex Quest is required. If you do not own DOOM, it can be purchased on GOG or Steam.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Odamex-AppImage

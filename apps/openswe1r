@@ -1,8 +1,15 @@
-# openswe1r
+# OpenSWE1R
 ===
-Unofficial, an open-source port of the 1999 game Star Wars Episode 1: Racer.
+OpenSWE1R is an open-source modern port and reimplementation of Star Wars Episode I: Racer (1999). It allows players to pilot high-speed podracers natively on modern Linux PCs with modern display and controller support.
+
+Features:
+- Native Linux execution with support for high resolutions and modern widescreen aspect ratios
+- Smooth, uncapped framerate rendering eliminating vintage frame rate drops
+- Modern gamepad and flight stick support with analog steering and throttle
+- High-fidelity audio playback reproducing original sound effects and John Williams score
+- Requires original Star Wars Episode I: Racer game data files to play
 ===
-# SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/OpenSWE1R-AppImage
-# SOURCES: 
+# SCREENSHOTS: https://i.imgur.com/LAqHPgh.png
+# SITES: https://github.com/OpenSWE1R/openswe1r
+# SOURCES: https://github.com/pkgforge-dev/OpenSWE1R-AppImage
 # BUTTONS: 

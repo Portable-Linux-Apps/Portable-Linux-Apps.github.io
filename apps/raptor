@@ -1,8 +1,15 @@
-# raptor
+# Raptor: Call of the Shadows
 ===
-Unofficial, reversed-engineered source port from Raptor Call Of The Shadows.
+Raptor: Call of the Shadows (Source Port) is a reverse-engineered native PC port of the classic 1994 vertical-scrolling shoot-em-up by Cygnus Studios and Apogee Software. It lets players pilot the futuristic mercenary fighter natively on Linux.
+
+Features:
+- Native execution on modern 64-bit operating systems with fluid high framerates
+- High-resolution graphics scaling with support for modern widescreen displays
+- Full support for modern gamepads, flight sticks, mice, and keyboards
+- Faithful reproduction of all original sectors (Bravo, Tango, Outer Regions)
+- High-quality audio output restoring the original digital sound effects and MIDI tracks
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Raptor-AppImage
-# SOURCES: 
+# SITES: https://github.com/skynettx/raptor
+# SOURCES: https://github.com/pkgforge-dev/Raptor-AppImage
 # BUTTONS: 

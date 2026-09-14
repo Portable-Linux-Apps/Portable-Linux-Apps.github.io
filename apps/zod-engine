@@ -1,8 +1,15 @@
-# zod-engine
+# Zod Engine
 ===
-Unofficial, an open source remake of the 1996 game Z by the Bitmap Brothers.
+The Zod Engine is an open-source multiplayer remake of Z (1996), the classic real-time tactical strategy game developed by The Bitmap Brothers. It modernizes the territory-conquering robotic war for modern systems.
+
+Features:
+- Native cross-platform execution with support for high resolutions and modern displays
+- Tactical real-time strategy gameplay focused on territory control, factories, and flags
+- Robust multiplayer support for online and LAN battles against human opponents
+- Challenging AI opponents for intense single-player skirmish matches
+- Faithful recreation of original robot units, tanks, gun emplacements, and humorous cutscenes
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Zod-Engine-AppImage
-# SOURCES: 
+# SITES: https://sourceforge.net/projects/zod/
+# SOURCES: https://github.com/pkgforge-dev/Zod-Engine-AppImage
 # BUTTONS: 

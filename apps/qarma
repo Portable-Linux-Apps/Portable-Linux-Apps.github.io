@@ -1,8 +1,15 @@
-# qarma
+# Qarma
 ===
-Unofficial, Qarma is a tool to create dialog boxes, based on Qt. It's a clone of Zenity.
+Qarma is a Qt-based clone of the Zenity dialog tool. It enables shell scripts and terminal commands to easily display graphical dialog boxes (file selectors, text entries, progress bars, and alerts) that match your Qt desktop theme.
+
+Features:
+- Drop-in command-line compatibility with Zenity syntax and arguments
+- Native Qt widgets that seamlessly match KDE Plasma and LXQt desktop themes
+- Generates file selection, calendar, password entry, message, and list dialogs
+- Interactive progress bar and notification tray dialogs for background tasks
+- Lightweight and fast execution without GNOME or GTK runtime dependencies
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/qarma-AppImage
-# SOURCES: 
+# SITES: https://github.com/luebking/qarma
+# SOURCES: https://github.com/pkgforge-dev/qarma-AppImage
 # BUTTONS: 

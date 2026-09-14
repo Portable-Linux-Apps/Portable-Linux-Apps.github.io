@@ -1,6 +1,20 @@
 # haruna
 ===
-Unofficial, an open source media player built with Qt/QML and libmpv.
+Open source media player with lots of options to make it work the way you want it.
+
+Features
+
+- play online videos, through youtube-dl
+
+- supports youtube playlists
+
+- toggle playlist with mouse-over, playlist overlays the video
+
+- auto skip chapter containing certain words
+
+- configurable shortcuts and mouse buttons
+
+- quick jump to next chapter by middle click on progress bar
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Haruna-AppImage

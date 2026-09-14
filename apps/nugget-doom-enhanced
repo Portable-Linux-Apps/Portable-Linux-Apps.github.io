@@ -1,8 +1,17 @@
-# nugget-doom-enhanced
+# Nugget Doom [anylinux]
 ===
-Unofficial, a Doom source port forked from Woof! with additional features.
+Nugget Doom is an enhanced Doom source port forked from Woof! that introduces user-friendly features, visual customization, and quality-of-life additions while maintaining strict demo compatibility.
+
+Features:
+- Modernized OpenGL and software rendering supporting widescreen aspect ratios
+- Flexible HUD customization, crosshairs, and extended automap statistics
+- Full compatibility with classic Doom, Doom II, Final Doom, and Boom/MBF21 mods
+- Smooth uncapped framerate option with precise interpolation
+- Modern controller, mouse-look, and keyboard input customization
+
+This is an unofficial AnyLinux AppImage, which is able to work anywhere including glibc and musl. For more info: https://pkgforge-dev.github.io/Anylinux-AppImages/
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Nugget-Doom-AppImage-Enhanced
-# SOURCES: 
+# SITES: https://github.com/MrAlaux/Nugget-Doom
+# SOURCES: https://github.com/pkgforge-dev/Nugget-Doom-AppImage-Enhanced
 # BUTTONS: 

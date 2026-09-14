@@ -1,10 +1,18 @@
 # filelight
 ===
-Filelight allows you to understand your disk usage by graphically representing your filesystem as a set of concentric, segmented rings.
- 
- It is like a pie-chart, but the segments nest, allowing you to see  both which directories take up all your space, and which directories  and files inside those directories are the real culprits.
+Filelight is an application to visualize the disk usage on your computer by showing folders using an easy-to-understand view of concentric rings. Filelight makes it simple to free up space!
 
- This is the unofficial AppImage
+Features:
+
+- Scan local, remote, or removable disks
+
+- View detailed information about files and folders
+
+- Delete files or folders that are taking up too much space
+
+- Integration into the Dolphin, Konqueror, and Krusader file managers
+
+- Configurable color schemes
 ===
 # SCREENSHOTS: https://github.com/user-attachments/assets/3c3a3de2-acad-406b-b2f2-690c2c6afe70
 # SITES: https://apps.kde.org

@@ -1,8 +1,15 @@
-# mednafen
+# Mednafen
 ===
-Unofficial AppImage. Mednafen is a portable, utilizing OpenGL and SDL, argument(command-line)-driven multi-system emulator.
+Mednafen is a portable, multi-system command-line emulator utilizing OpenGL and SDL. Known for exceptional emulation accuracy, it supports a wide variety of retro console and handheld systems.
+
+Features:
+- Emulates PlayStation 1, Sega Saturn, PC Engine / TurboGrafx-16, and Neo Geo Pocket
+- Accurate Nintendo emulation for NES, SNES, Game Boy, Game Boy Color, and GBA
+- Sega Genesis, Master System, Game Gear, and WonderSwan support
+- Robust netplay architecture with rewind capabilities and save state management
+- Advanced video filters, custom shader support, and multi-controller mapping
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/mednafen-appimage
-# SOURCES: 
+# SITES: https://mednafen.github.io/
+# SOURCES: https://github.com/pkgforge-dev/mednafen-appimage
 # BUTTONS: 

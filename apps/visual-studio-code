@@ -1,6 +1,8 @@
 # visual-studio-code
 ===
- Unofficial AppImage of Visual Studio Code.
+Visual Studio Code is a new choice of tool that combines the simplicity of a code editor with what developers need for the core edit-build-debug cycle.
+
+This is an unofficial community AppImage repackaging of the proprietary Microsoft build of Visual Studio Code. This repackaging is not affiliated with or supported by Microsoft.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/visual-studio-code-appimage

@@ -1,10 +1,15 @@
-# ghostty-glfw-nightly
+# Ghostty (GLFW Nightly)
 ===
-Unofficial AppImage(s) of Ghostty terminal emulator 👻
- 
- This is the glfw version that don't uses GTK4 and libadwaita and is much faster, better and smaller as result.
+Ghostty (GLFW Nightly) is a lightweight variant of the Ghostty terminal emulator built using the GLFW windowing backend instead of GTK. It provides maximum startup speed and minimal memory footprint on Linux desktops.
+
+Features:
+- GPU-accelerated rendering powered by the GLFW windowing backend
+- Extremely fast startup time and low memory consumption without GTK overhead
+- Advanced terminal protocol support including Kitty graphics and truecolor
+- Full support for multi-window workflows, custom keybindings, and shell integrations
+- Ideal for minimalist desktop environments, tiling window managers, and Wayland/X11
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/ghostty-appimage
-# SOURCES: 
+# SITES: https://github.com/ghostty-org/ghostty
+# SOURCES: https://github.com/pkgforge-dev/ghostty-appimage
 # BUTTONS: 

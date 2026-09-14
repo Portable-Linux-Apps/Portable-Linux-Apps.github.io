@@ -1,8 +1,15 @@
-# super-zsnes
+# Super ZSNES
 ===
- Unofficial AppImage of SUPER ZSNES.
+SUPER ZSNES is an enhanced modern packaging of ZSNES, the legendary and nostalgic 16-bit Super Nintendo Entertainment System (SNES) emulator. Known for its distinctive GUI, it revives vintage SNES gaming memories.
+
+Features:
+- Classic ZSNES user interface with built-in sound effects and visual menu theme
+- Accurate emulation of standard SNES titles and Super FX chip games
+- Rich video filter options including Super Eagle, 2xSaI, and CRT scanlines
+- Multiple save state slots, rewind capabilities, and cheat code management
+- Gamepad controller support with customizable button mapping
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/super-zsnes-appimage
+# SITES: https://zsnes.com/
 # SOURCES: https://github.com/pkgforge-dev/super-zsnes-appimage
 # BUTTONS: 

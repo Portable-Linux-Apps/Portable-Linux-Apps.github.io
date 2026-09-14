@@ -1,8 +1,15 @@
-# d2x-rebirth
+# D2X-Rebirth
 ===
-Unofficial, a source port of the Descent 2 engine.
+D2X-Rebirth is an open-source source port of Descent II, the acclaimed six-degrees-of-freedom sci-fi shooter. Continuing the work of the DXX-Rebirth project, it brings Descent II natively to modern Linux desktops with enhanced visual clarity.
+
+Features:
+- True six-degrees-of-freedom space combat with improved physics precision
+- High-resolution widescreen rendering with dynamic lighting and colored effects
+- Support for modern joysticks, throttle controllers, gamepads, and mice
+- High-fidelity digital music and sound effects playback using modern audio backends
+- Complete compatibility with official missions, custom levels, and multiplayer modes
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/D2X-Rebirth-AppImage
-# SOURCES: 
+# SITES: https://github.com/dxx-rebirth/dxx-rebirth
+# SOURCES: https://github.com/pkgforge-dev/d2x-rebirth-AppImage https://github.com/pkgforge-dev/D2X-Rebirth-AppImage
 # BUTTONS: 

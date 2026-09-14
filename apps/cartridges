@@ -1,8 +1,15 @@
-# cartridges
+# Cartridges
 ===
-Unofficial. Game launcher, which helps you visualize your game collection and easily launch games.
+Cartridges is a game launcher for Linux that brings together titles from multiple gaming platforms into a unified, elegant library. Built with GTK 4 and Libadwaita, it integrates smoothly with modern Linux desktop environments.
+
+Features:
+- Automatically imports games from Steam, Lutris, Heroic, itch.io, and RetroArch
+- Add and launch standalone desktop games, executables, and emulator ROMs
+- Search, filter, and sort your game library with cover art and metadata
+- Hidden game management and custom launch parameter configuration
+- Fast, responsive user interface adhering to modern GNOME design guidelines
 ===
-# SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Cartridges-AppImage
-# SOURCES: 
+# SCREENSHOTS: https://codeberg.org/kramo/cartridges/raw/branch/main/data/screenshots/1.png
+# SITES: https://codeberg.org/kramo/cartridges
+# SOURCES: https://github.com/pkgforge-dev/Cartridges-AppImage
 # BUTTONS: 

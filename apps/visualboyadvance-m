@@ -1,6 +1,11 @@
 # visualboyadvance-m
 ===
- Unofficial AppImage of VisualBoyAdvance-M.
+VisualBoyAdvance-M is a Nintendo Game Boy Emulator with high compatibility
+with commercial games. It emulates the Nintendo Game Boy Advance hand held
+console, in addition to the original Game Boy systems and its Super and
+Color variants. VisualBoyAdvance-M is the continued development of the now
+inactive VisualBoy Advance project, with many improvements from various
+forks.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/visualboyadvance-m-appimage

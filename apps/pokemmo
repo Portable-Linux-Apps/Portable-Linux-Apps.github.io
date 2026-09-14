@@ -1,6 +1,10 @@
 # pokemmo
 ===
-Unofficial, MMO based on the Pokémon Universe.
+PokeMMO is a turn-based MMORPG and an online-only emulator for several popular Nintendo DS & Game Boy Advance games, allowing you to play, talk, fight, and trade with other players in real time. PokeMMO supports Windows, macOS, Linux, Android, and iOS, with tens of thousands of players online daily in a cross-play environment.
+
+PokeMMO requires certain third-party ROM files to play and requires a constant internet connection.
+
+Note: PokeMMO is an unofficial fan-made game and is not affiliated with, endorsed by, or associated with Nintendo, GAME FREAK, or The Pokémon Company.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/PokeMMO-AppImage

@@ -1,8 +1,15 @@
-# quickshell
+# Quickshell
 ===
- Unofficial AppImage of Quickshell.
+Quickshell is a flexible framework for building custom desktop shells, status bars, notification daemons, and system widgets using QML and QtQuick. It gives users complete control over their desktop interface design.
+
+Features:
+- Declarative UI creation leveraging modern QML and JavaScript syntax
+- Deep Linux desktop integration with Wayland (layer-shell) and X11 support
+- System service bindings for battery, audio volume, network, and window management
+- Hot-reloading capabilities enabling real-time visual feedback during widget creation
+- Exceptionally fast rendering and low CPU utilization
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/quickshell-appimage
+# SITES: https://github.com/outfoxxed/quickshell
 # SOURCES: https://github.com/pkgforge-dev/quickshell-appimage
 # BUTTONS: 

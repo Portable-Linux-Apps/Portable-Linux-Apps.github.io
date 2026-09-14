@@ -1,8 +1,15 @@
-# kronos
+# Kronos
 ===
-Unofficial, Sega Saturn emulator.
+Kronos is a modern, high-compatibility Sega Saturn and Sega ST-V arcade emulator forked from Yabause. It leverages modern OpenGL to offer enhanced 3D resolution scaling and smooth polygon rendering.
+
+Features:
+- Emulates the complex dual-CPU SH-2 architecture, VDP1, and VDP2 graphics processors
+- Internal resolution upscaling for Sega Saturn 3D graphics up to 4K
+- Tessellation and polygonal perspective correction reducing 3D sprite distortion
+- High compatibility with commercial Sega Saturn CD games and ST-V arcade ROMs
+- Gamepad controller support with analog flight stick and gun peripheral mapping
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Kronos-AppImage
-# SOURCES: 
+# SITES: https://github.com/FCare/Kronos
+# SOURCES: https://github.com/pkgforge-dev/Kronos-AppImage
 # BUTTONS: 

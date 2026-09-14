@@ -1,8 +1,15 @@
-# ghostty
+# Ghostty
 ===
-Unofficial AppImage(s) of Ghostty terminal emulator 👻
+Ghostty is a fast, feature-rich, cross-platform terminal emulator designed by Mitchell Hashimoto. Built from the ground up in Zig, it leverages GPU hardware acceleration to deliver ultra-low latency and rich terminal capabilities.
+
+Features:
+- GPU-accelerated text rendering delivering instant keystroke response and high throughput
+- True native desktop integration with support for tabs, splits, and custom fonts
+- Advanced terminal standards support including Kitty graphics protocol and 24-bit RGB truecolor
+- Broad font rendering support with ligatures, bold, italic, and emoji fallbacks
+- Low memory usage and clean, minimalist configuration system
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/ghostty-appimage
-# SOURCES: 
+# SITES: https://github.com/ghostty-org/ghostty
+# SOURCES: https://github.com/pkgforge-dev/ghostty-appimage
 # BUTTONS: 

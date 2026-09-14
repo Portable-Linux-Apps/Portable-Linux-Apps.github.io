@@ -1,8 +1,17 @@
-# webamp-desktop-enhanced
+# Webamp Desktop [anylinux]
 ===
-Unofficial, experimental cross-platform desktop version of Winamp 2.9 reimplementation in electron.
+Webamp Desktop is a cross-platform desktop application recreating the classic Winamp 2.9 media player using HTML5, Web Audio, and Webamp. It brings the beloved retro audio player experience to modern Linux.
+
+Features:
+- Faithful recreation of the classic Winamp 2.9 interface, equalizer, and playlist editor
+- Full support for thousands of vintage Winamp skins (.wsz) with instant switching
+- Integrated Milkdrop visualization engine with hundreds of hypnotic visual presets
+- High-quality audio playback for MP3, FLAC, WAV, and streaming internet radio
+- Lightweight desktop footprint with global media hotkeys and playlist management
+
+This is an unofficial AnyLinux AppImage, which is able to work anywhere including glibc and musl. For more info: https://pkgforge-dev.github.io/Anylinux-AppImages/
 ===
-# SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Webamp-Desktop-AppImage-Enhanced
-# SOURCES: 
+# SCREENSHOTS: https://raw.githubusercontent.com/captbaritone/webamp/master/packages/webamp-demo/images/preview.png
+# SITES: https://github.com/captbaritone/webamp
+# SOURCES: https://github.com/pkgforge-dev/Webamp-Desktop-AppImage-Enhanced
 # BUTTONS: 

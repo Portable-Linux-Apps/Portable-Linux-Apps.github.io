@@ -1,8 +1,15 @@
-# ecwolf
+# ECWolf
 ===
-Advanced port of Wolfenstein 3D based off of Wolf4SDL.
+ECWolf is an advanced open-source source port for Wolfenstein 3D, Spear of Destiny, and Super 3D Noah's Ark. Based on the Wolf4SDL engine, it modernizes the gameplay while maintaining full compatibility with classic mods and extensions.
+
+Features:
+- High-resolution rendering supporting widescreen and arbitrary aspect ratios
+- Modernized controls including unrestricted mouse-look and strafing
+- Extended modding capabilities with support for DECORATE scripting and ZIP archives
+- Full automap system with navigation tracking
+- High-quality digital sound effects and OPL2/OPL3 music synthesis emulation
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/ECWolf-AppImage
-# SOURCES: 
+# SITES: https://bitbucket.org/ecwolf/ecwolf
+# SOURCES: https://github.com/pkgforge-dev/ECWolf-AppImage
 # BUTTONS: 

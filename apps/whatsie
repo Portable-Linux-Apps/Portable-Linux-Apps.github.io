@@ -1,6 +1,43 @@
 # whatsie
 ===
-Unofficial, feature rich WhatsApp web client based on Qt WebEngine.
+Whatsie is a native Linux desktop client for WhatsApp Web, built on Qt 6 and
+QtWebEngine. It brings WhatsApp out of the browser tab and into a proper
+desktop application — lightweight and fast, with system integration, privacy
+controls, and customization options a plain browser cannot offer.
+
+Core features:
+
+- Light, dark and follow-system themes, kept in step with WhatsApp Web
+
+- Native desktop notifications with contact avatars
+
+- System-tray icon with an unread badge, mute and do-not-disturb
+
+- Voice, video and screen-share calls (Wayland via the desktop portal)
+
+- Built-in download manager with history; drag-and-drop and paste of attachments
+
+- Spell check for your system language
+
+- App lock with a passcode and configurable lock on start, on hide, or after idle
+
+- Privacy blur to hide message text and media until you hover
+
+More controls:
+
+- Per-site camera, microphone and location permissions
+
+- HTTP / SOCKS5 network proxy with authentication
+
+- Autostart at login and start minimized to the tray
+
+- Single instance with multiple-account profiles
+
+- Zoom and interface scaling, plus a keyboard-shortcuts sheet
+
+- One-click bug reporting with diagnostics, no messages included
+
+Note: Whatsie is an unofficial third-party client and is not affiliated with, endorsed by, or associated with WhatsApp or Meta Platforms, Inc.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/WhatSie-AppImage

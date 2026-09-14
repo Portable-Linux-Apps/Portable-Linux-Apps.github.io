@@ -1,8 +1,15 @@
-# gearcoleco
+# Gearcoleco
 ===
-ColecoVision emulator.
+Gearcoleco is a cross-platform ColecoVision console emulator written in modern C++. It accurately simulates the Z80 microprocessor, Texas Instruments VDP graphics, and sound hardware of the 1982 ColecoVision.
+
+Features:
+- Accurate Z80 CPU and TMS9928A video display processor emulation
+- Faithful SN76489 sound generator synthesis with clean audio playback
+- Support for ColecoVision cartridge ROM images and BIOS files
+- Configurable video scaling, scanline filters, and fullscreen display
+- Full gamepad and controller mapping for standard and keypad inputs
 ===
-# SCREENSHOTS: /contribute_ss.webp
+# SCREENSHOTS: https://www.geardome.com/files/gearcoleco/gearcoleco_debug_02.png
 # SITES: https://github.com/drhelius/Gearcoleco
-# SOURCES: 
+# SOURCES: https://github.com/pkgforge-dev/Gearcoleco-AppImage
 # BUTTONS: 

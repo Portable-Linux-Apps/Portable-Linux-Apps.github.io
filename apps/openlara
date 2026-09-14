@@ -1,8 +1,15 @@
-# openlara
+# OpenLara
 ===
-Classic Tomb Raider open-source engine.
+OpenLara is an open-source, modern engine reimplementation of classic Tomb Raider games (Tomb Raider 1 through 5). Built with modern rendering techniques, it brings Lara Croft's original adventures to modern PCs.
+
+Features:
+- Real-time dynamic lighting, water reflections, and ambient occlusion
+- Smooth 60 FPS and uncapped framerate gameplay with true widescreen rendering
+- First-person and third-person camera perspective toggles
+- Full controller support with modern analog stick and mouse controls
+- Supports original level files and audio tracks from Tomb Raider 1 to 5
 ===
-# SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/OpenLara-AppImage
-# SOURCES: 
+# SCREENSHOTS: http://xproger.info/projects/OpenLara/shots/waterfall.jpg http://xproger.info/projects/OpenLara/shots/multi-aim.jpg
+# SITES: https://github.com/XProger/OpenLara
+# SOURCES: https://github.com/pkgforge-dev/OpenLara-AppImage
 # BUTTONS: 

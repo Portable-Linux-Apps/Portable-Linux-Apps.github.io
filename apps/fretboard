@@ -1,6 +1,13 @@
 # fretboard
 ===
-Unofficial. Application which helps you find your favorite guitar chord.
+How was that chord played, again? Fretboard lets you find guitar chords
+by typing their names or plotting them on an interactive guitar neck.
+When you have identified a chord, you can experiment with changing it,
+see more ways to play it, or bookmark it to save it for later. No matter
+if you are a beginner or an advanced guitarist, you can use Fretboard to
+practice, learn, and master your favorite songs!
+
+Fretboard is proudly part of GNOME Circle, an initiative that champions the great software that is available for the GNOME platform. For more information, visit the GNOME Circle website.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Fretboard-AppImage

@@ -1,8 +1,24 @@
 # godot
 ===
-Multi-platform 2D and 3D game engine with a feature-rich editor
+The feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. Godot Engine provides a comprehensive set of common tools, so that you can focus on making games without having to reinvent the wheel. Games can be exported in one click to a number of platforms, including the major desktop platforms (Linux, macOS, Windows) as well as mobile (Android, iOS), web-based (HTML5) platforms and consoles (Switch, PS4 and Xbox One - via thirdparty publishers).
 
- This script provides both the official portable build and the unofficial AppImage.
+Completely free and open source under the very permissive MIT license. No strings attached, no royalties, nothing. Your game is yours down to the last line of engine code. Godot's development is fully independent and community-driven, empowering you to help shape the engine to match your expectations. It is supported by the non-profit Godot Foundation.
+
+Create games with ease, using Godot's unique approach to game development:
+
+- Nodes for all your needs. Godot comes with hundreds of built-in nodes that make game design a breeze. You can also create your own for custom behaviors, editors and much more.
+
+- Flexible scene system. Create node compositions with support for instancing and inheritance.
+
+- Visual editor with all the tools you need packed into a beautiful and uncluttered context-sensitive UI.
+
+- Friendly content creation pipeline for artists, level designers, animators and everything in between.
+
+- Persistent live editing where changes are not lost after stopping the game. It even works on mobile devices!
+
+- Create your own custom tools with ease using the incredible tool system.
+
+This script provides both the official portable build and the unofficial AppImage.
 ===
 # SCREENSHOTS: https://raw.githubusercontent.com/godotengine/godot-design/master/screenshots/editor_tps_demo_1920x1080.jpg
 # SITES: https://github.com/godotengine/godot https://godotengine.org

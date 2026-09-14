@@ -1,10 +1,15 @@
 # scrcpy
 ===
-Display and control your Android device.
- 
- An unofficial AppImage for the open source android screen mirroring  software scrcpy. Continuous Integration to create preconfigured  AppImages of scrcpy.
+scrcpy is an open-source utility that displays and controls Android devices connected via USB or over Wi-Fi. It requires no root access on the device and delivers ultra-low latency mirroring.
+
+Features:
+- High performance mirroring at 30 to 120 FPS with minimal latency (35-70 ms)
+- Full mouse, touchpad, and physical keyboard control forwarding
+- Audio forwarding from Android 11+ devices directly to your PC speakers
+- Bidirectional clipboard synchronization, file drag-and-drop, and APK installation
+- High visual quality with configurable bitrates, resolutions, and video recording
 ===
-# SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/scrcpy-AppImage
-# SOURCES: 
+# SCREENSHOTS: https://raw.githubusercontent.com/Genymobile/scrcpy/master/assets/screenshot-debian-600.jpg
+# SITES: https://github.com/Genymobile/scrcpy
+# SOURCES: https://github.com/pkgforge-dev/scrcpy-AppImage
 # BUTTONS: 

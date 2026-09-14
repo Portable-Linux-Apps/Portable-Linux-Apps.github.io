@@ -1,8 +1,15 @@
-# ladybird
+# Ladybird
 ===
-A truly independent web browser, using a novel engine based on web standards.
+Ladybird is a truly independent, open-source web browser and rendering engine written from scratch in modern C++. Founded to break the browser engine duopoly, Ladybird implements web standards without relying on Chromium, WebKit, or Gecko.
+
+Features:
+- Completely independent rendering and JavaScript engine (LibWeb and LibJS)
+- Multi-process security model isolating tabs and web content into separate processes
+- Built-in ad blocking and privacy protection without third-party tracking extensions
+- Adheres directly to modern W3C and WHATWG web specifications
+- Free and open-source software funded exclusively by non-profit community donations
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/ladybird-appimage
-# SOURCES: 
+# SITES: https://ladybird.org
+# SOURCES: https://github.com/pkgforge-dev/ladybird-appimage
 # BUTTONS: 

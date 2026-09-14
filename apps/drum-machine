@@ -1,6 +1,29 @@
 # drum-machine
 ===
-Unofficial, Application for managing and playing with drum patterns.
+Drum Machine is a modern and intuitive application for creating, playing, and
+managing drum patterns. Perfect for musicians, producers, and anyone interested
+in rhythm creation, this application provides a simple interface for drum
+pattern programming. Have fun!
+
+Features:
+
+- Intuitive grid-based pattern editor with infinite pages
+
+- Custom samples: Add your own drum sounds with MIDI note mapping
+
+- Adjustable BPM control
+
+- Volume control for overall mix
+
+- Save and load patterns
+
+- Multiple drum sounds including kick, snare, hi-hat, and more
+
+- Audio and MIDI export with support for WAV, FLAC, Ogg, MP3, and MIDI formats
+
+- Metadata support for embedding artist name, song title, and cover art
+
+- Keyboard shortcuts for quick access to all functions
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Drum-Machine-AppImage

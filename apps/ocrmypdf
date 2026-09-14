@@ -1,8 +1,15 @@
 # ocrmypdf
 ===
- Unofficial AppImage of OCRmyPDF.
+OCRmyPDF adds an optical character recognition (OCR) text layer to scanned PDF files. It transforms image-only PDFs into searchable, selectable, and accessible documents that can be highlighted and indexed by desktop search engines.
+
+Features:
+- Embeds high-accuracy text layers using the Tesseract OCR engine
+- Keeps original scanned page images intact without losing image quality
+- Automatically deskews, cleans up, and corrects orientation of scanned pages
+- Validates PDF/A compliance for long-term document archiving
+- Batch processes multi-page documents utilizing multiple CPU cores
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/ocrmypdf-appimage
+# SITES: https://github.com/ocrmypdf/OCRmyPDF
 # SOURCES: https://github.com/pkgforge-dev/ocrmypdf-appimage
 # BUTTONS: 

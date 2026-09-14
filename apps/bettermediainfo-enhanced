@@ -1,8 +1,17 @@
-# bettermediainfo-enhanced
+# BetterMediaInfo [anylinux]
 ===
- Unofficial AppImage of BetterMediaInfo.
+BetterMediaInfo is a modern, cross-platform graphical frontend for MediaInfo. It displays comprehensive technical and tag data about video, audio, and container files in an organized, searchable desktop interface.
+
+Features:
+- Detailed inspection of container formats, video codecs, audio tracks, and subtitles
+- Clean multi-tabbed interface with tree, text, and sheet viewing modes
+- Batch processing and side-by-side comparison of multiple media files
+- Exporting technical reports to JSON, XML, CSV, and plain text formats
+- Fast analysis powered by the latest underlying MediaInfo library
+
+This is an unofficial AnyLinux AppImage, which is able to work anywhere including glibc and musl. For more info: https://pkgforge-dev.github.io/Anylinux-AppImages/
 ===
-# SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/bettermediainfo-appimage-enhanced
-# SOURCES: https://github.com/pkgforge-dev/bettermediainfo-appimage-enhanced
+# SCREENSHOTS: https://github.com/caoccao/BetterMediaInfo/raw/main/docs/screenshots/card_view.png
+# SITES: https://github.com/caoccao/BetterMediaInfo
+# SOURCES: https://github.com/pkgforge-dev/bettermediainfo-appimage-enhanced https://github.com/pkgforge-dev/BetterMediaInfo-AppImage-Enhanced
 # BUTTONS: 

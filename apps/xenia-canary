@@ -1,8 +1,15 @@
-# xenia-canary
+# Xenia Canary
 ===
-Unofficial AppImage of xenia-canary Xbox360 emulator.
+Xenia Canary is an experimental, open-source research emulator for the Microsoft Xbox 360 video game console. It focuses on pushing the boundaries of Xbox 360 emulation compatibility and performance.
+
+Features:
+- Modern graphics emulation utilizing high-performance Vulkan rendering backends
+- Resolution scaling up to 4K and support for high-framerate patches
+- Emulation of Xbox 360 PowerPC CPU and custom ATI Xenos graphics architecture
+- Full support for modern gamepads with analog triggers and rumble vibration
+- Active development branch featuring cutting-edge bug fixes and game compatibility updates
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/xenia-canary-AppImage
-# SOURCES: 
+# SITES: https://github.com/xenia-canary/xenia-canary
+# SOURCES: https://github.com/pkgforge-dev/xenia-canary-AppImage
 # BUTTONS: 

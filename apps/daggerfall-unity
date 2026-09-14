@@ -1,8 +1,15 @@
-# daggerfall-unity
+# Daggerfall Unity
 ===
-Unofficial, open source recreation of Daggerfall in the Unity engine.
+Daggerfall Unity is an open-source recreation of The Elder Scrolls II: Daggerfall using the Unity engine. It brings the massive open world and deep RPG systems of the 1996 classic into the modern era with high-resolution graphics, smooth controls, and extensive modding support.
+
+Features:
+- Full widescreen rendering with modern graphics, enhanced lighting, and high-resolution textures
+- Smooth first-person mouse controls with configurable keybindings and controller support
+- Restored cut content and fixes for hundreds of bugs present in the original game
+- Powerful modding framework supporting community quests, graphical overhauls, and gameplay tweaks
+- Requires original Daggerfall game assets (freely available from Bethesda)
 ===
-# SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Daggerfall-Unity-AppImage
-# SOURCES: 
+# SCREENSHOTS: https://github.com/Interkarma/daggerfall-unity/assets/10426244/43688bd8-c3b0-42b5-bb64-066d6867ff66 https://github.com/Interkarma/daggerfall-unity/assets/10426244/282aa3a9-1662-49d9-9319-a9358775ea33
+# SITES: https://github.com/Interkarma/daggerfall-unity
+# SOURCES: https://github.com/pkgforge-dev/Daggerfall-Unity-AppImage
 # BUTTONS: 

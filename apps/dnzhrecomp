@@ -1,8 +1,15 @@
-# dnzhrecomp
+# DNZHRecomp
 ===
-Unofficial, a native port of Duke Nukem Zero Hour, statically recompiled.
+Duke Nukem: Zero Hour Recompiled is a native PC port of the 1999 Nintendo 64 third-person shooter Duke Nukem: Zero Hour. Statically recompiled from original machine instructions, it runs natively on modern PC platforms without emulation latency.
+
+Features:
+- Native PC rendering delivering fluid high framerates and zero emulation stutter
+- True widescreen and high-resolution monitor support
+- Dual analog gamepad and mouse-look control configurations
+- Preserved time-traveling campaign, authentic weapon arsenal, and voice lines
+- Low-latency sound rendering with modern multi-channel audio support
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/DNZHRecomp-AppImage
-# SOURCES: 
+# SITES: https://gitlab.com/sonicdcer/DNZHRecomp
+# SOURCES: https://github.com/pkgforge-dev/DNZHRecomp-AppImage
 # BUTTONS: 

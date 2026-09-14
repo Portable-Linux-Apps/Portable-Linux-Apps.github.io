@@ -1,6 +1,36 @@
 # oversteer
 ===
-Unofficial, Steering Wheel Manager for Linux.
+Oversteer manages steering wheels on Linux using the features provided by the loaded modules.
+
+Features:
+
+- Change rotation range.
+
+- Change emulation/working modes.
+
+- Combine accelerator/brakes pedals for games that use just one axis.
+
+- Change autocentering force strength.
+
+- Change force feedback gain.
+
+- Device configuration profiles.
+
+- Overlay window to display/configure range.
+
+- Use wheel buttons to configure range.
+
+- Hardware performance testing.
+
+- Combine accelerator/clutch pedals. Useful for flight simulators. (Not supported with in-kernel modules)
+
+- Change global force feedback gain. (Not supported with in-kernel modules)
+
+- Change each conditional force feedback effect type gain. (Not supported with in-kernel modules)
+
+- FFBmeter to monitor FFB clipping using wheel leds or overlay window. (Not supported with in-kernel modules)
+
+Note: The udev rules found in the GitHub repository need to be installed for the application to work properly.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Oversteer-AppImage

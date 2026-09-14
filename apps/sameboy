@@ -1,6 +1,8 @@
 # sameboy
 ===
- Unofficial AppImage of SameBoy.
+SameBoy is an open source Game Boy (DMG) and Game Boy Color (CGB) emulator,
+written in portable C. It has an SDL frontend and a libretro core.
+It also includes a text-based debugger with an expression evaluator.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/sameboy-appimage

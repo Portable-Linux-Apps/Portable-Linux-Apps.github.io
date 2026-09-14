@@ -1,8 +1,15 @@
-# snowboardkids2-recomp
+# Snowboard Kids 2 Recompiled
 ===
- Unofficial AppImage of game Snowboard Kids 2 Recompilation.
+Snowboard Kids 2 Recompiled is an enhanced native PC port of the 1999 Nintendo 64 snowboarding adventure Snowboard Kids 2. Statically recompiled from original game code, it runs natively on modern PCs with high framerates.
+
+Features:
+- Native execution delivering smooth 60 FPS racing without emulation lag
+- True widescreen and arbitrary high-resolution monitor support
+- Full support for modern gamepads with analog control and remappable inputs
+- Retains all courses, boss battles, trick mechanics, and four-player split-screen
+- Crisp digital audio rendering with enhanced sound output capabilities
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/SnowboardKids2Recomp-AppImage
+# SITES: https://github.com/cdlewis/snowboardkids2-recomp
 # SOURCES: https://github.com/pkgforge-dev/SnowboardKids2Recomp-AppImage
 # BUTTONS: 

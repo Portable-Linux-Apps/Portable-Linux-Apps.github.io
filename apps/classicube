@@ -1,8 +1,15 @@
-# classicube
+# ClassiCube
 ===
-Unofficial, Custom Minecraft Classic / ClassiCube client written in C from scratch
+ClassiCube is a custom, lightweight Minecraft Classic and ClassiCube client written in pure C from scratch. Highly optimized to run on virtually any hardware, it provides an authentic creative sandbox experience with enhanced features.
+
+Features:
+- Written in pure C with minimal system requirements and rapid startup times
+- Full support for singleplayer creative building and multiplayer server joining
+- Custom block support, texture packs, player skins, and environmental effects
+- Built-in map generator and support for classic .dat, .cw, and .lvl formats
+- Smooth camera controls, adjustable field of view, and customizable key bindings
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/ClassiCube-AppImage
-# SOURCES: 
+# SITES: https://github.com/ClassiCube/ClassiCube
+# SOURCES: https://github.com/pkgforge-dev/ClassiCube-AppImage
 # BUTTONS: 

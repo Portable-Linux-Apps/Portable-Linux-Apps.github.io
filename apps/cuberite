@@ -1,8 +1,15 @@
-# cuberite
+# Cuberite
 ===
-Unofficial, a lightweight, fast and extensible game server for Minecraft.
+Cuberite is a custom, high-performance Minecraft game server written in C++. Designed for speed and minimal resource usage, it handles hundreds of concurrent players on modest hardware while supporting extensible Lua plugins.
+
+Features:
+- Extremely lightweight and fast execution written in modern C++
+- Low memory footprint compared to traditional Java-based Minecraft servers
+- Powerful Lua scripting API for developing custom server plugins and mechanics
+- Built-in web administration interface for server monitoring and player management
+- Cross-platform architecture compatible with multiple Minecraft client versions
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Cuberite-AppImage
-# SOURCES: 
+# SITES: https://github.com/cuberite/cuberite
+# SOURCES: https://github.com/pkgforge-dev/Cuberite-AppImage
 # BUTTONS: 

@@ -1,8 +1,15 @@
-# simitone
+# Simitone
 ===
-Unofficial, re-implementation of The Sims 1, based off of FreeSO.
+Simitone is an open-source 3D reimplementation of The Sims 1. Built on the FreeSO engine, it transforms the classic isometric life simulator into an interactive 3D environment with smooth camera controls.
+
+Features:
+- True 3D perspective camera allowing free rotation, panning, and first-person views
+- High-resolution rendering with dynamic lighting and enhanced visual effects
+- Full compatibility with original The Sims 1 base game and expansions
+- Enhanced user interface scaling and modern widescreen display support
+- Requires original The Sims 1 installation files to play
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Simitone-AppImage
-# SOURCES: 
+# SITES: https://github.com/RHY3756547/Simitone
+# SOURCES: https://github.com/pkgforge-dev/Simitone-AppImage
 # BUTTONS: 

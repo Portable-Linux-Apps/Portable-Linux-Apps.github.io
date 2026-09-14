@@ -1,8 +1,15 @@
-# banjorecomp
+# BanjoRecomp
 ===
- Unofficial AppImage of Banjo: Recompiled.
+Banjo-Kazooie Recompiled is an enhanced native PC port of the classic Nintendo 64 platformer Banjo-Kazooie, created using static recompilation. It translates the original N64 binary into native C/C++ code, allowing the game to run with modern PC graphics and uncapped performance.
+
+Features:
+- Native execution without emulation overhead, providing smooth high framerates
+- True widescreen, ultrawide, and arbitrary resolution rendering
+- Modern camera controls with full analog stick and mouse support
+- High-fidelity audio playback with support for enhanced sound output
+- Native game controller support with remappable button layouts
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/banjorecomp-appimage
+# SITES: https://github.com/BanjoRecomp/BanjoRecomp
 # SOURCES: https://github.com/pkgforge-dev/banjorecomp-appimage
 # BUTTONS: 

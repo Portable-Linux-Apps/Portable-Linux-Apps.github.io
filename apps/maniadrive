@@ -1,8 +1,15 @@
-# maniadrive
+# ManiaDrive
 ===
-Unofficial, an open-source clone of the popular racing game TrackMania.
+ManiaDrive is an arcade car driving and acrobatic stunt game in the spirit of TrackMania. Built with realistic car physics, loop-the-loops, and death-defying jumps, it challenges players to beat track time records.
+
+Features:
+- Acrobatic stunt tracks with extreme loops, ramps, wall-rides, and chicanes
+- Realistic vehicle dynamics and suspension physics powered by ODE
+- Built-in 3D track editor enabling players to build and share custom stunt courses
+- Energetic soundtrack featuring diverse licensed rock and electronic music
+- Ghost car visualization to race against your personal best times
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/ManiaDrive-AppImage
-# SOURCES: 
+# SITES: https://launchpad.net/~aapo-rantalainen/+archive/ubuntu/games
+# SOURCES: https://github.com/pkgforge-dev/ManiaDrive-AppImage
 # BUTTONS: 

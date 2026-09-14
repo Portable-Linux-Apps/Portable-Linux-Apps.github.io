@@ -1,6 +1,14 @@
 # neverball
 ===
-Unofficial, tilt the floor to roll a ball through an obstacle course before time runs out.
+Guide a rolling ball through dangerous territory that you control by
+tilting the floor. Balance on narrow bridges, navigate mazes, ride
+moving platforms, and dodge pushers and shovers to get to the goal.
+Race against the clock to collect coins to earn extra balls. With nice
+physics and very clean and appealing 3D graphics, this is definitely a
+must play.
+
+Bundled with Neverball is also Neverputt, a hot-seat local multiplayer
+miniature golf game, built on the physics and graphics engine of Neverball.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Neverball-AppImage

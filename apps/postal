@@ -1,8 +1,15 @@
-# postal
+# POSTAL
 ===
-Unofficial, Postal a quirky FPS shooter.
+POSTAL (1997) is the open-source release of the classic isometric shooter developed by Running With Scissors. Plunging players into dark, intense combat, this native port modernizes the classic title for Linux.
+
+Features:
+- Native execution on modern 64-bit Linux with high framerates and resolution scaling
+- Complete classic campaign, Special Delivery expansion, and gauntlet challenge modes
+- Dual-stick gamepad and keyboard/mouse control configurations
+- Atmospheric sound effects, voice acting, and explosive weapon arsenal
+- Preserves the gritty vintage aesthetic with improved engine stability
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/POSTAL-AppImage
-# SOURCES: 
+# SITES: https://github.com/RWS-Studios/POSTAL-SourceCode
+# SOURCES: https://github.com/pkgforge-dev/POSTAL-AppImage
 # BUTTONS: 

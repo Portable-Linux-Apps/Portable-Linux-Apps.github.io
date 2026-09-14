@@ -1,6 +1,12 @@
 # parabolic
 ===
-Unofficial, Download web video and audio.
+- A powerful yt-dlp frontend
+
+- Supports downloading videos in multiple formats (mp4, webm, mp3, opus, flac, and wav)
+
+- Run multiple downloads at a time
+
+- Supports downloading metadata and video subtitles
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Parabolic-AppImage

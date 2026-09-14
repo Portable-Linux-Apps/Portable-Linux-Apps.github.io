@@ -1,6 +1,24 @@
 # kid3
 ===
-Unofficial, efficient audio tagger that supports a large variety of file formats.
+With Kid3, an audio tag editor, you can edit tags in MP3, Ogg/Vorbis,
+DSF, FLAC, Opus, MPC, APE, MP4/AAC, MP2, Speex, TrueAudio, WavPack,
+WMA, WAV, AIFF and tracker files.
+
+All frames in the ID3 tags of MP3 files can be edited, and it is
+possible to convert between ID3v1.1, ID3v2.3 and ID3v2.4. Synchronized
+lyrics can be edited, imported and exported to LRC Karaoke files.
+
+The tags of multiple files can be set together. It is possible to
+generate tags from file names or the contents of other tag fields and to
+generate file names from tags and rename folders from tags. Automatic
+case conversion and string replacement help to keep tags consistent.
+
+Album data can be imported from gnudb.org, MusicBrainz,
+Discogs, Amazon; automatic batch import is available for multiple
+folders. It is also possible to export data and generate play lists.
+
+Kid3 uses the KDE Frameworks. Users of other desktop environments may
+prefer Kid3-qt instead, which is without KDE dependencies.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Kid3-AppImage

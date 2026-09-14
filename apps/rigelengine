@@ -1,6 +1,16 @@
 # rigelengine
 ===
-Modern re-implementation of DOS game Duke Nukem II.
+RigelEngine is a re-implementation of the game Duke Nukem II, originally
+released by Apogee Software in 1993 for MS-DOS.  It works as a drop-in
+replacement for the original executable: It reads the game's data files and
+plays just like the original, but runs natively on modern operating systems.
+On top of that, it offers various modern enhancements like higher frame rate,
+better game controller support, a wide-screen mode, quick saving etc.
+
+In order to run RigelEngine, the game data from the original game is required.
+Both the shareware version and the registered version work.
+
+You can obtain the shareware version from Archive.org or use data files from the registered version.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/RigelEngine-AppImage

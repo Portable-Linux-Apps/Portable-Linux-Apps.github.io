@@ -1,6 +1,22 @@
 # authenticator
 ===
-Unofficial. An application which generates 2FA code in realtime.
+Simple application for generating Two-Factor Authentication Codes.
+
+Features:
+
+- Time-based/Counter-based/Steam methods support
+
+- SHA-1/SHA-256/SHA-512 algorithms support
+
+- QR code scanner using a camera or from a screenshot
+
+- Lock the application with a password
+
+- Beautiful UI
+
+- GNOME Shell search provider
+
+- Backup/Restore from/into known applications like FreeOTP+, Aegis (encrypted / plain-text), andOTP, Google Authenticator
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Authenticator-AppImage

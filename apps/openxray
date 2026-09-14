@@ -1,8 +1,15 @@
-# openxray
+# OpenXRay
 ===
- Unofficial AppImage of OpenXRay.
+OpenXRay is an improved, open-source game engine port of GSC Game World's X-Ray Engine. It modernizes the engine powering the S.T.A.L.K.E.R. trilogy (Shadow of Chernobyl, Clear Sky, and Call of Pripyat).
+
+Features:
+- Native 64-bit Linux port supporting modern hardware architectures
+- Advanced visual renderer supporting DirectX 11 / OpenGL shaders and dynamic lighting
+- Substantial performance optimizations and fixes for engine crashes and memory leaks
+- Full compatibility with official S.T.A.L.K.E.R. game assets and community modifications
+- Enhanced audio backend with 3D positional audio and environmental effects
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/openxray-appimage
+# SITES: https://github.com/OpenXRay/xray-16
 # SOURCES: https://github.com/pkgforge-dev/openxray-appimage
 # BUTTONS: 

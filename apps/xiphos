@@ -1,6 +1,29 @@
 # xiphos
 ===
-Unofficial, a Bible study tool using GTK.
+Xiphos is a program for high-grade Bible study using the modules and
+underlying engine support of The Sword Project. Sword modules provide the
+widest language coverage of any Bible software anywhere: 400+ Bibles in 150+
+languages, with major support for original languages (a dozen each in Hebrew
+and Greek) plus major support in e.g. English, Russian, German, Portuguese,
+and French.
+
+- Fully integrated, tabbed interface with Bible+commentary+dictionary
+
+- User content support: hierarchical bookmarks, personal verse annotations,
+journals, prayer lists
+
+- Interface translated into 26 languages
+
+- Power search capability; footnotes and xrefs; detached windows;
+text-to-speech support
+
+- Strong's and morphology support, including pseudo-interlinear display
+
+- BibleSync shared multicast navigation in personal or speaker/audience
+modes
+
+- Supports Linux and Windows including active support in IRC and mailing
+lists
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Xiphos-AppImage

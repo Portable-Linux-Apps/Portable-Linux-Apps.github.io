@@ -1,8 +1,15 @@
-# foobillardpp
+# FooBillard++
 ===
-Unofficial, an OpenGL Billard Game based on foobillard 3.0a with patches and new features.
+FooBillard++ is an open-source 3D OpenGL billiards simulation game. Forked and modernized from the original FooBillard, it features realistic ball physics, reflections, and competitive game rules.
+
+Features:
+- Multiple cue sport game types including 8-ball, 9-ball, Snooker, and Carom
+- Realistic 3D rigid-body physics simulation including ball spin, jump, and English
+- Singleplayer practice mode and competitive matches against intelligent AI opponents
+- Local multiplayer support on a single PC
+- Customizable table felt colors, lighting, camera angles, and ball designs
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Foobillardpp-AppImage
-# SOURCES: 
+# SITES: https://sourceforge.net/projects/foobillardplus/
+# SOURCES: https://github.com/pkgforge-dev/Foobillardpp-AppImage
 # BUTTONS: 

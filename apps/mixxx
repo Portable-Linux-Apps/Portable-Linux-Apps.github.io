@@ -1,6 +1,42 @@
 # mixxx
 ===
-Unofficial, open source software for digital DJing.
+Mixxx is free DJ software that gives you everything you need to perform
+live DJ mixes. Blend songs together with automatic BPM matching and
+remix on-the-fly with looping and hot cues.
+Whether you're a pro DJ or just getting started, Mixxx has you covered.
+
+Mixxx works with ALSA, JACK, OSS and supports many popular DJ
+controllers. Key features include:
+
+- Parallel or split scratchable waveform displays
+
+- MP3, OGG, WAVE, FLAC, and optional AAC (M4A) playback
+
+- WAVE, OGG, and optional MP3 recording
+
+- Fast, database-powered library
+
+- Crates and playlists for organizing your music
+
+- Reads iTunes, Traktor, and Rhythmbox libraries
+
+- Cross-platform - works on Windows, Mac OS X and Linux
+
+- Shoutcast and Icecast broadcasting
+
+- Support for many DJ MIDI and HID controllers out-of-the-box
+
+- Advanced MIDI scripting engine for maximum flexibility
+
+- Vinyl emulation with Serato, Traktor, and Mixvibes timecode support
+
+- Beat and key detection
+
+- ReplayGain volume normalization
+
+- Automatic crossfading with Auto DJ
+
+- Skinnable interface with several skins bundled
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Mixxx-AppImage

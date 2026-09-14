@@ -1,6 +1,10 @@
 # unityhub
 ===
- Unofficial AppImage for Unity Hub.
+Unity is used to create half of the world’s games. Unity's real time platform, powered by tools and services, offers incredible possibilities for game developers, and creators across industries and applications.
+
+Use the Unity Hub to manage multiple installations of the Unity Editor, create new projects, and access your work.
+
+This is an unofficial community AppImage repackaging, not affiliated with or endorsed by Unity Technologies.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/unityhub-appimage

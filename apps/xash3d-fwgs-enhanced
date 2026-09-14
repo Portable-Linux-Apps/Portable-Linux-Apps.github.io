@@ -1,8 +1,17 @@
-# xash3d-fwgs-enhanced
+# Xash3D FWGS [anylinux]
 ===
-Unofficial, a game engine aimed to provide compatibility with Half-Life Engine and extend it.
+Xash3D FWGS is an open-source game engine compatible with Valve's GoldSrc engine (Half-Life 1). Rewritten from scratch, it allows players to run Half-Life, its expansions, and classic community mods natively on modern Linux.
+
+Features:
+- Native 64-bit Linux port eliminating the need for Wine or compatibility layers
+- Modernized OpenGL renderer with high-resolution widescreen and dynamic lighting support
+- Full compatibility with Half-Life, Opposing Force, Blue Shift, and multiplayer mods
+- Enhanced physical collision simulation and updated network multiplayer protocol
+- Customizable field of view, HUD scaling, and modern gamepad/controller mapping
+
+This is an unofficial AnyLinux AppImage, which is able to work anywhere including glibc and musl. For more info: https://pkgforge-dev.github.io/Anylinux-AppImages/
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Xash3D-FWGS-AppImage-Enhanced
-# SOURCES: 
+# SITES: https://github.com/FWGS/xash3d-fwgs
+# SOURCES: https://github.com/pkgforge-dev/Xash3D-FWGS-AppImage-Enhanced
 # BUTTONS: 

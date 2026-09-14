@@ -1,8 +1,15 @@
-# riseup-vpn
+# RiseupVPN
 ===
-Unofficial, RiseupVPN is an easy, fast, and secure VPN service from riseup.net.
+RiseupVPN is an easy-to-use, personal virtual private network (VPN) service operated by the Riseup collective. It routes your Internet traffic through encrypted tunnels to protect your privacy and circumvent censorship.
+
+Features:
+- One-click connection to secure, encrypted VPN gateways
+- Zero user activity logging or traffic tracking maintained by the non-profit Riseup collective
+- Automatic configuration without needing to manage OpenVPN configuration files manually
+- DNS leak prevention and automatic kill-switch safeguarding connection drops
+- Clean, unobtrusive desktop indicator interface
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Riseup-VPN-AppImage
-# SOURCES: 
+# SITES: https://riseup.net/vpn
+# SOURCES: https://github.com/pkgforge-dev/Riseup-VPN-AppImage
 # BUTTONS: 

@@ -1,6 +1,48 @@
 # ktorrent
 ===
- Unofficial AppImage of KTorrent.
+KTorrent is a BitTorrent application by KDE which allows you to download files using
+the BitTorrent protocol. It enables you to run multiple torrents at the same time and
+comes with extended features to make it a full-featured client for BitTorrent.
+
+Features:
+
+- Queuing of torrents
+
+- Global and per torrent speed limits
+
+- Previewing of certain file types, build in (video and audio)
+
+- Importing of partially or fully downloaded files
+
+- File prioritization for multi-file torrents
+
+- Selective downloading for multi-file torrents
+
+- Kick/ban peers with an additional IP Filter dialog for list/edit purposes
+
+- UDP tracker support
+
+- Support for private trackers and torrents
+
+- Support for µTorrent's peer exchange
+
+- Support for protocol encryption (compatible with Azureus)
+
+- Support for creating trackerless torrents
+
+- Support for distributed hash tables (DHT, the Mainline version)
+
+- Support for UPnP to automatically forward ports on a LAN with dynamic assigned hosts
+
+- Support for webseeds
+
+- System tray integration
+
+- Tracker authentication support
+
+- Connection through a proxy
+
+In addition to the built-in functionalities, there are some plugins available for KTorrent.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/ktorrent-appimage

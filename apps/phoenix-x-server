@@ -1,8 +1,15 @@
-# phoenix-x-server
+# Phoenix X Server
 ===
-Unofficial, a new X server, written from scratch in Zig (not a fork). Designed to be a modern alternative to the Xorg server.
+Phoenix is a modern X11 display server written from scratch in Zig. Conceived as a memory-safe, lightweight alternative to the legacy Xorg server, Phoenix focuses on simplicity, security, and low resource overhead.
+
+Features:
+- Written in Zig for enhanced memory safety and predictable execution performance
+- Implements core X11 protocols for running traditional Linux graphical applications
+- Significantly reduced codebase complexity compared to the monolithic Xorg server
+- Low memory footprint and instant startup times
+- Ideal for embedded systems, lightweight desktop setups, and X11 experimentation
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/phoenix-x-server-AppImage
-# SOURCES: 
+# SITES: https://git.dec05eba.com/phoenix
+# SOURCES: https://github.com/pkgforge-dev/phoenix-x-server-AppImage
 # BUTTONS: 

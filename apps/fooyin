@@ -1,6 +1,15 @@
 # fooyin
 ===
-Unofficial, a customisable music player.
+fooyin is a music player built around customisation. Arrange its interface from a blank
+canvas, start with a preset layout, and tailor its widgets and shortcuts to suit you.
+
+Browse and filter your library, edit tags and artwork, and organise tracks in playlists
+or autoplaylists. Enjoy gapless playback of local music, archives, and remote radio, with
+ReplayGain, audio conversion, fading, and DSP chains for shaping the sound.
+
+Extend the player with plugins for audio formats, widgets, visualisations, lyrics,
+scrobbling, and other integrations. FooScript provides advanced display formatting,
+library queries, autoplaylists, and custom widget behaviour.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/fooyin-AppImage

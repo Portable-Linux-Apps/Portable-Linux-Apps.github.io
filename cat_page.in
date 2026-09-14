@@ -33,10 +33,12 @@
   <a href="index.html#faq">_("FAQ")</a>
   <a href="wiki.html">_("Wiki")</a>
   <a href="https://github.com/ivan-hc/AM">_("AM on GitHub")</a>
-  <span class="lang-selector">
-    <a href="/en/$CAT_NAME.html" class="lang-link" onclick="localStorage.setItem('preferredLang','en')">EN</a>
-    <a href="/it/$CAT_NAME.html" class="lang-link" onclick="localStorage.setItem('preferredLang','it')">IT</a>
-  </span>
+  <div class="lang-selector">
+    <select onchange="localStorage.setItem('preferredLang',this.value);window.location.href='/' + this.value + '/$CAT_NAME.html'">
+      <option value="en">EN</option>
+    </select>
+    <script>var s=document.querySelector('.lang-selector select');if(s){var l=location.pathname.split('/')[1];if(l)s.value=l;}</script>
+  </div>
 </nav>
 <main>
 

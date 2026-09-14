@@ -1,8 +1,17 @@
-# helium-browser-enhanced
+# Helium Browser [anylinux]
 ===
- About Unofficial AppImage of Helium.
+Helium is a lightweight, privacy-focused web browser engineered to deliver a fast and clean browsing experience without superfluous background telemetry or bloat.
+
+Features:
+- Minimalist, distraction-free user interface focused entirely on content
+- Built-in tracking protection and privacy enhancements
+- Fast rendering performance powered by modern web standards
+- Low memory footprint compared to mainstream web browsers
+- Clean tab management and straightforward bookmark organization
+
+This is an unofficial AnyLinux AppImage, which is able to work anywhere including glibc and musl. For more info: https://pkgforge-dev.github.io/Anylinux-AppImages/
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/helium-browser-appimage-enhanced
+# SITES: https://github.com/imputnet/helium
 # SOURCES: https://github.com/pkgforge-dev/helium-browser-appimage-enhanced
 # BUTTONS: 

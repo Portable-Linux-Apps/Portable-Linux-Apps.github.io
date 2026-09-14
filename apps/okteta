@@ -1,6 +1,30 @@
 # okteta
 ===
-Unofficial. Hex editor for viewing and editing the raw data of files.
+Okteta is a simple editor for the raw data of files.
+
+Features:
+
+- Values and characters shown either in two columns (the traditional display in hex editors) or in rows with the value on top of the character
+
+- Editing and navigating similar to a text editor
+
+- Customizable data views, with loadable and storable profiles
+
+- Tools dockable on all sides or floating
+
+- Numerical encodings: Hexadecimal, Decimal, Octal, Binary
+
+- Character encodings: All 8-bit encodings as supplied by Qt, EBCDIC
+
+- Fast data rendering on screen
+
+- Multiple open files
+
+- Undo/redo support
+
+- Structures tool for analyzing and editing based on user-creatable structure definitions
+
+- And more...
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Okteta-AppImage

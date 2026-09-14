@@ -1,8 +1,17 @@
-# pcsx-redux-enhanced
+# PCSX-Redux [anylinux]
 ===
-Unofficial, modern fork of the pcsxr PlayStation 1 emulator focused on reverse engineering and homebrew development.
+PCSX-Redux is a modern, modular PlayStation 1 (PS1/PSX) emulator tailored for developers, reverse engineers, and retro gaming enthusiasts. Rewritten from the ground up, it combines high emulation accuracy with a professional debugging suite.
+
+Features:
+- Highly accurate MIPS R3000A CPU, GTE, and SPU hardware emulation
+- Advanced debugging tools including disassembly views, memory inspectors, and breakpoint editors
+- Modern OpenGL and Vulkan rendering backends with internal resolution upscaling
+- Support for homebrew software development, GDB remote debugging, and custom scripting
+- Gamepad controller support with remappable analog and digital layouts
+
+This is an unofficial AnyLinux AppImage, which is able to work anywhere including glibc and musl. For more info: https://pkgforge-dev.github.io/Anylinux-AppImages/
 ===
-# SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/PCSX-Redux-AppImage-Enhanced
-# SOURCES: 
+# SCREENSHOTS: https://pcsx-redux.consoledev.net/images/debugger1.png
+# SITES: https://github.com/grumpycoders/pcsx-redux
+# SOURCES: https://github.com/pkgforge-dev/PCSX-Redux-AppImage-Enhanced
 # BUTTONS: 

@@ -1,8 +1,15 @@
-# pattypan
+# Pattypan
 ===
- Unofficial AppImage of Pattypan.
+Pattypan is an open-source desktop utility designed for uploading media files in bulk to Wikimedia Commons. Powered by spreadsheet templates, it streamlines the process of uploading hundreds of images, audio files, and documents with standardized wikitext metadata.
+
+Features:
+- Generates spreadsheet templates (Excel, CSV) automatically from local image directories
+- Bulk metadata generation including descriptions, categories, dates, and author credits
+- Fast batch uploading to Wikimedia Commons with automatic error handling
+- Support for complex wikitext templates and structured Commons data
+- Intuitive step-by-step wizard interface suitable for cultural institutions and photographers
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/pattypan-appimage
+# SITES: https://github.com/yarl/pattypan
 # SOURCES: https://github.com/pkgforge-dev/pattypan-appimage
 # BUTTONS: 

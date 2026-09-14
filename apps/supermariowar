@@ -1,8 +1,15 @@
-# supermariowar
+# Super Mario War
 ===
-Unofficial, a fan-made multiplayer Super Mario Bros. style deathmatch game.
+Super Mario War is an open-source, fan-made multiplayer deathmatch game set in the Super Mario universe. Players battle in competitive 2D arena platforming matches by stomping on each other's heads.
+
+Features:
+- Frenetic 4-player local multiplayer action with customizable AI bots
+- Over 1,000 community-created multiplayer arenas and custom game modes
+- Classic power-ups including Fire Flowers, Tanooki Suits, shells, and Bob-ombs
+- Multiple match types: Deathmatch, Capture the Flag, Coin Collection, and Boss Battles
+- Built-in level editor and character skin customization system
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Supermariowar-AppImage
-# SOURCES: 
+# SITES: https://github.com/mmatyas/supermariowar
+# SOURCES: https://github.com/pkgforge-dev/Supermariowar-AppImage
 # BUTTONS: 

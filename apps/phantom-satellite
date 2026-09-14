@@ -1,8 +1,15 @@
-# phantom-satellite
+# Phantom Satellite
 ===
-Unofficial, a fork of Pale Moon that aims to support older/niche platforms, without sacrificing support for more common/modern platforms.
+Phantom Satellite is a web browser forked from Pale Moon that focuses on supporting legacy, specialized, and niche Linux operating systems while maintaining modern web compatibility.
+
+Features:
+- Optimized Goanna layout engine with minimal runtime library dependencies
+- Built to run seamlessly on older Linux distributions and non-standard architectures
+- Support for classic XUL and UXP extensions and browser themes
+- Built-in privacy controls blocking third-party tracking and telemetry
+- Familiar traditional browser interface with customizable toolbars and menus
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Phantom-Satellite-AppImage
-# SOURCES: 
+# SITES: https://github.com/DCFUKSURMOM/Phantom-Satellite
+# SOURCES: https://github.com/pkgforge-dev/Phantom-Satellite-AppImage
 # BUTTONS: 

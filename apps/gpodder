@@ -1,6 +1,8 @@
 # gpodder
 ===
- Unofficial AppImage of gPodder.
+gPodder lets you manage your Podcast subscriptions, discover new content and download episodes to your devices.
+
+You can also take advantage of the service gpodder.net, which lets you sync subscriptions, playback progress and starred episodes.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/gpodder-appimage

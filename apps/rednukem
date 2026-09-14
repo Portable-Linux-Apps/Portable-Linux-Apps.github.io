@@ -1,8 +1,15 @@
-# rednukem
+# Rednukem
 ===
-A port of serveral BUILD Engine games based on EDuke32.
+Rednukem is an open-source BUILD engine source port based on EDuke32, providing native 64-bit support for the classic redneck shooters: Redneck Rampage, Redneck Rampage Rides Again, and Redneck Deer Huntin'.
+
+Features:
+- Native Linux execution with high-resolution widescreen rendering
+- Modern mouselook controls, customizable key bindings, and gamepad support
+- Accurate physics, sound effects, and level triggers matching original DOS behavior
+- High-fidelity audio playback supporting CD audio soundtrack tracks
+- Uncapped framerates and performance optimizations eliminating engine slowdowns
 ===
-# SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Rednukem-AppImage
-# SOURCES: 
+# SCREENSHOTS: https://github.com/user-attachments/assets/e7650c88-3907-47c3-81eb-2fb012435ca2
+# SITES: https://github.com/nukeykt/Rednukem
+# SOURCES: https://github.com/pkgforge-dev/Rednukem-AppImage
 # BUTTONS: 

@@ -1,8 +1,15 @@
-# rsdkv4
+# RSDKv4
 ===
-A complete decompilation of Sonic 1 & Sonic 2 (2013) & Retro Engine v4.
+RSDKv4 is a complete, open-source standalone decompilation of the 2013 mobile remasters of Sonic the Hedgehog 1 and Sonic the Hedgehog 2 running on the Retro Engine v4.
+
+Features:
+- Native execution on modern 64-bit operating systems without mobile emulation
+- True 16:9 widescreen rendering with smooth 60 FPS side-scrolling action
+- Restored cut content, hidden zones (such as Hidden Palace Zone), and debug modes
+- Playable characters include Sonic, Tails, and Knuckles with unique movesets
+- Full modern USB gamepad support and customizable keybindings
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/RSDKv4-AppImage
-# SOURCES: 
+# SITES: https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation
+# SOURCES: https://github.com/pkgforge-dev/RSDKv4-AppImage
 # BUTTONS: 

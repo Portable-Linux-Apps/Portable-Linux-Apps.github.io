@@ -1,8 +1,15 @@
-# cannonball
+# Cannonball
 ===
-Cannonball: An Enhanced OutRun Engine.
+Cannonball is an enhanced, open-source C++ engine rewrite of Yu Suzuki's classic 1986 arcade driving game OutRun. It loads the original arcade ROM data to deliver a faithful recreation with extensive modern enhancements.
+
+Features:
+- Smooth 60 frames per second gameplay doubling the original arcade framerate
+- True widescreen 16:9 rendering with seamless scenery expansion
+- Force feedback support for modern racing wheels and vibration gamepads
+- Custom track layouts, time trial modes, and multiple difficulty levels
+- High-quality stereo music and sound effect playback
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Cannonball-AppImage
-# SOURCES: 
+# SITES: https://github.com/djyt/cannonball
+# SOURCES: https://github.com/pkgforge-dev/Cannonball-AppImage
 # BUTTONS: 

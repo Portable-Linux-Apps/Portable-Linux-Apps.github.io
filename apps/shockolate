@@ -1,8 +1,15 @@
-# shockolate
+# Shockolate
 ===
- Unofficial AppImage of Shockolate.
+Shockolate is a cross-platform, open-source source port of the revolutionary 1994 cyberpunk immersive sim System Shock. Based on the original source code, it brings Citadel Station natively to modern Linux PCs.
+
+Features:
+- Native 64-bit Linux execution with OpenGL hardware-accelerated rendering
+- Modern mouselook controls and customizable WASD movement
+- True widescreen support and high-resolution texture rendering
+- Corrected audio timing and support for digital sound effects and MIDI tracks
+- Complete compatibility with original System Shock CD-ROM game assets
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/shockolate-appimage
+# SITES: https://github.com/Interrupt/systemshock
 # SOURCES: https://github.com/pkgforge-dev/shockolate-appimage
 # BUTTONS: 

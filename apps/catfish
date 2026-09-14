@@ -1,8 +1,15 @@
-# catfish
+# Catfish
 ===
- Unofficial AppImage of catfish.
+Catfish is a versatile and lightweight desktop file search utility for Linux. Powered by find, locate, and zeitgeist, it offers fast search results with a straightforward GTK user interface.
+
+Features:
+- Fast searches across file names and text contents within documents
+- Advanced filtering by file type, modification date, and size
+- Contextual actions to open, copy, or manage found files in your file manager
+- Integration with desktop indexers for instantaneous search indexing
+- Clean and lightweight interface suitable for all desktop environments
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/catfish-appimage
-# SOURCES: https://github.com/pkgforge-dev/catfish-appimage
+# SITES: https://gitlab.xfce.org/apps/catfish/
+# SOURCES: https://github.com/pkgforge-dev/catfish-appimage https://github.com/pkgforge-dev/Catfish-AppImage
 # BUTTONS: 

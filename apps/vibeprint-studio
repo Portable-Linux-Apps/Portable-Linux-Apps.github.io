@@ -1,8 +1,15 @@
-# vibeprint-studio
+# Vibeprint Studio
 ===
- Unofficial AppImage of Vibeprint Studio.
+Vibeprint Studio is an open-source 3D printing slicing and printer management application. It streamlines preparing 3D models (STL, OBJ, 3MF) for fabrication with intuitive slicing controls and G-code generation.
+
+Features:
+- High-performance slicing engine generating optimized toolpaths and supports
+- Visual 3D layer preview inspecting nozzle trajectories and travel speeds
+- Direct network printing integration for Moonraker, Klipper, and OctoPrint
+- Multi-material printing support and customizable filament profiles
+- Clean, modern desktop interface designed for makers and 3D printing professionals
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/vibeprint-studio-appimage
+# SITES: https://github.com/crenedecotret/vibeprint
 # SOURCES: https://github.com/pkgforge-dev/vibeprint-studio-appimage
 # BUTTONS: 

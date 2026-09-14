@@ -1,6 +1,6 @@
 # gopher64
 ===
- Unofficial AppImage of gopher64.
+Gopher64 is an open-source Nintendo 64 emulator written in Rust. Although it is the successor to Simple64, Gopher64 was written from scratch. Where it made sense, portions of the code were adapted or inspired by existing elements in Simple64/Mupen64Plus and ares. Gopher64 does not use any per-game hacks or settings, and it does not use plugins.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/gopher64-appimage

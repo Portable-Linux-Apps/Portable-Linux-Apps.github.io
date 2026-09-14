@@ -1,8 +1,15 @@
 # nsz
 ===
-Unofficial, Homebrew compatible NSP/XCI compressor/decompressor.
+NSZ is a Homebrew-compatible compressor and decompressor for Nintendo Switch game packages. Written in Python, it losslessly compresses NSP and XCI dumps into smaller NSZ and XCZ formats, saving up to 80% storage space.
+
+Features:
+- High-ratio lossless block compression for Nintendo Switch NSP and XCI files
+- Fast multithreaded compression and decompression powered by zstandard
+- Preserves all file headers, signatures, and game metadata for homebrew loaders
+- Batch processing mode for entire folders of game dumps
+- Command-line utility easily integrated into backup and management pipelines
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/NSZ-AppImage
-# SOURCES: 
+# SITES: https://github.com/nicoboss/nsz
+# SOURCES: https://github.com/pkgforge-dev/NSZ-AppImage
 # BUTTONS: 

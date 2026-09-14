@@ -1,8 +1,24 @@
 # discord
 ===
-All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.
+Discord is a free all in one messaging, voice, and video client thats available on your computer and phone.
 
- This is the unofficial AppImage.
+Whether you’re part of a school club, gaming group, worldwide art community, or just a handful of friends that want to spend time together, Discord makes it easy to talk every day and hang out more often.
+
+- Talk to your friends with messaging, voice, and video in a "Direct Message" (1 other person), group chat (up to 10 people), or a multi-channel server (practically infinite maximum members).
+
+- Discord servers are organized into topic-based channels where you can collaborate, share, and just talk about your day without clogging up a group chat.
+
+- Grab a seat in a voice channel when you’re free. Friends in your server can see you’re around and instantly pop in to talk without having to call.
+
+- Get a community of any size running with moderation tools and custom member access. Give members special powers, set up private channels, and more.
+
+- Low-latency voice and video feels like you’re in the same room. Wave hello over video, watch friends stream their games, or gather up and have a drawing session with screen share.
+
+- Available on Linux, macOS, Windows, iOS, Android, and your web browser.
+
+Discord is written in Javascript, React, Elixir, and Rust. The desktop application uses the electron framework.
+
+This is an unofficial community AppImage repackaging, not affiliated with or endorsed by Discord Inc.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://discord.com

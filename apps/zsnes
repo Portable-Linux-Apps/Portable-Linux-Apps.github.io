@@ -1,6 +1,8 @@
 # zsnes
 ===
-Unofficial, a Super Nintendo emulator.
+A maintained fork of ZSNES, a Super Nintendo emulator.
+
+The original ZSNES project needs patches to build and is not maintained anymore.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/ZSNES-AppImage

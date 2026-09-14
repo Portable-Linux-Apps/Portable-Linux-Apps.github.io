@@ -1,8 +1,15 @@
-# renpy
+# Ren'Py
 ===
-Unofficial, visual novel engine Ren'Py.
+Ren'Py is a widely acclaimed visual novel engine that enables developers and storytellers to create interactive digital narratives, visual novels, and life simulation games using Python and Ren'Py script.
+
+Features:
+- Intuitive scripting language designed for dialogue, choices, and branching narrative paths
+- Powerful Python integration for complex game logic, mini-games, and inventory systems
+- Hardware-accelerated graphics rendering supporting transitions, 2D animations, and video
+- Built-in save/load state management, rollback features, and localization tools
+- Multi-platform publishing targeting Linux, Windows, macOS, Android, and iOS
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/RenPy-AppImage
-# SOURCES: 
+# SITES: https://www.renpy.org
+# SOURCES: https://github.com/pkgforge-dev/RenPy-AppImage
 # BUTTONS: 

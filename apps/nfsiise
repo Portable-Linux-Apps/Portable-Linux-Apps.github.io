@@ -1,8 +1,15 @@
-# nfsiise
+# Need For Speed II SE
 ===
-Unofficial, Need For Speed™ II SE, cross-platform wrapper with 3D acceleration and TCP protocol.
+Need for Speed II SE (Cross-Platform) is a modern open-source wrapper and port for the 1997 racing classic Need for Speed II: Special Edition. It restores 3D hardware acceleration and modern networking to the vintage racer.
+
+Features:
+- Hardware-accelerated 3D graphics utilizing modern OpenGL rendering backends
+- Widescreen and high-resolution support with correct aspect ratio preservation
+- Modern TCP/IP and UDP multiplayer support for LAN and online races
+- Controller configuration supporting modern analog gamepads and racing wheels
+- Requires original Need for Speed II: Special Edition game data files to play
 ===
-# SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/NFSIISE-AppImage
-# SOURCES: 
+# SCREENSHOTS: https://raw.githubusercontent.com/zaps166/GitHubCommonContents/master/Screenshots/NFSIISE.png
+# SITES: https://github.com/zaps166/NFSIISE
+# SOURCES: https://github.com/pkgforge-dev/NFSIISE-AppImage
 # BUTTONS: 

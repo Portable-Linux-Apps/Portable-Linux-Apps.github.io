@@ -1,8 +1,15 @@
 # st
 ===
- Unofficial AppImage of the suckless terminal st.
+st (simple terminal) is a minimalist terminal emulator for the X Window System developed by suckless.org. Conceived as an antidote to bloated terminal emulators, st prioritizes simplicity, lightness, and speed.
+
+Features:
+- Extremely lightweight with near-instantaneous startup times
+- Low CPU and RAM resource utilization compared to mainstream terminals
+- Full support for 256 colors, truecolor (24-bit RGB), and UTF-8 typography
+- Clean, readable C source code easily customizable to specific user needs
+- Optimal for tiling window managers and minimalist Unix desktop environments
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/st-appimage
+# SITES: https://st.suckless.org
 # SOURCES: https://github.com/pkgforge-dev/st-appimage
 # BUTTONS: 

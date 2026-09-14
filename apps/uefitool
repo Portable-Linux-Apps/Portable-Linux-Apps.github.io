@@ -1,6 +1,7 @@
 # uefitool
 ===
-UEFI firmware image viewer and editor.
+UEFITool is a cross-platform open source application, that parses UEFI PI-compatible
+firmware image into a tree structure, verifies image integrity and provides a GUI to manipulate image elements.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/UEFITool-AppImage

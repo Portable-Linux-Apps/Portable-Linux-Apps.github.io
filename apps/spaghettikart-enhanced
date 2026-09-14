@@ -1,8 +1,17 @@
-# spaghettikart-enhanced
+# Spaghetti Kart [anylinux]
 ===
-Unofficial, Mario Kart 64 PC game Port.
+Spaghetti Kart is an enhanced native PC port of the classic Nintendo 64 racing game Mario Kart 64. Built from decompiled code, it delivers smooth high-framerate kart racing natively on Linux.
+
+Features:
+- Native PC rendering with high-resolution widescreen and 60 FPS support
+- Modern gamepad configuration with analog steering and customizable buttons
+- Support for four-player split-screen multiplayer grand prix and battle modes
+- Low audio latency with clean digital sound output
+- Requires an authentic Mario Kart 64 ROM for game asset generation
+
+This is an unofficial AnyLinux AppImage, which is able to work anywhere including glibc and musl. For more info: https://pkgforge-dev.github.io/Anylinux-AppImages/
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/SpaghettiKart-AppImage-Enhanced
-# SOURCES: 
+# SITES: https://github.com/HarbourMasters/SpaghettiKart
+# SOURCES: https://github.com/pkgforge-dev/SpaghettiKart-AppImage-Enhanced
 # BUTTONS: 

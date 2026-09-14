@@ -1,6 +1,9 @@
 # supermodel
 ===
-Sega Model 3 arcade emulator.
+Supermodel emulates Sega's Model 3 arcade platform,
+allowing you to play a number of ground-breaking arcade classics on your PC.
+It uses OpenGL and the SDL library, and can run on Windows, Linux, and Mac OS X.
+The source code is freely available under the terms of the GNU General Public License.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Supermodel-AppImage

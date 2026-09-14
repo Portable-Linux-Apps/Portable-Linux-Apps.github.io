@@ -1,8 +1,15 @@
-# abaddon
+# Abaddon
 ===
-Unofficial, an alternative Discord client with voice support made with C++ and GTK 3.
+Abaddon is an alternative Discord client written in C++ and GTK 3 designed for high performance and low memory consumption. It provides a native, responsive chat experience without the heavy resource footprint associated with Electron-based applications.
+
+Features:
+- Integrated voice chat support including listening and speaking
+- Native GTK 3 interface with customizable themes and fonts
+- Support for direct messages, group chats, servers, and channels
+- Rich message rendering including Markdown, embeds, custom emojis, and reactions
+- Minimal CPU and RAM usage compared to the official desktop client
 ===
-# SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Abaddon-AppImage
-# SOURCES: 
+# SCREENSHOTS: https://raw.githubusercontent.com/uowuo/abaddon/master/.readme/s5.png https://raw.githubusercontent.com/uowuo/abaddon/master/.readme/s6.png https://raw.githubusercontent.com/uowuo/abaddon/master/.readme/s7.png
+# SITES: https://github.com/uowuo/abaddon
+# SOURCES: https://github.com/pkgforge-dev/Abaddon-AppImage
 # BUTTONS: 

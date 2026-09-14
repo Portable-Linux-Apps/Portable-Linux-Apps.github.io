@@ -1,6 +1,19 @@
 # masterkey
 ===
- Unofficial AppImage of Master Key.
+Master Key is a password manager application that generates and manages passwords without the
+need to store them
+
+Features:
+
+- Passwords are generated using a combination of a master key, a site and a login
+
+- Passwords are never stored
+
+- Passwords can be recreated everywhere
+
+- The accounts information is encrypted
+
+- Follows the GNOME Human Interface Guidelines
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/masterkey-appimage

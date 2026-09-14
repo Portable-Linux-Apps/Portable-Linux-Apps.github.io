@@ -1,6 +1,8 @@
 # protontricks
 ===
- Unofficial AppImage of Protontricks.
+Run Winetricks commands for Steam Play/Proton games among other common Wine features,
+such as launching external Windows executables. This is often useful when a game requires closed-source runtime libraries or applications
+that are not included with Proton.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/protontricks-appimage

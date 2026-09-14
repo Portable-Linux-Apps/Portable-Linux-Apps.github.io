@@ -1,8 +1,15 @@
 # qimgv
 ===
-Unofficial, Image viewer. Fast, easy to use. Optional video support.
+qimgv is a fast, configurable image viewer written in Qt5/Qt6 with optional video playback support. Designed for speed and minimal UI clutter, it allows effortless browsing through large photo libraries and comic archives.
+
+Features:
+- Fast image caching and hardware-accelerated rendering
+- Video playback support (powered by mpv) for MP4, WebM, and animated GIFs
+- Customizable thumbnail bar with directory navigation and folder jumping
+- Image manipulation tools including lossless rotation, cropping, and resizing
+- Integrated file management and custom shell command trigger scripts
 ===
-# SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Qimgv-AppImage
-# SOURCES: 
+# SCREENSHOTS: https://raw.githubusercontent.com/easymodo/qimgv/master/qimgv/distrib/screenshots/qimgv0.9_1.jpg https://raw.githubusercontent.com/easymodo/qimgv/master/qimgv/distrib/screenshots/qimgv0.9_2.jpg
+# SITES: https://github.com/easymodo/qimgv
+# SOURCES: https://github.com/pkgforge-dev/Qimgv-AppImage
 # BUTTONS: 

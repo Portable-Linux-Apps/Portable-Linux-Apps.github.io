@@ -1,8 +1,15 @@
-# sdlpop
+# SDLPoP
 ===
-An open-source port of Prince of Persia.
+SDLPoP is an open-source port of the original Prince of Persia (1989), based on the disassembly of the classic DOS release. Written in C using SDL, it provides a faithful recreation with modern quality-of-life enhancements.
+
+Features:
+- Pixel-perfect recreation of original running, jumping, and sword-fighting physics
+- Scalable high-resolution display rendering with aspect ratio preservation
+- Quick save and quick load states for practice and speedrunning
+- Rewind functionality allowing players to step back in time after fatal mistakes
+- Full modern gamepad support alongside classic keyboard controls
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/SDLPoP-AppImage
-# SOURCES: 
+# SITES: https://github.com/NagyD/SDLPoP
+# SOURCES: https://github.com/pkgforge-dev/SDLPoP-AppImage
 # BUTTONS: 

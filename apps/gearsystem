@@ -1,8 +1,15 @@
-# gearsystem
+# Gearsystem
 ===
-Sega Master System / Game Gear / SG-1000 Emulator.
+Gearsystem is a cross-platform Sega Master System, Game Gear, and SG-1000 console emulator written in C++. It provides cycle-accurate emulation of Sega's classic 8-bit home and handheld hardware.
+
+Features:
+- Precise Z80 processor and Yamaha VDP graphics processor emulation
+- Full sound emulation including SN76489 PSG and Yamaha YM2413 FM sound chips
+- Automatic cartridge mapper detection and battery-backed SRAM save support
+- Accurate Game Gear LCD screen color palettes and aspect ratios
+- Gamepad controller support, save states, and rewind capabilities
 ===
-# SCREENSHOTS: /contribute_ss.webp
+# SCREENSHOTS: https://www.geardome.com/files/gearsystem/gearsystem_debug_03.png
 # SITES: https://github.com/drhelius/Gearsystem
-# SOURCES: 
+# SOURCES: https://github.com/pkgforge-dev/Gearsystem-AppImage
 # BUTTONS: 

@@ -1,6 +1,24 @@
 # swiftynotes
 ===
- Unofficial AppImage of swiftynotes.
+Swifty Notes is a native GTK/libadwaita Markdown notes application for Linux written in Swift.
+
+The desktop app is the primary experience: write, organize, and preview Markdown notes with native GTK widgets, autosave, remembered workspace state, and adjustable editor settings such as font size, wrapping, indentation, and appearance.
+
+The included CLI works on the same file-backed notes so shell scripts, automation, and AI agents can safely inspect or update notes without a separate database or background service.
+
+- Create, rename, duplicate, export, and delete Markdown notes.
+
+- Autosave edits, remember workspace state, and keep note-local image assets together with each note.
+
+- Adjust editor font size and other writing preferences to fit different screens and workflows.
+
+- Choose where notes are stored, including a cloud-synced folder, so the same plain files can stay in sync across devices.
+
+- Import images with drag and drop and render Markdown with a native GTK preview instead of a web view.
+
+- Use the CLI for JSON-friendly note automation from scripts, shell pipelines, and AI agents.
+
+- Switch the interface language between the system default and any language the build ships, without restarting the app.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/swiftynotes-appimage

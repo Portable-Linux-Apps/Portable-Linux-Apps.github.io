@@ -1,8 +1,15 @@
-# d1x-rebirth
+# D1X-Rebirth
 ===
-Unofficial, a source port of the Descent engine.
+D1X-Rebirth is an open-source source port of the classic six-degrees-of-freedom first-person shooter Descent. It upgrades the original 1995 Parallax Software title to run natively on modern operating systems with high-definition rendering.
+
+Features:
+- Full 6DoF (six degrees of freedom) zero-gravity movement and flight combat
+- OpenGL hardware-accelerated rendering with arbitrary screen resolutions
+- Modern gamepad, flight stick, and mouse-look control configuration
+- Enhanced multiplayer networking supporting TCP/IP and UDP matches
+- Full compatibility with the original Descent mission data and custom add-ons
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/D1X-Rebirth-AppImage
-# SOURCES: 
+# SITES: https://github.com/dxx-rebirth/dxx-rebirth
+# SOURCES: https://github.com/pkgforge-dev/d1x-rebirth-AppImage https://github.com/pkgforge-dev/D1X-Rebirth-AppImage
 # BUTTONS: 

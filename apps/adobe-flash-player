@@ -1,6 +1,11 @@
 # adobe-flash-player
 ===
-Unofficial port. Adobe Flash is a mostly discontinued multimedia software platform used for production of animations, rich internet applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Over 67 billion devices use adobe flash player!
+The Adobe Flash Player Projector is an offline player for content created on the Adobe Flash platform.
+
+While the Flash platform is abandoned, there's still a lot of vintage
+content available for download, such as games, and animations from Flash's “Golden Age”.
+
+This is an unofficial standalone AppImage projector of Adobe Flash Player, not affiliated with or supported by Adobe Inc.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Adobe-Flash-Player-AppImage

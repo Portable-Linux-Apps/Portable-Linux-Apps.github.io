@@ -1,8 +1,15 @@
-# asphyxia-core
+# Asphyxia CORE
 ===
- Unofficial AppImage of Asphyxia CORE.
+Asphyxia CORE is a modular, high-performance server emulator and network backend designed for arcade rhythm games. Built with TypeScript and Node.js, it emulates online network services, score tracking, card authentication, and game configuration for Bemani arcade titles.
+
+Features:
+- Modular plugin architecture supporting multiple arcade rhythm game titles
+- Card and profile management with persistent save data and score tracking
+- Web-based management dashboard for user configuration and game settings
+- Local and network play support with low latency packet processing
+- Cross-platform server backend easily deployable on desktop and server environments
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/asphyxia-core-appimage
+# SITES: https://github.com/asphyxia-core/core
 # SOURCES: https://github.com/pkgforge-dev/asphyxia-core-appimage
 # BUTTONS: 

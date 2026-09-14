@@ -1,8 +1,15 @@
-# mariokart64recomp
+# Mario Kart 64 Recompiled
 ===
-Unofficial, a native port of MarioKart 64, statically recompiled.
+Mario Kart 64 Recompiled is an enhanced native PC port of the classic Nintendo 64 kart racer Mario Kart 64. Using static recompilation, it runs natively on modern PC hardware with high framerates and enhanced graphics.
+
+Features:
+- Native execution eliminating emulation latency, delivering smooth 60 FPS gameplay
+- True widescreen and high-resolution rendering with customizable aspect ratios
+- Full analog gamepad support with modern rumble feedback and button mapping
+- Preserved four-player split-screen multiplayer racing and battle modes
+- Support for community mods, custom texture packs, and audio enhancements
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/MarioKart64Recomp-AppImage
-# SOURCES: 
+# SITES: https://gitlab.com/sonicdcer/MarioKart64Recomp
+# SOURCES: https://github.com/pkgforge-dev/MarioKart64Recomp-AppImage
 # BUTTONS: 

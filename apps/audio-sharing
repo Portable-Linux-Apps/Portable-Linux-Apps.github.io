@@ -1,6 +1,9 @@
 # audio-sharing
 ===
-Unofficial. Share audio from the desktop on local network using RTSP protocol.
+With Audio Sharing you can share your current computer audio playback in the form of an RTSP stream. This stream can then be played back by other devices, for example using VLC.
+
+By sharing the audio as a network stream, you can also use common devices that are not intended to be used as audio sinks (eg. smartphones) to receive it.
+For example, there are audio accessories that are not compatible with desktop computers (e.g. because the computer does not have a Bluetooth module installed). With the help of this app, the computer audio can be played back on a smartphone, which is then connected to the Bluetooth accessory.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Audio-Sharing-AppImage

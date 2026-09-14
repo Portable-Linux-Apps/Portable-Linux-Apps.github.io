@@ -1,6 +1,19 @@
 # kolourpaint
 ===
- Unofficial AppImage of KolourPaint.
+KolourPaint is a simple painting program to quickly create raster images.
+It is useful as a touch-up tool and for simple image editing tasks.
+
+Features:
+
+- Support for drawing various shapes - lines, rectangles, rounded rectangles, ovals and polygons
+
+- Curves, lines and text
+
+- Color picker
+
+- Selections
+
+- Rotation, monochrome and other advanced effects
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/kolourpaint-appimage

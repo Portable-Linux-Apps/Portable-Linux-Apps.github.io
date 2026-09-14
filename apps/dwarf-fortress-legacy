@@ -1,8 +1,15 @@
-# dwarf-fortress-legacy
+# Dwarf Fortress (Legacy)
 ===
- Unofficial AppImage of Dwarf Fortress Legacy.
+Dwarf Fortress (Legacy) is the classic, acclaimed ASCII-based fantasy world simulation and fortress management game by Bay 12 Games. It procedurally generates an intricate world complete with geology, mythology, history, and civilizations.
+
+Features:
+- Complete fortress management simulation with complex economics, engineering, and sociology
+- Adventure mode allowing exploration of the procedurally generated historical world
+- Authentic classic ASCII interface with support for community tilesets
+- Unmatched procedural depth with detailed body anatomy, combat, and fluids physics
+- Deep, living sandbox universe where every creature and civilization leaves historical records
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/dwarf-fortress-legacy-appimage
+# SITES: https://bay12games.com/dwarves
 # SOURCES: https://github.com/pkgforge-dev/dwarf-fortress-legacy-appimage
 # BUTTONS: 

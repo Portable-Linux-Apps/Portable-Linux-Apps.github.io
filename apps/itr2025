@@ -1,8 +1,15 @@
-# itr2025
+# ITR 2025
 ===
-Appimage não oficial do ITR2025, declare seu imposto dos seus imóveis rurais (Ano-calendário 2025).
+ITR 2025 (Programa Gerador da Declaração do ITR 2025) é o aplicativo oficial da Secretaria Especial da Receita Federal do Brasil destinado à elaboração e transmissão da Declaração do Imposto sobre a Propriedade Territorial Rural relativa ao exercício de 2025.
+
+Recursos:
+- Preenchimento completo do Documento de Informação e Atualização Cadastral do ITR (DIAC)
+- Apuração do Documento de Informação e Apuração do ITR (DIAT) e cálculo do imposto devido
+- Verificação automática de inconsistências cadastrais e validação de pendências
+- Gravação de cópias de segurança e restauração de declarações de anos anteriores
+- Impressão de recibos de entrega, DARF para recolhimento e demonstrativos fiscais
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/ITR2025-AppImage
-# SOURCES: 
+# SITES: https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/download/pgd/ditr
+# SOURCES: https://github.com/pkgforge-dev/ITR2025-AppImage
 # BUTTONS: 

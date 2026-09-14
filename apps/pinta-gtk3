@@ -1,6 +1,14 @@
-# pinta-gtk3
+# Pinta (GTK 3)
 ===
- Unofficial, Simple GTK Paint Program clone of Paint.Net 3.0 (GTK3 Version).
+Pinta is a free, open-source bitmap image editor and digital painting application modeled after Paint.NET. It provides an accessible yet powerful set of drawing tools and image adjustment filters in a clean GTK3 interface.
+
+Features:
+- Multi-layer editing with adjustable blending modes and layer transparency
+- Drawing tools including freehand brushes, pencils, shapes, gradients, and erasers
+- Over 35 image adjustments and artistic effects (sharpen, blur, emboss, glow)
+- Full history tracking with unlimited undo and redo capabilities
+- Multi-language support and cross-platform consistency
 ===
 # SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Pinta-GTK3-AppImage
+# SITES: https://github.com/PintaProject/Pinta
+# SOURCES: https://github.com/pkgforge-dev/Pinta-GTK3-AppImage

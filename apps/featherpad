@@ -1,8 +1,15 @@
-# featherpad
+# FeatherPad
 ===
-Unofficial. A lightweight Qt plain-text editor.
+FeatherPad is a lightweight, feature-rich plain text editor written in C++ and Qt. Designed for high speed and minimal resource usage, it handles large text files with ease while offering a clean, distraction-free interface.
+
+Features:
+- Syntax highlighting for dozens of programming, markup, and scripting languages
+- Tabbed document interface with drag-and-drop support and split views
+- Search and replace with full regular expression support
+- Auto-detection of text encoding and line ending formats
+- Session management, side-pane navigation, and customizable color schemes
 ===
-# SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/FeatherPad-AppImage
-# SOURCES: 
+# SCREENSHOTS: https://raw.githubusercontent.com/tsujan/FeatherPad/master/screenshots/Tabs.png https://raw.githubusercontent.com/tsujan/FeatherPad/master/screenshots/Side-Pane.png
+# SITES: https://github.com/tsujan/FeatherPad
+# SOURCES: https://github.com/pkgforge-dev/FeatherPad-AppImage
 # BUTTONS: 

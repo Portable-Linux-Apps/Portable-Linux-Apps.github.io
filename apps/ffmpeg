@@ -1,8 +1,15 @@
 # ffmpeg
 ===
-Unofficial, A complete, cross-platform solution to record, convert and stream audio and video.
+FFmpeg is the universal, open-source multimedia framework capable of decoding, encoding, transcoding, muxing, demuxing, streaming, filtering, and playing virtually any audio or video format.
+
+Features:
+- Complete multimedia toolset including the ffmpeg, ffprobe, and ffplay binaries
+- Hardware-accelerated video decoding and encoding via VA-API, NVENC, and QuickSync
+- Broad codec support including AV1, H.264, HEVC, VP9, AAC, FLAC, and Opus
+- Powerful audio and video filtering pipeline for resizing, cropping, and color grading
+- Comprehensive container support for MP4, MKV, WebM, MOV, and streaming protocols
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/FFmpeg-AppImage
-# SOURCES: 
+# SITES: https://www.ffmpeg.org
+# SOURCES: https://github.com/pkgforge-dev/FFmpeg-AppImage
 # BUTTONS: 

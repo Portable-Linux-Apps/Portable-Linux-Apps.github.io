@@ -1,8 +1,21 @@
 # gimp
 ===
-GIMP (GNU Image Manipulation Program) is a cross-platform image editor.
+GIMP is an acronym for GNU Image Manipulation Program. It is
+Community-driven Free Software for high-end image creation and manipulation.
 
- This script allows you to choose between the Official AppImage and the unofficial Archimage.
+It has many capabilities. It can be used as a paint program,
+an expert quality photo retouching program, image composition,
+an online batch processing system, a mass production image
+renderer, an image format converter, etc.
+
+GIMP is expandable and extensible. It is designed to be
+augmented with plug-ins and extensions to do just about
+anything. The advanced scripting interface allows everything
+from the simplest task to the most complex image manipulation
+procedures to be easily scripted. GIMP is available for Linux,
+Microsoft Windows and macOS.
+
+This script allows you to choose between the Official AppImage and the unofficial Archimage.
 ===
 # SCREENSHOTS: https://user-images.githubusercontent.com/88724353/235696719-d98df03e-3049-4346-9c3d-ba8cf23e5b46.jpg
 # SITES: https://www.gimp.org https://github.com/ivan-hc/GIMP-appimage https://github.com/pkgforge-dev/GIMP-and-PhotoGIMP-AppImage

@@ -1,8 +1,15 @@
-# gnu-freedink
+# GNU FreeDink
 ===
-Unofficial, a portable and enhanced version of the Dink Smallwood game engine.
+GNU FreeDink is a free, portable open-source reimplementation of Dink Smallwood, the comedic action-RPG originally released by Robinson Technologies in 1997. It replaces the proprietary game engine to run smoothly on modern hardware.
+
+Features:
+- Faithful reproduction of Dink Smallwood's real-time action combat and quest dialogues
+- Complete compatibility with official campaigns and thousands of community D-Mods
+- Native cross-platform engine with scalable graphics and smooth performance
+- Enhanced sound playback utilizing modern digital audio libraries
+- Includes free data replacement package for open distribution
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/GNU-FreeDink-AppImage
-# SOURCES: 
+# SITES: https://www.gnu.org/software/freedink/
+# SOURCES: https://github.com/pkgforge-dev/GNU-FreeDink-AppImage
 # BUTTONS: 

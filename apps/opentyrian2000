@@ -1,8 +1,15 @@
-# opentyrian2000
+# OpenTyrian2000
 ===
-An open-source port of the DOS shoot-em-up Tyrian.
+OpenTyrian2000 is an open-source port of Tyrian 2000, the classic 1999 vertical scrolling shoot-em-up game. It updates the classic DOS game to run natively on modern operating systems with enhanced features.
+
+Features:
+- Full arcade-style vertical shooting gameplay across all five story episodes
+- Deep ship customization system with shields, weapons, sidekicks, and generators
+- Includes mini-games such as Destruct and the secret Super Tyrian modes
+- Scalable graphics with multiple scaler options and widescreen borders
+- Modern USB gamepad and joystick support alongside classic keyboard controls
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/OpenTyrian2000-AppImage
-# SOURCES: 
+# SITES: https://github.com/KScl/opentyrian2000
+# SOURCES: https://github.com/pkgforge-dev/OpenTyrian2000-AppImage
 # BUTTONS: 

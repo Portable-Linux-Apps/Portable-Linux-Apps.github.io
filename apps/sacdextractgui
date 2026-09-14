@@ -1,8 +1,15 @@
-# sacdextractgui
+# SACDExtractGUI
 ===
- Unofficial AppImage of SACDExtractGUI.
+SACDExtractGUI is a user-friendly graphical interface for sacd_extract. It simplifies extracting high-resolution DSD audio files (DFF, DSF) and audio tracks from Super Audio CD (SACD) ISO images and network players.
+
+Features:
+- Extracts high-resolution stereo and multi-channel DSD audio streams
+- Supports converting SACD ISO disc images directly to DSF and DFF track files
+- Preserves album art, track numbers, performers, and title metadata
+- Batch processing queue for ripping entire collections of SACD images
+- Clean graphical interface with real-time extraction progress meters
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/sacdextractgui-appimage
+# SITES: https://github.com/PickRecalled/SACDExtractGUI
 # SOURCES: https://github.com/pkgforge-dev/sacdextractgui-appimage
 # BUTTONS: 

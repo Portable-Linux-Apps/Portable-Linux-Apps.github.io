@@ -1,8 +1,15 @@
-# qemu
+# QEMU
 ===
-Unofficial, a generic and open source machine & userspace emulator and virtualizer.
+QEMU is a generic, open-source machine emulator and virtualizer. When used as a machine emulator, it runs operating systems and programs made for one processor on a different machine; when paired with KVM, it provides near-native virtualization performance.
+
+Features:
+- Full system emulation for x86, ARM, RISC-V, MIPS, PowerPC, and s390x architectures
+- Near-native hardware virtualization when paired with Linux KVM kernel modules
+- User-mode emulation enabling direct execution of foreign-architecture Linux binaries
+- Virtual device emulation for network cards, USB controllers, GPUs, and storage drives
+- Snapshot support, live migration, and integration with libvirt and virt-manager
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://www.qemu.org/
+# SITES: https://www.qemu.org https://www.qemu.org/
 # SOURCES: https://github.com/pkgforge-dev/QEMU-AppImage https://github.com/lucasmz1/Qemu_Appimage
 # BUTTONS: 

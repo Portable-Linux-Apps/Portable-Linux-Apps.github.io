@@ -1,8 +1,23 @@
 # asunder
 ===
- Asunder is a graphical Audio CD ripper and encoder for Linux. You can use it to save tracks from an  Audio CD as any of WAV, MP3, WavPack, Musepack and Monkey's Audio files.
+Asunder is a graphical Audio CD ripper and encoder for Linux. You can use it to save tracks from an Audio CD
+as
+any of WAV, MP3, OGG, FLAC, Opus, WavPack, Musepack, AAC, and Monkey's Audio files.
 
- This is the unofficial AppImage.
+- Can save audio tracks as WAV, MP3, Ogg Vorbis, FLAC, Opus, Wavpack, Musepack, AAC, and Monkey's audio
+files
+
+- Uses CDDB to name and tag each track.
+
+- Creates M3U playlists
+
+- Can encode to multiple formats in one session
+
+- Simultaneous rip and encode
+
+- Does not require a specific desktop environment
+
+Caveat Emptor: The ARM builds only had limited testing because ARM devices with CD players are rare.
 ===
 # SCREENSHOTS: https://screenshots.debian.net/shrine/screenshot/simage/large-9997c700ffc1e25341d721d77de0aae2.png
 # SITES: http://littlesvr.ca/asunder

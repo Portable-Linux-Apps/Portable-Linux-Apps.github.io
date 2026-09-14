@@ -1,6 +1,7 @@
 # qmmp
 ===
-Unofficial, Qt-based multimedia player.
+Qmmp is a cross-platform audio-player, written with the help of the Qt library.
+It has two different user interfaces, Winamp/XMMS skins support and other features provided by plugins.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Qmmp-AppImage

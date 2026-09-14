@@ -1,6 +1,22 @@
 # eduke32
 ===
-An advanced Duke Nukem 3D source port.
+EDuke32 is a source port of Ken Silverman's Build Engine with support for
+Duke Nukem 3D, Ion Fury and Shadow Warrior (via VoidSW), among others.
+
+Features include:
+
+- Modern OpenGL rendering with dynamically lighting and shadows
+
+- Voxel assets
+
+- Emulated OPL3, MIDI or OGG/FLAC soundtracks
+
+- Gamepad support
+
+- Classic software rendering
+
+EDuke32 comes with a map editors, Mapster32 and Wangulator, for creation
+of new levels and is free to use for non-commercial purposes.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/EDuke32-AppImage

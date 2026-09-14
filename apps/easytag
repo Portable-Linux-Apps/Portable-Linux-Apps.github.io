@@ -1,6 +1,10 @@
 # easytag
 ===
-Unofficial AppImage of EasyTAG tag editor.
+View and edit tags for MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey's Audio and WavPack files.
+
+Look up albums in online databases, bulk edit tags, create playlists and rename a collection of files.
+
+A simple and nice GTK+ interface makes tagging easier under GNU/Linux and Windows.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/EasyTAG-AppImage

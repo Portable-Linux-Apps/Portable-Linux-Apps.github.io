@@ -1,8 +1,15 @@
-# cromite
+# Cromite
 ===
-Unofficial AppImage of the Cromite web browser. [Maintainer=@Samueru-sama]
+Cromite is a privacy-hardened, open-source web browser forked from Chromium, continuing the legacy of Bromite. It integrates built-in ad blocking, DNS-over-HTTPS, and security patches designed to defend against online tracking and fingerprinting.
+
+Features:
+- Built-in ad-blocking engine using customizable filter lists
+- Enhanced privacy settings disabling telemetry, metrics, and background pings
+- Advanced fingerprinting countermeasures for canvas, audio, and client hints
+- Full Chromium extension support with regular security updates
+- Native Linux desktop integration with dark mode and Wayland support
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Cromite-AppImage
-# SOURCES: 
+# SITES: https://github.com/uazo/cromite
+# SOURCES: https://github.com/pkgforge-dev/Cromite-AppImage
 # BUTTONS: 

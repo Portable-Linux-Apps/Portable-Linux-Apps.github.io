@@ -1,6 +1,8 @@
 # tuxpuck
 ===
-Unofficial, hockey-like table game.
+TuxPuck is an air hockey game and clone of the Amiga/Atari ST game Shufflepuck Café.
+The player moves a bat around a table and tries to knock the puck past the opponent's defense.
+After either party has reached 15 points, the match is over.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Tuxpuck-AppImage

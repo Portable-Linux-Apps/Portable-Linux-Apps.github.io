@@ -1,6 +1,14 @@
 # cine
 ===
- Unofficial AppImage of Cine.
+Cine combines a clean interface with a high-performance engine to deliver a seamless viewing experience.
+
+- Simple Design: A refined, distraction-free interface
+
+- MPV-Based: Leverages the robust power of MPV for great playback and format support
+
+- Audio and Subtitles: Control track selection and synchronization for both
+
+- Video Controls: Easily adjust brightness, contrast, zoom, aspect ratio, etc.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/cine-appimage

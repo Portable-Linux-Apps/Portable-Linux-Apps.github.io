@@ -1,6 +1,9 @@
 # ioquake3
 ===
-Unofficial, the de-facto OSS Quake 3 distribution.
+ioquake3 is a free and open-source software first person shooter engine based on the Quake 3: Arena and Quake 3: Team Arena source code.
+
+The source code is licensed under the GPL version 2, and was first released under that license by id software on August 20th, 2005. Since then,
+our dedicated team has been working hard to improve it, fixing bugs, and adding just the right new features to make the engine even better than before.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/ioquake3-AppImage

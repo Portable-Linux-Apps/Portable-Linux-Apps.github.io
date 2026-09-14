@@ -1,8 +1,15 @@
-# satty
+# Satty
 ===
-Satty - Modern Screenshot Annotation.
+Satty is a modern, lightweight screenshot annotation tool written in Rust and GTK. Inspired by Swappy and Flameshot, it provides a fast and intuitive workflow for annotating, highlighting, and exporting screen captures.
+
+Features:
+- Annotation tools including freehand brushes, arrows, rectangles, and text labels
+- Highlighting markers, number pin counters, and privacy pixelation/blur brushes
+- Seamless integration with Wayland screenshot utilities (wl-copy, grim, slurp) and X11
+- One-click copying to clipboard or saving directly to file
+- Snappy, responsive interface designed with modern Linux desktop guidelines
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/Satty-AppImage
-# SOURCES: 
+# SITES: https://github.com/Satty-org/Satty
+# SOURCES: https://github.com/pkgforge-dev/Satty-AppImage
 # BUTTONS: 

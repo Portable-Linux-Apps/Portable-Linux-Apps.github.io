@@ -1,10 +1,15 @@
-# sview
+# sView
 ===
-sView is a cross-platform solution to view 3D stereoscopic videos and images. 
+sView is an open-source media player specialized in viewing 3D stereoscopic videos, photos, and panoramic media. Supporting a wide range of 3D display hardware, it renders immersive content with high precision.
 
- Please visit official site for more information
+Features:
+- Comprehensive 3D stereoscopic output modes including Anaglyph, Side-by-Side, and Interlaced
+- Hardware support for 3D TVs, shutter glasses, VR headsets, and polarized displays
+- Panoramic 360-degree and 180-degree spherical photo and video playback
+- Hardware-accelerated video decoding with multi-channel spatial audio support
+- Intuitive on-screen controls for adjusting parallax, stereo separation, and color balance
 ===
 # SCREENSHOTS: https://www.sview.ru/images/sview1508_playlist.jpg
-# SITES: https://www.sview.ru
+# SITES: https://www.sview.ru/ https://www.sview.ru
 # SOURCES: https://github.com/pkgforge-dev/sView-AppImage
 # BUTTONS: 

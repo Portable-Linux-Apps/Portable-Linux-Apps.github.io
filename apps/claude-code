@@ -1,8 +1,15 @@
 # claude-code
 ===
- Unofficial AppImage of claude-code.
+Claude Code is an agentic command-line coding tool developed by Anthropic. Powered by Claude 3.7 Sonnet, it operates directly inside your terminal to understand codebases, edit files, run bash commands, execute tests, and manage git workflows.
+
+Features:
+- Context-aware exploration and semantic navigation of large codebases
+- Automated multi-file refactoring, bug fixing, and feature implementation
+- Direct execution of build commands, linters, test suites, and git operations
+- Interactive terminal chat interface with real-time feedback and diff approval
+- Built-in project indexing and architecture pattern recognition
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/claude-code-appimage
-# SOURCES: https://github.com/pkgforge-dev/claude-code-appimage
+# SITES: https://github.com/anthropics/claude-code
+# SOURCES: https://github.com/pkgforge-dev/claude-code-appimage https://github.com/pkgforge-dev/claude-code-AppImage
 # BUTTONS: 

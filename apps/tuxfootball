@@ -1,6 +1,16 @@
 # tuxfootball
 ===
-Unofficial, is a great 2D football game for Windows and Linux.
+It's bringing old style gameplay from DOS times back to the desktop with
+up to date graphics! It's gameplay is similar to old classics such as
+Amco's Kick Off and Sensible Software's Sensible Soccer.
+
+The gameplay is designed to be quick, responsive and fun. You are always
+in control of the player closest to the ball. The ball is controlled via
+two different kick buttons - one for pass, and one for shoot. Aftertouch
+can be applied to shots by quickly pressing and holding the direction you
+want the ball to bend towards. Pushing in the opposite direction to what
+you kicked the ball makes it raise into the air, pushing in the same
+direction as the ball makes it dip towards the ground.
 ===
 # SCREENSHOTS: /contribute_ss.webp
 # SITES: https://github.com/pkgforge-dev/Tux-Football-AppImage

@@ -1,8 +1,15 @@
-# wipeout-rewrite
+# WipEout Rewrite
 ===
-Re-implementation of the 1995 PSX game wipEout.
+wipEout Rewrite is an open-source reverse-engineered C port of the iconic 1995 futuristic anti-gravity racing game wipEout for the Sony PlayStation. It brings the high-octane techno racer natively to modern PCs.
+
+Features:
+- Native 64-bit execution delivering silky-smooth 60+ FPS anti-gravity racing
+- High-resolution widescreen rendering with increased draw distance and enhanced textures
+- Accurate anti-gravity vehicle physics and airbrake handling mechanics
+- Full modern gamepad and racing controller support with customizable button mapping
+- Includes all original championship tracks, weapon pickups, and iconic techno soundtrack
 ===
 # SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/wipEout-Rewrite-AppImage
-# SOURCES: 
+# SITES: https://github.com/phoboslab/wipeout-rewrite
+# SOURCES: https://github.com/pkgforge-dev/wipEout-Rewrite-AppImage
 # BUTTONS: 
