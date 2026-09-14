@@ -1,0 +1,1093 @@
+# Translation template for pla-site-tool.
+# Copyright (C) 2020-present Ivan Alessandro Sala aka 'Ivan-HC'
+# This file is distributed under the same license as the pla-site-tool package.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pla-site-tool 0.1.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-09-14 20:12+0700\n"
+"Last-Translator: imngkhang <nnguyenkhang14@gmail.com>\n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: cat_page.in:116 app_page.in:70 metapkg_page.in:71 index.in:338 wiki.in:150
+msgid "2020-present Ivan Alessandro Sala aka 'Ivan-HC'"
+msgstr "2020-nay Ivan Alessandro Sala còn gọi là 'Ivan-HC'"
+
+#: index.in:46
+msgid ""
+"<strong>$UNIQUE_COUNT</strong> unique apps (<strong>$APPIMAGE_COUNT</strong> "
+"AppImage packages + <strong>$PORTABLE_COUNT</strong> standalone/portable "
+"programs), including <strong>$SUITS_COUNT</strong> metapackages containing "
+"<strong>$ITEMS_COUNT</strong> items."
+msgstr ""
+"<strong>$UNIQUE_COUNT</strong> ứng dụng riêng biệt (<strong>$APPIMAGE_COUNT</"
+"strong> gói AppImage + <strong>$PORTABLE_COUNT</strong> phần mềm độc lập/di "
+"động), bao gồm <strong>$SUITS_COUNT</strong> gói tổng hợp chứa "
+"<strong>$ITEMS_COUNT</strong> mục."
+
+#: cat_page.in:35 cat_page.in:114 app_page.in:37 app_page.in:68
+#: metapkg_page.in:37 metapkg_page.in:69 index.in:35 index.in:131 index.in:336
+#: wiki.in:33 wiki.in:148
+msgid "AM on GitHub"
+msgstr "AM trên GitHub"
+
+#: index.in:177
+msgid "AM-GUI on GitHub"
+msgstr "AM-GUI trên GitHub"
+
+#: wiki.in:75
+msgid "About Aisap sandboxing"
+msgstr "Về cơ chế cách ly Aisap"
+
+#: index.in:239
+msgid "About other catalogs"
+msgstr "Về các danh mục khác"
+
+#: index.in:112
+msgid "About this project"
+msgstr "Về dự án này"
+
+#: index.in:251
+msgid ""
+"All app data is stored in a markdown-ish format sourced from the <a "
+"href=\"https://github.com/ivan-hc/AM/blob/main/programs/x86_64-apps\">AM "
+"application list</a>. Each app has a corresponding file in the <code>apps/</"
+"code> folder with its description, sites, sources and screenshots, generated "
+"by the <a href=\"https://gitlab.com/kazam0180/pla-site-tool\"><code>pla-site-"
+"tool</code></a>."
+msgstr ""
+"Tất cả dữ liệu ứng dụng đều được lưu trữ theo một định dạng kiểu markdown "
+"lấy từ <a href=\"https://github.com/ivan-hc/AM/blob/main/programs/x86_64-"
+"apps\">danh sách ứng dụng AM</a>. Mỗi ứng dụng có một tập tin tương ứng "
+"trong thư mục <code>apps/</code> với mô tả, trang, nguồn và ảnh màn hình, "
+"được tạo bởi <a href=\"https://gitlab.com/kazam0180/pla-site-"
+"tool\"><code>pla-site-tool</code></a>."
+
+#: cat_page.in:47 index.in:56
+msgid "All architectures"
+msgstr "Tất cả kiến trúc"
+
+#: index.in:63
+msgid "All categories"
+msgstr "Tất cả thể loại"
+
+#: wiki.in:44
+msgid "All the guides listed here are available at"
+msgstr "Tất cả hướng dẫn được liệt kê tại đây đều có tại"
+
+#: wiki.in:99
+msgid "An application does not work, is old and unsupported"
+msgstr "Một ứng dụng không hoạt động, đã cũ và không còn được hỗ trợ"
+
+#: index.in:191
+msgid "AppGallery on GitLab"
+msgstr "AppGallery trên GitLab"
+
+#: wiki.in:66
+msgid "AppImages from external media"
+msgstr "Các bó AppImage từ phương tiện lưu trữ ngoài"
+
+#: cat_page.in:32 cat_page.in:107 app_page.in:34 app_page.in:61
+#: metapkg_page.in:34 metapkg_page.in:62 index.in:32 index.in:329 wiki.in:30
+#: wiki.in:141
+msgid "Apps"
+msgstr "Ứng dụng"
+
+#: wiki.in:92
+msgid "BSD, freeBSD and derivative systems: configuration and troubleshooting"
+msgstr "BSD, freeBSD và các hệ thống phái sinh: cấu hình và khắc phục sự cố"
+
+#: app_page.in:42 metapkg_page.in:42
+msgid "Back"
+msgstr "Quay lại"
+
+#: wiki.in:133
+msgid "Back to home"
+msgstr "Về trang chủ"
+
+#: wiki.in:57
+msgid "Backup and restore installed apps using snapshots"
+msgstr "Sao lưu và khôi phục ứng dụng đã cài bằng ảnh chụp nhanh"
+
+#: wiki.in:100
+msgid "Cannot download or update an application"
+msgstr "Không thể tải xuống hoặc cập nhật một ứng dụng"
+
+#: wiki.in:101
+msgid "Cannot mount and run AppImages"
+msgstr "Không thể gắn và chạy các bó AppImage"
+
+#: cat_page.in:56 index.in:70
+msgid "Categories"
+msgstr "Thể loại"
+
+#: wiki.in:60
+msgid "Change the destination path of installed programs"
+msgstr "Đổi đường dẫn đích của các chương trình đã cài đặt"
+
+#: index.in:302
+msgid "Check the <a href=\"wiki.html\">wiki</a> for guides and documentation."
+msgstr "Xem <a href=\"wiki.html\">wiki</a> để biết các hướng dẫn và tài liệu."
+
+#: wiki.in:102
+msgid "Checksum does not match or missing verified status"
+msgstr "Mã kiểm tra không khớp hoặc thiếu trạng thái đã xác thực"
+
+#: wiki.in:59
+msgid ""
+"Clone a set of programs installed from other AM and AppMan configurations"
+msgstr ""
+"Nhân bản một tập hợp các chương trình đã cài từ các cấu hình AM và AppMan "
+"khác"
+
+#: wiki.in:61
+msgid "Convert Type2 AppImages requiring libfuse2 to New Generation AppImages"
+msgstr "Chuyển đổi các bó AppImage loại2 cần libfuse2 sang AppImage thế hệ mới"
+
+#: index.in:288
+msgid ""
+"Copy the app's icon (should be of same name) to <code>icons</code> folder."
+msgstr ""
+"Sao chép biểu tượng của ứng dụng (cần phải có cùng tên) vào thư mục "
+"<code>icons</code>."
+
+#: index.in:264
+msgid "Create a text file like this:"
+msgstr "Tạo một tập tin văn bản như này:"
+
+#: wiki.in:81
+msgid "Create and test your own installation script"
+msgstr "Tạo và kiểm thử kịch bản cài đặt của bạn"
+
+#: index.in:294
+msgid ""
+"Depends on what you mean by \"<strong>centralized package repository</"
+"strong>\", if you mean a repository that stores them all like Debian-based "
+"distributions do with DEB packages, no, there are thousands of packages, and "
+"they are usually distributed to remote sites and difficult to find.</em></"
+"p>\n"
+"  <p><em>If instead you mean an AUR-style repo with scripts that easily find "
+"all AppImages, <strong>you're in the right place!</strong>"
+msgstr ""
+"Tuỳ vào việc bạn hiểu thế nào về \"<strong>kho phần mềm tập trung</"
+"strong>\", nếu ý bạn là một kho phần mềm lưu trữ tất cả các gói như cách các "
+"bản phân phối dựa trên Debian làm với các gói DEB, thì không, thực tế có "
+"hàng ngàn gói, chúng thường được phân phối tại nhiều nguồn khác nhau và rất "
+"khó kiếm.</em></p>\n"
+"  <p><em>Tuy nhiên nếu ý bạn là một kho theo phong cách AUR với các kịch bản "
+"giúp dễ dàng tìm mọi AppImage, thì <strong>bạn đã đến đúng nơi rồi đấy!</"
+"strong>"
+
+#: wiki.in:79
+msgid "Downgrade an installed app to a previous version"
+msgstr "Hạ cấp một ứng dụng đã cài về phiên bản trước đó"
+
+#: index.in:121
+msgid ""
+"Every app on this site comes with its own installation script, PKGBUILD "
+"style, managed by the AM package manager. Pick the tool that fits you best:"
+msgstr ""
+"Mỗi ứng dụng trên trang này đều đi kèm kịch bản cài đặt riêng, theo phong "
+"cách PKGBUILD, được quản lí bởi trình quản lí gói AM. Hãy chọn công cụ phù "
+"hợp nhất với bạn:"
+
+#: index.in:280
+msgid "Explanation of the fields:"
+msgstr "Giải thích các trường:"
+
+#: wiki.in:43
+msgid "External links index"
+msgstr "Chỉ mục liên kết ngoài"
+
+#: cat_page.in:33 cat_page.in:108 app_page.in:35 app_page.in:62
+#: metapkg_page.in:35 metapkg_page.in:63 index.in:33 index.in:214 index.in:330
+#: wiki.in:31 wiki.in:142
+msgid "FAQ"
+msgstr "Câu hỏi thường gặp"
+
+#: wiki.in:103
+msgid "Failed to open squashfs image"
+msgstr "Thất bại khi mở tệp ảnh squashfs"
+
+#: cat_page.in:44
+msgid "Filter apps by name or keyword..."
+msgstr "Lọc ứng dụng theo tên hoặc từ khoá..."
+
+#: cat_page.in:45
+msgid "Filter by architecture"
+msgstr "Lọc theo kiến trúc"
+
+#: index.in:61
+msgid "Filter by category"
+msgstr "Lọc theo thể loại"
+
+#: wiki.in:127
+msgid "Firefox for Linux scripts"
+msgstr "Các kịch bản Firefox cho Linux"
+
+#: index.in:256
+msgid ""
+"For any suggestions, open an <a href=\"https://github.com/ivan-hc/AM/"
+"issues\">issue</a> at https://github.com/ivan-hc/AM or a <a href=\"https://"
+"github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls\">pull "
+"request</a> at https://github.com/Portable-Linux-Apps/Portable-Linux-Apps."
+"github.io"
+msgstr ""
+"Nếu có bất kỳ đề xuất nào, mở một <a href=\"https://github.com/ivan-hc/AM/"
+"issues\">báo cáo lỗi</a> ở https://github.com/ivan-hc/AM hoặc một <a "
+"href=\"https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/"
+"pulls\">yêu cầu gộp</a> ở https://github.com/Portable-Linux-Apps/Portable-"
+"Linux-Apps.github.io"
+
+#: index.in:47
+msgid ""
+"From here you can download them, install them, update them (for real), get "
+"more information about the sources and their developers... and if you want, "
+"you can contribute yourself by adding the missing information, because this "
+"site is <strong>open source</strong>!"
+msgstr ""
+"Tại đây bạn có thể tải xuống chúng, cài đặt chúng, cập nhật chúng (thật "
+"đấy), tìm hiểu thêm thông tin về nguồn và các nhà phát triển của chúng... và "
+"nếu bạn muốn, bạn có thể tự mình đóng góp bằng cách bổ sung những thông tin "
+"còn thiếu, bởi vì đây là một trang <strong>mã nguồn mở</strong>!"
+
+#: index.in:246
+msgid ""
+"From the aforementioned defects I understood what a catalog of portable "
+"applications should NOT do to be reliable."
+msgstr ""
+"Từ những khiếm khuyết đã nêu, tôi hiểu được một danh mục các ứng dụng di "
+"động KHÔNG nên làm gì để đảm bảo độ tin cậy."
+
+#: index.in:245
+msgid "Furthermore, <strong>none of them track updates consistently</strong>."
+msgstr ""
+"Hơn nữa, <strong>không ai trong số họ theo dõi các bản cập nhật một cách "
+"nhất quán</strong>."
+
+#: wiki.in:8 wiki.in:11 wiki.in:19
+msgid ""
+"Guides, tutorials, external links, and related projects for Portable Linux "
+"Apps and the AM package manager."
+msgstr ""
+"Các hướng dẫn, bài thực hành, liên kết ngoài và dự án liên quan dành cho "
+"Portable Linux Apps và trình quản lý gói AM."
+
+#: cat_page.in:31 cat_page.in:106 app_page.in:33 app_page.in:60
+#: metapkg_page.in:33 metapkg_page.in:61 index.in:31 index.in:328 wiki.in:29
+#: wiki.in:140
+msgid "Home"
+msgstr "Trang chủ"
+
+#: wiki.in:86
+msgid "How an installation script works"
+msgstr "Cách một kịch bản cài đặt hoạt động"
+
+#: index.in:260
+msgid "How can I add or improve info about an app on this site?"
+msgstr ""
+"Làm thế nào để tôi thêm hoặc cải thiện thông tin về một ứng dụng trên trang "
+"này?"
+
+#: index.in:250
+msgid "How can I improve the pages on this site?"
+msgstr "Làm thế nào để tôi cải thiện các trang trên trang này?"
+
+#: index.in:219
+msgid "How do I make the install button work?"
+msgstr "Làm sao để khiến nút cài đặt hoạt động?"
+
+#: index.in:234
+msgid ""
+"How is this site different from other sites that list AppImage packages?"
+msgstr "Trang này khác thế nào so với các trang khác liệt kê các gói AppImage?"
+
+#: wiki.in:64
+msgid "How to create a launcher for a local AppImage"
+msgstr "Cách tạo một trình khởi chạy cho một bó AppImage cục bộ"
+
+#: wiki.in:73
+msgid "How to disable a sandbox"
+msgstr "Cách tắt một môi trường cách ly"
+
+#: wiki.in:72
+msgid "How to enable a sandbox"
+msgstr "Cách bật một môi trường cách ly"
+
+#: wiki.in:65
+msgid "How to remove the orphan launchers"
+msgstr "Cách gỡ bỏ các trình khởi chạy mồ côi"
+
+#: wiki.in:88
+msgid "How to submit a Pull Request"
+msgstr "Cách nộp một Yêu cầu gộp"
+
+#: wiki.in:87
+msgid "How to test an installation script"
+msgstr "Cách kiểm thử một kịch bản cài đặt"
+
+#: wiki.in:78
+msgid "How to update or remove apps manually"
+msgstr "Cách cập nhật hoặc gỡ bỏ ứng dụng thủ công"
+
+#: wiki.in:80
+msgid "How to use multiple versions of the same application"
+msgstr "Cách dùng nhiều phiên bản của cùng một ứng dụng"
+
+#: index.in:301
+msgid "I need help with something"
+msgstr "Tôi cần trợ giúp về một vấn đề"
+
+#: cat_page.in:116 app_page.in:70 metapkg_page.in:71 index.in:338 wiki.in:150
+msgid "I'm here just for fun!"
+msgstr "Tôi ở đây chỉ để cho vui thôi!"
+
+#: index.in:317
+msgid ""
+"If you are here just to download apps manually, click on the program name "
+"and check the URL(s) on the application page. This site does not\n"
+"    provide direct links, for security reasons, but it does provide the "
+"exact sources and references where you can find them!"
+msgstr ""
+"Nếu bạn ở đây chỉ để tải xuống các ứng dụng thủ công, nhấp vào tên chương "
+"trình và kiểm tra (các) URL trên trang ứng dụng. Trang này không\n"
+"    cung cấp liên kết trực tiếp, vì lí do bảo mật, nhưng lại cung cấp chính "
+"xác nguồn và thông tin tham khảo để bạn có thể tìm thấy chúng!"
+
+#: index.in:303
+msgid ""
+"If you still need help, open an <a href=\"https://github.com/ivan-hc/AM/"
+"issues\">issue</a> on GitHub."
+msgstr ""
+"Nếu bạn vẫn cần trợ giúp, mở một <a href=\"https://github.com/ivan-hc/AM/"
+"issues\">báo cáo lỗi</a> trên GitHub."
+
+#: index.in:261
+msgid ""
+"If you want to improve an app's page in this catalogue (i.e. add more "
+"detailed description, screenshots, sites, etc.), read on."
+msgstr ""
+"Nếu bạn muốn cải thiện thông tin một trang ứng dụng trong danh mục này (v.d. "
+"bổ sung mô tả chi tiết, ảnh chụp màn hình, các trang, v.v.), hãy đọc tiếp."
+
+#: app_page.in:43 metapkg_page.in:43
+msgid "Improve this page"
+msgstr "Cải thiện trang này"
+
+#: wiki.in:53
+msgid ""
+"Install AppImages not listed in this database but available in other github "
+"repos"
+msgstr ""
+"Cài đặt các bó AppImage không được liệt kê trong cơ sở dữ liệu này nhưng khả "
+"dụng trong các kho github khác"
+
+#: wiki.in:50
+msgid "Install and sandbox AppImages in one go"
+msgstr "Cài đặt và cách ly các bó AppImage chỉ với một thao tác"
+
+#: wiki.in:47
+msgid "Install applications"
+msgstr "Cài đặt ứng dụng"
+
+#: wiki.in:48
+msgid "Install only AppImages"
+msgstr "Chỉ cài đặt các bó AppImage"
+
+#: index.in:120
+msgid "Installing apps listed on this site"
+msgstr "Cài đặt các ứng dụng được liệt kê trên trang này"
+
+#: wiki.in:95
+msgid "Instructions for Linux Distro Maintainers"
+msgstr "Hướng dẫn cho những người duy trì Bản phân phối Linux"
+
+#: wiki.in:62
+msgid "Integrate local AppImages into the menu by dragging and dropping them"
+msgstr "Tích hợp các bó AppImage vào trong menu bằng cách kéo và thả chúng"
+
+#: index.in:293
+msgid "Is there a centralized repository for AppImage packages?"
+msgstr "Liệu đây có phải là một kho phần mềm tập trung cho các gói AppImage?"
+
+#: wiki.in:55
+msgid "List and query all the applications available on the database"
+msgstr "Liệt kê và truy vấn tất cả các ứng dụng khả dụng trên cơ sở dữ liệu"
+
+#: wiki.in:54
+msgid "List the installed applications"
+msgstr "Liệt kê các ứng dụng đã cài"
+
+#: wiki.in:128
+msgid "My AppImage packages"
+msgstr "Các gói AppImage của tôi"
+
+#: wiki.in:123
+msgid "My other projects"
+msgstr "Các dự án khác của tôi"
+
+#: cat_page.in:95
+msgid ""
+"NOTE, Installer scripts (blob/raw) are provided for reading only: do not run "
+"them manually! Use \"<a href=\"https://github.com/ivan-hc/AM\">AM</a>\" or "
+"\"<a href=\"https://github.com/ivan-hc/AppMan\">AppMan</a>\" or any <a "
+"href=\"/$LANG/index.html#install\">other tool</a> listed on home page "
+"instead."
+msgstr ""
+"LƯU Ý, Các kịch bản cài đặt (dạng blob/raw) chỉ được cung cấp để đọc: không "
+"chạy chúng thủ công! Thay vào đó, hãy dùng \"<a href=\"https://github.com/"
+"ivan-hc/AM\">AM</a>\" hoặc \"<a href=\"https://github.com/ivan-hc/"
+"AppMan\">AppMan</a>\" hoặc bất kì <a href=\"/$LANG/index.html#install\">công "
+"cụ nào khác</a> được liệt kê trên trang chủ."
+
+#: index.in:309
+msgid ""
+"NOTE, the installer scripts in the &quot;INSTALLER&quot; column are intended "
+"for use via &quot;AM&quot;, and are therefore dedicated to a system-wide\n"
+"    installation of applications (in /opt), and all that &quot;AppMan&quot; "
+"does is convert those scripts for local installation, changing the paths.\n"
+"    <strong>They are listed here for reading purposes only</strong>!"
+msgstr ""
+"LƯU Ý, các kịch bản cài đặt trong cột &quot;INSTALLER&quot; được thiết kế để "
+"sử dụng qua &quot;AM&quot;, và do đó chúng dành riêng cho việc cài đặt ứng "
+"dụng\n"
+"    trên toàn hệ thống (trong /opt), và tất cả những gì &quot;AppMan&quot; "
+"làm là chuyển đổi các kịch bản đó để cài đặt cục bộ, bằng cách thay đổi các "
+"đường dẫn.\n"
+"    <strong>Chúng được liệt kê ở đây chỉ nhằm mục đích đọc</strong>!"
+
+#: wiki.in:84
+msgid "Option One: \"build AppImages on-the-fly\""
+msgstr "Tuỳ chọn Một: \"đóng gói AppImage tức thời\""
+
+#: wiki.in:85
+msgid "Option Two: \"Archives and other programs\""
+msgstr "Tuỳ chọn Hai: \"Kho lưu trữ và các chương trình khác\""
+
+#: wiki.in:83
+msgid "Option Zero: \"AppImages\""
+msgstr "Tuỳ chọn Không: \"Bó AppImage\""
+
+#: cat_page.in:7 cat_page.in:10 cat_page.in:17 app_page.in:7 app_page.in:10
+#: app_page.in:17 metapkg_page.in:7 metapkg_page.in:10 metapkg_page.in:17
+msgid "PORTABLE LINUX APPS"
+msgstr "PORTABLE LINUX APPS"
+
+#: index.in:230
+msgid ""
+"Portable Linux Apps are standalone applications for GNU/Linux that can "
+"(theoretically) run everywhere, also on a USB stick. These applications can "
+"be AppImage packages (see <a href=\"https://appimage.org/\">appimage.org</"
+"a>) or standalone archives (for example Firefox, Thunderbird...)."
+msgstr ""
+"Portable Linux Apps là các ứng dụng độc lập cho GNU/Linux có thể (về mặt lý "
+"thuyết) chạy ở bất kỳ đâu, kể cả trên ổ đĩa USB. Các ứng dụng này có thể là "
+"các gói AppImage (xem <a href=\"https://appimage.org/\">appimage.org</a>) "
+"hoặc các kho lưu trữ độc lập (ví dụ Firefox, Thunderbird...)."
+
+#: index.in:113
+msgid ""
+"Portable Linux Apps are standalone applications for GNU/Linux that can run "
+"everywhere, also on a USB stick. These can be AppImage packages or "
+"standalone archives. Each app has its own installation script, PKGBUILD "
+"style, managed by the <a href=\"https://github.com/ivan-hc/AM\">AM package "
+"manager</a>."
+msgstr ""
+"Portable Linux Apps là các ứng dụng độc lập cho GNU/Linux có thể chạy ở bất "
+"kỳ đâu, kể cả trên ổ đĩa USB. Các ứng dụng này có thể là các gói AppImage "
+"hoặc các kho lưu trữ độc lập. Mỗi ứng dụng đều có kịch bản cài đặt riêng, "
+"theo phong cách PKGBUILD, được quản lí bởi <a href=\"https://github.com/ivan-"
+"hc/AM\">trình quản lí gói AM</a>."
+
+#: cat_page.in:8 cat_page.in:19
+msgid "Portable Linux Apps category page."
+msgstr "Trang thể loại của Portable Linux Apps."
+
+#: wiki.in:113
+msgid "Related projects"
+msgstr "Các dự án liên quan"
+
+#: wiki.in:58
+msgid "Remove one or more applications"
+msgstr "Gỡ bỏ một hoặc nhiều ứng dụng"
+
+#: wiki.in:70
+msgid "Sandbox an AppImage"
+msgstr "Cách ly một bó AppImage"
+
+#: wiki.in:74
+msgid "Sandboxing example"
+msgstr "Ví dụ về cách ly"
+
+#: cat_page.in:43 index.in:52
+msgid "Search apps"
+msgstr "Tìm kiếm ứng dụng"
+
+#: index.in:53
+msgid "Search apps..."
+msgstr "Tìm kiếm ứng dụng..."
+
+#: cat_page.in:95
+msgid "See <a href=\"/$LANG/index.html#faq-7\">FAQ</a> for details"
+msgstr ""
+"Xem <a href=\"/$LANG/index.html#faq-7\">câu hỏi thường gặp</a> để biết thêm "
+"chi tiết"
+
+#: index.in:312
+msgid ""
+"Should you decide to run them manually, the only way to remove the "
+"application is to run the\n"
+"    command <code>sudo /opt/appname/remove</code>, where &quot;appname&quot; "
+"is the name of the application directory containing the &quot;remove&quot; "
+"script.\n"
+"    Likewise, you can also update applications by running the &quot;AM-"
+"updater&quot; script in the same directory."
+msgstr ""
+"Nếu bạn quyết định chạy chúng thủ công, cách duy nhất để gỡ bỏ ứng dụng là "
+"chạy\n"
+"    lệnh <code>sudo /opt/tên_ứng_dụng/remove</code>, trong đó &quot;"
+"tên_ứng_dụng&quot; là tên của thư mục ứng dụng chứa kịch bản &quot;"
+"remove&quot;.\n"
+"    Tương tự, bạn cũng có thể cập nhật các ứng dụng bằng cách chạy kịch bản "
+"&quot;AM-updater&quot; trong cùng thư mục đó."
+
+#: wiki.in:115
+msgid "Side Projects"
+msgstr "Các dự án phụ"
+
+#: cat_page.in:28 app_page.in:30 metapkg_page.in:30 index.in:28
+msgid "Skip to main content"
+msgstr "Bỏ qua đến nội dung chính"
+
+#: wiki.in:104
+msgid "Spyware, malware and dangerous software"
+msgstr "Phần mềm gián điệp, mã độc và các phần mềm nguy hiểm"
+
+#: wiki.in:105
+msgid ""
+"Stop AppImage prompt to create its own launcher, desktop integration and "
+"doubled launchers"
+msgstr ""
+"Chặn AppImage yêu cầu tạo trình khởi chạy riêng, tích hợp lối tắt và lặp "
+"trình khởi chạy"
+
+#: index.in:220
+msgid ""
+"The \"Install\" button on each app page uses the <code>pla-install://</code> "
+"protocol. You need a helper application to handle it. Currently, you have "
+"the following options:"
+msgstr ""
+"Nút \"Cài đặt\" trên mỗi trang ứng dụng sử dụng giao thức <code>pla-"
+"install://</code>. Bạn cần một ứng dụng hỗ trợ để xử lí nó. Hiện tại, bạn có "
+"các lựa chọn sau:"
+
+#: index.in:315
+msgid ""
+"The &quot;AM&quot; project allow the autonomy of installed apps, regardless "
+"of the presence of &quot;AM&quot; itself in the system. However, it is "
+"strongly\n"
+"    recommended to use &quot;AM&quot; and &quot;AppMan&quot; to take full "
+"advantage of all the benefits you could get from an application installed in "
+"this way."
+msgstr ""
+"Dự án &quot;AM&quot; cho phép ứng dụng đã cài hoạt động độc lập, bất kể hệ "
+"thống có sự hiện diện của bản thân &quot;AM&quot; hay không. Tuy nhiên, bạn "
+"rất nên\n"
+"    sử dụng &quot;AM&quot; và &quot;AppMan&quot; để tận dụng tối đa mọi lợi "
+"ích thu được từ một ứng dụng được cài đặt theo cách này."
+
+#: index.in:262
+msgid ""
+"The app files in <code>apps</code> folder are in a simple markdown-ish "
+"format, the description must be wrapped between the <code>===</code> lines."
+msgstr ""
+"Các tập tin ứng dụng trong thư mục <code>apps</code> sử dụng định dạng đơn "
+"giản kiểu markdown, phần mô tả phải được đặt giữa các dòng <code>===</code>."
+
+#: index.in:130
+msgid ""
+"The first AUR-inspired, feature-rich AppImage and portable apps manager. "
+"Install, update, remove and integrate all your apps from the command line "
+"&mdash; system-wide with AM, or fully portable with AppMan."
+msgstr ""
+"Trình quản lí AppImage và ứng dụng di động giàu tính năng, lấy cảm hứng từ "
+"AUR đầu tiên. Cài đặt, cập nhật, gỡ bỏ và tích hợp tất cả các ứng dụng của "
+"bạn từ dòng lệnh &mdash; trên toàn hệ thống với AM, hoặc di động hoàn toàn "
+"với AppMan."
+
+#: wiki.in:106
+msgid ""
+"The script points to \"releases\" instead of downloading the latest stable"
+msgstr "Kịch bản trỏ đến \"releases\" thay vì tải xuống bản ổn định mới nhất"
+
+#: wiki.in:91
+msgid "Third-party databases for applications (NeoDB)"
+msgstr "Cơ sở dữ liệu bên thứ ba cho ứng dụng (NeoDB)"
+
+#: index.in:235
+msgid ""
+"This catalog aims to survey and list all the AppImages and autonomous "
+"programs, and aims to provide a centralized point where you can document "
+"yourself on individual apps and where you can easily reach the URLs to the "
+"sources, both through the pages dedicated to each app and by reading the "
+"\"installation scripts\"."
+msgstr ""
+"Danh mục này nhằm khảo sát và liệt kê tất cả các bó AppImage cùng các chương "
+"trình hoạt động độc lập, đồng thời hướng tới việc cung cấp một điểm tập "
+"trung nơi bạn có thể tự tìm hiểu về từng ứng dụng riêng lẻ và dễ dàng tiếp "
+"cận các URL dẫn đến nguồn, thông qua cả các trang dành riêng cho mỗi ứng "
+"dụng lẫn việc đọc các \"kịch bản cài đặt\"."
+
+#: index.in:296
+msgid ""
+"This catalog and its CLI, \"<a href=\"https://github.com/ivan-hc/AM\">AM</"
+"a>\", make it easy for you to find, install, integrate and update all "
+"AppImage packages!"
+msgstr ""
+"Danh mục này cùng công cụ dòng lệnh của nó, \"<a href=\"https://github.com/"
+"ivan-hc/AM\">AM</a>\", giúp bạn dễ dàng tìm kiếm, cài đặt, tích hợp và cập "
+"nhật tất cả các gói AppImage!"
+
+#: index.in:297
+msgid ""
+"This catalog is just the frontend for an ever growing database that aims to "
+"extend not only to x86_64 architecture apps listed here, but also to all "
+"others, from the modern ARM64/aarch64 to oldest i686, as an universal "
+"solution for all AppImages and portable programs for GNU/Linux!"
+msgstr ""
+"Danh mục này chỉ là giao diện cho một cơ sở dữ liệu không ngừng mở rộng, "
+"nhằm mục tiêu không chỉ mở rộng cho các ứng dụng kiến trúc x86_64 được liệt "
+"kê tại đây, mà còn cho tất cả các kiến trúc khác, từ ARM64/aarch64 hiện đại "
+"đến i686 cũ nhất, như một giải pháp toàn năng cho mọi AppImage và chương "
+"trình di động trên GNU/Linux!"
+
+#: index.in:114
+msgid ""
+"This catalog is open source. You can contribute by editing the pages, adding "
+"missing information, or improving the database."
+msgstr ""
+"Danh mục này là mã nguồn mở. Bạn có thể đóng góp bằng cách chỉnh sửa các "
+"trang, thêm các thông tin bị thiếu, hoặc cải thiện cơ sở dữ liệu."
+
+#: index.in:237
+msgid ""
+"This catalog is open source. You can edit its pages, update them and see the "
+"sources clearly, as a \"wiki\"."
+msgstr ""
+"Danh mục này là mã nguồn mở. Bạn có thể chỉnh sửa các trang của nó, cập nhật "
+"chúng và xem rõ nguồn, như một \"wiki\"."
+
+#: index.in:319
+msgid ""
+"Transparency and credibility are the focus of this catalog. Happy exploring!"
+msgstr ""
+"Sự minh bạch và độ tin cậy là trọng tâm của danh mục này. Chúc bạn khám phá "
+"vui vẻ!"
+
+#: wiki.in:97
+msgid "Troubleshooting"
+msgstr "Khắc phục sự cố"
+
+#: wiki.in:107
+msgid "Ubuntu mess"
+msgstr "Đống rắc rối Ubuntu"
+
+#: wiki.in:56
+msgid "Update all"
+msgstr "Cập nhật tất cả"
+
+#: wiki.in:67
+msgid "Update scattered AppImages"
+msgstr "Cập nhật các bó AppImage nằm rải rác"
+
+#: index.in:135 index.in:139 index.in:143 index.in:147 index.in:151
+#: index.in:155 index.in:159 index.in:163 index.in:167
+msgid "Watch AM demo"
+msgstr "Xem bản demo của AM"
+
+#: index.in:40
+msgid ""
+"Welcome to the most complete database of all AppImage packages and portable "
+"applications for GNU/Linux."
+msgstr ""
+"Chào mừng đến với cơ sở dữ liệu hoàn thiện nhất về tất cả các gói AppImage "
+"và ứng dụng di động dành cho GNU/Linux."
+
+#: index.in:229
+msgid "What are the portable linux apps?"
+msgstr "Portable linux apps là gì?"
+
+#: index.in:240
+msgid ""
+"While I recognize the role they have had so far in supporting the diffusion "
+"of AppImage as a packaging format, through the years, as a former user, I "
+"would like to underline what led me to open an alternative catalogue:"
+msgstr ""
+"Dù ghi nhận vai trò của họ cho đến nay trong việc thúc đẩy sự phổ biến của "
+"định dạng đóng gói AppImage, nhưng qua nhiều năm sử dụng, với tư cách là một "
+"cựu người dùng, tôi muốn nhấn mạnh những lý do đã khiến tôi mở ra một danh "
+"mục thay thế:"
+
+#: index.in:308
+msgid "Why can't I run the install scripts standalone?"
+msgstr "Vì sao tôi không được chạy các kịch bản cài đặt độc lập?"
+
+#: cat_page.in:34 cat_page.in:109 app_page.in:36 app_page.in:63
+#: metapkg_page.in:36 metapkg_page.in:64 index.in:34 index.in:331 wiki.in:32
+#: wiki.in:38 wiki.in:143
+msgid "Wiki"
+msgstr "Wiki"
+
+#: wiki.in:7 wiki.in:10 wiki.in:17
+msgid "Wiki - PORTABLE LINUX APPS"
+msgstr "Wiki - PORTABLE LINUX APPS"
+
+#: wiki.in:108
+msgid "Wrong download link"
+msgstr "Sai liên kết tải xuống"
+
+#: index.in:236
+msgid ""
+"Yeah, each app has its own installation script, PKGBUILD style, but with an "
+"alternative package manager named \"<a href=\"https://github.com/ivan-hc/"
+"AM\">AM</a>\", which works like the more classic APT, PacMan/YAY, DNF... and "
+"which can therefore place them in specific paths of the filesystem , like "
+"any program, and allows updates via a system of scripts called \"AM-"
+"updater\". If an app can't update itself, the dedicated \"AM-updater\" "
+"script will use an application-specific method to always update your "
+"favorite apps to the latest version. FOR REAL!"
+msgstr ""
+"Đúng vậy, mỗi ứng dụng đều có kịch bản cài đặt riêng, theo phong cách "
+"PKGBUILD, nhưng dùng một trình quản lý gói thay thế tên là \"<a "
+"href=\"https://github.com/ivan-hc/AM\">AM</a>\", hoạt động tương tự các công "
+"cụ truyền thống như APT, PacMan/YAY, DNF... và nhờ đó có thể đặt chúng vào "
+"đường dẫn cụ thể trong hệ thống tập tin, như bất kì chương trình nào, đồng "
+"thời cho phép cập nhật qua hệ thống kịch bản có tên \"AM-updater\". Nếu ứng "
+"dụng không thể tự cập nhật, kịch bản chuyên dụng \"AM-updater\" sẽ sử dụng "
+"phương thức riêng của ứng dụng đó để luôn cập nhật các ứng dụng yêu thích "
+"của bạn lên phiên bản mới nhất. THẬT ĐẤY!"
+
+#: index.in:304
+msgid ""
+"You can also join the <a href=\"https://discord.gg/uxvPepQUkY\">pkgforge "
+"Discord</a> to ask the community directly."
+msgstr ""
+"Bạn cũng có thể tham gia <a href=\"https://discord.gg/uxvPepQUkY\">Discord "
+"của pkgforge</a> để hỏi trực tiếp cộng đồng."
+
+#: index.in:176
+msgid ""
+"[Under development] A graphical interface for the AM package manager. "
+"Browse, install and update apps with a few clicks, no terminal required."
+msgstr ""
+"[Đang phát triển] Một giao diện đồ hoạ cho trình quản lí gói AM. Duyệt, cài "
+"đặt và cập nhật ứng dụng chỉ với vài cú nhấp chuột, không cần dùng đến cửa "
+"sổ dòng lệnh."
+
+#: index.in:190
+msgid "[Under development] GTK frontend for AM"
+msgstr "[Đang phát triển] Giao diện GTK cho AM"
+
+#: wiki.in:119
+msgid "a graphical Front for AM, by @Shikakiben"
+msgstr "một giao diện đồ hoạ cho AM, bởi @Shikakiben"
+
+#: index.in:282
+msgid "a space separated list of image URLs"
+msgstr "một danh sách các URL hình ảnh phân tách bằng dấu cách"
+
+#: wiki.in:120
+msgid "a visual (curses) TUI interface to AppMan, by @joedefen"
+msgstr "một giao diện TUI trực quan (dùng curses) cho AppMan, bởi @joedefen"
+
+#: index.in:253
+msgid ""
+"app icons must be 128x128 PNG files placed in the <code>icons/</code> "
+"folder, named after the app;"
+msgstr ""
+"biểu tượng ứng dụng phải là tập tin PNG 128x128 đặt trong thư mục "
+"<code>icons/</code> và đặt tên theo tên ứng dụng;"
+
+#: wiki.in:117
+msgid ""
+"checks the validity of scripts in this database and monitors the "
+"availability of AppImages"
+msgstr ""
+"kiểm tra tính hợp lệ của các kịch bản trong cơ sở dữ liệu này và giám sát "
+"tính khả dụng của các bó AppImage"
+
+#: wiki.in:129
+msgid "convert standalone, self-contained portable apps into AppImage packages"
+msgstr ""
+"chuyển đổi các ứng dụng di động độc lập, tự chứa thành các gói AppImage"
+
+#: wiki.in:126
+msgid ""
+"create AppImages for all distributions using Arch Linux packages. Powered by "
+"JuNest"
+msgstr ""
+"tạo các bó AppImage cho tất cả các bản phân phối bằng cách dùng các gói Arch "
+"Linux. Hỗ trợ bởi JuNest"
+
+#: index.in:159 index.in:160
+msgid "create and restore snapshots"
+msgstr "tạo và khôi phục ảnh chụp nhanh"
+
+#: wiki.in:125
+msgid ""
+"easily create AppImages from Ubuntu PPAs or Debian using pkg2appimage and "
+"appimagetool"
+msgstr ""
+"dễ dàng tạo các bó AppImage từ PPA của Ubuntu hoặc Debian bằng pkg2appimage "
+"và appimagetool"
+
+#: wiki.in:127
+msgid "easily install the official releases of Firefox for Linux"
+msgstr "dễ dàng cài đặt các bản phát hành chính thức của Firefox cho Linux"
+
+#: index.in:167 index.in:168
+msgid "get rid of libfuse2"
+msgstr "loại bỏ libfuse2"
+
+#: index.in:243
+msgid ""
+"hosts applications not always provided by the original developer, just check "
+"the profile of whoever uploaded the application and how many \"products\" "
+"they uploaded. Some admit that they are not the developers, despite having a "
+"donation button available, effectively <strong>leading them to earning on "
+"work of others</strong>, and are often greedy enough to not include the real "
+"source! These profiles use random hosting services for these applications, "
+"and Pling's APIs does not allow you to clearly verify the origin of any "
+"package that is downloaded. There is no control over this, and the only "
+"validity check of a \"product\" is the feedback of the users who use it, and "
+"which in any case is <strong>not sufficient either to guarantee the safety "
+"of an app, nor to do justice to the real owner of that package, who was in "
+"fact \"robbed\" of its work</strong>."
+msgstr ""
+"lưu trữ các ứng dụng không phải lúc nào cũng do nhà phát triển gốc cung cấp, "
+"chỉ cần kiểm tra hồ sơ của bất kỳ ai đã tải ứng dụng lên và xem họ đã tải "
+"lên bao nhiêu \"sản phẩm\". Một số người thừa nhận rằng họ không phải là nhà "
+"phát triển, dù vẫn để sẵn nút quyên góp, thực chất là <strong>giúp họ thu "
+"lợi trên công sức của người khác</strong>, và thường tham lam đến mức không "
+"thèm đính kèm nguồn thực sự! Các hồ sơ này sử dụng các dịch vụ lưu trữ ngẫu "
+"nhiên cho các ứng dụng đó, và các API của Pling không cho phép bạn xác minh "
+"rõ ràng nguồn gốc của bất kỳ gói nào được tải xuống. Không hề có sự kiểm "
+"soát nào đối với việc này, và cách duy nhất để kiểm tra tính hợp lệ của một "
+"\"sản phẩm\" là phản hồi từ những người dùng sử dụng nó, điều mà trong mọi "
+"trường hợp đều <strong>không đủ để đảm bảo an toàn cho một ứng dụng, cũng "
+"như không thể đòi lại công bằng cho chủ sở hữu thực sự của gói đó, người "
+"thực chất đã bị \"đánh cắp\" công sức</strong>."
+
+#: index.in:284
+msgid "if you are packaging someone's else's app, link the git repo(s) here"
+msgstr ""
+"nếu bạn đang đóng gói ứng dụng của người khác, hãy gắn liên kết (các) kho "
+"git tại đây"
+
+#: index.in:143 index.in:144
+msgid "info about the apps"
+msgstr "thông tin về các ứng dụng"
+
+#: index.in:147 index.in:148
+msgid "install applications"
+msgstr "cài đặt ứng dụng"
+
+#: index.in:139 index.in:140
+msgid "list available apps"
+msgstr "liệt kê ứng dụng khả dụng"
+
+#: wiki.in:118
+msgid "lists applications from third-party databases"
+msgstr "liệt kê ứng dụng từ các cơ sở dữ liệu bên thứ ba"
+
+#: index.in:151 index.in:152
+msgid "query lists using keywords"
+msgstr "truy vấn danh sách bằng từ khoá"
+
+#: index.in:135 index.in:136
+msgid "sandbox AppImages"
+msgstr "cách ly các bó AppImage"
+
+#: index.in:242
+msgid ""
+"serves more than anything else to catalog the AppImages based on validation "
+"processes based on Github Actions (i.e. that the package is compatible with "
+"old versions of Ubuntu LTS). From the developer's point of view it's fine, "
+"but <strong>from the point of view of the user who searches for AppImage "
+"packages without going into the depths of the internet, it's totally "
+"useless</strong>. As a catalog it is limited to showing only that an app "
+"exists or has existed in the past, without worrying about <strong>obsolete "
+"packages that no longer exist, but still listed only \"to make up the "
+"numbers\"</strong>. Many pages have no buttons to the sources and all pages "
+"have no additional information on individual apps, <strong>each page is "
+"simply a copy/paste message</strong> that says that the app \"is available "
+"as an AppImage which means one app = one file...\" etcetera etcetera."
+msgstr ""
+"phục vụ nhiều hơn bất kỳ mục đích nào khác là lập danh mục các bó AppImage "
+"dựa trên các quy trình xác thực bằng Github Actions (v.d. gói đó tương thích "
+"với các phiên bản Ubuntu LTS cũ). Từ góc độ của nhà phát triển thì điều đó "
+"ổn, nhưng <strong>từ góc độ của người dùng tìm kiếm các gói AppImage mà "
+"không muốn đi sâu vào các góc ngách của internet, nó hoàn toàn vô dụng</"
+"strong>. Với tư cách là một danh mục, nó bị hạn chế ở việc hiển thị một ứng "
+"dụng hiện đang tồn tại hoặc từng tồn tại trong quá khứ, mà không bận tâm đến "
+"<strong>các gói đã lỗi thời không còn tồn tại, nhưng vẫn được liệt kê chỉ "
+"\"để làm đẹp con số\"</strong>. Nhiều trang không có nút dẫn đến nguồn và "
+"tất cả các trang đều không có thông tin bổ sung về từng ứng dụng riêng lẻ, "
+"<strong>mỗi trang chỉ đơn giản là một thông điệp sao chép/dán</strong> nói "
+"rằng ứng dụng \"khả dụng dưới dạng một bó AppImage có nghĩa là một ứng dụng "
+"= một tập tin...\" vân vân và vân vân."
+
+#: index.in:155 index.in:156
+msgid "show the installed apps"
+msgstr "hiện các ứng dụng đã cài"
+
+#: index.in:285
+msgid ""
+"space separated button definitions in the form of  <code>Button_Title::URL</"
+"code>"
+msgstr ""
+"các định nghĩa nút phân tách bằng dấu cách theo dạng  <code>Tên_Nút::URL</"
+"code>"
+
+#: index.in:283
+msgid "space separated site URLs that provide the AppImage"
+msgstr "URL trang phân tách bằng dấu cách cung cấp bó AppImage"
+
+#: index.in:254
+msgid ""
+"the application lists are automatically generated by <a href=\"https://"
+"gitlab.com/kazam0180/pla-site-tool\">this script</a>. Any changes to the "
+"lists and descriptions must be made to <a href=\"https://github.com/ivan-hc/"
+"AM/blob/main/programs/x86_64-apps\">this file</a>, which is the general list "
+"of apps managed by \"AM\"/\"AppMan\";"
+msgstr ""
+"các danh sách ứng dụng được tự động tạo bởi <a href=\"https://gitlab.com/"
+"kazam0180/pla-site-tool\">kịch bản này</a>. Mọi thay đổi đối với các danh "
+"sách và mô tả phải thực hiện qua <a href=\"https://github.com/ivan-hc/AM/"
+"blob/main/programs/x86_64-apps\">tập tin này</a>, danh sách chung của các "
+"ứng dụng được quản lí bởi \"AM\"/\"AppMan\";"
+
+#: wiki.in:128
+msgid ""
+"the complete list of packages managed by me and available in this database"
+msgstr ""
+"danh sách đầy đủ các gói được quản lí bởi tôi và khả dụng trong cơ sở dữ "
+"liệu này"
+
+#: index.in:42
+msgid "the first AUR-inspired AppImage Software Center!"
+msgstr "trung tâm phần mềm AppImage đầu tiên lấy cảm hứng từ AUR!"
+
+#: wiki.in:130
+msgid "try to convert Snap packages to AppImages"
+msgstr "thử chuyển đổi các gói Snap sang AppImage"
+
+#: index.in:163 index.in:164
+msgid "update everything"
+msgstr "cập nhật mọi thứ"
+
+#: pla-site.toml:[cat_comments.default]
+msgctxt "default_with_items"
+msgid ""
+"Here are listed $COUNT programs (including $ITEM_COUNT metapackage items) "
+"for this category"
+msgstr ""
+"Dưới đây là danh sách $COUNT chương trình (bao gồm $ITEM_COUNT mục gói tổng "
+"hợp) cho thể loại này"
+
+#: pla-site.toml:[cat_comments.default]
+msgctxt "default_no_items"
+msgid "Here are listed $COUNT programs for this category"
+msgstr "Dưới đây là danh sách $COUNT chương trình cho thể loại này"
+
+#: pla-site.toml:[cat_comments.portable]
+msgctxt "portable"
+msgid ""
+"Here are listed $COUNT command line utilities: static and dynamic ELF "
+"binaries, or simple scripts"
+msgstr ""
+"Dưới đây là danh sách $COUNT tiện ích dòng lệnh: nhị phân ELF tĩnh và động, "
+"hoặc các kịch bản đơn giản"
+
+#: pla-site.toml:[cat_comments.portable-desktop]
+msgctxt "portable-desktop"
+msgid ""
+"Here are listed $COUNT desktop applications NOT in AppImage format. "
+"Launchers and icons are downloaded separately during the installation "
+"process (through <a href=\"https://github.com/ivan-hc/AM\">AM</a> and <a "
+"href=\"https://github.com/ivan-hc/AppMan\">AppMan</a>). Most of them already "
+"have all the necessary requirements to be easily exported into AppImage "
+"packages... or they are waiting to be moved to another category (see <a "
+"href=\"appimage-on-the-fly.html\">AppImages on-the-fly</a>)"
+msgstr ""
+"Dưới đây là danh sách $COUNT ứng dụng máy tính KHÔNG ở định dạng AppImage. "
+"Trình khởi chạy và biểu tượng được tải xuống riêng trong quá trình cài đặt "
+"(qua <a href=\"https://github.com/ivan-hc/AM\">AM</a> và <a href=\"https://"
+"github.com/ivan-hc/AppMan\">AppMan</a>). Hầu hết chúng đã có đủ các điều "
+"kiện cần thiết để dễ dàng xuất thành gói AppImage... hoặc đang chờ để chuyển "
+"sang thể loại khác (xem <a href=\"appimage-on-the-fly.html\">bó AppImage tạo "
+"tức thời</a>)"
+
+#: pla-site.toml:[cat_comments.am-utils]
+msgctxt "am-utils"
+msgid ""
+"Here are listed $COUNT static binaries built for <a href=\"https://github."
+"com/ivan-hc/AM\">AM</a> and <a href=\"https://github.com/ivan-hc/"
+"AppMan\">AppMan</a> which can be used as a fallback in case the system does "
+"not have them"
+msgstr ""
+"Dưới đây là danh sách $COUNT nhị phân tĩnh được biên dịch cho <a "
+"href=\"https://github.com/ivan-hc/AM\">AM</a> và <a href=\"https://github."
+"com/ivan-hc/AppMan\">AppMan</a>, có thể dùng làm phương án dự phòng trong "
+"trường hợp hệ thống chưa có sẵn"
+
+#: pla-site.toml:[cat_comments.appimages]
+msgctxt "appimages"
+msgid ""
+"Here are listed the $COUNT unique Appimages managed by <a href=\"https://"
+"github.com/ivan-hc/AM\">AM</a> and <a href=\"https://github.com/ivan-hc/"
+"AppMan\">AppMan</a>"
+msgstr ""
+"Dưới đây là danh sách $COUNT bó AppImage riêng biệt được quản lí bởi <a "
+"href=\"https://github.com/ivan-hc/AM\">AM</a> và <a href=\"https://github."
+"com/ivan-hc/AppMan\">AppMan</a>"
+
+#: pla-site.toml:[cat_comments.metapackages]
+msgctxt "metapackages"
+msgid ""
+"Here are listed $SUITE_COUNT \"metapackages\" (along with their $ITEM_COUNT "
+"items), those few scripts that allow the use of many more programs with one "
+"installation. Find which metapackage corresponds to the program you're "
+"interested in from this list"
+msgstr ""
+"Dưới đây là danh sách $SUITE_COUNT \"gói tổng hợp\" (cùng với $ITEM_COUNT "
+"mục đi kèm), đây là một số ít kịch bản cho phép sử dụng thêm nhiều chương "
+"trình chỉ với một lần cài đặt. Hãy tìm gói tổng hợp tương ứng với chương "
+"trình bạn quan tâm từ danh sách này"
+
+#: pla-site.toml:[cat_comments.appimage-on-the-fly]
+msgctxt "appimage-on-the-fly"
+msgid ""
+"Here are listed $COUNT AppImages (including $ITEM_COUNT metapackage items) "
+"built on the fly from the official portable builds, showing how easily "
+"portable apps can be converted to AppImages to gain isolated dotfiles, "
+"sandboxing via AM and AppMan, and reduced disk usage, serving as a proof of "
+"concept to encourage upstream developers to distribute them directly in such "
+"packaging format. Powered by <a href=\"https://github.com/ivan-hc/"
+"portable2appimage\">portable2appimage</a>"
+msgstr ""
+"Dưới đây là danh sách $COUNT bó AppImage (bao gồm $ITEM_COUNT mục gói tổng "
+"hợp) được tạo tức thời từ các bản di động chính thức, minh hoạ việc chuyển "
+"đổi các ứng dụng di động sang AppImage dễ dàng như thế nào để cách ly các "
+"tệp ẩn, cách ly qua AM và AppMan, cũng như giảm dung lượng đĩa sử dụng, đóng "
+"vai trò như một minh chứng khái niệm nhằm khuyến khích các nhà phát triển "
+"thượng nguồn phân phối trực tiếp dưới định dạng đóng gói này. Hỗ trợ bởi <a "
+"href=\"https://github.com/ivan-hc/portable2appimage\">portable2appimage</a>"
