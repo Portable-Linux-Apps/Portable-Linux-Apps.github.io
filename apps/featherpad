@@ -1,4 +1,4 @@
-# featherpad
+# FeatherPad
 ===
 FeatherPad is a lightweight, feature-rich plain text editor written in C++ and Qt. Designed for high speed and minimal resource usage, it handles large text files with ease while offering a clean, distraction-free interface.
 

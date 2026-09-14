@@ -1,4 +1,4 @@
-# akhenaten
+# Akhenaten
 ===
 Akhenaten is an open-source reimplementation of the classic city-building simulation game Pharaoh and its expansion Cleopatra: Queen of the Nile. It reconstructs the game engine in modern C++ to run natively on modern operating systems while utilizing the original game assets.
 

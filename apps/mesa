@@ -1,4 +1,4 @@
-# mesa
+# Mesa
 ===
 Mesa is the open-source 3D graphics library providing OpenGL, Vulkan, and OpenCL implementations for Linux GPUs. This portable package bundles cutting-edge Mesa drivers to test the latest graphics driver features on any distribution.
 

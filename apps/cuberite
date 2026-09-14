@@ -1,4 +1,4 @@
-# cuberite
+# Cuberite
 ===
 Cuberite is a custom, high-performance Minecraft game server written in C++. Designed for speed and minimal resource usage, it handles hundreds of concurrent players on modest hardware while supporting extensible Lua plugins.
 

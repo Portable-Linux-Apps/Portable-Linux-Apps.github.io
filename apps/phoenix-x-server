@@ -1,4 +1,4 @@
-# phoenix-x-server
+# Phoenix X Server
 ===
 Phoenix is a modern X11 display server written from scratch in Zig. Conceived as a memory-safe, lightweight alternative to the legacy Xorg server, Phoenix focuses on simplicity, security, and low resource overhead.
 

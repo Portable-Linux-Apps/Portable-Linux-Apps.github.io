@@ -1,4 +1,4 @@
-# clk
+# Clock Signal
 ===
 Clock Signal (CLK) is an open-source latency-focused emulator for classic 8-bit and 16-bit computer and console platforms. It emphasizes cycle-accurate audio-video synchronization and minimal input lag.
 

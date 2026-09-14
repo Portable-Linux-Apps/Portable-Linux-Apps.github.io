@@ -1,4 +1,4 @@
-# dillo
+# Dillo
 ===
 Dillo is an ultra-fast, minimalist graphical web browser engineered for efficiency and low resource consumption. Built on FLTK, it loads web pages almost instantaneously and functions smoothly on low-end or vintage hardware.
 

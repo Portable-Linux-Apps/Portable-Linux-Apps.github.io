@@ -1,4 +1,4 @@
-# denise
+# Denise
 ===
 Denise is a cycle-accurate, open-source Commodore 64 and Amiga 500/1000/2000 emulator. Written in C++, it prioritizes emulation precision and clean audio-visual output to faithfully preserve vintage home computer experiences.
 

@@ -1,4 +1,4 @@
-# pixelpulse2
+# Pixelpulse2
 ===
 Pixelpulse2 is an open-source graphical user interface for hardware signal exploration and analysis. Built to interface with devices such as Analog Devices' ADALM1000, it functions as a multi-instrument oscilloscope, signal generator, and power supply monitor.
 

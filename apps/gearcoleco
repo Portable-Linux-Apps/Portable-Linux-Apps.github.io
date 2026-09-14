@@ -1,4 +1,4 @@
-# gearcoleco
+# Gearcoleco
 ===
 Gearcoleco is a cross-platform ColecoVision console emulator written in modern C++. It accurately simulates the Z80 microprocessor, Texas Instruments VDP graphics, and sound hardware of the 1982 ColecoVision.
 

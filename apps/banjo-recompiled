@@ -1,4 +1,4 @@
-# banjo-recompiled
+# Banjo-Kazooie Recompiled
 ===
 Banjo-Kazooie Recompiled is an enhanced native PC port of the classic Nintendo 64 platformer Banjo-Kazooie, created using static recompilation. It translates the original N64 binary into native C/C++ code, allowing the game to run with modern PC graphics and uncapped performance.
 

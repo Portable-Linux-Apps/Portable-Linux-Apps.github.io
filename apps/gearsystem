@@ -1,4 +1,4 @@
-# gearsystem
+# Gearsystem
 ===
 Gearsystem is a cross-platform Sega Master System, Game Gear, and SG-1000 console emulator written in C++. It provides cycle-accurate emulation of Sega's classic 8-bit home and handheld hardware.
 

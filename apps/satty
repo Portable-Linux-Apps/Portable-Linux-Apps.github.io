@@ -1,4 +1,4 @@
-# satty
+# Satty
 ===
 Satty is a modern, lightweight screenshot annotation tool written in Rust and GTK. Inspired by Swappy and Flameshot, it provides a fast and intuitive workflow for annotating, highlighting, and exporting screen captures.
 

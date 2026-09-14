@@ -1,4 +1,4 @@
-# ares-emu
+# Ares
 ===
 ares is an open-source multi-system emulator with a primary focus on accuracy, preservation, and clean architectural design. Originally developed by Near as a continuation of higan, ares emulates dozens of classic video game consoles and handhelds with cycle-accurate precision.
 
