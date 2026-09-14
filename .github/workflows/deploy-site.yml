@@ -34,7 +34,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     container:
-      image: registry.gitlab.com/kazam0180/pla-site-tool
+      image: registry.gitlab.com/kazam0180/pla-site-tool:latest
     steps:
       - name: Checkout
         uses: actions/checkout@v7
@@ -58,7 +58,7 @@ jobs:
         run: |
           set -e
 
-          pla-site-tool > pla-site-tool.log 2>&1 &
+          pla-site-tool gen-site > pla-site-tool.log 2>&1 &
           PLA_PID=$!
 
           imgtool -p . -o ./public convert-screenshots > screenshots.log 2>&1 &
