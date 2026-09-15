@@ -46,7 +46,7 @@
   padding: 0.2rem 0.65rem;
   font-size: 0.75rem;
   font-weight: 600;
-  border-radius: var(--radius-full);
+  border-radius: var(--radius-sm);
   background: rgba(248, 81, 73, 0.15);
   color: #ff7b72;
   border: 1px solid rgba(248, 81, 73, 0.3);
@@ -244,7 +244,7 @@
   justify-content: center;
   gap: 0.75rem;
   height: 480px;
-  overflow: hidden;
+  padding: 0.5rem;
 }
 
 @media (max-width: 768px) {
@@ -254,6 +254,8 @@
   .gallery-inner {
     height: auto;
     min-height: 0;
+    padding: 0.35rem;
+    gap: 0.5rem;
   }
   .gallery-inner img {
     max-height: 320px;
@@ -388,7 +390,7 @@
   max-width: 100%;
   padding: 0.45rem 0.95rem;
   border: 1px solid var(--color-border);
-  border-radius: var(--radius-full);
+  border-radius: var(--radius-sm);
   font-size: 0.8125rem;
   font-weight: 500;
   color: var(--color-text);
@@ -440,7 +442,7 @@
   font-size: 0.8125rem;
   font-weight: 600;
   border: 1px solid var(--color-border);
-  border-radius: var(--radius-full);
+  border-radius: var(--radius-sm);
   text-decoration: none;
   transition: all 0.15s ease;
 }

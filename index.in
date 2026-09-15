@@ -66,6 +66,10 @@
     <select name="arch" id="home-arch-select">
       <option value="">_("All architectures")</option>
     </select>
+    <label for="home-cat-select" class="visually-hidden">_("Filter by category")</label>
+    <select name="category" id="home-cat-select">
+      <option value="">_("All categories")</option>
+    </select>
     <button type="submit" class="visually-hidden">Search</button>
   </form>
 </div>
@@ -448,7 +452,17 @@ function filterHomeApps() {
 
     emptyDiv.querySelector('.search-empty-reset').addEventListener('click', function() {
       if (input) input.value = '';
-      if (arch) arch.value = '';
+      if (arch) {
+        arch.selectedIndex = 0;
+        arch.value = '';
+        arch.dispatchEvent(new Event('change', { bubbles: true }));
+      }
+      var catSelect = document.getElementById('home-cat-select');
+      if (catSelect) {
+        catSelect.selectedIndex = 0;
+        catSelect.value = '';
+        catSelect.dispatchEvent(new Event('change', { bubbles: true }));
+      }
       var resultsSection = document.getElementById('search-results');
       var categoriesSection = document.getElementById('categories-section');
       if (resultsSection) resultsSection.style.display = 'none';
@@ -495,14 +509,17 @@ function matchRank(k, terms) {
   return name.indexOf(terms[0]) === 0 ? 1 : 2;
 }
 
+var currentLoadedUrl = '';
+
 function loadAndShowResults(jsonUrl, title) {
   var resultsSection = document.getElementById('search-results');
   var categoriesSection = document.getElementById('categories-section');
   var titleEl = document.getElementById('search-results-title');
-  if (titleEl) titleEl.textContent = title || 'Search Results';
+  if (titleEl) titleEl.textContent = title || '_("Search Results")';
 
   resultsSection.style.display = '';
   categoriesSection.style.display = 'none';
+  currentLoadedUrl = jsonUrl;
 
   fetch(jsonUrl)
     .then(function(r) { return r.json() })
@@ -533,22 +550,35 @@ function loadAndShowResults(jsonUrl, title) {
 
 function handleHomeSearch(event) {
   event.preventDefault();
-  loadAndShowResults('/apps.json', '_("Search Results")');
+  var input = document.getElementById('home-search-input');
+  var catSelect = document.getElementById('home-cat-select');
+  var searchTerm = input ? input.value.trim() : '';
+  var category = catSelect ? catSelect.value : '';
+  var jsonUrl = category ? '/categories/' + category + '.json' : '/apps.json';
+  var title = (catSelect && category && !searchTerm) ? catSelect.options[catSelect.selectedIndex].text : '_("Search Results")';
+  loadAndShowResults(jsonUrl, title);
 }
 
 document.addEventListener('DOMContentLoaded', function() {
   var input = document.getElementById('home-search-input');
   var arch = document.getElementById('home-arch-select');
+  var catSelect = document.getElementById('home-cat-select');
 
   function triggerSearch() {
     var val = input ? input.value.trim() : '';
     var a = arch ? arch.value : '';
-    if (val || a) {
-      if (!homeAppCache.length) {
-        loadAndShowResults('/apps.json', '_("Search Results")');
+    var c = catSelect ? catSelect.value : '';
+    if (val || a || c) {
+      var jsonUrl = c ? '/categories/' + c + '.json' : '/apps.json';
+      var title = (catSelect && c && !val) ? catSelect.options[catSelect.selectedIndex].text : '_("Search Results")';
+
+      if (!homeAppCache.length || currentLoadedUrl !== jsonUrl) {
+        loadAndShowResults(jsonUrl, title);
       } else {
         var resultsSection = document.getElementById('search-results');
         var categoriesSection = document.getElementById('categories-section');
+        var titleEl = document.getElementById('search-results-title');
+        if (titleEl) titleEl.textContent = title;
         if (resultsSection) resultsSection.style.display = '';
         if (categoriesSection) categoriesSection.style.display = 'none';
         filterHomeApps();
@@ -571,6 +601,44 @@ document.addEventListener('DOMContentLoaded', function() {
 
   if (arch) {
     arch.addEventListener('change', triggerSearch);
+  }
+
+  if (catSelect) {
+    catSelect.addEventListener('change', triggerSearch);
+  }
+
+  function handleFaqTarget() {
+    var hash = window.location.hash;
+    if (!hash) return;
+    try {
+      var target = document.querySelector(hash);
+      if (target) {
+        var details = target.closest('details') || (target.tagName === 'DETAILS' ? target : null);
+        if (details) {
+          details.open = true;
+        }
+        setTimeout(function() {
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 150);
+      }
+    } catch (e) {}
+  }
+  handleFaqTarget();
+  window.addEventListener('hashchange', handleFaqTarget);
+});
+window.addEventListener('load', function() {
+  var hash = window.location.hash;
+  if (hash) {
+    try {
+      var target = document.querySelector(hash);
+      if (target) {
+        var details = target.closest('details') || (target.tagName === 'DETAILS' ? target : null);
+        if (details) details.open = true;
+        setTimeout(function() {
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 100);
+      }
+    } catch (e) {}
   }
 });
 </script>

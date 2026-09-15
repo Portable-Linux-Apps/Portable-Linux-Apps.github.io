@@ -5,10 +5,16 @@
   background: var(--color-surface);
   transition: border-color 0.15s ease, box-shadow 0.15s ease;
   overflow: hidden;
+  scroll-margin-top: 5rem;
 }
 
-.faq-page details:hover {
-  border-color: var(--color-border-strong);
+.faq-page details:hover,
+.faq-page details[open]:hover {
+  border-color: var(--color-accent);
+}
+
+.faq-page details:hover > summary::after {
+  border-color: var(--color-accent);
 }
 
 .faq-page details[open] {
@@ -16,6 +22,7 @@
   border-color: var(--color-border-strong);
   box-shadow: var(--shadow-sm);
 }
+
 
 .faq-page summary {
   cursor: pointer;
@@ -26,6 +33,7 @@
   justify-content: space-between;
   user-select: none;
   transition: background-color 0.15s ease;
+  scroll-margin-top: 5rem;
 }
 
 .faq-page summary::-webkit-details-marker {

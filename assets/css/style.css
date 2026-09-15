@@ -93,6 +93,7 @@ html {
   font-size: 16px;
   -webkit-text-size-adjust: 100%;
   scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
 }
 
 /* === Skip Link === */
@@ -234,19 +235,26 @@ nav a:focus-visible {
 
 @media (max-width: 640px) {
   nav {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
     flex-wrap: nowrap;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-    gap: 1.25rem;
-    padding: 0.75rem 1rem;
-  }
-  nav::-webkit-scrollbar {
-    display: none;
+    overflow: visible;
+    gap: 0.75rem;
+    padding: 0.65rem 0.85rem;
   }
   nav a {
     white-space: nowrap;
+    font-size: 0.875rem;
     padding: 0.25rem 0;
+  }
+  .nav-github-link span {
+    display: none;
+  }
+  .lang-selector {
+    margin-left: auto;
+    padding-left: 0.65rem;
+    border-left: 1px solid var(--color-border);
   }
 }
 
@@ -299,7 +307,7 @@ nav a:focus-visible {
   font-weight: 500;
   white-space: nowrap;
   padding: 0.35rem 0.75rem;
-  border-radius: var(--radius-full);
+  border-radius: var(--radius-sm);
   background: var(--color-surface);
   border: 1px solid var(--color-border);
   display: inline-flex;
@@ -375,7 +383,7 @@ nav a:focus-visible {
   color: var(--color-accent);
   background: var(--color-accent-subtle);
   border: 1px solid var(--color-accent-border);
-  border-radius: var(--radius-full);
+  border-radius: var(--radius-sm);
   cursor: pointer;
   transition: all 0.15s ease;
 }
@@ -506,7 +514,7 @@ section h2 {
   align-items: center;
   padding: 0.45rem 0.95rem;
   border: 1px solid var(--color-border);
-  border-radius: var(--radius-full);
+  border-radius: var(--radius-sm);
   font-size: 0.8125rem;
   font-weight: 500;
   color: var(--color-text);
@@ -683,7 +691,7 @@ select {
   -webkit-appearance: none;
   -moz-appearance: none;
   border: 1px solid var(--color-border);
-  border-radius: var(--radius);
+  border-radius: var(--radius-sm);
   color: var(--color-text);
   font-size: 0.875rem;
   font-weight: 500;
@@ -745,7 +753,7 @@ optgroup {
   gap: 0.75rem;
   background: var(--color-surface);
   border: 1px solid var(--color-border);
-  border-radius: var(--radius);
+  border-radius: var(--radius-sm);
   color: var(--color-text);
   font-family: inherit;
   font-size: 0.875rem;
@@ -788,6 +796,8 @@ optgroup {
   top: calc(100% + 6px);
   right: 0;
   min-width: 100%;
+  max-height: 20rem;
+  overflow-y: auto;
   background: var(--color-surface);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-lg);
@@ -857,6 +867,11 @@ optgroup {
 }
 
 /* Compact style for language selector in nav */
+.custom-dropdown.lang-dropdown {
+  position: relative;
+  z-index: 105;
+}
+
 .custom-dropdown.lang-dropdown .custom-dropdown-trigger {
   height: 2rem;
   padding: 0.35rem 0.65rem;
@@ -870,6 +885,7 @@ optgroup {
 .custom-dropdown.lang-dropdown .custom-dropdown-menu {
   min-width: 6rem;
   right: 0;
+  z-index: 1000;
 }
 
 .custom-dropdown.lang-dropdown .custom-dropdown-item {
@@ -893,7 +909,7 @@ optgroup {
   padding: 0.625rem 1rem 0.625rem 2.5rem;
   font-size: 0.9375rem;
   border: 1px solid var(--color-border);
-  border-radius: var(--radius);
+  border-radius: var(--radius-sm);
   background: var(--color-surface) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%238b949e' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='11' r='8'%3E%3C/circle%3E%3Cline x1='21' y1='21' x2='16.65' y2='16.65'%3E%3C/line%3E%3C/svg%3E") no-repeat 0.85rem center;
   color: var(--color-text);
   box-sizing: border-box;

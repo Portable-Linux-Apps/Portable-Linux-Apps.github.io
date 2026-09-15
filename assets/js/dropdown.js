@@ -87,6 +87,20 @@
       }
     }
 
+    if (select.id === 'home-cat-select' && select.options.length <= 1) {
+      var catLinks = document.querySelectorAll('#categories-section .category-link');
+      for (var k = 0; k < catLinks.length; k++) {
+        var href = catLinks[k].getAttribute('href') || '';
+        var catSlug = href.replace(/\.html$/, '').replace(/^\.\//, '').replace(/^.*\//, '');
+        if (catSlug && catSlug !== 'apps') {
+          var opt = document.createElement('option');
+          opt.value = catSlug;
+          opt.textContent = catLinks[k].textContent.trim();
+          select.appendChild(opt);
+        }
+      }
+    }
+
     rebuildOptions();
 
     function openMenu() {
@@ -164,7 +178,7 @@
   }
 
   function initAllDropdowns() {
-    var targets = document.querySelectorAll('.lang-selector select, #home-arch-select, #arch-select, select.custom-select');
+    var targets = document.querySelectorAll('.lang-selector select, #home-arch-select, #home-cat-select, #arch-select, select.custom-select');
     for (var i = 0; i < targets.length; i++) {
       initDropdown(targets[i]);
     }
