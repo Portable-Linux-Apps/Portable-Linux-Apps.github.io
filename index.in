@@ -32,7 +32,10 @@
   <a href="apps.html">_("Apps")</a>
   <a href="#faq">_("FAQ")</a>
   <a href="wiki.html">_("Wiki")</a>
-  <a href="https://github.com/ivan-hc/AM">_("AM on GitHub")</a>
+  <a href="https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io" class="nav-github-link" target="_blank" rel="noopener noreferrer">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.53 1.032 1.53 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"></path></svg>
+    <span>GitHub</span>
+  </a>
   <div class="lang-selector">
     <select onchange="localStorage.setItem('preferredLang',this.value);window.location.href='/' + this.value + '/index.html'">
       <option value="en">EN</option>
@@ -72,7 +75,10 @@
 </div>
 
 <section id="search-results" style="display: none;">
-  <span id="results-count" class="results-count"></span>
+  <div class="search-results-header">
+    <h2 id="search-results-title">_("Search Results")</h2>
+    <span id="results-count" class="results-count"></span>
+  </div>
   <div id="app-list"></div>
 </section>
 
@@ -343,7 +349,7 @@ only use **bold**, *italic*, ++underline++, lists markdown here
   <div class="footer-links">
     <a href="https://ko-fi.com/IvanAlexHC">ko-fi.com</a>
     <a href="https://paypal.me/IvanAlexHC">PayPal.me</a>
-    <a href="https://github.com/ivan-hc/AM">_("AM on GitHub")</a>
+    <a href="https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io" target="_blank" rel="noopener noreferrer">GitHub</a>
   </div>
   <p>&copy; _("2020-present Ivan Alessandro Sala aka 'Ivan-HC'") &mdash; _("I'm here just for fun!")</p>
 </footer>
@@ -351,6 +357,7 @@ only use **bold**, *italic*, ++underline++, lists markdown here
 <script src="/assets/js/asciinema-player.min.js"></script>
 <script src="/assets/js/casts.js"></script>
 <script src="/assets/js/carousel.js"></script>
+<script src="/assets/js/dropdown.js"></script>
 <script>
 function escapeHtml(s) {
   return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
@@ -369,7 +376,7 @@ function renderHomeApps(data) {
   for (var i = 0; i < data.length; i++) {
     var app = data[i];
     html += '<div class="app-item" data-index="' + i + '">';
-    html += '<img loading="lazy" src="/icons_48/' + encodeURIComponent(app.name) + '.webp" width="48" height="48" alt="icon for ' + escapeHtml(app.name) + '" onerror="this.src=\'/no-icon_48.webp\'" class="app-icon">';
+    html += '<img loading="lazy" src="/icons_48/' + encodeURIComponent(app.name) + '.webp" width="48" height="48" alt="icon for ' + escapeHtml(app.name) + '" onerror="this.onerror=null;this.src=\'/no-icon_48.webp\'" class="app-icon">';
     html += '<div class="app-body">';
     html += '<a href="/' + lang_value + '/app/' + encodeURIComponent(app.name) + '.html" class="app-name"><strong>' + escapeHtml(app.name) + '</strong></a>';
     html += '<p class="app-desc">' + escapeHtml(app.description) + '</p>';
@@ -400,11 +407,12 @@ function filterHomeApps() {
   var arch = document.getElementById('home-arch-select');
   var terms = input ? input.value.toLowerCase().split(/\s+/).filter(Boolean) : [];
   var selectedArch = arch ? arch.value : '';
-  var list = document.getElementById('app-list').querySelector('.app-list');
   var matched = [];
 
   var oldHeadings = list.querySelectorAll('.app-group-heading');
   for (var h = 0; h < oldHeadings.length; h++) oldHeadings[h].remove();
+  var oldEmpty = container.querySelector('.search-empty-state');
+  if (oldEmpty) oldEmpty.remove();
 
   for (var k = 0; k < homeAppNodes.length; k++) {
     var matchesSearch = !terms.length ||
@@ -420,6 +428,53 @@ function filterHomeApps() {
   }
 
   var countEl = document.getElementById('results-count');
+
+  if (matched.length === 0) {
+    if (countEl) countEl.textContent = '';
+    list.style.display = 'none';
+
+    var emptyDiv = document.createElement('div');
+    emptyDiv.className = 'search-empty-state';
+    var rawTerm = input ? input.value.trim() : '';
+    var message = rawTerm ? 'No applications found matching "' + escapeHtml(rawTerm) + '"' : 'No applications found';
+    var subMessage = selectedArch ? 'Try selecting "All architectures" or broadening your search keywords.' : 'Check for typos or try searching with different keywords.';
+    emptyDiv.innerHTML =
+      '<div class="search-empty-icon">' +
+        '<svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">' +
+          '<circle cx="11" cy="11" r="8"></circle>' +
+          '<line x1="21" y1="21" x2="16.65" y2="16.65"></line>' +
+          '<line x1="8" y1="11" x2="14" y2="11"></line>' +
+        '</svg>' +
+      '</div>' +
+      '<h3>' + message + '</h3>' +
+      '<p class="search-empty-hint">' + subMessage + '</p>' +
+      '<button type="button" class="search-empty-reset">Clear search</button>';
+
+    emptyDiv.querySelector('.search-empty-reset').addEventListener('click', function() {
+      if (input) input.value = '';
+      if (arch) {
+        arch.selectedIndex = 0;
+        arch.value = '';
+        arch.dispatchEvent(new Event('change', { bubbles: true }));
+      }
+      var catSelect = document.getElementById('home-cat-select');
+      if (catSelect) {
+        catSelect.selectedIndex = 0;
+        catSelect.value = '';
+        catSelect.dispatchEvent(new Event('change', { bubbles: true }));
+      }
+      var resultsSection = document.getElementById('search-results');
+      var categoriesSection = document.getElementById('categories-section');
+      if (resultsSection) resultsSection.style.display = 'none';
+      if (categoriesSection) categoriesSection.style.display = '';
+      if (input) input.focus();
+    });
+
+    container.appendChild(emptyDiv);
+    return;
+  }
+
+  list.style.display = '';
   if (countEl) countEl.textContent = matched.length + ' results';
 
   if (terms.length) {
@@ -454,12 +509,17 @@ function matchRank(k, terms) {
   return name.indexOf(terms[0]) === 0 ? 1 : 2;
 }
 
+var currentLoadedUrl = '';
+
 function loadAndShowResults(jsonUrl, title) {
   var resultsSection = document.getElementById('search-results');
   var categoriesSection = document.getElementById('categories-section');
+  var titleEl = document.getElementById('search-results-title');
+  if (titleEl) titleEl.textContent = title || '_("Search Results")';
 
   resultsSection.style.display = '';
   categoriesSection.style.display = 'none';
+  currentLoadedUrl = jsonUrl;
 
   fetch(jsonUrl)
     .then(function(r) { return r.json() })
@@ -491,40 +551,94 @@ function loadAndShowResults(jsonUrl, title) {
 function handleHomeSearch(event) {
   event.preventDefault();
   var input = document.getElementById('home-search-input');
-  var archSelect = document.getElementById('home-arch-select');
   var catSelect = document.getElementById('home-cat-select');
-
   var searchTerm = input ? input.value.trim() : '';
-  var arch = archSelect ? archSelect.value : '';
   var category = catSelect ? catSelect.value : '';
-
-  var jsonUrl;
-  var title;
-  if (category) {
-    jsonUrl = '/categories/' + category + '.json';
-    title = catSelect.options[catSelect.selectedIndex].text;
-  } else {
-    jsonUrl = '/apps.json';
-    title = 'Applications';
-  }
-
+  var jsonUrl = category ? '/categories/' + category + '.json' : '/apps.json';
+  var title = (catSelect && category && !searchTerm) ? catSelect.options[catSelect.selectedIndex].text : '_("Search Results")';
   loadAndShowResults(jsonUrl, title);
 }
 
 document.addEventListener('DOMContentLoaded', function() {
   var input = document.getElementById('home-search-input');
   var arch = document.getElementById('home-arch-select');
+  var catSelect = document.getElementById('home-cat-select');
+
+  function triggerSearch() {
+    var val = input ? input.value.trim() : '';
+    var a = arch ? arch.value : '';
+    var c = catSelect ? catSelect.value : '';
+    if (val || a || c) {
+      var jsonUrl = c ? '/categories/' + c + '.json' : '/apps.json';
+      var title = (catSelect && c && !val) ? catSelect.options[catSelect.selectedIndex].text : '_("Search Results")';
+
+      if (!homeAppCache.length || currentLoadedUrl !== jsonUrl) {
+        loadAndShowResults(jsonUrl, title);
+      } else {
+        var resultsSection = document.getElementById('search-results');
+        var categoriesSection = document.getElementById('categories-section');
+        var titleEl = document.getElementById('search-results-title');
+        if (titleEl) titleEl.textContent = title;
+        if (resultsSection) resultsSection.style.display = '';
+        if (categoriesSection) categoriesSection.style.display = 'none';
+        filterHomeApps();
+      }
+    } else {
+      var resultsSection = document.getElementById('search-results');
+      var categoriesSection = document.getElementById('categories-section');
+      if (resultsSection) resultsSection.style.display = 'none';
+      if (categoriesSection) categoriesSection.style.display = '';
+    }
+  }
 
   if (input) {
     var timer;
     input.addEventListener('input', function() {
       clearTimeout(timer);
-      timer = setTimeout(filterHomeApps, 150);
+      timer = setTimeout(triggerSearch, 150);
     });
   }
 
   if (arch) {
-    arch.addEventListener('change', filterHomeApps);
+    arch.addEventListener('change', triggerSearch);
+  }
+
+  if (catSelect) {
+    catSelect.addEventListener('change', triggerSearch);
+  }
+
+  function handleFaqTarget() {
+    var hash = window.location.hash;
+    if (!hash) return;
+    try {
+      var target = document.querySelector(hash);
+      if (target) {
+        var details = target.closest('details') || (target.tagName === 'DETAILS' ? target : null);
+        if (details) {
+          details.open = true;
+        }
+        setTimeout(function() {
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 150);
+      }
+    } catch (e) {}
+  }
+  handleFaqTarget();
+  window.addEventListener('hashchange', handleFaqTarget);
+});
+window.addEventListener('load', function() {
+  var hash = window.location.hash;
+  if (hash) {
+    try {
+      var target = document.querySelector(hash);
+      if (target) {
+        var details = target.closest('details') || (target.tagName === 'DETAILS' ? target : null);
+        if (details) details.open = true;
+        setTimeout(function() {
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 100);
+      }
+    } catch (e) {}
   }
 });
 </script>
