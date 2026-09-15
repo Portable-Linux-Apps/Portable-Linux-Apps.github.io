@@ -1,7 +1,16 @@
 var appNodes = [];
+var RANK_LABELS = ['Exact match', 'Name match', 'Name match', 'Description match'];
 
 function escapeHtml(s) {
   return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function matchRank(cache, terms, k) {
+  var name = cache[k].name;
+  if (terms.length === 1 && name === terms[0]) return 0;
+  var nameHit = terms.every(function(t) { return name.indexOf(t) !== -1; });
+  if (!nameHit) return 3;
+  return name.indexOf(terms[0]) === 0 ? 1 : 2;
 }
 
 function renderApps(data) {
@@ -25,6 +34,7 @@ function renderApps(data) {
     html += '<a href="https://github.com/ivan-hc/AM/blob/main/programs/' + encodeURIComponent(arch_value) + '/' + encodeURIComponent(scriptName) + '" class="install-link install-blob" data-script="' + encodeURIComponent(scriptName) + '">blob</a>';
     html += '<a href="https://raw.githubusercontent.com/ivan-hc/AM/main/programs/' + encodeURIComponent(arch_value) +'/' + encodeURIComponent(scriptName) + '" class="install-link install-raw" data-script="' + encodeURIComponent(scriptName) + '">raw</a>';
     html += '</div>';
+    html += '<a class="category-link" href="pla-install://' + encodeURIComponent(app.name) + '" title="If this does not work, see FAQ#1">Install</a>';
     html += '</div>';
   }
   html += '</div>';
@@ -98,17 +108,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }
       }
 
-      // Relevance rank: 0 exact name, 1 name starts with, 2 name contains, 3 description only.
-      var RANK_LABELS = ['Exact match', 'Name match', 'Name match', 'Description match'];
-
-      function matchRank(k, terms) {
-        var name = cache[k].name;
-        if (terms.length === 1 && name === terms[0]) return 0;
-        var nameHit = terms.every(function(t) { return name.indexOf(t) !== -1; });
-        if (!nameHit) return 3;
-        return name.indexOf(terms[0]) === 0 ? 1 : 2;
-      }
-
       function applyFilters() {
         var terms = input ? input.value.toLowerCase().split(/\s+/).filter(Boolean) : [];
         var selectedArch = arch ? arch.value : '';
@@ -128,7 +127,7 @@ document.addEventListener('DOMContentLoaded', function() {
             cache[k].archs.some(function(a) { return a === selectedArch; });
           var visible = matchesSearch && matchesArch;
           appNodes[k].style.display = visible ? '' : 'none';
-          if (visible) matched.push({ index: k, rank: terms.length ? matchRank(k, terms) : 0 });
+          if (visible) matched.push({ index: k, rank: terms.length ? matchRank(cache, terms, k) : 0 });
         }
 
         var countEl = document.getElementById('results-count');
