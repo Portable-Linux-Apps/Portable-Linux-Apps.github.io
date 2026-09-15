@@ -589,6 +589,8 @@ section h2 {
 }
 
 .install-link {
+  display: inline-flex;
+  align-items: center;
   font-size: 0.75rem;
   font-weight: 600;
   padding: 0.25rem 0.65rem;
@@ -596,14 +598,20 @@ section h2 {
   border-radius: var(--radius-sm);
   color: var(--color-text-muted);
   background: var(--color-bg);
-  transition: all 0.15s ease;
+  transition: border-color 0.15s ease, background 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease, color 0.15s ease;
 }
 
 .install-link:hover {
-  color: var(--color-accent-text);
-  background: var(--color-accent);
   border-color: var(--color-accent);
+  background: var(--color-surface-hover);
+  color: var(--color-accent);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
   text-decoration: none;
+}
+
+.install-link:active {
+  transform: translateY(0);
 }
 
 .install-link:focus-visible {
