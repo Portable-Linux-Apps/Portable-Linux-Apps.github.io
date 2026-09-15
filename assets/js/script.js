@@ -112,11 +112,15 @@ document.addEventListener('DOMContentLoaded', function() {
       function applyFilters() {
         var terms = input ? input.value.toLowerCase().split(/\s+/).filter(Boolean) : [];
         var selectedArch = arch ? arch.value : '';
-        var list = document.getElementById('app-list').querySelector('.app-list');
+        var container = document.getElementById('app-list');
+        var list = container ? container.querySelector('.app-list') : null;
+        if (!list) return;
         var matched = [];
 
         var oldHeadings = list.querySelectorAll('.app-group-heading');
         for (var h = 0; h < oldHeadings.length; h++) oldHeadings[h].remove();
+        var oldEmpty = container.querySelector('.search-empty-state');
+        if (oldEmpty) oldEmpty.remove();
 
         for (var k = 0; k < appNodes.length; k++) {
           var matchesSearch = !terms.length ||
@@ -132,6 +136,41 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         var countEl = document.getElementById('results-count');
+
+        if (matched.length === 0) {
+          if (countEl) countEl.textContent = '';
+          list.style.display = 'none';
+
+          var emptyDiv = document.createElement('div');
+          emptyDiv.className = 'search-empty-state';
+          var rawTerm = input ? input.value.trim() : '';
+          var message = rawTerm ? 'No applications found matching "' + escapeHtml(rawTerm) + '"' : 'No applications found';
+          var subMessage = selectedArch ? 'Try selecting "All architectures" or broadening your search keywords.' : 'Check for typos or try searching with different keywords.';
+          emptyDiv.innerHTML =
+            '<div class="search-empty-icon">' +
+              '<svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">' +
+                '<circle cx="11" cy="11" r="8"></circle>' +
+                '<line x1="21" y1="21" x2="16.65" y2="16.65"></line>' +
+                '<line x1="8" y1="11" x2="14" y2="11"></line>' +
+              '</svg>' +
+            '</div>' +
+            '<h3>' + message + '</h3>' +
+            '<p class="search-empty-hint">' + subMessage + '</p>' +
+            '<button type="button" class="search-empty-reset">Clear search</button>';
+
+          emptyDiv.querySelector('.search-empty-reset').addEventListener('click', function() {
+            if (input) input.value = '';
+            if (arch) arch.value = '';
+            updateArchLinks('');
+            applyFilters();
+            if (input) input.focus();
+          });
+
+          container.appendChild(emptyDiv);
+          return;
+        }
+
+        list.style.display = '';
         if (countEl) countEl.textContent = matched.length + ' results';
 
         if (terms.length) {

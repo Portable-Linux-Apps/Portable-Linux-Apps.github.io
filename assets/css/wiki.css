@@ -1,39 +1,115 @@
+.wiki-page {
+  max-width: var(--max-width);
+}
+
 .wiki-page h2 {
-  font-size: 1.375rem;
+  font-size: 1.25rem;
   font-weight: 700;
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
+  margin-top: 2.25rem;
+  margin-bottom: 0.75rem;
+  color: var(--color-text);
+  letter-spacing: -0.01em;
 }
 
 .wiki-page h3 {
-  font-size: 1.125rem;
+  font-size: 1.05rem;
   font-weight: 600;
-  margin-top: 1.5rem;
+  margin-top: 1.75rem;
   margin-bottom: 0.75rem;
+  color: var(--color-text);
 }
 
-.wiki-page p,
-.wiki-page li {
+.wiki-page p {
   color: var(--color-text-muted);
-  margin-bottom: 0.5rem;
-}
-
-.wiki-page ul {
   margin-bottom: 1rem;
-  padding-left: 1.5rem;
+  line-height: 1.6;
 }
 
-.wiki-page ul ul {
+.wiki-page em {
+  font-style: normal;
+}
+
+/* Documentation Card Lists */
+.wiki-page > ul {
+  list-style: none;
+  padding: 0;
+  margin: 0.75rem 0 1.75rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+}
+
+.wiki-page > ul > li {
+  padding: 0.85rem 1.25rem;
+  border-bottom: 1px solid var(--color-border-subtle);
   margin-bottom: 0;
-  margin-top: 0.25rem;
+  color: var(--color-text-muted);
+  transition: background-color 0.15s ease;
 }
 
-.wiki-page a {
+.wiki-page > ul > li:last-child {
+  border-bottom: none;
+}
+
+.wiki-page > ul > li:hover {
+  background: var(--color-surface-hover);
+}
+
+.wiki-page > ul > li > a {
+  font-weight: 500;
+  font-size: 0.9375rem;
+  color: var(--color-text);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: color 0.15s ease;
+}
+
+.wiki-page > ul > li > a:hover {
   color: var(--color-accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
-.wiki-page a:focus {
+.wiki-page > ul > li > a::before {
+  content: '→';
+  color: var(--color-accent);
+  font-size: 0.875rem;
+  transition: transform 0.15s ease;
+}
+
+.wiki-page > ul > li:hover > a::before {
+  transform: translateX(3px);
+}
+
+/* Nested sub-guides */
+.wiki-page ul ul {
+  list-style: none;
+  padding: 0.5rem 0 0.25rem 1.25rem;
+  margin: 0.35rem 0 0 0;
+  border-left: 2px solid var(--color-border);
+}
+
+.wiki-page ul ul li {
+  margin-bottom: 0.35rem;
+}
+
+.wiki-page ul ul li a {
+  font-size: 0.84375rem;
+  color: var(--color-text-muted);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.wiki-page ul ul li a:hover {
+  color: var(--color-accent);
   text-decoration: underline;
   text-underline-offset: 2px;
-  outline: none;
+}
+
+.wiki-page a:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
 }

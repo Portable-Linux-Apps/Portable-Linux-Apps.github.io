@@ -8,6 +8,7 @@
 }
 
 :root {
+  color-scheme: dark;
   --color-bg: #0d1117;
   --color-surface: #161b22;
   --color-text: #e6edf3;
@@ -22,6 +23,7 @@
 
 @media (prefers-color-scheme: light) {
   :root {
+    color-scheme: light;
     --color-bg: #fff;
     --color-surface: #f6f8fa;
     --color-text: #24292f;
