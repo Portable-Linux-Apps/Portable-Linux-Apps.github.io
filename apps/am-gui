@@ -1,8 +1,8 @@
 # am-gui
 ===
-This is AM-GUI, a simple, experimental graphical frontend to easily install, update, and manage AppImages and other portable formats on Linux, using AM.
+This is AM-GUI, a simple graphical frontend for AM/AppMan — easily install, update and manage AppImages and other portable formats on Linux.
 
-This project is under development — some features may be incomplete or may not work.
+This project is still under development — some features may be incomplete or may not work.
 ===
 # SCREENSHOTS: ../am-gui/1.webp ../am-gui/2.webp ../am-gui/3.webp
 # SITES: https://github.com/Shikakiben/AM-GUI
