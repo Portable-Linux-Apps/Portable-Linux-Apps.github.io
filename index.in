@@ -380,10 +380,12 @@ function renderHomeApps(data) {
     html += '<div class="app-links">';
     var suiteMatch = app.description && app.description.match(/This is part of "([^"]+)"/);
     var scriptName = suiteMatch ? suiteMatch[1] : app.name;
-    html += '<a href="https://github.com/ivan-hc/AM/blob/main/programs/' + encodeURIComponent(arch_value) + '/' + encodeURIComponent(scriptName) + '" class="install-link install-blob" data-script="' + encodeURIComponent(scriptName) + '">blob</a>';
-    html += '<a href="https://raw.githubusercontent.com/ivan-hc/AM/main/programs/' + encodeURIComponent(arch_value) + '/' + encodeURIComponent(scriptName) + '" class="install-link install-raw" data-script="' + encodeURIComponent(scriptName) + '">raw</a>';
+    html += '<div class="app-script-links">';
+    html += '<a href="https://github.com/ivan-hc/AM/blob/main/programs/' + encodeURIComponent(arch_value) + '/' + encodeURIComponent(scriptName) + '" class="install-blob" data-script="' + encodeURIComponent(scriptName) + '">blob</a>';
+    html += '<a href="https://raw.githubusercontent.com/ivan-hc/AM/main/programs/' + encodeURIComponent(arch_value) + '/' + encodeURIComponent(scriptName) + '" class="install-raw" data-script="' + encodeURIComponent(scriptName) + '">raw</a>';
     html += '</div>';
-    html += '<a class="category-link" href="pla-install://' + encodeURIComponent(app.name) + '" title="If this does not work, see FAQ#1">Install</a>';
+    html += '<a class="app-install-btn" href="pla-install://' + encodeURIComponent(app.name) + '" title="If this does not work, see FAQ#1">Install</a>';
+    html += '</div>';
     html += '</div>';
   }
   html += '</div>';
