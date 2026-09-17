@@ -357,7 +357,6 @@ only use **bold**, *italic*, ++underline++, lists markdown here
 <script src="/assets/js/asciinema-player.min.js"></script>
 <script src="/assets/js/casts.js"></script>
 <script src="/assets/js/carousel.js"></script>
-<script src="/assets/js/dropdown.js"></script>
 <script src="/assets/js/script.js"></script>
 <script>
 var homeAppCache = [];
@@ -552,6 +551,20 @@ document.addEventListener('DOMContentLoaded', function() {
   var input = document.getElementById('home-search-input');
   var arch = document.getElementById('home-arch-select');
   var catSelect = document.getElementById('home-cat-select');
+
+  if (catSelect && catSelect.options.length <= 1) {
+    var catLinks = document.querySelectorAll('#categories-section .category-link');
+    for (var k = 0; k < catLinks.length; k++) {
+      var href = catLinks[k].getAttribute('href') || '';
+      var catSlug = href.replace(/\.html$/, '').replace(/^\.\//, '').replace(/^.*\//, '');
+      if (catSlug && catSlug !== 'apps') {
+        var opt = document.createElement('option');
+        opt.value = catSlug;
+        opt.textContent = catLinks[k].textContent.trim();
+        catSelect.appendChild(opt);
+      }
+    }
+  }
 
   function triggerSearch() {
     var val = input ? input.value.trim() : '';
