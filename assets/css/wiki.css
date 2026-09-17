@@ -74,14 +74,18 @@
 }
 
 .wiki-page > ul > li > a::before {
-  content: '→';
+  content: '↗';
   color: var(--color-accent);
   font-size: 0.875rem;
+  line-height: 1;
+  text-decoration: none;
+  display: inline-block;
   transition: transform 0.15s ease;
 }
 
-.wiki-page > ul > li:hover > a::before {
-  transform: translateX(3px);
+.wiki-page > ul > li:hover > a::before,
+.wiki-page > ul > li > a:focus-visible::before {
+  transform: translate(2px, -2px);
 }
 
 /* Nested sub-guides */
