@@ -1,8 +1,11 @@
-# am-gui
+# am-gui-nightly
 ===
 This is AM-GUI, a simple graphical frontend for AM/AppMan — easily install, update and manage AppImages and other portable formats on Linux.
 
 This project is still under development — some features may be incomplete or may not work.
+
+⚠️ Warning: This is a devel version and may contain bugs. Use at your own risk.
+
 ===
 # SCREENSHOTS: ../am-gui/1.webp ../am-gui/2.webp ../am-gui/3.webp
 # SITES: https://github.com/Shikakiben/AM-GUI
