@@ -1,6 +1,13 @@
 # am-gui-beta
 ===
- Graphical frontend for AM/AppMan — install, update and manage AppImages and other portable formats on Linux (beta version).
+This is AM-GUI, a simple graphical frontend for AM/AppMan — easily install, update and manage AppImages and other portable formats on Linux.
+
+This project is still under development — some features may be incomplete or may not work.
+
+⚠️ Warning: This is a beta/devel version and may contain bugs. Use at your own risk.
+
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: ../am-gui/1.webp ../am-gui/2.webp ../am-gui/3.webp
 # SITES: https://github.com/Shikakiben/AM-GUI
+# SOURCES: 
+# BUTTONS: 
