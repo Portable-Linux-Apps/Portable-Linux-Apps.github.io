@@ -1,0 +1,6 @@
+# archductor
+===
+ A desktop control plane for running coding agents across isolated Git worktree workspaces — Electron UI + Rust CLI/daemon.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/perceo-ai/conductor-arch
