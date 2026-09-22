@@ -81,6 +81,8 @@ jobs:
                     "$a" "$ESC_DESC" "/contribute_ss.webp /contribute_ss.webp" "$SITE" > apps/"$a"
 
                   echo "Adding apps/$a"
+                  echo "Adding icons/$a.png"
+                  cp no-icon.png icons/$a.png
                 fi
               fi
             done
