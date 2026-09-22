@@ -22,6 +22,6 @@
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
-  <p>If you are not redirected automatically, <a href="/en/app/$APP_NAME.html">click here</a>.</p>
+  <h1>If you are not redirected automatically, <a href="/en/app/$APP_NAME.html">click here</a>.</h1>
 </body>
 </html>
