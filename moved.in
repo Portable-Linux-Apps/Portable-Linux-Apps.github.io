@@ -8,6 +8,7 @@
 <meta name="twitter:card" content="summary">
 <link rel="canonical" href="$NEW_URL">
 <meta http-equiv="refresh" content="0;url=$NEW_URL">
+<meta name="robots" content="noindex">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" href="/assets/css/moved.css">
 <title>Page Moved</title>
