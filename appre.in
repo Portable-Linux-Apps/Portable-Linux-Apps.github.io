@@ -18,6 +18,7 @@
   <meta name="twitter:description" content="$APP_DESC">
   <link rel="canonical" href="https://portable-linux-apps.github.io/en/app/$APP_NAME.html">
   <meta http-equiv="refresh" content="0; url=/en/app/$APP_NAME.html">
+  <meta name="robots" content="noindex">
   <link rel="preconnect" href="/assets/css/style.css">
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
