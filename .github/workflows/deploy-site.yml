@@ -136,12 +136,19 @@ jobs:
           comm -13 /tmp/old.txt /tmp/new.txt > /tmp/changed.txt
 
           if [ -s /tmp/changed.txt ]; then
-            urls=$(awk '{printf "%s\"%s\"", sep, $0; sep=","}' /tmp/changed.txt)
-            curl -sS -X POST "https://api.indexnow.org/indexnow" \
-              -H "Content-Type: application/json; charset=utf-8" \
-              -d "{\"host\":\"portable-linux-apps.github.io\",\"key\":\"$KEY\",\"keyLocation\":\"https://portable-linux-apps.github.io/$KEY.txt\",\"urlList\":[$urls]}" \
-              | tee -a build-log.txt
-            echo "Submitted $(wc -l < /tmp/changed.txt) URL(s) to IndexNow" | tee -a build-log.txt
+            count=0
+            while IFS= read -r url; do
+              [ -z "$url" ] && continue
+              curl -sS -G "https://api.indexnow.org/indexnow" \
+                --data-urlencode "url=$url" \
+                --data-urlencode "key=$KEY" \
+                --data-urlencode "keyLocation=https://portable-linux-apps.github.io/$KEY.txt" \
+                -o /dev/null -w "%{http_code} $url\n" \
+                | tee -a build-log.txt
+              count=$((count + 1))
+              sleep 0.2
+            done < /tmp/changed.txt
+            echo "Submitted $count URL(s) to IndexNow individually" | tee -a build-log.txt
           else
             echo "No new/changed URLs to submit to IndexNow" | tee -a build-log.txt
           fi
