@@ -357,7 +357,7 @@ only use **bold**, *italic*, ++underline++, lists markdown here
 <script src="/assets/js/asciinema-player.min.js"></script>
 <script src="/assets/js/casts.js"></script>
 <script src="/assets/js/carousel.js"></script>
-<script src="/assets/js/script.js"></script>
+<script src="/assets/js/script.js?v=3"></script>
 <script>
 var homeAppCache = [];
 var homeAppNodes = [];
@@ -541,9 +541,15 @@ function loadAndShowResults(jsonUrl, title) {
 function handleHomeSearch(event) {
   event.preventDefault();
   var input = document.getElementById('home-search-input');
+  var arch = document.getElementById('home-arch-select');
   var catSelect = document.getElementById('home-cat-select');
   var searchTerm = input ? input.value.trim() : '';
   var category = catSelect ? catSelect.value : '';
+  updateFilterUrl({
+    s: searchTerm,
+    a: arch ? arch.value : '',
+    c: category
+  });
   var jsonUrl = category ? '/categories/' + category + '.json' : '/apps.json';
   var title = (catSelect && category && !searchTerm) ? catSelect.options[catSelect.selectedIndex].text : '_("Search Results")';
   loadAndShowResults(jsonUrl, title);
@@ -568,10 +574,18 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   }
 
+  var searchParam = getUrlParam('s');
+  var archParam = getUrlParam('a');
+  var categoryParam = getUrlParam('c');
+  if (input && searchParam) input.value = searchParam;
+  if (arch && archParam) arch.value = archParam;
+  if (catSelect && categoryParam) catSelect.value = categoryParam;
+
   function triggerSearch() {
     var val = input ? input.value.trim() : '';
     var a = arch ? arch.value : '';
     var c = catSelect ? catSelect.value : '';
+    updateFilterUrl({ s: val, a: a, c: c });
     if (val || a || c) {
       var jsonUrl = c ? '/categories/' + c + '.json' : '/apps.json';
       var title = (catSelect && c && !val) ? catSelect.options[catSelect.selectedIndex].text : '_("Search Results")';
@@ -610,6 +624,8 @@ document.addEventListener('DOMContentLoaded', function() {
   if (catSelect) {
     catSelect.addEventListener('change', triggerSearch);
   }
+
+  triggerSearch();
 
   function handleFaqTarget() {
     var hash = window.location.hash;
