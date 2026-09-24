@@ -1,6 +1,27 @@
 var appNodes = [];
 var RANK_LABELS = ['Exact match', 'Name match', 'Name match', 'Description match'];
 
+function getUrlParam(name) {
+  return new URLSearchParams(window.location.search).get(name) || '';
+}
+
+function updateFilterUrl(filters) {
+  var url = new URL(window.location.href);
+  Object.keys(filters).forEach(function(name) {
+    if (filters[name]) {
+      url.searchParams.set(name, filters[name]);
+    } else {
+      url.searchParams.delete(name);
+    }
+  });
+
+  var currentUrl = window.location.pathname + window.location.search + window.location.hash;
+  var nextUrl = url.pathname + url.search + url.hash;
+  if (nextUrl !== currentUrl) {
+    window.history.replaceState(window.history.state, '', nextUrl);
+  }
+}
+
 function escapeHtml(s) {
   return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
@@ -81,10 +102,6 @@ document.addEventListener('DOMContentLoaded', function() {
       var arch = document.getElementById('arch-select');
 
       // Parse ?s=term and ?a=arch from URL and initialize search/arch
-      function getUrlParam(name) {
-        var params = new URLSearchParams(window.location.search);
-        return params.get(name) || '';
-      }
       var searchParam = getUrlParam('s');
       var archParam = getUrlParam('a');
       if (input && searchParam) {
@@ -111,8 +128,10 @@ document.addEventListener('DOMContentLoaded', function() {
       }
 
       function applyFilters() {
-        var terms = input ? input.value.toLowerCase().split(/\s+/).filter(Boolean) : [];
+        var searchTerm = input ? input.value.trim() : '';
+        var terms = searchTerm.toLowerCase().split(/\s+/).filter(Boolean);
         var selectedArch = arch ? arch.value : '';
+        updateFilterUrl({ s: searchTerm, a: selectedArch });
         var container = document.getElementById('app-list');
         var list = container ? container.querySelector('.app-list') : null;
         if (!list) return;
