@@ -2,7 +2,7 @@ am_repo = "https://raw.githubusercontent.com/ivan-hc/AM/main"
 site_url = "https://portable-linux-apps.github.io"
 archs = ["x86_64", "aarch64", "i686", "armv7l"]
 meta_pkgs = ["kdegames", "kdeutils", "node", "platform-tools"]
-languages = ["en", "it", "vi"]
+languages = ["en", "it", "pt_PT", "vi"]
 out_dir = "public"
 
 [[categories]]
