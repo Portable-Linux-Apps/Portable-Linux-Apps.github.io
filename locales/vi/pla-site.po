@@ -44,16 +44,15 @@ msgstr "AM-GUI trên GitHub"
 
 #: apps.in:48
 msgid "APPLICATIONS"
-msgstr ""
+msgstr "ỨNG DỤNG"
 
 #: apps.in:7 apps.in:15
-#, fuzzy
 msgid "APPLICATIONS - PORTABLE LINUX APPS"
-msgstr "Wiki - PORTABLE LINUX APPS"
+msgstr "ỨNG DỤNG - PORTABLE LINUX APPS"
 
 #: apps.in:8 apps.in:17
 msgid "APPLICATIONS - Portable Linux Apps full app list."
-msgstr ""
+msgstr "ỨNG DỤNG - Danh sách đầy đủ các ứng dụng Portable Linux Apps."
 
 #: wiki.in:85
 msgid "About Aisap sandboxing"
@@ -541,9 +540,8 @@ msgid "Sandboxing example"
 msgstr "Ví dụ về cách ly"
 
 #: index.in:80 index.in:509 index.in:555 index.in:592
-#, fuzzy
 msgid "Search Results"
-msgstr "Tìm kiếm ứng dụng"
+msgstr "Kết quả tìm kiếm"
 
 #: cat_page.in:53 index.in:64 apps.in:51
 msgid "Search apps"
@@ -1059,13 +1057,11 @@ msgstr ""
 "trong trường hợp hệ thống chưa có sẵn"
 
 #: pla-site.toml:[cat_comments.portable]
-#, fuzzy
 msgctxt "portable"
 msgid "Here are listed $COUNT portable programs NOT in AppImage format"
-msgstr "Dưới đây là danh sách $COUNT chương trình cho thể loại này"
+msgstr "Dưới đây là danh sách $COUNT chương trình portable KHÔNG ở định dạng AppImage"
 
 #: pla-site.toml:[cat_comments.portable-cli]
-#, fuzzy
 msgctxt "portable-cli"
 msgid ""
 "Here are listed $COUNT command line utilities: static and dynamic ELF "
