@@ -43,16 +43,15 @@ msgstr "AM-GUI su GitHub"
 
 #: apps.in:48
 msgid "APPLICATIONS"
-msgstr ""
+msgstr "APPLICAZIONI"
 
 #: apps.in:7 apps.in:15
-#, fuzzy
 msgid "APPLICATIONS - PORTABLE LINUX APPS"
-msgstr "Wiki - PORTABLE LINUX APPS"
+msgstr "APPLICAZIONI - PORTABLE LINUX APPS"
 
 #: apps.in:8 apps.in:17
 msgid "APPLICATIONS - Portable Linux Apps full app list."
-msgstr ""
+msgstr "APPLICAZIONI - Elenco completo delle app Portable Linux Apps."
 
 #: wiki.in:85
 msgid "About Aisap sandboxing"
@@ -543,9 +542,8 @@ msgid "Sandboxing example"
 msgstr "Esempio di sandboxing"
 
 #: index.in:80 index.in:509 index.in:555 index.in:592
-#, fuzzy
 msgid "Search Results"
-msgstr "Cerca app"
+msgstr "Risultati della ricerca"
 
 #: cat_page.in:53 index.in:64 apps.in:51
 msgid "Search apps"
@@ -1063,13 +1061,11 @@ msgstr ""
 "sistema non li abbia"
 
 #: pla-site.toml:[cat_comments.portable]
-#, fuzzy
 msgctxt "portable"
 msgid "Here are listed $COUNT portable programs NOT in AppImage format"
-msgstr "Qui sono elencati $COUNT programmi per questa categoria"
+msgstr "Qui sono elencati $COUNT programmi portabili NON in formato AppImage"
 
 #: pla-site.toml:[cat_comments.portable-cli]
-#, fuzzy
 msgctxt "portable-cli"
 msgid ""
 "Here are listed $COUNT command line utilities: static and dynamic ELF "
