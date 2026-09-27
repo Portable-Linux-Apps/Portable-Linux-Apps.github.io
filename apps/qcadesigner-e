@@ -1,7 +1,17 @@
 # qcadesigner-e
 ===
- Extended QCADesigner with estimation of energy dissipation..
+The QCADesigner-E is an extension of the QCADesigner (version 2.0.3) [1] and has been developed at the University of Bremen. The tool, which has been presented in [2] (https://doi.org/10.1109/TCAD.2018.2789782), implements the estimation of the power dissipation of QCA circuits based on the works of Timler and Lent et al. [3-5]. The extension is integrated as an additional simulation module that is based on the Coherence Vector Simulation Engine (CVSE). Further, The QCADesigner-E is fully compatible to QCA designs generated with the QCADesigner version 2.0.3.
+QCADesigner-E is free to use and to modify. However, you must add following references in case of any publication:
+- F. Sill Torres, R. Wille, P. Niemann, and R. Drechsler, “An energy-aware model for the logic synthesis of quantum-dot cellular automata,” IEEE Trans. on CAD of Integrated Circuits and Systems, 2018
+- K. Walus, T. J. Dysart, G. A. Jullien, and R. A. Budiman, “QCADesigner: a rapid design and Simulation tool for quantum-dot cellular automata,” IEEE Transactions on Nanotechnology, vol. 3, pp. 26-31, 2004.
+
+References:
+[1] K. Walus, T. J. Dysart, G. A. Jullien, and R. A. Budiman, “QCADesigner: a rapid design and Simulation tool for quantum-dot cellular automata,” IEEE Transactions on Nanotechnology, vol. 3, pp. 26-31, 2004.
+[2] F. Sill Torres, R. Wille, P. Niemann, and R. Drechsler, “An energy-aware model for the logic synthesis of quantum-dot cellular automata,” IEEE Trans. on CAD of Integrated Circuits and Systems, accepted, to be published in 2018.
+[3] J. Timler and C. S. Lent, “Power gain and dissipation in quantum-dot cellular automata,” Journal of Applied Physics, vol. 91, pp. 823-831, Jan 15 2002.
+[4] C. S. Lent, L. Mo, and L. Yuhui, “Bennett clocking of quantum-dot cellular automata and the limits to binary logic scaling,” Nanotechnology, vol. 17, p. 4240, 2006.
+[5] J. Timler and C. S. Lent, “Maxwell’s demon and quantum-dot cellular automata,” Journal of Applied Physics, vol. 94, pp. 1050-1060, 2003.
 ===
 # SCREENSHOTS: https://camo.githubusercontent.com/103346fda5391337ae0a2707ad08a6d8b60f967a11d0b6bf4e89c6fc338b1bd9/68747470733a2f2f73362e696d6763646e2e6465762f594a4e774c672e706e67
-# SITES: https://github.com/pratyay360/qcadesigner-e
-# BUTTONS: Site::https://fsillt.github.io/QCADesigner-E Donation_Link::https://pratyayupi.surge.sh
+# SITES: https://fsillt.github.io/QCADesigner-E https://github.com/pratyay360/qcadesigner-e
+# BUTTONS: Donation_Link::https://pratyayupi.surge.sh
