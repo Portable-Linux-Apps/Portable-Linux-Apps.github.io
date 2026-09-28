@@ -1,6 +1,16 @@
 # opencoduo-server
 ===
  Reconstructed source for the Call of Duty: United Offensive multiplayer server.
+ You need an original copy of the game to use this.
+
+**Call of Duty: United Offensive** is an expansion pack for the first-person shooter video game **Call of Duty**. It was developed by Gray Matter Studios,with contributions from Pi Studios, and published by Activision.
+
+United Offensive introduces a ranking system to multiplayer. As players' scores increase, they gain ranks. Each rank spawns with new perks/benefits. Multiplayer mode features objectives such as planting or defusing explosives, destroying or protecting objectives, capturing or protecting flags, and assisting friendly flag carriers. The ranks are reset each map and are not persistent.
+
+United Offensive adds three new multiplayer modes to the game: Domination, Capture the Flag, and Base Assault.
+
+**NOTE**: You might want to put the path to your game installation in `~/.config/opencoduo/data-path` for convenience.
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/opencoduo-server-AppImage
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/opencoduo-server/1.webp
+# SITES: https://github.com/opencoduo/coduomp
+# SOURCES: https://github.com/pkgforge-dev/opencoduo-server-AppImage
