@@ -1,0 +1,6 @@
+# termigo
+===
+ Termigo is a lightweight open-source, terminal-first AI-native development environment (ADE) built on Tauri 2 + Rust with a React 19 frontend, extended with a Go command-line companion (termi-go) for automation: agent runs, MCP, skills, and project scaffolding.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/99apps-id/termigo

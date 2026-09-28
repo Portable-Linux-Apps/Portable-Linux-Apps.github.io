@@ -1,0 +1,6 @@
+# smartcut
+===
+ Smart-rendering video cutter: re-encodes only the partial GOPs at the cut points and bit-copies the rest. Built for cutting commercials out of Japanese broadcast recordings (MPEG-2 TS).
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/deepregular/smartcut

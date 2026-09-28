@@ -1,0 +1,6 @@
+# boss-claw
+===
+ BossClaw is a local AI-powered job application assistant for job seekers (built as an Electron desktop app). It runs independently without occupying browser resources and supports major platforms like BOSS Zhipin, Liepin, Zhaopin, and 51job. It automatically parses resumes, uses AI for matching and ranking, generates draft messages, and submits applications.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/yanquan-dozzy/boss-claw

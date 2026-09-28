@@ -1,0 +1,6 @@
+# nova-prism
+===
+ An open-source archiver written in Rust that truly compresses JPEG, PDF, ZIP, and WAV files rather than simply storing them as-is. An alternative to 7-Zip and WinRAR.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/confeden/nova-prism

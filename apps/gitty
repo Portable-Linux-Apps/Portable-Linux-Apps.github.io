@@ -1,0 +1,6 @@
+# gitty
+===
+ A four-pane git history browser for the desktop, in the spirit of lazygit but with real mouse interaction. Double-click to open a file, right-click to copy its path, click two commits to diff them.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/baojie/gitty
