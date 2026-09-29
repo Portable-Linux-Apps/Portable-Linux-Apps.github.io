@@ -1,6 +1,23 @@
 # melo
 ===
- A YouTube integrated native desktop music player.
+A YouTube integrated native desktop music player.
+
+Features:
+- YouTube and YouTube Music search, home feed, mixes and radio
+- Switch between the YouTube accounts in your browsers and any number of guest profiles, each with its own recommendations
+- Crossfade, gapless playback and silence skipping
+- Library and playlists, with offline downloads and local file import
+- Automatic tagging from MusicBrainz, Deezer and Last.fm
+- Time-synced lyrics that follow the song line by line
+- 10-band equaliser and MilkDrop visualiser
+- 16 built-in themes and a theme editor that restyles every control, layers dozens of effects and reshapes the window
+- Fully customisable player bar layout
+- Mini player: a compact window with its own layout, and a pop-out queue and visualiser
+- Custom keyboard shortcuts
+- Media keys and MPRIS support
+- Extensive plugin system for new music sources, player bar buttons, custom windows and more
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
-# SITES: https://github.com/melo-foundation/melo
+# SCREENSHOTS: https://raw.githubusercontent.com/melo-foundation/melo/main/.github/screenshots/now-playing.webp https://raw.githubusercontent.com/melo-foundation/melo/main/.github/screenshots/row.webp
+# SITES: https://github.com/melo-foundation/melo https://melo-foundation.github.io/melo/
+# SOURCES: 
+# BUTTONS: Discord::https://discord.gg/T2jHMX6AcG Report_a_bug::https://github.com/melo-foundation/melo/issues/new?template=bug_report.yml
