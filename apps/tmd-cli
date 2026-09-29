@@ -1,0 +1,6 @@
+# tmd-cli
+===
+ A plugin-based, multi-CLI desktop client featuring a native terminal interface and a rich-input composer. It unifies the operation of ten CLIs—omp, pi, kimi, codex, claude, grok, qoder, qoder-cn, dsh, and opencode—and offers first-class support for SSH remote sessions, complemented by a native mobile app and browser-based remote access (via direct LAN connection, Cloudflare, or self-hosted relay).
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/chenxiangning/tmd-cli

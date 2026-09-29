@@ -1,0 +1,6 @@
+# rust-dicom-station
+===
+ Rust DICOM Station (RDS) is an open-source medical imaging and radiotherapy platform written in Rust. It supports DICOM viewing, registration, contour propagation, 4D motion analysis, DVH, RT objects, AI-assisted segmentation, 3D visualization, export, and an MCP server for headless AI-driven workflows.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/alexprotom/rust-dicom-station

@@ -1,0 +1,6 @@
+# arduloops
+===
+ A live stand for seeing ArduPilot loops — copter and plane. Until a vehicle is linked, the app shows a disconnected landing (not a fake copter). HEARTBEAT then mounts the matching shell. SITL in the header starts official firmware SITL from the left rail.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/alex-pokydin/arduloops

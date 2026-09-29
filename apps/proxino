@@ -1,0 +1,6 @@
+# proxino
+===
+ Free, open-source network inspector for mobile HTTPS — a self-hosted alternative to Proxyman/Charles (mitmproxy + FastAPI + React, desktop app via Tauri).
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/anthibo/proxino

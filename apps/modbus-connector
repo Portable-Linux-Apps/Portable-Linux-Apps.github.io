@@ -1,0 +1,6 @@
+# modbus-connector
+===
+ Cross-platform Modbus toolkit (PySide6): master client with register table, polling, live graphs, alarms and bus scanner; device simulator (slave) with register map and expression rules; passive RTU sniffer. EN/RU UI.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/cramen/modbus_connector

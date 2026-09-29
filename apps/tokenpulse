@@ -1,0 +1,6 @@
+# tokenpulse
+===
+ A local-first AI agent token usage monitor (Windows v0.1). Features real-time dashboards, usage trends, cost estimation, and multi-agent support (Claude Code, Codex, Gemini CLI, Qwen, ZCode). Zero configuration; data never leaves your machine.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/alan-houxj/tokenpulse

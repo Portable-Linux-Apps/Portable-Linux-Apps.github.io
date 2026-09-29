@@ -1,0 +1,6 @@
+# correlation
+===
+ Correlation: A high-performance, Material Design GUI tool for the structural and dynamic analysis of liquids, amorphous solids, and crystalline materials. Beyond standard RDF and PAD, it now supports VDOS, VACF, S(Q), and XRD, with parallelized processing and support for major simulation formats (CAR, CELL, ARC, etc.).
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/isurwars/correlation

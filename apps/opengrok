@@ -1,0 +1,6 @@
+# opengrok
+===
+ \"description\": A native Grok desktop workspace. It drives the native Grok CLI via ACP (grok agent stdio), offering feature parity with the Grok for VS Code extension. While the interface adopts the three-column layout found in the Codex or Grok apps, it utilizes a distinct OpenGrok visual style.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/kafei520-cn/opengrok

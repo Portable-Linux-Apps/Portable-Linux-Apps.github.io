@@ -1,0 +1,6 @@
+# linkgauge
+===
+ A cross-platform iperf3 desktop GUI built with Rust, Tauri, and Vue for TCP/UDP/Ping testing, real-time metrics, logs, and reports.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/kissmonx/linkgauge

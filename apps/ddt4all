@@ -1,0 +1,6 @@
+# ddt4all
+===
+ OBD tool. DDT4ALL is a cross-platform diagnostic application for CAN bus vehicle networks. It lets you create your own ECU parameter screens and communicate with ECUs through various OBD-II interfaces, including ELM327, Vlinker FS, VGate iCar Pro, OBDLink SX/EX and ELS27 adapters.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/cedricp/ddt4all

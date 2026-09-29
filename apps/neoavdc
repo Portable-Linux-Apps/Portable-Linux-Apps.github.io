@@ -1,0 +1,6 @@
+# neoavdc
+===
+ Local AV metadata scraper & NFO generator for Kodi/Emby/Jellyfin/Plex/Infuse. Electron + React + TypeScript rewrite of AVDC, with multi-source routing (JavBus/JavDB/Jav321/FC2/HEYZO), sharp poster cropping, and on-device-only data.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/haoo999/neoavdc

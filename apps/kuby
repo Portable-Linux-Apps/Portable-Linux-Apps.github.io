@@ -1,0 +1,6 @@
+# kuby
+===
+ Native multi-cluster Kubernetes desktop client built with Tauri 2, Rust (kube-rs), and SolidJS.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/cyberline/kuby

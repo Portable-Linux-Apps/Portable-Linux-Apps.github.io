@@ -1,0 +1,6 @@
+# dbv-typst-editor
+===
+ A document-first desktop editor for Typst. Start from a template, write, and watch the PDF update as you type. Lightweight, offline-first, cross-platform. Built with Rust, Tauri v2 and CodeMirror 6.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/davidbuenov/dbv-typst-editor

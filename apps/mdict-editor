@@ -1,0 +1,6 @@
+# mdict-editor
+===
+ Visual editor for MDict .mdx/.mdd dictionaries — category-managed resources, CodeMirror editing with Ctrl+Click resource jumps, compression pipeline, export with optional lossy copies. Built on mdictlib (Rust) + Tauri 2 + Svelte 5.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/lonelam/mdict-editor

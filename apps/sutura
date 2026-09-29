@@ -1,0 +1,6 @@
+# sutura
+===
+ Watertight STL/3MF/OBJ mesh repair for 3D printing. Sutura Triage Engine: two-stage PyMeshLab + manifold3d core with 15 ranked repair methods (Graft shell wrap, Transplant repeat repair, fTetWild and more) and a reload-honest watertight verdict.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/krateian/sutura

@@ -1,0 +1,6 @@
+# dawn
+===
+ An installer and launcher for Dawn. Dawn adds authored Lua missions, native gameplay systems, and an in-game loadout studio. The player release includes the DLL, mission scripts, default settings, vendor rules, and event presets together. The game itself is not included.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/echo-matt/dawn-installer

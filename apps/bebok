@@ -1,0 +1,6 @@
+# bebok
+===
+ Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an Angular 20 zoneless client, Tauri 2 desktop shell(and mobile in near future). OpenAI/Anthropic/Z.ai/Ollama + more, MCP bridge, permission engine, PTY terminal.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/henrykbrzoska/bebok

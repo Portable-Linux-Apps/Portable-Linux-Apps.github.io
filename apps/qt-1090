@@ -1,0 +1,6 @@
+# qt-1090
+===
+ 1090 software being rewritten in C++ and extended with a (kind of) GUI. qt-1090 is a variant of the popular Dump1090 program. The latter was designed as a command line utility for RTLSDR devices.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/jvankatwijk/qt-1090

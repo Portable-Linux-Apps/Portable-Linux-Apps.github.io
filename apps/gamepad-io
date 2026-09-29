@@ -1,0 +1,6 @@
+# gamepad-io
+===
+ Exposes gamepad events over socket.io for use in other applications.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/josephdadams/gamepad-io

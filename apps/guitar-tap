@@ -1,0 +1,6 @@
+# guitar-tap
+===
+ Tap-tone analysis for luthiers — capture a tap, run an FFT, and reveal guitar resonant modes and tonewood stiffness. Cross-platform Python/PySide6.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/dwsdolce/guitar_tap

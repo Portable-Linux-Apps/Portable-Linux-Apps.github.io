@@ -1,0 +1,6 @@
+# remarkable-webui
+===
+ Local web interface for reMarkable paper tablets over SSH. Works over the USB cable with no wifi, and over wifi when SSH is enabled there.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/mahiatlinux/remarkable-webui

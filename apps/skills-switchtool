@@ -1,0 +1,6 @@
+# skills-switchtool
+===
+ A centralized management tool for project-based Agent Skills featuring a central repository, one-click switching, and snapshot rollbacks; supports 10 agent platforms—including Claude Code, Kimi Code, Cursor, and Codex—across Electron desktop apps, CLI, and TUI.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/chongrong1234/skills_switchtool
