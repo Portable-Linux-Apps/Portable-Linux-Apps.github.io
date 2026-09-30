@@ -1,0 +1,6 @@
+# anymeal
+===
+ AnyMeal is a free and open source recipe management software developed using SQLite3, Qt6, flex, libiconv, NSIS, and Googletest. It can manage a cookbook with more than 250,000 MealMaster recipes, thereby allowing to import, export, search, display, edit, and print them. AnyMeal is available for GNU/Linux and Microsoft Windows.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/wedesoft/anymeal

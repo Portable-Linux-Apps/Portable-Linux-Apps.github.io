@@ -1,0 +1,6 @@
+# cycloidgen
+===
+ Parametric cycloidal drive (gearbox) generator: exact conjugate geometry, live 2D and 3D, 56 self-explaining checks, a full engineering datasheet — contact stress, stiffness, backlash, transmission error, thermal, mass — requirements-driven design search, and DXF/SVG/STEP/STL/3MF/GIF/BOM/PDF output.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/medinstech/cycloidgen

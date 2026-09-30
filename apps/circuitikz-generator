@@ -1,0 +1,6 @@
+# circuitikz-generator
+===
+ This software is a tool for designing electronic circuits using LaTeX. With an intuitive graphical interface, you can create complex circuits quickly and easily, while the LaTeX code generator translates your designs into code compatible with the LaTeX circuitikz library.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/mixdor/circuitikz-generator

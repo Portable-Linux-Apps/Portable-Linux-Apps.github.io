@@ -1,0 +1,6 @@
+# aster
+===
+ A 28 MB local-first Kubernetes desktop client. Native Tauri shell + Go sidecar, keyboard-first, no account, no telemetry.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/zjy365/aster

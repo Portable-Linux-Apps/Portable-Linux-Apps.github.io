@@ -1,0 +1,6 @@
+# corvusgcs
+===
+ Offline-first ground control station for PX4 and ArduPilot autonomous aircraft. Live map, floating flight HUD, guided sensor calibration, motor and safety setup, parameter editing and built-in flight-log review. One self-contained desktop app for Windows, macOS and Linux, no internet required.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/m-bsquared/corvusgcs

@@ -1,0 +1,6 @@
+# msg-reader
+===
+ Simple tool that allows you to view .msg files from \"Old MS Outlook\". \"New MS Outlook\" requires an \"Office 365\" subscription to open .msg-Files, but hasn't implemented any way to confirm an active subscription, yet (it seems).
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/rasalas/msg-reader

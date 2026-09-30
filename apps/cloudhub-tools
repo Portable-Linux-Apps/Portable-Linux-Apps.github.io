@@ -1,0 +1,6 @@
+# cloudhub-tools
+===
+ A local-first, multi-cloud resource management desktop application. CloudHub Tools consolidates accounts, servers, domains, databases, and storage resources from various cloud providers into a single native client for centralized management. It offers features such as domain resolution, object storage browsing, server connectivity, dashboard views, and operation auditing.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/wlphp/cloudhub-tools

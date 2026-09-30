@@ -1,0 +1,6 @@
+# hyperswitch
+===
+ A desktop configuration manager. Keep API providers and models in one place, then write them into each tool’s own config files—so you are not editing Claude Code, Codex, OpenCode, Grok, and the rest by hand.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/wanxiaace/hyperswitch

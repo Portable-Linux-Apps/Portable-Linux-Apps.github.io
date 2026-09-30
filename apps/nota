@@ -1,0 +1,6 @@
+# nota
+===
+ Nota is a free cross-platform digital audio workstation (DAW). The audio engine and DSP are a portable C++20 core; the UI is Avalonia (.NET). Plugin hosting (VST3, plus AU on macOS) runs through JUCE, isolated in its own module so the engine core stays JUCE-free.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/nota-daw/nota

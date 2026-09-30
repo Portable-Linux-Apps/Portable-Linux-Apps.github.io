@@ -1,0 +1,6 @@
+# chess-in-qt
+===
+ Two player chess for the desktop, in Qt 6. Full FIDE rules, verified against published perft counts.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/sanketsudake/chess-in-qt

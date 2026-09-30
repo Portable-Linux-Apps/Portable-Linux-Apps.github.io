@@ -1,0 +1,6 @@
+# usage-monitor
+===
+ Tray app for live Claude, Codex, Grok, and 9Router quota. Reads existing CLI logins. No API keys.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/ruwiss/usage_monitor

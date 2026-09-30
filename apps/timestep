@@ -1,0 +1,6 @@
+# timestep
+===
+ A SQL-based timeseries viewer for EnergyPlus output. Timestep is a cross-platform desktop app (Electron + React) that loads EnergyPlus simulation results and lets you explore the timeseries interactively — line charts, heatmaps, histograms, scatter plots, and summary statistics — without writing any SQL.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/michaelsweeney/timestep

@@ -1,0 +1,6 @@
+# openharness
+===
+ A desktop app for DeepSeek Harness, bundling its runtime and Web UI in a Tauri window with no Node.js or CLI setup required.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/microspotlight/openharness
