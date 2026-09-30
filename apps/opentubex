@@ -1,8 +1,15 @@
 # opentubex
 ===
- A FreeTube fork with extra features for privacy.
+OpenTubeX is an open-source, privacy-focused YouTube client. Watch videos without ads or a Google account, with subscriptions, playlists and history stored on your device by default.
+
+- Organize subscriptions into profiles and choose which videos, Shorts, live streams and posts appear in your feed.
+- Browse in tabs, build a playback queue and keep watching with the mini-player.
+- Skip sponsored segments with SponsorBlock and replace clickbait titles and thumbnails with DeArrow.
+- Customize themes, keyboard shortcuts, your Home page and playback preferences for each channel.
+- Search your watch history and see your viewing time in daily and weekly charts.
+- Optionally sync your library across devices, with end-to-end encryption available on compatible sync servers.
 ===
-# SCREENSHOTS: /contribute_ss.webp
-# SITES: https://github.com/opentubex/opentubex
-# SOURCES: https://github.com/opentubex/opentubex
+# SCREENSHOTS: https://raw.githubusercontent.com/OpenTubeX/OpenTubeX/development/docs/screenshots/OpenTubeX1-dark.png https://raw.githubusercontent.com/OpenTubeX/OpenTubeX/development/docs/screenshots/OpenTubeX2-dark.png https://raw.githubusercontent.com/OpenTubeX/OpenTubeX/development/docs/screenshots/OpenTubeX3-dark.png
+# SITES: https://opentubex.org https://github.com/OpenTubeX/OpenTubeX
+# SOURCES: https://github.com/OpenTubeX/OpenTubeX
 # BUTTONS: 
