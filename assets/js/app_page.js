@@ -8,9 +8,18 @@
     return;
   }
 
+  // Set when the JSON itself could not be loaded, so the handler below can
+  // tell a missing data file apart from a failure while building the page.
+  var loadFailed = false;
+
   fetch( '/app/' + encodeURIComponent(name) + '.json')
     .then(function(r) {
-      if (!r.ok) throw new Error('Not found');
+      if (!r.ok) {
+        var httpError = new Error('HTTP ' + r.status + ' ' + r.statusText);
+        httpError.appName = name;
+        loadFailed = true;
+        throw httpError;
+      }
       return r.json();
     })
     .then(function(app) {
@@ -175,7 +184,21 @@
       document.title = (app.name || name).toUpperCase() + ' - PORTABLE LINUX APPS';
     })
     .catch(function(err) {
-      root.innerHTML = '<div class="error-box"><h2>App not found</h2><p>Could not load data for <strong>' + escapeHtml(name) + '</strong>.</p></div>';
+      console.error('app_page: failed to build app page for "' + name + '"', err);
+
+      if (loadFailed) {
+        var status = err && err.message ? err.message : 'request failed';
+        root.innerHTML = '<div class="error-box"><h2>App data not found</h2>' +
+          '<p>Could not load <strong>' + escapeHtml(name) + '</strong>.json (' + escapeHtml(status) + ')</p></div>';
+        return;
+      }
+
+      // The JSON loaded fine, so the data exists and something in rendering
+      // it broke. Saying "not found" here would send people hunting for a
+      // file that is present and correct.
+      root.innerHTML = '<div class="error-box"><h2>Could not display this app</h2>' +
+        '<p>The data for <strong>' + escapeHtml(name) + '</strong> loaded, but the page failed to build.</p>' +
+        '<p>See the browser console for the error.</p></div>';
     });
 
   function escapeHtml(s) {
