@@ -1,6 +1,19 @@
 # sshpilot
 ===
- User-friendly, cross-platform SSH connection manager.
+User-friendly, cross-platform SSH connection manager.
+Features:
+- Works with your existing `~/.ssh/config`
+- Integrated terminal with tabbed interface and split view support (works with your favorite terminal apps too)
+- Intuitive, minimal UI with keyboard navigation and customizable shortcuts
+- Built-in SFTP dual-pane file manager
+- SCP download/upload support
+- Key transfer to server (ssh-copy-id)
+- Known hosts and Authorized keys management (local & remote)
+- Graphical Docker container manager
+- Support for various secure storage backends (libsecret, Keepass, Bitwarden/Vaultwarden, pass)
+- Backup and restore to/from Bitwarden/Vaultwarden, or your own servers (supports app settings, secrets and keys)
+- Snippets for quick execution of scripts/commands
+- Extensible via plugins
 ===
-# SCREENSHOTS: https://raw.githubusercontent.com/mfat/sshpilot/66a6027109592b744c98a3374ab5d12af5e0647d/screenshots/main-nofm.png
+# SCREENSHOTS: https://raw.githubusercontent.com/mfat/sshpilot/main/screenshots/main-nofm.webp https://raw.githubusercontent.com/mfat/sshpilot/main/screenshots/main-window.webp https://raw.githubusercontent.com/mfat/sshpilot/main/screenshots/backup.webp https://raw.githubusercontent.com/mfat/sshpilot/main/screenshots/connection.commands-new.webp
 # SITES: https://github.com/mfat/sshpilot
