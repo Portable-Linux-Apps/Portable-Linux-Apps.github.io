@@ -11,9 +11,20 @@
   // Set when the JSON itself could not be loaded, so the handler below can
   // tell a missing data file apart from a failure while building the page.
   var loadFailed = false;
+  // True only once the server has actually answered, so a 404 can be told
+  // apart from a request that never got that far.
+  var gotResponse = false;
 
   fetch( '/app/' + encodeURIComponent(name) + '.json')
+    .catch(function(err) {
+      // The request never produced a response: DNS, connection reset, CORS,
+      // offline, or the server closing the socket. There is no status code to
+      // report, so mark it here rather than in the !r.ok branch below.
+      loadFailed = true;
+      throw err;
+    })
     .then(function(r) {
+      gotResponse = true;
       if (!r.ok) {
         var httpError = new Error('HTTP ' + r.status + ' ' + r.statusText);
         httpError.appName = name;
@@ -187,9 +198,18 @@
       console.error('app_page: failed to build app page for "' + name + '"', err);
 
       if (loadFailed) {
-        var status = err && err.message ? err.message : 'request failed';
-        root.innerHTML = '<div class="error-box"><h2>App data not found</h2>' +
-          '<p>Could not load <strong>' + escapeHtml(name) + '</strong>.json (' + escapeHtml(status) + ')</p></div>';
+        var reason = err && err.message ? err.message : 'request failed';
+        // A missing file and an unreachable server look identical from here
+        // without the status, so only claim the file is missing when the
+        // server actually answered.
+        if (gotResponse) {
+          root.innerHTML = '<div class="error-box"><h2>App data not found</h2>' +
+            '<p>The server responded ' + escapeHtml(reason) + ' for <strong>' + escapeHtml(name) + '</strong>.json.</p></div>';
+        } else {
+          root.innerHTML = '<div class="error-box"><h2>Could not reach the server</h2>' +
+            '<p>The request for <strong>' + escapeHtml(name) + '</strong>.json failed before a response arrived. ' +
+            'The file may well exist; the connection is what failed.</p></div>';
+        }
         return;
       }
 
