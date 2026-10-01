@@ -1,6 +1,19 @@
 # xed
 ===
- xed is a small and lightweight text editor.
+ xed is a small and lightweight text editor. xed supports most standard editing features, plus several not found in your typical text editor including plugins. The plugins allow a variety of tasks related to text editing.
+ 
+ **Key Features**
+ - Complete support for UTF-8 text
+ - Syntax highlighting
+ - Support for editing remote files
+ - Search and Replace
+ - Printing and Print Previewing Support
+ - File Revert
+ - A complete preferences interface
+ - Configurable Plugin system, with optional python support
+ 
+ **License:** GNU General Public License v2.0
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/xed-appimage
+# SCREENSHOTS: https://raw.githubusercontent.com/aashiashique/ss/refs/heads/main/xed/1.webp https://raw.githubusercontent.com/aashiashique/ss/refs/heads/main/xed/2.webp
+# SITES: https://github.com/linuxmint/xed
+# SOURCES: https://github.com/pkgforge-dev/Xed-AppImage
