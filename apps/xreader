@@ -1,6 +1,18 @@
 # xreader
 ===
- Xreader is a multi-page document viewer
+ Xreader is a document viewer capable of displaying multiple and single page document formats.
+ 
+ It can display and print PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, XPS and Portable Document Format (PDF) files.
+ 
+ Key Features
+ - Bookmarks.
+ - Thumbnails.
+ - Full screen mode.
+ - Presentation mode.
+ - Preview mode.
+ 
+ License: GNU General Public License v2.0
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
-# SITES: https://github.com/pkgforge-dev/xreader-appimage
+# SCREENSHOTS: https://raw.githubusercontent.com/aashiashique/app-screenshot/refs/heads/main/xreader/1.webp https://raw.githubusercontent.com/aashiashique/app-screenshot/refs/heads/main/xreader/2.webp https://raw.githubusercontent.com/aashiashique/app-screenshot/refs/heads/main/xreader/3.webp https://raw.githubusercontent.com/aashiashique/app-screenshot/refs/heads/main/xreader/4.webp
+# SITES: https://github.com/linuxmint/xreader
+# Sources: https://github.com/pkgforge-dev/xreader-appimage
