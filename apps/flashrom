@@ -9,7 +9,7 @@ Features:
 - Cross-platform hardware probing and detailed chipset diagnostics
 - Essential tool for firmware recovery, flashing coreboot, and hardware engineering
 ===
-# SCREENSHOTS: /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/aashiashique/app-screenshot/refs/heads/main/flashrom/1.webp https://raw.githubusercontent.com/aashiashique/app-screenshot/refs/heads/main/flashrom/2.webp
 # SITES: https://flashrom.org/index.html
 # SOURCES: https://github.com/pkgforge-dev/flashrom-appimage
 # BUTTONS: 
