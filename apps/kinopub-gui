@@ -1,0 +1,6 @@
+# kinopub-gui
+===
+ Desktop-grade web GUI for kino.pub — browse the full catalog, preview titles in a built-in player, and download full-fidelity video (every audio track & subtitle, whole series) with live progress. Official kino.pub API; single Go binary with an embedded React UI.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/zioshik/kinopub-gui

@@ -1,0 +1,6 @@
+# airlock-relay
+===
+ Give agents capabilities. Keep credentials local. A local relay that gives AI agents, scripts, and automation controlled access to HTTP, SSH, and LLM APIs — without exposing real URLs, passwords, or API keys.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/louisonh/airlock-relay

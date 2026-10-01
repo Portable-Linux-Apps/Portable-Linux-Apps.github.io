@@ -1,0 +1,6 @@
+# musacad
+===
+ High-performance, multi-threaded 2D CAD in modern C++23 — AutoCAD-style ribbon UI, GPU-accelerated 144 Hz+ viewport, own geometry kernel, DXF/DWG, and true vector PDF plotting. Linux & Windows. LGPL-3.0.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/musacad/musacad

@@ -1,0 +1,6 @@
+# moonlighttizeninstaller
+===
+ Desktop app that installs the Moonlight game-streaming client on Samsung Tizen TVs, handling the SDB connection and Samsung certificate signing. Built with Electron, with Docker support.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/smookeydev/moonlighttizeninstaller

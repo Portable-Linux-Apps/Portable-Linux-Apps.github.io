@@ -1,0 +1,6 @@
+# lerxu
+===
+ A modern download manager powered by the in-house XferRust engine (native Rust implementation), optimized for Windows, macOS, Linux, and Android. Downloads run over HTTP(S), BitTorrent (including magnet links) and HLS (M3U8) playlists, with uTP transport, automatic port mapping, automatic tracker synchronization, task prioritization, batch manageme.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/mochengck/lerxu

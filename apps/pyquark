@@ -1,0 +1,6 @@
+# pyquark
+===
+ PyQuark is a Python-based USB tool for Nintendo Switch that enables a \"Virtual File System\" (VFS) for homebrew installers like Goldleaf and DBI. It allows the console to browse and install content directly from RAR archives (including multi-volume sets) and XCI files by transparently \"masking\" them as standard NSP files in real-time.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/zannael/pyquark

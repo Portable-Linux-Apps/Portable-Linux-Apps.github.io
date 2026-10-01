@@ -1,0 +1,6 @@
+# careless-whisper
+===
+ A lightweight, always-on desktop app for local voice-to-text transcription. Lives in the system tray / menu bar, records on a global hotkey, transcribes locally with Whisper, and pastes the result into your focused app. No cloud. No data leaves your machine.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/yarivgilad/careless-whisper

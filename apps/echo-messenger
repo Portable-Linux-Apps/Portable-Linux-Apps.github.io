@@ -1,0 +1,6 @@
+# echo-messenger
+===
+ Lightweight, cross-platform encrypted messenger. Rust server + Flutter UI + Signal Protocol (X3DH + Double Ratchet).
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/nc1107/echo-messenger

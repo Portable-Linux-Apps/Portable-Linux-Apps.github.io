@@ -1,0 +1,6 @@
+# quobi-dictation
+===
+ Private, on-device dictation for desktop. NVIDIA Parakeet speech-to-text + a fine-tuned cleanup model turn speech into polished text. No cloud, no API key; any GPU via Vulkan.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/quobi-ai/quobi-dictation

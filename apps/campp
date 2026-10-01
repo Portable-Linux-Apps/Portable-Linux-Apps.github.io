@@ -1,0 +1,6 @@
+# campp
+===
+ A cross-platform local web development stack desktop application. CAMPP bundles Caddy (web server), PHP-FPM (PHP runtime), MySQL/MariaDB (database), and phpMyAdmin with no external dependencies after installation.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/karnyong/campp

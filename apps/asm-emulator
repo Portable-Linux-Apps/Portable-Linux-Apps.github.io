@@ -1,0 +1,6 @@
+# asm-emulator
+===
+ A beautiful, offline-first 8086 assembly language emulator with an integrated code editor. Built with Tauri (22MB) for desktop and mobile web.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/resolutefemi/asm-emulator

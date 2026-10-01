@@ -1,0 +1,6 @@
+# claude-code-usage-tracker
+===
+ Claude Code Usage Tracker is a lightweight utility designed to monitor your Anthropic API consumption. It parses activity logs to track token usage, estimate costs, and visualize trends in real-time. By parsing activity logs, it can track token usage, estimate costs, and visualize usage trends in real time. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/lyndonwangwork/claude-code-usage-tracker

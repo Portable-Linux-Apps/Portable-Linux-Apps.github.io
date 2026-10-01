@@ -1,0 +1,6 @@
+# emojify
+===
+ Emojify is a lightweight, native emoji picker for the Linux desktop. Built with C++ and gtkmm-4.0 it provides a fast, responsive, and visually consistent experience for GNOME and other modern desktop environments.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/riothedev/emojify

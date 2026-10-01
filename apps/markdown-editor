@@ -1,0 +1,6 @@
+# markdown-editor
+===
+ Lightweight, native WYSIWYG Markdown editor (Qt6/C++, no Electron): TeX formulas, Mermaid/PlantUML diagrams, tabs, spell check, export to PDF/HTML/LaTeX/ODT/DOCX/EPUB, and UI in 9 languages.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/manuelariascalleja/markdown-editor

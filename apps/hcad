@@ -1,0 +1,6 @@
+# hcad
+===
+ A SolidWorks-style parametric CAD modeler in Rust — constraint sketching, full part features, assemblies, and STL reverse-engineering. Windows & Linux.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/tibiaworx/hcad

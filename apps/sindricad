@@ -1,0 +1,6 @@
+# sindricad
+===
+ SindriCAD is a history-based solid modeler. You sketch, extrude, fillet, and pattern your way to a part, and every step stays editable in a feature tree. It is not a mesh editor, and it is not a geometry kernel of its own. It drives build123d on top of OpenCASCADE for the actual geometry, and puts a real modeling UI and a print workflow on top.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/makerviking/sindricad

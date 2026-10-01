@@ -1,0 +1,6 @@
+# corsair-xeneon-edge-linux
+===
+ Native Linux control for the CORSAIR XENEON EDGE 14.5 inch LCD touchscreen. No iCUE, no Windows. DDC/CI picture control, reverse-engineered HID access, and a full touchscreen experience (calibration, independent pointer, ripple indicator). Qt6, GPL-3.0.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/aabdelghani/corsair-xeneon-edge-linux

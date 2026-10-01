@@ -1,0 +1,6 @@
+# securevault
+===
+ 🔐 Purely native cross-platform desktop password manager based on Tauri v2 + React 19 + Rust. Supports Argon2id/PBKDF2 + AES-256-GCM encryption, data is 100% offline and never connected to the Internet. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/novanjex/securevault

@@ -1,0 +1,6 @@
+# cellforge
+===
+ Fast Jupyter alternative built in Rust + React. Multi-kernel notebooks (Python/R/Julia), real-time   collaboration, reactive execution, PDF export via Typst, built-in charts, plugin system, hub mode for   teams. Single portable binary — download, run, done.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/subbok/cellforge

@@ -1,0 +1,6 @@
+# localguard
+===
+ Transparent HTTP proxy that redacts secrets and PII before they reach LLM providers. Works with OpenAI, Anthropic, Gemini, and 25+ providers.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/lexus2016/localguard

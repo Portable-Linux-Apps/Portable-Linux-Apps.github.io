@@ -1,0 +1,6 @@
+# netkeeper
+===
+ NetKeeper (Campus Network Keep-Alive Assistant) is a Windows/Linux desktop application based on Electron + Vue 3 + TypeScript + Vite. It is used to automatically detect the campus network connectivity status and automatically re-authenticate when the external network is unreachable. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/tangrj-git/netkeeper

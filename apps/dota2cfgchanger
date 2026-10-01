@@ -1,0 +1,6 @@
+# dota2cfgchanger
+===
+ Standalone C++ приложение для менеджмента конфигов Dota 2. Написано на ImGui + GLFW + cpr.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/outtuna/dota2cfgchanger

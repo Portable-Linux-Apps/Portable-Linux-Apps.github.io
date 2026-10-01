@@ -1,0 +1,6 @@
+# lightning-p2p
+===
+ Send files between devices without a cloud upload or account. Open-source P2P transfer and chat, built with Rust, Tauri, QUIC & BLAKE3. Desktop, Android, browser receiver & CLI; availability varies by release.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/kerim-sabic/lightning-p2p

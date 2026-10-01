@@ -1,0 +1,6 @@
+# cli-launcher
+===
+ Cross-platform desktop launcher for AI coding CLIs. Install, update, uninstall, and launch 17 terminal AI agents (Claude Code, OpenCode, Gemini CLI, GitHub Copilot, Aider, and more) from one mac-style panel. Built with Electron + React + TypeScript + Vite + Tailwind CSS.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/madblast0/cli-launcher

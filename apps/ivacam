@@ -1,0 +1,6 @@
+# ivacam
+===
+ Open-source CAM for hobby CNC: DXF/SVG to G-code for mills, lasers, plasma cutters & drag knives. Profile, pocket, drill, V-carve, engrave, chamfer, thread, tabs; 2D/3D toolpath & material-removal simulation; tool library. Rust core, Tauri desktop (Linux/macOS/Windows) + Android, in-browser WebAssembly. GRBL/LinuxCNC compatible,GPL-3.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/aalarchiv/ivacam

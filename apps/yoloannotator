@@ -1,0 +1,6 @@
+# yoloannotator
+===
+ A lightweight YOLO dataset annotation tool that reads and writes YOLO-format text files directly; it is ready to use out of the box, saves changes immediately, and requires no format conversion.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/misaka21/yoloannotator

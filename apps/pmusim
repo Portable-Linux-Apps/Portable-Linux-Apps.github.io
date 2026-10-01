@@ -1,0 +1,6 @@
+# pmusim
+===
+ Cross-platform desktop PMU (synchrophasor) master-station simulator — speaks China's Q/GDW 131-2006 (V2) and GB/T 26865.2-2011 (V3) data-transmission protocols. Rust + Tauri.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/karl-dai/pmusim

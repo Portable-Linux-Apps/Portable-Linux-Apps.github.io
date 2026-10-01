@@ -1,0 +1,6 @@
+# vid-translate
+===
+ Tauri desktop app for live JA/ES → EN video translation; Vosk ASR + CTranslate2 (int8-quantized MarianMT), paced-reveal captions, cross-platform CI release pipeline (AppImage/.deb/.msi).
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/pager-dot/vid_translate

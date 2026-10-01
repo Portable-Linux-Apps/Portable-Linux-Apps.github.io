@@ -1,0 +1,6 @@
+# md-reader
+===
+ A lightweight and fast Markdown viewer & reader for Windows. Tauri 2 + Vue 3, 5MB, supports KaTeX math, Mermaid diagrams, syntax highlighting, full-text search, and WYSIWYG PDF export via Edge..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/neilooo/md-reader

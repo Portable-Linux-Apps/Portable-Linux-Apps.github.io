@@ -1,0 +1,6 @@
+# rproc
+===
+ A Linux resource & process monitor inspired by Windows 11's Task Manager. Written in Rust with Slint.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/trystan-sa/rproc

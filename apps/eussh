@@ -1,0 +1,6 @@
+# eussh
+===
+ Eussh is a cross-platform SSH client built with Tauri v2, featuring a clean interface and excellent performance. It supports multi-tab management, file management, batch command execution, and host key verification.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/willsat/eussh

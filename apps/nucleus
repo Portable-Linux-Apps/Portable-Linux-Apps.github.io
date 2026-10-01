@@ -1,0 +1,6 @@
+# nucleus
+===
+ Native desktop platform for the JVM. Compose Multiplatform apps with real OS integration — native window decorations, notifications, taskbar and dock, code signing, installers, auto-update — packaged for macOS, Windows and Linux from a single Gradle DSL. Runs on the JVM or as a GraalVM native image.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/nucleusframework/nucleus

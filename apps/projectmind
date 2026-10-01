@@ -1,0 +1,6 @@
+# projectmind
+===
+ AI-driven architecture browser: MCP server + desktop app. Claude Code, Codex & other AI agents explain your codebase with guided walkthroughs, diagrams and visual artifacts. Read-only, local-first. Tauri + Rust + Svelte.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/plaintext-gmbh/projectmind

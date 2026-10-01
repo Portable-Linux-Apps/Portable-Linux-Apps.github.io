@@ -1,0 +1,6 @@
+# satellite
+===
+ The Satellite wireless-gamepad server: receives Dish clients over the LAN and plugs matching virtual controllers into the host PC.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/tinkernorth/satellite

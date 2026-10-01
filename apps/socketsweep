@@ -1,0 +1,6 @@
+# socketsweep
+===
+ A high-performance Android storage analyzer that bypasses MTP using a native C++ daemon, a Rust TCP bridge, and a React Treemap UI.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/vishnusrivatsava/socketsweep
