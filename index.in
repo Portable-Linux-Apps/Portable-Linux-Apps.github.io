@@ -295,7 +295,7 @@ only use **bold**, *italic*, ++underline++, lists markdown here
 </pre>
       <p><em>_("Explanation of the fields:")</em></p>
       <ul>
-        <li><em><code>SCREENSHOTS</code>: _("a space separated list of image URLs")</em></li>
+        <li><em><code>SCREENSHOTS</code>: _("a space separated list of <strong>webp</strong> image URLs")</em></li>
         <li><em><code>SITES</code>: _("space separated site URLs that provide the AppImage")</em></li>
         <li><em><code>SOURCES</code>: _("if you are packaging someone's else's app, link the git repo(s) here")</em></li>
         <li><em><code>BUTTONS</code>: _("space separated button definitions in the form of  <code>Button_Title::URL</code>")</em></li>

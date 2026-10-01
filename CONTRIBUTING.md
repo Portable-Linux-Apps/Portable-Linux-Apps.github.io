@@ -44,7 +44,7 @@ only use **bold**, *italic*, ++underline++, lists markdown here
 ```
 
 - The `# name` line and the description between `===` come from the AM list; you can improve them.
-- `SCREENSHOTS` — a space separated list of image URLs, shown in the gallery of the app page.
+- `SCREENSHOTS` — a space separated list of **webp** image URLs, shown in the gallery of the app page.
 - `SITES` — space separated site URLs that provide the AppImage.
 - `SOURCES` — if you are packaging someone else's app, link the git repo(s) here.
 - `BUTTONS` — space separated button definitions in the form of `Button_Title::URL`, e.g. a donation link.
