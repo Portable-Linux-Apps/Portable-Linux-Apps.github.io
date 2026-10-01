@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   role="img"
+   aria-label="Melodia logo"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="1024"
+   inkscape:export-ydpi="1024"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="24.375"
+     inkscape:cx="22.25641"
+     inkscape:cy="24.984615"
+     inkscape:window-width="2560"
+     inkscape:window-height="1372"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="ml-grad"
+       x1="0"
+       y1="0"
+       x2="48"
+       y2="48"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#89b4fa"
+         id="stop1" />
+      <stop
+         offset="100%"
+         stop-color="#94e2d5"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#ml-grad"
+       id="linearGradient3"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="0"
+       x2="48"
+       y2="48" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#ml-grad"
+       id="linearGradient4"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="0"
+       x2="48"
+       y2="48"
+       gradientTransform="translate(-11.906665,8.1518178)" />
+  </defs>
+  <rect
+     width="48"
+     height="48"
+     rx="14"
+     fill="#1e1e2e"
+     id="rect2"
+     x="0"
+     y="0.010256411" />
+  <path
+     d="M11 36V13l13 13 13-13"
+     stroke="url(#ml-grad)"
+     stroke-width="3.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     id="path2" />
+  <line
+     x1="37.041027"
+     y1="13.226001"
+     x2="37.041027"
+     y2="37.938103"
+     stroke="url(#ml-grad)"
+     stroke-width="3.47979"
+     stroke-linecap="round"
+     id="line2"
+     style="stroke:url(#linearGradient3)" />
+  <ellipse
+     cx="21.893335"
+     cy="46.151817"
+     rx="5.8000002"
+     ry="4"
+     transform="rotate(-15)"
+     fill="url(#ml-grad)"
+     id="ellipse2"
+     style="fill:url(#linearGradient4)" />
+</svg>
