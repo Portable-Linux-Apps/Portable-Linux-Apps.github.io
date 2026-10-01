@@ -1,0 +1,6 @@
+# strypt
+===
+ Remove metadata from photos, PDFs, Office documents, audio and video. Strips EXIF, GPS location, camera serial numbers, author names and timestamps. A desktop app and command-line tool, written in Rust, that works offline.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/fadehack/strypt

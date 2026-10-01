@@ -1,0 +1,6 @@
+# kl4a
+===
+ Extracts claims from SOPs, policies and regulations, has a person approve or reject each one, then serves the approved set to agents over MCP - each claim carrying a byte range to its source sentence. Open Knowledge Format (OKF) bundles, no database.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/cogniswitch/kl4a

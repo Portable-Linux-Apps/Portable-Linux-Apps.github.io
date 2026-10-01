@@ -1,0 +1,6 @@
+# local-lake-notes
+===
+ This is a prototype of a local note-taking application built with Tauri, designed to enable the direct editing of .lake documents on the desktop using the Yuque Lake editor.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/1783cwf/local-lake-notes

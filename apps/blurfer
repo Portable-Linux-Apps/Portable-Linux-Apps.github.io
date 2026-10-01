@@ -1,0 +1,6 @@
+# blurfer
+===
+ Blurfer is a modern, cross-platform payload manager and sender for Windows, Linux, and Android. It sends files as raw bytes over TCP and provides a highly customisable, reusable payload queue with per-file ports, delays, ordering, and built-in GitHub release integration.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/itsblurf/blurfer

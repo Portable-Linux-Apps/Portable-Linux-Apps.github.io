@@ -1,0 +1,6 @@
+# image-toolkit
+===
+ Fast, open-source desktop image toolkit for converting, compressing, resizing, and optimizing images. Built with Tauri, Rust, React, and ImageMagick. Supports WebP, PNG, JPEG, AVIF, TIFF, BMP, GIF, and batch image processing across Windows, Linux, and macOS.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/aliazadi-1776/image-toolkit

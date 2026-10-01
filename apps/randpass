@@ -1,0 +1,6 @@
+# randpass
+===
+ CLI password generator with interactive TUI and cryptographic-grade RNG (BigCrush/Dieharder validated).
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/brandonleedotdev/randpass

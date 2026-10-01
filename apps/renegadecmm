@@ -1,0 +1,6 @@
+# renegadecmm
+===
+ A unified desktop app for managing ComfyUI models. Browse and download from CivitAI, auto-organize into folders, track updates, detect duplicates, and handle version management with intelligent routing for SD models, GGUFs, and HuggingFace caches. Features SHA256 verification, resume support, and cross-device settings sync.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/devnullinc/renegadecmm

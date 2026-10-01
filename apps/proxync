@@ -1,0 +1,6 @@
+# proxync
+===
+ Local-first developer workspace combining 1-click Proxync-Tunnel and Cloudflare routing, live TCP traffic logging, Postman Studio, multi-framework route parser, and OpenAPI 3.0 spec generation. Built with Tauri v2, Rust & React.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/inilax/proxync

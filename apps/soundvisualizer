@@ -1,0 +1,6 @@
+# soundvisualizer
+===
+ A multi-monitor desktop audio visualizer that reacts to system audio in real time (Electron + WebGL, native WASAPI loopback). Own engine (modes, layers, shaders) + MilkDrop, OBS overlay, Spout/Syphon.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/cayatur/soundvisualizer

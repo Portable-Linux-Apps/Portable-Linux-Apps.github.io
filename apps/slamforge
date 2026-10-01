@@ -1,0 +1,6 @@
+# slamforge
+===
+ An industrial-grade monocular visual SLAM system implementing the full ORB-SLAM3 pipeline: feature-based tracking with ORB descriptors, local bundle adjustment, Sim(3) loop detection and correction, and global pose graph optimization.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/jackxing875/slamforge

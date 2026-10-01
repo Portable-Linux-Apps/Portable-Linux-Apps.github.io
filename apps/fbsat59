@@ -1,0 +1,6 @@
+# fbsat59
+===
+ Satellite Tracking & Communications — satellite tracking with built-in Hamlib Doppler & Rotator controls, SDR supports, AX.25, APRS, FT4, Q65, Image reception(built-in SatDump), AI CW decoding, telemetry decoding(built-in gr-satellite) and EME.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/jf9som/fbsat59

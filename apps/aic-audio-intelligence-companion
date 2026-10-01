@@ -1,0 +1,6 @@
+# aic-audio-intelligence-companion
+===
+ AIC (Audio Intelligence Companion) est un assistant musical local fonctionnant 100 % hors-ligne. Il analyse votre bibliothèque audio avec le réseau de neurones MusiCNN, indexe les empreintes vectorielles dans LanceDB et génère des playlists sur-mesure grâce à l'algorithme MMR. Développé avec Flet.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/flex1-tech/aic-audio-intelligence-companion

@@ -1,0 +1,6 @@
+# hephaestus
+===
+ Hephaestus is a desktop GUI for managing and monitoring local LLM agents across multiple pi harness environments. Instead of interacting with your agents solely through the command line or log files, Hephaestus reads your existing workspace structure and provides a centralized interface for agent interaction and process monitoring.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/ellian-eorwyn/hephaestus

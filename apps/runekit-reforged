@@ -1,0 +1,6 @@
+# runekit-reforged
+===
+ Alt1-compatible toolkit for RuneScape 3 on Linux. Run clue solvers, XP trackers, AFK alerts, and other Alt1 apps alongside the official RS3 client. Reforged from the original RuneKit —         rebuilt with Python 3.12, Qt6, and modern dependencies for a stable experience on current Linux distros. No game client modification required.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/jcapehart2/runekit-reforged

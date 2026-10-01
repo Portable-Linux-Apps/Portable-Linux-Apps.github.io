@@ -1,0 +1,6 @@
+# memo
+===
+ Local-first AI assistant with real memory, agent tool use, and proactive habits — built with Go + Flutter. Runs fully offline via llama.cpp, recalls context across sessions with local RAG, edits files/runs commands as an agent, and integrates WhatsApp + calendar. No cloud, no telemetry, open source.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/bugraakdemir/memo

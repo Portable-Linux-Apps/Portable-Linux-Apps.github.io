@@ -1,0 +1,6 @@
+# ectoledger
+===
+ A dashcam and emergency brake for AI agents (prototype): a Rust harness that runs agent actions through policy checks and OS sandboxes, and records them in a tamper-evident, signed, independently verifiable audit log.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/ectospace/ectoledger

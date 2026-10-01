@@ -1,0 +1,6 @@
+# simple-code-gui
+===
+ A desktop app for managing multiple Claude Code sessions across different projects. Features a sidebar for saved project folders, tabbed terminal windows, automatic session discovery from ~/.claude, and workspace persistence. Resume conversations where you left off and switch between projects instantly.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/donutsdelivery/simple-code-gui

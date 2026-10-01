@@ -1,0 +1,6 @@
+# filex
+===
+ Self-hosted file manager: one Go binary, a full web UI, and storage that plugs in — local, S3, SFTP, WebDAV, FTP, SMB. The same tree is also reachable AS S3, SFTP, FTPS, NFS and WebDAV, so rclone, restic, WinSCP or a scanner land where the browser does. Embeddable UI, desktop app, built-in MCP server. MIT.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/brf-tech/filex

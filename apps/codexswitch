@@ -1,0 +1,6 @@
+# codexswitch
+===
+ CodexSwitch is a cross-platform Avalonia desktop app that turns Codex into a local, switchable AI provider workstation. It runs an OpenAI Responses-compatible proxy on your machine, writes a managed Codex configuration, routes requests across multiple upstream providers, converts protocol dialects when needed, and keeps local usage and cost records.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/aidotnet/codexswitch

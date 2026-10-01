@@ -1,0 +1,6 @@
+# accord
+===
+ Peer-to-peer end-to-end encrypted messaging, no central server — a Discord clone (Rust + Tauri/React). Ed25519 identities, XChaCha20-Poly1305 sessions, Kademlia DHT, voice, files, NAT traversal.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/gomouu/accord

@@ -1,0 +1,6 @@
+# clif-code
+===
+ AI code editor + terminal coding agent, built in Rust. Works with any LLM via OpenRouter, OpenAI, Anthropic, or Ollama. 20MB native binary, 20 themes, real terminal, git, agent sidebar with tool calling.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/dlhugly/clif-code

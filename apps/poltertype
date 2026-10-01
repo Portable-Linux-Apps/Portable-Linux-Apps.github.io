@@ -1,0 +1,6 @@
+# poltertype
+===
+ Detects typing in the wrong keyboard layout, switches it and fixes the word. Tray app for Windows · macOS · Linux (Wayland & X11). Pure Rust, zero telemetry..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/just-code-net/poltertype

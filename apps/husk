@@ -1,0 +1,6 @@
+# husk
+===
+ A desktop home for your CLI agent. Wraps claude / copilot / codex / aider in a clean Electron window with PTY, MCP, drag-drop context, sessions, voice, and a live status panel. PAI reasoning bundled.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/dorshaer/husk

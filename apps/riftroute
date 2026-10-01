@@ -1,0 +1,6 @@
+# riftroute
+===
+ Safety-first split-tunneling & policy-based routing controller for macOS and Linux. Decide what bypasses your VPN; route changes are atomic and auto-revert if they break connectivity.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/amirhat/riftroute

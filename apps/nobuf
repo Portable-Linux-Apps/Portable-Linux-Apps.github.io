@@ -1,0 +1,6 @@
+# nobuf
+===
+ Zero-buffer video player powered by Telegram channels. Streams via MSE with continuous prebuffering — playback never stalls, even on seeks. Your channels become a video library with unlimited free storage.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/istiaq-edu/nobuf

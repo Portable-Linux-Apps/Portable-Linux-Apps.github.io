@@ -1,0 +1,6 @@
+# gesture-based-drone-control
+===
+ Real-time gesture-to-flight-command pipeline using MediaPipe Hands, rule-based + ML recognition, FastAPI WebSocket backend, and a React/TypeScript telemetry dashboard.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/cos301-se-2026/gesture-based-drone-control

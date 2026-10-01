@@ -1,0 +1,6 @@
+# cortex
+===
+ Persistent shared memory and context compression for AI coding agents. Local-first Rust daemon with HTTP, MCP, and a desktop control center.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/adityavg13/cortex
