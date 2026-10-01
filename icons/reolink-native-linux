@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="shield-lens-tile" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141d27"/>
+      <stop offset="1" stop-color="#0c1015"/>
+    </linearGradient>
+    <linearGradient id="shield-lens-body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#243040"/>
+      <stop offset="1" stop-color="#18202a"/>
+    </linearGradient>
+    <radialGradient id="shield-lens-iris" cx="0.4" cy="0.36" r="0.75">
+      <stop offset="0" stop-color="#5cc0ff"/>
+      <stop offset="0.55" stop-color="#2aa7ff"/>
+      <stop offset="1" stop-color="#1d6faa"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="128" height="128" rx="28" fill="url(#shield-lens-tile)"/>
+
+  <!-- Shield -->
+  <path d="M35 24 L93 24 Q99 24 99 30 L99 62 Q99 90 64 106 Q29 90 29 62 L29 30 Q29 24 35 24 Z"
+        fill="url(#shield-lens-body)" stroke="#2aa7ff" stroke-width="5" stroke-linejoin="round"/>
+  <!-- top sheen line for depth -->
+  <path d="M38 31 L90 31" stroke="#33414f" stroke-width="3" stroke-linecap="round" opacity="0.85"/>
+
+  <!-- Camera lens -->
+  <circle cx="64" cy="56" r="26.5" fill="#10161d" stroke="#2aa7ff" stroke-width="4.5"/>
+  <circle cx="64" cy="56" r="16" fill="url(#shield-lens-iris)"/>
+  <circle cx="64" cy="56" r="7.5" fill="#0c1218"/>
+  <circle cx="57.5" cy="49.5" r="3.4" fill="#e8eef4"/>
+
+  <!-- Live status dot -->
+  <circle cx="64" cy="90" r="5" fill="#46a758" stroke="#10161d" stroke-width="2.5"/>
+</svg>

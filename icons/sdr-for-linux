@@ -1,0 +1,14 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <!-- SDR for Linux — Papirus-style icon: dark blue-grey plate, spectrum trace, VFO line.
+      Construction and palette follow the Papirus icon set conventions. -->
+ <rect x="6" y="8" width="52" height="48" rx="3.319149" ry="3" style="opacity:.2"/>
+ <rect x="6" y="7" width="52" height="48" rx="3.319149" ry="3" style="fill:#4f4f4f"/>
+ <path d="M3 41 L7 43 L10 42 L15 40 L19 43 L23 39 L26 42 L29 31 L32 21 L35 31 L38 42 L42 39 L45 35 L48 42 L54 40 L58 42 L61 41"
+       transform="translate(0 1)"
+       style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:4;stroke:#000000;opacity:.2"/>
+ <path d="M3 41 L7 43 L10 42 L15 40 L19 43 L23 39 L26 42 L29 31 L32 21 L35 31 L38 42 L42 39 L45 35 L48 42 L54 40 L58 42 L61 41"
+       style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:4;stroke:#ffffff"/>
+ <rect x="30.5" y="14" width="3" height="37" style="opacity:.2"/>
+ <rect x="30.5" y="13" width="3" height="37" style="fill:#f44336"/>
+ <path d="m9.3183594 7c-1.8388086 0-3.3183594 1.338-3.3183594 3v1c0-1.662 1.4795508-3 3.3183594-3h45.363282c1.838808 0 3.318359 1.338 3.318359 3v-1c0-1.662-1.479551-3-3.318359-3h-45.363282z" style="fill:#ffffff;opacity:.1"/>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a2f3a"/>
+      <stop offset="1" stop-color="#1a1d24"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="120" height="120" rx="20" fill="url(#bg)"/>
+  <rect x="4" y="4" width="120" height="120" rx="20" fill="none" stroke="#3a4150" stroke-width="2"/>
+  <g>
+    <rect x="22" y="76" width="14" height="32" rx="2" fill="url(#bar)" opacity="0.85"/>
+    <rect x="42" y="56" width="14" height="52" rx="2" fill="url(#bar)" opacity="0.9"/>
+    <rect x="62" y="40" width="14" height="68" rx="2" fill="url(#bar)"/>
+    <rect x="82" y="60" width="14" height="48" rx="2" fill="url(#bar)" opacity="0.9"/>
+  </g>
+  <polyline points="20,52 38,40 58,46 78,28 98,34 110,24"
+            fill="none" stroke="#f97316" stroke-width="3"
+            stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="110" cy="24" r="3.5" fill="#f97316"/>
+</svg>
