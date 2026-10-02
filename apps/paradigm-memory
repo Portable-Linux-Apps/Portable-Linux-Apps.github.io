@@ -1,0 +1,6 @@
+# paradigm-memory
+===
+ Local-first, audited memory MCP for Claude Code, OpenAI Codex, Gemini CLI, Cursor, Cline, Continue and OpenCode. Your agent gets a navigable cognitive map instead of a bloated context file. Zero cloud. SQLite local storage. Every mutation audited.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/infinition/paradigm-memory

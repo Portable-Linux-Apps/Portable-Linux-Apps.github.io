@@ -1,0 +1,6 @@
+# fiber-studio
+===
+ Fiber Studio does not replace fnn or fork the protocol. It is the interface for the same official node: install and run fnn locally, with guided setup and task-based flows instead of CLI-only workflows. For Lightning, Fiber Studio acts as a CCH client — you configure a hub’s JSON-RPC URL; the app does not run LND or the hub itself. Your CKB key file stays on disk; secrets stay in the OS keychain. It is not a hosted wallet.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/chukwuma619/fiber-studio

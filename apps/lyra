@@ -1,0 +1,6 @@
+# lyra
+===
+ A standalone agent with its own model settings. The desktop app is Electron, the phone app is React Native, and they share one session log.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/kittors/lyra

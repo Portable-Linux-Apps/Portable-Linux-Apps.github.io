@@ -1,0 +1,6 @@
+# waliapi
+===
+ WaLiAPI is a locally running LLM API gateway desktop software (Tauri 2 + React + Rust). It supports various LLM vendor channel access, Ollama self-deployment model, CPA ChatGPT channel access, and uniformly supports the conversion and use of Chat Completions / Responses / Anthropic Messages three protocols. Built-in security audit engine, knowledge base RAG (HNSW + FTS5 hybrid retrieval), Wiki knowledge engine and MCP Server (29 tools), used with AI programming tools such as Codex, Claude Code, Gemini CLI, etc. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/fuzhengwei/waliapi

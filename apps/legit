@@ -1,0 +1,6 @@
+# legit
+===
+ Fast, themeable desktop Git GUI built with Tauri 2, Rust, and React. Dockable panels, full commit graph, hunk- and line-level staging, split/inline diffs, stash and submodule support - all running through your own git executable. Free and open source.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/ateleris/legit

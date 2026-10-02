@@ -1,0 +1,6 @@
+# billme
+===
+ Local-first invoicing and accounting for German small businesses — an Electron desktop app backed by embedded PGlite, an optional self-hosted server mode backed by Postgres, and a public portal for sharing offers and invoices with customers. Built with love in Germany.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/bl4ckh4nd/billme

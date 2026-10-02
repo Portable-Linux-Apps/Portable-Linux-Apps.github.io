@@ -1,0 +1,6 @@
+# audiola
+===
+ A modern cross-platform audio studio — arrange, separate, remix, master and master in 3D. A full audio-production studio for Windows, macOS, and Linux built on .NET 10 + Avalonia, with a companion .NET 10 Blazor WebAssembly web app. Drag a song in, split it into stems, edit on a multitrack timeline, swap or synthesize voices with local AI....
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/fgilde/audiola

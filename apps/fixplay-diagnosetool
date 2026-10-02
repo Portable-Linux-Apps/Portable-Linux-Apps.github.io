@@ -1,0 +1,6 @@
+# fixplay-diagnosetool
+===
+ Cross-platform desktop tool for reading, validating and archiving NOR flash dumps from gaming consoles. Features UART error code reading for live diagnostics and DualSense controller testing. Built with Tauri v2 (Rust + Svelte 5). UI available in German and English.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/fabioudev/fixplay-diagnosetool

@@ -1,0 +1,6 @@
+# athena
+===
+ Athena is a desktop control surface for AI coding agents with shared project context. Built with Electron, React, and FastAPI, it embeds native terminals for Codex, OpenCode, Claude, and Hermes with Hermes memory integration. Features MCP bridge for cross-platform workspace control, embedded PTY terminals, native session discovery, and more.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/luckeyfaraday/athena

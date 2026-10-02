@@ -1,0 +1,6 @@
+# ssh-at
+===
+ SSH-AT is a desktop GUI tool for managing SSH keys, hosts, and configurations. Generate keys, edit ~/.ssh/config visually, and keep automatic backups—all in one app.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/baerwang/ssh-at

@@ -1,0 +1,6 @@
+# kiya-agent
+===
+ Kiya Agent is a desktop-first resource workflow application built for magnet search, save, download, and playback scenarios. It combines a Tauri desktop shell, a React frontend, bundled local runtime services, and Pi Agent orchestration so the app can coordinate MCP tools, file downloads, and media playback inside one workspace.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/kiteyuan/kiya-agent

@@ -1,0 +1,6 @@
+# bearpaw
+===
+ Cross-platform desktop control for the Uniden BC125AT scanner. Edit all 500 channels, banks, tones, and lockouts, then upload to the radio. Logs every hit as it scans and charts the activity, with CSV export for deeper digging. Mac, Windows, and Linux. Import and export native Uniden files or CSV.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/jeremyfuksa/bearpaw

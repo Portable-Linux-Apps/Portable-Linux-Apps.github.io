@@ -1,0 +1,6 @@
+# chordsketch
+===
+ A Rust implementation of the ChordPro music notation format — parser, renderers, and CLI.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/koedame/chordsketch

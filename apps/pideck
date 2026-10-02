@@ -1,0 +1,6 @@
+# pideck
+===
+ PiDeck is an open source desktop workbench for unified management of pi Agent sessions in the local project directory, and supports the import of Codex and Claude local sessions for unified browsing and recovery. Supports multi-project workspaces, session history, Git integration, built-in terminal, model configuration and plugin management, built on Electron. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/ayuayue/pideck

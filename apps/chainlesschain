@@ -1,0 +1,6 @@
+# chainlesschain
+===
+ This version incorporates Issue query, artifact download and save log inspection into the investigation budget; web pages, CLI and API reads of the same Issue are identified by the same target, and the associated PR and workflow remain independent. Successful downloading of logs does not mean that the test has passed: assertions, source code locations, and test conclusions will be retained across context compression, restarts, and task handovers; fix routing that misdirected GitHub CLI calls to Git tools. .
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/chainlesschain/chainlesschain

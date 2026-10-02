@@ -1,0 +1,6 @@
+# pilot
+===
+ A desktop coding agent with a GUI. Electron + React app powered by Pi Coding Agent. A chat-driven development with sandboxed file editing, git integration, dependency-aware task management, persistent memory, and an iOS/iPad companion for remote control.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/espennilsen/pilot

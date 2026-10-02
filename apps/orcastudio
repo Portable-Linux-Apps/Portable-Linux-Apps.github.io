@@ -1,0 +1,6 @@
+# orcastudio
+===
+ Bambu Studio fork with OrcaSlicer changes, restored BambuNetwork support through the Linux bambu_networking path, and BMCU fixes for A1 / A1-mini firmware locks.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/jarczakpawel/orcastudio

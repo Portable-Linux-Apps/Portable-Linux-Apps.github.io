@@ -1,0 +1,6 @@
+# project-manager
+===
+ A modern cross-platform project management tool that integrates project running, Git management, Node version management, project file organization and system integration functions. The desktop version is built based on Tauri v2 + Vue 3 + TypeScript, and also provides uTools / ZTools plug-in version. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/cuteyuchen/project-manager

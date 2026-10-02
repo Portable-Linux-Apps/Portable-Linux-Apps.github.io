@@ -1,0 +1,6 @@
+# miaominal
+===
+ A native SSH workspace built with Rust, featuring split terminals, SFTP, OpenSSH integration, port forwarding, encrypted sync, and AI agents for remote development.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/cppakko/miaominal

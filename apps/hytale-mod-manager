@@ -1,0 +1,6 @@
+# hytale-mod-manager
+===
+ Hytale Mod Manager is a Dioxus tool built because CurseForge lacks Hytale support on Linux. It eliminates the \\"manual install\\" headache by normalizing paths and auto-sorting:  mods go to /Mods automatically.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/andretini/hytale_mod_manager

@@ -1,0 +1,6 @@
+# crabport
+===
+ A modern, cross-platform SSH / SFTP client built with Rust and GPUI. Features integrated terminal, SFTP file management, SSH tunneling, and secure credential storage.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/chi11321/crabport

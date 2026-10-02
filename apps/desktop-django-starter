@@ -1,0 +1,6 @@
+# desktop-django-starter
+===
+ A minimal starter for packaging a local Django app inside an   Electron desktop shell, with cross-platform builds, sane defaults,   and clear extension points.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/ephes/desktop-django-starter

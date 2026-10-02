@@ -1,0 +1,6 @@
+# cryptirc
+===
+ Self-hosted encrypted IRC client. Rust backend with 24/7 connectivity, Signal Protocol E2E for DMs, AES-256-GCM encrypted logs and channel keys. Native apps for Windows/Linux/macOS plus installable PWA for iOS/Android.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/gh0st68/cryptirc

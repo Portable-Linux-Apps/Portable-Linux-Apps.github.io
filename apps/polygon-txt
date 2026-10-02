@@ -1,0 +1,6 @@
+# polygon-txt
+===
+ Jisi G boundary address point conversion tool - bidirectional conversion of SHP/GDB polygon elements and boundary address point TXT. Pure Rust, no ArcPy required. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/edcfoshan/polygon-txt

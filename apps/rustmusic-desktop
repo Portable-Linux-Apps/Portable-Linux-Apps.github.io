@@ -1,0 +1,6 @@
+# rustmusic-desktop
+===
+ Audiophile-grade desktop music player with native DSD (DSF/DFF) playback, multichannel SACD support, high-precision resampling, integrated DLNA server, synced lyrics, and OS media controls (Windows SMTC / macOS Now Playing / Linux MPRIS). Built with Tauri 2, SvelteKit, and Rust.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/larevuegeek/rustmusic-desktop

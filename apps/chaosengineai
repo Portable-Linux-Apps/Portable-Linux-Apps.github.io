@@ -1,0 +1,6 @@
+# chaosengineai
+===
+ Local AI workstation — discover, run, chat, benchmark, and generate images from open-weight models. DFlash/DDTree speculative decoding, TurboQuant & TriAttention cache compression strategies, MLX + llama.cpp + vLLM + MTPLX backends.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/cryptopoly/chaosengineai

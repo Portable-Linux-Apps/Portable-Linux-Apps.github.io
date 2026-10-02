@@ -1,0 +1,6 @@
+# latent-model-organizer
+===
+ Desktop utility for organizing massive AI model libraries (.safetensors) by architecture, with zero-copy header parsing and automated Civitai metadata fetching.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/erroralex/latent-model-organizer

@@ -1,0 +1,6 @@
+# kasumi-proxy
+===
+ System-level transparent proxy for rooted Android (Magisk/KernelSU/APatch module) and Linux/Windows desktop (Tauri 2) — Xray-core and sing-box driven by one shared Rust backend and a React UI.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/loss-and-quick/kasumi-proxy

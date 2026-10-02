@@ -1,0 +1,6 @@
+# helecho
+===
+ Editor de escritorio nativo para apuntes de estudio. Sin LaTeX, sin comandos. El usuario hace clic en un símbolo y se inserta. Se guarda como Markdown enriquecido y se exporta a PDF limpio. Incluye navegador integrado, panel de referencia y un bloque de herramientas de estudio.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/luistriana032006/helecho

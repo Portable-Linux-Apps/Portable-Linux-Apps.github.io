@@ -1,0 +1,6 @@
+# sdroxide
+===
+ A native SDR client for many radios (CAT, TCI, HPSDR, RTLSDR, SoapySDR, SDRPlay and more), written in Rust, with native and web remote UI (WASM), integrated CW/RTTY/PSK Skimmer, many digi modes built in (FT8, RTTY, PSK, SSTV, FreeDV, etc), logbook, Winlink, 3D Space weather, propagation map, satellite mode, and much more!.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/dividebysandwich/sdroxide

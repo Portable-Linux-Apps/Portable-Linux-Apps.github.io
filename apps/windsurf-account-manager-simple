@@ -1,0 +1,6 @@
+# windsurf-account-manager-simple
+===
+ A Windsurf multi-account management desktop application developed based on Tauri + Vue 3 + TypeScript. It is used to manage multiple Windsurf accounts and provide functions such as point reset, bill query, one-click account change, subscription payment, etc. .
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/chaogei/windsurf-account-manager-simple

@@ -1,0 +1,6 @@
+# ai-check-app
+===
+ A cross-platform desktop application that reads site configurations from cc-switch (~/.cc-switch/cc-switch.db). It performs batch checks on various AI proxy services to verify availability and measure time-to-first-token (TTFT) latency. With a single click, you can switch the active cc-switch endpoint to a verified service—ensuring the configuration you switch to is one that has just passed real-world testing, thereby eliminating the issue where a service passes the test but fails during actual use.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/hpcll/ai-check-app

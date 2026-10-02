@@ -1,0 +1,6 @@
+# beadspec
+===
+ A native desktop GUI for the Beads issue tracker, and OpenSpec spec framework. Visualize dependencies, track velocity, and browse   OpenSpec changes without leaving your workflow. Built with Tauri 2, React 19, and Rust.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/boardthatpowder/beadspec

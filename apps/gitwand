@@ -1,0 +1,6 @@
+# gitwand
+===
+ The Git client that actually resolves conflicts: 8 deterministic patterns auto-resolve the ones that were never decisions, full trace on the rest. Native (Tauri 2 + Rust), free, MIT.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/devlint/gitwand

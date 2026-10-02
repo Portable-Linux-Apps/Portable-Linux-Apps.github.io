@@ -1,0 +1,6 @@
+# glm-tray
+===
+ GLM Tray is a lightweight, native desktop app that sits in your system tray and watches your API keys so you never hit an unexpected quota wall or stale key. Manage up to 4 keys, visualise live quota usage, and automate keep-alive pings — all without leaving your workflow.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/kiwina/glm-tray

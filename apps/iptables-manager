@@ -1,0 +1,6 @@
+# iptables-manager
+===
+ Desktop GUI for managing iptables firewall rules on remote Linux servers via SSH. Built with Tauri 2 (Rust + TypeScript).
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/lifeart/iptables-manager

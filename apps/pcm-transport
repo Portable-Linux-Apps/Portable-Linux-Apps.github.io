@@ -1,0 +1,6 @@
+# pcm-transport
+===
+ Lightweight Linux audio player with direct ALSA output, native FLAC, gapless/CUE playback, DSP and transparent signal-path diagnostics.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/andreyberestov/pcm-transport

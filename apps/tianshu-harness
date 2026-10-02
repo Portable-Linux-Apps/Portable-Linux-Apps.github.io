@@ -1,0 +1,6 @@
+# tianshu-harness
+===
+ Tianshu harness is a terminal programming agent. The core question it wants to answer is: How can the model be delivered stably - the target does not drift, the completion is evidenced, the verification is closed-loop, and it does not say \"it should be fixed\". To this end, it establishes a layer of cognitive execution environment (CVM) between the model and the real world, externalizing goals, status, evidence, resources, permissions and termination conditions from the conversation history, and continuously managing them by the runtime. At the same time, deepseek v4 is extremely optimized. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/huiliyi37/tianshu-harness

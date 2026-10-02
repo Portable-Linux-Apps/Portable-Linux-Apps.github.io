@@ -1,0 +1,6 @@
+# nexus
+===
+ An all-mode amateur radio operations center — FT8/FT4, CW (with an AI decoder), SSB phone, RTTY, SSTV, APRS and satellites in one modern app: native decode, waterfall, spots, live propagation map, POTA/SOTA & Field Day, and a DXCC logbook with LoTW/QRZ/ClubLog/eQSL. Rust + Tauri; GPLv3.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/kd9taw/nexus

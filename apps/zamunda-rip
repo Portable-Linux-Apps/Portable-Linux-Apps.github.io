@@ -1,0 +1,6 @@
+# zamunda-rip
+===
+ Offline desktop client for the Zamunda.RIP archive (Zamunda.NET + ArenaBG + Zelka.org). Cross-platform Electron app, ships with a full SQLite snapshot of the archive baked into the installer — works even if zamunda.rip disappears tomorrow.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/codeobfuscation/zamunda.rip-self-hosted

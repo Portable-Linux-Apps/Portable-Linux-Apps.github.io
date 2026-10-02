@@ -1,0 +1,6 @@
+# latent-library
+===
+ A local-first, high-performance desktop asset manager for AI image generations. Features universal metadata parsing (ComfyUI/A1111), instant SQLite search, visual duplicate detection, and offline AI auto-tagging.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/erroralex/latent-library

@@ -1,0 +1,6 @@
+# gmark
+===
+ A local-first desktop editor built with Rust + GPUI: supports Markdown, plain text, JSON/JSONL, CSV/TSV, provides Live/Source/Split/Preview, on-demand reading of large files, structured view, workspace search and HTML/PNG/PDF export. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/kongweiguang/gmark

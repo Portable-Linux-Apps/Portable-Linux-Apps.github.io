@@ -1,0 +1,6 @@
+# haoxiaoguan
+===
+ Hao Xiaoguan is a cross-platform desktop application built on Electron that aggregates various upstream AI providers (such as Kiro, native Codex/ChatGPT, and third-party proxies) into unified, local endpoints compatible with OpenAI, Anthropic, and Gemini APIs. It features multi-account pooling, quota management, one-click client integration, and usage analytics dashboards, enabling stable and controlled access to AI services within tools like Claude Code, Codex, and Gemini CLI.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/haoxiaoguan/haoxiaoguan

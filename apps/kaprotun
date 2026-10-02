@@ -1,0 +1,6 @@
+# kaprotun
+===
+ Desktop VPN client (Windows/macOS/Linux) on sing-box native TUN — VLESS/Reality, Trojan, VMess, Shadowsocks, Hysteria2. Split routing: RU sites and games (Steam/Riot) go direct, blocked sites through the tunnel. Auto-reconnect on Ethernet↔Wi-Fi roaming. GPL-3.0, no telemetry.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/fafnirov/kaprotun

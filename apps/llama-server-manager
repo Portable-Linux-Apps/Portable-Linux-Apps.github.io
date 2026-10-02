@@ -1,0 +1,6 @@
+# llama-server-manager
+===
+ Llama Server Manager is a desktop manager for llama-server, covering model downloads and inventory, engine management, instance lifecycle, cluster workers, unified API routing, performance telemetry, and logs.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/jerrydong1988/llama-server-manager

@@ -1,0 +1,6 @@
+# claude-mcp-server
+===
+ Enable Codex to directly call Claude's native MCP protocol like a sub-Agent, supporting transfer stations and native APIs..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/lizhipay/claude-mcp-server

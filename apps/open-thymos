@@ -1,0 +1,6 @@
+# open-thymos
+===
+ AI agent sandbox prison runtime with a local-first desktop app + CLI. Chat with any model (Claude, OpenAI, Groq, Ollama, LM Studio); every action passes Intent → Proposal → Commit through signed capability writs, risk-gated approvals, and a replayable hash-chained ledger. Watch it think in the Mind graph. Cognition proposes; the runtime governs.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/gryszzz/open-thymos

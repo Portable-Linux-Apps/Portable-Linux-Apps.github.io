@@ -1,0 +1,6 @@
+# hexclaw-desktop
+===
+ HexClaw Desktop — Enterprise-grade secure personal AI Agent desktop client. Tauri + Vue 3, local sidecar with zero cloud dependence, supports Ollama/OpenAI/Claude/DeepSeek and other multiple models, image and video generation, knowledge base RAG, MCP tool plug-in, Feishu/Telegram/Discord multi-platform IM access. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/hexagon-codes/hexclaw-desktop

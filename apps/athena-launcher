@@ -1,0 +1,6 @@
+# athena-launcher
+===
+ Athena Launcher is the Wails desktop application and local service manager for the Athena agent platform. A user downloads one package for their operating system; the launcher installs a private PostgreSQL instance, downloads verified Runtime/Client/UI artifacts, generates compatible configuration, starts every service in order, and presents the startup center and Athena UI in a native desktop window.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/good-fish-man/athena-launcher

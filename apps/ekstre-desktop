@@ -1,0 +1,6 @@
+# ekstre-desktop
+===
+ Menu-bar desktop app (macOS/Windows) that tracks credit-card statements from Turkish banks — reads statement emails over IMAP, parses PDFs, and fires native due-date reminders. All data stays local.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/atomdeniz/ekstre-desktop

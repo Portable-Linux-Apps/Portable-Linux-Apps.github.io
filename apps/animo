@@ -1,0 +1,6 @@
+# animo
+===
+ Self-hosted, single-user time tracker — desktop-first today, with planned mobile and on-premise web apps. XMLUI frontend, Rust + axum backend, SQLite storage, Tauri desktop shell. No cloud, no telemetry, no accounts.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/captaaint/animo

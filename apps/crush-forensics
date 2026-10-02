@@ -1,0 +1,6 @@
+# crush-forensics
+===
+ Open-source desktop workbench for digital forensic analysis. Inspect ZIP/TAR/7z/UFDR archives, raw disk images/EWF, and iTunes/Android backups. Parse and view ABX, SQLite, SEGB, (B)PLIST, REALM, Protobuf, MMKV, Logs, hex, JSON, XML, images, audio/video, PDF, and more — all in one GUI.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/kalink0/crush-forensics

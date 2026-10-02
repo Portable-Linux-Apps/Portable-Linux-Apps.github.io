@@ -1,0 +1,6 @@
+# db-kit
+===
+ Engineers and DBAs often have to switch back and forth between MySQL, MariaDB, PostgreSQL, SQL Server, Oracle, MongoDB, Redis... on the desktop. There are several management tools with different personalities scattered on the desktop. db-kit integrates them into the same set of interfaces, the same set of connection management, and the same set of themes - the three data paradigms of relational, file, and key-value have browsing and editing experiences that fit their respective feel, and daily operations (data grids, queries, ER diagrams, import and export, and backup) are aligned across databases. .
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/markku636/db-kit

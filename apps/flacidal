@@ -1,0 +1,6 @@
+# flacidal
+===
+ Desktop app for downloading lossless FLAC music, multi-source with Soulseek P2P backbone. Built with Go + Svelte using Wails framework. Features metadata tagging and concurrent download queue.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/kushiemoon-dev/flacidal

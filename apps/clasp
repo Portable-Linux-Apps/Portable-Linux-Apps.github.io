@@ -1,0 +1,6 @@
+# clasp
+===
+ CLASP is a real-time infrastructure layer for connected devices. One binary protocol handles state synchronization, pub/sub messaging, E2E encryption, device identity, programmable transforms, reactive automation, and multi-site federation.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/lumencanvas/clasp

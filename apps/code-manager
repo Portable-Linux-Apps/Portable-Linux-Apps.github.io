@@ -1,0 +1,6 @@
+# code-manager
+===
+ Code Manager is a local desktop management app for Claude Code users. It brings profiles, providers, the ~/.claude directory, memories, Skills, history, stats, token usage, project status, the system tray, and diagnostic logs together in a single Tauri 2 app, making your local configuration more visible, previewable, and verifiable.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/maguowei/code-manager

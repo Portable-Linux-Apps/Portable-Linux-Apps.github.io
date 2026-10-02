@@ -1,0 +1,6 @@
+# modelrelay
+===
+ Central HTTP LLM proxy that routes inference requests to authenticated remote workers over WebSocket — queueing, streaming, and cancellation included.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/ericflo/modelrelay

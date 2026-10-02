@@ -1,0 +1,6 @@
+# cafe-launcher-avalonia
+===
+ A community-made third-party desktop launcher for the Japanese version of Blue Archive. Built using .NET 10 and Avalonia, it consolidates installation, updating, repair, launching, and uninstallation into a single window and is directly compatible with game directories already downloaded by the official launcher.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/bluearchive-cafe/cafe.launcher.avalonia_release

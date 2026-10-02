@@ -1,0 +1,6 @@
+# worktree-manager
+===
+ A simple GUI to manage Git Worktrees. Visual Git Worktree manager for parallel branch development. Multi-repo workspaces, smart symlinks, built-in terminal, browser remote access, and AI-ready MCP integration. Built with Tauri 2 + React + Rust.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/guoyongchang/worktree-manager

@@ -1,0 +1,6 @@
+# r2
+===
+ Free open-source Cloudflare R2 desktop client and S3 GUI for macOS, Windows, and Linux. Manage Cloudflare R2, AWS S3, MinIO, and RustFS buckets with multi-account support — and mount any bucket as a local drive. Built with Tauri, Next.js, and React.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/dickwu/r2

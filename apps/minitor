@@ -1,0 +1,6 @@
+# minitor
+===
+ A small, self-hosted Stremio addon for streaming torrents — searches via Jackett, then streams through Stremio's own engine or a local qBittorrent cache. A hobby take on how debrid services work.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/aneeshtigga/minitor

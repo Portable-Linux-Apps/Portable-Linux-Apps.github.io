@@ -1,0 +1,6 @@
+# reach
+===
+ A modern, cross-platform SSH client and remote server management tool. Tabbed terminals, SFTP file browser, port forwarding, system monitoring, AI assistant, encrypted vault, Ansible & OpenTofu automation, serial console. Free and open-source PuTTY/MobaXterm/Termius alternative for Windows, macOS, Linux & Android. Built with Rust + Tauri.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/alexandrosnt/reach

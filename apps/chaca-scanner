@@ -1,0 +1,6 @@
+# chaca-scanner
+===
+ Native desktop web security scanner for developers. OWASP Top 10, API exposure, CMS detection, target intelligence. Built with Tauri 2 + React 19 + Rust.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/madebyaris/chaca-scanner

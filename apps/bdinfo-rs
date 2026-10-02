@@ -1,0 +1,6 @@
+# bdinfo-rs
+===
+ Memory-safe, zero-C-dependency Rust Blu-ray disc analyzer — a drop-in BDInfo report tool for BDMV folders and .iso images.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/agentjp/bdinfo-rs

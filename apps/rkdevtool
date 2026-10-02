@@ -1,0 +1,6 @@
+# rkdevtool
+===
+ Cross-platform Rockchip USB flashing GUI built with Tauri 2 + Vue 3. The project is actively moving toward a pure Rust/RockUSB implementation. Cross-platform desktop GUI for Rockchip USB flashing tool, based on Tauri 2 + Vue 3. The project is actively migrating to a pure Rust/RockUSB implementation. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/hiifong/rkdevtool

@@ -1,0 +1,6 @@
+# paneflow
+===
+ Native terminal multiplexer for coding agents. Persistent sessions, Git worktrees, diffs, and an integrated editor. Built with Rust and GPUI.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/arthjean/paneflow
