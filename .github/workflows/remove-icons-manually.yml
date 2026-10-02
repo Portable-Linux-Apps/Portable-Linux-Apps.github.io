@@ -34,6 +34,13 @@ jobs:
               fi
             done
 
+            for a in icons/*; do
+              if ! echo "$a" 2>/dev/null | grep -q ".png$"; then
+                rm -f "$a"
+                echo "Removed $a"
+              fi
+            done
+
           fi
 
       - name: "Push to Source"
