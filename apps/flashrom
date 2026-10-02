@@ -2,7 +2,7 @@
 ===
 flashrom is a universal utility designed to identify, read, write, verify, and erase flash memory chips. It is widely used for flashing BIOS, UEFI, coreboot, firmware, and ROM chips on motherboards and hardware programmers.
 
-Features:
+**Features:**
 - Supports thousands of flash ROM chips across DIP, PLCC, SOIC, and BGA packages
 - Compatible with mainboard chipsets, PCI cards, USB programmers, and SPI bridges
 - Safe flashing with automatic chip verification before and after writing operations
