@@ -1,0 +1,6 @@
+# expert-streaming-engine
+===
+ Run oversized sparse MoE GGUF models with bounded NVMe-to-RAM-to-VRAM caching, native multi-GPU planning, and a Linux desktop Studio.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/xero00000/expert-streaming-engine

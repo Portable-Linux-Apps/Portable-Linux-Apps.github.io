@@ -1,0 +1,6 @@
+# kiro-gateway-deploy
+===
+ Use the Claude model subscribed to Kiro in Cursor by pointing its OpenAI Base URL at kiro-gateway, a local tray app that needs no Docker and no server of your own.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/zhujunsan/kiro-gateway-deploy

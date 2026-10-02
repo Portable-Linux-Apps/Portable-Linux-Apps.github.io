@@ -1,0 +1,6 @@
+# zitext-editor
+===
+ Fast, lightweight cross-platform text and code editor built with Rust, Tauri and Monaco, with multi-cursor editing, 60+ syntax highlighting and built-in JSON/XML/YAML tools.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/zitrino-oss/zitext-editor
