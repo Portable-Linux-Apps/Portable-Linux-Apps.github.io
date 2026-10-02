@@ -2,14 +2,14 @@
 ===
 flashrom is a universal utility designed to identify, read, write, verify, and erase flash memory chips. It is widely used for flashing BIOS, UEFI, coreboot, firmware, and ROM chips on motherboards and hardware programmers.
 
-Features:
+**Features:**
 - Supports thousands of flash ROM chips across DIP, PLCC, SOIC, and BGA packages
 - Compatible with mainboard chipsets, PCI cards, USB programmers, and SPI bridges
 - Safe flashing with automatic chip verification before and after writing operations
 - Cross-platform hardware probing and detailed chipset diagnostics
 - Essential tool for firmware recovery, flashing coreboot, and hardware engineering
 ===
-# SCREENSHOTS: https://raw.githubusercontent.com/aashiashique/app-screenshot/refs/heads/main/flashrom/1.webp https://raw.githubusercontent.com/aashiashique/app-screenshot/refs/heads/main/flashrom/2.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/aashiashique/ss/refs/heads/main/flashrom/1.webp https://raw.githubusercontent.com/aashiashique/ss/refs/heads/main/flashrom/2.webp https://raw.githubusercontent.com/aashiashique/ss/refs/heads/main/flashrom/3.webp https://raw.githubusercontent.com/aashiashique/ss/refs/heads/main/flashrom/4.webp
 # SITES: https://flashrom.org/index.html
 # SOURCES: https://github.com/pkgforge-dev/flashrom-appimage
 # BUTTONS: 
