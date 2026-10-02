@@ -1,0 +1,6 @@
+# arte-ogre
+===
+ Rust-native, GPU-accelerated layered image editor for Linux. Paint, composite, select and cut out with layers on a sparse copy-on-write engine, with non-destructive vector layers and sandboxed plugins.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/visorcraft/arte-ogre

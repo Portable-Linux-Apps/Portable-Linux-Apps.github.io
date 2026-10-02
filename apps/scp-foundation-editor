@@ -1,0 +1,6 @@
+# scp-foundation-editor
+===
+ WYSIWYG editor for SCP-CN Wikidot articles. Built with Tauri + Vue 3 + Rust.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/wasd243/scp-foundation-editor

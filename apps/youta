@@ -1,0 +1,6 @@
+# youta
+===
+ Low-resource TUI audio player for YouTube (also Music) through yt-dlp, Bandcamp, Apple Podcasts and RSS, with local subscriptions and persistent listening progress, playing through headless mpv. With chapters on the seekbar - from YouTube timecodes. Also local files, Wikidata integration.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/vitaly-zdanevich/youta

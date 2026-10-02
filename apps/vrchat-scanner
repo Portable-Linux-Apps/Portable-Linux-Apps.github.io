@@ -1,0 +1,6 @@
+# vrchat-scanner
+===
+ Static analysis scanner for Unity/VRChat packages — detects malicious scripts, dangerous DLLs, and suspicious assets without executing any code.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/vicentefelipechile/vrchat-scanner

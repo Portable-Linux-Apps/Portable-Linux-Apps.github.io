@@ -1,0 +1,6 @@
+# ai-sign-in-gateway
+===
+ Aiqian is a Go + Vue 3 check-in gateway that aggregates desktop sign-in sites behind one admin and a single egress point, with concurrent transfer and automatic site check-in.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/vikingleo/ai-sign-in-gateway

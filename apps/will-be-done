@@ -1,0 +1,6 @@
+# will-be-done
+===
+ Local-first task manager with a visual weekly timeline. Works offline, syncs across devices, and self-hosts with one Docker command. Uses SQLite by default, so no external database is needed.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/will-be-done/will-be-done
