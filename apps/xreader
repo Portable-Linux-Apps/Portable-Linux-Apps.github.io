@@ -4,7 +4,7 @@
  
  It can display and print PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, XPS and Portable Document Format (PDF) files.
  
- Key Features
+ **Key Features**
  - Bookmarks.
  - Thumbnails.
  - Full screen mode.
@@ -13,6 +13,6 @@
  
  **License:** GNU General Public License v2.0
 ===
-# SCREENSHOTS: https://raw.githubusercontent.com/aashiashique/app-screenshot/refs/heads/main/xreader/1.webp https://raw.githubusercontent.com/aashiashique/app-screenshot/refs/heads/main/xreader/2.webp https://raw.githubusercontent.com/aashiashique/app-screenshot/refs/heads/main/xreader/3.webp https://raw.githubusercontent.com/aashiashique/app-screenshot/refs/heads/main/xreader/4.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/aashiashique/ss/refs/heads/main/xreader/1.webp https://raw.githubusercontent.com/aashiashique/ss/refs/heads/main/xreader/2.webp https://raw.githubusercontent.com/aashiashique/ss/refs/heads/main/xreader/3.webp https://raw.githubusercontent.com/aashiashique/ss/refs/heads/main/xreader/4.webp
 # SITES: https://github.com/linuxmint/xreader
 # SOURCES: https://github.com/pkgforge-dev/xreader-appimage
