@@ -1,0 +1,6 @@
+# octa
+===
+ Fast native desktop app for exploring 20+ data formats like Parquet, DuckDB, SQLite, Excel, Arrow, GeoJSON, Jupyter and more, plus connections to Postgres, Snowflake, BigQuery, GCS, S3 and more. DuckDB SQL, charts, schema diffs, and an MCP server so AI agents query the same data.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/thorstenfoltz/octa

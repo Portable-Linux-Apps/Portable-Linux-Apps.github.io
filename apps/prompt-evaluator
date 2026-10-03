@@ -1,0 +1,6 @@
+# prompt-evaluator
+===
+ Prompt-evaluator is an open-source toolkit for evaluating, testing, and comparing LLM prompts. It provides a GUI-driven workflow for running prompt tests, tracking token usage, visualizing results, and ensuring reliability across models like OpenAI, Claude, and Gemini.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/syamsasi99/prompt-evaluator

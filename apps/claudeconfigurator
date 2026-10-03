@@ -1,0 +1,6 @@
+# claudeconfigurator
+===
+ Minimal desktop GUI to configure Claude Code (~/.claude): edit CLAUDE.md, skills, commands, agents, hooks, plugins, settings. Tauri 2 + Svelte 5 + CodeMirror 6.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/tcsenpai/claudeconfigurator

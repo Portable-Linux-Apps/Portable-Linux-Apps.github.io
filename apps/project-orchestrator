@@ -1,0 +1,6 @@
+# project-orchestrator
+===
+ A Rust-based AI agent orchestrator with Neo4j knowledge graph, Meilisearch semantic search, and Tree-sitter code parsing.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/this-rs/project-orchestrator

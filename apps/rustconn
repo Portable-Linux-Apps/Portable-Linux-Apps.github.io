@@ -1,0 +1,6 @@
+# rustconn
+===
+ Modern cross-platform connection manager — SSH, RDP, VNC, SPICE, MOSH, Telnet, Serial, Kubernetes and Zero Trust — with a GTK4/libadwaita interface and embedded Rust clients. Linux, macOS, FreeBSD, Windows (WSLg).
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/totoshko88/rustconn
