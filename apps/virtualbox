@@ -8,7 +8,7 @@ VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterp
  
  It is based on VirtualBox KVM, not to depend on the "vboxdrv" driver.
 ===
-# SCREENSHOTS: https://github.com/user-attachments/assets/2b3b9741-25bd-4f77-b753-6cd46762c567 https://github.com/user-attachments/assets/4b231fd4-555a-46eb-b22b-f84a174ddcd1 https://github.com/user-attachments/assets/cf5d1029-f1e6-427e-b3e6-54cbdf3e288f https://github.com/user-attachments/assets/1346ef50-f524-4ee7-9134-454546865d6e https://github.com/user-attachments/assets/cadb3c0b-6e64-4a95-ba19-aaac6f65f34d https://github.com/user-attachments/assets/8ff8a8db-5b92-4e55-b4cd-5aaa191e204a
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/virtualbox/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/virtualbox/2.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/virtualbox/3.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/virtualbox/4.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/virtualbox/5.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/virtualbox/6.webp
 # SITES: https://www.virtualbox.org
 # SOURCES: https://github.com/ivan-hc/VirtualBox-appimage
 # BUTTONS: 

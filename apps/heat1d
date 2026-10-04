@@ -6,7 +6,7 @@ CRITERIA 1D is a one-dimensional agro-hydrological model. It includes soil  wate
  
  HEAT1D is a graphical interface for testing the soilFluxex3D library in a  1D domain. Users can set fixed or variable atmospheric boundary conditions  and soil parameters. Output graph results include soil temperature, soil  water content, heat fluxes (diffusive and latent), liquid (isothermal and  thermal) and vapor (isothermal and thermal) water fluxes.
 ===
-# SCREENSHOTS: https://github.com/ARPA-SIMC/CRITERIA1D/raw/master/DOC/img/heat1D.png
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/heat1d/1.webp
 # SITES: https://github.com/ARPA-SIMC/CRITERIA1D
 # SOURCES: 
 # BUTTONS: 

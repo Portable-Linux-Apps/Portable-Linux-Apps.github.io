@@ -6,7 +6,7 @@ Document viewer for popular document formats.
  
  Evince supports documents in: PDF, PS, EPS, XPS, DjVu, TIFF, DVI (with  SyncTeX), and Comic Books archives (CBR, CBT, CBZ, CB7).
 ===
-# SCREENSHOTS: https://upload.wikimedia.org/wikipedia/commons/8/8c/Evince_42.3.png
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/evince/1.webp
 # SITES: https://github.com/ivan-hc/Evince-appimage
 # SOURCES: 
 # BUTTONS: 
