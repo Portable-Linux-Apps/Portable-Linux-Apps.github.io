@@ -1,0 +1,6 @@
+# metermaid
+===
+ Cross-platform desktop LUFS / EBU R128 loudness meter with true-peak and a real-time spectrum analyzer, built with Tauri (Rust + web UI).
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/reverentgeek/metermaid

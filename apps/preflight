@@ -1,0 +1,6 @@
+# preflight
+===
+ preFlight is an advanced 3D printing slicer. Building on the Slic3r legacy as a \"spiritual successor\" to PrusaSlicer, it offers exclusive features and a comprehensive under-the-hood overhaul, bringing the entire dependency stack up to modern standards. Switching is easy: preFlight natively imports PrusaSlicer and OrcaSlicer profiles so you can be up and running in minutes. To put it mildly, this is no ordinary fork.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/oozebot/preflight

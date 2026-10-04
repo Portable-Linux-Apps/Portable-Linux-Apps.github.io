@@ -1,0 +1,6 @@
+# mediaflick-desktop
+===
+ Jellyfin desktop client that plays through your real external mpv — SVP4 motion interpolation, SDR-to-HDR, shaders, and full mpv.conf, with playstate synced back to Jellyfin.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/phob/mediaflick-desktop

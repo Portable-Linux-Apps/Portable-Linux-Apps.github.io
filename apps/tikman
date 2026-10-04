@@ -1,0 +1,6 @@
+# tikman
+===
+ Open-source LAN scanner and manager for Windows, Linux and macOS. Auto-discovery and cross-vendor device classification, a physical topology map showing which switch port each device is on, backups, firmware updates, an SSH terminal, VNC and a built-in web server. Deep MikroTik/RouterOS support and advanced support for other vendors, too.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/pgadient/tikman

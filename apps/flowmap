@@ -1,0 +1,6 @@
+# flowmap
+===
+ Dual-market order-flow visualizer — real-time WebGL2 liquidity heatmap, DOM ladder, and time & sales for crypto and US equities. TypeScript/React renderer + Python asyncio gateway.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/nazmiefearmutcu/flowmap

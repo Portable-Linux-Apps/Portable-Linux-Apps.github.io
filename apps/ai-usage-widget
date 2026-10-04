@@ -1,0 +1,6 @@
+# ai-usage-widget
+===
+ Floating desktop widget for monitoring local AI coding CLI usage across Codex, Claude Code, and Gemini. Built with Tauri, TypeScript, and a local Node backend.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/odrasile/ai-usage-widget

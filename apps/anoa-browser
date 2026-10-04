@@ -1,0 +1,6 @@
+# anoa-browser
+===
+ Headless browser with full Chrome DevTools Protocol (CDP) support. Distributed as a single self-contained binary — no Node.js or npm required.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/porcupine-md/anoa-browser

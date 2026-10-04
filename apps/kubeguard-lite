@@ -1,0 +1,6 @@
+# kubeguard-lite
+===
+ This project is a configuration risk scanning tool in a teaching cloud-native environment. In the kubernetes scenario, a large number of security risks come from incorrect configurations, such as privilege containers, hostPath mounting, serviceAccount authorization, latest mirroring, etc. This tool statically analyzes kubernetes YAML files to identify potential attack surfaces and automatically modify dangerous configurations before resource deployment. It is a security detection tool for cloud native environments. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/richu-dongsheng/kubeguard-lite-k8s-yaml-security-scanner

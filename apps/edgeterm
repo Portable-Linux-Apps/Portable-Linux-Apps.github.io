@@ -1,0 +1,6 @@
+# edgeterm
+===
+ Lightweight terminal, SSH, (S)FTP and serial client built with Rust + Tauri. Installer under 5 MB, single native binary, fast startup.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/miskin-lee/edgeterm

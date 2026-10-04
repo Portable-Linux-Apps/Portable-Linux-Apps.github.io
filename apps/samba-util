@@ -1,0 +1,6 @@
+# samba-util
+===
+ Unified GUI and CLI front‑end for the Linux Samba service stack. Provides share management, user administration, and configuration editing with direct interaction through smb.conf and smbd.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/mijocecr/samba-util

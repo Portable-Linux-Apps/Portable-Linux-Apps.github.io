@@ -1,0 +1,6 @@
+# turing-ce
+===
+ Open-source enterprise search + generative AI platform. Faceted semantic search, hybrid BM25+vector ranking, RAG chat with citations, AI agents and MCP tools — on Apache Solr, Elasticsearch or embedded Lucene. Indexes Adobe AEM, WordPress, databases and files via the Viglet Dumont connectors. Self-hosted Apache-2.0 alternative to Algolia and Coveo.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/openviglet/turing-ce

@@ -1,0 +1,6 @@
+# openrscad
+===
+ OpenRSCAD is a fast, from-scratch reimplementation of the OpenSCAD language: the same script-it-yourself CAD workflow, a modern geometry kernel, and a single Rust core that runs in your browser, on your desktop, in your editor, and on the command line. Edits re-render in single-digit milliseconds, with representative language and geometry behavior checked against stock OpenSCAD.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/matthova/openrscad

@@ -1,0 +1,6 @@
+# ltc-program-changes
+===
+ Fires MIDI Program Changes from SMPTE LTC timecode to an Allen & Heath dLive rack over TCP.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/michaelkeithlewis/ltc-program-changes

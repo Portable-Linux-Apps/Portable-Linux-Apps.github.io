@@ -1,0 +1,6 @@
+# steam-manifest-downloader
+===
+ 🎮 Modern desktop app for downloading Steam depot manifests using DepotDownloaderMod. Upload .lua files, select manifests, and download with real-time progress tracking. Built with Tauri v2 (Rust + WebView).
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/mcbabel/steam-manifest-downloader

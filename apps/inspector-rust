@@ -1,0 +1,6 @@
+# inspector-rust
+===
+ Keyboard-first clipboard hyper-toolkit for power users: history, snippets, text expander, screen OCR, region screenshot, inline calculator, color picker, image recolor + ML background cutout. macOS + Windows. Native (Tauri 2 + Rust + React), local, AES-256 encrypted at rest, MIT.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/pepperonas/inspector-rust

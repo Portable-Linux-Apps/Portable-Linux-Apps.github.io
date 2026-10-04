@@ -1,0 +1,6 @@
+# rmdv
+===
+ Native Rust markdown viewer — Mermaid, Graphviz DOT, LaTeX math, mind maps. No Electron, no browser. ~150ms cold start. Agent-controllable via IPC. MIT.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/minchenlee/rmdv

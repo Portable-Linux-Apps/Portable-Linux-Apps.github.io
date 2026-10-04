@@ -1,0 +1,6 @@
+# orbitdeck
+===
+ OrbitDeck is a desktop application for satellite tracking and orbital analysis — a roomy UI with embedded plots, built for amateur-radio operators who work the birds. It is tracking and analysis only: radio (CAT) and rotator control are intentionally out of scope, since excellent dedicated tools already cover that.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/prstoetzer/orbitdeck

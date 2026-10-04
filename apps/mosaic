@@ -1,0 +1,6 @@
+# mosaic
+===
+ Video contact sheet and thumbnail generator for macOS, Windows and Linux. Batch-generate contact sheets, screenshots and animated previews from any video using your local ffmpeg. Free, open source, GUI + CLI. Tauri + Rust.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/mosaicvideo/mosaic

@@ -1,0 +1,6 @@
+# disbox
+===
+ Disbox adalah aplikasi desktop penyimpanan awan (cloud storage) modern yang memanfaatkan Discord sebagai media penyimpanan tak terbatas. Disbox kini hadir dengan arsitektur Cloud-Native Database-First, di mana seluruh struktur file Anda dikelola secara efisien menggunakan Supabase, memberikan performa yang jauh lebih cepat dan andal.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/naufal-backup/disbox
