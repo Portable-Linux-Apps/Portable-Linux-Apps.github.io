@@ -1,0 +1,125 @@
+name: Check dead links
+
+on:
+  # GitHub cron has no "every 48 hours" form: a day-of-month step such as
+  # "*/2" restarts on the 1st of every month, which drifts badly (it fires 1
+  # day after the 31st and 3 days after the 30th). So the schedule wakes up
+  # every day and the first step keeps only the runs that land on an even
+  # UTC day. That yields exactly one run every 48 hours at the same time of
+  # day, and because the test is absolute rather than "48h after the previous
+  # run" it cannot drift and needs no stored state.
+  schedule:
+    - cron: "23 4 * * *"
+
+  # Ad-hoc runs, e.g. after a bulk import of app files.
+  workflow_dispatch:
+    inputs:
+      jobs:
+        description: Parallel checks
+        required: false
+        default: "16"
+      full:
+        description: Check every file instead of only what changed
+        type: boolean
+        required: false
+        default: true
+
+  # Pull requests only check the files they touch, and only external links:
+  # pages referenced by a change are not deployed yet, so links to our own
+  # domain can only be validated after a deploy, by the scheduled run.
+  pull_request:
+    paths:
+      - 'apps/**'
+      - '*.in'
+      - '*.md'
+      - '*.html'
+      - '*.toml'
+      - '*.yml'
+      - '.github/scripts/check-dead-links.sh'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: check-dead-links-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    name: Check links
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Keep every other day
+        id: cadence
+        if: github.event_name == 'schedule'
+        shell: bash
+        run: |
+          # Runs are daily; keep only even UTC days so the sweep happens once
+          # every 48 hours. Manual and pull request runs are never gated.
+          DAY=$(( $(date -u +%s) / 86400 ))
+          if [ $(( DAY % 2 )) -ne 0 ]; then
+            echo "UTC day $DAY is odd, skipping. Next run in about 24h."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "UTC day $DAY is even, running the full sweep."
+          fi
+
+      - name: Check for dead links
+        id: check
+        if: steps.cadence.outputs.skip != 'true'
+        shell: bash
+        run: |
+          set -uo pipefail
+          chmod +x .github/scripts/check-dead-links.sh
+
+          ARGS=(--jobs "${{ inputs.jobs || 12 }}" --annotations
+                --report dead-links.md --max-rows 200)
+
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            ARGS+=(--changed "${{ github.event.pull_request.base.sha }}" --external-only)
+          elif [ "${{ inputs.full }}" = "false" ]; then
+            ARGS+=(--changed "origin/${{ github.ref_name }}")
+          fi
+
+          echo "running: .github/scripts/check-dead-links.sh ${ARGS[*]}"
+          ./.github/scripts/check-dead-links.sh "${ARGS[@]}"
+          echo "exit_code=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Publish summary
+        if: always() && steps.cadence.outputs.skip != 'true'
+        shell: bash
+        run: |
+          if [ -s dead-links.md ]; then
+            cat dead-links.md >> "$GITHUB_STEP_SUMMARY"
+            echo >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "## Dead link check" >> "$GITHUB_STEP_SUMMARY"
+            echo >> "$GITHUB_STEP_SUMMARY"
+            echo "The checker produced no report." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload report
+        if: always() && steps.cadence.outputs.skip != 'true'
+        uses: actions/upload-artifact@v7
+        with:
+          name: dead-links-report
+          path: dead-links.md
+          retention-days: 14
+
+      - name: Fail if dead links found
+        if: steps.cadence.outputs.skip != 'true' && steps.check.outputs.exit_code != '0'
+        run: |
+          CODE="${{ steps.check.outputs.exit_code }}"
+          if [ "$CODE" = "1" ]; then
+            echo "::error::Dead links found. See the job summary for the full list."
+          else
+            echo "::error::The link checker could not complete (exit $CODE)."
+          fi
+          exit 1
