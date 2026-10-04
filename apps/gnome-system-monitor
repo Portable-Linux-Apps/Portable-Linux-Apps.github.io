@@ -9,7 +9,7 @@ Features:
 - Inspection of process memory maps, open files, and execution arguments
 - Responsive GTK user interface designed for clarity and ease of use
 ===
-# SCREENSHOTS: https://static.gnome.org/catalog/app-screenshot/org.gnome.SystemMonitor/Processes.png https://static.gnome.org/catalog/app-screenshot/org.gnome.SystemMonitor/Resources.png
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/gnome-system-monitor/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/gnome-system-monitor/2.webp
 # SITES: https://gitlab.gnome.org/GNOME/gnome-system-monitor https://apps.gnome.org/SystemMonitor
 # SOURCES: https://github.com/pkgforge-dev/Gnome-System-Monitor-AppImage https://github.com/ivan-hc/GNOME3-appimages
 # BUTTONS: 

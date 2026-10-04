@@ -6,7 +6,7 @@ CRITERIA 1D is a one-dimensional agro-hydrological model. It includes soil  wate
  
  Soil editor is a tool to edit the soil properties. It uses a modified Van  Genuchten - Mualem model to estimate the water retention and hydraulic c onductivity curves.
 ===
-# SCREENSHOTS: https://github.com/ARPA-SIMC/CRITERIA1D/raw/master/DOC/img/soilEditor.png
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/soil-editor/1.webp
 # SITES: https://github.com/ARPA-SIMC/CRITERIA1D
 # SOURCES: 
 # BUTTONS: 

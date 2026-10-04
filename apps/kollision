@@ -9,7 +9,7 @@ Use your mouse to dodge red balls in the field. Be careful as the ball  increase
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
 ===
-# SCREENSHOTS: https://cdn.kde.org/screenshots/kollision/kollision.png
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/kollision/1.webp
 # SITES: https://apps.kde.org
 # SOURCES: https://github.com/ivan-hc/KDE-games-suite-appimage
 # BUTTONS: 

@@ -11,7 +11,7 @@ Kigo is an open-source implementation of the popular Go game. Go is a strategic 
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
 ===
-# SCREENSHOTS: https://kde.org/images/screenshots/kigo.png
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/kigo/1.webp
 # SITES: https://apps.kde.org
 # SOURCES: https://github.com/ivan-hc/KDE-games-suite-appimage
 # BUTTONS: 

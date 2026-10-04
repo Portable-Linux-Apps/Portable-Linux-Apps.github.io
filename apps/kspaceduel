@@ -9,7 +9,7 @@ Eliminate your opponents satellite while controlling your own satellite  revolvi
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
 ===
-# SCREENSHOTS: https://cdn.kde.org/screenshots/kspaceduel/kspaceduel.png
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/kspaceduel/1.webp
 # SITES: https://apps.kde.org
 # SOURCES: https://github.com/ivan-hc/KDE-games-suite-appimage
 # BUTTONS: 

@@ -9,7 +9,7 @@ Similar to Mahjongg, except the tiles are not stacked on top of one another. Fin
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
 ===
-# SCREENSHOTS: https://cdn.kde.org/screenshots/kshisen/kshisen.png
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/kshisen/1.webp
 # SITES: https://apps.kde.org
 # SOURCES: https://github.com/ivan-hc/KDE-games-suite-appimage
 # BUTTONS: 

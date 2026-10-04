@@ -1,16 +1,14 @@
 # warpinator
 ===
- Send and receive files across a local network.
+Send and receive files across a local network.
  
- Warpinator is a free and open-source application. It allows you to easily connect to multiple computers on a local area network (LAN) and share files in a swift and secure manner.
+Warpinator is a free and open-source application. It allows you to easily connect to multiple computers on a local area network (LAN) and share files in a swift and secure manner.
  
- Unofficial Windows and Android versions are also available.
+Unofficial Windows and Android versions are also available.
  
- **Android:** https://github.com/slowscript/warpinator-android
- **Windows:** https://github.com/slowscript/warpinator-windows
- 
- **License:** GNU General Public License v3.0
+**License:** GNU General Public License v3.0
 ===
 # SCREENSHOTS: https://raw.githubusercontent.com/aashiashique/ss/refs/heads/main/warpinator/1.webp https://raw.githubusercontent.com/aashiashique/ss/refs/heads/main/warpinator/2.webp https://raw.githubusercontent.com/aashiashique/ss/refs/heads/main/warpinator/3.webp https://raw.githubusercontent.com/aashiashique/ss/refs/heads/main/warpinator/4.webp https://raw.githubusercontent.com/aashiashique/ss/refs/heads/main/warpinator/5.webp https://raw.githubusercontent.com/aashiashique/ss/refs/heads/main/warpinator/6.webp https://raw.githubusercontent.com/aashiashique/ss/refs/heads/main/warpinator/7.webp
 # SITES: https://github.com/linuxmint/warpinator
 # SOURCES: https://github.com/pkgforge-dev/warpinator-appimage
+# BUTTONS: Android_Version::https://github.com/slowscript/warpinator-android Windows_Version::https://github.com/slowscript/warpinator-windows

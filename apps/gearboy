@@ -9,7 +9,6 @@ Features:
 - Save states, battery-backed SRAM persistence, and Game Genie cheat codes
 - Gamepad controller support with customizable button layouts
 ===
-# SCREENSHOTS: https://www.geardome.com/files/gearboy/gearboy_debug_05.png
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/gearboy/1.webp
 # SITES: https://github.com/drhelius/Gearboy
 # SOURCES: https://github.com/pkgforge-dev/Gearboy-AppImage
-# BUTTONS: 

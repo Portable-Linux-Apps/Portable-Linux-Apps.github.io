@@ -6,7 +6,7 @@ LibreOffice is a private and powerful, free and open source office suite – the
 
  This script allows you to choose between multiple variants and languages, the classic AppImage and an alternative custom version (Archimage) that also works on musl systems.
 ===
-# SCREENSHOTS: https://upload.wikimedia.org/wikipedia/commons/4/42/LibreOffice_7.2.4.1_start_centre_screenshot.png
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/libreoffice/1.webp
 # SITES: https://www.libreoffice.org/
 # SOURCES: https://github.com/Portable-Linux-Apps/LibreOffice-appimage https://github.com/ivan-hc/LibreOffice-appimage
 # BUTTONS: 

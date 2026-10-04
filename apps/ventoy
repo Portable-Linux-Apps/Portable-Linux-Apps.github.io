@@ -6,7 +6,7 @@ Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x
  
  You can copy many image files at a time and ventoy will give you a boot menu to select them.
 ===
-# SCREENSHOTS: https://user-images.githubusercontent.com/88724353/236652321-69dd608f-313c-4c65-942a-635b0b155d96.png
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/ventoy/1.webp
 # SITES: https://www.ventoy.net
 # SOURCES: 
 # BUTTONS: 

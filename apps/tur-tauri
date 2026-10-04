@@ -1,6 +1,17 @@
 # tur-tauri
 ===
- A sleek, multi-engine download manager. Native Tauri frontend for tur-rs.
+**Tur** is the native graphical frontend for the hyper-fast download engine `tur-rs`. Built using **Tauri**, **React**, and **TypeScript**, it delivers a stunning, responsive, and native-feeling interface across all major operating systems while keeping memory and CPU usage at an absolute minimum.
+
+Say goodbye to bloated, ad-filled download managers. Tur is fully open-source, designed for power users, and unapologetically fast.
+
+## ✨ Features
+
+- ⚡ **Hyper-Fast Core**: Powered by the native Rust `tur-rs` backend, featuring adaptive work-stealing and highly concurrent multi-connection downloading.
+- 🎨 **Gorgeous Interface**: A modern, translucent, glassmorphism-inspired UI designed for both aesthetics and usability.
+- 🔌 **Multi-Engine Support**: Not just a frontend for `tur-rs`—Tur architecture allows plugging in external engines like `aria2c` seamlessly.
+- 💾 **Smart Persistence**: Download sessions, histories, and configurations are securely stored using a blazing-fast local SQLite database.
+- 🌍 **Cross-Platform Native**: First-class support for Linux, Windows, and macOS without the heavy Electron overhead.
 ===
-# SCREENSHOTS: (https://raw.githubusercontent.com/greykaizen/tur-tauri/main/docs/images/main_window.png https://raw.githubusercontent.com/greykaizen/tur-tauri/main/docs/images/download_instance.png
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/tur-tauri/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/tur-tauri/2.webp
 # SITES: https://github.com/greykaizen/tur-tauri
+# BUTTONS: tur-rs::https://github.com/greykaizen/tur-rs
