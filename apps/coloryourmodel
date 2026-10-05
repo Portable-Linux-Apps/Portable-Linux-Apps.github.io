@@ -1,0 +1,6 @@
+# coloryourmodel
+===
+ ColorYourModel (CYM) is a desktop app (Tauri 2 + React + Three.js frontend, Rust backend) that solves a practical 3D-printing problem: white-model STL files are just a pile of unstructured triangles — no \"regions\", no colour. Painting such a model triangle-by-triangle in a slicer is hopeless for anything detailed.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/zackaryshen/coloryourmodel

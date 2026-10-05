@@ -1,0 +1,6 @@
+# ultrastarkaraokemaker
+===
+ Gerador local de karaoke UltraStar por forced alignment: a partir da letra que voce ja tem, sincroniza ao audio (WhisperX + Demucs), extrai pitch/BPM e monta o pacote jogavel. Tauri + Rust + Python. Windows e Linux, bilingue PT/EN.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/walterfr/ultrastarkaraokemaker
