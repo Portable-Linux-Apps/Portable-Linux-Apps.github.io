@@ -1,0 +1,6 @@
+# fss-mini-rag
+===
+ Educational RAG system that actually works! Two modes: fast synthesis for quick answers, deep   exploration for learning. CPU-friendly (522MB qwen3:0.6b), beginner glossary, preset configs, comprehensive troubleshooting. Or turn up the results limit and add a big llm and this tool will still hold its ground. Do not be fooled by its size :).
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/fsscoding/fss-mini-rag

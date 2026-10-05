@@ -1,0 +1,6 @@
+# remakeplaceautoupdater
+===
+ ReMakeplace Autoupdater is a Tauri desktop app for installing, updating, repairing, and launching ReMakeplace. It downloads the latest ReMakeplace game archive from GitHub, validates the extracted files, and preserves user folders such as Custom and Save during updates.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/trainerhol/remakeplaceautoupdater

@@ -1,0 +1,6 @@
+# movie-vault
+===
+ Movie Vault is a desktop application designed to help you manage and organize your personal movie and TV show collection. It automatically scans specified directories for media files, fetches comprehensive metadata from IMDb, and stores everything in a local SQLite database. The app provides a clean, intuitive interface to browse, filter, search, and manage your media library with features like tagging, infinite scrolling, and real-time file watching.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/samoosavi/movie-vault

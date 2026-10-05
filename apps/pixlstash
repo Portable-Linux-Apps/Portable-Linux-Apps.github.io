@@ -1,0 +1,6 @@
+# pixlstash
+===
+ PixlStash helps you find things in an image library that's gotten out of hand. It imports and tags your images automatically, then lets you search by content or face, sort the keepers from the rubbish, and serve data to other tools (like ComfyUI) with a REST API. Use the desktop version or run it headless as a server.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/pikselkroken/pixlstash

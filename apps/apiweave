@@ -1,0 +1,6 @@
+# apiweave
+===
+ Apiweave is a visual API test workflow builder - an open-source, self-hostable alternative to Postman Flows and similar tools. It allows users to create test workflows by dragging nodes onto a canvas, connecting them, and executing them to test APIs.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/kaysharp42/apiweave

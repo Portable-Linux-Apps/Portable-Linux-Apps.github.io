@@ -1,0 +1,6 @@
+# steamcloudfilemanager
+===
+ Cross-platform GUI for Steam Cloud. Visualizes remote storage as a file tree with download, upload, and delete capabilities. Built with Rust., Cross-platform GUI for Steam Cloud archives. Display cloud files in a tree view, supporting download, upload and delete operations. Developed based on Rust. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/fldicoahkiin/steamcloudfilemanager

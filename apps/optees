@@ -1,0 +1,6 @@
+# optees
+===
+ Optees is an open-source desktop toolkit for optimization: LP (SciPy/HiGHS), MILP (OR-Tools CP-SAT), and 0/1 knapsack. Clean Architecture, TDD, dataset adapters (LPnetlib, MIPLIB, Burkardt). Minimal APIs, extensible and testable.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/pablo-gitub/optees

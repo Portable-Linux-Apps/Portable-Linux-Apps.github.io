@@ -1,0 +1,6 @@
+# anydownload
+===
+ CLI website downloader for offline browsing. Static + Playwright render for SPAs, path discovery, local HTTP preview. npm install -g anydownload.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/henrylok0/anydownload

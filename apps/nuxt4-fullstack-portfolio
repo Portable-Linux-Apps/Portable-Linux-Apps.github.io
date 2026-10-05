@@ -1,0 +1,6 @@
+# nuxt4-fullstack-portfolio
+===
+ Nuxt 4 SSR portfolio: WebRTC video/audio calls, Socket.io chat, Redis pub/sub, MongoDB CMS blog, PostgreSQL + Prisma posts, JWT/OAuth AAA, i18n, OG images & SEO. Self-hosted mail (Postfix/Dovecot), DB backups, Nginx, Certbot SSL, Fail2Ban. Deploys to web, Capacitor (iOS/Android) & Electron. 🐳.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/bader-idris/nuxt4-fullstack-portfolio
