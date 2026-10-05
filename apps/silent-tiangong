@@ -1,0 +1,6 @@
+# silent-tiangong
+===
+ Desktop-level personal AI smart terminal based on Rust + Tauri: built-in embedded browser for human-machine collaboration, multi-agent collaboration, long-term memory and scheduled tasks, multi-form plug-in ecosystem (WASM/TypeScript/pure UI) to support self-built extensions, and Feishu/WeChat/QQ mobile terminals for remote control. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/silent-rs/silent-tiangong

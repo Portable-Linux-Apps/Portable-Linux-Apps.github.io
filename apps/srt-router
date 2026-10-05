@@ -1,0 +1,6 @@
+# srt-router
+===
+ A crosspoint-based SRT router: any number of SRT inputs/outputs with a broadcast-router-style crosspoint (each output picks one live-switchable source), a web UI, and runtime add/remove.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/stoatworks-labs/srt-router

@@ -1,0 +1,6 @@
+# notepatra
+===
+ Native C++/Rust code editor for the AI era, ~12 MB bare binary, 238 file extensions / 82 language lexers, Rust-powered search, 6 AI backends (Ollama / llama.cpp / OpenRouter / Ollama Cloud / OpenAI / Azure OpenAI). Free forever, GPL-3.0.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/singhpratech/notepatra

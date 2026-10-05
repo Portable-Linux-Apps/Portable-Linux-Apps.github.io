@@ -1,0 +1,6 @@
+# ascii-art-studio
+===
+ ASCII Art Studio — это современное десктоп-приложение на Rust (Tauri) + React для конвертации изображений и видео в ASCII-арт с богатыми возможностями настройки, цветным рендерингом и встроенным плеером.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/sosulacka/ascii-art-studio

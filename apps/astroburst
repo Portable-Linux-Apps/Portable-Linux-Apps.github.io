@@ -1,0 +1,6 @@
+# astroburst
+===
+ This is the first astronomical image processor built on the Rust/Tauri/WebGPU stack, delivering near-native performance with a fraction of the memory footprint of legacy tools.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/samuelkriegerbonini-dev/astroburst

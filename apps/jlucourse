@@ -1,0 +1,6 @@
+# jlucourse
+===
+ Jilin University Course Selection Assistant · Tauri 2 + Leptos (Rust/WASM). Apple-style interface, multi-threaded concurrent class grabbing, supports manual \"select once\" and embedded official website login status. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/sweetcornna/jlucourse

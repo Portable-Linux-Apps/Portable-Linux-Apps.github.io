@@ -1,0 +1,6 @@
+# opencrawlengine
+===
+ OpenCrawlEngine is a local, single-player role-playing game engine driven by a language-model game master. It runs on your machine, talks to an OpenAI-compatible endpoint that you supply a key for, stores characters and campaigns in a local SQLite database, and renders a desktop interface built with Dear ImGui.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/savannah-i-g/opencrawlengine

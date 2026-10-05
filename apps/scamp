@@ -1,0 +1,6 @@
+# scamp
+===
+ A local-first design tool that lets you visually compose layouts and the output is real code — each page saves as a .tsx file plus a .module.css file that update in real time as you design. External edits (by hand or by an AI agent) reload the canvas instantly, making it a true bidirectional design-to-code workflow.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/scampdesign/scamp
