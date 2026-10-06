@@ -1,0 +1,6 @@
+# nvim-unity
+===
+ Use Neovim as the default code editor for Unity — with .csproj generation, OmniSharp support and LSP-ready workflow.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/apyra/nvim-unity

@@ -1,0 +1,6 @@
+# pycroppdf
+===
+ A small GUI app that overlays all pages of a PDF with transparency and enables batch cropping for all or even and odd pages separately as well as page deletion. Intended to help safely remove headers and footers or margins for reading, OCR or other processing.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/lukaszliniewicz/pycroppdf

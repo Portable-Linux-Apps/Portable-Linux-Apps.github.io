@@ -1,0 +1,6 @@
+# ensemblr
+===
+ Desktop orchestrator for Pi and Claude Code. Every stream of work gets its own git worktree, and an agent can drive the app itself — spawn sub-agents, delegate, integrate.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/ensemblr-hq/ensemblr

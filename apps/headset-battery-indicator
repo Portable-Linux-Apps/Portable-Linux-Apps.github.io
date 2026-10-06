@@ -1,0 +1,6 @@
+# headset-battery-indicator
+===
+ A simple battery indicator for the Linux system tray. Shows your headset's battery level using HeadsetControl and Qt/PySide6.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/ruflas/headset-battery-indicator

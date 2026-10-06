@@ -1,0 +1,6 @@
+# local-operator-ui
+===
+ Local Operator runs AI agent assistants on your own machine, from a desktop chat app. You give an agent a goal; it plans the work, writes and runs Python on your device, reads and writes files, and asks before it takes anything risky. The whole run — messages, tool calls, commands, and results — stays in the conversation in front of you.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/damianvtran/local-operator-ui

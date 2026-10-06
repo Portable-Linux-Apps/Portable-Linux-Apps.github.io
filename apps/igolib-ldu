@@ -1,0 +1,6 @@
+# igolib-ldu
+===
+ A cross-platform application for grabbing or reserving library seats, built with TypeScript, React, and Tauri; it supports obtaining cookies via WeChat QR code scanning.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/venenosix24/igolib-ldu

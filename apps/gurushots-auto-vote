@@ -1,0 +1,6 @@
+# gurushots-auto-vote
+===
+ Cross-platform Electron app for automated voting on GuruShots photography challenges. Features both GUI, android and CLI interfaces with mock mode for testing. Built with Node.js and modern web technologies.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/isthisgitlab/gurushots-auto-vote

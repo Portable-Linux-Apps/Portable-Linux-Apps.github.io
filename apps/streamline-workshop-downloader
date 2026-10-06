@@ -1,0 +1,6 @@
+# streamline-workshop-downloader
+===
+ Streamline is a modern, cross-platform Steam Workshop downloader built with pywebview. It lets you queue, manage, and download individual Workshop items, collections, or an entire game's Workshop through an intuitive interface powered by SteamCMD and SteamWebAPI.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/dane-9/streamline-workshop-downloader

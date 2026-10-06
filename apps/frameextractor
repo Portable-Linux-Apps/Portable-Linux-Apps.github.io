@@ -1,0 +1,6 @@
+# frameextractor
+===
+ FrameExtractor is a modern, cross-platform video frame extractor with a clean UI built with Flutter, powered by ffmpeg and yt-dlp. Supports local video files and direct YouTube URL extraction.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/nokarin-dev/frameextractor

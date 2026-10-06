@@ -1,0 +1,6 @@
+# ceasta
+===
+ Disassembler, decompiler and debugger in one, with a built-in mcp server: point an ai at a binary and it can debug it, not just read it. ida-style listing, pseudocode (f5), x64dbg-style debugger (windows and linux), binary diff, lua plugins. reads pe, elf and mach-o. runs on windows, linux and macos.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/ngwg/ceasta

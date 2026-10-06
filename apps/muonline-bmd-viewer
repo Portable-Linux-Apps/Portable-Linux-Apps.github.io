@@ -1,0 +1,6 @@
+# muonline-bmd-viewer
+===
+ A modern, web-based 3D model viewer for .bmd files, the format used in the game MU Online. This application is built with TypeScript, Three.js, and Vite, providing a smooth and interactive experience for inspecting game models and their animations.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/xulek/muonline-bmd-viewer

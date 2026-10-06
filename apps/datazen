@@ -1,0 +1,6 @@
+# datazen
+===
+ Lightweight GPL-3.0 desktop database client (PostgreSQL, MySQL, SQLite, Redis). Built with Tauri + Rust, under 15MB.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/flyxl/datazen

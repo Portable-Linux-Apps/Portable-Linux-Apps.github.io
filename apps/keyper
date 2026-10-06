@@ -1,0 +1,6 @@
+# keyper
+===
+ 🔐 A self-hosted credential manager with zero-knowledge encryption, multi-user support, and emergency recovery. Store API keys, passwords, and secrets securely with your own database. Features AES-256-GCM encryption, Argon2 key derivation, PWA support, and professional-grade security architecture.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/pinkpixel-dev/keyper

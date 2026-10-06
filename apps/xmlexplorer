@@ -1,0 +1,6 @@
+# xmlexplorer
+===
+ XML Explorer is an extremely fast, lightweight XML file viewer. It can handle extremely large XML files. It has been tested on files as big as 300MB. It allows fast viewing and exploration, copying of formatted XML data, evaluation of XPath expressions, and XSD schema validation.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/xmlexplorer/xmlexplorer.github.io

@@ -1,0 +1,6 @@
+# cook-sync
+===
+ A lightweight, cross-platform sync agent for cook.md that runs in the background and keeps a local recipe folder in step with Cook Cloud sync.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/cook-md/sync-agent

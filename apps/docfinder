@@ -1,0 +1,6 @@
+# docfinder
+===
+ DocFinder is a local-first indexing and searching documents using semantic embeddings stored in SQLite. Everything runs on your machine, no external services required.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/filippostanghellini/docfinder

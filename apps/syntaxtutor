@@ -1,0 +1,6 @@
+# syntaxtutor
+===
+ An interactive C++ tool for learning LL(1) and SLR(1) parsers. SyntaxTutor generates random grammars and guides students through FIRST, FOLLOW, closure, and parsing table calculations with step-by-step feedback.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/jose-rzm/syntaxtutor

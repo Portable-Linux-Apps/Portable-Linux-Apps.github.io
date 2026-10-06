@@ -1,0 +1,6 @@
+# odoo-manager
+===
+ Odoo Manager is a cross-platform desktop application built with Electron and React that simplifies the creation, management, and maintenance of Odoo instances using Docker Compose. It provides a user-friendly interface for developers, system administrators, and businesses who want to run multiple Odoo environments locally without dealing with complex Docker commands.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/danielmederos2424/odoo-manager

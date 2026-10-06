@@ -1,0 +1,6 @@
+# vidmask
+===
+ A privacy-focused Linux application that enables custom backgrounds in any video call, regardless of native support in the conferencing app. Compatible with Signal Desktop, Zoom, Teams, Meet, and all other video chat software. The app captures your camera feed, applies a background image, and streams the processed video to a virtual camera, which can then be selected as your video source in any conferencing app.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/sodomak/vidmask

@@ -1,0 +1,6 @@
+# anonyfiles
+===
+ Anonyfiles est un outil open source d’anonymisation de fichiers .txt, .csv, .json, .docx et .xlsx, basé sur spaCy. Il propose trois interfaces : une ligne de commande (CLI), une API (FastAPI) et une interface graphique (Tauri/Svelte).
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/simongrossi/anonyfiles
