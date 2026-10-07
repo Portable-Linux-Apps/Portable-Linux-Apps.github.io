@@ -3,13 +3,8 @@
 A relaxing solitaire game. Arrange the cards in a certain order, either by  the same color or alternating colors, in the shortest time possible.
  
  This game is part of the KDE Games suite.
- 
- USAGE (from the command line):
- 
-           kdegames -h (shows the list of games)
-           kdegames $GAME (launches the selected game)
 ===
 # SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/kpat/1.webp
 # SITES: https://apps.kde.org
-# SOURCES: https://github.com/ivan-hc/KDE-games-suite-appimage
+# SOURCES: https://github.com/pkgforge-dev/KPatience-AppImage
 # BUTTONS: 
