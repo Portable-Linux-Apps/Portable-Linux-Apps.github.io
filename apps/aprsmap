@@ -1,6 +1,24 @@
 # aprsmap
 ===
- Crossplatform APRS Map.
+Cross Platform APRS Client.
+
+**Features:**
+- Receive APRS Messages via Radio through FlexPacket.
+- Receive APRS Messages via IGate
+- Support for Local (Offline) OSM Tiles
+- Receive ADS-B Messages via dump1090 (https://github.com/antirez/dump1090)
+- Track all APRS objects
+- Filter to show only a specific kind of PoI.
+- Window of the last seen APRS objects.
+- Show RAW Messages from a APRS object.
+- Show Weather and Tracking Chars.
+- Support for RS41-SG and DFM Weather probe.
+- Support for Mic-E Position Data.
+- Support for Compressed Position Data.
+- Set own position via GPS.
+- Receive and send User Messages.
+- Receive and send Bulletin Messages.
+- Send Own Position with symbol.
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/aprsmap/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/aprsmap/2.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/aprsmap/3.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/aprsmap/4.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/aprsmap/5.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/aprsmap/6.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/aprsmap/7.webp
 # SITES: https://github.com/andreaspeters/aprsmap
