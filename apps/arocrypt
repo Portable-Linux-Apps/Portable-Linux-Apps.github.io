@@ -1,6 +1,68 @@
 # arocrypt
 ===
- AroCrypt is a tool for encryption and decryption text and files, steganography with auto encryption.
+AroCrypt is a next-gen, cross-platform encryption toolkit built to keep your data locked down with zero friction. Encrypt text, files, and even images using strong, battle-tested cryptography. The interface stays clean, fast, and developer-friendly while the security stays airtight. Whether you're protecting personal notes or building secure workflows, AroCrypt delivers serious protection without the complexity.
+
+
+🚀 Features
+
+- **Text Encryption and Decryption**  
+  Secure plain text using strong AES encryption with safe shareable output.
+
+- **File Encryption and Decryption**  
+  Encrypt or decrypt any file format with reliable AES encryption. Outputs `.arocrypt` secure containers.
+
+- **Image Steganography**  
+  Hide files inside `.png` images with automatic encryption. Only the correct private key can extract the content.
+
+- **Cross-Platform Builds**
+  - **Windows** (`x64` and `x32`): `.exe` Setup and Portable
+  - **Linux** (`x64`): `.AppImage` and `.deb`
+  - **macOS 12+** (`x64` and `arm64`): `.dmg`
+
+- **Modern UI**  
+  Clean, responsive design built for fast workflows.
+
+- **Portable Options**  
+  No installation needed for Windows Portable or `.AppImage`. Just run and go.
+
+- **KEM-based Key Exchange**  
+  AroCrypt includes Key Encapsulation Mechanisms for safer, modern key handling without exposing sensitive data.
+
+- **Improved Encryption Engine**  
+  Faster performance, simplified data packaging, cleaner metadata handling, and upgraded security flows.
+
+💡 How to Use
+
+- 🔏 Encrypting Text
+ 1. Enter your text.
+ 2. Click **Encrypt**.
+ 3. Copy the Base64 Data Package containing public, non-sensitive data.
+
+- 🔓 Decrypting Text
+ 1. Paste the Base64 Data Package.
+ 2. Click **Decrypt** to reveal the original message.
+
+- 📁 Encrypting Files
+ 1. Select the file or files.
+ 2. Click **Encrypt File(s)**.
+ 3. A `.arocrypt` file will be generated.
+
+- 🗝️ Decrypting Files
+ 1. Select a `.arocrypt` file.
+ 2. Click **Decrypt File(s)**.
+ 3. Your original file or files will be restored.
+
+- 🖼️ Embedding Files into PNG (Steganography)
+ 1. Pick a `.png` container image.
+ 2. Select the files you want to hide.
+ 3. Click **Embed File(s)**.
+ 4. A new `.png` with encrypted embedded data will be created.
+
+- 🧩 Extracting Files from PNG
+ 1. Select the modified `.png` image.
+ 2. Click **Extract File(s)**.
+ 3. You will receive the encrypted embedded files. A decryption key is still required to unlock them.
+
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/arocrypt/1.webp
 # SITES: https://github.com/arocrypt/app
