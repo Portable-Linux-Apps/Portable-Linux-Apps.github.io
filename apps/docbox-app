@@ -1,0 +1,6 @@
+# docbox-app
+===
+ Desktop app for Windows, macOS and Linux that reads text from images and PDFs on your own computer. Pick an OCR model (PaddleOCR, Tesseract, EasyOCR, Ollama) and DocBox sets it up in one click.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/docboxai/docbox-app

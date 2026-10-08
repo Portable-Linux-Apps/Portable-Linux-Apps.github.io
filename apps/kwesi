@@ -1,0 +1,6 @@
+# kwesi
+===
+ Kwesi — a local-first desktop app for generating and training music with open-source AI models. No cloud, no accounts. Bundles MusicGen, MuseCoco, ACE-Step 1.5, RAVE, Museformer, and YuE2 behind one dynamic UI. Electron + React + Python sidecar servers.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/fobia-ai/kwesi

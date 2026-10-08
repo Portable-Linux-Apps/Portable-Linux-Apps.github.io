@@ -1,0 +1,6 @@
+# mongo-studio
+===
+ Open-source, cross-platform MongoDB GUI client (Tauri + React) with multi-connection management, an embedded JS scripting console, CSV export, and query/index/explain tools.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/matheuscaet/mongo-studio

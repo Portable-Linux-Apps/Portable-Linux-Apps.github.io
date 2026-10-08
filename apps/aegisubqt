@@ -1,0 +1,6 @@
+# aegisubqt
+===
+ Next-generation ASS/SSA subtitle editor modernized with Qt 6 Quick and C++20, featuring QRHI GPU-accelerated spectrogram, video playback, visual typography, and Automation 4 Lua.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/cuptu/aegisubqt

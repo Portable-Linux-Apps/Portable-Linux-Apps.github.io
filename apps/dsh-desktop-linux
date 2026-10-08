@@ -1,0 +1,6 @@
+# dsh-desktop-linux
+===
+ Ported official DeepSeek Harness desktop packages to Linux: AppImage, deb, rpm and Arch PKGBUILD, built from upstream source via a set of patch series. Ports the official DeepSeek Harness desktop packaging to Linux: AppImage, deb, rpm and an Arch PKGBUILD, built from upstream sources through a patch series..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/ffyfox/dsh-desktop-linux

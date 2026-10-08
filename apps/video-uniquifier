@@ -1,0 +1,6 @@
+# video-uniquifier
+===
+ Re-encode your owned video with 19 calibrated ffmpeg micro-transforms — pitch shift, temporal jitter, HDR-aware color, audio FP   divergence. Resume-capable, distributed batch, full QA report. CLI + PyQt6 desktop UI.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/hostlife22/video-uniquifier

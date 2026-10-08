@@ -1,0 +1,6 @@
+# ytdlp-ui
+===
+ A simple desktop app for yt-dlp. Download YouTube videos, playlists and music from 1000+ sites, convert your own files, and separate vocals, drums and bass. Queue, quality picker, subtitles, chapters and automatic yt-dlp updates. Built with Tauri and React.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/yohannzapata/ytdlp-ui

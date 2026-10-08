@@ -1,0 +1,6 @@
+# remotrix
+===
+ Remotrix - a native desktop download manager based on Rust + iced, inspired by Motrix-next; built-in aria2-next engine, supports HTTP/FTP/BT multi-protocol downloads, concurrent segmentation, rate limiting, SQLite persistence, multi-topics and multi-languages. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/lazy1104/remotrix

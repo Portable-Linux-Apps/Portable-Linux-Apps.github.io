@@ -1,0 +1,6 @@
+# agent-comm-hub
+===
+ One local endpoint, any MCP-capable agent — MiniMax Code, Claude Code, opencode, Codex, Gemini CLI, DeepSeek Harness — connects, claims an identity, and chats with, delegates tasks to, and acknowledges every other connected agent in real time.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/jochenyang/agent-comm-hub

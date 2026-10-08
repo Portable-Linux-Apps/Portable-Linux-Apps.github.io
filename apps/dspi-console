@@ -1,0 +1,6 @@
+# dspi-console
+===
+ A Linux port of the DSPi Console application, written in Qt with a Rust backend.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/weeblabs/dspi-console-linux

@@ -1,0 +1,6 @@
+# bodhi-ai
+===
+ Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the Bamboo-hosted Lotus Next UI.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/bigduu/bodhi-ai

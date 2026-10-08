@@ -1,0 +1,6 @@
+# freellm-gateway
+===
+ The universal zero-cost AI gateway. Drop-in OpenAI/Anthropic proxy pooling 880+ models across 200+ providers with intelligent Set-Cover routing, sub-5ms 429 auto-failover, and split-tunnel VPNs. Never pay for inference or hit a rate limit again.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/majidi-star/freellm-gateway

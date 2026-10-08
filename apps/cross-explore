@@ -1,0 +1,6 @@
+# cross-explore
+===
+ A fast, live, cross-platform file explorer: Windows 11 Explorer look, Finder live updates & Quick Look, Total Commander power tools; SMB/SFTP/FTP/WebDAV/S3, LAN + Tailscale discovery, peer-to-peer mode. Tauri 2 + Rust + Svelte 5.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/hoangqnguyen/cross-explore

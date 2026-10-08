@@ -1,0 +1,6 @@
+# decky-sunshine-res-helper
+===
+ A helper daemon for Decky Sunshine, that watches for a streaming connection and automatically matches the resolution and refresh rate requested by the client.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/misteranderson91/decky-sunshine-res-helper

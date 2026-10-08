@@ -1,0 +1,6 @@
+# astra-gate
+===
+ Astra is a local AI gateway that runs on your own machine. It sits between your AI clients (Codex, Claude Code, Gemini CLI, …) and AI providers (Anthropic, OpenAI, DeepSeek, OpenRouter, …) as a local relay
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/239573049/astra-gate

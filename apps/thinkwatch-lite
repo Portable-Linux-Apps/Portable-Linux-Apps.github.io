@@ -1,0 +1,6 @@
+# thinkwatch-lite
+===
+ Local gateway for Claude Code, Codex and other AI clients on macOS, Windows and Linux: switch upstreams without touching clients, keep API keys from relays, cut off malicious tool calls, trace every request.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/thinkwatchproject/thinkwatch-lite
