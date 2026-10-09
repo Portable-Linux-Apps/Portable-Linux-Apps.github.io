@@ -1,6 +1,9 @@
-# swampswap
+# Swamp Swap
 ===
- A graphical user interface for the command line file transfer program croc, built in PyQt6.
+**Swamp Swap** is a GUI wrapper for a terminal application called **croc**. croc allows users to easily and securely transfer files between one another. The intention of Swamp Swap is to be a fun and simple-to-use interface for users that prefer a graphical user interface over terminal input.
+
+croc was created by Zack Schollz
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
-# SITES: https://github.com/ferase/swampswap
+# SCREENSHOTS: https://raw.githubusercontent.com/Ferase/SwampSwap/refs/heads/master/images/SwampSwap_Window_Screenshot_01.webp https://raw.githubusercontent.com/Ferase/SwampSwap/refs/heads/master/images/SwampSwap_Window_Screenshot_02.webp https://raw.githubusercontent.com/Ferase/SwampSwap/refs/heads/master/images/SwampSwap_Window_Screenshot_03.webp
+# SITES: https://github.com/Ferase/SwampSwap
+# BUTTONS: croc::https://github.com/schollz/croc
