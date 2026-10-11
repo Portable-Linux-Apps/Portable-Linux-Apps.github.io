@@ -31,8 +31,9 @@ Each app's data lives in a plain text file in the `apps/` folder, named after th
 # some app
 
 ===
-description of your app, between the `===` lines.
-only use **bold**, *italic*, ++underline++, lists markdown here
+description of your app. must be within the `===` lines.
+you can only use **bold**, *italic*, ++underline++, lists, headings, table, code and fenced code markdown here
+## Notes
 - do not add links or images here
 - use SOURCES field if you package someone else's app
 ===

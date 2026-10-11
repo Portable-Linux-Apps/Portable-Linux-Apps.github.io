@@ -229,7 +229,7 @@
 
   // Minimal markdown -> HTML for descriptions.
   // Supports: `inline code`, fenced code blocks (```), **bold**, *italic*,
-  // ++underline++, and - / * / 1. lists.
+  // ++underline++, - / * / 1. lists, ## / ### / #### headings, and tables.
   // Everything else is treated as plain text (and HTML-escaped first,
   // so no other tags can sneak in through the JSON data).
   function inlineMarkdown(s) {
@@ -248,6 +248,14 @@
       return '<code>' + codeSpans[Number(i)] + '</code>';
     });
     return s;
+  }
+
+  // Split a table row on the pipes, dropping the optional leading and
+  // trailing one, and run inline formatting on each cell.
+  function splitRow(r) {
+    return r.trim().replace(/^\||\|$/g, '').split('|').map(function(c) {
+      return inlineMarkdown(c.trim());
+    });
   }
 
   function markdownToHtml(text) {
@@ -269,6 +277,29 @@
       var olRe = /^\d+\.\s+(.*)$/;
       var ulMatch = line.match(ulRe);
       var olMatch = !ulMatch && line.match(olRe);
+
+      // Headings: ## / ### / ####
+      var hMatch = trimmed.match(/^(#{2,4})\s+(.*)$/);
+      if (hMatch) {
+        var lvl = hMatch[1].length;
+        blocks.push('<h' + lvl + '>' + inlineMarkdown(hMatch[2]) + '</h' + lvl + '>');
+        i++;
+        continue;
+      }
+
+      // Tables: header row, |---|---| separator row, then body rows
+      if (trimmed.charAt(0) === '|' && i + 1 < lines.length &&
+          /^\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)*\|?$/.test(lines[i + 1].trim())) {
+        var th = splitRow(line).map(function(c) { return '<th>' + c + '</th>'; }).join('');
+        var trs = [];
+        i += 2;
+        while (i < lines.length && lines[i].trim().charAt(0) === '|') {
+          trs.push('<tr>' + splitRow(lines[i]).map(function(c) { return '<td>' + c + '</td>'; }).join('') + '</tr>');
+          i++;
+        }
+        blocks.push('<table class="md-table"><thead><tr>' + th + '</tr></thead><tbody>' + trs.join('') + '</tbody></table>');
+        continue;
+      }
 
       // Fenced code block: ```[lang] ... ```
       if (trimmed.match(/^`{3}/)) {
@@ -325,7 +356,14 @@
       }
     }
 
-    return blocks.join('<br>');
+    // Headings and tables are block elements, so a <br> between them and
+    // their neighbour would add a stray blank line. Everything else keeps
+    // the original line-per-line break behaviour.
+    var blockRe = /^<(h[2-4]|table)/;
+    return blocks.reduce(function(out, b, k) {
+      if (k === 0) return b;
+      return out + (blockRe.test(b) || blockRe.test(blocks[k - 1]) ? '' : '<br>') + b;
+    }, '');
   }
 })();
 
