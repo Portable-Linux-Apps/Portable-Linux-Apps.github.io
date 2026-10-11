@@ -4,7 +4,7 @@ name: Close completed screenshot issues
 # app that has no screenshot in the catalog, and asks the app author to approve
 # one. This workflow closes those issues once the app actually got a screenshot,
 # so the open-issue list stays a real to-do list instead of a backlog of things
-# that are already done.
+# that are already done
 
 on:
   workflow_dispatch:
