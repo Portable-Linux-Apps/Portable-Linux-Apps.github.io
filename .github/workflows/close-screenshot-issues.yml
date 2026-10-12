@@ -1,0 +1,56 @@
+name: Close completed screenshot issues
+
+# Companion to "Capture missing screenshots": that workflow files one issue per
+# app that has no screenshot in the catalog, and asks the app author to approve
+# one. This workflow closes those issues once the app actually got a screenshot,
+# so the open-issue list stays a real to-do list instead of a backlog of things
+# that are already done
+
+on:
+  workflow_dispatch:
+    inputs:
+      max-issues:
+        description: Maximum number of open screenshot issues to check (0 = all)
+        required: false
+        type: number
+        default: 0
+      dry-run:
+        description: Only report what would be closed, change nothing
+        required: false
+        type: boolean
+        default: true
+  schedule:
+    - cron: "41 6 * * *"
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: close-screenshot-issues
+  cancel-in-progress: false
+
+jobs:
+  close:
+    name: Close completed issues
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Close issues whose app now has a screenshot
+        shell: bash
+        env:
+          REPO: ${{ github.repository }}
+          # 0 means "every open issue"; the script paginates gh's listing itself.
+          MAX_ISSUES: ${{ inputs.max-issues || 0 }}
+          # Scheduled runs have no inputs, so the null boolean is falsy and the
+          # sweep always closes for real; only a manual run can ask for a dry run.
+          DRY_RUN: ${{ inputs.dry-run && '1' || '0' }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # An app counts as done when its catalog entry has a real screenshot
+          # line; the script comments on the issue and then closes it as
+          # completed, so the reason for closing is recorded in the issue.
+          bash .github/scripts/close-completed-screenshot-issues.sh
