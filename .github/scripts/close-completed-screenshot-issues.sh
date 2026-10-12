@@ -87,7 +87,14 @@ total=$(printf '%s' "$issues" | jq 'length')
 log "found $total open screenshot issue(s)"
 
 # ---------------------------------------------------------------- sweep
-results=()
+# Three buckets, because only one of them is the answer to "what did this run
+# do": ready (closed or about to be closed), fails (needs a rerun/attention) and
+# rest (touched nothing -- still waiting on the app author). The summary shows
+# the first two and folds the third away, so a sweep over hundreds of open
+# issues does not bury the handful that actually got closed.
+ready=()
+fails=()
+rest=()
 closed=0
 already=0
 skipped=0
@@ -103,21 +110,21 @@ for row in $(printf '%s' "$issues" | jq -r '.[] | @base64'); do
     app=${title#"$TITLE_PREFIX"}
     if [ "$app" = "$title" ] || ! valid_app_name "$app"; then
         log "SKIP #$number: '$title' is not a plain '$TITLE_PREFIX<app>' title"
-        results+=("SKIP #$number ($title) — unrecognised title")
+        rest+=("SKIP #$number ($title) — unrecognised title")
         skipped=$((skipped + 1))
         continue
     fi
 
     if ! value=$(catalog_screenshots "$app"); then
         log "SKIP #$number: no catalog entry apps/$app (app removed from the catalog?)"
-        results+=("SKIP #$number ($app) — no catalog entry")
+        rest+=("SKIP #$number ($app) — no catalog entry")
         skipped=$((skipped + 1))
         continue
     fi
 
     if ! has_real_screenshot "$value"; then
         log "SKIP #$number: $app still has no screenshot (SCREENSHOTS: '${value:-<empty>}')"
-        results+=("OPEN #$number ($app) — still missing a screenshot")
+        rest+=("OPEN #$number ($app) — still missing a screenshot")
         already=$((already + 1))
         continue
     fi
@@ -125,7 +132,7 @@ for row in $(printf '%s' "$issues" | jq -r '.[] | @base64'); do
     log "READY #$number: $app has screenshots ($value)"
 
     if [ "$DRY_RUN" = "1" ]; then
-        results+=("WOULD CLOSE #$number ($app)")
+        ready+=("WOULD CLOSE #$number ($app)")
         closed=$((closed + 1))
         continue
     fi
@@ -148,7 +155,7 @@ EOF
     if ! gh issue comment "$number" -R "$REPO" --body-file "$body" >/dev/null 2>&1; then
         log "could not comment on #$number"
         echo "::error::could not comment on #$number ($app)"
-        results+=("FAIL #$number ($app) — comment failed")
+        fails+=("FAIL #$number ($app) — comment failed")
         failed=$((failed + 1))
         continue
     fi
@@ -157,35 +164,78 @@ EOF
     # rejected rather than fulfilled.
     if gh issue close "$number" -R "$REPO" --reason completed >/dev/null 2>&1; then
         log "closed #$number ($app)"
-        results+=("CLOSED #$number ($app)")
+        ready+=("CLOSED #$number ($app)")
         closed=$((closed + 1))
     else
         log "could not close #$number"
         echo "::error::could not close #$number ($app)"
-        results+=("FAIL #$number ($app) — close failed")
+        fails+=("FAIL #$number ($app) — close failed")
         failed=$((failed + 1))
     fi
 done
 
 # ---------------------------------------------------------------- summary
+# Only what this run changed is listed up front. The issues that are still open
+# because their app has no screenshot yet are the normal case, not news, so they
+# go into a collapsed section instead of a table of their own -- a dry run over
+# 500 open issues then reads as "nothing to close" plus a count.
 {
     echo ""
     echo "## Screenshot issues"
     echo ""
     if [ "$DRY_RUN" = "1" ]; then
-        echo "Dry run — ${closed} issue(s) would be closed, nothing was modified."
+        echo "Checked $total open issue(s) — **$closed would be closed**, nothing was modified."
     else
-        echo "Closed **$closed**, still missing a screenshot: **$already**, skipped: **$skipped**, failed: **$failed**."
+        echo "Checked $total open issue(s) — **$closed closed**, $failed failed."
     fi
     echo ""
-    echo "| issue |"
-    echo "|---|"
-    printf '| %s |\n' "${results[@]:-(nothing to do)}"
-    echo ""
+
+    if [ "${#ready[@]}" -gt 0 ]; then
+        if [ "$DRY_RUN" = "1" ]; then
+            echo "### Would be closed"
+        else
+            echo "### Closed"
+        fi
+        echo ""
+        echo "| issue |"
+        echo "|---|"
+        printf '| %s |\n' "${ready[@]}"
+        echo ""
+    else
+        # only claim there is nothing to do when nothing failed either: an empty
+        # closed-table next to a failure table would read as "nothing to close"
+        if [ "${#fails[@]}" -eq 0 ]; then
+            echo "Nothing to close: every open issue's app still has no screenshot."
+            echo ""
+        fi
+    fi
+
+    if [ "${#fails[@]}" -gt 0 ]; then
+        echo "### Failed (left open)"
+        echo ""
+        echo "| issue |"
+        echo "|---|"
+        printf '| %s |\n' "${fails[@]}"
+        echo ""
+    fi
+
+    if [ "${#rest[@]}" -gt 0 ]; then
+        echo "<details>"
+        echo "<summary>$((already + skipped)) issue(s) left open ($already still missing a screenshot, $skipped skipped)</summary>"
+        echo ""
+        echo "| issue |"
+        echo "|---|"
+        printf '| %s |\n' "${rest[@]}"
+        echo ""
+        echo "</details>"
+        echo ""
+    fi
+
     echo "Run: ${GITHUB_SERVER_URL:-github.com}/$REPO/actions/runs/${GITHUB_RUN_ID:-local}"
 } >>"${GITHUB_STEP_SUMMARY:-/dev/null}"
 
-printf '%s\n' "${results[@]:-(nothing to do)}"
+# console output mirrors the summary: candidates and failures, not the backlog
+printf '%s\n' "${ready[@]:-}" "${fails[@]:-}" | grep -v '^$' || echo "(nothing to do)"
 
 if [ "$failed" -gt 0 ]; then
     exit 1
