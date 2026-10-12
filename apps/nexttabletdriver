@@ -1,0 +1,6 @@
+# nexttabletdriver
+===
+ A high-performance user-mode drawing tablet driver written in Rust, designed to minimize input lag. A modern alternative to OpenTabletDriver.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/next-tablet-driver/nexttabletdriver
