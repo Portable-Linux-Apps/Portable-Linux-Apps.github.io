@@ -31,8 +31,9 @@ Each app's data lives in a plain text file in the `apps/` folder, named after th
 # some app
 
 ===
-description of your app, between the `===` lines.
-only use **bold**, *italic*, ++underline++, lists markdown here
+description of your app. must be within the `===` lines.
+you can only use **bold**, *italic*, ++underline++, lists, headings, table, code and fenced code markdown here
+## Notes
 - do not add links or images here
 - use SOURCES field if you package someone else's app
 ===
@@ -123,7 +124,7 @@ The [static.yml](.github/workflows/static.yml) workflow builds and deploys the s
 
 ```sh
 # download the generator
-wget -O pla-site-tool "https://github.com/kazam0180/portable-apps/releases/download/pla-site-tool-0.2.3/pla-site-tool_0.2.3-x86_64.AppImage"
+wget -O pla-site-tool "https://github.com/kazam0180/portable-apps/releases/download/pla-site-tool-0.3.3/pla-site-tool_0.3.3-x86_64.AppImage"
 chmod +x pla-site-tool
 
 ./pla-site-tool          # generates the site into public/

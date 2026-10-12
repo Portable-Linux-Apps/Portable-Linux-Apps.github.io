@@ -2,7 +2,8 @@
 
 ===
 description of your app. must be within the `===` lines.
-only use **bold**, *italic*, ++underline++, lists markdown here
+you can only use **bold**, *italic*, ++underline++, lists, headings, table, code and fenced code markdown here
+## Notes
 - do not add links or images here
 - use SOURCES field if you package someone else's app
 ===

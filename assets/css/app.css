@@ -165,7 +165,6 @@
   margin: 1.5rem auto;
   border-radius: var(--radius);
 }
-}
 
 .app-body-content table {
   border-collapse: collapse;
@@ -179,6 +178,51 @@
 
 .app-body-content table img {
   margin: 0;
+}
+
+/* md-table keeps markdown tables separate from the centred badge or
+   image tables the plain `table` rules above were written for. */
+.app-body-content h2,
+.app-body-content h3,
+.app-body-content h4 {
+  color: var(--color-text);
+  line-height: 1.3;
+  margin: 1.5rem 0 0.6rem;
+}
+
+.app-body-content h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.app-body-content h3 {
+  font-size: 1.0625rem;
+  font-weight: 600;
+}
+
+.app-body-content h4 {
+  font-size: 0.9375rem;
+  font-weight: 600;
+}
+
+.app-body-content table.md-table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  margin: 1rem 0;
+  font-size: 0.875rem;
+}
+
+.app-body-content table.md-table th,
+.app-body-content table.md-table td {
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  border: 1px solid var(--color-border);
+}
+
+.app-body-content table.md-table th {
+  background: var(--color-surface);
+  font-weight: 600;
 }
 
 .app-body-content pre {
