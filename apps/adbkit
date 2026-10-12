@@ -1,6 +1,78 @@
 # adbkit
 ===
- A simple, modern GUI for ADB, Fastboot and Scrcpy.
+ADBKit puts device management, app and file operations, terminal, logcat,
+flashing, scrcpy controls, and binary setup in one desktop app. The setup wizard
+can find installed tools, use paths you provide, or download managed packages.
+ADB, Fastboot, and scrcpy must all be ready before setup can finish.
+
+## Features
+
+### Dashboard and devices
+
+- Select and switch between connected devices.
+- View device details, battery, storage, RAM, connection state, and performance.
+- Connect over USB or wireless ADB, including the wireless pairing flow.
+- Edit device nicknames, take screenshots, detect device modes, and run reboot actions.
+
+### App manager
+
+- Browse installed packages in a virtualized list.
+- Install APKs from a picker or drag and drop them into the app.
+- Uninstall, enable, disable, clear data, and run batch actions.
+- Pull APK files and inspect package details with search, filtering, and sorting.
+
+### File explorer
+
+- Browse device storage with breadcrumbs and hidden-file support.
+- Push, pull, create, rename, and delete files or folders.
+- See transfer progress and cancel an active transfer.
+- View storage usage and jump to mounted external SD cards.
+- Get clear guidance when Android blocks a protected or unavailable path.
+
+### Flasher
+
+- Flash individual partitions after validating the target name.
+- Scan a ROM folder and review its Flash Plan before writing images.
+- Manage A/B slots and use the wipe-data confirmation guardrail.
+- Send ZIP files through ADB sideload and run validated Fastboot commands.
+- Use Wake on Fastboot actions for continue, wake, unlock, and stay-awake flows.
+
+### Terminal and Logcat
+
+- Use ADB shell, ADB host, and Fastboot host modes.
+- Keep command history and session output in the app.
+- Stream Logcat and filter by level, tag, or text.
+- Export Logcat output to a file.
+
+### Scrcpy
+
+- Start screen mirroring in a native window.
+- Record the device screen with a timer and file-size estimate.
+- Capture screenshots and save them to the host.
+- Synchronize the clipboard between the device and computer.
+- Adjust resolution, FPS, bitrate, codec, audio, rotation, and saved presets.
+
+### Setup, settings, and diagnostics
+
+- Detect binaries in saved configuration, the system PATH, managed packages, and common paths.
+- Select custom files or directories for ADB, Fastboot, and scrcpy.
+- Download and preserve complete Platform Tools and scrcpy packages.
+- Switch between dark and light themes and set terminal defaults.
+- Persist window state and configure the device synchronization interval.
+- Review optional audit logs and runtime diagnostics.
+
+## Supported platforms
+
+| Platform | Requirements | Distribution |
+| --- | --- | --- |
+| Linux | GTK4 and WebKitGTK 6 | AppImage, DEB, RPM, and Arch packages |
+| Windows 10 and later | Microsoft WebView2 Runtime | Portable executable and Wails packaging tasks |
+| macOS 12 and later | Platform-specific WebKit support | Build configuration is included; no macOS release artifact is currently published |
+
+Windows 7 is not supported by the v2 application. The Linux `appimage` target
+bundles more dependencies for portability. The `appimage-lite` target expects
+the host system to provide GTK4, WebKitGTK 6, and their runtime dependencies.
+
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/adbkit/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/adbkit/2.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/adbkit/3.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/adbkit/4.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/adbkit/5.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/adbkit/6.webp
 # SITES: https://github.com/drenzzz/adbkit
