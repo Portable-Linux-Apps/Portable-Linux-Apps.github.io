@@ -1,5 +1,9 @@
 name: Capture missing screenshots
 
+# Issues filed here ("Screenshot for <app>") are closed by the companion
+# workflow "Close completed screenshot issues" once apps/<app> gets a real
+# # SCREENSHOTS: line, so this workflow can safely keep filing new ones.
+
 on:
   workflow_dispatch:
     inputs:
