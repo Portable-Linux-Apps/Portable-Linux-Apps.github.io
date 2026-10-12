@@ -89,8 +89,17 @@ jobs:
           fi
 
           echo "running: .github/scripts/check-dead-links.sh ${ARGS[*]}"
+          # shell: bash runs this step under "set -e", so a checker that exits
+          # 1 to report dead links aborts the step before the next line runs and
+          # exit_code is never written. The later step that turns that code into
+          # a distinct "dead links" vs "checker could not complete" verdict then
+          # sees an empty value. Suspend errexit around the call so the status is
+          # always recorded, and let the step succeed so the verdict step runs.
+          set +e
           ./.github/scripts/check-dead-links.sh "${ARGS[@]}"
-          echo "exit_code=$?" >> "$GITHUB_OUTPUT"
+          CHECK_STATUS=$?
+          set -e
+          echo "exit_code=$CHECK_STATUS" >> "$GITHUB_OUTPUT"
 
       - name: Publish summary
         if: always() && steps.cadence.outputs.skip != 'true'

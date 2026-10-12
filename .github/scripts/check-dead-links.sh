@@ -70,12 +70,17 @@ die() { printf 'Error: %s\n' "$*" >&2; exit 2; }
 # ------------------------------------------------------------- single probe
 # HEAD first; if the host dislikes HEAD or hides behind a WAF, redo it as a
 # ranged GET so we do not mistake a bot-block for a missing file.
+#
+# 404 belongs in that fallback set as well. Some hosts answer HEAD with 404
+# while still serving the document to GET (linux.weixin.qq.com and xmcl.app
+# both do), so a HEAD 404 on its own does not prove the resource is gone.
+# The ranged GET settles it: a genuinely missing file returns 404 there too.
 http_code() {
     local url="$1" code
     code="$(curl -sS -L --max-redirs 10 --max-time "$TIMEOUT" -A "$UA" \
         -o /dev/null -w '%{http_code}' -I "$url" 2>/dev/null)" || code=000
     case "$code" in
-        000|400|403|405|501)
+        000|400|403|404|405|501)
             # A ranged GET proves whether HEAD was simply refused.
             code="$(curl -sS -L --max-redirs 10 --max-time "$TIMEOUT" -A "$UA" \
                 -r 0-0 -o /dev/null -w '%{http_code}' "$url" 2>/dev/null)" || code=000
@@ -347,6 +352,8 @@ if [ -n "$REPORT" ]; then
             echo
         fi
         if [ "$UNVERIFIED_COUNT" -gt 0 ]; then
+            UNVERIFIED_SHOWN=$(grep -c '^unverified' "$RESULTS" || true)
+            [ "$UNVERIFIED_SHOWN" -gt 50 ] && UNVERIFIED_SHOWN=50
             echo "## Unverified ($UNVERIFIED_COUNT)"
             echo
             echo "No conclusive status, so these are **not** counted as dead."
@@ -354,6 +361,10 @@ if [ -n "$REPORT" ]; then
             echo "| url |"
             echo "|---|"
             grep '^unverified' "$RESULTS" | head -n 50 | cut -f2 | sed 's/^/| /; s/$/ |/'
+            if [ "$UNVERIFIED_SHOWN" -lt "$UNVERIFIED_COUNT" ]; then
+                echo
+                echo "_showing $UNVERIFIED_SHOWN of $UNVERIFIED_COUNT; see the job artifact for the full list._"
+            fi
             echo
         fi
     } > "$REPORT"
