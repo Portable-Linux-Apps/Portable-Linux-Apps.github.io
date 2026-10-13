@@ -1,6 +1,22 @@
 # markdown-reader
 ===
- Local-first cross-platform Markdown editor with tabs, live preview, AI chat & translation, sentence comparison, slash commands, citations, document import, advanced tables, browser preview, export, and support for OpenAI, Anthropic, OpenRouter, LM Studio, Ollama & compatible APIs.
+Local-first cross-platform Markdown editor with tabs, live preview, AI chat & translation, sentence comparison, slash commands, citations, document import, advanced tables, browser preview, export, and support for OpenAI, Anthropic, OpenRouter, LM Studio, Ollama & compatible APIs.
+
+## 🌟 Why Markdown Reader?
+
+Most modern writing apps force you to choose between **privacy** and **power**. Cloud-based AI editors train on your data, while local editors often lack intelligent features.
+
+**Markdown Reader bridges the gap.** It is a native desktop application built on Tauri, ensuring your files stay locally on your machine. But it also seamlessly integrates with **OpenAI, Anthropic, OpenRouter, and Local LLMs**, bringing powerful AI-assisted writing directly to your offline workflow.
+
+### Key Features
+
+- 🔒 **Local-First Architecture**: Your files never leave your machine unless you explicitly call an external AI API.
+- 🤖 **Bring-Your-Own-AI**: Configure OpenAI, Anthropic, OpenRouter, OpenAI-compatible providers, or local models.
+- ✍️ **Intelligent Editing**: AI-assisted translation, sentence-by-sentence comparison, summarization, formatting, and code-block cleanup.
+- ⚡ **Slash Commands**: Type `/` in the editor to trigger AI actions or insert a table inline, without opening the AI panel.
+- 🛡️ **Audit & Rollback**: Review all AI suggestions before applying them. Reject or rollback changes with a single click.
+- 🖥️ **Native Desktop Feel**: Built with Next.js and packaged with Tauri for blazing-fast performance.
+
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: <img width="1177" height="646" alt="Image" src="https://github.com/user-attachments/assets/a6716f6e-5bdb-41fb-914b-314e4c4eb394" />
 # SITES: https://github.com/petertzy/markdown-reader
