@@ -1,6 +1,14 @@
 # drawx
 ===
- Offline-first brainstorming and whiteboard app.
+Offline-first brainstorming and whiteboard app.
+## ✨ Features
+
+- **Offline-First**: All your sketches and notes are stored locally. No internet required.
+- **Infinite Canvas**: Powered by Excalidraw for unlimited drawing space.
+- **Cross-Platform**: Available on Windows, macOS, Linux, and web.
+- **Fast & Lightweight**: Built with Tauri for minimal resource usage.
+- **Theme Support**: Multiple built-in themes including Matcha, Neutral, Stone, and Y2K.
+- **Auto-Updates**: Seamless updates through Tauri's updater.
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/Pratyay360/drawx/refs/heads/main/public/image.webp https://raw.githubusercontent.com/Pratyay360/drawx/refs/heads/main/public/image1.webp
 # SITES: https://github.com/pratyay360/drawx
