@@ -1,6 +1,6 @@
 # aeroftp
 ===
- Cross-platform modern desktop client for FTP, FTPS, SFTP, WebDAV, S3-compatible storage, GitHub, and Cloud providers, built with Rust (Tauri) + React.
+Cross-platform modern desktop client for FTP, FTPS, SFTP, WebDAV, S3-compatible storage, GitHub, and Cloud providers, built with Rust (Tauri) + React.
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/aeroftp/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/aeroftp/2.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/aeroftp/3.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/aeroftp/4.webp
 # SITES: https://github.com/axpdev-lab/aeroftp

@@ -1,6 +1,8 @@
 # aether
 ===
- Wireguard GUI client.
+**WireGuard, refined.**
+
+A standalone Linux desktop app for managing WireGuard VPN connections. Pick any workspace folder, import provider configs, and connect with one click.
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/aether/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/aether/2.webp
 # SITES: https://github.com/alisawari/aether
