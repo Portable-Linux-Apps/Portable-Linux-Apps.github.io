@@ -1,6 +1,28 @@
 # agent-smith-reloaded
 ===
- Local desktop coding assistant you can run with any local model. No API key required. It can read your project, edit files, run commands, verify results, and show you exactly what changed. Private remote access is possible as well, incl. sharing files across devices e.g. sending files to your mobile phone. (Min Requirements 24GB VRAM / 64GB RAM).
+**Agent Smith reloaded** is an elite desktop developer's cockpit that transforms locally hosted language models (7B–35B) into capable autonomous build partners. Unlike chat-only wrapper interfaces, Agent Smith reads your workspace, constructs detailed execution plans, edits your files, runs shell commands, verifies results, and presents you with a clean visual diff—**all running 100% locally on your machine.** 
+
+for users with vram lower than 32gigs we have agent smith resurrected which doenst contain the coding pipeline 
+
+Designed from the ground up for absolute **privacy, extreme control, and predictable agent behavior**, it ensures your codebase never leaves your side of the wire.
+
+> **Your machine. Your model. Your codebase. Zero Cloud Keys Required.**
+
+---
+
+## ⚡ Key Features
+
+*   **🧠 Embedded Embedding Model (New in v55.1):** Out-of-the-box, local, zero-config semantic memory! Utilizes the bundled `all-MiniLM-L6-v2` transformer model (via `@xenova/transformers`) running in-process on CPU. No external cloud endpoints or LM Studio embedding configurations are required.
+*   **🛠️ Autonomous "Code Mode":** A dedicated multi-turn agent loop that plans, implements, self-corrects, and validates changes autonomously.
+*   **🛡️ The Trust Layer (Byte-Exact Revert All):** Every single file mutation is recorded by a local `changeLedger` before writing. At any point, review a unified diff of your workspace and perform a **1-click Revert All** to restore the exact pre-run state of your code.
+*   **🚦 Intelligent Auto-Routing:** A real-time classifier parses your input. Coding tasks automatically launch the autonomous Build loop, while general questions, terminal commands, or file lookups get conversational Chat or whole-machine Agent tools.
+*   **🌲 Git Worktree Isolation:** Run risky builds and speculative features in an isolated, temporary Git worktree under `.agentsmith/worktrees/`, keeping your active branch pristine.
+*   **🧪 Grind Until Green:** Blocks completion of tasks until your project's syntax checks, linter, unit tests, and acceptance checks (`browser_verify` headless tests) pass.
+*   **🦾 Small-Model Discipline:** Features the **Gemma Harness**—custom system prompt folding, tool JSON preambles, and message compaction designed specifically to extract reliable, reliable reasoning from smaller 7B-14B models.
+*   **📱 Remote Mobile Cockpit:** Generates a local LAN/tunnel address and a secure QR code. Scan it to control and monitor Agent Smith's build loop directly from your phone and smith can share files for anything on your host machine u ask for via providing user with a download link that can be used remotely to download files.
+*   **🔌 Extensible Plugin System:** Add custom developer tools, environment hooks, and shell controls using the sandboxed plugin manager.
+
+
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/agent-smith-reloaded/1.webp
 # SITES: https://github.com/6morpheus6/agent_smith-reloaded
