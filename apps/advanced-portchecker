@@ -1,6 +1,6 @@
 # advanced-portchecker
 ===
- Check if a certain port is open or not.
+Advanced PortChecker is a free and open-source application that can help you check if ports are open or closed on a certain host. You can check multiple ports at once and export the results in plain text, CSV or JSON format!
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/advanced-portchecker/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/advanced-portchecker/2.webp
 # SITES: https://github.com/codedead/advanced-portchecker
