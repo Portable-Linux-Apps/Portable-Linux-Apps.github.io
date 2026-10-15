@@ -1,6 +1,18 @@
 # agaric
 ===
- Agaric — local-first, block-based note-taking app inspired by Org-mode and Logseq. Tauri 2 + React 19 + Rust.
+A local-first, block-based note-taking app for **Linux** (primary), **Windows**, **macOS**, and **Android**. Inspired by Org-mode and Logseq — journal-first, with powerful tagging and emergent structure. No cloud, no accounts. Your data lives on your machine, syncs over local WiFi. **AI-ready** — ships an MCP integration so Claude Desktop, Cursor, Continue, and other agents talk directly to your local vault.
+
+## What is it?
+
+Agaric treats everything as a **block** — paragraphs, headings, code snippets, tasks. Blocks live in a tree: pages contain blocks, blocks can nest infinitely. Tags and links are first-class citizens that connect your knowledge graph.
+
+Think Logseq or Notion, but:
+
+- **Local-first** — SQLite database on your filesystem, no server required
+- **Offline-first** — works without internet, syncs peer-to-peer over local WiFi
+- **Fast** — Rust backend, instant search via FTS5, sub-millisecond operations
+- **Private** — no cloud telemetry, no external analytics, no cloud. Your vault is a plain SQLite file on disk (no at-rest encryption) — rely on OS full-disk encryption (LUKS / FileVault / BitLocker) for confidentiality. (The local logger in `src/lib/logger.ts` writes errors to disk so the in-app `BugReportDialog` can attach them — nothing leaves your machine.)
+
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/agaric/1.webp
 # SITES: https://github.com/jfolcini/agaric
