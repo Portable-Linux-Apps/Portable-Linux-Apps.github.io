@@ -1,6 +1,37 @@
 # agent-skills
 ===
- Lightweight, high-performance cross-platform desktop app to browse, sync, and manage AI agent skills across Claude Code, Cursor, Gemini CLI, Copilot, and more. (Lightweight, high-performance cross-platform AI Agent Skills management tool)..
+A cross-platform desktop app for managing AI agent skills.
+
+Browse, install, sync, and edit skills across 16 agents from a single interface.
+
+## Supported AI Tools
+
+- Claude Code
+- Cursor
+- Codex
+- Gemini CLI
+- GitHub Copilot CLI
+- Kiro
+- OpenCode
+- Antigravity
+- CodeBuddy
+- OpenClaw
+- Trae
+- Windsurf
+- Cline
+- Factory
+- Warp
+- Qoder
+
+## Features
+
+- **Dashboard** — See which agents are installed, how many skills each has
+- **Skills Manager** — View, edit, uninstall, and sync skills across agents
+- **Marketplace** — Browse and install skills from **skills.sh** and **ClawHub**
+- **Skill Editor** — Edit SKILL.md files directly in the app
+- **File Watcher** — Auto-refreshes when skills change on disk
+- **Cross-Agent Sync** — Install a skill to one agent, sync it to all others in one click
+
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/agent-skills/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/agent-skills/2.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/agent-skills/3.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/agent-skills/4.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/agent-skills/5.webp
 # SITES: https://github.com/chrlsio/agent-skills
