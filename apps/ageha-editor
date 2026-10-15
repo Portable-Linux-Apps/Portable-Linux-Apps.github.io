@@ -1,6 +1,19 @@
 # ageha-editor
 ===
- A markdown editor that can also create slides.
+Markdown editor built using Tauri. It is lightweight and can be used without the need for installation.
+
+### Core Features
+
+- Real-time preview
+- Printing (including PDF export)
+- HTML export
+- Input assistance
+- Flowchart support (Mermaid)
+- Mathematical formula support (KaTeX)
+- Slide creation (Marp)
+- Slideshow mode
+- Vim mode
+- Custom CSS
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/ageha-editor/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/ageha-editor/2.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/ageha-editor/3.webp
 # SITES: https://github.com/itsuki-maru/ageha-editor

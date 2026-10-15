@@ -1,6 +1,19 @@
 # adosmissioncontrol
 ===
- Open-source web-based Ground Control Station for autonomous drones. FC config, sensor calibration, mission planning, MAVLink protocol, manual flight control. Supports multi drone fleet and companion software for true software defined drones.
+Open-source web-based Ground Control Station for autonomous drones. FC config, sensor calibration, mission planning, MAVLink protocol, manual flight control. Supports multi drone fleet and companion software for true software defined drones.
+Command any drone from any browser. ADOS Mission Control is a full ground control station for software-defined drones. Configure flight controllers panel by panel, plan missions with pattern generators, fly with a gamepad at 50 Hz, and tune PIDs with AI. No install. No locked hardware.
+
+## What it lets you do
+
+- **Connect to any drone, no driver install.** Plug in over USB (WebSerial), point at a MAVLink WebSocket, or pair with an ADOS agent over your LAN.
+- **Set up the whole flight controller.** Nearly 60 panels cover calibration, PID tuning, receivers, outputs, failsafe, power, ports, OSD, firmware flashing, and the iNav-specific surfaces.
+- **Plan a mission by drawing it.** Drop waypoints on the map, generate survey, orbit, corridor, SAR, and structure-scan patterns, follow terrain, set geofences and rally points, then validate before upload.
+- **Fly with a real controller.** Gamepad, HOTAS, RC transmitter, or keyboard at 50 Hz, with arm/disarm, mode switching, guided flight, and a kill switch.
+- **Rehearse in 3D.** Replay a mission over real terrain on a Cesium globe before you fly it.
+- **Tune PIDs with help.** FFT-driven noise and motor-health analysis suggests filter settings and PID values.
+- **Manage a fleet from anywhere.** Cloud mode adds multi-drone dashboards, mission sync, and real-time telemetry over MQTT.
+- **Sign your commands.** HMAC-SHA256 on every outbound MAVLink v2 frame, with the key held only in your browser.
+- **Self-host all of it.** Field operations work fully offline, and the cloud relay can run entirely on your own servers.
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/adosmissioncontrol/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/adosmissioncontrol/2.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/adosmissioncontrol/3.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/adosmissioncontrol/4.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/adosmissioncontrol/5.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/adosmissioncontrol/6.webp
 # SITES: https://github.com/altnautica/adosmissioncontrol
