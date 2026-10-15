@@ -1,6 +1,6 @@
 # agent-launcher
 ===
- Configure and run existing coding-agent CLIs from one desktop app.
+Agent Launcher is a local desktop workspace for coding-agent CLIs. It detects and links CLIs already installed on your system, installs the ones you don't have in one click, applies account or provider configuration, and runs each agent in an embedded terminal or chat view. A CLI you already have is never reinstalled or updated.
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/agent-launcher/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/agent-launcher/2.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/agent-launcher/3.webp
 # SITES: https://github.com/agent-launch/agent-launcher
