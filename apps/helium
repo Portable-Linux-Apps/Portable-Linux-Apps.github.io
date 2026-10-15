@@ -1,8 +1,24 @@
 # helium
 ===
 Private, fast, and honest Chromium-based web browser made for people.
+## Faster than you blink
+Helium automatically optimizes for minimal resource usage. No maintenance needed. It's light and efficient by default.
+Not enough? Hibernate tabs you don't need right now, and come back to them later.
+Save resources and battery life by switching to Helium.
+
+## Skip the search engine
+Browse the web even faster with !bangs. Built into Helium, processed locally, and routed directly to the website you want. Bang, clack, done.
+Jump to thousands of websites without having to go through a page of search results.
+
+## Transparent and open source
+All Helium components are open source and available on GitHub. Development happens in public, from commits to builds to releases.
+You can build Helium yourself, self-host Helium services, fork or contribute to anything.
+Use it, inspect it, modify it, or help shape where it goes next.
+
+## The calmest browser, by default
+Helium never gets in your way and removes most of the noise on all web pages, so you can focus on what you came for.
+Take a look yourself: drag the slider to see the difference between Helium and other browsers.
 ===
-# SCREENSHOTS: /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/helium/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/helium/2.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/helium/3.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/helium/4.webp
 # SITES: https://github.com/imputnet/helium-linux
 # SOURCES: https://github.com/pkgforge-dev/Helium-Browser-AppImage-Enhanced
-# BUTTONS: 
