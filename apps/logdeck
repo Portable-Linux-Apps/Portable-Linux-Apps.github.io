@@ -1,0 +1,6 @@
+# logdeck
+===
+ Read-only Kubernetes log explorer: colored levels, grouped errors, previous-container view.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/wisecort/logdeck

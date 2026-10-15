@@ -1,0 +1,6 @@
+# googlephotos-takeoutrestorer
+===
+ An ultra-fast, multi-threaded Rust tool by Guruteja Reddy to restore Google Photos Takeout metadata, fix EXIF timestamps, and re-embed JSON sidecar files.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/gurutejareddy-04/googlephotos-takeoutrestorer-rust

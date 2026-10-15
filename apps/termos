@@ -1,0 +1,6 @@
+# termos
+===
+ Desktop SSH client for sysadmins: store hosts, keys, and passwords in one encrypted vault, open SSH/Telnet/Serial terminals, transfer files via SFTP, configure port forwarding, and manage Proxmox VMs/containers from a single application. Sync across devices and share with your team via your own server.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/adriyansyah-mf/termos
