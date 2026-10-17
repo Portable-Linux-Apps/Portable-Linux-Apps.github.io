@@ -1,0 +1,6 @@
+# vpn-parser
+===
+ A high-performance modern cross-platform desktop agent tool written in Rust + egui: collecting subscriptions, parsing nodes, driving agent kernels (Mihomo, sing-box, Xray), and measuring agent availability and latency. .
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/mateo-ki/vpn-parser

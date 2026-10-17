@@ -1,0 +1,6 @@
+# gba-emulator
+===
+ A Game Boy Advance emulator written in C. Includes Pokémon Companion, a live panel for Pokémon Emerald, FireRed and LeafGreen with a damage calculator, party and route info, a Nuzlocke tracker and a run timeline, plus Hardware X-Ray Mode.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/amyanger/gba-emulator

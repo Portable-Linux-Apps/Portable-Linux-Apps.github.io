@@ -1,0 +1,6 @@
+# multiplane
+===
+ Local headless HTML-to-video renderer for AI agents. Shots are plain web pages driven by render(t); includes determinism checks, cut-aware motion blur, and a 3D layer with accumulated depth of field.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/lbeilc/multiplane

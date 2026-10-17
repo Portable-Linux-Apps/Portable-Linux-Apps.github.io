@@ -1,0 +1,6 @@
+# fieldcraft
+===
+ One open-source modeler for structures, heat and fluids, built from scratch in pure Rust: parametric part in, verified results out. Automatic all-hex and tet meshing, our own nonlinear implicit and explicit FEA, heat transfer and lattice Boltzmann CFD — every result checked against theory. For engineers and AI agents alike. Free, forever.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/tangency-labs/fieldcraft

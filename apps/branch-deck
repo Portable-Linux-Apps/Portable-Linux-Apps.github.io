@@ -1,0 +1,6 @@
+# branch-deck
+===
+ Desktop app that turns prefixed commits on one branch into real Git branches: groups by (prefix) or issue key, shows conflicts in a merge view, detects merged branches, suggests branch names with an on-device AI model.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/develar/branch-deck

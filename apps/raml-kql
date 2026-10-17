@@ -1,0 +1,6 @@
+# raml-kql
+===
+ Run one KQL query against many Azure Log Analytics workspaces across tenants and accounts. A VS Code-style desktop app.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/luca-ramseyer/raml-kql
