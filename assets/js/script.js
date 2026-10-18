@@ -220,7 +220,9 @@ document.addEventListener('DOMContentLoaded', function() {
         var timer;
         input.addEventListener('input', function() {
           clearTimeout(timer);
-          timer = setTimeout(applyFilters, 150);
+          timer = setTimeout(function() {
+            requestAnimationFrame(applyFilters);
+          }, 300);
         });
       }
 
