@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>$APP_NAME - _("PORTABLE LINUX APPS")</title>
+  <title>$APP_TITLE - _("PORTABLE LINUX APPS")</title>
   <meta name="description" content="$APP_DESC">
   <meta property="og:type" content="website">
   <meta property="og:title" content="$APP_NAME - _("PORTABLE LINUX APPS")">
@@ -20,7 +20,6 @@
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="stylesheet" href="/assets/css/app.css">
-  <link rel="preconnect" href="$APP_NAME.json">
   <link rel="preconnect" href="/assets/css/style.css">
   <link rel="preconnect" href="/assets/css/app.css">
   <link rel="preconnect" href="/assets/js/app_page.js">
@@ -56,9 +55,19 @@
   </a>
 </div>
 
-<div id="app-name" style="display: none;">$APP_NAME</div>
-<div id="suite-name" style="display: none;">$SUITE_NAME</div>
-<div id="app-root"><h1>$APP_NAME</h1></div>
+<div id="app-root">
+<div class="app-detail-header">
+<img src="../../icons/$APP_NAME.webp" alt="icon for $APP_DISPLAY_NAME" onerror="this.src='../../no-icon.webp'">
+<div class="app-title"><h1>$APP_DISPLAY_NAME</h1><div class="app-meta">$APP_META</div>
+</div>
+$APP_INSTALL_BTN
+</div>
+<div class="app-body-content">$APP_DESC_FULL</div>
+$APP_GALLERY
+$APP_BUTTONS
+$APP_SITES
+$APP_SOURCES
+</div>
 
 <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
 
@@ -81,4 +90,3 @@
 </footer>
 </body>
 </html>
-
