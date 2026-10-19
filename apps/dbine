@@ -1,0 +1,6 @@
+# dbine
+===
+ DBine database manager: a free desktop app for 130 SQL and NoSQL engines, with profiler, schema & data compare, cross-engine migration, local AI assistant, MCP server and encrypted cloud sync. Rust + Tauri.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/addlayer-io/dbine
