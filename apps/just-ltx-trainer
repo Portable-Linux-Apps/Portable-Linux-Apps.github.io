@@ -1,4 +1,4 @@
-# just-ltx-trainer
+# Just Ltx Trainer
 ===
  Train a LoRA on LTX 2.3 without touching a terminal. A desktop app that drives a rented RunPod GPU for you: drop in your videos, click through a few screens, and walk away. Comes back with samples you can preview right in the window.
 ===

@@ -1,4 +1,4 @@
-# jsonquery-gui
+# Jsonquery GUI
 ===
  🔍 A fast, native desktop GUI for browsing and querying large JSON files — supports jq, JSONPath, JMESPath, and JSON Pointer. Built in Rust.
 ===

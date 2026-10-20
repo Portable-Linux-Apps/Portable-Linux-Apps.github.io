@@ -1,4 +1,4 @@
-# jsoninja
+# Jsoninja
 ===
  A fast, lightweight viewer for JSON, JSON Lines, JSONC and JSON5, with search within keys and in-place fixing of broken files.
 ===
