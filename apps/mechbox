@@ -1,4 +1,4 @@
-# mechbox
+# Mechbox
 ===
  MechBox is an offline desktop toolbox for mechanical design and standard parts query, built based on Electron, Vue 3, TypeScript and SQLite. The project goal is to integrate common mechanical calculations, standard data queries, engineering reports and local workflows into a desktop application that can run offline. .
 ===

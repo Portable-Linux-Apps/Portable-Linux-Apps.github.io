@@ -1,4 +1,4 @@
-# mailcraft
+# Mailcraft
 ===
  An open-source, clean-room reimplementation of Microsoft Outlook (classic) in pure Rust.
 ===

@@ -1,4 +1,4 @@
-# musica
+# Musica
 ===
  Structure-first audio separation via dynamic mincut — spectral graph methods in Rust.
 ===

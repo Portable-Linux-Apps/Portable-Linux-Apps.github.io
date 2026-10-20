@@ -1,4 +1,4 @@
-# miaominal
+# Miaominal
 ===
  A native SSH workspace built with Rust, featuring split terminals, SFTP, OpenSSH integration, port forwarding, encrypted sync, and AI agents for remote development.
 ===

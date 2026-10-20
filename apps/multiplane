@@ -1,4 +1,4 @@
-# multiplane
+# Multiplane
 ===
  Local headless HTML-to-video renderer for AI agents. Shots are plain web pages driven by render(t); includes determinism checks, cut-aware motion blur, and a 3D layer with accumulated depth of field.
 ===

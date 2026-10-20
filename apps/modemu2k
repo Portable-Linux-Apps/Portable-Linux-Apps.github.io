@@ -1,4 +1,4 @@
-# modemu2k
+# Modemu2k
 ===
  A Hayes AT-command modem emulator that bridges a serial interface to TCP/Telnet.
 ===

@@ -1,4 +1,4 @@
-# mesh-client
+# Mesh Client
 ===
  Cross-platform Electron desktop client for Meshtastic, MeshCore, and Reticulum on macOS, Linux, and Windows with multi-language support, BLE, USB serial, Wi‑Fi/TCP, MQTT, local SQLite history, and routing diagnostics. EMCOMM support via MECP & TAK.
 ===

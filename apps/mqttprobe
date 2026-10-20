@@ -1,4 +1,4 @@
-# mqttprobe
+# Mqttprobe
 ===
  The MQTT diagnostic tool built for IIoT. Connect to any MQTT broker, browse live topic trees, inspect payloads, and chart JSON telemetry in real time. Native Sparkplug B decode and EoN node emulation built in. Open source, no cloud required.
 ===
