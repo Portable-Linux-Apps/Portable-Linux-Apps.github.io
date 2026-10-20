@@ -1,4 +1,4 @@
-# patchelf
+# Patchelf
 ===
 PatchELF packaged as an AppImage, it is an utility to modify the dynamic linker and RPATH of ELF executables.
 ===

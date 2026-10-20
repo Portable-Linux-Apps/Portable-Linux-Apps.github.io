@@ -1,4 +1,4 @@
-# pcm-transport
+# Pcm Transport
 ===
  Lightweight Linux audio player with direct ALSA output, native FLAC, gapless/CUE playback, DSP and transparent signal-path diagnostics.
 ===

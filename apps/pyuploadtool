@@ -1,4 +1,4 @@
-# pyuploadtool
+# Pyuploadtool
 ===
  Build-system-agnostic tool to create releases on and upload artifacts to various releases hosting providers.
 ===

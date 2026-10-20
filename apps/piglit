@@ -1,4 +1,4 @@
-# piglit
+# Piglit
 ===
 Piglit is an automated test suite designed for verifying OpenGL, OpenCL, and Vulkan driver implementations. Widely utilized in the development and quality assurance of Mesa graphics drivers, Piglit runs thousands of compliance and regression tests.
 

@@ -1,4 +1,4 @@
-# podlogs
+# Podlogs
 ===
  A modern, lightweight Kubernetes pod log viewer desktop app built with Tauri, React & Rust. Features real-time log streaming, multi-pod search, and dark/light themes. 100% vibe coded with Claude.
 ===

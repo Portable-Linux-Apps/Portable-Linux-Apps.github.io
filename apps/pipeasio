@@ -1,4 +1,4 @@
-# pipeasio
+# Pipeasio
 ===
  ASIO to Pipewire. Better solution for low latency audio inside Wine. Works with SteamRT.
 ===

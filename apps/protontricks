@@ -1,4 +1,4 @@
-# protontricks
+# Protontricks
 ===
 Run Winetricks commands for Steam Play/Proton games among other common Wine features,
 such as launching external Windows executables. This is often useful when a game requires closed-source runtime libraries or applications
