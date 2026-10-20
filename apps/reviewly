@@ -1,4 +1,4 @@
-# reviewly
+# Reviewly
 ===
  Fast, local-first desktop app for reviewing GitHub pull requests — with AI that runs on your own machine. Built with Tauri 2 (Rust + React).
 ===

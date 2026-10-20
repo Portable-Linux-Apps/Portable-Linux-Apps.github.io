@@ -1,4 +1,4 @@
-# recordscript
+# Recordscript
 ===
 Cross-platform screen recorder, transcript, subtitle. Built with Tauri & Whisper-rs (rust port of whisper.cpp)
 ===

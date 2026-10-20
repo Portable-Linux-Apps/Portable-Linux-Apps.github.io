@@ -1,4 +1,4 @@
-# red-ui
+# Red UI
 ===
  Universal client for reddb — embedded, server, docker, cluster. Tauri 2 + SvelteKit, ships as desktop app and PWA.
 ===

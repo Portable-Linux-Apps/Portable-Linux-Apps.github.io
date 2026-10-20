@@ -1,4 +1,4 @@
-# readest-unlocked
+# Readest Unlocked
 ===
  Automatically builds an unlocked (premium client gates removed) Readest from upstream readest/readest via GitHub Actions.
 ===

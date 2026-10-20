@@ -1,4 +1,4 @@
-# robota
+# Robota
 ===
  TypeScript framework for building AI agents — multi-provider (Anthropic, OpenAI, Google), tool calling, permissions, hooks, streaming, and CLI coding assistant.
 ===

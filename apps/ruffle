@@ -1,4 +1,4 @@
-# ruffle
+# Ruffle
 ===
 Ruffle is a Flash Player emulator written in Rust.
 Leveraging the safety guarantees of Rust, we can confidently avoid all

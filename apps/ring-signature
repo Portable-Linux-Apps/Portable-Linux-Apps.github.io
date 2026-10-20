@@ -1,4 +1,4 @@
-# ring-signature
+# Ring Signature
 ===
  Simple implementation of ring signature using RSA (Rust).
 ===

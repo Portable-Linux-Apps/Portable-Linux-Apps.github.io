@@ -1,4 +1,4 @@
-# r2-youloader
+# R2 Youloader
 ===
  Download YouTube videos, audio, and playlists on your own machine. Cross-platform desktop app over yt-dlp + ffmpeg, with subtitles, SponsorBlock, trim, and auto-update. Electron + React.
 ===
