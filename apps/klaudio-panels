@@ -1,4 +1,4 @@
-# klaudio-panels
+# Klaudio Panels
 ===
  Klaudio Panels — Tauri v2 + SolidJS desktop that embeds the Claude Code CLI in a PTY, with panels for the terminal, shell dock, git changes and a file tree.
 ===

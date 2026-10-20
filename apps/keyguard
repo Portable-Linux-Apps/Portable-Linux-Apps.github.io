@@ -1,4 +1,4 @@
-# keyguard
+# Keyguard
 ===
  A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
 ===

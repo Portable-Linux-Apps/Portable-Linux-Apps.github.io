@@ -1,4 +1,4 @@
-# keyscope
+# Keyscope
 ===
  The native Kubernetes IDE ⚡for the data stack (Redis, Valkey, Upstash, Cloudflare, modern databases) with a built-in toolkit (HTTP Client, SSH Client, Visual Diff, Local Terminal, Text Editor, Mail Sender)—all inside Keyscope.
 ===
