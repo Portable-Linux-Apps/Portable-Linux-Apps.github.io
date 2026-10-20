@@ -1,4 +1,4 @@
-# ssh-mitm
+# SSH Mitm
 ===
 ssh mitm server for security audits supporting public key  authentication, session hijacking and file manipulation.
 ===

@@ -1,4 +1,4 @@
-# sink
+# Sink
 ===
  Linux-native audio routing and mixing on PipeWire virtual channels, per-app routing, capturable mixes, and a processed virtual microphone.
 ===

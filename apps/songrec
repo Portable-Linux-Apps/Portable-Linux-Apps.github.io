@@ -1,4 +1,4 @@
-# songrec
+# Songrec
 ===
 SongRec is an unofficial Shazam client for Linux, written in Rust. It allows you to easily recognize songs from your speakers, microphone or audio files.
 

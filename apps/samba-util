@@ -1,4 +1,4 @@
-# samba-util
+# Samba Util
 ===
  Unified GUI and CLI front‑end for the Linux Samba service stack. Provides share management, user administration, and configuration editing with direct interaction through smb.conf and smbd.
 ===

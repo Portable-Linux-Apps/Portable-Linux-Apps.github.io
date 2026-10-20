@@ -1,4 +1,4 @@
-# shockwave
+# Shockwave
 ===
  A local, file-based notes app where your work stays as plain .md files in a folder you own. It ships with a real coding agent baked right in (no separate Claude Code), and syncs through your own GitHub repo for free.
 ===

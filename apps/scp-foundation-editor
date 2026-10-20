@@ -1,4 +1,4 @@
-# scp-foundation-editor
+# Scp Foundation Editor
 ===
  WYSIWYG editor for SCP-CN Wikidot articles. Built with Tauri + Vue 3 + Rust.
 ===

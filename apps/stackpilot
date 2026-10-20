@@ -1,4 +1,4 @@
-# stackpilot
+# Stackpilot
 ===
  An all-in-one desktop app to scaffold, manage, and run developer projects. Generate ready-to-use stacks (Django, React, Docker, etc.) in minutes without manual environment setup. Built with Tauri, Rust & SvelteKit.
 ===

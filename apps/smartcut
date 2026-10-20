@@ -1,4 +1,4 @@
-# smartcut
+# Smartcut
 ===
  Smart-rendering video cutter: re-encodes only the partial GOPs at the cut points and bit-copies the rest. Built for cutting commercials out of Japanese broadcast recordings (MPEG-2 TS).
 ===

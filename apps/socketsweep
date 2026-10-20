@@ -1,4 +1,4 @@
-# socketsweep
+# Socketsweep
 ===
  A high-performance Android storage analyzer that bypasses MTP using a native C++ daemon, a Rust TCP bridge, and a React Treemap UI.
 ===

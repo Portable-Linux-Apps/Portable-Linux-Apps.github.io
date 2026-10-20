@@ -1,4 +1,4 @@
-# splitlane
+# Splitlane
 ===
  Native desktop workspace for running several CLI coding agents side by side, with live status for which one needs you. Rust + GPUI.
 ===
