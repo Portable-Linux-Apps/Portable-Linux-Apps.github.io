@@ -1,6 +1,6 @@
 # Agent Loom
 ===
- Agent skills management and synchronization app.
+A desktop app that manages AI agent skills from a single location. It works with any tool that supports the agentskills.io open format, keeping a central repository and syncing skills to each tool via symlinks.
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/agent-loom/1.webp
 # SITES: https://github.com/alpha-coders/agent-loom
