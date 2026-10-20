@@ -1,4 +1,4 @@
-# gharmonize
+# Gharmonize
 ===
 A cross-platform media conversion app with a built-in YouTube downloader and Spotify downloader, powered by yt-dlp and ffmpeg — now featuring FPS adaptation support for AC3, EAC3, and AAC codecs.
 ===

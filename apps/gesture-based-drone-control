@@ -1,4 +1,4 @@
-# gesture-based-drone-control
+# Gesture Based Drone Control
 ===
  Real-time gesture-to-flight-command pipeline using MediaPipe Hands, rule-based + ML recognition, FastAPI WebSocket backend, and a React/TypeScript telemetry dashboard.
 ===

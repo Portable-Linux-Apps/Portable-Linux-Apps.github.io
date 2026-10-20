@@ -1,4 +1,4 @@
-# ghostline
+# Ghostline
 ===
  One-click encrypted DNS (DoH/DoT/DoQ/DNSCrypt), protection against DPI interference with zapret2 (or GoodbyeDPI on Windows), a local HTTP/SOCKS proxy with TLS fragmentation, and domain rules for Windows and Linux. ~30 MB RAM, no telemetry, always restores your original DNS. For privacy, security research and education.
 ===

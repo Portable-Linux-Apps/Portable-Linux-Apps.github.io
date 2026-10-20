@@ -1,4 +1,4 @@
-# goblintown
+# Goblintown
 ===
  Multi-agent orchestration protocol for OpenAI. A pack of Goblins races on a task while a Gremlin attacks each output and a Troll arbitrates. Raccoons gather context, Ogres handle fallback, Pigeons ship results between Warrens.
 ===

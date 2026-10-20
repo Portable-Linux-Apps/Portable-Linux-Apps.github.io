@@ -1,4 +1,4 @@
-# gitwand
+# Gitwand
 ===
  The Git client that actually resolves conflicts: 8 deterministic patterns auto-resolve the ones that were never decisions, full trace on the rest. Native (Tauri 2 + Rust), free, MIT.
 ===
