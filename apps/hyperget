@@ -1,4 +1,4 @@
-# hyperget
+# Hyperget
 ===
  Fast, persistent downloads without browser lock-in. Hyper Get is an open-source download manager for Linux and Windows, powered by Rust, SQLite, Tauri 2, and React.
 ===

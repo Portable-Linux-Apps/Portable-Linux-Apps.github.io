@@ -1,4 +1,4 @@
-# hcad
+# Hcad
 ===
  A SolidWorks-style parametric CAD modeler in Rust — constraint sketching, full part features, assemblies, and STL reverse-engineering. Windows & Linux.
 ===

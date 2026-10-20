@@ -1,4 +1,4 @@
-# hypershell
+# Hypershell
 ===
  A Windows, Linux & macOS SSH/serial terminal with integrated SFTP browser, built on Electron + xterm.js.
 ===

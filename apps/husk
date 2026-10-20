@@ -1,4 +1,4 @@
-# husk
+# Husk
 ===
  A desktop home for your CLI agent. Wraps claude / copilot / codex / aider in a clean Electron window with PTY, MCP, drag-drop context, sessions, voice, and a live status panel. PAI reasoning bundled.
 ===

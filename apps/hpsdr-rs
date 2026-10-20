@@ -1,4 +1,4 @@
-# hpsdr-rs
+# Hpsdr Rs
 ===
  A Rust/egui desktop client for openHPSDR Protocol 1 and Protocol 2 radios (Metis/Ozy-style and Hermes/Orion-style boards), using WDSP for DSP.
 ===
