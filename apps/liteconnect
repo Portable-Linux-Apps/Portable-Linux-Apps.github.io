@@ -1,4 +1,4 @@
-# liteconnect
+# Liteconnect
 ===
  LiteConnect is a multi-protocol connection management client designed for developers and DevOps professionals. It integrates SSH terminal, SFTP, server monitoring, Docker management, database tools (MySQL, PostgreSQL, Oracle), an AI assistant with SSH tool integration, and an optional native MCP service, making it ideal for daily operations and development workflows.
 ===

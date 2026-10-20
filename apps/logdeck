@@ -1,4 +1,4 @@
-# logdeck
+# Logdeck
 ===
  Read-only Kubernetes log explorer: colored levels, grouped errors, previous-container view.
 ===

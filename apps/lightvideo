@@ -1,4 +1,4 @@
-# lightvideo
+# Lightvideo
 ===
  FFmpeg video toolbox: compress, convert, merge, trim, auto-subtitle and speech-to-text with a built-in engine and local AI that never uploads. Tauri + Vue3.
 ===

@@ -1,4 +1,4 @@
-# limusic
+# Limusic
 ===
  Feature rich, native desktop, YouTube Music client. Tauri + Rust + SvelteKit, ad-free playback through libmpv, Last.fm scrobbling and Discord Rich Presence, no Electron.
 ===

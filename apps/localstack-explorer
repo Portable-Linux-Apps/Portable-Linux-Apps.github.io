@@ -1,4 +1,4 @@
-# localstack-explorer
+# Localstack Explorer
 ===
  A full-stack web dashboard for browsing and managing AWS resources running on https://localstack.cloud. Provides an AWS Console-like experience for local development with support for S3, SQS, SNS, IAM, CloudFormation, Lambda, and DynamoDB.  Built with Fastify, React, and AWS SDK v3. Available as a web app, docker, standalone.
 ===

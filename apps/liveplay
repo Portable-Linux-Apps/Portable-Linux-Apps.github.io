@@ -1,4 +1,4 @@
-# liveplay
+# Liveplay
 ===
  A free, open-source audio playback system designed for live sound operators who need reliable, flexible cue management. Built with C++ for the audio core, and modern web technologies (Electron, Vue 3, Nuxt 3) for the UI, it runs on Windows, macOS, and Linux.
 ===
