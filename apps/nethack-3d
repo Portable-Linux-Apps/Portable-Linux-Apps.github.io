@@ -1,4 +1,4 @@
-# nethack-3d
+# Nethack 3D
 ===
  A 3D client for playing NetHack on web, Windows, macOS and Android. It uses a fork of @neth4ck/neth4ck to run NetHack compiled into WebAssembly, with a React hooks/Zustand frontend handling input, and game UI, with a Three.JS renderer. Supports NetHack 5.0, NetHack 3.6.7, and Slash'Em.
 ===

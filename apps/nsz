@@ -1,4 +1,4 @@
-# nsz
+# Nsz
 ===
 NSZ is a Homebrew-compatible compressor and decompressor for Nintendo Switch game packages. Written in Python, it losslessly compresses NSP and XCI dumps into smaller NSZ and XCZ formats, saving up to 80% storage space.
 

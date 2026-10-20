@@ -1,4 +1,4 @@
-# ngbrecomp
+# Ngbrecomp
 ===
  Ninja Gaiden Black (Xbox, 2005) statically recompiled into native Linux and Windows builds, drawn by its own Vulkan renderer. A steady 60 fps, widescreen and ultrawide, keyboard and mouse, Steam Deck ready. Bring your own copy of the game.
 ===

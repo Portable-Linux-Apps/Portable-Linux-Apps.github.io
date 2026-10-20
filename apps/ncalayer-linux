@@ -1,4 +1,4 @@
-# ncalayer-linux
+# Ncalayer Linux
 ===
  NCALayer is the digital signature application of the National Certification Authority (NCA) of the Republic of Kazakhstan. This repository repackages the official application into native Linux packages — it does not modify the proprietary NCALayer JAR itself.
 ===

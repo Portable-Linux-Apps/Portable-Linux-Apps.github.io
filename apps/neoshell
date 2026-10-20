@@ -1,4 +1,4 @@
-# neoshell
+# Neoshell
 ===
  NeoShell is a native desktop GUI application for SSH server management. Not Electron, not a CLI — a hardware-accelerated Rust binary with a real native window.
 ===

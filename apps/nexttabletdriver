@@ -1,4 +1,4 @@
-# nexttabletdriver
+# Nexttabletdriver
 ===
  A high-performance user-mode drawing tablet driver written in Rust, designed to minimize input lag. A modern alternative to OpenTabletDriver.
 ===
