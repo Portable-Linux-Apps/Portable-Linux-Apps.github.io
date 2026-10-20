@@ -1,4 +1,4 @@
-# windusb-gui
+# WindUSB GUI
 ===
 A modern, Rust-based graphical tool for creating bootable Windows USB installers on Linux.
 ===

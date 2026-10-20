@@ -1,4 +1,4 @@
-# workbuddy-switch2api
+# WorkBuddy Switch2API
 ===
  WorkBuddy / CodeBuddy account switching tool (Tauri + Rust) with built-in OpenAI support. Compatible with local reverse proxies; features account pool rotation, credit check-in monitoring, and a persistent system tray icon. Fork of changexbc/workbuddy-switch.
 ===

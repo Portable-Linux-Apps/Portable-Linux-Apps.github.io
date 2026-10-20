@@ -1,4 +1,4 @@
-# whisperdesk
+# WhisperDesk
 ===
  A powerful desktop transcription application powered by native whisper.cpp with persistent state management and real-time progress feedback.
 ===

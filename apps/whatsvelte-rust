@@ -1,4 +1,4 @@
-# whatsvelte-rust
+# WhatSvelte
 ===
  Whatsapp integration made with Svelte and Rust backend, packaged with Tauri for an ultra low resource alternative to Whatsapp Desktop.
 ===

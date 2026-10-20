@@ -1,4 +1,4 @@
-# waveflow
+# WaveFlow
 ===
  Spotify-style desktop music player for your local library. Lock-free Rust audio (FLAC/MP3/DSD up to DSD1024), 6-band EQ, ReplayGain, gapless, crossfade, synced lyrics (LRCLIB), Last.fm scrobbling, DLNA server.
 ===

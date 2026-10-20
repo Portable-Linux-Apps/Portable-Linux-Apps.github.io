@@ -1,4 +1,4 @@
-# wirebrowser
+# Wirebrowser
 ===
  Wirebrowser is a CDP-based runtime instrumentation platform for the browser. Think Frida, but for JavaScript running in Chrome — without monkeypatching.
 ===

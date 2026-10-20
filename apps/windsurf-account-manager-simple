@@ -1,4 +1,4 @@
-# windsurf-account-manager-simple
+# Windsurf Account Manager Simple
 ===
  A Windsurf multi-account management desktop application developed based on Tauri + Vue 3 + TypeScript. It is used to manage multiple Windsurf accounts and provide functions such as point reset, bill query, one-click account change, subscription payment, etc. .
 ===
