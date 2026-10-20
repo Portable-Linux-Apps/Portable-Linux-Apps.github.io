@@ -1,0 +1,6 @@
+# ibis-office
+===
+ The next-gen Office suite built with Rust & GPUI. Blazing-fast, memory-safe, and highly accurate editing for DOCX, XLSX, and PPTX with pixel-perfect rendering. Powered by DirectX, Metal, Vulkan & WebGPU for peak performance across Windows, macOS, Linux, and Web (Wasm).
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/ibisjp/ibis-office
