@@ -1,4 +1,4 @@
-# dora
+# Dora
 ===
  Native cross-platform database workbench built with Tauri and Rust. Browse data, run SQL, visualize schemas, manage Docker databases, and generate queries with AI. Supports PostgreSQL, MySQL, SQLite, libSQL, MariaDB, and CockroachDB.
 ===

@@ -1,4 +1,4 @@
-# desktop-django-starter
+# Desktop Django Starter
 ===
  A minimal starter for packaging a local Django app inside an   Electron desktop shell, with cross-platform builds, sane defaults,   and clear extension points.
 ===

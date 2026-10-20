@@ -1,4 +1,4 @@
-# deepseek-harness-app
+# Deepseek Harness App
 ===
  This App is a \"web shell\": it wraps the address http://127.0.0.1:3080 into a native window. .
 ===

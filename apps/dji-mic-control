@@ -1,4 +1,4 @@
-# dji-mic-control
+# Dji Mic Control
 ===
  Cross-platform control for DJI wireless microphones over USB — a desktop GUI, a command-line tool, and the shared Rust library behind both. No mobile app required.
 ===

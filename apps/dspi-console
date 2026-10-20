@@ -1,4 +1,4 @@
-# dspi-console
+# Dspi Console
 ===
  A Linux port of the DSPi Console application, written in Qt with a Rust backend.
 ===
