@@ -1,4 +1,4 @@
-# cinewindows
+# Cinewindows
 ===
  A modern Qt 6 desktop media player built with QML, C++20, and libmpv, with hardware-accelerated playback and cross-platform packaging.
 ===

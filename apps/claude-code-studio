@@ -1,4 +1,4 @@
-# claude-code-studio
+# Claude Code Studio
 ===
  A fully functional web workspace for Claude Code CLI—chat, Kanban task board, task scheduling, multi-agent orchestration, MCP servers, skills, remote access (Web, SSH, Telegram), projects, and real-time data streaming.
 ===

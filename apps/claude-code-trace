@@ -1,4 +1,4 @@
-# claude-code-trace
+# Claude Code Trace
 ===
  Claude Code session log viewer for JSONL files in ~/.claude/projects. Browse conversations, tool calls, tokens, and live tail sessions on desktop, web, and TUI.
 ===

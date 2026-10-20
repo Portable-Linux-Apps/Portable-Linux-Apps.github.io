@@ -1,4 +1,4 @@
-# claudecodemonitor
+# Claudecodemonitor
 ===
  A cross-platform desktop application for monitoring Claude Code usage via Prometheus telemetry. Runs on macOS, Linux, and Windows.
 ===

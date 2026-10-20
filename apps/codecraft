@@ -1,4 +1,4 @@
-# codecraft
+# Codecraft
 ===
  AI terminal coding assistant agent based on the DeepSeek LLM. Reads and writes files, searches code, runs commands, manages Git, and splits complex tasks across parallel agents.
 ===

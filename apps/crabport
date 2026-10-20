@@ -1,4 +1,4 @@
-# crabport
+# Crabport
 ===
  A modern, cross-platform SSH / SFTP client built with Rust and GPUI. Features integrated terminal, SFTP file management, SSH tunneling, and secure credential storage.
 ===

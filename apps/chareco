@@ -1,4 +1,4 @@
-# chareco
+# Chareco
 ===
  A tool for concatenating the content of repositories and local folders as plain text to share with Large Language Models in chat interfaces without direct repo access or API integration.
 ===

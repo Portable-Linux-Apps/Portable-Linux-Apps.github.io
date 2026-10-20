@@ -1,4 +1,4 @@
-# ccmesh
+# Ccmesh
 ===
  Claude Code / Codex local AI proxy gateway desktop app (Tauri). Anthropic Messages <-> OpenAI-compatible protocol transform, model mapping, endpoint rotation/failover.
 ===

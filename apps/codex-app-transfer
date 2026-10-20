@@ -1,4 +1,4 @@
-# codex-app-transfer
+# Codex App Transfer
 ===
  Local desktop gateway that translates OpenAI Codex CLI's Responses API into Chat Completions for Kimi / DeepSeek / Zhipu GLM / Bailian and other OpenAI-compatible providers.
 ===

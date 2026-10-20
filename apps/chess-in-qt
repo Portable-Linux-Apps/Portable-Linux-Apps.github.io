@@ -1,4 +1,4 @@
-# chess-in-qt
+# Chess in QT
 ===
  Two player chess for the desktop, in Qt 6. Full FIDE rules, verified against published perft counts.
 ===

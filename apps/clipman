@@ -1,4 +1,4 @@
-# clipman
+# Clipman
 ===
  Lightweight clipboard manager with persistent history and instant search. Built with Rust + Svelte.
 ===

@@ -1,4 +1,4 @@
-# claudeconfigurator
+# Claudeconfigurator
 ===
  Minimal desktop GUI to configure Claude Code (~/.claude): edit CLAUDE.md, skills, commands, agents, hooks, plugins, settings. Tauri 2 + Svelte 5 + CodeMirror 6.
 ===

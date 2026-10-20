@@ -1,4 +1,4 @@
-# codehub
+# Codehub
 ===
  Tauri desktop app for managing multiple AI coding agent CLIs (Claude Code, Codex, Antigravity) in a single Docker container, multiplexed via tmux.
 ===
