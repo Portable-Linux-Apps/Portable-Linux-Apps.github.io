@@ -1,4 +1,4 @@
-# algerclipboard
+# Algerclipboard
 ===
  A cross-platform intelligent clipboard management tool based on Tauri 2.x. Features include clipboard history management, translation, templates, and cloud synchronization, with a Rust backend and React frontend.
 ===

@@ -1,4 +1,4 @@
-# agento
+# Agento
 ===
 Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at it's core.
 Agento reads the session files Claude Code already writes to your disk and turns them into cost analytics, productivity insights and a searchable, replayable history of every run. It also lets you build agents, chat with them, schedule them, and connect them to the tools you use. **No API key, no account, no telemetry. Everything stays on your machine.**

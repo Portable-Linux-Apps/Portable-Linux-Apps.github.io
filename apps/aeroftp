@@ -1,4 +1,4 @@
-# aeroftp
+# Aeroftp
 ===
 Cross-platform modern desktop client for FTP, FTPS, SFTP, WebDAV, S3-compatible storage, GitHub, and Cloud providers, built with Rust (Tauri) + React.
 ===

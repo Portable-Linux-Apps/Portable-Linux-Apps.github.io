@@ -1,4 +1,4 @@
-# audio-sharing
+# Audio Sharing
 ===
 With Audio Sharing you can share your current computer audio playback in the form of an RTSP stream. This stream can then be played back by other devices, for example using VLC.
 

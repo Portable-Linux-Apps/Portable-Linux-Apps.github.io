@@ -1,4 +1,4 @@
-# agentscommander
+# Agentscommander
 ===
  Run multiple CLI coding agents (Claude Code, Codex, Antigravity, OpenCode, Pi, etc) as a coordinated team, on a Loop. Local-first, file-based coordination, full PTY, no telemetry. Windows fully supported, Linux and macOS supported (early testing).
 ===

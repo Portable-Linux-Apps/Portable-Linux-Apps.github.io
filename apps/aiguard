@@ -1,4 +1,4 @@
-# aiguard
+# Aiguard
 ===
  A local-first AI traffic security gateway: This on-device MITM proxy intercepts only AI-related domain traffic, performing request-side data sanitization and response-side stream reconstruction while identifying seven categories of risk signals.
 ===

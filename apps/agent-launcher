@@ -1,4 +1,4 @@
-# agent-launcher
+# Agent Launcher
 ===
 Agent Launcher is a local desktop workspace for coding-agent CLIs. It detects and links CLIs already installed on your system, installs the ones you don't have in one click, applies account or provider configuration, and runs each agent in an embedded terminal or chat view. A CLI you already have is never reinstalled or updated.
 ===

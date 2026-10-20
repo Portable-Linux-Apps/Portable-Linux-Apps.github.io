@@ -1,4 +1,4 @@
-# agent-smith-reloaded
+# Agent Smith Reloaded
 ===
 **Agent Smith reloaded** is an elite desktop developer's cockpit that transforms locally hosted language models (7B–35B) into capable autonomous build partners. Unlike chat-only wrapper interfaces, Agent Smith reads your workspace, constructs detailed execution plans, edits your files, runs shell commands, verifies results, and presents you with a clean visual diff—**all running 100% locally on your machine.** 
 

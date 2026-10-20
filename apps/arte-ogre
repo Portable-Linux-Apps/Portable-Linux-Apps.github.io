@@ -1,4 +1,4 @@
-# arte-ogre
+# Arte Ogre
 ===
  Rust-native, GPU-accelerated layered image editor for Linux. Paint, composite, select and cut out with layers on a sparse copy-on-write engine, with non-destructive vector layers and sandboxed plugins.
 ===

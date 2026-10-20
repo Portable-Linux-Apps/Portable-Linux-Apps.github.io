@@ -1,4 +1,4 @@
-# aster
+# Aster
 ===
  A 28 MB local-first Kubernetes desktop client. Native Tauri shell + Go sidecar, keyboard-first, no account, no telemetry.
 ===
