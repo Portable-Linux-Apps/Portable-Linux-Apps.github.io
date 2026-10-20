@@ -1,4 +1,4 @@
-# tessera-mfa-app
+# Tessera Mfa App
 ===
  Open-source authenticator for Linux and Windows - TOTP/HOTP codes in an encrypted vault, with two-way import and export for Google Authenticator.
 ===

@@ -1,4 +1,4 @@
-# tty7
+# Tty7
 ===
  The terminal that outlives its window. Shells survive quitting the app, agents can drive other agents, and remote machines work the same way. Pure Rust, GPU-rendered.
 ===

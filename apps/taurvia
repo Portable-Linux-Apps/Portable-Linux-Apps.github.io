@@ -1,4 +1,4 @@
-# taurvia
+# Taurvia
 ===
  A non-custodial desktop wallet — keys stay on your machine, every signature is produced in Rust. Solana, Ethereum, Bitcoin, and Sui from one seed (or a single private key). Swap on each enabled mainnet.
 ===

@@ -1,4 +1,4 @@
-# tuxtalk
+# Tuxtalk
 ===
  Free push-to-talk voice dictation for Linux. Hold a key, talk, let go. Works on Wayland and X11, runs offline with Parakeet or Whisper, and fixes \"no wait\" slips with an optional local AI.
 ===

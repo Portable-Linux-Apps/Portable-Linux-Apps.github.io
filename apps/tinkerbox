@@ -1,4 +1,4 @@
-# tinkerbox
+# Tinkerbox
 ===
  Open-source desktop scratchpad for PHP & Laravel: run code in your project's context with magic comments, SQL inspection, rich dumps and Laravel-aware autocomplete. Electron + Vue + Monaco.
 ===

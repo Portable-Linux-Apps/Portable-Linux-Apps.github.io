@@ -1,4 +1,4 @@
-# text-diff-view
+# Text Diff View
 ===
  A simple, fast, and privacy-focused text comparison tool powered by Monaco Editor. Compare text side-by-side with VS Code's diff engine and generate unified diff patches. Works completely offline. Available for Windows, macOS, and Linux.
 ===
