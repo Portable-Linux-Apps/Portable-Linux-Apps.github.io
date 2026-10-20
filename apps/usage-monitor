@@ -1,4 +1,4 @@
-# usage-monitor
+# Usage Monitor
 ===
  Tray app for live Claude, Codex, Grok, and 9Router quota. Reads existing CLI logins. No API keys.
 ===
