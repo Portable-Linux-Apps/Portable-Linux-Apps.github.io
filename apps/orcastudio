@@ -1,4 +1,4 @@
-# orcastudio
+# Orcastudio
 ===
  Bambu Studio fork with OrcaSlicer changes, restored BambuNetwork support through the Linux bambu_networking path, and BMCU fixes for A1 / A1-mini firmware locks.
 ===

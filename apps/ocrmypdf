@@ -1,4 +1,4 @@
-# ocrmypdf
+# Ocrmypdf
 ===
 OCRmyPDF adds an optical character recognition (OCR) text layer to scanned PDF files. It transforms image-only PDFs into searchable, selectable, and accessible documents that can be highlighted and indexed by desktop search engines.
 

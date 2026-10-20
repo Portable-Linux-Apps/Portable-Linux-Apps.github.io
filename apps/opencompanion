@@ -1,4 +1,4 @@
-# opencompanion
+# Opencompanion
 ===
  Run Claude Code, Codex CLI or OpenCode in several folders at once and each session stops now and then to ask for permission, which you only notice when you look at its terminal. OpenCompanion starts those sessions, lists them on one screen, tells you when one is waiting, and lets you answer from the desktop or your phone.
 ===

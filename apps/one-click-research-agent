@@ -1,4 +1,4 @@
-# one-click-research-agent
+# One Click Research Agent
 ===
  A desktop application (Electron + React) featuring an autonomous AI agent and a local LLM (powered by llama.cpp) designed for research tasks.
 ===

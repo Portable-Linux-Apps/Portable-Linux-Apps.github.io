@@ -1,4 +1,4 @@
-# omnipacker
+# Omnipacker
 ===
  OmniPacker is a cross-platform desktop application (Tauri v2) that serves as a GUI frontend for DepotDownloader with optional compression via 7-Zip.
 ===

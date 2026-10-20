@@ -1,4 +1,4 @@
-# opendub
+# Opendub
 ===
  Local AI video dubbing studio with voice cloning, speech translation, speaker diarization and audio separation. Edit, preview and export dubbed videos. Powered by IndexTTS, Qwen, llama.cpp and Ollama.
 ===

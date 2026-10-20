@@ -1,4 +1,4 @@
-# opendrop-vj
+# Opendrop Vj
 ===
  A 4-deck Milkdrop VJ instrument: GPU compositor, MIDI/OSC/Ableton Link, NDI in/out, native Rust/egui desktop app.
 ===
