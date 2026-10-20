@@ -1,4 +1,4 @@
-# zoterorag
+# Zotero RAG
 ===
  An open‑source desktop RAG application that enables semantic search across your Zotero library. Easily discover conceptually related papers and ideas within your PDF collection using local or cloud‑based LLMs. The app provides source attribution, metadata filtering, and seamless integration with Zotero. macOS, Linux, Windows.
 ===

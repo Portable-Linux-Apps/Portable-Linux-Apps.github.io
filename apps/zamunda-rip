@@ -1,4 +1,4 @@
-# zamunda-rip
+# Zamunda.RIP
 ===
  Offline desktop client for the Zamunda.RIP archive (Zamunda.NET + ArenaBG + Zelka.org). Cross-platform Electron app, ships with a full SQLite snapshot of the archive baked into the installer — works even if zamunda.rip disappears tomorrow.
 ===
