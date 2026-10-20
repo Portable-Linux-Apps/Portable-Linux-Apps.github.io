@@ -17,6 +17,7 @@
   <meta name="twitter:image" content="https://portable-linux-apps.github.io/icons/$APP_NAME.webp">
   <meta name="twitter:description" content="$APP_DESC">
   <link rel="canonical" href="https://portable-linux-apps.github.io/$LANG/app/$APP_NAME.html">
+  <script type="application/ld+json">$APP_JSONLD</script>
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="stylesheet" href="/assets/css/app.css">
