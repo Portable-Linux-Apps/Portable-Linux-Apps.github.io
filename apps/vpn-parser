@@ -1,4 +1,4 @@
-# vpn-parser
+# VPN Parser
 ===
  A high-performance modern cross-platform desktop agent tool written in Rust + egui: collecting subscriptions, parsing nodes, driving agent kernels (Mihomo, sing-box, Xray), and measuring agent availability and latency. .
 ===

@@ -1,4 +1,4 @@
-# vzt-flow
+# VZT Flow
 ===
  Local, private, on-device voice dictation: hold a key, talk, and the transcript lands at your cursor. Parakeet TDT ASR with optional Qwen3 cleanup.
 ===

@@ -1,4 +1,4 @@
-# velashell
+# VelaShell
 ===
  Cross-platform SSH/SFTP/FTP terminal client with its own VT engine, draggable split workspace, tunnels and a dual-mode plugin system. .NET 11 + Avalonia. Windows · Linux · macOS..
 ===

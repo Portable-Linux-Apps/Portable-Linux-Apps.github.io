@@ -1,4 +1,4 @@
-# vigia-ai
+# Vigia AI
 ===
  Desktop dashboard for AI quotas—Claude, GPT, Cursor, OpenRouter, and DeepSeek—running on an ESP32 with a touchscreen or in a web browser, without ever exposing a token.
 ===
