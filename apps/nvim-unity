@@ -1,4 +1,4 @@
-# nvim-unity
+# Nvim Unity
 ===
  Use Neovim as the default code editor for Unity — with .csproj generation, OmniSharp support and LSP-ready workflow.
 ===

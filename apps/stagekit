@@ -1,4 +1,4 @@
-# stagekit
+# Stagekit
 ===
  StageKit is a lightweight .NET application infrastructure library for JSON settings files, observable settings objects, crash report capture, application runtime metadata, and unhandled exception handling.
 ===

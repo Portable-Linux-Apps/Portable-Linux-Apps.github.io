@@ -1,4 +1,4 @@
-# decky-sunshine-res-helper
+# Decky Sunshine Res Helper
 ===
  A helper daemon for Decky Sunshine, that watches for a streaming connection and automatically matches the resolution and refresh rate requested by the client.
 ===

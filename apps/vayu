@@ -1,4 +1,4 @@
-# vayu
+# Vayu
 ===
  Open-source API client with a native C++ load-testing engine. Postman-style requests + k6-level load tests in one local app.
 ===

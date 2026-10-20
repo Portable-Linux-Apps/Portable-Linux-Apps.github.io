@@ -1,4 +1,4 @@
-# dbv-md-reader
+# Dbv Md Reader
 ===
  Lector nativo de Markdown (.md) para Windows, Linux y macOS, ultra-ligero  de lectura y edición, construido con Rust + Tauri v2. TOC, búsqueda, Mermaid, GFM completo, Always on Top, multi-ventana, auto-recarga y sanitización XSS. Sin Electron.
 ===

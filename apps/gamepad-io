@@ -1,4 +1,4 @@
-# gamepad-io
+# Gamepad IO
 ===
  Exposes gamepad events over socket.io for use in other applications.
 ===

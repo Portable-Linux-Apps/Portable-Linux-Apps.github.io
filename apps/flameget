@@ -1,4 +1,4 @@
-# flameget
+# Flameget
 ===
  A GTK4 Download Manager wrapping Aria2, Curl, and YT-DLP.
 ===

@@ -357,9 +357,6 @@
 }
 
 @media (max-width: 640px) {
-  .stats {
-    margin: 0 1.5rem;
-  }
   .home-search-form {
     padding: 0 1.5rem;
   }

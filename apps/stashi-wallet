@@ -1,4 +1,4 @@
-# stashi-wallet
+# Stashi Wallet
 ===
  A repo containing the source code for the Stashi Wallet including the Flutter frontend, Rust core, CLI, iOS SDK, Android SDK, React Native Plugin, and Qortal CLI.
 ===

@@ -1,0 +1,24 @@
+# Pitivi
+===
+Pitivi is a video editor that aims to appeal to hobbyists and professionals
+alike, with a strong focus on efficiency, quality and usability. It integrates
+well with other applications and sports a beautiful user interface designed to
+be powerful yet easy to learn.
+
+With a non-modal editing workflow, a framerate-independent and playhead-centric
+timeline, Pitivi allows you quickly and accurately trim, split and review your
+scenes. Pitivi's ripple and roll editing features allow spending more time on
+storytelling and less time on "pushing clips around".
+
+Features:
+
+- Accepts any file formats supported by the GStreamer multimedia framework
+- Can animate hundreds of special effects and filters with keyframable properties
+- Ability to set custom aspect ratios, framerates and rendering presets
+- Easy to use crossfades and SMPTE transitions
+- Multihead-friendly with detachable user interface components
+===
+# SCREENSHOTS: https://www.pitivi.org/i/screenshots/2020.05.png
+# SITES: https://www.pitivi.org
+# SOURCES: https://github.com/Shikakiben/Pitivi-AppImage
+# BUTTONS: Donate::https://www.pitivi.org/donators/

@@ -1,4 +1,4 @@
-# bytetable
+# Bytetable
 ===
  A fast, local-first GUI for SQLite, MySQL, PostgreSQL, Ms SQL Server, Redis, DynamoDB, MongoDB, Cassandra, ClickHouse and Typesense. Cross-platform, fully native on MacOS, Linux, Windows, no account, no subscription.
 ===

@@ -1,4 +1,4 @@
-# gdiskinfo
+# Gdiskinfo
 ===
  A GTK4 disk health monitor for Linux, built as a QDiskInfo alternative using the GTKX React framework.
 ===

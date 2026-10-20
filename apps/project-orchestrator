@@ -1,4 +1,4 @@
-# project-orchestrator
+# Project Orchestrator
 ===
  A Rust-based AI agent orchestrator with Neo4j knowledge graph, Meilisearch semantic search, and Tree-sitter code parsing.
 ===

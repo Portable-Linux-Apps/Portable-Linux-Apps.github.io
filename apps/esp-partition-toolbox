@@ -1,4 +1,4 @@
-# esp-partition-toolbox
+# Esp Partition Toolbox
 ===
  A desktop GUI for managing ESP-IDF partition tables. Load an ESP-IDF project folder, visually edit the partition layout, validate ESP-IDF constraints in real time, and save back to CSV — all without hand-editing a text file or guessing offsets.
 ===

@@ -1,4 +1,4 @@
-# orkige
+# Orkige
 ===
  A C++20 game engine with an AI-native editor — AI agents create, run, test and debug games over MCP. Full 3D + first-class 2D, Lua scripting, dual OGRE renderers, desktop and mobile.
 ===

@@ -1,4 +1,4 @@
-# codetopromptgenerator
+# Codetopromptgenerator
 ===
  Desktop app (Electron + Next.js + Flask) that turns any codebase into optimized LLM prompts: Tree-sitter code maps, LLM-powered smart file selection via OpenRouter, token counting, and one-click prompt assembly.
 ===

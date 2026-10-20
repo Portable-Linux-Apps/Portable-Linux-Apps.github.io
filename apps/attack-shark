@@ -1,4 +1,4 @@
-# attack-shark
+# Attack Shark
 ===
  Linux desktop configurator for the Attack Shark X6 gaming mouse, built with Go + Wails v3 (backend) and React + Vite (frontend).
 ===

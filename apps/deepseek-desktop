@@ -1,4 +1,4 @@
-# deepseek-desktop
+# Deepseek Desktop
 ===
  Tauri desktop app with Harness and official DeepSeek Chat modes. 基于 Tauri 重做，支持独立 Chat 登录与harness模式切换。.
 ===

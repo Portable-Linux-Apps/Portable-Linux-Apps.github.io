@@ -1,4 +1,4 @@
-# timeseries-explorer
+# Timeseries Explorer
 ===
  Time Series Explorer - browser/desktop app for exploring large time-series datasets (CSV/Parquet/MAT) with DuckDB-WASM.
 ===

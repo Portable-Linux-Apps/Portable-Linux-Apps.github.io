@@ -1,4 +1,4 @@
-# oryxis
+# Oryxis
 
 ===
 Rust SSH Client & Terminal Emulator with an encrypted vault, SFTP, port forwarding, cloud discovery, and P2P sync.

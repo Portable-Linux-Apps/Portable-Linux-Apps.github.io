@@ -1,4 +1,4 @@
-# pushnav
+# Pushnav
 ===
  Cross-platform plate-solving push-to for manual telescopes. ~$50 in hardware, works under heavy urban light pollution. Live tracking to Stellarium, SkySafari, INDI, ASCOM via LX200 or run standalone with built-in catalog. No encoders, no motors, no GOTO mount required.
 ===

@@ -1,4 +1,4 @@
-# ollie
+# Ollie
 ===
  A fast, Linux‑native desktop GUI for Ollama. Built with Tauri 2 (Rust) and React + TypeScript.
 ===

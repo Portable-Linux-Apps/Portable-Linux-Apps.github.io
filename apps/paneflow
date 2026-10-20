@@ -1,4 +1,4 @@
-# paneflow
+# Paneflow
 ===
  Native terminal multiplexer for coding agents. Persistent sessions, Git worktrees, diffs, and an integrated editor. Built with Rust and GPUI.
 ===

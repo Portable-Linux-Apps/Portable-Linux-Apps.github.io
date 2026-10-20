@@ -1,4 +1,4 @@
-# expert-streaming-engine
+# Expert Streaming Engine
 ===
  Run oversized sparse MoE GGUF models with bounded NVMe-to-RAM-to-VRAM caching, native multi-GPU planning, and a Linux desktop Studio.
 ===

@@ -1,4 +1,4 @@
-# no-land
+# No Land
 ===
  Cloud gaming platform that provisions GPU-powered Linux PCs on demand, combining Rust, Tauri, Sunshine, Moonlight and low-latency networking.
 ===

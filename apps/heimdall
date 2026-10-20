@@ -1,4 +1,4 @@
-# heimdall
+# Heimdall
 ===
  A lightweight, fast geospatial raster and vector viewer built with Tauri, Rust, and MapLibre GL. Designed as a modern replacement for OpenEV.
 ===

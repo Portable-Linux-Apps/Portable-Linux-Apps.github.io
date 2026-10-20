@@ -1,4 +1,4 @@
-# shroudly
+# Shroudly
 ===
  Free, open-source DPI bypass. Opens blocked sites and apps (Discord, Roblox…) by reshaping the first packets censors inspect and resolving names over encrypted DNS. Not a VPN: no servers, no drivers by default, nothing to configure.
 ===

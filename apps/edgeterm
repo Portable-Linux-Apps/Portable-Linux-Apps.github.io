@@ -1,4 +1,4 @@
-# edgeterm
+# Edgeterm
 ===
  Lightweight terminal, SSH, (S)FTP and serial client built with Rust + Tauri. Installer under 5 MB, single native binary, fast startup.
 ===

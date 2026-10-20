@@ -1,4 +1,4 @@
-# kubrick
+# Kubrick
 ===
 Kubrick is a game based on Rubik's Cube and using OpenGL 3-D graphics  libraries. Kubrick handles cubes, "bricks" and "mats" from 2x2x1 up to  6x6x6. It has several built-in puzzles of graded  difficulty, as well as  demos of solving moves and pretty patterns. 
  

@@ -1,4 +1,4 @@
-# chatgpt-community
+# Chatgpt Community
 ===
  Unofficial ChatGPT desktop app for Linux, built locally from OpenAI’s official Linux app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, Homebrew Cask, and AppImage, with Wayland and X11 support.
 ===

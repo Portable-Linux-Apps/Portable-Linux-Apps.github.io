@@ -1,4 +1,4 @@
-# auris
+# Auris
 ===
  Audio library scanner for Linux : detects fake lossless files, clipping, dynamic range issues, and spectral content. Tells you what you actually have.
 ===

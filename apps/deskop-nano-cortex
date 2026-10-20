@@ -1,4 +1,4 @@
-# deskop-nano-cortex
+# Deskop Nano Cortex
 ===
  Desktop Nano Cortex is an unofficial, cross-platform desktop companion for the Neural DSP Nano Cortex. It exists because the pedal has no public preset/parameter API, and browser tools need WebMIDI/Web Bluetooth. It moves all device I/O into Rust behind a native Tauri shell.
 ===

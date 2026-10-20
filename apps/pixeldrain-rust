@@ -1,4 +1,4 @@
-# pixeldrain-rust
+# Pixeldrain Rust
 ===
  A modern, unofficial cross-platform desktop client for PixelDrain file sharing. Upload, download, and manage your files with a beautiful native UI. Built with Rust and egui.
 ===

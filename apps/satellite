@@ -1,4 +1,4 @@
-# satellite
+# Satellite
 ===
  The Satellite wireless-gamepad server: receives Dish clients over the LAN and plugs matching virtual controllers into the host PC.
 ===

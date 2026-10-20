@@ -1,4 +1,4 @@
-# pi-agent-desktop
+# Pi Agent Desktop
 ===
  A desktop client for Pi Coding Agent with native session recovery, multi-target execution, remote control, and SQLite-backed offline history.
 ===

@@ -1,4 +1,4 @@
-# twitch-drops-miner
+# Twitch Drops Miner
 ===
  A self-hosted Rust miner with a React dashboard, game selection and device-code login.
 ===

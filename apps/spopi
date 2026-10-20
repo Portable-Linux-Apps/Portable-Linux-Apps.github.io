@@ -1,4 +1,4 @@
-# spopi
+# Spopi
 ===
  SPOPI: A desktop GUI for the Pi coding agent. Editor, diff review, checkpoints and LSP around pi --mode rpc, with the session tree, live steering, context composition and local-model metrics Cursor hides. Hard fork of Picot (Tauri, vanilla JS, Rust).
 ===

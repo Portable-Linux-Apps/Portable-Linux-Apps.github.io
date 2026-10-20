@@ -1,4 +1,4 @@
-# ltc-program-changes
+# Ltc Program Changes
 ===
  Fires MIDI Program Changes from SMPTE LTC timecode to an Allen & Heath dLive rack over TCP.
 ===

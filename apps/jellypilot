@@ -1,4 +1,4 @@
-# jellypilot
+# Jellypilot
 ===
  A native Jellyfin & Emby desktop client with embedded MPV playback, built in Rust — no Electron or WebView.
 ===

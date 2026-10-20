@@ -1,4 +1,4 @@
-# wudict
+# WuDict
 ===
  Fast, native, self-contained, multi-format dictionary server that runs in your browser at http://localhost:6888. Reads AARD2 (.slob), MDict (.mdx/.mdd), Babylon (.bgl), Stardict (.ifo), Lingvo (.dsl), ZIM (.zim), wudict markdown (.wudict.md/.wudict.md.gz) dictionary formats.
 ===

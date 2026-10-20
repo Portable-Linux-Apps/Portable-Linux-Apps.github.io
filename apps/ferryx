@@ -1,4 +1,4 @@
-# ferryx
+# Ferryx
 ===
  Parallel agentic development workspace. Native Ghostty terminal engine with wgpu GPU rendering, a git worktree per agent, embedded browser tabs, and authenticated mobile remote access. Rust and Tauri, no Electron.
 ===

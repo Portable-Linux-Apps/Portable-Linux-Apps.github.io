@@ -1,4 +1,4 @@
-# robrix
+# Robrix
 ===
 A multi-platform Matrix chat client written in Rust, using the Makepad UI toolkit and the Robius app dev framework.
 ===

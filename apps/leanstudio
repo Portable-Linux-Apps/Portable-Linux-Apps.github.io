@@ -1,4 +1,4 @@
-# leanstudio
+# Leanstudio
 ===
  A native desktop IDE for Lean 4 on macOS, Windows and Linux. Every proof re-checked by Tenet, an independent Lean 4 kernel. An MCP server for AI assistants, with Git and GitHub built in.
 ===

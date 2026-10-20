@@ -1,4 +1,4 @@
-# modbus-connector
+# Modbus Connector
 ===
  Cross-platform Modbus toolkit (PySide6): master client with register table, polling, live graphs, alarms and bus scanner; device simulator (slave) with register map and expression rules; passive RTU sniffer. EN/RU UI.
 ===

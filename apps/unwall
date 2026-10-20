@@ -1,4 +1,4 @@
-# unwall
+# Unwall
 ===
  Linux control panel for the zapret/nfqws DPI bypass engine — systemd service, nftables, encrypted DNS, gateway mode, GTK4 UI (EN/TR).
 ===

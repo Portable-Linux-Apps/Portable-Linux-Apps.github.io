@@ -1,4 +1,4 @@
-# draytek-vpn
+# Draytek VPN
 ===
  Native Linux SSL VPN client for DrayTek routers. Connects to DrayTek's built-in SSL VPN server using the same protocol as the official Windows Smart VPN Client — no special router configuration needed.
 ===

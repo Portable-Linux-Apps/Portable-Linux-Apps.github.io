@@ -1,4 +1,4 @@
-# markdown-editor
+# Markdown Editor
 ===
  Lightweight, native WYSIWYG Markdown editor (Qt6/C++, no Electron): TeX formulas, Mermaid/PlantUML diagrams, tabs, spell check, export to PDF/HTML/LaTeX/ODT/DOCX/EPUB, and UI in 9 languages.
 ===

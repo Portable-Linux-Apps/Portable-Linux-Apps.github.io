@@ -1,4 +1,4 @@
-# stillsound-studio
+# Stillsound Studio
 ===
  StillSound Studio is a cross-platform desktop application that automatically plays ambient background audio from Spotify whenever a YouTube video is paused. When the video resumes, the ambient audio fades away. This prevents jarring silence when you pause educational videos, keeping you focused and immersed.
 ===

@@ -1,4 +1,4 @@
-# typos
+# Typos
 ===
  A Typst-native note-taking system powered by Rust and Tauri with typed metadata, cross-references, backlinks, and knowledge graph visualization.
 ===

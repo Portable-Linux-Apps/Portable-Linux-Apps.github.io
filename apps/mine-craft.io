@@ -1,4 +1,4 @@
-# mine-craft.io
+# Mine Craft.io
 ===
 Minecraft and even more!
 ===

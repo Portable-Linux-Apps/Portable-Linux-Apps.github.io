@@ -1,4 +1,4 @@
-# tdrive
+# Tdrive
 ===
  Go + Wails desktop app I built as my first Go project. It uses a private Telegram channel like a “cloud drive” so you can upload,   download, and organize files into folders (for learning/education only).
 ===

@@ -1,4 +1,4 @@
-# tur-tauri
+# Tur Tauri
 ===
 **Tur** is the native graphical frontend for the hyper-fast download engine `tur-rs`. Built using **Tauri**, **React**, and **TypeScript**, it delivers a stunning, responsive, and native-feeling interface across all major operating systems while keeping memory and CPU usage at an absolute minimum.
 

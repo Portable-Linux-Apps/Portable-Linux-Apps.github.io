@@ -1,4 +1,4 @@
-# eksplode.re
+# Eksplode.re
 ===
 Bomberman game made with Godot under BSD3.
 ===

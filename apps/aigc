@@ -1,4 +1,4 @@
-# aigc
+# Aigc
 ===
  Free local AI rate/AIGC detection toolbox: Drag in a paper (PDF/DOCX/TXT) to get the entire AI generation ratio and paragraph-level highlighting, and provide a closed loop of AI weight reduction. The entire reasoning process is offline and the papers are not uploaded. 9 methods: SimpleAI Chinese / GLTR perplexity / Fast-DetectGPT / DetectGPT / Binoculars. Free, private, offline AI-text detector for theses..
 ===

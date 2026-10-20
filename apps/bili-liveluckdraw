@@ -1,4 +1,4 @@
-# bili-liveluckdraw
+# Bili Liveluckdraw
 ===
 A Bilibili live stream lottery tool that draws winners based on keywords retrieved from the chat comments. It is built using Electron + React + Vite.
 ===

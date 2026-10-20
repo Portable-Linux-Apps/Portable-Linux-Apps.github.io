@@ -1,4 +1,4 @@
-# nanotracker
+# Nanotracker
 ===
  Native music tracker: patchable workspace, NTP/CLAP/VST3 plugin hosting, MIDI, module import, offline export. OpenAL Soft + OpenGL + Dear ImGui.
 ===

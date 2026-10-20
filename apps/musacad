@@ -1,4 +1,4 @@
-# musacad
+# Musacad
 ===
  High-performance, multi-threaded 2D CAD in modern C++23 — AutoCAD-style ribbon UI, GPU-accelerated 144 Hz+ viewport, own geometry kernel, DXF/DWG, and true vector PDF plotting. Linux & Windows. LGPL-3.0.
 ===

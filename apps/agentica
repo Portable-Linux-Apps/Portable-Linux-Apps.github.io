@@ -1,4 +1,4 @@
-# agentica
+# Agentica
 ===
  One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeChat/WeCom/Feishu gateway lets you call them back when you walk away. Async Python SDK, persistent memory, self-evolving skills.
 ===

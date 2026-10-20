@@ -1,4 +1,4 @@
-# dbelte
+# Dbelte
 ===
  Database manager written in svelte and rust  (for postgres and sqlite).
 ===

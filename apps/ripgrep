@@ -1,4 +1,4 @@
-# ripgrep
+# Ripgrep
 ===
 ripgrep recursively searches directories for a regex pattern while  respecting your gitignore.
 ===

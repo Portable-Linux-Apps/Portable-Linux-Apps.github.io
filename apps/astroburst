@@ -1,4 +1,4 @@
-# astroburst
+# Astroburst
 ===
  This is the first astronomical image processor built on the Rust/Tauri/WebGPU stack, delivering near-native performance with a fraction of the memory footprint of legacy tools.
 ===

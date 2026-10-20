@@ -1,4 +1,4 @@
-# iterm
+# Iterm
 ===
  ITerm is a cross-platform desktop terminal built with Tauri 2, Rust, React and xterm.js, supporting serial ports, .
 ===

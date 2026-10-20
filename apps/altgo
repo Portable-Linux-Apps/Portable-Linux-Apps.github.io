@@ -1,4 +1,4 @@
-# altgo
+# Altgo
 ===
  Altgo is a desktop speech-to-text tool. Simply hold down the trigger key to speak; upon release, it automatically records, transcribes, and optionally polishes the text. The result is copied to the system clipboard and displayed as a single line in a floating window at the bottom of the screen.
 ===

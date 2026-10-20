@@ -1,4 +1,4 @@
-# astro editor
+# Astro Editor
 
 ===
 Reads your Zod schemas and transforms frontmatter into smart forms. Get validation, proper field types, and MDX component insertion — all in a beautiful interface inspired by iA Writer.

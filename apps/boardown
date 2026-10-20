@@ -1,4 +1,4 @@
-# boardown
+# Boardown
 ===
  A local-first, git-native task board that lives in your repo as Markdown. Tasks, epics and releases as .md files — no cloud, no account. VS Code extension, native desktop app or CLI for AI agents.
 ===

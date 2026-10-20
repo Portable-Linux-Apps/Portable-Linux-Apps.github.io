@@ -1,4 +1,4 @@
-# fundacad
+# Fundacad
 ===
  Free, open source parametric CAD for 3D printing. Sketch, model and export STEP, STL or 3MF on Windows, macOS and Linux. Built on Open CASCADE (OCCT) and build123d, with a Rust/Tauri shell and a Vue + three.js viewport.
 ===

@@ -1,4 +1,4 @@
-# clearcore
+# Clearcore
 ===
  Transparent, educational 5-stage pipeline CPU simulator: hazard detection, data forwarding, and a real-time TUI/Qt6 GUI that shows every stall and flush. MIPS means \"without interlocked pipeline stages\" — clearCore adds them back. MIPS today, RISC-V next, on a shared ISA-agnostic core. C++20 · FTXUI · Qt6..
 ===

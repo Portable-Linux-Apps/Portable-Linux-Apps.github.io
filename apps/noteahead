@@ -1,4 +1,4 @@
-# noteahead
+# Noteahead
 ===
  A MIDI tracker and sequencer with built-in synths and effects written in C++/Qt/QML targeted for Linux.
 ===

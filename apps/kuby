@@ -1,4 +1,4 @@
-# kuby
+# Kuby
 ===
  Native multi-cluster Kubernetes desktop client built with Tauri 2, Rust (kube-rs), and SolidJS.
 ===

@@ -1,0 +1,6 @@
+# Srt4u Subtitle Processor
+===
+ Local-first subtitle processor: desktop GUI + headless CLI to translate, clean, analyze and burn in subtitles (.srt/.vtt/.ass/.txt), with optional local REST API and Whisper transcription.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/marodriguezd/srt4u-subtitle-processor

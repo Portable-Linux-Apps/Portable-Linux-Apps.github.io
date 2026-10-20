@@ -1,4 +1,4 @@
-# svg-to-drawio
+# Svg to Drawio
 ===
  SVG to draw.io decomposer: converts each SVG element into an individually editable draw.io cell.
 ===

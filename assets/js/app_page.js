@@ -1,373 +1,95 @@
 (function() {
-  var name = document.getElementById('app-name').innerHTML;
-  var suite_name = document.getElementById('suite-name');
-  var root = document.getElementById('app-root');
+  var galImg = document.getElementById('gal-img');
+  var galPrev = document.getElementById('gal-prev');
+  var galNext = document.getElementById('gal-next');
+  var galDots = document.getElementById('gal-dots');
 
-  if (!name) {
-    root.innerHTML = '<div class="error-box"><h2>No app specified</h2></div>';
+  // The page is pre-rendered: the generator emits the gallery markup, so a
+  // missing gallery here just means the app has no screenshots.
+  if (!galImg || !galDots) return;
+
+  var dots = galDots.querySelectorAll('.gallery-dot');
+
+  if (dots.length < 2) {
+    if (galPrev) galPrev.style.display = 'none';
+    if (galNext) galNext.style.display = 'none';
     return;
   }
 
-  // Set when the JSON itself could not be loaded, so the handler below can
-  // tell a missing data file apart from a failure while building the page.
-  var loadFailed = false;
-  // True only once the server has actually answered, so a 404 can be told
-  // apart from a request that never got that far.
-  var gotResponse = false;
+  if (!galPrev || !galNext) return;
 
-  fetch( '/app/' + encodeURIComponent(name) + '.json')
-    .catch(function(err) {
-      // The request never produced a response: DNS, connection reset, CORS,
-      // offline, or the server closing the socket. There is no status code to
-      // report, so mark it here rather than in the !r.ok branch below.
-      loadFailed = true;
-      throw err;
-    })
-    .then(function(r) {
-      gotResponse = true;
-      if (!r.ok) {
-        var httpError = new Error('HTTP ' + r.status + ' ' + r.statusText);
-        httpError.appName = name;
-        loadFailed = true;
-        throw httpError;
-      }
-      return r.json();
-    })
-    .then(function(app) {
-      var html = '';
+  var galIdx = 0;
+  var galBusy = false;
 
-      const { archived = false, obsolete } = app;
-      var meta_parts = [];
-      if (archived) meta_parts.push('Archived');
-      if (obsolete != null) meta_parts.push(`Obsolete since ${obsolete}`);
-      const meta_info = meta_parts.join('; ');
-
-      // Header with icon, name, sites
-      var iconUrl = '../../icons/' + encodeURIComponent(name) + '.webp';
-      html += '<div class="app-detail-header">';
-      html += '<img src="' + iconUrl + '" alt="icon for ' + escapeHtml(app.name || name) + '" onerror="this.src=\'../../no-icon.webp\'">';
-      html += '<div class="app-title">';
-      html += '<h1>' + escapeHtml(app.name || name) + '</h1>';
-      html += '<div class="app-meta">' + meta_info + '</div>';
-      html += '</div>';
-      var button_html = suite_name ? '<a class="install-btn" href="' + encodeURIComponent(suite_name.innerHTML) + '.html">Goto ' + escapeHtml(suite_name.innerHTML) + '</a>' : '<div class="install-group"><a class="install-btn" href="pla-install://' + encodeURIComponent(app.name || name) + '" title="If this button doesn&apos;t work, see FAQ #1">Install</a><a class="install-info" href="../index.html#faq-1" title="How to install?">?</a></div>';
-      html += button_html;
-      html += '</div>';
-
-      // Description
-      html += '<div class="app-body-content">';
-      if (app.description) {
-        html += markdownToHtml(app.description);
-      }
-      html += '</div>';
-
-      // Screenshots gallery
-      if (app.screenshots && app.screenshots.length) {
-        html += '<div class="gallery" id="gallery">';
-        html += '<h2>Screenshots</h2>';
-        html += '<div class="gallery-inner">';
-        html += '<button class="gallery-btn" id="gal-prev" aria-label="Previous">&#10094;</button>';
-        html += '<img id="gal-img" fetchpriority="high" src="' + app.screenshots[0] + '" alt="screenshot 1 of ' + escapeHtml(app.name || name) + '">';
-        html += '<button class="gallery-btn" id="gal-next" aria-label="Next">&#10095;</button>';
-        html += '</div>';
-        html += '<div class="gallery-dots" id="gal-dots"></div>';
-        html += '</div>';
-      }
-
-      // Buttons
-      if (app.buttons && app.buttons.length) {
-        html += '<div class="app-links-section"><h2>Links</h2><ul class="button-list">';
-        for (var i = 0; i < app.buttons.length; i++) {
-          var parts = app.buttons[i].split('::');
-          var label = parts[0].replaceAll('_', ' ') || 'Link';
-          var url = parts[1] || '#';
-          html += '<li><a href="' + url + '" class="app-button" target="_blank" rel="noopener">' + label + '</a></li>';
-        }
-        html += '</ul></div>';
-      }
-
-      // Sites
-      if (app.sites && app.sites.length) {
-        html += '<div class="app-links-section"><h2>Sites</h2><ul>';
-        for (var i = 0; i < app.sites.length; i++) {
-          html += '<li><a href="' + app.sites[i] + '" target="_blank" rel="noopener">' + app.sites[i] + '</a></li>';
-        }
-        html += '</ul></div>';
-      }
-
-      // Sources
-      if (app.sources && app.sources.length) {
-        html += '<div class="app-links-section"><h2>Sources</h2><ul>';
-        for (var i = 0; i < app.sources.length; i++) {
-          html += '<li><a href="' + app.sources[i] + '" target="_blank" rel="noopener">' + app.sources[i] + '</a></li>';
-        }
-        html += '</ul></div>';
-      }
-
-      root.innerHTML = html;
-
-      // Gallery carousel
-      if (app.screenshots && app.screenshots.length > 1) {
-        var galIdx = 0;
-        var galBusy = false;
-        var galImg = document.getElementById('gal-img');
-        var galPrev = document.getElementById('gal-prev');
-        var galNext = document.getElementById('gal-next');
-        var galDots = document.getElementById('gal-dots');
-        var shots = app.screenshots;
-
-        // Preload every screenshot up front so later swaps come from
-        // the browser cache instead of waiting on the network.
-        for (var p = 0; p < shots.length; p++) {
-          var pre = new Image();
-          pre.src = shots[p];
-        }
-
-        for (var i = 0; i < shots.length; i++) {
-          var dot = document.createElement('button');
-          dot.className = 'gallery-dot' + (i === 0 ? ' active' : '');
-          dot.setAttribute('aria-label', 'Screenshot ' + (i + 1));
-          (function(idx) {
-            dot.addEventListener('click', function() {
-              if (idx !== galIdx) showGal(idx, idx > galIdx ? 'next' : 'prev');
-            });
-          })(i);
-          galDots.appendChild(dot);
-        }
-
-        function updateControls(idx) {
-          galPrev.disabled = idx === 0;
-          galNext.disabled = idx === shots.length - 1;
-          var dots = galDots.children;
-          for (var j = 0; j < dots.length; j++) {
-            dots[j].className = 'gallery-dot' + (j === idx ? ' active' : '');
-          }
-        }
-
-        function showGal(idx, dir) {
-          if (galBusy || idx === galIdx) return;
-          galBusy = true;
-          galIdx = idx;
-          updateControls(idx);
-
-          // Fade/slide the current image out first...
-          galImg.classList.add('gal-transition', dir === 'prev' ? 'gal-prev' : 'gal-next');
-
-          setTimeout(function() {
-            galImg.src = shots[idx];
-            galImg.alt = 'screenshot ' + (idx + 1) + ' of ' + escapeHtml(app.name || name);
-
-            function reveal() {
-              // Force a reflow so removing the class re-triggers the transition.
-              void galImg.offsetWidth;
-              galImg.classList.remove('gal-transition', 'gal-prev', 'gal-next');
-              galBusy = false;
-            }
-
-            // Thanks to preloading this is almost always already cached,
-            // so it resolves on the very next frame rather than stalling.
-            if (galImg.complete) {
-              requestAnimationFrame(reveal);
-            } else {
-              galImg.onload = reveal;
-            }
-          }, 160);
-        }
-
-        galPrev.addEventListener('click', function() {
-          if (galIdx > 0) showGal(galIdx - 1, 'prev');
-        });
-        galNext.addEventListener('click', function() {
-          if (galIdx < shots.length - 1) showGal(galIdx + 1, 'next');
-        });
-        document.addEventListener('keydown', function(e) {
-          if (e.key === 'ArrowLeft' && galIdx > 0) showGal(galIdx - 1, 'prev');
-          if (e.key === 'ArrowRight' && galIdx < shots.length - 1) showGal(galIdx + 1, 'next');
-        });
-      } else if (app.screenshots && app.screenshots.length === 1) {
-        var p = document.getElementById('gal-prev');
-        var n = document.getElementById('gal-next');
-        if (p) p.style.display = 'none';
-        if (n) n.style.display = 'none';
-      }
-
-      // Update page title
-      document.title = (app.name || name).toUpperCase() + ' - PORTABLE LINUX APPS';
-    })
-    .catch(function(err) {
-      console.error('app_page: failed to build app page for "' + name + '"', err);
-
-      if (loadFailed) {
-        var reason = err && err.message ? err.message : 'request failed';
-        // A missing file and an unreachable server look identical from here
-        // without the status, so only claim the file is missing when the
-        // server actually answered.
-        if (gotResponse) {
-          root.innerHTML = '<div class="error-box"><h2>App data not found</h2>' +
-            '<p>The server responded ' + escapeHtml(reason) + ' for <strong>' + escapeHtml(name) + '</strong>.json.</p></div>';
-        } else {
-          root.innerHTML = '<div class="error-box"><h2>Could not reach the server</h2>' +
-            '<p>The request for <strong>' + escapeHtml(name) + '</strong>.json failed before a response arrived. ' +
-            'The file may well exist; the connection is what failed.</p></div>';
-        }
-        return;
-      }
-
-      // The JSON loaded fine, so the data exists and something in rendering
-      // it broke. Saying "not found" here would send people hunting for a
-      // file that is present and correct.
-      root.innerHTML = '<div class="error-box"><h2>Could not display this app</h2>' +
-        '<p>The data for <strong>' + escapeHtml(name) + '</strong> loaded, but the page failed to build.</p>' +
-        '<p>See the browser console for the error.</p></div>';
-    });
-
-  function escapeHtml(s) {
-    var div = document.createElement('div');
-    div.appendChild(document.createTextNode(s));
-    return div.innerHTML;
+  // The first screenshot is already the <img> src, so preload from the
+  // second onwards to make later swaps come from the browser cache instead
+  // of waiting on the network.
+  for (var p = 1; p < dots.length; p++) {
+    var pre = new Image();
+    pre.src = dots[p].dataset.src;
   }
 
-  // Minimal markdown -> HTML for descriptions.
-  // Supports: `inline code`, fenced code blocks (```), **bold**, *italic*,
-  // ++underline++, - / * / 1. lists, ## / ### / #### headings, and tables.
-  // Everything else is treated as plain text (and HTML-escaped first,
-  // so no other tags can sneak in through the JSON data).
-  function inlineMarkdown(s) {
-    // Protect inline code spans first so no formatting is applied inside them.
-    var codeSpans = [];
-    s = s.replace(/`([^`]+)`/g, function(m, c) {
-      codeSpans.push(c);
-      return '\u0000c' + (codeSpans.length - 1) + '\u0000';
-    });
-    s = s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
-    s = s.replace(/__(.+?)__/g, '<strong>$1</strong>');
-    s = s.replace(/\+\+(.+?)\+\+/g, '<u>$1</u>');
-    s = s.replace(/\*(.+?)\*/g, '<em>$1</em>');
-    s = s.replace(/_(.+?)_/g, '<em>$1</em>');
-    s = s.replace(/\u0000c(\d+)\u0000/g, function(m, i) {
-      return '<code>' + codeSpans[Number(i)] + '</code>';
-    });
-    return s;
-  }
-
-  // Split a table row on the pipes, dropping the optional leading and
-  // trailing one, and run inline formatting on each cell.
-  function splitRow(r) {
-    return r.trim().replace(/^\||\|$/g, '').split('|').map(function(c) {
-      return inlineMarkdown(c.trim());
-    });
-  }
-
-  function markdownToHtml(text) {
-    var lines = escapeHtml(text).split('\n');
-    var blocks = [];
-    var i = 0;
-
-    while (i < lines.length) {
-      var line = lines[i];
-      var trimmed = line.trim();
-
-      // Skip completely empty lines – they should not produce <br>
-      if (trimmed === '') {
-        i++;
-        continue;
-      }
-
-      var ulRe = /^[-*]\s+(.*)$/;
-      var olRe = /^\d+\.\s+(.*)$/;
-      var ulMatch = line.match(ulRe);
-      var olMatch = !ulMatch && line.match(olRe);
-
-      // Headings: ## / ### / ####
-      var hMatch = trimmed.match(/^(#{2,4})\s+(.*)$/);
-      if (hMatch) {
-        var lvl = hMatch[1].length;
-        blocks.push('<h' + lvl + '>' + inlineMarkdown(hMatch[2]) + '</h' + lvl + '>');
-        i++;
-        continue;
-      }
-
-      // Tables: header row, |---|---| separator row, then body rows
-      if (trimmed.charAt(0) === '|' && i + 1 < lines.length &&
-          /^\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)*\|?$/.test(lines[i + 1].trim())) {
-        var th = splitRow(line).map(function(c) { return '<th>' + c + '</th>'; }).join('');
-        var trs = [];
-        i += 2;
-        while (i < lines.length && lines[i].trim().charAt(0) === '|') {
-          trs.push('<tr>' + splitRow(lines[i]).map(function(c) { return '<td>' + c + '</td>'; }).join('') + '</tr>');
-          i++;
-        }
-        blocks.push('<table class="md-table"><thead><tr>' + th + '</tr></thead><tbody>' + trs.join('') + '</tbody></table>');
-        continue;
-      }
-
-      // Fenced code block: ```[lang] ... ```
-      if (trimmed.match(/^`{3}/)) {
-        var fenceMatch = /^`{3}(\w*)\s*$/.exec(trimmed);
-        var codeLang = fenceMatch && fenceMatch[1] ? fenceMatch[1] : '';
-        var codeLines = [];
-        i++;
-        while (i < lines.length) {
-          if (/^`{3}\s*$/.test(lines[i].trim())) {
-            i++;
-            break;
-          }
-          codeLines.push(lines[i]);
-          i++;
-        }
-        blocks.push(
-          '<pre><code' + (codeLang ? ' class="language-' + codeLang + '"' : '') + '>' +
-          codeLines.join('\n') + '</code></pre>'
-        );
-        continue;
-      }
-
-      if (ulMatch || olMatch) {
-        var tag = ulMatch ? 'ul' : 'ol';
-        var re = ulMatch ? ulRe : olRe;
-        var items = [];
-
-        // Collect all consecutive list items, skipping blank lines
-        while (i < lines.length) {
-          var currentLine = lines[i];
-          var trimmedCurrent = currentLine.trim();
-
-          // Skip blank lines inside the list – they do not break it
-          if (trimmedCurrent === '') {
-            i++;
-            continue;
-          }
-
-          var m = currentLine.match(re);
-          if (!m) break; // non-list, non-empty line ends the list
-
-          items.push('<li>' + inlineMarkdown(m[1]) + '</li>');
-          i++;
-        }
-
-        if (items.length) {
-          blocks.push('<' + tag + '>' + items.join('') + '</' + tag + '>');
-        }
-        // i is now positioned at the line that broke the list (or at end)
-      } else {
-        // Normal text block
-        blocks.push(inlineMarkdown(line));
-        i++;
-      }
+  function updateControls(idx) {
+    galPrev.disabled = idx === 0;
+    galNext.disabled = idx === dots.length - 1;
+    for (var j = 0; j < dots.length; j++) {
+      dots[j].className = 'gallery-dot' + (j === idx ? ' active' : '');
     }
-
-    // Headings and tables are block elements, so a <br> between them and
-    // their neighbour would add a stray blank line. Everything else keeps
-    // the original line-per-line break behaviour.
-    var blockRe = /^<(h[2-4]|table)/;
-    return blocks.reduce(function(out, b, k) {
-      if (k === 0) return b;
-      return out + (blockRe.test(b) || blockRe.test(blocks[k - 1]) ? '' : '<br>') + b;
-    }, '');
   }
+
+  function showGal(idx, dir) {
+    if (galBusy || idx === galIdx) return;
+    galBusy = true;
+    galIdx = idx;
+    updateControls(idx);
+
+    // Fade/slide the current image out first...
+    galImg.classList.add('gal-transition', dir === 'prev' ? 'gal-prev' : 'gal-next');
+
+    setTimeout(function() {
+      galImg.src = dots[idx].dataset.src;
+      galImg.alt = dots[idx].dataset.alt;
+
+      function reveal() {
+        // Force a reflow so removing the class re-triggers the transition.
+        void galImg.offsetWidth;
+        galImg.classList.remove('gal-transition', 'gal-prev', 'gal-next');
+        galBusy = false;
+      }
+
+      // Thanks to preloading this is almost always already cached,
+      // so it resolves on the very next frame rather than stalling.
+      if (galImg.complete) {
+        requestAnimationFrame(reveal);
+      } else {
+        galImg.onload = reveal;
+      }
+    }, 160);
+  }
+
+  for (var i = 0; i < dots.length; i++) {
+    (function(idx) {
+      dots[idx].addEventListener('click', function() {
+        if (idx !== galIdx) showGal(idx, idx > galIdx ? 'next' : 'prev');
+      });
+    })(i);
+  }
+
+  galPrev.addEventListener('click', function() {
+    if (galIdx > 0) showGal(galIdx - 1, 'prev');
+  });
+  galNext.addEventListener('click', function() {
+    if (galIdx < dots.length - 1) showGal(galIdx + 1, 'next');
+  });
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'ArrowLeft' && galIdx > 0) showGal(galIdx - 1, 'prev');
+    if (e.key === 'ArrowRight' && galIdx < dots.length - 1) showGal(galIdx + 1, 'next');
+  });
 })();
 
 var btt = document.getElementById('back-to-top');
-window.addEventListener('scroll', function() {
-  btt.classList.toggle('btt-visible', window.scrollY > 300);
-});
+if (btt) {
+  window.addEventListener('scroll', function() {
+    btt.classList.toggle('btt-visible', window.scrollY > 300);
+  });
+}

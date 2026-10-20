@@ -1,4 +1,4 @@
-# token-dashboard
+# Token Dashboard
 ===
  Local desktop dashboard for Claude Code. Reads your JSONL transcripts and surfaces per-prompt cost, tool heatmaps, subagent attribution, cache analytics, and a rule-based tips engine. Rust + Tauri, fully offline, MIT.
 ===

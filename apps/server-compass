@@ -1,4 +1,4 @@
-# server-compass
+# Server Compass
 ===
  Heroku & Vercel alternative for your own VPS. Docker deployments, GitHub Actions CI/CD, domain + SSL management, real-time monitoring,   database admin, SSH terminal. Offline-first desktop app.
 ===

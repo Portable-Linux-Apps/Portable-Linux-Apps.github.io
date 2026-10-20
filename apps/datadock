@@ -1,4 +1,4 @@
-# datadock
+# Datadock
 ===
  DataDock is a modern desktop database client that organizes databases the way developers actually work: Projects → Environments → Connections. Browse, edit, query and manage PostgreSQL, MySQL, SQLite, SQL Server, MongoDB, Redis and InfluxDB from one clean workspace.
 ===

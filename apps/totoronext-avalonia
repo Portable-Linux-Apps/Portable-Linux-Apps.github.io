@@ -1,4 +1,4 @@
-# totoronext-avalonia
+# Totoronext Avalonia
 ===
  This is a spiritual successor of Totoro, one of the issue with Totoro was it was windows only, this project attempts to solve this problem by using Avalonia as a ui framework. this allows me to target windows, linux and macOS with a single codebase. and potentially android and ios in the future.
 ===

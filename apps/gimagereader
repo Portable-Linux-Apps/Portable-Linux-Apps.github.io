@@ -1,4 +1,4 @@
-# gimagereader
+# Gimagereader
 ===
 gImageReader is a simple optical character recognition (OCR) application which acts as a frontend to the tesseract OCR engine. Features include:
 

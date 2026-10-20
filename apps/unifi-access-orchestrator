@@ -1,4 +1,4 @@
-# unifi-access-orchestrator
+# UniFi Access Orchestrator
 ===
  Middleware application built to extend UniFi Access functionality with custom automation logic. Supports tenant based door unlock rules, elevator control triggers, event handling, and secure local execution via Electron.
 ===

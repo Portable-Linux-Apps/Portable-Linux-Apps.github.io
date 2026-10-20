@@ -1,0 +1,13 @@
+# Savedesktop
+===
+Save Desktop helps you back up, restore, and synchronize your entire desktop
+environment with ease. It saves and imports your themes, icons, fonts,
+wallpapers, extensions, desktop folder, Flatpak apps and their data, as well as
+other desktop settings — all in one archive. Choose what to include and keep
+your setup consistent across devices with automatic periodic saves and
+synchronization.
+===
+# SCREENSHOTS: https://raw.githubusercontent.com/vikdevelop/SaveDesktop/main/data/screenshots/save_page.png https://raw.githubusercontent.com/vikdevelop/SaveDesktop/main/data/screenshots/import_page.png https://raw.githubusercontent.com/vikdevelop/SaveDesktop/main/data/screenshots/sync_page.png
+# SITES: https://vikdevelop.github.io/SaveDesktop https://github.com/vikdevelop/SaveDesktop
+# SOURCES: https://github.com/Shikakiben/SaveDesktop-AppImage
+# BUTTONS:

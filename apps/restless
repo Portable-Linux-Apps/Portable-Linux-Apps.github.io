@@ -1,4 +1,4 @@
-# restless
+# Restless
 ===
  A fast, local-first API client and Postman alternative. Features REST & gRPC support, a built-in Load Tester, and a powerful DevTools suite (JWT decoder, JSON-to-Model for 15+ languages). Git-native and privacy-focused.
 ===

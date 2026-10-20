@@ -1,4 +1,4 @@
-# curlit
+# Curlit
 ===
  A lightweight, open-source API client built with React and TypeScript. Features collections, environments, cURL/Postman/OpenAPI import, multi-tab interface, and dark/light themes.
 ===

@@ -1,4 +1,4 @@
-# open video downloader
+# Open Video Downloader
 
 ===
 A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.

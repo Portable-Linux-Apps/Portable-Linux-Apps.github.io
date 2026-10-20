@@ -1,4 +1,4 @@
-# nanotorrent
+# Nanotorrent
 ===
  A tiny, hackable Rust BitTorrent client based on PicoTorrent.
 ===

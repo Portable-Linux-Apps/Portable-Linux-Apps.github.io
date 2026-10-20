@@ -1,4 +1,4 @@
-# overbind
+# Overbind
 ===
 A utility that allows binding keyboard buttons to virtual Xbox360 controller joystick outputs. Makes use of ViGEmBus and ViGEmClient. Keybinds are easily customizeable within the app's UI.
 

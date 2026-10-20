@@ -1,4 +1,4 @@
-# fastpack
+# Fastpack
 ===
  Texture atlas packer written in Rust. Open-source replacement for TexturePacker.
 ===

@@ -1,4 +1,4 @@
-# rem-remote-control
+# Rem Remote Control
 ===
  A Tauri + React desktop app that turns a Windows PC into a target controllable from a phone, tablet, or another computer on the local network.
 ===

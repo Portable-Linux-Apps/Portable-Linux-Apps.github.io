@@ -1,4 +1,4 @@
-# omnyssh
+# Omnyssh
 ===
  Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and terminal TUI with a live metrics dashboard, tabbed terminal, SFTP file manager, port forwarding, one-click SSH keys and snippets. Built in Rust.
 ===

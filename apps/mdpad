@@ -1,4 +1,4 @@
-# mdpad
+# Mdpad
 ===
  A lightweight Markdown editor built on Tauri v2 + React + CodeMirror provides real-time preview, file management, and rich editing capabilities.
 ===

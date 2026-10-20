@@ -1,4 +1,4 @@
-# itch.io
+# Itch.io
 ===
  A simple way to find and share indie games online for free.
 ===

@@ -1,4 +1,4 @@
-# bodhi-ai
+# Bodhi AI
 ===
  Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the Bamboo-hosted Lotus Next UI.
 ===

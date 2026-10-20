@@ -1,0 +1,6 @@
+# Kubescope
+===
+ Read-only desktop viewer for Kubernetes workloads on Amazon EKS, Google GKE and Azure AKS, built with Python and Qt.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/dcotecnologia/kubescope

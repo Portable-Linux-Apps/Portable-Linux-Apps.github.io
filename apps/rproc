@@ -1,4 +1,4 @@
-# rproc
+# Rproc
 ===
  A Linux resource & process monitor inspired by Windows 11's Task Manager. Written in Rust with Slint.
 ===

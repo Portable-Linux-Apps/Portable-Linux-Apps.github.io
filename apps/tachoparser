@@ -1,4 +1,4 @@
-# tachoparser
+# Tachoparser
 ===
 tachoparser is an open-source application designed to read, inspect, and analyze digital tachograph driver cards and vehicle unit (.DDD / .TGD / .V1B) data files for transport compliance.
 

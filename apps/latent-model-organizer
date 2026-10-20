@@ -1,4 +1,4 @@
-# latent-model-organizer
+# Latent Model Organizer
 ===
  Desktop utility for organizing massive AI model libraries (.safetensors) by architecture, with zero-copy header parsing and automated Civitai metadata fetching.
 ===

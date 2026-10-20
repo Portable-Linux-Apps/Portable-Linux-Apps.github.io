@@ -1,4 +1,4 @@
-# local-lake-notes
+# Local Lake Notes
 ===
  This is a prototype of a local note-taking application built with Tauri, designed to enable the direct editing of .lake documents on the desktop using the Yuque Lake editor.
 ===

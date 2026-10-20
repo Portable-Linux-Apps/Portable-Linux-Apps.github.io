@@ -110,6 +110,14 @@
   align-items: center;
 }
 
+/* Square on the right so the button meets the "?" link inside .install-group,
+   which supplies the matching right-hand radius. On a metapackage page there
+   is no "?" link: install_button() emits the anchor on its own, as a direct
+   child of .app-detail-header, so it has to round all four corners itself. */
+.app-detail-header > .install-btn {
+  border-radius: var(--radius);
+}
+
 .install-btn:hover {
   background: var(--color-accent-hover);
   text-decoration: none;
@@ -574,15 +582,4 @@
   flex-shrink: 0;
   margin: 0;
   display: block;
-}
-
-.error-box {
-  text-align: center;
-  padding: 4rem 1.5rem;
-  color: var(--color-text-muted);
-}
-
-.error-box h2 {
-  color: var(--color-text);
-  margin-bottom: 0.5rem;
 }

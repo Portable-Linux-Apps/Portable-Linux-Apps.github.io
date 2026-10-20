@@ -1,4 +1,4 @@
-# fanqie-novel-downloader
+# Fanqie Novel Downloader
 ===
  🍅 Tomato novel downloader. A cross-platform novel tool built with Rust and Tauri v2, featuring search, book details, online reading, bookshelf management, and TXT/EPUB downloads.
 ===

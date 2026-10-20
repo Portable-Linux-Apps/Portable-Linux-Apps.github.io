@@ -1,4 +1,4 @@
-# linefeed
+# Linefeed
 ===
  A teleprompter that scrolls as you speak. Offline speech recognition, no cloud, no accounts — pt-BR & English. Rust + Tauri.
 ===

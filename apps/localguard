@@ -1,4 +1,4 @@
-# localguard
+# Localguard
 ===
  Transparent HTTP proxy that redacts secrets and PII before they reach LLM providers. Works with OpenAI, Anthropic, Gemini, and 25+ providers.
 ===

@@ -1,4 +1,4 @@
-# repomon
+# Repomon
 ===
  Mission control for a fleet of AI coding agents (Claude Code, Codex, Antigravity, OpenCode, Cursor, Aider) across many repos — desktop app + Rust TUI, tmux-backed, with durable fleet mail and policy-based agent supervision.
 ===
