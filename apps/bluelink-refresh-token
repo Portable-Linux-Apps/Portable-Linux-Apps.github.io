@@ -1,4 +1,4 @@
-# bluelink-refresh-token
+# Bluelink Refresh Token
 ===
  Home Assistant addon to generate Hyundai/Kia Bluelink refresh tokens for evcc and HA integrations. Uses Selenium + noVNC for secure browser-based OAuth login.
 ===
