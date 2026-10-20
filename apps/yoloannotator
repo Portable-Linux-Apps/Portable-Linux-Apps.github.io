@@ -1,4 +1,4 @@
-# yoloannotator
+# YOLO Annotator
 ===
  A lightweight YOLO dataset annotation tool that reads and writes YOLO-format text files directly; it is ready to use out of the box, saves changes immediately, and requires no format conversion.
 ===
