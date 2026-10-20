@@ -1,4 +1,4 @@
-# qdiskinfo
+# Qdiskinfo
 ===
 QDiskInfo is a frontend for smartctl (part of the smartmontools package). It provides a user experience similar to CrystalDiskInfo. It shows the SMART (Self-Monitoring, Analysis, and Reporting Technology) data of modern hard disk drives.
 ===

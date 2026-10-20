@@ -1,4 +1,4 @@
-# quotio-desktop
+# Quotio Desktop
 ===
  Cross-platform AI account quota manager. A local CLIProxyAPI agent manages quotas and calls across multiple AI accounts, with polling, monitoring, scheduling and multiple Codex instances.
 ===

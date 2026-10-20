@@ -1,4 +1,4 @@
-# qmmp
+# Qmmp
 ===
 Qmmp is a cross-platform audio-player, written with the help of the Qt library.
 It has two different user interfaces, Winamp/XMMS skins support and other features provided by plugins.

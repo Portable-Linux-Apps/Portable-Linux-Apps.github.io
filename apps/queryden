@@ -1,4 +1,4 @@
-# queryden
+# Queryden
 ===
  Multi-database desktop manager. PostgreSQL, MySQL, SQLite, CockroachDB, Supabase. SSH tunneling, encrypted vault, machine-locked storage.
 ===
