@@ -1,4 +1,4 @@
-# lrp-mnm
+# Lrp Mnm
 ===
  A local reverse proxy tool built with Tauri 2 and React that intercepts API requests from the Claude desktop client, dynamically replaces model names before forwarding them to a third-party API, and relays the response via SSE streaming.
 ===

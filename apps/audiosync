@@ -1,4 +1,4 @@
-# audiosync
+# Audiosync
 ===
  Rust and Tauri multi-device audio/video synchronization with FFT alignment, drift correction, cloud projects, and KEYHAN STUDIO Core.
 ===

@@ -1,4 +1,4 @@
-# site-manager
+# Site Manager
 ===
  Native GNOME desktop app for Ubuntu/Debian (Rust + GTK4 + libadwaita) that manages local development sites: automatic Nginx config, a local CA + SSL, multiple PHP-FPM versions, reverse-proxy support, wildcard domains, a REST API, and a CLI.
 ===

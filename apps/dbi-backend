@@ -1,4 +1,4 @@
-# dbi-backend
+# Dbi Backend
 ===
  A Tauri v2 desktop application for installing Nintendo Switch game files (NSP/NSZ/XCI/XCZ) via USB. Replaces the Python dbibackend script with native performance and a modern GUI.
 ===

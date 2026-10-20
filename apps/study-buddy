@@ -1,4 +1,4 @@
-# study-buddy
+# Study Buddy
 ===
  Provides an offline AI tutoring application built with Electron that runs locally on your computer using Ollama or Llama models, ensuring complete privacy without requiring internet connectivity.
 ===

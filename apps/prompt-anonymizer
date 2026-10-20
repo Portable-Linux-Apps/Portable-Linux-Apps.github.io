@@ -1,4 +1,4 @@
-# prompt-anonymizer
+# Prompt Anonymizer
 ===
  A buddy check for your prompts — before they reach an LLM. On-device, reversible anonymization that catches the PII you didn't mean to send.
 ===

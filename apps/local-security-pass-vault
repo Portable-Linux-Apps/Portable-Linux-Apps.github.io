@@ -1,4 +1,4 @@
-# local-security-pass-vault
+# Local Security Pass Vault
 ===
  Local-first password manager — zero cloud, zero telemetry. Rust+Tauri 2+XChaCha20-Poly1305+Argon2id+SQLCipher. 6 item types incl. Servers, BIP-39 backup, browser extension, OS Keychain.
 ===

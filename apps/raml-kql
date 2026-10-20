@@ -1,4 +1,4 @@
-# raml-kql
+# Raml Kql
 ===
  Run one KQL query against many Azure Log Analytics workspaces across tenants and accounts. A VS Code-style desktop app.
 ===

@@ -1,4 +1,4 @@
-# sdr-for-linux
+# SDR for Linux
 ===
  Modern GTK4/libadwaita SDR transceiver app for HPSDR / ANAN (Apache Labs) and Hermes Lite 2 radios — a new UI on the proven piHPSDR + WDSP engine. RX + TX (SSB/CW/digi), PureSignal, TCI server, HPSDR Protocol 1 & 2. GPLv3.
 ===

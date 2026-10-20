@@ -1,4 +1,4 @@
-# syntaxtutor
+# Syntaxtutor
 ===
  An interactive C++ tool for learning LL(1) and SLR(1) parsers. SyntaxTutor generates random grammars and guides students through FIRST, FOLLOW, closure, and parsing table calculations with step-by-step feedback.
 ===

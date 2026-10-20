@@ -1,4 +1,4 @@
-# ormah
+# Ormah
 ===
  Ormah gives your AI agents a shared memory. It keeps useful context between sessions and, with supported integrations, whispers relevant memories before the agent replies.
 ===

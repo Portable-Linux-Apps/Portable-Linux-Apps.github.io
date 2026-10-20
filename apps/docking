@@ -1,4 +1,4 @@
-# docking
+# Docking
 ===
  A lightweight, feature-rich dock for Linux written in Python with GTK 3 and Cairo for X11 and Wayland.
 ===

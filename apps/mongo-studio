@@ -1,4 +1,4 @@
-# mongo-studio
+# Mongo Studio
 ===
  Open-source, cross-platform MongoDB GUI client (Tauri + React) with multi-connection management, an embedded JS scripting console, CSV export, and query/index/explain tools.
 ===

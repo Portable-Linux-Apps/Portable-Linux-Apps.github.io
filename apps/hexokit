@@ -1,4 +1,4 @@
-# hexokit
+# Hexokit
 ===
  A remote, phone-first console for your tmux — agent-agnostic, no database. Spawn and watch coding agents in parallel worktrees, or anything else you run.
 ===

@@ -1,4 +1,4 @@
-# glyph
+# Glyph
 ===
  A modern, customizable terminal emulator for Linux built with Rust, Tauri and xterm.js.
 ===

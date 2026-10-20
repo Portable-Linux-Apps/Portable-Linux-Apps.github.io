@@ -1,4 +1,4 @@
-# cursor-account-switcher
+# Cursor Account Switcher
 ===
  A high-performance, cross-platform desktop application for managing and switching between multiple Cursor AI accounts. Built with Tauri, Rust, and React.
 ===

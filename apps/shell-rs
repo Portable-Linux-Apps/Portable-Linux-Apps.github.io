@@ -1,4 +1,4 @@
-# shell-rs
+# Shell Rs
 ===
  High-performance native SSH client in Rust, GPU-rendered with GPUI: host manager, terminal, WinSCP-style SFTP and port forwarding. Native SSH client written in Rust, GPU-rendered. ..
 ===

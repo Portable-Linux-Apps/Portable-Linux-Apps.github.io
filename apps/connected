@@ -1,4 +1,4 @@
-# connected
+# Connected
 ===
  Connected is a high-speed, offline, cross-platform ecosystem that bridges the gap between your devices. Built with Rust and Jetpack Compose, it aims to outperform proprietary solutions like AirDrop by utilizing WiFi Aware on Android, local-network discovery, and QUIC for saturating data transfer speeds.
 ===

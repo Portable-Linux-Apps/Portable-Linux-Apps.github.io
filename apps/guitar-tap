@@ -1,4 +1,4 @@
-# guitar-tap
+# Guitar Tap
 ===
  Tap-tone analysis for luthiers — capture a tap, run an FFT, and reveal guitar resonant modes and tonewood stiffness. Cross-platform Python/PySide6.
 ===

@@ -1,4 +1,4 @@
-# postman-gpui
+# Postman GPUI
 ===
  Postman GPUI is a native, cross-platform HTTP client built with Rust and GPUI. It focuses on a fast request/response workflow, keyboard-friendly editing, and local-first request history.
 ===

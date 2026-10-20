@@ -1,4 +1,4 @@
-# fiber-desktop
+# Fiber Desktop
 ===
  - Desktop app for the Fiber Network — a peer-to-peer payment and swap layer on Nervos CKB. Fiber Desktop wraps the official Fiber Network Node (fnn) so you can run channels, send and receive payments, and manage node settings without living in a terminal.
 ===

@@ -1,4 +1,4 @@
-# charter
+# Charter
 ===
  Charter as one cross-platform desktop app on a Rust core: run tons of harness sessions in parallel (ADR 0025).
 ===

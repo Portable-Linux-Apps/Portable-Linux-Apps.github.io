@@ -1,4 +1,4 @@
-# querycraft
+# Querycraft
 ===
  Fast cross-platform desktop client for MySQL, MariaDB, PostgreSQL, SQL Server, ClickHouse, SQLite, Redis and Valkey in the spirit of DataGrip (Tauri + React).
 ===

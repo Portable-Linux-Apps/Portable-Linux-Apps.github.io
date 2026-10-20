@@ -1,4 +1,4 @@
-# crabshell
+# Crabshell
 ===
  Android APK/AAB hardening toolkit with Rust packer, encrypted DEX/native payload, and shell runtime bootstrap.
 ===

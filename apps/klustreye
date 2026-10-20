@@ -1,4 +1,4 @@
-# klustreye
+# Klustreye
 ===
  KlustrEye — Native desktop Kubernetes IDE built with Tauri, React & Rust. Multi-cluster management, workload browsing, pod logs & terminal, Helm, AI assistant (Claude, ChatGPT, Ollama, Azure OpenAI), and more.
 ===

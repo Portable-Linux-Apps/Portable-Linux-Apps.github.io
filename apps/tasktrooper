@@ -1,4 +1,4 @@
-# tasktrooper
+# Tasktrooper
 ===
  Local-first agent platform: board + role agents + agent CLI runs (Claude Code, Cursor, Antigravity, OpenCode) or local and API models (Ollama, LM Studio).
 ===

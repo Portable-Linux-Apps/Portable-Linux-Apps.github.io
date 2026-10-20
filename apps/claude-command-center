@@ -1,4 +1,4 @@
-# claude-command-center
+# Claude Command Center
 ===
  Mission control for Claude Code and Codex: run many agent sessions side by side, each isolated to its own account, locally or over SSH with persistent remote sessions. Agent Canvas for visual review, transcript viewer, usage and cost tracking, auto-retry on rate limits. Windows + macOS (Apple Silicon) - both digitally signed; Linux also available.
 ===

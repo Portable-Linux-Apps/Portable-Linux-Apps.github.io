@@ -1,4 +1,4 @@
-# cortex
+# Cortex
 ===
  Persistent shared memory and context compression for AI coding agents. Local-first Rust daemon with HTTP, MCP, and a desktop control center.
 ===

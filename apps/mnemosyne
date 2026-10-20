@@ -1,4 +1,4 @@
-# mnemosyne
+# Mnemosyne
 ===
  A real-time audio transcription, diarization, and summarization desktop app for Linux. Built with Tauri v2, SvelteKit, and Python.
 ===

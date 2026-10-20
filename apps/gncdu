@@ -1,4 +1,4 @@
-# gncdu
+# Gncdu
 ===
 Implements NCurses Disk Usage(ncdu) with golang
 ===

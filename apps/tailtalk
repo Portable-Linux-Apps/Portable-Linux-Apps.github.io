@@ -1,4 +1,4 @@
-# tailtalk
+# Tailtalk
 ===
  A modern async user space AppleTalk stack with Rust + Tokio.
 ===

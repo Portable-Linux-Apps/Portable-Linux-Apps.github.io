@@ -1,4 +1,4 @@
-# token-station
+# Token Station
 ===
  Local routing control plane for AI agents and LLM providers, with a loopback-only gateway, smart and quota-aware routing, and desktop + CLI apps.
 ===

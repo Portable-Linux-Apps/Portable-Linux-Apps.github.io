@@ -1,4 +1,4 @@
-# fastmemo-app
+# Fastmemo App
 ===
  Memo application for Mobile, Tablets and Desktop, made in React Native using Expo. Possibility to create rich-text and checklist notes, reorganize them in categories, do Cloud Sync with your own Firebase account, and a lot more. Available in 7 languages.
 ===

@@ -1,4 +1,4 @@
-# chrome-isolation
+# Chrome Isolation
 ===
  Isolated Docker-backed Chrome profiles managed from a native GNOME/Wayland Electron desktop app.
 ===

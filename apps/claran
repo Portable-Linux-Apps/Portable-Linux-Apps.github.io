@@ -1,4 +1,4 @@
-# claran
+# Claran
 ===
  ClaraN — Privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation. Backend in Rust. Just your stack, your machines.
 ===

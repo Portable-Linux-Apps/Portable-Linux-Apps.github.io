@@ -1,4 +1,4 @@
-# ensemblr
+# Ensemblr
 ===
  Desktop orchestrator for Pi and Claude Code. Every stream of work gets its own git worktree, and an agent can drive the app itself — spawn sub-agents, delegate, integrate.
 ===

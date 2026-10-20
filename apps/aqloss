@@ -1,4 +1,4 @@
-# aqloss
+# Aqloss
 ===
  Aqloss is a music player built around a Rust audio engine, with optional WASAPI Exclusive mode on Windows for bit-perfect output to compatible hardware.
 ===

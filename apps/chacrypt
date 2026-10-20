@@ -1,4 +1,4 @@
-# chacrypt
+# Chacrypt
 ===
  Cross-platform offline-first file & streaming encryption powered by ChaCha20-Poly1305, featuring ChaBox (GUI) and ChaPose (CLI).
 ===

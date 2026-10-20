@@ -1,4 +1,4 @@
-# dotnetdeployer-fleet
+# Dotnetdeployer Fleet
 ===
  Distributed build/CI orchestrator in .NET — Coordinator + Workers + Avalonia GUI.
 ===

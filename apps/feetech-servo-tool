@@ -1,4 +1,4 @@
-# feetech-servo-tool
+# Feetech Servo Tool
 ===
  Python port of FT_SCServo_Debug_Qt, with the goal of being cross-platform.
 ===

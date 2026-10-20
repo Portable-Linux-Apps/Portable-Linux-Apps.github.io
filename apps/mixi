@@ -1,4 +1,4 @@
-# mixi
+# Mixi
 ===
  Deterministic audio workstation. Browser-native. Zero install. Dual decks, Rust/Wasm DSP, WebGPU visuals, 19 instruments, automixer, beatmatching, 17 skins, MIDI, headphone cue.
 ===

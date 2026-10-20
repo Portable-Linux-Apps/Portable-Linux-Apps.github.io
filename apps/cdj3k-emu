@@ -1,4 +1,4 @@
-# cdj3k-emu
+# Cdj3k Emu
 ===
  An emulator for the CDJs in QEMU on Apple Silicon, with emulated SPI controls, jog LCD, USB, PC-LINK and Pro DJ Link network.
 ===

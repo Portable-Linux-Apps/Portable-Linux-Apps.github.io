@@ -1,4 +1,4 @@
-# gron.awk
+# Gron.awk
 ===
 True JSON parser in pure Awk. Fast with Gawk/Mawk/GoAWK.
 ===

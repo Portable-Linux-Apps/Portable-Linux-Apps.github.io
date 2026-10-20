@@ -1,4 +1,4 @@
-# maker-studio
+# Maker Studio
 ===
  A modern, feature-rich tile map editor built as a replacement for RPG Maker XP's game editor, with upgraded features and quality-of-life improvements. It reads and writes .rxdata files directly, so existing projects work without conversion.
 ===

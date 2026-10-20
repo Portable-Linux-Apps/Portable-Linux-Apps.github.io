@@ -1,4 +1,4 @@
-# azterm
+# Azterm
 ===
  Fast, GPU-accelerated terminal emulator, SSH bookmark manager, and dual-pane SFTP client written in pure Rust.
 ===

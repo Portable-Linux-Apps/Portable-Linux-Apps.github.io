@@ -1,4 +1,4 @@
-# provcheck
+# Provcheck
 ===
  Local-first C2PA Content Credentials verifier + creator toolkit. Neural-watermark cross-check (silentcipher, AudioSeal, WavMark) and atproto-bound identity. CLI + GUI for Windows/Linux/macOS. Apache-2.0.
 ===

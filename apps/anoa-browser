@@ -1,4 +1,4 @@
-# anoa-browser
+# Anoa Browser
 ===
  Headless browser with full Chrome DevTools Protocol (CDP) support. Distributed as a single self-contained binary — no Node.js or npm required.
 ===

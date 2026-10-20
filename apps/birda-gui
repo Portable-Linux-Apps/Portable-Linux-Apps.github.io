@@ -1,4 +1,4 @@
-# birda-gui
+# Birda GUI
 ===
  Desktop GUI for birda bird species detection — Electron + Svelte 5 interface for BirdNET-powered audio analysis, detection browsing, and species visualization.
 ===

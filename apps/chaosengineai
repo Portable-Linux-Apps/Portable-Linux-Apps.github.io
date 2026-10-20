@@ -1,4 +1,4 @@
-# chaosengineai
+# Chaosengineai
 ===
  Local AI workstation — discover, run, chat, benchmark, and generate images from open-weight models. DFlash/DDTree speculative decoding, TurboQuant & TriAttention cache compression strategies, MLX + llama.cpp + vLLM + MTPLX backends.
 ===

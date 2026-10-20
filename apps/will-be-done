@@ -1,4 +1,4 @@
-# will-be-done
+# Will-Be-Done
 ===
  Local-first task manager with a visual weekly timeline. Works offline, syncs across devices, and self-hosts with one Docker command. Uses SQLite by default, so no external database is needed.
 ===

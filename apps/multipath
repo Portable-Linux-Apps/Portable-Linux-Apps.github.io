@@ -1,4 +1,4 @@
-# multipath
+# Multipath
 ===
  Combine Wi-Fi, Ethernet and phone tethering. A local Tauri + Rust tray app, no server needed.
 ===

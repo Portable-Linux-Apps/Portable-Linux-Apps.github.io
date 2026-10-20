@@ -1,4 +1,4 @@
-# legacylauncher
+# Legacylauncher
 ===
 This is an unofficial AppImage wrapper for Legacy Launcher (previously known as TL), that is built on top of RunImage, the portable single-file Linux container in unprivileged user namespaces.
 

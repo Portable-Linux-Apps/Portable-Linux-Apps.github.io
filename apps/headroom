@@ -1,4 +1,4 @@
-# headroom
+# Headroom
 ===
  A menu bar app that tracks your Claude Code and GitHub Copilot quotas — 5-hour windows, weekly caps, monthly allowances — so you know when to switch from Opus to Sonnet before hitting the wall. Built with Tauri 2 + React.
 ===

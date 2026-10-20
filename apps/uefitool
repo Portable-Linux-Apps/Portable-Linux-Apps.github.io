@@ -1,4 +1,4 @@
-# uefitool
+# UEFITool
 ===
 UEFITool is a cross-platform open source application, that parses UEFI PI-compatible
 firmware image into a tree structure, verifies image integrity and provides a GUI to manipulate image elements.

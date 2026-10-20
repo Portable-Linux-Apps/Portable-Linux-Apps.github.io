@@ -1,4 +1,4 @@
-# ai-usage-widget
+# AI Usage Widget
 ===
  Floating desktop widget for monitoring local AI coding CLI usage across Codex, Claude Code, and Gemini. Built with Tauri, TypeScript, and a local Node backend.
 ===

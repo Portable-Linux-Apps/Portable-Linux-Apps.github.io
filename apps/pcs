@@ -1,4 +1,4 @@
-# pcs
+# Pcs
 ===
  A desktop point cloud visualization and processing tool based on Qt6, VTK, and PCL; it supports model-to-point-cloud conversion, point cloud processing, PNG map editing, and ROS map export.
 ===

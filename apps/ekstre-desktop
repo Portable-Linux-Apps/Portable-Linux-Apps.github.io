@@ -1,4 +1,4 @@
-# ekstre-desktop
+# Ekstre Desktop
 ===
  Menu-bar desktop app (macOS/Windows) that tracks credit-card statements from Turkish banks — reads statement emails over IMAP, parses PDFs, and fires native due-date reminders. All data stays local.
 ===

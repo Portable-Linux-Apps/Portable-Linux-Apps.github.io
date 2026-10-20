@@ -1,4 +1,4 @@
-# anibox
+# Anibox
 ===
  AniBox is a Windows desktop client customized for Feiniu Film and Television. It uses a React self-drawn interface to directly connect to its API, plays in an independent mpv process, and aggregates Bangumi/TMDB/AniList metadata, local barrage and other film and television experience enhancements, turning Feiniu Film and Television into a private theater on your desktop. ..
 ===

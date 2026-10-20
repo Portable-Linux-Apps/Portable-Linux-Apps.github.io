@@ -1,4 +1,4 @@
-# llama-server-manager
+# Llama Server Manager
 ===
  Llama Server Manager is a desktop manager for llama-server, covering model downloads and inventory, engine management, instance lifecycle, cluster workers, unified API routing, performance telemetry, and logs.
 ===

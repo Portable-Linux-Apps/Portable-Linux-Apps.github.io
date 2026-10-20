@@ -1,4 +1,4 @@
-# cook-sync
+# Cook Sync
 ===
  A lightweight, cross-platform sync agent for cook.md that runs in the background and keeps a local recipe folder in step with Cook Cloud sync.
 ===

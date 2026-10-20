@@ -1,4 +1,4 @@
-# denokv-gui-client
+# Denokv GUI Client
 ===
  Desktop app client to manage Deno KV databases with support for CRUD and Atomic operations, Watching Keys, saving browsing filters and more.
 ===

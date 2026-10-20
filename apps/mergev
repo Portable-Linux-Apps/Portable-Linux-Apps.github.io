@@ -1,4 +1,4 @@
-# mergev
+# Mergev
 ===
  A lightweight three-column merge tool that is terminal first and only opens when a Git conflict occurs..
 ===

@@ -1,4 +1,4 @@
-# filament-db
+# Filament DB
 ===
  A desktop and web application for managing 3D printing filament profiles. Import filament configurations from PrusaSlicer, store them in MongoDB or MongoDB Atlas, and manage them through a clean interface.
 ===

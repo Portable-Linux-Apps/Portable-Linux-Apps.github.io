@@ -1,4 +1,4 @@
-# airlock-relay
+# Airlock Relay
 ===
  Give agents capabilities. Keep credentials local. A local relay that gives AI agents, scripts, and automation controlled access to HTTP, SSH, and LLM APIs — without exposing real URLs, passwords, or API keys.
 ===

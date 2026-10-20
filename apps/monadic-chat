@@ -1,4 +1,4 @@
-# monadic-chat
+# Monadic Chat
 ===
  Monadic Chat is a locally hosted web application for creating and using intelligent chatbots. It gives LLMs a Linux environment on Docker, so they can run code and use external tools.
 ===

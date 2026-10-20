@@ -1,4 +1,4 @@
-# inknote
+# Inknote
 ===
  A native-first, WYSIWYG cross-platform Markdown editor. InkNote is built using Tauri 2, React and CodeMirror 6, and the source files are always kept as standard Markdown. ..
 ===

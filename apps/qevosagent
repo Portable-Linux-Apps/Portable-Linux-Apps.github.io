@@ -1,4 +1,4 @@
-# qevosagent
+# Qevosagent
 ===
  QevosAgent is a minimalist agent runtime for real tool-calling workflows with persistent artifacts, recoverable memory, and observable execution.
 ===

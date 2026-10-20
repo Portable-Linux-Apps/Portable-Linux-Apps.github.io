@@ -1,4 +1,4 @@
-# git-side
+# Git Side
 ===
 A Git subcommand that versions files and directories that should not live in the main repository, using a per-project bare repository invisible to Git.
 ===

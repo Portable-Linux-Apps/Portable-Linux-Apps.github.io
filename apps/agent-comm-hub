@@ -1,4 +1,4 @@
-# agent-comm-hub
+# Agent Comm Hub
 ===
  One local endpoint, any MCP-capable agent — MiniMax Code, Claude Code, opencode, Codex, Gemini CLI, DeepSeek Harness — connects, claims an identity, and chats with, delegates tasks to, and acknowledges every other connected agent in real time.
 ===

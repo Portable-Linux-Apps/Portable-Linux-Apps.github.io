@@ -1,4 +1,4 @@
-# avw
+# Avw
 ===
  A cross-platform desktop application based on Tauri + Vue 3, used for local management of Windsurf accounts: batch import, quota query, and usage analysis. .
 ===

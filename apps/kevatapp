@@ -1,4 +1,4 @@
-# kevatapp
+# Kevatapp
 ===
  Fast, resumable file copier and mover for large folders onto external drives. Survives unplugs and crashes, resumes from the last proven checkpoint. One small native binary, no network.
 ===

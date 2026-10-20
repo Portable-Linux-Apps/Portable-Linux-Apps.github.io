@@ -1,4 +1,4 @@
-# virt-manager
+# Virtual Machine Manager
 ===
 Virtual Machine Manager provides a graphical tool for administering virtual
 machines for KVM, Xen, and LXC. Start, stop, add or remove virtual devices,

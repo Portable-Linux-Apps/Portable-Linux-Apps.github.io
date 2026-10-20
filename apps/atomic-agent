@@ -1,4 +1,4 @@
-# atomic-agent
+# Atomic Agent
 ===
  Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.
 ===

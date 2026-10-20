@@ -1,4 +1,4 @@
-# better-iptv
+# Better Iptv
 ===
  Cross-platform IPTV player that just works. M3U & Xtream Codes, EPG guide, series & movies library, parental controls. Smooth with 150K+ channel playlists. Built with Rust + Tauri + React. No accounts, no telemetry.
 ===

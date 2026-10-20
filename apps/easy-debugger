@@ -1,4 +1,4 @@
-# easy-debugger
+# Easy Debugger
 ===
  A lightweight, cross-platform TCP, UDP & WebSocket debugger built with Tauri, Rust and Vue. Test clients and servers with hex tools, auto-reply, DNS lookup and network diagnostics.
 ===

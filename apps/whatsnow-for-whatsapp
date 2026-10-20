@@ -1,4 +1,4 @@
-# whatsnow-for-whatsapp
+# WhatsNow
 ===
  A Rust + Tauri WhatsApp Web desktop client with multi-account sessions, quiet notifications, themes, App Lock, and focus tools.
 ===

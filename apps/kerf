@@ -1,4 +1,4 @@
-# kerf
+# Kerf
 ===
  AI-assisted video & audio editor — Rust + Tauri, with an MCP server that lets Claude cut and assemble your footage.
 ===

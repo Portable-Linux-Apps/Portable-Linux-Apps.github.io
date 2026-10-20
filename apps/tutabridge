@@ -1,4 +1,4 @@
-# tutabridge
+# Tutabridge
 ===
  Local IMAP/SMTP bridge for Tuta encrypted email. Use Thunderbird, Apple Mail or any mail client. Rust + Tauri, with backup and search.
 ===

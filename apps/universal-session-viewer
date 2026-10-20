@@ -1,4 +1,4 @@
-# universal-session-viewer
+# Universal Session Viewer
 ===
  🔍 Desktop app for browsing, searching, and analyzing Claude Code conversation transcripts. Features continuation chain detection, full-text search, AI-powered session summaries, and real-time file watching. Built with Electron, React, TypeScript, Go, and SQLite. AGPL-3.0 open source.
 ===

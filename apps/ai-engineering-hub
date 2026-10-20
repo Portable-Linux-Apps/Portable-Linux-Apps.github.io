@@ -1,4 +1,4 @@
-# ai-engineering-hub
+# AI Engineering Hub
 ===
  A local-first operations platform for your AI coding toolchain. Ingests metrics from any tool, computes analytics + repository intelligence, serves a local API/WebSocket consumed by the desktop UI and Stream Deck plugin.
 ===

@@ -1,4 +1,4 @@
-# windows-app-for-linux
+# Windows App
 ===
  This unofficial client wraps the Windows Cloud Devices web interface in an Electron shell, configured to behave like Microsoft Edge browser. It enables full access to Azure Virtual Desktop sessions through Windows App web access, with proper handling of camera, microphone, and other device permissions required for remote desktop connections.
 ===

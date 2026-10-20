@@ -1,4 +1,4 @@
-# modbus-workbench
+# Modbus Workbench
 ===
  A comprehensive desktop application for configuring, testing, and monitoring Modbus devices. Built with Tauri, Rust, React, and TypeScript for cross-platform compatibility and high performance.
 ===

@@ -1,4 +1,4 @@
-# headset-battery-indicator
+# Headset Battery Indicator
 ===
  A simple battery indicator for the Linux system tray. Shows your headset's battery level using HeadsetControl and Qt/PySide6.
 ===

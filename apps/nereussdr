@@ -1,4 +1,4 @@
-# nereussdr
+# Nereussdr
 ===
  Cross-platform OpenHPSDR SDR console — Qt6 + C++20, GPU-accelerated waterfall, multi-panadapter, full WDSP DSP.
 ===

@@ -1,4 +1,4 @@
-# hpc-client-gui
+# HPC Client GUI
 ===
  Cross-platform desktop client for Slurm HPC clusters — SSH, SFTP, remote files, job management, CLI and optional X11.
 ===

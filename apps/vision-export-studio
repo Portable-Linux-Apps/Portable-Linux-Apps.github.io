@@ -1,4 +1,4 @@
-# vision-export-studio
+# Vision Export Studio
 ===
  Desktop app to export Ultralytics YOLO & Roboflow RF-DETR models to ONNX, TensorRT,   CoreML, TFLite & more — runs 100% locally.
 ===

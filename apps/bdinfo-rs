@@ -1,4 +1,4 @@
-# bdinfo-rs
+# Bdinfo Rs
 ===
  Memory-safe, zero-C-dependency Rust Blu-ray disc analyzer — a drop-in BDInfo report tool for BDMV folders and .iso images.
 ===

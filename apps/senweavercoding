@@ -1,4 +1,4 @@
-# senweavercoding
+# Senweavercoding
 ===
  A Rust-first autonomous AI agent runtime and CLI code editor. Built on SenAgentOS, it applies Harness Engineering to code engineering: orchestrate LLM agents for autonomous exploration, refactoring, testing, and debugging. Performance, stability, security – fully harnessed.
 ===

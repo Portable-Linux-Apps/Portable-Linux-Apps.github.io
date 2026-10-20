@@ -1,4 +1,4 @@
-# flowmap
+# Flowmap
 ===
  Dual-market order-flow visualizer — real-time WebGL2 liquidity heatmap, DOM ladder, and time & sales for crypto and US equities. TypeScript/React renderer + Python asyncio gateway.
 ===

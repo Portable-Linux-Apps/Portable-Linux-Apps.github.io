@@ -1,4 +1,4 @@
-# dota2cfgchanger
+# Dota2cfgchanger
 ===
  Standalone C++ приложение для менеджмента конфигов Dota 2. Написано на ImGui + GLFW + cpr.
 ===

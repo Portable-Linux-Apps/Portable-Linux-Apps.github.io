@@ -1,4 +1,4 @@
-# mindflock
+# Mindflock
 ===
  Run a flock of AI coding agents, each in its own git worktree, started by your ticket queue, merged by you. Work assigned to you in Jira, Linear, GitHub Issues, Shortcut or Asana becomes a seeded, already-running session; you review the diff and click it home.
 ===

@@ -1,4 +1,4 @@
-# vegord
+# Vegord
 ===
  Vegord (Vegcord) - Custom Discord desktop app with a built-in GFW-resistant Rust SOCKS5 proxy (DoH + TLS fragmentation + smart IP routing).
 ===

@@ -1,4 +1,4 @@
-# wake
+# Wake
 ===
  A native macOS browser where pages are columns in a trail, not tabs in a bar. SwiftUI + WebKit.
 ===

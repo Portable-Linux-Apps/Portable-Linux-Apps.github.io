@@ -1,4 +1,4 @@
-# toril
+# Toril
 ===
  A small, fast desktop WYSIWYG markdown editor for plain .md files — inline editing built on Tauri, Rust, and Milkdown. Obsidian-vault compatible.
 ===

@@ -1,4 +1,4 @@
-# opsdeck
+# Opsdeck
 ===
  A single DevOps engineer dashboard: a terminal with AI nearby and a local model, Kubernetes, databases, a built-in IDE with git, Grafana/ArgoCD/GitLab in tabs, alerts, notes with tasks and reminders, KeePass, SSH, and MikroTik.
 ===

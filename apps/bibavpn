@@ -1,4 +1,4 @@
-# bibavpn
+# Bibavpn
 ===
  DPI-resistant SOCKS5/HTTP tunnel over TLS+WebSocket for self-hosted single-VPS setups.
 ===

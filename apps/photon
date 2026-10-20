@@ -1,4 +1,4 @@
-# photon
+# Photon
 ===
 Photon is a cross-platform file-transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between any devices that run Photon.
 ===

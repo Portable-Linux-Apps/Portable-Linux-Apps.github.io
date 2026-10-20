@@ -1,4 +1,4 @@
-# fastssh
+# Fastssh
 ===
  Fast, minimal terminal and SSH client in Rust. Run as a self-hosted server you open in any browser, or as a desktop app. Saved passwords and keys live in an ecrypted vault, sessions open in tabs, and it works on phones with an extra-keys bar. One binary, one SQLite file.
 ===

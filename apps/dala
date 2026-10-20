@@ -1,4 +1,4 @@
-# dala
+# Dala
 ===
  Persistent shells — every session lives in its own PTY holder daemon (dtach model, written in Rust). Restarting or upgrading dala leaves your shells running: tmux durability, browser UI.
 ===

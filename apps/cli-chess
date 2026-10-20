@@ -1,4 +1,4 @@
-# cli-chess
+# CLI Chess
 ===
  A highly customizable way to play chess in your terminal. Supports playing online (via Lichess.org) and offline against the Fairy-Stockfish engine. All Lichess variants are supported.
 ===

@@ -1,4 +1,4 @@
-# casper-rust-wasm-sdk
+# Casper Rust Wasm SDK
 ===
  Rust/Wasm/PyO3 Casper SDK. The Rust/Wasm SDK allows developers and users to interact with the Casper Blockchain using Rust, TypeScript, or Python.
 ===

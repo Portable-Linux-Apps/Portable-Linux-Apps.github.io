@@ -1,4 +1,4 @@
-# anyfast
+# Anyfast
 ===
  There may be dozens of IPs behind the same transit domain name, and the latency varies. anyFAST helps you automatically find the fastest IP, write it into the hosts binding, continuously protect it in the background, and automatically switch when it slows down.
 ===

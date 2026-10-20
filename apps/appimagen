@@ -1,4 +1,4 @@
-# appimagen
+# Appimagen
 ===
 A script that generates a custom AppImage from a PPA of your choice for the previous (not the oldest, not the latest) and still supported Ubuntu LTS.
  

@@ -1,4 +1,4 @@
-# opencadstudio
+# Opencadstudio
 ===
  A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering.
 ===

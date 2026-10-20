@@ -1,4 +1,4 @@
-# shard
+# Shard
 ===
  Minecraft launcher with deduplicated mod storage. Content-addressed library stores mods once, shares across profiles. CLI + desktop app. Supports Fabric, Forge, Quilt, NeoForge. Modrinth & CurseForge integration.
 ===

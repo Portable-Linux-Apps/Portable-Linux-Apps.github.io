@@ -1,4 +1,4 @@
-# kanivet
+# Kanivet
 ===
  Kanivet AI is an open-source Kubernetes desktop application. Browse Kubernetes resources, troubleshoot pods, stream container logs, trace Crossplane resources, and manage Helm releases and Argo CD applications from a graphical interface using your existing kubeconfig credentials.
 ===

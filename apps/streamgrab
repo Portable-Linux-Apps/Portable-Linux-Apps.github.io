@@ -1,4 +1,4 @@
-# streamgrab
+# Streamgrab
 ===
  A clean and elegant streaming video downloader supporting m3u8, HLS, DASH, and HTTP direct links, featuring parallel multi-task downloading, real-time progress display, and customizable template configurations.
 ===

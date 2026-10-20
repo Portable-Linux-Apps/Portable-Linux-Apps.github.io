@@ -1,4 +1,4 @@
-# face-crop-studio
+# Face Crop Studio
 ===
  GPU-accelerated face detection, cropping, enhancement, and batch export tools in Rust.
 ===

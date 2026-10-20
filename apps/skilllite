@@ -1,4 +1,4 @@
-# skilllite
+# Skilllite
 ===
  A lightweight secure Self-evolution engine built in Rust, featuring a built-in native system-level sandbox, zero dependencies, and fully local execution.
 ===

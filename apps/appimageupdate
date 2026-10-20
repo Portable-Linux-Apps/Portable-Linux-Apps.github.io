@@ -1,4 +1,4 @@
-# appimageupdate
+# Appimageupdate
 ===
 AppImageUpdate is a tool designed to update AppImages efficiently by utilizing binary delta updates. Powered by zsync, it downloads only the changed bytes between application versions rather than re-downloading entire disk images, saving significant bandwidth and time.
 

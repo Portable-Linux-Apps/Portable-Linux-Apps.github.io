@@ -1,4 +1,4 @@
-# x-harness-rs
+# X-Harness
 ===
  A Linux Server AI Agent Harness implemented from scratch, using Rust to build the core loop, providers, and tool runtime.
 ===

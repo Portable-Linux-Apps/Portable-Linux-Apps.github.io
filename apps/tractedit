@@ -1,4 +1,4 @@
-# tractedit
+# Tractedit
 ===
  A Python-based interactive tool for virtual dissection and manual refinement of diffusion MRI tractography. Supports .trk, .tck, .trx, .vtk, .vtp formats with streamline selection-deletion, ROI drawing, FreeSurfer parcellation, and whole-brain visualization.
 ===

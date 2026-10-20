@@ -1,4 +1,4 @@
-# careless-whisper
+# Careless Whisper
 ===
  A lightweight, always-on desktop app for local voice-to-text transcription. Lives in the system tray / menu bar, records on a global hotkey, transcribes locally with Whisper, and pastes the result into your focused app. No cloud. No data leaves your machine.
 ===

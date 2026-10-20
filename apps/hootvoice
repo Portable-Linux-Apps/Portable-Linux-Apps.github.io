@@ -1,4 +1,4 @@
-# hootvoice
+# Hootvoice
 ===
  HootVoice records your microphone and transcribes speech to text in real time using Whisper. It ships a simple floating toolbar and a settings UI with model/download management, device controls, and a user dictionary.
 ===
