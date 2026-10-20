@@ -1,4 +1,4 @@
-# isobar
+# Isobar
 ===
  Cross-platform HF weather-fax (WEFAX) decoder — interoperable with KG-FAX. C++17 + FLTK + RtAudio. GPLv3+.
 ===

@@ -1,4 +1,4 @@
-# interview-copilot
+# Interview Copilot
 ===
  Real Time Interview Copilot — live dual-channel transcription (Deepgram) + LLM answers (DeepSeek/Gemini/OpenAI/Ollama), grounded in your résumé/JD. Open-source Electron app for interview practice.
 ===

@@ -1,4 +1,4 @@
-# innoextract
+# Innoextract
 ===
 innoextract is a tool designed to unpack installers created by Inno Setup under Linux without requiring Wine. It allows gamers and developers to unpack Windows game installers (such as GOG.com releases) directly to native folders.
 

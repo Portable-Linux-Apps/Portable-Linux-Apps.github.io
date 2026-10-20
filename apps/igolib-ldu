@@ -1,4 +1,4 @@
-# igolib-ldu
+# Igolib Ldu
 ===
  A cross-platform application for grabbing or reserving library seats, built with TypeScript, React, and Tauri; it supports obtaining cookies via WeChat QR code scanning.
 ===
