@@ -1,4 +1,4 @@
-# echo-messenger
+# Echo Messenger
 ===
  Lightweight, cross-platform encrypted messenger. Rust server + Flutter UI + Signal Protocol (X3DH + Double Ratchet).
 ===

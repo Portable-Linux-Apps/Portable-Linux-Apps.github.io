@@ -1,4 +1,4 @@
-# easyqueue
+# Easyqueue
 ===
  EasyQueue is a desktop application for inspecting, publishing, and managing messages across multiple message brokers from a single interface. Browse queues, view messages with a clean JSON viewer, publish payloads, and simplify debugging workflows for RabbitMQ, Amazon SQS, and more.
 ===
