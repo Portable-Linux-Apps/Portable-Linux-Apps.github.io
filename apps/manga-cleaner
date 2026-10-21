@@ -1,0 +1,6 @@
+# manga-cleaner
+===
+ Ai inpainting application focusing on cleaning texts and sfx from comics, along with cloud gpu support for older computers. Tauri + Svelte + Rust.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/k-omiq/bear
