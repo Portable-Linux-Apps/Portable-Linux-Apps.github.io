@@ -18,6 +18,7 @@
   <meta name="twitter:description" content="The first AUR-inspired Software Center of all AppImage packages and portable applications for GNU/Linux.">
   <link rel="canonical" href="https://portable-linux-apps.github.io/$LANG/index.html">
   $HREFLANG
+  <script type="application/ld+json">$HOME_JSONLD</script>
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="stylesheet" href="/assets/css/index.css">

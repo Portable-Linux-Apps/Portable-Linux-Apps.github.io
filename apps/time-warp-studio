@@ -1,0 +1,6 @@
+# time-warp-studio
+===
+ Time Warp Studio is a native C++20/Qt6 workbench for people who like old computers. It is the programming environment the 1980s promised and never quite delivered: a full IDE, ten interpreters spanning 1964 to 1980, a turtle canvas, a debugger that works in every one of them — and, inside it, two complete machines.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/james-honeybadger/time_warp_studio

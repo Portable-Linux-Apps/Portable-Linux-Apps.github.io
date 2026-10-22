@@ -6,18 +6,20 @@
   <title>$APP_TITLE - _("PORTABLE LINUX APPS")</title>
   <meta name="description" content="$APP_DESC">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="$APP_NAME - _("PORTABLE LINUX APPS")">
+  <meta property="og:title" content="$APP_TITLE - _("PORTABLE LINUX APPS")">
   <meta property="og:description" content="$APP_DESC">
   <meta property="og:url" content="https://portable-linux-apps.github.io/$LANG/app/$APP_NAME.html">
-  <meta property="og:image" content="https://portable-linux-apps.github.io/icons/$APP_NAME.webp">
-  <meta property="og:image:width" content="128">
-  <meta property="og:image:height" content="128">
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="$APP_NAME - _("PORTABLE LINUX APPS")">
-  <meta name="twitter:image" content="https://portable-linux-apps.github.io/icons/$APP_NAME.webp">
+  <meta property="og:image" content="$APP_OG_IMAGE">
+  <meta property="og:image:width" content="$APP_OG_IMAGE_WIDTH">
+  <meta property="og:image:height" content="$APP_OG_IMAGE_HEIGHT">
+  <meta name="twitter:card" content="$APP_TWITTER_CARD">
+  <meta name="twitter:title" content="$APP_TITLE - _("PORTABLE LINUX APPS")">
+  <meta name="twitter:image" content="$APP_OG_IMAGE">
   <meta name="twitter:description" content="$APP_DESC">
   <link rel="canonical" href="https://portable-linux-apps.github.io/$LANG/app/$APP_NAME.html">
+  $APP_HREFLANG
   <script type="application/ld+json">$APP_JSONLD</script>
+  <script type="application/ld+json">$APP_BREADCRUMB</script>
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="stylesheet" href="/assets/css/app.css">
