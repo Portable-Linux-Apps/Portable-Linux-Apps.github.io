@@ -13,12 +13,6 @@ include = 'chatgpt|openai|gemini|claude|copilot|perplexity| meta |grok|anthropic
 exclude = "illus"
 
 [[categories]]
-name = "am-utils"
-
-[categories.pattern]
-include = '"am-utils"'
-
-[[categories]]
 name = "android"
 
 [categories.pattern]
@@ -40,7 +34,7 @@ include = "comic|manga|anime"
 name = "command-line"
 
 [categories.pattern]
-include = 'command-line|command line| cli |-cli|terminal |"am-utils"|"node"|"platform-tools"'
+include = 'command-line|command line| cli |-cli|terminal |"node"|"platform-tools"'
 
 [[categories]]
 name = "communication"
@@ -179,7 +173,6 @@ name = "youtube"
 include = "youtube"
 
 [cat_comments]
-am-utils = 'Here are listed $COUNT static binaries built for <a href="https://github.com/ivan-hc/AM">AM</a> and <a href="https://github.com/ivan-hc/AppMan">AppMan</a> which can be used as a fallback in case the system does not have them'
 metapackages = """Here are listed $SUITE_COUNT "metapackages" (along with their $ITEM_COUNT items), those few scripts that allow the use of many more programs with one installation. Find which metapackage corresponds to the program you're interested in from this list"""
 portable-cli = "Here are listed $COUNT command line utilities: static and dynamic ELF binaries, or simple scripts"
 portable-desktop = 'Here are listed $COUNT desktop applications NOT in AppImage format. Launchers and icons are downloaded separately during the installation process (through <a href="https://github.com/ivan-hc/AM">AM</a> and <a href="https://github.com/ivan-hc/AppMan">AppMan</a>). Most of them already have all the necessary requirements to be easily exported into AppImage packages... or they are waiting to be moved to another category (see <a href="appimage-on-the-fly.html">AppImages on-the-fly</a>)'
