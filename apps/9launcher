@@ -1,8 +1,15 @@
 # 9launcher
 ===
 9Launcher is an actively maintained and cross platform remake of Touhou Relauncher!
+
+## Features
+
+- Support for every officially released Touhou Project and (Windows) Seihou Project game
+- Thcrap support
+- Manager for Dosbox-x, thcrap, and Proton
+- Universal UI
+- Delete and add games with one click
+- Starts up incredibly fast
 ===
-# SCREENSHOTS: /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/9launcher/1.webp
 # SITES: https://github.com/wearrrrr/9Launcher
-# SOURCES: 
-# BUTTONS: 
