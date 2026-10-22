@@ -1,8 +1,24 @@
 # Pawse
 ===
 A fast, native music player for your local library, built in Rust and GPUI, with a buttery-smooth, customizable 120+ fps interface, exclusive (bit-perfect) output, and a rich feature set.
+
+## Highlights
+
+- **Bit-perfect playback** — **exclusive output** on Windows and macOS, **native sample rate** on Linux, with automatic sample-rate / bit-depth matching and a live bit-perfect indicator.
+- **Fluid, minimal UI** — smooth at 120+ fps, 20+ themes plus an adaptive one that follows the cover art, 20 UI languages; hide any control, label or column you never use.
+- **One library, many sources** — local files, Subsonic/Navidrome, Jellyfin, DLNA/UPnP servers and torrents, mixed into one library.
+- **Cast anywhere** — AirPlay 1 & 2, Chromecast and DLNA renderers, switchable mid-track.
+- **Sound-based radio** — optional on-device analysis finds tracks that sound alike, for radio, queue mixes and genres detected from the audio.
+- **Remote control** — a built-in web remote for any phone or browser on your network: player, queue and full library browsing.
+- **Scrobbling** — Last.fm, Libre.fm, ListenBrainz and a local CSV log, all at once, with rewrite rules and loved-track sync.
+
+## Everything you'd expect
+
+- **Formats** — FLAC, ALAC, AAC, MP3, WAV, Ogg Vorbis, Opus, APE, DSD (DSF/DFF) and more; CUE sheets split into tracks; gapless playback and click-free fades.
+- **Lyrics** — time-synced, with karaoke highlighting, from your files, LRCLIB or your media server.
+- **Tag editor** — per track or per album.
+- **System integration** — OS media controls, media keys, keyboard shortcuts, Discord status.
+- **Sleep timer** and **automatic updates**.
 ===
-# SCREENSHOTS: https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/album.webp https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/artists.webp https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/cover_view.webp https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/remote-desktop.webp https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/settings.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/album.webp https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/artists.webp https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/cover_view.webp https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/remote-desktop.webp
 # SITES: https://github.com/popovpsk/pawse
-# SOURCES: 
-# BUTTONS: 
