@@ -4,28 +4,36 @@
 # Usage:
 #   ./gen_recent <site_dir> [days]
 #
-# Writes <site_dir>/recent.json, {"app": "YYYY-MM-DD", ...} newest first, and
+# Writes <site_dir>/recent.json, {"app": "YYYY-MM-DD", ...} newest first,
+# <site_dir>/recent.xml, an RSS feed with one item per day listing that day's apps, and
 # <site_dir>/<lang>/recent.html for each language in pla-site.toml, rendered from
-# recent.in. Descriptions and archs are read by the page from apps.json.
+# recent.in. Descriptions are read from <site_dir>/apps.json (run pla-site-tool first).
 # Needs the full history (actions/checkout with "fetch-depth: 0").
 
 set -euo pipefail
 
 SITE_DIR="${1:?Usage: $0 <site_dir> [days]}"
 DAYS="${2:-90}"
+FEED_DAYS="${FEED_DAYS:-14}"
+SITE_URL=$(grep -m1 '^site_url' pla-site.toml | grep -o '"[^"]*"' | tr -d '"')
 
-if [[ ! -d "$SITE_DIR" ]]; then
-    echo "Error: site directory '$SITE_DIR' not found" >&2
+if [[ ! -f "$SITE_DIR/apps.json" ]]; then
+    echo "Error: '$SITE_DIR/apps.json' not found, run pla-site-tool gen-site first" >&2
     exit 1
 fi
+
+RECENT=$(mktemp)
+trap 'rm -f "$RECENT"' EXIT
 
 # Pages under apps/ are created by the "Keep this site sync with AM" workflow when
 # an app is added to AM, so the first commit adding apps/<name> dates the app.
 # Pages were apps/<name>.md before the "rewrite" commit of 2026-08-21, so both
 # count. Only apps still present and first added in the last $DAYS days are listed.
+# Days are UTC days.
 SINCE=$(date -u -d "$DAYS days ago" +%F)
 
-git log --diff-filter=A --no-renames --format='@%cs' --name-only -- apps/ \
+# Lines of "YYYY-MM-DD<TAB>app", newest first
+TZ=UTC git log --diff-filter=A --no-renames --date=format-local:%F --format='@%cd' --name-only -- apps/ \
     | awk -v since="$SINCE" '
         /^@/ { date = substr($0, 2); next }
         /^apps\/[^\/]+$/ {
@@ -41,13 +49,84 @@ git log --diff-filter=A --no-renames --format='@%cs' --name-only -- apps/ \
                 if (first[name] < since) continue
                 if ((getline line < ("apps/" name)) <= 0) continue
                 close("apps/" name)
-                printf "%s\"%s\":\"%s\"", (count++ ? "," : "{"), name, first[name]
+                print first[name] "\t" name
             }
-            print (count ? "}" : "{}")
         }
-    ' > "$SITE_DIR/recent.json"
+    ' > "$RECENT"
 
-echo "Wrote $SITE_DIR/recent.json ($(grep -o '":"' "$SITE_DIR/recent.json" | wc -l) apps added in the last $DAYS days)"
+awk -F '\t' '
+    { printf "%s\"%s\":\"%s\"", (NR > 1 ? "," : "{"), $2, $1 }
+    END { print (NR ? "}" : "{}") }
+' "$RECENT" > "$SITE_DIR/recent.json"
+
+echo "Wrote $SITE_DIR/recent.json ($(wc -l < "$RECENT") apps added in the last $DAYS days)"
+
+# RSS feed, one item per day for the last $FEED_DAYS days. Today is left out until
+# it is over, so each item is published once, with all of that day's apps, and the
+# feed changes at most once a day.
+# Each record of apps.json is "name":{"description":"...","archs":[...]}
+TODAY=$(date -u +%F)
+FEED_SINCE=$(date -u -d "$FEED_DAYS days ago" +%F)
+
+awk -F '\t' -v apps="$SITE_DIR/apps.json" -v site="$SITE_URL" -v today="$TODAY" -v since="$FEED_SINCE" '
+    function xml(s) {
+        gsub(/&/, "\\&amp;", s); gsub(/</, "\\&lt;", s); gsub(/>/, "\\&gt;", s)
+        return s
+    }
+    # "YYYY-MM-DD" to an RFC 822 date at the end of that day, when its item is published
+    function rfc822(d) {
+        return substr(d, 9, 2) " " substr("JanFebMarAprMayJunJulAugSepOctNovDec", substr(d, 6, 2) * 3 - 2, 3) " " substr(d, 1, 4) " 23:59:59 +0000"
+    }
+    function item(d, n, html,    link) {
+        link = site "/en/recent.html#" d
+        if (!items++) print "  <lastBuildDate>" rfc822(d) "</lastBuildDate>"
+        print "  <item>"
+        print "    <title>" n (n == 1 ? " new app" : " new apps") " on " substr(rfc822(d), 1, 11) "</title>"
+        print "    <link>" link "</link>"
+        print "    <guid isPermaLink=\"true\">" link "</guid>"
+        print "    <pubDate>" rfc822(d) "</pubDate>"
+        print "    <description><![CDATA[<ul>" html "</ul>]]></description>"
+        print "  </item>"
+    }
+    BEGIN {
+        RS = "\"archs\":\\[[^]]*\\]}"
+        while ((getline rec < apps) > 0) {
+            if (!match(rec, /"[^"]+":\{"description":"/)) continue
+            name = substr(rec, RSTART + 1)
+            sub(/":\{"description":".*/, "", name)
+            desc = substr(rec, RSTART + RLENGTH)
+            sub(/",[ \t\n]*$/, "", desc)
+            gsub(/\\\\/, "\001", desc); gsub(/\\"/, "\"", desc); gsub(/\001/, "\\", desc)
+            description[name] = desc
+        }
+        RS = "\n"
+        print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>"
+        print "<rss version=\"2.0\" xmlns:atom=\"http://www.w3.org/2005/Atom\">"
+        print "<channel>"
+        print "  <title>Portable Linux Apps - New apps</title>"
+        print "  <link>" site "/en/recent.html</link>"
+        print "  <description>The apps added to Portable Linux Apps and the AM database each day.</description>"
+        print "  <language>en</language>"
+        print "  <ttl>1440</ttl>"
+        print "  <atom:link href=\"" site "/recent.xml\" rel=\"self\" type=\"application/rss+xml\"/>"
+    }
+    $1 >= today || $1 < since { next }
+    $1 != day {
+        if (day != "") item(day, n, html)
+        day = $1; n = 0; html = ""
+    }
+    {
+        n++
+        html = html "<li><a href=\"" site "/en/app/" $2 ".html\"><strong>" xml($2) "</strong></a>: " xml(description[$2]) "</li>"
+    }
+    END {
+        if (day != "") item(day, n, html)
+        print "</channel>"
+        print "</rss>"
+    }
+' "$RECENT" > "$SITE_DIR/recent.xml"
+
+echo "Wrote $SITE_DIR/recent.xml ($(grep -c '<item>' "$SITE_DIR/recent.xml") days)"
 
 # Render recent.in like pla-site-tool renders the other templates: $LANG is the
 # language code, $ARCH_OPTIONS the archs in pla-site.toml and _("text") is replaced

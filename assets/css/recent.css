@@ -29,3 +29,7 @@
   text-align: center;
   color: var(--color-text-muted);
 }
+
+.recent-rss {
+  white-space: nowrap;
+}

@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded', function() {
           // Large days (bulk imports) are collapsed, unless searching or expanded
           var collapsed = !terms.length && !expanded[group.date] && n > PREVIEW * 2;
           var shown = collapsed ? group.apps.slice(0, PREVIEW) : group.apps;
-          html += '<div class="app-group-heading recent-heading"><span>' + escapeHtml(dateFormat.format(new Date(group.date + 'T00:00:00'))) + '</span>';
+          html += '<div class="app-group-heading recent-heading" id="' + group.date + '"><span>' + escapeHtml(dateFormat.format(new Date(group.date + 'T00:00:00'))) + '</span>';
           html += '<span>' + n + ' ' + escapeHtml(n === 1 ? i18n.app : i18n.apps) + '</span></div>';
           for (var k = 0; k < shown.length; k++) {
             html += appHtml(shown[k], lang, selectedArch || 'x86_64');
@@ -138,6 +138,10 @@ document.addEventListener('DOMContentLoaded', function() {
       days.addEventListener('change', render);
       arch.addEventListener('change', render);
       render();
+
+      // Links from the RSS feed point to a day (#YYYY-MM-DD), which only exists once rendered
+      var target = window.location.hash && document.getElementById(window.location.hash.slice(1));
+      if (target) target.scrollIntoView();
     })
     .catch(function(err) {
       console.error(err);

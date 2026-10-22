@@ -18,6 +18,7 @@
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="stylesheet" href="/assets/css/recent.css">
+  <link rel="alternate" type="application/rss+xml" title="Portable Linux Apps - New apps" href="/recent.xml">
   <link rel="preconnect" href="/apps.json">
   <link rel="preconnect" href="/recent.json">
   <link rel="preconnect" href="/assets/js/recent.js">
@@ -49,7 +50,7 @@
 
 <section>
   <h1>_("NEW APPS")</h1>
-  <p class="category-meta" id="recent-meta"></p>
+  <p class="category-meta"><span id="recent-meta"></span> <a href="/recent.xml" class="recent-rss">_("RSS feed")</a></p>
   <div class="search-box">
     <label for="search-input" class="visually-hidden">_("Search apps")</label>
     <input type="search" id="search-input" placeholder="_("Filter apps by name or keyword...")" autocomplete="off">
