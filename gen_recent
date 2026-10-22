@@ -1,0 +1,92 @@
+#!/usr/bin/env bash
+# gen_recent — build the "recently added apps" page from the git history of apps/
+#
+# Usage:
+#   ./gen_recent <site_dir> [days]
+#
+# Writes <site_dir>/recent.json, {"app": "YYYY-MM-DD", ...} newest first, and
+# <site_dir>/<lang>/recent.html for each language in pla-site.toml, rendered from
+# recent.in. Descriptions and archs are read by the page from apps.json.
+# Needs the full history (actions/checkout with "fetch-depth: 0").
+
+set -euo pipefail
+
+SITE_DIR="${1:?Usage: $0 <site_dir> [days]}"
+DAYS="${2:-90}"
+
+if [[ ! -d "$SITE_DIR" ]]; then
+    echo "Error: site directory '$SITE_DIR' not found" >&2
+    exit 1
+fi
+
+# Pages under apps/ are created by the "Keep this site sync with AM" workflow when
+# an app is added to AM, so the first commit adding apps/<name> dates the app.
+# Pages were apps/<name>.md before the "rewrite" commit of 2026-08-21, so both
+# count. Only apps still present and first added in the last $DAYS days are listed.
+SINCE=$(date -u -d "$DAYS days ago" +%F)
+
+git log --diff-filter=A --no-renames --format='@%cs' --name-only -- apps/ \
+    | awk -v since="$SINCE" '
+        /^@/ { date = substr($0, 2); next }
+        /^apps\/[^\/]+$/ {
+            name = substr($0, 6)
+            sub(/\.md$/, "", name)
+            # git log is newest first, so the last date seen is the first addition
+            if (!(name in first)) order[++n] = name
+            first[name] = date
+        }
+        END {
+            for (i = 1; i <= n; i++) {
+                name = order[i]
+                if (first[name] < since) continue
+                if ((getline line < ("apps/" name)) <= 0) continue
+                close("apps/" name)
+                printf "%s\"%s\":\"%s\"", (count++ ? "," : "{"), name, first[name]
+            }
+            print (count ? "}" : "{}")
+        }
+    ' > "$SITE_DIR/recent.json"
+
+echo "Wrote $SITE_DIR/recent.json ($(grep -o '":"' "$SITE_DIR/recent.json" | wc -l) apps added in the last $DAYS days)"
+
+# Render recent.in like pla-site-tool renders the other templates: $LANG is the
+# language code, $ARCH_OPTIONS the archs in pla-site.toml and _("text") is replaced
+# by its translation, if any.
+LANGUAGES=$(grep -m1 '^languages' pla-site.toml | grep -o '"[^"]*"' | tr -d '"')
+ARCH_OPTIONS=$(grep -m1 '^archs' pla-site.toml | grep -o '"[^"]*"' | tr -d '"' | awk '{ printf "%s      <option value=\"%s\">%s</option>", (NR > 1 ? "\\n" : ""), $0, $0 }')
+
+for lang in $LANGUAGES; do
+    mkdir -p "$SITE_DIR/$lang"
+    awk -v lang="$lang" -v archs="$ARCH_OPTIONS" -v po="locales/$lang/pla-site.po" '
+        function unquote(s) {
+            sub(/^[^"]*"/, "", s); sub(/"[ \t]*$/, "", s)
+            gsub(/\\"/, "\"", s)
+            return s
+        }
+        BEGIN {
+            # Load the translations, joining multi-line msgid/msgstr entries
+            while ((getline l < po) > 0) {
+                if (l ~ /^msgid /) { if (id != "" && str != "") tr[id] = str; id = unquote(l); str = ""; field = "id" }
+                else if (l ~ /^msgstr /) { str = unquote(l); field = "str" }
+                else if (l ~ /^"/) { if (field == "id") id = id unquote(l); else if (field == "str") str = str unquote(l) }
+                else field = ""
+            }
+            if (id != "" && str != "") tr[id] = str
+        }
+        {
+            gsub(/\$LANG/, lang)
+            gsub(/\$ARCH_OPTIONS/, archs)
+            out = ""
+            while ((i = index($0, "_(\"")) > 0) {
+                rest = substr($0, i + 3)
+                j = index(rest, "\")")
+                if (!j) break
+                text = substr(rest, 1, j - 1)
+                out = out substr($0, 1, i - 1) ((text in tr) ? tr[text] : text)
+                $0 = substr(rest, j + 2)
+            }
+            print out $0
+        }
+    ' recent.in > "$SITE_DIR/$lang/recent.html"
+    echo "Wrote $SITE_DIR/$lang/recent.html"
+done
