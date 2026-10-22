@@ -1,6 +1,6 @@
 # Afsplug
 ===
- Use top domestic and foreign AI models for free with zero token cost.
+An enhanced Chat2API branch that connects to mainstream AI models through their official web interfaces and exposes an OpenAI-compatible API. Supports DeepSeek, GLM, Kimi, MiniMax, Qwen, Z.ai and other providers, and works with any OpenAI-compatible client.
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/afsplug/1.webp
 # SITES: https://github.com/zhangxianhe666/afsplug

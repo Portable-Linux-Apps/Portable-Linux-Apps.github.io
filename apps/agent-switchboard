@@ -2,5 +2,5 @@
 ===
  Supplier configuration manager for Codex and Claude Code, built on a general settings plus per-supplier profiles architecture, edited through switches and sliders instead of hand-written config files.
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/agent-switchboard/1.webp
 # SITES: https://github.com/y4nkk/agent-switchboard
