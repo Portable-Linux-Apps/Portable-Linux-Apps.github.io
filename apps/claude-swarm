@@ -1,0 +1,6 @@
+# claude-swarm
+===
+ Мини-пульт для нескольких сессий Claude Code сразу: дашборд вместо прыганья по вкладкам терминала. Electron + node-pty + xterm.js.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/raul-cortez/claude-swarm

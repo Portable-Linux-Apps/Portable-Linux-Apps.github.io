@@ -1,0 +1,6 @@
+# tizen-sim
+===
+ Open-source simulator for Samsung Tizen TV web apps: runs your App on the Chromium its TV ships, with the TV's tizen/webapis APIs, remote and network rules.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/lucaskfp/tizen-sim

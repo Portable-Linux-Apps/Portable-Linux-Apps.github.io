@@ -1,0 +1,6 @@
+# sextant
+===
+ Desktop Kubernetes client in Rust (Tauri 2), an alternative to Lens: live resources, logs, shells, port forwarding, metrics and Helm.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/friendsofkubernetes/sextant

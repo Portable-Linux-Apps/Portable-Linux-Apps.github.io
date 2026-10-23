@@ -1,0 +1,6 @@
+# localleaf
+===
+ Local-first LaTeX editor with an Overleaf-style interface. Native Rust + Tauri, uses your installed TeX, built-in MCP server for AI agents.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/leoaliperti/localleaf

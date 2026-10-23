@@ -1,0 +1,6 @@
+# worm-vue3-print
+===
+ Vue 3 visual printing template designer + template expression engine + open source monorepo of isomorphic rendering pipeline (npm workspaces).  Visual drag-and-drop design printing templates, data binding, expression evaluation, pagination and layout, and the browser preview is consistent with the back-end output. Pure Vue 3 + HTML/CSS/SVG native control implementation, does not rely on any UI component library, and can be connected to any Vue 3 project. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/worm-longliu/worm-vue3-print

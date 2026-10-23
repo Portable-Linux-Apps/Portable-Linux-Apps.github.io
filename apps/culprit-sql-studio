@@ -1,0 +1,6 @@
+# culprit-sql-studio
+===
+ Find what's slowing your database down: a free desktop app, CLI and MCP server for SQL Server, PostgreSQL, MySQ, MariaDB and SQLite performance (slow queries, execution plans, indexes, blocking, deadlocks).
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/cristipufu/culprit-sql-studio
