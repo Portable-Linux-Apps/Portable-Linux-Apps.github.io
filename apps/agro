@@ -1,6 +1,32 @@
 # Agro
 ===
- Private. Local. Yours. Cross-platform On-device LLM & Agent Client powered by LiteRT-LM & Compose Multiplatform.
+## 📖 Overview
+
+**Agro** is a pure on-device, multi-platform (Android, iOS, macOS, Windows, Linux) **local Large Language Model (LLM) and autonomous agent chat application**.
+
+Unlike conventional AI tools that depend on remote cloud APIs, Agro brings the entire inference engine, context scheduling, agent tool execution, and AIGC rendering directly to your physical device. Powered by Google **LiteRT-LM** native C++ runtime and hardware acceleration backends (Apple Metal, WebGPU Dawn, DirectX, Vulkan, OpenCL), Agro guarantees 100% data privacy sovereignty while delivering an ultra-smooth, responsive generative experience.
+
+### 🌟 Key Highlights
+
+- 🔒 **100% Local & Offline-First**: All conversations, historical records, and inference calculations remain strictly on your device—zero data sent to the cloud.
+- ⚡ **Native Hardware Acceleration**: Low-level memory management and GPU optimizations tailored for Desktop GPUs, Apple Neural Engine / Metal, and Mobile GPUs.
+- 🧩 **Autonomous Agent Loop & Tool Ecosystem**: Built-in structured tool-calling loop supporting local JavaScript execution, real-time web search, and URL content analysis.
+- 🎨 **Multimodal Structured Generation**: Beyond plain text, natively synthesizes and renders SVG vector graphics, 8-bit chiptune audio, and Lottie animations on-device in real time.
+
+---
+
+## ✨ Core Capabilities
+
+| Capability | Implementation Details |
+| --- | --- |
+| **Local LLMs** | Loads LiteRT-LM compatible `.litertlm` bundles. Built-in one-click downloads for Ministral-3-3B & Gemma 4 4B, with support for custom models |
+| **Streaming Chat** | Incremental token streaming, thinking/reasoning channels, mid-generation cancellation, auto CPU fallback upon GPU errors, runtime telemetry |
+| **Context Management** | Segregated channels for conversational chat and structured synthesis; reads native token counts, performs budget estimation, history replay, and pruning |
+| **Agent Loop** | Model tool call request → Host execution → Structured payload feedback → Continued inference (up to 10 iterations by default) |
+| **Built-in Web Tools** | Pre-registered `searchWeb` (Bing search) and `analyzeUrl` (HTTP/HTTPS content fetch & analysis) |
+| **Creative Modes** | 4 distinct session protocols: Standard Assistant, SVG Vector Graphics, 8-bit BGM Composer, and Lottie Micro-animation |
+| **Local Persistence** | Room KMP + Bundled SQLite; safely persists conversations, messages, tool execution logs, and system prompt snapshots |
+| **Model Parameters** | Granular control over Temperature, Top-P, Top-K, Context Window limits, Thinking mode, Speculative Decoding, and custom System Prompts |
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://github.com/Onion99/Agro/raw/main/docs/screenshot/desktop_chat.webp https://github.com/Onion99/Agro/blob/main/docs/screenshot/desktop_home.gif https://github.com/Onion99/Agro/blob/main/docs/screenshot/desktop_library.webp https://github.com/Onion99/Agro/blob/main/docs/screenshot/desktop_setting.webp https://github.com/Onion99/Agro/blob/main/docs/screenshot/mobile_chat.gif https://github.com/Onion99/Agro/blob/main/docs/screenshot/mobile_library.gif https://github.com/Onion99/Agro/blob/main/docs/screenshot/mobile_home.gif https://github.com/Onion99/Agro/blob/main/docs/screenshot/mobile_setting.gif
 # SITES: https://github.com/onion99/agro

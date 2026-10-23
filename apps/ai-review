@@ -1,6 +1,19 @@
 # AI Review
 ===
- AI code review tool with diff UI, inline comments, and prompt generation.
+AI code review tool with diff UI, inline comments, and prompt generation.
+## Features
+
+- **CLI launcher (`air`)** — open AI Review from any Git repository
+- **Git integration** — auto-detect repositories and load unstaged, staged, or commit diffs
+- **Changed files sidebar** — file list with status badges (M/A/D/R)
+- **Split and Unified diff views** with syntax highlighting
+- **Inline comments on lines** — click the gutter or press `C`
+- **Comment editing and deletion**
+- **Fuzzy file search** — press `Ctrl/⌘ + O`
+- **Prompt generation from comments** — structured output with code snippets
+- **Expandable hunk context**
+- **Multi-repo management**
+- **Commit selector**
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/ai-review/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/ai-review/2.webp
 # SITES: https://github.com/mrmans0n/ai-review

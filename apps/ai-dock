@@ -1,6 +1,18 @@
 # AI Dock
 ===
- Side dock for Claude, Codex, Cursor and Antigravity usage, plus Obsidian prompts. Windows 11 release. macOS Apple Silicon and Linux (Omarchy) betas — testers welcome.
+Side dock for Claude, Codex, Cursor and Antigravity usage, plus Obsidian prompts. Windows 11 release. macOS Apple Silicon and Linux (Omarchy) betas — testers welcome.
+## Features
+
+- **Always on top, out of the way.** Docks to the left or right edge of any display. Drag it vertically along the edge to adjust height, and lock position in Settings. No taskbar icon. Auto-hides to a thin strip, and hides during full-screen apps.
+- **Quota at a glance.** Five collapsed styles (ring, square, bars, numbers, classic) colored by how much is left. Hover a provider for a peek with every window, reset countdown and plan.
+- **Pace.** "Runs out in 2h 10min" or "19% under pace" for each window, plus a trend line for the last 24 hours, 7 days or 30 days.
+- **Real plan names**, such as Claude Max 5x or Max 20x, when the provider reports them.
+- **Service status.** Incidents from the official status pages of Claude, OpenAI (Codex) and Cursor show on the dock and in the cards, with a link to the status page.
+- **Local costs.** Tokens and the estimated API cost of your Claude Code, Codex CLI and Antigravity sessions, per day, tool, model and project, read from their local logs.
+- **Agent activity.** See when Codex, Cursor or Antigravity is working, and get a notification when an agent is waiting for you.
+- **Notifications** for low quota (80% and 95% used), limit resets, service incidents, and a provider that stops refreshing (and when it recovers). Pause them for 30 min to "until tomorrow" from Settings or the tray.
+- **Obsidian prompts.** Search, favorites, recents, `{{variables}}` filled in before copying, a global **Ctrl + Alt + Space** palette (**Control + Option + Command + Space** on the Mac), and optional paste straight into the app you were in.
+- English and Portuguese UI; light, dark or system theme; start with Windows, with the Mac, or with Linux.
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/ai-dock/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/ai-dock/2.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/ai-dock/3.webp
 # SITES: https://github.com/nyckdragon/ai-dock
