@@ -7,19 +7,19 @@ This AHK is shipped as a single executable native binary with very low resource 
 Please also check out [Keysharp](https://bitbucket.org/mfeemster/keysharp/), a WIP fork of [IronAHK](https://github.com/Paris/IronAHK/tree/master/IronAHK), another complete rewrite of AutoHotkey in C# that tries to be compatible with multiple OSes and support modern, v2-like AHK syntax with much more features than this one. In comparison, AHK_X11 is a lot less ambitious and more compact, and Linux only.
 
 Features:
-- [x] Hotkeys
-- [x] Hotstrings
-- [x] Key remappings
-- [x] Window management
-- [x] Send keys
-- [x] Control mouse
-- [x] File management
-- [x] GUIs
-- [x] One-click compile script to portable stand-alone executable
-- [x] Scripting: labels, flow control: Loop, IfWinExists, etc.
-- [x] Window Spy
-- [x] Graphical installer (optional)
-- [x] Context menu and compilation just like on Windows
+- Hotkeys
+- Hotstrings
+- Key remappings
+- Window management
+- Send keys
+- Control mouse
+- File management
+- GUIs
+- One-click compile script to portable stand-alone executable
+- Scripting: labels, flow control: Loop, IfWinExists, etc.
+- Window Spy
+- Graphical installer (optional)
+- Context menu and compilation just like on Windows
 
 Besides:
 - Interactive console (REPL)
