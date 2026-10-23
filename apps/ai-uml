@@ -1,6 +1,45 @@
 # AI Uml
 ===
- AI UML Builder is a modern React-based application that transforms natural language descriptions of system architecture, classes, or processes into professional UML diagrams using artificial intelligence.
+AI UML Builder is a **powerful desktop application** that converts natural language descriptions into beautiful, professional diagrams. No more struggling with complex diagramming tools—just describe what you need in plain English (or Russian!), and let AI do the heavy lifting.
+
+## 🎯 Key Features
+
+### 🤖 AI-Powered Intelligence
+- **Natural Language Processing** - Describe your diagram in plain English or Russian
+- **Context-Aware Generation** - AI understands complex system architectures
+- **Iterative Refinement** - Ask for changes and improvements naturally
+- **Smart Formatting** - Auto-formats code for readability
+- **Auto-Generated Titles** - AI creates meaningful chat names from your first prompt
+
+### 📊 Comprehensive Diagram Support
+- **Class Diagrams** - Model object-oriented systems
+- **Sequence Diagrams** - Visualize interactions and workflows
+- **Flowcharts** - Map out processes and decision trees
+- **ER Diagrams** - Design database schemas
+- **State Diagrams** - Model system states and transitions
+- **And many more!** - Full Mermaid.js support
+
+### 💻 Desktop-First Experience
+- **Cross-Platform** - Works on Windows, macOS (Apple Silicon), and Linux
+- **Offline Editing** - Edit diagrams without internet (generation requires API)
+- **Native Performance** - Built with Tauri for blazing-fast, lightweight experience
+- **Tiny Size** - Only 4.9 MB DMG (96% smaller than Electron!)
+- **User Authentication** - Save and sync your diagrams with self-hosted API
+- **Multi-Language Interface** - Full support for English and Russian (auto-detected)
+
+### 🎨 Professional Editing Tools
+- **Syntax Highlighting** - Color-coded Mermaid editor
+- **Live Preview** - See changes instantly with debounced rendering
+- **Manual Control** - Run button for precise control over updates
+- **Zoom & Pan** - Navigate large diagrams easily
+- **Export Options** - Save as SVG or PNG
+
+### 🔐 Privacy & Security
+- **Guest Mode** - Try without registration (3 AI requests)
+- **Secure Auth** - Optional self-hosted authentication
+- **Local Storage** - Your data stays on your device in guest mode
+- **API Key Safety** - Environment variables for sensitive data
+- **Data Migration** - Seamless migration from guest to authenticated mode
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/dmitriyg0r/ai-uml-builder/main/demo.gif
 # SITES: https://github.com/dmitriyg0r/ai-uml-builder
