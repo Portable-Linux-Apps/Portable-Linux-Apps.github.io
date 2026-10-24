@@ -28,6 +28,7 @@
 <nav aria-label="Main navigation">
   <a href="/$LANG/index.html">_("Home")</a>
   <a href="/$LANG/apps.html">_("Apps")</a>
+  <a href="/$LANG/recent.html">_("New")</a>
   <a href="/$LANG/index.html#faq">_("FAQ")</a>
   <a href="#">_("Wiki")</a>
   <a href="https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io" class="nav-github-link" target="_blank" rel="noopener noreferrer">
@@ -147,6 +148,7 @@
   <div class="footer-links">
     <a href="/$LANG/index.html">_("Home")</a>
     <a href="/$LANG/apps.html">_("Apps")</a>
+    <a href="/$LANG/recent.html">_("New")</a>
     <a href="/$LANG/index.html#faq">_("FAQ")</a>
     <a href="#">_("Wiki")</a>
   </div>

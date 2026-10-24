@@ -74,6 +74,8 @@ jobs:
           [ $PLA_STATUS -eq 0 ] || { echo "pla-site-tool failed" | tee -a build-log.txt; exit 1; }
           [ $SS_STATUS -eq 0 ] || { echo "imgtool convert-screenshots failed" | tee -a build-log.txt; exit 1; }
 
+          ./gen_recent public 2>&1 | tee -a build-log.txt
+
           [ ! -x ./minify ] && chmod a+x ./minify
           ./minify public 2>&1 | tee -a build-log.txt
 
