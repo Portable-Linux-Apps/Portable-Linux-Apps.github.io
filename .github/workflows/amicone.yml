@@ -1,0 +1,56 @@
+name: "amicone"
+
+on:
+  #schedule:
+  #  - cron: "0 * * * *"
+
+  workflow_dispatch:
+
+  workflow_run:
+    workflows: ["Keep this site sync with AM"]
+    types:
+      - completed
+    branches: main
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  sync-files:
+    name: "Run sync"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Checkout source repository"
+        uses: actions/checkout@v7
+
+      - name: "Install AM"
+        run: |
+          wget -q https://raw.githubusercontent.com/ivan-hc/AM/main/INSTALL && chmod a+x ./INSTALL && sudo ./INSTALL && rm ./INSTALL || exit 1
+
+      - name: "Run AM install"
+        run: |
+          mkdir -p dist
+          for a in apps/*; do a=$(echo "$a" | sed 's#apps/##g'); [ ! -f icons/"$a".png ] && echo "$a" >> missing-icons.txt; done
+          if [ -f missing-icons.txt ]; then
+            ARGS=$(cat missing-icons.txt | xargs)
+            for a in $ARGS; do
+              am -y -i "$a"
+              if [ -d /opt/"$a"/icons ] && [ -n "$(ls -A /opt/"$a"/icons)" ]; then
+                mv /opt/"$a"/icons/* dist/
+              fi
+              am -R "$a"
+            done
+          fi
+         
+      - name: Upload artifact
+        uses: actions/upload-artifact@v7.0.2
+        with:
+          name: Upload icons
+          path: 'dist'
+
+
+
