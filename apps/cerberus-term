@@ -1,0 +1,6 @@
+# cerberus-term
+===
+ A GUI terminal multiplexer with remote control — native panes that run any CLI (Claude Code, Copilot, Codex, aider, a shell), your project's markdown rendered right in the pane, and approve, deny or prompt your AI sessions from your phone over Telegram. Notifications tested on macOS and Windows; Linux is unverified.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/leodudedev/cerberus-term

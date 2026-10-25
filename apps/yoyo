@@ -1,0 +1,6 @@
+# yoyo
+===
+ A local agent workstation: one Go loop, three doors: Wails desktop, browser, and CLI. It writes code, reviews hunks, opens an isolated browser, runs skill packs, and keeps Create, Shorts, Drama, and Canvas in their own folder. Files stay in a folder you pick. A new harness has to pass Harbor before you trust it.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/shenchangxin/yoyo

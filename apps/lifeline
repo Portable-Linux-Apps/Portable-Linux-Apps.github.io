@@ -1,0 +1,6 @@
+# lifeline
+===
+ Desktop resupply planner for disaster response and humanitarian logistics. Compares truck, drone and parachute airdrop delivery on real terrain, OpenStreetMap roads and wind forecasts, with line-of-sight risk, Sentinel-2 flood detection (U-Net, ONNX) and a schedule. Rust engine, Tauri app, CLI.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/sekaikx/lifeline
