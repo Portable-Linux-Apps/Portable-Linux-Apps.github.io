@@ -29,13 +29,15 @@ jobs:
 
       - name: "Install AM"
         run: |
-          wget -q https://raw.githubusercontent.com/ivan-hc/AM/main/INSTALL && chmod a+x ./INSTALL && sudo ./INSTALL && rm ./INSTALL || exit 1
+          for a in apps/*; do a=$(echo "$a" | sed 's#apps/##g'); [ ! -f icons/"$a".png ] && echo "$a" >> missing-icons.txt; done
+          if [ -f missing-icons.txt ]; then
+            wget -q https://raw.githubusercontent.com/ivan-hc/AM/main/INSTALL && chmod a+x ./INSTALL && sudo ./INSTALL && rm ./INSTALL || exit 1
+          fi
 
       - name: "Run AM install"
         run: |
-          mkdir -p dist
-          for a in apps/*; do a=$(echo "$a" | sed 's#apps/##g'); [ ! -f icons/"$a".png ] && echo "$a" >> missing-icons.txt; done
           if [ -f missing-icons.txt ]; then
+            mkdir -p dist
             ARGS=$(cat missing-icons.txt | xargs)
             for a in $ARGS; do
               am -y -i "$a"
