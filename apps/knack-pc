@@ -1,0 +1,6 @@
+# knack-pc
+===
+ Native PC port of Knack (PS4): the game's own x86-64 code runs on the PC, with a PS4 runtime and the shadPS4 Vulkan video core. No emulator.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/abdelmoumendeghbouche/knack_pc

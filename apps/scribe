@@ -1,0 +1,6 @@
+# scribe
+===
+ A lightweight, native GNOME Markdown editor with live preview, built with Rust, GTK4 and libadwaita.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/gnacho/scribe

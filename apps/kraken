@@ -1,0 +1,6 @@
+# kraken
+===
+ Take a program apart and understand it, with a helping hand. KRAKEN is an open-source reverse-engineering workbench built on Ghidra's decompiler, with a Java-free native engine and an optional full Ghidra engine. You, your scripts and AI agents all work on the same project through one set of commands, and every edit is logged, attributed and undoable.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/adam-atlassoftware/kraken

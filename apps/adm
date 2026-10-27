@@ -1,0 +1,6 @@
+# adm
+===
+ ADM (Auto Deploy Model) is built on Tauri 2.x. It presents the complex command line startup instructions of llama.cpp through a simple graphical interface, allowing you to easily deploy and run large language models locally. It has a built-in Agent terminal and supports connecting local models and cloud models to the agent workflow. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/autodeploymentmodel/adm
