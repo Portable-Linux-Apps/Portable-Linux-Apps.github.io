@@ -1,0 +1,35 @@
+/* === New apps page (recent.html) === */
+.recent-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.recent-show-all {
+  display: block;
+  width: 100%;
+  padding: 0.65rem 1rem;
+  background: var(--color-surface);
+  color: var(--color-accent);
+  border: none;
+  border-bottom: 1px solid var(--color-border-subtle);
+  font: inherit;
+  font-size: 0.875rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.recent-show-all:hover {
+  background: var(--color-surface-hover);
+}
+
+.recent-status {
+  padding: 2rem 1rem;
+  text-align: center;
+  color: var(--color-text-muted);
+}
+
+.recent-rss {
+  white-space: nowrap;
+}
