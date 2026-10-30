@@ -1,0 +1,6 @@
+# spiresofazeroth
+===
+ Free WoW Classic roguelike deckbuilder (Slay the Spire-style). Play in your browser: thewowdb.com/spiresofazeroth - or run locally: git clone, then node tools/spires/dev-server.mjs (see README).
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/chrisl252/spiresofazeroth

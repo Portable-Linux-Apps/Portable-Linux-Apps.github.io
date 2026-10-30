@@ -1,0 +1,6 @@
+# antigravity-launcher
+===
+ Process-level agent launcher for the Google Antigravity desktop client. It does not take over the entire network, but only inserts agent information into its process tree at the moment Antigravity is started.  Support Windows, macOS, Linux. TUN is not enabled, the system proxy is not changed, and administrator rights are not required. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/ikaros-521/antigravity-launcher

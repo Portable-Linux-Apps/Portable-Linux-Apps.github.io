@@ -1,0 +1,6 @@
+# thought-desk
+===
+ A fast, local-first Notion alternative built with Rust + Tauri. Block editor, nested pages, full-text search, black-and-white UI, ~115 MB RAM.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/kusule1351-hue/thought-desk

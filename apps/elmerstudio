@@ -1,0 +1,6 @@
+# elmerstudio
+===
+ COMSOL-style model builder (geometry, physics, mesh, study, results) for the Elmer FEM multiphysics solver - Qt/VTK/gmsh, cross-platform.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/altelmer/elmerstudio

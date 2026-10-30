@@ -1,0 +1,6 @@
+# picasso-suite
+===
+ Non-linear video editor written in Rust (egui) with a DaVinci Resolve-style interface: Cut, Edit and Deliver pages, all-format support via FFmpeg, H.264/H.265 export and .drp project import. Windows, Linux and macOS.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/fabox-os/picasso-suite

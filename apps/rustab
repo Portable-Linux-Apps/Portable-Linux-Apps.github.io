@@ -1,0 +1,6 @@
+# rustab
+===
+ View, edit, validate, and back up your fstab entries - atomic writes, automatic backups, and a mandatory diff review before anything touches your real /etc/fstab.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/t0msk/rustab

@@ -1,0 +1,6 @@
+# quarry
+===
+ Quarry is a fast, lightweight desktop database client written in Rust. It delivers the core developer workflow of DataGrip—writing queries, navigating schemas, editing rows with atomic review, and importing/exporting data—without IDE bloat, slow startup, or heavy background resource consumption.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/thekodeking/quarry

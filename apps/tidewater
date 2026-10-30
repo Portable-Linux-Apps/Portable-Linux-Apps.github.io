@@ -1,0 +1,6 @@
+# tidewater
+===
+ A from-scratch Rust reimplementation of the Warcraft II: Battle.net Edition engine (with Beyond the Dark Portal) that runs on your own copy of the game. Campaigns, custom games and LAN play on Windows, macOS, Linux, iOS and Android. No game data included.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/nlwstein/tidewater

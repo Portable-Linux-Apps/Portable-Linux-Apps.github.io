@@ -1,0 +1,6 @@
+# naruto-rise-recomp
+===
+ The game can be drawn by two renderers, available in the executable: the native renderer, the default, which draws the game's Direct3D calls with Direct3D 12 or Vulkan and can present at 60 or 120 FPS, and Xenos, the SDK's emulation of the Xbox 360 GPU, as the alternative.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/jorjbarbosa/naruto-rise-recomp

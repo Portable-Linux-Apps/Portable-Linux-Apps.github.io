@@ -1,0 +1,6 @@
+# agt
+===
+ Local-first multi-agent orchestration. Tell a lead agent a goal: it writes the prompts, creates the agents and MCP tools, and runs the work in a group chat.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/blacsheep/agt

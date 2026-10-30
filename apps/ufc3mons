@@ -1,0 +1,6 @@
+# ufc3mons
+===
+ UFC3MONS is an experimental native Xbox 360 port of UFC Undisputed 3 built with RexGlue. The game boots and runs smoothly in menus, and a shader translation fix restores in-game shadows. Exhibition fights run, but currently suffer from severe slow motion; performance optimization is the next focus.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/monscriser/ufc3mons

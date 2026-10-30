@@ -1,0 +1,6 @@
+# inca
+===
+ A free, open-source 3D modeling, animation and rendering application for the desktop, with the workflow and layout of Autodesk Maya. Inca is a native app written in Rust (egui + wgpu).
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/v3ai/inca

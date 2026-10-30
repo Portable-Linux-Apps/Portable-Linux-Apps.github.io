@@ -1,0 +1,6 @@
+# sonix
+===
+ A native Linux DAW in Rust: channel rack, piano roll, mixer with buses, VST3/CLAP hosting, offline export, and an AI assistant that writes a beat from a sentence. One binary, glibc 2.28+, .deb/.rpm/AppImage.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/alexwest1981/sonix
