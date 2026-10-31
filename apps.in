@@ -15,6 +15,7 @@
   <meta name="twitter:image" content="https://portable-linux-apps.github.io/pla.jpg">
   <meta name="twitter:description" content="_("APPLICATIONS - Portable Linux Apps full app list.")">
   <link rel="canonical" href="https://portable-linux-apps.github.io/$LANG/apps.html">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https://portable-linux-apps.github.io/","name":"Home","position":1},{"@type":"ListItem","item":"https://portable-linux-apps.github.io/$LANG/apps.html","name":"Apps","position":2}]}</script>
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="preconnect" href="/apps.json">

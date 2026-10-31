@@ -49,7 +49,7 @@
   outline-offset: -2px;
 }
 
-.faq-page summary h2 {
+.faq-page summary h3 {
   margin: 0;
   font-size: 1rem;
   font-weight: 600;
@@ -151,8 +151,8 @@
   margin-bottom: 1rem;
 }
 
-.faq-page h3 {
-  font-size: 1.125rem;
+.faq-page h4 {
+  font-size: 0.9375rem;
   font-weight: 600;
   margin-top: 1.5rem;
   margin-bottom: 0.75rem;
