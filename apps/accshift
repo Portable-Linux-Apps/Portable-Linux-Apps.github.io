@@ -1,6 +1,73 @@
 # Accshift
 ===
- Fast and lightweight account switcher for Steam, Valorant & League of Legends (Riot), Battle.net, Epic Games, Ubisoft Connect, Roblox, GOG and Discord.
+Fast and lightweight account switcher for Steam, Valorant & League of Legends (Riot), Battle.net, Epic Games, Ubisoft Connect, Roblox, GOG and Discord.
+
+## Features
+
+- **One-click switching** from the grid, or from the `Ctrl+K` (`Cmd+K` on macOS) command palette
+  without touching the mouse.
+- **Personas** group one account per platform under a single identity and
+  switch them all at once.
+- **Streamer mode** blurs account names and avatars while OBS, Streamlabs,
+  XSplit, Wirecast or Twitch Studio is running.
+- **CLI and deep links** (`accshift://`) for scripts, Stream Deck and
+  automation.
+- Optional **PIN lock**, on launch and after a period of inactivity.
+- **7 languages**: English, Spanish, French, Portuguese, Brazilian Portuguese,
+  Russian and Simplified Chinese.
+
+### Organize a large library
+
+Folders, search, drag and drop reordering, card colors and private notes for
+large account collections.
+
+### Every launcher, every theme
+
+The same grid for each platform, in Light, Dark or Midnight, with light and
+dark acrylic variants and an experimental Liquid Glass theme. Themes are files
+you can edit, import and export ([docs/theming.md](./docs/theming.md)).
+
+### Steam goes further
+
+- Copy any game's settings from one account to another.
+- Copy account info in one click: username, SteamID64, CS2 friend code,
+  profile URL.
+- **Bulk edit** several accounts at once: hide the game news popup at launch,
+  toggle do not disturb, set launch options for any game.
+- Game and community ban tracking.
+- Switch in online or invisible mode, or switch and launch a game directly
+  (the last game chosen is remembered).
+- **CS2 Bridge**: let an app that tracks your accounts show CS2 level, XP
+  progression and the weekly drop inside accshift. See
+  [CS2-Bridge](https://github.com/klNuno/accshift/wiki/CS2-Bridge).
+
+## CLI
+
+`accshift` also ships as a command-line binary for scripts, Stream Deck macros
+and AI automation. It reads and writes the same config as the GUI, and running
+both at once is safe thanks to an exclusive lock on mutating operations.
+
+```bash
+accshift platforms                       # platforms known to this build
+accshift list <platform>                 # accounts for a platform
+accshift switch <platform> <account-id>  # switch, same as a click in the app
+```
+
+Output is a table in a terminal and JSON when piped, so scripts get a stable
+contract without an extra flag. Install steps, every flag, the versioned JSON
+envelope and the exit codes are in [docs/cli.md](./docs/cli.md).
+
+## Privacy
+
+- **No passwords.** accshift saves the session state needed to restore an
+  account, session cookies included where required, and nothing else.
+- **Encrypted at rest** with what the OS provides: DPAPI on Windows, Secret
+  Service on Linux, Keychain on macOS. The threat model and what the PIN lock
+  covers are in the [security policy](https://github.com/klNuno/accshift/blob/main/.github/SECURITY.md).
+- **Telemetry is anonymous counters, opt-out, plus an enhanced tier you opt
+  into.** Two switches in Settings, Privacy; both off and nothing is ever sent
+  again. Nothing is sent before you answer the first-launch screen, and no
+  feature depends on it.
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://raw.githubusercontent.com/klNuno/accshift/main/.github/assets/demo-switch.webp https://raw.githubusercontent.com/klNuno/accshift/main/.github/assets/demo-organize.webp https://raw.githubusercontent.com/klNuno/accshift/main/.github/assets/demo-themes.webp
 # SITES: https://github.com/klnuno/accshift
