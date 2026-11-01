@@ -115,10 +115,10 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v5
 
-      - name: Restore previous sitemap
+      - name: Restore previous sitemaps
         uses: actions/cache/restore@v6
         with:
-          path: .cache/sitemap-prev.xml
+          path: .cache/sitemap-prev
           key: sitemap-prev-${{ github.run_id }}
           restore-keys: |
             sitemap-prev-
@@ -129,9 +129,15 @@ jobs:
 
           KEY=${{ secrets.INDEXNOW_KEY }}
 
-          grep -oP '(?<=<loc>)[^<]+' public/sitemap.xml | sort > /tmp/new.txt
+          grep -hoP '(?<=<loc>)[^<]+' public/sitemap.xml public/sitemap-apps.xml | sort -u > /tmp/new.txt
           if [ -f .cache/sitemap-prev.xml ]; then
-            grep -oP '(?<=<loc>)[^<]+' .cache/sitemap-prev.xml | sort > /tmp/old.txt
+            # Written before the sitemap was split: a single file that already
+            # held every URL, so the first run after the split diffs against a
+            # complete baseline instead of resubmitting the whole site.
+            # Removable once that run has happened.
+            grep -hoP '(?<=<loc>)[^<]+' .cache/sitemap-prev.xml | sort -u > /tmp/old.txt
+          elif ls .cache/sitemap-prev/*.xml >/dev/null 2>&1; then
+            grep -hoP '(?<=<loc>)[^<]+' .cache/sitemap-prev/*.xml | sort -u > /tmp/old.txt
           else
             touch /tmp/old.txt
           fi
@@ -155,14 +161,18 @@ jobs:
             echo "No new/changed URLs to submit to IndexNow" | tee -a build-log.txt
           fi
 
-          mkdir -p .cache
-          cp public/sitemap.xml .cache/sitemap-prev.xml
+          # Cache both sitemaps as the valid XML files they are. The diff only
+          # needs the URLs, but caching the source rather than a derived list
+          # keeps this readable and lets either file be inspected by hand.
+          rm -rf .cache/sitemap-prev
+          mkdir -p .cache/sitemap-prev
+          cp public/sitemap.xml public/sitemap-apps.xml .cache/sitemap-prev/
 
-      - name: Save current sitemap for next run
+      - name: Save current sitemaps for next run
         if: always()
         uses: actions/cache/save@v6
         with:
-          path: .cache/sitemap-prev.xml
+          path: .cache/sitemap-prev
           key: sitemap-prev-${{ github.run_id }}
 
       - name: Upload Build Log
