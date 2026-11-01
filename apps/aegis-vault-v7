@@ -1,6 +1,8 @@
 # Aegis Vault V7
 ===
- Kalderashield — Zero-knowledge, offline-first password manager. AEAD-authenticated AES-256-GCM with Argon2id (OWASP-aligned parameters). 2100+ tests. 100% open source — no servers, no accounts.
+**KalderaShield** is a next-generation, local-first password manager engineered for complete data sovereignty. Built with **React 19, TypeScript, Rust (Tauri 2), WebCrypto, wa-sqlite (OPFS), and Manifest V3 WebExtensions**, KalderaShield guarantees that your master keys, credentials, notes, passkeys, and attachments remain strictly on your device under your complete control.
+
+Unlike cloud-dependent password managers vulnerable to server breaches and key-escrow attacks, KalderaShield uses **at-rest field encryption**, **per-item HKDF key derivation**, **closed Shadow DOM UI isolation**, and **hardware-backed biometric protection**.
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: Main_View::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/aegis-vault-v7/1.webp
 # SITES: https://github.com/hafgit99/aegis-vault-v7
