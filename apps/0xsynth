@@ -16,5 +16,5 @@ Multi-engine synthesizer (subtractive/FM/wavetable) — CLAP/VST3 plugin + stand
 - **MPE support** — per-note pitch bend, pressure, slide
 - **2x/4x oversampling** — reduces aliasing in oscillators
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: Dark_Recording_Settings::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/0xsynth/0.webp Light_User_Presets::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/0xsynth/1.webp Midnight_FM::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/0xsynth/2.webp Vaporwave_Wavetable::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/0xsynth/3.webp
 # SITES: https://github.com/averagenative/0xsynth
