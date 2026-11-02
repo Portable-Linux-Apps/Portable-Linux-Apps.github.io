@@ -1,6 +1,23 @@
 # 0x808
 ===
- Drum machine & synth workstation — C11 audio engine, step sequencer, FM/subtractive/wavetable synthesis. Standalone (SDL2), VST3, CLAP plugin.
+A standalone drum machine, step sequencer, and synthesizer — also available as a VST3/CLAP plugin and a GTK 4.0 native Linux frontend. 72 bundled drum samples, 50 synth presets, pattern-based arrangement, and offline WAV/MP3 export. All dependencies vendored, zero external runtime dependencies.
+
+## Features
+
+- **Drum grid** — 16-track step sequencer with velocity, pitch per step, mute/solo
+- **Piano roll** — melodic note editing with variable-length notes
+- **3 synthesis modes** — subtractive, FM (4-op), and wavetable with 50 presets
+- **SoundFont support** — load .sf2 files via TinySoundFont
+- **Sample browser** — load WAV/MP3/FLAC samples, 72 bundled CC0 drum samples
+- **Song arrangement** — pattern chaining with song/perform modes
+- **Effects** — per-track and master bus filter, delay, reverb, overdrive, fuzz, chorus
+- **Export** — offline render to WAV (16/24/32-bit) and MP3 (128-320k)
+- **Project save/load** — JSON-based .sqproj format
+- **Undo/redo** — Ctrl+Z / Ctrl+Shift+Z with 32 levels
+- **Swing/shuffle** — per-transport swing control (0-100%)
+- **Velocity humanization** — per-track random velocity variation
+- **Pattern presets** — 12 drum patterns + 10 bass lines (House, Trap, DnB, Lo-fi, etc.)
+- **Multiple frontends** — ImGui (standalone + plugin) and GTK 4.0 (Linux native)
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: Animated_Demo::https://github.com/averagenative/0x808/raw/main/0x808_demo.gif GTK::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/0x808/1.webp Light_Theme::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/0x808/2.webp Dark_Theme::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/0x808/3.webp Hacker_Theme::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/0x808/4.webp
 # SITES: https://github.com/averagenative/0x808

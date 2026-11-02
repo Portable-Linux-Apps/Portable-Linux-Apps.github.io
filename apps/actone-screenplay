@@ -1,6 +1,23 @@
 # Actone Screenplay
 ===
- A professional screenplay writing software for Windows and Linux. Built for writers by a writer.
+ActOne is an open-source Fountain screenplay editor for Windows and Linux, created by a filmmaker for writers. It provides a focused writing environment, uses plain-text Fountain files, and stores projects in portable `.actone` bundles.
+
+## Features
+
+- Fountain editing with live syntax highlighting
+- Character, scene, location, and transition autocomplete
+- Keyboard-driven formatting and scene navigation
+- Outline view with sections, synopses, scene colors, and storylines
+- Multi-script `.actone` projects
+- Local snapshots stored in each project's `.snapshots/` directory
+- Optional offline spellcheck with downloadable dictionaries
+- Import from PDF (`.pdf`), Final Draft (`.fdx`), Fade In (`.fadein`), Fountain, and text
+- Export to PDF, FDX, Fade In, and Fountain
+- Title page editor and structure templates
+- X-Ray screenplay analysis
+- Writing sprints, tasks, markers, parking, and notepad tools
+- Custom themes
+- Optional UrAI AI support with AI Model Palette (Ollama or OpenAI-compatible)
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: Editor::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/actone-screenplay/1.webp Outline_Navigator::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/actone-screenplay/2.webp Multi-Script_Projects::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/actone-screenplay/3.webp X-Ray::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/actone-screenplay/4.webp UrAI_AI_Support::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/actone-screenplay/5.webp Exporting::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/actone-screenplay/6.webp
 # SITES: https://github.com/beetlebot/actone-screenplay

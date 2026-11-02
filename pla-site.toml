@@ -22,7 +22,7 @@ include = "android|platform-tools"
 name = "audio"
 
 [categories.pattern]
-include = "audio|matroska|music|midi|mp3|opus|soundboard"
+include = "audio|matroska|music|midi|mp3|opus|soundboard|wavetable|synthesizer"
 
 [[categories]]
 name = "comic"

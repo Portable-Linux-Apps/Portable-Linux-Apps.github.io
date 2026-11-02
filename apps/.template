@@ -8,7 +8,7 @@ you can only use **bold**, *italic*, ++underline++, lists, headings, table, code
 - use SOURCES field if you package someone else's app
 ===
 
-# SCREENSHOTS: https://Portable-Linux-Apps.github.io/contribute_ss.webp
+# SCREENSHOTS: Contribute_Screenshot::https://Portable-Linux-Apps.github.io/contribute_ss.webp
 # SITES: https://someapp.io
 # SOURCES: https://github.com/name/someapp-appimage
 # BUTTONS: Label_of_Button::https://discord.gg Donation_Link::https://someapp.io/donate

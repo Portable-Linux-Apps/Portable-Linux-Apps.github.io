@@ -1,6 +1,7 @@
-# skippy-xd
+# Skippy-xd
 ===
- A lightweight, window-manager agnostic window selector for X11 with Expose/Exposé and more.
+Skippy-xd is a lightweight, window-manager-agnostic window selector on the X server. With skippy-xd, you get live-preview on your alt-tab motions; you get the much coveted expose feature from Mac; you get a handy overview of all your virtual desktops in one glance with paging mode.
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: Alt-Tab_Switch::https://github.com/felixfung/skippy-xd-gifs/blob/main/switch.gif Expose::https://github.com/felixfung/skippy-xd-gifs/blob/main/expose.gif Paging::https://github.com/felixfung/skippy-xd-gifs/blob/main/paging.gif
 # SITES: https://github.com/felixfung/skippy-xd
+# BUTTONS: YouTube_Channel::https://www.youtube.com/@skippy-xd

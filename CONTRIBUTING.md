@@ -50,6 +50,16 @@ you can only use **bold**, *italic*, ++underline++, lists, headings, table, code
 - `SOURCES` — if you are packaging someone else's app, link the git repo(s) here.
 - `BUTTONS` — space separated button definitions in the form of `Button_Title::URL`, e.g. a donation link.
 
+### Screenshot alt text
+
+A screenshot may carry its own alt text, written the same way as a button: `Alt_text::URL`. Underscores in the alt text stand for spaces, because the list is space separated.
+
+```
+# SCREENSHOTS: The_main_window::https://example.com/1.webp Preferences::https://example.com/2.webp
+```
+
+Alt text is what a screen reader announces and what shows when the image fails to load, so describe what the screenshot shows rather than repeating the app name. An entry written as a bare URL keeps the generated fallback, so adding alt text is optional and per screenshot.
+
 ## Add icons
   - Icons must be in PNG format and have the same name as the app (for example, the app `tizio` will have the icon `icons/tizio.png`, all lowercase)
   - Icons must be 128x128 pixels or smaller

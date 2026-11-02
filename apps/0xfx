@@ -1,6 +1,10 @@
 # 0xfx
 ===
- Guitar amp simulator & effects pedalboard — open source, cross-platform (CLAP/VST3).
+**Guitar amp simulator & effects pedalboard — open source, cross-platform**
+
+Real-time guitar effects processor and amp simulator. Standalone app + CLAP/VST3 plugins. Pure C99 DSP engine with skeuomorphic GUI. Circuit-accurate tone stacks modeled from real amplifier schematics.
+
+**12 amp models** (circuit-modeled from real schematics) | **41 effect pedals** | **9 rack processors** | **10 mic models** | **137 automatable parameters** | **32 factory presets**
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: Main_View::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/0xfx/1.webp Preset_Browser::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/0xfx/2.webp amp_selector::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/0xfx/3.webp Looper_Panel::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/0xfx/4.webp Theme_Selector::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/0xfx/5.webp Rack_Effects::https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/0xfx/6.webp
 # SITES: https://github.com/averagenative/0xfx
