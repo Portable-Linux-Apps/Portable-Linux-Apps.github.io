@@ -1,0 +1,6 @@
+# dw5xl-recomp
+===
+ A native PC port of Dynasty Warriors 5: Xtreme Legends for the PlayStation 2, built with PS2Recomp: the game's code is translated into C++ and runs natively, with graphics on Vulkan through paraLLEl-GS. Windows and Linux releases build the game on your PC from your own disc.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/theslackbringer/dw5xl-recomp

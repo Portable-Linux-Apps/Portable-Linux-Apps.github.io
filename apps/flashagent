@@ -1,0 +1,6 @@
+# flashagent
+===
+ The coding agent built for local models. One native binary for your terminal that finds the model your local server has loaded, and tells you whether that model can actually drive tools.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/flashback7766/flashagent
