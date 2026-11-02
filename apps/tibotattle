@@ -1,0 +1,6 @@
+# tibotattle
+===
+ Privacy-first monitoring for Codex allowance value. TiboTattle reads the session metadata that Codex already stores on your Mac, reconstructs your usage at standard API prices, and compares it with the quota movement your provider reports — so you can see where your allowance stands.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/adamallcock/tibotattle

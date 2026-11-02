@@ -1,0 +1,6 @@
+# bpmninja
+===
+ Lean BPMN 2.0 workflow engine in Rust — token-based execution, NATS JetStream persistence, Axum REST API, Rhai scripting and a Tauri desktop UI with bpmn-js. Camunda-compatible external tasks, ISO 8601 timers, incident management.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/maatini/bpmninja

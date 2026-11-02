@@ -1,0 +1,6 @@
+# circuitrf
+===
+ Full featured RF circuit + electromagnetic simulator.  DC, S-parameters, harmonic balance, loadpull, envelope. Also supports 2D and 3D layout and design and electromagnetic MoM, FEM, FDTD + thermal FEM.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/potatobeanradio/circuitrf
