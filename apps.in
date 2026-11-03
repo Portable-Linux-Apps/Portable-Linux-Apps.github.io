@@ -69,9 +69,26 @@
 
   <div id="app-list" data-json="/apps.json"></div>
   <div id="lang" style="display: none;">$LANG</div>
+  <div id="i18n" hidden>
+    <span data-key="install">_("Install")</span>
+    <span data-key="installHint">_("If this does not work, see FAQ#1")</span>
+    <span data-key="installHintApp">_("If this button doesn't work, see FAQ #1")</span>
+    <span data-key="howToInstall">_("How to install?")</span>
+    <span data-key="rankExact">_("Exact match")</span>
+    <span data-key="rankName">_("Name match")</span>
+    <span data-key="rankDesc">_("Description match")</span>
+    <span data-key="noneFound">_("No applications found")</span>
+    <span data-key="noneMatching">_("No applications found matching &quot;{0}&quot;")</span>
+    <span data-key="hintArch">_("Try selecting &quot;All architectures&quot; or broadening your search keywords.")</span>
+    <span data-key="hintTypos">_("Check for typos or try searching with different keywords.")</span>
+    <span data-key="clear">_("Clear search")</span>
+    <span data-key="results">_("{0} results")</span>
+    <span data-key="loadFailed">_("Failed to load apps.")</span>
+  </div>
 </section>
 
 <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
+<script src="/assets/js/i18n.js?v=1"></script>
 <script src="/assets/js/script.js?v=3"></script>
 
 </main>
