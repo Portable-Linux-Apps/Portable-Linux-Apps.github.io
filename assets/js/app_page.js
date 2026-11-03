@@ -1,4 +1,19 @@
 (function() {
+  // The install button is emitted by the generator in English: relabel it from the page strings.
+  var btn = document.querySelector('a[href^="pla-install://"]');
+  if (btn) {
+    btn.textContent = tr('install');
+    btn.title = tr('installHintApp');
+    var info = btn.parentNode.querySelector('.install-info');
+    if (info) info.title = tr('howToInstall');
+  }
+
+  // Section headings emitted by the generator: the key is the English heading, lowercased.
+  document.querySelectorAll('.gallery > h2, .app-links-section > h2').forEach(function(h) {
+    var label = tr(h.textContent.trim().toLowerCase());
+    if (label !== h.textContent.trim().toLowerCase()) h.textContent = label;
+  });
+
   var galImg = document.getElementById('gal-img');
   var galPrev = document.getElementById('gal-prev');
   var galNext = document.getElementById('gal-next');

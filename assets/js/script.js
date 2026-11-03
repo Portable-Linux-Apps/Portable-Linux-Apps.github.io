@@ -1,5 +1,5 @@
 var appNodes = [];
-var RANK_LABELS = ['Exact match', 'Name match', 'Name match', 'Description match'];
+var RANK_KEYS = ['rankExact', 'rankName', 'rankName', 'rankDesc'];
 
 function getUrlParam(name) {
   return new URLSearchParams(window.location.search).get(name) || '';
@@ -56,7 +56,7 @@ function renderApps(data) {
     html += '<a href="https://github.com/ivan-hc/AM/blob/main/programs/' + encodeURIComponent(arch_value) + '/' + encodeURIComponent(scriptName) + '" class="install-blob" data-script="' + encodeURIComponent(scriptName) + '">blob</a>';
     html += '<a href="https://raw.githubusercontent.com/ivan-hc/AM/main/programs/' + encodeURIComponent(arch_value) +'/' + encodeURIComponent(scriptName) + '" class="install-raw" data-script="' + encodeURIComponent(scriptName) + '">raw</a>';
     html += '</div>';
-    html += '<a class="app-install-btn" href="pla-install://' + encodeURIComponent(app.name) + '" title="If this does not work, see FAQ#1">Install</a>';
+    html += '<a class="app-install-btn" href="pla-install://' + encodeURIComponent(app.name) + '" title="' + tr('installHint') + '">' + tr('install') + '</a>';
     html += '</div>';
     html += '</div>';
   }
@@ -164,8 +164,8 @@ document.addEventListener('DOMContentLoaded', function() {
           var emptyDiv = document.createElement('div');
           emptyDiv.className = 'search-empty-state';
           var rawTerm = input ? input.value.trim() : '';
-          var message = rawTerm ? 'No applications found matching "' + escapeHtml(rawTerm) + '"' : 'No applications found';
-          var subMessage = selectedArch ? 'Try selecting "All architectures" or broadening your search keywords.' : 'Check for typos or try searching with different keywords.';
+          var message = rawTerm ? tr('noneMatching', escapeHtml(rawTerm)) : tr('noneFound');
+          var subMessage = selectedArch ? tr('hintArch') : tr('hintTypos');
           emptyDiv.innerHTML =
             '<div class="search-empty-icon">' +
               '<svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">' +
@@ -176,7 +176,7 @@ document.addEventListener('DOMContentLoaded', function() {
             '</div>' +
             '<h3>' + message + '</h3>' +
             '<p class="search-empty-hint">' + subMessage + '</p>' +
-            '<button type="button" class="search-empty-reset">Clear search</button>';
+            '<button type="button" class="search-empty-reset">' + tr('clear') + '</button>';
 
           emptyDiv.querySelector('.search-empty-reset').addEventListener('click', function() {
             if (input) input.value = '';
@@ -191,7 +191,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         list.style.display = '';
-        if (countEl) countEl.textContent = matched.length + ' results';
+        if (countEl) countEl.textContent = tr('results', matched.length);
 
         if (terms.length) {
           matched.sort(function(a, b) {
@@ -203,7 +203,7 @@ document.addEventListener('DOMContentLoaded', function() {
         for (var m = 0; m < matched.length; m++) {
           var entry = matched[m];
           if (terms.length) {
-            var label = RANK_LABELS[entry.rank];
+            var label = tr(RANK_KEYS[entry.rank]);
             if (label !== lastLabel) {
               var heading = document.createElement('div');
               heading.className = 'app-group-heading';
@@ -241,6 +241,6 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     })
     .catch(function(err) {
-      document.getElementById('app-list').innerHTML = '<p>Failed to load apps.</p>' + err;
+      document.getElementById('app-list').innerHTML = '<p>' + tr('loadFailed') + '</p>' + err;
     });
 });
