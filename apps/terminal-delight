@@ -1,0 +1,6 @@
+# terminal-delight
+===
+ Style-first native terminal for Linux and Omarchy, in Rust on gpui + rio-vt. Tiling panes, tabs and CRT-flavored themes; sessions and half-written prompts outlive the window, and the Workbench reads coding agents' own transcripts. AppImage or source.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/parker-brown-family/terminal-delight

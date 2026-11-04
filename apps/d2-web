@@ -1,0 +1,6 @@
+# d2-web
+===
+ Play Diablo II: Lord of Destruction in your browser — the 1.13c engine reimplemented in C++ and compiled to WebAssembly. Bring your own game files.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/virtastic/d2-web

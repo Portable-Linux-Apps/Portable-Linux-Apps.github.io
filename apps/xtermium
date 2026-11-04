@@ -1,0 +1,6 @@
+# xtermium
+===
+ Terminal and session manager for Windows, Linux and Mac: SSH, SFTP, RDP, VNC, telnet, serial, WinRM, BMC consoles and tunnels in tabs and split panes. Encrypted on disk, with an MCP server and CLI so AI agents run commands without seeing passwords. Rust, Apache-2.0.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/xtermium/xtermium

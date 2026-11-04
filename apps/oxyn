@@ -1,0 +1,6 @@
+# oxyn
+===
+ Native Tauri database workspace for SQL exploration, metadata, results and privacy-aware AI assistance. Rust core with PostgreSQL, MySQL/MariaDB and SQLite drivers; signed macOS and Linux builds with in-app updates.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/so-keyldzn/oxyn
