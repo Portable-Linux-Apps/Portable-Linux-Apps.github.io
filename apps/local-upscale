@@ -1,0 +1,6 @@
+# local-upscale
+===
+ Free, open-source desktop app for offline AI image and video upscaling, denoising and restoration. Runs entirely on your machine: macOS (Metal), Windows and Linux. Tauri + Svelte host, PyTorch engine. Beta.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/herrei/local-upscale

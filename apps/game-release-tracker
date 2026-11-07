@@ -1,0 +1,6 @@
+# game-release-tracker
+===
+ Local-first desktop app (Electron, React, TypeScript, SQLite): syncs release data from a public API into a local database, keeps a personal journal and builds a yearly analytics recap. 538 tests, CI, Windows + Linux releases.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/hachi23/game-release-tracker

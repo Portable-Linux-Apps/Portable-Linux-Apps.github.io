@@ -1,0 +1,6 @@
+# ant-renamer-qt
+===
+ Ant Renamer Qt: cross-platform batch file renamer in C++20/Qt 6 for Windows and Linux. Regular expressions, EXIF/IPTC/XMP and ID3 metadata, natural sorting, sidecar files, renaming history. Based on Ant Renamer by Antoine Potten, with his agreement.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/morfredus/ant-renamer-qt

@@ -1,0 +1,6 @@
+# serialarm-core
+===
+ The C++17 dynamics kernel for serial robotic arms decouples the robot model, hardware interface and upper-layer framework, provides rigid body dynamics calculation, gravity compensation and dynamics calibration, and is equipped with the SerialArm Studio workbench to support ROS 2 access and cross-project reuse..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/kaede-rei/serialarm-core
