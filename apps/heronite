@@ -1,6 +1,19 @@
 # Heronite
 ===
- A light linux game launcher, written in Rust. Steam, Epic Games, emulated and Windows games in one library, with play time stats and a console mode.
+Every game you own, in one fast native launcher. Heronite brings your games from Steam, Epic Games, GOG, Amazon Games, Battle.net, EA app, Ubisoft Connect and Rockstar Games, plus emulated, native Linux and Windows games, into one Collection. It launches them natively, through Wine/Proton or through an emulator, and records every session. It is written in Rust and rendered on the GPU, so it stays light on your PC.
+
+## Features
+- **Collection:** a list with details or a grid of covers, grouped by status, store, genre, series or year, with screenshots, How Long To Beat, achievements and a play timeline.
+- **Stores:** log in to Epic Games, GOG and Amazon Games to install, update, repair or move games from one download queue. Your Steam library comes in by itself.
+- **Imports:** bring your games from Heroic, Lutris, Bottles and Faugus.
+- **Wine and Proton:** per-game version and prefix, DXVK, gamescope, FPS limit, DLSS/FSR upgrades, Winetricks and a Wine Manager to download Proton-CachyOS, GE-Proton and other builds.
+- **Emulators:** detected automatically or added with RetroArch cores, with ROM scanning and save states.
+- **In-game overlay:** volume, screenshots, notes and live FPS limits over the game.
+- **Statistics:** play time by week, month or year, a yearly backlog goal and a Year in review.
+- **Console mode:** a controller-first interface with eight layouts and shareable themes.
+- **Backups and sync:** Ludusavi save backups after each session, and status, play time and notes synced across your PCs.
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
-# SITES: https://github.com/rafaelgoulartb/heronite
+# SCREENSHOTS: Collection_in_Focus_view_with_ELDEN_RING_selected::https://raw.githubusercontent.com/RafaelGoulartB/Heronite/main/assets/screenshots/collection.webp Command_palette_searching_for_a_game::https://raw.githubusercontent.com/RafaelGoulartB/Heronite/main/assets/screenshots/command-palette.webp Per-game_Proton_version_and_prefix_settings::https://raw.githubusercontent.com/RafaelGoulartB/Heronite/main/assets/screenshots/game-settings-proton.webp Wine_Manager_listing_Proton-CachyOS_builds::https://raw.githubusercontent.com/RafaelGoulartB/Heronite/main/assets/screenshots/wine-manager-builds.webp Statistics_overview_with_a_day-by-day_play_time_chart::https://raw.githubusercontent.com/RafaelGoulartB/Heronite/main/assets/screenshots/statistics.webp Year_in_review_intro_story::https://raw.githubusercontent.com/RafaelGoulartB/Heronite/main/assets/screenshots/year-in-review.webp Console_mode_home_with_a_Continue_playing_shelf::https://raw.githubusercontent.com/RafaelGoulartB/Heronite/main/assets/screenshots/console-home.webp Console_mode_game_page_for_ELDEN_RING::https://raw.githubusercontent.com/RafaelGoulartB/Heronite/main/assets/screenshots/console-game.webp Console_mode_theme_settings_with_a_live_preview::https://raw.githubusercontent.com/RafaelGoulartB/Heronite/main/assets/screenshots/console-settings.webp
+# SITES: https://github.com/RafaelGoulartB/Heronite
+# SOURCES: 
+# BUTTONS: Website::https://heronite.app Wiki::https://github.com/RafaelGoulartB/Heronite/wiki
