@@ -1,0 +1,6 @@
+# cliodeck-app
+===
+ Desktop application (Electron + React + TypeScript) for the full historian workflow: explore → brainstorm → write → export, with RAG, Zotero, Tropy, Obsidian integrations, and a local-first footprint.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/cliodeck/cliodeck-app

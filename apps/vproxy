@@ -1,0 +1,6 @@
+# vproxy
+===
+ A high-performance modern cross-platform agent workstation written in Rust + egui: collects subscriptions, parses nodes, drives six agent cores (Mihomo, sing-box, VP-Core, Xray, Meow, Shoes), and measures agent availability and latency. .
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/mateo-ki/vproxy

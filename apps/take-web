@@ -1,0 +1,6 @@
+# take-web
+===
+ Fast, privacy-focused Linux browser built with Rust, GTK4, and WebKitGTK 6. Features built-in offline neural translation (Bergamot WASM), anti-fingerprinting, and a tiny memory footprint.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/dezaetterg/take-web

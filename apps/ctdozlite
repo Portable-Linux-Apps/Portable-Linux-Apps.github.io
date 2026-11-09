@@ -1,0 +1,6 @@
+# ctdozlite
+===
+ The Zalo Desktop client is written in Rust (eframe/egui + ratatui) and communicates directly with the Zalo Web/PC API and WebSocket system without going through Electron or Chromium.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/ctdoteam1110/ctdozlite
