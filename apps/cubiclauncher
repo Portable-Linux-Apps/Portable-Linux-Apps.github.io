@@ -2,24 +2,24 @@
 
 ===
 
-CubicLauncher es un launcher de código abierto para Minecraft: Java Edition, desarrollado con Rust y Tauri v2. Permite organizar diferentes instalaciones del juego mediante instancias independientes, cada una con sus propias versiones, configuraciones, mods, paquetes de recursos, shaders, mundos y listas de servidores.
+CubicLauncher is an open-source launcher for Minecraft: Java Edition, developed using Rust and Tauri v2. It allows users to organize multiple game installations through independent instances, each with its own versions, configurations, mods, resource packs, shaders, worlds, and server lists.
 
-## Características
+## Features
 
-- **Gestión de instancias:** Crea, configura, importa, exporta y administra distintas instalaciones de Minecraft.
-- **Soporte de versiones:** Instala Minecraft Vanilla y utiliza los modloaders Fabric, Forge, Quilt y NeoForge.
-- **Gestión de contenido:** Busca e instala mods, paquetes de recursos y shaders desde Modrinth y CurseForge. También permite importar modpacks.
-- **Administración de Java:** Selecciona versiones y proveedores de Java, configura la memoria asignada al juego y consulta sus registros.
-- **Gestión de cuentas:** Inicia sesión mediante Microsoft, cuentas Yggdrasil o perfiles sin conexión.
-- **Personalización:** Modifica la apariencia del launcher mediante temas y personaliza diferentes elementos de la interfaz.
-- **Migración:** Importa instalaciones existentes de otros launchers, incluyendo el launcher oficial de Minecraft, MultiMC y sus derivados, XMCL y SKLauncher 4.
+- **Instance Management:** Create, configure, import, export, and manage multiple Minecraft installations.
+- **Version Support:** Install Vanilla Minecraft and use modloaders such as Fabric, Forge, Quilt, and NeoForge.
+- **Content Management:** Browse and install mods, resource packs, and shaders from Modrinth and CurseForge. Modpack imports are also supported.
+- **Java Management:** Select Java versions and distributions, configure the memory allocated to the game, and access game logs.
+- **Account Management:** Sign in using Microsoft accounts, Yggdrasil accounts, or offline profiles.
+- **Customization:** Change the launcher's appearance with themes and customize various interface elements.
+- **Migration:** Import existing installations from other launchers, including the official Minecraft Launcher, MultiMC and its derivatives, XMCL, and SKLauncher 4.
 
 ===
 
-# SCREENSHOTS: Vista_de_instancia::https://raw.githubusercontent.com/CubicLauncherDevs/CubicLauncher/develop/.github/screenshots/instancia.png Pantalla_principal::https://raw.githubusercontent.com/CubicLauncherDevs/CubicLauncher/develop/.github/screenshots/inicio.png Crear_instancia::https://raw.githubusercontent.com/CubicLauncherDevs/CubicLauncher/develop/.github/screenshots/crear-instancia.png Descargar_versiones::https://raw.githubusercontent.com/CubicLauncherDevs/CubicLauncher/develop/.github/screenshots/descargar-versiones.png Explorar_contenido::https://raw.githubusercontent.com/CubicLauncherDevs/CubicLauncher/develop/.github/screenshots/explorar-contenido.png Mods_instalados::https://raw.githubusercontent.com/CubicLauncherDevs/CubicLauncher/develop/.github/screenshots/mods-instalados.png Cuentas::https://raw.githubusercontent.com/CubicLauncherDevs/CubicLauncher/develop/.github/screenshots/perfil-cuentas.png Ajustes::https://raw.githubusercontent.com/CubicLauncherDevs/CubicLauncher/develop/.github/screenshots/ajustes.png
+# SCREENSHOTS: Instance_View::https://raw.githubusercontent.com/CubicLauncherDevs/CubicLauncher/develop/.github/screenshots/instancia.png Main_Screen::https://raw.githubusercontent.com/CubicLauncherDevs/CubicLauncher/develop/.github/screenshots/inicio.png Create_Instance::https://raw.githubusercontent.com/CubicLauncherDevs/CubicLauncher/develop/.github/screenshots/crear-instancia.png Download_Versions::https://raw.githubusercontent.com/CubicLauncherDevs/CubicLauncher/develop/.github/screenshots/descargar-versiones.png Browse_Content::https://raw.githubusercontent.com/CubicLauncherDevs/CubicLauncher/develop/.github/screenshots/explorar-contenido.png Installed_Mods::https://raw.githubusercontent.com/CubicLauncherDevs/CubicLauncher/develop/.github/screenshots/mods-instalados.png Accounts::https://raw.githubusercontent.com/CubicLauncherDevs/CubicLauncher/develop/.github/screenshots/perfil-cuentas.png Settings::https://raw.githubusercontent.com/CubicLauncherDevs/CubicLauncher/develop/.github/screenshots/ajustes.png
 
 # SITES: https://cubiclauncher.org/
 
 # SOURCES: https://github.com/CubicLauncherDevs/CubicLauncher
 
-# BUTTONS: Descargar_ultima_version::https://github.com/CubicLauncherDevs/CubicLauncher/releases/latest
+# BUTTONS: Download_Latest_Release::https://github.com/CubicLauncherDevs/CubicLauncher/releases/latest
