@@ -1,0 +1,6 @@
+# litedb
+===
+ Local-first SQL client for SQLite and PostgreSQL where AI agents work through guardrails: every write is previewed, approved in the app, logged and undoable. Built-in MCP server, Text-to-SQL with local models, schema visualizer. Tauri + Rust + React..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/createdbyadham/litedb

@@ -1,0 +1,6 @@
+# swiftdl
+===
+ Fast, resumable download manager with a browser extension. Many connections per file, instant resume, IDM-style download windows. Rust + Tauri..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/harshsinghsv/swiftdl

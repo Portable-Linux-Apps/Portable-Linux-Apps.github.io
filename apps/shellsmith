@@ -1,0 +1,6 @@
+# shellsmith
+===
+ Shellsmith is a desktop application hardening tool for Android and iOS, supporting both local offline keys and self-hosted online keys. In offline mode, key generation, hardening, signing, and artifact verification are all completed locally, without the need for a network or key service. In online mode (BYOS), the artifact IKM is hosted on your self-hosted HTTPS service. The APK only carries the service address and token, which is retrieved upon application launch via device approval or Google Play Integrity authorization.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/kairowan/shellsmith

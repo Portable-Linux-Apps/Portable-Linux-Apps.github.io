@@ -1,0 +1,6 @@
+# rustmusic
+===
+ Beautiful high-performance cross-platform desktop music player (Rust + Tauri 2 + React): local music library, NetEase Cloud, QQ, Kugou, Bilibili, Navidrome, WASAPI exclusive, 10-band equalizer, QRC·YRC·KRC verbatim and desktop lyrics, extremely low background memory (Windows & Linux)..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/lingyunstudio/rustmusic

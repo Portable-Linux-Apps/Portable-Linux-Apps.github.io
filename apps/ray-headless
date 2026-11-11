@@ -1,0 +1,6 @@
+# ray-headless
+===
+ Run Ray's subtitle server on a NAS, home server or any always-on box - the same Ray as the desktop app, without the desktop. A built-in web dashboard and a Developer API make, translate, re-time and burn in subtitles on your own hardware (Ray Local) or on Ray's servers (Ray Cloud). Runs in Docker or straight on Linux, macOS or Windows, no Docker needed (ray-server + ray-cli)..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/techspecs/ray-headless

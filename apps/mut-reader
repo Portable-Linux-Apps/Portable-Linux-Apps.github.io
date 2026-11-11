@@ -1,0 +1,6 @@
+# mut-reader
+===
+ Mut Reader is an offline-first, privacy-focused Linux desktop e-reader and personal digital library archive. Built with Go, Wails v2, and Svelte, it encrypts all books, metadata, and reading progress at rest using Argon2id and XChaCha20-Poly1305. Features zero telemetry, format-agnostic storage, isolated readers (PDF, EPUB, FB2)..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/energon715/mut-reader

@@ -1,0 +1,6 @@
+# writerstudio
+===
+ GRBL writing machine host software. Text, tables, LaTeX formulas, TikZ, SVG vector graphics, stroke editing, and handwriting simulation are all handled by one software. Multiple fonts can be mixed, handwriting random disturbance can be adjusted, and the paper can be aligned to the reference layer. ..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/zhengxiegang/writerstudio

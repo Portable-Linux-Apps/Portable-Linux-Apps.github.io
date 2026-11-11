@@ -1,0 +1,6 @@
+# mygo-clash
+===
+ - Built-in mihomo kernel, running as an independent process; when turning on TUN mode, it will boot the installation of system services (only one administrator authorization is required), and after applying the update, it will prompt to synchronize the update service.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/souitou-iop/mygo-clash

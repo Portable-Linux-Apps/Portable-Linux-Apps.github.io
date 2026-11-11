@@ -1,0 +1,6 @@
+# matlivre
+===
+ MatLivre is a fast live script editor and runtime for MATLAB code. It opens, edits and runs MATLAB live scripts (.mlx) and plain scripts (.m) with results, tables and figures inline, in a native Windows 11 app. The language engine is an independent, clean-room implementation of MATLAB, written in Rust: no MATLAB installation, license or Java runtime is needed.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/campuslivre/matlivre

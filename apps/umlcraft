@@ -1,0 +1,6 @@
+# umlcraft
+===
+ UML modeling tool written in Rust with GPUI. Class, object, use case, sequence, activity, state machine, component and deployment diagrams; imports .asta projects and Java, C#, C++ and Python source..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/udvlp/umlcraft

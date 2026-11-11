@@ -1,0 +1,6 @@
+# sonic-ripper
+===
+ A desktop application for extracting audio and video from Spotify and YouTube links. Built with Tauri + React, it lets you discover tracks from playlists or individual URLs, configure output settings, and download them as high-quality audio/video files or ZIP archives..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/theehk-blip/sonic-ripper

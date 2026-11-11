@@ -1,0 +1,6 @@
+# yunheshiguang-droid
+===
+ A desktop workbench for running fleets of Android devices from one computer: connect them, watch them, and operate them in batches. Built on Tauri 2 (Rust backend, React frontend). Devices connect over ADB, with nothing to install on them.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/yunheshiguang/yunheshiguang-droid

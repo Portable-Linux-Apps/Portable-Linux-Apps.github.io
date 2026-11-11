@@ -1,0 +1,6 @@
+# luxmc
+===
+ Luxmc brings together Java versions, modpacks, instance organization, customization and social features. The backend uses Rust and Tauri 2; the interface uses Svelte 5 and TypeScript. The project has roots in Linux and a native installer for Windows.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/predabr/luxmc

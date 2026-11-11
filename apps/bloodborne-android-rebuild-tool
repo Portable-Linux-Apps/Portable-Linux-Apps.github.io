@@ -1,0 +1,6 @@
+# bloodborne-android-rebuild-tool
+===
+ Turn your own Bloodborne PKGs into a ready-to-copy folder for the Android port, with the game's x86-64 code recompiled to native ARM64 (Windows/Linux, GUI)..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/ducvd89/bloodborne-android-rebuild-tool

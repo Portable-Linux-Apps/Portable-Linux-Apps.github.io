@@ -1,0 +1,6 @@
+# otelview
+===
+ Self-hosted OpenTelemetry viewer in a single binary — traces, metrics & logs with a beautiful web UI. OTLP in, DuckDB inside..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/tsirysndr/otelview

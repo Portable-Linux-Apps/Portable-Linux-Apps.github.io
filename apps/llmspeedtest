@@ -1,0 +1,6 @@
+# llmspeedtest
+===
+ A lightweight desktop app for benchmarking locally running LLMs through any OpenAI-compatible inference server (Ollama, vLLM, llama.cpp server, LM Studio, SGLang…)..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/fearl0rd/llmspeedtest

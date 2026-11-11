@@ -1,0 +1,6 @@
+# ratcast
+===
+ Peer-to-peer voice calls, camera and low-latency screen sharing with sound for watching movies and games together, end-to-end encrypted, with no accounts and no central server. Built on librats, with libratcast, an open media transport library (an alternative to SRT and librist) for Windows and Linux and Mac OS X and Android..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/librats/ratcast

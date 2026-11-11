@@ -1,0 +1,6 @@
+# recon
+===
+ A database client for macOS, Windows, and Linux. Connect to MySQL, PostgreSQL, SQLite, and SQL Server with built-in drivers—no additional software required. No account, no cloud: your connections stay on your machine, and your credentials stay in the macOS Keychain, Windows Credential Manager, or the Linux system keyring..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/fylzero/recon
