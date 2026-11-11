@@ -1,6 +1,14 @@
 # WaveFlow
 ===
- Spotify-style desktop music player for your local library. Lock-free Rust audio (FLAC/MP3/DSD up to DSD1024), 6-band EQ, ReplayGain, gapless, crossfade, synced lyrics (LRCLIB), Last.fm scrobbling, DLNA server.
+A desktop music player for the files you already own.
+
+- **Playback**: MP3, FLAC, WAV, AIFF, Ogg Vorbis, Opus, AAC, ALAC, WavPack, Monkey's Audio and DSD; gapless, crossfade with AutoMix, ReplayGain, 6-band EQ, exclusive output, 5.1 and 7.1
+- **Lyrics**: synced and word-by-word, from LRCLIB, plugins or `.lrc` / `.ttml` files next to the track
+- **Library**: live folder watcher, WebDAV and SMB shares, a Quality tab for fake lossless files and duplicates
+- **Tags**: a bulk tag workshop with MusicBrainz matching
+- Smart playlists, podcasts, Last.fm scrobbling, a DLNA server and MPD control
+- Six skins, 17 languages, no account and no telemetry
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: The_home_page::https://waveflow.app/screenshots/desktop/home.webp An_album_page::https://waveflow.app/screenshots/desktop/album.webp The_full-screen_player_with_lyrics::https://waveflow.app/screenshots/desktop/immersive-lyrics.webp The_tag_workshop::https://waveflow.app/screenshots/desktop/tag-workshop.webp The_Liquid_skin::https://waveflow.app/screenshots/desktop/skins-liquid.webp
 # SITES: https://github.com/InstaZDLL/WaveFlow
+# BUTTONS: Website::https://waveflow.app
