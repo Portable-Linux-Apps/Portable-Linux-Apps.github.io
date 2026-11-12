@@ -15,5 +15,5 @@ Command any drone from any browser. ADOS Mission Control is a full ground contro
 - **Sign your commands.** HMAC-SHA256 on every outbound MAVLink v2 frame, with the key held only in your browser.
 - **Self-host all of it.** Field operations work fully offline, and the cloud relay can run entirely on your own servers.
 ===
-# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/adosmissioncontrol/1.avif https://pla-shots.mrcreamy112233.workers.dev/adosmissioncontrol/2.avif https://pla-shots.mrcreamy112233.workers.dev/adosmissioncontrol/3.avif https://pla-shots.mrcreamy112233.workers.dev/adosmissioncontrol/4.avif https://pla-shots.mrcreamy112233.workers.dev/adosmissioncontrol/5.avif https://pla-shots.mrcreamy112233.workers.dev/adosmissioncontrol/6.avif
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/a/adosmissioncontrol/1.avif https://pla-shots.mrcreamy112233.workers.dev/a/adosmissioncontrol/2.avif https://pla-shots.mrcreamy112233.workers.dev/a/adosmissioncontrol/3.avif https://pla-shots.mrcreamy112233.workers.dev/a/adosmissioncontrol/4.avif https://pla-shots.mrcreamy112233.workers.dev/a/adosmissioncontrol/5.avif https://pla-shots.mrcreamy112233.workers.dev/a/adosmissioncontrol/6.avif
 # SITES: https://github.com/altnautica/adosmissioncontrol

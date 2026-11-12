@@ -9,7 +9,7 @@ Players take turn in connecting two adjacent dots to form a square. The  player 
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
 ===
-# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/ksquares/1.avif
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/k/ksquares/1.avif
 # SITES: https://apps.kde.org
 # SOURCES: https://github.com/ivan-hc/KDE-games-suite-appimage
 # BUTTONS: 

@@ -9,7 +9,7 @@ Granatier is a clone of the classic Bomberman game, inspired by the work of  the
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
 ===
-# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/granatier/1.avif
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/g/granatier/1.avif
 # SITES: https://apps.kde.org
 # SOURCES: https://github.com/ivan-hc/KDE-games-suite-appimage
 # BUTTONS: 

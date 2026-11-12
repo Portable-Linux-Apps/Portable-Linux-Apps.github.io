@@ -4,5 +4,5 @@
 
 Unlike cloud-dependent password managers vulnerable to server breaches and key-escrow attacks, KalderaShield uses **at-rest field encryption**, **per-item HKDF key derivation**, **closed Shadow DOM UI isolation**, and **hardware-backed biometric protection**.
 ===
-# SCREENSHOTS: Main_View::https://pla-shots.mrcreamy112233.workers.dev/aegis-vault-v7/1.avif
+# SCREENSHOTS: Main_View::https://pla-shots.mrcreamy112233.workers.dev/a/aegis-vault-v7/1.avif
 # SITES: https://github.com/hafgit99/aegis-vault-v7
