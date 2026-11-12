@@ -1,8 +1,0 @@
-# Aegis Vault V7
-===
-**KalderaShield** is a next-generation, local-first password manager engineered for complete data sovereignty. Built with **React 19, TypeScript, Rust (Tauri 2), WebCrypto, wa-sqlite (OPFS), and Manifest V3 WebExtensions**, KalderaShield guarantees that your master keys, credentials, notes, passkeys, and attachments remain strictly on your device under your complete control.
-
-Unlike cloud-dependent password managers vulnerable to server breaches and key-escrow attacks, KalderaShield uses **at-rest field encryption**, **per-item HKDF key derivation**, **closed Shadow DOM UI isolation**, and **hardware-backed biometric protection**.
-===
-# SCREENSHOTS: Main_View::https://pla-shots.mrcreamy112233.workers.dev/aegis-vault-v7/1.avif
-# SITES: https://github.com/hafgit99/aegis-vault-v7
