@@ -48,31 +48,12 @@ jobs:
           path: .cache/icons
           key: icons-${{ hashFiles('icons/**', 'no-icon.png') }}
 
-      - name: Cache screenshots
-        id: screenshots-cache
-        uses: actions/cache@v6
-        with:
-          path: .cache/screenshots
-          key: screenshots-v1
-
       - name: Build site
         shell: bash
         run: |
           set -e
 
-          pla-site-tool gen-site > pla-site-tool.log 2>&1 &
-          PLA_PID=$!
-
-          imgtool -p . -o ./public convert-screenshots > screenshots.log 2>&1 &
-          SS_PID=$!
-
-          wait "$PLA_PID"; PLA_STATUS=$?
-          wait "$SS_PID"; SS_STATUS=$?
-
-          cat pla-site-tool.log screenshots.log | tee -a build-log.txt
-
-          [ $PLA_STATUS -eq 0 ] || { echo "pla-site-tool failed" | tee -a build-log.txt; exit 1; }
-          [ $SS_STATUS -eq 0 ] || { echo "imgtool convert-screenshots failed" | tee -a build-log.txt; exit 1; }
+          pla-site-tool gen-site 2>&1 | tee -a build-log.txt
 
           [ ! -x ./minify ] && chmod a+x ./minify
           ./minify public 2>&1 | tee -a build-log.txt

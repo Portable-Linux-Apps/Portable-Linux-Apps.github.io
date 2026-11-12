@@ -2,5 +2,5 @@
 ===
 A desktop app that manages AI agent skills from a single location. It works with any tool that supports the agentskills.io open format, keeping a central repository and syncing skills to each tool via symlinks.
 ===
-# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/agent-loom/1.webp
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/agent-loom/1.avif
 # SITES: https://github.com/alpha-coders/agent-loom

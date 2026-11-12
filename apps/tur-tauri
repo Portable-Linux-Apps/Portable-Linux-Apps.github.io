@@ -12,6 +12,6 @@ Say goodbye to bloated, ad-filled download managers. Tur is fully open-source, d
 - 💾 **Smart Persistence**: Download sessions, histories, and configurations are securely stored using a blazing-fast local SQLite database.
 - 🌍 **Cross-Platform Native**: First-class support for Linux, Windows, and macOS without the heavy Electron overhead.
 ===
-# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/tur-tauri/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/tur-tauri/2.webp
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/tur-tauri/1.avif https://pla-shots.mrcreamy112233.workers.dev/tur-tauri/2.avif
 # SITES: https://github.com/greykaizen/tur-tauri
 # BUTTONS: tur-rs::https://github.com/greykaizen/tur-rs

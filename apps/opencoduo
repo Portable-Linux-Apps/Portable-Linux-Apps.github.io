@@ -13,6 +13,6 @@ United Offensive adds three new multiplayer modes to the game: Domination, Captu
 - This AppImage includes both the client and the server.
 - You might want to put the path to your game installation in `~/.config/opencoduo/data-path` for client and `~/.config/coduo_lnxded/data-path` for server.
 ===
-# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/opencoduo/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/opencoduo/2.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/opencoduo/3.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/opencoduo/4.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/opencoduo/5.webp
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/opencoduo/1.avif https://pla-shots.mrcreamy112233.workers.dev/opencoduo/2.avif https://pla-shots.mrcreamy112233.workers.dev/opencoduo/3.avif https://pla-shots.mrcreamy112233.workers.dev/opencoduo/4.avif https://pla-shots.mrcreamy112233.workers.dev/opencoduo/5.avif
 # SITES: https://github.com/opencoduo/coduomp
 # SOURCES: https://github.com/pkgforge-dev/opencoduo-AppImage

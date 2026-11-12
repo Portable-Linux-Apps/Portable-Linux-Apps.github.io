@@ -4,7 +4,7 @@
 It supports both SquashFS and DwarFS AppImage formats, features a seamless background **auto-update** process, and leverages **zsync** delta updates for efficient bandwidth usage.
 Double-click any `.AppImage` to open a macOS-style drag-and-drop window, just drag to install and AppManager will move the app, wire up desktop entries, and copy icons.
 ===
-# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/appmanager/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/appmanager/2.webp
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/appmanager/1.avif https://pla-shots.mrcreamy112233.workers.dev/appmanager/2.avif
 # SITES: https://github.com/kem-a/AppManager
 # SOURCES: 
 # BUTTONS: 
