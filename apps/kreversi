@@ -9,7 +9,7 @@ Capture your opponents pieces and turn them over to your color. Get control over
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
 ===
-# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/kreversi/1.webp
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/kreversi/1.avif
 # SITES: https://apps.kde.org
 # SOURCES: https://github.com/ivan-hc/KDE-games-suite-appimage
 # BUTTONS: 

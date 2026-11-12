@@ -4,7 +4,7 @@ Browservice: Browse the modern web on historical browsers.
  
  A web "proxy" server that enables browsing the modern web on historical browsers. It works by rendering the browser viewport into images, which are then shown by a JavaScript application running on the client browser.
 ===
-# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/browservice/1.webp
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/browservice/1.avif
 # SITES: https://github.com/ttalvitie/browservice
 # SOURCES: 
 # BUTTONS: 

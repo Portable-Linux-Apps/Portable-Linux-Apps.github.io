@@ -74,5 +74,5 @@ bundles more dependencies for portability. The `appimage-lite` target expects
 the host system to provide GTK4, WebKitGTK 6, and their runtime dependencies.
 
 ===
-# SCREENSHOTS: https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/adbkit/1.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/adbkit/2.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/adbkit/3.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/adbkit/4.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/adbkit/5.webp https://raw.githubusercontent.com/kazam0180/linux-app-shots/refs/heads/main/adbkit/6.webp
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/adbkit/1.avif https://pla-shots.mrcreamy112233.workers.dev/adbkit/2.avif https://pla-shots.mrcreamy112233.workers.dev/adbkit/3.avif https://pla-shots.mrcreamy112233.workers.dev/adbkit/4.avif https://pla-shots.mrcreamy112233.workers.dev/adbkit/5.avif https://pla-shots.mrcreamy112233.workers.dev/adbkit/6.avif
 # SITES: https://github.com/drenzzz/adbkit
