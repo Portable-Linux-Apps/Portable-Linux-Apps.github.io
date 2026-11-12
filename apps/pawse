@@ -20,5 +20,5 @@ A fast, native music player for your local library, built in Rust and GPUI, with
 - **System integration** — OS media controls, media keys, keyboard shortcuts, Discord status.
 - **Sleep timer** and **automatic updates**.
 ===
-# SCREENSHOTS: https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/album.webp https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/artists.webp https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/cover_view.webp https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/remote-desktop.webp
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/pawse/bb55072bee36582d.avif https://pla-shots.mrcreamy112233.workers.dev/pawse/fe6fac4035a418e9.avif https://pla-shots.mrcreamy112233.workers.dev/pawse/69f9ff0a6a39abdb.avif https://pla-shots.mrcreamy112233.workers.dev/pawse/3786de4195594541.avif
 # SITES: https://github.com/popovpsk/pawse
