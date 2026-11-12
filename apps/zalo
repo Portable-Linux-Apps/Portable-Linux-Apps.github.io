@@ -1,8 +1,14 @@
 # Zalo
 ===
 An unofficial, community-driven port of the Zalo desktop application for Linux only, created by repackaging the official macOS client into a standard AppImage with integrated ZaDark.
+
 Zalo is Vietnam’s most popular messaging app, designed for simple and reliable messaging experience.
-This project is licensed under the MIT License. Zalo is a trademark of VNG Corporation. This project is not affiliated with or endorsed by VNG Corporation.
+
+This project is an unofficial port and is not affiliated with, endorsed by, or sponsored by Zalo or VNG Corporation.
+
+Zalo is a trademark of VNG Corporation. This software is provided for educational and personal use only. Users are responsible for complying with applicable terms of service and laws.
+
+This project does not endorse, verify, or take responsibility for any third-party forks OR forks requesting donations; any modified versions or forks containing malware operate completely independently and without our authorization, according to BSD 3-Clause license, Clause 3.
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SCREENSHOTS: https://github.com/user-attachments/assets/dd2b618a-dada-49aa-9997-9a9635626997 https://github.com/user-attachments/assets/7e5a9fe9-87a6-4f58-beb0-df59d93aee89 https://github.com/user-attachments/assets/9113145b-b451-417a-aa7b-164d350364f8
 # SITES: https://github.com/VN-Linux-Family/zalo-for-linux
