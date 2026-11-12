@@ -2,5 +2,5 @@
 ===
  Watch anime and read manga on Linux. A native Rust and GTK4 app modelled on Aniyomi: a library, an mpv-based player, a manga reader, sources you add yourself, and AniList and MyAnimeList tracking.
 ===
-# SCREENSHOTS: https://raw.githubusercontent.com/kurobayomi/kurobayomi/main/docs/images/listing/01-welcome.webp https://raw.githubusercontent.com/kurobayomi/kurobayomi/main/docs/images/listing/07-source-titles.webp https://raw.githubusercontent.com/kurobayomi/kurobayomi/main/docs/images/listing/08-search.webp https://raw.githubusercontent.com/kurobayomi/kurobayomi/main/docs/images/listing/09-details.webp
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/kurobayomi/9afbfa4b63f59b0e.avif https://pla-shots.mrcreamy112233.workers.dev/kurobayomi/9bca103357d09034.avif https://pla-shots.mrcreamy112233.workers.dev/kurobayomi/5c4608a57f2c8f0b.avif https://pla-shots.mrcreamy112233.workers.dev/kurobayomi/9cb06f5650b8bbf4.avif
 # SITES: https://github.com/kurobayomi/kurobayomi
