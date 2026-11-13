@@ -9,7 +9,7 @@ flashrom is a universal utility designed to identify, read, write, verify, and e
 - Cross-platform hardware probing and detailed chipset diagnostics
 - Essential tool for firmware recovery, flashing coreboot, and hardware engineering
 ===
-# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/flashrom/df89e8540697f86b.avif https://pla-shots.mrcreamy112233.workers.dev/flashrom/162d7982a7b8bc0e.avif https://pla-shots.mrcreamy112233.workers.dev/flashrom/0ede546ce9718f7d.avif https://pla-shots.mrcreamy112233.workers.dev/flashrom/e82711cc9a63bc24.avif
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/f/flashrom/df89e8540697f86b.avif https://pla-shots.mrcreamy112233.workers.dev/f/flashrom/162d7982a7b8bc0e.avif https://pla-shots.mrcreamy112233.workers.dev/f/flashrom/0ede546ce9718f7d.avif https://pla-shots.mrcreamy112233.workers.dev/f/flashrom/e82711cc9a63bc24.avif
 # SITES: https://flashrom.org/index.html
 # SOURCES: https://github.com/pkgforge-dev/flashrom-appimage
 # BUTTONS: 
