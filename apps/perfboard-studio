@@ -1,0 +1,6 @@
+# perfboard-studio
+===
+ Free desktop app for laying out circuits on perfboard, stripboard (veroboard) and breadboards: draw the schematic, auto-place and route it, check it with DRC and LVS, and get a step-by-step soldering guide with multimeter checkpoints. Windows, macOS, Linux..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/medinstech/perfboard-studio

@@ -1,0 +1,6 @@
+# bigtext
+===
+ Free editor for huge text and log files: opens 50 GB at once, searches at 2.5 GB/s, never freezes. A free alternative to EmEditor and UltraEdit for Windows, Linux and macOS. Written in Rust.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/erkinbek/bigtext

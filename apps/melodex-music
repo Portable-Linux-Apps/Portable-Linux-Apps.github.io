@@ -1,0 +1,6 @@
+# melodex-music
+===
+ Melodex Music | Multi-source music aggregation search, playback and lyrics (Windows + Android). Search NetEase Cloud Music, QQ Music, and KuWo Music at the same time with one keyword, merge the same song according to the \"title + singer + duration\" fingerprint and mark whether each sound source is playable; built-in player and line-by-line lyrics (including bilingual translation), support account playlist, original/cover version tags, breakpoint resume, automatic sound quality degradation, ID3v2.3 tags and lyrics embedding. Rust + Tauri 2 + Vue 3, Apache-2.0. music player, lyrics, music downloader, music aggregator..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/lunashiori/melodex-music

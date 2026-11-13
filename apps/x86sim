@@ -1,0 +1,6 @@
+# x86sim
+===
+ Run Apple's iOS Simulator on a regular Linux PC, no Mac required. Boots the real iOS 27 simulator by translating it on the fly, with graphics on your GPU..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/x86sim/x86sim

@@ -1,0 +1,6 @@
+# kuml
+===
+ Architecture that compiles. Kotlin DSL for UML 2.x, SysML 2 and C4 diagrams-as-code — CLI, Compose Desktop, IntelliJ & Obsidian plugins, Asciidoctor extension on Maven Central, ELK layout, reverse engineering (Java/Kotlin), XMI import/export, plugin SPI. Apache-2.0..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/kuml-dev/kuml
