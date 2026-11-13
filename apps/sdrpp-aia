@@ -1,0 +1,6 @@
+# sdrpp-aia
+===
+ SDR++ Air Interface Analyzer. TETRA receiver and measurement tool for amateur radio, based on SDR++, SDR++Brown: decoding of cell and traffic information, MER/EVM, TX spectrum, burst and multipath analysis, drive-test logging. Encryption is only indicated, never decrypted. Private project, no support..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/unimatrixzer0/sdrpp-air-interface-analyzer
