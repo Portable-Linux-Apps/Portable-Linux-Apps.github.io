@@ -83,6 +83,40 @@ cleanup() {
 }
 trap cleanup EXIT
 
+# --- AVIF conversion ---------------------------------------------------------
+# imgtool local-dir converts PNG/JPEG/WEBP images in the current directory
+# (recursively) to AVIF, leaving each source in place. Screenshots are
+# published as AVIF, so every image uploaded to the release goes through it.
+# The conversion runs in a staging dir holding just this one image so that
+# other files in $WORK_DIR are not converted too. Prints the AVIF path, or
+# nothing if the conversion failed.
+as_avif() {
+    local img="$1" dir base stem staging
+    dir=$(cd "$(dirname "$img")" && pwd)
+    base=$(basename "$img")
+    stem="${base%.*}"
+    staging="$WORK_DIR/avif-stage"
+    rm -rf "$staging"
+    mkdir -p "$staging"
+    if ! cp -f "$img" "$staging/$base"; then
+        log "could not stage $img for avif conversion"
+        return 1
+    fi
+    if ! ( cd "$staging" && imgtool local-dir ) >>"$WORK_DIR/imgtool.log" 2>&1; then
+        log "imgtool local-dir failed for $img (see $WORK_DIR/imgtool.log)"
+        return 1
+    fi
+    if [ ! -s "$staging/$stem.avif" ]; then
+        log "imgtool made no avif for $img"
+        return 1
+    fi
+    if ! mv -f "$staging/$stem.avif" "$dir/$stem.avif"; then
+        log "could not move avif for $img into $dir"
+        return 1
+    fi
+    printf '%s' "$dir/$stem.avif"
+}
+
 # --- Flathub screenshot helper -----------------------------------------------
 flathub_screenshot() {
     # Search Flathub for an app by name and download its first screenshot.
@@ -462,6 +496,15 @@ for app in "${APPS[@]}"; do
         mv -f "${SHOT_A}.small.png" "$SHOT_A" 2>/dev/null || true
     fi
 
+    # the release serves AVIF, so convert before uploading
+    capture_for_avif="$SHOT_A"
+    if ! SHOT_A=$(as_avif "$SHOT_A"); then
+        log "avif conversion failed for $capture_for_avif"
+        results+=("FAIL $app (avif)")
+        continue
+    fi
+    log "converted to $SHOT_A ($(identify -format '%wx%h' "$SHOT_A" 2>/dev/null || echo 'size?'))"
+
     if ! gh release upload "$RELEASE_TAG" "$SHOT_A" -R "$REPO" --clobber >/dev/null 2>&1; then
         log "release upload failed for $SHOT_A"
         results+=("FAIL $app (upload)")
@@ -469,6 +512,12 @@ for app in "${APPS[@]}"; do
     fi
     img_url="https://github.com/$REPO/releases/download/$RELEASE_TAG/$(basename "$SHOT_A")"
 
+    if [ -n "$SITE_IMG" ]; then
+        if ! SITE_IMG=$(as_avif "$SITE_IMG"); then
+            log "avif conversion failed for site image"
+            SITE_IMG=""
+        fi
+    fi
     if [ -n "$SITE_IMG" ]; then
         if ! gh release upload "$RELEASE_TAG" "$SITE_IMG" -R "$REPO" --clobber >/dev/null 2>&1; then
             log "release upload failed for site image $SITE_IMG"
@@ -491,6 +540,12 @@ for app in "${APPS[@]}"; do
         fi
     fi
 
+    if [ -n "$FLATHUB_SHOT" ]; then
+        if ! FLATHUB_SHOT=$(as_avif "$FLATHUB_SHOT"); then
+            log "avif conversion failed for flathub screenshot"
+            FLATHUB_SHOT=""
+        fi
+    fi
     if [ -n "$FLATHUB_SHOT" ]; then
         if gh release upload "$RELEASE_TAG" "$FLATHUB_SHOT" -R "$REPO" --clobber >/dev/null 2>&1; then
             flathub_url="https://github.com/$REPO/releases/download/$RELEASE_TAG/$(basename "$FLATHUB_SHOT")"
