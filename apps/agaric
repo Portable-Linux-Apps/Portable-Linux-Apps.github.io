@@ -14,5 +14,5 @@ Think Logseq or Notion, but:
 - **Private** — no cloud telemetry, no external analytics, no cloud. Your vault is a plain SQLite file on disk (no at-rest encryption) — rely on OS full-disk encryption (LUKS / FileVault / BitLocker) for confidentiality. (The local logger in `src/lib/logger.ts` writes errors to disk so the in-app `BugReportDialog` can attach them — nothing leaves your machine.)
 
 ===
-# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/agaric/1.avif
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/a/agaric/1.avif
 # SITES: https://github.com/jfolcini/agaric

@@ -9,7 +9,7 @@ Swap two adjacent diamonds to form a line of three similar diamonds to  eliminat
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
 ===
-# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/kdiamond/1.avif
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/k/kdiamond/1.avif
 # SITES: https://apps.kde.org
 # SOURCES: https://github.com/ivan-hc/KDE-games-suite-appimage
 # BUTTONS: 

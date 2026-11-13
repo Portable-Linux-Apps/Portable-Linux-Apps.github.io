@@ -9,7 +9,7 @@ Picmi is a single player logic-based puzzle game. The goal is to color cells acc
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
 ===
-# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/picmi/1.avif
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/p/picmi/1.avif
 # SITES: https://apps.kde.org
 # SOURCES: https://github.com/ivan-hc/KDE-games-suite-appimage
 # BUTTONS: 

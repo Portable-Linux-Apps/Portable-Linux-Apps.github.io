@@ -19,5 +19,5 @@ A standalone drum machine, step sequencer, and synthesizer — also available as
 - **Pattern presets** — 12 drum patterns + 10 bass lines (House, Trap, DnB, Lo-fi, etc.)
 - **Multiple frontends** — ImGui (standalone + plugin) and GTK 4.0 (Linux native)
 ===
-# SCREENSHOTS: Animated_Demo::https://github.com/averagenative/0x808/raw/main/0x808_demo.gif GTK::https://pla-shots.mrcreamy112233.workers.dev/0x808/1.avif Light_Theme::https://pla-shots.mrcreamy112233.workers.dev/0x808/2.avif Dark_Theme::https://pla-shots.mrcreamy112233.workers.dev/0x808/3.avif Hacker_Theme::https://pla-shots.mrcreamy112233.workers.dev/0x808/4.avif
+# SCREENSHOTS: Animated_Demo::https://github.com/averagenative/0x808/raw/main/0x808_demo.gif GTK::https://pla-shots.mrcreamy112233.workers.dev/0/0x808/1.avif Light_Theme::https://pla-shots.mrcreamy112233.workers.dev/0/0x808/2.avif Dark_Theme::https://pla-shots.mrcreamy112233.workers.dev/0/0x808/3.avif Hacker_Theme::https://pla-shots.mrcreamy112233.workers.dev/0/0x808/4.avif
 # SITES: https://github.com/averagenative/0x808

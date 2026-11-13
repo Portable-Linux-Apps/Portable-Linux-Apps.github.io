@@ -2,5 +2,5 @@
 ===
 Agent Launcher is a local desktop workspace for coding-agent CLIs. It detects and links CLIs already installed on your system, installs the ones you don't have in one click, applies account or provider configuration, and runs each agent in an embedded terminal or chat view. A CLI you already have is never reinstalled or updated.
 ===
-# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/agent-launcher/1.avif https://pla-shots.mrcreamy112233.workers.dev/agent-launcher/2.avif https://pla-shots.mrcreamy112233.workers.dev/agent-launcher/3.avif
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/a/agent-launcher/1.avif https://pla-shots.mrcreamy112233.workers.dev/a/agent-launcher/2.avif https://pla-shots.mrcreamy112233.workers.dev/a/agent-launcher/3.avif
 # SITES: https://github.com/agent-launch/agent-launcher

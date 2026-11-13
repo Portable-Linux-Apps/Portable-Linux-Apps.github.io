@@ -53,7 +53,7 @@ jobs:
           # references anymore, and the shots-relative paths of what changed
           # and what to delete are left in .cache/screenshots/changed.txt
           # and pruned.txt.
-          imgtool -p . --shots-dir ../shots convert-screenshots
+          imgtool -p . --shots-dir ../shots app-screenshots
 
       - name: Prune deleted screenshots
         working-directory: site

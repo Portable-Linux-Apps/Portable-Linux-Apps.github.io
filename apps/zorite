@@ -2,5 +2,5 @@
 ===
  Local-first, Logseq-style daily journal. Rust + GPUI + SQLite, with a custom gpui-markdown renderer and PDF viewer, custom gpui-whiteboard, (clickable wiki-links, tags, slash menu).
 ===
-# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/zorite/1.avif
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/z/zorite/1.avif
 # SITES: https://github.com/packetThrower/zorite https://packetthrower.github.io/zorite/

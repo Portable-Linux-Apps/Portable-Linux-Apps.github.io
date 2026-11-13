@@ -9,7 +9,7 @@ A top-down 2D miniature golf game that can accommodate up to 10 players.
            kdegames -h (shows the list of games)
            kdegames $GAME (launches the selected game)
 ===
-# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/kolf/1.avif
+# SCREENSHOTS: https://pla-shots.mrcreamy112233.workers.dev/k/kolf/1.avif
 # SITES: https://apps.kde.org
 # SOURCES: https://github.com/ivan-hc/KDE-games-suite-appimage
 # BUTTONS: 

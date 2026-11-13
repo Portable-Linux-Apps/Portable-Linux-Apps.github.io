@@ -16,5 +16,5 @@ Multi-engine synthesizer (subtractive/FM/wavetable) — CLAP/VST3 plugin + stand
 - **MPE support** — per-note pitch bend, pressure, slide
 - **2x/4x oversampling** — reduces aliasing in oscillators
 ===
-# SCREENSHOTS: Dark_Recording_Settings::https://pla-shots.mrcreamy112233.workers.dev/0xsynth/0.avif Light_User_Presets::https://pla-shots.mrcreamy112233.workers.dev/0xsynth/1.avif Midnight_FM::https://pla-shots.mrcreamy112233.workers.dev/0xsynth/2.avif Vaporwave_Wavetable::https://pla-shots.mrcreamy112233.workers.dev/0xsynth/3.avif
+# SCREENSHOTS: Dark_Recording_Settings::https://pla-shots.mrcreamy112233.workers.dev/0/0xsynth/0.avif Light_User_Presets::https://pla-shots.mrcreamy112233.workers.dev/0/0xsynth/1.avif Midnight_FM::https://pla-shots.mrcreamy112233.workers.dev/0/0xsynth/2.avif Vaporwave_Wavetable::https://pla-shots.mrcreamy112233.workers.dev/0/0xsynth/3.avif
 # SITES: https://github.com/averagenative/0xsynth

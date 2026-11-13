@@ -78,7 +78,7 @@ jobs:
             cp .cache/icons/public/no-icon_48.webp public/no-icon_48.webp
             echo "icons restored from cache" | tee -a build-log.txt
           else
-            imgtool -p . -o ./public convert-icons 2>&1 | tee -a build-log.txt
+            imgtool -p . -o ./public icons 2>&1 | tee -a build-log.txt
             mkdir -p .cache/icons/public
             cp -r public/icons .cache/icons/public/
             cp -r public/icons_48 .cache/icons/public/
