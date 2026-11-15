@@ -1,0 +1,6 @@
+# conxol
+===
+ Open-source SSH client and network terminal for Windows, macOS and Linux. SFTP/SCP, serial consoles, SSH tunnels, network diagnostics and Huawei/Cisco/Juniper router configuration templates. Built with Rust and Tauri..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/thetonmoyroy/conxol

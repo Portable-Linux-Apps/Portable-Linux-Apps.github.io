@@ -1,0 +1,6 @@
+# umless
+===
+ Local, open-source voice dictation that types what you meant: Parakeet/Whisper + a LoRA-tuned Qwen cleanup model, in Rust. 100% on-device..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/jatinbishla/umless

@@ -1,0 +1,6 @@
+# openvclient
+===
+ Open-source, GPU-rendered desktop client in Rust for databases and infrastructure: SQL (PostgreSQL, MySQL, SQL Server, SQLite, ClickHouse), MongoDB, Redis, Elasticsearch, Docker, SSH/SFTP and S3/Azure Blob. macOS, Windows, Linux. No telemetry..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/openvclient/openvclient

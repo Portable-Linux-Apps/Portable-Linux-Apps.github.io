@@ -1,0 +1,6 @@
+# pd200x-control
+===
+ Linux app for the Maono PD200X and PD200XS USB microphone, a MAONO Link alternative: gain, monitoring, noise cancellation, EQ profiles and 7-band EQ, compressor, limiter and RGB ring light, live level meter, test recording and a level finder for quiet dynamic mics. Desktop app (Tauri) and CLI, written in Rust..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/firsttris/pd200x-control

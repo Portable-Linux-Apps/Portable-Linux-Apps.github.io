@@ -1,0 +1,6 @@
+# whitenoise
+===
+ White Noise Linux is a desktop client for Marmot, which runs MLS group encryption over Nostr relays. Your identity is a Nostr key you hold, not a phone number, and no server owns your account.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/marmot-protocol/whitenoise-linux

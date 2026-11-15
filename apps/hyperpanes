@@ -1,0 +1,6 @@
+# hyperpanes
+===
+ A native, cross-platform tiling terminal workspace for AI agents — real native terminals (ConPTY, Unix PTYs) in named, color-framed panes you can tear into windows, with idle-agent glow and an opt-in MCP control plane. Built in Rust + Slint; Windows, Linux & macOS.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/eyalm321/hyperpanes

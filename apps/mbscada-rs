@@ -1,0 +1,6 @@
+# mbscada-rs
+===
+ Modbus Poll + SCADA on Rust/Tauri 2: Modbus TCP·RTU·ASCII, byte-accurate round-trip .mbp/.mbw, 32 rules per line, mimic diagrams, sparklines, CSV log..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/kostyk348/mbscada-rs
