@@ -1,4 +1,4 @@
-// "New apps" page: /recent.json ({name: "YYYY-MM-DD"}, newest first, see gen_recent)
+// "New apps" page: /recent.json ({name: "YYYY-MM-DD"}, newest first, written by pla-site-tool)
 // joined with /apps.json for descriptions and archs, grouped by date.
 
 var PREVIEW = 20; // apps shown before "Show all" in days with many additions
