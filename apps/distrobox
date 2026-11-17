@@ -10,6 +10,6 @@ The created container will be tightly integrated with the host, allowing sharing
 of the HOME directory of the user, external storage, external USB devices and
 graphical apps (X11/Wayland), and audio.
 ===
-# SCREENSHOTS: Showcase::https://user-images.githubusercontent.com/598882/144294862-f6684334-ccf4-4e5e-85f8-1d66210a0fff.png
+# SCREENSHOTS: Showcase::https://pla-shots.mrcreamy112233.workers.dev/d/distrobox/d5d9cf524da83803.avif
 # SITES: https://github.com/89luca89/distrobox https://distrobox.it
 # SOURCES: https://github.com/pkgforge-dev/distrobox-AppImage
