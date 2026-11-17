@@ -1,0 +1,6 @@
+# open-3d-viewer
+===
+ Open BIM Suite, the XYZ-everything BIM-app. A free 3D viewer for building models: it opens IFC, Revit, SketchUp, Tekla, Allplan, Archicad, Vertex BD, BTL, DWG/DXF, MicroStation DGN, STEP, IFC5 (IFCX), CityJSON, CityGML, GeoJSON, Shapefile, LandXML, glTF, USD, Rhino, COLLADA, 3MF, AMF, FBX, 3DS, VRML/X3D, OBJ, OFF, STL and PLY models, structural analysis models (sam-json), and LAS, LAZ, E57, PTS, PTX, PCD and ASCII XYZ point clouds, measures and sections them, saves them as IFC, and exports their floor plans, sections and sheets as DWG, DXF, IFCCAD, PDF, PNG and SVG, on the desktop and in the browser.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/openaec-foundation/open-bim-suite

@@ -1,0 +1,6 @@
+# surface3d
+===
+ Surface3D is a GPU texture painter for game and film assets. Paint materials onto your models in a layer stack, open any layer as a node graph when you want procedural control, bake mesh maps, sculpt detail straight into the normal map and export PBR textures for your engine.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/moaref1/surface3d

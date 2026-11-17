@@ -1,0 +1,6 @@
+# kite
+===
+ A KDE web browser written in Rust, modelled on Falkon, with native support for Firefox WebExtensions installed straight from addons.mozilla.org.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/n4n0gh/kite
