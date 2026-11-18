@@ -65,6 +65,10 @@ msgstr "Về các danh mục khác"
 msgid "About this project"
 msgstr "Về dự án này"
 
+#: recent.in:57
+msgid "Added in the last"
+msgstr "Được thêm trong"
+
 #: index.in:253
 msgid ""
 "All app data is stored in a markdown-ish format sourced from the <a "
@@ -109,6 +113,10 @@ msgstr "Các bó AppImage từ phương tiện lưu trữ ngoài"
 #: index.in:331 wiki.in:32 wiki.in:151 apps.in:32 apps.in:99
 msgid "Apps"
 msgstr "Ứng dụng"
+
+#: recent.in:74
+msgid "Apps added to the AM database, newest first."
+msgstr "Các ứng dụng được thêm vào cơ sở dữ liệu AM, mới nhất trước."
 
 #: wiki.in:103
 msgid "BSD, freeBSD and derivative systems: configuration and troubleshooting"
@@ -175,6 +183,10 @@ msgid ""
 msgstr ""
 "Sao chép biểu tượng của ứng dụng (cần phải có cùng tên) vào thư mục "
 "<code>icons</code>."
+
+#: recent.in:79
+msgid "Could not load the list of new apps."
+msgstr "Không thể tải danh sách ứng dụng mới."
 
 #: index.in:266
 msgid "Create a text file like this:"
@@ -461,6 +473,18 @@ msgstr "Tích hợp các bó AppImage vào trong menu bằng cách kéo và th�
 msgid "Is there a centralized repository for AppImage packages?"
 msgstr "Liệu đây có phải là một kho phần mềm tập trung cho các gói AppImage?"
 
+#: recent.in:60
+msgid "Last 30 days"
+msgstr "30 ngày qua"
+
+#: recent.in:59
+msgid "Last 7 days"
+msgstr "7 ngày qua"
+
+#: recent.in:61
+msgid "Last 90 days"
+msgstr "90 ngày qua"
+
 #: wiki.in:66
 msgid "List and query all the applications available on the database"
 msgstr "Liệt kê và truy vấn tất cả các ứng dụng khả dụng trên cơ sở dữ liệu"
@@ -469,6 +493,10 @@ msgstr "Liệt kê và truy vấn tất cả các ứng dụng khả dụng trê
 msgid "List the installed applications"
 msgstr "Liệt kê các ứng dụng đã cài"
 
+#: recent.in:72
+msgid "Loading..."
+msgstr "Đang tải..."
+
 #: wiki.in:138
 msgid "My AppImage packages"
 msgstr "Các gói AppImage của tôi"
@@ -476,6 +504,10 @@ msgstr "Các gói AppImage của tôi"
 #: wiki.in:133
 msgid "My other projects"
 msgstr "Các dự án khác của tôi"
+
+#: recent.in:52
+msgid "NEW APPS"
+msgstr "ỨNG DỤNG MỚI"
 
 #: cat_page.in:72 apps.in:69
 msgid ""
@@ -511,6 +543,22 @@ msgstr ""
 msgid "Name match"
 msgstr "Name match"
 
+#: cat_page.in:35 cat_page.in:103 app_page.in:37 app_page.in:105 index.in:35
+#: index.in:332 wiki.in:32 wiki.in:152 apps.in:32 apps.in:100 recent.in:35
+#: recent.in:91
+msgid "New"
+msgstr "Mới"
+
+#: recent.in:6 recent.in:14
+msgid "New Apps - PORTABLE LINUX APPS"
+msgstr "Ứng dụng mới - PORTABLE LINUX APPS"
+
+#: recent.in:7 recent.in:16
+msgid "New Apps - The apps most recently added to Portable Linux Apps."
+msgstr ""
+"Ứng dụng mới - những ứng dụng được thêm gần đây nhất vào Portable Linux "
+"Apps."
+
 #: cat_page.in:84 app_page.in:89 index.in:71 apps.in:81
 msgid "No applications found"
 msgstr "No applications found"
@@ -518,6 +566,10 @@ msgstr "No applications found"
 #: cat_page.in:85 app_page.in:90 index.in:72 apps.in:82
 msgid "No applications found matching &quot;{0}&quot;"
 msgstr "No applications found matching &quot;{0}&quot;"
+
+#: recent.in:78
+msgid "No apps found."
+msgstr "Không tìm thấy ứng dụng nào."
 
 #: wiki.in:95
 msgid "Option One: \"build AppImages on-the-fly\""
@@ -561,6 +613,10 @@ msgstr ""
 "hoặc các kho lưu trữ độc lập. Mỗi ứng dụng đều có kịch bản cài đặt riêng, "
 "theo phong cách PKGBUILD, được quản lí bởi <a href=\"https://github.com/ivan-"
 "hc/AM\">trình quản lí gói AM</a>."
+
+#: recent.in:53
+msgid "RSS feed"
+msgstr "Nguồn cấp RSS"
 
 #: wiki.in:123
 msgid "Related projects"
@@ -617,6 +673,10 @@ msgstr ""
 "&quot;remove&quot;.\n"
 "    Tương tự, bạn cũng có thể cập nhật các ứng dụng bằng cách chạy kịch bản "
 "&quot;AM-updater&quot; trong cùng thư mục đó."
+
+#: recent.in:77
+msgid "Show all"
+msgstr "Hiển thị tất cả"
 
 #: wiki.in:125
 msgid "Side Projects"
@@ -882,6 +942,10 @@ msgstr "a space separated list of <strong>webp</strong> image URLs"
 msgid "a visual (curses) TUI interface to AppMan, by @joedefen"
 msgstr "một giao diện TUI trực quan (dùng curses) cho AppMan, bởi @joedefen"
 
+#: recent.in:76
+msgid "app"
+msgstr "ứng dụng"
+
 #: index.in:255
 msgid ""
 "app icons must be 128x128 PNG files placed in the <code>icons/</code> "
@@ -889,6 +953,10 @@ msgid ""
 msgstr ""
 "biểu tượng ứng dụng phải là tập tin PNG 128x128 đặt trong thư mục "
 "<code>icons/</code> và đặt tên theo tên ứng dụng;"
+
+#: recent.in:75
+msgid "apps"
+msgstr "ứng dụng"
 
 #: wiki.in:127
 msgid ""
