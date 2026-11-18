@@ -1,6 +1,10 @@
-# benchup
+# BenchUp
 ===
- Free, open-source 3D woodworking and modeling software and SketchUp alternative. Built with Rust, WebAssembly and WebGPU. Runs in your browser or on desktop. 100% vibe-coded with great emphase on stability, rendering speed and UI/UX.
+A free, open-source 3D modeling app for woodworking and furniture design, written in Rust. Plan individual boards, wood joints, and complete assemblies with exact measurements before heading to the workshop. The same editor runs as a native Windows, macOS, or Linux application and in a desktop browser through WebAssembly.
+
+The workspace includes Select, Line, Rectangle, Circle, Polygon, Freehand, Push/Pull, Scale, Offset, Move, Rotate, Paint, Tape Measure, Protractor, Dimensions, a Union flyout, Router, Erase, and Orbit, automatic geometry snapping, filled planar faces, measured lines, full-enclosure box selection, groups and components, a right-click object menu, geometry clipboard, undo/redo, local autosave, and portable `.bup` project files, with support for legacy `.k3d` and `.ketchup` projects. It starts with an empty model. File → Import/Export adds SketchUp `.skp` import and Wavefront `.obj` export. Mobile and cloud storage are outside this version.
+
+See more in [README](https://github.com/BenchUp3D/benchup/blob/main/README.md)
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
-# SITES: https://github.com/benchup3d/benchup
+# SCREENSHOTS: https://raw.githubusercontent.com/BenchUp3D/benchup/refs/heads/main/assets/screenshots/benchup.jpg Wood_Joinery_Dovetail::https://raw.githubusercontent.com/BenchUp3D/benchup/refs/heads/main/assets/screenshots/wood-joinery-dovetail.jpg Procedural_Wood::https://raw.githubusercontent.com/BenchUp3D/benchup/refs/heads/main/assets/screenshots/procedural-wood.jpg Router_Tool::https://raw.githubusercontent.com/BenchUp3D/benchup/refs/heads/main/assets/screenshots/router-tool.jpg PDF_Exports::https://raw.githubusercontent.com/BenchUp3D/benchup/refs/heads/main/assets/screenshots/pdf-exports.jpg AI_Agent_Bookshelf::https://raw.githubusercontent.com/BenchUp3D/benchup/refs/heads/main/assets/screenshots/ai-agent-bookshelf.jpg
+# SITES: https://benchup.io/ https://benchup.io/play https://github.com/benchup3d/benchup
