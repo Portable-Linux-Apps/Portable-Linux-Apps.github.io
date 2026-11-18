@@ -1,0 +1,6 @@
+# ruum
+===
+ Fast cross-platform disk space analyzer & treemap explorer built in Rust with GPUI. Scan local & SSH disks, monitor free space with an AI watchdog, and safely clean files via GUI or MCP..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/jsonlee12138/ruum

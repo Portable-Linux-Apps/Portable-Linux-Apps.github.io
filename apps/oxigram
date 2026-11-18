@@ -1,0 +1,6 @@
+# oxigram
+===
+ Native Telegram desktop client in Rust, from ~8 MB of RAM. Slint UI, no TDLib, no Electron, no WebView..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/timon2306/oxigram
