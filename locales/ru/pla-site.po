@@ -64,6 +64,10 @@ msgstr "О других каталогах"
 msgid "About this project"
 msgstr "Об этом проекте"
 
+#: recent.in:57
+msgid "Added in the last"
+msgstr "Добавлены за последние"
+
 #: index.in:253
 msgid ""
 "All app data is stored in a markdown-ish format sourced from the <a "
@@ -108,6 +112,10 @@ msgstr "AppImage на внешних носителях"
 #: index.in:331 wiki.in:32 wiki.in:151 apps.in:32 apps.in:99
 msgid "Apps"
 msgstr "Приложения"
+
+#: recent.in:74
+msgid "Apps added to the AM database, newest first."
+msgstr "Приложения, добавленные в базу данных AM, сначала новые."
 
 #: wiki.in:103
 msgid "BSD, freeBSD and derivative systems: configuration and troubleshooting"
@@ -177,6 +185,10 @@ msgid ""
 "Copy the app's icon (should be of same name) to <code>icons</code> folder."
 msgstr ""
 "Скопируйте значок приложения (с тем же именем) в папку <code>icons</code>."
+
+#: recent.in:79
+msgid "Could not load the list of new apps."
+msgstr "Не удалось загрузить список новых приложений."
 
 #: index.in:266
 msgid "Create a text file like this:"
@@ -462,6 +474,18 @@ msgstr "Добавление локальных AppImage в меню перет�
 msgid "Is there a centralized repository for AppImage packages?"
 msgstr "Существует ли централизованный репозиторий пакетов AppImage?"
 
+#: recent.in:60
+msgid "Last 30 days"
+msgstr "Последние 30 дней"
+
+#: recent.in:59
+msgid "Last 7 days"
+msgstr "Последние 7 дней"
+
+#: recent.in:61
+msgid "Last 90 days"
+msgstr "Последние 90 дней"
+
 #: wiki.in:66
 msgid "List and query all the applications available on the database"
 msgstr "Просмотр списка и поиск всех приложений, доступных в базе"
@@ -470,6 +494,10 @@ msgstr "Просмотр списка и поиск всех приложени�
 msgid "List the installed applications"
 msgstr "Список установленных приложений"
 
+#: recent.in:72
+msgid "Loading..."
+msgstr "Загрузка..."
+
 #: wiki.in:138
 msgid "My AppImage packages"
 msgstr "Мои пакеты AppImage"
@@ -477,6 +505,10 @@ msgstr "Мои пакеты AppImage"
 #: wiki.in:133
 msgid "My other projects"
 msgstr "Другие мои проекты"
+
+#: recent.in:52
+msgid "NEW APPS"
+msgstr "НОВЫЕ ПРИЛОЖЕНИЯ"
 
 #: cat_page.in:72 apps.in:69
 msgid ""
@@ -510,6 +542,21 @@ msgstr ""
 msgid "Name match"
 msgstr "Совпадение в названии"
 
+#: cat_page.in:35 cat_page.in:103 app_page.in:37 app_page.in:105 index.in:35
+#: index.in:332 wiki.in:32 wiki.in:152 apps.in:32 apps.in:100 recent.in:35
+#: recent.in:91
+msgid "New"
+msgstr "Новые"
+
+#: recent.in:6 recent.in:14
+msgid "New Apps - PORTABLE LINUX APPS"
+msgstr "Новые приложения - PORTABLE LINUX APPS"
+
+#: recent.in:7 recent.in:16
+msgid "New Apps - The apps most recently added to Portable Linux Apps."
+msgstr ""
+"Новые приложения — приложения, недавно добавленные в Portable Linux Apps."
+
 #: cat_page.in:84 app_page.in:89 index.in:71 apps.in:81
 msgid "No applications found"
 msgstr "Приложения не найдены"
@@ -517,6 +564,10 @@ msgstr "Приложения не найдены"
 #: cat_page.in:85 app_page.in:90 index.in:72 apps.in:82
 msgid "No applications found matching &quot;{0}&quot;"
 msgstr "Приложения по запросу &quot;{0}&quot; не найдены"
+
+#: recent.in:78
+msgid "No apps found."
+msgstr "Приложения не найдены."
 
 #: wiki.in:95
 msgid "Option One: \"build AppImages on-the-fly\""
@@ -561,6 +612,10 @@ msgstr ""
 "AppImage или автономные архивы. У каждого приложения есть собственный "
 "установочный скрипт в стиле PKGBUILD, которым управляет <a href=\"https://"
 "github.com/ivan-hc/AM\">менеджер пакетов AM</a>."
+
+#: recent.in:53
+msgid "RSS feed"
+msgstr "RSS-лента"
 
 #: wiki.in:123
 msgid "Related projects"
@@ -616,6 +671,10 @@ msgstr ""
 "имя каталога приложения со скриптом &quot;remove&quot;.\n"
 "    Аналогично, приложения можно обновлять, запустив скрипт &quot;AM-"
 "updater&quot; в том же каталоге."
+
+#: recent.in:77
+msgid "Show all"
+msgstr "Показать все"
 
 #: wiki.in:125
 msgid "Side Projects"
@@ -877,6 +936,10 @@ msgstr ""
 msgid "a visual (curses) TUI interface to AppMan, by @joedefen"
 msgstr "визуальный (curses) TUI-интерфейс для AppMan, автор @joedefen"
 
+#: recent.in:76
+msgid "app"
+msgstr "приложение"
+
 #: index.in:255
 msgid ""
 "app icons must be 128x128 PNG files placed in the <code>icons/</code> "
@@ -884,6 +947,10 @@ msgid ""
 msgstr ""
 "значки приложений должны быть PNG-файлами 128x128, помещёнными в папку "
 "<code>icons/</code> и названными по имени приложения;"
+
+#: recent.in:75
+msgid "apps"
+msgstr "приложений"
 
 #: wiki.in:127
 msgid ""
