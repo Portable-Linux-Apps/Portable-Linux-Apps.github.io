@@ -1,0 +1,6 @@
+# t-code
+===
+ Lightweight C/C++ IDE for Linux: GTK4 + VTE window with a file manager, gtksourceview5 editor tabs with clangd, a shell and a git panel. About 100-150 MB RAM (at start)..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/suacayipkisi/t-code

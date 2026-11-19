@@ -1,0 +1,6 @@
+# ordewell
+===
+ Multi-agent task orchestration for coding agents. Turn one goal into an ordered plan of tasks (each with its own runner, model and mode), then execute and verify the results..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/ordewell/ordewell

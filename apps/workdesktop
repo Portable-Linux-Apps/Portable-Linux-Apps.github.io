@@ -1,0 +1,6 @@
+# workdesktop
+===
+ A cross-platform CLI tool for managing git worktrees across multiple repositories. Create isolated workspaces per branch, manage multi-repo groups, and launch Claude Code automatically..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/moberghr/cli-work-tree-manager
