@@ -148,3 +148,14 @@ document.addEventListener('DOMContentLoaded', function() {
       container.innerHTML = '<p class="recent-status">' + escapeHtml(i18n.error) + '</p>';
     });
 });
+
+// Back-to-top button (recent.html loads only this script, not script.js).
+document.addEventListener('DOMContentLoaded', function() {
+  var btt = document.getElementById('back-to-top');
+  if (!btt) return;
+  var updateBtt = function() {
+    btt.classList.toggle('btt-visible', window.scrollY > 300);
+  };
+  window.addEventListener('scroll', updateBtt);
+  updateBtt();
+});

@@ -324,6 +324,8 @@ only use **bold**, *italic*, ++underline++, lists markdown here
   </div>
 </section>
 
+<a href="#" id="back-to-top" title="Back to top">&uarr;</a>
+
 </main>
 <footer>
   <div class="footer-links">
@@ -345,7 +347,7 @@ only use **bold**, *italic*, ++underline++, lists markdown here
 <script src="/assets/js/casts.js"></script>
 <script src="/assets/js/carousel.js"></script>
 <script src="/assets/js/i18n.js?v=1"></script>
-<script src="/assets/js/script.js?v=3"></script>
+<script src="/assets/js/script.js?v=4"></script>
 <script>
 var homeAppCache = [];
 var homeAppNodes = [];
