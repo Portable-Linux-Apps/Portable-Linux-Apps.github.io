@@ -232,15 +232,20 @@ document.addEventListener('DOMContentLoaded', function() {
           applyFilters();
         });
       }
-
-      var btt = document.getElementById('back-to-top');
-      if (btt) {
-        window.addEventListener('scroll', function() {
-          btt.classList.toggle('btt-visible', window.scrollY > 300);
-        });
-      }
     })
     .catch(function(err) {
       document.getElementById('app-list').innerHTML = '<p>' + tr('loadFailed') + '</p>' + err;
     });
+});
+
+// Back-to-top button. Kept independent of the app list above so it also works
+// on pages without #app-list (recent) or without its data-json (home).
+document.addEventListener('DOMContentLoaded', function() {
+  var btt = document.getElementById('back-to-top');
+  if (!btt) return;
+  var updateBtt = function() {
+    btt.classList.toggle('btt-visible', window.scrollY > 300);
+  };
+  window.addEventListener('scroll', updateBtt);
+  updateBtt();
 });

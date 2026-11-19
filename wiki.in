@@ -144,6 +144,8 @@
   </div>
 </section>
 
+<a href="#" id="back-to-top" title="Back to top">&uarr;</a>
+
 </main>
 <footer>
   <div class="footer-links">
@@ -160,5 +162,15 @@
   </div>
   <p>&copy; _("2020-present Ivan Alessandro Sala aka 'Ivan-HC'") &mdash; _("I'm here just for fun!")</p>
 </footer>
+<script>
+var btt = document.getElementById('back-to-top');
+if (btt) {
+  var updateBtt = function() {
+    btt.classList.toggle('btt-visible', window.scrollY > 300);
+  };
+  window.addEventListener('scroll', updateBtt);
+  updateBtt();
+}
+</script>
 </body>
 </html>
