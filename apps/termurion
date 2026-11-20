@@ -1,0 +1,6 @@
+# termurion
+===
+ ITerm2, ported to Windows Linux and MacOS. Full feature parity: tmux control mode, triggers, hotkey windows, inline images, the Python API and your iTerm2 settings. Native Rust and GPU rendered..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/datbird/termurion

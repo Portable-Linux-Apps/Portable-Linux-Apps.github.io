@@ -1,0 +1,6 @@
+# qrcode-barcode-scanner
+===
+ Multiformat QR code and barcode scanner in Rust. Read standard and artistic QR codes, barcodes and other 2D codes, with advanced QR recovery and scannability reports..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust
