@@ -1,6 +1,6 @@
 # Omniget
 ===
- Open-source download manager for courses (Udemy/Hotmart), YouTube, music & 1,800+ sites. Built with Tauri 2.0, Rust & Svelte.
+Local MCP server that lets Claude Code, Codex, Cursor and Gemini CLI use your own computer and your own logged-in accounts: chats, feeds, browser, files and downloads. Also a downloader for video, music and the courses you bought. Everything stays on your machine.
 ===
 # SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
-# SITES: https://github.com/openselena/omniget
+# SITES: https://github.com/tonhowtf/omniget
