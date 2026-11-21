@@ -1,0 +1,6 @@
+# plasma-addon-manager
+===
+ A universal KDE Plasma 6 add-on manager for Linux, built with Qt6/Kirigami and Rust. Install, manage, and automatically update KDE Store extensions with a native GUI, diagnostics, scheduling, and AppImage support.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/wolfgangxxiii/plasma-addon-manager
