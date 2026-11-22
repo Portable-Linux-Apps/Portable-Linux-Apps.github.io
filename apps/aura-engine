@@ -1,0 +1,6 @@
+# aura-engine
+===
+ Free audiophile music player and FIR upsampler (HQPlayer alternative) for Windows, Linux and macOS. Filters up to 1G taps, Hybrid-Phase, bit-perfect output, FLAC up to 768 kHz, DSD256. Aura Streamer: network streamer and UPnP/OpenHome renderer played from your phone. Internet radio, ASIO input. Rust. aura-engine.app..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/toxadev/aura-engine

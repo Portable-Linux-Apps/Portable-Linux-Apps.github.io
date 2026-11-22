@@ -1,0 +1,6 @@
+# kagetstream
+===
+ A small NScripter-compatible engine written in plain JavaScript. It runs the game's original script and assets (unpacked from your own copy) in a canvas; nothing was rewritten or re-encoded. The one addition is optional: enlarged copies of the sprites and event CGs (see HD pictures below), made from those files and shown in their place; the game's own files are untouched.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/waifwu/kagetstream
