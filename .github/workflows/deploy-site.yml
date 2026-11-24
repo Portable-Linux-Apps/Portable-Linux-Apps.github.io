@@ -28,10 +28,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build-and-deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build:
     runs-on: ubuntu-latest
     container:
       image: registry.gitlab.com/kazam0180/pla-site-tool:latest
@@ -92,9 +89,6 @@ jobs:
         uses: actions/upload-pages-artifact@v5
         with:
           path: 'public'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v5
 
       - name: Restore previous sitemaps
         uses: actions/cache/restore@v6
@@ -162,3 +156,14 @@ jobs:
         with:
           name: build-log
           path: build-log.txt
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-26.04
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
