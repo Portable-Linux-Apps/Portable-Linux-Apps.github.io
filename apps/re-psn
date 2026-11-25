@@ -1,0 +1,6 @@
+# re-psn
+===
+ A reimplementation of PSN (rooms, matchmaking, leaderboards) for statically recompiled PS3 games, with NAT traversal and an optional relay. Fork of sp00nznet/psnr; not the upstream project..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/undecuple/re-psn

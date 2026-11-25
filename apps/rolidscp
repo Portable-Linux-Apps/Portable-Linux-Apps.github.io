@@ -1,0 +1,6 @@
+# rolidscp
+===
+ A fast, secure two-panel file manager for local disks and remote servers over SFTP. Inspired by WinSCP and Total Commander, written in Rust and native on Linux..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/mrrolid/rolidscp

@@ -1,0 +1,6 @@
+# go-novel-dl
+===
+ Go-novel-dl is a multi-source novel downloader developed in Go language. It supports CLI and Web interface. It can concurrently search across sites, download and export with one click. It has been adapted to multiple book sources such as ESJZone, SFACG, Hedgehog Cat, Ruochu Literature, etc. novel-dl communication group: 1094455212..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/guohuiyuan/go-novel-dl

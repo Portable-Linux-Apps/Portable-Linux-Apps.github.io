@@ -1,0 +1,6 @@
+# elytralauncher
+===
+ Cross-platform Minecraft launcher built with Tauri v2 + Vue 3 — multi-source downloads, one-click ModLoader install, Microsoft login & skin wardrobe, mod dependency resolution, EasyTier LAN play, plus a toolbox with world/seed preview and a multi-threaded downloader. No telemetry, GPL-3.0..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/nefelibetas/elytralauncher
