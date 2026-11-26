@@ -1,0 +1,6 @@
+# openscissors
+===
+ Offline background remover: an AI proposes the cut-out, you refine it with a brush. Portable, lightweight, no telemetry. Rust + Slint + ONNX Runtime.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/L-at-nnes/OpenScissors
