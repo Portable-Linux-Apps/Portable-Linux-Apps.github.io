@@ -42,6 +42,8 @@ you can only use **bold**, *italic*, ++underline++, lists, headings, table, code
 # SITES: https://someapp.io
 # SOURCES: https://github.com/name/someapp-appimage
 # BUTTONS: Label_of_Button::https://discord.gg Donation_Link::https://someapp.io/donate
+# SIZE: 12345678
+# REQUIRES: Vulkan OpenGL_4.6 libfuse2
 ```
 
 - The `# name` line and the description between `===` come from the AM list; you can improve them.
@@ -49,6 +51,8 @@ you can only use **bold**, *italic*, ++underline++, lists, headings, table, code
 - `SITES` — space separated site URLs that provide the AppImage.
 - `SOURCES` — if you are packaging someone else's app, link the git repo(s) here.
 - `BUTTONS` — space separated button definitions in the form of `Button_Title::URL`, e.g. a donation link.
+- `SIZE` — the app's size in bytes, shown on the page as a readable value plus the raw byte count.
+- `REQUIRES` — space separated requirements, e.g. `Vulkan OpenGL_4.6 libfuse2`. Underscores stand for spaces.
 
 ### Screenshot alt text
 
