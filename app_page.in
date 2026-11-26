@@ -68,6 +68,7 @@ $APP_INSTALL_BTN
 </div>
 <div class="app-body-content">$APP_DESC_FULL</div>
 $APP_GALLERY
+$APP_SIZE_REQUIRES
 $APP_BUTTONS
 $APP_SITES
 $APP_SOURCES

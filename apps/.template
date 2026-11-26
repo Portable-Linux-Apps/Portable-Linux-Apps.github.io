@@ -6,9 +6,12 @@ you can only use **bold**, *italic*, ++underline++, lists, headings, table, code
 ## Notes
 - do not add links or images here
 - use SOURCES field if you package someone else's app
+- SIZE field should not be added manually, it will be added by amcheck
 ===
 
 # SCREENSHOTS: Contribute_Screenshot::https://Portable-Linux-Apps.github.io/contribute_ss.webp
 # SITES: https://someapp.io
 # SOURCES: https://github.com/name/someapp-appimage
 # BUTTONS: Label_of_Button::https://discord.gg Donation_Link::https://someapp.io/donate
+# SIZE: 12345678
+# REQUIRES: Vulkan libfuse2
