@@ -1,6 +1,58 @@
 # misterdownloadmanager
 ===
- The ultimate open-source, clean-room download manager written from scratch in pure Rust.
+The ultimate open-source, clean-room download manager written from scratch in pure Rust.
+
+## Features
+
+- **Speeds up every download** by fetching parts of the file at the same time, and keeps
+  re-balancing until the last byte.
+- **Resumes** after a crash, a restart or a dropped connection, without starting over.
+- **Site rules**: a User-Agent, extra request headers, a number of connections and "connect the
+  way a browser does" for every download from a site (`*.example.com`). A stopped download's
+  Properties change its own headers, proxy and connections, and MDM checks it is still the same
+  file before it goes on ([how](docs/connections-and-speed.md#site-rules)).
+- **Catches downloads from Firefox, Chrome, Edge, Brave, Opera, Vivaldi and Helium** (the
+  extension is on Firefox Add-ons and the Chrome Web Store), and gives them back to the browser
+  when MDM isn't running. Its toolbar button finds **all the images on a page**, at the largest
+  size the page lists, filtered by size and type, and sends them to the Link grabber; the
+  right-click menu's **Download all links** brings the page's pictures too, hidden until you ask.
+- **Downloads videos** from web pages (a button appears over the video, on many pages before it plays; playlists,
+  subtitles, the sound alone), **image galleries** with gallery-dl, and **torrents and magnet links**
+  (sequential order, RSS feeds, sharing limits, an optional public tracker list for more peers).
+- **Many links at once**: the Link grabber sorts them into packages and extracts the archives
+  (zip, 7z, rar) when they're in. Give it an **FTP folder or a web server's "Index of" page** and it
+  lists every file in it and its subfolders, keeping the folder tree when they download; paste a
+  **Hugging Face model or dataset** or a **GitHub release** and it lists their files, each checked
+  against the digest the site publishes. For a big
+  `.zip` on a server, **Preview** lists the files inside and downloads only the ones you tick. It takes
+  Click'n'Load from link sites, asking once per site, and
+  unwraps `thunder://`, `flashget://` and `qqdl://` links to the address inside them. Debrid accounts (Real-Debrid, AllDebrid, Premiumize, TorBox, Mega-Debrid; experimental) download
+  file-host links through your own account.
+- **Sorts downloads into categories** by file type, each with a folder of its own, or **every
+  download in one folder** if you prefer, the categories still sorting the list
+  ([how](docs/options.md#save-to)).
+- **A list laid out your way**: show, move, resize and sort its columns, **Save To** (the folder
+  each download is in) among them, choose them and their order in the **Columns** window (from
+  the keyboard too), and filter any column ([how](docs/download-list.md)).
+- **Downloads overnight** with queues and a scheduler that can wake the computer, then shuts it
+  down if you like.
+- **Through your VPN only**, if you want: hold every download to one network adapter, with a kill
+  switch, and choose an encrypted DNS. Each download shows its server's country.
+- **From your phone, or on a server**: control MDM from a phone on your home network, or run it
+  without a window on a NAS (Docker, Unraid) ([how](docs/server.md)).
+- **Works from scripts too**: IDM's command-line switches, a command-line tool, and a local API for other programs ([how](docs/command-line.md)).
+- **Works with your AI assistant**: an MCP server lets Claude, Cursor or VS Code list, add, pause and remove your downloads ([set it up](docs/ai-assistants.md)).
+- **Leaves you some speed**: limit one download or all of them, only while you're at the computer.
+- **Stays out of your game**: while a full-screen game, video or presentation is on, or the screen
+  is locked, **Download complete** and MDM's other pop-ups wait, and show when you're back
+  ([how](docs/options.md#downloads)).
+- **Day and dark mode, and themes**: Classic, Native, High contrast, Metro, Adwaita, Breeze,
+  Luna, Aero and Aqua, or your own in a text file ([how](docs/themes.md)). Everything larger, up
+  to 200 %, with **View → Interface size**. 87 languages, and a portable version for USB sticks.
+- **Works from the keyboard and with screen readers** (Narrator, NVDA): every window, dialog and
+  menu ([the keys](docs/keyboard-shortcuts.md)).
+- **No ads, no trial, no account**. Free and open source.
+
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
-# SITES: https://github.com/anefzaoui/misterdownloadmanager
+# SCREENSHOTS: Main_Window::https://misterdownloadmanager.com/assets/screens/main-dark.webp Download_Progress::https://misterdownloadmanager.com/assets/screens/progress-dark.webp Video_Download_Button::https://raw.githubusercontent.com/anefzaoui/misterdownloadmanager/refs/heads/main/docs/images/video-button-youtube.webp Torrent_And_Magnet_Links::https://raw.githubusercontent.com/anefzaoui/misterdownloadmanager/main/docs/images/add-torrent.webp Torrent_Progress::https://raw.githubusercontent.com/anefzaoui/misterdownloadmanager/main/docs/images/progress-torrent.webp Download_Scheduler::https://raw.githubusercontent.com/anefzaoui/misterdownloadmanager/main/docs/images/scheduler.webp
+# SITES: https://misterdownloadmanager.com https://github.com/anefzaoui/misterdownloadmanager
