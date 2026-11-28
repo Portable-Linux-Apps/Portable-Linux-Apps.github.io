@@ -1,0 +1,6 @@
+# nsgo-game-editor
+===
+ A game layer for NSGo apps in Go: a fixed-step loop, input actions, sprites, tilemaps and scenes in 2D first, then 3D..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/nsgo-dev/game

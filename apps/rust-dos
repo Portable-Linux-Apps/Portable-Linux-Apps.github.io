@@ -1,0 +1,6 @@
+# rust-dos
+===
+ A fast DOS and Windows 9x Emulator with VR support, comprehensive sound (SB16, GUS, MT32 etc), graphics (Hercules/CGA/EGA/VGA/SVGA/S3/Voodoo etc.) and networking support, written in Rust..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/dividebysandwich/rust-dos

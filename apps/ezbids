@@ -1,0 +1,6 @@
+# ezbids
+===
+ Neuroscience data to BIDS, from instruments to shared datasets: neurophysiology (EEG, MEG, iEEG, NIRS, EMG), neuroimaging (MRI, PET) and microscopy (OME-Zarr), with a local AI importer that de-identifies data on your computer..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/brainlife/ezbids

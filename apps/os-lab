@@ -1,0 +1,6 @@
+# os-lab
+===
+ Runnable security labs, disk cleanup, and a guarded MCP server in one repository — isolated guests driven by make and labctl, plus installable plugins for Claude, Codex, Cursor, ZCode and Grok.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/keyvanarasteh/os-lab

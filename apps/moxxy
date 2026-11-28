@@ -1,0 +1,6 @@
+# moxxy
+===
+ Block-based, modular agentic loop framework for TypeScript. Swap LLM providers, loop strategies, tools, and frontends as auto-discovered and hot-reloadable plugins. Drive one Session from your terminal, Telegram, or HTTP..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/moxxy-ai/moxxy

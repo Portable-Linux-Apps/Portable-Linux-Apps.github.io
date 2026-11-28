@@ -1,0 +1,6 @@
+# qtscrobbler
+===
+ Qt 6.12 desktop app and CLI that imports listening histories from iPods, MTP players and Audioscrobbler logs, lets you review and edit the tracks, and scrobbles them to Last.fm or Libre.fm. Linux AppImage and Windows ZIP; 99% line coverage and mutation-tested. Fork of the original SourceForge QTScrobbler..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/marcelpetrick/qtscrobbler

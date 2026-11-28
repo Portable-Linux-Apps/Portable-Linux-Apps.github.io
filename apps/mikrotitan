@@ -1,0 +1,6 @@
+# mikrotitan
+===
+ MikroTitan is a dual inference llm interface for running large language models under the janas-llm server or the llama.cpp server ensuring broad compatibility while giving smaller hardware better access to bigger LLMs. run models bigger than your RAM capacity with SSD streaming..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/adonaiongaia/mikrotitan

@@ -1,0 +1,6 @@
+# glossa
+===
+ Fast, small desktop translator: select text anywhere, press a hotkey, read the translation by the cursor. OCR with Google Lens, dictionaries, AI translators, modules in any language. Clean-room successor to QTranslate, in Rust. Windows, macOS, Linux..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/bropines/glossa

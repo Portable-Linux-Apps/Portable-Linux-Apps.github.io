@@ -1,0 +1,6 @@
+# tvbox-desktop
+===
+ A full-featured aligned rewrite of the original tvbox-desktop written in GLM-5.3-Flash, the architecture adopts Tauri 2 + Rust + React 18 + TypeScript, aiming for a smaller installation package, lower memory usage and native packaging for the three platforms.
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/angyuang/tvbox-desktop

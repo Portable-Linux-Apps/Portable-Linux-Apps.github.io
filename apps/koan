@@ -1,0 +1,6 @@
+# koan
+===
+ A bit-perfect music player and OpenSubsonic server in Rust: desktop, iPhone, iPad and Apple TV apps, plus Android, a terminal UI and the web; play on or control any of your devices, UPnP output, per-device EQ and convolution, and an MCP server so assistants can drive your music..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/radiosilence/koan

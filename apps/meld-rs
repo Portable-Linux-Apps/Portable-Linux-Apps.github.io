@@ -1,0 +1,6 @@
+# meld-rs
+===
+ Meld-rs is a complete rewrite of the Meld visual diff and merge tool in Rust using gtk-rs (GTK 4). It provides side-by-side file and directory comparison, 3-way merge, and version control integration (Git, SVN, Mercurial)..
+===
+# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
+# SITES: https://github.com/brandochn/meld-rs
