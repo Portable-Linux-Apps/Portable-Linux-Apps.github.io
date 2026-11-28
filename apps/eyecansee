@@ -1,6 +1,12 @@
-# eyecansee
+# EyeCanSee
 ===
- A viewer and manager for photos, videos, 3D models and CAD drawings, with an image editor, for Linux and Windows, written in Rust: browse, convert, find duplicates, annotate images and cover private data, copy and move between folders, disks, SFTP/FTP servers and Android phones. On Linux: Flatpak, Fedora COPR and AppImage..
+A viewer and manager for photos, videos, 3D models and CAD drawings, with an image editor, for Linux and Windows, written in Rust.
+
+- Browse folders, disks, SFTP/FTP servers and Android phones, with thumbnails.
+- Convert pictures and videos, find duplicates, annotate images and cover private data.
+- Copy and move files between folders, disks, servers and phones.
+
+The AppImage is the official one from the project's GitHub releases, with a minisign signature for every file.
 ===
-# SCREENSHOTS: /contribute_ss.webp /contribute_ss.webp
-# SITES: https://github.com/iosonopiero/eyecansee
+# SCREENSHOTS: Thumbnail_grid::https://eyecansee.montinaro.info/img/grid.webp Viewer::https://eyecansee.montinaro.info/img/viewer.webp 3D_model::https://eyecansee.montinaro.info/img/model-3d.webp CAD_drawing::https://eyecansee.montinaro.info/img/cad-drawing.webp Convert::https://eyecansee.montinaro.info/img/video-convert.webp Phones_and_servers::https://eyecansee.montinaro.info/img/devices.webp
+# SITES: https://eyecansee.montinaro.info https://github.com/IoSonoPiero/eyecansee
